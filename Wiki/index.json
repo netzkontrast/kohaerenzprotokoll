@@ -61,10 +61,11 @@
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
         "aegis-logik-und-erzaehlstruktur",
         "kohaerenz-protokoll-master-integration-md",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 26,
-      "readings": 24,
+      "sources": 27,
+      "readings": 25,
       "conflict": "none"
     },
     "aegis": {
@@ -216,10 +217,11 @@
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 139,
-      "readings": 139,
+      "sources": 140,
+      "readings": 140,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -304,10 +306,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 76,
-      "readings": 76,
+      "sources": 77,
+      "readings": 77,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -372,10 +375,11 @@
         "roman-plot-entwicklung-und-kohaerenz-analyse",
         "kohaerenz-protokoll-master-integration-md",
         "detaillierte-kapiteluebersicht",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 56,
-      "readings": 56,
+      "sources": 57,
+      "readings": 57,
       "conflict": "none"
     },
     "alters": {
@@ -470,10 +474,11 @@
         "narrative-blueprint-the-coherence-protocol",
         "kohaerenz-protokoll-master-integration-md",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 86,
-      "readings": 85,
+      "sources": 87,
+      "readings": 86,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -921,10 +926,11 @@
         "aegis-logik-und-erzaehlstruktur",
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 44,
-      "readings": 44,
+      "sources": 45,
+      "readings": 45,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1064,10 +1070,11 @@
         "kohaerenz-protokoll-narrativer-bauplan",
         "kohaerenz-protokoll-master-integration-md",
         "detaillierte-kapiteluebersicht",
-        "kuerze-rechercheauftrag-die-architektur-der-seel"
+        "kuerze-rechercheauftrag-die-architektur-der-seel",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 41,
-      "readings": 41,
+      "sources": 42,
+      "readings": 42,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1208,10 +1215,11 @@
         "kohaerenz-protokoll-plotideen-extraktion",
         "aegis-logik-und-erzaehlstruktur",
         "kohaerenz-protokoll-master-integration-md",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 90,
-      "readings": 90,
+      "sources": 91,
+      "readings": 91,
       "conflict": "C2"
     },
     "erason": {
@@ -1309,10 +1317,11 @@
         "an-ontological-and-systemic-overview-of-the-coherence-protoc",
         "roman-lokalitaeten-konzept-und-ausarbeitung-2",
         "kohaerenz-protokoll-plot-blueprint-erstellung",
-        "charakterkonzepte-fuer-kohaerenz-protokoll"
+        "charakterkonzepte-fuer-kohaerenz-protokoll",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 43,
-      "readings": 43,
+      "sources": 44,
+      "readings": 44,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1469,10 +1478,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 75,
-      "readings": 74,
+      "sources": 76,
+      "readings": 75,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1716,10 +1726,11 @@
         "narrative-blueprint-the-coherence-protocol",
         "kohaerenz-protokoll-master-integration-md",
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
-        "kuerze-rechercheauftrag-die-architektur-der-seel"
+        "kuerze-rechercheauftrag-die-architektur-der-seel",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 97,
-      "readings": 97,
+      "sources": 98,
+      "readings": 98,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -1974,10 +1985,11 @@
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 128,
-      "readings": 128,
+      "sources": 129,
+      "readings": 129,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2182,10 +2194,11 @@
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 140,
-      "readings": 141,
+      "sources": 141,
+      "readings": 142,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2411,10 +2424,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 104,
-      "readings": 103,
+      "sources": 105,
+      "readings": 104,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2516,10 +2530,11 @@
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 93,
-      "readings": 93,
+      "sources": 94,
+      "readings": 94,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2860,10 +2875,11 @@
         "kohaerenz-protokoll-plotideen-extraktion",
         "kohaerenz-protokoll-narrativer-bauplan",
         "detaillierte-kapiteluebersicht",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 77,
-      "readings": 77,
+      "sources": 78,
+      "readings": 78,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -3017,10 +3033,11 @@
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 96,
-      "readings": 96,
+      "sources": 97,
+      "readings": 97,
       "conflict": "none"
     },
     "lia": {
@@ -3483,10 +3500,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 81,
-      "readings": 81,
+      "sources": 82,
+      "readings": 82,
       "conflict": "none"
     },
     "moros": {
@@ -3718,10 +3736,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 92,
-      "readings": 92,
+      "sources": 93,
+      "readings": 93,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -3867,10 +3886,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 75,
-      "readings": 75,
+      "sources": 76,
+      "readings": 76,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -3986,10 +4006,11 @@
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 94,
-      "readings": 94,
+      "sources": 95,
+      "readings": 95,
       "conflict": "C10"
     },
     "oblivion": {
@@ -4275,10 +4296,11 @@
         "kohaerenz-protokoll-plotideen-generierung",
         "kohaerenz-protokoll-plotideen-extraktion",
         "aegis-logik-und-erzaehlstruktur",
-        "kuerze-rechercheauftrag-die-architektur-der-seel"
+        "kuerze-rechercheauftrag-die-architektur-der-seel",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 22,
-      "readings": 22,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none"
     },
     "residual-echos": {
@@ -4438,10 +4460,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "detaillierte-kapiteluebersicht",
-        "kuerze-rechercheauftrag-die-architektur-der-seel"
+        "kuerze-rechercheauftrag-die-architektur-der-seel",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 73,
-      "readings": 73,
+      "sources": 74,
+      "readings": 74,
       "conflict": "none"
     },
     "risse": {
@@ -4559,10 +4582,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "detaillierte-kapiteluebersicht",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 107,
-      "readings": 107,
+      "sources": 108,
+      "readings": 108,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -4702,10 +4726,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 82,
-      "readings": 82,
+      "sources": 83,
+      "readings": 83,
       "conflict": "none"
     },
     "silas": {
@@ -5157,10 +5182,11 @@
         "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "deconstructing-reality-s-architecture",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 91,
-      "readings": 90,
+      "sources": 92,
+      "readings": 91,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -5256,10 +5282,11 @@
         "kohaerenz-protokoll-plotideen-extraktion",
         "aegis-logik-und-erzaehlstruktur",
         "narrative-blueprint-the-coherence-protocol",
-        "deconstructing-reality-s-architecture"
+        "deconstructing-reality-s-architecture",
+        "romanidee-als-interaktiver-prototyp"
       ],
-      "sources": 72,
-      "readings": 72,
+      "sources": 73,
+      "readings": 73,
       "conflict": "none yet"
     },
     "vergessener-schrein": {

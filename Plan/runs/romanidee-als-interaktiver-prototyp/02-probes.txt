@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      13
+  backslash escapes      16
+  typographic marks      145
+  ascii quotes           94
+
+# inflection families -- one term, several surfaces
+  syste    System, Systembrummen, Systeme, Systemen, Systemfehler, Systemfunktion, Systemic, Systemisch, Systemkollaps, Systems, Systemzustand, Systemzustände
+  spiel    Spiel, Spieler, Spieleraktionen, Spielerentscheidungen, Spielerführung, Spielers, Spielerwahl, Spielphysik, Spielregeln, Spiels, Spielwelt
+  inter    Interaktion, Interaktionen, Interaktive, Interaktiver, Interaktivität, Interface, Interne, Interpretation, Intervention
+  dialo    Dialog, Dialogen, Dialogoption, Dialogoptionen, Dialogsequenz, Dialogwahl, Dialogzeilen
+  desig    Design, Designentscheidungen, Designphilosophie, Designprinzip, Designs, Designteam
+  handl    Handlung, Handlungen, Handlungsfähigkeit, Handlungsmöglichkeiten, Handlungsoptionen, Handlungsvorschlag
+  proto    Protocol, Protokoll, Protokolle, Prototyp, Prototyping, Prototyps
+  konze    Konzepte, Konzepten, Konzeption, Konzeptionelle, Konzeptioneller
+  parad    Paradigmen, Paradox, Paradoxien, Paradoxon, Paradoxons
+  antei    Anteil, Anteile, Anteilen, Anteils
+  archi    Archipel, Architektur, Architekturen, Archivar
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinskomponente, Bewusstseinszustand
+  erinn    Erinnerung, Erinnerungen, Erinnerungsbild, Erinnerungsfragmente
+  erzäh    Erzähler, Erzählstimme, Erzählung, Erzählwelt
+  funkt    Funktion, Funktionale, Funktionalen, Funktionsweise
+  grund    Grund, Grundatmosphäre, Grundlagen, Grundstein
+  heilu    Heilung, Heilungsprozess, Heilungsprozesses, Heilungsstrategien
+  konfl    Konflikt, Konflikte, Konflikten, Konflikts
+  kontr    Kontrolle, Kontrolllogik, Kontrollmethoden, Kontrollwerkzeuge
+  narra    Narration, Narrativ, Narrative, Narrativen
+  proje    Projekt, Projektion, Projektkonzept, Projekts
+  quant    Quantenlogik, Quantenphysik, Quantenverschränkung, Quantifizierung
+  reali    Realisierung, Realität, Realitätsebenen, Realitätskonstitution
+  spezi    Spezialfälle, Spezialisierung, Spezifikationen, Spezifische
+  traum    Trauma, Traumafolgestörung, Traumafolgestörungen, Traumas
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Aktes
+  Akte < Charakter
+  Akte < Charaktere
+  Bild < Weltbild
+  Bild < Bildschirm
+  Bild < Bildschirms
+  Bild < Erinnerungsbild
+  Code < Quellcodes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Keine
+  Eine < Seine
+  Eine < Weinen
+  Eine < Bausteine
+  Eine < Anscheinend
+  Form < Informationen
+  Form < Transformation
+  Form < Kontextinformationen

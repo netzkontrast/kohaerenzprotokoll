@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 162 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 162 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 163 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 163 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -529,7 +529,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kürze: Rechercheauftrag: Die Architektur der Seel...](drive/kuerze-rechercheauftrag-die-architektur-der-seel.md) | 2025-07-30 | 924 | **read** | Genesis 2, Multiplizität 2, Kern-Welten 2, Kohärenz 6, AEGIS 13, Kael 3 | Täterintrojekt 2, Fundament 3, Synthese 2, Fragmentierung 2, Kohärenz-Protokoll 2 |
 | [Narrativ](drive/narrativ.md) | 2025-07-30 | 3,947 |  | Kishōtenketsu 2, Realitätsebenen 4, Cache-Kohärenz 2, Multiplizität 5, DID 4, Konstrukt-Stadt 2, Nyx 4, Kern-Welten 8 | Novelcrafter 4, Codex 7, Digitale Überwelt 2, Prompt Engineering 2, Architekten 2 |
 | [Outline](drive/outline.md) | 2025-07-30 | 5,348 | **read** | Externe Ebene 6, Multiplizität 18, Nexus 2, Rhys 5, Lex 18, LogOS 4, Sophia 2, Argus 2 | Heldenreise 26, See der Tränen 2, AEGIS-Paradoxon 7, Der Innere Bunker 2, Katharsis 5 |
-| [Romanidee als interaktiver Prototyp](drive/romanidee-als-interaktiver-prototyp.md) | 2025-08-05 | 5,995 |  | AEGIS' four sub-functions 2, Multiplizität 7, Realitätsebenen 2, Rhys 4, Kiko 9, Lex 12, Nyx 8, Genesis 2 | NCP 18, Kael-System 10, Narrative Context Protocol 5, Ontologischer Exploit 2, ZTEM 2 |
+| [Romanidee als interaktiver Prototyp](drive/romanidee-als-interaktiver-prototyp.md) | 2025-08-05 | 5,995 | **read** | AEGIS' four sub-functions 2, Multiplizität 7, Realitätsebenen 2, Rhys 4, Kiko 9, Lex 12, Nyx 8, Genesis 2 | NCP 18, Kael-System 10, Narrative Context Protocol 5, Ontologischer Exploit 2, ZTEM 2 |
 | [Finales Exposé (wissenschaftliche Fassung)](drive/finales-expose-wissenschaftliche-fassung.md) | 2025-08-12 | 1,458 |  | Gödel-Gambit 2, Multiplizität 4, Nichts-Rauschen 2, Kohärenz 9, Überwelt 4, Risse 3, Kael 9, AEGIS 20 | Gott 2, System Kael 3, Synthese 5, Fragmentierung 2, Bewusstsein 2 |
 | [Kishōtenketsu für meinen roman - bitte plane ein...](drive/kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md) | 2025-08-15 | 3,965 |  | Kishōtenketsu 2, Möglichkeits-Garten 2, Kairos 3, Gödel-Gambit 2, Multiplizität 5, Mnemosyne 2, Alters 3, Juna 4 | Selbst-Schöpfung 2, Chronos 2, Ketsu 2, Flow 2, Firewalls 2 |
 | [Romanstruktur: Duale Erzählung und Kishōtenketsu](drive/romanstruktur-duale-erzaehlung-und-kishotenketsu.md) | 2025-08-15 | 3,697 | **read** | Kishōtenketsu 12, Rhys 6, LogOS 6, Moros 4, Lex 14, Selene 4, Nyx 9, Juna 10 | Ketsu 16, Anagnorisis 3, Digitale Überwelt 2, ANP-Host 2, Ko-Bewusstsein 2 |

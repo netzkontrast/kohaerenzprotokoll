@@ -1,0 +1,119 @@
+# counts for 95 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            65 word    66 in   [26, 30, 32, 34, 36, 44]
+                                    1      as AEGIS-Agenten
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [58]
+  Kael                             50 word    64 in   [26, 30, 34, 36, 40, 44]
+                                   14      as Kaels
+  System Kael                       7 word     7 in   [40, 44, 106, 108, 123, 124]
+  Nyx                               8 word     8 in   [88, 125, 144, 147, 223, 224]
+  Lex                              12 word    12 in   [125, 144, 147, 148, 180, 206]
+  Kiko                              9 word    12 in   [88, 125, 132, 144, 146, 147]
+                                    3      as Kikos
+  Rhys                              4 word     4 in   [132, 147, 148, 233]
+  Alex                              1 word     1 in   [125]
+  Selene                            1 word     1 in   [191]
+  Juna/V                            9 word    13 in   [66, 70, 74, 76, 84, 88]
+                                    2      as Juna/V-Verbindung
+                                    2      as Juna/Vs
+  Juna/V-Verbindung                 2 word     2 in   [70, 74]
+  Moonshine-Link                    2 word     2 in   [70, 74]
+  Das Fundament                     5 word     5 in   [66, 70, 74, 76]
+  Kernwelten                        8 word     8 in   [60, 74, 84, 86, 131, 179]
+  KW1                              10 word    10 in   [84, 88, 131, 179, 193, 205]
+  KW2                               7 word     7 in   [84, 88, 124, 131, 193, 237]
+  KW3                               2 word     2 in   [84, 179]
+  KW4                               1 word     1 in   [84]
+  Logos-Prime                       2 word     2 in   [84, 241]
+  Mnemosyne-Archipel                2 word     2 in   [84, 251]
+  Cerberus-Labyrinth                1 word     1 in   [84]
+  Kairos-Potentialis                1 word     1 in   [84]
+  Überwelt                          4 word     4 in   [74, 84, 228, 232]
+  Externe Ebene                     1 word     1 in   [84]
+  Konstrukt-Stadt                   1 word     1 in   [201]
+  Risse                            16 word    18 in   [32, 84, 86, 90, 128, 131]
+                                    1      as Rissen
+                                    1      as Risses
+  Riss                              6 word    25 in   [32, 84, 86, 88, 90, 128]  <-- substring
+                                   16      as Risse
+                                    1      as Rissen
+                                    1      as Risses
+                                    1      as Riss-Interaktion
+  Datenriss                         1 word     1 in   [215]
+  Guardians                         2 word     2 in   [128, 129]
+  Guardian                          1 word     3 in   [128, 129, 150]  <-- substring
+                                    2      as Guardians
+  Archivar                          2 word     2 in   [210, 214]
+  Wächter-Programm                  1 word     1 in   [232]
+  Innerer Rat                       2 word     2 in   [191, 298]
+  Inneren Rat                       2 word     2 in   [124, 144]
+  Inneren Konferenzraum             2 word     2 in   [191, 223]
+  Paradoxon der Fehlausgerichteten Kohärenz    2 word     2 in   [32, 58]
+  Nichts Rauschen                   1 word     2 in   [34, 58]
+  funktionale Multiplizität         3 word     3 in   [30, 124, 285]
+  funktionalen Multiplizität        2 word     2 in   [46, 50]
+  Zero Trust Environment Mandate    1 word     1 in   [58]
+  ZTEM                              1 word     2 in   [58, 60]
+                                    1      as ZTEM-Protokoll
+  Recursive Trust Signature Verification    1 word     1 in   [58]
+  RTSV                              1 word     1 in   [58]
+  Systemic Isolation Shield         1 word     1 in   [60]
+  SIS-Protokoll                     1 word     1 in   [60]
+  algorithmische Melancholie        1 word     1 in   [128]
+  Paradoxon X                       1 word     1 in   [128]
+  analytischen Angriff              1 word     1 in   [34]
+  informationstheoretischer Schock    1 word     1 in   [60]
+  Ur-Trauma                         1 word     1 in   [60]
+  ontologischer Exploit             2 word     2 in   [48, 70]
+  Spielphysik                       1 word     1 in   [74]
+  Spiel-Engine                      1 word     1 in   [76]
+  Anziehungsbecken                  1 word     1 in   [70]
+  Anscheinend Normale Persönlichkeitsanteile    1 word     1 in   [44]
+  Emotionale Persönlichkeitsanteile    1 word     1 in   [44]
+  ANPs                              1 word     1 in   [44]
+  EPs                               2 word     2 in   [44, 255]
+  ANP-EP-Phobien                    1 word     1 in   [44]
+  Anteile                          15 word    19 in   [34, 36, 44, 46, 124, 125]
+                                    4      as Anteilen
+  Alters                            1 word     1 in   [44]
+  Ko-Bewusstsein                    1 word     2 in   [124, 125]
+                                    1      as Ko-Bewusstseins
+  Psycho-Architekturen              1 word     1 in   [84]
+  Narrative Context Protocol        5 word     5 in   [94, 98, 106, 118, 273]
+  NCP                              14 word    18 in   [94, 98, 106, 108, 118, 134]
+  Key-Variable-Matrix               3 word     3 in   [112, 118, 273]
+  Kael.System.Cohesion              8 word    10 in   [124, 126, 129, 134, 147, 150]
+                                    2      as Kael.System.Cohesion-Wert
+  Kael.Alter.Dominance              8 word     8 in   [125, 147, 178, 206]
+  Kael.Symptom.Amnesia              2 word     2 in   [124, 126]
+  AEGIS.System.Integrity            4 word     4 in   [128, 131, 149, 284]
+  AEGIS.Intervention.Level          4 word     4 in   [129, 134, 150, 179]
+  World.Stability                   3 word     3 in   [128, 131, 149]
+  World.Stability.Risse             1 word     1 in   [128]
+  JunaV.Connection.Strength         2 word     2 in   [129, 132]
+  Single Source of Truth            1 word     1 in   [106]
+  Interne Verhandlung               1 word     1 in   [191]
+  Riss-Interaktion                  1 word     1 in   [193]
+  Polyphone Prosa                   1 word     1 in   [178]
+  Vulnerablen Narration             1 word     1 in   [296]
+  System-Shutdown                   1 word     1 in   [224]
+  Meta-Wahrnehmung                  1 word     1 in   [284]
+  logischer Kampf                   1 word     1 in   [285]
+  Algorithmic Horror                1 word     1 in   [129]
+  Tertiären Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [44]
+  TSDP                              1 word     1 in   [44]
+  lebenden Gödel-Satz               1 word     1 in   [50]
+  Gödel-Sätzen                      1 word     1 in   [128]
+  dialetheischen Geistes            1 word     1 in   [48]
+  seltsamer Attraktor               1 word     1 in   [70]
+  Quantenverschränkung              1 word     1 in   [70]
+  Environmental Storytelling        3 word     3 in   [84, 179, 274]
+  Gaslighting                       3 word     5 in   [36, 58, 62, 129, 150]
+                                    1      as Gaslighting-Versuchen
+                                    1      as Gaslighting-Versuch
+  Hamartia                          1 word     1 in   [58]
+  autopoietische                    1 word     2 in   [30, 58]
+                                    1      as autopoietisches

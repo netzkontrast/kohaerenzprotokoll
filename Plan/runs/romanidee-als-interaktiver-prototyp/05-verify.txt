@@ -1,0 +1,51 @@
+# verify: every number the census and note state
+$ read.py romanidee-als-interaktiver-prototyp --count "Szenario"
+`Szenario` ^[romanidee-als-interaktiver-prototyp.md:#4]
+$ read.py romanidee-als-interaktiver-prototyp --count "Interaktion"
+`Interaktion` ^[romanidee-als-interaktiver-prototyp.md:#6]
+$ read.py romanidee-als-interaktiver-prototyp --count "Priorität"
+`Priorität` ^[romanidee-als-interaktiver-prototyp.md:#3]
+$ read.py romanidee-als-interaktiver-prototyp --count "funktionale Multiplizität"
+`funktionale Multiplizität` ^[romanidee-als-interaktiver-prototyp.md:#3]
+$ read.py romanidee-als-interaktiver-prototyp --count "funktionalen Multiplizität"
+`funktionalen Multiplizität` ^[romanidee-als-interaktiver-prototyp.md:#2]
+$ read.py romanidee-als-interaktiver-prototyp --count "Nyx"
+`Nyx` ^[romanidee-als-interaktiver-prototyp.md:#8]
+$ read.py romanidee-als-interaktiver-prototyp --count "Lex"
+`Lex` ^[romanidee-als-interaktiver-prototyp.md:#12]
+$ read.py romanidee-als-interaktiver-prototyp --count "Kiko"
+`Kiko` ^[romanidee-als-interaktiver-prototyp.md:#9]
+$ read.py romanidee-als-interaktiver-prototyp --count "Rhys"
+`Rhys` ^[romanidee-als-interaktiver-prototyp.md:#4]
+$ read.py romanidee-als-interaktiver-prototyp --count "Alex"
+`Alex` ^[romanidee-als-interaktiver-prototyp.md:#1]
+$ read.py romanidee-als-interaktiver-prototyp --count "Selene"
+`Selene` ^[romanidee-als-interaktiver-prototyp.md:#1]
+$ read.py romanidee-als-interaktiver-prototyp --count "KW1"
+`KW1` ^[romanidee-als-interaktiver-prototyp.md:#10]
+$ read.py romanidee-als-interaktiver-prototyp --count "KW2"
+`KW2` ^[romanidee-als-interaktiver-prototyp.md:#7]
+$ read.py romanidee-als-interaktiver-prototyp --count "KW3"
+`KW3` ^[romanidee-als-interaktiver-prototyp.md:#2]
+$ read.py romanidee-als-interaktiver-prototyp --count "KW4"
+`KW4` ^[romanidee-als-interaktiver-prototyp.md:#1]
+$ read.py romanidee-als-interaktiver-prototyp --count "Guardians"
+`Guardians` ^[romanidee-als-interaktiver-prototyp.md:#2]
+$ read.py romanidee-als-interaktiver-prototyp --count "Innerer Rat"
+`Innerer Rat` ^[romanidee-als-interaktiver-prototyp.md:#2]
+$ read.py romanidee-als-interaktiver-prototyp --count "Inneren Rat"
+`Inneren Rat` ^[romanidee-als-interaktiver-prototyp.md:#2]
+$ read.py romanidee-als-interaktiver-prototyp --count "Riss"
+`Riss` ^[romanidee-als-interaktiver-prototyp.md:#6]
+$ stance_marker_count = Szenario 4 + Interaktion 6 = 10 (whole word, from the two counts above)
+$ profile (01-profile.txt): glued ref numbers 13, question marks 0, lines 303
+  lines                303  (frontmatter ends at 9)
+  headings             22   bold-only lines 1
+  question marks       0
+  math symbol lines    0
+  glued ref numbers    13
+$ chapters in part III D: Kapitel 1, 3, 7, 13 = four scenes (L201, L210, L219, L228)
+`Kapitel` ^[romanidee-als-interaktiver-prototyp.md:#5]
+$ grep -n "?" body
+0
+$ eleven Anteile and sechs Realitätsebenen are quoted from L44, L84; five named parts = Nyx Lex Kiko Rhys Alex
