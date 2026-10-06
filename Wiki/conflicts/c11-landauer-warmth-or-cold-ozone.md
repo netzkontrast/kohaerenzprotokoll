@@ -504,3 +504,11 @@ Stands on the warmth side, in a synthesis of 2026-04-30; recorded, not applied, 
 The proposal carries the label `Narrative Umsetzungsempfehlung` and rests on the Landauer principle. Its Kap 1–3 drones are proposed to repair a glitch at a cost of energy: „Zeigen Sie, dass die Reparatur“ ^[plot-analyse-und-romanentwicklung.md:L141] needs light and heat. Both are the assistant's proposals, not a chapter's fact.
 
 Stands on the warmth side, with ozone beside it, as a proposal only; recorded, not applied, and the record is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report states the Landauer principle as a „digitale Wärme“ ^[romananalyse-kohaerenz-plot-kritik.md:L31] from AEGIS's deletion, and asks where that heat accumulates; it knows no cold and no ozone.**
+
+As its account of the manuscript's world-building: erasing information raises thermodynamic entropy, and AEGIS's „ständiger Kampf gegen die informationelle Unordnung“ ^[romananalyse-kohaerenz-plot-kritik.md:L31] generates the digital heat that breaks down the system. In its closing questions it asks: „wo akkumuliert sich diese Energie innerhalb der Kernwelten?“ ^[romananalyse-kohaerenz-plot-kritik.md:L169]. The word `Ozon` ^[romananalyse-kohaerenz-plot-kritik.md:#0] does not stand in the report (a count), and it names no chapter for the heat.
+
+Stands on the warmth side, as an account of other documents dated 2026-02-23; recorded, not applied, and the record's rows are not changed.
