@@ -722,3 +722,13 @@ Stands as this document's claimed roster and world list, recorded and not applie
 It speaks as AEGIS: the Gatekeeper „has instantiated four specialized, operationally isolated simulation environments designated as the Kernwelten (Core Worlds)“ ^[aegis-manifest-genesis-krise-reboot.md:L69]. The fragments are named in one sentence — „other anomalies designated as Nyx, Juna/V, Kiko, Moros, Selene, and Lex“ ^[aegis-manifest-genesis-krise-reboot.md:L67] beside Kael — and the table assigns them by type: „ANP Fragments (Lex, Kael-Logic)“ ^[aegis-manifest-genesis-krise-reboot.md:L100] to KW1, „EP Fragments (Kiko, Moros)“ ^[aegis-manifest-genesis-krise-reboot.md:L101] to KW2, „Defensive Fragments (Nyx)“ ^[aegis-manifest-genesis-krise-reboot.md:L102] to KW3 and „Emergent Anomalies (Selene, Juna/V)“ ^[aegis-manifest-genesis-krise-reboot.md:L103] to KW4.
 
 Where it stands in the record's own terms: four worlds, a type per world, no one-part-per-world pairing; recorded as AEGIS's classification, not decided.
+
+## 2026-10-06 — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts
+
+**The character concepts propose four Kern-Welten and a list of alters with one primary world each, several marked with a question mark.**
+
+The paper names the four worlds: „Die Struktur der vier Kern-Welten (Konstrukt-Stadt, Resonanz-Landschaft, Grenzfeste, Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L30] mirrors Kael's system. It says the worlds are not loosely associated with alters but are „ökologischen Manifestationen spezifischer Cluster von Alters“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L30], so it reads the worlds as clusters of alters, not one to one. Kael's journey „Seine Reise führt ihn durch alle vier Kern-Welten“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L66].
+
+The alters come from a reviewed list (L218), and the closing table „Tabelle: Übersicht über Kaels Alters“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L497] gives each a „Primärer Kern-Welt Link“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L501]: Limina, Eos and Index carry a question mark (L503, L507, L510), as does Silas (L511), and Oblivion is given two worlds, `KW2 (isoliert)/ KW3` ^[L508]. Silas's profile itself names two candidates (L491). Several worlds hold more than one alter in this table; the paper does not state a count of alters per world.
+
+Where it stands: the record's count question is answered by proposal only — four worlds named and a hedged assignment table; the correspondence of one world to one alter is not asserted, and the paper reads the worlds as clusters of alters.
