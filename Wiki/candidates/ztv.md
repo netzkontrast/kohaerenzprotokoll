@@ -1,10 +1,10 @@
 ---
 term: ZTV — Vertrauenlose Validierung
 status: candidate
-sources: 1
+sources: 2
 readings: 1
 conflict: none yet
-ingested: ["aegis-emergenz-aus-der-leere"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-plotideen-extraktion"]
 gathered: "2026-09-16"
 ---
 
@@ -32,6 +32,10 @@ It risks solipsism: internal consistency is no guarantee of truth.
 **Not in the corpus.** This source quotes and analyses a document that is not
 among the 346 landed, so the claims above exist only as restated by a critic.
 Nothing can be checked against an original.
+
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — one name inside AEGIS's philosophy of trustlessness
+
+The concept extraction names ZTV once, in the sentence on AEGIS's core aim, as part of a philosophy that stresses trustlessness: „Zero Trust Verification, ZTV“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L57]. The sentence gives the name and its expansion and nothing more about it; no protocol description follows here.
 
 ## Open
 
