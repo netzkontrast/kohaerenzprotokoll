@@ -233,3 +233,11 @@ Stands with the record's positions 1 and 3 (KW1), dated 2025-05-02; recorded, no
 Its table row reads „KW1: Konstrukt-Stadt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186], and the key place „Kaels Wohneinheit (KW1)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L263] lies „innerhalb der Konstrukt-Stadt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L265]. The other worlds stand beside it as KW2 to KW4, so the city is one of four.
 
 Stands with the record's positions 1 and 3 (KW1), dated 2025-04-18; recorded, not applied.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept writes the Konstrukt-Stadt as KW1 only.**
+
+Its table row reads „KW1: Konstrukt-Stadt“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L119], its section „Kern-Welt 1: Konstrukt-Stadt (LogOS)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L126], and the first key place is set in „der Konstrukt-Stadt (KW1)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L218]. The other worlds stand beside it as KW2 to KW4, so the city is one of four.
+
+Stands with the record's positions 1 and 3 (KW1), dated 2025-04-18; recorded, not applied.

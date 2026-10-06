@@ -1,0 +1,14 @@
+# roman-lokalitaeten-konzept-und-ausarbeitung-2
+  lines                389  (frontmatter ends at 9)
+  body words           12475
+  headings             20   bold-only lines 17
+  table rows           9   code fences 0
+  question marks       37
+  backslash escapes    109
+  typographic marks    46   ascii quotes 302
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    48
+  repeated labels      Atmosphäre & Stimmung x7, Charakter/Plot x7, Design x7, Konzeptueller Kern x7, Manifestation von "Rissen"/Entropie x7, Regeln & Funktionsweise x7, Sensorik/Atmosphäre x7, Sensorische Details x7, Spezifische Landmarken/Sub-Zonen x7, Verbindung zu Charakteren/Plot x7, Visuelle Ästhetik x7, Zweck/Funktion x7
+  longest line         11457 chars
+
