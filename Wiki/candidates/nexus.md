@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation"]
 gathered: "2026-09-17"
 ---
 
@@ -36,6 +36,10 @@ instances open `Im Überraum…`**. `Nexus` 11 occurrences, `Überraum` 5.
 The pattern is too regular to be accident — a field name in one vocabulary,
 filled in another. **The document never states they are one space.** Kept as two
 pages and cross-referenced rather than merged: J18.
+
+## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — the Nexus as an interface place in KW4; a Firewall-Nexus in the Überwelt
+
+As a whole word `Nexus` ^[lokalitaeten-konzept-fuer-roman-simulation.md:#1] stands in the document; the compounds below are its other uses. Two senses. In the fourth world, the Nexus is a place: „Die Nexus-Schnittstelle (ein zentraler Ort des Zugangs zu Wissen/Verbindungen)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L233], and a key location is headed „Nexus-Interface Garten (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L296], described as „Ein spezifischer Ort innerhalb des Möglichkeits-Gartens (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L298]. In the Überwelt, the name belongs to a hub of Cerberus: „Cerberus' Firewall-Nexus“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L244]. The concept does not relate the two, and does not equate the Nexus with the Überwelt.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — the search for the Nexus, and its place beside AEGIS' Überwelt
 
