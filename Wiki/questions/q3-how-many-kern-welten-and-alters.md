@@ -750,3 +750,13 @@ Alters: its first part, under „Kael's Internal System: Primary Alters“ ^[nar
 Worlds: the first part has the story begin in „the simulated Kernwelten (Core Worlds)“ ^[narrative-blueprint-the-coherence-protocol.md:L121]; its Act 1 names KW1 as Logos-Prime (L121). The beat sheet puts KW2 as Mnemosyne-Archipel (L363), KW3 as Cerberus-Labyrinth (L365) and KW4 as Kairos-Potentialis (L368). The blueprint draws no correspondence between a world and an alter.
 
 Stands as one more roster of eleven alters in two typings and four worlds, dated 2025-10-15; recorded, not settling Q3.
+
+## 2026-10-06 — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration
+
+**The master integration labels its alter list canonical at 11 core figures, notes in its open questions that its sources diverge between 11 and 13, and writes four Kernwelten plus Archiv Theta-9.**
+
+Its roster is headed „Die Alter-Liste (kanonisch: 11 Kernfiguren)“ ^[kohaerenz-protokoll-master-integration-md.md:L168]; `kanonisch` is the document's own label (it also calls itself the canonical reference, L413). Its last part, the prioritised open questions, says „Die Quellen divergieren: 11 vs. 13 Alters.“ ^[kohaerenz-protokoll-master-integration-md.md:L389] and names the task „Alter-Liste finalisieren“ ^[kohaerenz-protokoll-master-integration-md.md:L388], with variant names (Rhys/Elara, Aris/Architect, Mina/Selene, Lyra/Lia, L389).
+
+For the worlds it writes „Die Vier Kernwelten (Psycho-Architekturen)“ ^[kohaerenz-protokoll-master-integration-md.md:L217], and adds as its own DKT addition „Archiv Theta-9 (NEU durch DKT)“ ^[kohaerenz-protokoll-master-integration-md.md:L249]. It also ties worlds to alters: KW1 is „Psychologischer Zustand: ANP / Vermeidung (Domäne von Lex und Kael)“ ^[kohaerenz-protokoll-master-integration-md.md:L222], KW3 „Domäne von Nyx und Protektoren“ ^[kohaerenz-protokoll-master-integration-md.md:L236] and KW4 „Domäne von Selene/Elara“ ^[kohaerenz-protokoll-master-integration-md.md:L243].
+
+Stands: the document records both counts inside itself, 11 as canonical and 11 vs. 13 as open, and names four Kernwelten with Archiv Theta-9 beside them; it ties some worlds to named alters but does not settle which alters belong to the list.
