@@ -1,0 +1,215 @@
+{
+  "document": "konzept-und-story-fuer-den-roman-kohaerenz-protokoll",
+  "drive_id": "1ewirSX3l264pw0jVndfJMhKz-yqa9KMo9njJSddtMGE",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 47,
+  "backslash_escapes": 0,
+  "typographic_marks": 9,
+  "ascii_quotes": 38,
+  "inflection_families": {
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollstrukturen",
+      "Kontrollverlust",
+      "Kontrollversuche"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konflikts"
+    ],
+    "syste": [
+      "System",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systems"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschnitt",
+      "Abschottung"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropiemanagement"
+    ],
+    "erinn": [
+      "Erinnerungen",
+      "Erinnerungsfetzen",
+      "Erinnerungsfragmente"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegensätzen",
+      "Gegenteil"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsziel",
+      "Integrity"
+    ],
+    "inter": [
+      "Interaktionen",
+      "Intervention",
+      "Interventionen"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "parad": [
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwelt",
+      "Überwindung"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen"
+    ],
+    "alter": [
+      "Alternative",
+      "Alters"
+    ],
+    "analy": [
+      "Analyse",
+      "Analytiker"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstwerdung"
+    ],
+    "blind": [
+      "Blinde",
+      "Blindheit"
+    ],
+    "domän": [
+      "Domäne",
+      "Domänen"
+    ],
+    "emoti": [
+      "Emotionalität",
+      "Emotionen"
+    ],
+    "entit": [
+      "Entität",
+      "Entitäten"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entschlüsselung"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählung"
+    ],
+    "frage": [
+      "Frage",
+      "Fragen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Meilensteine"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernparadoxon"
+    ],
+    [
+      "Kiko",
+      "Kikos"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ],
+    [
+      "Plan",
+      "Plans"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Tanz",
+      "Akzeptanz"
+    ]
+  ]
+}

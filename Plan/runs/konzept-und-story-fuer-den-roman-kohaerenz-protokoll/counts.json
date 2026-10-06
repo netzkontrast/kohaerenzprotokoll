@@ -1,0 +1,767 @@
+{
+  "document": "konzept-und-story-fuer-den-roman-kohaerenz-protokoll",
+  "drive_id": "1ewirSX3l264pw0jVndfJMhKz-yqa9KMo9njJSddtMGE",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        13,
+        17,
+        86
+      ]
+    },
+    "Kael": {
+      "n": 38,
+      "n_including_compounds": 59,
+      "lines": [
+        13,
+        17,
+        19,
+        23,
+        25,
+        26,
+        27,
+        29,
+        30,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        59,
+        61,
+        62,
+        63,
+        65,
+        66,
+        67,
+        68,
+        69,
+        71,
+        72,
+        73,
+        77,
+        79,
+        80,
+        81,
+        82
+      ]
+    },
+    "System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "AEGIS": {
+      "n": 47,
+      "n_including_compounds": 48,
+      "lines": [
+        13,
+        17,
+        19,
+        25,
+        26,
+        27,
+        32,
+        33,
+        35,
+        41,
+        43,
+        44,
+        46,
+        47,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        59,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        69,
+        70,
+        71,
+        78,
+        79,
+        80,
+        82
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems (AEGIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kohärenz": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        13,
+        17,
+        37,
+        46,
+        65,
+        70,
+        86
+      ]
+    },
+    "Entropie": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        35,
+        46,
+        49,
+        65,
+        82
+      ]
+    },
+    "Juna/V": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        17,
+        45,
+        51,
+        54,
+        61,
+        64,
+        66,
+        73,
+        80
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        25
+      ]
+    },
+    "Host-Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        77
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        53,
+        62,
+        72
+      ]
+    },
+    "Simulation": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        13,
+        17,
+        25,
+        35,
+        36,
+        41,
+        47,
+        48,
+        53,
+        66,
+        84
+      ]
+    },
+    "Kernwelten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        44,
+        50,
+        66,
+        79
+      ]
+    },
+    "KW1": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        50
+      ]
+    },
+    "KW2": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        30,
+        31
+      ]
+    },
+    "KW3": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        27,
+        33,
+        50
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        26
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29
+      ]
+    },
+    "Grenzfeste": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33
+      ]
+    },
+    "Überwelt": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        44,
+        45,
+        61,
+        79
+      ]
+    },
+    "Digitalen Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Externe Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        80
+      ]
+    },
+    "Fundament": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        64,
+        69,
+        73,
+        80,
+        81
+      ]
+    },
+    "Guardians": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        52,
+        78
+      ]
+    },
+    "Guardian KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Guardian KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Guardian KW3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        33
+      ]
+    },
+    "LogOS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        32,
+        45
+      ]
+    },
+    "Mnemosyne": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        30,
+        32,
+        45
+      ]
+    },
+    "Cerberus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        33,
+        45
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Lex": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        26,
+        27,
+        31,
+        34,
+        35,
+        44,
+        46,
+        77
+      ]
+    },
+    "Lex/Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Alex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        31,
+        33
+      ]
+    },
+    "Rhys": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        28,
+        31,
+        34,
+        77
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        30,
+        77
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Selene": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Analytiker ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Protektor ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Pfleger ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "ANP": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        26,
+        27,
+        28,
+        30,
+        31,
+        34
+      ]
+    },
+    "EP": {
+      "n": 0,
+      "n_including_compounds": 7,
+      "lines": [
+        28,
+        30,
+        31,
+        34,
+        35,
+        37
+      ]
+    },
+    "EPs": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        28,
+        30,
+        31,
+        34,
+        35
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Anteile": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        34,
+        37
+      ]
+    },
+    "Phobien": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        31,
+        34,
+        77
+      ]
+    },
+    "ANP-EP Phobien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Glitches": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        25,
+        26,
+        32,
+        36,
+        43
+      ]
+    },
+    "Glitch": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        25,
+        26,
+        32,
+        36,
+        43,
+        83
+      ]
+    },
+    "Riss": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        35,
+        36,
+        43,
+        82
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        43,
+        82
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Blinde Flecken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        78
+      ]
+    },
+    "Gaslighting": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        52
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Intrusionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Flashbacks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "dissoziative Amnesie": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Zyklen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        47
+      ]
+    },
+    "Resets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Opferpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Elixier": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Heroine's Journey": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Hero's Journey": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Meta-Exploration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Unzuverlässiger Erzähler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Unzuverlässige Erzähler-Trope": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Tropen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83
+      ]
+    },
+    "Kosmischer Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Psychologischer Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Hard Science-Fiction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Gehirn im Tank": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Apotheose/Transformation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    }
+  }
+}

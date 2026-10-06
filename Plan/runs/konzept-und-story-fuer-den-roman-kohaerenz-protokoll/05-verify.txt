@@ -1,0 +1,90 @@
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     45
+whole word, case-insensitive   45
+including compounds            45
+
+`Kapitel` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#45]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "möglicherweise"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`möglicherweise` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "vielleicht"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`vielleicht` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "könnte"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`könnte` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "Heroine's Journey"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Heroine's Journey` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "Meta-Exploration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Meta-Exploration` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "Hero's Journey"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hero's Journey` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "dissoziative Amnesie"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`dissoziative Amnesie` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "dissoziativen Amnesie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`dissoziativen Amnesie` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "EP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            7
+
+`EP` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "EPs"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`EPs` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "Selene"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Selene` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "Selenes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selenes` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll --count "Kohärenz"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Kohärenz` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll.md:#9]
+$ grep -c "?" 
+35:  - **Kapitel 11: Der erste Riss:** K
+36:  - **Kapitel 12: Die Frage nach dem 
+48:  - **Kapitel 19: Natur der Mauern:**
+stance_marker_count 3 = 1+1+1 (Heroine's Journey, Meta-Exploration, Hero's Journey)
+parts: 13+13+13 chapters = 39, from headings L21 (1-13), L39 (14-26), L57 (27-39)

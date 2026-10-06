@@ -1,0 +1,87 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Kohärenz Protokoll
+- Kael
+- System Kael
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems (AEGIS)
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Kohärenz
+- Entropie
+- Juna/V
+- Host
+- Host-Anteil
+- Tertiäre Strukturelle Dissoziation
+- TSDP
+- funktionale Multiplizität
+- Simulation
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Überwelt
+- Digitalen Überwelt
+- Externe Ebene
+- Fundament
+- Guardians
+- Guardian KW1
+- Guardian KW2
+- Guardian KW3
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Lex
+- Lex/Argus
+- Argus
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Selene
+- Analytiker ANP
+- Protektor ANP
+- Pfleger ANP
+- ANP
+- EP
+- EPs
+- Alters
+- Anteile
+- Phobien
+- ANP-EP Phobien
+- Glitches
+- Glitch
+- Riss
+- Risse
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Blinde Flecken
+- Gaslighting
+- Ko-Bewusstsein
+- Intrusionen
+- Flashbacks
+- dissoziative Amnesie
+- Zyklen
+- Resets
+- Opferpunkt
+- Elixier
+
+## lens
+
+- Heroine's Journey
+- Hero's Journey
+- Meta-Exploration
+- Unzuverlässiger Erzähler
+- Unzuverlässige Erzähler-Trope
+- Tropen
+- Kosmischer Horror
+- Psychologischer Horror
+- Hard Science-Fiction
+- Gehirn im Tank
+- Apotheose/Transformation
+
+The document is a chapter-by-chapter outline in three parts with a closing section on themes. It is German with ASCII straight quotes around its own coinages. No speaker is named other than the document itself. Chapter titles are not listed as candidates. Kap. 2 appears as an inner reference at the end of the Kapitel 6 entry.
