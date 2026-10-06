@@ -158,3 +158,11 @@ Stands: a seventh row beyond/not-outside is not decided; the report's wording `d
 **A reality outside AEGIS's control, nature unknown.**
 Section 6: „Realität außerhalb von AEGIS' Kontrolle; verbunden mit Juna; Natur unbekannt, aber im Kontrast zur Simulation“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133]. Its laws: „Unbekannt; basieren nicht auf AEGIS-Logik; potenziell auf Empathie, Bewusstsein, Resonanz, Nichtlokalität.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144]
 It places the Externe Ebene beyond the simulation, hedged with `potenziell`; the conflict stays open.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis has the Spiegel-Effekt in Kapitel 36 export the simulation's data into the reader's physical reality, named „Köln 2026“ ^[romanprojekt-analyse-synthese.md:L62].**
+
+The line reads: „in Kapitel 36 durchbricht die vierte Wand“ ^[romanprojekt-analyse-synthese.md:L62]. The effect „exportiert die Daten der Simulation symbolisch in die physikalische Realität des Lesers“ ^[romanprojekt-analyse-synthese.md:L62]. The document does not use the name `Externe Ebene` ^[romanprojekt-analyse-synthese.md:#0] and does not say that this reality lies beyond or outside AEGIS's simulation; it says the data are exported into it, symbolically. In the same finale Kael recognises „dass er nicht nur ein Bewohner der Simulation ist, sondern das System selbst“ ^[romanprojekt-analyse-synthese.md:L62].
+
+Stands as a physical reality of the reader, Köln 2026, reached by export and not by a break-through, without the record's name; recorded, not applied, and the record is not changed.
