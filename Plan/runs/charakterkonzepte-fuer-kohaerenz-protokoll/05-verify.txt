@@ -1,0 +1,141 @@
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Zweck des Dokuments"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zweck des Dokuments` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Sensibilitätshinweis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sensibilitätshinweis` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Darstellungshinweis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Darstellungshinweis` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Kernaussagen der Recherche"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernaussagen der Recherche` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Anwendung auf"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Anwendung auf` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Rein spekulativ"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rein spekulativ` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "oder ähnlich"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`oder ähnlich` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#10]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Kohärenz Protokoll"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kohärenz Protokoll` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Zero-Trust-Protokolle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zero-Trust-Protokolle` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Therapeut-Konstrukt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Therapeut-Konstrukt` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Guardians` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#22]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Kontext Pt"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Kontext Pt` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#20]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Welten-Link"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Welten-Link` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#25]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Zugriff am"
+whole word, case-sensitive     65
+whole word, case-insensitive   65
+including compounds            65
+
+`Zugriff am` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#65]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Externe Ebene"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Externe Ebene` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Externen Ebene"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Externen Ebene` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#9]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Finaler Name"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Finaler Name` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#11]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Seele=Info"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Seele=Info` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Kernprogrammierung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernprogrammierung` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Heldenreise"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Heldenreise` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Persecutor"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            12
+
+`Persecutor` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Sophia"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Sophia` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py charakterkonzepte-fuer-kohaerenz-protokoll --count "Index"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Index` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:#8]
+
+# stance_marker_count: 1 (Zweck des Dokuments) + 1 (Sensibilitätshinweis) + 1 (Darstellungshinweis) + 3 (Kernaussagen der Recherche) + 2 (Anwendung auf) + 1 (Rein spekulativ) + 10 (oder ähnlich) = 19, each from the --count runs above.
+# Structural numbers in prose taken from the document's own headings, not counted: "10 Profile" (L235), "Auswahl von 11" (L524), "Die fünf Guardians" (L150), four parts Teil I to IV (L21, L211, L513, L652).

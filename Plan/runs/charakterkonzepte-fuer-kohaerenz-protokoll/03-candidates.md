@@ -1,0 +1,106 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is a German character-concept paper for the novel; its body ends mid-word at L700 ("Bew"), so the philosophy section and everything after it is lost to the export, and L704 onward is a numbered reference list of web sources. Each profile carries repeated template labels (Ziele, Motivationen, Ängste, Bedürfnisse, Weltbild, Blinder Fleck, Beziehungen, Welten-Link, Themen-Link, Arc-Potenzial); these are left off the list as the template, except Blinder Fleck, which the document marks and uses as a concept. Kern-Welten are written with KW1 to KW4 as abbreviations. The nine proposed names for minor figures are each given "oder ähnlich" and are listed as the document writes them. Two surfaces, Externe Ebene and Externen Ebene, stand for one thing; only the first is listed.
+
+## world
+- Kael
+- Juna
+- AEGIS
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeiten-Garten
+- Kern-Welten
+- KW1
+- KW2
+- KW3
+- KW4
+- Überwelt
+- Externe Ebene
+- universal reboot
+- Risse
+- Kohärenz Protokoll
+- Seele=Info
+- Zero-Trust-Protokolle
+- Gesamtsystem
+- Latente Multiplizität
+- funktionale Multiplizität
+- Alters
+- Host
+- Limina
+- Nox
+- Echo
+- Flicker
+- Eos
+- Oblivion
+- Praetor
+- Index
+- Silas
+- Therapeut-Konstrukt
+- Aris Thorne
+- Herr Jansen
+- Der 'Normale' Nachbar
+- Einheit 734
+- Regel-Exekutor
+- Trauma-Symbolfigur
+- Das Schattenkind
+- Der Weinende Mann
+- Das Schattenkind / Der Weinende Mann
+- Der Archivar
+- Chronos
+- Der Grenzwärter
+- Terminus
+- Das Orakel der Möglichkeiten
+- Sibyl
+- Der Daten-Parasit
+- Leech
+- Glitchwyrm
+- Leech / Glitchwyrm
+- Junas Fragment
+- Lichtfunke
+- Echo / Lichtfunke
+- Die Stimme aus dem Rauschen
+- Cassian
+- Blinder Fleck
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Das Entropie-Torwächter-Protokoll
+- Die Enigmatische Katalysatorin
+- Der Suchende
+- Entropie
+
+## roles and terms the document uses as its own
+- Gatekeeper
+- Protector
+- Persecutor
+- Caretaker
+- Child Alter
+- Internal Self-Helper
+- Trauma-Halter
+- Anscheinend Normale Persönlichkeitsanteile
+- ANPs
+- ANP
+- Emotionale Persönlichkeitsanteile
+- Co-Bewusstsein
+- Intrusionen
+- Fronten
+- Switching
+- Dissoziative Identitätsstörung
+- DID
+- Freeze Response
+- Hypervigilanz
+- Grooming
+
+## lens
+- Heldenreise
+- Theorie der strukturellen Dissoziation
+- Ashby's Law of Requisite Variety
+- requisite variety
+- Homöostase
+- negativen Feedbackloops
+- John Locke
