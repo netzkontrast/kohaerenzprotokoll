@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,12 @@ gathered: "2026-09-24"
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the metaphor named directly, for the gaps in Kael's own memory
 
 The earliest read source, and the one that names the metaphor in so many words rather than only using its vocabulary. Kael notices pieces of his own timeline missing and reaches for the image himself: „Die Cache-Kohärenz-Metapher drängte sich auf, auch wenn er sie nicht bewusst formulieren konnte. Seine inneren "Caches" waren inkonsistent." ^[kohaerenz-protokoll.md:L304] The same sentence ties the failure to the partitioning that caused it: „Die Partitionierung hatte nicht nur einen Teil seines Fühlens und seiner Intuition abgetrennt, sondern auch die Verbindung zwischen seinen Erinnerungen gestört." ^[kohaerenz-protokoll.md:L304] (see [[trennungsprotokoll|Trennungsprotokoll]]). It states no ANP or EP by name (`ANP`, `EP` 0; `grep -cw`), so the metaphor here is Kael's own, felt as amnesia and inconsistent inner „Caches", before the later canon-era sources give it the multi-processor architecture and the two-part model.
+
+## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — the Cache Kohärenz problem as a source of persona conflict
+
+The character architecture names the problem as the central narrative challenge: „Die zentrale narrative Herausforderung liegt in der glaubwürdigen Darstellung von Kaels fragmentierter Identität“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L17], naming the fragmentation problem in the same line by the name `Cache Kohärenz`. It gives the problem its own conflict section, headed „Cache Kohärenz als Konflikt (Der Fragmentierungs-Effekt)“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L257].
+
+The report ties it to wrong-persona landings: when Kael lands in an unsuitable world with the wrong persona, it „führt dies unweigerlich zu Konflikten und potenziellen System-“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142] tears. The Pressure-Point matrix carries it as a row, `PP-CCH-01`, with the entry „Fähigkeiten-Fehlanpassung bei Wechsel“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L303].
 
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 
