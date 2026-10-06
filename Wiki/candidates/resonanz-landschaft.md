@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 23
-readings: 23
+sources: 28
+readings: 28
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -52,6 +52,10 @@ each section is a `Guardian/Welt-Paar`.
 
 Section 2 is headed „Resonanz-Landschaft (Guardian: Mnemosyne)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L41]. Its core: „Verkörpert Kaels Emotionen, (traumatische) Erinnerungen, Subjektivität, Empathie und das Unbewusste (EP-Funktionen). Eine fließende Trauma-Landschaft.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L43]
 
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — KW2 as McL, marked an interpretation
+
+The Erlebniswelten concept lists `Resonanz-Landschaft` as KW2, with `Mnemosyne` in brackets, paired with `McL` (McLaughlin-Gruppe), focus „Fokus auf Netzwerke, Verbindungen, emotionale Resonanz, Erinnerung“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18], and marks the line „Interpretation im Romankontext“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18]. For Kael this world is „Überfordernd, die emotionale Intensität bedroht seine Kontrolle“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L32].
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — a chapter title, not a glossary entry
 
 The commission's glossary names the second world `Mnemosyne-Archipel`; `Resonanz-Landschaft` stands in the title of Chapter 5, „Der Ruf der Resonanz-Landschaft“ ^[kontext-outline.md:L120], whose core theme is „Konfrontation mit unterdrückter Emotionalität“ ^[kontext-outline.md:L122]. The briefing does not equate the two names.
@@ -70,6 +74,10 @@ A light pass: the outline restates `scifi-roman-mit-ki-schreiben`, its only name
 
 The outline makes KW2 „eine fluide, instabile und emotional reaktive“ ^[roman-outline-system-kael.md:L80] trauma landscape, „surreal und melancholisch“ ^[roman-outline-system-kael.md:L80]; its sound is „Echos, Flüstern und unterdrücktem Weinen“ ^[roman-outline-system-kael.md:L82], and the surroundings hold Kael „in schmerzhaften Trauma-Loops gefangen“ ^[roman-outline-system-kael.md:L82].
 
+## Reading — `welt`, 2025-07-29, the Welt blueprint — KW2 as the trauma landscape of the EPs
+
+The Welt blueprint calls the second Kernwelt `Mnemosyne-Archipel` in the first pass (L45) and `Mnemosyne-Archipel / Resonanz-Landschaft` in the second (L96). First pass (L47): „Dies ist die Domäne der EPs (Emotionale Persönlichkeitsanteile), eine Trauma-Landschaft der Fluidität“ ^[welt.md:L47]; there „Kael sucht hier nach Wahrheit in den Mnemosyne-Archiven“ ^[welt.md:L47], and meets censorship and Risse. Second pass (L98–L99): „Diese chaotische Welt ist der Bereich von Emotionen, Erinnerungen und Trauma“ ^[welt.md:L98]; „Sie kann als Wald oder Ruinenlandschaft erscheinen“ ^[welt.md:L99]. The first pass hedges the look (`möglicherweise`, L48), the second states it.
+
 ## Reading — `outline`, 2025-07-30, the outline — Resonanz-Landschaft as KW2's name
 
 Teil 2's section IV names `KW2` `Resonanz-Landschaft` and its Mnemosyne, and says „Diese chaotische, emotions- und erinnerungsbasierte Welt wird zum Schauplatz intensiver Trauma-Verarbeitung.“ ^[outline.md:L131] (L131).
@@ -81,6 +89,18 @@ The blueprint's heading glosses the world: „KW2: Mnemosyne-Archipel (The Reson
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — KW2, written Mnemosyne-Archipel / Resonanz-Landschaft
 
 The second Core World is written „KW2: Mnemosyne-Archipel / Resonanz-Landschaft“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97]. Its principle is „Trauma & Emotional Memory (EPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97], its sensory signature „Fluid, decaying, resonant, fragmented“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97], and its somatic truth „The body speaking the unfiltered, pre-verbal language of trauma and its true contradictions.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97]
+
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — row 2 of the table and a world that reacts to emotions
+
+**Proposes.** The table (L71) gives row 2 to Mnemosyne, with Manager & Caretaker as IFS category, Silas and Eos as Alters, and the function „Versuch der emotionalen Regulation und Bindung“ ^[plot-analyse-und-romanentwicklung.md:L71]. It proposes that Kael meets the second Kern-Welt: „Erst wenn Kael in die zweite Kern-Welt“ ^[plot-analyse-und-romanentwicklung.md:L53], and only there should the emotional barriers give way. For Kap 4–6 it writes „Die Resonanz-Landschaft reagiert auf Emotionen“ ^[plot-analyse-und-romanentwicklung.md:L143], and calls the world `McL-Welt` (L143), proposing that the Alter Echo's fear bring rain or fog.
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the second Kernwelt: McL, the EPs and trauma
+
+The Leitfragen report (an analyst's review) places the EPs in the Resonanz-Landschaft as „Welt 2“ — in its words, „Resonanz-Landschaft (Welt 2)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L48] — as its account of the project's documents. Its table row reads „Resonanz-Landschaft (McL)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93], with „EPs, Trauma, Subjektivität“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93], the Guardian Mnemosyne, the paradigm „McLaughlin-Graph, Relationalität“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93] and, for the transition, „Kaskadierender Glitch“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93] under the heading of an open mechanism. The report asks and settles nothing.
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — KW2, dreamlike and fog-bound, with Mnemosyne
+
+The report's table gives KW2, the `Resonanz-Landschaft`, the aesthetics „Nicht-linear, traumgleich, neblig.“ ^[romananalyse-kohaerenz-plot-kritik.md:L57] and says „Die Landschaft reagiert direkt auf dominante Emotionen und Erinnerungen.“ ^[romananalyse-kohaerenz-plot-kritik.md:L57]; its Guardian is Mnemosyne. In its recommendations the report wants the first glitch to be a „sensorischer Einbruch aus der Resonanz-Landschaft“ ^[romananalyse-kohaerenz-plot-kritik.md:L152] placed earlier (L152).
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the row KW2 Mnemosyne-Archipel, written under the Guardian-built name only
 
@@ -103,6 +123,10 @@ The audit writes the Mnemosyne-Archipel, not the Resonanz-Landschaft by name; th
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — Core World 2 as the outline names it, in Kap 6
 
 Kap 6 names it as a place: „ZTEM-Protokoll, Nyx (Alter), Core World 2 (Resonanzlandschaft).“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L169] The beat has the transfer: „wird Kaels Bewusstsein zwangsweise in Core World 2 transferiert“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L171]
+
+## Where the sources differ
+
+- The plot analysis proposes the Resonanz-Landschaft as the second world, where the emotional barriers give way, and as a world that reacts to emotion; it attributes the reaction to the author's concept (reference 14).
 
 ## Open
 

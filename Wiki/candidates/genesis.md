@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 57
-readings: 56
+sources: 60
+readings: 59
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "outline-2", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "outline-2", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik"]
 gathered: "2026-09-24"
 ---
 
@@ -40,6 +40,10 @@ The outline's prologue is titled „Genesis“ ^[kontext-outline.md:L63]; its co
 
 The prologue of the new-format outline carries the bracketed title `Genesis` (L21, written `\[Genesis\]`), and its Core Theme is „Ursprung von Konflikt & Trauma; AEGIS' Überlebensparadoxon (Negation vs. Sein).“ ^[outline-2.md:L25] Chapter 30 plans work on the core trauma and hedges it: „Evtl. Verarbeitung Kerntrauma (Genesis?)“ ^[outline-2.md:L449]. The `kontext-outline` reading on this page has the same title and chapter; the Core Theme line here adds the parenthesis „Negation vs. Sein“ ^[outline-2.md:L25].
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — Genesis as the title of Chapter P
+
+The plan titles its first chapter block `Chapter P: [Genesis]`. Its focus is „Ursprungsparadoxon“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L46]: „Die Entstehung von AEGIS aus Chaos/Angst“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L46], told „Erzählt aus einer distanzierten, fast mythischen Perspektive“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47].
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the prologue named Genesis der Existenz as AEGIS's survival story
 
 The report names the prologue „Genesis der Existenz“ ^[scifi-roman-mit-ki-schreiben.md:L48] and reads its story of AEGIS as „ist die eines Überlebenskampfes“ ^[scifi-roman-mit-ki-schreiben.md:L48] From a reference-1 sentence it gives the plot document's content: a „Funke Struktur“ ^[scifi-roman-mit-ki-schreiben.md:L48] arising in a void it names „Nichts Rauschen“ ^[scifi-roman-mit-ki-schreiben.md:L48].
@@ -51,6 +55,10 @@ The synthesis's first section is headed as the genesis of AEGIS and says of it: 
 ## Reading — `charaktere`, 2025-07-29, the character concept — the Genesis-Krise of AEGIS as the cause of Kael's fragmentation
 
 Section I's heading is „Die Genesis der Fragmentierung“ ^[charaktere.md:L17] (L17, first answer). The second answer names „Trauma der Genesis-Krise von AEGIS selbst“ ^[charaktere.md:L116] as the primary cause of Kael's fragmentation (L116); the third answer takes it up as „kybernetische Katastrophe zweiter Ordnung“ ^[charaktere.md:L349] (L349). The document uses `Genesis-Krise` as a compound.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — AEGIS' Genesis aus der Leere
+
+In the first beat (Kapitel 1-2) the beat sheet writes in the causal link: „AEGIS' Genesis aus der Leere und sein definierendes Schutzprotokoll“ ^[finales-kausales-plot-geruest.md:L27] create the basic system level and the environment of Kael's existence. The word `Genesis` stands once; it is AEGIS' own origin out of the void.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the AEGIS analysis, the blueprint, the concept document) — Genesis from the Void, and the Genesis Crisis
 
@@ -77,6 +85,10 @@ This is the commentary's retelling of one narrative, with theorists (Luhmann, La
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Genesis as the origin the novel returns to in Kap 40/0
 
 The three-part analysis names the opening of Kap 40/0 „Text: Genesis (Reprise & Neuinterpretation)“ ^[romanstruktur-und-philosophische-einleitung.md:L290] and says: „Die Erzählung kehrt zurück zum Urgrund.“ ^[romanstruktur-und-philosophische-einleitung.md:L294] Earlier, for Kap 7, it calls the emptiness Kael meets „ein psychologisches Echo der ontologischen Leere aus der Genesis“ ^[romanstruktur-und-philosophische-einleitung.md:L81]
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — the prologue it would cut
+
+The report describes the manuscript's opening as an abstract prologue, the Vorwort `Genesis der Existenz`, that „die Evolution von AEGIS im Nichts detailliert ausarbeitet“ ^[romananalyse-kohaerenz-plot-kritik.md:L123]. It criticises it as a narrative error: „stellt es erzählerisch einen fatalen Fehler dar“ ^[romananalyse-kohaerenz-plot-kritik.md:L123]. Its recommendation: the prologue „muss als Einleitung ersatzlos gestrichen werden“ ^[romananalyse-kohaerenz-plot-kritik.md:L151], and its content should return late.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — AEGIS's genesis as a found log in Kap 21
 
@@ -192,6 +204,7 @@ Kapitel-Kompendium does the same.
 
 - `optimierte-plotline-genesis-der-existenz`, 2025-04-29: a ten-scene outline in which Komponente 734 (scene 5, L109) precedes the protocol (scene 8, L197) and Kael follows it (scene 10, L222).
 - The Struktur-Kanon sets three genesis beats as CORE, drops the beat `Qualia → Fehler`, and leaves open whether a fourth is needed (F9).
+- The report of 2026-02-23 reports the prologue as AEGIS's evolution in the Nothing and recommends cutting it.
 
 ## Open
 

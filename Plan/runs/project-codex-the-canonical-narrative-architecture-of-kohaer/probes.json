@@ -1,0 +1,201 @@
+{
+  "document": "project-codex-the-canonical-narrative-architecture-of-kohaer",
+  "drive_id": "1ZuFFStHi0ckA4kxreMIL3qwZ4sSHsBNmlQmytbWC2ck",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 120,
+  "typographic_marks": 12,
+  "ascii_quotes": 124,
+  "inflection_families": {
+    "prote": [
+      "Protect",
+      "Protection",
+      "Protector",
+      "Protectors"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentialmeer"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological",
+      "Psychology"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherons"
+    ],
+    "confr": [
+      "Confrontation",
+      "Confronted"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "embod": [
+      "Embodiment",
+      "Embodiments"
+    ],
+    "explo": [
+      "Exploration",
+      "Explosion"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator"
+    ],
+    "inter": [
+      "Interaction",
+      "Internal"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifestation"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanism"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontology"
+    ],
+    "origi": [
+      "Origin",
+      "Original"
+    ],
+    "princ": [
+      "Principal",
+      "Principle"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "ratio": [
+      "Rationalist",
+      "Rationalization"
+    ],
+    "react": [
+      "Reaction",
+      "Reactions"
+    ],
+    "regul": [
+      "Regulated",
+      "Regulation"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Action",
+      "Factions"
+    ],
+    [
+      "Action",
+      "Reaction"
+    ],
+    [
+      "Action",
+      "Reactions"
+    ],
+    [
+      "Action",
+      "Interaction"
+    ],
+    [
+      "Nature",
+      "Signature"
+    ],
+    [
+      "Origin",
+      "Original"
+    ],
+    [
+      "Psycho",
+      "Psychology"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Protect",
+      "Protector"
+    ],
+    [
+      "Protect",
+      "Protection"
+    ],
+    [
+      "Protect",
+      "Protectors"
+    ]
+  ]
+}

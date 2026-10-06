@@ -1,0 +1,153 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Landauer-Prinzips"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Landauer-Prinzips` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Landauer-Prinzip"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Landauer-Prinzip` ^[romananalyse-kohaerenz-plot-kritik.md:#0]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Kaels"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kaels` ^[romananalyse-kohaerenz-plot-kritik.md:#8]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Juna-Interferenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna-Interferenz` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Alterslos"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alterslos` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Kern-Welten-Konzept"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kern-Welten-Konzept` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Guardians"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Guardians` ^[romananalyse-kohaerenz-plot-kritik.md:#4]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Wir-Geflechts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wir-Geflechts` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Kohärenz Protokoll"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Kohärenz Protokoll` ^[romananalyse-kohaerenz-plot-kritik.md:#9]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Kohärenz Protokolls"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokolls` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "IFS-Modell"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`IFS-Modell` ^[romananalyse-kohaerenz-plot-kritik.md:#2]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "IFS-Rolle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`IFS-Rolle` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Entropiebegriffs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropiebegriffs` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Entropie-Signatur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropie-Signatur` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Kohärenz-Verifikator"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Verifikator` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Host"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Host` ^[romananalyse-kohaerenz-plot-kritik.md:#7]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Alters"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Alters` ^[romananalyse-kohaerenz-plot-kritik.md:#7]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Entropie"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            19
+
+`Entropie` ^[romananalyse-kohaerenz-plot-kritik.md:#14]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Analytischer Verlagsbericht"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Analytischer Verlagsbericht` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Plot-Analyse und Narrativer Bogen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Plot-Analyse und Narrativer Bogen` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Strenge Verlags-Kritik und Fehleranalyse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Strenge Verlags-Kritik und Fehleranalyse` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Lösungsansätze und Handlungsempfehlungen für die Überarbeitung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lösungsansätze und Handlungsempfehlungen für die Überarbeitung` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Fragen an das Konzept"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fragen an das Konzept` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Externe Ebene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Externe Ebene` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+$ python3 scripts/read.py romananalyse-kohaerenz-plot-kritik --count "Daten-Parasit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Daten-Parasit` ^[romananalyse-kohaerenz-plot-kritik.md:#1]
+stance_marker_count 5 = the five markers above, each 1
+$ grep -c . profile: glued ref numbers 41, backslash escapes 150 (01-profile.txt)

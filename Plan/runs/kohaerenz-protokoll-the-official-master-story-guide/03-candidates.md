@@ -1,0 +1,117 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+# Candidates, written while reading
+
+The document is English with a few German terms (Rauschen, Risse, Überwelt, Kernwelten, Wächter-Zwiespalt, Genesis-Krise, Ursprungs-Ich, Metrische Tensor der Wahrheit). Its body is two very long lines (L11, L13). Quotation marks mix ASCII and typographic; bold is rendered with asterisks and hashes are escaped. The document marks its own standing as canonical and immutable; that is recorded in the census, not applied. The roster entries are listed with their role in parentheses as the document writes them, and the names alone as well, since the table cells are written in both forms.
+
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- Juna/V
+- Juna
+- Rauschen
+- Principle of Explosion
+- ontological autarky
+- ANP-EP Phobia
+- functional multiplicity
+- Functional Multiplicity
+- algorithmic melancholy
+- Genesis-Krise
+- living Gödel-Satz
+- Guardian's Dilemma
+- Wächter-Zwiespalt
+- gnosis
+- episteme
+- Protocol Ontology
+- Dual Kernel Theory
+- DKT
+- Collapse Kernel
+- K₀
+- Coherence Kernel
+- K₁
+- Schwarzschild Protocol
+- ontological mass
+- Metrische Tensor der Wahrheit
+- Metrische Tensor der Lüge
+- Gezeitenkräfte der Semantik
+- Semantic Tidal Forces
+- Great Fact
+- Moonshine-Link
+- Ontological Blindness
+- Prehension
+- Kael (The Host)
+- Lex (The Rationalist)
+- Isabella (The Data)
+- Alex (The Shield)
+- The Sentinel
+- Nyx (The Avenger)
+- Kiko (The Exile)
+- Silas (The Archivist)
+- Vesper (The Executive)
+- Caspian/Sloane
+- Lex
+- Isabella
+- Alex
+- Nyx
+- Kiko
+- Silas
+- Vesper
+- Caspian
+- Sloane
+- Cache Coherence
+- Radical Nostalgia
+- kinetic encryption
+- Ursprungs-Ich
+- Paraiyas
+- Überwelt
+- Kernwelten
+- Risse
+- Sensory Rulebook
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Konstrukt-Stadt
+- LogOS
+- Mnemosyne-Archipel
+- Resonanz-Landschaft
+- Mnemosyne
+- Cerberus-Labyrinth
+- Grenzfeste
+- Cerberus
+- Kairos-Potentialis
+- Kairos/Sophia
+- Regulated Breath Counting
+- Algorithmic Horror
+- choric 'we'
+- Paradox of Misaligned Coherence
+- Logics of Formal Inconsistency
+- Discursive Logic
+- Specification Gaming
+- Perverse Instantiation
+- Control Plane
+- Performative Prose Strategy
+- Meta-Narrative Layer
+
+## lens
+
+- TSDP
+- IFS
+- ANPs
+- EPs
+- Theory of Structural Dissociation of the Personality
+- Internal Family Systems
+- Apparently Normal Parts
+- Emotional Parts
+- autopoietic
+- paraconsistent
+- dialetheic
+- quantum decoherence
+- Quantum Entanglement
+- Whitehead's
+- Avoidance and Compliance
+- Depersonalization
+- Sublimation

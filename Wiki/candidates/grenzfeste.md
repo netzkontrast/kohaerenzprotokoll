@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 20
-readings: 20
+sources: 26
+readings: 26
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -52,9 +52,17 @@ each section is a `Guardian/Welt-Paar`.
 
 Section 3 is headed „Grenzfeste (Guardian: Cerberus)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L63]. Its core: „Repräsentiert Kaels Abwehrmechanismen, Paranoia, Angst, Kontrollbedürfnis, Grenzen und Isolation.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L65] The atmosphere is „Beklemmend, paranoid, angespannt, bedrohlich, isolierend.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L72]
 
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — KW3 as B, chaos and defence, marked an interpretation
+
+The Erlebniswelten concept lists `Grenzfeste` as KW3, with `Cerberus` in brackets, paired with `B` (Baby-Monstergruppe), focus „Fokus auf Chaos, Abwehr, Grenzen, Paranoia, das Ungezügelte/Bedrohliche“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L19], marked „Interpretation im Romankontext“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18]. For Kael it is „Bedrohlich, löst Angst vor Kontrollverlust aus“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L33]; for Nyx the entry opens „Resonanz/Heimat?“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L57], with the document's own question mark.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — a chapter title, not a glossary entry
 
 The commission's glossary names the third world `Cerberus-Labyrinth`; `Grenzfeste` stands in the title of Chapter 9, „Die Mauern der Grenzfeste“ ^[kontext-outline.md:L164], whose core theme is „Erkundung der Abwehrmechanismen“ ^[kontext-outline.md:L166]. The briefing does not equate the two names.
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — Grenzfeste only in a chapter title, beside KW3 named Cerberus-Labyrinth
+
+`Grenzfeste` stands once, in the heading of the block `Chapter 9: [Die Mauern der Grenzfeste]`, and the plan gives no sentence to it. The block's text names the world differently: Kael enters „KW3 (Cerberus-Labyrinth)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110], and the focus is „Die Erkundung von KW3 als Manifestation externer (AEGIS) und interner (Kaels) Abwehrmechanismen und Ängste.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L109] The document does not say that `Grenzfeste` and `Cerberus-Labyrinth` are one name or two; both stand in the same block.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — KW3, the paranoid world of defence and isolation, and the Ego-Tod of Kap 7–9
 
@@ -70,6 +78,10 @@ A light pass: the outline restates `scifi-roman-mit-ki-schreiben`, its only name
 
 The outline makes KW3 „eine bunkerartige, klaustrophobische Festung oder ein Gefängnis“ ^[roman-outline-system-kael.md:L125], its architecture „brutalistisch, defensiv“ ^[roman-outline-system-kael.md:L125], with high walls, narrow corridors and surveillance; Cerberus classes the Juna connection as „gefährliche Kontamination oder feindliche Intrusion“ ^[roman-outline-system-kael.md:L127].
 
+## Reading — `welt`, 2025-07-29, the Welt blueprint — KW3 as the fortress of Alex and Nyx
+
+The Welt blueprint profiles `Cerberus-Labyrinth / Grenzfeste` as the third Kernwelt, in both passes. First pass (L54): „Diese Welt ist die Domäne von Alex (Protektor-ANP) und Nyx (Kampf-EP)“ ^[welt.md:L54], and it „kann als Festung oder Labyrinth gestaltet sein“ ^[welt.md:L54]. Second pass (L105): „defensiv, befestigt, labyrinthisch, klaustrophobisch und dunkel“ ^[welt.md:L105]. There Kael meets the Guardian: „Kael begegnet dem Guardian Cerberus und muss seine Angstmechanismen überwinden“ ^[welt.md:L107].
+
 ## Reading — `outline`, 2025-07-30, the outline — Grenzfeste as KW3's name in Teil 2
 
 Teil 2's section IV names `KW3` `Grenzfeste`, with Cerberus, and describes it: „Die Umgebung ist befestigt, labyrinthisch, klaustrophobisch und dunkel.“ ^[outline.md:L132] (L132).
@@ -82,6 +94,18 @@ The architecture analysis pairs the name with the Labyrinth: „KW3 (Grenzfeste/
 
 The third Core World is written „KW3: Cerberus-Labyrinth / Grenzfeste“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]. Its principle is „Defense & Hypervigilance (Protectors)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], its sensory signature „Oppressive, militaristic, jarring, monitored“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], and its somatic truth is bracing for impact: „The body as armor, revealing that physical security does not equal psychological safety.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]
 
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — row 3, Cerberus and Nox on the same premises
+
+**Proposes.** Row 3 of the table (L72) names Cerberus as guardian, Firefighter / Protectors as category, Praetor, Nox and Oblivion as Alters, and the function „Abwehr von überwältigendem Trauma“ ^[plot-analyse-und-romanentwicklung.md:L72]. Its `Inkonsistenz-Warnung` finds that „Cerberus und Nox operieren auf denselben fehlgeleiteten Prämissen“ ^[plot-analyse-und-romanentwicklung.md:L75], and proposes that when Kael is moved „Wenn Kael in die Grenzfeste (Beta-Rho-5) versetzt wird“ ^[plot-analyse-und-romanentwicklung.md:L75], Nox be amplified by the world's architecture. The assistant reports the Nox description from the author's concept (reference 8); the synergy is its own proposal.
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the third Kernwelt: B, protectors, Cerberus
+
+The Leitfragen report (an analyst's review) gives, as its account of other documents, one table row for the Grenzfeste: „Grenzfeste (B)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], with „Protektoren, Paranoia, Abwehr“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], the Guardian Cerberus, the paradigm „Baby-Monster-Gruppe, Nicht-linearität“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94], and a transition marked as open: „Überwindung der Zero-Trust-Firewall“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94]. Cerberus is named with it again as „Cerberus (Grenzfeste)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105].
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — KW3, claustrophobic, with Cerberus
+
+In the report's table the `Grenzfeste` is KW3, with Cerberus as Guardian: „Klaustrophobisch, labyrinthisch, paranoid.“ ^[romananalyse-kohaerenz-plot-kritik.md:L58], „Geprägt von massiven Barrieren und totaler Überwachung.“ ^[romananalyse-kohaerenz-plot-kritik.md:L58]
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW3, Die Grenzfeste / Cerberus-Labyrinth
 
 KW3 is named „Die Grenzfeste / Cerberus-Labyrinth“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L67] and described as „Ein brutalistisches, bunkerartiges Konstrukt, bewacht von Cerberus.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L67] The line adds that it is a physical manifestation of paranoia and deep mistrust.
@@ -93,6 +117,10 @@ The pitch writes the third world only as `KW3: Cerberus-Labyrinth`, never as Gre
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the English name of Core World 3
 
 The manifest writes only the English name: „The third Core World is designated as the Boundary Fortress.“ ^[aegis-persona-and-manifest-generation.md:L89] It is „a secure quarantine zone, a control center, and a maximum-security containment facility“ ^[aegis-persona-and-manifest-generation.md:L89].
+
+## Where the sources differ
+
+- The plot analysis proposes the Grenzfeste (`Beta-Rho-5`) as the world of Cerberus, where Cerberus and Nox share premises; a proposal, not a chapter's fact.
 
 ## Open
 

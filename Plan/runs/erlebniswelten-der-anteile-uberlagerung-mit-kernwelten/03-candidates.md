@@ -1,0 +1,61 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+- Erlebniswelten der Anteile
+- Erlebniswelt
+- Überlagerung mit Kernwelten
+- Kernwelten
+- Anteile
+- KW1
+- KW2
+- KW3
+- KW4
+- KW1 (Co₁)
+- KW2 (McL)
+- KW3 (B)
+- KW4 (Ly)
+- Konstrukt-Stadt
+- LogOS
+- Resonanz-Landschaft
+- Mnemosyne
+- Grenzfeste
+- Cerberus
+- Möglichkeits-Garten
+- Kairos/Sophia
+- Kairos
+- Sophia
+- Co₁
+- McL
+- Ly
+- Conway-Gruppe
+- McLaughlin-Gruppe
+- Baby-Monstergruppe
+- Lyons-Gruppe
+- Kael
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Alex
+- Rhys
+- Lex
+- Argus
+- ANP
+- Primärer ANP
+- Sekundärer ANP
+- Modifizierter ANP
+- EP
+- TSDP-Rolle
+- EP-Trigger
+- Host
+- AEGIS
+- DIS
+- Risse
+- Cache Kohärenz
+- gelbe Leere
+- Bunker
+- Externalisierung innerer Konflikte
+- Narrative Funktion der Überlagerung
+
+The document is a character-by-character table in prose of eleven parts (Anteile) of Kael and how each experiences four simulated core worlds. Each core world is given a group-theoretic counterpart (a borrowed concept applied to the world, listed as Co₁, McL, Ly with their group names); the letter B for the fourth-named group is a single letter and is listed only inside the joined label KW3 (B). Album titles and song titles are works cited and left out. No subscripted form other than Co₁ occurs. Pairs written with a slash or parentheses are listed joined and by member where each is a name.

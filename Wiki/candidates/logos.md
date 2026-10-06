@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 45
-readings: 45
+sources: 52
+readings: 52
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik"]
 gathered: "2026-09-17"
 ---
 
@@ -45,9 +45,17 @@ principle: each section is a `Guardian/Welt-Paar`.
 
 LogOS appears as the Guardian named in the heading of section 1 („Konstrukt-Stadt (Guardian: LogOS)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L19]), and in its laws: „AEGIS/LogOS erzwingen logische Konsistenz und korrigieren Abweichungen.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L32]
 
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — the name in brackets after KW1
+
+`LogOS` stands once, in brackets after the place name of KW1: „KW1: Konstrukt-Stadt (LogOS):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L17]. The concept says nothing further of it; it is not described as a figure or a system, and the line pairs the world with `Co₁`.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — KW1's guardian and the planned confrontation
 
 The glossary pairs `LogOS` with the first world: „Sterile, logikbasierte Welt. Guardian: LogOS.“ ^[kontext-outline.md:L30] Chapter 28, titled „Die Logik brechen: Konfrontation mit LogOS“ ^[kontext-outline.md:L380], plans the confrontation. Its plot line writes „Sieg über LogOS destabilisiert AEGIS“ ^[kontext-outline.md:L383], and its `AEGIS Focus` writes the paradox as a weapon against him. This is the outline's plan, not a report of a text.
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — LogOS as the Guardian of KW1, written with a question mark once
+
+The concept development plans, in the block headed `Chapter 2:`, that Kael's analytic part Lex makes attempts to decode KW1, „was zu ersten direkten, wenn auch subtilen, Konfrontationen mit Guardian LogOS führt“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61]. In the block headed `Chapter 8: [Die Logik des Gaslichts]` the name carries the plan's own doubt: „wird von AEGIS (LogOS?) subtil manipuliert“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L103]. In the block headed `Chapter 28:` the plan makes LogOS the embodiment of AEGIS' logical paradox: „Die gezielte Ausnutzung von AEGIS' logischem Paradoxon durch die Konfrontation mit dessen Verkörperung, LogOS.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L242]
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — ruler of KW1; registers a logical error and corrects it
 
@@ -60,6 +68,10 @@ Read as an externalised function, LogOS „ist die reine, von Emotionen abgetren
 ## Reading — `charaktere`, 2025-07-29, the character concept — Guardian of KW1
 
 In section V (third answer) the character concept lists `LogOS`: „Der Wächter der KW1 (Logos-Prime), einer sterilen, logikbasierten Welt“ ^[charaktere.md:L365].
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — its blind spot toward non-logical entities
+
+The beat sheet names `LogOS` among the Guardians who analyse Kael and gives it one blind spot in Kapitel 18-21: „LogOS' Unfähigkeit, nicht-logische Entitäten zu verarbeiten“ ^[finales-kausales-plot-geruest.md:L122]. It lists this as one example of the Guardians' `blinden Flecken`, which keep them from understanding Kael.
 
 ## Reading — `outline`, 2025-07-30, the outline — LogOS as KW1's world and as a Wächter Kael undermines
 
@@ -77,9 +89,21 @@ The guide names the guardian of the first Core World in brackets under the world
 
 In Kap 3 the three-part analysis speaks of „weg von der Logik (KW1/LogOS) hin zur Emotion“ ^[romanstruktur-und-philosophische-einleitung.md:L53] In Kap 15 it lists the Wächter of the Kernwelten: „die Wächter der Kernwelten (LogOS, Mnemosyne, Cerberus)“ ^[romanstruktur-und-philosophische-einleitung.md:L150] which Kael finds to be „Subroutinen und Algorithmen von AEGIS“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
 
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — guardian of row 1, healed not destroyed, classical logic
+
+**Proposes.** In row 1 LogOS is the guardian of the Konstrukt-Stadt (L70). In Murdock's phase 6 the logic must be healed: „Hier müssen wir eine Inkonsistenz“ ^[plot-analyse-und-romanentwicklung.md:L93] is the label for the point that the masculine (logic, Manager part, LogOS) must not be destroyed. In the Gödel proposal it asks to let LogOS be caught in an endless recursive loop (L109). It calls the logic „In der klassischen Logik (die von LogOS und AEGIS verwendet wird)“ ^[plot-analyse-und-romanentwicklung.md:L129], exploded by a single contradiction; this is the assistant's applied paraconsistent metaphor.
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — LogOS as the system guard in Kap 3 and 31
 
 The master blueprint casts „LogOS (System-Wächter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L78] in Kap 3, where it intervenes: „LogOS greift direkt ein, blockiert den Zugriff physisch durch architektonische Umformung“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80] In Kap 31 it attacks with Cerberus: „LogOS und Cerberus attackieren Kael in einer koordinierten Phalanx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — LogOS: well profiled, a blind spot toward the Partnerin
+
+The Leitfragen report (an analyst's review) reports from other documents that LogOS is well profiled (Rationalität, Konstrukt-Stadt) and that its blind spot is „tief in ihrer jeweiligen Erkenntnistheorie verwurzelt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. In its words: „LogOS begeht einen Kategorienfehler“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103], because, as the line has it, LogOS errs „da Juna nicht in logische Operatoren passt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. In the table it is the Guardian of „Konstrukt-Stadt (Co₁)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L92].
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — KW1's guardian, who takes emotion for noise
+
+The report's table makes LogOS the guardian of KW1; it „Betrachtet Emotionen als Rauschen.“ ^[romananalyse-kohaerenz-plot-kritik.md:L56] and „Bewertet heilende Resonanz als logischen Fehler.“ ^[romananalyse-kohaerenz-plot-kritik.md:L56]. In the plot summary, the high point of Teil 1 „ist die Validierungsprüfung durch LogOS“ ^[romananalyse-kohaerenz-plot-kritik.md:L97], which Kael fails (L97). The report's own recommendation (L157) is a scene in which LogOS tries to repair „einen Traueranfall Kaels durch das aggressive Injizieren von Beruhigungs-Algorithmen“ ^[romananalyse-kohaerenz-plot-kritik.md:L157].
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — LogOS in Kap 2, 7 and 31
 
@@ -132,9 +156,14 @@ Anhang B gives the reason the Wächter are two, in the outline's own account of 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — LogOS as a guardian offering deletion
 Kap 12 plans „Begegnung mit dem Guardian LogOS“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L156], who offers Kael a „Heilung“ that is the total deletion of all anomalies. In Kap 23 the outline plans „LogOS versucht, Kael davon zu überzeugen, dass Juna ein Teil seiner eigenen Psychose ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L250].
 
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — LogOS named beside AEGIS in Phase I, as the domain of analytic prose and one of five Guardians
+
+On the first meeting with Juna in Kapitel 3 the synthesis writes „AEGIS (LogOS) kann Juna nicht“ ^[romanprojekt-analyse-synthese.md:L50] see, because she lies outside the axiomatic basis of the first kernel; the name stands in a parenthesis after AEGIS. In the build plan, scenes of the first kernel are labelled „-Szenen (LogOS-Domäne)“ ^[romanprojekt-analyse-synthese.md:L140] and call for „Verwendung einer präzisen, analytischen Sprache“ ^[romanprojekt-analyse-synthese.md:L140]. LogOS is also the first of the list „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[romanprojekt-analyse-synthese.md:L153], which the plan says must act as specialised filter algorithms.
+
 ## Where the sources differ
 
 - The KW1 guardian is `Guardian of KW1 (Logik)` in the methodology report and `LogOS` in the scene outline; in the critique `LogOS` is the label of the world, „Kernwelt 1 (LogOS)“ ^[ai-assisted-narrative-coherence.md:L947].
+- The plot analysis proposes LogOS as guardian of the Konstrukt-Stadt whose classical logic is healed, not destroyed.
 
 ## Open
 

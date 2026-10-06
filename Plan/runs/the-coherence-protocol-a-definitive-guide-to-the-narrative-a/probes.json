@@ -1,0 +1,208 @@
+{
+  "document": "the-coherence-protocol-a-definitive-guide-to-the-narrative-a",
+  "drive_id": "1_E7rUDDhvhhjVSXm1i5Vpfz0trLCxH2qFo8rSHuIM7Y",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 3,
+  "backslash_escapes": 122,
+  "typographic_marks": 15,
+  "ascii_quotes": 118,
+  "inflection_families": {
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "prote": [
+      "Protection",
+      "Protector",
+      "Protectors",
+      "Protects"
+    ],
+    "alter": [
+      "Alter",
+      "Alternate",
+      "Alters"
+    ],
+    "archi": [
+      "Archipel",
+      "Architectural",
+      "Architecture"
+    ],
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "defin": [
+      "Defining",
+      "Definition",
+      "Definitive"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrator"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "ratio": [
+      "Rational",
+      "Rationalist",
+      "Rationalization"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "confl": [
+      "Conflict",
+      "Conflicts"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "creat": [
+      "Creates",
+      "Creative"
+    ],
+    "criti": [
+      "Criticizes",
+      "Critique"
+    ],
+    "domai": [
+      "Domain",
+      "Domains"
+    ],
+    "inter": [
+      "Interfacing",
+      "Internal"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "origi": [
+      "Origin",
+      "Original"
+    ],
+    "physi": [
+      "Physical",
+      "Physics"
+    ],
+    "prima": [
+      "Primal",
+      "Primary"
+    ],
+    "princ": [
+      "Principal",
+      "Principle"
+    ],
+    "proce": [
+      "Process",
+      "Processing"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "regul": [
+      "Regulated",
+      "Regulation"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Hero",
+      "Coheron"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Hero",
+      "Coherons"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Alter",
+      "Alternate"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "These",
+      "Theseus"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Overworld"
+    ],
+    [
+      "Action",
+      "Reactions"
+    ],
+    [
+      "Domain",
+      "Domains"
+    ],
+    [
+      "Nature",
+      "Signature"
+    ],
+    [
+      "Origin",
+      "Original"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systems"
+    ]
+  ]
+}

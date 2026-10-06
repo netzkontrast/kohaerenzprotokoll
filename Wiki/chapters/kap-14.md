@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -49,9 +49,25 @@ Title: the commission titles the chapter „Die Grammatik der Kontrolle: Eintrit
 - Story: its `Plot Summary` plans „beginnt systematische Untersuchung AEGIS' Meta-Ebene“ ^[kontext-outline.md:L226]
 - Foci: `Kael Sys Focus` „Lex/Argus dominant“ ^[kontext-outline.md:L227]; `AEGIS Focus` „Überwelt als Kontrollzentrum“ ^[kontext-outline.md:L228]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Die Grammatik der Kontrolle: Eintritt in die Meta-Ebene (Überwelt)`
+
+Focus: `Systemanalyse`, „Der Beginn der systematischen Untersuchung von AEGIS' Kontrollmechanismen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L144]
+
+- Story: „dringt in die abstrakte, datenbasierte Überwelt von AEGIS ein“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L145]
+- Concept: „Kybernetik erster Ordnung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L146] (concept tag: first-order cybernetics)
+
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — `Phase 1: Der Bruch`, the start of a cycle
 
 - Position: the synthesis cites the plot of Part 1 for a cyclic structure, „Phase 1: Der Bruch“ ^[system-kael-konzeptentwicklung-und-analyse.md:L211] in Kapitel 14, and reads it as the cycles of trauma healing — stability, confrontation, crisis, deeper integration — not a linear process. It says nothing else of the chapter.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.1, „AEGIS' Analyse & Reaktion / Konfrontation der Guardians“ ^[finales-kausales-plot-geruest.md:L106] (Kapitel 14–17)
+
+The beat sheet places Kapitel 14 in Beat 2.1; the beat spans Kapitel 14 to 17.
+
+- Beat: the heading titles it „AEGIS' Analyse & Reaktion / Konfrontation der Guardians“ ^[finales-kausales-plot-geruest.md:L106]
+- Event: the beat sheet's `Beschreibung` says „Kael befindet sich im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108]
+- Cause: the `Kausale Verknüpfung` says „Diese fehlerhafte Analyse diktiert seine nachfolgenden Handlungen und eskaliert den Konflikt, anstatt ihn zu lösen“ ^[finales-kausales-plot-geruest.md:L109]
+- Throughlines: the OS or MC line says „da seine echten Integrationsversuche von AEGIS als Pathologie bezeichnet werden“ ^[finales-kausales-plot-geruest.md:L115]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -144,6 +160,11 @@ Title: „Erwachen im Nexus“ ^[kohaerenz-protokoll-kapitel-outline-generierung
 - Story: the dual-storyform outline plans „Kael erwacht nach dem Kollaps“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L177]
 - Storyforms: `Storyform B` (`OS: Psychology/Conceptualizing`): „AEGIS entwickelt neue Protokolle (RIVE), um Kael zu stabilisieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L179]; `Storyform A` (`OS: Physics/Understanding`): „Kael beginnt, die Mechanismen der Simulation zu dekodieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L180]
 - Scene and pacing: `Szenen-Keim`: „Ein Raum voller schwebender holographischer Code-Fenster“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L181]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Phase II opens; Kael gains AEGIS's dossiers
+
+- The reset synthesis opens Phase II with the heading „Die Anatomie der Spaltung (Kapitel 14–26)“ ^[romanprojekt-analyse-synthese.md:L52]
+- It says of the phase: „Kael erhält Zugriff auf die technischen Dossiers von AEGIS“ ^[romanprojekt-analyse-synthese.md:L54]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

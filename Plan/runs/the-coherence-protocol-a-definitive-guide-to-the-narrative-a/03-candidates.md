@@ -1,0 +1,118 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Observations (paragraphs, not candidates). The document is English prose with German names (Kohärenz Protokoll, Kernwelten, Risse, Überwelt, Potentialmeer, Fundament, Trennungsprotokoll, Genesis-Krise, Ursprungs-Ich, Korrektur, Rekonfiguration, Anteil, Typ). It calls itself a guide and a Protocol, claims to be the canonical source of truth, and sets "non-negotiable architectural mandate" rules for plot structure. Pipe tables arrive with escaped bold markers and one roster table is flattened onto a single line (L135). The subscripted K₁ and K₀ are written with subscript characters. Terms in quotation marks inside the prose are the document's own invented terms; Whitehead's Prehension, IIT, TSDP and IFS are borrowed.
+
+- Kohärenz Protokoll
+- Protocol Ontology
+- Protocol
+- Protocols
+- Dual Kernel Theory (DKT)
+- Coherence Kernel (K₁)
+- Collapse Kernel (K₀)
+- K₁
+- K₀
+- Coheron
+- Coherons
+- correspondence check
+- Correspondence-Check
+- Intrusion
+- Korrektur
+- Rekonfiguration
+- Overhead
+- Corrective Wavelet
+- Corrective Wavelets
+- economy of existence
+- axes of tension
+- fractal thematic structure
+- Epistemological Axis
+- Strategic Axis
+- Relational Axis
+- Identity Axis
+- Core Worlds
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Construct City
+- Überwelt (Overworld)
+- Überwelt
+- Risse
+- Rifts/Cracks
+- correspondence errors
+- isolation objection
+- Sea of Potentiality
+- Das Potentialmeer / Nichts Rauschen
+- Potentialmeer
+- Nichts Rauschen
+- The Foundation
+- Das Fundament
+- strange attractor
+- subtle symmetries
+- AEGIS
+- Autonomous Entropic Gatekeeper
+- Genesis-Krise
+- Trennungsprotokoll
+- Separation Protocol
+- Component 734
+- Kael
+- System Kael
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Juna/V
+- Ursprungs-Ich
+- External Level
+- Paraiyas
+- Moonshine-Link
+- gnosis
+- episteme
+- Original Self
+- ANP-EP Phobia
+- Apparently Normal Parts
+- Emotional Parts
+- ANPs
+- EPs
+- Irreversible Costs
+- Psychological Degradation
+- External World Decay
+- Relational Erosion
+- functional multiplicity
+- living Gödel-Satz
+- high-Φ
+- narrative mosaic
+- Stabilization
+- Confrontation
+- Integration
+- Heroine's Journey
+- Cyclical Deconstruction
+- Hero's Journey
+
+## lens
+
+- Coherence Theory of Truth
+- Correspondence Theory of Truth
+- quantum decoherence
+- Ship of Theseus paradox
+- Quantum Entanglement
+- Prehension
+- Theory of Tertiary Structural Dissociation of the Personality
+- TSDP
+- Internal Family Systems
+- Integrated Information Theory
+- Cache Coherence

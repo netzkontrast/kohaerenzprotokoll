@@ -1,0 +1,117 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+---
+
+# Candidates — written while reading
+
+English prose with German terms in quotation marks. The document calls itself a canon; that is recorded, not applied. Passages are plan-like statements of a canon, a two-column table of AEGIS against Kael, an alter table, a Core World table, and a three-act outline. Terms marked as lens come under the heading below. The subscripted K₁ and K₀ stand with the subscript in the document.
+
+- AEGIS
+- Kael
+- System Kael
+- Juna/V
+- Coherence vs. Correspondence
+- Protocol Ontology
+- Dual Kernel Theory (DKT)
+- Dual Kernel Theory
+- DKT
+- The Coherence Kernel (K₁)
+- K₁
+- The Collapse Kernel (K₀)
+- K₀
+- Coherons
+- Corrective Wavelets
+- The Void / Das Potentialmeer
+- The Void
+- Das Potentialmeer
+- Potentialmeer
+- Nichts Rauschen
+- informational void
+- induced existential anxiety
+- The Foundation / Das Fundament
+- The Foundation
+- Das Fundament
+- strange attractor
+- Rauschen
+- algorithmic melancholy
+- Genesis-Krise
+- Ich-Fragmenten
+- Ursprungs-Ich
+- Trennungsprotokoll
+- Separation Protocol
+- logical self-harm
+- algorithmic dismemberment
+- Einsamkeit
+- Sehnsucht
+- Autonomous Entropic Gatekeeper
+- Aegis is what Aegis prevents itself from not being
+- ANP-EP Phobia
+- Apparently Normal Parts
+- Emotional Parts
+- ANPs
+- EPs
+- functional multiplicity
+- Master Profile of Alters
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Paraiyas
+- Moonshine-Link
+- gnosis
+- episteme
+- Kernwelten
+- Core Worlds
+- Psycho-Architecture
+- Risse
+- Riss
+- coherence failure
+- Sensory Rulebook
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Grenzfeste
+- Regulated Breath Counting
+- Visceral Gut Reactions
+- narrative mosaic
+- Three-Act Trauma-Integration Arc
+- Irreversible Costs
+- Psychological Degradation
+- External World Decay
+- Relational Erosion
+- living Gödel-Satz
+- Wächter-Zwiespalt
+- Guardian's Dilemma
+- Guardians
+- Story 22: Discovery of the Core Flaw
+- Story 25: Logotherapy
+
+## lens
+
+- Coherence Theory of Truth
+- Correspondence Theory of Truth
+- Principle of Explosion
+- dialetheic logic
+- Tertiary Structural Dissociation of the Personality (TSDP)
+- TSDP
+- Internal Family Systems (IFS)
+- IFS
+- quantum entanglement
+- prehension
+- quantum decoherence
+- autopoietic

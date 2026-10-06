@@ -157,3 +157,27 @@ Stands: Nexus and Überwelt are one name pair in this report (L78, L211).
 **The Überwelt as a digital level of its own, beside the Kern-Welten.**
 Section 5: „Rein digitale, informationsbasierte Realität; Betriebssystem/Kontrollzentrum der Simulation; Domäne von AEGIS; Fokus auf Systemintegrität, Informationsverarbeitung, Entropie-Management. Nicht für menschliche Wahrnehmung konzipiert.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L109]
 The concept writes `Überwelt` for this level and does not write `Nexus`; the question stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report writes `Nexus` once, as a slash beside the Möglichkeits-Garten; it relates it to no Überwelt or Überraum.**
+
+The Guardians' line, from the report's account of the documents it numbers (its sources 31 and 32): „Kairos und Sophia (Möglichkeits-Garten / Nexus)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105]. The word `Nexus` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#1] stands once, `Überwelt` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] and `Überraum` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] not at all (counts), so the report neither identifies nor distinguishes the three.
+
+Stands as one more placement of the Nexus beside the Möglichkeits-Garten, by a slash; the question stays open.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet writes the Nexus and the Überwelt joined by an or, twice, and no Überraum.**
+
+At Plot Point 1 (Kapitel 13): „Dies fällt oft mit dem Eintritt in die instabile Überwelt oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91]. In the Guardians' analysis of Kael (Kapitel 14-17): „Kael befindet sich im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108]. The second line gives the Überwelt to AEGIS. The beat sheet does not say whether the two are one space, one inside the other or two.
+
+Stands as one more placement with an or, hedged by `oft` at its first use; the question stays open.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint gives the Überwelt as AEGIS's meta-level and code level, and a Nexus-Interface Garten only as a place in KW4; no Überraum.**
+
+In both passes: „Die Überwelt ist die Meta-Ebene von AEGIS“ ^[welt.md:L68], „ihr Kontrollzentrum und ihre Code-Ebene“ ^[welt.md:L117], not directly experienced like the Kernwelten. In KW4 (second pass): `Nexus-Interface Garten` (in straight quotation marks), „ist ein spezifischer Ort hier“ ^[welt.md:L111]. The blueprint does not place that garden in the Überwelt and does not say how it relates to the Überwelt.
+
+Stands as the Überwelt placed with AEGIS and a Nexus-Interface Garten placed in KW4; recorded, the question stays open.

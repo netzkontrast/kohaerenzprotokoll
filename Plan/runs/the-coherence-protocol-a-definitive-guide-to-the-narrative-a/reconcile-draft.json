@@ -1,0 +1,99 @@
+{
+  "document": "the-coherence-protocol-a-definitive-guide-to-the-narrative-a",
+  "drive_id": "1_E7rUDDhvhhjVSXm1i5Vpfz0trLCxH2qFo8rSHuIM7Y",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 110,
+    "decisions": 116,
+    "decided_by_lookup": 90,
+    "needs_judgement": 26
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        46,
+        60
+      ],
+      "attribution": "",
+      "note": "the guide sets `Overhead` as a protocol's cost, drawn from cache coherence protocols"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        151,
+        153,
+        163,
+        165
+      ],
+      "attribution": "",
+      "note": "Act I as Kael's internal journey, Act III as his external confrontation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 98,
+      "decision": "reading",
+      "why": "light pass: a version of the codex of documents 96 and 105, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 81,
+      "decision": "reading",
+      "why": "light pass: a version of the codex of documents 96 and 105, whose reading on this page holds the same"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 102,
+      "decision": "reading",
+      "why": "light pass: a version of the codex of documents 96 and 105, whose reading on this page holds the same"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 102,
+      "decision": "reading",
+      "why": "light pass: a version of the codex of documents 96 and 105, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

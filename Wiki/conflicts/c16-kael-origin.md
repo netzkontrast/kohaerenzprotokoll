@@ -149,6 +149,53 @@ AEGIS performs the `Trennungsprotokoll`, which „violently fragmented its own�
 
 Neither the outside origin (rows 1 to 3) nor the shared split self (rows 5 to 8); a third arrangement, two Ursprungs-Ich; recorded, the conflict stays open.
 
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development plans Kael's origin in Chapter P as a fragmentation by AEGIS, with a „Echo“ as the original whole; it names no entity M and no Komponente 734 in those lines.**
+
+The focus field of Chapter P ties AEGIS's origin to Kael: the implementation of the paradox „die gleichzeitig den Samen für zukünftige Instabilität und Kaels traumatischer Fragmentierung legt.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L46] The strategy field says „wird als gewaltsamer Akt der Fragmentierung dargestellt“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47] of Kael's `Geburt`, to awaken empathy. The application field puts the two together: AEGIS's act of controlling chaos „durch rigide Logik und Fragmentierung (von“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L48] `Echo` and Kael, and it states „ist das ursprüngliche Ganze / die Quelle der EPs“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L48] of the `Echo`. The same line adds that Kael's fragmentation is the starting point of her TSDP structure.
+
+Where it stands in the record's own terms: a plan in which AEGIS fragments an original whole (the `Echo`), from which Kael and the emotional parts follow; it is the AEGIS-side origin and does not say whether the `Echo` is AEGIS's own precursor; recorded, not applied; the document writes Kael female throughout (`C17`).
+
+## 2026-10-05 — `kohaerenz-protokoll-konzeptentwicklung`, 2025-05-04, the condensed concept
+
+**The condensed concept plans the fragmentation of the `Echo` (Kael) in the Prologue as AEGIS's control attempt, and names a trigger with a question mark.**
+
+The Prologue field tells „Erzählt AEGIS' Entstehung aus Angst/Chaos“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L61] and the fragmentation as a desperate attempt at control „nach externem Trigger (Juna/V?)“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L61]. The trigger is named only as a question; no entity M and no Komponente 734 stand in that line.
+
+Where it stands in the record's own terms: the AEGIS-side origin of the previous day's concept development, with an external trigger asked about and not stated (`C17` for the gender); recorded, not applied.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report asks whether Kael is a simulated avatar, a psychological construct or a sub-process of Dr. Aris Thorne, and does not answer.**
+
+The report cites two layers (its sources 11 and 9), not a position of its own. Of the early drafts: „wird in frühen Entwürfen die reale Welt etabliert“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L115], with „Dr. Aris Thorne ist ein geächteter Computerphysiker“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L115]. Of the developing model: „Kael ist der Protagonist, ein fragmentiertes System (TSDP) innerhalb der Simulation von AEGIS“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117]. Its question: „Ist Kael ein simulierter Avatar, ein psychologisches Konstrukt oder ein Sub-Prozess von Dr. Aris Thorne?“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L119]. It then asks whether the lab accident equals the reboot „den AEGIS im Vorwort initiiert, weil das“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L119] Nichts Rauschen broke in. It says nothing here of an external entity M or of Komponente 734.
+
+Stands as a new question set beside the record's origins: Kael as an avatar, a construct or a sub-process of a physicist of the early drafts; recorded, not applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-gesamtkonzept-entwicklung`, 2025-05-04, the Gesamtkonzept of 2025-05-04
+
+**The Gesamtkonzept plans Kael's origin in the Prolog as AEGIS' fragmentation of a „Echo“, and foreshadows Juna/V as an external trigger.**
+
+The Prolog block plans AEGIS' birth to embed the „Fehlausgerichtete Kohärenz“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L47] at once, „(Kaels Vorläufer) als grundlegenden Kontrollakt fragmentiert“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L47]. Its strategy line: „Kaels Ursprung ist gewaltsame Fragmentierung“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L48], and „Foreshadowing Juna/V als externer Auslöser“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L48].
+
+Stands with the inside origin of the second telling, Kael as what AEGIS' own act of fragmenting leaves, with Juna/V as an outside trigger added; a plan, recorded, not applied.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet writes AEGIS' view of Kael as „Entität M“ ^[finales-kausales-plot-geruest.md:L114] or „Monstergruppe“ ^[finales-kausales-plot-geruest.md:L114], and gives Kael no origin of its own.**
+
+In Kapitel 14-17 (Beat 2.1) the OS line says AEGIS tries to manage Kael, „den es als“ ^[finales-kausales-plot-geruest.md:L114] `Entität M` or `Monstergruppe` sees; the words stand in the line inside quotation marks, as AEGIS' view and not as the beat sheet's statement of what Kael is. The beat sheet places no origin of Kael in any beat it describes.
+
+Stands as AEGIS' own names for Kael, the outside origin's names held in AEGIS' view; recorded, not applied, and it places Kael in neither telling of the record.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis calls Juna, in the current canon, part of Kael's „Ursprungs-Ich“ ^[romanprojekt-analyse-synthese.md:L90].**
+
+The line reads: „Juna ist im aktuellen Kanon eindeutig als Teil von Kaels“ ^[romanprojekt-analyse-synthese.md:L90] origin-self and as a „transzendenter Katalysator“ ^[romanprojekt-analyse-synthese.md:L90]; the origin-self stands in the document in quotation marks. The sentence is the synthesis's own report of the current canon. In the contradictions it adds that Juna is „ein transzendenter Teil des ursprünglichen Selbst“ ^[romanprojekt-analyse-synthese.md:L123]. It gives no origin of Kael himself, only Juna's place in it.
+
+Stands with an inside origin for Juna, as a part of Kael's own origin-self, in a synthesis of 2026-04-30; recorded, not applied.
 ## 2026-10-05 — a decision on Q7 that bears on this record (not a decision of it)
 
 The author answered Q7: Kael is the part the separation cut out of Komponente 734, from which AEGIS emerged (W12),

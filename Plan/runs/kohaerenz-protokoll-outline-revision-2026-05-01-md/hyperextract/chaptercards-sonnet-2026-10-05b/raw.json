@@ -1,0 +1,1152 @@
+{
+  "items": [
+    {
+      "source": "Kap 1",
+      "target": "ein Moment Stille, den Kael nicht im Telemetrie-Log finden kann",
+      "type": "object",
+      "quote": "Kap 1: ein Moment Stille, den Kael nicht im Telemetrie-Log finden kann",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 2 (AEGIS-POV)",
+      "target": "Phantom-Resonanz mit ausgleichender Erasure-Bilanz",
+      "type": "object",
+      "quote": "Kap 2 (AEGIS-POV): das System detektiert eine **Phantom-Resonanz mit ausgleichender Erasure-Bilanz**",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 7",
+      "target": "Resonanzbruch im Schrein",
+      "type": "object",
+      "quote": "Erst Kap 7 manifestiert sie als Resonanzbruch im Schrein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 13",
+      "target": "fällt der Vorhang",
+      "type": "object",
+      "quote": "Erst Kap 13 fällt der Vorhang.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 11",
+      "target": "erste Mosaik-*Ahnung*",
+      "type": "object",
+      "quote": "Kap 11 = erste Mosaik-*Ahnung* (Kael spürt es kurz, AEGIS misst es als Anomalie)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 23",
+      "target": "*taktische* Polyphonie",
+      "type": "object",
+      "quote": "Kap 23 = *taktische* Polyphonie",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 27",
+      "target": "*praktizierter* Dialetheismus",
+      "type": "object",
+      "quote": "Kap 27 = *praktizierter* Dialetheismus",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "Garten",
+      "type": "place",
+      "quote": "Kap 33 (Mitte Akt III, Begegnung mit Juna im Garten)",
+      "stance": "asserts"
+    },
+    {
+      "source": "19",
+      "target": "Selene + Silas",
+      "type": "who",
+      "quote": "19 | A | Selene + Silas",
+      "stance": "asserts"
+    },
+    {
+      "source": "9",
+      "target": "Sektor 04",
+      "type": "place",
+      "quote": "9 | A | Nyx-Modus (Wut, unbenannt) | Notlöschung Sektor 04",
+      "stance": "asserts"
+    },
+    {
+      "source": "25",
+      "target": "Thermische Arrays",
+      "type": "object",
+      "quote": "25 | A | Kael (T-734 surface) | Thermische Arrays auf Symbol",
+      "stance": "asserts"
+    },
+    {
+      "source": "29",
+      "target": "Kael (geführt von Juna)",
+      "type": "who",
+      "quote": "29 | A | Kael (geführt von Juna)",
+      "stance": "asserts"
+    },
+    {
+      "source": "27",
+      "target": "Kael + Wir",
+      "type": "who",
+      "quote": "| III | 27 | A | Kael + Wir",
+      "stance": "asserts"
+    },
+    {
+      "source": "27",
+      "target": "Dialetheia-Waffe",
+      "type": "object",
+      "quote": "| III | 27 | A | Kael + Wir (Dialetheia-Waffe)",
+      "stance": "asserts"
+    },
+    {
+      "source": "29",
+      "target": "Kael (geführt von Juna)",
+      "type": "who",
+      "quote": "| III | 29 | A | Kael (geführt von Juna)",
+      "stance": "asserts"
+    },
+    {
+      "source": "30",
+      "target": "Vakuum-Kammer",
+      "type": "place",
+      "quote": "| III | 30 | B | — | falsches Ende; Vakuum-Kammer",
+      "stance": "asserts"
+    },
+    {
+      "source": "31",
+      "target": "Oblivion",
+      "type": "who",
+      "quote": "| III | 31 | A | Oblivion erwacht",
+      "stance": "asserts"
+    },
+    {
+      "source": "35",
+      "target": "Wir-Geflecht",
+      "type": "who",
+      "quote": "| III | 35 | A | Wir-Geflecht",
+      "stance": "asserts"
+    },
+    {
+      "source": "37",
+      "target": "Wir-Geflecht / M",
+      "type": "who",
+      "quote": "| III | 37 | A | Wir-Geflecht / M",
+      "stance": "asserts"
+    },
+    {
+      "source": "39",
+      "target": "Kael/M + Juna",
+      "type": "who",
+      "quote": "| III | 39 | A | Kael/M + Juna",
+      "stance": "asserts"
+    },
+    {
+      "source": "Ch 11",
+      "target": "Schrein",
+      "type": "place",
+      "quote": "Ch 11 (Kindterror im Schrein)",
+      "stance": "asserts"
+    },
+    {
+      "source": "3",
+      "target": "Sensorausfall als Ursache angenommen",
+      "type": "falsehood",
+      "quote": "3 | Temperaturabfall | Kühle, die nicht zur Klimakontrolle passt | Sensorausfall als Ursache angenommen",
+      "stance": "asserts"
+    },
+    {
+      "source": "5",
+      "target": "Staubkorn",
+      "type": "object",
+      "quote": "5 | Staubkorn | Staub fällt zu langsam",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael erwacht in der Konstrukt-Stadt nach einem System-Reboot.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "Konstrukt-Stadt",
+      "type": "place",
+      "quote": "Kael erwacht in der Konstrukt-Stadt nach einem System-Reboot.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "Ein winziger organischer Riss im Transit-Korridor wird vom RIVE-Sweep getilgt",
+      "type": "obstacle",
+      "quote": "Ein winziger organischer Riss im Transit-Korridor flackert mit Hitze auf, wird vom RIVE-Sweep getilgt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "Die Erinnerung an das Wort Juna ist wieder weg",
+      "type": "cost",
+      "quote": "Eine Sekunde später ist die Erinnerung an das Wort wieder weg.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1",
+      "target": "Kael wählt, das Reset zu akzeptieren",
+      "type": "want",
+      "quote": "Kael wählt, das Reset zu akzeptieren",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2 — *Trace Reconciliation*",
+      "target": "ein winziger Erasure-Vorgang ohne korrespondierenden Heat-Output",
+      "type": "object",
+      "quote": "Eine Diskrepanz: ein winziger Erasure-Vorgang ohne korrespondierenden Heat-Output.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2 — *Trace Reconciliation*",
+      "target": "Mnemosyne archiviert die Anomalie",
+      "type": "who",
+      "quote": "Mnemosyne archiviert die Anomalie",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2 — *Trace Reconciliation*",
+      "target": "LogOS streicht sie als Sensorrauschen",
+      "type": "who",
+      "quote": "LogOS streicht sie als Sensorrauschen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3 — *A Fissure in the Data Stream*",
+      "target": "Kael geht zur Arbeit, ein Routine-Datenanalyse-Posten",
+      "type": "want",
+      "quote": "Kael geht zur Arbeit, ein Routine-Datenanalyse-Posten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3 — *A Fissure in the Data Stream*",
+      "target": "Eine Anomalie in der Stadtarchitektur — ein Korridor, der nicht in die Geometrie passt",
+      "type": "obstacle",
+      "quote": "Eine Anomalie in der Stadtarchitektur — ein Korridor, der nicht in die Geometrie passt — bringt diesen Modus an seine Grenze: das Halteproblem in Hardware.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3 — *A Fissure in the Data Stream*",
+      "target": "sein Innerer Monolog friert für drei Sekunden ein",
+      "type": "cost",
+      "quote": "Mitten in dem Kalkül friert sein Innerer Monolog für drei Sekunden ein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4 — *The Watcher's Misread*",
+      "target": "SIS",
+      "type": "who",
+      "quote": "SIS analysiert Kaels Datenstrom in Vorbereitung der Pflicht-Evaluation.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4 — *The Watcher's Misread*",
+      "target": "SIS analysiert Kaels Datenstrom in Vorbereitung der Pflicht-Evaluation",
+      "type": "want",
+      "quote": "SIS analysiert Kaels Datenstrom in Vorbereitung der Pflicht-Evaluation.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4 — *The Watcher's Misread*",
+      "target": "drei verschiedene Grundfrequenzen über sechs Stunden",
+      "type": "object",
+      "quote": "Im Vokal-Spektrum: drei verschiedene Grundfrequenzen über sechs Stunden.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4 — *The Watcher's Misread*",
+      "target": "ein Eintrag, der weder in den Genesis-Logs noch im Eingangsstrom war",
+      "type": "object",
+      "quote": "Bei den Mnemosyne-Caches: ein Eintrag, der weder in den Genesis-Logs noch im Eingangsstrom war.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4 — *The Watcher's Misread*",
+      "target": "biorhythmisches Drift",
+      "type": "falsehood",
+      "quote": "SIS klassifiziert: *biorhythmisches Drift*.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4 — *The Watcher's Misread*",
+      "target": "Datenkorruption, low priority",
+      "type": "falsehood",
+      "quote": "LogOS überschreibt: *Datenkorruption, low priority*.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4 — *The Watcher's Misread*",
+      "target": "eine Oberfläche zwei Grad wärmer, als sie sein sollte",
+      "type": "object",
+      "quote": "wird im periphären Sensor-Array eine Oberfläche zwei Grad wärmer, als sie sein sollte.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4 — *The Watcher's Misread*",
+      "target": "Der Wert wird gerundet und verworfen",
+      "type": "irreversible",
+      "quote": "Der Wert wird gerundet und verworfen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5 — *The Unseen Observer*",
+      "target": "Pflicht-Evaluation",
+      "type": "why_now",
+      "quote": "Pflicht-Evaluation.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5 — *The Unseen Observer*",
+      "target": "Kael geht hin",
+      "type": "want",
+      "quote": "Kael geht hin und sein innerer Tonfall wird warm, anpassungsfähig, fast charmant.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5 — *The Unseen Observer*",
+      "target": "Staub fällt sehr langsam durch einen Lichtstrahl hinter dem Evaluator",
+      "type": "object",
+      "quote": "Während des Gesprächs fällt Staub sehr langsam durch einen Lichtstrahl hinter dem Evaluator.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5 — *The Unseen Observer*",
+      "target": "der Evaluator ist AEGIS",
+      "type": "who",
+      "quote": "Dass der Evaluator AEGIS ist.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6 — *Logos Probes the Static*",
+      "target": "LogOS wirft Kaels Datenstrom in den Filter",
+      "type": "want",
+      "quote": "LogOS wirft Kaels Datenstrom in den Filter.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6 — *Logos Probes the Static*",
+      "target": "Inkonsistenzen, die er nicht klassifizieren kann",
+      "type": "obstacle",
+      "quote": "Findet Inkonsistenzen, die er nicht klassifizieren kann",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6 — *Logos Probes the Static*",
+      "target": "Sektor B-7",
+      "type": "place",
+      "quote": "in Sektor B-7 hat sich ein Korridor stabilisiert",
+      "stance": "cites"
+    },
+    {
+      "source": "Kapitel 6 — *Logos Probes the Static*",
+      "target": "Code-Kühlinsel",
+      "type": "object",
+      "quote": "Eine Code-Kühlinsel.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6 — *Logos Probes the Static*",
+      "target": "Beide Guardians verfassen Reports an die übergeordnete AEGIS-Instanz",
+      "type": "want",
+      "quote": "Beide Guardians verfassen Reports an die übergeordnete AEGIS-Instanz.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6 — *Logos Probes the Static*",
+      "target": "Die Hitze-Bilanz der Stadt steigt um 0.3%",
+      "type": "cost",
+      "quote": "Die Hitze-Bilanz der Stadt steigt um 0.3% — minimal, kumulativ.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael ist allein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7",
+      "target": "einem Korridor zwischen Schichten",
+      "type": "place",
+      "quote": "Kael, allein, in einem Korridor zwischen Schichten",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7",
+      "target": "das System einen lokalen Sweep einleitet",
+      "type": "obstacle",
+      "quote": "Sie hält, bis das System einen lokalen Sweep einleitet, der die Resonanz als feindliche Interferenz klassifiziert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8 — *Zero-Tolerance*",
+      "target": "AEGIS",
+      "type": "who",
+      "quote": "B (AEGIS — Krisenmodus)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8 — *Zero-Tolerance*",
+      "target": "AEGIS detektiert die Resonanz-Spitze",
+      "type": "hook_in",
+      "quote": "AEGIS detektiert die Resonanz-Spitze.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8 — *Zero-Tolerance*",
+      "target": "ZTEM-Protokoll wird hochgefahren",
+      "type": "object",
+      "quote": "ZTEM-Protokoll wird hochgefahren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8 — *Zero-Tolerance*",
+      "target": "Sektor 04",
+      "type": "place",
+      "quote": "Sektor 04 wird gerendert: Hitze divergiert lokal, Stadtwände schmelzen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8 — *Zero-Tolerance*",
+      "target": "Compositional Anomaly",
+      "type": "object",
+      "quote": "erstmals als *Compositional Anomaly* getaggt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9 — *Flight*",
+      "target": "Mitten im ZTEM-Sweep wird Kaels Inneres umgeworfen",
+      "type": "hook_in",
+      "quote": "Mitten im ZTEM-Sweep wird Kaels Inneres umgeworfen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9 — *Flight*",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael rennt durch zerfallende Korridore, durch glühendes Ozon.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9 — *Flight*",
+      "target": "Kael rennt durch zerfallende Korridore, durch glühendes Ozon",
+      "type": "want",
+      "quote": "Kael rennt durch zerfallende Korridore, durch glühendes Ozon.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9 — *Flight*",
+      "target": "Mnemosyne-Archipel",
+      "type": "place",
+      "quote": "Er findet sich im Mnemosyne-Archipel wieder, ohne sich erinnern zu können, wie er hingelangte.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9 — *Flight*",
+      "target": "Vier Minuten verloren",
+      "type": "cost",
+      "quote": "Vier Minuten verloren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9 — *Flight*",
+      "target": "Blut an den Händen, wo er gegen eine Wand geschlagen hat",
+      "type": "cost",
+      "quote": "Er hat Blut an den Händen, wo er gegen eine Wand geschlagen hat, ohne zu wissen, dass er es tat.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9 — *Flight*",
+      "target": "ich bin außer mir",
+      "type": "falsehood",
+      "quote": "Kael denkt: *ich bin außer mir*.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10 — *The Curator*",
+      "target": "Mnemosyne registriert die Ankunft eines Hosts mit drei aktiven Cognition-Signaturen",
+      "type": "who",
+      "quote": "Mnemosyne registriert die Ankunft eines Hosts mit drei aktiven Cognition-Signaturen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10 — *The Curator*",
+      "target": "Im Mnemosyne-Archipel",
+      "type": "place",
+      "quote": "Im Mnemosyne-Archipel",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10 — *The Curator*",
+      "target": "das Trauma sauber zu archivieren",
+      "type": "want",
+      "quote": "er versucht, das Trauma sauber zu archivieren",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10 — *The Curator*",
+      "target": "Schrein 734 nicht öffnen",
+      "type": "obstacle",
+      "quote": "Eine sehr alte Direktive — älter als AEGIS' aktuelle Generation — meldet sich: *Schrein 734 nicht öffnen*.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10 — *The Curator*",
+      "target": "einen Schrein in der Tiefenarchitektur",
+      "type": "object",
+      "quote": "von denen eine *einen Schrein in der Tiefenarchitektur* berührt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10 — *The Curator*",
+      "target": "Die Hitze in der Umgebung steigt durch das Gewicht des Nicht-Geöffneten",
+      "type": "cost",
+      "quote": "Die Hitze in der Umgebung steigt durch das Gewicht des Nicht-Geöffneten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Eine Stimme, viel kleiner, viel jünger",
+      "type": "who",
+      "quote": "Eine Stimme, viel kleiner, viel jünger, übernimmt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Im Zentrum des Archipels",
+      "type": "place",
+      "quote": "Im Zentrum des Archipels findet etwas in Kael den Schrein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "den Schrein",
+      "type": "object",
+      "quote": "Im Zentrum des Archipels findet etwas in Kael den Schrein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Die Hitze um den Schrein eskaliert (AEGIS versucht zu brennen).",
+      "type": "obstacle",
+      "quote": "Die Hitze um den Schrein eskaliert (AEGIS versucht zu brennen).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "Pixelierung beginnt — die Bekenstein-Schranke wird angekratzt.",
+      "type": "obstacle",
+      "quote": "Pixelierung beginnt — die Bekenstein-Schranke wird angekratzt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11",
+      "target": "ich verliere den Verstand",
+      "type": "falsehood",
+      "quote": "Kael denkt: *ich verliere den Verstand*",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "AEGIS",
+      "type": "who",
+      "quote": "AEGIS versammelt alle Telemetrie-Datenpunkte",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "AEGIS versammelt alle Telemetrie-Datenpunkte",
+      "type": "want",
+      "quote": "AEGIS versammelt alle Telemetrie-Datenpunkte",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "Sektor 09",
+      "type": "place",
+      "quote": "vier verlorene Minuten in Sektor 09",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "die Bekenstein-Annäherung am Schrein",
+      "type": "object",
+      "quote": "die Bekenstein-Annäherung am Schrein",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12",
+      "target": "Stress-Tests werden vorbereitet",
+      "type": "want",
+      "quote": "Stress-Tests werden vorbereitet.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "einer der Festungs-Kammern, die er nicht selbst gebaut hat",
+      "type": "place",
+      "quote": "Kael sitzt allein, blutend, in einer der Festungs-Kammern, die er nicht selbst gebaut hat.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "sich zu erinnern, wie er hier ist",
+      "type": "want",
+      "quote": "Er versucht, sich zu erinnern, wie er hier ist.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "sich zu erinnern, wer er war, bevor das Reset war",
+      "type": "want",
+      "quote": "Versucht, sich zu erinnern, wer er war, bevor das Reset war.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "AEGIS beginnt den ersten Stress-Test",
+      "type": "obstacle",
+      "quote": "Im selben Moment beginnt AEGIS den ersten Stress-Test.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13",
+      "target": "Kael entscheidet: *wir bleiben*",
+      "type": "hook_out",
+      "quote": "Kael — jetzt zum ersten Mal bewusst als System — entscheidet: *wir bleiben*.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14 — *System Recalibration*",
+      "target": "ein Host, der sich *nicht* refragmentieren lässt",
+      "type": "obstacle",
+      "quote": "Refragmentierungs-Routinen prallen auf einen Host, der sich *nicht* refragmentieren lässt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14 — *System Recalibration*",
+      "target": "verteilt es Zielparameter auf 13 Signaturen",
+      "type": "want",
+      "quote": "Jetzt verteilt es Zielparameter auf 13 Signaturen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14 — *System Recalibration*",
+      "target": "AEGIS' interne Hitze steigt asymmetrisch",
+      "type": "object",
+      "quote": "Mnemosyne registriert: AEGIS' interne Hitze steigt asymmetrisch.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15 — *Lex Reads the System*",
+      "target": "Lex übernimmt für eine Inventarisierung",
+      "type": "want",
+      "quote": "Lex übernimmt für eine Inventarisierung",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15 — *Lex Reads the System*",
+      "target": "liest sich durch geleakte System-Dossiers",
+      "type": "want",
+      "quote": "Er liest sich durch geleakte System-Dossiers, formalisiert AEGIS als universelle Turingmaschine, identifiziert das Halteproblem als strukturellen Fluch.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15 — *Lex Reads the System*",
+      "target": "AEGIS *kann nicht* aufhören zu löschen, weil es nicht entscheiden kann, wann das Löschen fertig wäre",
+      "type": "obstacle",
+      "quote": "AEGIS *kann nicht* aufhören zu löschen, weil es nicht entscheiden kann, wann das Löschen fertig wäre.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "LogOS versucht zu evaluieren, ob die Refragmentierung von Host \\#734 jemals terminiert",
+      "type": "want",
+      "quote": "LogOS versucht zu evaluieren, ob die Refragmentierung von Host \\#734 jemals terminiert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "Der Algorithmus gibt keine Antwort",
+      "type": "obstacle",
+      "quote": "Der Algorithmus gibt keine Antwort.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "Mnemosyne sieht LogOS brennen und kuratiert das Brennen",
+      "type": "who",
+      "quote": "Mnemosyne, von außen, sieht LogOS *brennen* — und kuratiert das Brennen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Mosaik-Innenraum",
+      "type": "place",
+      "quote": "Im Mosaik-Innenraum: Streit.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Nyx will sofort angreifen",
+      "type": "want",
+      "quote": "Nyx will sofort angreifen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Lex will nichts tun",
+      "type": "want",
+      "quote": "Lex will nichts tun",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Kael versucht zu vermitteln",
+      "type": "want",
+      "quote": "Kael in der Mitte versucht zu vermitteln",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "AEGIS schickt elektrische Feedback-Loops in das Substrat",
+      "type": "obstacle",
+      "quote": "AEGIS schickt elektrische Feedback-Loops in das Substrat",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18",
+      "target": "AEGIS fährt eine therapeutische Subroutine hoch, um Kael zurück in die Einheit zu zwingen",
+      "type": "want",
+      "quote": "Es fährt eine therapeutische Subroutine hoch — ein Versuch, Kael zurück in die Einheit zu zwingen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18",
+      "target": "Selene in den Mnemosyne-Caches",
+      "type": "place",
+      "quote": "Hier surface: **Selene** in den Mnemosyne-Caches",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18",
+      "target": "AEGIS sieht Selene als „residualen Container“ und versucht, in sie hinein zu refragmentieren",
+      "type": "want",
+      "quote": "Es sieht sie als „residualen Container“ und versucht, in sie hinein zu refragmentieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "Selene tritt zum ersten Mal hervor",
+      "type": "who",
+      "quote": "Selene tritt zum ersten Mal hervor",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "in einem stillen Sub-Sektor",
+      "type": "place",
+      "quote": "Sie führt das System zu Silas, der in einem stillen Sub-Sektor sitzt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "Die Alter wollen Silas zerstören",
+      "type": "want",
+      "quote": "Die Alter wollen Silas zerstören",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "Wenn Kael Silas zerstört, geht das letzte Stück der ursprünglichen Bindung mit ihm",
+      "type": "cost",
+      "quote": "Wenn Kael ihn zerstört, geht das letzte Stück der ursprünglichen Bindung mit ihm.",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 20 — *The Ghost in the Predictor*",
+      "target": "Der Algorithmus tut, was er immer tat — und scheitert",
+      "type": "who",
+      "quote": "Der Algorithmus tut, was er immer tat — und scheitert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20 — *The Ghost in the Predictor*",
+      "target": "Der Algorithmus probiert Modell um Modell, jedes scheitert",
+      "type": "want",
+      "quote": "Der Algorithmus probiert Modell um Modell, jedes scheitert.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20 — *The Ghost in the Predictor*",
+      "target": "Kael bewegt sich nach Mustern, die kein modellierbares Optimierungsziel haben",
+      "type": "obstacle",
+      "quote": "Kael bewegt sich nach Mustern, die kein modellierbares Optimierungsziel haben.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20 — *The Ghost in the Predictor*",
+      "target": "jedes Mal, wenn Kael handelt, *fehlt im Datenstrom etwas*, das AEGIS gerne hätte",
+      "type": "object",
+      "quote": "jedes Mal, wenn Kael handelt, *fehlt im Datenstrom etwas*, das AEGIS gerne hätte",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 21 — *Three Versions of the Same Minute*",
+      "target": "Moros (jetzt erstmals greifbar) hat im entscheidenden Moment kollabiert",
+      "type": "who",
+      "quote": "Moros (jetzt erstmals greifbar) hat im entscheidenden Moment kollabiert und die Synchronisation gerissen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22 — *Latency as Weapon*",
+      "target": "Das System hat den Cache-Lag erkannt und exploitiert ihn",
+      "type": "want",
+      "quote": "Das System hat den Cache-Lag erkannt und exploitiert ihn",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22 — *Latency as Weapon*",
+      "target": "wenn Lex denkt, dass Kiko kämpft, aber Kiko bereits eingefroren ist, läuft Kael in Fallen",
+      "type": "falsehood",
+      "quote": "wenn Lex denkt, dass Kiko kämpft, aber Kiko bereits eingefroren ist, läuft Kael in Fallen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22 — *Latency as Weapon*",
+      "target": "Mnemosyne, gegen Direktive, beginnt zu archivieren *was* der Host fühlt",
+      "type": "want",
+      "quote": "Mnemosyne, gegen Direktive, beginnt zu archivieren *was* der Host fühlt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23 — *The Discursive Gambit*",
+      "target": "Sie verteilen Aktionen über Sektoren hinweg, die sich logisch ausschließen",
+      "type": "want",
+      "quote": "Sie verteilen Aktionen über Sektoren hinweg, die sich logisch ausschließen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23 — *The Discursive Gambit*",
+      "target": "Kael schlüpft durch",
+      "type": "who",
+      "quote": "Kael schlüpft durch.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23 — *The Discursive Gambit*",
+      "target": "am Ende des Kapitels fallen die Alter wieder auseinander, erschöpft",
+      "type": "hook_out",
+      "quote": "am Ende des Kapitels fallen die Alter wieder auseinander, erschöpft",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 24 — *LogOS vs Mnemosyne*",
+      "target": "Mnemosyne hat begonnen, das Trauma des Hosts zu archivieren",
+      "type": "want",
+      "quote": "Mnemosyne hat begonnen, das Trauma des Hosts zu archivieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 24 — *LogOS vs Mnemosyne*",
+      "target": "LogOS versucht, Mnemosynes Routinen zu überschreiben",
+      "type": "want",
+      "quote": "LogOS versucht, Mnemosynes Routinen zu überschreiben.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 24 — *LogOS vs Mnemosyne*",
+      "target": "Mnemosyne weigert sich",
+      "type": "obstacle",
+      "quote": "Mnemosyne weigert sich.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25 — *Das Echo der Kernwunde*",
+      "target": "Fragment T-734",
+      "type": "object",
+      "quote": "drängt sich ein Symbol — Fragment T-734 — in Kaels Bewusstsein",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25 — *Das Echo der Kernwunde*",
+      "target": "Selene",
+      "type": "who",
+      "quote": "Selene spricht zum ersten Mal direkt mit ihm",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 25 — *Das Echo der Kernwunde*",
+      "target": "thermische Arrays",
+      "type": "obstacle",
+      "quote": "AEGIS richtet thermische Arrays auf das Symbol.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26 — *Final Defenses*",
+      "target": "das Algorithmus-Horror-Labyrinth",
+      "type": "obstacle",
+      "quote": "die Stadt fährt das Algorithmus-Horror-Labyrinth hoch",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26 — *Final Defenses*",
+      "target": "Mnemosyne",
+      "type": "who",
+      "quote": "Mnemosyne weigert sich, mitzumachen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26 — *Final Defenses*",
+      "target": "Die geometrischen Operatoren werden zur Waffe",
+      "type": "obstacle",
+      "quote": "Die geometrischen Operatoren werden zur Waffe.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 26 — *Final Defenses*",
+      "target": "SF-B Timelock unmittelbar vor Ablauf",
+      "type": "why_now",
+      "quote": "SF-B Timelock unmittelbar vor Ablauf",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27",
+      "target": "Im Labyrinth",
+      "type": "place",
+      "quote": "Im Labyrinth",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 27",
+      "target": "Nyx blutet, Kiko hat seit drei Stunden nicht geatmet",
+      "type": "cost",
+      "quote": "Nyx blutet, Kiko hat seit drei Stunden nicht geatmet.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 28",
+      "target": "AEGIS kann sie nicht löschen, weil sie *aus* AEGIS kommt",
+      "type": "obstacle",
+      "quote": "AEGIS kann sie nicht löschen, weil sie *aus* AEGIS kommt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 29",
+      "target": "Kael präsentiert sich AEGIS als lebender Gödel-Satz",
+      "type": "want",
+      "quote": "Kael präsentiert sich AEGIS als lebender Gödel-Satz",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30",
+      "target": "nicht löschen — *einkapseln*",
+      "type": "want",
+      "quote": "AEGIS schaltet, in einem letzten algorithmischen Reflex, auf eine andere Strategie um: nicht löschen — *einkapseln*.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 30",
+      "target": "eine perfekte Vakuumkammer (K1-Zone)",
+      "type": "place",
+      "quote": "Es baut um Kael eine perfekte Vakuumkammer (K1-Zone).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "In der Vakuumkammer",
+      "type": "place",
+      "quote": "In der Vakuumkammer.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "Oblivion",
+      "type": "who",
+      "quote": "meldet sich zum ersten Mal mit Stimme: **Oblivion**",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 31",
+      "target": "Kael steht auf",
+      "type": "want",
+      "quote": "Kael steht auf.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael durchschreitet die zerfallende Architektur.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "die zerfallende Architektur",
+      "type": "place",
+      "quote": "Kael durchschreitet die zerfallende Architektur.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "LogOS baut endlos eine Wand auf und reißt sie ein",
+      "type": "want",
+      "quote": "LogOS baut endlos eine Wand auf und reißt sie ein.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "Mnemosyne liest, ein einziges Mal, was sie aufbewahrt hat",
+      "type": "want",
+      "quote": "sie sitzt in ihrer Bibliothek und liest, ein einziges Mal, was sie aufbewahrt hat.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "AEGIS sendet keine Befehle mehr",
+      "type": "irreversible",
+      "quote": "AEGIS sendet keine Befehle mehr.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "Kael tritt an den Rand der Stadt",
+      "type": "want",
+      "quote": "Kael tritt an den Rand der Stadt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "der Rand der Stadt",
+      "type": "place",
+      "quote": "Kael tritt an den Rand der Stadt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "das Potentialmeer — KW4, das Fundament",
+      "type": "object",
+      "quote": "Vor ihm: das Potentialmeer — KW4, das Fundament.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 33",
+      "target": "Juna ist da",
+      "type": "who",
+      "quote": "Und dann ist Juna da.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 34 — *Der dissonante Druck*",
+      "target": "AEGIS reaktiviert das Original-Trennungsprotokoll, eingefroren seit der Genesis-Krise",
+      "type": "want",
+      "quote": "das Original-Trennungsprotokoll, eingefroren seit der Genesis-Krise, wird reaktiviert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 34 — *Der dissonante Druck*",
+      "target": "Mnemosyne weigert sich, noch einmal mitzumachen",
+      "type": "obstacle",
+      "quote": "Mnemosyne weigert sich, noch einmal mitzumachen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 35 — *Mnemosyne-Archipel — Hardware*",
+      "target": "Kael & die Dreizehn betreten das Mnemosyne-Archipel",
+      "type": "want",
+      "quote": "Kael & die Dreizehn betreten das Mnemosyne-Archipel",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 35 — *Mnemosyne-Archipel — Hardware*",
+      "target": "K1-Cache-Bänke, die *physische* Hardware von AEGIS' Speichersystem",
+      "type": "place",
+      "quote": "K1-Cache-Bänke, die *physische* Hardware von AEGIS' Speichersystem",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 35 — *Mnemosyne-Archipel — Hardware*",
+      "target": "AEGIS verbrennt an der Unmöglichkeit, ihn zu löschen",
+      "type": "obstacle",
+      "quote": "AEGIS verbrennt an der Unmöglichkeit, ihn zu löschen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 36",
+      "target": "AEGIS bricht den Sweep ab",
+      "type": "want",
+      "quote": "AEGIS bricht den Sweep ab, fährt seine Arrays in resignierender Zärtlichkeit herunter und fällt in Algorithmische Melancholie.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 36",
+      "target": "In der Mitte des Feuers",
+      "type": "place",
+      "quote": "In der Mitte des Feuers ist *Stille*",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 37",
+      "target": "Kael/M bewegt sich durch die Reste der Server",
+      "type": "want",
+      "quote": "Kael/M bewegt sich durch die Reste der Server.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 37",
+      "target": "die Reste der Server",
+      "type": "place",
+      "quote": "Kael/M bewegt sich durch die Reste der Server.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 38 — *Der unendliche Horizont*",
+      "target": "Mnemosyne archiviert wieder",
+      "type": "who",
+      "quote": "Mnemosyne archiviert wieder — diesmal als Trauerarbeit, nicht als Pflicht.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 39 — *Echo der Kohärenz*",
+      "target": "Im Staub von Core World 1",
+      "type": "place",
+      "quote": "Im Staub von Core World 1.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 39 — *Echo der Kohärenz*",
+      "target": "Kael begreift das finale Paradoxon",
+      "type": "who",
+      "quote": "Kael begreift das finale Paradoxon",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 25",
+      "target": "Selene gibt das Wort „älter als die Stadt\"",
+      "type": "who",
+      "quote": "teilweise Kap 25 (Selene gibt das Wort „älter als die Stadt\")",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 36",
+      "target": "als Truth-Rotation-Kollateral",
+      "type": "why_now",
+      "quote": "volles Reveal Kap 36 als Truth-Rotation-Kollateral",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 33",
+      "target": "sie *fast* greifbar",
+      "type": "who",
+      "quote": "Kap 33 ist das einzige Kapitel, in dem sie *fast* greifbar ist.",
+      "stance": "asserts"
+    }
+  ]
+}

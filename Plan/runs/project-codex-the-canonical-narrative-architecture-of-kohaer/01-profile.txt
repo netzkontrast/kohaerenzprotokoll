@@ -1,0 +1,14 @@
+# project-codex-the-canonical-narrative-architecture-of-kohaer
+  lines                168  (frontmatter ends at 9)
+  body words           2719
+  headings             17   bold-only lines 0
+  table rows           27   code fences 0
+  question marks       1
+  backslash escapes    120
+  typographic marks    12   ascii quotes 124
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      none
+  longest line         676 chars
+

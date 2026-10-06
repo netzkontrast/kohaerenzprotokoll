@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 51
-readings: 51
+sources: 57
+readings: 57
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -52,6 +52,10 @@ each section is a `Guardian/Welt-Paar`.
 
 Section 1 is headed „Konstrukt-Stadt (Guardian: LogOS)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L19] and numbers it KW1, the first of four Kern-Welten. It represents „Kaels logische, rationale, strukturierende Seite (ANP-Funktionen), aber auch rigide Kontrolle, emotionale Unterdrückung und die von AEGIS erzwungene Ordnung.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L21]
 
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — KW1 as Co₁, rigid order
+
+The Erlebniswelten concept lists `Konstrukt-Stadt` as KW1, with `LogOS` in brackets, and gives its focus: „Fokus auf rigide Ordnung, Struktur, Logik, Fehlerkorrektur“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L17]. It pairs the world with the group `Co₁`; this pairing carries no mark of interpretation, as the second and third do. In the entries it is the world Lex calls „Seine Domäne“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L139] and Kael meets as „Fühlt sich hier am ehesten funktional“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L31].
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — a chapter title, not a glossary entry
 
 The commission's glossary names the first world `Logos-Prime`; the word `Konstrukt-Stadt` stands in a chapter title only: Chapter 2 is „Echos in der Konstrukt-Stadt“ ^[kontext-outline.md:L87], whose setting is the first world. The briefing does not say that `Konstrukt-Stadt` is a name for it.
@@ -70,6 +74,10 @@ A light pass: the outline restates `scifi-roman-mit-ki-schreiben`, its only name
 
 The outline sets the opening in KW1 as „eine hyper-logische, sterile Metropole“ ^[roman-outline-system-kael.md:L37], of „sich selbst optimierenden Datenstrukturen, kristallinen Gittern und logischen Konstrukten“ ^[roman-outline-system-kael.md:L37], sensed less by human senses than by „Resonanzen, Frequenzen und Dichteveränderungen“ ^[roman-outline-system-kael.md:L37].
 
+## Reading — `welt`, 2025-07-29, the Welt blueprint — KW1 as Lex's domain and AEGIS's order
+
+The Welt blueprint profiles `Logos-Prime / Konstrukt-Stadt` as the first Kernwelt, in both passes. First pass (L40): „Diese Welt ist die Domäne von Lex, Kaels rationalem ANP, und verkörpert AEGIS' rigide, scheinbar perfekte Ordnung und Kontrolle“ ^[welt.md:L40], and the city „wirkt wie ein Überwachungsmechanismus, der Konformität erzwingt“ ^[welt.md:L40]. Second pass (L92–L95): „Die Welt basiert auf strikter klassischer Logik“ ^[welt.md:L92]; the light is „gleichmäßig und schattenlos, was Ordnung und Rationalität suggeriert“ ^[welt.md:L93]. It places the start of the story here: „Hier beginnt Kaels Reise in einem amnesischen und fragmentierten Zustand“ ^[welt.md:L95] (second pass; the first pass says the same at L40).
+
 ## Reading — `outline`, 2025-07-30, the outline — Konstrukt-Stadt in a title and as KW1's name
 
 Kap 1 is titled „Das Flüstern der Konstrukt-Stadt“ ^[outline.md:L21] (L21); Teil 2's list gives `KW1` the name `Konstrukt-Stadt`, with LogOS: „Die sterile, logikbasierte Welt wird weiter erkundet“ ^[outline.md:L130] (L130).
@@ -85,6 +93,20 @@ In the Sensory Rulebook the first Core World is written „KW1: Logos-Prime / Ko
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — KW1 as the Konstrukt-Stadt, first perfect, then seen as a construct
 
 The three-part analysis calls KW1 the Konstrukt-Stadt in Kap 1. In Kap 13 it tells that Kael „sieht die Konstrukt-Stadt KW1 nicht mehr als perfekten Ort“ ^[romanstruktur-und-philosophische-einleitung.md:L117] and „Er sieht sie als *Konstrukt*.“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
+
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — row 1 of the table, the draft's Kap 1 and the maintenance drones
+
+**Reports.** The draft's first chapter, „Welterkundung Konstrukt-Stadt“ ^[plot-analyse-und-romanentwicklung.md:L37], stresses the sterile environment and applies the Uncanny Valley to architecture (L37, references 6 and 3).
+
+**Proposes.** In the table (L70) row 1 names LogOS as guardian, Manager (ANP) as IFS category, Kael, Index and Limina as Alters and the function „Aufrechterhaltung der Illusion von Normalität“ ^[plot-analyse-und-romanentwicklung.md:L70]. For Kap 1–3 it proposes „Beschreiben Sie detailliert die Wartungsdrohnen“ ^[plot-analyse-und-romanentwicklung.md:L141], whose repairs cost light and heat.
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the first Kernwelt in its table row, and Kapitel 1's architectural storytelling
+
+The Leitfragen report (an analyst's review) says of other documents that Kapitel 1 establishes the Konstrukt-Stadt „präzises Architectural Storytelling“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L81] — it finds the world well set up. In its table the row reads „Konstrukt-Stadt (Co₁)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L92], with „ANPs, Rationalität, Verdrängung“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L92] and the transition „Initialisierung via Reboot“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L92]. It also sets ANP rooms (Konstrukt-Stadt) against EP rooms; this is its account of AEGIS's separation, not a statement of the novel.
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — KW1, steril and deterministic, where the novel begins
+
+The report's table gives KW1 the aesthetics „Hypergeometrisch, kristallin, deterministisch, steril.“ ^[romananalyse-kohaerenz-plot-kritik.md:L56] with LogOS as Guardian. It summarises its elaboration with energy lines, „der absoluten Stille und der Uncanny-Valley-Ästhetik“ ^[romananalyse-kohaerenz-plot-kritik.md:L61], and says the novel begins there after a Universal Reboot: „Der Roman beginnt in der sterilen Konstrukt-Stadt nach“ ^[romananalyse-kohaerenz-plot-kritik.md:L97]. In its own recommendation, „Das Erwachen nach dem Reboot in der Konstrukt-Stadt“ ^[romananalyse-kohaerenz-plot-kritik.md:L152] is the correct starting point (L152).
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Konstrukt-Stadt as the place of Kap 1
 
@@ -138,6 +160,14 @@ The Akt I block introduces it: „etabliert die sterile Unterdrückungsarchitekt
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — the Konstrukt-Stadt in the acts
 Act I is planned to establish „physikalischen Grenzen der Konstrukt-Stadt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L61]. In Kap 20 the outline plans a secret revealed: „Die Konstrukt-Stadt ist AEGIS’ Versuch, Kaels Trauma zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L225] heal by deleting all reality. Kap 37's scene seed is „Die Konstrukt-Stadt wird grün und organisch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L370].
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — the city as embodiment of the first kernel, antagonist in Phase I, receiver at the climax
+
+The synthesis gives the city to the Kohärenz-Kernel: the kernel is embodied by the city „und ihren Wächter AEGIS“ ^[romanprojekt-analyse-synthese.md:L21], the kernel symbol lost in the export. In Phase I it says the city is established as a hard-SF horror scenario: „Die Architektur der Stadt fungiert als Antagonist“ ^[romanprojekt-analyse-synthese.md:L48], and it is „mathematisch korrekt, aber physisch unmöglich“ ^[romanprojekt-analyse-synthese.md:L48]. AEGIS's suppression of traumatic memory produces heat that shows as thermal Risse or „Glitches in der Architektur der Konstrukt-Stadt“ ^[romanprojekt-analyse-synthese.md:L29]. For the climax the build plan sets that the city remains: „Die Konstrukt-Stadt bleibt bestehen“ ^[romanprojekt-analyse-synthese.md:L157], and becomes „Receiver of Consciousness“ ^[romanprojekt-analyse-synthese.md:L157] instead of a prison. This is the synthesis's own plan, recorded, not applied.
+
+## Where the sources differ
+
+- The plot analysis proposes the Konstrukt-Stadt as the world of LogOS and the Manager part, and its sterile architecture heated near Kael (L31); a proposal, not a chapter's fact.
 
 ## Open
 

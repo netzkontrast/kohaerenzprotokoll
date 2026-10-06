@@ -522,3 +522,85 @@ stays open for that one part.
 Its „Master Profile of Alters“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L119] has one row each for Kael, Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus (L124–L134); `Silas` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] and `Oblivion` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] do not occur. The Core Worlds, it says, „(Core Worlds) are not settings but direct, externalized“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L78] psycho-architectures, and the Sensory Rulebook, „Each Core World manifests a specific aspect of Kael's internal system“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L91], has four rows, KW1 to KW4 (L96–L99), each with one principle: „Rationalization & Control (ANPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96], „Trauma & Emotional Memory (EPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97], „Defense & Hypervigilance (Protectors)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], „Integration & Creative Potential“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L99]. The principles name ANPs, EPs and Protectors, but no row pairs a world with an alter, and the document states no number of worlds or of alters.
 
 Eleven alters and four worlds with one principle each, an arrangement of the correspondence and not a statement of it; recorded, 2025-11-03, before and not against the author's thirteen alters and four Kern-Welten carrying the acts, which stand; the question stays open.
+
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development plans four Kern-Welten and names ten parts, not Isabelle, and gives no count of either; it predates the author's two answers of 2026-10-05 below and changes neither.**
+
+The four worlds appear in the chapter blocks of Chapters 1, 5, 9 and 17: „Die sterile Umgebung von KW1 (Logos-Prime)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L54], KW2 as „Mnemosyne-Archipel“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L82], KW3 as „Cerberus-Labyrinth“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110] and KW4 as „Kairos-Potentialis“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L166]. The subplot list calls them „Die KWs dienen als thematische Arenen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L39]. The parts come in the chapter blocks: „Die ANPs (Host, Lex, Alex, Rhys)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L89], the EPs „repräsentiert durch EPs (Kiko, Lia, Moros)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L89], Nyx „möglicherweise Nyx (Aggression/Kampf)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110], „Das Potenzial für Selene“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L118] and „Der Meta-Beobachter Argus könnte aktiv werden“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L131]. That makes the Host, Lex, Alex, Rhys, Kiko, Lia, Moros, Nyx, Selene and Argus; `Isabelle` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0] does not occur, and the word `Kernwelt` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0] does not either, the plan writes `KW`. It states no number of worlds or parts, and it pairs no world with one part: Chapter 6 puts the EPs into KW2, Chapter 9 hedges „(EP Kiko?)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110] in KW3.
+
+Where it stands in the record's own terms: four worlds and ten named parts in a plan of 2025-05-03, before and not against the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; the correspondence stays open.
+
+## 2026-10-05 — `roman-konzept-kohaerenz-protokoll`, 2025-05-03, the Roman-Konzept
+
+**The Roman-Konzept tabulates ten parts, Host to Moros and no Isabelle, plans worlds as KW1 to KW4 and states no count of either; it predates the author's two answers of 2026-10-05 and changes neither.**
+
+Its table, headed „Übersicht: System Kael Anteile & TSDP Korrelate“ ^[roman-konzept-kohaerenz-protokoll.md:L55], has one row each for Host, Lex, Alex, Rhys, Argus, Nyx, Selene, Kiko, Lia and Moros (L62–L71); `Isabelle` ^[roman-konzept-kohaerenz-protokoll.md:#0] does not occur. The worlds come in the chapter fields, as „KW1 als externalisierte ANP-Tendenz zur sterilen Ordnung/Vermeidung“ ^[roman-konzept-kohaerenz-protokoll.md:L92] and „KW2 als Externalisierung der EP-Welt“ ^[roman-konzept-kohaerenz-protokoll.md:L128]; `KW4` ^[roman-konzept-kohaerenz-protokoll.md:#4] stands four times, and `Kernwelt` ^[roman-konzept-kohaerenz-protokoll.md:#0] does not occur. No row pairs a part with a world, and the document states no number of parts or worlds.
+
+Where it stands in the record's own terms: ten named parts and worlds KW1 to KW4 in a plan of 2025-05-03, before and not against the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; the correspondence stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report cites two rosters of parts, thirteen entities and exactly ten alters, asks which is canon, and writes four Kernwelten with early names in brackets.**
+
+Almost all of this is the report's account of other documents, which it numbers (L46 ends on its sources 18 and 5). Of the first it says the "Tiefenanalyse" (Brief Julia) specifies a TSDP system „bestehend aus 13 Entitäten, unterteilt in ANPs“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L46], ANPs such as Kael, Isabella and Data and EPs such as Shadow, Lia and The Lost One. Of the second: „Ein weiteres, extrem detailliertes Charakter-Konzept-Dokument listet und profiliert jedoch exakt 10 Alters“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L46], namely „Kael (Host), Limina (Gatekeeper), Nox (Persecutor), Echo (Child), Flicker (Child), Eos (Manipulator), Oblivion (Freeze), Praetor (Protector), Index (Analyst) und Silas (Caretaker)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L46]. Its own question, Leitfrage 2: „Welche exakte psychologische Matrix (10 Alters vs. 13 Entitäten) bildet den definitiven Kanon des Romans“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L63].
+
+For the worlds it writes „vier definierten Kernwelten (Konstrukt-Stadt, Resonanz-Landschaft, Grenzfeste, Möglichkeits-Garten)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L81] as ecological manifestations of Kael's inner landscape (its source 6). Its table, the report's own arrangement of what it cites, carries the early names in brackets: „Konstrukt-Stadt (Co₁)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L92], „Resonanz-Landschaft (McL)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93], „Grenzfeste (B)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94] and „Möglichkeits-Garten (Ly)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95]; its column for the way between worlds is headed „Transitions-Mechanismus (Vakant)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L91]. A five-row table (L56–L61) gives some of the ten alters a world each, KW1 to KW4; the report does not say the worlds and alters correspond.
+
+Stands: the report records both counts as a break and asks for a ruling, and lists four Kernwelten. It predates the author's two answers of 2026-10-05 above (the thirteen alters of the bible, and four Kern-Welten) and changes neither; the open part, whether a Kern-Welt corresponds to an alter, is not settled by it.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet writes KW1 to KW4 and lists parts by name in Kapitel 27-29, with Selene born at the end; it gives no count.**
+
+For the worlds: Kael „besucht erneut die Kernwelten (KW1-4)“ ^[finales-kausales-plot-geruest.md:L164]. For the parts, in Kapitel 27-29: „ANPs wie Lex, Rhys, Alex, Argus und EPs wie Nyx, Kiko, Lia, Isabelle, Moros“ ^[finales-kausales-plot-geruest.md:L171], who learn to cooperate. In Kapitel 36-37 Selene „als Koordinatorin hervortritt“ ^[finales-kausales-plot-geruest.md:L203]. The beat sheet does not say how many parts Kael has, and it does not set a world against a part.
+
+Stands: a plan of 2025-07-29 with four numbered Kernwelten and named parts, which predates the author's two answers of 2026-10-05 (thirteen alters; four Kern-Welten) and changes neither; the correspondence of worlds and parts stays open.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis sets ten functional parts by the „Reset-Kanon vom 30. April 2026“ ^[romanprojekt-analyse-synthese.md:L66] against earlier thirteen; it names no Kern-Welten.**
+
+The line: „Während frühere Entwürfe von 13 Alters sprachen, legt der Reset-Kanon vom 30. April 2026 eine präzise Liste von 10 funktionalen Anteilen fest“ ^[romanprojekt-analyse-synthese.md:L66], and in its contradictions „Frühere Erwähnungen von 13 Alters werden durch den Reset-Kanon auf 10 spezifisch benannte Anteile reduziert“ ^[romanprojekt-analyse-synthese.md:L122]. The table under „Das valide Alter-Profil (Reset 2026-04-30)“ ^[romanprojekt-analyse-synthese.md:L68] lists Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus; Kael is host and „primärer ANP“ ^[romanprojekt-analyse-synthese.md:L86] outside the table, and Silas is named apart: „Silas (The Archivist)“ ^[romanprojekt-analyse-synthese.md:L86]. Worlds do not come in: `Kernwelt` ^[romanprojekt-analyse-synthese.md:#0] and `KW` ^[romanprojekt-analyse-synthese.md:#0] do not stand in the document, and no row pairs a part with a world.
+
+Stands: ten named parts by a „Reset-Kanon“ ^[romanprojekt-analyse-synthese.md:L66], dated 2026-04-30; it predates the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten) and changes neither, and the correspondence of worlds and parts stays open.
+
+## 2026-10-06 — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept
+
+**The Erlebniswelten concept describes eleven Anteile and sets four Kernwelten KW1 to KW4 beside group-theoretical names, two of the four marked an interpretation; it predates the author's two answers of 2026-10-05 and changes neither.**
+
+It says of itself that it describes „die subjektiven inneren Erlebniswelten der elf identifizierten Anteile von Kael“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L13], and its entries run from „Kael (Primärer ANP, Host)“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L24] to „Argus (Entstehender ANP/EP-Mix - Beobachter/Kritiker)“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L144]. The worlds stand in a list headed „Zuordnung der Kernwelten zu Gruppentheoretischen Entsprechungen“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L15]: KW1 with `Co₁`, KW2 with `McL`, KW3 with `B`, KW4 with `Ly`, each with a place name (`Konstrukt-Stadt`, `Resonanz-Landschaft`, `Grenzfeste`, `Möglichkeits-Garten`). The second and third lines are marked „Interpretation im Romankontext“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18] and „Interpretation im Romankontext“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L19]. Each Anteil's entry then says how it meets each of the four worlds; the concept does not say that a world corresponds to an Anteil, and the entries are hedged (`vielleicht`, `könnte`).
+
+Where it stands in the record's own terms: eleven Anteile and four numbered Kernwelten with early group names, in a concept of 2025-04-29, before and not against the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; whether a Kern-Welt corresponds to an alter stays open.
+
+## 2026-10-06 — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis
+
+**The plot analysis writes a count of ten Alters in one sentence and, in the table beside it, names more Alters than it assigns to any one world: „nicht alle zehn Alters gleichzeitig agieren“ ^[plot-analyse-und-romanentwicklung.md:L63].**
+
+The sentence is the assistant's reason for structuring the Kern-Welten (L63), and the count of ten is the document's own. Its table (L67–L73), introduced as the assistant's structuring, names Kael, Index and Limina for the first world, Silas and Eos for the second, Praetor, Nox and Oblivion for the third, and Echo, Flicker and the Selbst for the fourth. The closing question speaks of „Welche der vier Kern-Welten“ ^[plot-analyse-und-romanentwicklung.md:L160] (L160). The document does not say whether one world corresponds to one Alter.
+
+Stands as the document's own count beside its own list, dated before the author's answers of 2026-10-05; recorded, and the question's status is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report names four Kern-Welten and ten Alters, tabled separately, without matching them; it predates the author's answers of 2026-10-05 and changes neither.**
+
+It summarises Kael's system as one that „in zehn distinkte Anteile (Alters) zersplittert ist“ ^[romananalyse-kohaerenz-plot-kritik.md:L17], and its Alters table (L80–L89) names `Kael`, `Limina`, `Index`, `Nox`, `Praetor`, `Eos`, `Echo`, `Oblivion`, `Flicker` and `Silas`. Its Kern-Welten table (L56–L59) names KW1 to KW4 with their Guardians; the Alters are not set against the worlds, though `Praetor` „Löst Konflikte mit der Umwelt und Cerberus aus.“ ^[romananalyse-kohaerenz-plot-kritik.md:L84]
+
+Where it stands in the record's own terms: ten Alters and four Kern-Welten in a report of 2026-02-23, before the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; whether a Kern-Welt corresponds to an alter stays open.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint writes four Kernwelten, each the domain of one to three named Anteile, and does not set world and alter one to one.**
+
+It opens with „Die vier Kernwelten sind von AEGIS geschaffene“ ^[welt.md:L36] simulations. By world (first pass): KW1 is „die Domäne von Lex, Kaels rationalem ANP“ ^[welt.md:L40]; KW2 „die Domäne der EPs (Emotionale Persönlichkeitsanteile)“ ^[welt.md:L47]; KW3 „die Domäne von Alex (Protektor-ANP) und Nyx (Kampf-EP)“ ^[welt.md:L54]; KW4 „Die Domäne von Lia (Kind-EP, Ambivalenz), Rhys (Pflegender ANP) und Selene (das Selbst)“ ^[welt.md:L61]. The second pass repeats the four worlds (L90–L113) and names Lex again for KW1 (L92).
+
+Stands as one more document listing the Anteile by world, dated 2025-07-29; the question stays open and neither the author's answers nor the record's table change.
+
+## 2026-10-06 — `kohaerenz-protokoll-the-official-master-story-guide`, 2026-01-02, the Master Story Guide
+
+**The Master Story Guide declares a System Roster of ten entries and four Kernwelten, KW1 to KW4.**
+
+Its roster, introduced by „The following entities are key components of System Kael“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11], lists `Kael`, `Lex`, `Isabella`, `Alex`, `The Sentinel`, `Nyx`, `Kiko`, `Silas`, `Vesper` and `Caspian/Sloane` as one row, each with a role. Its Kernwelten table begins „KW1: Logos-Prime / Konstrukt-Stadt“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11] and ends with „KW4: Kairos-Potentialis“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L13].
+
+Stands as an answer of 2026-01-02 that predates the author's answers; its own claim, recorded, changing neither.

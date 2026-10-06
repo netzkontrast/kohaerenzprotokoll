@@ -1,0 +1,98 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is a research answer in an advisor voice about the six reality levels of the novel; it repeats a field template (Konzeptueller Kern, Ästhetik & Sensorik, Risse & Entropie, Narrative Funktion) in two passes over the Kernwelten. Bracketed notes such as „aus voriger Antwort“ mark text carried over from an earlier answer. Names inside straight quotes are the document's own marks. The Kernwelt names are written joined with a slash; the joined form and each half are listed. Möglichkeits-Weber (Ly) stands entirely inside straight quotes, so the joined form and each half are listed.
+
+- Kernwelten
+- KW1-4
+- KW1
+- KW2
+- KW3
+- KW4
+- Realitätsebenen
+- Logos-Prime / Konstrukt-Stadt
+- Logos-Prime
+- Konstrukt-Stadt
+- Mnemosyne-Archipel / Resonanz-Landschaft
+- Mnemosyne-Archipel
+- Resonanz-Landschaft
+- Cerberus-Labyrinth / Grenzfeste
+- Cerberus-Labyrinth
+- Grenzfeste
+- Kairos-Potentialis / Möglichkeits-Garten
+- Kairos-Potentialis
+- Möglichkeits-Garten
+- Überwelt
+- Externe Ebene
+- Potentialmeer
+- Fundament
+- AEGIS
+- AEGIS-Protokoll
+- Kohärenzprotokoll
+- Kohärenz Protokoll
+- Kael
+- Lex
+- Alex
+- Nyx
+- Lia
+- Rhys
+- Selene
+- Limina
+- Juna/V
+- Juna/V-Verbindung
+- Cerberus
+- Guardian Cerberus
+- Guardians
+- Möglichkeits-Weber (Ly)
+- Möglichkeits-Weber
+- Ly
+- ANP
+- EPs
+- Risse
+- Psycho-Architekturen
+- Echowald
+- Vergessener Schrein
+- Die Narbe
+- Archivars Turm der Chroniken
+- Innere Bunker
+- Nexus-Interface Garten
+- Ankerpunkt
+- Universal Reboot
+- Post-Reboot-Zustand
+- Entropic Gatekeeper
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Moonshine-Link
+- Boundary Protocols (OBP)
+- Zero-Trust-Architektur
+- Mnemosyne-Archiven
+- First Degree Entailment (FDE)
+- FDE
+- parakonsistenten Logik
+- dialetheischen Logik
+- Relevanzlogik
+- Shannon-Entropie
+- Quanten-Nichtlokalität
+- CAS-Prinzipien
+- Co1
+- Baby-Monster
+- Nichts Rauschen
+- Konzeptueller Kern
+- Narrative Funktion
+- Ästhetik & Sensorik
+- Risse & Entropie
+- Manifestation von „Rissen“
+- Funktion & Psychologische Verankerung
+- Narrativer Architekt
+
+## lens
+
+- Environmental Storytelling
+- Uncanny Valley
+- Glitch in the Matrix
+- Algorithmic Horror
+- Brutalismus
+- Gaslighting
+- seltsamer Attraktor
+- Deus ex Machina
+- It from Bit
+- MUH
+- Autopoiesis

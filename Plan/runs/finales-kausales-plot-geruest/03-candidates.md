@@ -1,0 +1,123 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+## world
+- AEGIS
+- Kael
+- Juna/V
+- Juna
+- Lex
+- Kiko
+- Nyx
+- Moros
+- Isabelle
+- Rhys
+- Alex
+- Argus
+- Lia
+- Selene
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kernwelt 1 (KW1)
+- KW1
+- KW2
+- KW3
+- KW4
+- Kernwelten
+- Nexus
+- Überwelt
+- Nichts Rauschens
+- universal reboot
+- nicht-lokale Nicht-Existenz
+- Entropic Gatekeeper
+- Kohärenz Protokoll
+- Risse
+- Moonshine-Link
+- Echos
+- Boundary Protocols
+- Zero-Trust-Architektur
+- Cache Kohärenz
+- fehlausgerichteter Kohärenz
+- Kohärenz durch Entfremdung
+- Paradoxon X
+- Kernparadoxon X
+- Negentropie-Fehlinterpretation
+- Alignment-Versagen
+- Entität M
+- Monstergruppe
+- Hybris der Kontrolle
+- systemische Blindheit
+- allgegenwärtige Kontrollinstanz
+- perverse Lernschleife
+- v1.5
+- tragische Hamartia
+- Gödels Schatten
+- Das Fundament
+- Die Geburt der Selene
+- Herr der zwei Welten
+- Der Sturm beginnt: Direkte Konfrontation
+- Der logische Kollaps
+- Das Herz des Systems
+- funktionale Multiplizität
+- Multiplizität
+- interne Task Force
+- Paradox: K-J Resonanz als Systemfehler
+- Paradox: Verbindung als Blockade im System
+- K-J Paradoxon Manifestation
+- K-J-Bond-Verlust-Trigger
+- Welle
+- Externen Ebene
+- Sein durch Abgrenzung/Nicht-Widerspruch
+- Autopoiesis
+- amnesie\_plot
+- aegis\_reaktion\_kooperation\_stoerung
+- agency\_maximiert
+- ANP
+- ANP (Anscheinend Normaler Teil)
+- EP
+- EPs
+- Emotionalen Teilen
+- TSDP
+- DIS
+- Entscheidung zur aktiven Suche
+
+## own terms (document's structure)
+- Beat 1.1
+- Beat 1.6
+- Beat 2.4
+- Beat 3.5
+- Kausale Verknüpfung
+- Beschreibung
+- Dramatica Throughline Function
+- OS (AEGIS)
+- MC (Kael)
+- IC (Juna/V)
+- SS (Kael ↔ Juna/V)
+- Plot Point 1
+- Midpoint/Ordeal
+- AKT I
+- AKT II
+- AKT III
+- Beat Sheet
+
+## lens
+- Overall Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Objective Story
+- Fixed Attitude
+- Mysteriöser Helfer
+- Bindungstheorie
+- Chaostheorie (Systeminstabilität)
+- Heldenreise
+- All is Lost
+- Point of No Return
+- Kernsymptome von DIS
+- ANP-EP Phobien
+- kognitive Dissonanz
+- Good-Urteil
+
+The document is a beat sheet with a fixed block per beat: a Beschreibung, a Kausale Verknüpfung and four throughline functions. Almost every quotation-marked phrase in the beat blocks is a reuse of a term from elsewhere; I list those that read as the document's terms, not every quoted phrase. Quotes in the beat blocks are ASCII straight marks. Several escapes (amnesie\_plot, aegis\_reaktion\_kooperation\_stoerung, agency\_maximiert) look like field names. The beat headings carry a bracketed chapter range, and a few headings the Plot Point and Midpoint/Ordeal labels from story-structure craft. Some figures such as Kernwelt 1 (KW1) are written with plain digits; the export has dropped subscripts, since the line at the beat reads KW1 and the --find output printed it as KW. Gaps: the beat headings differ from the headings in the beat description, e.g. Beat 3.2 names v1.5 which the --find printer shows as v.5 because it drops glued digits.

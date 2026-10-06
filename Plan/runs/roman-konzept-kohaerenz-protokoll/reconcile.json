@@ -1,0 +1,168 @@
+{
+  "document": "roman-konzept-kohaerenz-protokoll",
+  "drive_id": "1haCcf_BBCliae3jHahuih44c7UdtKZFofm90MepFTGM",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; fourth in the queue re-ranked after document 95; read then as a light pass, being a reworded third version of the plan of document 97 of the same day; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-99/brief.md, on the pages its parts table changes",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 106,
+    "decisions": 112,
+    "decided_by_lookup": 85,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: a reworded version of document 97's plan, whose new surfaces are the same method vocabulary, tropes and borrowed concepts and the table's column labels; nothing names a thing of the novel's world that has no page.",
+  "new_readings": [
+    {
+      "page": "alex",
+      "lines": [
+        64
+      ],
+      "attribution": "",
+      "note": "table row: protection and mistrust"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        66
+      ],
+      "attribution": "",
+      "note": "table row: the meta-observer"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        62
+      ],
+      "attribution": "",
+      "note": "the premise and the Host row"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        69
+      ],
+      "attribution": "",
+      "note": "table row: fear, with flight"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        63
+      ],
+      "attribution": "",
+      "note": "table row: logic and analysis"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        70
+      ],
+      "attribution": "",
+      "note": "table row: longing, with a question mark"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "table row: grief"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        67,
+        163
+      ],
+      "attribution": "",
+      "note": "table row: typed with a question mark"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "table row: care and mediation"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        68
+      ],
+      "attribution": "",
+      "note": "table row: integrating part, with question marks"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C15",
+    "C17"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "as for document 97 — J9 (the title), J12 and J16 (compounds with their own sense: Fehlausgerichtete Kohärenz, AEGIS Paradoxon, Kernparadoxon, System Kael, Kael Integration, Juna/V & Fundament), J34 (Juna/V), J49 (worlds named for their Guardians), J56 and J23 (plurals and inflections: Risse/Riss, Kernparadoxons, funktionaler Multiplizität); `Echo` is the original whole, not the residual echoes; `Simulation Hypothesis` and `Gödel` borrowed, not pages",
+  "sweep": [
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 252,
+      "decision": "reading",
+      "why": "light pass: a reworded third version of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 158,
+      "decision": "reading",
+      "why": "light pass: a reworded third version of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 17,
+      "decision": "reading",
+      "why": "light pass: a reworded third version of the plan of document 97, whose reading on this page holds the same"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 17,
+      "decision": "reading",
+      "why": "light pass: a reworded third version of the plan of document 97, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "everything document 97 left unpromoted, again — its role labels, TSDP vocabulary, Fundament and borrowed concepts (see reconciliation 97)",
+    "Kael Integration, Guardians (Mini-Bosse) — subplot labels (L47, L49)",
+    "the table's column labels (L61) — read only as the rows they head"
+  ],
+  "internal_tension": "none read; the chapter blocks keep document 97's hedges",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

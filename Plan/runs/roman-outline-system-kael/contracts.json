@@ -1,0 +1,35 @@
+{
+ "source": "roman-outline-system-kael",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 23,
+   "failed_calls": 0,
+   "chunks": 23,
+   "failed_chunks": 0,
+   "cost_usd": 0.4442,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "64e2cb3a886bb4f08f42398f2bf70789843497e394a9f67324f0c5db15aee0d5",
+   "rows": 49,
+   "candidates": 46,
+   "refused": {
+    "surface absent from document": 2
+   },
+   "duplicates": 1,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "charaktere"
+  }
+ ]
+}

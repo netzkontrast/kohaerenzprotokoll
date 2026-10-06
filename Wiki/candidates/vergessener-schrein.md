@@ -1,10 +1,10 @@
 ---
 term: Vergessener Schrein
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt"]
 aliases: ["Vergessener Schrein (Trauma-Lokus)", "Trauma-Lokus"]
 gathered: "2026-09-17"
 ---
@@ -40,6 +40,10 @@ spiegelt die dissoziierte Natur der Erinnerung wider." ^[roman-lokalitaeten-konz
 
 That sentence is hedged (`vielleicht`) and is the only per-level account of what
 a Riss looks like anywhere read so far. See [[risse]].
+
+## Reading — `welt`, 2025-07-29, the Welt blueprint — a cave, one possible element of KW2
+
+The Welt blueprint names the `Vergessener Schrein` once, in the first pass, as a reference for how the second Kernwelt might look; the hedge is the text's own (`möglicherweise`, L48): a world with elements of a forest, ruins or „einer Höhle (verborgene Wahrheiten, Unterbewusstsein – vgl. Vergessener Schrein)“ ^[welt.md:L48].
 
 ## Reading — `outline`, 2025-07-30, the outline — a Trauma-Lokus in KW2 returned to in Kap 30
 

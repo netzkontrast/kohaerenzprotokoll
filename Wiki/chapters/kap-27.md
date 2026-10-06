@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,23 @@ Title: the commission titles the chapter „Der Sturm beginnt: Direkte Konfronta
 - Story: its `Plot Summary` plans „AEGIS reagiert mit massiver Verteidigung (Guardians, psychologische Angriffe)“ ^[kontext-outline.md:L373]
 - Foci: `Kael Sys Focus` „Anteile koordiniert (Selene?)“ ^[kontext-outline.md:L374]; `AEGIS Focus` „Massive Verteidigung; Psych. Kriegsführung; Einsatz Guardians“ ^[kontext-outline.md:L375]
 - Notes: „Storming the Castle“ ^[kontext-outline.md:L378]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Angewandte Integration`
+
+Focus: `Angewandte Integration`, „Der Beginn der finalen Konfrontation“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L235]
+
+- Story: „AEGIS reagiert mit voller Kraft“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L236]
+- Concept: „Test der erreichten“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L237] (concept tag: `Kael Integration`)
+- Act: „Beginn von Akt“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L236]
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.1, „Reise durch Kernwelten & Erste Erfolge“ ^[finales-kausales-plot-geruest.md:L162] (Kapitel 27–29)
+
+The beat sheet places Kapitel 27 in Beat 3.1; the beat spans Kapitel 27 to 29.
+
+- Beat: the heading titles it „Reise durch Kernwelten & Erste Erfolge“ ^[finales-kausales-plot-geruest.md:L162]
+- Event: the beat sheet's `Beschreibung` says „besucht erneut die Kernwelten“ ^[finales-kausales-plot-geruest.md:L164]
+- Cause: the `Kausale Verknüpfung` says „führt direkt zu einer Phase konzentrierter Selbst-Arbeit“ ^[finales-kausales-plot-geruest.md:L165]
+- Throughlines: the OS or MC line says „Kael macht aktiv Fortschritte in Richtung“ ^[finales-kausales-plot-geruest.md:L171]
 
 ## Reading — `outline`, 2025-07-30, the outline — Sturm auf die Überwelt: Der Beginn des Angriffs / Rückkehr zum Nexus
 
@@ -83,6 +100,10 @@ Position: Teil III; setting from the `Schauplatz` field: „Epsilon-Null (Das Po
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Das Nichts Rauschen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L277]
 - Story: the blueprint plans, in `Plot-Beats`, „Kaels interner Rückzugsort (die Simulation) kollabiert unter der System-Entropie“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L279] and „in das rohe, mathematische Chaos des Potentialmeers eintauchen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L279]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kairos in the Lyons-Welt, Kapitel 26–29
+
+- under Leitfrage 5 it asks how Kairos, whom it calls the Möglichkeits-Weber, acts „mit Kaels sich entfaltender Kreativität in der Lyons-Welt (Kapitel 26-29)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L107]; the range is the report's account of a document it numbers (its source 2), and it names no single chapter within it.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Sprung ins Nichts
 
@@ -142,6 +163,11 @@ Title: „Der Marsch zum Vortex“ ^[kohaerenz-protokoll-kapitel-outline-generie
 - Story: the dual-storyform outline plans „Kael akzeptiert seine Endlichkeit im Sinne Heideggers“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L287]
 - Storyforms: `Storyform B` (`OS: Psychology/Becoming`): „AEGIS verliert die Fähigkeit, Kael als passives Objekt zu behandeln“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L289]; `Storyform A` (`OS: Physics/Understanding`): „Die Heuristik der Integration beginnt aktiv zu arbeiten“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L290]
 - Scene and pacing: `Pacing`: „Inspirierend, marschierend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L291]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Phase III opens; the leap into nothing
+
+- The reset synthesis opens Phase III with the heading „Die existenzielle Fusion (Kapitel 27–39)“ ^[romanprojekt-analyse-synthese.md:L58]
+- It says: „Kael wählt den Sprung ins Nichts“ ^[romanprojekt-analyse-synthese.md:L60]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

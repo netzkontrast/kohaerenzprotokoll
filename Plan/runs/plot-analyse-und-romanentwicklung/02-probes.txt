@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      67
+  backslash escapes      98
+  typographic marks      62
+  ascii quotes           40
+
+# inflection families -- one term, several surfaces
+  disso    Dissociation, Dissociative, Dissonanz, Dissoziation, Dissoziative, Dissoziativen, Dissoziativer
+  daten    Daten, Datenbank, Datenknotenpunkt, Datenstruktur, Datenströme
+  handl    Handlungsanweisung, Handlungsanweisungen, Handlungsbogen, Handlungsbogens, Handlungsempfehlungen
+  mathe    Mathematicians, Mathematics, Mathematik, Mathematiker, Mathematische
+  psych    Psyche, Psychological, Psychologie, Psychosocial, Psychotherapie
+  syste    System, Systemische, Systems, Systemtheorie, Systemzustand
+  unive    Universal, Universen, Universes, University, Universums
+  analy    ANALYSIS, Analyse, Analysis, Analyst
+  ident    Identifikation, Identity, Identität, Identitätsstörung
+  inter    Internal, InternalFamilySystems, Internet, Intersectional
+  metap    Metapher, Metaphern, Metaphorik, Metaphysikalische
+  model    Model, Modeling, Modell, Modells
+  reali    Reality, Realität, Realitäten, Realitätssimulation
+  antei    Anteil, Anteile, Anteilen
+  archi    Architectural, Architektonisches, Architektur
+  chara    Charaktere, Charakterentwicklung, Charakterkonzepte
+  entro    Entropic, Entropie, Entropy
+  exter    Externalization, Externe, Externen
+  gödel    Gödel, Gödels, Gödelscher
+  infor    Informationen, Informationsnetzwerke, Informationstheorie
+  inner    Inner, Inneren, Innerhalb
+  integ    Integrate, Integration, Integrity
+  kontr    Kontrolle, Kontrollprotokoll, Kontrollverlust
+  manip    Manipulation, Manipulator, Manipulatorin
+  monst    Monster, Monstergruppe, Monstrous
+
+# substring pairs -- never one term, often merged by accident
+  Arts < Parts
+  Dies < Diese
+  Dies < Dieser
+  Eine < Meine
+  Eine < Seine
+  Eine < Anscheinend
+  Eins < Einsatz
+  Eins < Einstellung
+  Eins < Bewusstseins
+  Ende < Umfassende
+  Ende < Wendepunkt
+  Erst < Erster
+  Erst < Understanding
+  Erst < Zerstörungswut
+  Form < Formen
+  Form < Informationen
+  Form < Transformation
+  Form < Informationstheorie
+  Form < ModularFormsLecture
+  Form < Informationsnetzwerke

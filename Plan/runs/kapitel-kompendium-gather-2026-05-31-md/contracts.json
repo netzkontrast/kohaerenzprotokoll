@@ -1,0 +1,36 @@
+{
+ "source": "kapitel-kompendium-gather-2026-05-31-md",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 17,
+   "failed_calls": 0,
+   "chunks": 17,
+   "failed_chunks": 0,
+   "cost_usd": 0.3319,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+   "rows": 20,
+   "candidates": 17,
+   "refused": {
+    "chapter is neither on the quoted line nor the heading above it": 2,
+    "quote not placed": 1
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}

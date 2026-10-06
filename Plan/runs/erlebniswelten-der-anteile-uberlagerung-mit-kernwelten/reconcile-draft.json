@@ -1,0 +1,280 @@
+{
+  "document": "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+  "drive_id": "1DkadoNuaLaPw-89OS0-7mlUjlVybJxmi6kPgPDGtyEE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 57,
+    "decisions": 59,
+    "decided_by_lookup": 51,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "alex",
+      "lines": [
+        108,
+        110,
+        117
+      ],
+      "attribution": "",
+      "note": "the protector and its KW3 overlay"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        144,
+        146,
+        154
+      ],
+      "attribution": "",
+      "note": "the observer/critic and its KW4 overlay"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        26
+      ],
+      "attribution": "",
+      "note": "Kael's core problem"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        18,
+        19
+      ],
+      "attribution": "",
+      "note": "the name in brackets after KW3"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        18,
+        19,
+        33,
+        57
+      ],
+      "attribution": "",
+      "note": "KW3 as B, chaos and defence, marked an interpretation"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        84,
+        86,
+        91
+      ],
+      "attribution": "",
+      "note": "the staged-power EP and its KW1 overlay, hedged"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        24,
+        26,
+        31,
+        32,
+        33,
+        34
+      ],
+      "attribution": "",
+      "note": "Kael as the first of eleven Anteile, a managing host"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        20
+      ],
+      "attribution": "",
+      "note": "one of two names in brackets after KW4"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        33
+      ],
+      "attribution": "",
+      "note": "the four Kernwelten set beside group-theoretical names, two marked as interpretation"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        60,
+        62,
+        69
+      ],
+      "attribution": "",
+      "note": "the frightened child EP and its KW3 overlay"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        17,
+        31,
+        139
+      ],
+      "attribution": "",
+      "note": "KW1 as Co₁, rigid order"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        132,
+        134,
+        139
+      ],
+      "attribution": "",
+      "note": "the rationalist and its KW1 overlay"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        72,
+        74,
+        82
+      ],
+      "attribution": "",
+      "note": "the ambivalent child EP and its KW4 overlay"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the name in brackets after KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        18
+      ],
+      "attribution": "",
+      "note": "the name in brackets after KW2"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        20,
+        34
+      ],
+      "attribution": "",
+      "note": "KW4 as Ly, potentiality and growth"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        96,
+        98,
+        105
+      ],
+      "attribution": "",
+      "note": "the collapse EP and its KW3 overlay, hedged"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        48,
+        50,
+        57
+      ],
+      "attribution": "",
+      "note": "the fighting EP and its KW3 overlay"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        18,
+        32
+      ],
+      "attribution": "",
+      "note": "KW2 as McL, marked an interpretation"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        120,
+        122,
+        127
+      ],
+      "attribution": "",
+      "note": "the caregiver and its KW1 overlay"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        36,
+        38,
+        46
+      ],
+      "attribution": "",
+      "note": "an observing Anteil and its hedged KW4 overlay"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        20,
+        46
+      ],
+      "attribution": "",
+      "note": "KW4's second name, and a hedged tie to Selene"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C15"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 20,
+      "decision": "occurrence",
+      "why": "a cell of KW4's focus, „Potentialität, Emergenz“, nothing said of Emergenz itself"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 26,
+      "decision": "occurrence",
+      "why": "inside `Cache Kohärenz` (J16)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

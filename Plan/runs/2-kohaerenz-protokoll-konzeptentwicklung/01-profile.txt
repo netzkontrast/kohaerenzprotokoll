@@ -1,0 +1,14 @@
+# 2-kohaerenz-protokoll-konzeptentwicklung
+  lines                354  (frontmatter ends at 0)
+  body words           9762
+  headings             44   bold-only lines 5
+  table rows           0   code fences 0
+  question marks       59
+  backslash escapes    223
+  typographic marks    16   ascii quotes 104
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    81
+  repeated labels      Central Conceptual Focus x40, Narrative & Reader Psychology Strategy x40, Recherche-Keywords x40, Research & Concept Application x40
+  longest line         962 chars
+

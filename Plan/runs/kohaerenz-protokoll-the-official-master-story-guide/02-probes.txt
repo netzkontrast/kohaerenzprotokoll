@@ -1,0 +1,54 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      28
+  typographic marks      10
+  ascii quotes           88
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architecture, Architectures, Archivist
+  contr    Contradiction, Contradictory, Control
+  integ    Integrated, Integration, Integrative
+  opera    Operational, Operationally, Operator
+  ratio    Rationale, Rationalist, Rationalization
+  autop    Autopoiesis, Autopoietic
+  creat    Creates, Creative
+  execu    Execution, Executive
+  funct    Function, Functional
+  guard    Guardian, Guardians
+  incon    Inconsistency, Inconsistent
+  logic    Logic, Logics
+  logos    LogOS, Logos
+  multi    Multiple, Multiplicity
+  ontol    Ontological, Ontology
+  poten    Potential, Potentialis
+  prote    Protector, Protectors
+  proto    Protocol, Protokoll
+  psych    Psycho, Psychological
+  resol    Resolution, Resolutions
+  reson    Resonance, Resonanz
+  seman    Semantic, Semantik
+  strat    Strategic, Strategy
+  syste    System, Systems
+  theor    Theoretical, Theory
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  Child < Schwarzschild
+  LogOS < Logos
+  Logic < Logics
+  Logic < Ontological
+  Logic < Psychological
+  World < Worlds
+  Entity < Identity
+  Nature < Signature
+  Psycho < Psychological
+  System < Systems
+  Diction < Contradiction
+  Function < Functional
+  Guardian < Guardians
+  Potential < Potentialis
+  Protector < Protectors
+  Resolution < Resolutions
+  Operational < Operationally
+  Architecture < Architectures

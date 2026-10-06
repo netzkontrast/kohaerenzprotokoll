@@ -1,0 +1,465 @@
+{
+  "document": "roman-entwicklung-kohaerenz-und-leitfragen",
+  "drive_id": "1OhlTqU64wEH7oFqnidvd7YaQabegp-b-lg6ldAZUriU",
+  "step": "reconcile",
+  "at": "2026-10-05",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 149,
+    "decisions": 158,
+    "decided_by_lookup": 111,
+    "needs_judgement": 47
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        50,
+        69,
+        73,
+        83,
+        103,
+        139
+      ],
+      "attribution": "",
+      "note": "AEGIS as the system the documents describe, and the report's questions about it"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        73
+      ],
+      "attribution": "",
+      "note": "one question: does the Gödel trap lead to it"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        46,
+        48,
+        56,
+        63
+      ],
+      "attribution": "",
+      "note": "two rosters reported: ten alters against 13 entities"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        103,
+        109
+      ],
+      "attribution": "",
+      "note": "the Guardians' blind spot toward the Partnerin, and the open question for the other three"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "Cerberus: integrity and defence, a weaker profile"
+    },
+    {
+      "page": "did",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "DIS/DID as the condition behind the main figure"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        17,
+        83,
+        139
+      ],
+      "attribution": "",
+      "note": "entropy from deletion, and an Entropie-Torwächter"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "Juna as an entity from the Externe Ebene"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        69,
+        71,
+        73,
+        75,
+        157
+      ],
+      "attribution": "",
+      "note": "the Parakonsistente Gambit of the finale and how Kael is to carry it out"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        94,
+        105
+      ],
+      "attribution": "",
+      "note": "the third Kernwelt: B, protectors, Cerberus"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        103,
+        105,
+        109
+      ],
+      "attribution": "",
+      "note": "the Guardians as AEGIS's agents, two profiled and three weak"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21,
+        23,
+        27,
+        34
+      ],
+      "attribution": "",
+      "note": "the emotional anchor from the Externe Ebene, and its question against Nova Ardent"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        21,
+        25,
+        46,
+        119
+      ],
+      "attribution": "",
+      "note": "the host of the ten-alter table, and an open question about his origin"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        95,
+        105,
+        107
+      ],
+      "attribution": "",
+      "note": "Kairos: the Möglichkeits-Weber of the Lyons-Welt"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        81,
+        91,
+        92,
+        93,
+        94,
+        95,
+        97
+      ],
+      "attribution": "",
+      "note": "the four Kernwelten with their early names in brackets, and a transition mechanism it calls open"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        153
+      ],
+      "attribution": "",
+      "note": "the end rests on Kishotenketsu, with Ten to Ketsu as the climax"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        81,
+        92
+      ],
+      "attribution": "",
+      "note": "the first Kernwelt in its table row, and Kapitel 1's architectural storytelling"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        139,
+        141,
+        143
+      ],
+      "attribution": "",
+      "note": "Landauer's principle applied: deletion produces digital heat"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "an EP in the 13-entity roster"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        92,
+        103
+      ],
+      "attribution": "",
+      "note": "LogOS: well profiled, a blind spot toward the Partnerin"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        93,
+        103
+      ],
+      "attribution": "",
+      "note": "Mnemosyne: well profiled, a blind spot toward the Partnerin"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        95,
+        105
+      ],
+      "attribution": "",
+      "note": "the fourth Kernwelt: Ly, creativity, Kairos / Sophia"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        27,
+        34
+      ],
+      "attribution": "",
+      "note": "Juna as the external Moonshine connection"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        155
+      ],
+      "attribution": "",
+      "note": "the finale as a possible triumph of the Mosaik-Herz"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        95,
+        105
+      ],
+      "attribution": "",
+      "note": "only the slash: Möglichkeits-Garten / Nexus"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        119
+      ],
+      "attribution": "",
+      "note": "the Reboot because the Nichts Rauschen broke in"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        46,
+        61
+      ],
+      "attribution": "",
+      "note": "one of the ten alters, the Freeze alter"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        103
+      ],
+      "attribution": "",
+      "note": "the Partnerin (Juna) as the one the Guardians misread"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "one of Juna's possible natures; where the collapse is shown"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        48,
+        93
+      ],
+      "attribution": "",
+      "note": "the second Kernwelt: McL, the EPs and trauma"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        50,
+        85,
+        139,
+        141
+      ],
+      "attribution": "",
+      "note": "Glitches and Risse from the host's avoidance, and whether the Risse are channels"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        46,
+        115
+      ],
+      "attribution": "",
+      "note": "one of the ten alters, the Caretaker, and Silus"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        95,
+        107
+      ],
+      "attribution": "",
+      "note": "Sophia: the AEGIS-conform Synthesis against organic integration"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        25,
+        44,
+        50
+      ],
+      "attribution": "",
+      "note": "TSDP and IFS as the blueprint of Kael's consciousness"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      0,
+      1,
+      2,
+      3,
+      11,
+      12,
+      13,
+      18,
+      26,
+      27,
+      28,
+      29,
+      31,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C11",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q6",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 17,
+      "decision": "reading",
+      "why": "DIS/DID behind the main figure, with a personal background; read on did"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 95,
+      "decision": "occurrence",
+      "why": "a cell of the Kernwelten table, `Kreativität, Potenzial, Emergenz`, saying nothing of Emergenz itself"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 50,
+      "decision": "reading",
+      "why": "Risse and entropy from the host's avoidance; read on entropie with L83, L139"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 111,
+      "decision": "occurrence",
+      "why": "the title of a cited source, `Einleitung: Genesis der Existenz`"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "moonshine-link",
+      "surface": "Moonshine-Link",
+      "line": 34,
+      "decision": "reading",
+      "why": "Juna / V's ontological status in the table; read on moonshine-link with L27"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 105,
+      "decision": "reading",
+      "why": "`Möglichkeits-Garten / Nexus` for Kairos and Sophia; read on nexus and Q6"
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 103,
+      "decision": "reading",
+      "why": "the Partnerin (Juna) toward whom LogOS and Mnemosyne are blind; read on partnerin"
+    },
+    {
+      "page": "personas",
+      "surface": "Personas",
+      "line": 48,
+      "decision": "occurrence",
+      "why": "the ordinary plural, which personas exist and interact"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 25,
+      "decision": "occurrence",
+      "why": "`Simulation` the ordinary word for AEGIS's world, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

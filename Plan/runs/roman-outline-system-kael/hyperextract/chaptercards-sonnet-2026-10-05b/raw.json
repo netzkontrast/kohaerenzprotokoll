@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "source": "Kapitel 1: Das Erwachen im Spiegel",
+      "target": "Kael erwacht in seinem sterilen Apartment (E1) nach einem System-Neustart",
+      "type": "hook_in",
+      "quote": "Kapitel 1: Das Erwachen im Spiegel:** Kael erwacht in seinem sterilen Apartment (E1) nach einem System-Neustart",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1: Das Erwachen im Spiegel",
+      "target": "sterilen Apartment (E1)",
+      "type": "place",
+      "quote": "Kapitel 1: Das Erwachen im Spiegel:** Kael erwacht in seinem sterilen Apartment (E1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2: Die Logik der Risse",
+      "target": "sucht Kael das Mnemosyne-Archiv (E3) auf",
+      "type": "want",
+      "quote": "Kapitel 2: Die Logik der Risse:** In dem Versuch, Antworten zu finden, sucht Kael das Mnemosyne-Archiv (E3) auf",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2: Die Logik der Risse",
+      "target": "Mnemosyne-Archiv (E3)",
+      "type": "place",
+      "quote": "Kapitel 2: Die Logik der Risse:** In dem Versuch, Antworten zu finden, sucht Kael das Mnemosyne-Archiv (E3)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3: Die Illusion der Therapie",
+      "target": "Als Reaktion auf die eskalierenden Anomalien",
+      "type": "why_now",
+      "quote": "Kapitel 3: Die Illusion der Therapie:** Als Reaktion auf die eskalierenden Anomalien wird Kael zu einer systemkonformen Therapiesitzung mit **Dr. Thorne** beordert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3: Die Illusion der Therapie",
+      "target": "Dr. Thorne",
+      "type": "who",
+      "quote": "Kapitel 3: Die Illusion der Therapie:** Als Reaktion auf die eskalierenden Anomalien wird Kael zu einer systemkonformen Therapiesitzung mit **Dr. Thorne** beordert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Der Ruf der Tiefe",
+      "target": "Ein starker Impuls der Juna-Verbindung destabilisiert Kaels Realität in KW1 vollständig",
+      "type": "hook_in",
+      "quote": "Kapitel 4: Der Ruf der Tiefe:** Ein starker Impuls der Juna-Verbindung destabilisiert Kaels Realität in KW1 vollständig.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Die Schwelle und der Wächter",
+      "target": "Argus",
+      "type": "who",
+      "quote": "Kapitel 5: Die Schwelle und der Wächter:** An der Grenze zu KW2 trifft Kael auf den Grenzwärter **Argus**",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Die Schwelle und der Wächter",
+      "target": "An der Grenze zu KW2",
+      "type": "place",
+      "quote": "Kapitel 5: Die Schwelle und der Wächter:** An der Grenze zu KW2 trifft Kael auf den Grenzwärter **Argus**",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6: Begegnung mit Echo",
+      "target": "Echo",
+      "type": "who",
+      "quote": "Kapitel 6: Begegnung mit Echo:** In der surrealen und sich wandelnden Erinnerungslandschaft (E2) begegnet Kael der verängstigten Kind-Manifestation **Echo**",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6: Begegnung mit Echo",
+      "target": "In der surrealen und sich wandelnden Erinnerungslandschaft (E2)",
+      "type": "place",
+      "quote": "Kapitel 6: Begegnung mit Echo:** In der surrealen und sich wandelnden Erinnerungslandschaft (E2) begegnet Kael der verängstigten Kind-Manifestation **Echo**",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7: Der Glitching Market",
+      "target": "„Glitching Market“",
+      "type": "place",
+      "quote": "Kapitel 7: Der Glitching Market:** Auf der Flucht vor den emotionalen Stürmen aus KW2 gerät Kael in den „Glitching Market“",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8: Die Mauern der Logik",
+      "target": "versucht verzweifelt, aus der Grenzfeste zu entkommen",
+      "type": "want",
+      "quote": "Kapitel 8: Die Mauern der Logik:** Kael versucht verzweifelt, aus der Grenzfeste zu entkommen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8: Die Mauern der Logik",
+      "target": "den paradoxen und sich ständig ändernden Sicherheitsvorkehrungen von **Cerberus**",
+      "type": "obstacle",
+      "quote": "Kapitel 8: Die Mauern der Logik:** Kael versucht verzweifelt, aus der Grenzfeste zu entkommen, scheitert aber immer wieder an den paradoxen und sich ständig ändernden Sicherheitsvorkehrungen von **Cerberus**",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9: Ego-Tod im Abgrund",
+      "target": "„Abgrund der Ängste“",
+      "type": "place",
+      "quote": "Kapitel 9: Ego-Tod im Abgrund:** Völlig erschöpft und demoralisiert wird Kael in den „Abgrund der Ängste“",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10: Der Garten der flüsternden Pfade",
+      "target": "Möglichkeits-Garten (E5)",
+      "type": "place",
+      "quote": "Kapitel 10: Der Garten der flüsternden Pfade:** Kael findet sich im Möglichkeits-Garten (E5) wieder.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11: Die Welle der Unmöglichkeit",
+      "target": "AEGIS erkennt, dass Kael nicht neutralisiert wurde, sondern eine neue, unvorhersehbare und für das System unlogische Form der Kohärenz entwickelt",
+      "type": "who",
+      "quote": "Kapitel 11: Die Welle der Unmöglichkeit:** AEGIS erkennt, dass Kael nicht neutralisiert wurde, sondern eine neue, unvorhersehbare und für das System unlogische Form der Kohärenz entwickelt.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12: Der Innere Rat",
+      "target": "In einem sicheren Unterschlupf",
+      "type": "place",
+      "quote": "Kapitel 12: Der Innere Rat:** In einem sicheren Unterschlupf, angesichts der drohenden gemeinsamen Auslöschung, initiiert Kael den „Inneren Rat“.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12: Der Innere Rat",
+      "target": "angesichts der drohenden gemeinsamen Auslöschung",
+      "type": "why_now",
+      "quote": "Kapitel 12: Der Innere Rat:** In einem sicheren Unterschlupf, angesichts der drohenden gemeinsamen Auslöschung, initiiert Kael den „Inneren Rat“.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12: Der Innere Rat",
+      "target": "Kael initiiert den „Inneren Rat“",
+      "type": "want",
+      "quote": "Kapitel 12: Der Innere Rat:** In einem sicheren Unterschlupf, angesichts der drohenden gemeinsamen Auslöschung, initiiert Kael den „Inneren Rat“.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Kontakt",
+      "target": "Kael und seine inneren und äußeren Verbündeten",
+      "type": "who",
+      "quote": "Kapitel 13: Kontakt:** Gemeinsam navigieren Kael und seine inneren und äußeren Verbündeten die chaotische, zerbrechende Überwelt zum zentralen AEGIS-Hub (E0).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Kontakt",
+      "target": "navigieren die chaotische, zerbrechende Überwelt zum zentralen AEGIS-Hub (E0)",
+      "type": "want",
+      "quote": "Kapitel 13: Kontakt:** Gemeinsam navigieren Kael und seine inneren und äußeren Verbündeten die chaotische, zerbrechende Überwelt zum zentralen AEGIS-Hub (E0).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 13: Kontakt",
+      "target": "zentralen AEGIS-Hub (E0)",
+      "type": "place",
+      "quote": "Kapitel 13: Kontakt:** Gemeinsam navigieren Kael und seine inneren und äußeren Verbündeten die chaotische, zerbrechende Überwelt zum zentralen AEGIS-Hub (E0).",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*1\\*\\*",
+      "target": "Kaels Apartment (E1)",
+      "type": "place",
+      "quote": "\\*\\*1\\*\\* | Kaels Apartment (E1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*2\\*\\*",
+      "target": "Straßen Sektor Gamma (E1)",
+      "type": "place",
+      "quote": "\\*\\*2\\*\\* | Straßen Sektor Gamma (E1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*3\\*\\*",
+      "target": "Mnemosyne-Archive (E3)",
+      "type": "place",
+      "quote": "\\*\\*3\\*\\* | Mnemosyne-Archive (E3)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*3\\*\\*",
+      "target": "Systemblockade",
+      "type": "obstacle",
+      "quote": "\\*\\*3\\*\\* | Mnemosyne-Archive (E3) | Atmosphäre: Wissen & Kontrolle; Konflikt: Informationssuche vs. Systemblockade",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*4\\*\\*",
+      "target": "Abgelegener Ort Sektor Gamma (E1)",
+      "type": "place",
+      "quote": "\\*\\*4\\*\\* | Abgelegener Ort Sektor Gamma (E1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*4\\*\\*",
+      "target": "Erster Juna-Kontakt",
+      "type": "who",
+      "quote": "\\*\\*4\\*\\* | Abgelegener Ort Sektor Gamma (E1); Ext. Schnittstelle (E6) | Atmosphäre: Relative Ruhe, dann Dringlichkeit; Plot: Erster Juna-Kontakt",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*5\\*\\*",
+      "target": "Fluchtroute (E1)",
+      "type": "place",
+      "quote": "\\*\\*5\\*\\* | Fluchtroute (E1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*5\\*\\*",
+      "target": "Kael vs. AEGIS (Einheit 734)",
+      "type": "obstacle",
+      "quote": "\\*\\*5\\*\\* | Fluchtroute (E1); Threshold Zone (Übergang); Chaos-Zone (E4) | Atmosphäre: Gefahr, Instabilität; Konflikt: Kael vs. AEGIS (Einheit 734)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*6\\*\\*",
+      "target": "Erinnerungslandschaft (E2)",
+      "type": "place",
+      "quote": "\\*\\*6\\*\\* | Erinnerungslandschaft (E2)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*6\\*\\*",
+      "target": "Begegnung Echo",
+      "type": "who",
+      "quote": "\\*\\*6\\*\\* | Erinnerungslandschaft (E2) | Atmosphäre: Surreal, melancholisch; Kael's State: Spiegelt innere Fragmentierung; Plot: Begegnung Echo",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*7\\*\\*",
+      "target": "Glitching Market (E1)",
+      "type": "place",
+      "quote": "\\*\\*7\\*\\* | Glitching Market (E1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*7\\*\\*",
+      "target": "Begegnung Silas",
+      "type": "who",
+      "quote": "\\*\\*7\\*\\* | Glitching Market (E1) | Atmosphäre: Chaotisch, misstrauisch; Konflikt: Kael vs. Zweifel (Silas); Plot: Begegnung Silas",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*8\\*\\*",
+      "target": "Garten d. Möglichkeiten (E5)",
+      "type": "place",
+      "quote": "\\*\\*8\\*\\* | Garten d. Möglichkeiten (E5)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*8\\*\\*",
+      "target": "Begegnung Anya",
+      "type": "who",
+      "quote": "\\*\\*8\\*\\* | Garten d. Möglichkeiten (E5) | Atmosphäre: Hoffnungsvoll, inspirierend; Kael's State: Erholung, kreativer Impuls; Plot: Begegnung Anya",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*9\\*\\*",
+      "target": "Abgrund d. Ängste (E4)",
+      "type": "place",
+      "quote": "\\*\\*9\\*\\* | Abgrund d. Ängste (E4)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*10\\*\\*",
+      "target": "Nexus of Whispers (E3)",
+      "type": "place",
+      "quote": "\\*\\*10\\*\\* | Nexus of Whispers (E3)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*10\\*\\*",
+      "target": "Begegnung Sibyl",
+      "type": "who",
+      "quote": "\\*\\*10\\*\\* | Nexus of Whispers (E3) | Atmosphäre: Mystisch, rätselhaft; Plot: Begegnung Sibyl",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*11\\*\\*",
+      "target": "Zentralplatz Sektor Alpha (E1)",
+      "type": "place",
+      "quote": "\\*\\*11\\*\\* | Zentralplatz Sektor Alpha (E1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*11\\*\\*",
+      "target": "Zentralplatz Sektor Alpha (E1)",
+      "type": "place",
+      "quote": "\\*\\*11\\*\\* | Zentralplatz Sektor Alpha (E1)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*11\\*\\*",
+      "target": "AEGIS Hub (E0)",
+      "type": "place",
+      "quote": "\\*\\*11\\*\\* | Zentralplatz Sektor Alpha (E1); AEGIS Hub (E0)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*11\\*\\*",
+      "target": "Kael vs. AEGIS (Eskalation)",
+      "type": "obstacle",
+      "quote": "\\*\\*11\\*\\* | Zentralplatz Sektor Alpha (E1); AEGIS Hub (E0) | Atmosphäre: Chaos, Panik, massive Bedrohung; Konflikt: Kael vs. AEGIS (Eskalation)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*12\\*\\*",
+      "target": "Sicherer Unterschlupf (E5/E3?)",
+      "type": "place",
+      "quote": "\\*\\*12\\*\\* | Sicherer Unterschlupf (E5/E3?)",
+      "stance": "hedges"
+    },
+    {
+      "source": "\\*\\*12\\*\\*",
+      "target": "Innerer Konferenzraum (E2)",
+      "type": "place",
+      "quote": "\\*\\*12\\*\\* | Sicherer Unterschlupf (E5/E3?); Innerer Konferenzraum (E2)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*13\\*\\*",
+      "target": "Entropie-Knotenpunkt (Instabil)",
+      "type": "place",
+      "quote": "\\*\\*13\\*\\* | Entropie-Knotenpunkt (Instabil)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*13\\*\\*",
+      "target": "AEGIS Hub (E0 - Kontakt)",
+      "type": "place",
+      "quote": "\\*\\*13\\*\\* | Entropie-Knotenpunkt (Instabil); AEGIS Hub (E0 - Kontakt)",
+      "stance": "asserts"
+    },
+    {
+      "source": "\\*\\*13\\*\\*",
+      "target": "Kael/Verbündete vs. AEGIS",
+      "type": "obstacle",
+      "quote": "\\*\\*13\\*\\* | Entropie-Knotenpunkt (Instabil); AEGIS Hub (E0 - Kontakt) | Atmosphäre: Extreme Instabilität, Höhepunkt; Konflikt: Finale Konfrontation Kael/Verbündete vs. AEGIS",
+      "stance": "asserts"
+    }
+  ]
+}

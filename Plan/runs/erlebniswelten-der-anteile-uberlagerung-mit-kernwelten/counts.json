@@ -1,0 +1,608 @@
+{
+  "document": "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+  "drive_id": "1DkadoNuaLaPw-89OS0-7mlUjlVybJxmi6kPgPDGtyEE",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Erlebniswelten der Anteile": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        22,
+        158
+      ]
+    },
+    "Erlebniswelt": {
+      "n": 12,
+      "n_including_compounds": 17,
+      "lines": [
+        11,
+        13,
+        22,
+        26,
+        38,
+        50,
+        62,
+        74,
+        86,
+        98,
+        110,
+        122,
+        134,
+        146,
+        158,
+        164
+      ]
+    },
+    "Überlagerung mit Kernwelten": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        27,
+        39,
+        51,
+        63,
+        75,
+        87,
+        99,
+        111,
+        123,
+        135,
+        147
+      ]
+    },
+    "Kernwelten": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        11,
+        13,
+        15,
+        27,
+        39,
+        51,
+        63,
+        75,
+        87,
+        99,
+        111,
+        123,
+        135,
+        147,
+        158
+      ]
+    },
+    "Anteile": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        13,
+        22,
+        50,
+        158,
+        162
+      ]
+    },
+    "KW1": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        31,
+        43,
+        55,
+        67,
+        79,
+        91,
+        103,
+        115,
+        127,
+        139,
+        151,
+        161
+      ]
+    },
+    "KW2": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        18,
+        32,
+        44,
+        56,
+        68,
+        80,
+        92,
+        104,
+        116,
+        128,
+        134,
+        140,
+        152,
+        160,
+        161
+      ]
+    },
+    "KW3": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        19,
+        33,
+        45,
+        57,
+        69,
+        81,
+        93,
+        105,
+        117,
+        129,
+        141,
+        153
+      ]
+    },
+    "KW4": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        20,
+        34,
+        46,
+        58,
+        70,
+        82,
+        94,
+        106,
+        118,
+        130,
+        134,
+        142,
+        154
+      ]
+    },
+    "KW1 (Co₁)": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        31,
+        43,
+        55,
+        67,
+        79,
+        91,
+        103,
+        115,
+        127,
+        139,
+        151
+      ]
+    },
+    "KW2 (McL)": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        32,
+        44,
+        56,
+        68,
+        80,
+        92,
+        104,
+        116,
+        128,
+        140,
+        152
+      ]
+    },
+    "KW3 (B)": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        33,
+        45,
+        57,
+        69,
+        81,
+        93,
+        105,
+        117,
+        129,
+        141,
+        153
+      ]
+    },
+    "KW4 (Ly)": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        34,
+        46,
+        58,
+        70,
+        82,
+        94,
+        106,
+        118,
+        130,
+        142,
+        154
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Grenzfeste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Sophia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        20,
+        46
+      ]
+    },
+    "Co₁": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        17,
+        31,
+        43,
+        55,
+        67,
+        79,
+        91,
+        103,
+        115,
+        127,
+        139,
+        151
+      ]
+    },
+    "McL": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        18,
+        32,
+        44,
+        56,
+        68,
+        80,
+        92,
+        104,
+        116,
+        128,
+        140,
+        152
+      ]
+    },
+    "Ly": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        20,
+        34,
+        46,
+        58,
+        70,
+        82,
+        94,
+        106,
+        118,
+        130,
+        142,
+        154
+      ]
+    },
+    "Conway-Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "McLaughlin-Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Baby-Monstergruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Lyons-Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Kael": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        13,
+        24,
+        160,
+        166
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        48,
+        161
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        116
+      ]
+    },
+    "Lia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        116
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Moros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        96,
+        122
+      ]
+    },
+    "Alex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        108
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        132,
+        160,
+        161
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "ANP": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        24,
+        36,
+        108,
+        120,
+        132,
+        144
+      ]
+    },
+    "Primärer ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        132
+      ]
+    },
+    "Sekundärer ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        108,
+        120
+      ]
+    },
+    "Modifizierter ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "EP": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        31,
+        48,
+        60,
+        72,
+        84,
+        96,
+        134,
+        144,
+        163
+      ]
+    },
+    "TSDP-Rolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "EP-Trigger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "DIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        164
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "gelbe Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Bunker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Externalisierung innerer Konflikte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Narrative Funktion der Überlagerung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    }
+  }
+}

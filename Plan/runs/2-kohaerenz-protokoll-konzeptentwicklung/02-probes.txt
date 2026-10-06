@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      81
+  backslash escapes      223
+  typographic marks      16
+  ascii quotes           104
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systemdynamik, Systemdynamiken, Systeme, Systemen, Systemfehler, Systemic, Systeminstabilität, Systemische, Systemisches, Systems, Systemtheorie, Systemverhalten, Systemzusammenbruchs
+  kontr    Kontrolle, Kontrollmechanismen, Kontrollphilosophie, Kontrollstrategie, Kontrollstruktur, Kontrollsysteme, Kontrollverlust, Kontrollverlusts, Kontrollversuche
+  verte    Verteidigen, Verteidigung, Verteidigungs, Verteidigungsebene, Verteidigungslinien, Verteidigungsmechanismen, Verteidigungssysteme, Verteidigungssystemen
+  philo    Philosophical, Philosophie, Philosophisch, Philosophische, Philosophischen, Philosophischer, Philosophy
+  psych    Psychedelic, Psychological, Psychologie, Psychologisch, Psychologischem, Psychologischen, Psychology
+  reali    Realisation, Reality, Realität, Realitätsauffassung, Realitätsebene, Realitätsfrage, Realitätswahrnehmung
+  emoti    Emotion, Emotional, Emotionale, Emotionalität, Emotionen, Emotionsanalyse
+  inter    Interaktion, Internal, Interne, Interpretationen, Intervening, Intervention
+  parad    Paradox, ParadoxOfControl, Paradoxes, Paradoxien, Paradoxon, Paradoxons
+  poten    Potentialis, Potentiality, Potentialität, Potenzial, Potenzialität, Potenzials
+  selbs    Selbst, Selbsterhaltung, Selbstorganisation, Selbsttäuschung, Selbstzerstörung, Selbstzweifel
+  strat    Stratege, Strategic, Strategie, Strategien, Strategiewechsel, Strategy
+  traum    Trauma, Traumata, Traumatic, Traumatische, Traumatization, Traumaverarbeitung
+  abweh    Abwehr, Abwehrhaltung, Abwehrkräfte, Abwehrmechanismen, Abwehrreaktionen
+  begin    Beginn, Beginnende, Beginning, Beginnings, Begins
+  bewus    Bewusstheit, Bewusstsein, Bewusstseins, Bewusstseinszentrum, Bewusstwerdung
+  disso    Dissociation, Dissociative, Dissonance, Dissonanz, Dissoziation
+  durch    Durch, Durchbrechen, Durchbruch, Durchbruchs, Durchbrüchen
+  erken    Erkennen, Erkenntnis, Erkenntnisse, Erkenntnissen, Erkenntnistheorie
+  exist    Existential, Existentialism, Existenz, Existenzen, Existenzielle
+  angri    Angriff, Angriffe, Angriffen, Angriffspunkte
+  angst    Angst, Angstbewältigung, Angstbewältigungsstrategien, Angstkonfrontation
+  antei    Anteil, Anteile, Anteilen, Anteils
+  entsc    Entscheidung, Entscheidungen, Entschlossenheit, Entschlüsselung
+  erzäh    Erzählperspektive, Erzählt, Erzählung, Erzählweise
+
+# substring pairs -- never one term, often merged by accident
+  Böse < Bösen
+  Call < Recall
+  Care < Caregiver
+  Core < Score
+  Deal < Dealing
+  Dies < Diese
+  Dies < Dieser
+  Down < Breakdown
+  Earn < Learning
+  Echo < Echos
+  Eine < Seine
+  Ende < Enden
+  Ende < Beginnende
+  Ende < Wendepunkt
+  Ende < Zunehmendes
+  Ende < Einleitendes
+  Ende < Grundlegende
+  Ende < Transzendenz
+  Ende < Wiederkehrende
+  Evil < Devil

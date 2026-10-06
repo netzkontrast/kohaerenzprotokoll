@@ -1,0 +1,121 @@
+# counts for 89 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           128 word   146 in   [9, 16, 17, 18, 24, 25]
+                                    9      as AEGIS-Paradoxon
+                                    7      as AEGIS-Paradoxons
+  Kael                             74 word   126 in   [9, 15, 17, 24, 25, 26]
+                                   50      as Kaels
+                                    1      as Kael-Hosts
+                                    1      as Kael-AEGIS-Interaktion
+  System Kael                      12 word    12 in   [9, 30, 116, 138, 140, 193]
+  Juna/V                           31 word    32 in   [9, 26, 38, 48, 124, 125]
+                                    1      as Juna/Vs
+  Fundament                        15 word    18 in   [9, 17, 18, 26, 38, 272]
+                                    3      as fundamentale
+                                    2      as fundamentalen
+                                    2      as fundamental
+                                    2      as Fundaments
+  Überwelt                          8 word     8 in   [142, 144, 145, 146, 152, 173]
+  Guardians                         7 word     7 in   [39, 166, 167, 168, 236, 237]
+  Guardian LogOS                    3 word     3 in   [61, 63, 245]
+  LogOS                            12 word    12 in   [61, 62, 63, 103, 242, 243]
+                                    1      as Logos-Prime
+  Guardian Mnemosyne                1 word     1 in   [82]
+  Mnemosyne                        14 word    17 in   [82, 83, 84, 89, 90, 91]
+                                    2      as Mnemosynes
+                                    1      as Mnemosyne-Archipel
+  Guardian Cerberus                 1 word     1 in   [110]
+  Cerberus                         15 word    16 in   [110, 111, 112, 207, 208, 209]
+                                    1      as Cerberus-Labyrinth
+  Kairos                            2 word     3 in   [166, 168]
+                                    1      as Kairos-Potentialis
+  Sophia                            2 word     2 in   [166, 168]
+  Konstrukt-Welten                  1 word     1 in   [39]
+  Konstrukt-Welten (KWs)            1 word     1 in   [39]
+  KWs                               5 word     5 in   [39, 166, 173, 299]
+  KW1                               7 word     7 in   [54, 55, 60, 61, 62, 68]
+  KW2                               9 word     9 in   [81, 82, 83, 88, 89, 96]
+  KW3                               7 word     7 in   [109, 110, 111, 207, 208, 264]
+  KW4                               5 word     5 in   [163, 165, 166, 167]
+  Logos-Prime                       1 word     1 in   [54]
+  Mnemosyne-Archipel                1 word     1 in   [82]
+  Cerberus-Labyrinth                1 word     1 in   [110]
+  Kairos-Potentialis                1 word     1 in   [166]
+  Lex                              25 word    25 in   [55, 60, 61, 62, 68, 69]
+  Alex                             16 word    16 in   [67, 68, 69, 75, 89, 103]
+  Rhys                             15 word    15 in   [74, 75, 76, 82, 89, 117]
+  Nyx                               5 word     5 in   [110, 111, 208, 250, 264]
+  Selene                           11 word    11 in   [118, 194, 196, 229, 230, 231]
+  Argus                            12 word    12 in   [124, 131, 132, 133, 145, 146]
+  Kiko                              6 word     7 in   [82, 89, 110, 111, 208, 257]
+                                    1      as Kikos
+  Lia                               2 word     2 in   [89, 257]
+  Moros                             3 word     3 in   [82, 89, 257]
+  Echo                              2 word     4 in   [48, 88, 278]
+                                    2      as Echos
+  Nichts Rauschen                   1 word     1 in   [48]
+  Kael-Hosts                        1 word     1 in   [54]
+  Host                              2 word     3 in   [54, 82, 89]
+  Riss                              5 word     9 in   [37, 61, 123, 124, 125, 131]
+                                    3      as Risse
+                                    1      as Risses
+  Risse                             3 word     4 in   [37, 61, 124, 180]
+                                    1      as Risses
+  Glitches                          4 word     4 in   [37, 54, 55, 124]
+  Fehlausgerichteter Kohärenz       2 word     2 in   [46, 186]
+  Fehlausgerichtete Kohärenz        3 word     3 in   [37, 188, 215]
+  Fehleausgerichtete Kohärenz       2 word     2 in   [49, 189]
+  AEGIS-Paradoxon                   9 word    16 in   [37, 62, 97, 104, 125, 153]
+                                    7      as AEGIS-Paradoxons
+  AEGIS-Paradoxons                  7 word     7 in   [104, 167, 174, 216, 230, 272]
+  Kernparadoxon                     3 word     3 in   [9, 214, 279]
+  Ursprungsparadoxon                1 word     1 in   [46]
+  Beschützer-Anteil                 0 word     1 in   [67]
+                                    1      as Beschützer-Anteils
+  Fürsorger-Anteil                  0 word     1 in   [74]
+                                    1      as Fürsorger-Anteils
+  Meta-Beobachter                   2 word     2 in   [131, 174]
+  Phobien                          10 word    10 in   [15, 75, 76, 95, 96, 97]
+  Ko-Bewusstsein                    3 word     3 in   [117, 118, 314]
+  funktionaler Multiplizität        4 word     4 in   [117, 230, 312, 319]
+  integrative Kapazität             1 word     1 in   [160]
+  Verteidigungs-Action-Systems      2 word     2 in   [111, 265]
+  Tätersystems                      1 word     1 in   [139]
+  Phobie vor Emotionen              1 word     1 in   [62]
+  Synthese                          2 word     2 in   [160, 258]
+  Realisation                       1 word     1 in   [258]
+  TSDP                             37 word    48 in   [9, 15, 36, 48, 55, 56]
+                                    3      as TSDP-Behandlung
+                                    1      as TSDP-Struktur
+                                    1      as TSDP-Mechanismus
+                                    1      as TSDP-Dynamik
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [9]
+  ANP                               8 word    22 in   [15, 54, 55, 56, 62, 63]  <-- substring
+  ANPs                              7 word     7 in   [15, 76, 89, 90, 95, 96]
+  EP                                5 word    32 in   [15, 48, 55, 62, 74, 75]  <-- substring
+  EPs                              25 word    25 in   [15, 48, 55, 62, 74, 75]
+  Apparently Normal Parts           1 word     1 in   [15]
+  Emotional Parts                   2 word     2 in   [15, 83]
+  Paradox of Control                7 word     7 in   [16, 48, 188, 189, 216, 217]
+  AI Alignment Paradox              4 word     5 in   [16, 188, 189, 216, 332]
+  AI Alignment Paradoxes            1 word     1 in   [188]
+  Paradox of Tolerance              4 word     4 in   [251, 252, 337, 351]
+  Paradox der Toleranz              2 word     2 in   [17, 249]
+  Second-Order Cybernetics          7 word     7 in   [174, 175, 216, 279, 280, 286]
+  Kybernetik zweiter Ordnung        1 word     1 in   [172]
+  Simulation Hypothesis             7 word     7 in   [133, 181, 182, 223, 224, 286]
+  Panoptismus                       1 word     1 in   [55]
+  Gaslighting                       7 word     7 in   [18, 40, 102, 104, 105, 110]
+  Unreliable Narrator               4 word     4 in   [40, 54, 56, 105]
+  Glitch in the Matrix              2 word     2 in   [40, 56]
+  Cosmic Horror                    11 word    12 in   [9, 18, 40, 47, 48, 49]
+  Threshold Guardian                2 word     2 in   [111, 112]
+  Feedbackschleifen                 5 word     5 in   [151, 153, 173, 174, 278]
+  Emergenz                          8 word     8 in   [16, 167, 188, 215, 216, 243]
+  Meta-Kognition                    2 word     2 in   [132, 174]
+  kognitive Dissonanz               1 word     1 in   [195]
+  Kybernetik                        4 word     4 in   [146, 153, 172]
+  Hard Science Fiction              2 word     2 in   [9, 18]

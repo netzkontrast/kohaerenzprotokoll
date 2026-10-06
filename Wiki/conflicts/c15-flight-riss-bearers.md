@@ -99,3 +99,27 @@ Lia's Kernfunktion: „"Kaleidoskop-Herz"; trägt Trauma bezüglich Vertrauen; s
 Kiko's row reads „Flight, Freeze, Attachment Cry“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L129] and Lia's „Flight, Play, Ambivalent Attachment“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L130]; `Flight` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#2] stands on those two lines alone, and Isabelle's row is „Fight/Control through Sexualization“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L131]. The guide ties a Riss to the action system of the activated part: the glitch's physical properties, „they directly correspond to the TSDP action system of the activated EP“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L87], with no list of riss types and no spatial or sensory label.
 
 The pairing Kiko and Lia (rows 1, 6, 7), by action system and not by riss row; Isabelle is not paired with Lia here; the conflict stays open.
+
+## 2026-10-05 — `roman-konzept-kohaerenz-protokoll`, 2025-05-03, the Roman-Konzept
+
+**The Roman-Konzept's table gives flight to Kiko alone, as a TSDP function of an EP, and has no riss table.**
+
+Kiko's row, typed EP, names in its concept column „EP Funktion (Angst/Flucht)“ ^[roman-konzept-kohaerenz-protokoll.md:L69]. Of the table's ten rows this is the only one with `Flucht` ^[roman-konzept-kohaerenz-protokoll.md:#3]; Lia's row reads „EP Funktion (Bindungstrauma?)“ ^[roman-konzept-kohaerenz-protokoll.md:L70] and names no flight, and `Flight` ^[roman-konzept-kohaerenz-protokoll.md:#0] and `Isabelle` ^[roman-konzept-kohaerenz-protokoll.md:#0] do not occur. The word stands twice more, in chapter fields and not on a part: „Hoffnung auf Flucht/Wahrheit“ ^[roman-konzept-kohaerenz-protokoll.md:L181] at the Riss discovery, and, in the decision at the end of Act 1, „Veränderung/Flucht“ ^[roman-konzept-kohaerenz-protokoll.md:L199]. Those are the plan's story beats, not a bearer, so the table's single row holds. `Riss` ^[roman-konzept-kohaerenz-protokoll.md:#4] stands four times and is not tied to any part.
+
+Kiko alone by action-system function (row 1 pairs Kiko and Lia as bearers, rows 2 to 5 Lia and Isabelle); recorded, 2025-05-03, not applied; the conflict stays open.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis gives flight to Kiko alone: „Kiko | Flucht (Angst)“ ^[romanprojekt-analyse-synthese.md:L79].**
+
+The row is in the table of ten parts, with the narrative function „Vulnerabilitätsspeicher“ ^[romanprojekt-analyse-synthese.md:L79]; its DKT cell lost its kernel symbol in the export and is not supplied. `Flucht` ^[romanprojekt-analyse-synthese.md:#1] stands once in the document, on this row; Lia's row is „Lia | Fürsorge | Stabilitäts-Erhalt | Interne System-Regulation“ ^[romanprojekt-analyse-synthese.md:L80] and Isabelle's „Isabelle | Kreativität | Möglichkeiten-Vektor | Ästhetische Brücke / Kunst“ ^[romanprojekt-analyse-synthese.md:L81]. The table gives TSDP action systems and names no Riss types.
+
+Kiko alone by action system (row 1 pairs Kiko and Lia as bearers); recorded, 2026-04-30, not applied; the conflict stays open.
+
+## 2026-10-06 — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept
+
+**The Erlebniswelten concept gives „Flucht“ to Kiko and to Lia as part of their role labels, and has no riss table.**
+
+Kiko's entry is headed „Kiko (EP - Kind, Flucht/Einfrieren)“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L60] and Lia's „Lia (EP - Kind, Flucht/Bindungs-Ambivalenz)“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L72]; `Flucht` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#2] stands twice as a whole word, once on each heading, and `Flight` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#0] does not occur. In the overlays the stem returns for both: in KW3 Kiko's world „Löst Flucht- oder Freeze-Reaktionen aus“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L69] and Lia's „Löst Fluchtimpulse und Misstrauen aus“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L81]; for Lia „Kreativität und Spiel sind Flucht- und Ausdrucksmittel“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L74]. Isabelle's entry is headed „Isabelle (EP - Sexualisiert/Kampf/Kontrolle)“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L84], with no flight. `Risse` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#1] stands once, in Lex's entry, and not as a type of rift.
+
+Where it stands in the record's own terms: Kiko and Lia as bearers of flight by role label, in a concept of 2025-04-29; Lia is not paired with Isabelle here, and it is not a riss table; recorded, not applied; the conflict stays open.

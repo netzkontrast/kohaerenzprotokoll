@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,22 @@ Title: the commission titles the chapter „Das Echo im System: Identifikation v
 - Theme: the commission's `Core Theme` is „Feedbackschleifen; Systemisches Lernen“ ^[kontext-outline.md:L236]
 - Story: its `Plot Summary` plans „in rigiden Feedbackschleifen gefangen“ ^[kontext-outline.md:L237]
 - Foci: `Kael Sys Focus` „Lex/Argus identifizieren Muster“ ^[kontext-outline.md:L238]; `AEGIS Focus` „Lernalgorithmen/Feedbackschleifen sichtbar“ ^[kontext-outline.md:L239]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Systemisches Lernen (und dessen Grenzen)`
+
+Focus: `Systemisches Lernen (und dessen Grenzen)`, „in rigiden, potenziell dysfunktionalen Feedbackschleifen gefangen ist“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L151]
+
+- Story: „aber auf eine begrenzte, repetitive Weise“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L152]
+- Concept: „AEGIS' Verhalten zeigt Merkmale von Lernalgorithmen, aber auch von rigiden, potenziell maladaptiven Mustern“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L153] (concept tag: `Feedbackschleifen`)
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.1, „AEGIS' Analyse & Reaktion / Konfrontation der Guardians“ ^[finales-kausales-plot-geruest.md:L106] (Kapitel 14–17)
+
+The beat sheet places Kapitel 15 in Beat 2.1; the beat spans Kapitel 14 to 17.
+
+- Beat: the heading titles it „AEGIS' Analyse & Reaktion / Konfrontation der Guardians“ ^[finales-kausales-plot-geruest.md:L106]
+- Event: the beat sheet's `Beschreibung` says „Kael befindet sich im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108]
+- Cause: the `Kausale Verknüpfung` says „Diese fehlerhafte Analyse diktiert seine nachfolgenden Handlungen und eskaliert den Konflikt, anstatt ihn zu lösen“ ^[finales-kausales-plot-geruest.md:L109]
+- Throughlines: the OS or MC line says „da seine echten Integrationsversuche von AEGIS als Pathologie bezeichnet werden“ ^[finales-kausales-plot-geruest.md:L115]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

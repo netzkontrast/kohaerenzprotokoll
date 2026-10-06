@@ -1,0 +1,70 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "must be understood"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`must be understood` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#4]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "single source of truth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`single source of truth` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "must"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`must` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#12]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Riss` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Risse` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#2]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "Mnemosyne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Mnemosyne` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "Cerberus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Cerberus` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "Correspondence"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            2
+
+`Correspondence` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "Trennungsprotokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Trennungsprotokoll` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-definitive-guide-to-narrative-archi --count "Separation Protocol"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Separation Protocol` ^[the-coherence-protocol-a-definitive-guide-to-narrative-archi.md:#1]
+stance_marker_count 5 = must be understood (4) + single source of truth (1)
+$ grep -c "^| \\\\*\\\\*[A-Z][a-z]*\\\\*\\\\* | " L111-L121: eleven alters (Kael Lex Alex Rhys Nyx Kiko Lia Isabelle Moros Selene Argus) counted by reading read.py --from 108 --to 122
+$ python3 scripts/profile.py $S  -> backslash escapes 140, question marks 1 (L120 Integrator?)

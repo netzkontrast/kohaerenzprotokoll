@@ -1,0 +1,151 @@
+{
+  "document": "hard-sf-roman-outline-dkt-physik-cosmic-horror",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "d7a9478f1680f120b8085e1a036ac3c9b734dda81c2b109dbd4ae05b52b606c2",
+  "calls": 26,
+  "failed_calls": 0,
+  "seconds": 260.9,
+  "input_tokens": 114666,
+  "output_tokens": 30165,
+  "cost_usd": 0.6224,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1947,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1628,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1627,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1819,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1989,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1569,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1951,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1583,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1958,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1607,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 1950,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 2005,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1590,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1484,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1755,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1792,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 2039,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1926,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1738,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 1992,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1972,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1843,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 19,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 2009,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1993,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1899,
+      "ok": true
+    }
+  ]
+}

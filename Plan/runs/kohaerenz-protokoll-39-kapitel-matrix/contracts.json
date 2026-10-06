@@ -1,0 +1,36 @@
+{
+ "source": "kohaerenz-protokoll-39-kapitel-matrix",
+ "runs": [
+  {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 15,
+   "failed_calls": 0,
+   "chunks": 15,
+   "failed_chunks": 0,
+   "cost_usd": 0.4479,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "60cef1054a49dbbeaca39a6bdf7608d8d5b1b06647dd6616abec7b3a429bb79a",
+   "rows": 152,
+   "candidates": 144,
+   "refused": {
+    "ambiguous quote: choose its passage": 7,
+    "surface absent from document": 1
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Central Conceptual Focus"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Central Conceptual Focus` ^[roman-konzept-kohaerenz-protokoll.md:#40]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Narrative & Reader Psychology Strategy"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Narrative & Reader Psychology Strategy` ^[roman-konzept-kohaerenz-protokoll.md:#40]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Research & Concept Application"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Research & Concept Application` ^[roman-konzept-kohaerenz-protokoll.md:#40]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Recherche-Keywords"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Recherche-Keywords` ^[roman-konzept-kohaerenz-protokoll.md:#40]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Gesamter Inhalt dieses Abschnitts: Maximal 170 Worte"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Gesamter Inhalt dieses Abschnitts: Maximal 170 Worte` ^[roman-konzept-kohaerenz-protokoll.md:#40]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[roman-konzept-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`kanon` ^[roman-konzept-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            29
+
+`Juna` ^[roman-konzept-kohaerenz-protokoll.md:#29]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Juna/V"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            29
+
+`Juna/V` ^[roman-konzept-kohaerenz-protokoll.md:#29]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fehlausgerichteten Kohärenz` ^[roman-konzept-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Fehlausgerichtete Kohärenz` ^[roman-konzept-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py roman-konzept-kohaerenz-protokoll --count "Kael Integration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael Integration` ^[roman-konzept-kohaerenz-protokoll.md:#1]
+
+stance_marker_count = 40+40+40+40 = 160
+profile numbers (93 glued, 165 escapes, 70 question marks) are from 01-profile.txt

@@ -1,0 +1,136 @@
+{
+  "document": "roman-outline-system-kael",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "64e2cb3a886bb4f08f42398f2bf70789843497e394a9f67324f0c5db15aee0d5",
+  "calls": 23,
+  "failed_calls": 0,
+  "seconds": 184.6,
+  "input_tokens": 97176,
+  "output_tokens": 17750,
+  "cost_usd": 0.4442,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1385,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1967,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1038,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1499,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 924,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1959,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 843,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1968,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 1995,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 513,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 2016,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1642,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 901,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1826,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 817,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1162,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1802,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1847,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1886,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 273,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 2046,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 653,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 53,
+      "ok": true
+    }
+  ]
+}

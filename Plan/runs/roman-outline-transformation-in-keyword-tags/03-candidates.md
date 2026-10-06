@@ -1,0 +1,188 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is a tag-based outline: a glossary of tags (L13 to L738), then chapters P, 1, 2, 3, 4 and a fifth that breaks off mid-line at L1008. Tags are written with escaped underscores, `aegis\_paradoxon`; the list keeps them as written. I list the names of the novel's world, the document's own labels and marks, a selection of glossary tags that name a thing, a place, a part, a state or a strategy, and under the lens heading the thinkers and theories the glossary cites. Tags that only restate a chapter's mood or a trope's name are not all listed.
+
+- AEGIS
+- Kael
+- Echo
+- Kohärenz Protokoll
+- Kael-System
+- Juna/V
+- Fundament
+- Konstrukt-Welt
+- Konstrukt-Welten
+- Konstrukt-Stadt
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Resonanz-Landschaft
+- KW1
+- KW2
+- KW3
+- KW4
+- Guardian LogOS
+- Guardian Cerberus
+- Guardian Mnemosyne
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Überwelt
+- Host
+- Lex
+- Alex
+- Rhys
+- Argus
+- Nyx
+- Kiko
+- Lia
+- Moros
+- Selene
+- Beschützer-Anteil
+- Fürsorger-Anteil
+- Anteile
+- ANP
+- ANPs
+- EP
+- EPs
+- Apparently Normal Parts
+- Emotional Parts
+- TSDP
+- Risse
+- Riss
+- Kernparadoxon
+- Glitches
+- Prolog
+- Genesis
+- Der Glitch im Spiegel
+- Echos in der Konstrukt-Stadt
+- Der Schatten des Beschützers
+- Stimmen der Fürsorge
+- Der Ruf der Resonanz-Landschaft
+- Glossar
+- Plot Keywords
+- Kael State Tags
+- AEGIS State Tags
+- Setting Tags
+- Core Theme Tags
+- Reader Experience Strategy
+- Konzept-Cluster
+- Konzept-Handling
+- Key Beats (Keywords)
+- Key Beat
+- Narrative Goals Summary Tags
+- Zusammenfassung (Mensch)
+- Plot Reflection
+- Research\_Keywords
+- NEU
+- REF
+- PROG
+- INNOVATION
+- Beat
+- Subplots
+- Foreshadowing
+- Philosophie
+- Psychologie
+- Trope
+- Symbol
+- Keyword-/Tag-basiertes Outline
+- aegis\_paradoxon
+- aegis\_ueberwelt
+- aegis\_kern
+- aegis\_kernlogik
+- aegis\_origin
+- aegis\_motivation
+- aegis\_ueberlebensparadoxon
+- aegis\_status\_emergent
+- aegis\_status\_final
+- aegis\_state\_tags
+- fragmentierung\_als\_kontrolle
+- fehlausgerichtete\_kohaerenz
+- kohaerenz\_protokoll\_activation
+- echo\_fragmentation
+- kael\_system\_birth
+- kael\_system\_host
+- kael\_integration
+- funktionale\_multiplizitaet
+- selene\_potenzial
+- anteil\_alex
+- anteil\_argus
+- anteil\_host
+- anteil\_kiko
+- anteil\_lex
+- anteil\_lia
+- anteil\_moros
+- anteil\_nyx
+- anteil\_rhys
+- anteil\_selene
+- guardian\_cerberus
+- guardian\_kairos
+- guardian\_logOS
+- guardian\_mnemosyne
+- guardian\_sophia
+- juna\_v
+- juna\_v\_trigger
+- fundament\_kontakt
+- kw1\_logos\_prime
+- kw2\_mnemosyne\_archipel
+- kw3\_cerberus\_labyrinth
+- kw4\_kairos\_potentialis
+- kw\_konstrukt\_welt
+- nichts\_rauschen
+- ort\_nichts\_rauschen
+- externe\_resonanz
+- chaos\_to\_order
+- chaos\_geburt
+- krise\_kontrolle
+- resonanz\_trigger
+- protokoll\_fragmentierung
+- gaslighting
+- panoptismus
+- unreliable\_narrator
+- glitch\_in\_matrix
+- unsichtbarer\_kaefig
+- anteile\_koordination
+- ko\_bewusstsein
+- switches
+- shift
+- plot\_keywords
+- konzept\_handling
+- konzept\_cluster
+- key\_beats
+- zusammenfassung\_mensch
+- tag\_basiert
+- informationsverdichtung\_ki
+- menschliche\_lesbarkeit\_sekundaer
+- struktur\_praegnanz
+- Dysregulation
+- Ko-Bewusstheit
+- Gaslighting
+- Cosmic Horror
+- Hard SF
+- Archetyp
+- Heldenreise
+- Kybernetik zweiter Ordnung
+- Panoptismus
+
+## lens
+
+- Thomas Kuhns
+- David Humes
+- Foucault
+- Niklas Luhmanns
+- Heinz von Foersters
+- Gödels
+- Bertrand Russells
+- Immanuel Kants
+- Jean-Paul Sartres
+- Derek Parfits
+- John Lockes
+- Karl Poppers
+- Martin Bubers
+- Thomas Hobbes'
+- Emmanuel Levinas'
+- Aristoteles'
+- mauvaise foi

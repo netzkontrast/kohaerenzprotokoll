@@ -1,0 +1,240 @@
+{
+  "document": "finales-kausales-plot-geruest",
+  "drive_id": "1xsUSwx8rbus0djoVzc0XgIETxdgcstwrtrw-r160G6c",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 35,
+  "backslash_escapes": 5,
+  "typographic_marks": 2,
+  "ascii_quotes": 554,
+  "inflection_families": {
+    "kontr": [
+      "Kontrast",
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollinstanz",
+      "Kontrollmechanismen",
+      "Kontrollmechanismus",
+      "Kontrollmethoden",
+      "Kontrollprotokoll",
+      "Kontrollversuch",
+      "Kontrollversuche"
+    ],
+    "syste": [
+      "System",
+      "Systemagenten",
+      "Systemebene",
+      "Systemfehler",
+      "Systeminstabilität",
+      "Systeminstabilitäten",
+      "Systems",
+      "Systemversagen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterforschung",
+      "Selbsterhaltung",
+      "Selbstermächtigung",
+      "Selbstfindung",
+      "Selbstführung",
+      "Selbstzerstörung"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionsform",
+      "Interpretation",
+      "Intervention",
+      "Interventionen"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradox",
+      "Paradoxienauflösung",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungselement",
+      "Handlungsfähigkeit"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konflikts"
+    ],
+    "unter": [
+      "Unterdrückung",
+      "Untergang",
+      "Unterstützung",
+      "Untersuchung"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widerstand",
+      "Widerstands"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungsklassifizierung"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungen",
+      "Entschlossenheit"
+    ],
+    "forts": [
+      "Fortschritt",
+      "Fortschritte",
+      "Fortschritts"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionen"
+    ],
+    "gegen": [
+      "Gegenpol",
+      "Gegensignale",
+      "Gegensätzen"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsbemühungen",
+      "Integrationsversuche"
+    ],
+    "probl": [
+      "Problem",
+      "Probleme",
+      "Problemlösen"
+    ],
+    "proto": [
+      "Protocols",
+      "Protokoll",
+      "Protokolle"
+    ],
+    "trans": [
+      "Transformation",
+      "Transzendente",
+      "Transzendenz"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumaverarbeitung"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschnitt"
+    ],
+    "aktio": [
+      "Aktion",
+      "Aktionen"
+    ],
+    "anpas": [
+      "Anpassung",
+      "Anpassungsversuche"
+    ],
+    "antag": [
+      "Antagonismus",
+      "Antagonisten"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteilen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleinen"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Transzendente"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Interaktionsform"
+    ],
+    [
+      "Form",
+      "Informationsbeschaffung"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Flackern"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernlogik"
+    ],
+    [
+      "Kern",
+      "Kerntrauma"
+    ]
+  ]
+}

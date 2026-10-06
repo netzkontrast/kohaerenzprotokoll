@@ -1,0 +1,444 @@
+{
+  "document": "romanprojekt-analyse-synthese",
+  "drive_id": "1drOkOWq1z1JFx0mI5141keAbNmGOM6FYC-ZZiLhYEsE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, read a second time: the first reader's frozen list wrote `Existenzielle Fusion` with a capital the document does not write, whose count mark `quotes.py` refused; that run was set aside unedited (in the session's scratchpad) and a fresh reader read the document anew. Third in the queue re-ranked after document 101; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) from Plan/runs/ingest-104/brief.md and fourteen chapter readings by a third from Plan/runs/ingest-104-kap/brief.md, both briefs written after the session had read the document itself",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 114,
+    "decisions": 116,
+    "decided_by_lookup": 104,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A synthesis whose new surfaces are its canon labels (Struktur-Kanon, Reset-Kanon, Kohärenz-Prime), its physics vocabulary (Landauer-Prinzip, Bekenstein-Schranke, Halteproblem, Hawking-Strahlung), its phase titles and its plan's names (We-Voice, Spiegel-Effekt, Receiver of Consciousness, F2, F3, F7); everything it names in the novel's world has a page.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        29,
+        62,
+        102,
+        107,
+        118,
+        129
+      ],
+      "attribution": "",
+      "note": "the Wächter of the first kernel, kept as a melancholic Wächter at the end"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        68,
+        76,
+        145
+      ],
+      "attribution": "",
+      "note": "Alex in the ten-alter table: social interaction, the everyday facade"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        62,
+        118
+      ],
+      "attribution": "",
+      "note": "the fate of AEGIS as transformation toward algorithmic melancholy"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        66,
+        68,
+        70,
+        86,
+        122
+      ],
+      "attribution": "",
+      "note": "ten functional parts in a table, set by the „Reset-Kanon“ ^[romanprojekt-analyse-synthese.md:L66] against earlier thirteen"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        68,
+        84
+      ],
+      "attribution": "",
+      "note": "Argus in the ten-alter table: monitoring, security and border protection"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        153
+      ],
+      "attribution": "",
+      "note": "Cerberus as one of five Guardians, a filter algorithm"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "the constant found in the city's source code in Kapitel 19"
+    },
+    {
+      "page": "did",
+      "lines": [
+        29,
+        117
+      ],
+      "attribution": "",
+      "note": "dissociative identity disorder as necessary system architecture, anchored physically by pain"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        13,
+        17,
+        116
+      ],
+      "attribution": "",
+      "note": "the DKT as the reality substrate of two computational kernels"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        23,
+        82,
+        163
+      ],
+      "attribution": "",
+      "note": "entropy as the domain of the second kernel, and the Entropie-Fixierung of one alter"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        107
+      ],
+      "attribution": "",
+      "note": "Kael presents himself to AEGIS as a living Gödel sentence"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        153
+      ],
+      "attribution": "",
+      "note": "five Guardians named in the build plan as filter algorithms that fail by logical overload"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        68,
+        81
+      ],
+      "attribution": "",
+      "note": "Isabelle in the ten-alter table: creativity, aesthetic bridge and art"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        23,
+        50,
+        90,
+        102,
+        103
+      ],
+      "attribution": "",
+      "note": "the figure of the second kernel, part of Kael's origin, the Moonshine Link partner"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        29,
+        48,
+        60,
+        86,
+        101,
+        107,
+        123
+      ],
+      "attribution": "",
+      "note": "the male host of a system, in Phase I amnesiac, a living Gödel sentence against AEGIS"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        153
+      ],
+      "attribution": "",
+      "note": "Kairos listed among the five Guardians, as a name of its own"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        68,
+        79,
+        86
+      ],
+      "attribution": "",
+      "note": "Kiko in the ten-alter table: flight (fear), a store of vulnerability"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the domain of reversible computation, embodied by the Konstrukt-Stadt and AEGIS"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "the domain of irreversible processes, represented by Juna and the Risse"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        21,
+        29,
+        48,
+        157
+      ],
+      "attribution": "",
+      "note": "the city as embodiment of the first kernel, antagonist in Phase I, receiver at the climax"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        27,
+        29,
+        141,
+        149
+      ],
+      "attribution": "",
+      "note": "the Landauer principle as plot motor, erasure generating heat"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        68,
+        75,
+        145
+      ],
+      "attribution": "",
+      "note": "Lex in the ten-alter table: analytic cooperation, decoding the code"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        68,
+        80
+      ],
+      "attribution": "",
+      "note": "Lia in the ten-alter table: care, internal regulation of the system"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        50,
+        140,
+        153
+      ],
+      "attribution": "",
+      "note": "LogOS named beside AEGIS in Phase I, as the domain of analytic prose and one of five Guardians"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        153
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as one of five Guardians, a filter algorithm"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        103
+      ],
+      "attribution": "",
+      "note": "the Relationship Story between Kael and Juna"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        68,
+        82
+      ],
+      "attribution": "",
+      "note": "Moros in the ten-alter table: freeze, depression and standstill"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        90,
+        107,
+        145
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the state in which the parts cooperate, and the We-Voice that renders it"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "psychic negentropy as the state of the healed system in Kapitel 31"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        68,
+        78,
+        86
+      ],
+      "attribution": "",
+      "note": "Nyx in the ten-alter table: fight (rage), protection through aggression"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        68,
+        77,
+        86
+      ],
+      "attribution": "",
+      "note": "Rhys in the ten-alter table: attachment seeking, connection to Juna-Echos"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        23,
+        29,
+        149
+      ],
+      "attribution": "",
+      "note": "the Risse as the second kernel's sign and as thermal glitches of erased memory"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        68,
+        83
+      ],
+      "attribution": "",
+      "note": "Selene in the ten-alter table: reflection, intuition and foresight"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        86
+      ],
+      "attribution": "",
+      "note": "Silas (The Archivist), named apart from the table, a Juna-Echo only „in einigen Analysen“ ^[romanprojekt-analyse-synthese.md:L86]"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        153
+      ],
+      "attribution": "",
+      "note": "Sophia listed among the five Guardians, as a name of its own"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        66,
+        117
+      ],
+      "attribution": "",
+      "note": "TSDP as the frame of the system Kael, and the model that makes DID an architecture"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      3,
+      13,
+      14,
+      19,
+      25,
+      26,
+      27,
+      31,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C7",
+    "C11",
+    "C13",
+    "C15",
+    "C16",
+    "C17"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title), J12 and J16 (compounds with their own sense: Zielkohärenz-Protokoll, Kohärenz-Prime, Resonanz-Protokoll, Entropie-Fixierung, Struktur-Kanon), J23 and J56 (plurals: Risse, Echos), J34 (Juna-Echo, Kael (System)), J100–J102 (English placed by the sentence: Living Paradoxes, Receiver of Consciousness)",
+  "sweep": [
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 13,
+      "decision": "reading",
+      "why": "the DKT as the synthesis's frame; read on dkt with L17, L116"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 13,
+      "decision": "reading",
+      "why": "the Kollaps-Kernel's entropy; read on entropie with L23"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "`Simulation` the ordinary word for AEGIS's world, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Struktur-Kanon / Reset-Kanon 2026-04-30, Kohärenz-Prime — the synthesis's own canon labels, recorded on the pages, never applied",
+    "the three phase titles (L46, L52, L58) — on the chapter pages",
+    "Bekenstein-Schranke and the pixelation of reality (L31), Halteproblem, Hawking-Strahlung — physics vocabulary; no page",
+    "Spiegel-Effekt (L62) — on Kap 36 and C13",
+    "We-Voice, Receiver of Consciousness, the Driver-Pivot gap, F2, F3, F7 — the build plan's names (L128–L157)"
+  ],
+  "internal_tension": "its table assigns Lia `Fürsorge` and Isabelle `Kreativität` (L80–L81), unlike the parts tables of documents 96 (Lia Flight and Play, Isabelle Fight/Control) and 99 (Lia longing); the export lost the kernel symbols, so the table's DKT column is half empty",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

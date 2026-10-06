@@ -32,6 +32,37 @@
    "category": "kernkonzept"
   },
   {
+   "run": "chaptercards-sonnet-2026-10-05b",
+   "contract": "ChapterCards",
+   "model": "claude-cli/sonnet",
+   "date": "2026-10-05",
+   "calls": 29,
+   "failed_calls": 0,
+   "chunks": 29,
+   "failed_chunks": 0,
+   "cost_usd": 0.4987,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "dccbbc64bb0e5f042a4409242e379456fa33ca56b6a5f59d126d6f7070112507",
+   "rows": 17,
+   "candidates": 15,
+   "refused": {
+    "quote not placed": 1,
+    "surface absent from document": 1
+   },
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+   },
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "kernkonzept"
+  },
+  {
    "run": "termcontrasts-haiku-2026-09-30",
    "contract": "TermContrasts",
    "model": "claude-cli/haiku",
