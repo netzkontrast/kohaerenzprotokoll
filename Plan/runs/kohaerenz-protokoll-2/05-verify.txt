@@ -1,0 +1,129 @@
+$ read.py kohaerenz-protokoll-2 --count "Skizze"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Skizze` ^[kohaerenz-protokoll-2.md:#2]
+$ read.py kohaerenz-protokoll-2 --count "Hypothetische Kern-Alters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothetische Kern-Alters` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "Benötigt detailliertere Ausarbeitung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Benötigt detailliertere Ausarbeitung` ^[kohaerenz-protokoll-2.md:#2]
+$ read.py kohaerenz-protokoll-2 --count "Muss definiert werden"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Muss definiert werden` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "Muss geklärt werden"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Muss geklärt werden` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "Offene Fragen & Nächste Schritte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Offene Fragen & Nächste Schritte` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "Michaels"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Michaels` ^[kohaerenz-protokoll-2.md:#10]
+$ read.py kohaerenz-protokoll-2 --count "Julias"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Julias` ^[kohaerenz-protokoll-2.md:#4]
+$ read.py kohaerenz-protokoll-2 --count "Garten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Garten` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "-\>"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`-\>` ^[kohaerenz-protokoll-2.md:#7]
+$ read.py kohaerenz-protokoll-2 --count "end list"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`end list` ^[kohaerenz-protokoll-2.md:#10]
+$ read.py kohaerenz-protokoll-2 --count "Nexus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nexus` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "ZTEM"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ZTEM` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "EIC"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EIC` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "Entropic Gatekeeper"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Entropic Gatekeeper` ^[kohaerenz-protokoll-2.md:#3]
+$ read.py kohaerenz-protokoll-2 --count "Alters"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Alters` ^[kohaerenz-protokoll-2.md:#4]
+$ read.py kohaerenz-protokoll-2 --count "AEGIS Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS Protokoll` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "AEGIS-Protokoll"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`AEGIS-Protokoll` ^[kohaerenz-protokoll-2.md:#3]
+$ read.py kohaerenz-protokoll-2 --count "Seele=Info"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Seele=Info` ^[kohaerenz-protokoll-2.md:#2]
+$ read.py kohaerenz-protokoll-2 --count "Guardian-Paradigma"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian-Paradigma` ^[kohaerenz-protokoll-2.md:#1]
+$ read.py kohaerenz-protokoll-2 --count "Info-Paradigma"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Info-Paradigma` ^[kohaerenz-protokoll-2.md:#1]
+stance_marker_count 8 = 2+1+2+1+1+1 (Skizze, Hypothetische Kern-Alters, Benötigt detailliertere Ausarbeitung, Muss definiert werden, Muss geklärt werden, Offene Fragen & Nächste Schritte)
+$ grep -n "?" Sources/drive/kohaerenz-protokoll-2.md (question lines: 25,37,65,123,148)
+25 37 65 123 148 

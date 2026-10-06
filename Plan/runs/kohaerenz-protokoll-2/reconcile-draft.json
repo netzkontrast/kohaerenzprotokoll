@@ -1,0 +1,317 @@
+{
+  "document": "kohaerenz-protokoll-2",
+  "drive_id": "1yErimm1IksYaXhJLnPhCsdLmLkel0UJtCFC1dLevVIY",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 62,
+    "decisions": 68,
+    "decided_by_lookup": 48,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        43,
+        67
+      ],
+      "attribution": "",
+      "note": "Zero-Trust as AEGIS's mode of operation and systemic isolation"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        11,
+        17,
+        24,
+        67,
+        139,
+        140
+      ],
+      "attribution": "",
+      "note": "AEGIS as the non-addressable core of the Überwelt and the Entropic Gatekeeper"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        37,
+        53,
+        61,
+        117
+      ],
+      "attribution": "",
+      "note": "hypothetical Kern-Alters, four examples tied to worlds"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        66,
+        77
+      ],
+      "attribution": "",
+      "note": "Cerberus with the Grenzfeste"
+    },
+    {
+      "page": "did",
+      "lines": [
+        17,
+        19,
+        30,
+        49,
+        66,
+        116,
+        145
+      ],
+      "attribution": "",
+      "note": "DID as the protagonist's condition, trigger still to be defined"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        40,
+        65,
+        67,
+        71,
+        75,
+        135
+      ],
+      "attribution": "",
+      "note": "the principle AEGIS regulates, in each world and in Julia's reading"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        25,
+        83,
+        146
+      ],
+      "attribution": "",
+      "note": "a not yet defined sixth level outside AEGIS"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        59,
+        77
+      ],
+      "attribution": "",
+      "note": "Grenzfeste as Cerberus's world of protection"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        17,
+        66,
+        92,
+        103,
+        119
+      ],
+      "attribution": "",
+      "note": "five non-anthropomorphic constructs under the AEGIS-Protokoll, who misguide Michael"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        65,
+        122,
+        146
+      ],
+      "attribution": "",
+      "note": "the co-protagonist, named Julia, tied to the Externe Ebene"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        49,
+        71,
+        107,
+        145
+      ],
+      "attribution": "",
+      "note": "the protagonist, named Michael, with DID, in a layered simulation"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        66,
+        78
+      ],
+      "attribution": "",
+      "note": "Kairos sharing the Möglichkeits-Garten with Sophia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        25,
+        71,
+        116
+      ],
+      "attribution": "",
+      "note": "four simulated worlds of Michael's psyche, watched by their Guardians"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        53,
+        57,
+        75
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as LogOS's world, one of four"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        66,
+        75
+      ],
+      "attribution": "",
+      "note": "LogOS in the list of five Guardians and as bearer of the Konstrukt-Stadt"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        66,
+        76
+      ],
+      "attribution": "",
+      "note": "Mnemosyne with the Resonanz-Landschaft"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        60,
+        78
+      ],
+      "attribution": "",
+      "note": "Möglichkeits-Garten as the fourth world, for Kairos and Sophia"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        37,
+        128
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität against integration"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        107
+      ],
+      "attribution": "",
+      "note": "the Nexus named once, in the Teil 2 sketch"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        25,
+        33,
+        65
+      ],
+      "attribution": "",
+      "note": "six levels, and the tension they give the narrative"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        58,
+        76
+      ],
+      "attribution": "",
+      "note": "Resonanz-Landschaft as Mnemosyne's world"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        82,
+        91,
+        93,
+        118,
+        133
+      ],
+      "attribution": "",
+      "note": "Risse rising through Teil 1 and 3, a metaphor of instability"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        66,
+        78,
+        103
+      ],
+      "attribution": "",
+      "note": "Sophia as fifth Guardian and speaker in Teil 2"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        17,
+        25,
+        82,
+        91,
+        102
+      ],
+      "attribution": "",
+      "note": "the digital Überwelt, ruled by the AEGIS-Protokoll and unstable at the end of Teil 1"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C5",
+    "C6",
+    "C9"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 67,
+      "decision": "occurrence",
+      "why": "AEGIS's task of Systemintegrität und Kohärenz — the word, read on aegis"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 33,
+      "decision": "reading",
+      "why": "narrative tension through the different Realitätsebenen, read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

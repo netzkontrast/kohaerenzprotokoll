@@ -1,0 +1,224 @@
+{
+  "document": "kohaerenz-protokoll-2",
+  "drive_id": "1yErimm1IksYaXhJLnPhCsdLmLkel0UJtCFC1dLevVIY",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 11,
+  "backslash_escapes": 0,
+  "typographic_marks": 3,
+  "ascii_quotes": 56,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systembedrohung",
+      "Systeme",
+      "Systemfehler",
+      "Systemgenesis",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systems",
+      "Systemschöpfer",
+      "Systemweite"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interferenz",
+      "Interventionen"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsstruktur",
+      "Simulationstheorie",
+      "Simuliert"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktional",
+      "Funktionale",
+      "Funktionsweise"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsverzerrungen"
+    ],
+    "alter": [
+      "Alter",
+      "Alternative",
+      "Alters"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenströme"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionen"
+    ],
+    "fragm": [
+      "Fragmenten",
+      "Fragmentiertes",
+      "Fragmentierung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations",
+      "Integrity"
+    ],
+    "konst": [
+      "Konstrukt",
+      "Konstrukte",
+      "Konstrukten"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheits",
+      "Sicherheitslücken"
+    ],
+    "thera": [
+      "Therapie",
+      "Therapiesuche",
+      "Therapieversuche"
+    ],
+    "welte": [
+      "Welten",
+      "Weltenlogik",
+      "Weltenwechsel"
+    ],
+    "überw": [
+      "Überwelt",
+      "Überwindung",
+      "Überwältigung"
+    ],
+    "abstr": [
+      "Abstrakt",
+      "Abstrakte"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteilen"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitstitel"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur"
+    ],
+    "auton": [
+      "Autonomie",
+      "Autonomous"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstwerdung"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterentwicklungen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieses"
+    ],
+    "digit": [
+      "Digital",
+      "Digitale"
+    ],
+    "disso": [
+      "Dissoziation",
+      "Dissoziativen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Endet"
+    ],
+    [
+      "Ende",
+      "Zunehmende"
+    ],
+    [
+      "Ende",
+      "Umfassendes"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Grundlegendes"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Ausformulierung"
+    ],
+    [
+      "Form",
+      "Informationsarmut"
+    ],
+    [
+      "Form",
+      "Informationsüberflutung"
+    ],
+    [
+      "Gelb",
+      "Regelbrüche"
+    ],
+    [
+      "Info",
+      "Informationsarmut"
+    ],
+    [
+      "Info",
+      "Informationsüberflutung"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kernkonzept"
+    ],
+    [
+      "Kern",
+      "Kernprotokoll"
+    ],
+    [
+      "Leid",
+      "Leidet"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ]
+  ]
+}
