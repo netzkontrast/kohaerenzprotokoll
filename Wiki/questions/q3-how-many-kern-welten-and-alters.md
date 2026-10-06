@@ -556,3 +556,11 @@ Stands: the report records both counts as a break and asks for a ruling, and lis
 For the worlds: Kael „besucht erneut die Kernwelten (KW1-4)“ ^[finales-kausales-plot-geruest.md:L164]. For the parts, in Kapitel 27-29: „ANPs wie Lex, Rhys, Alex, Argus und EPs wie Nyx, Kiko, Lia, Isabelle, Moros“ ^[finales-kausales-plot-geruest.md:L171], who learn to cooperate. In Kapitel 36-37 Selene „als Koordinatorin hervortritt“ ^[finales-kausales-plot-geruest.md:L203]. The beat sheet does not say how many parts Kael has, and it does not set a world against a part.
 
 Stands: a plan of 2025-07-29 with four numbered Kernwelten and named parts, which predates the author's two answers of 2026-10-05 (thirteen alters; four Kern-Welten) and changes neither; the correspondence of worlds and parts stays open.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis sets ten functional parts by the „Reset-Kanon vom 30. April 2026“ ^[romanprojekt-analyse-synthese.md:L66] against earlier thirteen; it names no Kern-Welten.**
+
+The line: „Während frühere Entwürfe von 13 Alters sprachen, legt der Reset-Kanon vom 30. April 2026 eine präzise Liste von 10 funktionalen Anteilen fest“ ^[romanprojekt-analyse-synthese.md:L66], and in its contradictions „Frühere Erwähnungen von 13 Alters werden durch den Reset-Kanon auf 10 spezifisch benannte Anteile reduziert“ ^[romanprojekt-analyse-synthese.md:L122]. The table under „Das valide Alter-Profil (Reset 2026-04-30)“ ^[romanprojekt-analyse-synthese.md:L68] lists Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus; Kael is host and „primärer ANP“ ^[romanprojekt-analyse-synthese.md:L86] outside the table, and Silas is named apart: „Silas (The Archivist)“ ^[romanprojekt-analyse-synthese.md:L86]. Worlds do not come in: `Kernwelt` ^[romanprojekt-analyse-synthese.md:#0] and `KW` ^[romanprojekt-analyse-synthese.md:#0] do not stand in the document, and no row pairs a part with a world.
+
+Stands: ten named parts by a „Reset-Kanon“ ^[romanprojekt-analyse-synthese.md:L66], dated 2026-04-30; it predates the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten) and changes neither, and the correspondence of worlds and parts stays open.
