@@ -241,3 +241,11 @@ Stands with the record's positions 1 and 3 (KW1), dated 2025-04-18; recorded, no
 Its table row reads „KW1: Konstrukt-Stadt“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L119], its section „Kern-Welt 1: Konstrukt-Stadt (LogOS)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L126], and the first key place is set in „der Konstrukt-Stadt (KW1)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L218]. The other worlds stand beside it as KW2 to KW4, so the city is one of four.
 
 Stands with the record's positions 1 and 3 (KW1), dated 2025-04-18; recorded, not applied.
+
+## 2026-10-06 — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles
+
+**The place profiles write `Konstrukt-Stadt` as the name of KW1 alone, under LogOS, one of four worlds.**
+
+The section heading reads „KW1: Konstrukt-Stadt (LogOS)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L106]; the three sections after it carry other names, „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241], „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346] and „KW4: Möglichkeits-Garten (Kairos/Sophia)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L436]. The profiles use the name inside KW1, as for the transit corridor, which „Symbolisiert die regulierten, kontrollierten Bewegungsabläufe und die Anonymität innerhalb der Konstrukt-Stadt“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L128]. The principles name the whole as four: „Die vier Kern-Welten (KW1-4) des Romans“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L31].
+
+Stands with position 1 of the record's table, the KW1 reading, as a concept of 2025-04-18; recorded, not applied, and the record's decision (KW1 only, 2026-09-24) is not changed by it.
