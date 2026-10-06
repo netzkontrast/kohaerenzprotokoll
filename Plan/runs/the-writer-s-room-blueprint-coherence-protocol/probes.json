@@ -1,0 +1,146 @@
+{
+  "document": "the-writer-s-room-blueprint-coherence-protocol",
+  "drive_id": "1rnls56AQbfKp0phV6bLTRo1kZjOm1HMalGg_SRNfW2Y",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 16,
+  "backslash_escapes": 184,
+  "typographic_marks": 27,
+  "ascii_quotes": 84,
+  "inflection_families": {
+    "archi": [
+      "Archipel",
+      "Archipelago",
+      "Architecture"
+    ],
+    "confr": [
+      "Confrontation",
+      "Confronted",
+      "Confronting"
+    ],
+    "consc": [
+      "Conscious",
+      "Consciousness"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonant"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation"
+    ],
+    "garde": [
+      "Garden",
+      "Gardener"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialmeer"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Each",
+      "Breaching"
+    ],
+    [
+      "Echo",
+      "Echoes"
+    ],
+    [
+      "Help",
+      "Helper"
+    ],
+    [
+      "Here",
+      "There"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "With",
+      "Without"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Pathological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Overworld"
+    ],
+    [
+      "Action",
+      "Reaction"
+    ],
+    [
+      "Garden",
+      "Gardener"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Archipel",
+      "Archipelago"
+    ],
+    [
+      "Fragment",
+      "Fragmentation"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ]
+  ]
+}
