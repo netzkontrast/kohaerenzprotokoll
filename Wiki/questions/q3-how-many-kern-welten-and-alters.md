@@ -816,3 +816,11 @@ Stands: it states four worlds and ties each of its four example alters to one, b
 For the alters: „System Kael is composed of 11 core alters plus an Internal Self-Helper“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L53]. For the worlds it describes four, each tied to named alters: KW2 is „The domain of Lyra and the EPs; the swamp of the past“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L95], KW3 is „The domain of Nyx and Soren; the state of hypervigilance“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L104], KW4 is „The domain of Selene and Elara; the capacity for growth and synthesis“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L114], and KW1 is „The domain of Kael and Lex; the rigid, emotionless state of suppressing pain to function“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L86]. Here one world carries two alters or a group, not one alter each.
 
 Stands as a count of 11 plus an ISH with four worlds; recorded, the question stays open.
+
+## 2026-10-06 — `romanideen-zu-roman-entwickeln`, 2025-10-15, the master blueprint
+
+**The master blueprint consolidates one alter table of Kael, Lex, Nyx, Kiko, Rhys, Selene, Praetor and Oblivion over the drafts' differing names, and states no Kern-Welt count.**
+
+It reports that the drafts name the parts inconsistently: „Inkonsistenzen bei den Namen der Persönlichkeitsanteile von Kael“ ^[romanideen-zu-roman-entwickeln.md:L60], and directs that „eine einzige, kanonische Charakterliste unerlässlich“ ^[romanideen-zu-roman-entwickeln.md:L60] is. It proposes „Daher wird eine definitive Vorlage geschaffen“ ^[romanideen-zu-roman-entwickeln.md:L62], joining the World Bible's profiles with the names `Lex`, `Nyx` and `Kiko` against `Index`, `Nox` and `Echo` (L60, L62); the rows stand on L71 to L78. Praetor's relations are left to later work: „Interaktionen müssen entwickelt werden“ ^[romanideen-zu-roman-entwickeln.md:L77] (L77). The blueprint names `KW1`, `KW2` and `KW3` only as Act places (L96, L113, L114) and sets no correspondence of alter to world.
+
+Stands as a new row beside the record's alter counts: one consolidated table proposed by a synthesis that sets its own canon; recorded, not applied, and the question stays as the record has it.
