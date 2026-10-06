@@ -290,3 +290,11 @@ Where it stands in the record's own terms: a component, not an address; it does 
 > „designated internally as Component 734 (known externally as Kael)“ ^[aegis-genesis-crisis-self-definition.md:L177]
 
 Where it stands: the log gives the Komponente sense (Kael's designation) in AEGIS's voice; it is a reading for Q7's first sense and settles nothing, the question stays as recorded.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review
+
+**The Bauplan review names Komponente 734 as Kael's state, as a depersonalisation and as his initial state in the [[konstrukt-stadt|Konstrukt-Stadt]], and says nothing of what the number labels.**
+
+At L40 it reads the phenomenon of depersonalisation „das Kael als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40] Komponente 734 experiences; at L170 „Kaels anfänglicher Zustand als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L170] Komponente 734 within the order of AEGIS and the Konstrukt-Stadt (KW1). `Wohneinheit 734` does not appear in the review.
+
+Stands: the review adds a use of Komponente 734 as Kael's designation and as a state, and does not answer the question; it stays open.
