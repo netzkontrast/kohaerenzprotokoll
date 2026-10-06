@@ -401,3 +401,11 @@ Where it stands in the record's own terms: four worlds, four Guardian pairs, KW4
 The table is the report's own arrangement of the documents it cites (its source 31). Its column header is „Transitions-Mechanismus (Vakant)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L91] beside the Guardian column; the rows pair `LogOS` with „Konstrukt-Stadt (Co₁)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L92], `Mnemosyne` with „Resonanz-Landschaft (McL)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93], `Cerberus` with „Grenzfeste (B)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94] and „Kairos / Sophia“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95] with „Möglichkeits-Garten (Ly)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95]. The prose says: „Die Profile der verbleibenden Guardians – Cerberus (Grenzfeste) sowie Kairos und Sophia (Möglichkeits-Garten / Nexus)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105], and judges them „konzeptionell deutlich schwächer ausgearbeitet“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105]. It names no Erasure-Pol.
 
 Stands: five Guardians over four worlds, KW4 held by two, as the report cites it; nothing decided, and no source's pairing is applied.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis names five Guardians in its build plan and assigns no world.**
+
+The line reads „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[romanprojekt-analyse-synthese.md:L153]; Kairos and Sophia are separate names, with a comma between them, not a slash form or a pair. They are to act as specialised filter algorithms, each a defensive wall in Kael's psyche, and to fail by „logische Überladung“ ^[romanprojekt-analyse-synthese.md:L153]. `Kernwelt` ^[romanprojekt-analyse-synthese.md:#0] and `KW` ^[romanprojekt-analyse-synthese.md:#0] do not stand in the document, and it names no Erasure-Pol.
+
+Stands: five Guardians, none paired with a world, in a plan of 2026-04-30; nothing decided, and the question stays open.
