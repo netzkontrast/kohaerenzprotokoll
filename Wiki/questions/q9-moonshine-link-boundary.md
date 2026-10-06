@@ -228,3 +228,11 @@ Stands with the link as non-local and outside AEGIS's reality; recorded, not app
 „This is a non-local“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L98] connection (L98); „Because it is non-local and acausal, the link is structurally invisible to AEGIS's sensors“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L101] (L101).
 
 Stands as a statement of the boundary from AEGIS's side, dated 2025-10-15; recorded, not settling the question.
+
+## 2026-10-06 — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc
+
+**The 39-part arc lets the Moonshine-Link become „a stable, conscious channel between Kael and Juna“ ^[coherence-protocol-a-39-part-narrative-arc.md:L48] in Story 19 and lead Kael to 'O'.**
+
+Story 19 (The Moonshine Anomaly) has the link evolve so; story 35 (The Other Fragment, 'O'): „Guided by Juna's Moonshine-Link, Kael follows the dissonant resonance to another being“ ^[coherence-protocol-a-39-part-narrative-arc.md:L73]. It names only Kael and Juna as the channel's ends.
+
+Stands as a statement of the link's reach in one outline, dated 2025-11-03; recorded, not settling the question.
