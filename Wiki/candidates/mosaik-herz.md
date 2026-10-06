@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung"]
 gathered: "2026-09-24"
 ---
 
@@ -24,6 +24,12 @@ Storyform A (its L126). (Until it was read this said nine sources.) The Ultra-Pl
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — accepting complexity as strength, healing the dissociative split
 
 In the synthesis's plot reading (L209, glued `1`), in KW4 Kael begins to talk to his parts and „seine Komplexität als Stärke zu akzeptieren“ ^[system-kael-konzeptentwicklung-und-analyse.md:L209], which the line tags as the `Mosaik-Herz`. In the section on the Fundament, the healing is „Kaels eigener, schmerzhafter Prozess der inneren psychologischen Integration“ ^[system-kael-konzeptentwicklung-und-analyse.md:L228], the putting together of his `Mosaik-Herzens`.
+
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — accepted in phase 7, the Monster group in Kael
+
+**Reports.** In Murdock's phase 7, which it reports from the Protocol (reference 1), the finale has Kael make a new protocol: „Er akzeptiert sein“ ^[plot-analyse-und-romanentwicklung.md:L95] Mosaik-Herz (L95).
+
+**Proposes.** In the Moonshine proposal the integrated Kael, „Kael, in seiner vollständigen, integrierten Form“ ^[plot-analyse-und-romanentwicklung.md:L117], is the Mosaik-Herz with all his Alters and stands for the Monster group (L117) — the assistant's metaphor.
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the Mosaik-Herz in Kap 11
 
