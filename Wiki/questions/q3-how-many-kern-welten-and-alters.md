@@ -698,3 +698,11 @@ Stands: the catalogue is a collection of ideas and states no count of worlds or 
 It writes „The four Core Worlds“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L94] and names them KW1 to KW4, each tied to a Guardian (L96–L110). The alter table gives each part its class in brackets: „Kael (ANP - Host)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L64], „Lex (ANP - Analyst)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L65], „Alex (ANP - Protector)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L66], „Rhys (ANP - Caregiver)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L67], „Nyx (EP - Fighter)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L68], „Kiko (EP - Frightened Child)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L69], „Lia (EP - Ambivalent Child)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L70], „Moros (EP - Collapse)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L71] and „Selene (Integrating Self)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L72].
 
 Where it stands: a design document's table of nine named rows and four worlds, recorded beside the question and not answering it.
+
+## 2026-10-06 — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing
+
+**The briefing maps four Core Worlds and a table of alters led by Kael (Host), with Rhys and Argus as ANPs and Selene as an ISH.**
+
+Worlds: „The primary settings are four simulated“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L128] Core Worlds, KW1 to KW4 (L128–L136). Alters, table L83–L91: „Kael (Host)“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L84], Lex, Nyx, Kiko, Rhys, Selene, Argus and Moros. Rhys is „ANP: Caregiver, focused on empathy and internal mediation.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L88], Argus „ANP: Meta-Observer“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L90], and Selene „ISH (Internal Self Helper): Guardian and mediator.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L89]
+
+Stands as one more count of worlds and alters, dated 2025-10-15, not resolving the question.
