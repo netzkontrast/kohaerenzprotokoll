@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 11
-readings: 9
+sources: 12
+readings: 10
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "roman-outline-fuer-kohaerenz-protokoll"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "roman-konzept-dualitaet-kohaerenz-spannung", "three-mode-architecture-39-chapters-md", "textanalyse-existenz-system-und-leid", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "roman-outline-fuer-kohaerenz-protokoll", "roman-outline-1-13-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -35,6 +35,10 @@ Version 2's scene 1 plans „Flüchtiger Eindruck einer verlorenen Ordnung“ ^[
 ## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — the Echo, suppressed origin that stays latent
 
 The outline calls the Echo a motif: „Ein wiederkehrendes auditives oder sensorisches Motiv, das die verlorene Ganzheit, das unterdrückte Potenzial repräsentiert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L71] It is placed as origin: „wird als der verlorene Ursprung positioniert, dessen Latenz die Suche nach Integration antreibt.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L28] AEGIS's strategy, as the Prologue plans it, is to fragment it; the Echo stays only as a faint resonance. It does not use the name `Residual-Echos`.
+
+## Reading — `roman-outline-1-13-fuer-kohaerenz-protokoll`, 2025-05-03, the final outline — the Echo and the origin of the trauma
+
+Among the Prologue's key symbols the final outline writes „Echo: Repräsentiert verlorene Ganzheit, unterdrücktes Potenzial, den Ursprung des Traumas“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L73]. The Echo is named the origin of the trauma, beside lost wholeness and suppressed potential.
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the echoes of origin, tolerated as function and suppressed as variance
 
