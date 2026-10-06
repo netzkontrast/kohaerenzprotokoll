@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 154 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 154 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 155 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 155 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -381,7 +381,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Briefing: Core Concepts of the "Kohärenz Protokoll" Project](drive/briefing-core-concepts-of-the-kohaerenz-protokoll-project.md) | 2025-10-15 | 2,388 | **read** | Gödel-Gambit 2, Potentialmeer 2, Alters 5, Nichts-Rauschen 2, Moonshine-Link 2, TSDP 3, Entropie† 6, Emergenz† 2 | ARCHON 2, Narrative Context Protocol 3, D2 2, SystemTheory 2, LFI 3 |
 | [Pitch Deck: Coherence Protocol](drive/pitch-deck-coherence-protocol.md) | 2025-10-15 | 1,677 |  | Resonanz-Landschaft† 2, Konstrukt-Stadt† 2, Nichts-Rauschen† 2, Alters 2, Entropie† 3, Kael 16, AEGIS 14 | Coherence Protocol 6, Classical Logic 3, Landscape 3, Co-consciousness 2, functional multiplicity 4 |
 | [Prompt-Entwicklung für Kohärenz-Erzählstrang](drive/prompt-entwicklung-fuer-kohaerenz-erzaehlstrang.md) | 2025-10-15 | 4,921 |  | Personas 3, Rhys 8, Lex 13, Nyx 8, Kiko 5, TSDP 8, Überwelt 16, Risse 14 | Silus 13, Aris 27, Aethelred 3, Thorne 10, Elara 5 |
-| [The Architecture of a Fractured Soul: A Critique of "Kohärenz Protokoll"](drive/the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md) | 2025-10-15 | 2,208 |  | Nyx 2, Emergenz† 3, TSDP 2, Kael 19, Risse† 3, Überwelt 3, AEGIS 9 | Ergodic 2, Kernwelt 1 4, Emotional Part 3, Apparently Normal Part 2, Avoidance 2 |
+| [The Architecture of a Fractured Soul: A Critique of "Kohärenz Protokoll"](drive/the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md) | 2025-10-15 | 2,208 | **read** | Nyx 2, Emergenz† 3, TSDP 2, Kael 19, Risse† 3, Überwelt 3, AEGIS 9 | Ergodic 2, Kernwelt 1 4, Emotional Part 3, Apparently Normal Part 2, Avoidance 2 |
 | [The Coherence Protocol: A World Bible](drive/the-coherence-protocol-a-world-bible.md) | 2025-10-15 | 3,381 |  | Silas 5, Oblivion 3, Alters 12, Genesis 2, Moonshine-Link 3, Nichts-Rauschen 2, Emergenz† 4, Juna 3 | Nothingness Noise 6, Nox 6, Garden of Possibilities 2, Classical Logic 4, Discursive Logic 2 |
 | [An Introduction to the Concepts of Coherence Protocol](drive/an-introduction-to-the-concepts-of-coherence-protocol.md) | 2025-11-03 | 1,381 |  | Kern-Welten 2, Entropie† 3, Kael 19, AEGIS 26, Risse 2 | Worlds 3, functional multiplicity 3, Foundation 3, Juna/V 3, Fundament 2 |
 | [An Introduction to the World of Kohärenz Protokoll](drive/an-introduction-to-the-world-of-kohaerenz-protokoll.md) | 2025-11-03 | 1,493 |  | Kael 23, Entropie† 2, AEGIS 22 | Foundation 7, Episteme 2, functional multiplicity 2, ANPs 3, Mind 2 |

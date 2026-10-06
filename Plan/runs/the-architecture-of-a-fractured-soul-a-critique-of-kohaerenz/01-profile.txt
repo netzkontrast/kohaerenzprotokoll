@@ -1,0 +1,14 @@
+# the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz
+  lines                82  (frontmatter ends at 9)
+  body words           2208
+  headings             7   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    26   ascii quotes 76
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    7
+  repeated labels      none
+  longest line         902 chars
+

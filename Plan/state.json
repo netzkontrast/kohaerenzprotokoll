@@ -11,15 +11,15 @@
       "how": "`## Reading` sections across the chapter pages, one per document per chapter"
     },
     "documents.reconciled": {
-      "value": 154,
+      "value": 155,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 154,
+      "value": 155,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 154,
+      "value": 155,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -107,11 +107,11 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 40009,
+      "value": 40048,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 180,
+      "value": 181,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -183,7 +183,7 @@
       "how": "landed files that do not open with the eight lines of provenance"
     },
     "sweep.decided": {
-      "value": 619,
+      "value": 622,
       "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
     },
     "sweep.open": {
@@ -191,7 +191,7 @@
       "how": "sweep hits in read documents that no reading and no ledger row settles \u2014 decision 012"
     },
     "sweep.readings": {
-      "value": 396,
+      "value": 398,
       "how": "of those, readings the lookup had missed, now on their pages"
     },
     "trainset.fold_baseline_pct": {
@@ -199,7 +199,7 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 156,
+      "value": 157,
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
