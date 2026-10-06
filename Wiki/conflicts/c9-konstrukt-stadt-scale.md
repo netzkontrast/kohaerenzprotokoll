@@ -249,3 +249,11 @@ Stands with the record's positions 1 and 3 (KW1), dated 2025-04-18; recorded, no
 The section heading reads „KW1: Konstrukt-Stadt (LogOS)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L106]; the three sections after it carry other names, „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241], „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346] and „KW4: Möglichkeits-Garten (Kairos/Sophia)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L436]. The profiles use the name inside KW1, as for the transit corridor, which „Symbolisiert die regulierten, kontrollierten Bewegungsabläufe und die Anonymität innerhalb der Konstrukt-Stadt“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L128]. The principles name the whole as four: „Die vier Kern-Welten (KW1-4) des Romans“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L31].
 
 Stands with position 1 of the record's table, the KW1 reading, as a concept of 2025-04-18; recorded, not applied, and the record's decision (KW1 only, 2026-09-24) is not changed by it.
+
+## 2026-10-06 — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture
+
+**The dual plot architecture titles KW1 „Logos-Prime (Construct-City)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L96] and gives it as a world, not a measured city.**
+
+Of KW1 it says „This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] LogOS and describes it as „a hyper-logical, orderly realm“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98], with a „sterile, hyper-geometric, functional“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] aesthetic. It states no size or scale for the Construct-City.
+
+Where it stands: a KW1 title and description only; it takes no side on the scale of the Konstrukt-Stadt.
