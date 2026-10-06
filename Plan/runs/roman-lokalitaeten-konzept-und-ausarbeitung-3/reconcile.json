@@ -1,0 +1,72 @@
+{
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung-3",
+  "drive_id": "1KPdVmx6eE5C0kwwBsetgy98ho2Kwjiys2ftyM0vI1zo",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; light pass — no readings, as the same locations concept as document 133 with other footnote numbers; rlm_ingest not run",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 93,
+    "decisions": 100,
+    "decided_by_lookup": 84,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: the locations concept of document 133, same date and same structure, the same table of six levels (L118–L124) and seven key places; its differing lines are rewordings and footnote numbers, and it adds a Narbe in KW2 (L254) as a place of processed trauma; nothing names a thing of the novel's world that has no page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title), J12 and J16 (Nexus-Knoten, Innerer Bunker, AEGIS-Kern, Trauma-Landschaft, Mindscape-Mechanik), J23 and J56 (inflections: Rissen, Kaels, Junas, Narben, Mindscapes), as for document 133",
+  "sweep": [
+    {
+      "page": "kaels-wohneinheit",
+      "surface": "Kaels Wohneinheit",
+      "line": 342,
+      "decision": "reading",
+      "why": "light pass: the same text as document 133 with other footnote numbers, whose reading on this page holds the same"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 243,
+      "decision": "reading",
+      "why": "light pass: the same text as document 133 with other footnote numbers, whose reading on this page holds the same"
+    },
+    {
+      "page": "vergessener-schrein",
+      "surface": "Vergessener Schrein",
+      "line": 356,
+      "decision": "reading",
+      "why": "light pass: the same text as document 133 with other footnote numbers, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "the Narbe (L254), a place of processed trauma beside the Vergessene Schrein — no page",
+    "the six comparison works, among them Westworld, Neuromancer and Disco Elysium — borrowed"
+  ],
+  "internal_tension": "as document 133: Teil 4 calls itself the final document and is not written out",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
