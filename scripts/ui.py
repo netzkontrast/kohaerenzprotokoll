@@ -73,7 +73,7 @@ Beside the frames, `build` writes `llms.txt` and `agents/` — `sessions.json` (
 sessions, `scripts/sessions.py` reading NOW.md § Half-done), `index.json` (every item with
 its repository path and its address), `state.json` and `data.json` — the same snapshot,
 for an agent that reads the website instead of the screen. `web.py` serves them.
-`--check` writes `stamp.json`, which the pre-PR hook reads (`scripts/appstamp.py`).
+`--check` writes `stamp.json`, which `scripts/appstamp.py verify` reads.
 """
 
 from __future__ import annotations
@@ -1623,7 +1623,7 @@ def main(argv: list[str]) -> int:
         print(f"{len(problems)} defects in what was written")
         appstamp.write("clean" if not problems else "defects", len(problems))
         print(f"  stamp: {appstamp.STAMP.relative_to(ROOT)} — {'clean' if not problems else 'defects'} for HEAD's tree "
-              "(the pre-PR hook reads it)")
+              "(scripts/appstamp.py verify reads it)")
         if problems:
             return 1
     print(f"publish from a Claude session: Artifact url {CANVAS_URL}, root {OUT.relative_to(ROOT)}/canvas, "

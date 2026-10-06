@@ -1,14 +1,14 @@
 ---
 name: app-refresh
-description: Rebuild, check, look at and publish the project app (scripts/ui.py → the claude.ai canvas and the Vercel website) for the commit a pull request carries, and keep it usable by agents as well as people — every item with an address, a JSON twin in llms.txt/agents/, and an interactive element rather than static text. Use before every pull request (the pre-PR hook refuses one whose app was not rebuilt for HEAD), after a reconciliation or a NOW.md change, when a check names ui.py, web.py or appstamp.py, and when the author asks to keep the UI updated.
+description: Rebuild, check, look at and publish the project app (scripts/ui.py → the claude.ai canvas and the Vercel website) for the commit a pull request carries, and keep it usable by agents as well as people — every item with an address, a JSON twin in llms.txt/agents/, and an interactive element rather than static text. Use when the app should be current for a pull request (no hook enforces it since 2026-10-06), after a reconciliation or a NOW.md change, when a check names ui.py, web.py or appstamp.py, and when the author asks to keep the UI updated.
 ---
 
 # Refreshing the project app
 
 The author's standing instruction of 2026-10-05 — *„keep the ui updated"* — made the app part of every change.
-`.claude/hooks/pre-pr-app.sh` holds it: before `mcp__github__create_pull_request` or `gh pr create` it asks
-`python3 scripts/appstamp.py verify` whether `ui.py --check` passed for HEAD's tree, and refuses the pull
-request (exit 2) when not. This skill is what makes it pass, and what makes the pass mean something.
+A pre-PR hook used to enforce it; the author removed it on 2026-10-06 („Remove hook for App Check“), and nothing
+refuses a pull request now. `python3 scripts/appstamp.py verify` still says whether `ui.py --check` passed for
+HEAD's tree; this skill is how to make that true when the app should be current, and what makes it mean something.
 
 The app shows what the repository states and infers nothing (`scripts/ui.py`'s docstring). Refreshing it
 never changes a reading, a page or a decision: when the app looks wrong, the fix is in the repository or in
@@ -22,7 +22,7 @@ The stamp names HEAD's tree, so everything the pull request will carry is commit
 git status --short                      # nothing staged or modified that belongs in the PR
 python3 scripts/ui.py --check           # about two minutes: build, invariants, lint, data, syntax, every address
 python3 scripts/web.py --no-build --check   # the website: frames, runtime, llms.txt, agents/
-python3 scripts/appstamp.py verify      # what the hook will ask
+python3 scripts/appstamp.py verify      # whether the build covers HEAD's tree
 ```
 
 Run `ui.py --check` in the background (it outlasts a two-minute tool call) and wait for it to finish. A `DEFECT` line

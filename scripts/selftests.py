@@ -75,7 +75,7 @@ SUITES = [
     ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("next sessions from NOW.md: order, gates, prompt", "std", ["scripts/sessions.py", "selftest"]),
     ("next sessions, live: NOW.md names at least one", "std", ["scripts/sessions.py"]),
-    ("app stamp: the pre-PR hook's verdicts", "std", ["scripts/appstamp.py", "selftest"]),
+    ("app stamp: the verify verdicts", "std", ["scripts/appstamp.py", "selftest"]),
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("novelgraph rlm: tools, refusal, budget, scoring", "novelgraph", ["-m", "novelgraph.cli", "rlm", "--selftest"]),
     ("e4 arm C: shown = read lines, case cap", "novelgraph", ["scripts/e4_rlm.py", "selftest"]),

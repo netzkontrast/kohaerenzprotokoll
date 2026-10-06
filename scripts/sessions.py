@@ -196,8 +196,8 @@ def blocks(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> l
     out.append(["rules", "Claim the work before starting it: open a pull request at once, its body under a `## Claim` heading "
                          f"holding the line `Session: {sid}`" + (" (or an id of your own for a task NOW.md does not name)" if sid == "free" else "")
                          + f" — the session board reads that line (`python3 scripts/sessions.py board`, and the Now page {PAGE}).\n"
-                         "Before any pull request: the app-refresh skill (`.agents/skills/app-refresh/SKILL.md`); "
-                         "the pre-PR hook refuses a pull request whose app was not rebuilt and checked for this commit."])
+                         "When the app should be current for a pull request: the app-refresh skill "
+                         "(`.agents/skills/app-refresh/SKILL.md`); no hook enforces it (removed 2026-10-06)."])
     return [[k, LABELS[k], t] for k, t in out]
 
 

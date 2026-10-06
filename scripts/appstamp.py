@@ -1,10 +1,10 @@
-"""Was the project app rebuilt and checked for this commit? The pre-PR hook asks this.
+"""Was the project app rebuilt and checked for this commit?
 
 `ui.py --check` writes `Plan/derived/ui/stamp.json` when what it built has no
-defect: the commit's tree id, the time, and the check's verdict. The hook
-`.claude/hooks/pre-pr-app.sh` runs `verify` before a pull request is opened and
-refuses it when the stamp is missing or names another tree — the skill
-`app-refresh` is what makes it match.
+defect: the commit's tree id, the time, and the check's verdict. `verify` says
+whether the stamp names HEAD's tree — the skill `app-refresh` is what makes it
+match. A pre-PR hook ran `verify` and refused a pull request on a mismatch until
+the author removed it on 2026-10-06; nothing refuses one now.
 
 The fingerprint is the tree of HEAD, not a list of the files the app reads:
 `ui.py` reads NOW.md, the wiki, the manuscript, the decisions, the manifest, the
