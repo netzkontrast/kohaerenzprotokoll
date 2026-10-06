@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung"]
 gathered: "2026-09-24"
 ---
 
@@ -27,6 +27,10 @@ Kap 8 of the outline of 2026-05-01: „Sektor 04 wird gerendert“ ^[kohaerenz-p
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the heat in Sektor 04 in Kap 24
 
 Kap 24 places the rising temperature there: „Die Temperatur in Sektor 04 steigt rapide“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L703]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Sektor 04 as the district of Kael's work and of the sweeps
+
+In one chapter Kael leaves the building and „bemerkt, dass Sektor 04 extrem detailarm und flach wirkt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L169]. In another he is „Zurück bei seiner vermeintlichen Arbeit in Sektor 04“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L355], where AEGIS renders the sector in detail again. Later he must flee „durch die engen Gassen von Sektor 04 vor heranrückenden AEGIS-Drohnen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L809], and the Erasure-Sweep „bricht mit ohrenbetäubendem Lärm über Sektor 04 herein“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L941].
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
