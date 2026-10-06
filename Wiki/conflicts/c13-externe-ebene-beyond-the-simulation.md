@@ -166,3 +166,11 @@ It places the Externe Ebene beyond the simulation, hedged with `potenziell`; the
 The line reads: „in Kapitel 36 durchbricht die vierte Wand“ ^[romanprojekt-analyse-synthese.md:L62]. The effect „exportiert die Daten der Simulation symbolisch in die physikalische Realität des Lesers“ ^[romanprojekt-analyse-synthese.md:L62]. The document does not use the name `Externe Ebene` ^[romanprojekt-analyse-synthese.md:#0] and does not say that this reality lies beyond or outside AEGIS's simulation; it says the data are exported into it, symbolically. In the same finale Kael recognises „dass er nicht nur ein Bewohner der Simulation ist, sondern das System selbst“ ^[romanprojekt-analyse-synthese.md:L62].
 
 Stands as a physical reality of the reader, Köln 2026, reached by export and not by a break-through, without the record's name; recorded, not applied, and the record is not changed.
+
+## 2026-10-06 — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis
+
+**The plot analysis puts Juna and the Externe Ebene outside AEGIS's formal system: „Juna und die Externe Ebene existieren“ ^[plot-analyse-und-romanentwicklung.md:L109].**
+
+The line continues that they exist outside this system, and that AEGIS cannot delete Juna because she does not exist in its ontological programming language. It is the assistant's Gödel metaphor, proposed to the author, and the line uses `Externe Ebene` while L117 writes „der Externen Ebene“ ^[plot-analyse-und-romanentwicklung.md:L117] for the origin of the j-function.
+
+Stands as beyond AEGIS's formal system, not named a simulation's outside; recorded, not applied, and the record is not changed.
