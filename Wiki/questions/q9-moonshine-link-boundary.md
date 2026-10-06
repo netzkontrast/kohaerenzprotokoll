@@ -252,3 +252,11 @@ Stands as a proposal that places the question in a slot and names one limit, AEG
 > „presented to the architecture via the primary sensory interface (the Moonshine-Link)“ ^[aegis-genesis-crisis-self-definition.md:L191]
 
 Where it stands: under Q9's first way of asking (what crosses), the log says the link carries the integrated state to AEGIS, in its forecast; the question stays open.
+
+## 2026-10-06 — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter
+
+**The research letter proposes the Moonshine-Link as a non-local correlation that AEGIS cannot monitor or block, bypassing its security architecture.**
+
+It writes: „Die Verbindung zwischen Kael und Juna ist kein Kommunikationskanal, der überwacht oder blockiert werden kann“ ^[aegis-logik-und-erzaehlstruktur.md:L183], a „nicht-lokale Korrelation von Zuständen“ ^[aegis-logik-und-erzaehlstruktur.md:L183]. The letter says it bypasses the Zero-Trust Execution Model and the Encrypted Intent Channels: „Die Verbindung ist kein Protokoll, das überprüft werden kann“ ^[aegis-logik-und-erzaehlstruktur.md:L189]. It speaks to the boundary of what AEGIS can reach, not to what the link carries or who else feels it.
+
+Stands as a proposed boundary toward AEGIS from an outside physical model; recorded, the question stays open.
