@@ -284,3 +284,11 @@ Stands: the document states a mechanism and an invisibility to AEGIS; the bounda
 It writes „Die Juna/V-Verbindung (Moonshine-Link)“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L31] as an ontological exploit „basierend auf“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L31] Quantenverschränkung and Whitehead's Prehension, and „Diese nicht-lokale Resonanz ist für AEGIS unsichtbar.“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L31] It names no boundary of the link.
 
 Stands as one more statement of the link's invisibility to AEGIS, dated 2025-07-30; recorded, not applied.
+
+## 2026-10-06 — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide
+
+**The learner's guide describes the Moonshine-Link as a channel for subjective data between Kael and Juna/V, invisible to AEGIS, and sets no boundary on it.**
+
+It writes that the link „is the delivery system.“ ^[deconstructing-reality-s-architecture.md:L230] It ties Kael to Juna/V, „an external entity.“ ^[deconstructing-reality-s-architecture.md:L233] AEGIS scans for algorithmic data and the link carries subjective data, feelings and resonance (L234); because AEGIS is Ontologically Blind to subjectivity, „the link is invisible to it.“ ^[deconstructing-reality-s-architecture.md:L235]
+
+Stands: the guide gives a pair, Kael and Juna, and what crosses as feeling and resonance; who else can feel it, and whether it is exclusive, it does not say, so Q9 stays open.
