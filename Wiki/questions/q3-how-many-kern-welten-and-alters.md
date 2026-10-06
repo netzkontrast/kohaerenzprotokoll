@@ -740,3 +740,13 @@ Where it stands: the record's count question is answered by proposal only — fo
 The outline states the count of the parts: Kael's plot is coherence „zwischen seinen elf Persönlichkeitsanteilen“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L27]. It names `Kael`, `Lex`, `Rhys`, `Nyx`, `Kiko`, `Moros`, `Selene`, `Alex` and `Lia`, and gives no list of eleven. For the worlds, Kapitel 10 has „Die Parameter von Kaels Kernwelt Co₁ werden angepasst“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L139], and the sequence of Kapitel 13 to 21 says that AEGIS „könnte versuchen, Kaels andere Kernwelten zu manipulieren“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L185], with „die chaotische Welt McL“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L185] as the example. The document states no number of Kernwelten and no rule of one world to one part.
 
 Stands as a count of the Anteile (eleven) with the Kernwelten left uncounted in this document; recorded, not applied, and the question stays open.
+
+## 2026-10-06 — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint
+
+**The blueprint lists Kael and ten more alters twice, in its first part and in its thematic foundation, and gives four worlds named KW1 to KW4.**
+
+Alters: its first part, under „Kael's Internal System: Primary Alters“ ^[narrative-blueprint-the-coherence-protocol.md:L35] runs from Kael (Host) to Argus (Meta-Observer), L39 to L49 — Kael, Lex, Alex, Rhys, Nyx, Kiko, Moros, Selene, Lia, Isabelle and Argus. The thematic foundation's table (L254–L264) names the same eleven and types some differently: Lex is „Primary ANP (Rationalist)“ ^[narrative-blueprint-the-coherence-protocol.md:L263] where the list says ANP, and Kiko is „EP (Freeze/Flight-Response)“ ^[narrative-blueprint-the-coherence-protocol.md:L257].
+
+Worlds: the first part has the story begin in „the simulated Kernwelten (Core Worlds)“ ^[narrative-blueprint-the-coherence-protocol.md:L121]; its Act 1 names KW1 as Logos-Prime (L121). The beat sheet puts KW2 as Mnemosyne-Archipel (L363), KW3 as Cerberus-Labyrinth (L365) and KW4 as Kairos-Potentialis (L368). The blueprint draws no correspondence between a world and an alter.
+
+Stands as one more roster of eleven alters in two typings and four worlds, dated 2025-10-15; recorded, not settling Q3.
