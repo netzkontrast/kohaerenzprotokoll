@@ -670,3 +670,5 @@
 {"document": "project-status-report-kohaerenz-protokoll-canonical-state-st", "page": "kohaerenz", "surface": "Kohärenz", "line": 1, "decision": "occurrence", "why": "the project's name in the title", "at": "2026-10-06"}
 {"document": "kohaerenz-protokoll-2", "page": "kohaerenz", "surface": "Kohärenz", "line": 67, "decision": "occurrence", "why": "AEGIS's task of Systemintegrität und Kohärenz — the word, read on aegis", "at": "2026-10-06"}
 {"document": "kohaerenz-protokoll-2", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 33, "decision": "reading", "why": "narrative tension through the different Realitätsebenen, read on realitaetsebenen", "at": "2026-10-06"}
+{"document": "the-coherence-protocol-a-narrative-design-world-architecture", "page": "genesis", "surface": "Genesis", "line": 29, "decision": "reading", "why": "The Genesis of AEGIS: A Tragedy of Ontological Horror, read on genesis", "at": "2026-10-06"}
+{"document": "the-coherence-protocol-a-narrative-design-world-architecture", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the project's name in the introduction", "at": "2026-10-06"}

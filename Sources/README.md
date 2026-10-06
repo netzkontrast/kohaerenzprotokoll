@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 166 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 166 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 167 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 167 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -590,7 +590,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz Protokoll: The Official Master Story Guide](drive/kohaerenz-protokoll-the-official-master-story-guide.md) | 2026-01-02 | 2,982 | **read** | Kollaps-Kernel 3, Kohärenz-Kernel 2, Dual-Kernel-Theorie† 2, Moonshine-Link 3, TSDP 5, Guardians 2, Alters 2, Juna 2 | Exclusionary Order 2, Core World 2, Protector 4, Episteme 2, Protocol 9 |
 | [Narrative Architecture Dossier: Coherence Protocol](drive/narrative-architecture-dossier-coherence-protocol.md) | 2026-01-02 | 3,011 |  | Cache-Kohärenz† 3, Rhys 3, Lex 5, Nyx 4, Kiko 3, TSDP 4, Entropie† 6, Risse† 7 | THE DIGITAL OVERWORLD 2, Transcendence 4, Correspondence 6, Genesis-Krise 9, The_Void_ 3 |
 | [Projekt Ockham: Narrative Systemik Reduktion](drive/projekt-ockham-narrative-systemik-reduktion.md) | 2026-01-02 | 4,678 |  | Dual-Kernel-Theorie 6, Juna 5, Überwelt 8, Entropie 4, Kael 20, Kohärenz 4, AEGIS 7 | NovelOS 28, BDI 6, SQLite 5, Python 8, Neo4j 4 |
-| [The Coherence Protocol: A Narrative Design & World Architecture Document](drive/the-coherence-protocol-a-narrative-design-world-architecture.md) | 2026-01-02 | 3,772 |  | Coheron 2, Gödel-Gambit 3, AEGIS' four sub-functions 2, Moonshine-Link 6, Dual-Kernel-Theorie† 3, Nichts-Rauschen 4, Selene 4, Moros 3 | Elara 4, Swamp 2, Introject 3, Sentinel 2, Classical Logic 4 |
+| [The Coherence Protocol: A Narrative Design & World Architecture Document](drive/the-coherence-protocol-a-narrative-design-world-architecture.md) | 2026-01-02 | 3,772 | **read** | Coheron 2, Gödel-Gambit 3, AEGIS' four sub-functions 2, Moonshine-Link 6, Dual-Kernel-Theorie† 3, Nichts-Rauschen 4, Selene 4, Moros 3 | Elara 4, Swamp 2, Introject 3, Sentinel 2, Classical Logic 4 |
 | [The Coherence Protocol: An Architectural Blueprint for Agentic Narrative Systems](drive/the-coherence-protocol-an-architectural-blueprint-for-agenti.md) | 2026-01-02 | 3,217 |  | TSDP 3, Alters 2, Entropie† 3, Kael 7, AEGIS 6 | NovelOS 7, BDI 4, LLM 14, ARCHON 4, Neo4j 2 |
 | [Kapitel eins 1 Kohärenz Protokoll](drive/kapitel-eins-1-kohaerenz-protokoll.md) | 2026-02-22 | 1,557 |  | LogOS 4, Konstrukt-Stadt 2, Juna 3, Kael 16, Risse 2, AEGIS 3 | — |
 | [Plot-Analyse und Romanentwicklung](drive/plot-analyse-und-romanentwicklung.md) | 2026-02-22 | 4,195 | **read** | Grenzfeste 7, Resonanz-Landschaft 5, Cerberus 10, Mosaik-Herz 2, Möglichkeits-Garten 2, Konstrukt-Stadt 8, LogOS 7, DID 7 | Finite Simple Groups 3, Eos 3, Nox 6, Co1 2, Monstrous Moonshine 9 |
