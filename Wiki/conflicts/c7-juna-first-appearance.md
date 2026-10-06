@@ -415,3 +415,11 @@ Stands as a hint from Kapitel 1-2 through echoes, with no scene of her presence;
 The line is in its account of Phase I: „Die erste Begegnung mit Juna in Kapitel 3 wird vom System“ ^[romanprojekt-analyse-synthese.md:L50] so classified, and the conflict it shows is that AEGIS (LogOS) cannot „sehen“ ^[romanprojekt-analyse-synthese.md:L50] her, because she lies outside the axiomatic basis of the kernel (the kernel symbol was lost in the export). The same paragraph puts the first collapse in Kapitel 13.
 
 Stands as an encounter in Kapitel 3, in a synthesis of 2026-04-30 that reports a Struktur-Kanon; recorded, not applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline has Juna first as a silence in the net, which Kael names, and plans her never to be described directly.**
+
+The Klappentext: „eine Leerstelle, die er nur“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L17] Juna nennen kann. Kapitel 3 plans „Die erste anomale Manifestation der Entität Juna“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L129]. Kapitel 33 says „Juna wird im Text nicht direkt beschrieben“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1239].
+
+Stands with Juna first appearing as an absence, dated 2026-04-30; recorded, not applied.
