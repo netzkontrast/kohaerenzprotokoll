@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu"]
 gathered: "2026-09-25"
 ---
 
@@ -17,6 +17,12 @@ the ending is a synthesis rather than a victory.** Where each part falls in the
 chapters is laid out per source in the plot overview
 ([plot.md](../overview/plot.md)); this page holds what the sources say the structure
 is and does.
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Kishōtenketsu as Kael's plot beside AEGIS's Western dramaturgy, and a Ki/Shō/Ten/Ketsu pass in every planned chapter
+
+The outline designs Kael's strand on this structure: „Kaels Heilungsreise auf der transformativen Kishōtenketsu-Struktur“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L22] stands against AEGIS's conflict dramaturgy. It claims for the form a meaning of its own: „Die Form des Romans wird so zu einem Meta-Kommentar“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L41], a commentary on „den Zusammenprall zweier unvereinbarer Paradigmen des Seins und des Verstehens“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L41].
+
+The four phases are the four acts of the plan: „Ki (Einleitung) - Das Instabile Gleichgewicht“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L45] for Kapitel 1–9, „Shō (Entwicklung) - Die Eskalierende Paradoxie“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L119] for 10–21, „Ten (Wendung) - Katastrophales Versagen & Emergentes Selbst“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L191] for 22–31 and „Ketsu (Schluss) - Eine Neue Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L245] for 32–40. Each full chapter block also carries a `Kapitel-Kishōtenketsu` list of four lines; in the planned Kapitel 3 the Ten line reads „Juna macht eine unerwartete, authentische emotionale Geste“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L102], the turn that sets off the chapter's Ketsu.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the architecture analysis) — a non-Western structure for Kael's integration
 
