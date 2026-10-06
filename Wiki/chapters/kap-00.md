@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 16
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen"]
+sources: 17
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "roman-outline-fuer-kohaerenz-protokoll"]
 records: ["C3", "C10", "C12", "C7", "C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,10 @@ Focus: `Ursprungsparadoxon`, „Die Entstehung von AEGIS aus Chaos/Angst“ ^[2-
 
 - Story: „Erzählt aus einer distanzierten, fast mythischen Perspektive“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47]; „Die Leere/das Rauschen erzeugt Cosmic Horror-Atmosphäre.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47]
 - Concept: „Kontrolle führt zu Instabilität“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L48] (concept tag: the `Paradox of Control`)
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — the Prologue, Genesis
+
+- The detailed outline plans the Prologue as „Genesis“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L13] with the Core Theme „Die Entstehung von Konflikt und Trauma wird als fundamentaler Aspekt der Existenz von AEGIS untersucht“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L15] — a plan, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Kapitel 40/0 as epilogue and prologue
 
