@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 110 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 110 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 111 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 111 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -599,7 +599,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Roman-Outline: Stilmittel, Perspektiven, Umsetzung](drive/roman-outline-stilmittel-perspektiven-umsetzung.md) | 2026-02-23 | 3,162 |  | Grenzfeste 4, Dual-Kernel-Theorie† 8, Konstrukt-Stadt 10, Resonanz-Landschaft 3, LogOS 6, Cerberus 3, Guardians 5, Genesis 2 | K1 8, Giannakopoulos 4, K0 7, Runtime 2, Law of Requisite Variety 2 |
 | [Roman-Plot-Entwicklung mit Kohärenzprotokoll](drive/roman-plot-entwicklung-mit-kohaerenzprotokoll.md) | 2026-02-23 | 4,194 | **read** | Oblivion 4, Potentialmeer 8, Sophia 5, Kairos 4, Cerberus 5, Alex 5, LogOS 7, Selene 5 | Epsilon-Null 2, Root-Zugriff 2, Hologramm 4, Thorne 3, Paria 2 |
 | [Roman-Plot-Entwicklung und Kohärenz-Analyse](drive/roman-plot-entwicklung-und-kohaerenz-analyse.md) | 2026-02-23 | 4,365 |  | Potentialmeer 6, Rhys 6, Cerberus 4, Lex 18, Mnemosyne 5, Selene 4, Alex 3, Moonshine-Link 4 | Leech 4, Leech-Lattice 7, v1 5, Monstrous Moonshine 10, Maureen 2 |
-| [Romananalyse: Kohärenz, Plot, Kritik](drive/romananalyse-kohaerenz-plot-kritik.md) | 2026-02-23 | 4,320 |  | Partnerin 3, Oblivion 3, Konstrukt-Stadt 7, Sophia 3, Resonanz-Landschaft 2, LogOS 4, Kairos 2, Guardians 4 | Permutation City 3, Egan 5, John Conway 3, LessWrong 4, Shannon-Entropie 3 |
+| [Romananalyse: Kohärenz, Plot, Kritik](drive/romananalyse-kohaerenz-plot-kritik.md) | 2026-02-23 | 4,320 | **read** | Partnerin 3, Oblivion 3, Konstrukt-Stadt 7, Sophia 3, Resonanz-Landschaft 2, LogOS 4, Kairos 2, Guardians 4 | Permutation City 3, Egan 5, John Conway 3, LessWrong 4, Shannon-Entropie 3 |
 | [Kohärenz-Direktive: Narratives Protokoll](drive/kohaerenz-direktive-narratives-protokoll.md) | 2026-02-25 | 555 |  | LogOS 2, Juna 4, Entropie 3, Kohärenz 3, Überwelt 2, Kael 3, AEGIS 3 | Gödel 2, Kohärenz-Protokoll 2 |
 | [Kohärenz Protokoll - 39 Kapitel Matrix](drive/kohaerenz-protokoll-39-kapitel-matrix.md) | 2026-02-25 | 3,381 | **read** | Nexus 7, Alex 13, Mosaik-Herz 2, Sophia 4, Selene 6, Argus 3, Lex 15, Lia 3 | KWs 2, Paradoxon X 3, Korrespondenz 3, Stadt 3, Gott 2 |
 | [Kohärenz Protokoll: Detaillierter Plot-Blueprint](drive/kohaerenz-protokoll-detaillierter-plot-blueprint.md) | 2026-02-25 | 736 |  | Externe Ebene 2, LogOS 4, Kairos 2, Mnemosyne 3, Konstrukt-Stadt 2, Guardians 3, Juna 8, Entropie 6 | Köln 3, K-PTBS 2, Genesis der Existenz 2, Stadt 2, Kohärenz-Protokoll 2 |
@@ -919,7 +919,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Entropie](../Wiki/candidates/entropie.md) | [aegis-singularitaet-jenseits-entropiegleichung-2](drive/aegis-singularitaet-jenseits-entropiegleichung-2.md), [kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern](drive/kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md), [kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest](drive/kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md), [kohaerenz-protokoll-2](drive/kohaerenz-protokoll-2.md), [kohaerenz-protokoll-system-realitaet-leser](drive/kohaerenz-protokoll-system-realitaet-leser.md), [emergenz-autonomer-systeme-aegis-forschung](drive/emergenz-autonomer-systeme-aegis-forschung.md) |
 | [Maximale Entropie-Katastrophe](../Wiki/candidates/entropie-katastrophe.md) | [paradoxien-der-kohaerenz-protokoll-entwicklung](drive/paradoxien-der-kohaerenz-protokoll-entwicklung.md), [welten](drive/welten.md) |
 | [Entropie-Resonanz / Entropie-Resonanz-Protokolle](../Wiki/candidates/entropie-resonanz.md) | — |
-| [Entropie-Signatur](../Wiki/candidates/entropie-signatur.md) | [romananalyse-kohaerenz-plot-kritik](drive/romananalyse-kohaerenz-plot-kritik.md) |
+| [Entropie-Signatur](../Wiki/candidates/entropie-signatur.md) | — |
 | [Erason](../Wiki/candidates/erason.md) | [dkt-fundament-kohaerenz-protokoll-md](drive/dkt-fundament-kohaerenz-protokoll-md.md), [kohaerenz-protokoll-master-integration-md](drive/kohaerenz-protokoll-master-integration-md.md) |
 | [Evaluierungseinheit](../Wiki/candidates/evaluierungseinheit.md) | [roman-synthese-mit-dual-kernel-theorie](drive/roman-synthese-mit-dual-kernel-theorie.md) |
 | [Externe Ebene](../Wiki/candidates/externe-ebene.md) | [junas-liebe-kaels-trauma-aegis-docx](drive/junas-liebe-kaels-trauma-aegis-docx.md), [recherche-kohaerenz-protokoll](drive/recherche-kohaerenz-protokoll.md), [kohaerenz-protokoll-konzept](drive/kohaerenz-protokoll-konzept.md), [explizites-subplot-konzept-fuer-kohaerenz-protokoll](drive/explizites-subplot-konzept-fuer-kohaerenz-protokoll.md), [kohaerenz-protokoll-2](drive/kohaerenz-protokoll-2.md), [plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve](drive/plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md) |

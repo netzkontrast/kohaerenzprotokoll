@@ -1,0 +1,566 @@
+{
+  "document": "romananalyse-kohaerenz-plot-kritik",
+  "step": "reconcile-pre",
+  "at": "2026-10-06",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-06",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 82,
+  "decisions": 86,
+  "same_surface": {
+    "kernwelten": [
+      "Kern-Welten",
+      "Kernwelten"
+    ]
+  },
+  "decided_mechanically": 74,
+  "needs_judgement": 12,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 96
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 82
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 95
+      },
+      {
+        "candidate": "Kontrollinstanz",
+        "page": "aegis",
+        "readings": 95
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 63
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 65
+      },
+      {
+        "candidate": "Kern-Welt",
+        "page": "kern-welten",
+        "readings": 65
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 65
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 55
+      },
+      {
+        "candidate": "Resonanz-Landschaft",
+        "page": "resonanz-landschaft",
+        "readings": 26
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 24
+      },
+      {
+        "candidate": "Möglichkeits-Garten",
+        "page": "moeglichkeits-garten",
+        "readings": 34
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 51
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 59
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 46
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 41
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 38
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 42
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 42
+      },
+      {
+        "candidate": "Glitches",
+        "page": "risse",
+        "readings": 70
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 70
+      },
+      {
+        "candidate": "Mosaik-Herz",
+        "page": "mosaik-herz",
+        "readings": 24
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 31
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 27
+      },
+      {
+        "candidate": "Nichts-Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 53
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 64
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Limina"
+      },
+      {
+        "candidate": "Index"
+      },
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Praetor"
+      },
+      {
+        "candidate": "Eos"
+      },
+      {
+        "candidate": "Flicker"
+      },
+      {
+        "candidate": "McL-Sigma-3"
+      },
+      {
+        "candidate": "Beta-Rho-5"
+      },
+      {
+        "candidate": "Universal Reboot"
+      },
+      {
+        "candidate": "digitale Wärme"
+      },
+      {
+        "candidate": "digitale Abwärme"
+      },
+      {
+        "candidate": "Wir-Geflecht"
+      },
+      {
+        "candidate": "An den Nähten der Welt"
+      },
+      {
+        "candidate": "Daten-Parasit"
+      },
+      {
+        "candidate": "Anscheinend Normale Persönlichkeitsanteil"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "ISH"
+      },
+      {
+        "candidate": "Blinde Fleck"
+      },
+      {
+        "candidate": "Tod der Einstellung"
+      },
+      {
+        "candidate": "Architekten"
+      },
+      {
+        "candidate": "Gärtner"
+      },
+      {
+        "candidate": "Zyklus 2"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "Manager"
+      },
+      {
+        "candidate": "Firefighter"
+      },
+      {
+        "candidate": "Exiles"
+      },
+      {
+        "candidate": "strukturellen Dissoziation"
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung"
+      },
+      {
+        "candidate": "Landauer-Prinzip"
+      },
+      {
+        "candidate": "Monster Group"
+      },
+      {
+        "candidate": "Monstrous Moonshine"
+      },
+      {
+        "candidate": "Gödel'schen Unvollständigkeitssätze"
+      },
+      {
+        "candidate": "Law of Requisite Variety"
+      },
+      {
+        "candidate": "Gesetz der erforderlichen Varietät"
+      },
+      {
+        "candidate": "Wärmetod"
+      },
+      {
+        "candidate": "Boltzmanns Formel"
+      },
+      {
+        "candidate": "Śūnyatā"
+      },
+      {
+        "candidate": "autokatalytischen Schleifen"
+      },
+      {
+        "candidate": "ontologischer Reibung"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Manic Pixie Dream Girl"
+      },
+      {
+        "candidate": "Uncanny Valley"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kern-Welten  /  Kern-Welt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Guardians",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Verifikator  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Shannon-Entropie  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "funktionalen Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust-Architektur",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis der Existenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Verifikator",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Shannon-Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 99,
+      "already_read": false
+    },
+    {
+      "page": "entropie-signatur",
+      "surface": "Entropie-Signatur",
+      "line": 156,
+      "already_read": false
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 123,
+      "already_read": false
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 71,
+      "already_read": false
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 55,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 31,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "document": "romananalyse-kohaerenz-plot-kritik",
+  "drive_id": "1wyxC5OTczhHaSnUJYxSWicqN1aO31eR4oiKFKJgvOpQ",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; first in the queue re-ranked after document 111; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), one after the other, from Plan/runs/ingest-112/brief.md, written after the session had read the document itself; one sentence on Q3 reworded by the session before apply; the two chapter readings written by the session from Plan/runs/ingest-112-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 82,
+    "decisions": 86,
+    "decided_by_lookup": 74,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A publisher's review whose new surfaces are borrowed concepts it reports or names (IFS, the Monster Group, Monstrous Moonshine, Gödel, autopoiesis, Landauer), literary comparisons, Alters named only in its table, and a trope it warns against; everything it says of the novel's world went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        19,
+        29,
+        31,
+        43,
+        111
+      ],
+      "attribution": "",
+      "note": "AEGIS as the reductionist controller, whose own ordering produces the Risse"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        17,
+        71,
+        91
+      ],
+      "attribution": "",
+      "note": "ten Alters from childhood trauma, tabled with IFS roles"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        58,
+        84
+      ],
+      "attribution": "",
+      "note": "KW3's guardian, who treats openness as intrusion"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "the work as an allegory of DID"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "Kael from architect to gardener of emergence"
+    },
+    {
+      "page": "entropie-signatur",
+      "lines": [
+        156
+      ],
+      "attribution": "",
+      "note": "a phrase it would not have the book use"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        27,
+        29,
+        31,
+        91
+      ],
+      "attribution": "",
+      "note": "the duality of thermodynamic and Shannon entropy, joined by Landauer"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        168
+      ],
+      "attribution": "",
+      "note": "a closing question"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        123,
+        151
+      ],
+      "attribution": "",
+      "note": "the prologue it would cut"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "KW3, claustrophobic, with Cerberus"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        17,
+        47,
+        49,
+        157
+      ],
+      "attribution": "",
+      "note": "Guardians as defence mechanisms, each blind to Juna"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        19,
+        29,
+        39,
+        56,
+        97,
+        161
+      ],
+      "attribution": "",
+      "note": "Juna as external anomaly and Moonshine link, and a warning against a trope"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        37,
+        80,
+        97,
+        99,
+        141,
+        152,
+        162
+      ],
+      "attribution": "",
+      "note": "the Host of ten Alters, then a passive protagonist the report would make active"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "KW4's guardian, who sees chaos and potential only"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "four Kern-Welten, each watched by a Guardian, in a table"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        71,
+        91
+      ],
+      "attribution": "",
+      "note": "healing called Kohärenz, and a coherence that holds contradictions"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        56,
+        61,
+        97,
+        152
+      ],
+      "attribution": "",
+      "note": "KW1, steril and deterministic, where the novel begins"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        56,
+        97,
+        157
+      ],
+      "attribution": "",
+      "note": "KW1's guardian, who takes emotion for noise"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "KW2's guardian, who mistakes Juna for a closed scar"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "KW4, fluid and emergent, the place of potential healing"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "a metaphor for a coherence that bears contradictions"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        71,
+        97
+      ],
+      "attribution": "",
+      "note": "the `funktionalen Multiplizität` as Kael's first step after the failed test"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        151
+      ],
+      "attribution": "",
+      "note": "the fight against it as prologue background to be postponed"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        87,
+        131
+      ],
+      "attribution": "",
+      "note": "an Exile holding the freeze response"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        55,
+        56
+      ],
+      "attribution": "",
+      "note": "Partnerin as Juna in the blind-spot column"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        57,
+        152
+      ],
+      "attribution": "",
+      "note": "KW2, dreamlike and fog-bound, with Mnemosyne"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        31,
+        97,
+        152
+      ],
+      "attribution": "",
+      "note": "the Risse as a by-product of AEGIS's own order"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "the Manager-Caretaker, first approach to healing"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        59,
+        151
+      ],
+      "attribution": "",
+      "note": "KW4's guardian, who seeks integration by eliminating differences"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C11",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title), J12 and J16 (compounds with their own sense: Kohärenz-Verifikator — a role, on kael — Zero-Trust-Architektur, Shannon-Entropie — read on entropie — Genesis der Existenz — the prologue's title, read on genesis), J23 and J56 (singular and plural: Kern-Welt/Kern-Welten, Guardian/Guardians, funktionalen Multiplizität), J60 (the AEGIS expansion, read on aegis and C1); `Echo` a child Alter, not the residual echoes; `Guardian` the world guardians, not the Integrity Guardian",
+  "sweep": [],
+  "not_promoted": [
+    "the IFS categories Manager, Firefighter, Exiles (L65–L69) — borrowed; on alters where the table applies them",
+    "the Monster Group, Monstrous Moonshine, Gödel's incompleteness, autopoiesis (L35–L43) — the report's account of the manuscript's metaphors; on kael, juna and aegis where applied",
+    "Limina, Index, Nox, Praetor, Eos, Echo, Flicker — Alters in the table (L81–L88); on Q3, no page",
+    "the literary comparisons Egan, Pynchon, Asimov, Ruff, Chiang (L109–L113) — no page",
+    "McL-Sigma-3, Beta-Rho-5, Daten-Parasit, Wir-Geflecht, Kohärenz-Verifikator, Universal Reboot — named once or twice; on kael where read",
+    "`Manic Pixie Dream Girl` (L161) — a trope the report warns against; on juna"
+  ],
+  "internal_tension": "it calls its account of the core certain, „mit absoluter Sicherheit“ (L15), yet closes with three open questions (L166–L170), one of them what the Externe Ebene is",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,14 @@
+# romananalyse-kohaerenz-plot-kritik
+  lines                205  (frontmatter ends at 9)
+  body words           4320
+  headings             21   bold-only lines 0
+  table rows           20   code fences 0
+  question marks       9
+  backslash escapes    150
+  typographic marks    152   ascii quotes 18
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    41
+  repeated labels      none
+  longest line         893 chars
+

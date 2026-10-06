@@ -1,0 +1,101 @@
+# counts for 83 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             19 word    27 in   [17, 37, 39, 43, 47, 61]
+                                    8      as Kaels
+  Juna                             11 word    13 in   [19, 29, 39, 43, 49, 55]
+                                    1      as Junas
+                                    1      as Juna-Interferenz
+  AEGIS                            26 word    26 in   [15, 17, 19, 29, 31, 37]
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [17]
+  Kontrollinstanz                   1 word     1 in   [17]
+  Host                              7 word     7 in   [17, 80, 82, 84, 86, 97]
+  Alters                            7 word     8 in   [17, 71, 81, 99, 112, 131]
+                                    1      as Alterslos
+  Kern-Welten                       2 word     3 in   [17, 47, 178]
+                                    1      as Kern-Welten-Konzept
+  Kern-Welt                         1 word     4 in   [17, 47, 55, 178]  <-- substring
+                                    2      as Kern-Welten
+                                    1      as Kern-Welten-Konzept
+  Kernwelten                        3 word     3 in   [45, 49, 169]
+  Guardian                          5 word     9 in   [17, 47, 49, 55, 151, 157]
+                                    4      as Guardians
+  Guardians                         4 word     4 in   [17, 47, 49, 178]
+  Konstrukt-Stadt                   7 word     7 in   [43, 56, 61, 97, 129, 152]
+  Resonanz-Landschaft               2 word     2 in   [57, 152]
+  Grenzfeste                        1 word     1 in   [58]
+  Möglichkeits-Garten               1 word     1 in   [59]
+  KW1                               1 word     1 in   [56]
+  KW2                               1 word     1 in   [57]
+  KW3                               1 word     1 in   [58]
+  KW4                               1 word     1 in   [59]
+  LogOS                             4 word     4 in   [56, 97, 157]
+  Mnemosyne                         1 word     1 in   [57]
+  Cerberus                          2 word     2 in   [58, 84]
+  Kairos                            2 word     2 in   [59]
+  Sophia                            3 word     3 in   [59, 151]
+  Limina                            1 word     1 in   [81]
+  Index                             2 word     2 in   [82, 137]
+  Nox                               1 word     1 in   [83]
+  Praetor                           2 word     2 in   [84, 162]
+  Eos                               1 word     1 in   [85]
+  Echo                              4 word     4 in   [86, 131, 156, 161]
+  Oblivion                          3 word     3 in   [87, 131]
+  Flicker                           1 word     1 in   [88]
+  Silas                             1 word     1 in   [89]
+  McL-Sigma-3                       1 word     1 in   [99]
+  Beta-Rho-5                        1 word     1 in   [99]
+  Universal Reboot                  2 word     2 in   [97, 141]
+  Glitches                          1 word     1 in   [97]
+  Risse                             1 word     1 in   [31]
+  digitale Wärme                    1 word     1 in   [31]
+  digitale Abwärme                  1 word     1 in   [169]
+  funktionalen Multiplizität        2 word     2 in   [71, 97]
+  Wir-Geflecht                      2 word     3 in   [71, 89, 99]
+                                    1      as Wir-Geflechts
+  Mosaik-Herz                       1 word     1 in   [91]
+  Zero-Trust-Architektur            1 word     1 in   [47]
+  Genesis der Existenz              3 word     3 in   [123, 151, 203]
+  An den Nähten der Welt            1 word     1 in   [99]
+  Externe Ebene                     1 word     1 in   [168]
+  Daten-Parasit                     1 word     1 in   [169]
+  Kohärenz-Verifikator              1 word     1 in   [37]
+  Kohärenz                         12 word    13 in   [11, 15, 37, 47, 71, 91]
+                                    1      as Kohärenz-Verifikator
+  Anscheinend Normale Persönlichkeitsanteil    1 word     1 in   [80]
+  ANP                               1 word     1 in   [80]
+  ISH                               1 word     1 in   [82]
+  Blinde Fleck                      1 word     1 in   [55]
+  Nichts-Rauschen                   1 word     1 in   [151]
+  Tod der Einstellung               1 word     1 in   [97]
+  Architekten                       1 word     1 in   [99]
+  Gärtner                           1 word     1 in   [99]
+  Zyklus 2                          1 word     1 in   [99]
+  Internal Family Systems           3 word     3 in   [63, 65, 190]
+  IFS                               3 word     8 in   [63, 65, 73, 79, 131, 156]  <-- substring
+  Manager                           7 word     7 in   [67, 80, 81, 82, 85, 89]
+  Firefighter                       3 word     3 in   [68, 83, 84]
+  Exiles                            1 word     1 in   [69]
+  strukturellen Dissoziation        1 word     1 in   [47]
+  Dissoziative Identitätsstörung    2 word     2 in   [15, 112]
+  Landauer-Prinzip                  0 word     1 in   [31]
+                                    1      as Landauer-Prinzips
+  Shannon-Entropie                  3 word     3 in   [29, 31]
+  Monster Group                     5 word     5 in   [33, 35, 37, 39, 137]
+  Monstrous Moonshine               3 word     3 in   [33, 39, 161]
+  Gödel'schen Unvollständigkeitssätze    2 word     2 in   [43, 97]
+  Law of Requisite Variety          1 word     1 in   [43]
+  Gesetz der erforderlichen Varietät    1 word     1 in   [43]
+  Wärmetod                          1 word     1 in   [27]
+  Entropie                         14 word    19 in   [17, 19, 25, 27, 29, 31]
+                                    1      as Entropiebegriffs
+                                    1      as Entropie-Signatur
+  Boltzmanns Formel                 1 word     1 in   [27]
+  Śūnyatā                           1 word     1 in   [123]
+  autokatalytischen Schleifen       1 word     1 in   [123]
+  ontologischer Reibung             1 word     1 in   [123]
+  Autopoiesis                       1 word     1 in   [41]
+  Manic Pixie Dream Girl            1 word     1 in   [161]
+  Uncanny Valley                    1 word     1 in   [127]

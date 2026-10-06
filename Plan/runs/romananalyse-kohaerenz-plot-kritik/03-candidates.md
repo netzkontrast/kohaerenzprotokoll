@@ -1,0 +1,90 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Kael
+- Juna
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Kontrollinstanz
+- Host
+- Alters
+- Kern-Welten
+- Kern-Welt
+- Kernwelten
+- Guardian
+- Guardians
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- KW1
+- KW2
+- KW3
+- KW4
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Limina
+- Index
+- Nox
+- Praetor
+- Eos
+- Echo
+- Oblivion
+- Flicker
+- Silas
+- McL-Sigma-3
+- Beta-Rho-5
+- Universal Reboot
+- Glitches
+- Risse
+- digitale Wärme
+- digitale Abwärme
+- funktionalen Multiplizität
+- Wir-Geflecht
+- Mosaik-Herz
+- Zero-Trust-Architektur
+- Genesis der Existenz
+- An den Nähten der Welt
+- Externe Ebene
+- Daten-Parasit
+- Kohärenz-Verifikator
+- Kohärenz
+- Anscheinend Normale Persönlichkeitsanteil
+- ANP
+- ISH
+- Blinde Fleck
+- Nichts-Rauschen
+- Tod der Einstellung
+- Architekten
+- Gärtner
+- Zyklus 2
+
+## lens
+
+- Internal Family Systems
+- IFS
+- Manager
+- Firefighter
+- Exiles
+- strukturellen Dissoziation
+- Dissoziative Identitätsstörung
+- Landauer-Prinzip
+- Shannon-Entropie
+- Monster Group
+- Monstrous Moonshine
+- Gödel'schen Unvollständigkeitssätze
+- Law of Requisite Variety
+- Gesetz der erforderlichen Varietät
+- Wärmetod
+- Entropie
+- Boltzmanns Formel
+- Śūnyatā
+- autokatalytischen Schleifen
+- ontologischer Reibung
+- Autopoiesis
+- Manic Pixie Dream Girl
+- Uncanny Valley
+
+Observation paragraph: the document is a publisher's analytical report on a manuscript; most world terms are reported from sources named in its reference list. The tables at L55 to L59 and L79 to L89 are flattened with escaped asterisks. Formulas were lost in export (L27, L29, L35).

@@ -28,14 +28,14 @@ check; the schema follows the pages, not the other way round.
 
 **106 <!--state:wiki.pages--> pages, 17 <!--state:wiki.conflicts--> conflicts
 and 9 <!--state:wiki.questions--> questions, from
-110 <!--state:documents.reconciled--> reconciled documents.** The wiki is built
+111 <!--state:documents.reconciled--> reconciled documents.** The wiki is built
 one document at a time: a frozen census is reconciled against the current
 pages, and the record of each reconciliation is in `compare/`. The first three
 files there are the full re-comparisons made before reconciling by lookup; each
 superseded the last, which is how the step showed it did not scale.
 `CLAUDE.md`, *State*, has what each document added and why.
 
-Pages link to each other as `[[slug]]`: 688 <!--state:wiki.relations--> links,
+Pages link to each other as `[[slug]]`: 689 <!--state:wiki.relations--> links,
 none inferred — each marks a term the prose already wrote (decision 005).
 `scripts/graph.py` reads the links, the frontmatter and every citation into a
 typed graph, and `scripts/graphrag.py` retrieves attributed quotations from it,
@@ -82,7 +82,7 @@ as saying so and never retires an older one.
 
 ## A page can have zero readings
 
-`readings: 0` is a real state, and 1 <!--state:wiki.zero_readings--> page
+`readings: 0` is a real state, and 0 <!--state:wiki.zero_readings--> page
 carries it. A term that a source only *asks about*, or uses once as already
 known, has **no reading in that source** — and a page that recorded the question
 as a reading would turn the project's uncertainty into its position.

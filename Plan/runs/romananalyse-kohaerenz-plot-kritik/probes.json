@@ -1,0 +1,248 @@
+{
+  "document": "romananalyse-kohaerenz-plot-kritik",
+  "drive_id": "1wyxC5OTczhHaSnUJYxSWicqN1aO31eR4oiKFKJgvOpQ",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 41,
+  "backslash_escapes": 150,
+  "typographic_marks": 152,
+  "ascii_quotes": 18,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemarchitektur",
+      "Systematik",
+      "Systemintegrität",
+      "Systemlogik",
+      "Systemparameter",
+      "Systemregeln",
+      "Systems",
+      "Systemstruktur"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatric",
+      "Psychiatry",
+      "Psychologie",
+      "Psychologische",
+      "Psychologisches",
+      "Psychotraumatologie"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsempfehlungen",
+      "Handlungsentwicklung",
+      "Handlungslogik",
+      "Handlungsstruktur"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrolleurin",
+      "Kontrolliert",
+      "Kontrollinstanz",
+      "Kontrollsystem"
+    ],
+    "theor": [
+      "Theorem",
+      "Theoreme",
+      "Theorems",
+      "Theorie",
+      "Theory"
+    ],
+    "unter": [
+      "Unterbaus",
+      "Unterbewusste",
+      "Unterdrückung",
+      "Untersuchung",
+      "Unterteilung"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysiert",
+      "Analysis",
+      "Analytischer"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterisierung",
+      "Charakterkonzepte",
+      "Charakterpsychologie"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropiebegriffs",
+      "Entropy"
+    ],
+    "figur": [
+      "Figur",
+      "Figuren",
+      "Figurenentscheidungen",
+      "Figurenzeichnung"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungselement",
+      "Heilungsprozess",
+      "Heilungsversuche"
+    ],
+    "infor": [
+      "Information",
+      "Informationsgehalt",
+      "Informationstheoretische",
+      "Informationstheorie"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktpotenzial",
+      "Konfliktszene"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzfunktion",
+      "Schutzmechanismen",
+      "Schutzmechanismus"
+    ],
+    "alter": [
+      "Alter",
+      "Alters",
+      "Alterslos"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "besch": [
+      "Beschreibung",
+      "Beschützer",
+      "Beschützt"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinspartitionierung"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfragmente"
+    ],
+    "gefah": [
+      "Gefahr",
+      "Gefahrenabwehr",
+      "Gefahrenquelle"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfeste"
+    ],
+    "ident": [
+      "Identität",
+      "Identitätsphilosophie",
+      "Identitätsstörung"
+    ],
+    "inter": [
+      "Interferenz",
+      "Internal",
+      "Internalisiert"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auch",
+      "Hauch"
+    ],
+    [
+      "Auch",
+      "Auftauchen"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Buch",
+      "Handbuch"
+    ],
+    [
+      "Buch",
+      "Buchmarkt"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Egan",
+      "Egans"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Einerseits"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eins",
+      "Seins"
+    ],
+    [
+      "Eins",
+      "Einstellung"
+    ],
+    [
+      "Eins",
+      "Bewusstseins"
+    ],
+    [
+      "Eins",
+      "Bewusstseinspartitionierung"
+    ],
+    [
+      "Form",
+      "Formel"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Modulformen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ]
+  ]
+}
