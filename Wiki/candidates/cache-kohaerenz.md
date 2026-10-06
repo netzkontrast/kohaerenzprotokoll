@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ gathered: "2026-09-24"
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the metaphor named directly, for the gaps in Kael's own memory
 
 The earliest read source, and the one that names the metaphor in so many words rather than only using its vocabulary. Kael notices pieces of his own timeline missing and reaches for the image himself: „Die Cache-Kohärenz-Metapher drängte sich auf, auch wenn er sie nicht bewusst formulieren konnte. Seine inneren "Caches" waren inkonsistent." ^[kohaerenz-protokoll.md:L304] The same sentence ties the failure to the partitioning that caused it: „Die Partitionierung hatte nicht nur einen Teil seines Fühlens und seiner Intuition abgetrennt, sondern auch die Verbindung zwischen seinen Erinnerungen gestört." ^[kohaerenz-protokoll.md:L304] (see [[trennungsprotokoll|Trennungsprotokoll]]). It states no ANP or EP by name (`ANP`, `EP` 0; `grep -cw`), so the metaphor here is Kael's own, felt as amnesia and inconsistent inner „Caches", before the later canon-era sources give it the multi-processor architecture and the two-part model.
+
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
+
+In Kael's entry the concept names `Cache Kohärenz` once, as his core problem: „Sein Kernproblem ist das“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L26] chaos of that name, „Chaos, das seine Erlebniswelt ständig durchbricht“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L26]. The concept does not define the term; it appears in the document's own inner quotation marks.
 
 ## Reading — `charaktere`, 2025-07-29, the character concept — Kael's Cache Kohärenz problem
 
