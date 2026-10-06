@@ -760,3 +760,11 @@ Its roster is headed „Die Alter-Liste (kanonisch: 11 Kernfiguren)“ ^[kohaere
 For the worlds it writes „Die Vier Kernwelten (Psycho-Architekturen)“ ^[kohaerenz-protokoll-master-integration-md.md:L217], and adds as its own DKT addition „Archiv Theta-9 (NEU durch DKT)“ ^[kohaerenz-protokoll-master-integration-md.md:L249]. It also ties worlds to alters: KW1 is „Psychologischer Zustand: ANP / Vermeidung (Domäne von Lex und Kael)“ ^[kohaerenz-protokoll-master-integration-md.md:L222], KW3 „Domäne von Nyx und Protektoren“ ^[kohaerenz-protokoll-master-integration-md.md:L236] and KW4 „Domäne von Selene/Elara“ ^[kohaerenz-protokoll-master-integration-md.md:L243].
 
 Stands: the document records both counts inside itself, 11 as canonical and 11 vs. 13 as open, and names four Kernwelten with Archiv Theta-9 beside them; it ties some worlds to named alters but does not settle which alters belong to the list.
+
+## 2026-10-06 — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary
+
+**The concept summary writes four Kernwelten and ten named parts, with Kiko and Lia listed together.**
+
+It writes „Die vier Kernwelten sind Externalisierungen von Kaels Psyche“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L69] and names no individual world. Its list of the architecture of the parts runs from „Kael (Host)“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L51] to „Der Meta-Beobachter“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L60], with the pair „Kiko & Lia“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L55] on one line, so that the names Kael, Lex, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Alex, Rhys and Argus stand on ten lines.
+
+Stands as one more count for the question, dated 2025-07-30: four Kernwelten and ten listed lines of parts, the pair counted as one; recorded, not applied.
