@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 10
-readings: 9
+sources: 11
+readings: 10
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 gathered: "2026-09-16"
 ---
 
@@ -103,3 +103,7 @@ Kap 12 lists it among its concepts: „Negentropie, Der Jetzt-Raum.“ ^[kohaere
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — Negentropie as Kael's state in Kap 37
 Kap 37, `Der Klimax — Zielkohärenz`, plans that the system Kael reaches „einen Zustand psychischer Negentropie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L367]; the same line plans that AEGIS „AEGIS wird nicht zerstört, sondern transformiert sich in einen melancholischen Wächter der neuen Ordnung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L367].
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — psychic negentropy as the state of the healed system in Kapitel 31
+
+The synthesis says of Phase III: „In Kapitel 31 erfolgt die Heilung durch die Integration der traumatischen“ ^[romanprojekt-analyse-synthese.md:L60] Caches, and „das System Kael erreicht einen Zustand psychischer Negentropie“ ^[romanprojekt-analyse-synthese.md:L60].
