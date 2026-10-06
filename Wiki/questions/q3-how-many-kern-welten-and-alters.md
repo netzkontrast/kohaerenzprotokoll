@@ -800,3 +800,11 @@ It adds a count of eleven and a count of four and six, and says nothing on one w
 Its heading reads „The Alter-List Discrepancy (11 vs. 13)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L43], and it declares „Confirmed Core (11)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L47] (L47). It writes of `Silas` and `Oblivion`: „appear in legacy notes“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L48], and plans „Finalize the 11-part system; purge Silas and Oblivion redundancies.“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L101] The report says nothing of Kern-Welten counts beyond naming `Logos-Prime` as KW1 (L86).
 
 Stands as an alter count of eleven, declared in a report of 2026-03-26 with its own `UNKLAR` status; recorded, not answering Q3.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept writes four Kern-Welten and hypothetical Kern-Alters, four examples with room for more.**
+
+Of the worlds: the heading of section V names them „Simuliert, Michaels Psyche“ ^[kohaerenz-protokoll-2.md:L71], four in number, each watched by its Guardians. Of the alters: „Hypothetische Kern-Alters (Beispiele, basierend auf Welten):“ ^[kohaerenz-protokoll-2.md:L53], four examples each tied to one world, and then „(Weitere möglich/nötig)“ ^[kohaerenz-protokoll-2.md:L61].
+
+Stands: it states four worlds and ties each of its four example alters to one, but marks the alters hypothetical and open to more; the count of alters and the rule of correspondence stay open in the record's terms.
