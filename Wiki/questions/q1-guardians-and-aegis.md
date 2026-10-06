@@ -408,3 +408,11 @@ Where it stands: the log answers the question as a component of AEGIS, in AEGIS'
 „Die Guardians sind keine Avatare, sondern spezialisierte Subsysteme“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L54]. Mnemosyne „besetzt die komplexeste Nische innerhalb von AEGIS“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L62], and Kairos is the adaptive element „innerhalb der rigiden AEGIS-Struktur“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L70]. A table row on the interaction types reads: „Keine direkte Adressierung möglich; Steuerung durch Output“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L94], with „Indirekte Mechanismen über Systemzustände“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L94] as its mechanism.
 
 Stands on the side of components, with an indirect channel to AEGIS; recorded, not applied, and the question stays open in the record's own terms.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept puts the Guardians under AEGIS and has them support it, and does not say whether they are parts of it.**
+
+The Guardians are „Nicht-anthropomorphe, funktionsbasierte Konstrukte in der Überwelt, die dem AEGIS-Protokoll unterstehen“ ^[kohaerenz-protokoll-2.md:L66]; they „unterstützen AEGIS im Entropie-Management“ ^[kohaerenz-protokoll-2.md:L66]. The logline has them „einem rigiden, entropie-regulierenden Kernprotokoll (AEGIS) unterstehen“ ^[kohaerenz-protokoll-2.md:L17]. AEGIS itself is „Der nicht-anthropomorphe, nicht adressierbare Kern der Überwelt“ ^[kohaerenz-protokoll-2.md:L67].
+
+Stands as a statement of subordination (unterstehen) with support in entropy management; recorded, not applied, and the question stays open.
