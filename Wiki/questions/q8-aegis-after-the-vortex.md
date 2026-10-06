@@ -442,3 +442,11 @@ Stands as one more answer to the question's first half, dated 2025-07-30: transf
 At the fifth step of the Gödel-Gambit the guide writes „AEGIS crashes/transforms.“ ^[deconstructing-reality-s-architecture.md:L226] and that AEGIS is forced to adopt Paraconsistent Logic. In the Act III summary it adds „AEGIS transforms into a“ ^[deconstructing-reality-s-architecture.md:L285] `Zombie System`, glossed Algorithmic Melancholy; Kael becomes the Gardener. The guide does not say what takes over AEGIS's function inside Kael.
 
 Stands as the guide's report of one outcome (transformation, not extinction); recorded, not applied, and nothing in the question is decided here.
+
+## 2026-10-06 — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis
+
+**The architecture synthesis proposes that AEGIS fails at the Vortex but not as a living relic: Failure with Judgment Good, an algorithmic melancholy.**
+
+Storyform B's German line: „AEGIS erreicht eine befreiende Algorithmische Melancholie“ ^[kohaerenz-protokoll-architecture-synthesis.md:L69]. The handoff: „The system fails“ ^[kohaerenz-protokoll-architecture-synthesis.md:L375], and „Storyform B resolves in Failure/Good (AEGIS fails to maintain order, but achieves algorithmic melancholy“ ^[kohaerenz-protokoll-architecture-synthesis.md:L376], „a profound release from its panicked rigidity“ ^[kohaerenz-protokoll-architecture-synthesis.md:L376]. It names no successor and says nothing of Oblivion taking over its function.
+
+Stands: one proposal of the brief for what AEGIS is after the climax (failed, released); it neither chooses among the answers nor changes the author's decision of 2026-10-05.
