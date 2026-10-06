@@ -488,3 +488,11 @@ It stands as a statement of heat (Abwärme), without saying warmth or cold in th
 The report presents the principle as its account of the world-building it reviews (its source 26), and asks, it does not decide. Of Risse and Glitches: „Landauer's Prinzip postuliert, dass die Löschung von Informationen“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L85] produces thermodynamic entropy, „digitale Wärme“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L85]. Later it opens: „Ein herausragendes physikalisches Konzept“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L139], and: „erzeugt zwangsläufig thermodynamische Entropie“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L139]. Its question for the generator prompts asks that the visual form, „(z. B. visuelle Hitzeschlieren, verzerrte Physik)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L143], be specified exactly. The word `Ozon` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] does not stand in the report (a count, not an inference from it), and it names no chapter for the heat.
 
 Stands on the warmth side, as an account of other documents dated 2026-02-23; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis puts the Landauer principle on the side of heat: AEGIS's suppression of memory „physische Hitze generiert“ ^[romanprojekt-analyse-synthese.md:L29].**
+
+It names the principle the plot's motor: „Das Landauer-Prinzip fungiert hierbei als zentraler Plot-Motor“ ^[romanprojekt-analyse-synthese.md:L27]. The heat shows as thermal `Risse`, „oder Glitches in der Architektur der Konstrukt-Stadt“ ^[romanprojekt-analyse-synthese.md:L29]. In the build plan, the Juna scenes are to make the `Wärme` of the principle felt, „durch dichte, atmosphärische Beschreibungen spürbar werden“ ^[romanprojekt-analyse-synthese.md:L141]. And when Kael recognises a truth, the simulation „überhitzt“ ^[romanprojekt-analyse-synthese.md:L149] locally. The document gives no cold and no colour or smell for the heat (`Ozon` ^[romanprojekt-analyse-synthese.md:#0]).
+
+Stands on the warmth side, in a synthesis of 2026-04-30; recorded, not applied, and the record's rows are not changed.
