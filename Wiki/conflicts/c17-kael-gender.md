@@ -70,3 +70,11 @@ Stands as a ninth source of the table: a plan of 2025-05-03 with Kael female, th
 Its Kernprämisse reads „Kael muss ihre innere Zerrissenheit überwinden“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L15], of „System Kael, einer durch Trauma fragmentierten multiplen Identität“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L15]. The document says nothing about why Kael is female.
 
 Stands as a tenth source of the table: a plan of 2025-05-04 with Kael female, the day after the plans of row 1; recorded, not applied.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis lists the protagonist's identity under its contradictions and ends the speculation about gender: „Kael ist der männliche Host“ ^[romanprojekt-analyse-synthese.md:L123].**
+
+The point stands in the list headed `Widersprüche und deren Auflösung`: „Spekulationen über Geschlecht oder Host-Status werden beendet“ ^[romanprojekt-analyse-synthese.md:L123]. The same line gives Juna as „ein transzendenter Teil des ursprünglichen Selbst“ ^[romanprojekt-analyse-synthese.md:L123]. Elsewhere the synthesis writes Kael as host: „Kael selbst fungiert als Host und primärer ANP (Anscheinend Normaler Anteil)“ ^[romanprojekt-analyse-synthese.md:L86]. It names no document whose Kael is female.
+
+Stands as a male Kael with the speculation declared ended, in a synthesis of 2026-04-30; the claim to settle the question is the document's own, recorded, and it settles nothing in the record.
