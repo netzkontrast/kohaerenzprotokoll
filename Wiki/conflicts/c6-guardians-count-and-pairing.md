@@ -576,3 +576,11 @@ Stands: a fourth position on the count, four named Guardians; recorded as the ma
 The section heading names them: „Die Guardians (Systemagenten: LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L148]. The paper's summary of placement: „Jeder Guardian ist fest an eine Kern-Welt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L207] bound (LogOS, Mnemosyne, Cerberus, Kairos), Sophia to the Überwelt (L207). The pairs are given in each profile: „LogOS (Zugeordnet: Konstrukt-Stadt)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L155], „Mnemosyne (Zugeordnet: Resonanz-Landschaft)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L165], „Cerberus (Zugeordnet: Grenzfeste)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L175], „Kairos (Zugeordnet: Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L185], „Sophia (Zugeordnet: Überwelt / Integration?)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L195]. Oblivion and Silas are two of the ten alters here, „Oblivion (Der Gefrorene)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L393] and „Silas (Der Pflegende)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L471], not Guardians.
 
 Stands as one more arrangement of five named Guardians, each with a world or the Überwelt, dated 2025-04-18; recorded, not applied, and the count is the author's.
+
+## 2026-10-06 — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc
+
+**The 39-part arc gives no count of Guardians; it pairs LogOS with KW1 and Kairos and Sophia together with KW4.**
+
+Story 2 has „a world governed by the rigid protocols of its Guardian, LogOS“ ^[coherence-protocol-a-39-part-narrative-arc.md:L22] (KW1). Story 10 places Kael in KW4, „Influenced by the Guardians Kairos (opportunity) and Sophia (wisdom)“ ^[coherence-protocol-a-39-part-narrative-arc.md:L30]. Story 7 gives KW2 „the world's Guardian, Mnemosyne“ ^[coherence-protocol-a-39-part-narrative-arc.md:L27] and Story 9 gives KW3 „Cerberus, the Guardian of defense and paranoia“ ^[coherence-protocol-a-39-part-narrative-arc.md:L29]. These are stories of an outline, not chapters.
+
+Stands as an outline of 2025-11-03 whose pairing, one Guardian for KW1 to KW3 and two for KW4, resembles position 1 of the record's table; recorded, not applied, and it does not touch the decision of 2026-09-24.
