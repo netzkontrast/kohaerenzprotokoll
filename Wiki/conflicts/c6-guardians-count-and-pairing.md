@@ -496,3 +496,11 @@ Stands with position 1's pairing (five named Guardians, four worlds, Kairos and 
 Its table gives the first world „LogOS / Index, Architekt, (Praetor, Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186] and the fourth „Kairos/Sophia / Eos, Index, Silas, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L189]; the second and third worlds are headed „Resonanz-Landschaft (Mnemosyne)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L204] and „Grenzfeste (Cerberus)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L215]. The fourth heading is „Möglichkeits-Garten (Kairos/Sophia)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L226]. In the Überwelt it lists the five together: „(LogOS, Mnemosyne, Cerberus, Kairos, Sophia – vielleicht als Avatare oder lokalisierte Systemfunktionen)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L246], hedged with `vielleicht`.
 
 Stands as five named Guardians over four worlds with a shared fourth, as a concept dated 2025-04-18; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview lists five Guardians over four worlds, Kairos/Sophia as twin Guardians of the fourth.**
+
+It lists four entries: „The Guardian of logic and order, presiding over the sterile reality of Core World“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L37] 1, „The Guardian of memory and emotion“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L38] of Core World 2, „The Guardian of defense, paranoia, and control“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L39] of Core World 3, and „The twin Guardians of opportunity and wisdom“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L40] over Core World 4 (L37–L40).
+
+Stands with position 1's pairing (five named Guardians, four worlds, Kairos and Sophia sharing one); recorded, not applied, and the record's rows are not changed.
