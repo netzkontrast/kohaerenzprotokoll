@@ -282,3 +282,11 @@ Stands as a reading of 734 as an I-fragment, from a design of 2025-11-03, record
 It declares: „The antecedent consciousness was transformed into an objective, functional component designated as Component 734“ ^[aegis-manifest-genesis-krise-reboot.md:L19], following the dismemberment of the original self, which it says „was systematically dismembered“ ^[aegis-manifest-genesis-krise-reboot.md:L19]. `734` ^[aegis-manifest-genesis-krise-reboot.md:#1] stands once; `Wohneinheit` ^[aegis-manifest-genesis-krise-reboot.md:#0].
 
 Where it stands in the record's own terms: a component, not an address; it does not say what the number labels in the world beyond that, and the question stays open; recorded, not applied.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**The log, as AEGIS, uses 734 as a component designation of the person.**
+
+> „designated internally as Component 734 (known externally as Kael)“ ^[aegis-genesis-crisis-self-definition.md:L177]
+
+Where it stands: the log gives the Komponente sense (Kael's designation) in AEGIS's voice; it is a reading for Q7's first sense and settles nothing, the question stays as recorded.
