@@ -1,0 +1,204 @@
+{
+  "document": "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
+  "drive_id": "1GXiG-cAjl1FyWX9TSjaro5jkdes9UMwKRvbyKYDFQrU",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 88,
+  "typographic_marks": 15,
+  "ascii_quotes": 134,
+  "inflection_families": {
+    "defin": [
+      "Define",
+      "Definition",
+      "Definitions",
+      "Definitive"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploration",
+      "Explosion"
+    ],
+    "matri": [
+      "Matrices",
+      "Matrix",
+      "Matrizen"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokollkonzepte"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "trans": [
+      "Transcendence",
+      "Transcendent",
+      "Transformation"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysis"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "canon": [
+      "Canon",
+      "Canonical"
+    ],
+    "clust": [
+      "Cluster",
+      "Clusters"
+    ],
+    "contr": [
+      "Contradiction",
+      "Contradictions"
+    ],
+    "diale": [
+      "Dialectic",
+      "Dialetheismus"
+    ],
+    "exist": [
+      "Existential",
+      "Existenz"
+    ],
+    "final": [
+      "Finaler",
+      "Finalize"
+    ],
+    "forma": [
+      "Formal",
+      "Formalization"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "initi": [
+      "Initial",
+      "Initially"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychology"
+    ],
+    "sourc": [
+      "Source",
+      "Sources"
+    ],
+    "theor": [
+      "Theorems",
+      "Theory"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Formalization"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Mode",
+      "Model"
+    ],
+    [
+      "Canon",
+      "Canonical"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Pathological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Formal",
+      "Formalization"
+    ],
+    [
+      "Source",
+      "Sources"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Cluster",
+      "Clusters"
+    ],
+    [
+      "Initial",
+      "Initially"
+    ],
+    [
+      "Konzept",
+      "Charakterkonzepte"
+    ],
+    [
+      "Konzept",
+      "Protokollkonzepte"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ]
+  ]
+}

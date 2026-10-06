@@ -1,0 +1,650 @@
+{
+  "document": "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
+  "drive_id": "1GXiG-cAjl1FyWX9TSjaro5jkdes9UMwKRvbyKYDFQrU",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Kael (ehem. Michael)",
+    "Computational Complexity (P vs. NP)",
+    "Formal Logic (Classical vs. Paraconsistent)"
+  ],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        15,
+        19,
+        54,
+        71,
+        112,
+        113,
+        114,
+        115
+      ]
+    },
+    "AEGIS": {
+      "n": 43,
+      "n_including_compounds": 44,
+      "lines": [
+        19,
+        21,
+        22,
+        33,
+        35,
+        46,
+        48,
+        49,
+        50,
+        54,
+        57,
+        62,
+        63,
+        77,
+        78,
+        79,
+        80,
+        81,
+        98,
+        112,
+        113,
+        114,
+        115,
+        126,
+        127,
+        128
+      ]
+    },
+    "Kael": {
+      "n": 38,
+      "n_including_compounds": 39,
+      "lines": [
+        19,
+        21,
+        22,
+        34,
+        35,
+        36,
+        49,
+        50,
+        52,
+        54,
+        55,
+        56,
+        57,
+        61,
+        63,
+        78,
+        79,
+        80,
+        87,
+        90,
+        97,
+        98,
+        99,
+        112,
+        114,
+        115,
+        125,
+        127
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        36,
+        63
+      ]
+    },
+    "Juna": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        36,
+        50,
+        63
+      ]
+    },
+    "Kael ↔ Juna/V Relationship": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Michael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        125
+      ]
+    },
+    "Julia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        125
+      ]
+    },
+    "Kael/Julia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Existenz-Matrizen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Existenz-Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        48,
+        62
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        62
+      ]
+    },
+    "The Void": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        62
+      ]
+    },
+    "The Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Komponente 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Core Worlds": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        98
+      ]
+    },
+    "KW1-4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        61
+      ]
+    },
+    "Grenzfeste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Kairos and Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Guardians": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        114,
+        115,
+        128
+      ]
+    },
+    "Wächter-Zwiespalt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        128
+      ]
+    },
+    "abtrünnigen Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Die Gemeinsame Jagd": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        127
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        87
+      ]
+    },
+    "Emotional Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        87
+      ]
+    },
+    "functional multiplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        56,
+        97
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        50,
+        113,
+        126
+      ]
+    },
+    "ontological exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "ontological blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Kael-Juna paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Coherence through Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Coherence through Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Value Alignment Problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        81
+      ]
+    },
+    "Classical Crash": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Paraconsistent Transformation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        126
+      ]
+    },
+    "Project Codex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Narrative Canon Document": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Dissociative Identity Disorder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Theory of Structural Dissociation (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Neurobiology of Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Polyphonic Prose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Metafiction & The Reader's Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Autopoiesis & Operational Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Gödel's Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Fixed Attitude": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Situation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Activity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Manipulation/Psychology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Strukturelle Dissoziation: System Kael Analyse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Dramatica Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        78
+      ]
+    },
+    "dialetheism": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        56
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        78,
+        113
+      ]
+    },
+    "operational closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Niklas Luhmann": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Alfred North Whitehead": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    }
+  }
+}

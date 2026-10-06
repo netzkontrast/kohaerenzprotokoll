@@ -1,0 +1,310 @@
+{
+  "document": "analysis-of-the-kohaerenz-protokoll-narrative-project-develo",
+  "drive_id": "1GXiG-cAjl1FyWX9TSjaro5jkdes9UMwKRvbyKYDFQrU",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 78,
+    "decisions": 90,
+    "decided_by_lookup": 61,
+    "needs_judgement": 29
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        48,
+        49,
+        50,
+        113,
+        126
+      ],
+      "attribution": "",
+      "note": "AEGIS as the negating system, its origin, closure and failure fork"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "Cerberus governs the Grenzfeste"
+    },
+    {
+      "page": "did",
+      "lines": [
+        54,
+        55
+      ],
+      "attribution": "",
+      "note": "DID as Kael's condition, of which he is unaware"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "AEGIS's initial genesis from the Void"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        79,
+        114,
+        127
+      ],
+      "attribution": "",
+      "note": "Gödel as the mechanism of AEGIS's fall, and the Gambit in the climax"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "the Grenzfeste as the third world"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        115,
+        128
+      ],
+      "attribution": "",
+      "note": "the Guardians' role as a contradiction and a recommendation"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        35,
+        36,
+        63,
+        125
+      ],
+      "attribution": "",
+      "note": "Juna/V as the `Du` perspective and the link invisible to AEGIS"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        22,
+        54,
+        56,
+        112,
+        125
+      ],
+      "attribution": "",
+      "note": "Kael as the counter-coherence, his origin and goal, and the unsettled name"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "Kairos and Sophia govern the Möglichkeits-Garten"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "the four Kernwelten as externalised conflict"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part among the Emotional Parts"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "the two opposing definitions of coherence"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "the entity whose fragmentation is Kael's birth"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Lex among the Apparently Normal Parts"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "LogOS governs Logos-Prime"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "Mnemosyne governs the Mnemosyne-Archipel"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "the Möglichkeits-Garten as the fourth world"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        63
+      ],
+      "attribution": "",
+      "note": "the link as non-local and invisible to AEGIS's sensors"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Moros as the collapse/shutdown response among the Emotional Parts"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        48,
+        62
+      ],
+      "attribution": "",
+      "note": "the Void AEGIS emerges from"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Nyx as the fight response among the Emotional Parts"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Rhys among the Apparently Normal Parts"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "Sophia, with Kairos, governs the Möglichkeits-Garten"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        55,
+        87
+      ],
+      "attribution": "",
+      "note": "the TSDP as the core model of Kael's psyche"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C16",
+    "C17"
+  ],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 54,
+      "decision": "reading",
+      "why": "the clinical model of Kael's psyche, read on did"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 48,
+      "decision": "reading",
+      "why": "AEGIS's Initial Genesis from the Nichts Rauschen, read on genesis"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 61,
+      "decision": "reading",
+      "why": "Kairos and Sophia governing a world, read on kairos"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title in the report's title"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 61,
+      "decision": "reading",
+      "why": "Kairos and Sophia governing a world, read on sophia"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 55,
+      "decision": "reading",
+      "why": "the TSDP model of Kael's alters, read on tsdp"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

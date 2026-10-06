@@ -1,0 +1,14 @@
+# analysis-of-the-kohaerenz-protokoll-narrative-project-develo
+  lines                130  (frontmatter ends at 9)
+  body words           3114
+  headings             14   bold-only lines 0
+  table rows           14   code fences 0
+  question marks       1
+  backslash escapes    88
+  typographic marks    15   ascii quotes 134
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1126 chars
+
