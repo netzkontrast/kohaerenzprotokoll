@@ -1,0 +1,128 @@
+# counts for 97 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               11 word    11 in   [11, 15, 21, 29, 404, 409]
+  Maximal-Plotter                   7 word     8 in   [11, 19, 29, 51, 103, 237]
+                                    1      as Maximal-Plotter-Workflow
+  Mosaik-Struktur                   2 word     2 in   [17, 366]
+  psycho-strukturelle Resonanz      1 word     1 in   [17]
+  System Kael                       3 word     3 in   [17, 99, 123]
+  Kael                             15 word    17 in   [17, 21, 44, 99, 111, 112]
+                                    1      as Kaels
+                                    1      as Kael-Agenten
+  AEGIS                            17 word    20 in   [21, 42, 44, 47, 138, 166]
+                                    1      as AEGIS-Kernarchitektur
+                                    1      as AEGIS-Intervention
+                                    1      as AEGIS-Agenten
+  Juna                              5 word     8 in   [21, 44, 91, 185, 215, 217]
+                                    3      as Juna-Verbindung
+  Fundament                         1 word     1 in   [21]
+                                    1      as fundamentale
+                                    1      as fundamentalen
+  Dual Kernel Theory                2 word     2 in   [21, 29]
+  DKT                               1 word     1 in   [29]
+  Agentive Narrative                3 word     3 in   [21, 160, 409]
+  System-Dirigent                   1 word     2 in   [21, 164]
+                                    1      as System-Dirigenten
+  Protocol Ontology                 2 word     2 in   [23, 25]
+  Kohärenz                         13 word    16 in   [11, 15, 21, 29, 166, 298]
+                                    1      as Kohärenz-Sicherung
+                                    1      as Kohärenz-Protokoll
+                                    1      as Kohärenz-Bildung
+  Kollaps                           2 word     2 in   [29, 199]
+  K₁                                2 word     4 in   [29, 42, 45, 47]
+  K₀                                4 word     5 in   [29, 43, 45, 47]
+  K1                                3 word     3 in   [279, 373, 398]
+  K0                                3 word     3 in   [279, 373, 398]
+  Ontologischer Status              2 word     2 in   [41, 279]
+  K₁-Dominant                       1 word     1 in   [42]
+  K₀-Dominant                       1 word     1 in   [43]
+  Riss-Zone                         1 word     1 in   [44]
+  Integraler Status                 1 word     1 in   [45]
+  Corrective Wavelets               1 word     1 in   [44]
+  funktionalen Multiplizität        2 word     2 in   [45, 198]
+  Nichts-Rauschen                   2 word     2 in   [43, 230]
+  Protocol Failure                  2 word     2 in   [42, 358]
+  Enforcer                          1 word     1 in   [44]
+  Gödel-Satz                        2 word     2 in   [45, 279]
+  Gödel-Gambit                      3 word     3 in   [198, 362, 378]
+  Singularität                      7 word     7 in   [45, 195, 218, 219, 235, 256]
+  Kernwelten                        6 word     6 in   [49, 51, 185, 199, 295, 342]
+  Logos-Prime                       6 word     6 in   [42, 51, 57, 214, 306, 343]
+  Mnemosyne-Archipel                2 word     3 in   [51, 67, 230]
+                                    1      as Mnemosyne-Archipels
+  Cerberus-Labyrinth                2 word     2 in   [51, 77]
+  Kairos-Potentialis                2 word     2 in   [51, 87]
+  KW1                               2 word     2 in   [42, 57]
+  KW2                               1 word     1 in   [67]
+  KW3                               1 word     1 in   [77]
+  KW4                               1 word     1 in   [87]
+  Constraint-Based Writing          1 word     1 in   [53]
+  Apparently Normal Parts           1 word     1 in   [99]
+  Emotional Parts                   1 word     1 in   [99]
+  ANP                               6 word    10 in   [61, 99, 123, 132, 184, 191]
+  EP                                5 word     8 in   [71, 99, 138, 142, 151, 191]
+  Systemkarte                       3 word     3 in   [101, 103, 266]
+  Lex                              17 word    17 in   [61, 111, 114, 117, 132, 138]
+  Nyx                               9 word    11 in   [81, 111, 117, 142, 147, 167]
+  Kiko                              7 word     9 in   [71, 114, 147, 151, 156, 191]
+                                    2      as Kikos
+  Lia                               1 word     1 in   [71]
+  Alex                              1 word     1 in   [81]
+  Argus                             2 word     2 in   [112, 117]
+  Fronter                           4 word     6 in   [111, 115, 259, 295, 384, 390]
+                                    1      as Fronter-
+                                    1      as fronternde
+                                    1      as Fronters
+  Co-Conscious                      1 word     1 in   [112]
+  Trigger-Level                     1 word     1 in   [113]
+  Amnesia-Status                    1 word     1 in   [115]
+  Internal Conflict                 1 word     1 in   [114]
+  Gravitations-Architektur          2 word     2 in   [175, 177]
+  Ergosphäre                        6 word     6 in   [181, 213, 214, 215, 256, 294]
+  Ereignishorizont                  5 word     5 in   [188, 216, 217, 256, 294]
+  Irreversiblen Kosten              2 word     2 in   [192, 225]
+  Irreversible Kosten               3 word     3 in   [217, 223, 386]
+  Genesis-Krise                     3 word     3 in   [213, 359, 378]
+  Trennungsprotokoll                1 word     1 in   [359]
+  Moonshine-Link                    1 word     2 in   [361, 379]
+                                    1      as Moonshine-Link-Physik
+  Ontologischen Exploit             1 word     1 in   [349]
+  Voices from the Machine           2 word     2 in   [213, 359]
+  Found Footage                     2 word     2 in   [219, 394]
+  Paraconsistent Gambit             1 word     1 in   [375]
+  Critical Plot Interrogatories     2 word     2 in   [353, 418]
+  Interrogatories                   3 word     3 in   [353, 379, 418]
+  Conflict Check                    2 word     2 in   [302, 391]
+  Conflict Analyst                  1 word     1 in   [300]
+  LeanRAG                           3 word     4 in   [239, 298, 300, 347]
+                                    1      as LeanRAG-Konzept
+  Meta-Prompting                    4 word     6 in   [19, 162, 312, 385, 411]
+                                    2      as Meta-Prompting-Framework
+  Chain-of-Density                  3 word     3 in   [345, 349, 392]
+  P-SYS                             1 word     1 in   [320]
+  P-PSY                             1 word     1 in   [329]
+  P-AES                             1 word     1 in   [338]
+  Komplexität als Ressource         1 word     1 in   [19]
+  Kohärenz durch Negation           1 word     1 in   [166]
+  Milieukontrolle                   1 word     1 in   [167]
+  Energiehaushalt                   1 word     2 in   [47, 398]
+                                    1      as Energiehaushalts
+  Mosaik-Stories                    3 word     3 in   [247, 271, 280]
+  40-Chapter Plot Module            1 word     1 in   [204]
+  Hamilton-Slot                     1 word     1 in   [257]
+  Writer's Bible                    2 word     2 in   [121, 412]
+  Hamartia                          1 word     1 in   [169]
+  TSDP                              3 word     7 in   [15, 97, 99, 114, 270, 307]  <-- substring
+                                    1      as TSDP-Integration
+                                    1      as TSDP-Aktionssystem
+                                    1      as TSDP-Rolle
+                                    1      as TSDP-Motivation
+  Autopoiesis                       3 word     3 in   [173, 279, 380]
+  Dogfooding                        1 word     1 in   [300]
+  Save the Cat                      1 word     1 in   [204]
+  Hero's Journey                    1 word     1 in   [204]
+  Prehension                        1 word     1 in   [361]
+  Quantenverschränkung              1 word     1 in   [361]

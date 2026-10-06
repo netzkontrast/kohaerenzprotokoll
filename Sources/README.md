@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 145 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 145 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 146 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 146 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -406,7 +406,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Integriertes Kohärenz-Protokoll Erstellung](drive/integriertes-kohaerenz-protokoll-erstellung.md) | 2025-12-05 | 4,479 |  | Dual-Kernel-Theorie† 4, Multiplizität 5, Algorithmische Melancholie 2, TSDP 7, Moonshine-Link 2, Juna 5, Entropie† 12, Alters 2 | Rhizom 10, Bakhtins 5, Paris Goodyear-Brown 2, Yasenik 2, Black_hole_information_paradox 3 |
 | [Kohärenz Protokoll: Synthese & Integration](drive/kohaerenz-protokoll-synthese-integration.md) | 2025-12-05 | 4,565 |  | Dual-Kernel-Theorie† 14, Kollaps-Kernel 2, Kohärenz-Kernel 2, Alex 4, Moros 4, Multiplizität 5, Kiko 7, Algorithmische Melancholie 2 | Black_hole_information_paradox 4, Slots 7, Structural Dissociation of Personality 2, Giannakopoulos 8, Rhizom 3 |
 | [Master-Konzept: Kohärenz Protokoll Analyse](drive/master-konzept-kohaerenz-protokoll-analyse.md) | 2025-12-05 | 4,735 |  | Dual-Kernel-Theorie† 15, Multiplizität 5, Moros 3, TSDP 7, Nyx 3, Lex 3, Kiko 2, Juna 3 | LeanRAG 8, AdS 6, Meta-Prompting 4, Giannakopoulos 12, Phi 7 |
-| [Projektplanung für Kohärenz Protokoll](drive/projektplanung-fuer-kohaerenz-protokoll.md) | 2025-12-05 | 4,214 |  | Kollaps-Kernel 4, Kohärenz-Kernel 3, Gödel-Gambit 3, Lex 17, Dual-Kernel-Theorie† 3, Nyx 11, Kiko 7, Argus 2 | Maximal-Plotter 8, Meta-Prompting 6, Ergosphäre 6, LeanRAG 4, Slots 4 |
+| [Projektplanung für Kohärenz Protokoll](drive/projektplanung-fuer-kohaerenz-protokoll.md) | 2025-12-05 | 4,214 | **read** | Kollaps-Kernel 4, Kohärenz-Kernel 3, Gödel-Gambit 3, Lex 17, Dual-Kernel-Theorie† 3, Nyx 11, Kiko 7, Argus 2 | Maximal-Plotter 8, Meta-Prompting 6, Ergosphäre 6, LeanRAG 4, Slots 4 |
 | [An Introduction to the Coherence Protocol: The War for Reality](drive/an-introduction-to-the-coherence-protocol-the-war-for-realit.md) | 2026-01-02 | 1,340 |  | Dual-Kernel-Theorie† 2, Nichts-Rauschen 2, Alters 2, Entropie† 4, Risse† 4, Kael 8, AEGIS 18 | Nothingness Noise 2, Garden 2, Collapse Kernel 2, Classical Logic 3, Coherence Kernel 2 |
 | [Kohärenz Protokoll: The Official Project Handbook](drive/kohaerenz-protokoll-the-official-project-handbook.md) | 2026-01-02 | 2,614 |  | Dual-Kernel-Theorie† 4, Kollaps-Kernel 2, Kohärenz-Kernel 2, TSDP 6, Guardians 2, Alters 3, Kern-Welten 4, Emergenz† 2 | Exclusionary Order 2, Slots 2, Operational Closure 2, Correspondence 2, IFS 4 |
 | [DKT_FUNDAMENT_KOHAERENZ_PROTOKOLL.md](drive/dkt-fundament-kohaerenz-protokoll-md.md) | 2026-03-26 | 3,075 |  | Persistenzgleichung 7, Coheron 14, Erason 6, Kohärenz-Kernel 27, Kollaps-Kernel 24, Dual-Kernel-Theorie 29, Juna 16, DID 3 | CSI 7, PAL 7, Erason-Ereignis 2, K₀-Druck 4, TGF 2 |
