@@ -301,3 +301,11 @@ Stands as an outline's AEGIS-perspective story, dated 2025-11-03; the record is 
 In its table of open questions the antagonist row proposes the story slot „Voices from the Machine“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L213] and „Ein dedizierter Slot für AEGIS' Perspektive“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L359], as log entries, to reveal the Genesis-Krise and the Trennungsprotokoll; the same cell ends „AEGIS wird tragisch“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L359]. In its Hamilton mapping the first slot carries the same title with „Einführung von AEGIS“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L213] (its „Ch“ numbers are chapters of Hamilton's model, not of the novel).
 
 Stands as a proposal for a perspective slot in log form; whether it is first or third person, and whether it is one chapter, the report does not say. The question stays open in the record's terms.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**The log, written in AEGIS's own voice, states a third-person rule without exception for itself.**
+
+> „The system refers to itself exclusively in the third person“ ^[aegis-genesis-crisis-self-definition.md:L23]
+
+Where it stands: with the third-person rows of C14; the log is itself a text in AEGIS's voice and says nothing about a chapter, and the record's decision of 2026-10-05 is unchanged.
