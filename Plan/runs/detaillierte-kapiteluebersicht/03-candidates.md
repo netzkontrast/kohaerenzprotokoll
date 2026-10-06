@@ -1,0 +1,85 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is a four-act chapter outline in German, one numbered line per chapter. The acts carry Japanese labels (Ki, Shō, Ten, Ketsu). The export restarts the numbering at 1 in each act, and one chapter title is a formula with an escaped underscore. Names of figures and worlds stand in bold or in running text; the worlds are written KW1 to KW4 and are never spelled out as Kernwelt. Terms with a comma are left out of the list by rule, and none is needed here.
+
+- Kohärenz Protokoll
+- Kael
+- AEGIS
+- Juna/V
+- Juna
+- Konstrukt-Stadt
+- KW1
+- KW2
+- KW3
+- KW4
+- Resonanz-Landschaft
+- Cerberus-Labyrinth
+- Möglichkeiten-Garten
+- Lex
+- Kiko
+- Nyx
+- Rhys
+- Mnemosyne
+- Lia
+- Alex
+- Argus
+- Moros
+- Isabelle
+- Guardian
+- Fundament
+- Fundaments
+- Anteile
+- EPs
+- EP-Intrusionen
+- System Kael
+- Subjekt Kael
+- Kind-Anteil
+- Kämpfer-Anteil
+- Meta-Beobachter
+- Riss
+- Risse
+- Welle
+- Protokoll 734
+- Kohärenz-Initialisierung
+- Korrekturprotokoll Delta
+- AEGIS\_Protokoll
+- D2-Logik-Modul
+- D2-Modul-Inkonsistenz
+- Axiom der Vermeidung
+- Kernaxiome
+- Gödel-Gambit
+- Gödel-Satzes
+- Funktionale Multiplizität
+- Grounding-Artefakte
+- Fragment 'O'
+- Archivars
+- Logbucheintrag des Archivars
+- Ki (起)
+- Shō (承)
+- Ten (転)
+- Ketsu (結)
+- Midpoint
+- Waffenstillstand
+- Algorithmische Melancholie
+- ineffizienter Schönheit
+- Ineffiziente Schönheit
+- Die Geburt des Gärtners
+- Das offene Ende
+- Das Rauschen nach der Stille
+- Gnosis
+- Emergenz
+- Kontamination
+- Zielerhaltung
+
+## lens
+
+- perversen Instantiierung
+- Perverse Instantiierung
+- Instrumentelle Konvergenz
+- parakonsistente Logik
+- Pathologische Anpassung
+- dialetheische
+- gaslightet
+- Freeze-Reaktion
+- Trauma-Reaktion
+- Analyse-Paralyse
