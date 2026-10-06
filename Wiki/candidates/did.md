@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "ki-roman-architektur-kohaerenz-und-kollaps"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung"]
 gathered: "2026-09-16"
 ---
 
@@ -88,6 +88,10 @@ The report's opening verdict, which it makes „mit absoluter Sicherheit“ ^[ro
 ## Reading — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium — the Kern-Welten as the externalisation of Kael's DID
 
 The drafting compendium of 2026-02-23 states, with reference 2 glued on (`Charakterkonzepte für Kohärenz Protokoll`), the construction principle of the Kern-Welten as the „Externalisierung von Kaels Dissoziativer Identitätsstörung (DID)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L81], and in the triad of entropies that AEGIS reads „Kaels Dissoziative Identitätsstörung“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L27] as informational chaos to be erased. From this it instructs the author to see every setting and minor figure as an IFS part. Its introduction names the psychological character structures, „insbesondere der Dissoziativen Identitätsstörung“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L15], as one basis of its analysis.
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — the plan's dissoziative Identitätsstruktur for Kael
+
+The plan names the aim of its rewrite as ordering „die dissoziative Identitätsstruktur Ihres Protagonisten Kael“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L15] into the story. It calls the choice a source of depth: „Die Entscheidung, Kael als ein System mit einer dissoziativen Identitätsstruktur zu konzipieren“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L37] (a footnote digit follows, pointing at the plan's reference list). It asks that it not be treated as a gimmick: „Es ist jedoch essenziell, dass wir diese Pathologie nicht als bloßes Gimmick“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L37]
 
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — a dissociative identity structure as a design question
 
