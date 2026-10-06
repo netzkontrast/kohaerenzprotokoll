@@ -400,3 +400,11 @@ Stands as a document that places the Guardians inside AEGIS's architecture as ag
 > „These entities are not avatars; they are localized, dynamic processes that enforce the Coherence Protocol through strict isolation and punitive computing.“ ^[aegis-genesis-crisis-self-definition.md:L143]
 
 Where it stands: the log answers the question as a component of AEGIS, in AEGIS's own voice; the question stays open.
+
+## 2026-10-06 — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept
+
+**The Überwelt concept calls the Guardians subsystems inside AEGIS and states that no Guardian addresses AEGIS directly.**
+
+„Die Guardians sind keine Avatare, sondern spezialisierte Subsysteme“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L54]. Mnemosyne „besetzt die komplexeste Nische innerhalb von AEGIS“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L62], and Kairos is the adaptive element „innerhalb der rigiden AEGIS-Struktur“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L70]. A table row on the interaction types reads: „Keine direkte Adressierung möglich; Steuerung durch Output“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L94], with „Indirekte Mechanismen über Systemzustände“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L94] as its mechanism.
+
+Stands on the side of components, with an indirect channel to AEGIS; recorded, not applied, and the question stays open in the record's own terms.
