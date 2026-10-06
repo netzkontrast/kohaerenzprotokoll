@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -77,6 +77,10 @@ The concept says how it is arranged: Teil II contains profiles „geordnet nach 
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — the level AEGIS maintains, and the deeper one
 
 The plot-idea synthesis speaks of thermodynamic costs that could feed the Risse „innerhalb der von AEGIS aufrechterhaltenen Realitätsebene“ ^[kohaerenz-protokoll-plotideen-generierung.md:L103]. It also gives the Kael-Julia link a deeper level: „Sie verbindet Kael mit einer externen oder tieferliegenden Realitätsebene (repräsentiert durch Julia“ ^[kohaerenz-protokoll-plotideen-generierung.md:L188]. The word `Realitätsebene` ^[kohaerenz-protokoll-plotideen-generierung.md:#2].
+
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — the sea as the most fundamental level
+
+In its table the concept extraction lists the sea as „Fundamentalste Realitätsebene; dynamisches Feld unstrukturierter informationeller Potentialität“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L41], and proposes that the K-J connection reaches toward „einer externen oder tieferliegenden Realitätsebene“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L181].
 
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — the introduction's Realitätsebenen and the six-level structure
 
