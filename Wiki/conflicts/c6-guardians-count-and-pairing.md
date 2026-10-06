@@ -504,3 +504,11 @@ Stands as five named Guardians over four worlds with a shared fourth, as a conce
 It lists four entries: „The Guardian of logic and order, presiding over the sterile reality of Core World“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L37] 1, „The Guardian of memory and emotion“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L38] of Core World 2, „The Guardian of defense, paranoia, and control“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L39] of Core World 3, and „The twin Guardians of opportunity and wisdom“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L40] over Core World 4 (L37–L40).
 
 Stands with position 1's pairing (five named Guardians, four worlds, Kairos and Sophia sharing one); recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept's Table 1 lists five Guardian names on four Kern-Welten, Kairos and Sophia sharing KW4.**
+
+The Guardian column reads LogOS (KW1, L119), Mnemosyne (KW2, L120), Cerberus (KW3, L121) and for KW4 „Kairos/Sophia“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L122]; the Überwelt's cell is „AEGIS, Guardians“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L123]. The prose repeats the pairing: „Sie ist die Domäne des Guardians LogOS“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L128], „Sie wird durch den Guardian Cerberus geprägt, der auf Grenzsicherung spezialisiert ist“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L150], and KW4 is „Sie wird von Kairos (dem richtigen Zeitpunkt, der Gelegenheit) und Sophia (Weisheit, Integration) beeinflusst“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L161].
+
+Stands as a further source for the first position of the record (five Guardians, four pairs), dated 2025-04-18; a proposal in the conditional, recorded and not applied.
