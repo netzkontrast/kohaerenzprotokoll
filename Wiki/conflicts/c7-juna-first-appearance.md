@@ -455,3 +455,11 @@ Stands as an outline's first encounter by emotion, dated 2025-11-03; recorded, n
 The outline gives Kapitel 3 the title `Juna`. In it AEGIS „überwacht Kaels Interaktion mit einer externen menschlichen Person, Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L94], and the Ki pass of the chapter has „ein geplantes, strukturiertes Treffen mit Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L100]. It is a design, and the planned chapter is not one as written; the document plans a meeting in the first act.
 
 Stands, in the record's own terms, as a planned meeting with Juna in Kapitel 3: recorded, not applied, and no resolution is made here.
+
+## 2026-10-06 — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview
+
+**The chapter overview plans the first manifestation of the Juna/V-Verbindung in Kapitel 4, as a sensory detail.**
+
+Kapitel 4, titled „Der Duft von Regen auf trockenem Grund“ ^[detaillierte-kapiteluebersicht.md:L20], is planned as „Die erste, subtile Manifestation der Juna/V-Verbindung“ ^[detaillierte-kapiteluebersicht.md:L20] and the line adds „ein sensorisches Detail, das für AEGIS nicht existiert“ ^[detaillierte-kapiteluebersicht.md:L20] In Kapitel 29 the connection becomes „Die Juna/V-Verbindung wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal“ ^[detaillierte-kapiteluebersicht.md:L55]
+
+Stands as a further placement in the record's terms, dated 2025-07-30: a first subtle manifestation in Kapitel 4, a clear conscious channel in Kapitel 29; recorded, not applied.
