@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -77,6 +77,10 @@ KW3 is, in the synthesis's list of the four worlds, „Domäne von Cerberus“ ^
 A light pass: the outline restates `scifi-roman-mit-ki-schreiben`, its only named source (L287), which is already read on this page; this reading holds only what the outline adds, its scene for the world.
 
 The outline makes KW3 „eine bunkerartige, klaustrophobische Festung oder ein Gefängnis“ ^[roman-outline-system-kael.md:L125], its architecture „brutalistisch, defensiv“ ^[roman-outline-system-kael.md:L125], with high walls, narrow corridors and surveillance; Cerberus classes the Juna connection as „gefährliche Kontamination oder feindliche Intrusion“ ^[roman-outline-system-kael.md:L127].
+
+## Reading — `welt`, 2025-07-29, the Welt blueprint — KW3 as the fortress of Alex and Nyx
+
+The Welt blueprint profiles `Cerberus-Labyrinth / Grenzfeste` as the third Kernwelt, in both passes. First pass (L54): „Diese Welt ist die Domäne von Alex (Protektor-ANP) und Nyx (Kampf-EP)“ ^[welt.md:L54], and it „kann als Festung oder Labyrinth gestaltet sein“ ^[welt.md:L54]. Second pass (L105): „defensiv, befestigt, labyrinthisch, klaustrophobisch und dunkel“ ^[welt.md:L105]. There Kael meets the Guardian: „Kael begegnet dem Guardian Cerberus und muss seine Angstmechanismen überwinden“ ^[welt.md:L107].
 
 ## Reading — `outline`, 2025-07-30, the outline — Grenzfeste as KW3's name in Teil 2
 
