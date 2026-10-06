@@ -294,3 +294,11 @@ Stands: pruned and frozen, not deleted, in an exegesis of 2025-11-25; it predate
 Scene 3.2 (Chapters 31–33): „it abandons classical logic and adopts a paraconsistent framework“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L356], and „It does not die; it is fundamentally and irrevocably transformed.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L356] Scene 3.3 (Chapters 34–36): AEGIS is still present: „It communicates in cryptic, paradoxical koans“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L371] and „It is in a state of profound, cold contemplation“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L371]; Kael „realizes he has not killed a monster but broken a flawed god“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L372]. The architecture analysis (L409–L573) says of the same state that AEGIS „possesses a final, logical gnosis of the truth but is forever excluded from its meaning or experience“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L517].
 
 Stands as a transformed AEGIS that is neither destroyed nor taken over by a plural form, in a plan of 2025-10-15; it predates the author's answers of 2026-10-05 and changes neither.
+
+## 2026-10-06 — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan
+
+**The architecture plan leaves AEGIS's fate open in Kapitel 36 as a list of questions; it has no Vortex and gives no answer.**
+
+The word `Vortex` ^[romanarchitektur-kael-aegis-entropie-docx.md:#0] does not stand in it (a count). Kapitel 36 asks „Wird AEGIS zerstört?“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L565] and goes on to ask whether Kael can change AEGIS's core programming so it accepts complexity, whether it is switched off or isolated, or whether it continues in a reduced or changed form. The section names the resolution of the central paradox as its focus: „Die Auflösung des zentralen Paradoxons von AEGIS steht im Mittelpunkt“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L565].
+
+Stands: AEGIS's state after the confrontation is posed as open questions in the plan's own terms; recorded, not applied, and no function is passed to another figure.
