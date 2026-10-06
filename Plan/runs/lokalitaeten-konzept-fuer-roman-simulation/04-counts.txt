@@ -1,0 +1,130 @@
+# counts for 89 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               15 word    15 in   [11, 15, 19, 41, 97, 177]
+  AEGIS                            63 word    79 in   [21, 23, 28, 29, 35, 37]
+                                    4      as AEGIS-Protokolle
+                                    2      as AEGIS-System
+                                    2      as AEGIS-Kern
+                                    2      as AEGIS-artige
+  Guardians                        13 word    13 in   [21, 23, 85, 237, 239, 240]
+  Kern-Welten                      48 word    48 in   [19, 21, 23, 31, 37, 41]
+  Realitätsebenen                   6 word     6 in   [19, 21, 177, 179, 261, 417]
+  Überwelt                         39 word    39 in   [19, 21, 23, 27, 45, 73]
+  Externe Ebene                     5 word     5 in   [191, 248, 329, 360, 421]
+  KW1                              27 word    28 in   [21, 25, 27, 31, 37, 45]
+  KW2                              36 word    38 in   [21, 27, 28, 31, 37, 45]
+  KW3                              30 word    32 in   [21, 25, 37, 43, 45, 57]
+  KW4                              24 word    25 in   [21, 31, 37, 43, 45, 57]
+  Konstrukt-Stadt                   3 word     3 in   [186, 193, 265]
+  Resonanz-Landschaft               4 word     4 in   [59, 187, 204, 276]
+  Grenzfeste                        5 word     5 in   [57, 67, 188, 215, 287]
+  Möglichkeits-Garten               2 word     3 in   [189, 226, 298]
+                                    1      as Möglichkeits-Gartens
+  Kael                             40 word    94 in   [25, 28, 29, 31, 33, 37]  <-- substring
+                                   53      as Kaels
+                                    1      as Kael-Überwachungsfeed
+  Juna                              6 word    19 in   [202, 213, 224, 235, 246, 248]  <-- substring
+                                   13      as Junas
+  LogOS                             9 word     9 in   [151, 186, 193, 195, 198, 202]
+  Mnemosyne                         8 word     9 in   [151, 187, 204, 206, 209, 213]
+                                    1      as Mnemosynes
+  Cerberus                         17 word    17 in   [151, 188, 215, 217, 220, 222]
+  Kairos                           10 word    10 in   [151, 189, 226, 228, 231, 235]
+  Sophia                            9 word    10 in   [151, 189, 226, 228, 231, 235]
+                                    1      as Sophias
+  Kairos/Sophia                     6 word     7 in   [151, 189, 226, 231, 244, 301]
+                                    1      as Kairos/Sophias
+  Alters                           13 word    15 in   [63, 135, 185, 195, 206, 213]
+  Index                             7 word     7 in   [135, 186, 189, 195, 202, 228]
+  Architekt                         2 word    35 in   [43, 45, 57, 63, 65, 83]  <-- substring
+                                   23      as Architektur
+                                    3      as architektonisch
+                                    3      as Architekturstil
+                                    2      as architektonische
+  Praetor                           8 word     8 in   [186, 188, 195, 202, 217, 224]
+  Nox                               6 word     6 in   [186, 188, 189, 195, 217, 228]
+  Echo                              4 word     7 in   [69, 135, 165, 187, 206, 213]
+                                    3      as Echos
+  Flicker                           2 word     2 in   [187, 206]
+  Silas                             6 word     6 in   [187, 189, 206, 228, 235, 283]
+  Oblivion                          6 word     6 in   [187, 188, 206, 217, 282, 283]
+  Limina                            3 word     3 in   [188, 217, 224]
+  Eos                               3 word     3 in   [189, 228, 235]
+  DID                               4 word     5 in   [135, 173, 359, 383]
+  Zero-Trust                        2 word     4 in   [21, 91, 239, 242]
+                                    1      as Zero-Trust-Prinzips
+                                    1      as Zero-Trust-Protokollen
+  Entropie                         31 word    43 in   [21, 37, 91, 93, 97, 103]
+                                    3      as Entropie-Management
+                                    3      as Entropielevel
+                                    1      as Entropie-Regulierung
+                                    1      as Entropie-Managements
+  Entropie-Management               3 word     4 in   [91, 111, 239]
+                                    1      as Entropie-Managements
+  Risse                            13 word    34 in   [63, 69, 93, 107, 127, 147]  <-- substring
+                                   20      as Rissen
+                                    1      as Risses
+  Post-Reboot                       7 word     7 in   [37, 185, 196, 207, 218, 229]
+  universal reboot                  1 word     1 in   [23]
+  Reboot                            9 word    17 in   [37, 65, 153, 165, 175, 185]
+  Kaels Wohneinheit                 1 word     1 in   [263]
+  Zentraler Trauma-Lokus            1 word     1 in   [274]
+  Cerberus' Kernbunker              1 word     1 in   [285]
+  Nexus-Interface Garten            1 word     1 in   [296]
+  AEGIS Analyse-Hub                 1 word     1 in   [307]
+  Glitch-Zone                       1 word     2 in   [318, 359]
+                                    1      as Glitch-Zonen
+  Junas Zufluchtsort                2 word     2 in   [329, 423]
+  Central Processing Core           1 word     1 in   [200]
+  Nexus-Schnittstelle               1 word     1 in   [233]
+  Nexus                             1 word     4 in   [231, 233, 244, 296]  <-- substring
+                                    1      as Nexus-Schnittstelle
+                                    1      as Nexus-Interface
+  AEGIS-Kern                        2 word     2 in   [244, 314]
+  Guardian-Hubs                     1 word     1 in   [244]
+  Kontrollbunker                    1 word     1 in   [222]
+  Quellpunkt                        1 word     1 in   [255]
+  Trauma-Lokus                      4 word     4 in   [274, 348, 361, 383]
+  Kompartmentalisierung             2 word     2 in   [320, 359]
+  Datenkonvergenzpunkt              1 word     1 in   [314]
+  Kern-Welt Komparative Übersicht    1 word     1 in   [181]
+  Konzeptueller Kern               14 word    14 in   [185, 195, 206, 217, 228, 239]
+  Reaktivitätstyp                   1 word     1 in   [185]
+  Typische Riss-Manifestation       1 word     1 in   [185]
+  Sensorische Details              15 word    15 in   [27, 117, 197, 208, 219, 230]
+  Visuelle Ästhetik                13 word    13 in   [196, 207, 218, 229, 240, 251]
+  Spezifische Landmarken           13 word    13 in   [200, 211, 222, 233, 244, 255]
+  Verbindung zu Charakteren/Plot   13 word    13 in   [202, 213, 224, 235, 246, 257]
+  Regeln & Funktionsweise          13 word    13 in   [198, 209, 220, 231, 242, 253]
+  Atmosphäre & Stimmung            13 word    13 in   [199, 210, 221, 232, 243, 254]
+  Systemische Reaktivität           1 word     1 in   [147]
+  Psychologische Reaktivität        1 word     1 in   [145]
+  Prospect-Refuge Theorie           3 word     3 in   [55, 67, 411]
+  Das Unheimliche                   3 word     3 in   [61, 69, 412]
+  Uncanny Valley                    3 word     3 in   [63, 412]
+  Traumlogik                        7 word     7 in   [59, 65, 145, 207, 277, 419]
+  Verkörperte Kognition             1 word     1 in   [103]
+  Embodied Cognition                1 word     1 in   [103]
+  Environmental Storytelling       18 word    18 in   [155, 157, 171, 173, 175, 353]
+  Pathetische Fallazie              2 word     2 in   [127, 349]
+  Brutalismus                      10 word    11 in   [119, 123, 218, 288, 391, 393]
+                                    1      as Brutalismus-Architektur
+  Mise-en-scène                     2 word     2 in   [166, 361]
+  Set Dressing                      2 word     2 in   [163, 357]
+  Panopticon                        0 word     1 in   [222]
+                                    1      as Panopticon-ähnliche
+  Cyberspace                        2 word     5 in   [77, 89, 91, 421]  <-- substring
+                                    1      as Cyberspace-Design
+                                    1      as Cyberspace-Designprinzipien
+                                    1      as Cyberspace-Designs
+  Trauma-informierte Gestaltungsprinzipien    1 word     1 in   [47]
+  Blade Runner                     11 word    12 in   [363, 367, 395, 402, 425, 496]
+  Silent Hill 2                     8 word     8 in   [363, 377, 395, 403, 425, 523]
+  Control                          14 word    15 in   [149, 363, 387, 395, 404, 425]
+                                    2      as controlgame
+                                    1      as Controls
+                                    1      as control_is_unbeatable_in_terms_of_environmental
+  Oldest House                      2 word     2 in   [149, 391]

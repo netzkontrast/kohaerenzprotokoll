@@ -1,0 +1,374 @@
+{
+  "document": "lokalitaeten-konzept-fuer-roman-simulation",
+  "drive_id": "1FAdvdi-xKqbFNeTBYvwGEVLBSfP_tkz6iBbFuVOWXl0",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; seventh in the queue re-ranked after document 121; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-129/brief.md; no chapter page — the concept names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 99,
+    "decided_by_lookup": 72,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A locations concept whose own new surfaces are its key places inside existing worlds (Trauma-Lokus, Cerberus' Kernbunker, AEGIS Analyse-Hub, Glitch-Zone, Junas Zufluchtsort), the alter names of 2025-04-18 and borrowed theories and works; everything it says of the novel's world went on existing pages and records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        21,
+        242
+      ],
+      "attribution": "",
+      "note": "Zero-Trust and entropy regulation as AEGIS's system logic"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        195,
+        239,
+        244,
+        250,
+        307
+      ],
+      "attribution": "",
+      "note": "AEGIS as the system whose logic the worlds and the Überwelt are to show"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        63,
+        135,
+        185,
+        186,
+        187,
+        188,
+        189,
+        283
+      ],
+      "attribution": "",
+      "note": "alter names set against each world in a table"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        215,
+        217,
+        220,
+        222,
+        224,
+        244,
+        285
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of the Grenzfeste"
+    },
+    {
+      "page": "did",
+      "lines": [
+        135,
+        173,
+        359
+      ],
+      "attribution": "",
+      "note": "DID as the reason atmosphere changes with the alter"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        21,
+        201,
+        212,
+        223,
+        234,
+        240,
+        242,
+        245,
+        256
+      ],
+      "attribution": "",
+      "note": "a manifestation of entropy proposed for every world"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        191,
+        248,
+        250,
+        256,
+        257,
+        329
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as a reality outside AEGIS, tied to Juna"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        217,
+        218
+      ],
+      "attribution": "",
+      "note": "KW3, the bunker world of Cerberus"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        186,
+        189,
+        204,
+        215,
+        217,
+        226,
+        228,
+        244,
+        246
+      ],
+      "attribution": "",
+      "note": "one Guardian per Kern-Welt in a table, five named in the Überwelt"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        202,
+        250,
+        257,
+        329,
+        331
+      ],
+      "attribution": "",
+      "note": "Juna as the origin or domain of the Externe Ebene"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        135,
+        173,
+        195,
+        263,
+        272,
+        283
+      ],
+      "attribution": "",
+      "note": "Kael as the one whose psyche the worlds mirror"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        263,
+        265,
+        266,
+        272
+      ],
+      "attribution": "",
+      "note": "the first of its key places, in KW1"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        189,
+        226,
+        231,
+        235,
+        244
+      ],
+      "attribution": "",
+      "note": "Kairos with Sophia as the Guardian pair of the fourth world"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        21,
+        63,
+        151,
+        186,
+        187,
+        188,
+        189,
+        191
+      ],
+      "attribution": "",
+      "note": "four Kern-Welten, each with a Guardian and a core concept"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        186,
+        195,
+        196,
+        198,
+        263
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as KW1, the world of logic"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        193,
+        198,
+        202,
+        244
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of the first world"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        204,
+        206,
+        213,
+        244
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the Guardian of the second world"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        228,
+        233,
+        298
+      ],
+      "attribution": "",
+      "note": "KW4, potential and chaos, with the Nexus interface"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        233,
+        244,
+        296,
+        298
+      ],
+      "attribution": "",
+      "note": "the Nexus as an interface place in KW4; a Firewall-Nexus in the Überwelt"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        187,
+        188,
+        282,
+        283
+      ],
+      "attribution": "",
+      "note": "an alter of KW2 and KW3, bound to the trauma place"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        21,
+        179,
+        191
+      ],
+      "attribution": "",
+      "note": "six Realitätsebenen, four of them Kern-Welten"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        206,
+        207,
+        274
+      ],
+      "attribution": "",
+      "note": "KW2, emotion, memory and trauma"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        63,
+        186,
+        187,
+        188,
+        189,
+        256
+      ],
+      "attribution": "",
+      "note": "typical Riss manifestations per world, and the uncanny"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        187,
+        189,
+        224,
+        283
+      ],
+      "attribution": "",
+      "note": "an alter of KW2 and KW4, bound to the trauma place"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        226,
+        228,
+        235,
+        244
+      ],
+      "attribution": "",
+      "note": "Sophia paired with Kairos in the fourth world"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        237,
+        239,
+        240,
+        242,
+        243,
+        246,
+        307
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the control layer, purely digital"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C9"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title), J12 and J16 (compounds with their own sense: Kern-Welt 1–4, Nexus-Interface Garten and Nexus-Schnittstelle — read on nexus — Cerberus' Firewall-Nexus, Trauma-Lokus, Glitch-Zone, AEGIS Analyse-Hub, Panopticon-ähnliche), J23 and J56 (inflections: Rissen, Kaels, Junas, Kern-Welten), J49 (the alter names Echo and Architekt are not the pages residual-echos and mnemosyne-server-architektur)",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    }
+  ],
+  "not_promoted": [
+    "the alter names Index, Architekt, Praetor, Nox, Echo, Flicker, Limina, Eos — on alters and Q3 only",
+    "Trauma-Lokus — not the page vergessener-schrein (the reader judged it a named place, not a hidden one)",
+    "Cerberus' Kernbunker, AEGIS Analyse-Hub, Glitch-Zone, Junas Zufluchtsort — on the pages of their worlds",
+    "Prospect-Refuge, das Unheimliche, Environmental Storytelling, Panopticon, Blade Runner, Silent Hill 2, Control — borrowed"
+  ],
+  "internal_tension": "`Nexus` names a place in KW4 (L233, L296) and a hub of Cerberus in the Überwelt (L244); the concept does not relate the two",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
