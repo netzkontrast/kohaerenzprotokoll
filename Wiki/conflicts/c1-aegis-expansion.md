@@ -172,3 +172,11 @@ Stands on position 1's side, as an account of other documents; recorded, not app
 The expansion stands in parentheses after AEGIS's name, in the sentence that says the world is defined by „unaufhörlichen Kampf gegen entropische Zerfallsprozesse“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L21]. The reference number is glued on the end of that sentence (reference 1, `Entropie: Narrative und digitale Welten`), so the compendium reports it from the author's document and does not weigh it. The guide is advice to the author for writing out the outline.
 
 Stands as position 1 again, reported and not weighed; recorded, not applied, and the record is not changed.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The scene outline's architecture analysis expands AEGIS as „Autonomous Entropic Gatekeeper for Integrity Systems“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L563], in the lexicon.**
+
+The lexicon (L556–L573, part of the architecture analysis, L409–L573) opens the AEGIS entry with „An acronym for“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L563] the expansion and continues „A non-anthropomorphic, autopoietic AI whose core function is to maintain system integrity by minimizing entropy and enforcing a rigid definition of coherence“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L563]. The scene outline part (L11–L407) gives no expansion.
+
+Stands as position 1 again, reported and not weighed; recorded, not applied, and the record is not changed.
