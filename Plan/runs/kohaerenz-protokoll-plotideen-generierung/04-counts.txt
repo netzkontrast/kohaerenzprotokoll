@@ -1,0 +1,110 @@
+# counts for 86 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Potentialmeer                    27 word    31 in   [15, 17, 19, 23, 24, 25]
+                                    3      as Potentialmeers
+                                    1      as Potentialmeer-Substrat
+  AEGIS                           179 word   184 in   [23, 24, 25, 28, 30, 40]
+                                    2      as AEGIS-Protokolle
+                                    1      as AEGIS-System
+                                    1      as AEGIS-Narrativ
+                                    1      as AEGIS-Rahmen
+  Kael                             42 word    75 in   [19, 25, 28, 43, 73, 87]
+                                   19      as Kaels
+                                    7      as Kael-Julia-Verbindung
+                                    2      as Kael-Modell
+                                    2      as Kael-Julia-Einheit
+  Julia                             5 word    16 in   [43, 73, 87, 119, 141, 153]  <-- substring
+  Kohärenz-Inseln                   1 word     1 in   [19]
+  Kohärenz-Insel                    3 word     4 in   [19, 28, 172, 188]
+                                    1      as Kohärenz-Inseln
+  Überwelt                          5 word     5 in   [43, 101, 273, 301, 313]
+  Kernwelten                       20 word    20 in   [43, 101, 109, 127, 147, 160]
+  Kael-Julia-Verbindung             7 word     7 in   [73, 87, 141, 166, 188, 333]
+  K-J-Verbindung                   37 word    37 in   [43, 51, 73, 93, 103, 121]
+  Kael-Julia-Einheit                2 word     2 in   [224, 227]
+  K-J-Einheit                       4 word     4 in   [233, 236, 243, 253]
+  Signatur                          4 word     7 in   [101, 301, 313, 314, 327]
+  Risse                             8 word    10 in   [57, 65, 93, 103, 166, 243]
+                                    2      as Rissen
+  Ontological Boundary Protocol     1 word     1 in   [55]
+  OBP                              12 word    14 in   [51, 55, 57, 63, 217, 233]
+  RIVE                              7 word     7 in   [63, 87, 101, 190, 298, 314]
+  PMAS                             10 word    11 in   [51, 63, 101, 111, 202, 298]
+                                    1      as PMAS-Fehler
+  SARM                              5 word     5 in   [63, 301, 302]
+  CCPP                              8 word     9 in   [51, 63, 119, 298, 300, 302]
+                                    1      as CCPP-Protokoll
+  Guardians                        15 word    15 in   [125, 129, 141, 143, 145, 164]
+  LogOS                             3 word     3 in   [129, 131, 152]
+  Mnemosyne                         4 word     5 in   [129, 132, 145, 153, 299]
+                                    1      as Mnemosynes
+  Cerberus                          3 word     3 in   [129, 133, 154]
+  Kairos                            3 word     3 in   [129, 134, 155]
+  Sophia                            4 word     4 in   [129, 135, 156, 299]
+  Konstrukt-Stadt                   3 word     3 in   [131, 152, 164]
+  Resonanz-Nebel                    3 word     3 in   [132, 153, 164]
+  Schattenlabyrinth                 3 word     3 in   [133, 154, 164]
+  Möglichkeitsstrom                 3 word     3 in   [134, 155, 164]
+  Nexus                             1 word     1 in   [156]
+  blinden Flecken                   4 word     4 in   [141, 145]
+  Blinde Flecken                    4 word     4 in   [125, 139, 147, 299]
+  Monstergruppe                     7 word     7 in   [172, 194, 196, 209, 267, 315]
+  Der Architekt                     1 word     1 in   [174]
+  Das Echo                          1 word     1 in   [174]
+  Der Wächter                       1 word     1 in   [174]
+  Der Sucher                        1 word     1 in   [174]
+  Der Funke                         1 word     1 in   [174]
+  Limina                            1 word     1 in   [174]
+  Nox                               1 word     1 in   [174]
+  Praetor                           1 word     1 in   [174]
+  Silas                             1 word     1 in   [174]
+  Alters                            3 word     3 in   [174, 306, 307]
+  DID                              10 word    10 in   [93, 109, 111, 170, 172, 307]
+  IFS                              18 word    21 in   [93, 170, 174, 182, 306, 307]
+  Sub-protokollar                   2 word     3 in   [186, 190, 313]
+                                    2      as sub-protokollare
+                                    1      as Sub-protokollare
+  Hitzetod                          1 word     1 in   [301]
+  Plot-Keime                        5 word     5 in   [290, 296, 304, 311, 318]
+  Dunamis                           2 word     2 in   [23]
+  Kreativität                      10 word    11 in   [24, 28, 134, 155, 164, 180]
+                                    1      as Kreativitäts-Scanning
+  Śūnyatā                           3 word     3 in   [25, 293, 348]
+  Infosphäre                        3 word     3 in   [26, 293]
+  It from Bit                       1 word     1 in   [36]
+  Ontischer Struktureller Realismus    1 word     1 in   [37]
+  OSR                               4 word     6 in   [37, 43, 294, 351, 357]
+  Digitale Physik                   3 word     3 in   [38, 278, 294]
+  Prozessphilosophie                4 word     4 in   [24, 39, 43, 294]
+  Konstruktivismus                  3 word     3 in   [40, 43, 308]
+  Autopoiesis                       8 word     9 in   [41, 47, 49, 51, 292, 361]
+  CAS                               6 word     6 in   [51, 61, 63, 65]
+  parakonsistente Logik             3 word     3 in   [71, 73]
+  Gödelsche Unvollständigkeitssätze    1 word     1 in   [75]
+  Ashbys Gesetz                     4 word     4 in   [89, 93, 95, 300]
+  Landauer-Prinzip                  2 word     2 in   [99, 301]
+  Kybernetik zweiter Ordnung        2 word     2 in   [105, 107]
+  KI-Alignment-Problem              2 word     2 in   [113, 115]
+  instrumentelle Konvergenz         1 word     1 in   [115]
+  Chinesisches Zimmer               3 word     3 in   [113, 121, 335]
+  Hard Problem                      9 word     9 in   [73, 121, 239, 245, 259, 314]
+  Qualia                            4 word     4 in   [73, 121, 245, 323]
+  VOA/CFT                           8 word     8 in   [73, 93, 204, 227, 279, 315]
+  Monstrous Moonshine               2 word     2 in   [204, 209]
+  Holographische Prinzip            2 word     2 in   [191, 213]
+  Russell-Paradoxon                 2 word     2 in   [235, 321]
+  Sorites-Paradoxon                 2 word     2 in   [237, 320]
+  Maxwell's Demon                   2 word     2 in   [243, 417]
+  Double Bind                       9 word    10 in   [156, 247, 249, 259, 322, 335]
+  Symmetriebrechung                 3 word     4 in   [263, 268, 269]
+                                    1      as Symmetriebrechungen
+  Internal Family Systems           5 word     5 in   [174, 307, 394, 395, 396]
+  Self-Leadership                   3 word     3 in   [180, 307, 327]
+  Exiles                            2 word     2 in   [176, 307]
+  Managers                          1 word     1 in   [177]
+  Firefighters                      2 word     2 in   [178, 307]
+  Dissoziativen Identitätsstörung    1 word     1 in   [172]
+  Environmental Storytelling        1 word     1 in   [306]
