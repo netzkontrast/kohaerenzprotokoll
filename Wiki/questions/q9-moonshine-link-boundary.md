@@ -204,3 +204,11 @@ The plan states a boundary by mechanism, not by place or distance.
 The report says the link „überträgt keine klassischen Logik-Pakete“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L149] and that its data reach the EPs Kiko and Lia: „Der Input erreicht die empfänglichen EPs“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L151]. It does not say whether the link is exclusive to a pair.
 
 Stands as one more statement on Q9's questions of what crosses and whose it is; the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline sets the Moonshine-Link as storyform A's Relationship Story throughline, in Physics, and Silas as its carrier.**
+
+The table has „Physics (Moonshine-Link)“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L31] for the RS throughline of A. Kapitel 5 foreshadows Silas as „spätere Bewahrer des Moonshine-Links“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L209], and Kapitel 17 has him activate it on the inside of the psyche.
+
+Stands as the outline's placement of the link in Physics, dated 2026-04-30; recorded, not applied.
