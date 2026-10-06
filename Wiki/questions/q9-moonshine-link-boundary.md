@@ -220,3 +220,11 @@ Stands as the outline's placement of the link in Physics, dated 2026-04-30; reco
 It says the link is „a non-local, sub-protocol bond“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L108] that „operates on a different ontological level from AEGIS's information-based reality“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L108], and that for AEGIS's sensors it registers only by secondary effects on Kael (L108).
 
 Stands with the link as non-local and outside AEGIS's reality; recorded, not applied, and Q9 stays open.
+
+## 2026-10-06 — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing
+
+**The briefing calls the Moonshine-Link non-local and acausal, structurally invisible to AEGIS's sensors.**
+
+„This is a non-local“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L98] connection (L98); „Because it is non-local and acausal, the link is structurally invisible to AEGIS's sensors“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L101] (L101).
+
+Stands as a statement of the boundary from AEGIS's side, dated 2025-10-15; recorded, not settling the question.
