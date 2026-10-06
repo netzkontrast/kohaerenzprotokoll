@@ -620,3 +620,11 @@ Stands on the five-Guardian side by the count of its sections, with no pairing s
 The concept extraction lists five: „Jeder Guardian ist für die Überwachung und Steuerung einer spezifischen Kernwelt zuständig“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L257] It pairs them in one list: „LogOS (Konstrukt-Stadt - Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L265], „Mnemosyne (Resonanz-Nebel - Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L266], „Cerberus (Schattenlabyrinth - Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L267], „Kairos (Möglichkeitsstrom - Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L268] and „Sophia (Nexus/Übergreifende Weisheit?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L269]. Four worlds are named (L241) for five Guardians; the document does not say that Kairos and Sophia share one. `Silas` stands once as one of ten Alters (L233), not among the Guardians.
 
 Stands as a fifth position on the count and pairing, a proposal with hedges; it decides nothing in C6.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review
+
+**The Bauplan review names Cerberus and Sophia as [[kael|Kael]]'s inner parts and counts no Guardians.**
+
+L126: „Beschützer-Anteilen wie Cerberus und Alex“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L126] — Cerberus beside Alex, as a protector part. L241: „archetypischen Figuren wie Echo oder Sophia“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L241] — Sophia beside Echo, as an archetypal figure among Kael's inner parts. It does not use the word Guardian for either.
+
+Stands as a document of 2025-07-29 that gives the two names as inner parts, outside the record's count and pairing of Guardians; the conflict is not decided.
