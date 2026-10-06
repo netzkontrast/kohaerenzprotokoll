@@ -221,3 +221,11 @@ Stands as a position that puts the Nexus inside KW4 with a link out to the Über
 Profile 25, `Nexus-Knoten`, is named „Interface zum Potenzial - KW4 (Möglichkeits-Garten)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L472] and is „Ein zentraler Punkt oder eine Schnittstelle in KW4, die den direkten Zugriff auf oder die Manipulation des reinen Potenzials ermöglicht“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L473]. The Überwelt is separately „Überwelt (AEGIS/Guardian-Domäne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L541].
 
 Stands as a KW4 reading of the Nexus, apart from the Überwelt; recorded, not applied, and the question stays open in the record's own terms.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto declares the Überwelt the primary control layer with every sub-reality nested in it, and names neither Nexus nor Überraum.**
+
+It declares „the primary computational control layer“ ^[aegis-manifest-genesis-krise-reboot.md:L55], and that sub-realities, firewalls and quarantine zones are „hierarchical dependencies nested strictly within the“ ^[aegis-manifest-genesis-krise-reboot.md:L61] Überwelt's execution thread. `Nexus` ^[aegis-manifest-genesis-krise-reboot.md:#0] and `Überraum` ^[aegis-manifest-genesis-krise-reboot.md:#0] do not appear; `Überwelt` ^[aegis-manifest-genesis-krise-reboot.md:#12].
+
+Where it stands in the record's own terms: one of the three names, the Überwelt, as a control layer in AEGIS's voice; it neither separates nor equates the others, and the question stays open.
