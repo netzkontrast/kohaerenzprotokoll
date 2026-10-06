@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 37
-readings: 38
+sources: 38
+readings: 39
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-protokoll-json", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "project-codex-the-canonical-narrative-architecture-of-kohaer", "plot-analyse-und-romanentwicklung", "welt", "kohaerenz-protokoll-scene-by-scene-outline", "plot-generation-framework-for-the-coherence-protocol"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-protokoll-json", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "project-codex-the-canonical-narrative-architecture-of-kohaer", "plot-analyse-und-romanentwicklung", "welt", "kohaerenz-protokoll-scene-by-scene-outline", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung"]
 gathered: "2026-09-17"
 ---
 
@@ -24,6 +24,10 @@ a structure within the Holomovement ^[kohaerenzprotokoll-aegis-und-systementropi
 The consequence for [[aegis|AEGIS]] is the point: it operates „ausschließlich innerhalb der
 expliziten Ordnung" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L58] and so cannot reach what is anchored in the
 implicate one. See [[blinder-fleck|Ontologischer blinder Fleck]].
+
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — the Potentialmeer as where the K-J-Essenz stands outside AEGIS
+
+The plot blueprint writes `Potentialmeer` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#2] twice. In the answer on the K-J-Essenz, the connection of Kael and Juna is „potenziell im Potentialmeer angesiedelt, jenseits der linearen Logik von AEGIS“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L34]; the same answer calls it a connection that „außerhalb von AEGIS' Logik existiert“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L34]. In step 2.8, Kael may glimpse „Einblick in AEGIS' Kernprogrammierung oder seine Ursprünge“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L440], with a reference to an `Erweiterter Kontext V2` beside the term.
 
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — the Potentialmeer as a meta-space of pure potentiality, with three open ontologies
 
