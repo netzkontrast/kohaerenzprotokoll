@@ -480,3 +480,11 @@ Stands as a pairing of three Guardians with three worlds, dated 2025-05-03; reco
 The five stand in Kapitel 16: „Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L47]. The pairing is written in the chapter lines: „LogOS (Guardian KW1)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], „Mnemosyne (Guardian KW2)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L31], „Cerberus (Guardian KW3)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L29]. Kairos and Sophia carry no world label in the concept (a plan, not a canon claim).
 
 Stands as a count of five with three pairings, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan
+
+**The subplot plan names five Guardians and sets them over four worlds, Kairos & Sophia together.**
+
+The plan's fourth arc names „(LogOS, Mnemosyne, Cerberus, Kairos & Sophia) als spezialisierte, nicht-anthropomorphe Agenten von AEGIS“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L22], with „Domänen (KW1-4, Überwelt)“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L22]. It places LogOS and Cerberus: „Einführung von LogOS (KW1) und Cerberus (KW3) als Agenten von AEGIS' Kontrolle und Abwehr“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L123]; Mnemosyne: „Einführung von Mnemosyne (KW2) und Konfrontation mit ihrer Rolle bei der Verwaltung von Erinnerungen/Emotionen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L124]; and the pair: „Einführung von Kairos & Sophia (KW4) und Interaktion mit ihrer Rolle bei der Steuerung von Potenzial“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134].
+
+Stands with position 1's pairing (five named Guardians, four worlds, Kairos and Sophia sharing one); recorded, not applied, and the record's rows are not changed.
