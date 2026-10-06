@@ -293,3 +293,11 @@ Stands as a document that places first-person voices in companion stories, dated
 Story 17 (AEGIS's Misalignment) is „Told from the perspective of AEGIS“ ^[coherence-protocol-a-39-part-narrative-arc.md:L46], and it ends on „revealing its core paradox: the problem is its solution“ ^[coherence-protocol-a-39-part-narrative-arc.md:L46]. Nothing in the line says first person.
 
 Stands as an outline's AEGIS-perspective story, dated 2025-11-03; the record is decided, and this does not touch it.
+
+## 2026-10-06 — `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, the planning report
+
+**The planning report proposes a story slot for AEGIS's perspective as log entries; it does not name the grammatical person.**
+
+In its table of open questions the antagonist row proposes the story slot „Voices from the Machine“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L213] and „Ein dedizierter Slot für AEGIS' Perspektive“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L359], as log entries, to reveal the Genesis-Krise and the Trennungsprotokoll; the same cell ends „AEGIS wird tragisch“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L359]. In its Hamilton mapping the first slot carries the same title with „Einführung von AEGIS“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L213] (its „Ch“ numbers are chapters of Hamilton's model, not of the novel).
+
+Stands as a proposal for a perspective slot in log form; whether it is first or third person, and whether it is one chapter, the report does not say. The question stays open in the record's terms.
