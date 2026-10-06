@@ -541,10 +541,11 @@
         "kohaerenz-protokoll-outline-revision-2026-05-01-md",
         "kohaerenz-protokoll-kapitel-outline-erstellung",
         "charaktere",
-        "finales-kausales-plot-geruest"
+        "finales-kausales-plot-geruest",
+        "the-coherence-protocol-a-definitive-guide-to-the-narrative-a"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "cerberus": {
@@ -1721,10 +1722,11 @@
         "kohaerenz-protokoll-gesamtkonzept-entwicklung",
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
-        "project-codex-the-canonical-narrative-architecture-of-kohaer"
+        "project-codex-the-canonical-narrative-architecture-of-kohaer",
+        "the-coherence-protocol-a-definitive-guide-to-the-narrative-a"
       ],
-      "sources": 91,
-      "readings": 91,
+      "sources": 92,
+      "readings": 92,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {

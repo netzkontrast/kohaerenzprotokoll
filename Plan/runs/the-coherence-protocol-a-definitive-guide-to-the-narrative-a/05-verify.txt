@@ -1,0 +1,78 @@
+# numbers stated in prose, with the command that produced each
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "canonical source of truth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`canonical source of truth` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#1]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "non-negotiable architectural mandate"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`non-negotiable architectural mandate` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#2]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "Overhead"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Overhead` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#5]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "K₁"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`K₁` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#8]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "K₀"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`K₀` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#9]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "Risse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Risse` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#3]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "Core Worlds"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Core Worlds` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#2]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#2]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "Kael"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Kael` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#25]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokoll` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#2]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "Construct City"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Construct City` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#1]
+$ read.py the-coherence-protocol-a-definitive-guide-to-the-narrative-a --count "Epistemological Axis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Epistemological Axis` ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:#1]
+stance_marker_count 3 = 1 + 2 (canonical source of truth + non-negotiable architectural mandate)
+$ grep -c '?' on body: profile says question marks 1 (01-profile.txt)
+6:  question marks       1
+roster rows, counted by hand from L135: Kael Lex Alex Rhys Nyx Kiko Lia Isabelle Moros Selene Argus = 11
+document lines 1 to 175 (profile: lines 175)
