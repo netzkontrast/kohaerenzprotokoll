@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 30
-readings: 30
+sources: 31
+readings: 31
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-konzeptionelle-themen-struktur"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ gathered: "2026-09-24"
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — the Collapse Kernel (K₀) as entropy and the motor of complexity
 
 The Definitive Guide writes `The Collapse Kernel (K₀)` in English: „This is the principle of entropy, information erasure, and irreversible change.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60] It acts as a „correspondence check“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60] on the structures of K₁, its function „explicitly equated with the physical process of“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60] quantum decoherence, and „This K₀ pressure is the primary motor for the evolution of complexity.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60]
+
+## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — K_0 in the Protokoll-Ontologie
+
+Reporting the Protokoll-Ontologie from a document it cites by digit, the paper names the collapse kernel, „dem Kollaps-Kernel, der Tendenz zur Entropie und Auflösung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L93] (L93), as the opposing side of the universe's primary conflict.
 
 ## Reading — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis — K0 as entropy, erosion and evolutionary filter
 
