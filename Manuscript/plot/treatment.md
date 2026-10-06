@@ -230,6 +230,7 @@ Namen sind offen [K Kernwelten]. Die vier Menschen aus KW1 bleiben dort zurück 
   [S39, K W10-B].
 - AEGIS setzt einen Checkpoint, der einen Weg sichert und einen anderen verschließt. Der Weg ist gesichert, die
   Klassifizierung scheitert [D 16].
+- AEGIS untersucht, warum Mnemosyne bewahrt, und lernt die Anomalie kennen, ohne sie zu verstehen [S39].
 - Was es kostet: Ein Gefühlswort steht als Wert ohne Typ im Log, der zweite Riss. Ein eigener Logbezug fehlt, und das
   Abwärmebudget sinkt [D 16, S43].
 - **Hook-out:** Mnemosynes Bewahren öffnet Kael eine Tür [D 16].
@@ -250,8 +251,8 @@ Namen sind offen [K Kernwelten]. Die vier Menschen aus KW1 bleiben dort zurück 
 - Kael steigt aus eigenem Entschluss ins Archiv der zehn Jahre hinab, ungerufen. Es ist seine erste eigene Wahl [S47].
 - Oblivion löscht vor ihm her, mit Namen, und sieht zum ersten Mal, was er löscht [A, D 18].
 - Lia hält einen Rest der Spur fest, während Oblivion den Rest entfernt **neu**.
-- Die Nacht wird von innen erfahrbar, ohne ihre Ursache. Auf der Ebene von B schimmert das Cluster der Genesis nur
-  [S39 Vorliebe, S42].
+- Die Nacht wird von innen erfahrbar, ohne ihre Ursache. Auf der Ebene von B schimmert das Cluster der Genesis nur,
+  aus dem AEGIS hervorging [S39 Vorliebe, S42].
 - Oblivion löscht noch einmal und zögert einmal [D 18].
 - Was sich nicht zurücknehmen lässt: Das Datum der Nacht ist gelöscht **neu**.
 - **Hook-out:** Der gerettete Rest erlaubt, den Kanal bewusst zu benutzen [D 18].
@@ -329,6 +330,8 @@ Namen sind offen [K Kernwelten]. Die vier Menschen aus KW1 bleiben dort zurück 
 - Die drei Lager stehen offen gegeneinander. Die Abwehr (Nyx, Alex) und die Vermeidung (Oblivion, Lex, Moros) halten
   ihn. Selene vermittelt und weiß, wer Juna war [K Lager, A].
 - Die Suche gewinnt: Rhys, Kiko, Lia, Silas [K Lager, A].
+- Auf der Seite von B verzeichnet AEGIS den Entschluss als Bewegung, die seine Klassifizierung aus Kap 22 widerlegt. Es
+  kann sie nicht einordnen, und Kaels Erinnerung drückt **neu**.
 - Kael wählt den Weg zu Juna und gibt den sicheren Rückzugspunkt auf. Diesmal ist es ganz seine Wahl [D 26, S27].
 - Was sich nicht zurücknehmen lässt: Seine Überlebensordnung ist nicht mehr verfügbar, der letzte sichere Rückzugsort
   entfällt [D 26, S44].
@@ -358,6 +361,7 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 - Es berechnet den Eingriff und findet einen belegten Nutzen für andere, den Kaels Verbindung stört [D 28]. Der Purge
   richtet sich gegen jede Bewegung, das letzte Sweep [S46].
 - Der Zugriff gelingt zum Teil. Derselbe Zugriff, der schützt, gefährdet Juna [D 28].
+- Der Purge verbraucht mehr Abwärmebudget als jeder Sweep zuvor [S43].
 - Was es kostet: AEGIS kann sich an einen früheren Schutzentscheid nicht mehr erinnern, und der Riss in seinem Ich wächst
   [D 28].
 - **Hook-out:** Juna ist in Gefahr [S27].
@@ -400,6 +404,8 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 - Kael stellt eine konkrete Frage. Juna verfolgt ihr eigenes Vorhaben, statt seine Erinnerung zu bestätigen. Sie sieht,
   was wirklich ist [D 32, S46].
 - Die Begegnung ist real, aber Nähe löst die Trennung nicht [D 32].
+- Auf der Seite von B sieht AEGIS nur die Bewegung: Kael geht auf Juna zu, bevor er es beschließt, ein Reflex, den AEGIS
+  nicht klassifizieren kann **neu**.
 - Was es kostet: Kael muss ein geliebtes Bild von sich aufgeben [D 32].
 - **Hook-out:** Die Verbindung ist jetzt für beide gefährdet [D 32].
 - *Storypoints:* B-IC Symptom Oppose, B-IC Response Support, B-IC Benchmark Memory, A-IC Unique Ability Actuality,
@@ -461,6 +467,8 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 ### Kap 38 — Das Rauschen
 - Kael und Juna wollen eine gemeinsame Zukunft verhandeln, während das Rauschen wächst [D 38].
 - Die Anteile handeln als Wir [A].
+- Das Rauschen ist AEGIS' Sterben, auf Kaels Seite hörbar: Was das Abwärmebudget nicht mehr hält, kommt als Rauschen
+  herein **neu** (Vorschlag der Strukturprüfung zu Akt II bis Vortex).
 - Sie vereinbaren eine begrenzte nächste Handlung, die jeder von beiden ablehnen darf [D 38].
 - Was es kostet: Beide verzichten darauf, die Antwort des anderen zu kontrollieren [D 38].
 - **Hook-out:** Die Vereinbarung hat eine erste Folge [D 38].
@@ -503,7 +511,9 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
    - Kap 17: Juna hat sich den Ort genommen, den sie in Kap 4 wollte und in Kap 11 hergab;
    - Kap 18: Lia hält den Rest fest, das Datum der Nacht ist gelöscht;
    - Kap 20: die zwei Zugänge, der Kanal und der Weg zum geborgenen Rest;
-   - Kap 25: Juna spricht, wo sie früher schwieg.
+   - Kap 25: Juna spricht, wo sie früher schwieg;
+   - Kap 26: AEGIS verzeichnet Kaels Entschluss als Bewegung, die seine Klassifizierung widerlegt (die B-Hälfte der
+     Brücke, 2026-10-06 nach der Strukturprüfung ergänzt).
 3. Kaels Wahlen in Akt II: die erste eigene in Kap 18 [S47], die ganze in Kap 26 [S27]. Dazwischen handeln die Anteile
    und AEGIS an ihm. Das Gutachten zum Treatment fragte, ob das trägt (`Plan/runs/writing/akt-1/developmental-editor_2026-10-05.md`, Diagnose 3).
 4. Die Arbeitsnamen Mnemosyne-Archipel und Cerberus-Labyrinth, solange Q5 offen ist.
@@ -514,7 +524,11 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 2. Die Stellen, die **neu** sind:
    - Kap 33: die Aufgabe an Junas Ort, und sie lässt ihn hinein. Damit läuft der Ort durch das Buch: gewollt (Kap 4),
      hergegeben (Kap 11), genommen (Kap 17), geteilt (Kap 33);
-   - Kap 39: am Abend steht etwas nicht auf null, und der Tag ist nicht falsch, als Spiegel von Kap 1.
+   - Kap 39: am Abend steht etwas nicht auf null, und der Tag ist nicht falsch, als Spiegel von Kap 1;
+   - Kap 32: AEGIS sieht nur die Bewegung, Kaels Reflex auf Juna zu, und kann ihn nicht klassifizieren;
+   - Kap 38: Das Rauschen ist AEGIS' Sterben, auf Kaels Seite hörbar. Das schließt auch die Nähte 37→38 und 38→39.
+   Die drei B-Sätze in Kap 26, 32 und 38 kamen am 2026-10-06 dazu, weil `storyform.py` meldete, dass diese Brücken nur
+   ihre A-Hälfte erzählten (`Plan/runs/writing/akt-2-vortex/scene-architecture_2026-10-06.md`).
 3. Wo Oblivion zum ersten Mal wählt: Kap 37 ist ein Vorschlag. Entschieden ist nur, dass er es tut (Q8).
 4. Wie das plurale AEGIS in Kap 39 klingt. C14 regelt nur das Ich bis Kap 28.
 5. Der Arbeitsname Möglichkeits-Garten, solange Q5 offen ist.
