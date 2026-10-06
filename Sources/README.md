@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 112 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 112 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 113 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 113 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -587,7 +587,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz-Analyse: Kapitel 2](drive/kohaerenz-analyse-kapitel-2.md) | 2025-12-28 | 2,681 |  | Oblivion 3, Genesis 6, Konstrukt-Stadt 7, Grenzfeste 2, Cache-Kohärenz 2, Resonanz-Landschaft 2, Cerberus 4, LogOS 6 | Wir-Geflecht 3, Blinder Fleck 3, Praetor 3, Nox 3, Limina 2 |
 | [Roman-Kapitel 1 Erstellung & Analyse](drive/roman-kapitel-1-erstellung-analyse.md) | 2025-12-28 | 3,443 |  | Cache-Kohärenz 3, Konstrukt-Stadt 9, LogOS 10, Kairos 4, Cerberus 3, Mnemosyne 3, Guardians 3, Juna 8 | Nox 7, Zero-Trust-Architektur 2, Stadt 11, Depersonalisation 2, Kohärenz-Protokolls 3 |
 | [KI-Architektur für Kohärenz und Skalierbarkeit](drive/ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md) | 2026-01-02 | 3,940 |  | Vortex 3, Personas 2, Entropie 8, Kohärenz 8 | KG 4, Constitutional AI 3, Neo4j 3, LLM 17, Graph 9 |
-| [Kohärenz Protokoll: The Official Master Story Guide](drive/kohaerenz-protokoll-the-official-master-story-guide.md) | 2026-01-02 | 2,982 |  | Kollaps-Kernel 3, Kohärenz-Kernel 2, Dual-Kernel-Theorie† 2, Moonshine-Link 3, TSDP 5, Guardians 2, Alters 2, Juna 2 | Exclusionary Order 2, Core World 2, Protector 4, Episteme 2, Protocol 9 |
+| [Kohärenz Protokoll: The Official Master Story Guide](drive/kohaerenz-protokoll-the-official-master-story-guide.md) | 2026-01-02 | 2,982 | **read** | Kollaps-Kernel 3, Kohärenz-Kernel 2, Dual-Kernel-Theorie† 2, Moonshine-Link 3, TSDP 5, Guardians 2, Alters 2, Juna 2 | Exclusionary Order 2, Core World 2, Protector 4, Episteme 2, Protocol 9 |
 | [Narrative Architecture Dossier: Coherence Protocol](drive/narrative-architecture-dossier-coherence-protocol.md) | 2026-01-02 | 3,011 |  | Cache-Kohärenz† 3, Rhys 3, Lex 5, Nyx 4, Kiko 3, TSDP 4, Entropie† 6, Risse† 7 | THE DIGITAL OVERWORLD 2, Transcendence 4, Correspondence 6, Genesis-Krise 9, The_Void_ 3 |
 | [Projekt Ockham: Narrative Systemik Reduktion](drive/projekt-ockham-narrative-systemik-reduktion.md) | 2026-01-02 | 4,678 |  | Dual-Kernel-Theorie 6, Juna 5, Überwelt 8, Entropie 4, Kael 20, Kohärenz 4, AEGIS 7 | NovelOS 28, BDI 6, SQLite 5, Python 8, Neo4j 4 |
 | [The Coherence Protocol: A Narrative Design & World Architecture Document](drive/the-coherence-protocol-a-narrative-design-world-architecture.md) | 2026-01-02 | 3,772 |  | Coheron 2, Gödel-Gambit 3, AEGIS' four sub-functions 2, Moonshine-Link 6, Dual-Kernel-Theorie† 3, Nichts-Rauschen 4, Selene 4, Moros 3 | Elara 4, Swamp 2, Introject 3, Sentinel 2, Classical Logic 4 |

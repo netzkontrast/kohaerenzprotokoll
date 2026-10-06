@@ -1,0 +1,198 @@
+{
+  "document": "kohaerenz-protokoll-the-official-master-story-guide",
+  "drive_id": "10h0wm-7yXp5AGySyAWJG2Mzf-aT8NSKaV5JZRzlSY3g",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 28,
+  "typographic_marks": 10,
+  "ascii_quotes": 88,
+  "inflection_families": {
+    "archi": [
+      "Archipel",
+      "Architecture",
+      "Architectures",
+      "Archivist"
+    ],
+    "contr": [
+      "Contradiction",
+      "Contradictory",
+      "Control"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrative"
+    ],
+    "opera": [
+      "Operational",
+      "Operationally",
+      "Operator"
+    ],
+    "ratio": [
+      "Rationale",
+      "Rationalist",
+      "Rationalization"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic"
+    ],
+    "creat": [
+      "Creates",
+      "Creative"
+    ],
+    "execu": [
+      "Execution",
+      "Executive"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "incon": [
+      "Inconsistency",
+      "Inconsistent"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "multi": [
+      "Multiple",
+      "Multiplicity"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontology"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis"
+    ],
+    "prote": [
+      "Protector",
+      "Protectors"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "resol": [
+      "Resolution",
+      "Resolutions"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonanz"
+    ],
+    "seman": [
+      "Semantic",
+      "Semantik"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategy"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theory"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Child",
+      "Schwarzschild"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Entity",
+      "Identity"
+    ],
+    [
+      "Nature",
+      "Signature"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Diction",
+      "Contradiction"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ],
+    [
+      "Protector",
+      "Protectors"
+    ],
+    [
+      "Resolution",
+      "Resolutions"
+    ],
+    [
+      "Operational",
+      "Operationally"
+    ],
+    [
+      "Architecture",
+      "Architectures"
+    ]
+  ]
+}

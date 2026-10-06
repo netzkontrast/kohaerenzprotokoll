@@ -224,10 +224,11 @@
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
         "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
-        "welt"
+        "welt",
+        "kohaerenz-protokoll-the-official-master-story-guide"
       ],
-      "sources": 50,
-      "readings": 50,
+      "sources": 51,
+      "readings": 51,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -1602,10 +1603,11 @@
         "romanprojekt-analyse-synthese",
         "plot-analyse-und-romanentwicklung",
         "romananalyse-kohaerenz-plot-kritik",
-        "welt"
+        "welt",
+        "kohaerenz-protokoll-the-official-master-story-guide"
       ],
-      "sources": 84,
-      "readings": 84,
+      "sources": 85,
+      "readings": 85,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1765,10 +1767,11 @@
         "the-coherence-protocol-a-definitive-guide-to-narrative-archi",
         "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
         "plot-analyse-und-romanentwicklung",
-        "romananalyse-kohaerenz-plot-kritik"
+        "romananalyse-kohaerenz-plot-kritik",
+        "kohaerenz-protokoll-the-official-master-story-guide"
       ],
-      "sources": 97,
-      "readings": 98,
+      "sources": 98,
+      "readings": 99,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2001,10 +2004,11 @@
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
         "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "kohaerenz-protokoll-the-official-master-story-guide"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2415,10 +2419,11 @@
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
         "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
-        "welt"
+        "welt",
+        "kohaerenz-protokoll-the-official-master-story-guide"
       ],
-      "sources": 63,
-      "readings": 63,
+      "sources": 64,
+      "readings": 64,
       "conflict": "none"
     },
     "lia": {
@@ -3150,10 +3155,11 @@
         "romanprojekt-analyse-synthese",
         "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte",
         "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
-        "welt"
+        "welt",
+        "kohaerenz-protokoll-the-official-master-story-guide"
       ],
-      "sources": 62,
-      "readings": 62,
+      "sources": 63,
+      "readings": 63,
       "conflict": "C10"
     },
     "oblivion": {
@@ -3782,10 +3788,11 @@
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "romanprojekt-analyse-synthese",
         "plot-analyse-und-romanentwicklung",
-        "romananalyse-kohaerenz-plot-kritik"
+        "romananalyse-kohaerenz-plot-kritik",
+        "kohaerenz-protokoll-the-official-master-story-guide"
       ],
-      "sources": 43,
-      "readings": 43,
+      "sources": 44,
+      "readings": 44,
       "conflict": "C11"
     },
     "snk": {
