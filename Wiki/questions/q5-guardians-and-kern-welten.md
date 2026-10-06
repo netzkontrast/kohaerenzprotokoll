@@ -537,3 +537,11 @@ Where it stands: the catalogue gives three Guardian/world pairs and the four wor
 Its table rows read „KW1: Construct City (LogOS)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L89], „KW2: Resonance Landscape (Mnemosyne)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L90], „KW3: The Fortress (Cerberus)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L91] and „KW4: Garden of Possibility (Kairos/Sophia)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L92] (L89–L92).
 
 Stands as a pairing of four worlds with four Guardian labels, dated 2025-11-03; recorded, not applied, and Q5 stays open.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept answers the pairing with a table: one Guardian cell per level, in the same table as the six [[realitaetsebenen|Realitätsebenen]].**
+
+Table 1 (L119–L124) gives the Guardian column: LogOS, Mnemosyne, Cerberus, „Kairos/Sophia“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L122] for KW1–KW4, „AEGIS, Guardians“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L123] for the Überwelt and Juna for the Externe Ebene (L124). Each level block names its Guardian in its first field, as „Sie ist die Domäne des Guardians LogOS“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L128] for KW1.
+
+Stands as a document that pairs, in the conditional; the record's question is not settled by it.
