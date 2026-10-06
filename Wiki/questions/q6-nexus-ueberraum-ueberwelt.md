@@ -173,3 +173,11 @@ Stands as one more placement of the Nexus beside the Möglichkeits-Garten, by a 
 At Plot Point 1 (Kapitel 13): „Dies fällt oft mit dem Eintritt in die instabile Überwelt oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91]. In the Guardians' analysis of Kael (Kapitel 14-17): „Kael befindet sich im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108]. The second line gives the Überwelt to AEGIS. The beat sheet does not say whether the two are one space, one inside the other or two.
 
 Stands as one more placement with an or, hedged by `oft` at its first use; the question stays open.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint gives the Überwelt as AEGIS's meta-level and code level, and a Nexus-Interface Garten only as a place in KW4; no Überraum.**
+
+In both passes: „Die Überwelt ist die Meta-Ebene von AEGIS“ ^[welt.md:L68], „ihr Kontrollzentrum und ihre Code-Ebene“ ^[welt.md:L117], not directly experienced like the Kernwelten. In KW4 (second pass): `Nexus-Interface Garten` (in straight quotation marks), „ist ein spezifischer Ort hier“ ^[welt.md:L111]. The blueprint does not place that garden in the Überwelt and does not say how it relates to the Überwelt.
+
+Stands as the Überwelt placed with AEGIS and a Nexus-Interface Garten placed in KW4; recorded, the question stays open.
