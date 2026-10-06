@@ -277,3 +277,11 @@ Where it stands in the record's own terms: Chapter P is planned in a distant myt
 Its logs: Story 3 has „An AEGIS System Log.“ ^[plot-generation-framework-for-the-coherence-protocol.md:L36] as POV. Its core logic: Story 14 has „Component 734 (AEGIS Core Logic).“ ^[plot-generation-framework-for-the-coherence-protocol.md:L96] and Chapter 14 plans „Shift the POV to AEGIS's core logic (Component 734) as it observes Kael's new integration“ ^[plot-generation-framework-for-the-coherence-protocol.md:L255]. The document, dated 2025-11-03, does not write the grammatical person.
 
 Where it stands: a proposal recorded before the author's decision of 2026-10-05; the record's status is unchanged.
+
+## 2026-10-06 — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture
+
+**The dual plot architecture offers first-person stories in its short-story mosaic, not chapters: one from the I-fragment, one from a Guardian's logs.**
+
+L148: „A story from the first-person perspective of the minimal“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L148] I-fragment of the Nichts Rauschen. L149: „The narrative would consist of its internal logs“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L149], told by a Guardian such as Mnemosyne. Its chapter structure (L114–L132) holds no first-person AEGIS chapter.
+
+Stands as a document that places first-person voices in companion stories, dated 2025-11-03; the conflict is not decided.
