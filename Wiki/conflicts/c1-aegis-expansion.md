@@ -196,3 +196,11 @@ Stands: position 1 again, from a plan written in the conditional; it neither add
 It goes on: „verkörpert der Antagonist AEGIS“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L33] the coherence kernel.
 
 Stands as position 1 of C1 again; no new position.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots expands AEGIS as „Autonomous Entropic Gatekeeper for Integrity Systems (AEGIS)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L17], once, and then uses the acronym alone.**
+
+It gives the goal of AEGIS as stability, order and predictability through minimising entropy.
+
+Stands as another witness of the expansion in the record's position 1, dated 2025-05-02; recorded, not applied.
