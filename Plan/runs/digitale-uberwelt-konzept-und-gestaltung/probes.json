@@ -1,0 +1,246 @@
+{
+  "document": "digitale-uberwelt-konzept-und-gestaltung",
+  "drive_id": "1A0jhNWYe8ATF4OK-71tPw2hwUGQZ1-EhY3etkuvGNVQ",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 13,
+  "backslash_escapes": 92,
+  "typographic_marks": 6,
+  "ascii_quotes": 96,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systembiografie",
+      "Systementwicklung",
+      "Systemfehler",
+      "Systemfluss",
+      "Systemgrenzen",
+      "Systemic",
+      "Systemische",
+      "Systemkohärenz",
+      "Systemkonfiguration",
+      "Systemparameter",
+      "Systemprozesse",
+      "Systems",
+      "Systemstabilität",
+      "Systemzustände"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenaustausch",
+      "Datenknoten",
+      "Datenraum",
+      "Datensatz",
+      "Datenströme",
+      "Datensätze",
+      "Datenvalidierung",
+      "Datenvisualisierung",
+      "Datenänderung"
+    ],
+    "archi": [
+      "Architecture",
+      "Architektonische",
+      "Architektur",
+      "Architekturen"
+    ],
+    "ident": [
+      "Identifizierung",
+      "Identity",
+      "Identität",
+      "Identitäten"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfeld",
+      "Informationszuständen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktions",
+      "Interaktionsmetaphorik",
+      "Interdisciplinary"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzmetriken",
+      "Kohärenzprognose",
+      "Kohärenzvalidierung"
+    ],
+    "konst": [
+      "Konstrukt",
+      "Konstrukte",
+      "Konstrukten",
+      "Konstruktion"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widersprüche",
+      "Widersprüchen"
+    ],
+    "agent": [
+      "Agent",
+      "Agentic",
+      "Agents"
+    ],
+    "austa": [
+      "Austausch",
+      "Austauschprozesse",
+      "Austauschs"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungswahrscheinlichkeiten"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlern"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity",
+      "Integrität"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeption",
+      "Konzepts"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozesses"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstprüfung",
+      "Selbstverweisungskette"
+    ],
+    "topol": [
+      "Topological",
+      "Topologie",
+      "Topologische"
+    ],
+    "visua": [
+      "Visualisierungsverfahren",
+      "Visualization",
+      "Visualizations"
+    ],
+    "abwei": [
+      "Abweichung",
+      "Abweichungen"
+    ],
+    "affek": [
+      "Affektive",
+      "Affekts"
+    ],
+    "aktio": [
+      "Aktion",
+      "Aktionen"
+    ],
+    "algor": [
+      "Algorithmischen",
+      "Algorithmus"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Egan",
+      "Egans"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Deformation"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Verformungen"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsfeld"
+    ],
+    [
+      "Form",
+      "Informationszuständen"
+    ],
+    [
+      "Raum",
+      "Raumes"
+    ],
+    [
+      "Raum",
+      "Datenraum"
+    ],
+    [
+      "Raum",
+      "Phasenraum"
+    ],
+    [
+      "Raum",
+      "Raummodell"
+    ],
+    [
+      "Real",
+      "Realität"
+    ],
+    [
+      "Real",
+      "Realitäten"
+    ],
+    [
+      "Takt",
+      "Taktil"
+    ]
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "document": "digitale-uberwelt-konzept-und-gestaltung",
+  "drive_id": "1A0jhNWYe8ATF4OK-71tPw2hwUGQZ1-EhY3etkuvGNVQ",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 78,
+    "decisions": 82,
+    "decided_by_lookup": 64,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        45,
+        66,
+        78
+      ],
+      "attribution": "",
+      "note": "SIS and the Zero-Trust Environment Mandate as protocols of the Überwelt"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        17,
+        21,
+        25,
+        100,
+        110,
+        141
+      ],
+      "attribution": "",
+      "note": "AEGIS as the autopoietic system whose operative reality the Überwelt is"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        100,
+        104
+      ],
+      "attribution": "",
+      "note": "Alters as parts the system treats as data nodes"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        66
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Überwelt's immune system"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        13,
+        21,
+        66,
+        110
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the negation of entropy"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        54,
+        86,
+        94
+      ],
+      "attribution": "",
+      "note": "the Guardians as subject-less subsystems of AEGIS"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        141
+      ],
+      "attribution": "",
+      "note": "Juna as the exiled original self and AEGIS's target"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        100,
+        141
+      ],
+      "attribution": "",
+      "note": "Kael as the protagonist whose psyche the Überwelt is coupled to"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        70
+      ],
+      "attribution": "",
+      "note": "Kairos as the adaptive element"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        107
+      ],
+      "attribution": "",
+      "note": "Kiko's glitches as stuttering time"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        11,
+        17,
+        25
+      ],
+      "attribution": "",
+      "note": "Kohärenz as AEGIS's criterion in place of truth, and as the quantity φ(t)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        50
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as administrative centre"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        58,
+        86
+      ],
+      "attribution": "",
+      "note": "LogOS as the system's constructed logic"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        60,
+        62
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the translator of affect"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        108
+      ],
+      "attribution": "",
+      "note": "Moros's glitches as grey decay of matter"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Nyx's glitches as violent physical anomalies"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        104,
+        110
+      ],
+      "attribution": "",
+      "note": "Risse as Correspondence Errors of Kael's self-protocol"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        74
+      ],
+      "attribution": "",
+      "note": "Sophia as holistic analysis"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        98,
+        100
+      ],
+      "attribution": "",
+      "note": "TSDP as the Systemfehler the Überwelt is coupled to"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        13,
+        17,
+        21,
+        31,
+        100,
+        122,
+        126,
+        136
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's operative reality, where existence is conditional on function"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C11",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 13,
+      "decision": "reading",
+      "why": "AEGIS as gatekeeper of entropy in the Überwelt's framing, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
