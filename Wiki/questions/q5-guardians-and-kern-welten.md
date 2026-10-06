@@ -409,3 +409,11 @@ Stands: five Guardians over four worlds, KW4 held by two, as the report cites it
 The line reads „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[romanprojekt-analyse-synthese.md:L153]; Kairos and Sophia are separate names, with a comma between them, not a slash form or a pair. They are to act as specialised filter algorithms, each a defensive wall in Kael's psyche, and to fail by „logische Überladung“ ^[romanprojekt-analyse-synthese.md:L153]. `Kernwelt` ^[romanprojekt-analyse-synthese.md:#0] and `KW` ^[romanprojekt-analyse-synthese.md:#0] do not stand in the document, and it names no Erasure-Pol.
 
 Stands: five Guardians, none paired with a world, in a plan of 2026-04-30; nothing decided, and the question stays open.
+
+## 2026-10-06 — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept
+
+**The Erlebniswelten concept names one guardian in brackets after each of the four worlds, KW4's as the slash form `Kairos/Sophia`.**
+
+The four lines of its list read „KW1: Konstrukt-Stadt (LogOS):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L17], „KW2: Resonanz-Landschaft (Mnemosyne):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18], „KW3: Grenzfeste (Cerberus):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L19] and „KW4: Möglichkeits-Garten (Kairos/Sophia):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L20]. The concept calls none of the names a Guardian and says nothing further of them; Sophia comes once more, in Selene's entry, hedged: „Sie könnte eine besondere Verbindung zu Sophia haben“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L46]. It does not mention an Erasure-Pol.
+
+Where it stands in the record's own terms: four worlds, four bracketed names, KW4's with two, in a concept of 2025-04-29; it pairs and settles nothing about five Guardians, and the question stays open.
