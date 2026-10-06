@@ -1,0 +1,82 @@
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Zweck"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zweck` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#1]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Methodologie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Methodologie` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#1]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Strukturübersicht"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Strukturübersicht` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#1]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Kernkonflikt"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            16
+
+`Kernkonflikt` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#15]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Narrativer Nutzen"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Narrativer Nutzen` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#15]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Die Herausforderung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Die Herausforderung` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#2]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Kernwelten"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kernwelten` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#7]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Moonshine-Link"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Link` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#2]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Paradoxon X"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Paradoxon X` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#14]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Cache Kohärenz"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Cache Kohärenz` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#8]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Pressure Points"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Pressure Points` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#7]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "PP-INT-01"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PP-INT-01` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#1]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik --count "Kohärenz Protokoll"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kohärenz Protokoll` ^[kael-charakterarchitektur-und-konfliktdynamik.md:#5]
+$ grep -c "^| PP-" Sources/drive/kael-charakterarchitektur-und-konfliktdynamik.md
+13
+stance_marker_count = 1 (Zweck) + 1 (Methodologie) + 1 (Strukturübersicht) + 15 (Kernkonflikt) + 15 (Narrativer Nutzen) = 33
+Die Herausforderung: 2 words, one is the label at L17, the other is L135 "Die Herausforderung besteht darin" (not a label)
