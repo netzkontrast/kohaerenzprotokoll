@@ -230,3 +230,11 @@ Stands as a plan, in the conditional (könnte, vielleicht); it uses neither `Bas
 It connects Juna/V to the „Externe Ebene“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L104] (External Level), „a realm that exists outside of AEGIS's simulation“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L104] (L104).
 
 Stands with the Externe Ebene beyond the simulation, dated 2025-11-03; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept holds the Externe Ebene wholly outside AEGIS's control, with its nature unknown.**
+
+The definition: „Eine Realität, die vollständig außerhalb des AEGIS-Kontrollsystems existiert“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L183], and „Ihre genaue Natur ist unbekannt“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L183]; AEGIS „AEGIS hat hier mutmaßlich keine Kontrolle und möglicherweise nicht einmal Sensorik“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L206]. Kael might find there „einen Weg zur endgültigen Befreiung aus der Simulation“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L210] (L210), and „Dies ist Junas Herkunftsort, ihre Domäne oder die Quelle ihrer Fähigkeiten“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L210].
+
+Stands as a position that the Externe Ebene lies beyond the simulation's control system, dated 2025-04-18, in the conditional.
