@@ -593,3 +593,11 @@ Stands as a fifth-Guardian-on-the-Überwelt pairing with a question mark, dated 
 „Überwacht die Konstrukt-Stadt (Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L131]; „Überwacht den Resonanz-Nebel (Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L132]; „Überwacht das Schattenlabyrinth (Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L133]; „Überwacht den Möglichkeitsstrom (Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L134]. The pairing is part of an analysis whose table is marked „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147].
 
 Stands with a pairing of LogOS, Mnemosyne, Cerberus and Kairos to these four worlds; recorded, nothing decided.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction
+
+**The concept extraction sets the five Guardians against the four worlds' names in one list, the fifth world a `Nexus` with a question mark.**
+
+The pairs: „LogOS (Konstrukt-Stadt - Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L265], „Mnemosyne (Resonanz-Nebel - Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L266], „Cerberus (Schattenlabyrinth - Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L267], „Kairos (Möglichkeitsstrom - Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L268], „Sophia (Nexus/Übergreifende Weisheit?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L269]. The extraction gives the pairing as its own proposal („Könnte“ at each line), after writing that each Guardian is responsible for one Kernwelt (L257).
+
+Stands as one more answer to the pairing, a proposal; nothing is decided.
