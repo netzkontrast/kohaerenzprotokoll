@@ -1,10 +1,10 @@
 ---
 id: W11
 status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
-hängt_ab_von: [C6, Q5, W10-B]
+hängt_ab_von: [C6, Q5, W10-B, W17]
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: "Treatment Kap 0–40 nennt nur Mnemosyne und Cerberus"
-empfehlung: "C"
+empfehlung: "C, oder A, wenn W17 D gewählt wird"
 ---
 
 # W11 — Die Guardians auf der Seite: Figuren in Szenen oder Teile von AEGIS?
@@ -57,3 +57,10 @@ die Zuordnung der Guardians zu den Welten, wird für C nicht gebraucht.
 
 **Frage an dich:** Sprechen Sophia, LogOS und Kairos nur in AEGIS' Kapiteln, und Mnemosyne und Cerberus handeln als
 Welten?
+
+## Nachtrag 2026-10-06: an W17 gekoppelt
+
+Die kritische Durchsicht (S7, W-B) zeigt, dass die Elemente der Guardians in B denen der vier Menschen in A gleichen
+(Tabelle in W17). Wählst du dort **D**, treten Sophia, LogOS, Kairos und Mnemosyne als Figuren in Kaels Welten auf. Dann
+ist hier **A** die Folge, mit der Zuordnung der Guardians zu den Welten (Q5). Wählst du in W17 A, B oder C, bleibt die
+Empfehlung C dieses Blatts. **Die Empfehlung hier hängt also an W17.** Ich rate zu W17 D und damit zu W11 A.

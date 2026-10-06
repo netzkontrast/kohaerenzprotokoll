@@ -1,10 +1,10 @@
 ---
 id: W17
 status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
-hängt_ab_von: [W10-A, Schritt 39]
+hängt_ab_von: [W10-A, W10-B, W11, Schritt 39]
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: "Strukturprüfung Akt II–Vortex: die Archetypen verschwinden nach Kap 14"
-empfehlung: "B"
+empfehlung: "D, mit der Rückkehr der alten Frau aus C"
 ---
 
 # W17 — Wer trägt A's Archetypen nach KW1?
@@ -53,3 +53,37 @@ werden, schließt sich, wenn Kael sie im Wir-Kapitel erinnert. Die übrigen Funk
 `a.json` players (W10-A ergänzt), `anteile.json`, Kap 14–39 in `development.json`.
 
 **Frage an dich:** A, B oder C?
+
+## Nachtrag 2026-10-06: Option D aus der kritischen Durchsicht
+
+Die unabhängige Durchsicht (`Plan/runs/storyform-2026-10-06/kritische-durchsicht.md`, S7 und W-B) hat bemerkt, was
+dieses Blatt übersehen hatte. Die Elemente der vier Menschen in A und der vier Guardians in B sind **paarweise
+gleich**:
+
+| A, Mensch in KW1 | Archetyp | Elemente | B, Guardian |
+|---|---|---|---|
+| Mara | Guardian | Help, Conscience | Sophia |
+| Dorn | Contagonist | Hinder, Temptation | Mnemosyne |
+| die alte Frau | Sidekick | Support, Faith | LogOS |
+| die Kollegin | Skeptic | Oppose, Disbelief | Kairos |
+
+- **D — Übergabe nach Element.** Ab KW2 tragen die Guardians in Kaels Welten die Funktion, die der Mensch mit
+  denselben Elementen in KW1 trug.
+  - **Gewinn:** Die Lücke der 26 Kapitel schließt sich, ohne dass eine Figur erfunden wird. Sophia, LogOS und Kairos
+    bekommen Szenen (W11). A und B teilen ihr Personal, und das ist der Plan der einen Prämisse auf der Ebene der Figuren.
+  - **Kosten:** Die Guardians treten in hard-a-Kapiteln auf, also in Kaels Welt, nicht nur als Stimmen in AEGIS'
+    Kapiteln. W11 C wird damit zu W11 A, und Q5, die Zuordnung der Guardians zu den Welten, muss entschieden werden.
+    Mnemosyne als Versuchung im Archipel (KW2, bewahren statt weitergehen) passt zum Arbeitsnamen. Wo Sophia, LogOS
+    und Kairos stehen, bleibt offen. Cerberus trägt in B keinen Archetyp und bleibt die Welt KW3.
+  - **Dorns Faden:** Dorns Want hängt an Sektor 04, und die Welle löscht Sektor 04 in Kap 14 ohne Szene. Mit D übergibt
+    Dorn an Mnemosyne, die bewahrt, was die Welle nahm. Damit hat der Faden ein Ende.
+
+### Neue Empfehlung
+
+**D, und die alte Frau kehrt zusätzlich zurück, wie in C.** Das ersetzt die Empfehlung C von oben, die die Funktionen an
+Anteile gab. Anteile mit doppelter Funktion (Rhys, Lia, Moros) hätten W10-A geändert. D ändert keinen beschlossenen Wert:
+Die Guardians sind in B schon so besetzt. **Bitte zusammen mit W11 entscheiden.** D setzt dort A oder eine Mischung
+voraus.
+
+**Frage an dich:** Übernehmen die Guardians nach Element die Funktionen der vier Menschen (D), oder bleibt es bei A, B
+oder C?
