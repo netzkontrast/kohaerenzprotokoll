@@ -148,3 +148,11 @@ Neither position 2's nor position 3's expansion occurs (`Autogenic` 0, and nothi
 The line reads: „AEGIS acts as an“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L113] `Autonomous Entropic Gatekeeper` and goes on: „Its function is to enforce a reality based purely on the Coherence Theory of Truth“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L113]. The phrase is the first three words of position 1's expansion, but here it names what AEGIS does, not what the letters stand for: `Integrity Systems` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] and `Autogenic` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] do not occur, and `Substrate` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#0] does not. It does not say which expansion it supersedes, although it calls itself „the single, authoritative Project Codex“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L17], recorded here, not applied.
 
 Position 1's word, not its expansion; the conflict stays open.
+
+## 2026-10-06 — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis
+
+**The plot analysis gives the expansion „Autonomous Entropic Gatekeeper for Integrity Systems“ ^[plot-analyse-und-romanentwicklung.md:L23] again, in a report of 2026-02-22 that names reference 1.**
+
+Its line also reports the self-definition „AEGIS ist, was AEGIS verhindert, dass es nicht ist“ ^[plot-analyse-und-romanentwicklung.md:L23], marked with the same reference. The plot analysis is advice to the author and gives the expansion in passing, as the author's own draft.
+
+Stands as position 1 again, reported and not weighed; recorded, not applied, and the record is not changed.
