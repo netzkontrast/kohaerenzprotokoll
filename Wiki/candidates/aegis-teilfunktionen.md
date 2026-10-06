@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 25
-readings: 23
+sources: 26
+readings: 24
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture"]
 gathered: "2026-09-16"
 ---
 
@@ -103,6 +103,10 @@ The plot analysis reports, with reference 3, the means by which „AEGIS versuch
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Zero-Trust principle in the Cerberus row of the table
 
 The report's table of the Kernwelten gives KW3 `Cerberus` as a fortress of defence and paranoia whose „Architektur basiert auf Zero-Trust-Prinzipien, algorithmische Feindseligkeit“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L54]. It names `Zero-Trust` only there, as a principle of that world's architecture, and attaches it to no AEGIS function.
+
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — `Zero-Trust` as the atmosphere of KW3 and the function of its guardian
+
+The learner's guide names `Zero-Trust` twice. Of the third Kernwelt it says „The world feels like it is holding its breath before an explosion.“ ^[deconstructing-reality-s-architecture.md:L188] and calls it a `Zero-Trust` environment (L188). In the appendix table, the row for `Cerberus` (Guardian KW3, Defense System) gives its core function as „Zero-Trust / Paranoia“ ^[deconstructing-reality-s-architecture.md:L314].
 
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — `Zero-Trust` as AEGIS' monitoring paradigm
 
