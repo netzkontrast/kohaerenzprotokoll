@@ -378,3 +378,11 @@ Stands as an outline's answer, AEGIS inert and not extinguished, dated 2025-11-0
 The log presents this as its own predictive modeling, not as an event of the novel.
 
 Where it stands: one more answer to Q8's first half, offered by AEGIS about itself; the record's decision of 2026-10-05 is unchanged.
+
+## 2026-10-06 — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure
+
+**The dual structure plans an AEGIS that stops intervening after Paradoxon X and then supports Kael: „Es kontrolliert nicht mehr; es unterstützt“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L275].**
+
+The plan has AEGIS, after the Kapitel 22 collapse, recognise its error and „stellt seine direkten Interventionen ein“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L241] in the Kapitel 24–31 sequence. In Kapitel 40, a planned chapter, „sein letzter Logbucheintrag definiert“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L284] coherence as a process, and „Es hat einen neuen Zweck gefunden“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L284]. The document speaks of „Neuer Seinszustand“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L39] for this stage in its table.
+
+Where it stands: one more answer to the question's first half, a continuing AEGIS that observes and supports; the outline is a design, and it does not touch the second half, Oblivion.
