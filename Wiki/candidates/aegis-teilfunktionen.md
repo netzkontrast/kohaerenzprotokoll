@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 26
-readings: 24
+sources: 27
+readings: 25
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp"]
 gathered: "2026-09-16"
 ---
 
@@ -79,6 +79,12 @@ The synthesis describes the Digitale Überwelt's interactions as ruled by „str
 ## Reading — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter — the Moonshine link bypasses the Zero-Trust Execution Model and the Encrypted Intent Channels
 
 The letter names the Zero-Trust model once, among what the Kael-Juna link bypasses: „Diese Eigenschaft umgeht AEGIS' Sicherheitsarchitektur, einschließlich des Zero-Trust Execution Model (ZTEM) und der Encrypted Intent Channels (EIC), vollständig“ ^[aegis-logik-und-erzaehlstruktur.md:L189]. It gives no account of the Zero-Trust model itself; the other three sub-functions of the page are not named.
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — ZTEM, RTSV and SIS named as AEGIS' protocols and read as trauma defences
+
+The prototype proposal reports, from its outline, that AEGIS is steered by core protocols: „Zero Trust Environment Mandate (ZTEM)“ ^[romanidee-als-interaktiver-prototyp.md:L58] and „Recursive Trust Signature Verification (RTSV)“ ^[romanidee-als-interaktiver-prototyp.md:L58], which „Vertrauen als epistemische Schwachstelle eliminieren“ ^[romanidee-als-interaktiver-prototyp.md:L58]. The proposal's own interpretation reads them as defences: „ist eine perfekte Manifestation von Hypervigilanz“ ^[romanidee-als-interaktiver-prototyp.md:L60] for ZTEM, and for SIS the line says „Das SIS-Protokoll (Systemic Isolation Shield), das bei Inkohärenz ganze Kernwelten abschottet“ ^[romanidee-als-interaktiver-prototyp.md:L60]. The proposal's own gloss is that this corresponds to dissociation.
+
+The sweep's `Guardian` is not read here: the document uses `Guardians` only in the game variable table (see the reading on [[guardians]]).
 
 ## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — the Wächter-Konstrukte under the Zero-Trust Execution Model
 
