@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese"]
 gathered: "2026-09-16"
 ---
 
@@ -74,6 +74,10 @@ The Leitfragen report names the clinical picture once, in its opening: because t
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Compositional Anomaly as AEGIS's first term
 
 The outline of 2026-05-01 writes in Kap 8 that `Compositional Anomaly` is „der erste Begriff ist, den AEGIS für DID hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188] The veil of Act I withholds the vocabulary from Kael: „Die Alter sind anwesend, aber als Zustände, Stimmungs-Drifts, Stimmen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L20]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — dissociative identity disorder as necessary system architecture, anchored physically by pain
+
+The synthesis lists it among its consensus points: „Die Dissoziative Identitätsstörung wird nicht als Pathologie, sondern als notwendige Systemarchitektur begriffen“ ^[romanprojekt-analyse-synthese.md:L117]. In the passage on the Landauer principle it says Kael registers the reconfiguration of information as phenomenal pain, which „Dissoziative Identitätsstörung (DID) physikalisch im System verankert“ ^[romanprojekt-analyse-synthese.md:L29].
 
 ## Open
 
