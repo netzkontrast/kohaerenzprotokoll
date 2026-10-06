@@ -544,3 +544,11 @@ Stands on the side of one Guardian per world with KW4 shared, as a concept of 20
 KW1: „This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] LogOS; KW2 the same form for Mnemosyne („This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L102]), KW3 for Cerberus („This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L106]). KW4: „This world is the domain of the Guardians“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L110], Kairos and Sophia.
 
 Stands as a five-Guardian pairing over four worlds, dated 2025-11-03, recorded beside the other counts and not resolving them.
+
+## 2026-10-06 — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing
+
+**The briefing pairs LogOS with KW1, Mnemosyne with KW2, Cerberus with KW3 and Kairos/Sophia with KW4, without calling them Guardians.**
+
+The table gives „Classical Consistency / LogOS“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L133] for KW1, „Dialetheic Coexistence / Mnemosyne“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L134] for KW2, „Pragmatic Elimination / Cerberus“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L135] for KW3 and „Generative Synthesis / Kairos/Sophia“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L136] for KW4. The column is headed Logic / Inhabitant (L132).
+
+Stands as a pairing of one inhabitant per world, with KW4 given as one entry `Kairos/Sophia`, dated 2025-10-15; recorded, not resolving the count.
