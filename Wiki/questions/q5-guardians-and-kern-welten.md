@@ -545,3 +545,11 @@ Stands as a pairing of four worlds with four Guardian labels, dated 2025-11-03; 
 Table 1 (L119–L124) gives the Guardian column: LogOS, Mnemosyne, Cerberus, „Kairos/Sophia“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L122] for KW1–KW4, „AEGIS, Guardians“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L123] for the Überwelt and Juna for the Externe Ebene (L124). Each level block names its Guardian in its first field, as „Sie ist die Domäne des Guardians LogOS“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L128] for KW1.
 
 Stands as a document that pairs, in the conditional; the record's question is not settled by it.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint
+
+**The plot blueprint pairs LogOS with KW1, Mnemosyne with KW2, Cerberus with KW3, Kairos with KW4 and sets Sophia over the Überwelt and all Kern-Welten.**
+
+Its Tabelle 3 reads: „KW1 (Konstrukt-Stadt)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L195] for LogOS (Konstrukt-Stadt appears as „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L148] in step 1.1), „KW2 (Resonanz-L.)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L404] for Mnemosyne, „KW3 (Grenzfeste)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L196] for Cerberus, „KW4 (Möglichkeits-G.)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L406] for Kairos and „Überwelt / Alle KW“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L407] for Sophia. In step 2.9 Sophia works „möglicherweise direkt in der Überwelt“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L452].
+
+Stands: one Guardian per world for four, Sophia over all, as the blueprint plans it; nothing decided for the record.
