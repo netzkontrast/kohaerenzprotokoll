@@ -1,0 +1,252 @@
+{
+  "document": "welt",
+  "drive_id": "162J8DLTf5b_DIj3uBMmkWhX3rammjjZZGduOPfWEeXE",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 80,
+  "typographic_marks": 65,
+  "ascii_quotes": 61,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemausfälle",
+      "Systeme",
+      "Systemfehler",
+      "Systeminstabilität",
+      "Systeminstabilitäten",
+      "Systemmeldungen",
+      "Systemprotokolle",
+      "Systems",
+      "Systemverlangsamungen",
+      "Systemversagen",
+      "Systemzustände"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontraste",
+      "Kontrolle",
+      "Kontrollebene",
+      "Kontrollstreben",
+      "Kontrollwunsch",
+      "Kontrollzentrum"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzialen",
+      "Potenzialität"
+    ],
+    "archi": [
+      "Archipel",
+      "Architekt",
+      "Architektur",
+      "Architekturen",
+      "Archivars",
+      "Archiven"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfehler",
+      "Informationskonstrukte",
+      "Informationstheorie",
+      "Informationsverarbeitung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenkorruption",
+      "Datenströme",
+      "Datenströmen",
+      "Datenzerfall"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlermeldungen",
+      "Fehlern"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptueller"
+    ],
+    "parad": [
+      "Paradigmen",
+      "Paradox",
+      "Paradoxie",
+      "Paradoxien"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychische",
+      "Psycho",
+      "Psychologische"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätsebenen"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwachungsmechanismus",
+      "Überwachungssystemen",
+      "Überwelt"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrfunktion",
+      "Abwehrmechanismen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionen"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropielevel"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfragmenten"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionsweise"
+    ],
+    "geome": [
+      "Geometrie",
+      "Geometriefehler",
+      "Geometrien"
+    ],
+    "geräu": [
+      "Geräusch",
+      "Geräusche",
+      "Geräuschkulisse"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface"
+    ],
+    "konst": [
+      "Konstrukt",
+      "Konstrukte",
+      "Konstruktion"
+    ],
+    "licht": [
+      "Licht",
+      "Lichter",
+      "Lichtwechsel"
+    ],
+    "manif": [
+      "Manifestation",
+      "Manifestationen",
+      "Manifestieren"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Konformität"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationsfehler"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationskonstrukte"
+    ],
+    [
+      "Form",
+      "Informationsverarbeitung"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Raum",
+      "Raumzeit"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+# welt
+  lines                161  (frontmatter ends at 9)
+  body words           3690
+  headings             9   bold-only lines 4
+  table rows           0   code fences 0
+  question marks       2
+  backslash escapes    80
+  typographic marks    65   ascii quotes 61
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      Ästhetik & Sensorik x13, Konzeptueller Kern x8, Narrative Funktion x8, Manifestation von „Rissen“ x6, Risse & Entropie x5, Funktion & Psychologische Verankerung x4
+  longest line         1025 chars
+

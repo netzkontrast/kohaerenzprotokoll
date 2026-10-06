@@ -1,0 +1,68 @@
+$ read.py welt --count "aus voriger Antwort"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`aus voriger Antwort` ^[welt.md:#39]
+$ read.py welt --count "impliziert durch"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`impliziert durch` ^[welt.md:#9]
+$ read.py welt --count "Forschungsfrage"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Forschungsfrage` ^[welt.md:#1]
+$ read.py welt --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[welt.md:#2]
+$ read.py welt --count "Potentialmeer"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`Potentialmeer` ^[welt.md:#3]
+$ read.py welt --count "Fundament"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Fundament` ^[welt.md:#6]
+$ read.py welt --count "Externe Ebene"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Externe Ebene` ^[welt.md:#6]
+$ read.py welt --count "Kernwelten"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Kernwelten` ^[welt.md:#12]
+$ read.py welt --count "Risse"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            29
+
+`Risse` ^[welt.md:#22]
+stance_marker_count: 48 = 39 (aus voriger Antwort) + 9 (impliziert durch), above
+L68 and L117 'Überwelt' descriptions; sentence 'Kael sucht hier' etc from read.py --find; other counts from 04-counts.txt / census table (Überwelt 15, Kernwelten 12, KW sections).
+$ read.py welt --count "Limina"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Limina` ^[welt.md:#0]
+$ read.py welt --count "Liminas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Liminas` ^[welt.md:#1]

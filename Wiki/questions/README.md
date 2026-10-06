@@ -22,7 +22,7 @@ was created, it found:
 Eleven pages ask one question. Answering it would mean editing eleven pages, and
 nothing would say they were the same question. That is the need.
 
-The harvest has grown with the wiki: 362 <!--state:wiki.open_statements-->
+The harvest has grown with the wiki: 370 <!--state:wiki.open_statements-->
 open statements today, and 9 <!--state:wiki.questions--> question pages
 promoted from them.
 

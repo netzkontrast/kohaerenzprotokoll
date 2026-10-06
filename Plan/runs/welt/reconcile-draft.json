@@ -1,0 +1,312 @@
+{
+  "document": "welt",
+  "drive_id": "162J8DLTf5b_DIj3uBMmkWhX3rammjjZZGduOPfWEeXE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 90,
+    "decisions": 105,
+    "decided_by_lookup": 66,
+    "needs_judgement": 39
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        36,
+        40,
+        68,
+        75,
+        78,
+        119,
+        122,
+        138,
+        155
+      ],
+      "attribution": "",
+      "note": "the maker of the Kernwelten, the Überwelt's owner and an Entropic Gatekeeper"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "Alex as the Protektor-ANP of KW3"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        54,
+        107
+      ],
+      "attribution": "",
+      "note": "the Guardian of KW3"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        42,
+        70
+      ],
+      "attribution": "",
+      "note": "Shannon entropy in the Überwelt's rules, and KW1's wish to manage it"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        75,
+        76,
+        77,
+        124,
+        128,
+        130
+      ],
+      "attribution": "",
+      "note": "a mysterious level tied to Juna/V, outside AEGIS's direct control, with its nature left open"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        54,
+        105,
+        107
+      ],
+      "attribution": "",
+      "note": "KW3 as the fortress of Alex and Nyx"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        54,
+        88,
+        107,
+        122,
+        158
+      ],
+      "attribution": "",
+      "note": "one Guardian per Kernwelt, localised processes or fields"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        61,
+        75,
+        78,
+        126
+      ],
+      "attribution": "",
+      "note": "Juna/V as the counter-principle and the Externe Ebene's figure"
+    },
+    {
+      "page": "junas-ankerpunkt",
+      "lines": [
+        76,
+        130
+      ],
+      "attribution": "",
+      "note": "a specific place where her connection becomes manifest"
+    },
+    {
+      "page": "kael",
+      "lines": [],
+      "attribution": "",
+      "note": "the worlds as Kael'\"s"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        36,
+        88
+      ],
+      "attribution": "",
+      "note": "four AEGIS-made simulation environments, labs for analysing Kael"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        40,
+        92,
+        93,
+        95
+      ],
+      "attribution": "",
+      "note": "KW1 as Lex's domain and AEGIS's order"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        40,
+        92
+      ],
+      "attribution": "",
+      "note": "Kael's rational ANP, domain of KW1"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "Lia as the Kind-EP of KW4"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        61,
+        111,
+        113
+      ],
+      "attribution": "",
+      "note": "KW4 as the domain of Lia, Rhys and Selene"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        75,
+        77
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene acting as the link, once"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        138
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis defined against dissolving into the Nichts Rauschen"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "Nyx as the Kampf-EP of KW3"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        68,
+        70,
+        134,
+        136,
+        137,
+        138
+      ],
+      "attribution": "",
+      "note": "the pre-cosmic ground that presses on AEGIS, in the second pass"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        26,
+        32,
+        84,
+        142
+      ],
+      "attribution": "",
+      "note": "six levels in the question, seven named with a Fundament in the second pass"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        47,
+        98,
+        99
+      ],
+      "attribution": "",
+      "note": "KW2 as the trauma landscape of the EPs"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "Rhys as the Pflegender ANP of KW4"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        43,
+        50,
+        57,
+        64,
+        71,
+        78,
+        94,
+        95,
+        152
+      ],
+      "attribution": "",
+      "note": "a manifestation of Risse in every level, and Risse as system instability"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "Selene as das Selbst in KW4"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        68,
+        69,
+        70,
+        117,
+        119,
+        122
+      ],
+      "attribution": "",
+      "note": "AEGIS's meta-level, control centre and code level"
+    },
+    {
+      "page": "vergessener-schrein",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "a cave, one possible element of KW2"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q6",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
