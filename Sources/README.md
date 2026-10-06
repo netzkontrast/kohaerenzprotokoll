@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 108 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 108 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 109 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 109 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -825,7 +825,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [TSDP-Analyse: Kaels innere Welt](drive/tsdp-analyse-kaels-innere-welt.md) | 2025-04-28 | 8,847 |  | Rhys 57, Kiko 46, Nyx 64, Lex 58, Selene 11, Cache-Kohärenz 2, TSDP 29, DID 6 | Kai 44, TSD 5, Ly 15, Co₁ 16, Attachment-Cry 6 |
 | [TSDP-Analyse: Kohärenz Protokoll Charaktere](drive/tsdp-analyse-kohaerenz-protokoll-charaktere.md) | 2025-04-28 | 9,969 |  | Isabelle 21, Rhys 49, Lia 24, Alex 29, Moros 31, Cache-Kohärenz 5, Argus 13, Selene 25 | Inneren Familien Systeme 2, Lias 7, Sekundärer ANP 4, EP-Kind 3, ISSTD 5 |
 | [Überarbeitete Liste der Anteile von Kael (TSDP-basiert)](drive/uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md) | 2025-04-28 | 2,114 |  | Lia 5, Rhys 6, Moros 4, Kiko 6, Lex 8, Selene 3, Nyx 7, TSDP 2 | Emotionaler Persönlichkeitsanteil 5, Anscheinend Normaler Persönlichkeitsanteil 4, Sekundärer ANP 2, Isabella 2, Primärer ANP 2 |
-| [Erlebniswelten der Anteile & Überlagerung mit Kernwelten](drive/erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md) | 2025-04-29 | 2,020 |  | Sophia 2, Lia 2, Kern-Welten 16, Alex 2, Moros 2, Nyx 3, Lex 3, Kiko 2 | Album 25, Ly 12, Co₁ 12, McL 12, EP-Kind 2 |
+| [Erlebniswelten der Anteile & Überlagerung mit Kernwelten](drive/erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md) | 2025-04-29 | 2,020 | **read** | Sophia 2, Lia 2, Kern-Welten 16, Alex 2, Moros 2, Nyx 3, Lex 3, Kiko 2 | Album 25, Ly 12, Co₁ 12, McL 12, EP-Kind 2 |
 | [Weltenkonzept für Kohärenz Protokoll (TSDP-basiert)](drive/weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md) | 2025-04-29 | 1,318 | **read** | AEGIS' four sub-functions 3, Lia 5, Rhys 5, Argus 3, Alex 4, Externe Ebene 2, Realitätsebenen 2, Moros 4 | Protektor 2, KW2 4, Guardian 4, Juna/V 4, KW4 2 |
 | [Dissoziative Identität: Sinnsuche im Trauma](drive/dissoziative-identitaet-sinnsuche-im-trauma.md) | 2025-05-03 | 4,611 |  | Personas 2, Alters 2, Kohärenz 2 | Album 24, ST 5, Kern-Selbst 8, Ko-Bewusstseins 3, Exile 6 |
 | [Gutachterprofil und Alternativen: PTBS/DIS](drive/gutachterprofil-und-alternativen-ptbs-dis.md) | 2025-05-25 | 4,406 |  | Kael 4 | DGNB 12, DeGPT 16, K-PTBS 31, DRV 5, PTK NRW 3 |

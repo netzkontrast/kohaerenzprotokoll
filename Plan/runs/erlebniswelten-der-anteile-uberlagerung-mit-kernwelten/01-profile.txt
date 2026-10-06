@@ -1,0 +1,14 @@
+# erlebniswelten-der-anteile-uberlagerung-mit-kernwelten
+  lines                167  (frontmatter ends at 9)
+  body words           2020
+  headings             1   bold-only lines 14
+  table rows           0   code fences 0
+  question marks       3
+  backslash escapes    0
+  typographic marks    80   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    26
+  repeated labels      Erlebniswelt x11, KW1 (Co₁) x11, KW2 (McL) x11, KW3 (B) x11, KW4 (Ly) x11, Überlagerung mit Kernwelten x11
+  longest line         737 chars
+
