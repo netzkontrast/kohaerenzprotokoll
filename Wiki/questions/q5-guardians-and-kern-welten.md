@@ -449,3 +449,11 @@ Where it stands: three Guardian and world pairs; recorded, the question stays op
 KW1 has LogOS with „Ignoriert Nicht-Logisches (Emotion, Juna)“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L299], KW2 has Mnemosyne with „Fokussiert auf Vergangenheit, verfehlt Gegenwartsbedarf“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L300], KW3 has Cerberus with „Sieht Verbindung/Unterschied als Bedrohung“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L301], and KW4 has two Guardians, „Kairos & Sophia“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L302], with „Fehlende Kerndaten“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L302]. The plot reads these as systemic: „Die blinden Flecken der Guardians sind nicht nur individuelle Fehler, sondern systemimmanent“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L304]. It calls the Überwelt „die operative Domäne der Guardians“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L281].
 
 Where it stands: a worlds-to-Guardians assignment of four rows in a proposal, the fourth shared by two Guardians; recorded, deciding nothing.
+
+## 2026-10-06 — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis
+
+**The themes exegesis writes three Kernwelt themes, two with a bearer in brackets (`LogOS`, `Cerberus`), one with none, and no Kernwelt 2.**
+
+Theme 15 (a theme, not a chapter) gives its concept as `Kernwelt 1` with `LogOS` in brackets, and says LogOS stands for „die Tyrannei der reinen Symmetrie“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L218]. Theme 19 gives `Kernwelt 3` with `Cerberus` in brackets, and reads Cerberus as the externalisation of „misstrauischen Beschützer-Anteil (Alex)“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L238]. Theme 23 gives only „Konzept: Kernwelt“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L257], the digit 4 being glued to the word. It names no guardian for any of them, and nothing of Kairos, Sophia, Mnemosyne or an Erasure-Pol.
+
+Stands: unanswered; the themes exegesis pairs two worlds with a name in brackets and leaves the third without one, and changes neither the five Guardians nor the four worlds.
