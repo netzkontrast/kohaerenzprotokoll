@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 13
-readings: 11
+sources: 14
+readings: 12
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung"]
 gathered: "2026-09-16"
 ---
 
@@ -67,6 +67,10 @@ Safeguard`, none of the three (its reading below).
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the Guardian-Interface protocols and the Integrity Guardian
 
 The synthesis describes the Digitale Überwelt's interactions as ruled by „strengen Guardian-Interface-Protokollen“ ^[system-kael-konzeptentwicklung-und-analyse.md:L48] and lists three, each as a rule between the Wächter (the glued `1` marks them as reported from its reference 1): `Zero-Trust Execution Model (ZTEM)` with „Never trust, always verify“ ^[system-kael-konzeptentwicklung-und-analyse.md:L50]; `Behavioral Proof-of-Function (BPoF)`, where „Interaktionen werden nicht durch einfache Anfragen initiiert“ ^[system-kael-konzeptentwicklung-und-analyse.md:L51]; and `Encrypted Intent Channels (EIC)`, where „Die Kommunikation zwischen den Wächtern erfolgt nicht über Sprache“ ^[system-kael-konzeptentwicklung-und-analyse.md:L52] The `Integrity Guardian` is named once, inside the Landauer paragraph: „jede Korrektur durch den Integrity Guardian“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82]
+
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — the ZTEM as AEGIS's means against Shannon entropy
+
+The plot analysis reports, with reference 3, the means by which „AEGIS versucht, die Shannon-Entropie (Unvorhersagbarkeit)“ ^[plot-analyse-und-romanentwicklung.md:L27] to eliminate: the `Zero-Trust Execution Model`, abbreviated `ZTEM`. It gives no further function of it; the filtering, collapsing of deviating possibilities and erasure of unauthorised memories are said of AEGIS as a whole.
 
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Zero-Trust principle in the Cerberus row of the table
 
