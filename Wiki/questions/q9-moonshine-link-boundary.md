@@ -164,3 +164,11 @@ A boundary toward AEGIS only: its sensors register effects as noise; recorded, t
 In Kapitel 10-12 the IC line says the link „wird von AEGIS aktiv blockiert oder verzerrt“ ^[finales-kausales-plot-geruest.md:L86], which underlines the boundary protocols of the system and „und seine Unfähigkeit, mit nicht-lokalen Phänomenen umzugehen“ ^[finales-kausales-plot-geruest.md:L86]. In Kapitel 33-35 Juna/V plays a final, decisive action, and the line writes of her: „der von formaler Logik nicht eingedämmt werden kann“ ^[finales-kausales-plot-geruest.md:L198]. The beat sheet draws a boundary toward AEGIS only; it says nothing here of who in Kael's system can feel the link.
 
 Stands as a boundary toward AEGIS, once blocking and once beyond containment by formal logic; recorded, the question stays open.
+
+## 2026-10-06 — `project-codex-the-canonical-narrative-architecture-of-kohaer`, 2025-11-03, the Project Codex
+
+**The Moonshine-Link is non-local and sub-protocol, AEGIS is blind to it, and each failed cycle of Act II damages it.**
+
+The codex calls it „a non-local, sub-protocol connection“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L101] of entanglement and prehension, and writes that AEGIS is „ontologically blind to this fundamental resonance“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L101]. In Act II the failed cycles cost „Relational Erosion“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L146], the damage to the link with Juna/V. It draws no boundary beyond AEGIS and says nothing of who in Kael's system feels the link.
+
+A boundary toward AEGIS, and a damage by Act II's cycles; recorded, the question stays open.
