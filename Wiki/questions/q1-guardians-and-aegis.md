@@ -350,3 +350,27 @@ Stands as a manifest in AEGIS's own voice that places the Guardians inside AEGIS
 F3's plot task reads: „AEGIS hat innere Differenzierung.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L494] (L494); the question asks whether Mnemosyne in conflict with one erasing pole can „die innere Spaltung von AEGIS dramatisch zu zeigen“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L498] (L498). Appendix B sets the two together in the third person: „AEGIS und Guardians in 3. Person.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L626] (L626). The Kanon does not say in so many words whether a Guardian is a component, a peer or a replaced design; F3 is tier `OFFEN`.
 
 Where it stands in the record's own terms: a source that ties the Guardians to AEGIS's inner split as a plot function, in an open question; the relation stays open.
+
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development plans the Guardians as personifying aspects of AEGIS's control philosophy, and Mnemosyne as AEGIS's agent.**
+
+The subplot list says „Die Guardians personifizieren spezifische Aspekte von AEGIS' Kontrollphilosophie“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L39] and names the aspects (Logik, Emotion, Angst, Potenzial). In Chapter 5 the plan writes „KW2 dient AEGIS als Werkzeug zur Emotionsanalyse und -kontrolle“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L83], and the same line continues „Mnemosyne als dessen Agentin“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L83]. Chapter 9 names „Guardian Cerberus“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110] as acting for AEGIS against Kael, and Chapter 2 plans „Guardian LogOS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61] confronting Lex.
+
+Where it stands in the record's own terms: the plan puts the Guardians on AEGIS's side, as personifications of its philosophy and, for Mnemosyne, as an agent; it names no peer and no replaced design, and it does not say whether they are components; recorded, not applied.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet writes the Guardians as AEGIS' Systemagenten enforcing its protocols, and lets some doubt its goal.**
+
+In Kapitel 18-21 it writes that the Guardians „setzen AEGIS' fehlerhafte Protokolle aktiv durch“ ^[finales-kausales-plot-geruest.md:L121], acting as „Systemagenten“ ^[finales-kausales-plot-geruest.md:L121]; in Kapitel 14-17 AEGIS analyses Kael „wo er von AEGIS und seinen Guardians (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[finales-kausales-plot-geruest.md:L108]. In Kapitel 22-24 some of them doubt: „Einige Guardians beginnen, ein“ ^[finales-kausales-plot-geruest.md:L134] paradox to observe, and the paradox „wird selbst für seine Agenten unbestreitbar und schafft internen Dissens im antagonistischen System“ ^[finales-kausales-plot-geruest.md:L135]. The beat sheet writes them as agents inside AEGIS' antagonistic system; whether they are components, peers or a replaced design, it does not say.
+
+Where it stands in the record's own terms: the Guardians on AEGIS' side as agents, with a doubt that grows inside the system; recorded, not applied, and the relation stays open.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint writes the Guardians as localised processes or fields in the AEGIS-Protokoll, and each Kernwelt as coupled to an AEGIS-Guardian.**
+
+Each Kernwelt is „an eine spezifische psychologische Domäne Kaels“ ^[welt.md:L88] and „einen AEGIS-Guardian gekoppelt“ ^[welt.md:L88] (second pass, L88). The closing paragraph says what the Guardians are: „lokalisierte, dynamische Prozesse oder Felder“ ^[welt.md:L158], and that their existence is their function „innerhalb des AEGIS-Protokolls“ ^[welt.md:L158]; „Sie sind keine anthropomorphen Avatare“ ^[welt.md:L158]. The Überwelt is their stage: „der primäre operative Schauplatz für die Guardians“ ^[welt.md:L122].
+
+Stands as the Guardians being AEGIS's own, tied to its protocol and coupled one to each world; recorded, the question stays open.

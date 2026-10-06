@@ -1,0 +1,183 @@
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Central Conceptual Focus"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Central Conceptual Focus` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#40]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Narrative & Reader Psychology Strategy"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Narrative & Reader Psychology Strategy` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#40]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Research & Concept Application"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Research & Concept Application` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#40]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Recherche-Keywords"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Recherche-Keywords` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#40]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "möglicherweise"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`möglicherweise` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#23]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "könnte"
+whole word, case-sensitive     13
+whole word, case-insensitive   14
+including compounds            16
+
+`könnte` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#13]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Konzept - ChP"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Konzept - ChP` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#15]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Konzept - "
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            83
+
+`Konzept - ` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Fehlausgerichtete Kohärenz` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#3]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Fehlausgerichteter Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fehlausgerichteter Kohärenz` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#2]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Fehleausgerichtete Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fehleausgerichtete Kohärenz` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#2]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Kernparadoxon"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernparadoxon` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#3]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "AEGIS-Paradoxon"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            16
+
+`AEGIS-Paradoxon` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#9]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Selene"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Selene` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#11]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "funktionaler Multiplizität"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`funktionaler Multiplizität` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#4]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "funktionale Multiplizität"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`funktionale Multiplizität` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Guardians"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Guardians` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#7]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Überwelt"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Überwelt` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#8]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Juna/V"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            32
+
+`Juna/V` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#31]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Fundament"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            18
+
+`Fundament` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#15]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "fundamental"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            7
+
+`fundamental` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#2]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Echo"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Echo` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#2]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Nichts Rauschen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts Rauschen` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#1]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`canon` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Lock"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Lock` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Hard Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Hard Canon` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Ground Truth"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Ground Truth` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Beschützer-Anteils"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beschützer-Anteils` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#1]
+$ python3 scripts/read.py 2-kohaerenz-protokoll-konzeptentwicklung --count "Fürsorger-Anteils"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fürsorger-Anteils` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#1]
+$ stance_marker_count = 40+40+40+40 = 160
+$ question marks: grep -o "?" Sources/drive/2-kohaerenz-protokoll-konzeptentwicklung.md | wc -l
+59

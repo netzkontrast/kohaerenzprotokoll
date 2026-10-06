@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 41
-readings: 41
+sources: 47
+readings: 47
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt"]
 gathered: "2026-09-24"
 ---
 
@@ -22,9 +22,21 @@ Conflict pair Rhys vs. Moros (L41): „Rhys' Aktionssystem (Pflege, Empathie, Ha
 
 The world concept calls Rhys `ANP-Pfleger`. In KW1 his empathy is worthless: „Rhys (dessen Empathie hier wertlos ist)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L39]. In KW2: „Rhys (ANP-Pfleger) fühlt sich hier hingezogen, kann aber überfordert werden“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L60]. In KW3: „Rhys (fühlt sich isoliert, seine Empathie ist nutzlos)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L83]. In KW4: „Rhys (Hoffnung, Verbindung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L104]. In the Externe Ebene a positive resonance is „wahrscheinlich“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L61] for „Rhys (Verbindung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L151].
 
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — the caregiver and its KW1 overlay
+
+The concept heads Rhys „Sekundärer ANP - Pflegender“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L120] and describes „Eine Welt, die auf Verbindung, Empathie und Heilung ausgerichtet ist“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L122]. On KW1 (Co₁): „Fühlt sich hier fehl am Platz, die Kälte und Emotionslosigkeit widersprechen seiner Natur“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L127].
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — the glossary gloss and Rhys in Chapters 4, 10 and 21
 
 The glossary gives the briefing's gloss: „Fürsorger-/Vermittler-Anteil.“ ^[kontext-outline.md:L41] Chapter 4 plans: „Rhys (Fürsorger) aktiv, versucht zu vermitteln/stabilisieren“ ^[kontext-outline.md:L112], and Chapter 10 plans mediation between the parts: „Rhys aktiv (Vermittler)“ ^[kontext-outline.md:L179]. Chapter 21 lists „Selene/Rhys als Integrationsförderer“ ^[kontext-outline.md:L306].
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — Rhys as the caring part that mediates between parts
+
+In the block headed `Chapter 4:` the concept development plans „Der Versuch des Fürsorger-Anteils (Rhys), interne Konflikte zu moderieren und eine erste Brücke zu den emotionalen Anteilen (EPs) zu schlagen.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L74] Its application field says „Rhys verkörpert eine weitere **ANP-Funktion** (Fürsorge/Bindung).“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L76] In the block headed `Chapter 10:` it plans: „Rhys \[Konzept - Ch4\] initiiert oder moderiert erste bewusste Dialogversuche zwischen ANPs (Lex, Alex)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L117], and adds „Rhys' Rolle als Vermittler ist hier zentral.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L118] In the block headed `Chapter 30:` Rhys stands with the EPs: „Rhys (Fürsorge) und die EPs (Kiko, Lia, Moros) stehen im Zentrum dieser Auseinandersetzung.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L257]
+
+## Reading — `roman-konzept-kohaerenz-protokoll`, 2025-05-03, the Roman-Konzept — table row: care and mediation
+
+The Roman-Konzept plans Rhys in its table of parts as ANP with the core function „Fürsorge, Vermittlung, Empathie“ ^[roman-konzept-kohaerenz-protokoll.md:L65], the entry „Phobie vor Konflikt/Dysregulation; Schwierigkeit EP-Kontakt“ ^[roman-konzept-kohaerenz-protokoll.md:L65] and primary chapters 4, 10, 16, 21 and 30. Its concept column adds „Empathie (potenziell manipulierbar)“ ^[roman-konzept-kohaerenz-protokoll.md:L65]. The row carries no question mark.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the caring ANP, with Alex a pro-social pair; sees a chance for connection
 
@@ -37,6 +49,14 @@ In the roster (glued `1`) Rhys (Fürsorger) is „Ein empathischer Anteil, der n
 ## Reading — `charaktere`, 2025-07-29, the character concept — Rhys as caretaker-ANP
 
 The character concept lists Rhys ninth in the first and second answers and seventh in the third, a secondary ANP of care. First answer: „Zentral für Verbindung, Empathie und Harmonisierung“ ^[charaktere.md:L72] (L72). Third answer: „Innerer Unterstützer, Vermittler, Empathiker“ ^[charaktere.md:L310] (L310).
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Rhys among the cooperating parts in Beat 3.1
+
+Beat 3.1 (Kapitel 27–29) names Rhys only in one list, as an ANP among Kael's cooperating parts: „wobei seine Anteile (ANPs wie Lex, Rhys, Alex, Argus und EPs wie Nyx, Kiko, Lia, Isabelle, Moros) lernen zu kooperieren“ ^[finales-kausales-plot-geruest.md:L171].
+
+## Reading — `welt`, 2025-07-29, the Welt blueprint — Rhys as the Pflegender ANP of KW4
+
+The Welt blueprint lists Rhys among three Anteile of KW4, first pass (L61): „Rhys (Pflegender ANP)“ ^[welt.md:L61].
 
 ## Reading — `outline`, 2025-07-30, the outline — Rhys as the caretaker ANP, mediator of co-presence
 
@@ -91,6 +111,10 @@ The outline of 2026-05-01 lists Rhys's first covert trace as „still tragender 
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — one row of the alter table
 In its alter table (L44–L55, columns `Alter Name`, `TSDP-Aktionssystem`, `Funktionale Rolle`, `DKT-Korrelat`; the export lost the symbol in some cells) Rhys has the action system „Bindungssuche“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L48], the role „Relationaler Vektor“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L48] and the DKT correlate „Juna-Resonanz“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L48].
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Rhys in the ten-alter table: attachment seeking, connection to Juna-Echos
+
+The row for Rhys reads „Rhys | Bindungssuche | Relationaler Vektor | Verbindung zu Juna-Echos“ ^[romanprojekt-analyse-synthese.md:L77]. The narrative function names `Juna-Echos`; the synthesis elsewhere reports that Silas is called a Juna-Echo „in einigen Analysen“ ^[romanprojekt-analyse-synthese.md:L86], which is those analyses' naming. The row is one of the table the synthesis calls „Das valide Alter-Profil (Reset 2026-04-30)“ ^[romanprojekt-analyse-synthese.md:L68]; its claim to be valid is its own, recorded and not applied.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

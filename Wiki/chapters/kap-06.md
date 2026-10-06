@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -48,12 +48,28 @@ Title: the commission titles the chapter „Fragmente der Vergangenheit“ ^[kon
 - Story: its `Plot Summary` plans „ANPs werden von Emotionen überflutet“ ^[kontext-outline.md:L134]
 - Foci: `Kael Sys Focus` „EP-Intrusionen; Überflutung ANPs“ ^[kontext-outline.md:L135]; `AEGIS Focus` „Mnemosyne aktiv (Emotions-/Erinnerungsmanipulation)“ ^[kontext-outline.md:L136]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Fragmente der Vergangenheit`
+
+Focus: `Traumatische Echos`, „Die Intensivierung der Konfrontation mit spezifischen traumatischen Erinnerungsfragmenten“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L88]
+
+- Story: „Mnemosyne könnte aktiv versuchen, Erinnerungen zu manipulieren oder zu verzerren“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L89]; „repräsentiert durch EPs (Kiko, Lia, Moros)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L89]
+- Concept: „Fixierung in der traumatischen Erfahrung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L90] (concept tag: the `EP-Funktion`)
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Begegnung mit Echo
 
 Title: „Begegnung mit Echo“ ^[roman-outline-system-kael.md:L104]
 Position: Teil II, KW2
 
 - Story: Kael meets „der verängstigten Kind-Manifestation“ ^[roman-outline-system-kael.md:L104] Echo; „Seine Versuche, Echo mit der kalten Logik von Lex zu beruhigen, scheitern kläglich.“ ^[roman-outline-system-kael.md:L104]
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.3, „Die Mauern der Wachsamkeit / AEGIS' Kontrollmechanismen“ ^[finales-kausales-plot-geruest.md:L50] (Kapitel 5–6)
+
+The beat sheet places Kapitel 6 in Beat 1.3; the beat spans Kapitel 5 to 6.
+
+- Beat: the heading titles it „Die Mauern der Wachsamkeit / AEGIS' Kontrollmechanismen“ ^[finales-kausales-plot-geruest.md:L50]
+- Event: the beat sheet's `Beschreibung` says „AEGIS' allgegenwärtige Kontrolle wird etabliert“ ^[finales-kausales-plot-geruest.md:L52]
+- Cause: the `Kausale Verknüpfung` says „treibt seine starre Kontrolle an“ ^[finales-kausales-plot-geruest.md:L53]
+- Throughlines: the OS or MC line says „Festigt AEGIS als den Antagonisten der“ ^[finales-kausales-plot-geruest.md:L58]
 
 ## Reading — `outline`, 2025-07-30, the outline — Der Innere Bunker
 
@@ -89,6 +105,10 @@ Position: Teil I, „Annahme der Fragmentierung“ ^[romanstruktur-und-philosoph
 
 - Story: „Kael akzeptiert zum ersten Mal bewusst“ ^[romanstruktur-und-philosophische-einleitung.md:L73] that he is many, not one
 - Story: „Diese Akzeptanz markiert die Initiation in eine neue Form des Seins.“ ^[romanstruktur-und-philosophische-einleitung.md:L75]
+
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — within Kap 4–6, the Alters through the world, proposed
+
+- The plot analysis gives no line of its own to Kap 6; it falls within its proposal for Kap 4–6: „Die Manifestation der Alters durch die Umwelt“ ^[plot-analyse-und-romanentwicklung.md:L143].
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Architektur der Isolation
 

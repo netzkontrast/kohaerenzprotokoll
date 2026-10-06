@@ -1,0 +1,79 @@
+{
+  "document": "kohaerenz-protokoll-gesamtkonzept-entwicklung",
+  "drive_id": "1H2B--QDQHcBHZzdWDt2BZBplvA3YumNLMRvj9mNcHyM",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; first in the queue re-ranked after document 101; read then as a light pass, being another version of the plan of documents 97 and 98; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-102/brief.md, on kael, C17 and C16",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 85,
+    "decisions": 90,
+    "decided_by_lookup": 75,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: another version of document 97's plan, whose new surfaces are the same method vocabulary and borrowed concepts; nothing names a thing of the novel's world that has no page.",
+  "new_readings": [
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        47,
+        48
+      ],
+      "attribution": "",
+      "note": "Kael as a woman in the premise, and the „Echo“ as his precursor in the Prolog"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16",
+    "C17"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "as for document 97 — J9 (the title), J12 and J16 (compounds with their own sense: Fehlausgerichtete Kohärenz, AEGIS Paradoxon, Kernparadoxon, System Kael, Kael Integration, Juna/V & Fundament), J34 (Juna/V), J49 (worlds named for their Guardians), J56 and J23 (plurals and inflections: Risse/Riss, Kernparadoxons, funktionaler Multiplizität); `Echo` is the original whole, not the residual echoes; `Simulation Hypothesis` and `Gödel` borrowed, not pages",
+  "sweep": [
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 124,
+      "decision": "reading",
+      "why": "light pass: a version of the plan of documents 97 and 98, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 22,
+      "decision": "reading",
+      "why": "light pass: a version of the plan of documents 97 and 98, whose reading on this page holds the same"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 22,
+      "decision": "reading",
+      "why": "light pass: a version of the plan of documents 97 and 98, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "everything document 97 left unpromoted, again — its role labels, TSDP vocabulary, Fundament and borrowed concepts (see reconciliation 97)",
+    "everything document 97 left unpromoted, again (see reconciliation 97)"
+  ],
+  "internal_tension": "none read; the chapter blocks keep document 97's hedges",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 28
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,12 +49,28 @@ Title: the commission titles the chapter „Echos in der Konstrukt-Stadt“ ^[ko
 - Story: its `Plot Summary` plans „Erste Konfrontation mit AEGIS-Logik“ ^[kontext-outline.md:L90]
 - Foci: `Kael Sys Focus` „Lex aktiver (rationaler Kontrollversuch)“ ^[kontext-outline.md:L91]; `AEGIS Focus` „LogOS repräsentiert rigide Logik“ ^[kontext-outline.md:L92]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Grenzen der Ratio`
+
+Focus: `Grenzen der Ratio`, „Der Versuch, ein inhärent paradoxes System“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L60]
+
+- Story: „Verlagerung des Fokus auf Kaels analytischen Anteil (Lex)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61]; „ersten direkten, wenn auch subtilen, Konfrontationen mit Guardian LogOS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61]
+- Concept: „Die Konfrontation mit LogOS zeigt AEGIS' rigide, aber potenziell fehlerhafte Logik“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L62] (concept tag: the `AEGIS-Paradoxon`)
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Logik der Risse
 
 Title: „Die Logik der Risse“ ^[roman-outline-system-kael.md:L57]
 Position: Teil I, KW1
 
 - Story: in the Mnemosyne-Archiv Kael meets „den Archivar“ ^[roman-outline-system-kael.md:L57] Lex, who „weist Kaels Sorgen als subjektive Fehlwahrnehmung zurück“ ^[roman-outline-system-kael.md:L57].
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.1, „Der Funke im Nichts / Das Flackern im Konstrukt“ ^[finales-kausales-plot-geruest.md:L24] (Kapitel 1–2)
+
+The beat sheet places Kapitel 2 in Beat 1.1; the beat spans Kapitel 1 to 2.
+
+- Beat: the heading titles it „Der Funke im Nichts / Das Flackern im Konstrukt“ ^[finales-kausales-plot-geruest.md:L24]
+- Event: the beat sheet's `Beschreibung` says „erwacht Kael in der hyper-geordneten, sterilen Kernwelt“ ^[finales-kausales-plot-geruest.md:L26]
+- Cause: the `Kausale Verknüpfung` says „mit Amnesie ist die direkte Folge dieses Reboots“ ^[finales-kausales-plot-geruest.md:L27]
+- Throughlines: the OS or MC line says „Führt Kaels anfänglichen Zustand der Amnesie und Fragmentierung ein“ ^[finales-kausales-plot-geruest.md:L33]
 
 ## Reading — `outline`, 2025-07-30, the outline — Die Brüche im Protokoll
 
@@ -82,6 +98,10 @@ Position: Teil I, „Identifikation des“ ^[romanstruktur-und-philosophische-ei
 - Story: the Guardians are introduced as Managers in IFS terms, parts „deren Aufgabe es ist, das System funktionstüchtig zu halten“ ^[romanstruktur-und-philosophische-einleitung.md:L47]
 - Story: the periphery of KW1 turns into the domain of Cerberus: „Cerberus steht für Abwehrmechanismen, Paranoia und rigide Grenzen.“ ^[romanstruktur-und-philosophische-einleitung.md:L49]
 
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — within Kap 1–3, architectural storytelling proposed
+
+- The plot analysis gives no line of its own to Kap 2; it falls within its proposal for Kap 1–3: „Vertiefung des Architectural Storytelling“ ^[plot-analyse-und-romanentwicklung.md:L141], the environment carrying „einen größeren Teil der narrativen Last“ ^[plot-analyse-und-romanentwicklung.md:L141].
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Diagnoseprotokoll
 
 Title: „Das Diagnoseprotokoll“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L67]
@@ -89,6 +109,14 @@ Position: Teil I; setting from the `Schauplatz` field: „Transit-Korridor in Lo
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Unit 734 (Guardian/Regel-Exekutor), Lex (Analytiker), Kiko (Kind-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L70]
 - Story: the blueprint plans, in `Plot-Beats`, „Unit 734 stoppt Kael für einen Kohärenz-Test“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L72] and „Kael besteht knapp, ist nun aber markiert“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L72]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the fragment of Kapitel 2, falling through the system noise
+
+- under Leitfrage 4 it asks whether the transition is a violent falling „durch das Systemrauschen, wie im Fragment“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L85] `Kapitel 2: Resonanz` described (its source 30); it asks, and settles nothing.
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — Kael's fall through the decaying worlds, active resistance recommended
+
+- The publisher's report criticises Kael as „extrem reaktiv und passiv“ ^[romananalyse-kohaerenz-plot-kritik.md:L141] in the concept of the first two chapters. Of the second it says that Kael, falling „durch die zerfallenden Welten“ ^[romananalyse-kohaerenz-plot-kritik.md:L162], should not merely endure: „sollte dies nicht nur ein passives Ertragen sein“ ^[romananalyse-kohaerenz-plot-kritik.md:L162] — the report's recommendation.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Geometrie der Isolation
 

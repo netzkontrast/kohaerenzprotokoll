@@ -383,3 +383,35 @@ the **first direct encounter in the present is in Akt III, Kap 32**; the Vortex 
 **What this decides:** the chapter of the first direct appearance in the present. Kap 33 (the character bible),
 Kap 38 (the outline) and Kap 3 (the dual-storyform outline of 2026-04-30) stay on this record as what those documents said, dated, and are no longer the arrangement. That
 Juna appears earlier in remembered scenes and speaks is W0's answer, not a source's.
+
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development plans Juna/V's first contact in Chapter 19, fragmentary and fleeting, and an intensified contact in Chapter 25.**
+
+Chapter 19 is titled „Das Flüstern von Außen: Erster Kontakt mit Juna/V“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L177]. Its focus field reads „Der erste bewusste, wenn auch fragmentarische, Kontakt mit der externen Entität Juna/V“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L179], and the strategy field makes it come through the `Risse` or the Überwelt: „gelingt Kael ein erster, flüchtiger Kontakt zu Juna/V“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L180]. The nature of the contact is left open: „Die Natur der externen Ebene bleibt unklar“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L180]. Chapter 25 plans an intensification: „Die Intensivierung des Kontakts zu Juna/V liefert entscheidende Informationen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L221], with the hedge „Kael erhält möglicherweise spezifische Informationen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L222], and „Die Natur von Juna/V wird etwas deutlicher, aber ein Rest Mysterium sollte bleiben“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L222].
+
+Where it stands in the record's own terms: a plan that places Juna/V's first contact in Chapter 19, as a contact and not a scene of her presence; recorded, not applied.
+
+## 2026-10-05 — `kohaerenz-protokoll-konzeptentwicklung`, 2025-05-04, the condensed concept
+
+**The condensed concept plans a first clear hint at Juna/V in Chapter 11 and a first conscious, fragmentary contact in Chapter 19; it places no scene of her presence.**
+
+Chapter 11 closes with „Erster klarer Hinweis auf Juna/V als externe Kraft“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L193]. Chapter 19, titled „Das Flüstern von Außen: Erster Kontakt mit Juna/V“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L281], plans „gelingt Kael ein erster bewusster, aber fragmentarischer Kontakt zu Juna/V“ ^[kohaerenz-protokoll-konzeptentwicklung.md:L287] through the `Risse` or the Überwelt.
+
+Stands as a plan with a hint in Chapter 11 and a first contact in Chapter 19, neither a presence in a scene; recorded, not applied.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet hints Juna/V through echoes from Kapitel 1-2 and places no first appearance in person.**
+
+In the first beat (Kapitel 1-2) the IC line says Juna/V „wird subtil durch“ ^[finales-kausales-plot-geruest.md:L34] hints indicated, among them „Echos der Vergangenheit & des Fehlens“ ^[finales-kausales-plot-geruest.md:L34], which anticipates her role as an external source of connection. In Kapitel 10-12 her echoes are „werden deutlicher und dienen als“ ^[finales-kausales-plot-geruest.md:L86] the helper trope the line names; in Kapitel 13 her search „intensiviert sich“ ^[finales-kausales-plot-geruest.md:L99]. The beat sheet writes her as an influence on Kael throughout, and names no beat where she appears in person in the lines read.
+
+Stands as a hint from Kapitel 1-2 through echoes, with no scene of her presence; recorded, not applied, and it predates and does not touch the author's decision of 2026-10-05 (first direct encounter in Kap 32).
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis places the first meeting with Juna in Kapitel 3 and has the system classify it as a „Syntaxfehler“ ^[romanprojekt-analyse-synthese.md:L50].**
+
+The line is in its account of Phase I: „Die erste Begegnung mit Juna in Kapitel 3 wird vom System“ ^[romanprojekt-analyse-synthese.md:L50] so classified, and the conflict it shows is that AEGIS (LogOS) cannot „sehen“ ^[romanprojekt-analyse-synthese.md:L50] her, because she lies outside the axiomatic basis of the kernel (the kernel symbol was lost in the export). The same paragraph puts the first collapse in Kapitel 13.
+
+Stands as an encounter in Kapitel 3, in a synthesis of 2026-04-30 that reports a Struktur-Kanon; recorded, not applied.

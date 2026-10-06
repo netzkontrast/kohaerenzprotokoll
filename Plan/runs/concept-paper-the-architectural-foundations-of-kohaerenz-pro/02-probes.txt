@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      96
+  typographic marks      18
+  ascii quotes           128
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architectural, Architecture, Architectures
+  prote    Protection, Protector, Protectors, Protects
+  world    World, Worldbuilding, Worlds, Worldview
+  found    Foundation, Foundational, Foundations
+  poten    Potential, Potentialis, Potentiality
+  proto    Protocol, Protocols, Protokoll
+  syste    System, Systemic, Systems
+  aegis    AEGIS, Aegis
+  alter    Alter, Alters
+  careg    Caregiver, Caregiving
+  coher    Coherence, Coherons
+  confl    Conflict, Conflicts
+  corre    Corrective, Correspondence
+  criti    Criticism, Criticizes
+  emerg    Emergence, Emergent
+  integ    Integration, Integrator
+  inter    Interaction, Internal
+  kernw    Kernwelt, Kernwelten
+  logos    LogOS, Logos
+  nietz    Nietzsche, Nietzschean
+  ontol    Ontological, Ontology
+  origi    Origin, Original
+  psych    Psycho, Psychological
+  ratio    Rationalist, Rationalization
+  react    Reaction, Reactions
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  Host < Hostile
+  Part < Parts
+  Riss < Risse
+  AEGIS < Aegis
+  Alter < Alters
+  LogOS < Logos
+  Logic < Ontological
+  Logic < Psychological
+  These < Theseus
+  World < Worlds
+  World < Worldview
+  World < Worldbuilding
+  Action < Reaction
+  Action < Reactions
+  Action < Interaction
+  Nature < Signature
+  Origin < Original
+  Psycho < Psychological
+  System < Systems

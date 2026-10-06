@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Kernel (K₁)
 status: candidate
-sources: 28
-readings: 28
+sources: 29
+readings: 29
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese"]
 aliases: ["Kohärenz-Kernel"]
 gathered: "2026-09-24"
 ---
@@ -55,6 +55,10 @@ The audit's table row lists its properties: „Symmetrie, Reversibilität, Rekur
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — the coherence kernel as the domain of reversible computation
 „Der Kohärenz-Kernel repräsentiert die Domäne der reversiblen, informationserhaltenden Berechnungen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L17], embodied by the Konstrukt-Stadt and AEGIS (L17). The kernel's symbol is lost in the export (empty `()` in the same line).
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — the domain of reversible computation, embodied by the Konstrukt-Stadt and AEGIS
+
+The synthesis writes „Der Kohärenz-Kernel () repräsentiert die Domäne der reversiblen, informationserhaltenden Berechnungen“ ^[romanprojekt-analyse-synthese.md:L21]; the symbol in the bracket was lost in the export and is not supplied here. It calls the kernel the „Fundament der Struktur, der logischen Konsistenz und der algorithmischen Vorhersehbarkeit“ ^[romanprojekt-analyse-synthese.md:L21], embodied in the world of the novel by the Konstrukt-Stadt and AEGIS. It adds that a system aiming at total stability falls into a paradoxical instability and can generate „keine echte Zeitpfeil-Dynamik oder Bedeutung“ ^[romanprojekt-analyse-synthese.md:L21].
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 

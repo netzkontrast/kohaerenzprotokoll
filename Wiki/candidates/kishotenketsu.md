@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen"]
 gathered: "2026-09-25"
 ---
 
@@ -25,6 +25,10 @@ The architecture analysis lists it among the key narrative techniques under the 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the principle named in Kap 40/0
 
 The master blueprint names the principle in the coda: „Das Kishōtenketsu-Prinzip vollzieht sich“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385] and says what it does there: „Der Moment nach dem Ende löst den Anfang aus.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the end rests on Kishotenketsu, with Ten to Ketsu as the climax
+
+The Leitfragen report says of the ending (Chapter 39 to 40/0) that it rests „explizit auf dem ostasiatischen“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153] model, and defines the climax as the passage from `Ten`, the sudden turn in which Kael's integration forces AEGIS into self-contradiction, to `Ketsu`, „der zirkulären Rekursion, in der das Ende zum Neuanfang wird“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153]. This is its account of the plot documents. It notes that the structure traditionally departs from causal conflict, and asks how a cathartic experience results for the reader.
 
 ## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28
 

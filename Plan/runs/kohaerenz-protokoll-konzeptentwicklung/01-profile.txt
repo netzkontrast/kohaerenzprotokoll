@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-konzeptentwicklung
+  lines                580  (frontmatter ends at 0)
+  body words           8724
+  headings             44   bold-only lines 5
+  table rows           9   code fences 0
+  question marks       82
+  backslash escapes    426
+  typographic marks    12   ascii quotes 62
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    91
+  repeated labels      Recherche-Keywords x40, Research & Concept Application x40, Wie/Was x40, Wirkung x40
+  longest line         1189 chars
+

@@ -1,0 +1,14 @@
+# the-coherence-protocol-a-definitive-guide-to-the-narrative-a
+  lines                175  (frontmatter ends at 9)
+  body words           3715
+  headings             22   bold-only lines 0
+  table rows           24   code fences 0
+  question marks       1
+  backslash escapes    122
+  typographic marks    15   ascii quotes 118
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    3
+  repeated labels      none
+  longest line         2554 chars
+

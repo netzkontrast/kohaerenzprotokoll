@@ -1,0 +1,204 @@
+{
+  "document": "the-coherence-protocol-a-definitive-guide-to-narrative-archi",
+  "drive_id": "1Tmx_z_b9_aixXsPwgMO3-ixoHVMABRxmxiufOpgKvzE",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 140,
+  "typographic_marks": 17,
+  "ascii_quotes": 102,
+  "inflection_families": {
+    "integ": [
+      "Integration",
+      "Integrative",
+      "Integrator",
+      "Integrity"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "prote": [
+      "Protection",
+      "Protector",
+      "Protectors",
+      "Protects"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture",
+      "Architectures"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherons"
+    ],
+    "confl": [
+      "Conflict",
+      "Conflicts"
+    ],
+    "confr": [
+      "Confrontation",
+      "Confronted"
+    ],
+    "criti": [
+      "Criticizes",
+      "Critique"
+    ],
+    "defin": [
+      "Defining",
+      "Definitive"
+    ],
+    "domai": [
+      "Domain",
+      "Domains"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "inter": [
+      "Interaction",
+      "Internal"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontology"
+    ],
+    "origi": [
+      "Origin",
+      "Original"
+    ],
+    "prima": [
+      "Primal",
+      "Primary"
+    ],
+    "princ": [
+      "Principal",
+      "Principle"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "ratio": [
+      "Rationalist",
+      "Rationalization"
+    ],
+    "react": [
+      "Reaction",
+      "Reactions"
+    ],
+    "regul": [
+      "Regulated",
+      "Regulation"
+    ],
+    "relat": [
+      "Relational",
+      "Relationships"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Hero",
+      "Coherons"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Ship",
+      "Relationships"
+    ],
+    [
+      "With",
+      "Within"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "These",
+      "Theseus"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Action",
+      "Reaction"
+    ],
+    [
+      "Action",
+      "Reactions"
+    ],
+    [
+      "Action",
+      "Interaction"
+    ],
+    [
+      "Domain",
+      "Domains"
+    ],
+    [
+      "Nature",
+      "Signature"
+    ],
+    [
+      "Origin",
+      "Original"
+    ]
+  ]
+}

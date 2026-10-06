@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "source": "Kap 39",
+      "target": "Wir-AEGIS-plural",
+      "type": "who",
+      "quote": "Akt III, Wir-AEGIS-plural, Kap 39.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 17",
+      "target": "die „Drähte“ der Simulation",
+      "type": "object",
+      "quote": "Kap 17 — Phaenomena vs. Noumena. Kael sieht erstmals die „Drähte“ der Simulation",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 27",
+      "target": "klare Absicht, bereit zur Konfrontation",
+      "type": "want",
+      "quote": "Erntung Kap 27 (klare Absicht, bereit zur Konfrontation)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "direkte Berührung der K₁-Reinform",
+      "type": "object",
+      "quote": "Kap 33 ist aletheia (direkte Berührung der K₁-Reinform)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "direkte Berührung der K₁-Reinform",
+      "type": "object",
+      "quote": "Kap 33 (Approach to the Inmost Cave / direkte Berührung der K₁-Reinform)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 35",
+      "target": "Auflösung des Subjekt-Objekt-Spalts",
+      "type": "object",
+      "quote": "Erklärt die Auflösung des Subjekt-Objekt-Spalts in Kap 35 (Vortex 1).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 1",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kap 1 zeigt Geworfen-Sein ohne Klage. Kael nimmt die Welt, wie sie ist",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 15",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kap 15 — Turing-Mechanik. Kanonischer Theorie-Anker. Kael versteht: die Stadt ist eine universelle Turingmaschine, deren Reparaturalgorithmen prinzipiell nicht terminieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 15",
+      "target": "die Stadt ist eine universelle Turingmaschine, deren Reparaturalgorithmen prinzipiell nicht terminieren",
+      "type": "object",
+      "quote": "Kap 15 — Turing-Mechanik. Kanonischer Theorie-Anker. Kael versteht: die Stadt ist eine universelle Turingmaschine, deren Reparaturalgorithmen prinzipiell nicht terminieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 22",
+      "target": "Pixelierung der Welt am Detailrand als sensorische Spur",
+      "type": "object",
+      "quote": "bringt Pixelierung der Welt am Detailrand als sensorische Spur (erste Spuren ~Kap 22, Erntung im Architektur-Kollaps Akt III)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 16",
+      "target": "Auflösung opfern",
+      "type": "cost",
+      "quote": "AEGIS kann die Welt nur halten, indem es Auflösung opfert (Kap 16 — Diktatur der Komplexität)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap-8",
+      "target": "Mengen von Objekten, die logisch nicht existieren dürften",
+      "type": "object",
+      "quote": "als Kap-8-Bild vorgeschlagen: Mengen von Objekten, die logisch nicht existieren dürften, materialisieren sich als",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 18",
+      "target": "Qualia-Informationsparadox",
+      "type": "object",
+      "quote": "Kap 18 — Qualia-Informationsparadox ist die explizite Heimat des harten Problems.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 18",
+      "target": "Kael erlebt, dass seine Sub-Anteile Qualia haben",
+      "type": "who",
+      "quote": "Kap 18 — Qualia-Informationsparadox ist die explizite Heimat des harten Problems. Kael erlebt, dass seine Sub-Anteile Qualia haben",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 30",
+      "target": "K-J-Kanal stabil",
+      "type": "object",
+      "quote": "Kap 30 (K-J-Kanal stabil)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 33",
+      "target": "K₁-Reinform berührt",
+      "type": "object",
+      "quote": "Wenn die K₁-Reinform berührt wird (Kap 33",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 39",
+      "target": "schreibt er sie",
+      "type": "want",
+      "quote": "In Kap 39 schreibt er sie.",
+      "stance": "asserts"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,22 @@ Title: the commission titles the chapter „Der Beobachter im System: Meta-Refle
 - Story: its `Plot Summary` plans „Erkenntnis der Wechselwirkung eigener Aktionen“ ^[kontext-outline.md:L270]
 - Foci: `Kael Sys Focus` „Argus (Meta-Beobachter) zentral“ ^[kontext-outline.md:L271]; `AEGIS Focus` „System als reaktives, selbstbeobachtendes System verstanden“ ^[kontext-outline.md:L272]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Kybernetik zweiter Ordnung`
+
+Focus: `Kybernetik zweiter Ordnung`, „und die daraus resultierende Meta-Ebene des Verständnisses“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L172]
+
+- Story: „sie ist Teil des beobachteten Systems“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L173]
+- Concept: „Kael wechselt von einer Beobachterin erster Ordnung zu einer Beobachterin zweiter Ordnung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L174] (concept tag: `Second-Order Cybernetics (SOC)`)
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.2, „Intervention der Guardians & Kaels Verwirrung“ ^[finales-kausales-plot-geruest.md:L119] (Kapitel 18–21)
+
+The beat sheet places Kapitel 18 in Beat 2.2; the beat spans Kapitel 18 to 21.
+
+- Beat: the heading titles it „Intervention der Guardians & Kaels Verwirrung“ ^[finales-kausales-plot-geruest.md:L119]
+- Event: the beat sheet's `Beschreibung` says „setzen AEGIS' fehlerhafte Protokolle aktiv durch“ ^[finales-kausales-plot-geruest.md:L121]
+- Cause: the `Kausale Verknüpfung` says „hindern sie daran, Kael wirklich zu verstehen, was zu kontraproduktiven Interventionen führt“ ^[finales-kausales-plot-geruest.md:L122]
+- Throughlines: the OS or MC line says „um ihre wahrgenommene Ordnung aufrechtzuerhalten“ ^[finales-kausales-plot-geruest.md:L127]
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -81,6 +97,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Der Maschinenraum der
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Sophia (Guardian), AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L201]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael entdeckt das dunkelste Geheimnis von AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203] and „der Guardian der Integration, tritt auf“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the transition between the worlds, in Kapitel 11 or 18
+
+- under Leitfrage 4 it asks how Kael makes the transition: „gelingt Kael der physische, datentechnische oder psychologische Übergang in Kapitel 11 oder Kapitel 18“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L83]; a question, with no answer (its source 2).
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Kairos Potentialis
 

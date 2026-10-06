@@ -1,0 +1,268 @@
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Central Conceptual Focus"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Central Conceptual Focus` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Narrative & Reader Psychology Strategy"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Narrative & Reader Psychology Strategy` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Research & Concept Application"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Research & Concept Application` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Recherche-Keywords"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Recherche-Keywords` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Gesamter Inhalt dieses Abschnitts"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Gesamter Inhalt dieses Abschnitts` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Zugriff am"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Zugriff am` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Juna/V"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            34
+
+`Juna/V` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#32]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Kernparadoxon"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Kernparadoxon` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Fehlausgerichtete Kohärenz` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "AEGIS"
+whole word, case-sensitive     128
+whole word, case-insensitive   128
+including compounds            135
+
+`AEGIS` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#128]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Selene"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            12
+
+`Selene` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#10]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Nyx"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nyx` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "ANPs"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`ANPs` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "EPs"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`EPs` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#10]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "KW1"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW1` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "KW2"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`KW2` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#9]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "KW3"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`KW3` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#7]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "KW4"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW4` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Konstrukt-Welten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Welten` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Überwelt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Überwelt` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Meta-Ebene"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Meta-Ebene` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Riss"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Riss` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "TSDP"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            35
+
+`TSDP` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#26]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Emergenz"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            18
+
+`Emergenz` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#16]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Gödel"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Gödel` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Cosmic Horror"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Cosmic Horror` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Qualia"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Qualia` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Heldenreise"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Heldenreise` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Sartre"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`Sartre` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Hamartia"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Hamartia` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Apparently"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Apparently` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Emotionaler Teil"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Emotionaler Teil` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Echo"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Echo` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Ch"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            113
+
+`Ch` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Wirkung"
+whole word, case-sensitive     42
+whole word, case-insensitive   42
+including compounds            42
+
+`Wirkung` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#42]
+
+$ python3 scripts/read.py kohaerenz-protokoll-gesamtkonzept-entwicklung --count "Insight"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Insight` ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:#25]
+# 40 blocks x 5 labels = 200 (stance_marker_count); profile: question marks 61, glued ref numbers 128 (01-profile.txt)
+
+$ grep -o ANP/EP compounds
+      6 ANP
+      1 ANP-Abwehr
+      1 ANP-Angst
+      1 ANP-Differenzierung
+      1 ANP-Funktion
+      1 ANP-Kooperation
+      1 ANP-Normalitätsversuch
+      6 ANPs
+      5 EP
+      1 EP-Interaktion
+      2 EP-Kontakt
+      1 EP-Merkmalen
+      1 EP-Phobien
+     10 EPs

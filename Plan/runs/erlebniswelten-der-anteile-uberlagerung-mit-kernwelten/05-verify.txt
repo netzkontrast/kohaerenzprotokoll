@@ -1,0 +1,98 @@
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "Interpretation im Romankontext"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Interpretation im Romankontext` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#2]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "vielleicht"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`vielleicht` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#7]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "könnte"
+whole word, case-sensitive     7
+whole word, case-insensitive   11
+including compounds            7
+
+`könnte` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#7]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "Erlebniswelt"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            17
+
+`Erlebniswelt` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#12]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "Überlagerung mit Kernwelten"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Überlagerung mit Kernwelten` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#11]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "AEGIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#1]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "Sophia"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Sophia` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#2]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "TSDP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`TSDP` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#0]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "TSDP-Rolle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP-Rolle` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#1]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "ANP"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`ANP` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#6]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "EP"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            9
+
+`EP` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#6]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "Persönlichkeit"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Persönlichkeit` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#0]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "Persönlichkeitsanteil"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Persönlichkeitsanteil` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#0]
+
+$ python3 scripts/read.py erlebniswelten-der-anteile-uberlagerung-mit-kernwelten --count "Konstrukt-Stadt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Stadt` ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:#1]
+

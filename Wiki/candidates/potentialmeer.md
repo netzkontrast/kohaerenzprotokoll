@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 31
-readings: 32
+sources: 35
+readings: 36
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-protokoll-json", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "monstergruppe-primzahlen-plot-blueprint", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-protokoll-json", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "project-codex-the-canonical-narrative-architecture-of-kohaer", "plot-analyse-und-romanentwicklung", "welt"]
 gathered: "2026-09-17"
 ---
 
@@ -43,6 +43,10 @@ In `Die Krise` the void is „ein Potentialmeer unendlicher Zustände“ ^[einle
 
 First answer (L21): `Potentialmeers` stands as the alternative name for the ground AEGIS negates: „Seine Existenz ist rekursiv durch die Negation des“ ^[charaktere.md:L21] `Nichts Rauschens` „oder“ `Potentialmeers`.
 
+## Reading — `welt`, 2025-07-29, the Welt blueprint — the pre-cosmic ground that presses on AEGIS, in the second pass
+
+The first pass names the Potentialmeer only against the Überwelt: a refuge of logic „inmitten des grenzenlosen Chaos des Potentialmeers“ ^[welt.md:L68], its rules differing from „chaotischen Bedingungen des Potentialmeers“ ^[welt.md:L70]. The second pass counts it as a level (L84) and gives it a section (L132–L138): „Das Potentialmeer ist der undifferenzierte, prä-kosmische Urgrund“ ^[welt.md:L134], and „Es ist nicht Nichts, sondern die Möglichkeit von Allem“ ^[welt.md:L134]. The conceptual core is „reiner, hoch-entropischer Potentialität mit fluider Kausalität“ ^[welt.md:L136]. Its sensory signature combines „informationaler Leere (visuell), akustischem Druck ohne Klang“ ^[welt.md:L137] and induced existential fear. The section closes with „ultimative existenzielle Bedrohung für AEGIS“ ^[welt.md:L138], and the line before says it exerts an `aktiven ontologischen Druck` (the line's own words, in straight quotation marks) that AEGIS resists (L136).
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the concept document, the strategy paper, the architecture analysis, the scene outline) — the primordial state
 
 The concept document names it with its second name: „(The Sea of Potentiality), also known as“ ^[ai-assisted-narrative-coherence.md:L533] `Nichts Rauschen`. It places AEGIS's birth there: „From within the chaotic churn of the Potentialmeer, a“ ^[ai-assisted-narrative-coherence.md:L541] minimal information fragment emerged. The architecture analysis: it „is the primordial, undifferentiated source of all potentiality.“ ^[ai-assisted-narrative-coherence.md:L1738] In the last scene of the scene outline Kael „observes a new system beginning to form within the Potentialmeer.“ ^[ai-assisted-narrative-coherence.md:L1665]
@@ -50,6 +54,10 @@ The concept document names it with its second name: „(The Sea of Potentiality)
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — the Sea of Potentiality, Das Potentialmeer / Nichts Rauschen
 
 The Definitive Guide writes the English `The Sea of Potentiality` and, in brackets, the German „Das Potentialmeer / Nichts Rauschen“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L68] — two German names in one bracket. It is „the primordial state of reality“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L68], „a high-entropy ocean of pure, unstructured information“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L68], one of two domains „outside of AEGIS's direct control“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L66]. Its sensory signature includes an „auditory pressure without sound“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L68].
+
+## Reading — `project-codex-the-canonical-narrative-architecture-of-kohaer`, 2025-11-03, the Project Codex — the chaotic source of AEGIS
+
+The Project Codex names the Void with the English and the German in one phrase and calls it „the primordial state of reality“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L46], with the sensory signature `Nichts Rauschen`. In its account of AEGIS's origin the same sea appears as the place AEGIS came from: AEGIS emerged „from the chaotic“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L64] `Potentialmeer`.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The Potentialmeer named as part of Part III's dominant domain
 
@@ -59,11 +67,19 @@ The three-part analysis heads Part III „Dominante Domäne: Der Systemkern & Da
 
 This is a report of another document (its reference 87). The report says the analysed scenario uses Constructor Theory (the `Potential Sea`) to show the raw material of reality before it is collapsed into facts by AEGIS (L205). The report writes the English `Potential Sea`, and the German name is absent: `Potentialmeer` ^[hard-sci-fi-cosmic-horror-research-questions.md:#0].
 
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — the Nichts Rauschen as a Potentialmeer
+
+The plot analysis reports, with reference 1, that the `Nichts Rauschen` functions as „aktives Potentialmeer“ ^[plot-analyse-und-romanentwicklung.md:L23], and adds `Śūnyatā` in brackets. It says nothing more of the Potentialmeer.
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the sea beyond the simulation, in Kap 18 to 34
 
 The master blueprint plans the Potentialmeer as what lies beyond the simulation and what AEGIS is set against. Kap 18 plans that AEGIS uses Kael's EPs as computing power „um die Unendlichkeit des Potentialmeers zu analysieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L203] Kap 22 sets the border: „Die ontologische Grenze (Epsilon-Null) zum Potentialmeer.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L232] and plans Kael to look „in das brodelnde Chaos des Potentialmeers“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235] In the same chapter the Risse arise because „Die Risse entstehen, weil das Potentialmeer nach der Ganzheit von“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235] (a symbol is lost after `Ganzheit` in the export).
 
 Kap 27 is titled for a descent into it and plans Kael to dive „in das rohe, mathematische Chaos des Potentialmeers eintauchen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L279] Kap 34 plans the paradox: „AEGIS (die Negation) existiert nur, weil das Potentialmeer existiert“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L335]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — one of Juna's possible natures; where the collapse is shown
+
+In the Leitfragen report `Potentialmeers` stands twice, both times in a question or alternative. Juna could be, the report says of the documentation, „eine Manifestation des“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L23] Potentialmeers; and it asks how the narration visualises the collapse of the system in Chapter 37 in the Lyons-Welt or the Potentialmeer. The report gives no description of it.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Potentialmeer in Kap 21 as AEGIS's origin
 
@@ -94,6 +110,10 @@ In the Vortex directive (§4.1, step 3, `Lösung zu C.4`) Kael experiences the t
 ## Reading — `kohaerenz-protokoll-kapitel-outline-erstellung`, 2026-04-30, the dual-storyform outline — the sea at the edge of the city in Kap 33 and Kap 37
 
 Kap 33 lists it: „Potentialmeer, Negative Space Writing.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L974] Its beat places Kael before it: „Kael tritt an den Rand der verfallenden Stadt und blickt auf das Potentialmeer hinaus.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L976] In Kap 37 it is what Kael reshapes: „das entropische Chaos der Konstrukt-Stadt (das Potentialmeer)“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1120]
+
+## Where the sources differ
+
+- `welt` (2025-07-29) gives the Potentialmeer as „nicht Nichts, sondern die Möglichkeit von Allem“ ^[welt.md:L134] and as pressure and threat to AEGIS.
 
 ## Open
 

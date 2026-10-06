@@ -1,0 +1,14 @@
+# finales-kausales-plot-geruest
+  lines                226  (frontmatter ends at 9)
+  body words           3892
+  headings             4   bold-only lines 15
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    5
+  typographic marks    2   ascii quotes 554
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    35
+  repeated labels      Beschreibung x15, Dramatica Throughline Function x15, IC (Juna/V) x15, Kausale Verknüpfung x15, MC (Kael) x15, OS (AEGIS) x15, SS (Kael ↔ Juna/V) x15
+  longest line         642 chars
+

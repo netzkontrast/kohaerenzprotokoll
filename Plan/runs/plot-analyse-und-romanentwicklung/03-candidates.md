@@ -1,0 +1,93 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is an assistant's analysis of the plot of a novel, written to the author in the second person. Its voice is advice. Terms stand in the novel's world, in a table of four worlds (L67 to L73), and in a numbered Heroine's Journey. Lens terms are listed under the heading below. Chapter titles and references are left out.
+
+- Kohärenz Protokolls
+- Kohärenz Protokoll
+- Genesis der Existenz
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Nichts Rauschen
+- Śūnyatā
+- Zero-Trust Execution Model
+- ZTEM
+- Risse
+- thermodynamische Preis der Ordnung
+- Konstrukt-Stadt
+- Transitkorridor 3
+- Kern-Welten
+- Kael
+- Juna
+- Host
+- Anscheinend Normaler Persönlichkeitsanteil
+- ANP
+- Datenknotenpunkt Gamma-7
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Möglichkeiten-Garten
+- Ly-Welt
+- McL-Welt
+- Sub-Netzwerk Gamma-Phi
+- Beta-Rho-5
+- McL-Sigma-3
+- Kohärenz-Optimierer Stufe 2
+- IP-K1123
+- Beta7
+- Co1
+- McL
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Guardians
+- Alters
+- Manager-Anteil
+- Gatekeeper-Alter
+- Limina
+- Index
+- Silas
+- Eos
+- Praetor
+- Nox
+- Oblivion
+- Echo
+- Flicker
+- Exilanten
+- Universal Reboot
+- Inneren Garten
+- Wir-Geflecht
+- Mosaik-Herz
+- Externe Ebene
+- Externen Ebene
+- Jetzt-Raum
+- Cache-Inkohärenz
+- Spirituellen Dürre
+- PMAS
+- Predictive Modeling & Adaptation Subsystem
+- Wartungsdrohnen
+
+## lens
+
+- Landauer-Prinzip
+- Shannon-Entropie
+- Internal Family Systems
+- Firefighter
+- Persecutor
+- Healing the Wounded Masculine
+- Descent to the Goddess
+- Boon of Success
+- Separation from the Feminine
+- Heroine's Journey
+- Hero's Journey
+- Erster Unvollständigkeitssatz
+- Gödelscher Satz
+- Monstrous Moonshine
+- Monstergruppe
+- j-Funktion
+- Sporadische Gruppen
+- Parakonsistente Logik
+- Dialetheismus
+- Uncanny Valley
+- Architectural Storytelling

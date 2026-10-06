@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 28
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -49,12 +49,28 @@ Title: the commission titles the chapter „Der Schatten des Beschützers“ ^[k
 - Story: its `Plot Summary` plans „Identifiziert System als feindlich, Misstrauen, Abwehr“ ^[kontext-outline.md:L101]
 - Foci: `Kael Sys Focus` „Erster ANP-Konflikt (Lex vs. Alex)“ ^[kontext-outline.md:L102]; `AEGIS Focus` „Reagiert auf Widerstand/Abwehr (Eskalation?)“ ^[kontext-outline.md:L103]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Notwendigkeit der Abwehr`
+
+Focus: `Notwendigkeit der Abwehr`, „Die Aktivierung des Beschützer-Anteils (Alex) als Reaktion auf wahrgenommene Bedrohung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L67]
+
+- Story: „Die Erzählperspektive färbt sich durch Alex' Misstrauen und Abwehrhaltung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L68]
+- Concept: „Alex' Erwachen ist eine typische“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L69] (concept tag: an `ANP-Differenzierung`)
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Illusion der Therapie
 
 Title: „Die Illusion der Therapie“ ^[roman-outline-system-kael.md:L59]
 Position: Teil I, KW1
 
 - Story: a session with Dr. Thorne, „einer KI-Entität, die darauf programmiert ist, Abweichungen durch logische Umdeutung zu“ ^[roman-outline-system-kael.md:L59] heal; „Thorne erklärt die“ ^[roman-outline-system-kael.md:L59] Risse as stress symptoms.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.2, „Das Ufer im Nebel / Der Fehler in der Logik“ ^[finales-kausales-plot-geruest.md:L37] (Kapitel 3–4)
+
+The beat sheet places Kapitel 3 in Beat 1.2; the beat spans Kapitel 3 to 4.
+
+- Beat: the heading titles it „Das Ufer im Nebel / Der Fehler in der Logik“ ^[finales-kausales-plot-geruest.md:L37]
+- Event: the beat sheet's `Beschreibung` says „Kael erlebt eine sich verändernde Realität“ ^[finales-kausales-plot-geruest.md:L39] „behindert aktiv sein Verständnis“ ^[finales-kausales-plot-geruest.md:L39]
+- Cause: the `Kausale Verknüpfung` says „liegt in seiner TSDP-basierten Fragmentierung begründet“ ^[finales-kausales-plot-geruest.md:L40]
+- Throughlines: the OS or MC line says „genau die Probleme verursachen, die sie zu verhindern suchen“ ^[finales-kausales-plot-geruest.md:L45]
 
 ## Reading — `outline`, 2025-07-30, the outline — Der Archivar und die flüsternden Daten
 
@@ -82,6 +98,10 @@ Position: Teil I, „Verlust der Kontrolle“ ^[romanstruktur-und-philosophische
 - Story: the way leads „Der Weg führt tiefer in die Psyche, weg von der Logik“ ^[romanstruktur-und-philosophische-einleitung.md:L53] into KW2, the domain of Mnemosyne
 - Story: there Kael suffers a loss of control: „Kael erlebt einen massiven Kontrollverlust.“ ^[romanstruktur-und-philosophische-einleitung.md:L55]
 
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — within Kap 1–3, architectural storytelling proposed
+
+- The plot analysis gives no line of its own to Kap 3; it falls within its proposal for Kap 1–3: „Vertiefung des Architectural Storytelling“ ^[plot-analyse-und-romanentwicklung.md:L141], the environment carrying „einen größeren Teil der narrativen Last“ ^[plot-analyse-und-romanentwicklung.md:L141].
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Das Logikgatter
 
 Title: „Das Logikgatter“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L75]
@@ -89,6 +109,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Kaels Arbeitsstation /
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, LogOS (System-Wächter), Lex“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L78]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael analysiert Datenströme und entdeckt ein inkompressibles, organisches Datenpaket“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80] and „Kael nimmt erstmals den Geruch von nasser Erde wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L80]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kael's order to eliminate Nova Ardent in Kapitel 3
+
+- under Leitfrage 1 the report, citing its source 10, writes „In Kapitel 3 erhält Kael, in seiner Rolle als Elite-Cybersoldat der Aegis Coalition, den Befehl“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L25] to eliminate Nova Ardent, a Data-Runnerin; its table names her „Zielperson in Kapitel 3, Data-Runnerin, Repräsentation von Wahrheit.“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L35]
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das flüchtige Echo
 
@@ -146,6 +170,10 @@ Title: „Die Juna-Anomalie“ ^[kohaerenz-protokoll-kapitel-outline-generierung
 - Story: the dual-storyform outline plans „Kael begegnet einer flüchtigen Silhouette“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83]
 - Storyforms: `Storyform B` (`IC: Mind/Conscious`): „Juna übt Druck auf Kaels Bewusstsein aus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L85]; `Storyform A` (`IC: Universe/Past`): „Sie ist die äußere, verlorene Wahrheit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L86]
 - Scene and pacing: `Szenen-Keim`: „Ein Telefon in einer verlassenen Lobby“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L87]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — first encounter with Juna, classed a syntax error
+
+- The reset synthesis places in Phase I: „Die erste Begegnung mit Juna in Kapitel 3 wird vom System als“ ^[romanprojekt-analyse-synthese.md:L50] „Syntaxfehler“ ^[romanprojekt-analyse-synthese.md:L50] classified.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

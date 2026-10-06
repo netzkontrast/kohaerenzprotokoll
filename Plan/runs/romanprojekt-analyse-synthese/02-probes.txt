@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      15
+  backslash escapes      34
+  typographic marks      98
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systemarchitektur, Systematische, Systemgrenzen, Systems, Systemstabilität, Systemzerfalls
+  ident    Identifikation, Identifizierte, Identifizierung, Identity, Identität, Identitätsstörung
+  inter    Interaktion, Interdisciplinary, Interface, Interferenz, Interferenzmuster, Interne
+  grenz    Grenze, Grenzen, Grenzschutz, Grenzwerte
+  infor    Information, Informationserhaltung, Informationskapazität, Informationsparadox
+  lösch    Löschen, Löschroutinen, Löschung, Löschvorgang
+  proto    Protokoll, Protokolle, Protokollen, Protokolls
+  reali    Realisierung, Realität, Realitäts, Realitätssubstrat
+  roman    Roman, Romanprojekts, Romans, Romanwelt
+  analy    Analyse, Analysen, Analytische
+  antei    Anteil, Anteile, Anteilen
+  archi    Architecture, Architektur, Archivist
+  guard    Guard, Guardian, Guardians
+  gödel    Gödel, Gödels, Gödelsche
+  integ    Integration, Integrity, Integrität
+  phase    Phase, Phasen, Phasenanalyse
+  prinz    Prinzip, Prinzipien, Prinzips
+  psych    Psyche, Psychologie, Psychology
+  relat    Relationaler, Relationalität, Relationship
+  selbs    Selbst, Selbstmodell, Selbstmord
+  aktio    Aktionssystem, Aktionssystemen
+  algor    Algorithmen, Algorithmische
+  alter    Alter, Alters
+  attra    Attractor, Attraktor
+  ausar    Ausarbeitung, Ausarbeitungsphase
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dual < Individualität
+  Echo < Echos
+  Eine < Anscheinend
+  Form < Storyform
+  Form < Information
+  Form < Transformation
+  Form < Informationsparadox
+  Form < Informationserhaltung
+  Form < Informationskapazität
+  Form < Quanteninformationstheorie
+  Kael < Kaels
+  Main < Domain
+  Meta < Metapher
+  Meta < Metadaten
+  Meta < Metaphern
+  Mind < Mindestmenge
+  Raum < Trauma
+  Raum < Schutzraum
+  Raum < Raumbereichs

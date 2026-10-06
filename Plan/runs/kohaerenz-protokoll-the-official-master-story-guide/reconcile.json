@@ -1,0 +1,106 @@
+{
+  "document": "kohaerenz-protokoll-the-official-master-story-guide",
+  "drive_id": "10h0wm-7yXp5AGySyAWJG2Mzf-aT8NSKaV5JZRzlSY3g",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; fourth in the queue re-ranked after document 111; a light pass, being a version of the codex of documents 96 and 105; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-114/brief.md, on the seven parts its roster changes and on C17 and Q3",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 105,
+    "decisions": 110,
+    "decided_by_lookup": 82,
+    "needs_judgement": 28
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: a version of the codex of documents 96 and 105 in English. Its new names — Isabella, The Sentinel, Vesper, Caspian/Sloane in the roster, the Schwarzschild Protocol and its tensors, AEGIS's Logics of Formal Inconsistency and Discursive Logic — stand once each in this document and nowhere read; they are on Q3 and kael, not on pages of their own.",
+  "new_readings": [
+    {
+      "page": "alex",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "Alex as the Shield"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "Juna's uses of the roster"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "Kael as roster entry, the Host"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "Kiko as the Exile"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "Lex as the System Administrator"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "Nyx as the Avenger, an EP"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "Silas as an EP, the Archivist"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C17"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "as for document 96 — J9 (the title), J34 (Juna/V, Kairos/Sophia), J49 (worlds named for their Guardians: Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis), J100–J102 (English placed by the sentence: the roster's `Kael (The Host)`, `Alex (The Shield)`, `Kiko (The Exile)`, `Silas (The Archivist)` on each part's page; `Guardian's Dilemma`, `Depersonalization`, `Theory of Structural Dissociation of the Personality`), J12 and J16 (Genesis-Krise, Rauschen — AEGIS's noise)",
+  "sweep": [],
+  "not_promoted": [
+    "Isabella (The Data), The Sentinel, Vesper (The Executive), Caspian/Sloane — roster names no page holds; on Q3. `Isabella` is not merged with isabelle, whose page has it only as a former name of a different part",
+    "the Schwarzschild Protocol, Metrische Tensor der Wahrheit, Metrische Tensor der Lüge, Gezeitenkräfte der Semantik (L11) — once each; no page",
+    "Logics of Formal Inconsistency, Discursive Logic, Specification Gaming, Perverse Instantiation, gnosis, episteme — borrowed; no page",
+    "everything the codex of documents 96 and 105 already says — light pass"
+  ],
+  "internal_tension": "none read: a light pass",
+  "baseline_moved": "graphrag.py bench: not re-run for a light pass"
+}

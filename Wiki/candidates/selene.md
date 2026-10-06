@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 49
-readings: 49
+sources: 56
+readings: 56
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "outline-2", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "outline-2", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt"]
 gathered: "2026-09-24"
 ---
 
@@ -22,6 +22,10 @@ Elsewhere she is the integration potential: „Selene, als Repräsentation diese
 
 The world concept hedges Selene's role in every world. KW1: „Selene könnte die Rigidität als Hindernis für Integration sehen“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L39]. KW2: „Selene versucht zu regulieren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L61]. KW3: „Selene könnte hier als rigide Wächterin agieren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L82]. KW4: „Selene (Integrationspotenzial)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L104]. Externe Ebene: „Selene (Integrationspotenzial)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L104] under a positive resonance.
 
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — an observing Anteil and its hedged KW4 overlay
+
+The Erlebniswelten concept lists Selene as „Modifizierter ANP/Integrationspotenzial“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L36] and describes her inner world as „Ein ruhiger, beobachtender Raum“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L38]. On KW4 (Ly) it says she „Erkennt das Potenzial für Wachstum und Heilung, mahnt aber vielleicht zur Vorsicht vor unkontrolliertem Chaos“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L46] and, hedged, „Sie könnte eine besondere Verbindung zu Sophia haben“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L46]. The album titles in the entry are the document's frame.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — a potential, hedged figure at the end
 
 The glossary glosses Selene only as a possibility: „Potenziell integrierter/koordinierender Anteil am Ende.“ ^[kontext-outline.md:L44] The Prologue plans a latent forerunner: „latentes "Echo" (potenzielle Selene)“ ^[kontext-outline.md:L67]. The outline keeps the figure hedged with question marks: Chapter 10 has „Selene-Potenzial?“ ^[kontext-outline.md:L179], Chapter 26 „Selene als Koordinatorin?“ ^[kontext-outline.md:L361], and Chapter 37 „Selene führt?“ ^[kontext-outline.md:L481].
@@ -29,6 +33,22 @@ The glossary glosses Selene only as a possibility: „Potenziell integrierter/ko
 ## Reading — `outline-2`, 2025-05-03, the new-format outline — Selene as a hedged coordinator and a latent echo
 
 The new-format outline plans Selene only with question marks. The prologue's Kael Internal field has a hidden element: „latentes "Echo" (potenzielle Selene).“ ^[outline-2.md:L26] Chapter 26's Kael Internal field reads „Maximale interne Kohärenz/Kooperation; Selene als Koordinatorin?; Klares Zielbewusstsein; Verarbeitung Angst.“ ^[outline-2.md:L394] Chapter 37 has the integrated system choose its future: „Kael (integriertes System, Selene?) wählt: Rückkehr Fundament? Neue Realität gestalten? Anderen helfen?“ ^[outline-2.md:L548] The `kontext-outline` reading on this page has Selene as a potential figure at the end; the prologue's echo line here is a different place at which the plan ties her to a latent element.
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — Selene as a possible integrating, coordinating part, always hedged
+
+The concept development hints at Selene first in the block headed `Chapter 10:`: „Das Potenzial für Selene (als integrierender Anteil) könnte hier angedeutet werden.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L118] In the block headed `Chapter 21: [Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens]`: „Rhys und/oder die sich entwickelnde Selene müssen vermitteln.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L194] In the block headed `Chapter 26:` the plan says the system is „möglicherweise koordiniert durch Selene“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L229] and „Selene könnte als koordinierender oder integrierender Anteil hervortreten.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L230] In the block headed `Chapter 27:` the name carries a question mark: „Koordination verschiedener Anteile (Selene?)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L237].
+
+## Reading — `roman-konzept-kohaerenz-protokoll`, 2025-05-03, the Roman-Konzept — table row: integrating part, with question marks
+
+The Roman-Konzept plans Selene with the role „Integrierender Anteil?“ ^[roman-konzept-kohaerenz-protokoll.md:L68] — a question, not a type — and the core function „Koordination, Integration, Ethik“ ^[roman-konzept-kohaerenz-protokoll.md:L68]. Its phobia entry is „Phobie vor Scheitern der Integration?“ ^[roman-konzept-kohaerenz-protokoll.md:L68], and the concept column names her as „Ziel der Phase 3 Integration; Koordination, höhere adaptive Funktion“ ^[roman-konzept-kohaerenz-protokoll.md:L68]. Primary chapters: 10?, 21, 26, 29, 33 and 37; only the first carries a question mark.
+
+## Reading — `kohaerenz-protokoll-listen-der-tropes-subplots-konzepte`, 2025-05-03, the trope lists — Selene as mentor, as subplot, as Selbst
+
+The trope lists file `Selene` with a question mark under „The Mentor / Der Mentor (Selene?, Juna/V?)“ ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:L104], beside `Juna/V`, also with a question mark: an attribution that is proposed, not settled. The list says of itself that it holds patterns the concept documents „identifiziert oder vorgeschlagen“ ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:L13].
+
+Among the subplots, the first explicit one has Kael's way to Funktionale Multiplizität end in „Ko-Bewusstsein und Kooperation unter Führung von Selene“ ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:L136]. Among the implicit ones the list names „Die Entwicklung von Selene“ ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:L148] and describes it as „Das langsame Erwachen und die Stärkung der inneren Selbst-Figur als Zentrum der Integration, Weisheit und Koordination.“ ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:L148] Under the concepts it lists „Internal Family Systems (IFS) - als analoges Modell (Selene als Selbst)“ ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:L170], an analogy.
+
+`Selene` stands on four lines of the list: `Selene` ^[kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md:#4]
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — guardian-integrator, a potential catalyst, labelled ANP-Regulator in Table 1
 
@@ -41,6 +61,14 @@ The roster (glued `1`, reference 1) lists Selene (Regulatorin) under `Sonderform
 ## Reading — `charaktere`, 2025-07-29, the character concept — Selene as core self and inner helper
 
 The character concept lists Selene second in all three answers. First answer: she „Repräsentiert das Kern-Selbst“ ^[charaktere.md:L37] (L37). Second answer: she is unknown to AEGIS — „Unbekannt für AEGIS, operiert“ ^[charaktere.md:L145] (L145), and the document draws „Parallelen zum“ ^[charaktere.md:L141] Self of the IFS model (L141). Third answer, type: „Innere Helferin (ISH)“ ^[charaktere.md:L274] (L274), with `Torwächter` beside it.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Selene's birth in Beat 3.4
+
+Beat 3.4 is titled „Die Geburt der Selene“ ^[finales-kausales-plot-geruest.md:L201] (Kapitel 36–37). Its description says Kael's inner system reaches its „Höhepunkt der Integration“ ^[finales-kausales-plot-geruest.md:L203], when „Selene als Koordinatorin hervortritt“ ^[finales-kausales-plot-geruest.md:L203] and embraces contradictions. The MC line adds that her birth „symbolisiert Kaels erreichte“ ^[finales-kausales-plot-geruest.md:L210] self-leadership and acceptance of complexity.
+
+## Reading — `welt`, 2025-07-29, the Welt blueprint — Selene as das Selbst in KW4
+
+The Welt blueprint lists Selene among three Anteile of KW4, first pass (L61): „Selene (das Selbst)“ ^[welt.md:L61].
 
 ## Reading — `outline`, 2025-07-30, the outline — Selene as coordinator, in Teil 2's close and Kap 32
 
@@ -111,6 +139,10 @@ The dual-storyform outline gives `Selene` the lead in Kap 18: „Geführt von Se
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — one row of the alter table
 In its alter table (L44–L55, columns `Alter Name`, `TSDP-Aktionssystem`, `Funktionale Rolle`, `DKT-Korrelat`; the export lost the symbol in some cells) Selene has the action system „Reflexion“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L54], the role „Meta-Beobachtung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L54] and the DKT correlate „Intuition / Weitsicht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L54].
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Selene in the ten-alter table: reflection, intuition and foresight
+
+The row for Selene reads „Selene | Reflexion | Meta-Beobachtung | Intuition und Weitsicht“ ^[romanprojekt-analyse-synthese.md:L83]. `Selene` ^[romanprojekt-analyse-synthese.md:#1] stands once in the document, in this row. The row is one of the table the synthesis calls „Das valide Alter-Profil (Reset 2026-04-30)“ ^[romanprojekt-analyse-synthese.md:L68]; its claim to be valid is its own, recorded and not applied.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

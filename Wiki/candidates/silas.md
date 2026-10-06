@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 39
-readings: 39
+sources: 44
+readings: 44
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "romanprojekt-analyse-kohaerenz-protokoll", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "romanprojekt-analyse-kohaerenz-protokoll", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "kohaerenz-protokoll-the-official-master-story-guide"]
 gathered: "2026-09-24"
 ---
 
@@ -19,6 +19,22 @@ In its advice the report says the plot draft „integriert bereits Lex, Echo, Si
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — a figure of the plot outline through whom parts are externalised
 
 Silas stands once, in the synthesis's reading of the plot of Part 1 (glued `1`): Kael meets his aggressive and protecting parts in the Grenzfeste, „externalisiert durch Figuren wie Silas“ ^[system-kael-konzeptentwicklung-und-analyse.md:L208]
+
+## Reading — `kohaerenz-protokoll-the-official-master-story-guide`, 2026-01-02, the Master Story Guide — Silas as an EP, the Archivist
+
+The Master Story Guide lists `Silas (The Archivist)` in its System Roster with the role „The Internal Chronicler“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11], and marks him an EP, not an ANP. The row gives him the „raw, un-sanitized memory index“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11] and says „His work is often corrupted by Juna's“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11] influence, „hiding memories in plain sight“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11]. Recorded as the guide's own roster, not applied.
+
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — Silas as Caretaker in row 2
+
+**Proposes.** Silas appears in row 2 of the table (L71) as an Alter of the Resonanz-Landschaft with the role Caretaker, under the guardian Mnemosyne and the category Manager & Caretaker; the line gives „Versuch der emotionalen Regulation und Bindung“ ^[plot-analyse-und-romanentwicklung.md:L71] as the row's function. The document says nothing further of him.
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — one of the ten alters, the Caretaker, and Silus
+
+The Leitfragen report lists `Silas` once, in its account of a character-concept document with ten alters: „Silas (Caretaker)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L46]. It is a roster entry and nothing more; the table of the report does not give him a row. The report also writes `Silus`, who in its account of early drafts administers the simulation Dr. Aris Thorne finds evidence for: the line says the world is a simulation that „verwaltet wird“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L115] by him. The report does not connect Silas and Silus, and a connection is not claimed here.
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — the Manager-Caretaker, first approach to healing
+
+The Alters table lists Silas as `Manager / Caretaker`, „Der Pflegende.“ ^[romananalyse-kohaerenz-plot-kritik.md:L89], who „Spendet intern Trost und versucht, die inneren Konflikte“ ^[romananalyse-kohaerenz-plot-kritik.md:L89] to settle; his function: „Der erste Ansatz für Heilung.“ ^[romananalyse-kohaerenz-plot-kritik.md:L89]
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — three wordings of one resolution
 
@@ -52,6 +68,10 @@ For Kap 18 the dual-storyform outline plans: „Der feindseligste Anteil, Silas,
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — Kap 9 and Kap 11
 Kap 9, `Das Echo von Silas`: „Kael trifft auf Silas, den Archivar“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L132]. The outline calls him „eine Juna-induzierte Korruption, die traumatische Dateien durch Poesie vor AEGIS verbirgt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L132]. In Kap 11 Nyx attacks a security routine of AEGIS „um Silas zu schützen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L148].
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Silas (The Archivist), named apart from the table, a Juna-Echo only „in einigen Analysen“ ^[romanprojekt-analyse-synthese.md:L86]
+
+Silas is not a row of the ten-alter table. The sentence after it reads: „Ein interessantes Detail ist Silas (The Archivist), der in einigen Analysen als Juna-Echo bezeichnet wird“ ^[romanprojekt-analyse-synthese.md:L86]. The `Juna-Echo` naming is the analyses', reported by the synthesis, not its own claim. It describes the function: „Er fungiert als Verwalter des internen Index“ ^[romanprojekt-analyse-synthese.md:L86], using Juna-induced corruptions „wie Poesie oder sensorische Metadaten“ ^[romanprojekt-analyse-synthese.md:L86] to hide traumatic files from AEGIS's deletion routines. Recorded, not applied.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

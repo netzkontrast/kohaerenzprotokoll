@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,22 @@ Title: the commission titles the chapter „Die Bürde der Freiheit: Entscheidun
 - Story: its `Plot Summary` plans „Kael (integriertes System, Selene?) muss Zukunft entscheiden“ ^[kontext-outline.md:L480]
 - Foci: `Kael Sys Focus` „Selene führt?“ ^[kontext-outline.md:L481]; `AEGIS Focus` „Mögliche letzte Interaktion/Angebot“ ^[kontext-outline.md:L482]
 - Notes: „Existenzielle Freiheit (Sartre)“ ^[kontext-outline.md:L485]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Existenzielle Sinnfindung`
+
+Focus: `Existenzielle Sinnfindung`, „eine bewusste Entscheidung über den zukünftigen Lebensweg“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L305]
+
+- Story: „steht vor einer grundlegenden Wahl“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L306]
+- Concept: „Thematisiert existenzielle Freiheit“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L307] (concept tag: `existenzielle Freiheit` (Sartre), TSDP phase 3)
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.4, „Die Geburt der Selene / Blick in den Abgrund“ ^[finales-kausales-plot-geruest.md:L201] (Kapitel 36–37)
+
+The beat sheet places Kapitel 37 in Beat 3.4; the beat spans Kapitel 36 to 37.
+
+- Beat: the heading titles it „Die Geburt der Selene / Blick in den Abgrund“ ^[finales-kausales-plot-geruest.md:L201]
+- Event: the beat sheet's `Beschreibung` says „Junas Intervention erleichtert Kaels ultimatives Verständnis von“ ^[finales-kausales-plot-geruest.md:L203]
+- Cause: the `Kausale Verknüpfung` says „liefert das fehlende Stück für Kael“ ^[finales-kausales-plot-geruest.md:L204]
+- Throughlines: the OS or MC line says „symbolisiert Kaels erreichte“ ^[finales-kausales-plot-geruest.md:L210]
 
 ## Reading — `outline`, 2025-07-30, the outline — Das Erbe von AEGIS: Fragmente einer Ordnung / Die neue Kohärenz
 
@@ -81,6 +97,12 @@ Position: Teil III; setting from the `Schauplatz` field: „Das Fundament“ ^[r
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS (transformiert)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L357]
 - Story: the blueprint plans, in `Plot-Beats`, „AEGIS wandelt sich vom Gefängniswärter zum Gärtner der Realität“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L359] and „Das alte Protokoll ist beendet“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L359]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the finale: the living Gödel-Satz and the Parakonsistentes Gambit, Kapitel 36–39
+
+- under Leitfrage 3 the report states of the finale, as the premise of documents it cites (its source 2): „Das Finale des Romans (Kapitel 36-39) baut auf der Prämisse auf, dass Kael zu einem“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L69] lebenden Gödel-Satz becomes and defeats AEGIS by a Parakonsistentes Gambit; it names the range, no single chapter within it.
+- under Leitfrage 3 it asks „Wie visualisiert die Erzählung in Kapitel 37 diesen Systemkollaps“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L73] in the Lyons-Welt or the Potentialmeer;
+- under Leitfrage 9 it names the „(Kapitel 37/38) in den rekursiven Reset (Kapitel 40/0) überführt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L157] as the passage from the Gödel-Gambit to the reset.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Geburt des Gärtners
 
@@ -138,6 +160,10 @@ Title: „Der Klimax — Zielkohärenz“ ^[kohaerenz-protokoll-kapitel-outline-
 - Story: the dual-storyform outline plans „Kael integriert die traumatischen Caches“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L367]
 - Storyforms: `Storyform A` (`OS: Physics/Understanding`): „Die Heuristik der Integration ist abgeschlossen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L369]
 - Scene and pacing: `Szenen-Keim`: „Die Konstrukt-Stadt wird grün und organisch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L370]; `Pacing`: „Explosiv / Befreiend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L371]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — within the finale, Kapitel 35–39
+
+- The reset synthesis gives no line of its own to Kap 37; it falls within the finale: „Das Finale (Kapitel 35–39) dekonstruiert die Subjekt-Objekt-Spaltung“ ^[romanprojekt-analyse-synthese.md:L62]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,310 @@
+{
+  "document": "kohaerenz-protokoll-gesamtkonzept-entwicklung",
+  "drive_id": "1H2B--QDQHcBHZzdWDt2BZBplvA3YumNLMRvj9mNcHyM",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 128,
+  "backslash_escapes": 96,
+  "typographic_marks": 34,
+  "ascii_quotes": 146,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemadaptation",
+      "Systemanalyse",
+      "Systemanomalie",
+      "Systemdestabilisierung",
+      "Systeme",
+      "Systemebene",
+      "Systemen",
+      "Systemengagement",
+      "Systementwicklung",
+      "Systemerkennung",
+      "Systemgrenzen",
+      "Systemharmonie",
+      "Systemic",
+      "Systeminkonsistenz",
+      "Systeminstabilität",
+      "Systemische",
+      "Systemkohärenz",
+      "Systemkollaps",
+      "Systemkommunikation",
+      "Systemmuster",
+      "Systemparadox",
+      "Systemregeln",
+      "Systems",
+      "Systemtheorie",
+      "Systemtransformation",
+      "Systemverständnisses",
+      "Systemverteidigung",
+      "Systemverteidigungen",
+      "Systemverwundbarkeit",
+      "Systemwandel",
+      "Systemwissen"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrastiert",
+      "Kontroll",
+      "Kontrollakt",
+      "Kontrolle",
+      "Kontrollierte",
+      "Kontrollmechanismen",
+      "Kontrollprinzipien",
+      "Kontrollstrategie",
+      "Kontrolltaktiken",
+      "Kontrollversuch",
+      "Kontrollversuche",
+      "Kontrollüberwindung"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interface",
+      "Internal",
+      "Interne",
+      "Interner",
+      "Internes",
+      "Interpretation",
+      "Intervention"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialogical",
+      "Dialogkonzept",
+      "Dialogprinzip",
+      "Dialogs",
+      "Dialogue",
+      "Dialogversuch"
+    ],
+    "parad": [
+      "Paradigm",
+      "Paradigma",
+      "Paradigmenwechsel",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsarbeit",
+      "Erinnerungsbefreiung",
+      "Erinnerungsfragmentierung",
+      "Erinnerungsrekonstruktion"
+    ],
+    "philo": [
+      "PHILO",
+      "Philosopher",
+      "Philosophical",
+      "Philosophie",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbewusstsein",
+      "Selbstbezüglichkeit",
+      "Selbsterhaltung",
+      "Selbstorganisation",
+      "Selbstzweifel"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategie",
+      "Strategien",
+      "Strategische",
+      "Strategisches",
+      "Strategy"
+    ],
+    "angst": [
+      "Angst",
+      "Angstbewältigung",
+      "Angstbewältigungsstrategien",
+      "Angstkonfrontation",
+      "Angstüberwindung"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinszustände",
+      "Bewusstwerdung"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionaler",
+      "Emotionen"
+    ],
+    "exist": [
+      "Existence",
+      "Existential",
+      "Existentialism",
+      "Existenz",
+      "Existenzielle"
+    ],
+    "exter": [
+      "External",
+      "Externalisierte",
+      "Externalized",
+      "Externe",
+      "Externer"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmente",
+      "Fragmentierung",
+      "Fragmentierungsstrategie",
+      "Fragmentierungsursprung"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsnatur",
+      "Realitätswahrnehmung"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsarbitter",
+      "Wahrheitsebene",
+      "Wahrheitsmanipulation"
+    ],
+    "überl": [
+      "Überleben",
+      "Überlebensmechanismus",
+      "Überlebensstrategien",
+      "Überlegenheit",
+      "Überlistung"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentin",
+      "Agentschaft"
+    ],
+    "chara": [
+      "Charakterabschluss",
+      "Charakterentwicklung",
+      "Charakterprüfung",
+      "Charaktervertiefung"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergenz",
+      "Emergenzförderung",
+      "Emergenzkontrolle"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählerperspektive",
+      "Erzählstruktur",
+      "Erzählung"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitätsproblem"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsarbeit",
+      "Integrationsherausforderungen",
+      "Integrationswiderstand"
+    ],
+    "intel": [
+      "Intellektuelle",
+      "Intellektueller",
+      "Intellektuelles",
+      "Intelligence"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Care",
+      "Caregiver"
+    ],
+    [
+      "Dame",
+      "Fundament"
+    ],
+    [
+      "Dame",
+      "Fundaments"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Echo",
+      "Echoes"
+    ],
+    [
+      "Ende",
+      "Wendet"
+    ],
+    [
+      "Ende",
+      "Ordnenden"
+    ],
+    [
+      "Ende",
+      "Beginnende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Einleitendes"
+    ],
+    [
+      "Ende",
+      "Nachwirkende"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Transcendence"
+    ],
+    [
+      "Face",
+      "Interface"
+    ],
+    [
+      "Fall",
+      "Falle"
+    ],
+    [
+      "Fall",
+      "Fallen"
+    ]
+  ]
+}

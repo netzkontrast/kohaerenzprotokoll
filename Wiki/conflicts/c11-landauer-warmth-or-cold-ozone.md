@@ -480,3 +480,35 @@ The document is a generated report about other texts that it names only by numbe
 P-02 (five stars, `Landauer-Prinzip / Risse`): „Die thermodynamische Regel: Informationslöschung (mentale Verdrängung) erzeugt physikalische Abwärme; psychologische Konflikte brennen Risse in die Simulation.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L92]
 
 It stands as a statement of heat (Abwärme), without saying warmth or cold in the narrative; the record's rows are not changed.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report states the Landauer principle as „digitale Wärme“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L85] from AEGIS's deletion and asks for its visual form to be specified; it knows no cold.**
+
+The report presents the principle as its account of the world-building it reviews (its source 26), and asks, it does not decide. Of Risse and Glitches: „Landauer's Prinzip postuliert, dass die Löschung von Informationen“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L85] produces thermodynamic entropy, „digitale Wärme“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L85]. Later it opens: „Ein herausragendes physikalisches Konzept“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L139], and: „erzeugt zwangsläufig thermodynamische Entropie“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L139]. Its question for the generator prompts asks that the visual form, „(z. B. visuelle Hitzeschlieren, verzerrte Physik)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L143], be specified exactly. The word `Ozon` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] does not stand in the report (a count, not an inference from it), and it names no chapter for the heat.
+
+Stands on the warmth side, as an account of other documents dated 2026-02-23; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis puts the Landauer principle on the side of heat: AEGIS's suppression of memory „physische Hitze generiert“ ^[romanprojekt-analyse-synthese.md:L29].**
+
+It names the principle the plot's motor: „Das Landauer-Prinzip fungiert hierbei als zentraler Plot-Motor“ ^[romanprojekt-analyse-synthese.md:L27]. The heat shows as thermal `Risse`, „oder Glitches in der Architektur der Konstrukt-Stadt“ ^[romanprojekt-analyse-synthese.md:L29]. In the build plan, the Juna scenes are to make the `Wärme` of the principle felt, „durch dichte, atmosphärische Beschreibungen spürbar werden“ ^[romanprojekt-analyse-synthese.md:L141]. And when Kael recognises a truth, the simulation „überhitzt“ ^[romanprojekt-analyse-synthese.md:L149] locally. The document gives no cold and no colour or smell for the heat (`Ozon` ^[romanprojekt-analyse-synthese.md:#0]).
+
+Stands on the warmth side, in a synthesis of 2026-04-30; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis
+
+**The plot analysis proposes heat and burnt ozone together: the Risse as zones of „digitaler Abwärme“ ^[plot-analyse-und-romanentwicklung.md:L31] where „Die Luft könnte nach verbranntem Ozon riechen“ ^[plot-analyse-und-romanentwicklung.md:L31].**
+
+The proposal carries the label `Narrative Umsetzungsempfehlung` and rests on the Landauer principle. Its Kap 1–3 drones are proposed to repair a glitch at a cost of energy: „Zeigen Sie, dass die Reparatur“ ^[plot-analyse-und-romanentwicklung.md:L141] needs light and heat. Both are the assistant's proposals, not a chapter's fact.
+
+Stands on the warmth side, with ozone beside it, as a proposal only; recorded, not applied, and the record is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report states the Landauer principle as a „digitale Wärme“ ^[romananalyse-kohaerenz-plot-kritik.md:L31] from AEGIS's deletion, and asks where that heat accumulates; it knows no cold and no ozone.**
+
+As its account of the manuscript's world-building: erasing information raises thermodynamic entropy, and AEGIS's „ständiger Kampf gegen die informationelle Unordnung“ ^[romananalyse-kohaerenz-plot-kritik.md:L31] generates the digital heat that breaks down the system. In its closing questions it asks: „wo akkumuliert sich diese Energie innerhalb der Kernwelten?“ ^[romananalyse-kohaerenz-plot-kritik.md:L169]. The word `Ozon` ^[romananalyse-kohaerenz-plot-kritik.md:#0] does not stand in the report (a count), and it names no chapter for the heat.
+
+Stands on the warmth side, as an account of other documents dated 2026-02-23; recorded, not applied, and the record's rows are not changed.

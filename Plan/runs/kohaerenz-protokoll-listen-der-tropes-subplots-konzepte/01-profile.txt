@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-listen-der-tropes-subplots-konzepte
+  lines                260  (frontmatter ends at 9)
+  body words           1549
+  headings             3   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       19
+  backslash escapes    0
+  typographic marks    4   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         327 chars
+

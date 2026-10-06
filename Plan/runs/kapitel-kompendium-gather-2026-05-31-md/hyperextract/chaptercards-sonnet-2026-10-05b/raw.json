@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "source": "KAP 1",
+      "target": "eine einzige konkrete Falschheit (eine Sache, die nicht stimmt)",
+      "type": "falsehood",
+      "quote": "durch **eine einzige konkrete Falschheit** (eine Sache, die nicht stimmt)",
+      "stance": "asserts"
+    },
+    {
+      "source": "KAP 1",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael lebt nur seinen Tag.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Verlust der Privatheit des Wir",
+      "type": "cost",
+      "quote": "Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion) — manifest Kap 39",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 36",
+      "target": "AEGIS-monolithisch erlischt",
+      "type": "cost",
+      "quote": "AEGIS-monolithisch erlischt — manifest Kap 36",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 0",
+      "target": "endet auf den Scherben",
+      "type": "hook_out",
+      "quote": "Kap 0 endet auf den Scherben",
+      "stance": "asserts"
+    },
+    {
+      "source": "1.  **Illusion der perfekten Welt**",
+      "target": "Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7",
+      "type": "place",
+      "quote": "Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7",
+      "stance": "asserts"
+    },
+    {
+      "source": "3.  **Erwachen & Vorbereitung**",
+      "target": "verdoppelt Kontrolle/Ordnung als Bewältigung",
+      "type": "want",
+      "quote": "Kael verdoppelt Kontrolle/Ordnung als Bewältigung",
+      "stance": "asserts"
+    },
+    {
+      "source": "5.  **Auge des Sturms**",
+      "target": "ein Scheinerfolg, dessen Basis nicht integriert ist",
+      "type": "falsehood",
+      "quote": "ein Scheinerfolg, dessen Basis nicht integriert ist",
+      "stance": "asserts"
+    },
+    {
+      "source": "6.  **Tod einer Einstellung**",
+      "target": "die einseitige Logik scheitert an einem komplexen Problem",
+      "type": "obstacle",
+      "quote": "die einseitige Logik scheitert an einem komplexen Problem",
+      "stance": "asserts"
+    },
+    {
+      "source": "10. **Erste Anwendung der Integration**",
+      "target": "K-J-Verbindung",
+      "type": "object",
+      "quote": "10. **Erste Anwendung der Integration** · KW1/McL-Vorschein · A-Requirement: **Moonshine-Bewusstsein**. **Story:** K-J-Verbindung erstmals als Werkzeug.",
+      "stance": "asserts"
+    },
+    {
+      "source": "11. **Akzeptanz der Komplexität**",
+      "target": "Mosaik-Herz",
+      "type": "object",
+      "quote": "11. **Akzeptanz der Komplexität** · KW1 · A-Requirement: **Mosaik-Akzeptanz**. **Story:** „Mosaik-Herz",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 14 — Das Archiv der Grenzen",
+      "target": "AEGIS' technischen Dossiers (Lernarchiv Theta-9)",
+      "type": "object",
+      "quote": "Kael erhält Zugang zu AEGIS' technischen Dossiers (Lernarchiv Theta-9).",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 15 — Turing-Mechanik",
+      "target": "die Stadt als universelle Turingmaschine",
+      "type": "object",
+      "quote": "die Stadt als universelle Turingmaschine",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 16 — Die Diktatur der Komplexität",
+      "target": "Realitäts-Detail",
+      "type": "cost",
+      "quote": "AEGIS opfert Realitäts-Detail für globale Stabilität",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 17 — Phaenomena vs. Noumena",
+      "target": "die „Drähte“ der Simulation",
+      "type": "object",
+      "quote": "Kael sieht die „Drähte“ der Simulation",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 18–22 — Genesis-Flashback-Cluster",
+      "target": "Kael = Komp 734",
+      "type": "object",
+      "quote": "Einheit → Trennungsprotokoll → Kael = Komp 734",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 25",
+      "target": "Vorbereitung/Entschluss",
+      "type": "want",
+      "quote": "Kap 25 = Stehen an der Schwelle (Vorbereitung/Entschluss, NICHT Konfrontations-Beginn)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 28",
+      "target": "ewige Fragmentierung droht",
+      "type": "cost",
+      "quote": "Kap 28 — Consequence akut** (A: ewige Fragmentierung droht)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kap 36",
+      "target": "AEGIS-monolithisch erlischt",
+      "type": "cost",
+      "quote": "AEGIS-monolithisch erlischt (Kap 36)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kap 39",
+      "target": "Verlust der Privatheit des Wir",
+      "type": "cost",
+      "quote": "A-Cost (Verlust der Privatheit des Wir) manifest Kap 39",
+      "stance": "asserts"
+    }
+  ]
+}

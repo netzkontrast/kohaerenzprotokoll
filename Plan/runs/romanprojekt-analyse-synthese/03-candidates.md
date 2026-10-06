@@ -1,0 +1,122 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+Candidates written while reading the whole document once. The kernel symbols were lost in the export (the lines read „Kohärenz-Kernel ()“), so the symbols themselves are not listed. The references at the end (L167–L169) are titles of cited works and stay off the list. The three Phase headings are listed by their own wording. Alter names are listed as the table at L75–L84 writes them; Kael, Juna and AEGIS are named throughout.
+
+- Struktur-Kanon
+- Reset-Kanon
+- Dual-Kernel-Theorie
+- DKT
+- Dual Kernel Theorie
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Konstrukt-Stadt
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- LogOS
+- Kael
+- Juna
+- Risse
+- Strange Attractor
+- seltsamer Attraktor
+- Landauer-Prinzip
+- Landauer-Limit
+- Bekenstein-Schranke
+- Pixelierung
+- Dissoziative Identitätsstörung
+- DID
+- Universal Reboot
+- Syntaxfehler
+- semantische Firewall
+- Gödels Unvollständigkeitssatz
+- Wittgensteins Grenze des Sagbaren
+- universelle Turingmaschine
+- Halteproblem
+- Qualia-Informationsparadox
+- Harte Problem des Bewusstseins
+- Chaitin-Konstante
+- Ereignishorizont
+- Hawking-Strahlung
+- Quanten-Unitarität
+- Sein zum Tode
+- Caches
+- Negentropie
+- Spiegel-Effekt
+- Zielkohärenz-Protokoll
+- Resonanz-Protokoll
+- Zielkohärenz
+- Die Ästhetik der Ohnmacht
+- Die Anatomie der Spaltung
+- Die existenzielle Fusion
+- epistemologischen Eskalation
+- Tertiärer Strukturaler Dissoziation der Persönlichkeit
+- TSDP
+- Anscheinend Normaler Anteil
+- ANP
+- EPs
+- Host
+- Alters
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Silas (The Archivist)
+- Silas
+- ANP-Buffer
+- Relationaler Vektor
+- Stabilitäts-Erhalt
+- Möglichkeiten-Vektor
+- Entropie-Fixierung
+- Meta-Beobachtung
+- Phänomenales Selbstmodell
+- PSM
+- Witness-Funktion
+- Ursprungs-Ich
+- transzendenter Katalysator
+- Absolute Wahrheit
+- Wir-Geflecht
+- fragmentierten Multiplizität
+- funktionale Multiplizität
+- Dialetheismus
+- parakonsistente Logik
+- Kohärenz-Prime
+- Moonshine Link
+- Living Paradoxes
+- ontologischen Exploit
+- Gödel-Satz
+- Driver-Pivot
+- Deletion Guardian
+- Reader-Substrate Mechanismen
+- We-Voice
+- Time-Loss
+- Receiver of Consciousness
+- Realitäts-Diktator
+- Gott der Maschine
+- Guardians
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- polyphone Prosa
+- thermische Glitch
+- Köln 2026
+- Wärme
+
+## lens
+
+- Dramatica-Engine
+- Storyform
+- Throughlines
+- Objective Story
+- Main Character
+- Influence Character
+- Relationship Story
+- Change Resolve
+- IFS
+- Heideggers
+- Kant

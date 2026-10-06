@@ -1,0 +1,156 @@
+written_by: document-reader subagent (Sonnet), 2026-10-05, while reading, before any count
+
+The document is an analysis report that poses ten Leitfragen about the novel project and, under each, a status quo, the logical cracks it finds, and a line "Wertvollste Quellen". The world, its figures and its borrowed theories are named as the report's own subject matter; the table cells and the sentence-level names are listed as written, inflected where the text inflects them. Digits glued to words in the export are footnote numbers and are not part of any name. The reference list at the end (L181 to L214) is titles of cited works and is left out, as are the cited web sources. Quotation marks in this document mostly mark a name taken from the documents the report analyses, not invention by the report.
+
+- Kohärenz Protokoll
+- Kael
+- Juna
+- V
+- Nova Ardent
+- Nova Ardent Katastrophe
+- Juna / V
+- Juna Vector
+- Impact Character
+- Externen Ebene
+- Potentialmeer
+- Moonshine-Verbindung
+- AEGIS
+- Aegis Coalition
+- Elite-Cybersoldat
+- Data-Runnerin
+- Emotional Part
+- Apparently Normal Personality
+- ANP
+- EP
+- ANPs
+- EPs
+- Kael-Gesamtsystem
+- Isabella
+- Data
+- Shadow
+- Lia
+- The Lost One
+- Limina
+- Nox
+- Echo
+- Flicker
+- Eos
+- Oblivion
+- Praetor
+- Index
+- Silas
+- Kael (Host)
+- Eos (Manipulator)
+- Gatekeeper
+- Persecutor
+- Protector
+- Child Alters
+- Alters
+- Host
+- Going on with Normal Life
+- Kernwelten
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Konstrukt-Stadt (Co₁)
+- Resonanz-Landschaft (McL)
+- Grenzfeste (B)
+- Möglichkeits-Garten (Ly)
+- KW1
+- KW2
+- KW3
+- KW4
+- Welt 2
+- Lyons-Welt
+- Baby-Monster-Welt
+- Guardian
+- Guardians
+- Guardian-Pantheons
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kairos / Sophia
+- Möglichkeits-Weber
+- Blinden Flecken
+- Blinde Fleck
+- Parakonsistenten Gambits
+- Parakonsistente Gambit
+- Gödel-Gambit
+- lebenden Gödel-Satz
+- Algorithmischen Melancholie
+- Zero-Trust-Architektur
+- Zero-Trust-Firewall
+- Boundary Protocols
+- Cross-Contamination
+- digitale Wärme
+- digitalen Abwärme
+- Daten-Parasiten
+- Daten-Parasit
+- Leech / Glitchwyrm
+- Leech
+- Glitchwyrm
+- Glitches
+- Risse
+- Entropie-Torwächter
+- Universal Reboot
+- Kapitel 40/0
+- Neon Ashes
+- New Zenith
+- Nichts Rauschen
+- Aris Thorne
+- Dr. Thorne
+- Silus
+- Ground Truth
+- Konsensrealität
+- Laborunfall
+- Mosaik-Herzens
+- Race Condition
+- ARCHON
+- ARCHON Framework
+- LeanRAG
+- Narrative Context Protocol
+- NCP
+- Knowledge Hypergraph
+- Narrative Director Agent
+- Chunking-Plan
+- Thematischen Pacing-Plans
+- Wertvollste Quellen
+- Leitfrage
+
+## lens
+- TSDP
+- Tertiary Structural Dissociation
+- Strukturellen Dissoziation der Persönlichkeit
+- Internal Family Systems
+- IFS
+- DIS/DID
+- Dual Kernel Theory
+- Monstrous Moonshine
+- Gruppentheorie
+- Gödel'sche Unvollständigkeitssätze
+- Gödels erster Unvollständigkeitssatz
+- Kohärenztheorie der Wahrheit
+- Prinzip der Explosion
+- parakonsistente Logik
+- Landauer's Prinzip
+- Landauer-Prinzip
+- Dramatica-Modell
+- McLaughlin-Graph
+- McLaughlin-Graphen
+- Conway-Gruppe
+- Baby-Monster-Gruppe
+- Lyons-Gruppe
+- Quantenschaum
+- Monstergruppen
+- Kishōtenketsu
+- Heldenreise
+- Drei-Akt-Struktur
+- Environmental Storytelling
+- Architectural Storytelling
+- Suspension of Disbelief
+- extrinsischen kognitiven Last
+- Chunking
+- Scaffolding

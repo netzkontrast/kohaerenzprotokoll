@@ -1,0 +1,14 @@
+# romanprojekt-analyse-synthese
+  lines                170  (frontmatter ends at 9)
+  body words           2536
+  headings             26   bold-only lines 0
+  table rows           21   code fences 0
+  question marks       0
+  backslash escapes    34
+  typographic marks    98   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    15
+  repeated labels      none
+  longest line         859 chars
+

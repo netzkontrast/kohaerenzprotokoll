@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 22
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,22 @@ Title: the commission titles the chapter „Die Fesseln sprengen: Durchbrechen d
 - Story: its `Plot Summary` plans „Kael dringt in Cerberus' Domäne (KW“ ^[kontext-outline.md:L416]
 - Foci: `Kael Sys Focus` „Kooperation Angst-, Wut-, Schutz-Anteile“ ^[kontext-outline.md:L417]; `AEGIS Focus` „Cerberus als letzte Verteidigung; Verzweifelter Versuch Kael aufzuhalten“ ^[kontext-outline.md:L418]
 - Notes: „The Final Gate“ ^[kontext-outline.md:L421]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)`
+
+Focus: `Überwindung der Angst`, „Der finale Durchbruch durch AEGIS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L263]
+
+- Story: „Kael dringt in Cerberus“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L264]
+- Concept: „Cerberus repräsentiert die letzte Bastion“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L265] (concept tag: TSDP integration, `Verteidigungs-Action-Systems`)
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.2, „Der Sturm beginnt: Direkte Konfrontation“ ^[finales-kausales-plot-geruest.md:L175] (Kapitel 30–32)
+
+The beat sheet places Kapitel 31 in Beat 3.2; the beat spans Kapitel 30 to 32.
+
+- Beat: the heading titles it „Der Sturm beginnt: Direkte Konfrontation“ ^[finales-kausales-plot-geruest.md:L175]
+- Event: the beat sheet's `Beschreibung` says „ein fortschrittlicheres, aber immer noch“ ^[finales-kausales-plot-geruest.md:L177]
+- Cause: the `Kausale Verknüpfung` says „ist das direkte Ergebnis seiner inneren Integration“ ^[finales-kausales-plot-geruest.md:L178]
+- Throughlines: the OS or MC line says „in direkter Konfrontation anwendet“ ^[finales-kausales-plot-geruest.md:L184]
 
 ## Reading — `outline`, 2025-07-30, the outline — Junas Hand: Die externe Intervention / Die Wächter des Fundaments / Konfrontation mit dem Quellcode
 
@@ -84,6 +100,10 @@ Position: Teil III; setting from the `Schauplatz` field: „Die Logik-Schleifen 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, Cerberus, Lex, Nyx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L309]
 - Story: the blueprint plans, in `Plot-Beats`, „LogOS und Cerberus attackieren Kael in einer koordinierten Phalanx“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311] and „Diese interne Harmonie überlastet die binären Wächter“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L311]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kael synchronising abilities from different caches
+
+- under Leitfrage 7 (the ARCHON / LeanRAG mechanics) it cites „Wenn Kael in Kapitel 31“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L131] „Fähigkeiten aus verschiedenen Caches aktiv synchronisiert“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L131] (its source 2) and asks how that feels to him.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Auflösung der Guardians
 
@@ -146,6 +166,10 @@ Title: „Oblivions Erwachen“ ^[kohaerenz-protokoll-kapitel-outline-generierun
 - Story: the dual-storyform outline plans „Der systemische Trojaner Oblivion erwacht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L319]
 - Storyforms: `Storyform B` (`IC: Mind/Conscious`): „AEGIS’ Bewusstsein wird für Kael transparent“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L321]; `Storyform A` (`IC: Universe/Past`): „Die Genesis wird als gemeinsames Trauma von Mensch und Maschine erkannt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L322]
 - Scene and pacing: `Pacing`: „Still, erkenntnisreich“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L323]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — healing by integrating the traumatic caches
+
+- The reset synthesis places in Phase III: „In Kapitel 31 erfolgt die Heilung durch die Integration der traumatischen“ ^[romanprojekt-analyse-synthese.md:L60] caches.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

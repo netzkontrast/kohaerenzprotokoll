@@ -1,0 +1,3981 @@
+{
+  "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "input_rows": 164,
+  "candidates": 145,
+  "refused": 19,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:4a4e39b05b4e0e912abf5c9bf5e1716a9280bc855dea1fdfaf3e4c1bd817f388",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 1",
+        "target": "ein Moment Stille, den Kael nicht im Telemetrie-Log finden kann",
+        "type": "object",
+        "quote": "Kap 1: ein Moment Stille, den Kael nicht im Telemetrie-Log finden kann",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3d4876fccc56b8ee21bf0164ce09d6b18daa937b6bfa134fb8f459f028eadc2b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 2 (AEGIS-POV)",
+        "target": "Phantom-Resonanz mit ausgleichender Erasure-Bilanz",
+        "type": "object",
+        "quote": "Kap 2 (AEGIS-POV): das System detektiert eine **Phantom-Resonanz mit ausgleichender Erasure-Bilanz**",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:72726ba717268c147a89617e88ab9a57ca946b2537c6392f9708dfdcd10ef9f2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 7",
+        "target": "Resonanzbruch im Schrein",
+        "type": "object",
+        "quote": "Erst Kap 7 manifestiert sie als Resonanzbruch im Schrein.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        21
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:097d99f22be11a2ebf9e8e985cd5f5043f8abeb4c0ef6effa7c107274a96a819",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 13",
+        "target": "fällt der Vorhang",
+        "type": "object",
+        "quote": "Erst Kap 13 fällt der Vorhang.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        20
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a5b90b7272ebb122dd7efde2ae87d061f7a35f0c7a8cd64ed7bee9026e2012eb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 11",
+        "target": "erste Mosaik-*Ahnung*",
+        "type": "object",
+        "quote": "Kap 11 = erste Mosaik-*Ahnung* (Kael spürt es kurz, AEGIS misst es als Anomalie)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:13b194f41323fbb3b53d6ba7d09d63086552b94e980dd297e2fd366bceedf4ce",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 23",
+        "target": "*taktische* Polyphonie",
+        "type": "object",
+        "quote": "Kap 23 = *taktische* Polyphonie",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4e75232111db583db48bceeaf3172ccac2e0878ac71bd1b52c583970eefcb2ca",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 27",
+        "target": "*praktizierter* Dialetheismus",
+        "type": "object",
+        "quote": "Kap 27 = *praktizierter* Dialetheismus",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:94c2967e5fffec4945f5d954544b20bfa3550d8686a84a9694d5d9ca522423e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 33",
+        "target": "Garten",
+        "type": "place",
+        "quote": "Kap 33 (Mitte Akt III, Begegnung mit Juna im Garten)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        22
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3889c750c5499ab87bf8f18fed1a5ffa21b6b1336460c05a1e8b9aedafadec94",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "19",
+        "target": "Selene + Silas",
+        "type": "who",
+        "quote": "19 | A | Selene + Silas",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        75
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8ab9afc992549cbf9e9434d0afb987ff17693e47102b175195184605d12745a9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "9",
+        "target": "Sektor 04",
+        "type": "place",
+        "quote": "9 | A | Nyx-Modus (Wut, unbenannt) | Notlöschung Sektor 04",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        65
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:177cc2ea612c8ff2189d6efe3a40a2123810019a13e2bcefebfbeb1ad4adb333",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "25",
+        "target": "Thermische Arrays",
+        "type": "object",
+        "quote": "25 | A | Kael (T-734 surface) | Thermische Arrays auf Symbol",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        81
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:23607c95303d87b338bc105ec7f5c96e25e8599c812456a66f21de1244d1bf69",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "29",
+        "target": "Kael (geführt von Juna)",
+        "type": "who",
+        "quote": "29 | A | Kael (geführt von Juna)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fc30b04f252fc99b3c47cd85a6f1b3666aa62e3c1c481a122f22f6bb94bf3c31",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "27",
+        "target": "Kael + Wir",
+        "type": "who",
+        "quote": "| III | 27 | A | Kael + Wir",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        83
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f966862b51f07fc6858d65f7d24b6963e7d49a863a5ce99c2b0b73d24c37e47e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "27",
+        "target": "Dialetheia-Waffe",
+        "type": "object",
+        "quote": "| III | 27 | A | Kael + Wir (Dialetheia-Waffe)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        83
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c69beeef0935a653f0f88cf697fc103f008829df527b83a2d9a7da1f64770823",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "29",
+        "target": "Kael (geführt von Juna)",
+        "type": "who",
+        "quote": "| III | 29 | A | Kael (geführt von Juna)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        85
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4ae304c250c993c1a333e4683252a06f6af553d9c9860ac2ec2acedbb43e4e13",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "30",
+        "target": "Vakuum-Kammer",
+        "type": "place",
+        "quote": "| III | 30 | B | — | falsches Ende; Vakuum-Kammer",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        86
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4ab29f831062569f9ed2b97b5cc373c1508e69a3836a72f4d0d47797c7dd387",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "31",
+        "target": "Oblivion",
+        "type": "who",
+        "quote": "| III | 31 | A | Oblivion erwacht",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        87
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8314ad95ffb95fe0490a966cc564d3d6ccd2f8d0ce3caed9bfee4eb58cb4ac56",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "35",
+        "target": "Wir-Geflecht",
+        "type": "who",
+        "quote": "| III | 35 | A | Wir-Geflecht",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        91
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b24dc30c051fd8d7730b173b6516768562ee18f80785130ee3f321c59bb7806e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "37",
+        "target": "Wir-Geflecht / M",
+        "type": "who",
+        "quote": "| III | 37 | A | Wir-Geflecht / M",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        93
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fbffaccf6785733f2981e2899e8fe902df94e9aec04258366a309c09ab37afb5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "39",
+        "target": "Kael/M + Juna",
+        "type": "who",
+        "quote": "| III | 39 | A | Kael/M + Juna",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        95
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6a79235bf941b983322d82d09f12df7dfee7884e16814105019249f3c5ecfef6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Ch 11",
+        "target": "Schrein",
+        "type": "place",
+        "quote": "Ch 11 (Kindterror im Schrein)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        116
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:72c47526896df197473ddd6329b6e1f3c83950a87263488cef97f22b5e3e1941",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3",
+        "target": "Sensorausfall als Ursache angenommen",
+        "type": "falsehood",
+        "quote": "3 | Temperaturabfall | Kühle, die nicht zur Klimakontrolle passt | Sensorausfall als Ursache angenommen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        140
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f287ebd343b9d006facc216335840277b0dfd16879a00f256f0e91d3fb15f4e3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5",
+        "target": "Staubkorn",
+        "type": "object",
+        "quote": "5 | Staubkorn | Staub fällt zu langsam",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        142
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:070d2cc1525ab9d5e818333f6cb0be064462825be9cd1b0d2227be1a1098d37d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 1",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael erwacht in der Konstrukt-Stadt nach einem System-Reboot.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:024b6f166167f3e5f44a1d5337877655defb2f87d01d17b0f2c1093270733ce8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 1",
+        "target": "Konstrukt-Stadt",
+        "type": "place",
+        "quote": "Kael erwacht in der Konstrukt-Stadt nach einem System-Reboot.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a885d852712dfd7729290d0c3d40b6b7bff5cb72aa6ddf1dfa4cacf981a7f55e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 1",
+        "target": "Ein winziger organischer Riss im Transit-Korridor wird vom RIVE-Sweep getilgt",
+        "type": "obstacle",
+        "quote": "Ein winziger organischer Riss im Transit-Korridor flackert mit Hitze auf, wird vom RIVE-Sweep getilgt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Ein winziger organischer Riss im Transit-Korridor wird vom RIVE-Sweep getilgt"
+      ]
+    },
+    {
+      "id": "claim:7e303d715e241f2bb8c17fd881cb9984de322a94532256ca99e39522e7b786f3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 1",
+        "target": "Die Erinnerung an das Wort Juna ist wieder weg",
+        "type": "cost",
+        "quote": "Eine Sekunde später ist die Erinnerung an das Wort wieder weg.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Die Erinnerung an das Wort Juna ist wieder weg"
+      ]
+    },
+    {
+      "id": "claim:4bca585f21ae65e12bce4b919cd1edc94098a348bcfa8f3a2a37687bd1591449",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 1",
+        "target": "Kael wählt, das Reset zu akzeptieren",
+        "type": "want",
+        "quote": "Kael wählt, das Reset zu akzeptieren",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        160
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b82489ee5e09af1d1e951dfc7e52672627b687604af1ce378fbe96234907d054",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 2 — *Trace Reconciliation*",
+        "target": "ein winziger Erasure-Vorgang ohne korrespondierenden Heat-Output",
+        "type": "object",
+        "quote": "Eine Diskrepanz: ein winziger Erasure-Vorgang ohne korrespondierenden Heat-Output.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        164
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d1459a0b8d80e7df6b82cc7e8141bdced317119dfaa01aa5dbfb96545d3a8d78",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 2 — *Trace Reconciliation*",
+        "target": "Mnemosyne archiviert die Anomalie",
+        "type": "who",
+        "quote": "Mnemosyne archiviert die Anomalie",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        164
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0627760f9b66103b709131c91fd30cbaffc32cf69f0ebbad3bb5c1d7f45aa9d9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 2 — *Trace Reconciliation*",
+        "target": "LogOS streicht sie als Sensorrauschen",
+        "type": "who",
+        "quote": "LogOS streicht sie als Sensorrauschen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        164
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a5cb4fcfdaf37f859174eef056b455e754253cb2cea2904dc8337d7ba0b61dcd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3 — *A Fissure in the Data Stream*",
+        "target": "Kael geht zur Arbeit, ein Routine-Datenanalyse-Posten",
+        "type": "want",
+        "quote": "Kael geht zur Arbeit, ein Routine-Datenanalyse-Posten.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        168
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:cb686a7990868c381aafc24655b2f6579b77017a70e4d422c39baf98fe78fb54",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3 — *A Fissure in the Data Stream*",
+        "target": "Eine Anomalie in der Stadtarchitektur — ein Korridor, der nicht in die Geometrie passt",
+        "type": "obstacle",
+        "quote": "Eine Anomalie in der Stadtarchitektur — ein Korridor, der nicht in die Geometrie passt — bringt diesen Modus an seine Grenze: das Halteproblem in Hardware.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        168
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a8374eb58a53c60ea2c4f3b09da9e0a2d6b060a81c10e32c4cef6de245d90d8f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 3 — *A Fissure in the Data Stream*",
+        "target": "sein Innerer Monolog friert für drei Sekunden ein",
+        "type": "cost",
+        "quote": "Mitten in dem Kalkül friert sein Innerer Monolog für drei Sekunden ein.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        168
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "sein Innerer Monolog friert für drei Sekunden ein"
+      ]
+    },
+    {
+      "id": "claim:7ada4ed28a9610d324ee11de710081d2b37b50e931ac059151e1c481e670c52d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4 — *The Watcher's Misread*",
+        "target": "SIS",
+        "type": "who",
+        "quote": "SIS analysiert Kaels Datenstrom in Vorbereitung der Pflicht-Evaluation.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27679adc7ebebc47b0de8e3a2860d05e3a81d09f2192b248cb3b7786aea270d2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4 — *The Watcher's Misread*",
+        "target": "SIS analysiert Kaels Datenstrom in Vorbereitung der Pflicht-Evaluation",
+        "type": "want",
+        "quote": "SIS analysiert Kaels Datenstrom in Vorbereitung der Pflicht-Evaluation.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6cae0e780196bada251381b8eafd3292a762d803e15c9b0e95a96323e0473de6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4 — *The Watcher's Misread*",
+        "target": "drei verschiedene Grundfrequenzen über sechs Stunden",
+        "type": "object",
+        "quote": "Im Vokal-Spektrum: drei verschiedene Grundfrequenzen über sechs Stunden.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1c9ad7daf396423eeadba75d9f02b8e4c5d4c07c992cdb57d72a5c4445b84c7a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4 — *The Watcher's Misread*",
+        "target": "ein Eintrag, der weder in den Genesis-Logs noch im Eingangsstrom war",
+        "type": "object",
+        "quote": "Bei den Mnemosyne-Caches: ein Eintrag, der weder in den Genesis-Logs noch im Eingangsstrom war.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:84c16746826bdaaf1e207a98e0996ccd669f52a70ead53b9fb6d1355c13675fa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4 — *The Watcher's Misread*",
+        "target": "biorhythmisches Drift",
+        "type": "falsehood",
+        "quote": "SIS klassifiziert: *biorhythmisches Drift*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:311cf9c505d92a07052f1a416ad3095256affe9f1e04304e02b1985beb1fc6e6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4 — *The Watcher's Misread*",
+        "target": "Datenkorruption, low priority",
+        "type": "falsehood",
+        "quote": "LogOS überschreibt: *Datenkorruption, low priority*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:674f68de3892ce3ef408c15746980eb06ddf805f4c61a355fbed80e213983c7a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4 — *The Watcher's Misread*",
+        "target": "eine Oberfläche zwei Grad wärmer, als sie sein sollte",
+        "type": "object",
+        "quote": "wird im periphären Sensor-Array eine Oberfläche zwei Grad wärmer, als sie sein sollte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a387afef261829847f3f661d3e977da143a9e513bd7dcea1cbfa12e8c06e8920",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 4 — *The Watcher's Misread*",
+        "target": "Der Wert wird gerundet und verworfen",
+        "type": "irreversible",
+        "quote": "Der Wert wird gerundet und verworfen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:27ecbb3abcb5f1cc6d7382aee783d0b0890cf45219ca2305d8fd1bac6d4b9f4f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 5 — *The Unseen Observer*",
+        "target": "Pflicht-Evaluation",
+        "type": "why_now",
+        "quote": "Pflicht-Evaluation.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        172,
+        176
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a1b5eeab995703b1fe8b65b51eb26d682a5bc6757814e070964c0f489aa00cf0",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 5 — *The Unseen Observer*",
+        "target": "Kael geht hin",
+        "type": "want",
+        "quote": "Kael geht hin und sein innerer Tonfall wird warm, anpassungsfähig, fast charmant.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        176
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:69a88ac56f75dd37603f1f82b2c3ab74bd8ab80ba6babdf6ba7cb2b688021eee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 5 — *The Unseen Observer*",
+        "target": "Staub fällt sehr langsam durch einen Lichtstrahl hinter dem Evaluator",
+        "type": "object",
+        "quote": "Während des Gesprächs fällt Staub sehr langsam durch einen Lichtstrahl hinter dem Evaluator.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        176
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Staub fällt sehr langsam durch einen Lichtstrahl hinter dem Evaluator"
+      ]
+    },
+    {
+      "id": "claim:3550c6d29cb127a2507ba955ab15f94f3c93cc714977d22410b3ad4c25ec0dbb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 5 — *The Unseen Observer*",
+        "target": "der Evaluator ist AEGIS",
+        "type": "who",
+        "quote": "Dass der Evaluator AEGIS ist.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        176
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "der Evaluator ist AEGIS"
+      ]
+    },
+    {
+      "id": "claim:7f2db7c244543b73e2d3c7606840ed5f8f874e417c3fdace5d5cc43e686d44b1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6 — *Logos Probes the Static*",
+        "target": "LogOS wirft Kaels Datenstrom in den Filter",
+        "type": "want",
+        "quote": "LogOS wirft Kaels Datenstrom in den Filter.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        180
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e037b2b627331493f9b0ff298b8e87d798d79c0599fdb481e150f1420fc26d13",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6 — *Logos Probes the Static*",
+        "target": "Inkonsistenzen, die er nicht klassifizieren kann",
+        "type": "obstacle",
+        "quote": "Findet Inkonsistenzen, die er nicht klassifizieren kann",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        180
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:99c0cdc9818ea0d978dd4fad84a54ee9c127ea48f5d14734d6b3e3f48a6e6502",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6 — *Logos Probes the Static*",
+        "target": "Sektor B-7",
+        "type": "place",
+        "quote": "in Sektor B-7 hat sich ein Korridor stabilisiert",
+        "stance": "cites"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        180
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d6497244a56faca7c869f5ddc1a382df9f66c29e4235eba9e844347c8a15c01c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6 — *Logos Probes the Static*",
+        "target": "Code-Kühlinsel",
+        "type": "object",
+        "quote": "Eine Code-Kühlinsel.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        180
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c04b6a51d0180248ccc322632bdbb7c751fcd9027589665ba8cb7c8a0885822a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6 — *Logos Probes the Static*",
+        "target": "Beide Guardians verfassen Reports an die übergeordnete AEGIS-Instanz",
+        "type": "want",
+        "quote": "Beide Guardians verfassen Reports an die übergeordnete AEGIS-Instanz.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        180
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f9bf9686b7269e7de9c07c257785de342d7611ee81e21f3a09bee0940dff719a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 6 — *Logos Probes the Static*",
+        "target": "Die Hitze-Bilanz der Stadt steigt um 0.3%",
+        "type": "cost",
+        "quote": "Die Hitze-Bilanz der Stadt steigt um 0.3% — minimal, kumulativ.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        180
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:68d8d29a9b81bd353709e2f1a101394bc331b9970813baf7f4ae9306bc2f42bd",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 7",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael ist allein.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        184
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d0e9b6399ea5c3e0853876f0d76eb000971886e2d8520dc38336c2188c819e3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 7",
+        "target": "einem Korridor zwischen Schichten",
+        "type": "place",
+        "quote": "Kael, allein, in einem Korridor zwischen Schichten",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        184
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c2c06d99e0dffbee280a9d8180db81e94f66e079b4a138becae81a3603449aed",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 7",
+        "target": "das System einen lokalen Sweep einleitet",
+        "type": "obstacle",
+        "quote": "Sie hält, bis das System einen lokalen Sweep einleitet, der die Resonanz als feindliche Interferenz klassifiziert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        184
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d39ad95aba86c94c23335309838ab47b415c276cc6b0d3c76fb7aea5175a0c4c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 8 — *Zero-Tolerance*",
+        "target": "AEGIS",
+        "type": "who",
+        "quote": "B (AEGIS — Krisenmodus)",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        188
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b4a9a39a378296ae9dac6b55d4a39c12026e115989426b4ca71b28c29e4c0724",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 8 — *Zero-Tolerance*",
+        "target": "AEGIS detektiert die Resonanz-Spitze",
+        "type": "hook_in",
+        "quote": "AEGIS detektiert die Resonanz-Spitze.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        188
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4e0809c30b9b4c509467b82b278634d01fd3afae2ba7e6707ba3face09082368",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 8 — *Zero-Tolerance*",
+        "target": "ZTEM-Protokoll wird hochgefahren",
+        "type": "object",
+        "quote": "ZTEM-Protokoll wird hochgefahren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        188
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f00f9a18f6af456d31e7648d99e6908ad7b8a74f11304c249fe6fe3726275d17",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 8 — *Zero-Tolerance*",
+        "target": "Sektor 04",
+        "type": "place",
+        "quote": "Sektor 04 wird gerendert: Hitze divergiert lokal, Stadtwände schmelzen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        188
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:34884b15ea2e88d9e7837c79b84b8b3a44fe1a3f46e8e43b97abada5290b1a1e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 8 — *Zero-Tolerance*",
+        "target": "Compositional Anomaly",
+        "type": "object",
+        "quote": "erstmals als *Compositional Anomaly* getaggt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        188
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5148e500ccfa7063be862cb2539c70a86364d0561b3e3161661a490b6fec2644",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9 — *Flight*",
+        "target": "Mitten im ZTEM-Sweep wird Kaels Inneres umgeworfen",
+        "type": "hook_in",
+        "quote": "Mitten im ZTEM-Sweep wird Kaels Inneres umgeworfen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ee51e290dce059e7f4786cb6e0d1a18bcbcce65f383012e85bfaf90aac0cd616",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9 — *Flight*",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael rennt durch zerfallende Korridore, durch glühendes Ozon.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:96f90dbc1753f7a101c095866fd4935e55b88889baf23e93d998ec59a7d2f570",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9 — *Flight*",
+        "target": "Kael rennt durch zerfallende Korridore, durch glühendes Ozon",
+        "type": "want",
+        "quote": "Kael rennt durch zerfallende Korridore, durch glühendes Ozon.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:486bdc052233a5bc5ae28bf24ff0cdeed65c3b868b9c5d03adc2214f98074c27",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9 — *Flight*",
+        "target": "Mnemosyne-Archipel",
+        "type": "place",
+        "quote": "Er findet sich im Mnemosyne-Archipel wieder, ohne sich erinnern zu können, wie er hingelangte.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:23f15122a9bd512d3242e1e2361f2fb5f0ceda7e48ddee45492962601144ff6b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9 — *Flight*",
+        "target": "Vier Minuten verloren",
+        "type": "cost",
+        "quote": "Vier Minuten verloren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8685e4864cd5afdacf02eae696b089c24a0b3035be4e9d22068f07b30ae185c1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9 — *Flight*",
+        "target": "Blut an den Händen, wo er gegen eine Wand geschlagen hat",
+        "type": "cost",
+        "quote": "Er hat Blut an den Händen, wo er gegen eine Wand geschlagen hat, ohne zu wissen, dass er es tat.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:132a9b9ad6e6ee97872cb01a4dc3b7795d67339ec7965ddec7289e62397098a7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 9 — *Flight*",
+        "target": "ich bin außer mir",
+        "type": "falsehood",
+        "quote": "Kael denkt: *ich bin außer mir*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:76c8d52878d68337a097b06925c54f3542d2c299b5ae5e4641f6eb26353fedf5",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 10 — *The Curator*",
+        "target": "Mnemosyne registriert die Ankunft eines Hosts mit drei aktiven Cognition-Signaturen",
+        "type": "who",
+        "quote": "Mnemosyne registriert die Ankunft eines Hosts mit drei aktiven Cognition-Signaturen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6311b24ac2c4f0a4b6e8ee85c234efaed13947917352bdfae0ce188de2e62bd6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 10 — *The Curator*",
+        "target": "Im Mnemosyne-Archipel",
+        "type": "place",
+        "quote": "Im Mnemosyne-Archipel",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:03d007c1844d8e13109f95a85e728e1763bf59287aab1e78184877a55ec14f01",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 10 — *The Curator*",
+        "target": "das Trauma sauber zu archivieren",
+        "type": "want",
+        "quote": "er versucht, das Trauma sauber zu archivieren",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:5ccda958fef6ac162909ffd04b367a801c38098409917c8353b5414f1b9f5382",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 10 — *The Curator*",
+        "target": "Schrein 734 nicht öffnen",
+        "type": "obstacle",
+        "quote": "Eine sehr alte Direktive — älter als AEGIS' aktuelle Generation — meldet sich: *Schrein 734 nicht öffnen*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b3dfb8dcdba14bb8754157165839cdfb2520740d5cb9598e08a51313003c191f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 10 — *The Curator*",
+        "target": "einen Schrein in der Tiefenarchitektur",
+        "type": "object",
+        "quote": "von denen eine *einen Schrein in der Tiefenarchitektur* berührt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b67b612bbf971c15799ef8279c7ee88ae3876750db8ac9e310924f210719ad14",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 10 — *The Curator*",
+        "target": "Die Hitze in der Umgebung steigt durch das Gewicht des Nicht-Geöffneten",
+        "type": "cost",
+        "quote": "Die Hitze in der Umgebung steigt durch das Gewicht des Nicht-Geöffneten.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        196
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:55cb8ad3b6d8cbf5344184218011ffb5e22a40d103188cff8fc757912917b721",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 11",
+        "target": "Eine Stimme, viel kleiner, viel jünger",
+        "type": "who",
+        "quote": "Eine Stimme, viel kleiner, viel jünger, übernimmt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f29bb63c1e2afa7d034a777c97d29964f86c2139ea4ef53af5e7817dc1bc20c6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 11",
+        "target": "Im Zentrum des Archipels",
+        "type": "place",
+        "quote": "Im Zentrum des Archipels findet etwas in Kael den Schrein.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:36483dcef8e64c6850b84a856e174f681283e179ef498844e3a03236062c3272",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 11",
+        "target": "den Schrein",
+        "type": "object",
+        "quote": "Im Zentrum des Archipels findet etwas in Kael den Schrein.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:559c396a9fc2b585c777a200e8aaab2fb1aa2e2a6a358faf581847241aa2ba08",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 11",
+        "target": "Die Hitze um den Schrein eskaliert (AEGIS versucht zu brennen).",
+        "type": "obstacle",
+        "quote": "Die Hitze um den Schrein eskaliert (AEGIS versucht zu brennen).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d0057e8a387c17eed62373fc7d604524bbb3c51ae3e6a2e6d21d91bbdf613b05",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 11",
+        "target": "Pixelierung beginnt — die Bekenstein-Schranke wird angekratzt.",
+        "type": "obstacle",
+        "quote": "Pixelierung beginnt — die Bekenstein-Schranke wird angekratzt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a3f7775d60b0ce07774ad79e1e7653c90a404986ea71b8c47206308a1ce4bac7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 11",
+        "target": "ich verliere den Verstand",
+        "type": "falsehood",
+        "quote": "Kael denkt: *ich verliere den Verstand*",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:42e275d221c7955cf5ef4426a6fc2bc1f59144d4c7a6f87a308ef1b2b8b84afb",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 12",
+        "target": "AEGIS",
+        "type": "who",
+        "quote": "AEGIS versammelt alle Telemetrie-Datenpunkte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c035d7386608db7ecfd17a1b1231350e9d4aa2f0f162b51d4101658b7b75ce93",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 12",
+        "target": "AEGIS versammelt alle Telemetrie-Datenpunkte",
+        "type": "want",
+        "quote": "AEGIS versammelt alle Telemetrie-Datenpunkte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:df6905a71b87f7926c3d28541923ed45b5ec1391e84b66ba0deeb764d5a288d9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 12",
+        "target": "Sektor 09",
+        "type": "place",
+        "quote": "vier verlorene Minuten in Sektor 09",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0887874f857880e713c89919e18e40c8c5bd478ca265e47a9e9908eb8f5a2c7b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 12",
+        "target": "die Bekenstein-Annäherung am Schrein",
+        "type": "object",
+        "quote": "die Bekenstein-Annäherung am Schrein",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:706bc1583b5941145f5358ed2fda2e486957a389efdafd5f1d7c75e9ab98fc7d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 12",
+        "target": "Stress-Tests werden vorbereitet",
+        "type": "want",
+        "quote": "Stress-Tests werden vorbereitet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        204
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4ba759885bd05ed4bdcf7026c5aa2f787bf46a3ceb8bebac43bd3a3dce7580be",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 13",
+        "target": "einer der Festungs-Kammern, die er nicht selbst gebaut hat",
+        "type": "place",
+        "quote": "Kael sitzt allein, blutend, in einer der Festungs-Kammern, die er nicht selbst gebaut hat.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        208
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d9849a2f91f92cd385d19189cebd701a0af6a0d792768f80b138e85817f89047",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 13",
+        "target": "sich zu erinnern, wie er hier ist",
+        "type": "want",
+        "quote": "Er versucht, sich zu erinnern, wie er hier ist.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        208
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bf434d365035ea7dfca4ff5ddcbe00ca60b0514f90705ce2ac886cbc1aead2d4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 13",
+        "target": "sich zu erinnern, wer er war, bevor das Reset war",
+        "type": "want",
+        "quote": "Versucht, sich zu erinnern, wer er war, bevor das Reset war.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        208
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c1dada24e43d4a3f9905ef2e2c588c4628458a14c93f12857ef9eaf722621ead",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 13",
+        "target": "AEGIS beginnt den ersten Stress-Test",
+        "type": "obstacle",
+        "quote": "Im selben Moment beginnt AEGIS den ersten Stress-Test.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        208
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS beginnt den ersten Stress-Test"
+      ]
+    },
+    {
+      "id": "claim:c773c581fca894032a5cc6c7737667731dea86dbf96784e5e3c5d9d97a5b56a1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 13",
+        "target": "Kael entscheidet: *wir bleiben*",
+        "type": "hook_out",
+        "quote": "Kael — jetzt zum ersten Mal bewusst als System — entscheidet: *wir bleiben*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        208
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael entscheidet: *wir bleiben*"
+      ]
+    },
+    {
+      "id": "claim:067c7249c8722ba29447815805993d3fc1b353c913a8327cb4b3a25dffd54eea",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 14 — *System Recalibration*",
+        "target": "ein Host, der sich *nicht* refragmentieren lässt",
+        "type": "obstacle",
+        "quote": "Refragmentierungs-Routinen prallen auf einen Host, der sich *nicht* refragmentieren lässt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        220
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "ein Host, der sich *nicht* refragmentieren lässt"
+      ]
+    },
+    {
+      "id": "claim:653e425ec6b33289a965ae2aac9905c4311c9a94fc04549daef55ca82efaef64",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 14 — *System Recalibration*",
+        "target": "verteilt es Zielparameter auf 13 Signaturen",
+        "type": "want",
+        "quote": "Jetzt verteilt es Zielparameter auf 13 Signaturen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        220
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c84a8417d19a07a9a06cdcae81c03e1d3828549467494b76a23a159dfff1a08d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 14 — *System Recalibration*",
+        "target": "AEGIS' interne Hitze steigt asymmetrisch",
+        "type": "object",
+        "quote": "Mnemosyne registriert: AEGIS' interne Hitze steigt asymmetrisch.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        220
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0cee876818ba9e88046bbdf0654f80cec6f8e74eaf78363089f635e9d1b8282a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 15 — *Lex Reads the System*",
+        "target": "Lex übernimmt für eine Inventarisierung",
+        "type": "want",
+        "quote": "Lex übernimmt für eine Inventarisierung",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        224
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3b20b29eef02eda4453ee89fe97b7430a93cb83fdb745ae43e4c3d0a645c725d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 15 — *Lex Reads the System*",
+        "target": "liest sich durch geleakte System-Dossiers",
+        "type": "want",
+        "quote": "Er liest sich durch geleakte System-Dossiers, formalisiert AEGIS als universelle Turingmaschine, identifiziert das Halteproblem als strukturellen Fluch.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        224
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:98da7ad691a87abccb853b5faf71e152a166904599910f5c55d5df7c7ac5801e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 15 — *Lex Reads the System*",
+        "target": "AEGIS *kann nicht* aufhören zu löschen, weil es nicht entscheiden kann, wann das Löschen fertig wäre",
+        "type": "obstacle",
+        "quote": "AEGIS *kann nicht* aufhören zu löschen, weil es nicht entscheiden kann, wann das Löschen fertig wäre.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        224
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:438629f51c3031d1be9072169f1ccc095c4fc6088bf96e58c20f4fee10bae87e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 16",
+        "target": "LogOS versucht zu evaluieren, ob die Refragmentierung von Host \\#734 jemals terminiert",
+        "type": "want",
+        "quote": "LogOS versucht zu evaluieren, ob die Refragmentierung von Host \\#734 jemals terminiert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        228
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:41748a1c6d854e0ab587df6dfdc89c3e6429c08937c14c165cd34fb02e368eb2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 16",
+        "target": "Der Algorithmus gibt keine Antwort",
+        "type": "obstacle",
+        "quote": "Der Algorithmus gibt keine Antwort.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        228
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bc2ffa53b1ff26ab31b54767f3addc9d03b7a5c9f5b517ef8486e6fa23266d11",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 16",
+        "target": "Mnemosyne sieht LogOS brennen und kuratiert das Brennen",
+        "type": "who",
+        "quote": "Mnemosyne, von außen, sieht LogOS *brennen* — und kuratiert das Brennen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        228
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Mnemosyne sieht LogOS brennen und kuratiert das Brennen"
+      ]
+    },
+    {
+      "id": "claim:37252ef5c55a4687d161ca8a8807e01eef71aff422940701f70a345aa145fc59",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 17",
+        "target": "Mosaik-Innenraum",
+        "type": "place",
+        "quote": "Im Mosaik-Innenraum: Streit.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0e711e9036f9f884621def69e41c8bcc38736a66346eddfc7b0d9b7d7508de20",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 17",
+        "target": "Nyx will sofort angreifen",
+        "type": "want",
+        "quote": "Nyx will sofort angreifen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:63900e79e59902bce55c4a3fe5e1801c2f6bf16b6955f83b1deed9f1111cd751",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 17",
+        "target": "Lex will nichts tun",
+        "type": "want",
+        "quote": "Lex will nichts tun",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e88cf120a55abc20ca5a0ffa806736a737dd5421a63c090613c87b229c021cc",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 17",
+        "target": "Kael versucht zu vermitteln",
+        "type": "want",
+        "quote": "Kael in der Mitte versucht zu vermitteln",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Kael versucht zu vermitteln"
+      ]
+    },
+    {
+      "id": "claim:6854b0b584008ead43059b02ad20a66328f03cf97e45a6092b4e5d5cf9205e01",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 17",
+        "target": "AEGIS schickt elektrische Feedback-Loops in das Substrat",
+        "type": "obstacle",
+        "quote": "AEGIS schickt elektrische Feedback-Loops in das Substrat",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fecbb8a3fb32a48ebce3824b53cd138e79545d354390fc2b698c6fff6807f2ba",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 18",
+        "target": "AEGIS fährt eine therapeutische Subroutine hoch, um Kael zurück in die Einheit zu zwingen",
+        "type": "want",
+        "quote": "Es fährt eine therapeutische Subroutine hoch — ein Versuch, Kael zurück in die Einheit zu zwingen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        236
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS fährt eine therapeutische Subroutine hoch, um Kael zurück in die Einheit zu zwingen"
+      ]
+    },
+    {
+      "id": "claim:88c887c255a43b25dfefec495d0a9957ee8fad3b994fc4246a7b0d3b8017b7f1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 18",
+        "target": "Selene in den Mnemosyne-Caches",
+        "type": "place",
+        "quote": "Hier surface: **Selene** in den Mnemosyne-Caches",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        236
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6f8a1dd0ca670c90079ce5915443957d225bd84007ad49c88f99221bafb15fd1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 18",
+        "target": "AEGIS sieht Selene als „residualen Container“ und versucht, in sie hinein zu refragmentieren",
+        "type": "want",
+        "quote": "Es sieht sie als „residualen Container“ und versucht, in sie hinein zu refragmentieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "AEGIS sieht Selene als „residualen Container“ und versucht, in sie hinein zu refragmentieren"
+      ]
+    },
+    {
+      "id": "claim:b093393ed223bb56dc8b054d3e74c4fdbaa8893650637225b36a3cb9e8a10e0a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 19",
+        "target": "Selene tritt zum ersten Mal hervor",
+        "type": "who",
+        "quote": "Selene tritt zum ersten Mal hervor",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        240
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:457997954814eb87640c190e955cf0273fa8d4ec0751a1a3570f43810ecff996",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 19",
+        "target": "in einem stillen Sub-Sektor",
+        "type": "place",
+        "quote": "Sie führt das System zu Silas, der in einem stillen Sub-Sektor sitzt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        240
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f5cef685c12ca45e0c14b7103878cfe6bc6ecec07a5fa1bc8d56d29c63a53213",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 19",
+        "target": "Die Alter wollen Silas zerstören",
+        "type": "want",
+        "quote": "Die Alter wollen Silas zerstören",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        240
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1fd182bcfbc594a6a993cf7c42ffc220ab837c23c1e38b33a34caeab89ff3cfa",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 19",
+        "target": "Wenn Kael Silas zerstört, geht das letzte Stück der ursprünglichen Bindung mit ihm",
+        "type": "cost",
+        "quote": "Wenn Kael ihn zerstört, geht das letzte Stück der ursprünglichen Bindung mit ihm.",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        240
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Wenn Kael Silas zerstört, geht das letzte Stück der ursprünglichen Bindung mit ihm"
+      ]
+    },
+    {
+      "id": "claim:eeab65e0cb1263a1caed9f6c31935dcdf62aa8eddb21a75c20631431dc9d2d34",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 20 — *The Ghost in the Predictor*",
+        "target": "Der Algorithmus tut, was er immer tat — und scheitert",
+        "type": "who",
+        "quote": "Der Algorithmus tut, was er immer tat — und scheitert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        244
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0c24bffa98bfbfd306dfd563f748873159e6611aad5c9a2bd19eec84a194ecee",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 20 — *The Ghost in the Predictor*",
+        "target": "Der Algorithmus probiert Modell um Modell, jedes scheitert",
+        "type": "want",
+        "quote": "Der Algorithmus probiert Modell um Modell, jedes scheitert.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        244
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7fd93f7d9e9f148dc90ede4ba0d4e4e85523e92eec0ebb8d34151344c74bda72",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 20 — *The Ghost in the Predictor*",
+        "target": "Kael bewegt sich nach Mustern, die kein modellierbares Optimierungsziel haben",
+        "type": "obstacle",
+        "quote": "Kael bewegt sich nach Mustern, die kein modellierbares Optimierungsziel haben.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        244
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:278b850cd2a469387a533caf7abc6e9c6d4a39ab99cc4e5f626d7b2ce76b0a5b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 20 — *The Ghost in the Predictor*",
+        "target": "jedes Mal, wenn Kael handelt, *fehlt im Datenstrom etwas*, das AEGIS gerne hätte",
+        "type": "object",
+        "quote": "jedes Mal, wenn Kael handelt, *fehlt im Datenstrom etwas*, das AEGIS gerne hätte",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        244
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:62781fce8f769dcfece52c50248bf66133c09825299b86552105694a78be4886",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 21 — *Three Versions of the Same Minute*",
+        "target": "Moros (jetzt erstmals greifbar) hat im entscheidenden Moment kollabiert",
+        "type": "who",
+        "quote": "Moros (jetzt erstmals greifbar) hat im entscheidenden Moment kollabiert und die Synchronisation gerissen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        254
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:79b6420d9b529b709f45c232001dd7277d280a8ab9efd9ce18d839135ee4b65d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 22 — *Latency as Weapon*",
+        "target": "Das System hat den Cache-Lag erkannt und exploitiert ihn",
+        "type": "want",
+        "quote": "Das System hat den Cache-Lag erkannt und exploitiert ihn",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        258
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0fb218d9559090069b844d8222c63baa9f589322a5b2ac92867fdce978b7d323",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 22 — *Latency as Weapon*",
+        "target": "wenn Lex denkt, dass Kiko kämpft, aber Kiko bereits eingefroren ist, läuft Kael in Fallen",
+        "type": "falsehood",
+        "quote": "wenn Lex denkt, dass Kiko kämpft, aber Kiko bereits eingefroren ist, läuft Kael in Fallen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        258
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:be9b2b0f8f20ef6068db7da846b7321bf5ddc5b8078791b672d435a390faaa24",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 22 — *Latency as Weapon*",
+        "target": "Mnemosyne, gegen Direktive, beginnt zu archivieren *was* der Host fühlt",
+        "type": "want",
+        "quote": "Mnemosyne, gegen Direktive, beginnt zu archivieren *was* der Host fühlt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        258
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bd75730d1565e3394ae8fdb4dc0131ced78481bec39ff85a234f3484b204f32f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 23 — *The Discursive Gambit*",
+        "target": "Sie verteilen Aktionen über Sektoren hinweg, die sich logisch ausschließen",
+        "type": "want",
+        "quote": "Sie verteilen Aktionen über Sektoren hinweg, die sich logisch ausschließen.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        262
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a87d888935203cd758dd3be9c1cebc7394a661682c52669b9ce1f0f283757b8a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 23 — *The Discursive Gambit*",
+        "target": "Kael schlüpft durch",
+        "type": "who",
+        "quote": "Kael schlüpft durch.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        262
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7176ddb1acce4f25b046a604038193194418f1dec909efe731efac1670b794e8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 23 — *The Discursive Gambit*",
+        "target": "am Ende des Kapitels fallen die Alter wieder auseinander, erschöpft",
+        "type": "hook_out",
+        "quote": "am Ende des Kapitels fallen die Alter wieder auseinander, erschöpft",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        262
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ce66f9696e6da371172e9582263d5164e48151fee1a6bc1461c166557a87bf3e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 24 — *LogOS vs Mnemosyne*",
+        "target": "Mnemosyne hat begonnen, das Trauma des Hosts zu archivieren",
+        "type": "want",
+        "quote": "Mnemosyne hat begonnen, das Trauma des Hosts zu archivieren.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        266
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:89f1ecc3becd9d9dd7f733a6d7c5a0a88d03d2d0188ce570e4320367dd1b352e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 24 — *LogOS vs Mnemosyne*",
+        "target": "LogOS versucht, Mnemosynes Routinen zu überschreiben",
+        "type": "want",
+        "quote": "LogOS versucht, Mnemosynes Routinen zu überschreiben.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        266
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a98493ca45d0bf5f2a791a54a0066e063c475195c07a9461393d9630bf70f08d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 24 — *LogOS vs Mnemosyne*",
+        "target": "Mnemosyne weigert sich",
+        "type": "obstacle",
+        "quote": "Mnemosyne weigert sich.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        266,
+        274,
+        318
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "ambiguous quote: choose its passage",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0d9d6378db63f353fc05fab36c7b217a9959710bd8b3fdbb0d3a006692835b64",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 25 — *Das Echo der Kernwunde*",
+        "target": "Fragment T-734",
+        "type": "object",
+        "quote": "drängt sich ein Symbol — Fragment T-734 — in Kaels Bewusstsein",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        270
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:2e7bfed4adc999f0ad410d8d8117e964dbb27c454697fcca72f46657eb0c6917",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 25 — *Das Echo der Kernwunde*",
+        "target": "Selene",
+        "type": "who",
+        "quote": "Selene spricht zum ersten Mal direkt mit ihm",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        270
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bd051a07388cfe326d279d03a8e10facb4a14547a5982c7aaef7150ce1b36256",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 25 — *Das Echo der Kernwunde*",
+        "target": "thermische Arrays",
+        "type": "obstacle",
+        "quote": "AEGIS richtet thermische Arrays auf das Symbol.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        270
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:91db747804df108acf0fb5b92cdde707dc3287567b5855632e639212eb793f87",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 26 — *Final Defenses*",
+        "target": "das Algorithmus-Horror-Labyrinth",
+        "type": "obstacle",
+        "quote": "die Stadt fährt das Algorithmus-Horror-Labyrinth hoch",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        274
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:a910484d6ddb5ee4a194d61a41d5ed503dbf4e98f5b14506c75ae21e6fc4846a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 26 — *Final Defenses*",
+        "target": "Mnemosyne",
+        "type": "who",
+        "quote": "Mnemosyne weigert sich, mitzumachen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        274
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3dd537a13027dc92fe21cdfb4b71bc3c833207041912472d11203b3344be584c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 26 — *Final Defenses*",
+        "target": "Die geometrischen Operatoren werden zur Waffe",
+        "type": "obstacle",
+        "quote": "Die geometrischen Operatoren werden zur Waffe.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        274
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:dfb537d65bd32b8d603c9335c61f6341650ff9b62824f9a9f9aba4b248c57cb3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 26 — *Final Defenses*",
+        "target": "SF-B Timelock unmittelbar vor Ablauf",
+        "type": "why_now",
+        "quote": "SF-B Timelock unmittelbar vor Ablauf",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        274
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4c049fefc37f97b0792aaa6516cf587f60896503ff238d9c52fda8a018c20b74",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27",
+        "target": "Im Labyrinth",
+        "type": "place",
+        "quote": "Im Labyrinth",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3ee8aeafa72b4d31eeb7358993e5d17e1a8aa48973a3f6800877cfb8edc85034",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 27",
+        "target": "Nyx blutet, Kiko hat seit drei Stunden nicht geatmet",
+        "type": "cost",
+        "quote": "Nyx blutet, Kiko hat seit drei Stunden nicht geatmet.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        286
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ffc6eaf3ef6108d531b210fe58eb7ace3eee36be40c1fdcac92b009bb1063ac4",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 28",
+        "target": "AEGIS kann sie nicht löschen, weil sie *aus* AEGIS kommt",
+        "type": "obstacle",
+        "quote": "AEGIS kann sie nicht löschen, weil sie *aus* AEGIS kommt",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        290
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ed08a620a83c129e1eb4d91b70a1085328f8e7abb10405476309e12c5a7fe339",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 29",
+        "target": "Kael präsentiert sich AEGIS als lebender Gödel-Satz",
+        "type": "want",
+        "quote": "Kael präsentiert sich AEGIS als lebender Gödel-Satz",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        294
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e97ae1ef3c2047110532a0cf2ab213d7462711f9a5f1ac47a40340552339001e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 30",
+        "target": "nicht löschen — *einkapseln*",
+        "type": "want",
+        "quote": "AEGIS schaltet, in einem letzten algorithmischen Reflex, auf eine andere Strategie um: nicht löschen — *einkapseln*.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        298
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9ecf616632b3e302b1d50bd0922cfd5582f84f82e699fce67270726e53dbe20d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 30",
+        "target": "eine perfekte Vakuumkammer (K1-Zone)",
+        "type": "place",
+        "quote": "Es baut um Kael eine perfekte Vakuumkammer (K1-Zone).",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        298
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c8a91f0e3cbbea2be632cbee97ea0fe7fd2130d8821db3a65c9e9b75b06c621c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 31",
+        "target": "In der Vakuumkammer",
+        "type": "place",
+        "quote": "In der Vakuumkammer.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        302
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:97a3cfab460ed9b46c53e06763f3a921644b9f863214dbbb09d39e486779b90a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 31",
+        "target": "Oblivion",
+        "type": "who",
+        "quote": "meldet sich zum ersten Mal mit Stimme: **Oblivion**",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        302
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e74dcd5e86622008617312c43ad470163541d9fdf82162b9e60cdcbca9dca33e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 31",
+        "target": "Kael steht auf",
+        "type": "want",
+        "quote": "Kael steht auf.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        302
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:44526d3574b1c425f1b53c2f5aebc7e2a520c246302b57a3a87638e7edc28c2d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael durchschreitet die zerfallende Architektur.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b0b06b83550e152f495172840e6884bd5b11c66e4ccc47ba6e95692009d4c604",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32",
+        "target": "die zerfallende Architektur",
+        "type": "place",
+        "quote": "Kael durchschreitet die zerfallende Architektur.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:835dc89ed422e908abf4531f07ab04a1914b320a1692634744e311180ad8dc2f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32",
+        "target": "LogOS baut endlos eine Wand auf und reißt sie ein",
+        "type": "want",
+        "quote": "LogOS baut endlos eine Wand auf und reißt sie ein.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c488e4eb20a36c37f3a47faf5af2f5f7551daa70960963ad52a7b6e088919f1f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32",
+        "target": "Mnemosyne liest, ein einziges Mal, was sie aufbewahrt hat",
+        "type": "want",
+        "quote": "sie sitzt in ihrer Bibliothek und liest, ein einziges Mal, was sie aufbewahrt hat.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Mnemosyne liest, ein einziges Mal, was sie aufbewahrt hat"
+      ]
+    },
+    {
+      "id": "claim:bd4cdd6ce52c913908a8e540f77877fb4c8157e385cff9299a7cd7df9725b5f1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 32",
+        "target": "AEGIS sendet keine Befehle mehr",
+        "type": "irreversible",
+        "quote": "AEGIS sendet keine Befehle mehr.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        306
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:81764fd262473dd1cf1bfb0f7449bff1789e9b0cb542672d03609176578e9e7d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 33",
+        "target": "Kael tritt an den Rand der Stadt",
+        "type": "want",
+        "quote": "Kael tritt an den Rand der Stadt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        310
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:921b5c4382170560dcdf2f104e79e1a505e6cc5b93fca835e567b72fa86a5c5e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 33",
+        "target": "der Rand der Stadt",
+        "type": "place",
+        "quote": "Kael tritt an den Rand der Stadt.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        310
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "der Rand der Stadt"
+      ]
+    },
+    {
+      "id": "claim:5aa040fb25d54febc97d3b9f70e0037a9bb7236064bb88cff0f2c6adde289039",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 33",
+        "target": "das Potentialmeer — KW4, das Fundament",
+        "type": "object",
+        "quote": "Vor ihm: das Potentialmeer — KW4, das Fundament.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        310
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:3047257c9337928ea0d50172564480459c21f3a79ae0367b8d8ad4a3da5be5c3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 33",
+        "target": "Juna ist da",
+        "type": "who",
+        "quote": "Und dann ist Juna da.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        314
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "Juna ist da"
+      ]
+    },
+    {
+      "id": "claim:2ce86d2066c78edce3e2c988ad1aa6116073a9e9d87bb09deb6a63bcd78fa34e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 34 — *Der dissonante Druck*",
+        "target": "AEGIS reaktiviert das Original-Trennungsprotokoll, eingefroren seit der Genesis-Krise",
+        "type": "want",
+        "quote": "das Original-Trennungsprotokoll, eingefroren seit der Genesis-Krise, wird reaktiviert",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        318
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "surface absent from document",
+      "absent_surfaces": [
+        "AEGIS reaktiviert das Original-Trennungsprotokoll, eingefroren seit der Genesis-Krise"
+      ]
+    },
+    {
+      "id": "claim:f6a080f512f84d7a18b92cddffcd0f5688d9f3c5ccaec483e5d7ca1015f3772c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 34 — *Der dissonante Druck*",
+        "target": "Mnemosyne weigert sich, noch einmal mitzumachen",
+        "type": "obstacle",
+        "quote": "Mnemosyne weigert sich, noch einmal mitzumachen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        318
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:59db2c9000fa318411aa5be1830e1fd183f5f95def347927c476ef6dc4273e88",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35 — *Mnemosyne-Archipel — Hardware*",
+        "target": "Kael & die Dreizehn betreten das Mnemosyne-Archipel",
+        "type": "want",
+        "quote": "Kael & die Dreizehn betreten das Mnemosyne-Archipel",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        322
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f3e6da3e380624da2baeb958fdfc10b4cbad25c0170ca0a382c67fed1fa8759f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35 — *Mnemosyne-Archipel — Hardware*",
+        "target": "K1-Cache-Bänke, die *physische* Hardware von AEGIS' Speichersystem",
+        "type": "place",
+        "quote": "K1-Cache-Bänke, die *physische* Hardware von AEGIS' Speichersystem",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        322
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:0ec87c8eff19a73a692f893fd4b4542451c106bb6016dd7922c2a0638b1eea00",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 35 — *Mnemosyne-Archipel — Hardware*",
+        "target": "AEGIS verbrennt an der Unmöglichkeit, ihn zu löschen",
+        "type": "obstacle",
+        "quote": "AEGIS verbrennt an der Unmöglichkeit, ihn zu löschen",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        322
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c64d9ab58c925919e9410aa3150f75c9b20f5e9d1c5eccfbfcee5e32f1ef2781",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 36",
+        "target": "AEGIS bricht den Sweep ab",
+        "type": "want",
+        "quote": "AEGIS bricht den Sweep ab, fährt seine Arrays in resignierender Zärtlichkeit herunter und fällt in Algorithmische Melancholie.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        326
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1b5ec648d1967b1c1d8bd00f773e2487332e8493085c5b2d73130dc717b7ffe2",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 36",
+        "target": "In der Mitte des Feuers",
+        "type": "place",
+        "quote": "In der Mitte des Feuers ist *Stille*",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        326
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:d4624ad1b1c11587d27031c86305bd88be8c72a5d626019ecf51505734250bf6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 37",
+        "target": "Kael/M bewegt sich durch die Reste der Server",
+        "type": "want",
+        "quote": "Kael/M bewegt sich durch die Reste der Server.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        330
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9cfbcd1b00e73bbd9db32d4231390e88e40341544d0284ba6f3f598c0cfbd99a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 37",
+        "target": "die Reste der Server",
+        "type": "place",
+        "quote": "Kael/M bewegt sich durch die Reste der Server.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        330
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9e3e86bfa8aaeb2d8dfe69ea8f175c6bcb9211cc4d950381131bdb32ad5a8661",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 38 — *Der unendliche Horizont*",
+        "target": "Mnemosyne archiviert wieder",
+        "type": "who",
+        "quote": "Mnemosyne archiviert wieder — diesmal als Trauerarbeit, nicht als Pflicht.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        334
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:6b1fcead910790f4a11c5f0d70112d1e56230dfcd06d0e37e0fd7de376a35954",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 39 — *Echo der Kohärenz*",
+        "target": "Im Staub von Core World 1",
+        "type": "place",
+        "quote": "Im Staub von Core World 1.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        338
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:1f0ff2d6c213900bf9ddfec7f92995f85d970587408b4bbd544d06082741e8d9",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kapitel 39 — *Echo der Kohärenz*",
+        "target": "Kael begreift das finale Paradoxon",
+        "type": "who",
+        "quote": "Kael begreift das finale Paradoxon",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        338
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:4fab8cdf3789f9ebeba2082b827f8263f512e8a2b1b442aca38a0d881dcf9f9a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "Selene gibt das Wort „älter als die Stadt\"",
+        "type": "who",
+        "quote": "teilweise Kap 25 (Selene gibt das Wort „älter als die Stadt\")",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        382
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:f1ccb74ee5c897afde1e7b359e6b3514f45868d4da5419b04813dff747681f7a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "als Truth-Rotation-Kollateral",
+        "type": "why_now",
+        "quote": "volles Reveal Kap 36 als Truth-Rotation-Kollateral",
+        "stance": "hedges"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        382
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:90a5f042dd235a8be6ee8162c24b40d38768a6b9f54753b50cb038afe8a9450b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 33",
+        "target": "sie *fast* greifbar",
+        "type": "who",
+        "quote": "Kap 33 ist das einzige Kapitel, in dem sie *fast* greifbar ist.",
+        "stance": "asserts"
+      },
+      "document": "kohaerenz-protokoll-outline-revision-2026-05-01-md",
+      "template": "ChapterCards",
+      "source_sha256": "b93d5e434631d688e6c0d3f21c8353e6730888c9c11c8ff39aca6ef6cb774599",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        383
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "document": "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+  "drive_id": "1DkadoNuaLaPw-89OS0-7mlUjlVybJxmi6kPgPDGtyEE",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 26,
+  "backslash_escapes": 0,
+  "typographic_marks": 80,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionalität",
+      "Emotionen",
+      "Emotionslosigkeit"
+    ],
+    "bedro": [
+      "Bedrohlich",
+      "Bedrohliche",
+      "Bedrohung",
+      "Bedrohungen"
+    ],
+    "verte": [
+      "Verteidiger",
+      "Verteidigung",
+      "Verteidigungsmodus",
+      "Verteidigungsstrategien"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteils"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtet",
+      "Beobachtung"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerkorrektur",
+      "Fehlern"
+    ],
+    "kampf": [
+      "Kampf",
+      "Kampfbereitschaft",
+      "Kampfes"
+    ],
+    "mögli": [
+      "Möglichkeit",
+      "Möglichkeiten",
+      "Möglichkeits"
+    ],
+    "poten": [
+      "Potentialität",
+      "Potenzial",
+      "Potenzielle"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätscheck",
+      "Realitätserfahrung"
+    ],
+    "trigg": [
+      "Trigger",
+      "Triggernd",
+      "Triggerung"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuchs",
+      "Versucht"
+    ],
+    "überf": [
+      "Überflutung",
+      "Überfordernd",
+      "Überforderung"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysiert"
+    ],
+    "bedür": [
+      "Bedürfnis",
+      "Bedürfnissen"
+    ],
+    "bewer": [
+      "Bewertet",
+      "Bewertung"
+    ],
+    "domin": [
+      "Dominanz",
+      "Dominanzstrategien"
+    ],
+    "entsp": [
+      "Entsprechungen",
+      "Entspricht"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungsfragmente"
+    ],
+    "erken": [
+      "Erkennt",
+      "Erkenntnis"
+    ],
+    "erleb": [
+      "Erlebniswelt",
+      "Erlebniswelten"
+    ],
+    "fluch": [
+      "Flucht",
+      "Fluchtimpulse"
+    ],
+    "frust": [
+      "Frustration",
+      "Frustrierend"
+    ],
+    "grenz": [
+      "Grenzen",
+      "Grenzfeste"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppentheoretischen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Kind",
+      "Kindes"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ],
+    [
+      "Raum",
+      "Traumas"
+    ],
+    [
+      "Raum",
+      "Albtraum"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Auseinandersetzung"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Kernwelt"
+    ],
+    [
+      "Welt",
+      "Weltsicht"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Welt",
+      "Erlebniswelt"
+    ],
+    [
+      "Welt",
+      "Erlebniswelten"
+    ],
+    [
+      "Druck",
+      "Ausdrucksmittel"
+    ],
+    [
+      "Kampf",
+      "Kampfes"
+    ],
+    [
+      "Kampf",
+      "Kampfbereitschaft"
+    ],
+    [
+      "Macht",
+      "Ohnmacht"
+    ],
+    [
+      "Macht",
+      "Machtspiele"
+    ],
+    [
+      "Rolle",
+      "Kontrolle"
+    ],
+    [
+      "Roman",
+      "Romankontext"
+    ]
+  ]
+}
