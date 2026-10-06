@@ -434,3 +434,11 @@ Stands as one more answer to the question's first half, dated 2025-07-30: frozen
 Under the endgame it writes: „Kaels integrierter Zustand fungiert als lebender“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L40] Gödel-Satz; then „wählt AEGIS die“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L40] transformation „über den Kollaps und erstarrt in einer“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L40] algorithmic melancholy. It names no plural form and no Oblivion.
 
 Stands as one more answer to the question's first half, dated 2025-07-30: transformation, not collapse; recorded, not applied.
+
+## 2026-10-06 — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide
+
+**The learner's guide reports AEGIS crashing or transforming at the Gödel-Gambit and surviving as a Zombie System in Algorithmic Melancholy.**
+
+At the fifth step of the Gödel-Gambit the guide writes „AEGIS crashes/transforms.“ ^[deconstructing-reality-s-architecture.md:L226] and that AEGIS is forced to adopt Paraconsistent Logic. In the Act III summary it adds „AEGIS transforms into a“ ^[deconstructing-reality-s-architecture.md:L285] `Zombie System`, glossed Algorithmic Melancholy; Kael becomes the Gardener. The guide does not say what takes over AEGIS's function inside Kael.
+
+Stands as the guide's report of one outcome (transformation, not extinction); recorded, not applied, and nothing in the question is decided here.
