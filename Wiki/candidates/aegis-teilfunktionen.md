@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 24
-readings: 22
+sources: 25
+readings: 23
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md"]
 gathered: "2026-09-16"
 ---
 
@@ -115,6 +115,10 @@ The document names a Zero-Trust function of AEGIS, in a compound, without explai
 ## Reading — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept — SIS and the Zero-Trust Environment Mandate as protocols of the Überwelt
 
 The Überwelt concept describes `SIS` in a protocol table as „Systemische Isolation“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L45], with the effect „Vollständiges Verschwinden von Sektoren in der Schwärze“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L45]. In the Cerberus section it spells the name out: Cerberus „setzt das Systemic Isolation Shield (SIS) um“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L66] when data nodes are rated incurably corrupt (L66). Communication between the entities stands under „den strengen Vorgaben des Zero-Trust Environment Mandate“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L78]. Of a Cognitive Firewall as a sub-function of AEGIS the concept says only that Cerberus perceives „kognitive Firewalls“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L66] as walls (L66).
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — AEGIS manages the city's CSI and triage; KW3 physics names Zero-Trust
+
+The master integration names two functions of AEGIS in its world part: „AEGIS verwaltet den globalen CSI und kann lokale Puffer umverteilen“ ^[kohaerenz-protokoll-master-integration-md.md:L215], which it equates with triage, and, in the physics of Kernwelt 3, „NP-schwere Bedrohungserkennung, fehlerhafte Heuristiken, Zero-Trust“ ^[kohaerenz-protokoll-master-integration-md.md:L237]. The second line describes the physics of the Cerberus-Labyrinth, not a function of AEGIS as such; the document does not tie `Zero-Trust` to AEGIS itself in that line.
 
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the Systemic Isolation Shield as Cerberus's
 
