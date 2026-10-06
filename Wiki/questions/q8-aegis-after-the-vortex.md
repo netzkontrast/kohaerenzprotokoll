@@ -386,3 +386,11 @@ Where it stands: one more answer to Q8's first half, offered by AEGIS about itse
 The plan has AEGIS, after the Kapitel 22 collapse, recognise its error and „stellt seine direkten Interventionen ein“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L241] in the Kapitel 24–31 sequence. In Kapitel 40, a planned chapter, „sein letzter Logbucheintrag definiert“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L284] coherence as a process, and „Es hat einen neuen Zweck gefunden“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L284]. The document speaks of „Neuer Seinszustand“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L39] for this stage in its table.
 
 Where it stands: one more answer to the question's first half, a continuing AEGIS that observes and supports; the outline is a design, and it does not touch the second half, Oblivion.
+
+## 2026-10-06 — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter
+
+**The research letter proposes three endings for AEGIS after Kael's unprovable truth and chooses none: „Drei plausible Szenarien bieten sich an“ ^[aegis-logik-und-erzaehlstruktur.md:L259].**
+
+The three are „Der rekursive Absturz“ ^[aegis-logik-und-erzaehlstruktur.md:L261], a forced transformation in which „könnte AEGIS gezwungen sein, seine eigenen Kernaxiome fundamental neu zu schreiben“ ^[aegis-logik-und-erzaehlstruktur.md:L262], and „Die logische Paralyse (Der ertrinkende Gott)“ ^[aegis-logik-und-erzaehlstruktur.md:L263]. The letter writes in the conditional and names no Vortex and no Oblivion; its summary does not pick among the three.
+
+Where it stands: three more answers to Q8's first half, offered as options by a report of 2025-07-29; the record's decision of 2026-10-05 is unchanged, and the second half, Oblivion, is not touched.
