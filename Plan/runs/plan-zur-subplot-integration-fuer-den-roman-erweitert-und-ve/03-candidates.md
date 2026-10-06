@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+World, figures, places:
+- Kael
+- Lex
+- Argus
+- AEGIS
+- Juna/V
+- Externe Ebene
+- Externen Ebene
+- Fundament
+- Paradoxon X
+- Guardians
+- Wächter
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kairos/Sophia
+- Kairos & Sophia
+- Digitalen Überwelt
+- Überwelt
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Selene/Selbst-Figur
+- Kiko
+- Moros
+- Isabelle
+- Nyx
+- Lia
+- Alex
+- Rhys
+- ANPs
+- EPs
+- ANP
+- EP
+- Partnerin
+- Risse
+- Glitches
+- Elixier
+- EICs
+- BPoF
+- AEGIS-Protokoll
+- Blinden Flecken
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Entropiemanagement
+- Entropie
+- Singularität
+- Funktionalen Multiplizität
+- Tertiäre Strukturelle Dissoziation
+- Tertiären Strukturellen Dissoziation
+- TSDP
+- Ko-Bewusstheit
+- Ko-Bewusstsein
+- Phobien
+- Gaslighting
+- Hacking the System
+- Logik der Dissoziation
+- Flüstern von Außen
+- Durchbruch der äußeren Mauern
+- Die Suche nach dem Fundament
+- AEGIS' letztes Aufgebot
+- Wahl der Realität
+- Paraiyas
+- Qualia
+
+## lens
+- IFS-Selbst-Qualitäten
+- Gödelsche Grenzen
+- Parakonsistenz
+- P=NP
+- Gehirn im Tank
+- Bostroms Argument
+- unendlichen Regression von Simulationen
+- Foreshadowing
+- Pacing
+- Agency
+
+The document is a plan, not a story: it lists chapters per subplot (Kap. numbers) and writes "könnte" often. Candidates inside the plan's own hedged proposals (the Juna/V and Fundament arcs) are still listed as names. Two spellings stand for the first subplot title: "Funktionalen Multiplizität" only; the nominative form was refused by --find. Elixier, Hacking the System, Flüstern von Außen and Durchbruch der äußeren Mauern are set in quotation marks by the document, which looks like citing chapter titles or other texts. Chapter slots and Teil labels are structure, not candidates.
