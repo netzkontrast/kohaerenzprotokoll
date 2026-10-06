@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      23
+  backslash escapes      178
+  typographic marks      42
+  ascii quotes           180
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbsterhaltung, Selbsterhaltungstrieb, Selbstfindung, Selbstreflexion, Selbstregulation, Selbsttäuschung, Selbsttäuschungen, Selbstverständnis, Selbstverteidigung, Selbstvertrauen, Selbstwahrnehmung, Selbstzweifel
+  syste    SYSTEMS, System, Systemdynamik, Systemfehler, Systeminstabilität, Systemintegrität, Systemische, Systemlogik, Systemregeln, Systems, Systemschwäche, Systemstruktur
+  kontr    Kontrast, Kontrastierung, Kontrolle, Kontrollinstanz, Kontrollparadigma, Kontrollsystems, Kontrollverlust, Kontrollverlusts, Kontrollversuch
+  abweh    Abwehr, Abwehraktion, Abwehrbereitschaft, Abwehrkräfte, Abwehrmechanismen, Abwehrreaktionen, Abwehrstrategie, Abwehrstrukturen
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfragment, Erinnerungsfragmente, Erinnerungsfragmenten, Erinnerungskontinuität, Erinnerungsmanagement, Erinnerungsmanipulation
+  gegen    Gegenargumentation, Gegenattacke, Gegenmaßnahmen, Gegensatz, Gegenspielerin, Gegenteil, Gegenwart, Gegenüber
+  inter    Interaktionen, Interface, Internal, Interne, Interner, Internet, Interpretation, Intervention
+  kommu    Kommunikation, Kommunikationsbarrieren, Kommunikationsblockaden, Kommunikationskanal, Kommunikationskanäle, Kommunikationsraum, Kommunikationsversuch, Kommunikationsversuche
+  dialo    Dialog, Dialoge, Dialogen, Dialogischen, Dialogphilosophie, Dialogs, Dialogversuche
+  reali    Reality, Realität, Realitätsbasis, Realitätsebene, Realitätskonstruktion, Realitätsprüfung, Realitätswahrnehmung
+  symbo    Symbol, Symbole, Symbolik, Symbolische, Symbolisieren, Symbolisiert, Symbols
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsform, Bewusstseinsstrom, Bewusstwerdung, Bewusstwerdungsprozess
+  fragm    Fragmentation, Fragmente, Fragmenten, Fragmentierte, Fragmentierung, Fragmentierungsereignisses
+  manip    Manipulation, Manipulationen, Manipulationsstrategien, Manipulator, Manipulatorin, Manipulierbarkeit
+  überl    Überleben, Überlebensimperativ, Überlebensparadoxon, Überlebensstrategie, Überlebensstrategien, Überlegungen
+  berei    Bereich, Bereiche, Bereichen, Bereitet, Bereitschaft
+  emoti    Emotion, Emotional, Emotionale, Emotionalität, Emotionen
+  konfl    Konflikt, Konflikte, Konflikten, Konflikthaftigkeit, Konflikts
+  motiv    Motiv, Motivation, Motivationen, Motive, Motiviert
+  parad    Paradigma, Paradigmenwechsel, Paradoxien, Paradoxon, Paradoxons
+  philo    Philo, Philosophical, Philosophie, Philosophische, Philosophy
+  struk    Struktur, Strukturen, Strukturierte, Strukturierung, Strukturierungsprinzip
+  verst    Verstand, Verständigung, Verständnis, Verständnisses, Verstärkter
+  wider    Widerspruch, Widersprüche, Widersprüchlichkeit, Widerstand, Widerstände
+  antei    Anteil, Anteile, Anteilen, Anteils
+
+# substring pairs -- never one term, often merged by accident
+  Bild < Bilder
+  Bild < Bildern
+  Bild < Einbildung
+  Bild < Gesamtbild
+  Bild < Weltbildes
+  Bild < Bildsprache
+  Bild < Spiegelbild
+  Care < Scares
+  Care < Caregiver
+  Core < Score
+  Denk < Denken
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Seine
+  Eine < Einerseits
+  Ende < Beendet
+  Ende < Heilende
+  Ende < Wendepunkt
