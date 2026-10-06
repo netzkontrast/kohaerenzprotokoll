@@ -165,3 +165,11 @@ The concept writes `Überwelt` for this level and does not write `Nexus`; the qu
 The Guardians' line, from the report's account of the documents it numbers (its sources 31 and 32): „Kairos und Sophia (Möglichkeits-Garten / Nexus)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105]. The word `Nexus` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#1] stands once, `Überwelt` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] and `Überraum` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] not at all (counts), so the report neither identifies nor distinguishes the three.
 
 Stands as one more placement of the Nexus beside the Möglichkeits-Garten, by a slash; the question stays open.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet writes the Nexus and the Überwelt joined by an or, twice, and no Überraum.**
+
+At Plot Point 1 (Kapitel 13): „Dies fällt oft mit dem Eintritt in die instabile Überwelt oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91]. In the Guardians' analysis of Kael (Kapitel 14-17): „Kael befindet sich im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108]. The second line gives the Überwelt to AEGIS. The beat sheet does not say whether the two are one space, one inside the other or two.
+
+Stands as one more placement with an or, hedged by `oft` at its first use; the question stays open.
