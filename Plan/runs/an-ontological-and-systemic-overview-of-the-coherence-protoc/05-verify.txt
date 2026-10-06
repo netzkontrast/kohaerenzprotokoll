@@ -1,0 +1,90 @@
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "termed"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`termed` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#2]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "referred to as"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`referred to as` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#1]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "is defined as"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`is defined as` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#1]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "source material"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`source material` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#1]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Kohärenz Protokoll` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#2]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Risse` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#2]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Guardians"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+`Guardians` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#4]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "functional multiplicity"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+`functional multiplicity` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#3]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Coherence Protocol"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Coherence Protocol` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#2]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Gödel-Gambit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Gödel-Gambit` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#2]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Monstrous Moonshine"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Monstrous Moonshine` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#1]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Moonshine-Link"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Moonshine-Link` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#3]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Core Worlds"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+`Core Worlds` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#4]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Kernwelten"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+`Kernwelten` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#4]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "RCV"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`RCV` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#1]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "sub-protocol exploit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`sub-protocol exploit` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#1]
+$ read.py an-ontological-and-systemic-overview-of-the-coherence-protoc --count "Theory of Structural Dissociation of the Personality (TSDP)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Theory of Structural Dissociation of the Personality (TSDP)` ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:#1]
+$ profile (headings 18, table rows 7)
+  headings             18   bold-only lines 0
+  table rows           7   code fences 0
+stance_marker_count 5 = termed 2 + referred to as 1 + is defined as 1 + source material 1
+candidates 71 from capture.py --count

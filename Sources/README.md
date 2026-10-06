@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 130 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 130 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 131 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 131 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -761,7 +761,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Protokoll der Offenbarung](drive/protokoll-der-offenbarung.md) | 2025-05-20 | 7,458 |  | Argus 13, Lia 7, Juna 16, Kiko 3, Risse 7, Kael 25 | Data-Kollektiv 8, Stefan 25, Argus-Kollektiv 6, Michaels Protokoll 4, Isabella 12 |
 | [Existenzforschung für Roman: Kohärenz Protokoll](drive/existenzforschung-fuer-roman-kohaerenz-protokoll.md) | 2025-10-15 | 9,525 |  | Kohärenz 40, Überwelt 16, Emergenz 2, Entropie 2, Risse 3 | RNA 13, Abiogenese 11, RNA-Welt 7, NCC 3, Allgemeine Relativitätstheorie 5 |
 | [Roman-Finale: Ethik, Existenz, Schöpfer-Geschöpf-Beziehung](drive/roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md) | 2025-10-16 | 3,906 |  | Negentropie 5, Multiplizität 3, Nyx 2, Lex 2, Entropie† 5, Kael 35, AEGIS 14 | Logotherapie 22, Frankl 14, Wabi-Sabi 6, Albert Camus 6, Camus 6 |
-| [An Ontological and Systemic Overview of the 'Coherence Protocol' Narrative](drive/an-ontological-and-systemic-overview-of-the-coherence-protoc.md) | 2025-11-03 | 2,299 |  | AEGIS' four sub-functions 2, Externe Ebene† 2, Gödel-Gambit 2, Sophia 2, Kairos 2, Guardians 4, Genesis 2, Moonshine-Link 3 | Zero Trust Architecture 2, Core World 5, Classical Logic 4, Paradox of Misaligned Coherence 2, Gödel-sentence 2 |
+| [An Ontological and Systemic Overview of the 'Coherence Protocol' Narrative](drive/an-ontological-and-systemic-overview-of-the-coherence-protoc.md) | 2025-11-03 | 2,299 | **read** | AEGIS' four sub-functions 2, Externe Ebene† 2, Gödel-Gambit 2, Sophia 2, Kairos 2, Guardians 4, Genesis 2, Moonshine-Link 3 | Zero Trust Architecture 2, Core World 5, Classical Logic 4, Paradox of Misaligned Coherence 2, Gödel-sentence 2 |
 | [Managing Ontological Risk: Defining the Narrative Integration Strategy for ‘Das Fundament’ to Preserve Kael’s Agency and Avoid the Deus ex Machina Trope](drive/managing-ontological-risk-defining-the-narrative-integration.md) | 2025-11-03 | 1,669 |  | Kael 33, Risse 4, Kohärenz 3, AEGIS 22 | Gödel-sentence 3, Classical Logic 5, Episteme 3, Embodiment 3, Deus Ex Machina 4 |
 | [Protokoll-Ontologie: Roman-Konzeptentwicklung](drive/protokoll-ontologie-roman-konzeptentwicklung.md) | 2025-11-03 | 2,911 |  | Cache-Kohärenz 3, Dual-Kernel-Theorie† 4, Kollaps-Kernel 2, Kohärenz 15, Risse 2, AEGIS 6 | Protokoll-Ontologie 9, Corrective Wavelet 4, Dekohärenz 6, Korrespondenz 7, Wavelets 3 |
 | [The Juna Vector: An Ontological and Narrative Analysis for 'Kohärenz Protokoll'](drive/the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md) | 2025-11-03 | 2,733 |  | Moonshine-Link 6, Juna 29, Gödel-Gambit 2, Algorithmische Melancholie† 2, Potentialmeer 2, Entropie† 5, Kael 44, AEGIS 52 | Prehension 3, Impact Character 2, Quantum Entanglement 3, Junas 13, "living Gödel-Satz" 2 |
