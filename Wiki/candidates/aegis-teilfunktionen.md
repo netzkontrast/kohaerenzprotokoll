@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 28
-readings: 26
+sources: 29
+readings: 27
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "the-coherence-protocol-a-narrative-design-world-architecture"]
 gathered: "2026-09-16"
 ---
 
@@ -105,6 +105,10 @@ The ontological overview says the system is secured by a Zero Trust Architecture
 ## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Zero-Trust as the principle of Cerberus's fortress
 
 Story 19, from the perspective of Cerberus, sees „the world is a fortress built on AEGIS's Zero-Trust principles“ ^[plot-generation-framework-for-the-coherence-protocol.md:L122]. Chapter 19 assigns the same to the linear plot: „Introduce Cerberus, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L260] (3), so as to externalize the system's core principle of paranoia. The framework names the principle and no further sub-functions.
+
+## Reading — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief — Zero-Trust as a Kernwelt atmosphere and a Guardian's glossary line
+
+The design brief names `Zero-Trust` twice and ties it to no AEGIS function. Of the third world it describes the atmosphere as „High tension in a“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L106] `Zero-Trust` environment, and the sentence goes on „environment. The world feels like it is holding its breath“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L106]. Its glossary gives `Cerberus` the line „Defense System,Zero-Trust / Paranoia.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L215]
 
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — the ZTEM as AEGIS's means against Shannon entropy
 
