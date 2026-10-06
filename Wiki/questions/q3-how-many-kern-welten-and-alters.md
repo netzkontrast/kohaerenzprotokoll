@@ -612,3 +612,13 @@ Stands as an answer of 2026-01-02 that predates the author's answers; its own cl
 It reports each world with its Alters: KW1 „Limina (Gatekeeper), Index (Analytiker), Eos (Kontrolleurin)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L95], KW2 „Echo (verängstigtes Kind), Oblivion (im Freeze-Zustand eingefrorener Trauma-Halter), Silas (Caretaker)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L103] and KW3 „Nox (Persecutor/Verfolger, der das System durch Härte“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L111] protects, with Praetor beside him. Several Alters stand in each world, so the correspondence is by IFS role, not one world to one Alter. It reports Juna as the Self „Im Zentrum des IFS-Modells“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L117]. A fourth world has no number or role: the Möglichkeits-Garten appears as the place of the Gärtner (L165) and the Ly-Welt as chaos Kael must face (L164). The document is a drafting guide dated before the author's answers; it does not say whether three is all.
 
 Where it stands: three IFS-seated worlds with several Alters each, a fourth place unseated; recorded, the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline
+
+**The architecture analysis counts four Kernwelten and gives eleven alter rows, with no one-to-one pairing between them.**
+
+On the worlds, the architecture analysis says: „The four Kernwelten are simulated realities created by AEGIS to manage and analyze Kael's fragmented psyche.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L458] The table beneath lists KW1 to KW4 with a psychological domain each (L462–L466), and the lexicon repeats „The four simulated realities (KW1-4) created by AEGIS to analyze and control Kael.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L569]
+
+On the alters, its table lists, in order, Kael (Host), Selene, Nyx, Kiko, Lia, Isabelle, Moros, Lex, Alex, Rhys and Argus: 11 rows (L492–L502), the first typed „Primary ANP“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L492] and the last „Emergent ANP“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L502]. The scene outline plans scenes in which several alters act in one world, such as Alex and Nyx in the fortress world: „Here, the protector alters Alex and Nyx are dominant, viewing everything with suspicion.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L97]
+
+Stands: four worlds and eleven alter rows, both as the document writes them; the table does not pair a world with an alter, and nothing here decides the question.
