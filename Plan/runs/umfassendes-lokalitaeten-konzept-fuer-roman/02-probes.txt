@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      199
+  backslash escapes      220
+  typographic marks      29
+  ascii quotes           234
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanomalien, Systemausfälle, Systembefehle, Systemdaten, Systemdynamiken, Systeme, Systemen, Systemfehler, Systemgeräusche, Systemgrenzen, Systeminstabilität, Systemintegration, Systemkontrolle, Systemkräften, Systemlast, Systemlogik, Systemmeldungen, Systemnachrichten, Systemordnung, Systemperspektive, Systems, Systemstabilität, Systemverwaltung, Systemzustände, Systemzuständen
+  archi    ARCHITECTURAL, ARCHITECTURE, Architects, Architectural, Architecture, Architektonische, Architektur, Architekturen, Archiv, Archival, Archivar, Archivars, Archive, Archiven, Archivinterfaces, Archivraum, Archivs
+  daten    Daten, Datenfluss, Datenintegrität, Datenknotenpunkt, Datenknotenpunkts, Datenkorruption, Datenmanipulation, Datenrauschen, Datenrepräsentationen, Datenstrom, Datenströme, Datenströmen, Datenvisualisierung, Datenvisualisierungen, Datenzentren, Datenzentrum, Datenzentrums
+  kontr    Kontrast, Kontraste, Kontrasten, Kontroll, Kontrollanspruch, Kontrolle, Kontrollkonsole, Kontrollmechanismen, Kontrollpunkt, Kontrollpunkte, Kontrollraum, Kontrollstreben, Kontrollsystem, Kontrollsysteme, Kontrollverlust, Kontrollzentrum, Kontrollzwang
+  infor    Information, Informationen, Informationsaufnahme, Informationsaustausch, Informationsdichte, Informationsdisplays, Informationskodierung, Informationsquelle, Informationsstele, Informationsverarbeitung, Informationsverbreitung, Informationszugriff, Informationsübertragungen, Informed
+  inter    Interaction, Interactive, Interagiert, Interaktion, Interaktionen, Interface, Interfaces, Interior, Interiors, International, Interplanetary, Interpretation, Interpretationen
+  licht    Licht, Lichtblick, Lichtblitz, Lichteffekt, Lichter, Lichtfragmenten, Lichtpunkt, Lichtsignale, Lichtung, Lichtverhältnisse, Lichtverhältnissen
+  chara    Character, Characteristics, Characterization, Charakter, Charaktere, Charakteremotion, Charakteren, Charakterentwicklung, Charakterlisten, Charakters
+  schla    Schlachtfeld, Schlaf, Schlafbedürfnisse, Schlafens, Schlafnische, Schlafparalyse, Schlafstörungen, Schlafzustand, Schlafzyklen, Schlamm
+  durch    Durchbrechen, Durchdringens, Durchgangs, Durchgänge, Durchqueren, Durchquerung, Durchsagen, Durchsetzung, Durchsickern
+  symbo    Symbol, Symbolen, Symbolfigur, Symbolic, Symbolisieren, Symbolisiert, Symbolism, Symbolort, Symbols
+  erinn    Erinnert, Erinnerung, Erinnerungen, Erinnerungsfragmente, Erinnerungskategorien, Erinnerungslandschaft, Erinnerungsorten, Erinnerungsspuren
+  konze    Konzentration, Konzentrationsschwierigkeiten, Konzept, Konzepte, Konzepten, Konzeption, Konzeptionelle, Konzeptueller
+  verst    Versteckens, Versteckte, Verständnis, Verstärken, Verstärkt, Verstärkung, Verstöße, Verstößen
+  visua    Visual, Visualisierung, Visualisierungen, Visualization, Visualizations, Visualize, Visualizing, Visuals
+  arbei    Arbeit, Arbeitsanweisungen, Arbeitsgrundlage, Arbeitsplatz, Arbeitsplätze, Arbeitsrealität, Arbeitsumgebung
+  desig    Design, Designelemente, Designentscheidung, Designers, Designierte, Designing, Designs
+  energ    Energie, Energieadern, Energieentladungen, Energiefeld, Energiefeldes, Energielinien, Energieschilde
+  reali    Realities, Reality, Realität, Realitäten, Realitätsebene, Realitätsebenen, Realitätswahrnehmung
+  selbs    Selbst, Selbstbetrachtung, Selbstbild, Selbstbilder, Selbstporträts, Selbstreflexion, Selbstzweifeln
+  senso    Sensor, Sensorarchitektur, Sensoren, Sensorik, Sensorische, Sensors, Sensory
+  traum    Traum, Trauma, Traumarchitektur, Traumas, Traumata, Traumebenen, Traumsequenzen
+  überw    Überwachen, Überwacht, Überwachung, Überwachungskapazität, Überwachungsposten, Überwachungspunkte, Überwelt
+  emoti    EMOTIONS, Emotion, Emotional, Emotionaler, Emotionen, Emotions
+  funkt    Funktion, Funktional, Funktionalismus, Funktionalität, Funktionen, Funktionsweise
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Falle
+  Alle < Gallery
+  Alle < Kristalle
+  Alle < Zerfallen
+  Alle < Challenges
+  Alle < Parallelen
+  Alle < Verfallene
+  Alle < Zerfallende
+  Alle < Stolperfallen
+  Arch < Archiv
+  Arch < Archive
+  Arch < Archivs
+  Arch < ArchEyes
+  Arch < Archival
+  Arch < Archivar
+  Arch < Archiven
+  Arch < Research
+  Arch < Archetype
+  Arch < Archivars
+  Arch < Archetypal

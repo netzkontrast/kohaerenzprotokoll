@@ -1,0 +1,14 @@
+# umfassendes-lokalitaeten-konzept-fuer-roman
+  lines                747  (frontmatter ends at 9)
+  body words           17356
+  headings             2   bold-only lines 9
+  table rows           0   code fences 0
+  question marks       35
+  backslash escapes    220
+  typographic marks    29   ascii quotes 234
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    199
+  repeated labels      Konzeptueller Kern & Narrative Funktion x31, Name & Zugehörige Ebene x31, Regeln & Funktionsweise x31, Sensorische Details x31, Visuelle Ästhetik & Design x31, Atmosphäre & Stimmung x30, Manifestation von "Rissen"/Entropie x30, Verbindung zu Charakteren/Plot x30
+  longest line         1226 chars
+
