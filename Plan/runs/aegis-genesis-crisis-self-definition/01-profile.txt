@@ -1,0 +1,14 @@
+# aegis-genesis-crisis-self-definition
+  lines                215  (frontmatter ends at 9)
+  body words           4702
+  headings             18   bold-only lines 0
+  table rows           19   code fences 0
+  question marks       0
+  backslash escapes    87
+  typographic marks    17   ascii quotes 72
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    8
+  repeated labels      none
+  longest line         814 chars
+
