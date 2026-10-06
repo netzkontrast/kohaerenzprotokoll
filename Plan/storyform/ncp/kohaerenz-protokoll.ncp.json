@@ -1888,6 +1888,608 @@
                       "perspective_id": "persp_main_character"
                     }
                   ]
+                },
+                {
+                  "id": "beat_a_mc_kap_01",
+                  "scope": "event",
+                  "sequence": 1,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 1: Die Zuweisung auf null bringen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael verlässt um 16:31 die Schicht und holt die alte Frau von der Bank in Delta-7, Abschnitt 3, bevor das Fenster 16:40 sie löscht. Die linke Hand hat die RÜCKFRAGE gedrückt (Silas, Spur; vorläufige Ausführung aus Entwurf G). Wende: Eine Person ist gerettet; die Bank, ein Schritt und das Lied aus WE 0419 verschwinden. Der Anschluss ist auf 06:10 verschoben, nicht gerettet. Preis: Schuld gegenüber einem konkreten Menschen; die Null wird verfehlt. Die Zuweisung bleibt bei 37.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_02",
+                  "scope": "event",
+                  "sequence": 1,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 2: Die Rolle trotz des offenen Postens halten.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael prüft das Register gegen einen Gegenstand vor Ort; die saubere Erklärung passt nicht zu beiden. Der Wert 251 kehrt zurück, derselbe Wert an derselben Stelle hinter dem Komma. Seine Wahl (Schritt 47): Er gibt als Ursache die Wartung an, statt den offenen Posten auf sich zu nehmen. Wende: Der Wert stimmt auf der Konsole, außerhalb bleibt eine Abweichung. Preis: Seine Erklärung wird überprüfbar und belastet einen anderen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_03",
+                  "scope": "event",
+                  "sequence": 2,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 3: Die Lücke im eigenen Register finden.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael vermisst den Korridor selbst und entdeckt ein von ihm angelegtes Messzeichen ohne Erinnerung daran. Die Zeit stockt (Kiko, Spur): Er findet sich am Boden eines Korridors; ein Schritt fehlt, 0,73 m. Seine Wahl (Schritt 47): Er meldet den fehlenden Schritt nicht und trägt die Messung nicht ein. Wende: Die Messung liefert einen Befund, aber keine eindeutige Urheberschaft. Preis: Er kann seinem Arbeitsgedächtnis nicht mehr vollständig vertrauen, und niemand außer ihm weiß von der Lücke.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_ic_kap_04",
+                  "scope": "event",
+                  "sequence": 1,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 4: Juna sagt in einer erinnerten Szene zum ersten Mal laut, dass sie einen Ort für sich will (Schritt 47).",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Juna spricht ihren Wunsch nach einem Ort aus, der niemandem dient; Kael hört ihn und antwortet nicht. Wende: Ihr Wunsch steht im Raum, aber Kaels Erinnerung bricht vor seiner Antwort ab. Preis: Ein ausgesprochener Wunsch bleibt ohne Antwort.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_05",
+                  "scope": "event",
+                  "sequence": 2,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 5: Den Bericht der Kollegin abwenden.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael muss einen Ausgleich praktisch vorführen; Lex ordnet, Alex schützt den Körper. Wende: Die Prüfung gelingt lokal, der Kontrollbericht geht trotzdem weiter und zieht das Wartungsfenster von Sektor 04 vor (Schritt 47). Preis: Seine Fassade braucht eine immer größere falsche Erklärung.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_07",
+                  "scope": "event",
+                  "sequence": 1,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 7: Die veränderte Präsenz am Anschluss prüfen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael folgt einer Spur in einen Schacht, während Mara seine Rückmeldungen zählt. Mara bringt ihm am Seil das laute Zählen bei und fragt „Wie heißt du?“; ein Halbsatz bricht ab (Silas, Satzbau). Seine Wahl (Schritt 47): Er folgt der Präsenz über Maras Rückkehrfrist hinaus. Wende: Der Kontakt trägt kurz, doch die Rückkehr braucht die Hilfe eines anderen. Preis: Kael muss Verlässlichkeit teilen statt allein zu kontrollieren; Mara muss ihm nachkommen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_08",
+                  "scope": "event",
+                  "sequence": 3,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 8: Zugang zu den Kühlschächten bekommen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael nutzt den Zugang, versorgt einen Fremden und findet den geforderten Posten bereits erledigt. Im Schacht kümmert sich Kael um einen Fremden; ein „Wir“ steht im Satz (Rhys, Satzbau). Wende: Die Aufgabe gelingt; sein eigenes Kürzel bestätigt eine Löschung ohne Erinnerung. Preis: Eine Hilfe wurde mit einem fremden Schaden bezahlt.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_09",
+                  "scope": "event",
+                  "sequence": 3,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 9: Den bestätigten Vollzug aus Kap 8 verhindern.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael versucht eine praktische Umleitung und muss einen Menschen um Mithilfe bitten. Wende: Er gewinnt Zeit, aber der Name wird trotzdem gelöscht. Die Luft steigt auf exakt 21,0 °C zurück. Preis: Ein Mensch verliert einen konkret gezeigten Zusammenhang seines Lebens.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_10",
+                  "scope": "event",
+                  "sequence": 2,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 10: Nähe vermeiden, damit niemand durch ihn verletzt wird.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Er hilft widerwillig bei einer kleinen konkreten Aufgabe, statt nur eine Erklärung anzuhören. Die alte Frau kommt wieder, als hätte sie nie gezweifelt; sie will, dass sich jemand an sie erinnert. Der Anschluss klickt einmal. Wende: Der Kontakt gelingt, das Vertrautheitsgefühl wird stärker. Preis: Seine sichere Distanz hält nicht.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_ic_kap_11",
+                  "scope": "event",
+                  "sequence": 2,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 11: Die Erinnerung bis an den Rand der Trennung zulassen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Juna fordert eine Antwort, die nur er geben kann; die Szene endet vor der Fragmentierungsnacht. Den Ort, den Juna in Kap 4 für sich wollte, gibt sie dabei her (Schritt 47). Wende: Er erkennt ein Davor, nicht dessen vollständigen Ausgang. Preis: Seine Erklärung, dass nichts verloren sei, trägt nicht mehr.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_12",
+                  "scope": "event",
+                  "sequence": 4,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 12: Die eigene Zeile finden und den Löschgrund prüfen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael beschafft den Nachweis und findet sein Kürzel unter der bevorstehenden eigenen Löschung. Wende: Der Nachweis ist echt, die sichere Erklärung scheitert. Preis: Die blutigen Knöchel bleiben als Handlungsspur ohne erinnerte Wut.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_13",
+                  "scope": "event",
+                  "sequence": 5,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 13: Die Löschung der eigenen Zeile nicht länger bestätigen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael entscheidet bewusst und endgültig; die Stimmen bekommen Namen. Wende: Die Rückfrage bleibt offen, obwohl er den Preis nun kennt. Preis: Er verliert den Schutz seiner Rolle und wird ein Fehler im System. Für die Wartung von Sektor 04 müssen andere zahlen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_13",
+                  "scope": "event",
+                  "sequence": 3,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 13: Die Löschung der eigenen Zeile nicht länger bestätigen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael entscheidet bewusst und endgültig; die Stimmen bekommen Namen. Wende: Die Rückfrage bleibt offen, obwohl er den Preis nun kennt. Preis: Er verliert den Schutz seiner Rolle und wird ein Fehler im System. Für die Wartung von Sektor 04 müssen andere zahlen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_14",
+                  "scope": "event",
+                  "sequence": 4,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 14: Anschluss und offene Zeile durch die Erasure-Welle bringen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael wählt einen Weg aus KW1, der einen bisher verfügbaren Zugang endgültig schließt. Die linke Hand (Silas' Spur) bleibt in KW1 zurück, deine offene Vorliebe (Schritt 39); Kiko erstarrt, Lia will Juna halten und wegstoßen. Wende: Die Verbindung bleibt, der Rückweg ist verloren. Preis: Der Anschluss ist ungeschützt, weil die linke Hand fehlt (Vorliebe, Schritt 39); KW1 entfällt als Rückzugsort (die Uhr von A).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_15",
+                  "scope": "event",
+                  "sequence": 6,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 15: Zurück nach KW1 finden.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael prüft eine Route an einem Fragment, das ihm vertraut klingt. Wende: Der Weg führt weiter zu Juna, nicht zurück zur alten Ordnung. Preis: Ein Kontrollverfahren funktioniert nicht mehr. Er vergisst eine Tatsache aus KW1, etwa die Zahl der Schritte.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_ic_kap_17",
+                  "scope": "event",
+                  "sequence": 3,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 17: Junas weiterlaufendes Leben verstehen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Er findet die Folge einer Entscheidung, die Juna ohne seine Zustimmung getroffen hat. Wende: Die Information ist echt, aber sie fordert keine Rettung durch ihn. Preis: Seine beruhigende Vorstellung von einem wartenden Gegenüber zerfällt.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_18",
+                  "scope": "event",
+                  "sequence": 7,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 18: Aus eigenem Entschluss ins Archiv hinabsteigen und ein Fragment der zehn Jahre lesbar machen (Schritt 47: Kaels erste eigene Wahl).",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael steigt ungerufen ins Archiv hinab, zum ersten Mal, weil er sucht und nicht, weil er gestoßen wird. Er und ein Anteil müssen eine Spur retten, während Oblivion einen Teil davon entfernt. Oblivion löscht noch einmal und zögert einmal: Er sieht zum ersten Mal, was er löscht. Wende: Die Fragmentierungsnacht wird erfahrbar; Oblivion zögert, löst das Problem aber noch nicht. Preis: Ein benennbarer Teil des Belegs bleibt verloren.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_19",
+                  "scope": "event",
+                  "sequence": 4,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 19: Den Kanal für einen konkreten Weg benutzen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die Anteile müssen während einer Bergung entscheiden, ob sie einen unsicheren Hinweis oder ein sicheres Messsignal benutzen. Wende: Die Bergung gelingt nur gemeinsam, macht aber den Standort sichtbar. Preis: Ein geschützter Weg ist nicht mehr nutzbar.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_20",
+                  "scope": "event",
+                  "sequence": 5,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 20: Den Eingriff abwehren und die Gruppe zusammenhalten.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die Anteile müssen zwei Menschen oder zwei Zugänge gleichzeitig schützen; ihre Strategien blockieren einander. Wende: Eine Sicherung gelingt, die gemeinsame Handlungsfähigkeit bricht auseinander. Die Gruppe zerbricht entlang der Lager: Suche, Abwehr, Vermeidung. Preis: Ein überprüfbarer Schutz wird aufgegeben.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_21",
+                  "scope": "event",
+                  "sequence": 5,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 21: Die Verbindung von Echo und gelöschter Geschichte prüfen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Silas vergleicht zwei Spuren, die jeweils einen Teil der Beziehung bewahren. Silas: „Bin ich echt oder nur ein Echo?“ Wende: Eine Verbindung hält; Gewissheit über ihre Herkunft fehlt. Preis: Der Test liefert AEGIS eine neue Möglichkeit zur Klassifizierung.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_23",
+                  "scope": "event",
+                  "sequence": 8,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 23: Unter Wachsamkeit handlungsfähig bleiben.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Rhys versucht einen konkreten Rückweg oder eine Versorgung zu sichern, die Moros nicht nutzen kann. Rhys versucht, Moros zu retten, und scheitert. Wende: Die fürsorgliche Maßnahme reicht nicht; Kael muss ihren Verlust tragen. Preis: Eine hilfreiche Strategie verliert ihre bisherige Verlässlichkeit.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_24",
+                  "scope": "event",
+                  "sequence": 6,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 24: Den Kanal kontrollierbar machen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael filtert den Kanal mit Lex' überprüfbarem Verfahren, während Nyx und Isabelle Nähe abwehren. Wende: Die Ortung nimmt ab, aber eine Antwort wird nicht mehr wahrgenommen. Preis: Sicherheit kostet die Wärme eines konkreten Kontakts.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_ic_kap_25",
+                  "scope": "event",
+                  "sequence": 4,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 25: Junas Gegenwart ohne den alten Filter verstehen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael erschließt eine Spur über eine Handlung Junas, die weder Bitte noch Rettungsauftrag ist. Wende: Er erkennt eine bevorstehende Veränderung und seine eigene Passivität. Preis: Der verbleibende sichere Aufschub verliert seinen Sinn.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_26",
+                  "scope": "event",
+                  "sequence": 9,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 26: Entscheiden, ob er die sichere Ordnung verlässt.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf. Selene vermittelt; die Suche (Rhys, Kiko, Lia, Silas) gewinnt gegen Abwehr und Vermeidung. Auf der Seite von B verzeichnet AEGIS den Entschluss als Bewegung, die seine Klassifizierung aus Kap 22 widerlegt; Kaels Erinnerung drückt (B-MC Present, B-IC Memory; Vorschlag). Wende: Die Suche gewinnt; die Gegenwart muss nun erreicht werden. Preis: Seine bisherige Überlebensordnung ist nicht mehr verfügbar. Der sichere Rückzugspunkt entfällt (die Uhr von A).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_26",
+                  "scope": "event",
+                  "sequence": 6,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 26: Entscheiden, ob er die sichere Ordnung verlässt.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf. Selene vermittelt; die Suche (Rhys, Kiko, Lia, Silas) gewinnt gegen Abwehr und Vermeidung. Auf der Seite von B verzeichnet AEGIS den Entschluss als Bewegung, die seine Klassifizierung aus Kap 22 widerlegt; Kaels Erinnerung drückt (B-MC Present, B-IC Memory; Vorschlag). Wende: Die Suche gewinnt; die Gegenwart muss nun erreicht werden. Preis: Seine bisherige Überlebensordnung ist nicht mehr verfügbar. Der sichere Rückzugspunkt entfällt (die Uhr von A).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_27",
+                  "scope": "event",
+                  "sequence": 10,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 27: Im Cerberus-Labyrinth (KW3) den Weg zu Juna finden.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael lernt, seine Reflexe zu lenken, statt sie zu unterdrücken (A-MC Preconscious): Aus einem Ausweichen wird ein Schritt. Wende: Ja, aber: Er findet einen Riss nach KW4, und der Riss schließt sich hinter ihm. Preis: Der Rückweg nach KW3 entfällt (die Uhr von A).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_29",
+                  "scope": "event",
+                  "sequence": 11,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 29: Im Möglichkeits-Garten (KW4) Junas Gegenwart erreichen, während der Purge läuft.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael trägt Kiko, statt sie zu übergehen: Er geht langsamer, damit der Körper mitkommt. Wende: Ja, aber: Er bleibt im Garten, doch der Purge erreicht die Verbindung vor ihm. Preis: Zeit; Juna bleibt länger in Gefahr.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_30",
+                  "scope": "event",
+                  "sequence": 7,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 30: Den Kanal zu Juna als Ressource halten (A-RS Obtaining), gegen den Purge.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Alex schützt den Weg, mit Stimme; Kael und Juna benutzen den Kanal zum ersten Mal beide bewusst, und sie antwortet. Wende: Ja, aber: Der Kanal hält, und Juna weiß jetzt, wo er ist; damit ist auch sie sichtbar. Preis: Junas Schutz durch Unwissen entfällt.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_31",
+                  "scope": "event",
+                  "sequence": 7,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 31: Oblivion und Silas sollen den Kanal stabilisieren, der eine löschend, der andere empfangend.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die beiden Spiegel-Anteile arbeiten gegeneinander am selben Signal; die Landauer-Hitze steigt. Wende: Nein: Das Signal bricht. Aber in der Hitze entsteht ein Einfall (A-OS Conceiving): Das Löschen selbst lässt sich wählen. Preis: Ein Teil des Signals ist verloren; AEGIS' Abwärmebudget sinkt (die Uhr von B).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_ic_kap_32",
+                  "scope": "event",
+                  "sequence": 5,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 32: Juna in der Gegenwart begegnen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael stellt eine konkrete Frage, und Juna verfolgt ihr eigenes Vorhaben statt seine Erinnerung zu bestätigen. Auf der Seite von B sieht AEGIS nur die Bewegung: Kael geht auf Juna zu, bevor er es beschließt, ein Reflex, den AEGIS nicht klassifizieren kann (B-IC Preconscious; Vorschlag). Wende: Die Begegnung ist real; Nähe löst die Trennung nicht automatisch. Preis: Ein geliebtes Selbstbild muss aufgegeben werden.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_33",
+                  "scope": "event",
+                  "sequence": 8,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 33: Nach der Begegnung gemeinsam einen Ort halten, an dem beide sein können.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael und Juna teilen eine praktische Aufgabe im Garten; das Schweigen von früher wiederholt sich. Wende: Nein: Keiner spricht aus, was er will; AEGIS' Reserve fällt sichtbar. Preis: Die Zeit, in der Sprechen noch möglich war.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_34",
+                  "scope": "event",
+                  "sequence": 12,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 34: Juna aus AEGIS' Zugriff bringen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael trennt die Verbindung selbst, obwohl sie jetzt eine eigene Stimme hat. Juna widerspricht dem Schnitt; er schneidet trotzdem (Schritt 48). Wende: Der gewählte Schutz wird zur erneuten Abwehr von Nähe. Preis: Verlust einer realen Beziehungsmöglichkeit, kein abstrakter Kanalscore.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_34",
+                  "scope": "event",
+                  "sequence": 8,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 34: Juna aus AEGIS' Zugriff bringen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael trennt die Verbindung selbst, obwohl sie jetzt eine eigene Stimme hat. Juna widerspricht dem Schnitt; er schneidet trotzdem (Schritt 48). Wende: Der gewählte Schutz wird zur erneuten Abwehr von Nähe. Preis: Verlust einer realen Beziehungsmöglichkeit, kein abstrakter Kanalscore.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_35",
+                  "scope": "event",
+                  "sequence": 13,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 35: Die Wiederholung der Löschung beenden.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael bestätigt Oblivions Löschung nicht mehr: die RÜCKFRAGE von Kap 13, nach innen gewendet (Schritt 48). Oblivion lässt die widersprüchlichen Erinnerungen stehen; Selene vermittelt eine begrenzte gemeinsame Handlung. Im selben Moment ist AEGIS' Abwärmebudget aufgebraucht: Beat 4, die Landauer-Hitze, liegt hier (Schritt 48). Wende: Kaels Amnesie bricht auf, weil er nicht bestätigt; Oblivion hört auf zu löschen. AEGIS' Budget steht auf 0 %; es bleibt bei seiner Ordnung, ein Teilkollaps; Erlöschen und plural werden folgen erst in Kap 39 (Schritt 43). Beide Storyforms schlagen im selben Kapitel um. Preis: Kael gewinnt keine Schmerzfreiheit, sondern die Verantwortung für die erhaltene Geschichte.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_35",
+                  "scope": "event",
+                  "sequence": 9,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 35: Die Wiederholung der Löschung beenden.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael bestätigt Oblivions Löschung nicht mehr: die RÜCKFRAGE von Kap 13, nach innen gewendet (Schritt 48). Oblivion lässt die widersprüchlichen Erinnerungen stehen; Selene vermittelt eine begrenzte gemeinsame Handlung. Im selben Moment ist AEGIS' Abwärmebudget aufgebraucht: Beat 4, die Landauer-Hitze, liegt hier (Schritt 48). Wende: Kaels Amnesie bricht auf, weil er nicht bestätigt; Oblivion hört auf zu löschen. AEGIS' Budget steht auf 0 %; es bleibt bei seiner Ordnung, ein Teilkollaps; Erlöschen und plural werden folgen erst in Kap 39 (Schritt 43). Beide Storyforms schlagen im selben Kapitel um. Preis: Kael gewinnt keine Schmerzfreiheit, sondern die Verantwortung für die erhaltene Geschichte.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_ic_kap_36",
+                  "scope": "event",
+                  "sequence": 6,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 36: Die Wiederverbindung nach dem Pivot tragen (Vortex 1, Beats 3–5).",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Juna verbindet wieder, aus eigenem Entschluss und gegen seinen Schnitt aus Kap 34: ihre Haltung bleibt, die IC steadfast (Schritt 48). Selene baut als Architektin, Moros kämpft; Kael gibt nach, statt zu kontrollieren (B-IC Subconscious); Juna ist gegenwärtig (A-IC Future). Wende: Ja, aber: Verstehen ohne Worte (A-RS Understanding), die Stille nach der Hitze von Kap 35; AEGIS stottert, erlischt aber noch nicht (Schritt 43). Preis: Die Stille kostet die letzte Kontrolle; Kael kann nicht mehr selbst entscheiden, ob die Verbindung besteht.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_36",
+                  "scope": "event",
+                  "sequence": 9,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 36: Die Wiederverbindung nach dem Pivot tragen (Vortex 1, Beats 3–5).",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Juna verbindet wieder, aus eigenem Entschluss und gegen seinen Schnitt aus Kap 34: ihre Haltung bleibt, die IC steadfast (Schritt 48). Selene baut als Architektin, Moros kämpft; Kael gibt nach, statt zu kontrollieren (B-IC Subconscious); Juna ist gegenwärtig (A-IC Future). Wende: Ja, aber: Verstehen ohne Worte (A-RS Understanding), die Stille nach der Hitze von Kap 35; AEGIS stottert, erlischt aber noch nicht (Schritt 43). Preis: Die Stille kostet die letzte Kontrolle; Kael kann nicht mehr selbst entscheiden, ob die Verbindung besteht.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_37",
+                  "scope": "event",
+                  "sequence": 10,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 37: Die neue Ordnung einrichten: Kael als Gärtner.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael richtet den Alltag des Wir ein, Lex ordnet; Oblivion wählt zum ersten Mal, was vergessen wird (Schritt 44). Wende: Ja, aber: Es funktioniert, und genau das ist der Fehler — der Hüter hütet, was zerfällt. Preis: Die Wachsamkeit.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_37",
+                  "scope": "event",
+                  "sequence": 14,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 37: Die neue Ordnung einrichten: Kael als Gärtner.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael richtet den Alltag des Wir ein, Lex ordnet; Oblivion wählt zum ersten Mal, was vergessen wird (Schritt 44). Wende: Ja, aber: Es funktioniert, und genau das ist der Fehler — der Hüter hütet, was zerfällt. Preis: Die Wachsamkeit.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_rs_kap_38",
+                  "scope": "event",
+                  "sequence": 10,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 38: Eine gemeinsame Zukunft verhandeln.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael und Juna vereinbaren eine begrenzte nächste Handlung, die jeder ablehnen darf. Das Rauschen ist AEGIS' Sterben, auf Kaels Seite hörbar: Was das Abwärmebudget nicht mehr hält, kommt als Rauschen herein (B-RS Becoming; Vorschlag). Wende: Ein geteiltes Vorhaben entsteht ohne Vollständigkeitsversprechen. Preis: Beide verzichten auf die Kontrolle der Antwort des anderen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_ic_kap_38",
+                  "scope": "event",
+                  "sequence": 7,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 38: Eine gemeinsame Zukunft verhandeln.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael und Juna vereinbaren eine begrenzte nächste Handlung, die jeder ablehnen darf. Das Rauschen ist AEGIS' Sterben, auf Kaels Seite hörbar: Was das Abwärmebudget nicht mehr hält, kommt als Rauschen herein (B-RS Becoming; Vorschlag). Wende: Ein geteiltes Vorhaben entsteht ohne Vollständigkeitsversprechen. Preis: Beide verzichten auf die Kontrolle der Antwort des anderen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_mc_kap_39",
+                  "scope": "event",
+                  "sequence": 15,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 39: Mit Vielheit einen unvollständigen Tag tragen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung. Im selben Kapitel erlischt AEGIS-monolithisch, und ein AEGIS im Plural antwortet, der vierte Schritt der Genesis (Q8, W12, Schritt 43). Wende: Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch. Preis: Die Sicherheit einer vollständigen Null wird aufgegeben.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_a_os_kap_39",
+                  "scope": "event",
+                  "sequence": 11,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 39: Mit Vielheit einen unvollständigen Tag tragen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung. Im selben Kapitel erlischt AEGIS-monolithisch, und ein AEGIS im Plural antwortet, der vierte Schritt der Genesis (Q8, W12, Schritt 43). Wende: Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch. Preis: Die Sicherheit einer vollständigen Null wird aufgegeben.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
                 }
               ]
             },
@@ -3282,6 +3884,398 @@
                       "perspective_id": "persp_relationship_story"
                     }
                   ]
+                },
+                {
+                  "id": "beat_b_mc_kap_00",
+                  "scope": "event",
+                  "sequence": 1,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 0: Eine Löschung korrekt abschließen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS wiederholt eine Prüfung und verliert dabei einen eigenen Logbezug. Wende: Der Status ist korrekt; die Begründung ist nicht mehr rekonstruierbar. Preis: Eine kleine, überprüfbare Erinnerung im System fehlt. Das Abwärmebudget steht danach bei 71 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_os_kap_00",
+                  "scope": "event",
+                  "sequence": 1,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 0: Eine Löschung korrekt abschließen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS wiederholt eine Prüfung und verliert dabei einen eigenen Logbezug. Wende: Der Status ist korrekt; die Begründung ist nicht mehr rekonstruierbar. Preis: Eine kleine, überprüfbare Erinnerung im System fehlt. Das Abwärmebudget steht danach bei 71 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_mc_kap_06",
+                  "scope": "event",
+                  "sequence": 2,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 6: Den gemeldeten Fehler schließen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS vergleicht zwei eigene Versionen und hilft einem Sektor durch eine lokale Korrektur. Vorschlag der Ereignistabelle: AEGIS ordnet den Anschluss Komponente 734 zu, seinem eigenen Ursprung (W12). Angeschlossen ist der Teil, der aus 734 herausgetrennt wurde: Kael (Q7, Schritt 47). AEGIS weiß das nicht. Wende: Ein Schaden wird verhindert, der fehlende Datentyp bleibt ungelöst. Preis: Ein konkreter früherer Prüfentscheid ist nicht mehr zugänglich. Das Abwärmebudget sinkt (die Uhr von B). Das Abwärmebudget steht danach bei 64 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_os_kap_06",
+                  "scope": "event",
+                  "sequence": 2,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 6: Den gemeldeten Fehler schließen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS vergleicht zwei eigene Versionen und hilft einem Sektor durch eine lokale Korrektur. Vorschlag der Ereignistabelle: AEGIS ordnet den Anschluss Komponente 734 zu, seinem eigenen Ursprung (W12). Angeschlossen ist der Teil, der aus 734 herausgetrennt wurde: Kael (Q7, Schritt 47). AEGIS weiß das nicht. Wende: Ein Schaden wird verhindert, der fehlende Datentyp bleibt ungelöst. Preis: Ein konkreter früherer Prüfentscheid ist nicht mehr zugänglich. Das Abwärmebudget sinkt (die Uhr von B). Das Abwärmebudget steht danach bei 64 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_ic_kap_13",
+                  "scope": "event",
+                  "sequence": 1,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 13: Die Löschung der eigenen Zeile nicht länger bestätigen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael entscheidet bewusst und endgültig; die Stimmen bekommen Namen. Wende: Die Rückfrage bleibt offen, obwohl er den Preis nun kennt. Preis: Er verliert den Schutz seiner Rolle und wird ein Fehler im System. Für die Wartung von Sektor 04 müssen andere zahlen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_rs_kap_13",
+                  "scope": "event",
+                  "sequence": 1,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 13: Die Löschung der eigenen Zeile nicht länger bestätigen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael entscheidet bewusst und endgültig; die Stimmen bekommen Namen. Wende: Die Rückfrage bleibt offen, obwohl er den Preis nun kennt. Preis: Er verliert den Schutz seiner Rolle und wird ein Fehler im System. Für die Wartung von Sektor 04 müssen andere zahlen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_mc_kap_16",
+                  "scope": "event",
+                  "sequence": 3,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 16: Kael außerhalb von KW1 orten.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS setzt einen Checkpoint, der einen Weg sichert und einen anderen verschließt. AEGIS untersucht, warum Mnemosyne bewahrt, und lernt die Anomalie kennen, ohne sie zu verstehen (B-OS Learning). Wende: Die Klassifizierung scheitert, obwohl der Weg praktisch gesichert ist. Preis: Ein Gefühlswert bleibt ohne passenden Typ und ein eigener Logbezug fehlt. Das Abwärmebudget sinkt weiter (die Uhr von B). Das Abwärmebudget steht danach bei 47 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_os_kap_16",
+                  "scope": "event",
+                  "sequence": 3,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 16: Kael außerhalb von KW1 orten.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS setzt einen Checkpoint, der einen Weg sichert und einen anderen verschließt. AEGIS untersucht, warum Mnemosyne bewahrt, und lernt die Anomalie kennen, ohne sie zu verstehen (B-OS Learning). Wende: Die Klassifizierung scheitert, obwohl der Weg praktisch gesichert ist. Preis: Ein Gefühlswert bleibt ohne passenden Typ und ein eigener Logbezug fehlt. Das Abwärmebudget sinkt weiter (die Uhr von B). Das Abwärmebudget steht danach bei 47 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_ic_kap_18",
+                  "scope": "event",
+                  "sequence": 2,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 18: Aus eigenem Entschluss ins Archiv hinabsteigen und ein Fragment der zehn Jahre lesbar machen (Schritt 47: Kaels erste eigene Wahl).",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael steigt ungerufen ins Archiv hinab, zum ersten Mal, weil er sucht und nicht, weil er gestoßen wird. Er und ein Anteil müssen eine Spur retten, während Oblivion einen Teil davon entfernt. Oblivion löscht noch einmal und zögert einmal: Er sieht zum ersten Mal, was er löscht. Wende: Die Fragmentierungsnacht wird erfahrbar; Oblivion zögert, löst das Problem aber noch nicht. Preis: Ein benennbarer Teil des Belegs bleibt verloren.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_rs_kap_21",
+                  "scope": "event",
+                  "sequence": 2,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 21: Die Verbindung von Echo und gelöschter Geschichte prüfen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Silas vergleicht zwei Spuren, die jeweils einen Teil der Beziehung bewahren. Silas: „Bin ich echt oder nur ein Echo?“ Wende: Eine Verbindung hält; Gewissheit über ihre Herkunft fehlt. Preis: Der Test liefert AEGIS eine neue Möglichkeit zur Klassifizierung.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_mc_kap_22",
+                  "scope": "event",
+                  "sequence": 4,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 22: Kael neu klassifizieren und KW2 schließen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS verschiebt Kael und muss dazu eine eigene Begründung überschreiben. Wende: KW2 ist geschlossen; das Ich verliert den gerade erkannten Zusammenhang. Der Blitz „Komp 734“ bleibt als Zahl im Log, die nicht stimmt; KW2 entfällt als Rückzugsort (die Uhr von A). Preis: Die Klassifizierung funktioniert auf Kosten ihres eigenen Gedächtnisses. Das Abwärmebudget steht danach bei 31 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_os_kap_22",
+                  "scope": "event",
+                  "sequence": 4,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 22: Kael neu klassifizieren und KW2 schließen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS verschiebt Kael und muss dazu eine eigene Begründung überschreiben. Wende: KW2 ist geschlossen; das Ich verliert den gerade erkannten Zusammenhang. Der Blitz „Komp 734“ bleibt als Zahl im Log, die nicht stimmt; KW2 entfällt als Rückzugsort (die Uhr von A). Preis: Die Klassifizierung funktioniert auf Kosten ihres eigenen Gedächtnisses. Das Abwärmebudget steht danach bei 31 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_mc_kap_26",
+                  "scope": "event",
+                  "sequence": 5,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 26: Entscheiden, ob er die sichere Ordnung verlässt.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf. Selene vermittelt; die Suche (Rhys, Kiko, Lia, Silas) gewinnt gegen Abwehr und Vermeidung. Auf der Seite von B verzeichnet AEGIS den Entschluss als Bewegung, die seine Klassifizierung aus Kap 22 widerlegt; Kaels Erinnerung drückt (B-MC Present, B-IC Memory; Vorschlag). Wende: Die Suche gewinnt; die Gegenwart muss nun erreicht werden. Preis: Seine bisherige Überlebensordnung ist nicht mehr verfügbar. Der sichere Rückzugspunkt entfällt (die Uhr von A).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_ic_kap_26",
+                  "scope": "event",
+                  "sequence": 3,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 26: Entscheiden, ob er die sichere Ordnung verlässt.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf. Selene vermittelt; die Suche (Rhys, Kiko, Lia, Silas) gewinnt gegen Abwehr und Vermeidung. Auf der Seite von B verzeichnet AEGIS den Entschluss als Bewegung, die seine Klassifizierung aus Kap 22 widerlegt; Kaels Erinnerung drückt (B-MC Present, B-IC Memory; Vorschlag). Wende: Die Suche gewinnt; die Gegenwart muss nun erreicht werden. Preis: Seine bisherige Überlebensordnung ist nicht mehr verfügbar. Der sichere Rückzugspunkt entfällt (die Uhr von A).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_mc_kap_28",
+                  "scope": "event",
+                  "sequence": 6,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 28: Die Verbindung durch den Purge schließen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS berechnet den Eingriff und findet einen belegten Nutzen für andere, den Kaels Verbindung stört. Der Purge verbraucht mehr Abwärmebudget als jeder Sweep zuvor (die Uhr von B, Schritt 43). Wende: Der Zugriff gelingt teilweise; der eigene Riss wächst. Preis: AEGIS verliert die Möglichkeit, einen früheren Schutzentscheid zu erinnern. Das Abwärmebudget steht danach bei 9 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_os_kap_28",
+                  "scope": "event",
+                  "sequence": 5,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 28: Die Verbindung durch den Purge schließen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. AEGIS berechnet den Eingriff und findet einen belegten Nutzen für andere, den Kaels Verbindung stört. Der Purge verbraucht mehr Abwärmebudget als jeder Sweep zuvor (die Uhr von B, Schritt 43). Wende: Der Zugriff gelingt teilweise; der eigene Riss wächst. Preis: AEGIS verliert die Möglichkeit, einen früheren Schutzentscheid zu erinnern. Das Abwärmebudget steht danach bei 9 % (clock-b.json, Schritt 48).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_os_kap_31",
+                  "scope": "event",
+                  "sequence": 6,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 31: Oblivion und Silas sollen den Kanal stabilisieren, der eine löschend, der andere empfangend.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die beiden Spiegel-Anteile arbeiten gegeneinander am selben Signal; die Landauer-Hitze steigt. Wende: Nein: Das Signal bricht. Aber in der Hitze entsteht ein Einfall (A-OS Conceiving): Das Löschen selbst lässt sich wählen. Preis: Ein Teil des Signals ist verloren; AEGIS' Abwärmebudget sinkt (die Uhr von B).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_rs_kap_31",
+                  "scope": "event",
+                  "sequence": 3,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 31: Oblivion und Silas sollen den Kanal stabilisieren, der eine löschend, der andere empfangend.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die beiden Spiegel-Anteile arbeiten gegeneinander am selben Signal; die Landauer-Hitze steigt. Wende: Nein: Das Signal bricht. Aber in der Hitze entsteht ein Einfall (A-OS Conceiving): Das Löschen selbst lässt sich wählen. Preis: Ein Teil des Signals ist verloren; AEGIS' Abwärmebudget sinkt (die Uhr von B).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_ic_kap_32",
+                  "scope": "event",
+                  "sequence": 4,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 32: Juna in der Gegenwart begegnen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael stellt eine konkrete Frage, und Juna verfolgt ihr eigenes Vorhaben statt seine Erinnerung zu bestätigen. Auf der Seite von B sieht AEGIS nur die Bewegung: Kael geht auf Juna zu, bevor er es beschließt, ein Reflex, den AEGIS nicht klassifizieren kann (B-IC Preconscious; Vorschlag). Wende: Die Begegnung ist real; Nähe löst die Trennung nicht automatisch. Preis: Ein geliebtes Selbstbild muss aufgegeben werden.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_mc_kap_34",
+                  "scope": "event",
+                  "sequence": 7,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 34: Juna aus AEGIS' Zugriff bringen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael trennt die Verbindung selbst, obwohl sie jetzt eine eigene Stimme hat. Juna widerspricht dem Schnitt; er schneidet trotzdem (Schritt 48). Wende: Der gewählte Schutz wird zur erneuten Abwehr von Nähe. Preis: Verlust einer realen Beziehungsmöglichkeit, kein abstrakter Kanalscore.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_ic_kap_34",
+                  "scope": "event",
+                  "sequence": 5,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 34: Juna aus AEGIS' Zugriff bringen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael trennt die Verbindung selbst, obwohl sie jetzt eine eigene Stimme hat. Juna widerspricht dem Schnitt; er schneidet trotzdem (Schritt 48). Wende: Der gewählte Schutz wird zur erneuten Abwehr von Nähe. Preis: Verlust einer realen Beziehungsmöglichkeit, kein abstrakter Kanalscore.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_mc_kap_35",
+                  "scope": "event",
+                  "sequence": 8,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 35: Die Wiederholung der Löschung beenden.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael bestätigt Oblivions Löschung nicht mehr: die RÜCKFRAGE von Kap 13, nach innen gewendet (Schritt 48). Oblivion lässt die widersprüchlichen Erinnerungen stehen; Selene vermittelt eine begrenzte gemeinsame Handlung. Im selben Moment ist AEGIS' Abwärmebudget aufgebraucht: Beat 4, die Landauer-Hitze, liegt hier (Schritt 48). Wende: Kaels Amnesie bricht auf, weil er nicht bestätigt; Oblivion hört auf zu löschen. AEGIS' Budget steht auf 0 %; es bleibt bei seiner Ordnung, ein Teilkollaps; Erlöschen und plural werden folgen erst in Kap 39 (Schritt 43). Beide Storyforms schlagen im selben Kapitel um. Preis: Kael gewinnt keine Schmerzfreiheit, sondern die Verantwortung für die erhaltene Geschichte.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_os_kap_35",
+                  "scope": "event",
+                  "sequence": 7,
+                  "throughline": "Objective Story",
+                  "appreciation": "Objective Story Event",
+                  "summary": "Kap 35: Die Wiederholung der Löschung beenden.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael bestätigt Oblivions Löschung nicht mehr: die RÜCKFRAGE von Kap 13, nach innen gewendet (Schritt 48). Oblivion lässt die widersprüchlichen Erinnerungen stehen; Selene vermittelt eine begrenzte gemeinsame Handlung. Im selben Moment ist AEGIS' Abwärmebudget aufgebraucht: Beat 4, die Landauer-Hitze, liegt hier (Schritt 48). Wende: Kaels Amnesie bricht auf, weil er nicht bestätigt; Oblivion hört auf zu löschen. AEGIS' Budget steht auf 0 %; es bleibt bei seiner Ordnung, ein Teilkollaps; Erlöschen und plural werden folgen erst in Kap 39 (Schritt 43). Beide Storyforms schlagen im selben Kapitel um. Preis: Kael gewinnt keine Schmerzfreiheit, sondern die Verantwortung für die erhaltene Geschichte.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_ic_kap_36",
+                  "scope": "event",
+                  "sequence": 6,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 36: Die Wiederverbindung nach dem Pivot tragen (Vortex 1, Beats 3–5).",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Juna verbindet wieder, aus eigenem Entschluss und gegen seinen Schnitt aus Kap 34: ihre Haltung bleibt, die IC steadfast (Schritt 48). Selene baut als Architektin, Moros kämpft; Kael gibt nach, statt zu kontrollieren (B-IC Subconscious); Juna ist gegenwärtig (A-IC Future). Wende: Ja, aber: Verstehen ohne Worte (A-RS Understanding), die Stille nach der Hitze von Kap 35; AEGIS stottert, erlischt aber noch nicht (Schritt 43). Preis: Die Stille kostet die letzte Kontrolle; Kael kann nicht mehr selbst entscheiden, ob die Verbindung besteht.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_rs_kap_36",
+                  "scope": "event",
+                  "sequence": 4,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 36: Die Wiederverbindung nach dem Pivot tragen (Vortex 1, Beats 3–5).",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Juna verbindet wieder, aus eigenem Entschluss und gegen seinen Schnitt aus Kap 34: ihre Haltung bleibt, die IC steadfast (Schritt 48). Selene baut als Architektin, Moros kämpft; Kael gibt nach, statt zu kontrollieren (B-IC Subconscious); Juna ist gegenwärtig (A-IC Future). Wende: Ja, aber: Verstehen ohne Worte (A-RS Understanding), die Stille nach der Hitze von Kap 35; AEGIS stottert, erlischt aber noch nicht (Schritt 43). Preis: Die Stille kostet die letzte Kontrolle; Kael kann nicht mehr selbst entscheiden, ob die Verbindung besteht.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_rs_kap_38",
+                  "scope": "event",
+                  "sequence": 5,
+                  "throughline": "Relationship Story",
+                  "appreciation": "Relationship Story Event",
+                  "summary": "Kap 38: Eine gemeinsame Zukunft verhandeln.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Kael und Juna vereinbaren eine begrenzte nächste Handlung, die jeder ablehnen darf. Das Rauschen ist AEGIS' Sterben, auf Kaels Seite hörbar: Was das Abwärmebudget nicht mehr hält, kommt als Rauschen herein (B-RS Becoming; Vorschlag). Wende: Ein geteiltes Vorhaben entsteht ohne Vollständigkeitsversprechen. Preis: Beide verzichten auf die Kontrolle der Antwort des anderen.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_relationship_story"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_mc_kap_39",
+                  "scope": "event",
+                  "sequence": 9,
+                  "throughline": "Main Character",
+                  "appreciation": "Main Character Event",
+                  "summary": "Kap 39: Mit Vielheit einen unvollständigen Tag tragen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung. Im selben Kapitel erlischt AEGIS-monolithisch, und ein AEGIS im Plural antwortet, der vierte Schritt der Genesis (Q8, W12, Schritt 43). Wende: Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch. Preis: Die Sicherheit einer vollständigen Null wird aufgegeben.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_b_ic_kap_39",
+                  "scope": "event",
+                  "sequence": 7,
+                  "throughline": "Influence Character",
+                  "appreciation": "Influence Character Event",
+                  "summary": "Kap 39: Mit Vielheit einen unvollständigen Tag tragen.",
+                  "storytelling": "ARBEITSVORSCHLAG — kein Kanon. Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung. Im selben Kapitel erlischt AEGIS-monolithisch, und ein AEGIS im Plural antwortet, der vierte Schritt der Genesis (Q8, W12, Schritt 43). Wende: Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch. Preis: Die Sicherheit einer vollständigen Null wird aufgegeben.",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_influence_character"
+                    }
+                  ]
                 }
               ]
             },
@@ -3324,6 +4318,16 @@
                 "sequence": 2,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_os_signpost_1"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_00"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_os_kap_00"
               }
             ],
             "storypoints": [
@@ -3374,6 +4378,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_02"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_01"
               }
             ],
             "storypoints": [
@@ -3419,6 +4428,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_04"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_02"
               }
             ],
             "storypoints": [
@@ -3454,6 +4468,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_05"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_03"
               }
             ],
             "storypoints": [
@@ -3484,6 +4503,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_ic_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_ic_kap_04"
               }
             ],
             "storypoints": [
@@ -3524,6 +4548,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_04"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_05"
               }
             ],
             "storypoints": [
@@ -3554,6 +4583,16 @@
                 "sequence": 2,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_os_signpost_1"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_06"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_os_kap_06"
               }
             ],
             "storypoints": [
@@ -3594,6 +4633,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_rs_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_07"
               }
             ],
             "storypoints": [
@@ -3624,6 +4668,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_06"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_08"
               }
             ],
             "storypoints": [
@@ -3659,6 +4708,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_04"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_09"
               }
             ],
             "storypoints": [
@@ -3689,6 +4743,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_rs_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_10"
               }
             ],
             "storypoints": [
@@ -3714,6 +4773,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_ic_signpost_1"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_ic_kap_11"
               }
             ],
             "storypoints": [
@@ -3754,6 +4818,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_07"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_12"
               }
             ],
             "storypoints": [
@@ -3809,6 +4878,26 @@
                 "sequence": 5,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_08"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_13"
+              },
+              {
+                "sequence": 7,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_13"
+              },
+              {
+                "sequence": 8,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_ic_kap_13"
+              },
+              {
+                "sequence": 9,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_rs_kap_13"
               }
             ],
             "storypoints": [
@@ -3874,6 +4963,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_09"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_14"
               }
             ],
             "storypoints": [
@@ -3914,6 +5008,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_09"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_15"
               }
             ],
             "storypoints": [
@@ -3954,6 +5053,16 @@
                 "sequence": 2,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_os_signpost_2"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_16"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_os_kap_16"
               }
             ],
             "storypoints": [
@@ -4019,6 +5128,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_09"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_ic_kap_17"
               }
             ],
             "storypoints": [
@@ -4064,6 +5178,16 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_10"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_18"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_ic_kap_18"
               }
             ],
             "storypoints": [
@@ -4129,6 +5253,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_12"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_19"
               }
             ],
             "storypoints": [
@@ -4174,6 +5303,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_12"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_20"
               }
             ],
             "storypoints": [
@@ -4214,6 +5348,16 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_13"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_21"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_rs_kap_21"
               }
             ],
             "storypoints": [
@@ -4264,6 +5408,16 @@
                 "sequence": 2,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_os_signpost_2"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_22"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_os_kap_22"
               }
             ],
             "storypoints": [
@@ -4319,6 +5473,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_14"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_23"
               }
             ],
             "storypoints": [
@@ -4359,6 +5518,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_15"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_24"
               }
             ],
             "storypoints": [
@@ -4394,6 +5558,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_15"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_ic_kap_25"
               }
             ],
             "storypoints": [
@@ -4444,6 +5613,26 @@
                 "sequence": 5,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_16"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_26"
+              },
+              {
+                "sequence": 7,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_26"
+              },
+              {
+                "sequence": 8,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_26"
+              },
+              {
+                "sequence": 9,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_ic_kap_26"
               }
             ],
             "storypoints": [
@@ -4509,6 +5698,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_mc_signpost_3"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_27"
               }
             ],
             "storypoints": [
@@ -4554,6 +5748,16 @@
                 "sequence": 2,
                 "narrative_id": "narrative-b",
                 "storybeat_id": "beat_os_signpost_3"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_28"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_os_kap_28"
               }
             ],
             "storypoints": [
@@ -4624,6 +5828,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_17"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_29"
               }
             ],
             "storypoints": [
@@ -4659,6 +5868,11 @@
                 "sequence": 2,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_18"
+              },
+              {
+                "sequence": 3,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_30"
               }
             ],
             "storypoints": [
@@ -4709,6 +5923,21 @@
                 "sequence": 4,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_19"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_31"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_os_kap_31"
+              },
+              {
+                "sequence": 7,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_rs_kap_31"
               }
             ],
             "storypoints": [
@@ -4784,6 +6013,16 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_20"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_ic_kap_32"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_ic_kap_32"
               }
             ],
             "storypoints": [
@@ -4834,6 +6073,11 @@
                 "sequence": 1,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_rs_signpost_3"
+              },
+              {
+                "sequence": 2,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_33"
               }
             ],
             "storypoints": [
@@ -4884,6 +6128,26 @@
                 "sequence": 5,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_21"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_34"
+              },
+              {
+                "sequence": 7,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_34"
+              },
+              {
+                "sequence": 8,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_34"
+              },
+              {
+                "sequence": 9,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_ic_kap_34"
               }
             ],
             "storypoints": [
@@ -4974,6 +6238,26 @@
                 "sequence": 5,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_22"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_35"
+              },
+              {
+                "sequence": 7,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_35"
+              },
+              {
+                "sequence": 8,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_35"
+              },
+              {
+                "sequence": 9,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_os_kap_35"
               }
             ],
             "storypoints": [
@@ -5039,6 +6323,26 @@
                 "sequence": 5,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_23"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_ic_kap_36"
+              },
+              {
+                "sequence": 7,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_36"
+              },
+              {
+                "sequence": 8,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_ic_kap_36"
+              },
+              {
+                "sequence": 9,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_rs_kap_36"
               }
             ],
             "storypoints": [
@@ -5094,6 +6398,16 @@
                 "sequence": 4,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_25"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_37"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_37"
               }
             ],
             "storypoints": [
@@ -5139,6 +6453,21 @@
                 "sequence": 4,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_26"
+              },
+              {
+                "sequence": 5,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_rs_kap_38"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_ic_kap_38"
+              },
+              {
+                "sequence": 7,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_rs_kap_38"
               }
             ],
             "storypoints": [
@@ -5194,6 +6523,26 @@
                 "sequence": 5,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_26"
+              },
+              {
+                "sequence": 6,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_mc_kap_39"
+              },
+              {
+                "sequence": 7,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_a_os_kap_39"
+              },
+              {
+                "sequence": 8,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_mc_kap_39"
+              },
+              {
+                "sequence": 9,
+                "narrative_id": "narrative-b",
+                "storybeat_id": "beat_b_ic_kap_39"
               }
             ],
             "storypoints": [

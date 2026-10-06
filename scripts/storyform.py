@@ -712,7 +712,9 @@ def treatment_notes(text, weave):
 def ncp3(forms, weave, anteile=None, kanon=None, development=None, journeys=None):
     """One NCP 3.0.0-rc.1 document for the book (decision 025 step 24): the core envelope, and in the `dramatica:`
     payload one story with both narratives and the chapters as story-level moments that reference both; the alters'
-    appearances (step 32) as `event` storybeats of A, referenced by the moments of their chapters."""
+    appearances (step 32) as `event` storybeats of A, referenced by the moments of their chapters; and one `event`
+    storybeat per chapter and woven throughline from `development.json` (a proposal, labelled so), at most 64 per
+    throughline as the profile allows."""
     parts = {sf["storyform"]: ncp(sf, kanon=kanon)["story"] for sf in forms}
     clock = load_clock_b()
     if clock and "B" in parts:
@@ -729,7 +731,7 @@ def ncp3(forms, weave, anteile=None, kanon=None, development=None, journeys=None
                     "summary": f"{x['from']} → {x['to']} ({x['at']})",
                     "storytelling": f"{x['text']} Herkunft: {journeys['provenance']}.",
                     "perspectives": [{"perspective_id": PID[t]}]})
-    events = {}
+    events, chapter_events = {}, {}
     for i, ap in enumerate((anteile or {}).get("appearances", []), 1):
         bid = f"beat_anteil_{i:02d}"
         parts["A"]["narratives"][0]["subtext"]["storybeats"].append({
@@ -740,6 +742,19 @@ def ncp3(forms, weave, anteile=None, kanon=None, development=None, journeys=None
             "perspectives": [{"perspective_id": PID["OS"]}, {"perspective_id": PID["MC"]}]})
         for n in ap["chapters"]:
             events.setdefault(n, []).append(bid)
+    for k, row in sorted(((int(k), r) for k, r in (development or {}).get("chapters", {}).items())):
+        c = weave["chapters"].get(str(k), {})
+        for side in ("A", "B"):
+            for t in c.get(side, []):
+                beats = parts[side]["narratives"][0]["subtext"]["storybeats"]
+                seq = 1 + sum(1 for b in beats if b.get("scope") == "event" and b.get("throughline") == TL[t])
+                bid = f"beat_{side.lower()}_{t.lower()}_kap_{k:02d}"
+                beats.append({
+                    "id": bid, "scope": "event", "sequence": seq, "throughline": TL[t], "appreciation": f"{TL[t]} Event",
+                    "summary": f"Kap {k}: {row['goal']}",
+                    "storytelling": f"ARBEITSVORSCHLAG — kein Kanon. {row['action']} Wende: {row['turn']} Preis: {row['cost']}",
+                    "perspectives": [{"perspective_id": PID[t]}]})
+                chapter_events.setdefault(k, []).append((side, bid))
     narratives = []
     for side, st in parts.items():
         n = st["narratives"][0]
@@ -766,7 +781,8 @@ def ncp3(forms, weave, anteile=None, kanon=None, development=None, journeys=None
             "audience_experiential_pov": "first_person_central",
             "storybeats": [{"sequence": i, "narrative_id": NARRATIVE[side], "storybeat_id": sid}
                            for i, (side, sid) in enumerate([(side, f"beat_{t.lower()}_signpost_{act}") for side, t in refs]
-                                                           + [("A", b) for b in events.get(k, [])], 1)],
+                                                           + [("A", b) for b in events.get(k, [])]
+                                                           + chapter_events.get(k, []), 1)],
             "storypoints": []})
     for moment in moments:
         row = (development or {}).get("chapters", {}).get(str(moment["order"]))
@@ -1097,12 +1113,20 @@ def selftest():
         developed = ncp3(forms, weave, an, kanon, dev)
         bs = baseline["payloads"]["dramatica:"]["storyform"]
         ds = developed["payloads"]["dramatica:"]["storyform"]
-        if bs["narratives"] != ds["narratives"]:
+        def structural(narratives):  # the chapter events are development's proposals, added beside the structure
+            out = json.loads(json.dumps(narratives))
+            for n in out:
+                n["subtext"]["storybeats"] = [b for b in n["subtext"]["storybeats"] if "_kap_" not in b["id"]]
+            return out
+        if structural(bs["narratives"]) != structural(ds["narratives"]):
             fails.append("development changed the structural narratives")
-        allowed = {"synopsis", "timing", "imperatives", "storypoints"}
+        allowed = {"synopsis", "timing", "imperatives", "storypoints", "storybeats"}
         for before, after in zip(bs["moments"], ds["moments"]):
             if {k: v for k, v in before.items() if k not in allowed} != {k: v for k, v in after.items() if k not in allowed}:
                 fails.append("development changed a protected moment field")
+            if after["storybeats"][:len(before["storybeats"])] != before["storybeats"] or \
+                    any("_kap_" not in b["storybeat_id"] for b in after["storybeats"][len(before["storybeats"]):]):
+                fails.append("development changed a moment's structural storybeats instead of only adding its events")
             if str(after["order"]) in dev["chapters"] and not after["synopsis"].startswith("ARBEITSVORSCHLAG"):
                 fails.append("development lost a proposal label")
         point_ids = {(n["id"], p["id"]) for n in ds["narratives"] for p in n["subtext"]["storypoints"]}
@@ -1129,6 +1153,16 @@ def selftest():
     found = treatment_notes(silent, weave)
     if not any("Kap 26" in n for n in found) or any("Kap 6" in n for n in found):
         fails.append("treatment: a bridge paragraph without its B half went unnoticed, or a told one was flagged")
+    doc = ncp3(forms, weave, load_anteile(), kanon_rows(), dev, load_journeys())
+    for n in doc["payloads"]["dramatica:"]["storyform"]["narratives"]:
+        evs = [b for b in n["subtext"]["storybeats"] if b["id"].endswith(tuple(f"_kap_{k:02d}" for k in range(41)))]
+        if not evs or any(not b["storytelling"].startswith("ARBEITSVORSCHLAG") for b in evs):
+            fails.append(f"ncp: {n['id']} has no chapter events, or one without its proposal label")
+        per = {}
+        for b in evs:
+            per[b["throughline"]] = per.get(b["throughline"], 0) + 1
+        if any(v > 64 for v in per.values()):
+            fails.append(f"ncp: {n['id']} has more than 64 events in a throughline")
     clock = load_clock_b()
     if clock_b_audit(clock, weave):
         fails.append(f"clock-b: the live readings are refused: {clock_b_audit(clock, weave)}")
