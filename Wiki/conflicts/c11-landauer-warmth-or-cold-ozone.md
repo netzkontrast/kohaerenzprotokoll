@@ -512,3 +512,11 @@ Stands on the warmth side, with ozone beside it, as a proposal only; recorded, n
 As its account of the manuscript's world-building: erasing information raises thermodynamic entropy, and AEGIS's „ständiger Kampf gegen die informationelle Unordnung“ ^[romananalyse-kohaerenz-plot-kritik.md:L31] generates the digital heat that breaks down the system. In its closing questions it asks: „wo akkumuliert sich diese Energie innerhalb der Kernwelten?“ ^[romananalyse-kohaerenz-plot-kritik.md:L169]. The word `Ozon` ^[romananalyse-kohaerenz-plot-kritik.md:#0] does not stand in the report (a count), and it names no chapter for the heat.
 
 Stands on the warmth side, as an account of other documents dated 2026-02-23; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline puts Ozon and heat with the anomalies and the Landauer heat in AEGIS's sweeps; its last chapter drops the ozone.**
+
+The Klappentext: „In den dichten Schatten der brutalistischen Gebäude riecht es nach Ozon“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L15]. Kapitel 6 plans „ein beißender Ozon-Geruch“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L241] with a rapid rise of temperature, and Kapitel 22 has „exponentiell mehr Landauer-Hitze“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L845] from each deletion. Kapitel 39: „aber es riecht nicht nach Ozon“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1479].
+
+Stands on the warmth side, with ozone as sign of the sweep, dated 2026-04-30; recorded, not applied.
