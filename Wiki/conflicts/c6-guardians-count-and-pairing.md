@@ -552,3 +552,11 @@ Stands as a five-Guardian pairing over four worlds, dated 2025-11-03, recorded b
 The table gives „Classical Consistency / LogOS“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L133] for KW1, „Dialetheic Coexistence / Mnemosyne“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L134] for KW2, „Pragmatic Elimination / Cerberus“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L135] for KW3 and „Generative Synthesis / Kairos/Sophia“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L136] for KW4. The column is headed Logic / Inhabitant (L132).
 
 Stands as a pairing of one inhabitant per world, with KW4 given as one entry `Kairos/Sophia`, dated 2025-10-15; recorded, not resolving the count.
+
+## 2026-10-06 — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree
+
+**The canon decree pairs each of four Core Worlds with a Designated Guardian.**
+
+Its table head reads „Designated Guardian“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L82]; the pairs are „Logos-Prime“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L83] with LogOS, „Mnemosyne-Archipel“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L84] with Mnemosyne, „Cerberus-Labyrinth“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L85] with Cerberus, and „Kairos-Potentialis“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86] with „Kairos/Sophia“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86], one cell for two names.
+
+Stands as this document's claimed pairing, recorded and not applied.
