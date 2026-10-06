@@ -188,3 +188,11 @@ Stands with the inside origin of the second telling, Kael as what AEGIS' own act
 In Kapitel 14-17 (Beat 2.1) the OS line says AEGIS tries to manage Kael, „den es als“ ^[finales-kausales-plot-geruest.md:L114] `Entität M` or `Monstergruppe` sees; the words stand in the line inside quotation marks, as AEGIS' view and not as the beat sheet's statement of what Kael is. The beat sheet places no origin of Kael in any beat it describes.
 
 Stands as AEGIS' own names for Kael, the outside origin's names held in AEGIS' view; recorded, not applied, and it places Kael in neither telling of the record.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis calls Juna, in the current canon, part of Kael's „Ursprungs-Ich“ ^[romanprojekt-analyse-synthese.md:L90].**
+
+The line reads: „Juna ist im aktuellen Kanon eindeutig als Teil von Kaels“ ^[romanprojekt-analyse-synthese.md:L90] origin-self and as a „transzendenter Katalysator“ ^[romanprojekt-analyse-synthese.md:L90]; the origin-self stands in the document in quotation marks. The sentence is the synthesis's own report of the current canon. In the contradictions it adds that Juna is „ein transzendenter Teil des ursprünglichen Selbst“ ^[romanprojekt-analyse-synthese.md:L123]. It gives no origin of Kael himself, only Juna's place in it.
+
+Stands with an inside origin for Juna, as a part of Kael's own origin-self, in a synthesis of 2026-04-30; recorded, not applied.
