@@ -580,3 +580,11 @@ Where it stands in the record's own terms: eleven Anteile and four numbered Kern
 The sentence is the assistant's reason for structuring the Kern-Welten (L63), and the count of ten is the document's own. Its table (L67–L73), introduced as the assistant's structuring, names Kael, Index and Limina for the first world, Silas and Eos for the second, Praetor, Nox and Oblivion for the third, and Echo, Flicker and the Selbst for the fourth. The closing question speaks of „Welche der vier Kern-Welten“ ^[plot-analyse-und-romanentwicklung.md:L160] (L160). The document does not say whether one world corresponds to one Alter.
 
 Stands as the document's own count beside its own list, dated before the author's answers of 2026-10-05; recorded, and the question's status is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report names four Kern-Welten and ten Alters, tabled separately, without matching them; it predates the author's answers of 2026-10-05 and changes neither.**
+
+It summarises Kael's system as one that „in zehn distinkte Anteile (Alters) zersplittert ist“ ^[romananalyse-kohaerenz-plot-kritik.md:L17], and its Alters table (L80–L89) names `Kael`, `Limina`, `Index`, `Nox`, `Praetor`, `Eos`, `Echo`, `Oblivion`, `Flicker` and `Silas`. Its Kern-Welten table (L56–L59) names KW1 to KW4 with their Guardians; the Alters are not set against the worlds, though `Praetor` „Löst Konflikte mit der Umwelt und Cerberus aus.“ ^[romananalyse-kohaerenz-plot-kritik.md:L84]
+
+Where it stands in the record's own terms: ten Alters and four Kern-Welten in a report of 2026-02-23, before the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; whether a Kern-Welt corresponds to an alter stays open.
