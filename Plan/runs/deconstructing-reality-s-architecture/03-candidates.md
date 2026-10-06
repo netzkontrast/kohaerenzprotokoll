@@ -1,14 +1,70 @@
-written_by: gold subagent (Sonnet), 2026-09-30, while reading, before any count
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
 
-List made by reading the whole document once, line 1 to 333, writing each candidate as the text writes it, and asking read.py --find for each multi-word phrase; the subscripted K symbols of the export are blank in the text, so they are not listed.
-
-## figures and systems
 - Kohärenz Protokoll
 - Coherence Protocol
+- Systemic Authorship
+- Grand Argument
+- Dual Kernel
+- Dual Kernel Theory (DKT)
+- DKT
+- Coherence Kernel
+- Collapse Kernel
+- K1
+- K0
 - AEGIS
-- Autonomous Entropic Gatekeeper for Integrity Systems
 - System Kael
 - Kael
+- Operational Closure
+- Autopoiesis
+- Ontological Blindness
+- Nichts Rauschen
+- Rauschen
+- Potentialmeer
+- Riss
+- Risse
+- Core Worlds
+- Kernwelten
+- Correspondence-Check
+- The Great Shift
+- Principle of Explosion
+- Recursive Self-Verification
+- RCV
+- Functional Multiplicity
+- Dialetheic Mind
+- Coherons
+- Wavelets
+- Corrective Wavelets
+- Protocol Ontology
+- Society of Self
+- Cache Coherence
+- Dissociative Barriers
+- Externalized Perpetrator Introject
+- Dissociative Phobias
+- Psycho-Architectures
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Isolation Objection
+- Gödel-Gambit
+- Living Gödel Sentence
+- Moonshine-Link
+- Monstrous Moonshine
+- Non-Local Resonance
+- Polyphonic Prose
+- Genesis Crisis
+- Validation War
+- Perverse Learning Loop
+- Paradox of Misaligned Coherence
+- Algorithmic Melancholy
+- Zombie System
+- Open Protocol
+- The Gardener
+- Überwelt
 - Juna/V
 - Juna
 - Lex
@@ -28,135 +84,32 @@ List made by reading the whole document once, line 1 to 333, writing each candid
 - Mnemosyne
 - Cerberus
 - Kairos
-- Host
-- Society of Self
-- Alters
-
-## places and world
-- Kernwelten
-- Core Worlds
-- KW1
-- KW2
-- KW3
-- KW4
-- Logos-Prime
-- Mnemosyne-Archipel
-- Cerberus-Labyrinth
-- Kairos-Potentialis
-- Überwelt
-- Nichts Rauschen
-- Nothingness Noise
-- Potentialmeer
-- Sea of Potentiality
-- Riss
-- Risse
-- Rift
-- Inner World
-- Psycho-Architectures
-- Trauma-Time
-- Force Fields
-- Firewalls
-
-## physics and mechanics
-- Dual Kernel Theory (DKT)
-- Dual Kernel Theory
-- DKT
-- Dual Kernel
-- Coherence Kernel
-- Collapse Kernel
-- Coherons
-- Wavelets
-- Corrective Wavelets
-- Protocol Ontology
-- Moonshine-Link
-- Non-Local Resonance
-- Isolation Objection
-- Correspondence-Check
-- Operational Closure
-- Ontological Blindness
-- Ontological Horror
-- Ontologically Blind
-- Recursive Self-Verification
-- RCV
-- Noise
-- Rauschen
-- Real
-- The Great Shift
-- Genesis
-- Genesis Crisis
-- Blind Spot
-- Fractal Resonance
-- Systemic Authorship
-- Grand Argument
-- Grand Argument Story
-- Gödel-Gambit
-- Living Gödel Sentence
-- Algorithmic Melancholy
-- Zombie System
-- Open Protocol
-- The Gardener
-- The Gardener’s Mandate
-- True Coherence
-- Functional Multiplicity
-- Dialetheic Mind
-- War of Logics
-- Validation War
-- Perverse Learning Loop
-- Paradox of Misaligned Coherence
-- Cache Coherence
-- Zero-Trust
-- Switch
-
-## psychology terms of the document
-- Externalized Perpetrator Introject
-- Dissociative Barriers
-- Dissociative Phobias
-- Phobic Barrier
-- Trauma Loop
-- Trauma Reinforcement
-- Positive Intent
-- Apparently Normal Parts (ANPs)
-- ANPs
-- ANP
-- Emotional Parts (EPs)
-- EPs
-- EP
-- Internal Self-Helper (ISH)
-- ISH
-- Internal Implosion
-- Polyphonic Prose
-- Dual-Voice Strategy
-- Fragmented Voice
-- The Choric "We"
 - Algorithmic Horror
 - Miasma of Memory
 - Fortress of Fear
-- Fluid Unreliability
 - Synesthesia of Creation
+- Fluid Unreliability
 - Emergent Possibility
-- Environmental Storytelling
+- Trauma-Time
+- Internal Self-Helper (ISH)
+- Apparently Normal Parts (ANPs)
+- Emotional Parts (EPs)
+- Positive Intent
+- Dual-Voice Strategy
+- Ontological Horror
+- Zero-Trust
+- True Coherence
 
 ## lens
-- Theory of Structural Dissociation of the Personality (TSDP)
+
+- Theory of Structural Dissociation of the Personality
 - TSDP
-- Information Theory
-- Dissociative Identity Disorder (DID)
 - Classical Logic
 - Paraconsistent Logic
 - Dialetheism
-- Principle of Explosion
-- Ex Contradictione Quodlibet
 - Trivialism
-- Autopoiesis
-- Qualia
-- Correspondence Theory of Truth
-- Gödel’s Incompleteness Theorems
-- Monstrous Moonshine
-- Monster Group
-- Modular Functions
-- Quantum Entanglement
-- Whiteheadian Prehension
+- Environmental Storytelling
 - Heroine's Journey
-- Technological Thriller
-- Hard Science Fiction
-- isomorphic
+- Correspondence Theory of Truth
+
+The document is English prose with German names (Kohärenz Protokoll, Nichts Rauschen, Potentialmeer, Risse, Kernwelten, Überwelt). The export lost the kernel symbols (the lines read "Coherence Kernel ()"), so K1 and K0 appear as plain digits only at the conclusion; KW1 to KW4 appear with the digit in some lines and not in others. Bold markers in tables are escaped as asterisks. The text is a learner's guide that reports a source cluster listed under Referenzen.

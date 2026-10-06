@@ -646,3 +646,7 @@
 {"document": "kuerze-rechercheauftrag-die-architektur-der-seel", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title in the frontmatter line", "at": "2026-10-06"}
 {"document": "kuerze-rechercheauftrag-die-architektur-der-seel", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 30, "decision": "reading", "why": "the Fundament as the deepest Realitätsebene, read on realitaetsebenen", "at": "2026-10-06"}
 {"document": "kuerze-rechercheauftrag-die-architektur-der-seel", "page": "risse", "surface": "Glitch", "line": 71, "decision": "occurrence", "why": "Glitch Art, an aesthetic of AEGIS's decay, not a Riss", "at": "2026-10-06"}
+{"document": "deconstructing-reality-s-architecture", "page": "alters", "surface": "Alters", "line": 80, "decision": "reading", "why": "System Kael as a collection of alters, read on alters", "at": "2026-10-06"}
+{"document": "deconstructing-reality-s-architecture", "page": "did", "surface": "DID", "line": 19, "decision": "reading", "why": "the DID frame of System Kael, read on did", "at": "2026-10-06"}
+{"document": "deconstructing-reality-s-architecture", "page": "genesis", "surface": "Genesis", "line": 43, "decision": "reading", "why": "The Genesis of AEGIS: From Void to Tyrant, read on genesis", "at": "2026-10-06"}
+{"document": "deconstructing-reality-s-architecture", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the project's title in the introduction", "at": "2026-10-06"}

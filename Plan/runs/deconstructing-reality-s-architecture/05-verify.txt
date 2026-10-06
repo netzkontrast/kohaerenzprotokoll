@@ -1,0 +1,63 @@
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "drive.google.com"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`drive.google.com` ^[deconstructing-reality-s-architecture.md:#15]
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "Example"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Example` ^[deconstructing-reality-s-architecture.md:#2]
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "Note"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Note` ^[deconstructing-reality-s-architecture.md:#1]
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "Learner’s Instruction"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Learner’s Instruction` ^[deconstructing-reality-s-architecture.md:#1]
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "K1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K1` ^[deconstructing-reality-s-architecture.md:#1]
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "K0"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K0` ^[deconstructing-reality-s-architecture.md:#1]
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "Selene"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Selene` ^[deconstructing-reality-s-architecture.md:#4]
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "Juna"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Juna` ^[deconstructing-reality-s-architecture.md:#5]
+$ python3 scripts/read.py deconstructing-reality-s-architecture --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[deconstructing-reality-s-architecture.md:#1]
+$ grep -c drive.google.com Sources/drive/deconstructing-reality-s-architecture.md
+15
+$ grep -n "backslash\|escapes" 01-profile.txt (226 backslash escapes, 5 glued ref numbers)
+7:  backslash escapes    226
+11:  glued ref numbers    5
+stance_marker_count 4 = Example 2 + Note 1 + Learner’s Instruction 1
+zeros: 0 (04-counts.txt lists no candidate at 0 word)
+$ grep -c " 0 word" 04-counts.txt
+0

@@ -1,0 +1,333 @@
+{
+  "document": "deconstructing-reality-s-architecture",
+  "drive_id": "1HeYoYPF-y04aJztMWKWJvS4ERCAh9Fk5e8lTiSrSlxo",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-162/brief.md; chapter readings on Kap 35 and Kap 36 by the session, from Plan/runs/ingest-162-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 108,
+    "decisions": 115,
+    "decided_by_lookup": 92,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English learner's guide of 2026-02-27 that reports the project's documentation: its 69 new surfaces are the guide's explanatory labels (Ontological Blindness, Isolation Objection, Externalized Perpetrator Introject, Zombie System, the Gardener, Polyphonic Prose), the sensory signatures of the worlds, roster names that no other source carries as a page (Aris, Elara, Mina, Lyra, Soren, Tariq, Nova — on Q3), and borrowed theory; what it says of the novel's world went on 26 existing pages, two chapter pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        188,
+        314
+      ],
+      "attribution": "",
+      "note": "`Zero-Trust` as the atmosphere of KW3 and the function of its guardian"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        31,
+        33,
+        47,
+        55,
+        134,
+        226,
+        285
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Coherence Kernel's antagonist, a trauma-born system and an Externalized Perpetrator Introject"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        103
+      ],
+      "attribution": "",
+      "note": "Alex as the proactive protector"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        80,
+        90
+      ],
+      "attribution": "",
+      "note": "alters as specialized agents of one system"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        174,
+        314
+      ],
+      "attribution": "",
+      "note": "`Cerberus` as the name of KW3 and its guardian"
+    },
+    {
+      "page": "did",
+      "lines": [
+        19,
+        76
+      ],
+      "attribution": "",
+      "note": "DID as the psychological kernel"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        23,
+        31,
+        37,
+        293
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory as two primordial forces, with the kernels' roles"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        43,
+        45,
+        268
+      ],
+      "attribution": "",
+      "note": "the Genesis of AEGIS and the Genesis Crisis of Act I"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        223,
+        225,
+        230,
+        284,
+        295
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as the plot's logical proof"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        233,
+        306
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external entity, not an alter"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        80,
+        84,
+        90,
+        101,
+        223,
+        266,
+        285
+      ],
+      "attribution": "",
+      "note": "Kael as the Host of System Kael, and the one who becomes the weapon"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        190,
+        315
+      ],
+      "attribution": "",
+      "note": "`Kairos` as the name of KW4 and its guardian"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        142,
+        204
+      ],
+      "attribution": "",
+      "note": "four `Kernwelten` as psycho-architectures with sensory signatures"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        116,
+        309
+      ],
+      "attribution": "",
+      "note": "Kiko as the Child"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        102,
+        307
+      ],
+      "attribution": "",
+      "note": "Lex as the Rationalist who mirrors AEGIS"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        312
+      ],
+      "attribution": "",
+      "note": "`LogOS` as the guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        159,
+        313
+      ],
+      "attribution": "",
+      "note": "`Mnemosyne` as the name of KW2 and its guardian"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        230,
+        235
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as the Gödel-Gambit's delivery"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        117,
+        310
+      ],
+      "attribution": "",
+      "note": "Moros as the Persecutor"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        39,
+        47
+      ],
+      "attribution": "",
+      "note": "the Nothingness Noise as the Collapse Kernel's primordial state and AEGIS's origin"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        115
+      ],
+      "attribution": "",
+      "note": "Nyx as the Sentinel, the system's rage"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "`Potentialmeer` glossed as a Sea of Potentiality"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        208,
+        211,
+        212
+      ],
+      "attribution": "",
+      "note": "the Risse as the plot's central environmental mechanic, caused by the Isolation Objection"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        128
+      ],
+      "attribution": "",
+      "note": "Selene as the Integrator"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        76,
+        90,
+        294
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical model of System Kael"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        282
+      ],
+      "attribution": "",
+      "note": "the `Überwelt` as AEGIS's Core, entered in Act III"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title: Kohärenz Protokoll), J34 (Juna/V), J49 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis — world names, read on kern-welten and the world pages), J12 and J16 (compounds and qualified labels with their own sense: System Kael — read on kael — Dual Kernel and Dual Kernel Theory (DKT), read on dkt, Genesis Crisis, read on genesis, Corrective Wavelets, Coherons, the Theory of Structural Dissociation of the Personality, on tsdp), J23 and J56 (inflections: Riss/Risse), the A (B) rule (Nichts Rauschen (Nothingness Noise), read on nichts-rauschen; Rauschen alone is its sound, an occurrence)",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 80,
+      "decision": "reading",
+      "why": "System Kael as a collection of alters, read on alters"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 19,
+      "decision": "reading",
+      "why": "the DID frame of System Kael, read on did"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 43,
+      "decision": "reading",
+      "why": "The Genesis of AEGIS: From Void to Tyrant, read on genesis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the project's title in the introduction"
+    }
+  ],
+  "not_promoted": [
+    "Ontological Blindness, Isolation Objection, Externalized Perpetrator Introject — on aegis and risse",
+    "Zombie System, Algorithmic Melancholy — on aegis and Q8",
+    "The Gardener — on kael",
+    "Aris, Elara, Mina, Lyra, Soren, Tariq, Nova — the guide's roster, on Q3",
+    "the sensory signatures and nicknames of the four worlds — on kern-welten and the world pages",
+    "the 39-chapter arc by act ranges (ranges are not read); its one chapter claim, the climax in Kap 35–36, on those pages",
+    "Heroine's Journey, Polyphonic Prose, IFS, Dramatica — borrowed"
+  ],
+  "internal_tension": "none; the guide reports a roster of eleven and then calls Tariq and Nova likely subsidiary functions (L130) — said once, on Q3",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

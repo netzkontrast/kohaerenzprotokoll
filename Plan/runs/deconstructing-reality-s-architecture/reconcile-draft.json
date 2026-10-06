@@ -1,0 +1,324 @@
+{
+  "document": "deconstructing-reality-s-architecture",
+  "drive_id": "1HeYoYPF-y04aJztMWKWJvS4ERCAh9Fk5e8lTiSrSlxo",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 108,
+    "decisions": 115,
+    "decided_by_lookup": 92,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        188,
+        314
+      ],
+      "attribution": "",
+      "note": "`Zero-Trust` as the atmosphere of KW3 and the function of its guardian"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        31,
+        33,
+        47,
+        55,
+        134,
+        226,
+        285
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Coherence Kernel's antagonist, a trauma-born system and an Externalized Perpetrator Introject"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        103
+      ],
+      "attribution": "",
+      "note": "Alex as the proactive protector"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        80,
+        90
+      ],
+      "attribution": "",
+      "note": "alters as specialized agents of one system"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        174,
+        314
+      ],
+      "attribution": "",
+      "note": "`Cerberus` as the name of KW3 and its guardian"
+    },
+    {
+      "page": "did",
+      "lines": [
+        19,
+        76
+      ],
+      "attribution": "",
+      "note": "DID as the psychological kernel"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        23,
+        31,
+        37,
+        293
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory as two primordial forces, with the kernels' roles"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        43,
+        45,
+        268
+      ],
+      "attribution": "",
+      "note": "the Genesis of AEGIS and the Genesis Crisis of Act I"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        223,
+        225,
+        230,
+        284,
+        295
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as the plot's logical proof"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        233,
+        306
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external entity, not an alter"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        80,
+        84,
+        90,
+        101,
+        223,
+        266,
+        285
+      ],
+      "attribution": "",
+      "note": "Kael as the Host of System Kael, and the one who becomes the weapon"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        190,
+        315
+      ],
+      "attribution": "",
+      "note": "`Kairos` as the name of KW4 and its guardian"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        142,
+        204
+      ],
+      "attribution": "",
+      "note": "four `Kernwelten` as psycho-architectures with sensory signatures"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        116,
+        309
+      ],
+      "attribution": "",
+      "note": "Kiko as the Child"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        102,
+        307
+      ],
+      "attribution": "",
+      "note": "Lex as the Rationalist who mirrors AEGIS"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        312
+      ],
+      "attribution": "",
+      "note": "`LogOS` as the guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        159,
+        313
+      ],
+      "attribution": "",
+      "note": "`Mnemosyne` as the name of KW2 and its guardian"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        230,
+        235
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as the Gödel-Gambit's delivery"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        117,
+        310
+      ],
+      "attribution": "",
+      "note": "Moros as the Persecutor"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        39,
+        47
+      ],
+      "attribution": "",
+      "note": "the Nothingness Noise as the Collapse Kernel's primordial state and AEGIS's origin"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        115
+      ],
+      "attribution": "",
+      "note": "Nyx as the Sentinel, the system's rage"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "`Potentialmeer` glossed as a Sea of Potentiality"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        208,
+        211,
+        212
+      ],
+      "attribution": "",
+      "note": "the Risse as the plot's central environmental mechanic, caused by the Isolation Objection"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        128
+      ],
+      "attribution": "",
+      "note": "Selene as the Integrator"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        76,
+        90,
+        294
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical model of System Kael"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        282
+      ],
+      "attribution": "",
+      "note": "the `Überwelt` as AEGIS's Core, entered in Act III"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 80,
+      "decision": "reading",
+      "why": "System Kael as a collection of alters, read on alters"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 19,
+      "decision": "reading",
+      "why": "the DID frame of System Kael, read on did"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 43,
+      "decision": "reading",
+      "why": "The Genesis of AEGIS: From Void to Tyrant, read on genesis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the project's title in the introduction"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
