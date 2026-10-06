@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -51,6 +51,10 @@ each section is a `Guardian/Welt-Paar`.
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — section 2: KW2 with Guardian Mnemosyne
 
 Section 2 is headed „Resonanz-Landschaft (Guardian: Mnemosyne)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L41]. Its core: „Verkörpert Kaels Emotionen, (traumatische) Erinnerungen, Subjektivität, Empathie und das Unbewusste (EP-Funktionen). Eine fließende Trauma-Landschaft.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L43]
+
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — KW2 as McL, marked an interpretation
+
+The Erlebniswelten concept lists `Resonanz-Landschaft` as KW2, with `Mnemosyne` in brackets, paired with `McL` (McLaughlin-Gruppe), focus „Fokus auf Netzwerke, Verbindungen, emotionale Resonanz, Erinnerung“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18], and marks the line „Interpretation im Romankontext“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18]. For Kael this world is „Überfordernd, die emotionale Intensität bedroht seine Kontrolle“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L32].
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — a chapter title, not a glossary entry
 
