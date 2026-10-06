@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 27
-readings: 27
+sources: 28
+readings: 28
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese"]
 gathered: "2026-09-24"
 ---
 
@@ -54,6 +54,10 @@ In the running text, presented as part of the theory: „Der -Kern hingegen ist 
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — the collapse kernel as the domain of irreversible processes
 „Der Kollaps-Kernel hingegen ist der Bereich der irreversiblen Prozesse und der Entropie“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L17], represented by Juna and the thermal Risse (L17). The kernel's symbol is lost in the export (empty `()` in the same line).
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — the domain of irreversible processes, represented by Juna and the Risse
+
+The synthesis writes of the second kernel: „Der Kollaps-Kernel () hingegen ist der Bereich der irreversiblen Prozesse, der Entropie und des Systemzerfalls“ ^[romanprojekt-analyse-synthese.md:L23]; the symbol was lost in the export and is not supplied. It is represented in the narrative by the figure Juna and the Risse in the simulation. The synthesis says it is not to be understood as mere destruction but as „notwendige Bedingung für Evolution und relationale Tiefe“ ^[romanprojekt-analyse-synthese.md:L23].
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
