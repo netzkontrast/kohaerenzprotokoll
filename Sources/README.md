@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 153 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 153 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 154 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 154 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -444,7 +444,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Romanplot-Überarbeitung: Kohärenz Protokoll, Teil 1](drive/romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md) | 2025-04-18 | 13,823 |  | Silas 27, Argus 26, Nexus 5, DID 28, Alters 36, Lex 36, Mnemosyne 7, Realitätsebenen 2 | Schattenkind 23, Threshold Zone 12, E1 7, Glitching Market 7, Nexus of Whispers 6 |
 | [Vorarbeiten Ausformulierung Kapitel 1, Teil 1](drive/vorarbeiten-ausformulierung-kapitel-1-teil-1.md) | 2025-04-18 | 4,349 |  | Silas 3, Konstrukt-Stadt 8, DID 6, LogOS 3, Juna 10, Risse 13, Kael 18, Überwelt 3 | Praetor 4, Stadt 8, Nox 4, Flow 2, Dissociative Identity Disorder 6 |
 | [Romanentwurf: Kapitel 1 Ausformulierung](drive/romanentwurf-kapitel-1-ausformulierung.md) | 2025-04-19 | 3,374 |  | Silas 2, Konstrukt-Stadt 4, DID 4, Kairos 2, LogOS 3, Cerberus 2, Alters 4, Juna 5 | Praetor 4, Dissociative Identity Disorder 6, Nox 3, Architekten 2, Dissociation 4 |
-| [Arbeitshilfe Kapitel 2: Kohärenz Protokoll](drive/arbeitshilfe-kapitel-2-kohaerenz-protokoll.md) | 2025-04-20 | 4,434 |  | Silas 3, DID 4, Alters 8, Kern-Welten 6, Juna 4, Kael 19, Risse 2, Überwelt 2 | EST 9, Praetor 7, Limina 6, Environmental Storytelling 10, Nox 6 |
+| [Arbeitshilfe Kapitel 2: Kohärenz Protokoll](drive/arbeitshilfe-kapitel-2-kohaerenz-protokoll.md) | 2025-04-20 | 4,434 | **read** | Silas 3, DID 4, Alters 8, Kern-Welten 6, Juna 4, Kael 19, Risse 2, Überwelt 2 | EST 9, Praetor 7, Limina 6, Environmental Storytelling 10, Nox 6 |
 | [Arbeitshilfe: Kohärenz Protokoll, Kapitel 2](drive/arbeitshilfe-kohaerenz-protokoll-kapitel-2.md) | 2025-04-20 | 7,026 |  | Silas 4, DID 10, Alters 23, Kern-Welten 2, Risse 5, Überwelt 5, Kael 23, AEGIS 9 | EST 16, ISSTD 8, VR 3, Depersonalisation 13, Praetor 6 |
 | [Kapitel 13 Momente](drive/kapitel-13-momente.md) | 2025-04-20 | 959 |  | Cerberus 14, Juna 9, Kael 16, AEGIS 8 | v1 4, Nox 3, Wächter 2 |
 | [Kapitel 17](drive/kapitel-17.md) | 2025-04-20 | 1,006 |  | Cerberus 18, Silas 2, Alters 2, Juna 2, Kael 22, AEGIS 3 | Praetor 4, Index 5, KW3 5, Host 3, Protokoll 2 |
