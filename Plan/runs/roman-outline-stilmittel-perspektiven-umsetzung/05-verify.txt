@@ -1,0 +1,145 @@
+$ read.py --count "Stilistische Vorgabe"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Stilistische Vorgabe` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#2]
+$ read.py --count "Anweisung zur Ausformulierung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Anweisung zur Ausformulierung` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#2]
+$ read.py --count "Narrative Funktion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Funktion` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "Anweisung für Dialoge"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anweisung für Dialoge` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "Das narrative Ziel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das narrative Ziel` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "verbindliche Richtlinien"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`verbindliche Richtlinien` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+stance_marker_count = 2+2+1+1+1+1 = 8
+$ read.py --count "Risse"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Risse` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#9]
+$ read.py --count "Hard Canon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hard Canon` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "Deep POV"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Deep POV` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#5]
+$ read.py --count "Internal Family Systems"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Internal Family Systems` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#6]
+$ read.py --count "Architectural Storytelling"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`Architectural Storytelling` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#4]
+$ read.py --count "Uncanny Valley"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`Uncanny Valley` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#6]
+$ read.py --count "The Coherence MOC"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Coherence MOC` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "The Alter System MOC"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Alter System MOC` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "The Resonance MOC"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Resonance MOC` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "Gödelsche Unvollständigkeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödelsche Unvollständigkeit` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "Wir-Geflecht"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Wir-Geflecht` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]
+$ read.py --count "Zugehörige Alters"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zugehörige Alters` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#3]
+$ read.py --count "Der Guardian"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Der Guardian` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#3]
+$ read.py --count "Die Kern-Welt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Die Kern-Welt` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#3]
+$ read.py --count "K₁"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K₁` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0]
+$ read.py --count "KW₁"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`KW₁` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0]
+$ read.py --count "Kaels"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kaels` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#8]
+$ read.py --count "Kern-Welt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            8
+
+`Kern-Welt` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#3]
