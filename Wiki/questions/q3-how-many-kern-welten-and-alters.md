@@ -776,3 +776,11 @@ Stands as one more count for the question, dated 2025-07-30: four Kernwelten and
 It writes „The documentation identifies a complex roster of“ ^[deconstructing-reality-s-architecture.md:L90] alters, and its tables name Kael, Lex, Alex, Aris, Elara and Mina as Apparently Normal Parts, Nyx, Kiko, Moros, Lyra and Soren as Emotional Parts and Selene as the Integrator. Aris is „Focuses on the structural integrity of the internal world.“ ^[deconstructing-reality-s-architecture.md:L104] and Elara „Elara focuses on empathy, beauty, and internal mediation.“ ^[deconstructing-reality-s-architecture.md:L105] A note adds that „Tariq“ ^[deconstructing-reality-s-architecture.md:L130] and „Nova“ ^[deconstructing-reality-s-architecture.md:L130] appear in some lists, „likely serving as subsidiary ANP functions for specific technical tasks, but the“ ^[deconstructing-reality-s-architecture.md:L130] listed roster is the core cast. For the worlds it writes of the Kernwelten that „The learner must view these worlds not as geographical locations“ ^[deconstructing-reality-s-architecture.md:L142], and it numbers four, KW1 to KW4 (L144, L159, L174, L190), each paired with a psychological state.
 
 Stands: the guide reports its own count as the documentation's and reads the worlds as four; it does not say whether a Kern-Welt corresponds to an alter, and settles neither count.
+
+## 2026-10-06 — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis
+
+**The architecture synthesis speaks of 11 entities and names some of them, with no count of Kern-Welten.**
+
+It writes „Kael, having integrated his 11 entities (including Lex, Nyx, Kiko, and Moros)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L73], and the German counterpart „Kael, der seine 11 Entitäten integriert hat“ ^[kohaerenz-protokoll-architecture-synthesis.md:L75]. Beat 1 sorts them: „the ANPs like Lex and Vesper, and the EPs like Nyx, Kiko, and Moros“ ^[kohaerenz-protokoll-architecture-synthesis.md:L187]. The audit log reports Silas and Vesper in the same group: „Kael’s 11 internal entities include specific roles like the“ ^[kohaerenz-protokoll-architecture-synthesis.md:L221] Archivist and Executive.
+
+It adds a count of 11 and names for it, and nothing on the number of Kern-Welten or on one world per alter: the question stays open in the record's own terms.
