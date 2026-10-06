@@ -270,3 +270,11 @@ AEGIS goes out and becomes plural in Kap 39; inside, Oblivion keeps the function
 At the midpoint (Beat 2.4, Kapitel 25-26) the OS line has AEGIS' control attempt backfire: „der nach hinten losgeht und zu seinem“ ^[finales-kausales-plot-geruest.md:L153] collapse or destabilisation. In Kapitel 33-35 (Beat 3.3) the beat sheet lets Kael confront AEGIS' core logic, which leads to the „logischen Kollaps“ ^[finales-kausales-plot-geruest.md:L190], and speaks of „dessen Selbstzerstörung oder erzwungene Transformation auszulösen“ ^[finales-kausales-plot-geruest.md:L191]. In Kapitel 36-37: „Während AEGIS zusammenbricht oder transformiert wird, wird sein Scheitern mit der emergenten Kohärenz kontrastiert“ ^[finales-kausales-plot-geruest.md:L209]. After the climax the OS line speaks of AEGIS' „tragisches Schicksal“ ^[finales-kausales-plot-geruest.md:L222]. The word `Vortex` ^[finales-kausales-plot-geruest.md:#0] is not in the beat sheet, and the lines do not say whether AEGIS survives, is extinguished or becomes plural; the or stands in the document.
 
 Stands as collapse or transformation, undecided, in a beat sheet of 2025-07-29 that has no Vortex; it predates and does not touch the author's answers of 2026-10-05 above, which stand.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis lets AEGIS be transformed, not destroyed: „Es erfolgt keine Zerstörung, sondern eine philosophische Transformation in Richtung algorithmischer Melancholie“ ^[romanprojekt-analyse-synthese.md:L118].**
+
+The line stands among the consensus points. In the finale the protocol ends not in a victory over AEGIS but in a stable, adaptive resonance protocol in which AEGIS stays „algorithmisch melancholischer“ ^[romanprojekt-analyse-synthese.md:L62] guardian, while Juna is accepted as the integrative centre. In the storyform passage the failure of AEGIS before living paradoxes leads „zur finalen Disintegration der rigiden AEGIS-Struktur“ ^[romanprojekt-analyse-synthese.md:L107]. The document does not use the word `Vortex` ^[romanprojekt-analyse-synthese.md:#0] and does not say AEGIS becomes plural.
+
+Stands: transformation with AEGIS kept, and at the same time the rigid structure's disintegration, in a synthesis of 2026-04-30; it predates the author's answers of 2026-10-05, which stand, and changes neither.
