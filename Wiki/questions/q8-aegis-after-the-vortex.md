@@ -310,3 +310,11 @@ Stands: AEGIS's state after the confrontation is posed as open questions in the 
 It reports, from a document it cites by digit, Hypothese A: „AEGIS entwickelt eine parakonsistente Logik“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L122] (L122), and Hypothese B: „AEGIS' binäre Logik zerbricht am Paradoxon“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L123] (L123). For its own plot it chooses: „Wir wählen die thematisch stärkere Option“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L226] (L226), and ends AEGIS in „einer ewigen, sinnlosen Berechnung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L227] (L227); recommendation 2 calls this „die thematisch bei weitem überlegene Auflösung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L279] (L279).
 
 Stands: a choice of the paper, dated before the author's answer of 2026-10-05 (the record's own status), and it changes neither it nor the open part of the question.
+
+## 2026-10-06 — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report
+
+**In trace 1 of its engine design the architecture report lets AEGIS crash into a „Zombie-System“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L142].**
+
+The system must „parakonsistente Logik tolerieren muss“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L142] and can no longer control it deterministically; Phase III adds „AEGIS verliert die Kontrolle“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L186]. The report is dated before the author's answers of 2026-10-05 and does not mention the Vortex.
+
+Stands as one more proposal of an answer to Q8's first half, written before the author's decision.
