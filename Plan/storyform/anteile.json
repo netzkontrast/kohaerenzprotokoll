@@ -326,6 +326,16 @@
     },
     {
       "chapters": [
+        37
+      ],
+      "parts": [
+        "Oblivion"
+      ],
+      "channel": "Stimme",
+      "how": "Oblivion wählt zum ersten Mal, was vergessen wird, statt automatisch zu löschen (Q8, Schritt 44); Vorschlag für den Ort, in development.json Kap 37."
+    },
+    {
+      "chapters": [
         38,
         39
       ],

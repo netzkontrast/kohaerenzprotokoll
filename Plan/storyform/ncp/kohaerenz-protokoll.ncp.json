@@ -1862,6 +1862,22 @@
                   "scope": "event",
                   "sequence": 25,
                   "appreciation": "Auftritt eines Anteils",
+                  "summary": "Kap 37: Oblivion · Stimme",
+                  "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Oblivion wählt zum ersten Mal, was vergessen wird, statt automatisch zu löschen (Q8, Schritt 44); Vorschlag für den Ort, in development.json Kap 37. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
+                  "perspectives": [
+                    {
+                      "perspective_id": "persp_objective_story"
+                    },
+                    {
+                      "perspective_id": "persp_main_character"
+                    }
+                  ]
+                },
+                {
+                  "id": "beat_anteil_26",
+                  "scope": "event",
+                  "sequence": 26,
+                  "appreciation": "Auftritt eines Anteils",
                   "summary": "Kap 38, 39: Lex, Alex, Rhys, Selene, Argus, Nyx, Isabelle, Kiko, Lia, Moros, Silas, Oblivion · Stimme",
                   "storytelling": "Arbeitsgrundlage — kein Kanon (Entscheidung 025 Schritt 32/38). Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden. Kanal Stimme: der Anteil spricht mit Namen — erst ab Kap 13, wenn der Schleier fällt. Herkunft: Vorschlag der Sitzung in alters-im-plot.md, Teil 2, mit den Lagern der TSDP-Lektüre; Ränge aus dem Weaving (Z1 Kap 14, 15, 17 ohne das AEGIS-Kapitel 16).",
                   "perspectives": [
@@ -5073,6 +5089,11 @@
                 "sequence": 3,
                 "narrative_id": "narrative-a",
                 "storybeat_id": "beat_anteil_24"
+              },
+              {
+                "sequence": 4,
+                "narrative_id": "narrative-a",
+                "storybeat_id": "beat_anteil_25"
               }
             ],
             "storypoints": [
@@ -5117,7 +5138,7 @@
               {
                 "sequence": 4,
                 "narrative_id": "narrative-a",
-                "storybeat_id": "beat_anteil_25"
+                "storybeat_id": "beat_anteil_26"
               }
             ],
             "storypoints": [
@@ -5143,10 +5164,10 @@
             "act": 4,
             "order": 39,
             "summary": "Kap 39 · bridge · Anker: Vortex selbst",
-            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Mit Vielheit einen unvollständigen Tag tragen.\nWiderstand: Ein Rest bleibt und lässt sich nicht durch perfekte Ordnung auflösen.\nHandlung: Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung.\nWende: Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch.\nPreis: Die Sicherheit einer vollständigen Null wird aufgegeben.\nKaels Wissen: Er kennt seinen nächsten Schritt, nicht die endgültige Erklärung jeder Welt.\nLeserwissen: Das Anfangsmotiv wird bezahlt: offener Rest bedeutet jetzt tragfähige Ordnung. Hier wird der vierte Schritt der Genesis vollzogen, Wir-AEGIS-plural (W12, Entscheidung 025 Schritt 42).\nFolge: Kap 40 kann den Rahmen öffnen, ohne die Leistung der Figuren zurückzunehmen.\nZeit: Ende des vierten Akts; Coda außerhalb der Signposts.\nOffen: Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie Storyform B hier endet, hängt an Q8.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Mit Vielheit einen unvollständigen Tag tragen.\nWiderstand: Ein Rest bleibt und lässt sich nicht durch perfekte Ordnung auflösen.\nHandlung: Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung. Im selben Kapitel erlischt AEGIS-monolithisch, und ein AEGIS im Plural antwortet, der vierte Schritt der Genesis (Q8, W12, Schritt 43).\nWende: Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch.\nPreis: Die Sicherheit einer vollständigen Null wird aufgegeben.\nKaels Wissen: Er kennt seinen nächsten Schritt, nicht die endgültige Erklärung jeder Welt.\nLeserwissen: Das Anfangsmotiv wird bezahlt: offener Rest bedeutet jetzt tragfähige Ordnung. Hier wird der vierte Schritt der Genesis vollzogen, Wir-AEGIS-plural (W12, Entscheidung 025 Schritt 42).\nFolge: Kap 40 kann den Rahmen öffnen, ohne die Leistung der Figuren zurückzunehmen.\nZeit: Ende des vierten Akts; Coda außerhalb der Signposts.\nOffen: Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie das plurale AEGIS klingt, ist offen (C14 regelt nur das Ich bis Kap 28).\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/runs/writing/book/plot-development_2026-10-06.md; Plan/decisions/025-dramatica-is-the-recipe.md",
             "setting": "KW4 (Möglichkeits-Garten; der Name ist nicht entschieden, Q5) — getrennte Welten (W8 A): Kael verlässt eine Welt wirklich; Eintritt, Weg und Rückkehr kosten etwas",
             "timing": "Vorschlag, offen: Ende des vierten Akts; Coda außerhalb der Signposts.",
-            "imperatives": "trägt A Main Character Signpost 4 (Conscious); A Objective Story Signpost 4 (Conceptualizing); B Main Character Signpost 4 (Future); B Influence Character Signpost 4 (Subconscious)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie Storyform B hier endet, hängt an Q8.",
+            "imperatives": "trägt A Main Character Signpost 4 (Conscious); A Objective Story Signpost 4 (Conceptualizing); B Main Character Signpost 4 (Future); B Influence Character Signpost 4 (Subconscious)\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie das plurale AEGIS klingt, ist offen (C14 regelt nur das Ich bis Kap 28).",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [
               {
@@ -5172,7 +5193,7 @@
               {
                 "sequence": 5,
                 "narrative_id": "narrative-a",
-                "storybeat_id": "beat_anteil_25"
+                "storybeat_id": "beat_anteil_26"
               }
             ],
             "storypoints": [

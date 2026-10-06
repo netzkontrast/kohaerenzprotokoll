@@ -2,7 +2,8 @@
 
 > **Entwurf einer Claude-Sitzung, 2026-10-05**, auf den Auftrag des Autors „Lets start Treatments“. Das ist Phase 2 des
 > Schreibplans (`Plan/concept/novel-writing-plan_2026-09-29.md`): 2a, das ganze Buch auf einer Seite, und 2b, ein Absatz
-> pro Bewegung. Begonnen ist mit Akt I.
+> pro Bewegung. 2b liegt für Kap 0–39 vor (Akt I am 2026-10-05, Akt II bis Vortex am 2026-10-06); Kap 40 steht nur
+> auf der Buchseite.
 >
 > **Kein Kanon.** Ein Akt gilt erst, wenn du ihn freigibst. Bis dahin ist jeder Absatz ein Vorschlag (Entscheidung 025,
 > Schritt 38: kein Entwurf wird Kanon, die Storyform geht vor).
@@ -13,6 +14,9 @@
 > - `[A]` ist die Arbeitsgrundlage in `Plan/storyform/anteile.json`;
 > - `[D nn]` ist der Vorschlag für Kap nn in `Plan/storyform/development.json`, also ebenfalls nur ein Vorschlag;
 > - **neu** heißt: in diesem Treatment zum ersten Mal.
+>
+> **Die Storypoints-Zeile** unter jedem Absatz schreibt `scripts/storyform.py` aus `development.json`, mit den Werten
+> der Storyforms (Schritt 47). Von Hand geändert wird sie nie; sonst laufen Treatment und NCP auseinander.
 >
 > **Block 4:** Das Davor besteht nur aus erfundenen Entsprechungen. Kein Name, kein Ort und kein Detail aus deinem Leben
 > kommt hinein.
@@ -334,6 +338,147 @@ Namen sind offen [K Kernwelten]. Die vier Menschen aus KW1 bleiben dort zurück 
 
 ---
 
+## 2b — Akt III und Vortex, Absatz für Absatz
+
+Grundlage: `development.json` Kap 27–39 [S44], Q8 und W12 [K Q8, K W12], die beiden Uhren [S43, S44]. KW4 heißt hier
+Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
+
+### Kap 27 — Der Riss
+- Kael will im Cerberus-Labyrinth den Weg zu Juna finden [D 27].
+- Die Wachsamkeit von KW3 wertet jede Absicht als Bedrohung. Die Abwehr, Nyx und Alex, reagiert schneller als er
+  [D 27, K Lager].
+- Er lernt, seine Reflexe zu lenken, statt sie zu unterdrücken: Aus einem Ausweichen wird ein Schritt [D 27].
+- Er findet einen Riss nach KW4, und der Riss schließt sich hinter ihm [D 27].
+- Was sich nicht zurücknehmen lässt: Der Rückweg nach KW3 entfällt [D 27, S44].
+- **Hook-out:** AEGIS antwortet mit dem Purge [D 27].
+- *Storypoints:* A-MC Symptom Chaos, A-MC Response Order, A-MC Benchmark Conscious, A Catalyst Threat [D 27].
+
+### Kap 28 — AEGIS als Ich: der Purge
+- AEGIS will die Verbindung schließen, ganz [D 28].
+- Es berechnet den Eingriff und findet einen belegten Nutzen für andere, den Kaels Verbindung stört [D 28]. Der Purge
+  richtet sich gegen jede Bewegung, das letzte Sweep [S46].
+- Der Zugriff gelingt zum Teil. Derselbe Zugriff, der schützt, gefährdet Juna [D 28].
+- Was es kostet: AEGIS kann sich an einen früheren Schutzentscheid nicht mehr erinnern, und der Riss in seinem Ich wächst
+  [D 28].
+- **Hook-out:** Juna ist in Gefahr [S27].
+- *Storypoints:* B Story Costs Memory, B Story Requirements Doing, B-MC Symptom Reconsideration,
+  B-MC Response Consideration, B-MC Benchmark Progress, B-OS Symptom Reconsideration, B-OS Response Consideration,
+  B-OS Benchmark Doing, B-MC Critical Flaw Oppose [D 28].
+
+### Kap 29 — Kikos Angst
+- Kael will Junas Gegenwart im Möglichkeits-Garten erreichen, während der Purge läuft [D 29].
+- Kikos Angst sitzt im Körper: Er wird klein, das letzte Aufflammen der Vermeidung [D 29, A].
+- Kael trägt Kiko, statt sie zu übergehen. Er geht langsamer, damit der Körper mitkommt [D 29].
+- Er bleibt im Garten, aber der Purge erreicht die Verbindung vor ihm [D 29].
+- Was es kostet: Zeit, und Juna bleibt länger in Gefahr [D 29].
+- **Hook-out:** Alex stellt sich vor den Weg [D 29].
+- *Storypoints:* A-MC Symptom Chaos, A-MC Response Order [D 29].
+
+### Kap 30 — Der Kanal hält
+- Kael will den Kanal zu Juna gegen den Purge halten [D 30].
+- Alex schützt den Weg, mit Stimme [A].
+- Kael und Juna benutzen den Kanal zum ersten Mal beide bewusst, und sie antwortet [D 30].
+- Was es kostet: Juna weiß jetzt, wo er ist, und damit ist auch sie sichtbar. Ihr Schutz durch Unwissen entfällt
+  [D 30].
+- **Hook-out:** Oblivion und Silas greifen nach demselben Signal [D 30].
+- *Storypoints:* A-RS Symptom Thought, A-RS Response Knowledge, A-RS Benchmark Doing [D 30].
+
+### Kap 31 — Die Hitze
+- Oblivion und Silas sollen den Kanal stabilisieren, der eine löschend, der andere empfangend [D 31].
+- Oblivion löscht schneller, als Silas empfängt. Die Landauer-Hitze steigt [D 31, A].
+- Das Signal bricht. In der Hitze entsteht ein Einfall: Das Löschen selbst lässt sich wählen [D 31].
+- Auf der Seite von B begreift AEGIS das Muster, ohne es halten zu können [S46].
+- Was es kostet: Ein Teil des Signals ist verloren, und AEGIS' Abwärmebudget sinkt [D 31, S43].
+- **Hook-out:** Juna ist erreichbar [D 31].
+- *Storypoints:* A-OS Symptom Knowledge, A-OS Response Thought, A-OS Benchmark Being, B-OS Symptom Reconsideration,
+  B-OS Response Consideration, B-RS Symptom Hinder, B-RS Response Help, B-RS Benchmark Conceiving,
+  B Story Dividends Understanding [D 31].
+
+### Kap 32 — Die Begegnung
+- Kael begegnet Juna in der Gegenwart, zum ersten Mal [K C7, D 32].
+- Silas erkennt sie, bevor Kael es tut [A].
+- Kael stellt eine konkrete Frage. Juna verfolgt ihr eigenes Vorhaben, statt seine Erinnerung zu bestätigen. Sie sieht,
+  was wirklich ist [D 32, S46].
+- Die Begegnung ist real, aber Nähe löst die Trennung nicht [D 32].
+- Was es kostet: Kael muss ein geliebtes Bild von sich aufgeben [D 32].
+- **Hook-out:** Die Verbindung ist jetzt für beide gefährdet [D 32].
+- *Storypoints:* B-IC Symptom Oppose, B-IC Response Support, B-IC Benchmark Memory, A-IC Unique Ability Actuality,
+  A-IC Symptom Actuality, A-IC Response Perception [D 32].
+
+### Kap 33 — Junas Ort
+- Kael und Juna wollen einen Ort halten, an dem beide sein können [D 33].
+- Sie teilen eine praktische Aufgabe an dem Ort, den Juna sich genommen hat, und sie lässt ihn hinein **neu**.
+- Das Schweigen von früher wiederholt sich. Beide wissen, was sie wollen, und keiner sagt es [D 33].
+- AEGIS' Reserve fällt sichtbar [D 33, S43].
+- Was es kostet: die Zeit, in der Sprechen noch möglich war [D 33].
+- **Hook-out:** Kael lässt sie gehen [D 33].
+- *Storypoints:* A-RS Symptom Thought, A-RS Response Knowledge [D 33].
+
+### Kap 34 — Geh
+- Kael will Juna aus AEGIS' Zugriff bringen [D 34].
+- Lias „Komm her / Geh weg“ entscheidet sich für „Geh“. Die Abwehr gewinnt, „Wer mir nah ist, wird verletzt“ wird zur
+  Tat [A, K Lager, K Kael].
+- Kael trennt die Verbindung selbst, obwohl Juna jetzt eine eigene Stimme hat. Die Nacht wiederholt sich für einen
+  Moment [D 34, S27, S45].
+- Was sich nicht zurücknehmen lässt: eine wirkliche Möglichkeit der Beziehung. Der Schutz der Abwehr entfällt als
+  Rückzugsort [D 34, S44].
+- **Hook-out:** AEGIS' Sweep zieht sich auf das zusammen, was übrig ist [D 34].
+- *Storypoints:* A Story Costs Being, A-MC Problem Inertia, A-MC Solution Change, A-OS Symptom Knowledge,
+  A-OS Response Thought, B-MC Symptom Reconsideration, B-MC Response Consideration, B-IC Symptom Oppose,
+  B-IC Response Support, A Story Consequence Past [D 34].
+
+### Kap 35 — Oblivion hört auf
+- Kael will die Wiederholung der Löschung beenden [D 35].
+- Oblivion steht vor der Wahl, weiterzulöschen oder stehenzulassen. Er lässt die widersprüchlichen Erinnerungen
+  stehen [A, D 35].
+- Kaels Amnesie bricht auf. Selene vermittelt eine begrenzte gemeinsame Handlung [D 35].
+- Auf der Seite von B ist AEGIS' Abwärmebudget aufgebraucht, die Landauer-Hitze. Es kollabiert zum Teil und bleibt bei
+  seiner Ordnung [D 35, S43].
+- Was es kostet: Kael gewinnt keine Schmerzfreiheit, sondern die Verantwortung für die Geschichte, die bleibt [D 35].
+- **Hook-out:** Was er jetzt weiß, muss er leben [D 35].
+- *Storypoints:* A-MC Problem Inertia, A-MC Solution Change, A-OS Solution Change, B-MC Solution Faith,
+  B-OS Solution Logic [D 35].
+
+### Kap 36 — Die Stille
+- Kael will die Wiederverbindung nach dem Umschlag tragen [D 36].
+- Moros kämpft seinen Drachenkampf, Selene baut als Architektin [A].
+- Kael gibt nach, statt zu kontrollieren. Juna ist gegenwärtig [D 36].
+- Erst die Stille, dann die Landauer-Hitze. Kael versteht Juna ohne Worte. AEGIS stottert, erlischt aber noch nicht
+  [D 36, S43].
+- Was es kostet: Die Stille kostet die letzte Kontrolle [D 36].
+- **Hook-out:** Es wird ruhig [D 36].
+- *Storypoints:* A-IC Solution Inertia, A-RS Solution Desire, B-IC Solution Faith, B-RS Solution Logic [D 36].
+
+### Kap 37 — Der falsche Friede
+- Kael will die neue Ordnung einrichten, als Gärtner [D 37].
+- Lex ordnet den Alltag des Wir, und seine Ordnung kehrt scheinbar zurück [A, D 37].
+- Oblivion wählt zum ersten Mal, was vergessen wird, statt automatisch zu löschen [K Q8, A].
+- Es funktioniert, und genau das ist der Fehler: Der Hüter hütet, was zerfällt. Am Rand fasert etwas [D 37].
+- Was es kostet: die Wachsamkeit [D 37].
+- **Hook-out:** Das Rauschen kommt [D 37].
+- *Storypoints:* A-OS Solution Change, A-MC Solution Change [D 37].
+
+### Kap 38 — Das Rauschen
+- Kael und Juna wollen eine gemeinsame Zukunft verhandeln, während das Rauschen wächst [D 38].
+- Die Anteile handeln als Wir [A].
+- Sie vereinbaren eine begrenzte nächste Handlung, die jeder von beiden ablehnen darf [D 38].
+- Was es kostet: Beide verzichten darauf, die Antwort des anderen zu kontrollieren [D 38].
+- **Hook-out:** Die Vereinbarung hat eine erste Folge [D 38].
+- *Storypoints:* A-RS Concern Understanding, A-IC Solution Inertia, B-RS Solution Logic [D 38].
+
+### Kap 39 — Das Wir
+- Die Anteile verteilen eine alltägliche Aufgabe. Kael lässt eine offene Frage stehen und hält die vereinbarte
+  Verbindung [D 39].
+- Im selben Kapitel erlischt AEGIS-monolithisch, und ein AEGIS im Plural antwortet, im Wir. Das ist der vierte Schritt
+  der Genesis [K Q8, K W12].
+- Am Abend steht etwas nicht auf null, und der Tag ist nicht falsch. Das spiegelt Kap 1 **neu**.
+- Was es kostet: die Sicherheit einer vollständigen Null [D 39].
+- **Hook-out:** Kap 40, die Genesis noch einmal, geheilt [S42].
+- *Storypoints:* A-MC Problem Inertia, A-MC Solution Change, A-OS Solution Change, B-MC Solution Faith,
+  B-IC Solution Faith, B Story Consequence Becoming [D 39].
+
+---
+
 ## Was du für Akt I freigeben oder ändern kannst
 
 1. Die Seite 2a als Rückgrat des Buches.
@@ -362,3 +507,15 @@ Namen sind offen [K Kernwelten]. Die vier Menschen aus KW1 bleiben dort zurück 
 3. Kaels Wahlen in Akt II: die erste eigene in Kap 18 [S47], die ganze in Kap 26 [S27]. Dazwischen handeln die Anteile
    und AEGIS an ihm. Das Gutachten zum Treatment fragte, ob das trägt (`Plan/runs/writing/akt-1/developmental-editor_2026-10-05.md`, Diagnose 3).
 4. Die Arbeitsnamen Mnemosyne-Archipel und Cerberus-Labyrinth, solange Q5 offen ist.
+
+## Was du für Akt III und den Vortex freigeben oder ändern kannst
+
+1. Die dreizehn Absätze, ganz, einzeln oder mit Änderungen.
+2. Die Stellen, die **neu** sind:
+   - Kap 33: die Aufgabe an Junas Ort, und sie lässt ihn hinein. Damit läuft der Ort durch das Buch: gewollt (Kap 4),
+     hergegeben (Kap 11), genommen (Kap 17), geteilt (Kap 33);
+   - Kap 39: am Abend steht etwas nicht auf null, und der Tag ist nicht falsch, als Spiegel von Kap 1.
+3. Wo Oblivion zum ersten Mal wählt: Kap 37 ist ein Vorschlag. Entschieden ist nur, dass er es tut (Q8).
+4. Wie das plurale AEGIS in Kap 39 klingt. C14 regelt nur das Ich bis Kap 28.
+5. Der Arbeitsname Möglichkeits-Garten, solange Q5 offen ist.
+

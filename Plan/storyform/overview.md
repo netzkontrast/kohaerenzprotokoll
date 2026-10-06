@@ -167,6 +167,7 @@ Lager: **Suche** Rhys, Kiko, Lia, Silas; **Abwehr** Nyx, Isabelle, Alex; **Verme
 | 35 | Oblivion | Stimme | Die Wahl: weiterlöschen oder stehenlassen. Er hört auf, Kaels Amnesie bricht zusammen — der Pivot Inertia → Change. |
 | 36 | Moros, Selene | Stimme | Moros' Drachenkampf; Selene als Architektin. |
 | 37 | Lex | Stimme | Der falsche Friede: die Ordnung kehrt zurück, scheinbar. |
+| 37 | Oblivion | Stimme | Oblivion wählt zum ersten Mal, was vergessen wird, statt automatisch zu löschen (Q8, Schritt 44); Vorschlag für den Ort, in development.json Kap 37. |
 | 38, 39 | Lex, Alex, Rhys, Selene, Argus, Nyx, Isabelle, Kiko, Lia, Moros, Silas, Oblivion | Stimme | Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden. |
 
 ## Die Journeys (Vorschlag)
@@ -245,4 +246,4 @@ Aus `development.json`. Alle Ausführungen sind offen; Struktur und Kanon werden
 | 36 | Die Wiederverbindung nach dem Pivot tragen (Vortex 1, Beats 3–5). | Selene baut als Architektin, Moros kämpft; Kael gibt nach, statt zu kontrollieren (B-IC Subconscious); Juna ist gegenwärtig (A-IC Future). Preis: Die Stille kostet die letzte Kontrolle; das Abwärmebudget ist erschöpft. | Wie zeigt sich Juna ontologisch (A-IC Future), ohne die Begegnung von Kap 32 zu wiederholen? |
 | 37 | Die neue Ordnung einrichten: Kael als Gärtner. | Kael richtet den Alltag des Wir ein, Lex ordnet; Oblivion wählt zum ersten Mal, was vergessen wird (Schritt 44). Preis: Die Wachsamkeit. | Wie viel Echo von B darf ein hard-a-Kapitel tragen? |
 | 38 | Eine gemeinsame Zukunft verhandeln. | Kael und Juna vereinbaren eine begrenzte nächste Handlung, die jeder ablehnen darf. Preis: Beide verzichten auf die Kontrolle der Antwort des anderen. | Welcher kleine nächste Schritt zeigt gegenseitiges Wollen? Keine Beziehungsauflösung festlegen. |
-| 39 | Mit Vielheit einen unvollständigen Tag tragen. | Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung. Preis: Die Sicherheit einer vollständigen Null wird aufgegeben. | Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie Storyform B hier endet, hängt an Q8. |
+| 39 | Mit Vielheit einen unvollständigen Tag tragen. | Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung. Im selben Kapitel erlischt AEGIS-monolithisch, und ein AEGIS im Plural antwortet, der vierte Schritt der Genesis (Q8, W12, Schritt 43). Preis: Die Sicherheit einer vollständigen Null wird aufgegeben. | Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie das plurale AEGIS klingt, ist offen (C14 regelt nur das Ich bis Kap 28). |

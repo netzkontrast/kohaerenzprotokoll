@@ -1511,18 +1511,19 @@
       "sources": [
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
-        "Plan/runs/writing/book/plot-development_2026-10-06.md"
+        "Plan/runs/writing/book/plot-development_2026-10-06.md",
+        "Plan/decisions/025-dramatica-is-the-recipe.md"
       ],
       "goal": "Mit Vielheit einen unvollständigen Tag tragen.",
       "opposition": "Ein Rest bleibt und lässt sich nicht durch perfekte Ordnung auflösen.",
-      "action": "Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung.",
+      "action": "Die Anteile verteilen eine alltägliche Aufgabe; Kael lässt eine offene Frage bestehen und hält die vereinbarte Verbindung. Im selben Kapitel erlischt AEGIS-monolithisch, und ein AEGIS im Plural antwortet, der vierte Schritt der Genesis (Q8, W12, Schritt 43).",
       "turn": "Die Handlung gelingt trotz Rest, und der Tag ist nicht falsch.",
       "cost": "Die Sicherheit einer vollständigen Null wird aufgegeben.",
       "knowledge": "Er kennt seinen nächsten Schritt, nicht die endgültige Erklärung jeder Welt.",
       "reader": "Das Anfangsmotiv wird bezahlt: offener Rest bedeutet jetzt tragfähige Ordnung. Hier wird der vierte Schritt der Genesis vollzogen, Wir-AEGIS-plural (W12, Entscheidung 025 Schritt 42).",
       "next": "Kap 40 kann den Rahmen öffnen, ohne die Leistung der Figuren zurückzunehmen.",
       "timing": "Ende des vierten Akts; Coda außerhalb der Signposts.",
-      "open": "Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie Storyform B hier endet, hängt an Q8.",
+      "open": "Welche konkrete gemeinsame Handlung spiegelt Kap 1? Den Coda-Ausgang nicht vorweg entscheiden. Wie das plurale AEGIS klingt, ist offen (C14 regelt nur das Ich bis Kap 28).",
       "storypoints": [
         [
           "A",
