@@ -21,6 +21,8 @@ script reads them and writes nothing else into them:
     moments, the alters' appearances as `event` storybeats of A; status `draft`). Proposal-only chapter development
     from `development.json` fills supported Moment fields without changing the structural model or canon. Validate with the author's fork:
     `node tests/validate-file.js` in netzkontrast/narrative-context-protocol.
+  * refuses B's clock in numbers (`clock-b.json`, step 48) unless every reading sits in a chapter the weave gives B,
+    the readings strictly fall, and the last is 0 at the chapter carrying Beat 4; writes them into the overview;
   * notes a treatment paragraph whose chapter the weave gives storyform B but whose events never name AEGIS, its
     ensemble or its waste-heat budget (a B half woven and not told);
   * rewrites one line per paragraph of the treatment's 2b sections (`Manuscript/plot/treatment.md`): the
@@ -394,6 +396,32 @@ DEVELOPMENT_TEXT = ("goal", "opposition", "action", "turn", "cost", "knowledge",
 DEVELOPMENT_LABELS = ("Ziel", "Widerstand", "Handlung", "Wende", "Preis", "Kaels Wissen", "Leserwissen", "Folge", "Zeit", "Offen")
 
 
+def load_clock_b():
+    path = HOME / "clock-b.json"
+    return json.loads(path.read_text()) if path.exists() else None
+
+
+def clock_b_audit(clock, weave):
+    """B's timelock as numbers (decision 025 step 48): one reading per chapter the weave gives storyform B, strictly
+    falling, and zero exactly at the chapter that carries Beat 4. The values are a proposal; the shape is checked."""
+    errors = []
+    if not isinstance(clock, dict) or not isinstance(clock.get("readings"), dict) or not clock.get("provenance"):
+        return ["clock-b: readings and provenance required"]
+    rows = sorted((int(k), v) for k, v in clock["readings"].items())
+    for k, v in rows:
+        if not weave["chapters"].get(str(k), {}).get("B"):
+            errors.append(f"clock-b: Kap {k} — the weave gives storyform B nothing there, so AEGIS cannot read its budget")
+        if not isinstance(v, (int, float)) or not 0 <= v <= 100:
+            errors.append(f"clock-b: Kap {k} — {v!r} is no share of the reserve")
+    for (k1, v1), (k2, v2) in zip(rows, rows[1:]):
+        if not v2 < v1:
+            errors.append(f"clock-b: Kap {k2} reads {v2}, not below Kap {k1}'s {v1} — a timelock only runs down")
+    end = clock.get("exhausted_at")
+    if not rows or rows[-1] != (end, 0):
+        errors.append(f"clock-b: the budget must reach 0 at Kap {end}, its last reading")
+    return errors
+
+
 def load_journeys():
     p = HOME / "journeys.json"
     return json.loads(p.read_text()) if p.exists() else None
@@ -686,6 +714,12 @@ def ncp3(forms, weave, anteile=None, kanon=None, development=None, journeys=None
     payload one story with both narratives and the chapters as story-level moments that reference both; the alters'
     appearances (step 32) as `event` storybeats of A, referenced by the moments of their chapters."""
     parts = {sf["storyform"]: ncp(sf, kanon=kanon)["story"] for sf in forms}
+    clock = load_clock_b()
+    if clock and "B" in parts:
+        for d in parts["B"]["narratives"][0]["subtext"]["dynamics"]:
+            if d["dynamic"] == "story_limit":
+                d["storytelling"] += " Abgelesen (Vorschlag, Schritt 48): " + ", ".join(
+                    f"Kap {k} {v} %" for k, v in sorted((int(k), v) for k, v in clock["readings"].items())) + "."
     for side, lines in (journeys or {}).get("journeys", {}).items():
         for t, js in lines.items():
             for i, x in enumerate(js, 1):
@@ -856,6 +890,10 @@ def run(check_only=False):
     for e in development_audit(development, weave, forms) if development and weave else []:
         print(f"ERROR {e}")
         failed = True
+    clock_b = load_clock_b()
+    for e in clock_b_audit(clock_b, weave) if clock_b and weave else []:
+        print(f"ERROR {e}")
+        failed = True
     journeys = load_journeys()
     for e in journeys_audit(journeys, forms, weave) if journeys and weave else []:
         print(f"ERROR {e}")
@@ -880,6 +918,11 @@ def run(check_only=False):
         text = text.rstrip("\n") + "\n" + "\n".join(weave_table(weave, forms)) + "\n"
     if weave and anteile:
         text = text.rstrip("\n") + "\n" + "\n".join(anteile_table(anteile)) + "\n"
+    if clock_b:
+        rows = sorted((int(k), v) for k, v in clock_b["readings"].items())
+        text = text.rstrip("\n") + "\n\n## Die Uhr von B in Zahlen (Vorschlag)\n\n" + clock_b["provenance"] + "\n\n| Kap | " + \
+            " | ".join(str(k) for k, _ in rows) + " |\n|---|" + "---|" * len(rows) + "\n| " + clock_b["unit"] + " | " + \
+            " | ".join(str(v) for _, v in rows) + " |\n"
     if journeys:
         L = ["", "## Die Journeys (Vorschlag)", "", "Aus `journeys.json` (Entscheidung 025, Schritt 44): der Übergang von "
              "Signpost zu Signpost an den Aktübergängen. Die Richtung folgt aus den Signposts, der Inhalt ist ein Vorschlag.", "",
@@ -1086,6 +1129,18 @@ def selftest():
     found = treatment_notes(silent, weave)
     if not any("Kap 26" in n for n in found) or any("Kap 6" in n for n in found):
         fails.append("treatment: a bridge paragraph without its B half went unnoticed, or a told one was flagged")
+    clock = load_clock_b()
+    if clock_b_audit(clock, weave):
+        fails.append(f"clock-b: the live readings are refused: {clock_b_audit(clock, weave)}")
+    for name, mutate, expect in [
+        ("a rising reading", lambda c: c["readings"].update({"22": 80}), "only runs down"),
+        ("a reading in an A-only chapter", lambda c: c["readings"].update({"1": 70}), "gives storyform B nothing"),
+        ("a budget not spent at Beat 4", lambda c: c["readings"].update({"35": 3}), "must reach 0"),
+    ]:
+        bad = json.loads(json.dumps(clock))
+        mutate(bad)
+        if not any(expect in e for e in clock_b_audit(bad, weave)):
+            fails.append(f"clock-b: {name} was accepted")
     stray = json.loads(json.dumps(dev))
     stray["chapters"]["17"]["storypoints"] = [["A", "Influence Character Concern"]]
     if not any("Kap 17: A-IC Concern" in n for n in development_notes(stray, weave, {sf["storyform"]: sf for sf in forms})):

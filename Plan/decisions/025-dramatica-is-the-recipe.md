@@ -275,6 +275,15 @@ with the consequences of each option laid out.
     left from #170's execution before the act rhythm existed; as step 46 did for Kap 32, they now carry the act
     rhythm's issue and problem (and the benchmark in Kap 17 and 19, the throughline's first chapter of Akt II), and the
     script notes any concern referenced in an act whose signpost is another type.
+48. **The Vortex turn and B's clock in numbers (2026-10-06),** chosen by the author from the session's options after
+    the independent review of Akt II to the Vortex (`Plan/runs/writing/akt-2-vortex/scene-architecture_2026-10-06.md`).
+    **Kap 35:** Oblivion stops erasing because Kael no longer confirms the erasure — the RÜCKFRAGE of Kap 13 turned
+    inward, so A's driver Decision is Kael's own act and Kap 1, 13 and 35 rhyme. **Kap 36:** Juna reconnects, of her own
+    decision and against his cut in Kap 34 — the IC's steadfast resolve as a deed (W0). **B's clock is read as a number
+    in every AEGIS chapter** (`Plan/storyform/clock-b.json`: Kap 0 71 %, 6 64 %, 16 47 %, 22 31 %, 28 9 %, 35 0 %; the
+    values are the session's proposal, the shape the author's), and `storyform.py` refuses readings that rise, sit in a
+    chapter the weave gives B nothing, or do not reach 0 at Beat 4. **Beat 4, the Landauer heat, is Kap 35:** both
+    storyforms turn in the same chapter; Kap 36 carries the silence after it.
 
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
