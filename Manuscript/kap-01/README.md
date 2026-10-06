@@ -266,6 +266,54 @@ Okonjo, Tobi und die Kranichgasse.
   - der Helm;
   - der Abschied ohne Pointe.
 
+## Nachtrag: J — Die Rückfrage (2026-10-05)
+
+**Auftrag:** „Jetzt entwerfe einen neuen draft für Kapitel 1“.
+
+[Entwurf J](entwurf-j-rueckfrage.md) ist der erste Entwurf, der aus dem Treatment geschrieben ist
+(`Manuscript/plot/treatment.md`, 2b, Kap 1). Rückgrat und viele Sätze sind aus G übernommen. Die Änderungen haben
+drei Gründe.
+
+**Was die Entscheidungen seit G verlangen:**
+- **Q7:** Kael ist der Teil, der aus Komponente 734 herausgetrennt wurde. Offen bleibt, was die Zahl in seinem Alltag
+  bezeichnet. J nennt 734 darum gar nicht. Kaels Wohneinheit heißt 0418, Tür an Tür mit 0419. Die Zuordnung zu 734
+  kommt erst mit AEGIS in Kap 6 (Treatment Kap 6).
+- **Kap 12 bleibt der Fund** (Kontinuitätsprüfung 1.1): Kael erkennt in Kap 1 nur das Gerät an seiner Wand, nicht seine
+  eigene Zeile. Er hält den Ausgleich eines Geräts ohne Planeintrag sogar für richtig. Die Rückfrage drückt die linke
+  Hand, nicht er; seine Wahl ist die Rettung.
+- **Die alte Frau** (W10-A, Sidekick, Faith; ihr vorläufiges Want, Schritt 34): „Sie sind spät“, als hätte sie mit ihm
+  gerechnet, und zum Schluss „Sie werden sich an mich erinnern, Kael.“ Ihren Namen erfährt er nicht. Das legt Kap 10 an.
+- **Die Kollegin** (W10-A, Skeptic): Sie sieht seine Fläche an, tippt etwas ein und sagt die Uhrzeit, als er geht.
+  Das legt den offenen Posten in Kap 2 an.
+- **Die Uhr von B:** Das Wort „Abwärmebudget“ steht auf der Konsole (Schritt 43).
+
+**Was die Prüfungen von G gefunden haben:**
+- **Oblivions Spur** (Kontinuitätsprüfung 1.2): Am Morgen fehlen zwölf Minuten, die nur Kael verliert. Er hält den
+  Hörer und steht dann an der Tür, mit geschlossener Jacke, die Schale kalt. Am Abend schaut er auf die Uhrzeit, und es
+  fehlt nichts. Der Stillstand um 16:40 bleibt davon getrennt: „Die Leute gehen weiter, mitten im Schritt. Ich auch.“
+- **Hätte die Frau verschwinden können?** (Panel, zwei von vier): Die Zeile der Bank sagt jetzt
+  `EINSCHL. ANHAFTENDES OHNE EINTRAG`, und Kael weiß nicht, ob die Frau einen Eintrag hat. Darum läuft er.
+- **Die Physik** (Panel, Hard-SF-Leser): Die Summe steht jetzt in der Liste (2,2 × 10²⁹ Bit), und die Liste enthält
+  große Posten (Leerstand, eine Lagerfläche). Die Zeile des Anschlusses ist tausendmal größer: 618 MJ, fast zwei Tonnen
+  Wasser zum Kochen. Das reicht, um einen ganzen Sektor messbar vorzukühlen. Die Bank ist jetzt sieben Milliarden mal
+  kleiner, und die Zahl kommt im Text zurück: „Sieben Milliarden Bänke.“
+- **Die Tür:** Statt einer Tür, die einfach aufgeht, vermerkt das Tor seinen vorzeitigen Ausgang. Den bestätigt Kael
+  selbst. Das ist der erste Preis, den er selbst zahlt.
+- **Kleinigkeiten:** „bis sie sich nicht mehr ändern kann“ ist ersetzt; die Jacke wird ausgezogen, bevor sie wieder
+  angezogen wird; der Mann aus 0419 wohnt neben Kael, und durch die Wand ist nie etwas gekommen.
+
+**Was J bewusst stehen lässt, als Frage an dich:**
+- Silas' Halbsatz im Präteritum. Alle vier Leser stolperten dort, keiner ist ausgestiegen. J behandelt ihn als
+  gestalteten Riss.
+- Die Knöchel ohne Wunde als Keim für Kap 12 (Kontinuitätsprüfung 2.1).
+- Die zweite Vorkühlung am Abend als Folge der Rückfrage (Kontinuitätsprüfung 2.2).
+
+**Neu und in keiner Quelle belegt:** die Wohneinheit 0418, die zwölf Minuten am Morgen, „Anhaftendes ohne Eintrag“,
+der vermerkte Ausgang, die beiden Sätze der alten Frau, die Lagerfläche 04-B und der Leerstand 0402.
+
+**Nicht gelesen:** J hat noch kein Leser gesehen. Ein `beta-reader-panel` auf G und J nebeneinander würde zeigen, ob
+die Änderungen tragen.
+
 ## Was als Nächstes laufen kann
 
 Sobald du eine Fassung als Material ansehen willst, gibt es drei Möglichkeiten:
