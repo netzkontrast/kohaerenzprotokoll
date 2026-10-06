@@ -174,3 +174,11 @@ Stands as a physical reality of the reader, Köln 2026, reached by export and no
 The line continues that they exist outside this system, and that AEGIS cannot delete Juna because she does not exist in its ontological programming language. It is the assistant's Gödel metaphor, proposed to the author, and the line uses `Externe Ebene` while L117 writes „der Externen Ebene“ ^[plot-analyse-und-romanentwicklung.md:L117] for the origin of the j-function.
 
 Stands as beyond AEGIS's formal system, not named a simulation's outside; recorded, not applied, and the record is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report asks, and does not answer, whether the Externe Ebene is the real world of the therapists or a further simulation level.**
+
+It is the report's first closing question to the concept: „Wie genau manifestiert sich die“ ^[romananalyse-kohaerenz-plot-kritik.md:L168] Externe Ebene, „zu der Juna gehört“ ^[romananalyse-kohaerenz-plot-kritik.md:L168]. The alternative it offers: „Welt der Therapeuten, oder eine weitere, übergeordnete Simulationsebene?“ ^[romananalyse-kohaerenz-plot-kritik.md:L168]. The report counts the question among those that „geklärt werden müssen“ ^[romananalyse-kohaerenz-plot-kritik.md:L166] for the plot to be finalised. It names neither Köln nor `Basisrealität`.
+
+Stands on neither side: a question put to the concept in a document of 2026-02-23, recorded, not applied, and the record's rows are not changed.
