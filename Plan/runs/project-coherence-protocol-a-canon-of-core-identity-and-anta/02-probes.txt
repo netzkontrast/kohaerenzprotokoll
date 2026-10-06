@@ -1,0 +1,40 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      60
+  typographic marks      5
+  ascii quotes           48
+
+# inflection families -- one term, several surfaces
+  aegis    AEGIS, Aegis
+  archi    Archipel, Architecture
+  canon    Canon, Canonization
+  coher    Coherence, Coherent
+  disso    Dissociation, Dissociative
+  funct    Function, Functional
+  guard    Guardian, Guardians
+  kernw    Kernwelt, Kernwelten
+  logos    LogOS, Logos
+  poten    Potential, Potentialis
+  prote    Protection, Protector
+  sexua    Sexualization, Sexualized
+  struc    Structural, Structure
+  tragi    Tragic, Tragically
+  trans    Transcendence, Transformation
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  AEGIS < Aegis
+  Canon < Canonization
+  LogOS < Logos
+  Logic < Psychological
+  World < Worlds
+  Action < Faction
+  Action < Interaction
+  Tragic < Tragically
+  Function < Functional
+  Guardian < Guardians
+  Kernwelt < Kernwelten
+  Cognitive < Metacognitive
+  Potential < Potentialis

@@ -1,0 +1,248 @@
+{
+  "document": "project-coherence-protocol-a-canon-of-core-identity-and-anta",
+  "drive_id": "1XiM2Pxt5evJ0T_JGfMiOp9FK3fAPsNCYhhygt06fbpQ",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 63,
+    "decisions": 82,
+    "decided_by_lookup": 47,
+    "needs_judgement": 35
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        54,
+        58,
+        62,
+        66
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic antagonist, origin, directive and fate (as the decree claims)"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        36
+      ],
+      "attribution": "",
+      "note": "Alex in the roster"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "Argus in the roster"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "Cerberus as Guardian of the third Core World"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "The Genesis-Krise as AEGIS's claimed origin"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        72,
+        76,
+        90
+      ],
+      "attribution": "",
+      "note": "Guardians, not monolithic, and the Wächter-Zwiespalt (as claimed)"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "Isabelle in the roster"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        58,
+        62
+      ],
+      "attribution": "",
+      "note": "Juna/V in the Genesis-Krise"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        23,
+        27,
+        34,
+        48
+      ],
+      "attribution": "",
+      "note": "Kael as the male host, canonized (as the decree claims)"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        86
+      ],
+      "attribution": "",
+      "note": "Kairos in the fourth Core World"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        76,
+        83,
+        84,
+        85,
+        86
+      ],
+      "attribution": "",
+      "note": "Four Core Worlds, claimed canonical"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "Kiko in the roster"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "Lex in the roster"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "Lia in the roster"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        82,
+        83
+      ],
+      "attribution": "",
+      "note": "LogOS as Guardian of the first Core World"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Guardian of the second Core World"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "Moros in the roster"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "Nyx in the roster"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "Rhys in the roster"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "Selene in the roster"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        86
+      ],
+      "attribution": "",
+      "note": "Sophia in the fourth Core World"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "TSDP as Kael's canonical architecture"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C17"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 58,
+      "decision": "reading",
+      "why": "Juna/V the transcendent entity of the Genesis-Krise — a reading on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
