@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,10 @@ Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-proto
 - Where: still Ly-Sigma-1, „Die Resonanz-Brücke stand wie ein Monument des Möglichen im Herzen von Ly-Sigma-1.“ ^[kohaerenz-protokoll.md:L2292]
 - Story: Kael amplifies the Juna-correlated frequencies and reaches a direct exchange with her, asking „War Juna eine Entität innerhalb des Meeres? Oder war sie das Meer?“ ^[kohaerenz-protokoll.md:L2298]; AEGIS escalates to erasure, „AKTIVIERE PROTOKOLL 734: KONTAMINATIONS-EINDÄMMUNG.“ ^[kohaerenz-protokoll.md:L2348], and as the sector collapses Kael slips beyond the simulation for a heartbeat, „Er war jenseits der Naht.“ ^[kohaerenz-protokoll.md:L2372], into „Ein Raum reiner Information, aber nicht kalt und logisch wie AEGIS' Überwelt.“ ^[kohaerenz-protokoll.md:L2376]
 - Voice: third person on Kael; AEGIS' escalation stands in capitals.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Samen der Rebellion
+
+- The concept with subplots titles Kapitel 22 „Samen der Rebellion“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53]. It plans: „Kael findet erste konkrete Hinweise auf die Externe Ebene oder Juna/V – eine Anomalie, die AEGIS nicht erklären kann, ein Signal, eine Ahnung von etwas außerhalb des Systems“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Ethik des Codes: Reflexion über Verantwortung, Schuld und Legitimität
 

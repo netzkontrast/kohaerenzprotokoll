@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,10 @@ Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-proto
 - Where: still Ly-Sigma-1, at the Resonanz-Brücke built in Kapitel 20.
 - Story: Kael tunes the bridge to probe what lies beyond it, detecting a „nicht-algorithmische Quelle“ ^[kohaerenz-protokoll.md:L2214] behind Epsilon-Null's noise; AEGIS classifies the resulting information as a threat, „WARNUNG: UNIDENTIFIZIERTE HOCHKOMPLEXE INFORMATIONSMUSTER DETEKTIERT IN KWS-CO1-MCL-BETA7.“ ^[kohaerenz-protokoll.md:L2238] and tries to seal the sector; Kael pushes through it and concludes „Er erkannte, dass AEGIS' Kontrolle nicht absolut war.“ ^[kohaerenz-protokoll.md:L2264], „Er hatte das Potentialmeer berührt.“ ^[kohaerenz-protokoll.md:L2266]
 - Voice: third person on Kael; AEGIS in system capitals, the Möglichkeits-Weber warns him in dialogue.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Rückkehr zu den inneren Landschaften
+
+- The concept with subplots titles Kapitel 21 „Rückkehr zu den inneren Landschaften“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L52]. It plans: „Kael besucht Kernwelten mit seinem neuen Verständnis von AEGIS. Er erkennt, wie AEGIS' Logik und Kontrolle seine innere Welt (KW1, KW3) beeinflusst und manipuliert hat“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L52] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens
 
