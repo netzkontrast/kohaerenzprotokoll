@@ -1,0 +1,139 @@
+{
+  "document": "project-codex-the-canonical-narrative-architecture-of-kohaer",
+  "drive_id": "1ZuFFStHi0ckA4kxreMIL3qwZ4sSHsBNmlQmytbWC2ck",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-05, from the full-ingest task with no count before the list; read after document 104 from the queue re-ranked after document 101; a light pass, being the same codex as document 96 rearranged; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-105/brief.md, on aegis, potentialmeer, moonshine-link, kairos, kael, C17, C3 and Q9",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 104,
+    "decisions": 112,
+    "decided_by_lookup": 81,
+    "needs_judgement": 31
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: the same codex as document 96 rearranged, in English; its new surfaces are the codex's vocabulary placed by the sentence (J100–J102) or left unpromoted as in reconciliation 96.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        27,
+        28,
+        62,
+        63,
+        64,
+        65,
+        167
+      ],
+      "attribution": "",
+      "note": "the tragic antagonist, origin from `Ich-Fragmenten` in the `Potentialmeer`, logical self-harm"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        71,
+        72,
+        74,
+        146,
+        151
+      ],
+      "attribution": "",
+      "note": "the male host, failed ANP control in Act II, living Gödel-Satz"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        131
+      ],
+      "attribution": "",
+      "note": "KW4 as the domain of Juna/V"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        101,
+        146
+      ],
+      "attribution": "",
+      "note": "entanglement and prehension, and the Act II erosion"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        46,
+        64
+      ],
+      "attribution": "",
+      "note": "the chaotic source of AEGIS"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C3",
+    "C17"
+  ],
+  "questions_changed": [
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "as for document 96 — J100–J102 (English names placed by the sentence: Ich-Fragmenten, Potentialmeer, Moonshine-Link, Guardian's Dilemma, Core Worlds), J9 (the title), J34 (Juna/V, Kairos/Sophia), J49 (worlds named for their Guardians: Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis), J56 and J23 (plurals: Risse, Coherons)",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 76,
+      "decision": "reading",
+      "why": "light pass: the same text as document 96, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 95,
+      "decision": "reading",
+      "why": "light pass: the same text as document 96, whose reading on this page holds the same"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 131,
+      "decision": "reading",
+      "why": "KW4 as the Domain of Juna/V; read on kairos"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 131,
+      "decision": "reading",
+      "why": "light pass: the same text as document 96, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "everything document 97 left unpromoted, again — its role labels, TSDP vocabulary, Fundament and borrowed concepts (see reconciliation 97)",
+    "everything document 96 left unpromoted, again (see reconciliation 96)",
+    "prehension — Whitehead's concept the Moonshine-Link synthesises (L101); on moonshine-link"
+  ],
+  "internal_tension": "none read; the chapter blocks keep document 97's hedges",
+  "baseline_moved": "graphrag.py bench: seeds recall@8 0.530, ppr 0.681 over 25 cases — unchanged by this document's readings"
+}

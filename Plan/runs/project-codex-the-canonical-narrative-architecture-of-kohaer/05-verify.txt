@@ -1,0 +1,52 @@
+$ read.py --count "canonical"
+whole word, case-sensitive     8
+whole word, case-insensitive   13
+including compounds            8
+
+`canonical` ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:#8]
+$ read.py --count "Canonical"
+whole word, case-sensitive     5
+whole word, case-insensitive   13
+including compounds            5
+
+`Canonical` ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:#5]
+$ read.py --count "hereby established"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`hereby established` ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:#1]
+$ read.py --count "ground truth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ground truth` ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:#1]
+$ read.py --count "Whitehead"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Whitehead` ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:#1]
+$ read.py --count "canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            8
+
+`canon` ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:#0]
+$ read.py --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:#2]
+$ read.py --count "Selene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selene` ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:#1]
+stance_marker_count 15 = 8+5+1+1 (case-sensitive canonical, Canonical, hereby established, ground truth)
+table rows of the alter table: L83-L93 = 11 rows
+$ sed -n 83,93p Sources/drive/project-codex-the-canonical-narrative-architecture-of-kohaer.md | grep -c "^| "
+11

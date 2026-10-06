@@ -157,10 +157,11 @@
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "project-codex-the-canonical-narrative-architecture-of-kohaer"
       ],
-      "sources": 93,
-      "readings": 93,
+      "sources": 94,
+      "readings": 94,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -1719,10 +1720,11 @@
         "roman-outline-transformation-in-keyword-tags",
         "kohaerenz-protokoll-gesamtkonzept-entwicklung",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "project-codex-the-canonical-narrative-architecture-of-kohaer"
       ],
-      "sources": 90,
-      "readings": 90,
+      "sources": 91,
+      "readings": 91,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -1798,10 +1800,11 @@
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "project-codex-the-canonical-narrative-architecture-of-kohaer"
       ],
-      "sources": 38,
-      "readings": 38,
+      "sources": 39,
+      "readings": 39,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -2683,10 +2686,11 @@
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "project-codex-the-canonical-narrative-architecture-of-kohaer"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "none"
     },
     "moros": {
@@ -3267,10 +3271,11 @@
         "roman-entwicklung-kohaerenz-protokoll-json",
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "project-codex-the-canonical-narrative-architecture-of-kohaer"
       ],
-      "sources": 32,
-      "readings": 33,
+      "sources": 33,
+      "readings": 34,
       "conflict": "none yet"
     },
     "protokoll-v14": {
