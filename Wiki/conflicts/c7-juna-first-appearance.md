@@ -407,3 +407,11 @@ Stands as a plan with a hint in Chapter 11 and a first contact in Chapter 19, ne
 In the first beat (Kapitel 1-2) the IC line says Juna/V „wird subtil durch“ ^[finales-kausales-plot-geruest.md:L34] hints indicated, among them „Echos der Vergangenheit & des Fehlens“ ^[finales-kausales-plot-geruest.md:L34], which anticipates her role as an external source of connection. In Kapitel 10-12 her echoes are „werden deutlicher und dienen als“ ^[finales-kausales-plot-geruest.md:L86] the helper trope the line names; in Kapitel 13 her search „intensiviert sich“ ^[finales-kausales-plot-geruest.md:L99]. The beat sheet writes her as an influence on Kael throughout, and names no beat where she appears in person in the lines read.
 
 Stands as a hint from Kapitel 1-2 through echoes, with no scene of her presence; recorded, not applied, and it predates and does not touch the author's decision of 2026-10-05 (first direct encounter in Kap 32).
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis places the first meeting with Juna in Kapitel 3 and has the system classify it as a „Syntaxfehler“ ^[romanprojekt-analyse-synthese.md:L50].**
+
+The line is in its account of Phase I: „Die erste Begegnung mit Juna in Kapitel 3 wird vom System“ ^[romanprojekt-analyse-synthese.md:L50] so classified, and the conflict it shows is that AEGIS (LogOS) cannot „sehen“ ^[romanprojekt-analyse-synthese.md:L50] her, because she lies outside the axiomatic basis of the kernel (the kernel symbol was lost in the export). The same paragraph puts the first collapse in Kapitel 13.
+
+Stands as an encounter in Kapitel 3, in a synthesis of 2026-04-30 that reports a Struktur-Kanon; recorded, not applied.
