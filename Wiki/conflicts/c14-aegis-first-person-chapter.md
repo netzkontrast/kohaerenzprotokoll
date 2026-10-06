@@ -269,3 +269,11 @@ What the `Ich` may know, and how it sounds, is not decided here (W7, W3).
 The strategy field of Chapter P reads „Erzählt aus einer distanzierten, fast mythischen Perspektive“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47], to establish the cosmic dimension. The field does not name an `Ich` of AEGIS or an inside view; it says that the plan shows AEGIS's emergence „sondern als verzweifelten Versuch der Ordnungsschaffung aus Angst“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47], from outside, as myth.
 
 Where it stands in the record's own terms: Chapter P is planned in a distant mythic perspective; the document gives no first-person chapter for AEGIS in these lines; recorded, not applied.
+
+## 2026-10-06 — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework
+
+**The plot framework plans AEGIS-told stories and chapters as logs and as a core logic's point of view, and says nothing of a first person.**
+
+Its logs: Story 3 has „An AEGIS System Log.“ ^[plot-generation-framework-for-the-coherence-protocol.md:L36] as POV. Its core logic: Story 14 has „Component 734 (AEGIS Core Logic).“ ^[plot-generation-framework-for-the-coherence-protocol.md:L96] and Chapter 14 plans „Shift the POV to AEGIS's core logic (Component 734) as it observes Kael's new integration“ ^[plot-generation-framework-for-the-coherence-protocol.md:L255]. The document, dated 2025-11-03, does not write the grammatical person.
+
+Where it stands: a proposal recorded before the author's decision of 2026-10-05; the record's status is unchanged.
