@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik"]
 gathered: "2026-09-24"
 ---
 
@@ -38,6 +38,10 @@ The master blueprint plans in Kap 11 that Kael searches „in gelöschten Speich
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the finale as a possible triumph of the Mosaik-Herz
 
 In the Leitfragen report the term occurs once, in a question about the tone of the finale: is it „ein Triumph des“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L155] `Mosaik-Herzens` that gains autonomy, or the tragic Sisyphus insight that healing makes destruction and restart of the system unavoidable? The report poses the two as alternatives and decides neither; the term is not explained.
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — a metaphor for a coherence that bears contradictions
+
+The report's summary of the arc: the `Mosaik-Herz` becomes the metaphor for „eine neue, residierende Kohärenz, die Widersprüche aushält, statt sie zu glätten“ ^[romananalyse-kohaerenz-plot-kritik.md:L91], reached through accepting fragmentation as the starting point. It gives no chapter for it.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Mosaik-Herz as the title of Kap 39 and what Kael injects in Kap 34
 
@@ -101,6 +105,7 @@ beat before the [[vortex|Vortex]] in Kap 34; the document does not say whether t
 ## Where the sources differ
 
 - `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01: the Mosaik-Herz is the guiding paradigm of Phase III, a psychological and structural construct that refuses to fuse the parts into one identity; it places the phase in an arc, not in a chapter (`Kapitel` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0]).
+- The report of 2026-02-23 uses the Mosaik-Herz as a metaphor for a new coherence, and names no chapter or place for it.
 
 ## Open
 
