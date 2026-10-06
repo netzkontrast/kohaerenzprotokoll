@@ -622,3 +622,13 @@ On the worlds, the architecture analysis says: „The four Kernwelten are simula
 On the alters, its table lists, in order, Kael (Host), Selene, Nyx, Kiko, Lia, Isabelle, Moros, Lex, Alex, Rhys and Argus: 11 rows (L492–L502), the first typed „Primary ANP“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L492] and the last „Emergent ANP“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L502]. The scene outline plans scenes in which several alters act in one world, such as Alex and Nyx in the fortress world: „Here, the protector alters Alex and Nyx are dominant, viewing everything with suspicion.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L97]
 
 Stands: four worlds and eleven alter rows, both as the document writes them; the table does not pair a world with an alter, and nothing here decides the question.
+
+## 2026-10-06 — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan
+
+**The architecture plan names its parts by function and sets four Kernwelten, without stating a count of alters or a rule that one world is one part.**
+
+For the parts it writes in Kapitel 1 of Kael as „Kael (Host)“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L68], with „Argus (Beobachter/Kritiker)“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L67] and „Der logikorientierte Anteil Lex“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L68]. Kapitel 3 and 4 add the protector Alex and the care part Rhys (L95, L109). Kapitel 6 names the Emotional Parts with functions: „Kiko [Angst/Freeze]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L137], „Nyx [Kampf]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L137] and „Lia [Ambivalenz]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L137]. Kapitel 31 names „Moros [Kollaps]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L495] and „Isabelle [Kontrolle]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L495], and Kapitel 18 lists Nyx, Kiko, Lia, Isabelle and Moros together (L310). A further figure only emerges: „die aufkommende Selene/Selbst-Figur“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L310].
+
+For the worlds the Gesamtfokus of Teil 1 says „Die Kernwelten werden als Spiegel der inneren Psyche und gleichzeitig als Domänen von AEGIS eingeführt“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L59], and the chapters number KW1 to KW4: Konstrukt-Stadt (Kapitel 2), Resonanz-Landschaft (Kapitel 5), Grenzfeste (Kapitel 9), Möglichkeits-Garten (Kapitel 17). The plan pairs worlds with Guardians (LogOS, Mnemosyne with a question mark, Cerberus, Kairos und/oder Sophia), not with parts.
+
+Stands: the plan's roster is ten named parts plus the emerging Selene/Selbst figure, and four worlds; it states neither that four is all, nor a correspondence of world to part, so the question stays open.
