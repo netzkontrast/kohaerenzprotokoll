@@ -1,0 +1,385 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-outline-generierung",
+  "drive_id": "12EsKheAUgyUOKoJHsLKZ0-2aRd5CyQWvzlTzL22ETxs",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 133,
+    "decisions": 136,
+    "decided_by_lookup": 110,
+    "needs_judgement": 26
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        26,
+        845,
+        1167,
+        1360,
+        1409,
+        1582,
+        1603
+      ],
+      "attribution": "",
+      "note": "AEGIS as storyform B's Universe throughline, operatively K0 and believing itself K1, and after the Vortex „tief in sich gekehrt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1409]"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        42,
+        169,
+        181,
+        623,
+        767
+      ],
+      "attribution": "",
+      "note": "Alex as Protector (ANP) who takes the body into alarm"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        849,
+        1360,
+        1409
+      ],
+      "attribution": "",
+      "note": "AEGIS's state after the Vortex"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        1576
+      ],
+      "attribution": "",
+      "note": "listed as discarded"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        731,
+        845
+      ],
+      "attribution": "",
+      "note": "entropy as what resistance produces, and what AEGIS produces as K0"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        17,
+        129,
+        137,
+        281,
+        1167,
+        1239,
+        1575,
+        1604
+      ],
+      "attribution": "",
+      "note": "Juna as a silence Kael names, a Gödel property and the Influence Character of both storyforms"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        17,
+        26,
+        29,
+        40,
+        767,
+        1479
+      ],
+      "attribution": "",
+      "note": "Kael as host, MC of storyform A and IC of storyform B"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        1576
+      ],
+      "attribution": "",
+      "note": "listed as discarded"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        767
+      ],
+      "attribution": "",
+      "note": "Kael presents himself to AEGIS as Komponente 734"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        51,
+        1409
+      ],
+      "attribution": "",
+      "note": "a flawless hard-SF-horror scenario, soft after the Vortex"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        41,
+        545,
+        695,
+        911,
+        1590
+      ],
+      "attribution": "",
+      "note": "Lex as Rationalist (ANP), taking control in the analysis chapters"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        201,
+        205,
+        1023,
+        1409,
+        1576
+      ],
+      "attribution": "",
+      "note": "a Wächter-Entität that isolates instead of erasing, and a pantheon reduced to Mnemosyne and the Lösch-Pol"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        31,
+        209,
+        659,
+        1065
+      ],
+      "attribution": "",
+      "note": "the Relationship Story throughline of storyform A, carried by Silas"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        47,
+        323,
+        537,
+        771,
+        1479
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the Wir-Geflecht's end state and a weapon"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        46,
+        355,
+        359,
+        731,
+        1101
+      ],
+      "attribution": "",
+      "note": "Oblivion as AEGIS-Echo (EP), tempter and then rebel"
+    },
+    {
+      "page": "ouroboros-struktur",
+      "lines": [
+        1475,
+        1479,
+        1574
+      ],
+      "attribution": "",
+      "note": "the structure cited against a discarded fusion, and an Ouroboros ending"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        43,
+        427,
+        731,
+        809
+      ],
+      "attribution": "",
+      "note": "Rhys as Caregiver, labelled EP here"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        545
+      ],
+      "attribution": "",
+      "note": "thermal cracks read as the system's exhaust"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        169,
+        355,
+        809,
+        941
+      ],
+      "attribution": "",
+      "note": "Sektor 04 as the district of Kael's work and of the sweeps"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        44,
+        319,
+        623,
+        767
+      ],
+      "attribution": "",
+      "note": "Selene as Internal Self Helper (EP) and mediator"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        45,
+        209,
+        659,
+        695,
+        911
+      ],
+      "attribution": "",
+      "note": "Silas as Juna-Echo (EP) and carrier of the Moonshine-Link"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        1576
+      ],
+      "attribution": "",
+      "note": "listed as discarded"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        133,
+        1360
+      ],
+      "attribution": "",
+      "note": "an antiquated terminal in Kapitel 3, silence through the system in Kapitel 36"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        689,
+        691,
+        695,
+        1203,
+        1599
+      ],
+      "attribution": "",
+      "note": "Kapitel 18 and the Trennungsprotokoll as the original trauma"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        849,
+        1101,
+        1360
+      ],
+      "attribution": "",
+      "note": "prepared in Kapitel 22, an inner rotation in Kapitel 29, enacted in Kapitel 36"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        35,
+        39,
+        40,
+        45,
+        253
+      ],
+      "attribution": "",
+      "note": "the 13-alter system named TSDP, with a TSDP-Funktion column"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        245,
+        1015,
+        1307,
+        1354,
+        1356,
+        1591
+      ],
+      "attribution": "",
+      "note": "two chapters, Kapitel 35 and 36, with five beats and a heat-spike prepared in Kapitel 6"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C7",
+    "C11"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
