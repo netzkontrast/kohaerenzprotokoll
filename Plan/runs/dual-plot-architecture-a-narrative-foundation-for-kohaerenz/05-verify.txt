@@ -1,0 +1,85 @@
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Thesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Thesis` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#1]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Antithesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Antithesis` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#1]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Synthesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Synthesis` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#1]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "functional multiplicity"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`functional multiplicity` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#5]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Selene"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Selene` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#2]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Impact Character"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Impact Character` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#1]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "algorithmic horror"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`algorithmic horror` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#1]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Kael (ANP - Host)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael (ANP - Host)` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#1]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Guardians"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Guardians` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#3]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Guardian"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Guardian` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#5]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Core Worlds"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Core Worlds` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#2]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#3]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "Kael-Juna"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael-Juna` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#2]
+$ python3 scripts/read.py dual-plot-architecture-a-narrative-foundation-for-kohaerenz --count "P vs. NP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`P vs. NP` ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:#1]
+profile: question marks 0, table rows 12, backslash escapes 36, glued ref numbers 9 (01-profile.txt); census candidates 89 (04-counts.txt)
