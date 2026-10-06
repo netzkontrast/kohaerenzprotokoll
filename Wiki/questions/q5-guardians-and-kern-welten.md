@@ -473,3 +473,11 @@ Stands: three Guardians placed in three worlds and a numbered Guardian without a
 In Kapitel 2 it names „dem AEGIS-Guardian dieser Domäne“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L81] of the Konstrukt-Stadt, LogOS. In Kapitel 9 the Grenzfeste is „Cerberus, dem AEGIS-Guardian, der für Sicherheit, Abgrenzung und die Abwehr“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L179]. For the second Kernwelt Kapitel 5 writes, hedged, „vielleicht die Domäne von Mnemosyne, der Wächterin der Erinnerung“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L123], with a question mark. For the fourth, Kapitel 17 has Kael meet Guardians „Kairos (richtiger Zeitpunkt, Gelegenheit)“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L295] „und/oder Sophia“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L295]. The plan names four Kernwelten in this scheme and does not assign an Erasure-Pol.
 
 Stands: five Guardians over four worlds, the second by a question and the fourth by `und/oder`, as the plan proposes; nothing decided, nothing applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper
+
+**The truth-duality paper, a strategy report, pairs each of four Kernwelten with one Wächter and one act in its proposed plot; the pairs are its own proposal.**
+
+It writes „Die vier Kernwelten (KWs)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L235] and lists them: KW1 `Logos-Prime`, Wächter LogOS, Act 1; KW2 `Mnemosyne-Archipel`, Wächter Mnemosyne, Act 2; KW3 `Grenzfeste`, Wächter Cerberus, Act 2; KW4 `Möglichkeits-Garten`, Wächter Kairos/Sophia, Act 3 (preparation). The pair for KW4 reads „(Kreativität, Integration).“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L240] and then the two names, joined by a slash. The world of KW3 is „gegen die Wahrheit (Phobien, Paranoia).“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L239] defence. The paper reports the worlds from another document (a glued reference digit) and does not mention an Erasure-Pol.
+
+Stands: a proposal of 2025-11-18 with four world-Wächter pairs and Kairos/Sophia sharing KW4, using the world names `Logos-Prime`, `Mnemosyne-Archipel`, `Grenzfeste` and `Möglichkeits-Garten`; it predates the author's answers and changes neither the record nor the question.
