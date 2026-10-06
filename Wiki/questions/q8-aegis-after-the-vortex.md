@@ -252,7 +252,7 @@ Stands: AEGIS's state at the end is not addressed; the report asks only about to
 Asked what AEGIS is after the Vortex, with the answers the sources offer (a living relic, extinguished, plural, a
 receiver), the author chose the reading of the consolidated concept: „AEGIS-monolithisch erlischt; AEGIS-plural
 entsteht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L265] It happens in Kap 39, with the fourth
-beat of the Genesis (W12), and storyform B runs until then, not only to the Vortex's fifth beat. **This answers the
+beat of the [[genesis|Genesis]] (W12), and storyform B runs until then, not only to the Vortex's fifth beat. **This answers the
 first half.** Whether Oblivion takes over AEGIS' function inside Kael, choosing instead of erasing, the author left
 open; so does the question's status.
 
@@ -263,3 +263,10 @@ that names his role gives: „Empfehlung: Oblivion übernimmt als interne Wachhe
 ^[dual-storyform-hintergruende-md.md:L428] **With the first half (above), Q8 is answered**: outside, the monolithic
 AEGIS goes out and becomes plural in Kap 39; inside, Oblivion keeps the function of forgetting, but as a choice.
 
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet gives AEGIS a collapse or destabilisation at the midpoint, a logical collapse in Kapitel 33-35 and a tragic fate; it writes no Vortex.**
+
+At the midpoint (Beat 2.4, Kapitel 25-26) the OS line has AEGIS' control attempt backfire: „der nach hinten losgeht und zu seinem“ ^[finales-kausales-plot-geruest.md:L153] collapse or destabilisation. In Kapitel 33-35 (Beat 3.3) the beat sheet lets Kael confront AEGIS' core logic, which leads to the „logischen Kollaps“ ^[finales-kausales-plot-geruest.md:L190], and speaks of „dessen Selbstzerstörung oder erzwungene Transformation auszulösen“ ^[finales-kausales-plot-geruest.md:L191]. In Kapitel 36-37: „Während AEGIS zusammenbricht oder transformiert wird, wird sein Scheitern mit der emergenten Kohärenz kontrastiert“ ^[finales-kausales-plot-geruest.md:L209]. After the climax the OS line speaks of AEGIS' „tragisches Schicksal“ ^[finales-kausales-plot-geruest.md:L222]. The word `Vortex` ^[finales-kausales-plot-geruest.md:#0] is not in the beat sheet, and the lines do not say whether AEGIS survives, is extinguished or becomes plural; the or stands in the document.
+
+Stands as collapse or transformation, undecided, in a beat sheet of 2025-07-29 that has no Vortex; it predates and does not touch the author's answers of 2026-10-05 above, which stand.
