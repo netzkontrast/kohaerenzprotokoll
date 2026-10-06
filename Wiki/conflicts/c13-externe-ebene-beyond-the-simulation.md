@@ -238,3 +238,11 @@ Stands with the Externe Ebene beyond the simulation, dated 2025-11-03; recorded,
 The definition: „Eine Realität, die vollständig außerhalb des AEGIS-Kontrollsystems existiert“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L183], and „Ihre genaue Natur ist unbekannt“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L183]; AEGIS „AEGIS hat hier mutmaßlich keine Kontrolle und möglicherweise nicht einmal Sensorik“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L206]. Kael might find there „einen Weg zur endgültigen Befreiung aus der Simulation“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L210] (L210), and „Dies ist Junas Herkunftsort, ihre Domäne oder die Quelle ihrer Fähigkeiten“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L210].
 
 Stands as a position that the Externe Ebene lies beyond the simulation's control system, dated 2025-04-18, in the conditional.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint
+
+**The plot blueprint writes Julia (Juna) as no active agent inside the simulation and places the K-J-Essenz in the [[potentialmeer|Potentialmeer]] beyond AEGIS's logic.**
+
+Its answer: „Julia (Juna) ist keine aktive Agentin“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42] inside the simulation, her influence the „passive Konsequenz ihrer ontologischen Verbindung zu Kael“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42]. The K-J-Essenz is „potenziell im Potentialmeer angesiedelt, jenseits der linearen Logik von AEGIS“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L34]. Another answer says coherence needs „Verbindung nach außen (Juna/Externe Ebene) erfordert“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L101].
+
+Stands: a plan that keeps Juna outside AEGIS's logic, as one document's planning; nothing decided for the record.
