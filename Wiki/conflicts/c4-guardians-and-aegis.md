@@ -390,3 +390,11 @@ Stands as one document with both bearers, the Guardians placed under AEGIS and s
 It reports that two sources „primarily describe the Guardians as monolithic“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L115] enforcers, and two others introduce the `Wächter-Zwiespalt` with rebels who ally with Kael. Its verdict: „A decision must be made whether they are unthinking extensions of AEGIS“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L115] or have agency. It recommends: „It is recommended to officially incorporate the“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L128] `Wächter-Zwiespalt`.
 
 Stands as a report of other documents plus a recommendation, recorded, not applied; the record's own question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept gives Julia's link and the Externe Ebene as invisible to AEGIS and the Guardians together, naming no separate bearers of the blind spot.**
+
+On Julia: her link to Michael is „für das AEGIS-System und die Guardians unsichtbar/unverständlich“ ^[kohaerenz-protokoll-2.md:L65]. On the Externe Ebene: „Sie ist für AEGIS/Guardians unzugänglich und unverständlich.“ ^[kohaerenz-protokoll-2.md:L83] The Teil 3 sketch says „Erkenntnis: Julia/Externe Ebene ist der Schlüssel, unsichtbar für AEGIS.“ ^[kohaerenz-protokoll-2.md:L122]
+
+Stands: a row for the record's positions (AEGIS and the Guardians named together); it neither composes nor separates the two bearers.
