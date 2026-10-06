@@ -172,3 +172,11 @@ Where it stands in the record's own terms: the AEGIS-side origin of the previous
 The report cites two layers (its sources 11 and 9), not a position of its own. Of the early drafts: „wird in frühen Entwürfen die reale Welt etabliert“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L115], with „Dr. Aris Thorne ist ein geächteter Computerphysiker“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L115]. Of the developing model: „Kael ist der Protagonist, ein fragmentiertes System (TSDP) innerhalb der Simulation von AEGIS“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117]. Its question: „Ist Kael ein simulierter Avatar, ein psychologisches Konstrukt oder ein Sub-Prozess von Dr. Aris Thorne?“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L119]. It then asks whether the lab accident equals the reboot „den AEGIS im Vorwort initiiert, weil das“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L119] Nichts Rauschen broke in. It says nothing here of an external entity M or of Komponente 734.
 
 Stands as a new question set beside the record's origins: Kael as an avatar, a construct or a sub-process of a physicist of the early drafts; recorded, not applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-gesamtkonzept-entwicklung`, 2025-05-04, the Gesamtkonzept of 2025-05-04
+
+**The Gesamtkonzept plans Kael's origin in the Prolog as AEGIS' fragmentation of a „Echo“, and foreshadows Juna/V as an external trigger.**
+
+The Prolog block plans AEGIS' birth to embed the „Fehlausgerichtete Kohärenz“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L47] at once, „(Kaels Vorläufer) als grundlegenden Kontrollakt fragmentiert“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L47]. Its strategy line: „Kaels Ursprung ist gewaltsame Fragmentierung“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L48], and „Foreshadowing Juna/V als externer Auslöser“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L48].
+
+Stands with the inside origin of the second telling, Kael as what AEGIS' own act of fragmenting leaves, with Juna/V as an outside trigger added; a plan, recorded, not applied.
