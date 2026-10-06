@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 41
-readings: 41
+sources: 42
+readings: 42
 conflict: C11
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-narrative-architektur-2", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-narrativer-bauplan", "detaillierte-kapiteluebersicht"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-narrative-architektur-2", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-narrativer-bauplan", "detaillierte-kapiteluebersicht", "kohaerenz-protokoll-2"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -47,6 +47,10 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 
 `Mnemosyne` — see [[mnemosyne|Mnemosyne]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
+
+## Reading — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept — Resonanz-Landschaft as Mnemosyne's world
+
+„Resonanz-Landschaft (Mnemosyne)“ ^[kohaerenz-protokoll-2.md:L76]: „Ebene der Emotionen, Erinnerungen, Trauma, verletzte/Kind-Anteile“ ^[kohaerenz-protokoll-2.md:L76] and „Ort der tiefsten Verbindung zu Julia, aber auch des größten Schmerzes“ ^[kohaerenz-protokoll-2.md:L76]. The hypothetical alter tied to it: „Hält Emotionen, Trauma, Sehnsucht (verbunden mit Resonanz-Landschaft)“ ^[kohaerenz-protokoll-2.md:L58].
 
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — KW2 as a fluid, emotion-driven world tied to the Kind/Echo part and to Mnemosyne
 
