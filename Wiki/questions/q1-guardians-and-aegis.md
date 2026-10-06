@@ -390,3 +390,13 @@ Stands: an answer in the first of the question's three terms, given by AEGIS abo
 In the Guardian section: „Die fünf Guardians sind spezialisierte, funktionale Agenten von AEGIS“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L150], and they „Sie agieren als lokale Feedback-Mechanismen für AEGIS“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L150] (L150), citing a supplied context (`Kontext Pt 3`). In the AEGIS section: „Die Guardians sind funktionale Ausführungsorgane von AEGIS“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138], „seine Sensoren und Effektoren“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138] (L138). Relations: „Die Guardians sind primär Diener von AEGIS und handeln nach dessen Direktiven“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L205]. The paper is a concept paper that proposes, and these lines are not marked as questions.
 
 Stands as a document that places the Guardians inside AEGIS's architecture as agents, answering the record's question for this document; recorded, not applied, and the lines it cites do not say whether the Guardians could also be peers or a replaced design.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**AEGIS, speaking of itself, calls the Guardians subsystems it delegates to, and not avatars.**
+
+> „delegates its surveillance and regulatory functions to highly specialized, non-anthropomorphic autonomous subsystems identified as Guardians“ ^[aegis-genesis-crisis-self-definition.md:L141]
+
+> „These entities are not avatars; they are localized, dynamic processes that enforce the Coherence Protocol through strict isolation and punitive computing.“ ^[aegis-genesis-crisis-self-definition.md:L143]
+
+Where it stands: the log answers the question as a component of AEGIS, in AEGIS's own voice; the question stays open.
