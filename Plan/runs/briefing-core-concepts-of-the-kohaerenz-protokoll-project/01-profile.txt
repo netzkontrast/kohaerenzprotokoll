@@ -1,0 +1,14 @@
+# briefing-core-concepts-of-the-kohaerenz-protokoll-project
+  lines                174  (frontmatter ends at 9)
+  body words           2388
+  headings             19   bold-only lines 0
+  table rows           42   code fences 0
+  question marks       0
+  backslash escapes    110
+  typographic marks    5   ascii quotes 134
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         680 chars
+

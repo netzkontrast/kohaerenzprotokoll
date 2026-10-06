@@ -1,0 +1,200 @@
+{
+  "document": "briefing-core-concepts-of-the-kohaerenz-protokoll-project",
+  "drive_id": "1eWVhVq5Np4RAjmITLilDA3OfBTrDeQOk4eCbnpmbsos",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 110,
+  "typographic_marks": 5,
+  "ascii_quotes": 134,
+  "inflection_families": {
+    "funct": [
+      "Function",
+      "Functionally",
+      "Functions"
+    ],
+    "integ": [
+      "Integration",
+      "Integrative",
+      "Integrity"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentialmeer"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "activ": [
+      "Actively",
+      "Activity"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic"
+    ],
+    "class": [
+      "Classical",
+      "Classification"
+    ],
+    "colla": [
+      "Collaboration",
+      "Collapse"
+    ],
+    "conce": [
+      "Concept",
+      "Concepts"
+    ],
+    "creat": [
+      "Creative",
+      "Creativity"
+    ],
+    "diale": [
+      "Dialectic",
+      "Dialetheic"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional"
+    ],
+    "entit": [
+      "Entities",
+      "Entity"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "execu": [
+      "Execution",
+      "Executive"
+    ],
+    "found": [
+      "Foundation",
+      "Foundational"
+    ],
+    "frame": [
+      "Framework",
+      "Frameworks"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelian"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "model": [
+      "Model",
+      "Models"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxon"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychology"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Main",
+      "Domain"
+    ],
+    [
+      "Meta",
+      "Metaphysics"
+    ],
+    [
+      "Gödel",
+      "Gödelian"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Model",
+      "Models"
+    ],
+    [
+      "Story",
+      "Storyform"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Concept",
+      "Concepts"
+    ],
+    [
+      "Emotion",
+      "Emotional"
+    ],
+    [
+      "Paradox",
+      "Paradoxon"
+    ],
+    [
+      "Function",
+      "Functions"
+    ],
+    [
+      "Function",
+      "Functionally"
+    ],
+    [
+      "Protocol",
+      "Protocols"
+    ],
+    [
+      "Framework",
+      "Frameworks"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ],
+    [
+      "Potential",
+      "Potentialmeer"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      110
+  typographic marks      5
+  ascii quotes           134
+
+# inflection families -- one term, several surfaces
+  funct    Function, Functionally, Functions
+  integ    Integration, Integrative, Integrity
+  poten    Potential, Potentialis, Potentialmeer
+  proto    Protocol, Protocols, Protokoll
+  activ    Actively, Activity
+  archi    Archipel, Architecture
+  autop    Autopoiesis, Autopoietic
+  class    Classical, Classification
+  colla    Collaboration, Collapse
+  conce    Concept, Concepts
+  creat    Creative, Creativity
+  diale    Dialectic, Dialetheic
+  emerg    Emergence, Emergent
+  emoti    Emotion, Emotional
+  entit    Entities, Entity
+  entro    Entropic, Entropy
+  execu    Execution, Executive
+  found    Foundation, Foundational
+  frame    Framework, Frameworks
+  gödel    Gödel, Gödelian
+  logic    Logic, Logics
+  logos    LogOS, Logos
+  model    Model, Models
+  parad    Paradox, Paradoxon
+  psych    Psychological, Psychology
+
+# substring pairs -- never one term, often merged by accident
+  Main < Domain
+  Meta < Metaphysics
+  Gödel < Gödelian
+  LogOS < Logos
+  Logic < Logics
+  Logic < Ontological
+  Logic < Psychological
+  Model < Models
+  Story < Storyform
+  World < Worlds
+  System < Systems
+  Concept < Concepts
+  Emotion < Emotional
+  Paradox < Paradoxon
+  Function < Functions
+  Function < Functionally
+  Protocol < Protocols
+  Framework < Frameworks
+  Potential < Potentialis
+  Potential < Potentialmeer
