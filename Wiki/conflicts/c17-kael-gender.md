@@ -78,3 +78,11 @@ Stands as a tenth source of the table: a plan of 2025-05-04 with Kael female, th
 The point stands in the list headed `Widersprüche und deren Auflösung`: „Spekulationen über Geschlecht oder Host-Status werden beendet“ ^[romanprojekt-analyse-synthese.md:L123]. The same line gives Juna as „ein transzendenter Teil des ursprünglichen Selbst“ ^[romanprojekt-analyse-synthese.md:L123]. Elsewhere the synthesis writes Kael as host: „Kael selbst fungiert als Host und primärer ANP (Anscheinend Normaler Anteil)“ ^[romanprojekt-analyse-synthese.md:L86]. It names no document whose Kael is female.
 
 Stands as a male Kael with the speculation declared ended, in a synthesis of 2026-04-30; the claim to settle the question is the document's own, recorded, and it settles nothing in the record.
+
+## 2026-10-06 — `project-codex-the-canonical-narrative-architecture-of-kohaer`, 2025-11-03, the Project Codex
+
+**The Project Codex declares Kael the male host under the label `Canonical Identity`, and gives no reason.**
+
+Its section 2.2 reads „The protagonist is the male host“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L71] Kael of System Kael. Unlike the Definitive Guide's table, which gives a rationale, „Consistent textual evidence across core character documents“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L43], this codex states the identity without one.
+
+Stands as a male Kael in a codex of 2025-11-03 that calls itself canonical; its own claim, recorded, not applied, and it settles nothing in the record.
