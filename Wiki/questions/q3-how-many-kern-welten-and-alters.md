@@ -706,3 +706,11 @@ Where it stands: a design document's table of nine named rows and four worlds, r
 Worlds: „The primary settings are four simulated“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L128] Core Worlds, KW1 to KW4 (L128–L136). Alters, table L83–L91: „Kael (Host)“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L84], Lex, Nyx, Kiko, Rhys, Selene, Argus and Moros. Rhys is „ANP: Caregiver, focused on empathy and internal mediation.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L88], Argus „ANP: Meta-Observer“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L90], and Selene „ISH (Internal Self Helper): Guardian and mediator.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L89]
 
 Stands as one more count of worlds and alters, dated 2025-10-15, not resolving the question.
+
+## 2026-10-06 — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree
+
+**The canon decree lists eleven parts of System Kael with ANP/EP types and four Core Worlds.**
+
+Its roster rows run from „ANP (Host)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L34] for Kael to „ANP/EP-Mix“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L44] for Argus, with the types „EP (Child)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L39] and „EP (Collapse)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L42] between. Its table names four worlds: „Logos-Prime“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L83], „Mnemosyne-Archipel“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L84], „Cerberus-Labyrinth“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L85] and „Kairos-Potentialis“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86].
+
+Stands as this document's claimed roster and world list, recorded and not applied.
