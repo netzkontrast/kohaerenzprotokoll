@@ -808,3 +808,11 @@ Stands as an alter count of eleven, declared in a report of 2026-03-26 with its 
 Of the worlds: the heading of section V names them „Simuliert, Michaels Psyche“ ^[kohaerenz-protokoll-2.md:L71], four in number, each watched by its Guardians. Of the alters: „Hypothetische Kern-Alters (Beispiele, basierend auf Welten):“ ^[kohaerenz-protokoll-2.md:L53], four examples each tied to one world, and then „(Weitere möglich/nötig)“ ^[kohaerenz-protokoll-2.md:L61].
 
 Stands: it states four worlds and ties each of its four example alters to one, but marks the alters hypothetical and open to more; the count of alters and the rule of correspondence stay open in the record's terms.
+
+## 2026-10-06 — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief
+
+**The design brief codifies 11 core alters plus an Internal Self-Helper and four Kernwelten, and names Lyra, Soren and Elara as domain alters.**
+
+For the alters: „System Kael is composed of 11 core alters plus an Internal Self-Helper“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L53]. For the worlds it describes four, each tied to named alters: KW2 is „The domain of Lyra and the EPs; the swamp of the past“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L95], KW3 is „The domain of Nyx and Soren; the state of hypervigilance“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L104], KW4 is „The domain of Selene and Elara; the capacity for growth and synthesis“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L114], and KW1 is „The domain of Kael and Lex; the rigid, emotionless state of suppressing pain to function“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L86]. Here one world carries two alters or a group, not one alter each.
+
+Stands as a count of 11 plus an ISH with four worlds; recorded, the question stays open.
