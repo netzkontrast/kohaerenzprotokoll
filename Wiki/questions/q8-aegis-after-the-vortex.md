@@ -278,3 +278,11 @@ Stands as collapse or transformation, undecided, in a beat sheet of 2025-07-29 t
 The line stands among the consensus points. In the finale the protocol ends not in a victory over AEGIS but in a stable, adaptive resonance protocol in which AEGIS stays „algorithmisch melancholischer“ ^[romanprojekt-analyse-synthese.md:L62] guardian, while Juna is accepted as the integrative centre. In the storyform passage the failure of AEGIS before living paradoxes leads „zur finalen Disintegration der rigiden AEGIS-Struktur“ ^[romanprojekt-analyse-synthese.md:L107]. The document does not use the word `Vortex` ^[romanprojekt-analyse-synthese.md:#0] and does not say AEGIS becomes plural.
 
 Stands: transformation with AEGIS kept, and at the same time the rigid structure's disintegration, in a synthesis of 2026-04-30; it predates the author's answers of 2026-10-05, which stand, and changes neither.
+
+## 2026-10-06 — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis
+
+**The themes exegesis has Kael prune AEGIS and AEGIS fall into Algorithmische Melancholie; it writes no Vortex.**
+
+Theme 29 says: „Kael wählt, AEGIS nicht zu löschen, sondern zu beschneiden“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L295], and „Er toleriert das Chaos, um Freiheit zu ermöglichen“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L295]. Theme 34 (L317–L321): „Kael injiziert sein paradoxes Selbstbewusstsein in AEGIS“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L320]; AEGIS fails to compute the statement and „Es fällt in“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L321] `Algorithmische Melancholie`. Section 6 repeats it: „Das Ergebnis ist kein gewaltsamer Sieg, sondern die Versetzung des Antagonisten“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L410]. The word `Vortex` ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:#0] is not in the document, and the lines do not say AEGIS becomes plural. The numbers 29 and 34 are themes of the exegesis.
+
+Stands: pruned and frozen, not deleted, in an exegesis of 2025-11-25; it predates the author's answers of 2026-10-05 and changes neither.
