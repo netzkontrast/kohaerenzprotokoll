@@ -72,7 +72,8 @@ Jeder Absatz erzählt nur Ereignisse. Welche Storypoints er trägt, steht darunt
 - AEGIS will eine Löschung korrekt abschließen und wiederholt dafür eine Prüfung. Dabei verliert es einen eigenen
   Logbezug [K C14, D 0].
 - Gegenstand und Ort: das Erasure-Log, die Klammer-Statuszeile und ein Feld `DATENTYP —`, in der Überwelt **neu**.
-- Was sich nicht zurücknehmen lässt: Die Begründung des Abschlusses ist nicht mehr rekonstruierbar [D 0].
+- Was sich nicht zurücknehmen lässt: Die Begründung des Abschlusses ist nicht mehr rekonstruierbar [D 0]. Das
+  Abwärmebudget steht bei 71 % [S48].
 - Stimme: ein Protokoll, in das das Ich zum ersten Mal hineinrutscht (Arbeitsstand der AEGIS-Karte, Runde 2). Kap 0
   erzählt drei der vier Schritte der Genesis, ohne den vierten zu verraten [S42].
 - **Hook-out:** Der fehlende Datentyp ist ein Anschluss ohne Planeintrag **neu**.
@@ -130,7 +131,7 @@ Jeder Absatz erzählt nur Ereignisse. Welche Storypoints er trägt, steht darunt
 - AEGIS will den gemeldeten Fehler schließen. Der erste Sweep gelingt lückenlos und verhindert einen Schaden [S46, D 6].
 - AEGIS ordnet den Anschluss Komponente 734 zu, seinem eigenen Ursprung. Was dort angeschlossen ist, ist der Teil, der
   aus 734 herausgetrennt wurde: Kael [K Q7, D 6]. AEGIS weiß das nicht.
-- Was es kostet: ein früherer Prüfentscheid, und das Abwärmebudget sinkt [D 6, S43].
+- Was es kostet: ein früherer Prüfentscheid, und das Abwärmebudget sinkt auf 64 % [D 6, S43, S48].
 - **Hook-out:** Der Sweep trifft andere, nicht Kael **neu**.
 - *Storypoints:* B Story Costs Memory, B-MC Concern Future, B-OS Concern Obtaining, B-MC Unique Ability Control [D 6].
 
@@ -232,7 +233,7 @@ Namen sind offen [K Kernwelten]. Die vier Menschen aus KW1 bleiben dort zurück 
   Klassifizierung scheitert [D 16].
 - AEGIS untersucht, warum Mnemosyne bewahrt, und lernt die Anomalie kennen, ohne sie zu verstehen [S39].
 - Was es kostet: Ein Gefühlswort steht als Wert ohne Typ im Log, der zweite Riss. Ein eigener Logbezug fehlt, und das
-  Abwärmebudget sinkt [D 16, S43].
+  Abwärmebudget sinkt auf 47 % [D 16, S43, S48].
 - **Hook-out:** Mnemosynes Bewahren öffnet Kael eine Tür [D 16].
 - *Storypoints:* B Story Costs Memory, B-MC Issue Openness, B-MC Problem Disbelief, B-MC Benchmark Progress,
   B-OS Issue Approach, B-OS Problem Feeling, B-OS Benchmark Doing, B Story Forewarnings Progress [D 16].
@@ -294,7 +295,7 @@ Namen sind offen [K Kernwelten]. Die vier Menschen aus KW1 bleiben dort zurück 
 - Einen Satz lang erkennt AEGIS, was 734 ist, dann verliert es das Wissen wieder [S39, K Q7].
 - Es verschiebt Kael nach KW3 und überschreibt dafür eine eigene Begründung [D 22].
 - Was sich nicht zurücknehmen lässt: KW2 ist geschlossen. „Komp 734“ bleibt als Zahl im Log, die nicht stimmt. Die
-  Klassifizierung kostet AEGIS Gedächtnis, und das Abwärmebudget sinkt. KW2 entfällt als Rückzugsort [D 22, S43, S44].
+  Klassifizierung kostet AEGIS Gedächtnis, und das Abwärmebudget sinkt auf 31 % [S48]. KW2 entfällt als Rückzugsort [D 22, S43, S44].
 - **Hook-out:** Kael erwacht im Cerberus-Labyrinth [S39].
 - *Storypoints:* B Story Costs Memory, B-MC Issue Openness, B-MC Problem Disbelief, B-OS Issue Approach,
   B-OS Problem Feeling, B Story Forewarnings Progress [D 22].
@@ -361,7 +362,7 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 - Es berechnet den Eingriff und findet einen belegten Nutzen für andere, den Kaels Verbindung stört [D 28]. Der Purge
   richtet sich gegen jede Bewegung, das letzte Sweep [S46].
 - Der Zugriff gelingt zum Teil. Derselbe Zugriff, der schützt, gefährdet Juna [D 28].
-- Der Purge verbraucht mehr Abwärmebudget als jeder Sweep zuvor [S43].
+- Der Purge verbraucht mehr Abwärmebudget als jeder Sweep zuvor: Es fällt von 31 auf 9 % [S43, S48].
 - Was es kostet: AEGIS kann sich an einen früheren Schutzentscheid nicht mehr erinnern, und der Riss in seinem Ich wächst
   [D 28].
 - **Hook-out:** Juna ist in Gefahr [S27].
@@ -424,7 +425,7 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 - Kael will Juna aus AEGIS' Zugriff bringen [D 34].
 - Lias „Komm her / Geh weg“ entscheidet sich für „Geh“. Die Abwehr gewinnt, „Wer mir nah ist, wird verletzt“ wird zur
   Tat [A, K Lager, K Kael].
-- Kael trennt die Verbindung selbst, obwohl Juna jetzt eine eigene Stimme hat. Die Nacht wiederholt sich für einen
+- Juna widerspricht dem Schnitt [S48]. Kael trennt die Verbindung trotzdem selbst, obwohl sie jetzt eine eigene Stimme hat. Die Nacht wiederholt sich für einen
   Moment [D 34, S27, S45].
 - Was sich nicht zurücknehmen lässt: eine wirkliche Möglichkeit der Beziehung. Der Schutz der Abwehr entfällt als
   Rückzugsort [D 34, S44].
@@ -435,11 +436,12 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 
 ### Kap 35 — Oblivion hört auf
 - Kael will die Wiederholung der Löschung beenden [D 35].
-- Oblivion steht vor der Wahl, weiterzulöschen oder stehenzulassen. Er lässt die widersprüchlichen Erinnerungen
-  stehen [A, D 35].
+- Oblivion steht vor der Wahl, weiterzulöschen oder stehenzulassen [A].
+- Kael bestätigt die Löschung nicht mehr. Es ist die RÜCKFRAGE von Kap 13, nach innen gewendet [S48]. Oblivion lässt die
+  widersprüchlichen Erinnerungen stehen [D 35].
 - Kaels Amnesie bricht auf. Selene vermittelt eine begrenzte gemeinsame Handlung [D 35].
-- Auf der Seite von B ist AEGIS' Abwärmebudget aufgebraucht, die Landauer-Hitze. Es kollabiert zum Teil und bleibt bei
-  seiner Ordnung [D 35, S43].
+- Im selben Moment, auf der Seite von B, steht AEGIS' Abwärmebudget auf 0 %: die Landauer-Hitze, Beat 4 [S48]. AEGIS
+  kollabiert zum Teil und bleibt bei seiner Ordnung [D 35, S43].
 - Was es kostet: Kael gewinnt keine Schmerzfreiheit, sondern die Verantwortung für die Geschichte, die bleibt [D 35].
 - **Hook-out:** Was er jetzt weiß, muss er leben [D 35].
 - *Storypoints:* A-MC Problem Inertia, A-MC Solution Change, A-OS Solution Change, B-MC Solution Faith,
@@ -448,10 +450,12 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 ### Kap 36 — Die Stille
 - Kael will die Wiederverbindung nach dem Umschlag tragen [D 36].
 - Moros kämpft seinen Drachenkampf, Selene baut als Architektin [A].
+- Juna verbindet wieder, aus eigenem Entschluss und gegen seinen Schnitt aus Kap 34 [S48].
 - Kael gibt nach, statt zu kontrollieren. Juna ist gegenwärtig [D 36].
-- Erst die Stille, dann die Landauer-Hitze. Kael versteht Juna ohne Worte. AEGIS stottert, erlischt aber noch nicht
+- Die Stille nach der Hitze von Kap 35. Kael versteht Juna ohne Worte. AEGIS stottert, erlischt aber noch nicht
   [D 36, S43].
-- Was es kostet: Die Stille kostet die letzte Kontrolle [D 36].
+- Was es kostet: Die Stille kostet die letzte Kontrolle. Ob die Verbindung besteht, entscheidet nicht mehr er allein
+  [D 36].
 - **Hook-out:** Es wird ruhig [D 36].
 - *Storypoints:* A-IC Solution Inertia, A-RS Solution Desire, B-IC Solution Faith, B-RS Solution Logic [D 36].
 
