@@ -306,3 +306,11 @@ Stands: the review adds a use of Komponente 734 as Kael's designation and as a s
 In the Writer's Room set-piece list: „We experience the emergence of“ ^[narrative-blueprint-the-coherence-protocol.md:L419] `Komponente 734`, whose first moment is „a pure act of resistance“ ^[narrative-blueprint-the-coherence-protocol.md:L419]. In the AEGIS timeline AEGIS „deploys agents like Unit 734 to monitor and increase its direct, oppressive presence.“ ^[narrative-blueprint-the-coherence-protocol.md:L345] and in beat 4 of the beat sheet „AEGIS's Unit 734 begins actively pursuing him, shifting the threat from an abstract feeling of paranoia to a tangible pursuer.“ ^[narrative-blueprint-the-coherence-protocol.md:L364] The blueprint does not say that the component and the unit are one, or that either is Kael's designation.
 
 Stands: the blueprint offers two uses of the number in two parts and decides nothing; the question of what the number labels in the world stays open.
+
+## 2026-10-06 — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview
+
+**The chapter overview gives Kapitel 2 the title `Protokoll 734: Kohärenz-Initialisierung` and says no more of what 734 names.**
+
+The title of Kapitel 2 pairs the number with the initialisation: „Protokoll 734: Kohärenz-Initialisierung“ ^[detaillierte-kapiteluebersicht.md:L18] The line goes on, „Aus der kalten, analytischen Perspektive von AEGIS wird der Zustand von“ ^[detaillierte-kapiteluebersicht.md:L18] Kael assessed after the reboot. The title stands as a Protokoll; the line names no Komponente and no Wohneinheit.
+
+Stands as a source for the question, dated 2025-07-30: 734 appears in a chapter title as a Protokoll; the question stays open.
