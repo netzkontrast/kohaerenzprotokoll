@@ -561,3 +561,11 @@ Stands: one Guardian per world for four, Sophia over all, as the blueprint plans
 Headings: „KW1: Konstrukt-Stadt (LogOS)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L106], „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241], „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346], „KW4: Möglichkeits-Garten (Kairos/Sophia)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L436]. The Überwelt: „Überwelt (AEGIS/Guardian-Domäne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L541], where the Guardians are „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) sind hier als Datenströme oder abstrakte Entitäten präsent und erhalten ihre Direktiven.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L551]
 
 Stands as one more arrangement of the pairing, dated 2025-04-18; recorded, not applied, and the question stays open in the record's own terms.
+
+## 2026-10-06 — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis
+
+**The plot synthesis sets LogOS over KW1, Mnemosyne over KW2 and Cerberus over KW3, and names no Guardian for KW4.**
+
+KW1 is „Überwacht vom Guardian LogOS“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L46], KW2 „Überwacht von Mnemosyne“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L47], KW3 „Überwacht von Cerberus“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L48]. The KW4 entry (Kairos-Potentialis, L49) resonates with Selene and names no overseer. In Kap 30 the Systemwächter : „Die Systemwächter (Mnemosyne, Cerberus) erleben kognitive Dissonanz“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L116].
+
+Where it stands: three Guardians over three worlds, KW4 without one, as a synthesis of 2026-02-23 proposes it; nothing decided.
