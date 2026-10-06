@@ -222,3 +222,11 @@ Stands as an Externe Ebene beyond AEGIS's control, introduced from Kapitel 22 in
 It explores their nature as „potenziell nicht-digitale, relationale Ordnung, Gegenprinzip zu AEGIS' Kohärenz“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L21]. In the intersections it says: „vielleicht repräsentieren sie verschiedene Aspekte oder Ebenen einer“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193] reality; the line closes with „jenseits von AEGIS' digitaler Ordnung“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193], and opens: „Die Natur von Juna/V (Subplot 3) und dem Fundament (Subplot 5) könnte sich als eng verbunden erweisen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193].
 
 Stands as a plan, in the conditional (könnte, vielleicht); it uses neither `Basisrealität` nor a denial of the outside, and the record's rows are not changed.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview places the Externe Ebene outside AEGIS's simulation.**
+
+It connects Juna/V to the „Externe Ebene“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L104] (External Level), „a realm that exists outside of AEGIS's simulation“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L104] (L104).
+
+Stands with the Externe Ebene beyond the simulation, dated 2025-11-03; recorded, not applied, and the record's rows are not changed.
