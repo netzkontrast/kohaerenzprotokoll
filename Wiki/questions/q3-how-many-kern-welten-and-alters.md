@@ -768,3 +768,11 @@ Stands: the document records both counts inside itself, 11 as canonical and 11 v
 It writes „Die vier Kernwelten sind Externalisierungen von Kaels Psyche“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L69] and names no individual world. Its list of the architecture of the parts runs from „Kael (Host)“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L51] to „Der Meta-Beobachter“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L60], with the pair „Kiko & Lia“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L55] on one line, so that the names Kael, Lex, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Alex, Rhys and Argus stand on ten lines.
 
 Stands as one more count for the question, dated 2025-07-30: four Kernwelten and ten listed lines of parts, the pair counted as one; recorded, not applied.
+
+## 2026-10-06 — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide
+
+**The learner's guide reports a roster of eleven alters from the documentation, adds two more names as probable subsidiary functions, and describes four Kernwelten.**
+
+It writes „The documentation identifies a complex roster of“ ^[deconstructing-reality-s-architecture.md:L90] alters, and its tables name Kael, Lex, Alex, Aris, Elara and Mina as Apparently Normal Parts, Nyx, Kiko, Moros, Lyra and Soren as Emotional Parts and Selene as the Integrator. Aris is „Focuses on the structural integrity of the internal world.“ ^[deconstructing-reality-s-architecture.md:L104] and Elara „Elara focuses on empathy, beauty, and internal mediation.“ ^[deconstructing-reality-s-architecture.md:L105] A note adds that „Tariq“ ^[deconstructing-reality-s-architecture.md:L130] and „Nova“ ^[deconstructing-reality-s-architecture.md:L130] appear in some lists, „likely serving as subsidiary ANP functions for specific technical tasks, but the“ ^[deconstructing-reality-s-architecture.md:L130] listed roster is the core cast. For the worlds it writes of the Kernwelten that „The learner must view these worlds not as geographical locations“ ^[deconstructing-reality-s-architecture.md:L142], and it numbers four, KW1 to KW4 (L144, L159, L174, L190), each paired with a psychological state.
+
+Stands: the guide reports its own count as the documentation's and reads the worlds as four; it does not say whether a Kern-Welt corresponds to an alter, and settles neither count.
