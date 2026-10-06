@@ -425,3 +425,11 @@ Where it stands in the record's own terms: four worlds, four bracketed names, KW
 The table (L67–L73) is the assistant's structuring (L63), and its column header is „Zuständiger Guardian“ ^[plot-analyse-und-romanentwicklung.md:L69]. Its rows pair LogOS with the Konstrukt-Stadt (L70), Mnemosyne with the Resonanz-Landschaft (L71), Cerberus with the Grenzfeste (L72) and „Kairos / Sophia“ ^[plot-analyse-und-romanentwicklung.md:L73] with the Möglichkeits-Garten (L73), each with an IFS category: Manager (ANP), Manager & Caretaker, Firefighter / Protectors, and Exiles & Emergent Parts. The document does not say whether the last cell is one guardian or two, and it names no Erasure-Pol.
 
 Stands as one proposed pairing per world, with KW4's cell shared; recorded, no pairing applied, and the question's status is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report pairs LogOS with KW1, Mnemosyne with KW2, Cerberus with KW3 and `Kairos & Sophia` with KW4, each with a blind spot regarding Juna.**
+
+Its table (L56–L59) reads the blind spots: LogOS „Betrachtet Emotionen als Rauschen.“ ^[romananalyse-kohaerenz-plot-kritik.md:L56], Mnemosyne „Verwechselt die Partnerin mit einer abgeschlossenen Narbe oder einem vergangenen Verlust“ ^[romananalyse-kohaerenz-plot-kritik.md:L57], Cerberus „als feindliche Intrusion, die es zu neutralisieren gilt“ ^[romananalyse-kohaerenz-plot-kritik.md:L58], and in KW4 Kairos „sieht nur das Chaos und Potenzial, verfehlt aber die Notwendigkeit spezifischer Reintegration“ ^[romananalyse-kohaerenz-plot-kritik.md:L59], while Sophia „sucht Integration durch die Eliminierung von Differenzen, nicht durch Synthese“ ^[romananalyse-kohaerenz-plot-kritik.md:L59]. The report summarises these as functions of a DID allegory (reference 3), not as a proposal.
+
+Stands as one pairing per world with KW4's cell shared, in a report of 2026-02-23; recorded, no pairing applied, and the question's status is not changed.
