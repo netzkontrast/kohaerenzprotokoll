@@ -512,3 +512,11 @@ Stands with position 1's pairing (five named Guardians, four worlds, Kairos and 
 The Guardian column reads LogOS (KW1, L119), Mnemosyne (KW2, L120), Cerberus (KW3, L121) and for KW4 „Kairos/Sophia“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L122]; the Überwelt's cell is „AEGIS, Guardians“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L123]. The prose repeats the pairing: „Sie ist die Domäne des Guardians LogOS“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L128], „Sie wird durch den Guardian Cerberus geprägt, der auf Grenzsicherung spezialisiert ist“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L150], and KW4 is „Sie wird von Kairos (dem richtigen Zeitpunkt, der Gelegenheit) und Sophia (Weisheit, Integration) beeinflusst“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L161].
 
 Stands as a further source for the first position of the record (five Guardians, four pairs), dated 2025-04-18; a proposal in the conditional, recorded and not applied.
+
+## 2026-10-06 — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework
+
+**The plot framework gives one Guardian per Kernwelt and two further names for the Guardians of Kernwelt 3 and 4.**
+
+Chapters 15 to 20 introduce them: „Introduce LogOS, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L256] 1, „Introduce Mnemosyne, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L257] 2, „Introduce Cerberus, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L260] 3 and „Introduce Kairos/Sophia, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L261] 4. The Mosaic names „The Chaos-Regulator (Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L136] 3 and „The Possibility-Weaver (Guardian of KW4)“ ^[plot-generation-framework-for-the-coherence-protocol.md:L166]. It does not say whether these are the same Guardians as Cerberus and Kairos/Sophia.
+
+Where it stands: four Guardians paired with four worlds in a proposal of 2025-11-03; the pairing question is not touched.
