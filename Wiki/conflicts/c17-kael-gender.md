@@ -62,3 +62,11 @@ Stands as an eighth source of the table: a plan of 2025-05-03 with Kael female, 
 Its glossary entry for `kael\_system` reads „Die Bezeichnung für die Protagonistin als multiples Bewusstseinssystem“ ^[roman-outline-transformation-in-keyword-tags.md:L362], with `sie` in „Die Erkenntnis von Kael, dass sie aus mehreren verschiedenen Anteilen besteht“ ^[roman-outline-transformation-in-keyword-tags.md:L309] and `ihre` in „Mitgefühl für Kael zu wecken, indem der Leser ihre anfängliche Verwirrung teilt“ ^[roman-outline-transformation-in-keyword-tags.md:L554]. The document says nothing about why Kael is female.
 
 Stands as a ninth source of the table: a plan of 2025-05-03 with Kael female, the same day as row 1; recorded, not applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-gesamtkonzept-entwicklung`, 2025-05-04, the Gesamtkonzept of 2025-05-04
+
+**The Gesamtkonzept, a version of the P+39 plan dated the day after the plans of 2025-05-03, writes Kael female in its premise and gives no reason.**
+
+Its Kernprämisse reads „Kael muss ihre innere Zerrissenheit überwinden“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L15], of „System Kael, einer durch Trauma fragmentierten multiplen Identität“ ^[kohaerenz-protokoll-gesamtkonzept-entwicklung.md:L15]. The document says nothing about why Kael is female.
+
+Stands as a tenth source of the table: a plan of 2025-05-04 with Kael female, the day after the plans of row 1; recorded, not applied.
