@@ -1,10 +1,10 @@
 ---
 term: Entropie-Signatur
 status: candidate
-sources: 1
-readings: 0
+sources: 2
+readings: 1
 conflict: none
-ingested: ["entropie-aegis"]
+ingested: ["entropie-aegis", "romananalyse-kohaerenz-plot-kritik"]
 gathered: "2026-09-16"
 ---
 
@@ -43,3 +43,11 @@ They mark **invention**, not attribution. This document coins the term inside
 quotes, as it does with „Daten-Verwitterung" ^[entropie-aegis.md:L57] and „Reinigungswellen" ^[entropie-aegis.md:L59]. A checker
 that reads quotation marks as a promise about a source has the meaning exactly
 backwards here.
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — a phrase it would not have the book use
+
+The phrase stands in a recommendation. When the Alter Echo breaks through, the report says it must not be described merely as „Anstieg der lokalen Entropie-Signatur“ ^[romananalyse-kohaerenz-plot-kritik.md:L156] or as a system error; the reader should feel the terror. The phrase is given as the manuscript's wording in the report's own quotation marks, and the report criticises its use for the experience of trauma.
+
+## Where the sources differ
+
+- The report of 2026-02-23 quotes the manuscript's `Entropie-Signatur` phrase only to recommend against it in the trauma scenes.
