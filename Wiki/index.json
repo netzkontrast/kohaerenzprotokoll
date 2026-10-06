@@ -1724,10 +1724,11 @@
         "romanprojekt-analyse-synthese",
         "project-codex-the-canonical-narrative-architecture-of-kohaer",
         "the-coherence-protocol-a-definitive-guide-to-the-narrative-a",
-        "concept-paper-the-architectural-foundations-of-kohaerenz-pro"
+        "concept-paper-the-architectural-foundations-of-kohaerenz-pro",
+        "the-coherence-protocol-a-definitive-guide-to-narrative-archi"
       ],
-      "sources": 93,
-      "readings": 93,
+      "sources": 94,
+      "readings": 94,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {

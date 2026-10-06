@@ -1,0 +1,82 @@
+written_by: document-reader subagent (Sonnet 5.5), 2026-10-06, while reading, before any count
+
+- Coherence Protocol
+- AEGIS
+- Kael
+- System Kael
+- Juna/V
+- Protocol Ontology
+- Dual Kernel Theory (DKT)
+- DKT
+- Coherence Kernel (K₁)
+- Collapse Kernel (K₀)
+- K₁
+- K₀
+- Coherons
+- Sea of Potentiality
+- Das Potentialmeer
+- Nichts Rauschen
+- Rauschen
+- Foundation
+- Das Fundament
+- Kernwelten
+- Core Worlds
+- Psycho-Architectures
+- Risse
+- Riss
+- Emotional Part (EP)
+- Apparently Normal Part (ANP)
+- ANP-EP Phobia
+- Logos-Prime
+- LogOS
+- Mnemosyne-Archipel
+- Mnemosyne
+- Cerberus-Labyrinth
+- Cerberus
+- Kairos-Potentialis
+- Kairos/Sophia
+- Genesis-Krise
+- Trennungsprotokoll
+- Separation Protocol
+- Ursprungs-Ich
+- Ich-Fragmenten
+- Autonomous Entropic Gatekeeper
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Paraiyas
+- Moonshine-Link
+- gnosis
+- episteme
+- 39-Story Narrative Mosaic
+- Irreversible Costs
+- functional multiplicity
+- Sacred Marriage
+- living Gödel-Satz
+- algorithmic melancholy
+- ontological autarky
+- Einsamkeit
+- Sehnsucht
+- Coherence
+- Correspondence
+
+## lens
+
+- Theory of Structural Dissociation of the Personality (TSDP)
+- Tertiary Structural Dissociation of Personality (TSDP)
+- Internal Family Systems (IFS)
+- Heroine's Journey
+- Hero's Journey
+- Ship of Theseus paradox
+- Coherence Theory of Truth
+- strange attractor
+- Dialetheic Logic
+
+The document is English prose with German names set in quotation marks or parentheses (Potentialmeer, Fundament, Kernwelten, Risse, Genesis-Krise, Trennungsprotokoll, Ursprungs-Ich, Ich-Fragmenten). The Core World table is a flattened markdown table whose first column writes KW1 to KW4 inside escaped bold marks, so the whole KW1: Logos-Prime form is not listed; the name parts are. The symbols K₁ and K₀ are written with subscript digits.
