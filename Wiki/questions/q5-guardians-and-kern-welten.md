@@ -521,3 +521,11 @@ Stands on the side of four pairs with a shared KW4 as a plan, not a canon claim;
 The table column for the associated Guardian and alters has cells that read „LogOS / Index, Architekt, (Praetor, Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186], „Mnemosyne / Echo, Flicker, Silas, Oblivion“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L187], „Cerberus / Limina, Praetor, Oblivion, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L188] and „Kairos/Sophia / Eos, Index, Silas, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L189]. The cells separate the Guardian from the alters by a slash; the concept proposes these in its own names of 2025-04-18.
 
 Stands on the side of four pairs with a shared fourth, in the table's cells; recorded, not applied, and the question stays open.
+
+## 2026-10-06 — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue
+
+**The subplot catalogue pairs LogOS with KW1, Mnemosyne with KW2 and Cerberus with KW3, and names KW4 without a Guardian; it offers these as ideas, not canon.**
+
+Guardians appear in parentheses beside worlds: „LogOS (Guardian) könnte dies unbeteiligt beobachten“ ^[subplot-entwicklung-fuer-romanstruktur.md:L98] in KW1, „Mnemosyne (Guardian) könnte subtil präsent sein“ ^[subplot-entwicklung-fuer-romanstruktur.md:L124] in KW2, and „Cerberus (Guardian von KW3)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L100]. The worlds' names are written „KW1 (Logos-Prime)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L98], „KW2 - Mnemosyne-Archipel“ ^[subplot-entwicklung-fuer-romanstruktur.md:L99], „KW3 - Cerberus-Labyrinth“ ^[subplot-entwicklung-fuer-romanstruktur.md:L123] and „KW4 - Kairos-Potentialis“ ^[subplot-entwicklung-fuer-romanstruktur.md:L150]. A Guardian is not placed in KW4; Kapitel 17 leaves the Guardian open: „Kael konfrontiert einen Guardian (vielleicht LogOS oder Sophia)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L506]. The catalogue names no Erasure-Pol.
+
+Where it stands: the catalogue gives three Guardian/world pairs and the four world names as hedged proposals; it does not answer whether Kairos or Sophia belongs to KW4, and the record stays open.
