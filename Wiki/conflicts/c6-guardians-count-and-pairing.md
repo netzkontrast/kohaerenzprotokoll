@@ -644,3 +644,11 @@ Stands as a four-guardian, one-per-world arrangement in the guide's report; reco
 The count: „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[kohaerenz-protokoll-2.md:L66]. The pairing, line by line: „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-2.md:L75], „Resonanz-Landschaft (Mnemosyne)“ ^[kohaerenz-protokoll-2.md:L76], „Grenzfeste (Cerberus)“ ^[kohaerenz-protokoll-2.md:L77], „Möglichkeits-Garten (Kairos/Sophia)“ ^[kohaerenz-protokoll-2.md:L78]. The worlds „Sie werden von den entsprechenden Guardians überwacht“ ^[kohaerenz-protokoll-2.md:L71].
 
 Stands with the five-Guardian, four-pair position of the record; recorded, not applied, and the record's own status is not changed here.
+
+## 2026-10-06 — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief
+
+**The design brief codifies four Guardians, one per Kernwelt, in its glossary.**
+
+The glossary rows are „ANP-Logic Proxy,Algorithmic Order.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L211] for `LogOS`, „Memory Keeper,Archive / Fluidity.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L213] for `Mnemosyne`, „Defense System,Zero-Trust / Paranoia.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L215] for `Cerberus` and „Potential,Emergence / Synthesis.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L217] for `Kairos`, each labelled Guardian of the world of that number. The name `Sophia` ^[the-coherence-protocol-a-narrative-design-world-architecture.md:#0] does not stand in the brief (a count). The headings name the worlds „Logos-Prime (The Cage)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L84], „Mnemosyne-Archipel (The Swamp)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L93], „Cerberus-Labyrinth (The Bunker)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L102] and „Kairos-Potentialis (The Garden)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L112].
+
+Stands as a row for four Guardians paired with the four worlds, in the brief's own terms; recorded, not applied, and the record is not decided.
