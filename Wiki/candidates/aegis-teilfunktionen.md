@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 18
-readings: 16
+sources: 19
+readings: 17
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol"]
 gathered: "2026-09-16"
 ---
 
@@ -79,6 +79,10 @@ The synthesis describes the Digitale Überwelt's interactions as ruled by „str
 ## Reading — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview — the Zero Trust Architecture securing AEGIS
 
 The ontological overview says the system is secured by a Zero Trust Architecture (ZTA), within which no entity is trusted by default, „not even its own“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L42] Components or Guardians (L42).
+
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Zero-Trust as the principle of Cerberus's fortress
+
+Story 19, from the perspective of Cerberus, sees „the world is a fortress built on AEGIS's Zero-Trust principles“ ^[plot-generation-framework-for-the-coherence-protocol.md:L122]. Chapter 19 assigns the same to the linear plot: „Introduce Cerberus, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L260] (3), so as to externalize the system's core principle of paranoia. The framework names the principle and no further sub-functions.
 
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — the ZTEM as AEGIS's means against Shannon entropy
 
