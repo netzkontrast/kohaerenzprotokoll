@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 128 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 128 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 129 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 129 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -501,7 +501,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Outline](drive/outline-2.md) | 2025-05-03 | 5,021 | **read** | Argus 12, Komponente 734 3, Alex 17, Cerberus 11, Mnemosyne 18, Rhys 13, LogOS 14, Selene 11 | AEGIS-Paradoxon 33, Zweite-Ordnung-Kybernetik 3, Fehlausgerichtete Kohärenz 4, Nietzsche 2, Paradox der Toleranz 2 |
 | [Outline](drive/outline-3.md) | 2025-05-03 | 6,959 | **read** | Argus 12, Alex 19, Komponente 734 3, Cerberus 13, Rhys 18, Mnemosyne 19, LogOS 15, Selene 10 | AEGIS-Paradoxon 34, Fehlausgerichtete Kohärenz 5, Zweite-Ordnung-Kybernetik 2, Nietzsche 2, Paradox der Toleranz 2 |
 | [Roman-Konzept: Kohärenz Protokoll](drive/roman-konzept-kohaerenz-protokoll.md) | 2025-05-03 | 7,028 | **read** | Argus 8, Alex 11, Realitätsebenen 4, Cerberus 8, Rhys 11, Mnemosyne 11, Multiplizität 12, Selene 8 | Ligotti 7, Action Systems 6, Sartre 10, Thomas 6, AEGIS-Paradoxon 7 |
-| [Roman-Outline 1-13 für „Kohärenz Protokoll“](drive/roman-outline-1-13-fuer-kohaerenz-protokoll.md) | 2025-05-03 | 16,604 |  | Alex 40, Rhys 37, LogOS 23, Cerberus 9, Mnemosyne 12, Lex 42, Selene 9, Guardians 14 | Descartes 9, Kael-System 21, Buber 14, Jean-Paul 8, Hobbes 6 |
+| [Roman-Outline 1-13 für „Kohärenz Protokoll“](drive/roman-outline-1-13-fuer-kohaerenz-protokoll.md) | 2025-05-03 | 16,604 | **read** | Alex 40, Rhys 37, LogOS 23, Cerberus 9, Mnemosyne 12, Lex 42, Selene 9, Guardians 14 | Descartes 9, Kael-System 21, Buber 14, Jean-Paul 8, Hobbes 6 |
 | [Roman-Outline für Kohärenz Protokoll](drive/roman-outline-fuer-kohaerenz-protokoll.md) | 2025-05-03 | 16,371 | **read** | Alex 56, Rhys 48, LogOS 33, Argus 11, Cerberus 11, Mnemosyne 15, Lex 63, Moros 9 | Parfit 9, Kael-System 15, Guardian Cerberus 5, AEGIS-Paradoxon 10, Hume 4 |
 | [Roman-Outline: Kohärenz Protokoll Strategie](drive/roman-outline-kohaerenz-protokoll-strategie.md) | 2025-05-03 | 5,617 |  | Überwelt 17, Risse 11, Kael 53, AEGIS 61, Kohärenz 2 | Thorne 7, Aris 4, Informationskontrolle 2, Kognitive Dissonanz 4, Kohärenz-Protokolls 6 |
 | [Roman-Outline: Kohärenz Protokoll Überarbeitung](drive/roman-outline-kohaerenz-protokoll-uberarbeitung.md) | 2025-05-03 | 8,770 |  | Selene 11, Alex 7, Guardians 11, TSDP 29, Rhys 4, Lex 9, Emergenz† 16, Multiplizität 2 | Chalmers 18, Levinas 9, KWs 12, Leon Festinger 3, Aristotle 7 |

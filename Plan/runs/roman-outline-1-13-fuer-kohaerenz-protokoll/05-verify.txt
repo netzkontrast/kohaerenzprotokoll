@@ -1,0 +1,390 @@
+# every number the census and note state, with the command that produced it (read.py --count prints the three counts and the mark)
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Ausformulierte/diskutierte Version des Kernthemas"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Ausformulierte/diskutierte Version des Kernthemas` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#14]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Key Beats / Abstract Scenes"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Key Beats / Abstract Scenes` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#13]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Funktion:"
+whole word, case-sensitive     55
+whole word, case-insensitive   55
+including compounds            55
+
+`Funktion:` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#55]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Zugriff am Mai"
+whole word, case-sensitive     234
+whole word, case-insensitive   234
+including compounds            234
+
+`Zugriff am Mai` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#234]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "könnte"
+whole word, case-sensitive     40
+whole word, case-insensitive   43
+including compounds            45
+
+`könnte` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#40]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "möglicherweise"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`möglicherweise` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#25]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "wahrscheinlich"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`wahrscheinlich` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#8]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kohärenz Protokoll` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#2]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "AEGIS Paradoxon"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`AEGIS Paradoxon` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#8]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "AEGIS-Paradoxon"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`AEGIS-Paradoxon` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#5]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Phase 1"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Phase 1` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#2]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Phase 2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Phase 2` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#1]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "TSDP"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            18
+
+`TSDP` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#12]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Theorie der Strukturellen Dissoziation (TSDP)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Theorie der Strukturellen Dissoziation (TSDP)` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#1]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "KW1"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            33
+
+`KW1` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#33]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Cerberus-Labyrinth"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Cerberus-Labyrinth` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#2]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "KW4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW4` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#1]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Echo"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            12
+
+`Echo` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#7]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Selene"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            9
+
+`Selene` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#7]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Riss"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            26
+
+`Riss` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#12]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Juna/V"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`Juna/V` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#12]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Fundament"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Fundament` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#5]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Akt 1"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Akt 1` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#5]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Akt 2"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Akt 2` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#16]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Akt 3"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Akt 3` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#0]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Epilog"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Epilog` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#0]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#0]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Logischer Positivismus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Logischer Positivismus` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#1]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "logischen Positivismus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`logischen Positivismus` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#2]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "AEGIS"
+whole word, case-sensitive     171
+whole word, case-insensitive   171
+including compounds            196
+
+`AEGIS` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#171]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Kael"
+whole word, case-sensitive     82
+whole word, case-insensitive   82
+including compounds            139
+
+`Kael` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#82]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Kaels"
+whole word, case-sensitive     49
+whole word, case-insensitive   49
+including compounds            49
+
+`Kaels` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#49]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Mnemosyne"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            26
+
+`Mnemosyne` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#13]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Mnemosynes"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Mnemosynes` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#10]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Mnemosyne-Archipel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Mnemosyne-Archipel` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#3]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Cerberus"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            14
+
+`Cerberus` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#12]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Juna/Vs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna/Vs` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#1]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Echos"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Echos` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#5]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Guardian"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            21
+
+`Guardian` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#8]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Guardians` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#11]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "ANP"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            27
+
+`ANP` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#5]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "ANPs"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`ANPs` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#13]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Host"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            14
+
+`Host` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#11]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Hosts"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hosts` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#3]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Risses"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Risses` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#12]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            14
+
+`Risse` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#2]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Überwelt` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#1]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "AEGIS-Überwelt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`AEGIS-Überwelt` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#3]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Hume"
+whole word, case-sensitive     9
+whole word, case-insensitive   10
+including compounds            11
+
+`Hume` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#9]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Humes"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Humes` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#2]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Kant"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            5
+
+`Kant` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#4]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Sartre"
+whole word, case-sensitive     12
+whole word, case-insensitive   15
+including compounds            14
+
+`Sartre` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#12]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Buber"
+whole word, case-sensitive     9
+whole word, case-insensitive   11
+including compounds            10
+
+`Buber` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#9]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Kuhn"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            5
+
+`Kuhn` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#4]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Gaslighting"
+whole word, case-sensitive     19
+whole word, case-insensitive   23
+including compounds            25
+
+`Gaslighting` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#19]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Lia"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lia` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#2]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Nyx"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Nyx` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#5]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Argus"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Argus` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#4]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Moros"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Moros` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#4]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Kiko"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kiko` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#7]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Chapter"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Chapter` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#14]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "Kohärenzstiftung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenzstiftung` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#1]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "KW2"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+
+`KW2` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#32]
+--- python3 scripts/read.py roman-outline-1-13-fuer-kohaerenz-protokoll --count "KW3"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`KW3` ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:#13]
+--- profile (python3 scripts/profile.py roman-outline-1-13-fuer-kohaerenz-protokoll): backslash escapes 123, glued ref numbers 37
+  backslash escapes    123
+  glued ref numbers    37
+--- sum of stance_marker_count: 14 + 13 + 55 = 82
+--- grep -c "Zugriff am Mai 3, 2025" = 234

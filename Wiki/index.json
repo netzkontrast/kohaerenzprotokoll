@@ -668,10 +668,11 @@
         "roman-outline-fuer-kohaerenz-protokoll",
         "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
-        "lokalitaeten-konzept-fuer-roman-simulation"
+        "lokalitaeten-konzept-fuer-roman-simulation",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -1734,10 +1735,11 @@
         "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
-        "lokalitaeten-konzept-fuer-roman-simulation"
+        "lokalitaeten-konzept-fuer-roman-simulation",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 99,
-      "readings": 99,
+      "sources": 100,
+      "readings": 100,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2097,10 +2099,11 @@
         "roman-outline-fuer-kohaerenz-protokoll",
         "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
-        "lokalitaeten-konzept-fuer-roman-simulation"
+        "lokalitaeten-konzept-fuer-roman-simulation",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 80,
-      "readings": 79,
+      "sources": 81,
+      "readings": 80,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2180,10 +2183,11 @@
         "roman-outline-fuer-kohaerenz-protokoll",
         "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
-        "roman-refactoring-kohaerenz-und-charakterentwicklung"
+        "roman-refactoring-kohaerenz-und-charakterentwicklung",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 71,
-      "readings": 71,
+      "sources": 72,
+      "readings": 72,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2707,10 +2711,11 @@
         "roman-outline-fuer-kohaerenz-protokoll",
         "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
-        "roman-refactoring-kohaerenz-und-charakterentwicklung"
+        "roman-refactoring-kohaerenz-und-charakterentwicklung",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 65,
-      "readings": 65,
+      "sources": 66,
+      "readings": 66,
       "conflict": "C15"
     },
     "logos": {
@@ -3092,10 +3097,11 @@
         "ki-roman-architektur-kohaerenz-und-kollaps",
         "roman-outline-fuer-kohaerenz-protokoll",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
-        "roman-refactoring-kohaerenz-und-charakterentwicklung"
+        "roman-refactoring-kohaerenz-und-charakterentwicklung",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -3454,10 +3460,11 @@
         "roman-outline-fuer-kohaerenz-protokoll",
         "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
-        "roman-refactoring-kohaerenz-und-charakterentwicklung"
+        "roman-refactoring-kohaerenz-und-charakterentwicklung",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 73,
-      "readings": 73,
+      "sources": 74,
+      "readings": 74,
       "conflict": "C10"
     },
     "oblivion": {
@@ -3740,10 +3747,11 @@
         "einleitung-genesis-der-existenz",
         "optimierte-plotline-genesis-der-existenz",
         "uberarbeitete-optimierte-plotline-genesis-der-existenz",
-        "roman-outline-fuer-kohaerenz-protokoll"
+        "roman-outline-fuer-kohaerenz-protokoll",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 11,
-      "readings": 9,
+      "sources": 12,
+      "readings": 10,
       "conflict": "none yet"
     },
     "resonanz-landschaft": {
@@ -4084,10 +4092,11 @@
         "roman-outline-fuer-kohaerenz-protokoll",
         "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
-        "roman-refactoring-kohaerenz-und-charakterentwicklung"
+        "roman-refactoring-kohaerenz-und-charakterentwicklung",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 66,
-      "readings": 66,
+      "sources": 67,
+      "readings": 67,
       "conflict": "none"
     },
     "silas": {
@@ -4490,10 +4499,11 @@
         "roman-outline-fuer-kohaerenz-protokoll",
         "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
-        "roman-refactoring-kohaerenz-und-charakterentwicklung"
+        "roman-refactoring-kohaerenz-und-charakterentwicklung",
+        "roman-outline-1-13-fuer-kohaerenz-protokoll"
       ],
-      "sources": 71,
-      "readings": 70,
+      "sources": 72,
+      "readings": 71,
       "conflict": "none yet"
     },
     "ueberraum": {
