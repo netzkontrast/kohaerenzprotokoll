@@ -217,3 +217,11 @@ The world side, in the record's terms; the conflict stays open.
 The row opens „KW1: Logos-Prime / Konstrukt-Stadt“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96] and carries `LogOS` as guardian, the principle „Rationalization & Control (ANPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96] and the signature „Sterile, geometric, silent, cold“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96]. `Konstrukt-Stadt` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#1] stands only here, as the second name of the first world beside three other worlds in the same table; the whole simulation is not named by it.
 
 Position 3's scale (KW1, with Logos-Prime); the record is decided by the author, 2026-09-24, KW1 only, and this entry changes nothing.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots writes the Konstrukt-Stadt as KW1 only.**
+
+„Kael (Host) erwacht in der Konstrukt-Stadt (KW1), desorientiert und mit Amnesie“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L27]. Kapitel 2 is titled „Echos in der Konstrukt-Stadt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], and there Lex tries to understand „die Regeln von KW1“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28]. KW2 and KW3 are the Resonanz-Landschaft and the Grenzfeste, so the city is one of three numbered worlds here.
+
+Stands with the record's positions 1 and 3 (KW1), dated 2025-05-02; recorded, not applied.
