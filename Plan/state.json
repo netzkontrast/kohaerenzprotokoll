@@ -7,19 +7,19 @@
       "how": "a read document naming `Kap N` singly with no reading on that chapter's page, scripts/chapters.py"
     },
     "chapters.readings": {
-      "value": 1239,
+      "value": 1278,
       "how": "`## Reading` sections across the chapter pages, one per document per chapter"
     },
     "documents.reconciled": {
-      "value": 123,
+      "value": 124,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 123,
+      "value": 124,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 123,
+      "value": 124,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -39,19 +39,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 7525,
+      "value": 7581,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 14978,
+      "value": 15061,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 14977,
+      "value": 15060,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 254,
+      "value": 255,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -107,11 +107,11 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 35428,
+      "value": 35661,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 111,
+      "value": 112,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -199,7 +199,7 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 125,
+      "value": 126,
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
