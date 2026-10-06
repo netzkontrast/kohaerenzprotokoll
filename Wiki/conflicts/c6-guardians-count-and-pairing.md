@@ -456,3 +456,11 @@ Four worlds, with Kairos and Sophia together in one; it adds a pairing, and deci
 „Jeder Guardian ist einer spezifischen Kernwelt zugeordnet“ ^[charaktere.md:L363] (L363). `LogOS` stands for KW1, `Mnemosyne` for KW2, `Cerberus` for KW3 (L365–L367), and for KW4: „Die Wächter der KW4 (Kairos-Potentialis), einer kreativitäts- und potenzialbasierten Welt“ ^[charaktere.md:L368], `Kairos & Sophia` (L368).
 
 Stands as four worlds with five named Guardians, two of them in KW4; recorded, not applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline claims the guardians reduced to Mnemosyne and the Lösch-Pol, and lists Cerberus, Kairos and Sophia as discarded.**
+
+Appendix B reads: „Wächter Cerberus, Kairos, Sophia: Verworfen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1576], and gives its reason on the same line: „das Pantheon wurde auf Mnemosyne und den Lösch-Pol reduziert“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1576], citing Kanon-Dok 2. Kapitel 5 names Mnemosyne as „Wächter-Entität“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L201].
+
+Stands as a third position beside a larger set of guardians, dated 2026-04-30; the discard is the outline's own claim, recorded and not applied.
