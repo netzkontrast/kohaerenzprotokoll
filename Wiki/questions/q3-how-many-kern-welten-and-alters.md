@@ -548,3 +548,11 @@ Almost all of this is the report's account of other documents, which it numbers 
 For the worlds it writes „vier definierten Kernwelten (Konstrukt-Stadt, Resonanz-Landschaft, Grenzfeste, Möglichkeits-Garten)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L81] as ecological manifestations of Kael's inner landscape (its source 6). Its table, the report's own arrangement of what it cites, carries the early names in brackets: „Konstrukt-Stadt (Co₁)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L92], „Resonanz-Landschaft (McL)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93], „Grenzfeste (B)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94] and „Möglichkeits-Garten (Ly)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95]; its column for the way between worlds is headed „Transitions-Mechanismus (Vakant)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L91]. A five-row table (L56–L61) gives some of the ten alters a world each, KW1 to KW4; the report does not say the worlds and alters correspond.
 
 Stands: the report records both counts as a break and asks for a ruling, and lists four Kernwelten. It predates the author's two answers of 2026-10-05 above (the thirteen alters of the bible, and four Kern-Welten) and changes neither; the open part, whether a Kern-Welt corresponds to an alter, is not settled by it.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet writes KW1 to KW4 and lists parts by name in Kapitel 27-29, with Selene born at the end; it gives no count.**
+
+For the worlds: Kael „besucht erneut die Kernwelten (KW1-4)“ ^[finales-kausales-plot-geruest.md:L164]. For the parts, in Kapitel 27-29: „ANPs wie Lex, Rhys, Alex, Argus und EPs wie Nyx, Kiko, Lia, Isabelle, Moros“ ^[finales-kausales-plot-geruest.md:L171], who learn to cooperate. In Kapitel 36-37 Selene „als Koordinatorin hervortritt“ ^[finales-kausales-plot-geruest.md:L203]. The beat sheet does not say how many parts Kael has, and it does not set a world against a part.
+
+Stands: a plan of 2025-07-29 with four numbered Kernwelten and named parts, which predates the author's two answers of 2026-10-05 (thirteen alters; four Kern-Welten) and changes neither; the correspondence of worlds and parts stays open.
