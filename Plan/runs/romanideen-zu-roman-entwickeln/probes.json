@@ -1,0 +1,227 @@
+{
+  "document": "romanideen-zu-roman-entwickeln",
+  "drive_id": "1YyDYC1oljmKcO42DAfilOnpF0gP0PL9O5PNJAqpquns",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 9,
+  "backslash_escapes": 92,
+  "typographic_marks": 166,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "archi": [
+      "Archipel",
+      "Architecture",
+      "Architektur",
+      "Architekturen",
+      "Archivar"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterdynamik",
+      "Charakterentwicklung",
+      "Charakterliste"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationskonflikt",
+      "Integrator",
+      "Integrierten",
+      "Integrität"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systeminterferenz",
+      "Systemprotokolls",
+      "Systems"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollverlust",
+      "Kontrollversuche"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchliche"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwelt",
+      "Überwindung",
+      "Überwältigung"
+    ],
+    "alter": [
+      "Alter",
+      "Altern",
+      "Alters"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinszustandes"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanomalie",
+      "Datenpunkte"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erzäh": [
+      "Erzählstimme",
+      "Erzählung",
+      "Erzählwelt"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationstheorie"
+    ],
+    "inter": [
+      "Interaktionen",
+      "Interpretation",
+      "Interviews"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "persp": [
+      "Perspektive",
+      "Perspektiven",
+      "Perspektivwechsel"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteilen"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle"
+    ],
+    "roman": [
+      "Roman",
+      "Romanentwicklung",
+      "Romans"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheitstür",
+      "Sicherstellen"
+    ],
+    "aggre": [
+      "Aggression",
+      "Aggressiver"
+    ],
+    "algor": [
+      "Algorithmische",
+      "Algorithmischen"
+    ],
+    "antag": [
+      "Antagonist",
+      "Antagonisten"
+    ],
+    "axiom": [
+      "Axiom",
+      "Axiome"
+    ],
+    "besch": [
+      "Beschützer",
+      "Beschützt"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charakterliste"
+    ],
+    [
+      "Akte",
+      "Charakterdynamik"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Rettungsleine"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Performance"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernaxiom"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ],
+    [
+      "Kern",
+      "Kernprozessen"
+    ]
+  ]
+}

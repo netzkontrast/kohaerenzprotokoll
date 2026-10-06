@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      92
+  typographic marks      166
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architecture, Architektur, Architekturen, Archivar
+  chara    Character, Charakter, Charakterdynamik, Charakterentwicklung, Charakterliste
+  integ    Integration, Integrationskonflikt, Integrator, Integrierten, Integrität
+  syste    System, Systeme, Systeminterferenz, Systemprotokolls, Systems
+  kontr    Kontrast, Kontrolle, Kontrollverlust, Kontrollversuche
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widersprüchliche
+  überw    Überwachung, Überwelt, Überwindung, Überwältigung
+  alter    Alter, Altern, Alters
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinszustandes
+  daten    Daten, Datenanomalie, Datenpunkte
+  diese    Diese, Dieser, Dieses
+  erzäh    Erzählstimme, Erzählung, Erzählwelt
+  infor    Information, Informationen, Informationstheorie
+  inter    Interaktionen, Interpretation, Interviews
+  konze    Konzept, Konzepte, Konzepten
+  persp    Perspektive, Perspektiven, Perspektivwechsel
+  persö    Persönlichkeit, Persönlichkeitsanteile, Persönlichkeitsanteilen
+  proto    Protocol, Protokoll, Protokolle
+  roman    Roman, Romanentwicklung, Romans
+  siche    Sicherheit, Sicherheitstür, Sicherstellen
+  aggre    Aggression, Aggressiver
+  algor    Algorithmische, Algorithmischen
+  antag    Antagonist, Antagonisten
+  axiom    Axiom, Axiome
+  besch    Beschützer, Beschützt
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charakter
+  Akte < Charakterliste
+  Akte < Charakterdynamik
+  Akte < Charakterentwicklung
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Seine
+  Eine < Rettungsleine
+  Form < Information
+  Form < Performance
+  Form < Informationen
+  Form < Transformation
+  Form < Informationstheorie
+  Kael < Kaels
+  Kern < Kernaxiom
+  Kern < Kernwelten
+  Kern < Kernkonflikt
+  Kern < Kernprozessen

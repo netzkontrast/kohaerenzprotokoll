@@ -1,0 +1,657 @@
+{
+  "document": "romanideen-zu-roman-entwickeln",
+  "drive_id": "1YyDYC1oljmKcO42DAfilOnpF0gP0PL9O5PNJAqpquns",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "P vs. NP"
+  ],
+  "counts": {
+    "Kael": {
+      "n": 18,
+      "n_including_compounds": 34,
+      "lines": [
+        30,
+        32,
+        34,
+        36,
+        44,
+        48,
+        50,
+        60,
+        64,
+        71,
+        96,
+        97,
+        98,
+        99,
+        107,
+        109,
+        113,
+        118,
+        119,
+        127,
+        129,
+        130,
+        131,
+        132,
+        151,
+        152,
+        160,
+        172
+      ]
+    },
+    "AEGIS": {
+      "n": 29,
+      "n_including_compounds": 32,
+      "lines": [
+        30,
+        32,
+        34,
+        36,
+        44,
+        46,
+        50,
+        94,
+        97,
+        98,
+        99,
+        107,
+        113,
+        118,
+        119,
+        129,
+        130,
+        131,
+        151,
+        152,
+        162,
+        163,
+        172
+      ]
+    },
+    "Alters": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        32,
+        48,
+        99,
+        113,
+        114,
+        118,
+        119,
+        163
+      ]
+    },
+    "Alter": {
+      "n": 3,
+      "n_including_compounds": 12,
+      "lines": [
+        32,
+        48,
+        70,
+        76,
+        99,
+        113,
+        114,
+        118,
+        119,
+        150,
+        163
+      ]
+    },
+    "System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Lex": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        60,
+        71,
+        72,
+        73,
+        74,
+        75,
+        77,
+        99,
+        114,
+        132,
+        150
+      ]
+    },
+    "Nyx": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        60,
+        71,
+        72,
+        73,
+        74,
+        99,
+        114,
+        132
+      ]
+    },
+    "Kiko": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        60,
+        71,
+        72,
+        73,
+        74,
+        75,
+        97,
+        132
+      ]
+    },
+    "Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Nox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Rhys": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        75,
+        78
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Praetor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Oblivion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "KW3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        152
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        152
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        152
+      ]
+    },
+    "Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        151
+      ]
+    },
+    "Riss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Glitch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Predictive Model Collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Gödel-Gambits": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Kohärenz-Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "lebenden Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "logische Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "algorithmischen Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "ineffiziente Schönheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Gärtners": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Archivar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Akte 7B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "AEGIS-Protokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        165,
+        170,
+        173,
+        176,
+        177
+      ]
+    },
+    "World Bible": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        62,
+        176
+      ]
+    },
+    "Narrative Blueprint": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        177
+      ]
+    },
+    "Kohärenz durch Ausschluss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Kohärenz durch Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "perverse Lernschleife": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        118
+      ]
+    },
+    "performative Prosa": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "integrierter Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Algorithmischen Horrors": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        96
+      ]
+    },
+    "Zombie-System": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        131
+      ]
+    },
+    "Täterintrojekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Emotionalen Anteils": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "ANP": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        71,
+        72,
+        73,
+        75,
+        76,
+        77,
+        97,
+        114
+      ]
+    },
+    "EP": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        71,
+        73,
+        74,
+        76,
+        78,
+        97,
+        114
+      ]
+    },
+    "ISH": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Host": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        96
+      ]
+    },
+    "Wir-Perspektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "polyphonen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        129
+      ]
+    },
+    "Gaslightings": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Found Footage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Widersprüchliche Fußnoten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Kernaxiom": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        130,
+        131
+      ]
+    },
+    "systemischer Schlaganfall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Prinzips der Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "dialetheischen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Integrierten Informationstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "IIT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50
+      ]
+    },
+    "Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        70,
+        148
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Gödel'sche Unvollständigkeitssätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    }
+  }
+}

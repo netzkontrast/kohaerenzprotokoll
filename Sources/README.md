@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 168 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 168 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 169 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 169 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -549,7 +549,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Project Coherence Protocol: Narrative Blueprint Decisions](drive/project-coherence-protocol-narrative-blueprint-decisions.md) | 2025-10-15 | 4,384 |  | Algorithmische Melancholie† 4, Cache-Kohärenz† 2, Gödel-Gambit 2, Rhys 3, Alters 7, Lex 7, Nyx 6, Kiko 4 | Paraconsistent 8, Gödel-sentence 3, The_Void_ 4, Tragedy 3, Classical Logic 4 |
 | [Report: Narrative Methodology for "Kohärenz Protokoll"](drive/report-narrative-methodology-for-kohaerenz-protokoll.md) | 2025-10-15 | 2,372 |  | Lex 3, Emergenz† 2, Risse† 5, Kael 21, AEGIS 19 | THE GUARDIANS 4, Observer 3, Co-consciousness 2, Embodiment 2, Agency 3 |
 | [Roman-Plot: Kohärenz-Protokoll-Glitch](drive/roman-plot-kohaerenz-protokoll-glitch.md) | 2025-10-15 | 3,391 |  | Überwelt 10, Risse 9, Emergenz† 2, Kohärenz 4 | Silus 16, Aris 19, Elara 10, Aethelred 2, Archibald 3 |
-| [Romanideen zu Roman entwickeln](drive/romanideen-zu-roman-entwickeln.md) | 2025-10-15 | 2,788 |  | Lex 11, Rhys 3, Nyx 8, Alters 8, Kiko 5, Moonshine-Link 2, Multiplizität 2, TSDP 3 | NP 3, Zombie-System 2, Coherence Protocol 5, IIT 2, Kikos 3 |
+| [Romanideen zu Roman entwickeln](drive/romanideen-zu-roman-entwickeln.md) | 2025-10-15 | 2,788 | **read** | Lex 11, Rhys 3, Nyx 8, Alters 8, Kiko 5, Moonshine-Link 2, Multiplizität 2, TSDP 3 | NP 3, Zombie-System 2, Coherence Protocol 5, IIT 2, Kikos 3 |
 | [The Coherence Protocol: A Narrative Distillation](drive/the-coherence-protocol-a-narrative-distillation.md) | 2025-10-15 | 7,856 | **read** | Gödel-Gambit 6, Algorithmische Melancholie† 6, Alters 25, Resonanz-Landschaft† 2, Genesis 3, Rhys 4, Nyx 12, Konstrukt-Stadt† 3 | Action Systems 3, Zombie-System 4, Rigid Order 2, "dialetheic mind" 3, Antagonist-System 2 |
 | [The "Writer's Room" Blueprint: Coherence Protocol](drive/the-writer-s-room-blueprint-coherence-protocol.md) | 2025-10-15 | 4,463 | **read** | Gödel-Gambit 5, Argus 3, Moros 3, Algorithmische Melancholie† 2, Lex 8, Guardians 4, Moonshine-Link 3, Nyx 7 | Living Paradox 4, THE GUARDIANS 3, Co-consciousness 4, Thorne 2, The_Void_ 3 |
 | [Roman als transformativer Prozess: Alchemie der Erzählung](drive/roman-als-transformativer-prozess-alchemie-der-erzaehlung.md) | 2025-10-16 | 3,978 |  | Negentropie 2, Multiplizität 3, Nichts-Rauschen 2, LogOS 2, Entropie 6, Kael 27, AEGIS 17 | Eros 5, Wabi-Sabi 2, Wolfgang 2, Individuation 4, Anima 2 |

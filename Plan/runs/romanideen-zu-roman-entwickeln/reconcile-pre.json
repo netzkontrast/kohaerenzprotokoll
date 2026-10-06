@@ -1,0 +1,534 @@
+{
+  "document": "romanideen-zu-roman-entwickeln",
+  "step": "reconcile-pre",
+  "at": "2026-10-06",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-06",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 74,
+  "decisions": 77,
+  "same_surface": {},
+  "decided_mechanically": 60,
+  "needs_judgement": 17,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 145
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 143
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 88
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 99
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 97
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 96
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 75
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 85
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 53
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 79
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 106
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 74
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 84
+      },
+      {
+        "candidate": "Glitch",
+        "page": "risse",
+        "readings": 111
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 57
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 94
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 93
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Index"
+      },
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Praetor"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "Predictive Model Collapse"
+      },
+      {
+        "candidate": "lebenden Gödel-Satz"
+      },
+      {
+        "candidate": "logische Explosion"
+      },
+      {
+        "candidate": "algorithmischen Melancholie"
+      },
+      {
+        "candidate": "ineffiziente Schönheit"
+      },
+      {
+        "candidate": "Gärtners"
+      },
+      {
+        "candidate": "Archivar"
+      },
+      {
+        "candidate": "Akte 7B"
+      },
+      {
+        "candidate": "Coherence Protocol"
+      },
+      {
+        "candidate": "World Bible"
+      },
+      {
+        "candidate": "Narrative Blueprint"
+      },
+      {
+        "candidate": "perverse Lernschleife"
+      },
+      {
+        "candidate": "performative Prosa"
+      },
+      {
+        "candidate": "Algorithmischen Horrors"
+      },
+      {
+        "candidate": "Zombie-System"
+      },
+      {
+        "candidate": "Täterintrojekt"
+      },
+      {
+        "candidate": "Emotionalen Anteils"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "ISH"
+      },
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "Wir-Perspektive"
+      },
+      {
+        "candidate": "polyphonen"
+      },
+      {
+        "candidate": "Gaslightings"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "Found Footage"
+      },
+      {
+        "candidate": "Widersprüchliche Fußnoten"
+      },
+      {
+        "candidate": "Kernaxiom"
+      },
+      {
+        "candidate": "systemischer Schlaganfall"
+      },
+      {
+        "candidate": "Prinzips der Explosion"
+      },
+      {
+        "candidate": "dialetheischen"
+      },
+      {
+        "candidate": "Integrierten Informationstheorie"
+      },
+      {
+        "candidate": "IIT"
+      },
+      {
+        "candidate": "Strukturellen Dissoziation der Persönlichkeit"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Parakonsistente Logik"
+      },
+      {
+        "candidate": "Gödel'sche Unvollständigkeitssätze"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  System Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Protokolle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alters  /  Alter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archipel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Gödel-Gambits",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "godelgambit",
+            "page": "goedel-gambit"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Gambit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Protokolle",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz durch Ausschluss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz durch Integration",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "integrierter Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 132,
+      "already_read": false
+    },
+    {
+      "page": "goedel-gambit",
+      "surface": "Gödel-Gambit",
+      "line": 162,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 97,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 30,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
