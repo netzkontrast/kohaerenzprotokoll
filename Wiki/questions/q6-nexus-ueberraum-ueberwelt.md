@@ -229,3 +229,11 @@ Stands as a KW4 reading of the Nexus, apart from the Überwelt; recorded, not ap
 It declares „the primary computational control layer“ ^[aegis-manifest-genesis-krise-reboot.md:L55], and that sub-realities, firewalls and quarantine zones are „hierarchical dependencies nested strictly within the“ ^[aegis-manifest-genesis-krise-reboot.md:L61] Überwelt's execution thread. `Nexus` ^[aegis-manifest-genesis-krise-reboot.md:#0] and `Überraum` ^[aegis-manifest-genesis-krise-reboot.md:#0] do not appear; `Überwelt` ^[aegis-manifest-genesis-krise-reboot.md:#12].
 
 Where it stands in the record's own terms: one of the three names, the Überwelt, as a control layer in AEGIS's voice; it neither separates nor equates the others, and the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis names Nexus once, in [[sophia|Sophia]]'s hypothetical cell, and the Überwelt as AEGIS's domain.**
+
+Sophia's world cell reads „(Potenziell) Übergeordnet/Nexus“ ^[kohaerenz-protokoll-plotideen-generierung.md:L156]. The Überwelt: „Diese Konzepte untermauern die Idee, dass AEGIS' Domäne (die Überwelt)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L43]. The document does not relate the two.
+
+Stands as one occurrence of Nexus and one of the Überwelt in a hedged analysis; recorded, nothing decided.
