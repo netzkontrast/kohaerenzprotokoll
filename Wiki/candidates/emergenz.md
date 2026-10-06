@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "roman-outline-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -76,6 +76,10 @@ The matrix gives emergence two roles: „Erklärung für M's holistische Natur�
 ## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — emergence as the outcome of rigid control
 
 In the introduction's science field the plan says that „wo rigide Kontrolle zu“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L16] the `Emergenz` of unwanted, unstable states leads. Chapter 20 repeats it in its application field: „AEGIS' Scheitern wurzelt in der Unfähigkeit, Emergenz“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L188] and complexity to handle adequately.
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — the Prologue's Emergenz, which AEGIS tries to steer
+
+The Prologue's Philo Hint, the outline's own application of a philosophy, reads the origin as Emergenz: „AEGIS entsteht als komplexes System aus einfacheren, chaotischen Interaktionen, angetrieben durch einen Überlebensimperativ.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L38] AEGIS's reaction is planned as resistance to what it cannot control: „AEGIS versucht, Emergenz zu steuern, scheitert aber an ihrer Natur und greift zur destruktiven Kontrolle.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L38]
 
 ## Reading — `charaktere`, 2025-07-29, the character concept — Kontrolle vs. Emergenz
 
