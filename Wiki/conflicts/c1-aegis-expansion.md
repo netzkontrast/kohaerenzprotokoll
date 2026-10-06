@@ -204,3 +204,11 @@ Stands as position 1 of C1 again; no new position.
 It gives the goal of AEGIS as stability, order and predictability through minimising entropy.
 
 Stands as another witness of the expansion in the record's position 1, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing
+
+**The briefing expands AEGIS as „Autonomous Entropic Gatekeeper for Integrity Systems“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L56] in the entity section.**
+
+The line reads „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is the central antagonist“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L56] and goes on to call it a tragic entity rather than a malevolent one.
+
+Stands as position 1 again, in a briefing of 2025-10-15; recorded, not applied.
