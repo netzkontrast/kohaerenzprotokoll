@@ -1,0 +1,128 @@
+# counts for 89 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                            158 word   249 in   [19, 20, 22, 30, 34, 42]
+                                   90      as Kaels
+                                    1      as Kael-Juna-Dynamik
+  Juna                             54 word    95 in   [34, 42, 50, 86, 91, 101]
+                                   12      as Juna-Verbindung
+                                   10      as Junas
+                                    9      as Juna-Spur
+                                    3      as Juna-Resonanz
+  Julia                             1 word     3 in   [38, 42, 215]  <-- substring
+                                    2      as Julias
+  AEGIS                           119 word   123 in   [19, 21, 34, 42, 46, 50]
+                                    2      as AEGIS-Netzwerk
+                                    1      as AEGIS-Reboot
+                                    1      as AEGIS-Reboots
+  LogOS                            50 word    50 in   [114, 147, 148, 159, 169, 170]
+  Mnemosyne                        19 word    29 in   [115, 240, 252, 264, 274, 275]
+                                   10      as Mnemosynes
+  Cerberus                         33 word    33 in   [116, 286, 287, 288, 289, 298]
+  Kairos                           20 word    20 in   [117, 391, 406, 418, 421, 425]
+  Sophia                           10 word    17 in   [113, 392, 407, 449, 451, 452]
+                                    7      as Sophias
+  Guardians                        43 word    43 in   [22, 58, 71, 105, 109, 129]
+  Guardian                         19 word    65 in   [22, 58, 71, 105, 109, 129]  <-- substring
+                                   43      as Guardians
+                                    1      as Guardian-Wandel
+                                    1      as Guardian-Strategie
+                                    1      as Guardian-Wandels
+  Kern-Welten                      13 word    13 in   [19, 58, 72, 160, 207, 217]
+  KW1                              34 word    34 in   [58, 138, 145, 147, 148, 159]
+  KW2                              36 word    36 in   [22, 58, 198, 201, 238, 239]
+  KW3                              26 word    26 in   [22, 58, 196, 197, 202, 286]
+  KW4                              16 word    16 in   [58, 199, 200, 204, 319, 406]
+  Konstrukt-Stadt                   5 word     5 in   [145, 148, 195, 203, 403]
+  Resonanz-Landschaft               5 word     5 in   [198, 201, 238, 241, 253]
+  Grenzfeste                        7 word     7 in   [196, 197, 202, 286, 289, 301]
+  Möglichkeits-Garten               5 word     5 in   [199, 200, 204, 416, 419]
+  Überwelt                         12 word    12 in   [205, 377, 407, 437, 439, 440]
+  Potentialmeer                     2 word     2 in   [34, 440]
+  Kohärenz-Inseln                   2 word     2 in   [30, 34]
+  K-J-Essenz                        3 word     3 in   [30, 34, 251]
+  K-J-Paradox                       9 word    10 in   [30, 34, 125, 129, 149, 254]
+                                    1      as K-J-Paradoxon
+  K-J-Paradoxon                     1 word     1 in   [319]
+  Gleichzeitigkeit                  3 word     3 in   [30, 34, 129]
+  Instrumente der Ordnung           6 word     6 in   [54, 58, 170, 172, 363, 440]
+  Risse                            23 word    23 in   [42, 138, 145, 146, 148, 150]
+  Welle                             6 word     7 in   [38, 42, 310, 313, 326, 338]
+                                    1      as Wellen
+  Bond-Verlust                      2 word     3 in   [38, 42, 146]
+                                    1      as Bond-Verlusts
+  Externe Ebene                     2 word     2 in   [101, 452]
+  Externen Ebene                    2 word     2 in   [215, 218]
+  Seele=Info                        2 word     2 in   [86, 441]
+  Reboot                           10 word    16 in   [42, 46, 50, 138, 142, 147]
+                                    2      as Reboots
+  Neustart                          6 word     7 in   [142, 144, 145, 323, 325, 331]
+  v1.4                             21 word    21 in   [42, 50, 66, 138, 147, 159]
+  v1.5                             37 word    37 in   [62, 66, 71, 82, 86, 109]
+  blinden Fleck                     4 word     9 in   [50, 227, 275, 328, 339, 363]  <-- substring
+  Host                             17 word    21 in   [145, 146, 147, 159, 171, 181]
+                                    1      as Host-Anteil
+                                    1      as Hosts
+                                    1      as Host-Persönlichkeit
+  Alters                           48 word    50 in   [101, 147, 158, 159, 171, 182]
+  Limina                            7 word    12 in   [19, 181, 183, 196, 217, 238]
+                                    5      as Liminal
+                                    1      as liminaler
+                                    1      as liminal
+  Nox                              21 word    21 in   [159, 171, 181, 183, 197, 262]
+  Echo                             13 word    20 in   [154, 156, 159, 198, 214, 228]
+                                    6      as Echos
+                                    1      as Echoes
+  Flicker                           7 word     7 in   [199, 216, 286, 364, 416, 418]
+  Eos                               5 word     5 in   [200, 416, 418, 430]
+  Oblivion                          7 word     7 in   [201, 240, 250, 252, 276, 340]
+  Praetor                          10 word    10 in   [181, 183, 202, 228, 264, 288]
+  Index                            11 word    11 in   [171, 203, 228, 298, 300, 350]
+  Silas                             5 word     5 in   [204, 216, 350, 352, 430]
+  \*Self\*                          1 word     1 in   [205]
+  ANP                              21 word    21 in   [147, 149, 159, 161, 171, 183]
+  EP                                6 word    11 in   [149, 158, 159, 161, 185, 198]
+  Gatekeeper                        3 word     4 in   [181, 196, 240, 288]
+                                    1      as Gatekeeper-Funktion
+  Persecutor                        4 word     5 in   [171, 181, 197, 263, 266]
+                                    1      as Persecutor-Alters
+  Firefighter                       4 word     5 in   [101, 197, 202, 266, 350]
+                                    1      as Firefighter-Rolle
+  Manager                           7 word     8 in   [101, 195, 196, 200, 203, 204]
+                                    1      as Managern
+  Exile                             4 word     5 in   [197, 198, 199, 201, 350]
+                                    1      as Exiles
+  Exiles                            1 word     1 in   [350]
+  Switching                         3 word     3 in   [182, 183, 185]
+  NPCs                              4 word     4 in   [145, 157, 160, 329]
+  Environmental Storytelling       28 word    28 in   [19, 148, 160, 172, 184, 217]
+  EST                              46 word    46 in   [19, 148, 160, 172, 184, 207]
+  Setting as Character              2 word     2 in   [19, 472]
+  Liminal Spaces                    1 word     1 in   [19]
+  Prozedurale Rhetorik              3 word     3 in   [19, 170, 173]
+  Uncanny Valley                    4 word     4 in   [22, 169, 329, 519]
+  Internal Family Systems           5 word     5 in   [20, 185, 266, 354, 489]
+  IFS                               3 word     7 in   [20, 182, 194, 207, 263, 350]  <-- substring
+  Strukturelle Dissoziation         3 word     3 in   [149, 185, 354]
+  TSDP                              5 word     5 in   [20, 149, 161, 194, 207]
+  DID                               5 word     9 in   [20, 146, 158, 182, 263, 351]
+  funktionale Multiplizität         1 word     1 in   [101]
+  Apparently Normal Personality     1 word     1 in   [147]
+  Shannon-Entropie                  1 word     1 in   [34]
+  Ashbys Gesetz                     3 word     3 in   [227, 230, 409]
+  Requisite Variety                 2 word     2 in   [390, 527]
+  Homöostase                        3 word     4 in   [92, 327, 330]
+                                    1      as Homöostase-Protokolle
+  Morphogenese                      3 word     3 in   [327, 330]
+  Kybernetik zweiter Ordnung        1 word     1 in   [330]
+  Anomaly Detection                 3 word     3 in   [73, 388, 531]
+  Heldenreise                       2 word     2 in   [314, 432]
+  Unreliable Narrator               1 word     1 in   [161]
+  Stream of Consciousness           1 word     1 in   [353]
+  Self-Energy                       1 word     1 in   [352]
+  Self-Leadership                   1 word     1 in   [351]
+  Sonifikation                      4 word     6 in   [19, 148, 217, 277, 329, 443]
+  Architektur als Metapher          5 word     5 in   [19, 148, 170, 173, 444]
+  Psychologischer Horror            5 word     5 in   [266, 289, 290, 302, 366]

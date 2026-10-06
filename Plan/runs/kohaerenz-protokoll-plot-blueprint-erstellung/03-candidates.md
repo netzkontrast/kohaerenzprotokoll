@@ -1,0 +1,96 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is a plot blueprint in German with English chapter subtitles, built from a methodological introduction, eleven numbered core questions with answers, then chapter steps 1.1 to 1.13 and 2.1 to 2.9 plus a heading and four empty field labels for 2.10, three tables, and a reference list of 87 web sources that it cites by glued numbers. The Antwort label stands nine times. Terms that stand only in the introduction's research list or the reference list are borrowed concepts and come under the lens heading. Names of the alters stand in a table and in the chapter fields. The document stops mid-step at 2.10, after the label Guardians with nothing following, so steps 2.11 to 2.13 and all of Teil 3 are named by cross references (the Integriert in lists) but are not written.
+
+- Kael
+- Juna
+- Julia
+- AEGIS
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Guardians
+- Guardian
+- Kern-Welten
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Überwelt
+- Potentialmeer
+- Kohärenz-Inseln
+- K-J-Essenz
+- K-J-Paradox
+- K-J-Paradoxon
+- Gleichzeitigkeit
+- Instrumente der Ordnung
+- Risse
+- Welle
+- Bond-Verlust
+- Externe Ebene
+- Externen Ebene
+- Seele=Info
+- Reboot
+- Neustart
+- v1.4
+- v1.5
+- blinden Fleck
+- Host
+- Alters
+- Limina
+- Nox
+- Echo
+- Flicker
+- Eos
+- Oblivion
+- Praetor
+- Index
+- Silas
+- \*Self\*
+- ANP
+- EP
+- Gatekeeper
+- Persecutor
+- Firefighter
+- Manager
+- Exile
+- Exiles
+- Switching
+- NPCs
+
+## lens
+
+- Environmental Storytelling
+- EST
+- Setting as Character
+- Liminal Spaces
+- Prozedurale Rhetorik
+- Uncanny Valley
+- Internal Family Systems
+- IFS
+- Strukturelle Dissoziation
+- TSDP
+- DID
+- funktionale Multiplizität
+- Apparently Normal Personality
+- Shannon-Entropie
+- Ashbys Gesetz
+- Requisite Variety
+- Homöostase
+- Morphogenese
+- Kybernetik zweiter Ordnung
+- Anomaly Detection
+- Heldenreise
+- Unreliable Narrator
+- Stream of Consciousness
+- Self-Energy
+- Self-Leadership
+- Sonifikation
+- Architektur als Metapher
+- Psychologischer Horror
