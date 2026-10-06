@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 31
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 37
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "systemic-architecture-specification-the-coherence-protocol-w", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -53,12 +53,28 @@ Title: the commission titles the chapter „Der Glitch im Spiegel“ ^[kontext-o
 - Story: its `Plot Summary` plans „Desorientierung, Amnesie, spürt Glitches“ ^[kontext-outline.md:L79]
 - Foci: `Kael Sys Focus` „Host-Dominanz, Amnesie, unbewusste Logik (Lex) als Coping“ ^[kontext-outline.md:L80]; `AEGIS Focus` „Etabliert Basiskontrolle durch subtile Regeln“ ^[kontext-outline.md:L81]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Erlebte Fragmentierung`
+
+Focus: `Erlebte Fragmentierung`, „Die subjektive Erfahrung von Desorientierung und Kontrollverlust“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L53]
+
+- Story: „Erzählt aus der engen Perspektive des Kael-Hosts (ANP)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L54]; „verstärkt das Gefühl der Entfremdung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L54]
+- Concept: „Fokussiert auf Alltagsbewältigung bei gleichzeitiger Amnesie für Trauma/andere Teile“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L55] (concept tag: the `ANP-Funktion` in TSDP)
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Das Erwachen im Spiegel
 
 Title: „Das Erwachen im Spiegel“ ^[roman-outline-system-kael.md:L55]
 Position: Teil I, KW1
 
 - Story: Kael wakes „in seinem sterilen Apartment (E1) nach einem System-Neustart“ ^[roman-outline-system-kael.md:L55]; „ein Spiegelbild, das nicht vollständig synchron agiert“ ^[roman-outline-system-kael.md:L55].
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.1, „Der Funke im Nichts / Das Flackern im Konstrukt“ ^[finales-kausales-plot-geruest.md:L24] (Kapitel 1–2)
+
+The beat sheet places Kapitel 1 in Beat 1.1; the beat spans Kapitel 1 to 2.
+
+- Beat: the heading titles it „Der Funke im Nichts / Das Flackern im Konstrukt“ ^[finales-kausales-plot-geruest.md:L24]
+- Event: the beat sheet's `Beschreibung` says „erwacht Kael in der hyper-geordneten, sterilen Kernwelt“ ^[finales-kausales-plot-geruest.md:L26]
+- Cause: the `Kausale Verknüpfung` says „mit Amnesie ist die direkte Folge dieses Reboots“ ^[finales-kausales-plot-geruest.md:L27]
+- Throughlines: the OS or MC line says „Führt Kaels anfänglichen Zustand der Amnesie und Fragmentierung ein“ ^[finales-kausales-plot-geruest.md:L33]
 
 ## Reading — `outline`, 2025-07-30, the outline — Das Flüstern der Konstrukt-Stadt
 
@@ -88,6 +104,12 @@ Position: Teil I, „Separation vom Alten“ ^[romanstruktur-und-philosophische-
 - Back-reference from Kap 13: Kael sees KW1 „nicht mehr als perfekten Ort (wie in Kap. 1)“ ^[romanstruktur-und-philosophische-einleitung.md:L117]
 - `Kapitel 40/0` returns to this chapter's scene: „Er steht in KW1.“ ^[romanstruktur-und-philosophische-einleitung.md:L306]
 
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — the draft's first chapter reported, slower pacing proposed
+
+- The plot analysis reports the draft's first chapter as „Welterkundung Konstrukt-Stadt“ ^[plot-analyse-und-romanentwicklung.md:L37], a world that unsettles by „absolute, kantenlose Symmetrie“ ^[plot-analyse-und-romanentwicklung.md:L37], and in it a crack „im Transitkorridor“ ^[plot-analyse-und-romanentwicklung.md:L31].
+- It names „ein signifikantes Pacing-Problem“ ^[plot-analyse-und-romanentwicklung.md:L41]: Kael, the unknowing „Host“ ^[plot-analyse-und-romanentwicklung.md:L41], feels at once a „Welle, heiß und schmerzhaft“ ^[plot-analyse-und-romanentwicklung.md:L41]. It proposes that in the first chapters he feel no explicit emotion: „Er ist der logische Verifikator“ ^[plot-analyse-und-romanentwicklung.md:L45].
+- For Kap 1–3 it proposes architectural storytelling: „Beschreiben Sie detailliert die Wartungsdrohnen in der Konstrukt-Stadt“ ^[plot-analyse-und-romanentwicklung.md:L141], whose repair costs light and heat.
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Der Kristalline Käfig
 
 Title: „Der Kristalline Käfig“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L59]
@@ -95,6 +117,15 @@ Position: Teil I; setting from the `Schauplatz` field: „Logos-Prime (KW1) – 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael (Host/ANP), Juna (Hologramm), AEGIS-Protokolle“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L62]
 - Story: the blueprint plans, in `Plot-Beats`, „Während des formalen Check-ins mit dem Juna-Hologramm erlebt Kael eine unerklärliche Trauer-Intrusion“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64] and „Kael rationalisiert dies weg“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L64]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the Konstrukt-Stadt as established in Kapitel 1
+
+- the report, reviewing documents it numbers (its source 27), says „Während Kapitel 1 die Konstrukt-Stadt durch präzises“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L81] Architectural Storytelling „exzellent etabliert“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L81]; it sits under Leitfrage 4 (transition between the Kernwelten), which finds the mechanics between the worlds unzureichend definiert.
+
+## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — the first chapter criticised as sterile, the waking recommended as the start
+
+- The publisher's report summarises the first chapter as „Welterkundung Konstrukt-Stadt“ ^[romananalyse-kohaerenz-plot-kritik.md:L129] in „einen stark distanzierten, minimalistischen Erzählstil“ ^[romananalyse-kohaerenz-plot-kritik.md:L129], and criticises that Kael is there „extrem reaktiv und passiv“ ^[romananalyse-kohaerenz-plot-kritik.md:L141].
+- It recommends keeping the start: „Das Erwachen nach dem Reboot in der Konstrukt-Stadt“ ^[romananalyse-kohaerenz-plot-kritik.md:L152] is the correct starting point,, and the first Glitch is to come much earlier — the report's recommendation, not the chapter's content.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Erwachen-Zyklus
 
@@ -174,6 +205,11 @@ Title: „Der Universal Reboot“ ^[kohaerenz-protokoll-kapitel-outline-generier
 - Story: the dual-storyform outline plans „Kael erwacht nach einem System-Reset in Sektor 0“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L65]
 - Storyforms: `Storyform B` (`MC: Universe/Past`): „Kael ist in seiner Amnesie gefangen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L67]; `Storyform A` (`MC: Mind/Memory`): „phantomatischen Schmerz“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L68]
 - Scene and pacing: `Szenen-Keim`: „Eine sterile weiße Kammer“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L69]; `Pacing`: „Extrem langsam, Fokus auf sensorische Deprivation“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L70]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Phase I opens; Kael wakes after a reboot
+
+- The reset synthesis opens Phase I with the heading „Die Ästhetik der Ohnmacht (Kapitel 1–13)“ ^[romanprojekt-analyse-synthese.md:L46]
+- It places Kael's waking here: „Kael erwacht nach einem“ ^[romanprojekt-analyse-synthese.md:L48] a „Universal Reboot“ ^[romanprojekt-analyse-synthese.md:L48]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

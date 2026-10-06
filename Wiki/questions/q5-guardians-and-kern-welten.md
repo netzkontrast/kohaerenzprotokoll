@@ -385,3 +385,51 @@ Stands as four worlds with five named Guardians, two of them in KW4; recorded, n
 The table is headed „Core World & Guardian“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L95], and the rows give the guardian after each world: LogOS beside „KW1: Logos-Prime / Konstrukt-Stadt“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96], `Mnemosyne` beside `KW2: Mnemosyne-Archipel / Resonanz-Landschaft` (L97), `Cerberus` beside „KW3: Cerberus-Labyrinth / Grenzfeste“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], and beside „KW4: Kairos-Potentialis“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L99] the single form „Kairos/Sophia“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L99]. The slash is the document's; it writes `Kairos` and `Sophia` only there, as one guardian entry of one row, and does not say whether it means one figure or two. It names no Erasure-Pol and no fifth guardian; in the plot it speaks of the „Guardian's Dilemma“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L46] among enforcers (L154).
 
 Four worlds with one guardian entry each, KW4's written as one slash form; the question of five guardians stays open.
+
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development pairs one Guardian with each of KW1 to KW3 and plans „den dualen Guardians Kairos“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L166] for KW4.**
+
+The four worlds stand in the chapter blocks: KW1 as „Logos-Prime“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L54] with the Guardian LogOS in Chapter 2 („Guardian LogOS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61]); KW2 as „Mnemosyne-Archipel“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L82], with Mnemosyne as AEGIS's agent in Chapter 5; KW3 as „Cerberus-Labyrinth“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110], with „Guardian Cerberus“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110] in Chapter 9. For KW4 Chapter 17 plans „Kairos-Potentialis“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L166], and the strategy field reads „Kairos (Potenzial/Chance) und Sophia (Weisheit/Struktur?)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L166], with a question mark on Sophia's function. The plan names no Erasure-Pol and no fifth world.
+
+Where it stands in the record's own terms: four worlds, four Guardian pairs, KW4's with two Guardians, Sophia hedged; this is a plan of 2025-05-03 and settles neither the pairing nor the world names; the question stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report's table sets one Guardian against each of four Kernwelten, KW4 with `Kairos` and `Sophia` together, and calls the last three profiles weak.**
+
+The table is the report's own arrangement of the documents it cites (its source 31). Its column header is „Transitions-Mechanismus (Vakant)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L91] beside the Guardian column; the rows pair `LogOS` with „Konstrukt-Stadt (Co₁)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L92], `Mnemosyne` with „Resonanz-Landschaft (McL)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L93], `Cerberus` with „Grenzfeste (B)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L94] and „Kairos / Sophia“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95] with „Möglichkeits-Garten (Ly)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95]. The prose says: „Die Profile der verbleibenden Guardians – Cerberus (Grenzfeste) sowie Kairos und Sophia (Möglichkeits-Garten / Nexus)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105], and judges them „konzeptionell deutlich schwächer ausgearbeitet“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105]. It names no Erasure-Pol.
+
+Stands: five Guardians over four worlds, KW4 held by two, as the report cites it; nothing decided, and no source's pairing is applied.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis names five Guardians in its build plan and assigns no world.**
+
+The line reads „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[romanprojekt-analyse-synthese.md:L153]; Kairos and Sophia are separate names, with a comma between them, not a slash form or a pair. They are to act as specialised filter algorithms, each a defensive wall in Kael's psyche, and to fail by „logische Überladung“ ^[romanprojekt-analyse-synthese.md:L153]. `Kernwelt` ^[romanprojekt-analyse-synthese.md:#0] and `KW` ^[romanprojekt-analyse-synthese.md:#0] do not stand in the document, and it names no Erasure-Pol.
+
+Stands: five Guardians, none paired with a world, in a plan of 2026-04-30; nothing decided, and the question stays open.
+
+## 2026-10-06 — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept
+
+**The Erlebniswelten concept names one guardian in brackets after each of the four worlds, KW4's as the slash form `Kairos/Sophia`.**
+
+The four lines of its list read „KW1: Konstrukt-Stadt (LogOS):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L17], „KW2: Resonanz-Landschaft (Mnemosyne):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18], „KW3: Grenzfeste (Cerberus):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L19] and „KW4: Möglichkeits-Garten (Kairos/Sophia):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L20]. The concept calls none of the names a Guardian and says nothing further of them; Sophia comes once more, in Selene's entry, hedged: „Sie könnte eine besondere Verbindung zu Sophia haben“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L46]. It does not mention an Erasure-Pol.
+
+Where it stands in the record's own terms: four worlds, four bracketed names, KW4's with two, in a concept of 2025-04-29; it pairs and settles nothing about five Guardians, and the question stays open.
+
+## 2026-10-06 — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis
+
+**The plot analysis proposes a table giving each of four Kern-Welten one guardian cell, the fourth reading `Kairos / Sophia`.**
+
+The table (L67–L73) is the assistant's structuring (L63), and its column header is „Zuständiger Guardian“ ^[plot-analyse-und-romanentwicklung.md:L69]. Its rows pair LogOS with the Konstrukt-Stadt (L70), Mnemosyne with the Resonanz-Landschaft (L71), Cerberus with the Grenzfeste (L72) and „Kairos / Sophia“ ^[plot-analyse-und-romanentwicklung.md:L73] with the Möglichkeits-Garten (L73), each with an IFS category: Manager (ANP), Manager & Caretaker, Firefighter / Protectors, and Exiles & Emergent Parts. The document does not say whether the last cell is one guardian or two, and it names no Erasure-Pol.
+
+Stands as one proposed pairing per world, with KW4's cell shared; recorded, no pairing applied, and the question's status is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report pairs LogOS with KW1, Mnemosyne with KW2, Cerberus with KW3 and `Kairos & Sophia` with KW4, each with a blind spot regarding Juna.**
+
+Its table (L56–L59) reads the blind spots: LogOS „Betrachtet Emotionen als Rauschen.“ ^[romananalyse-kohaerenz-plot-kritik.md:L56], Mnemosyne „Verwechselt die Partnerin mit einer abgeschlossenen Narbe oder einem vergangenen Verlust“ ^[romananalyse-kohaerenz-plot-kritik.md:L57], Cerberus „als feindliche Intrusion, die es zu neutralisieren gilt“ ^[romananalyse-kohaerenz-plot-kritik.md:L58], and in KW4 Kairos „sieht nur das Chaos und Potenzial, verfehlt aber die Notwendigkeit spezifischer Reintegration“ ^[romananalyse-kohaerenz-plot-kritik.md:L59], while Sophia „sucht Integration durch die Eliminierung von Differenzen, nicht durch Synthese“ ^[romananalyse-kohaerenz-plot-kritik.md:L59]. The report summarises these as functions of a DID allegory (reference 3), not as a proposal.
+
+Stands as one pairing per world with KW4's cell shared, in a report of 2026-02-23; recorded, no pairing applied, and the question's status is not changed.

@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 23
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 25
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,12 +49,28 @@ Title: the commission titles the chapter „Der Tanz der Anteile“ ^[kontext-ou
 - Story: its `Plot Summary` plans „Unbeholfen, konfliktreich, aber erster Schritt zu Ko-Bewusstsein“ ^[kontext-outline.md:L178]
 - Foci: `Kael Sys Focus` „Rhys aktiv (Vermittler)“ ^[kontext-outline.md:L179]; `AEGIS Focus` „Beobachtet interne Veränderungen“ ^[kontext-outline.md:L180]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Beginnende Ko-Präsenz`
+
+Focus: `Beginnende Ko-Präsenz`, „Die ersten bewussten, wenn auch unbeholfenen, Versuche der Kommunikation und Kooperation“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L116]
+
+- Story: „initiiert oder moderiert erste bewusste Dialogversuche zwischen ANPs (Lex, Alex)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L117]; „Das Potenzial für Selene (als integrierender Anteil) könnte hier angedeutet werden“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L118]
+- Concept: „die Überwindung der Phobie vor den dissoziativen Teilen und die Förderung der Kommunikation zwischen ihnen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L118] (concept tag: `Phase 1 der TSDP-Behandlung (Stabilisierung)`)
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Garten der flüsternden Pfade
 
 Title: „Der Garten der flüsternden Pfade“ ^[roman-outline-system-kael.md:L188]
 Position: Teil IV, KW4
 
 - Story: „Kael findet sich im Möglichkeits-Garten (E5) wieder.“ ^[roman-outline-system-kael.md:L188] At the Nexus of Whispers the oracle Sibyl gives „kryptische, aber hoffnungsvolle Prophezeiungen“ ^[roman-outline-system-kael.md:L188].
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.5, „Der blockierte Funke / Die Suche nach dem Nexus“ ^[finales-kausales-plot-geruest.md:L76] (Kapitel 10–12)
+
+The beat sheet places Kapitel 10 in Beat 1.5; the beat spans Kapitel 10 to 12.
+
+- Beat: the heading titles it „Der blockierte Funke / Die Suche nach dem Nexus“ ^[finales-kausales-plot-geruest.md:L76]
+- Event: the beat sheet's `Beschreibung` says „führt dazu, dass AEGIS versucht, diese Verbindungen zu blockieren“ ^[finales-kausales-plot-geruest.md:L78] „Kael kämpft mit tieferen Aspekten seines Traumas“ ^[finales-kausales-plot-geruest.md:L78]
+- Cause: the `Kausale Verknüpfung` says „treibt die Unterdrückung von Kaels integrativen Bemühungen an“ ^[finales-kausales-plot-geruest.md:L79]
+- Throughlines: the OS or MC line says „bei dem seine Bemühungen, die Ordnung aufrechtzuerhalten, aktiv Instabilität verursachen oder die Heilung blockieren“ ^[finales-kausales-plot-geruest.md:L84]
 
 ## Reading — `outline`, 2025-07-30, the outline — Die Wächter an der Schwelle
 

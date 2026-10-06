@@ -30,6 +30,30 @@
    "source": "current",
    "stale": false,
    "category": "plot-outline"
+  },
+  {
+   "run": "chaptercards-sonnet-2026-10-05c",
+   "contract": "ChapterCards",
+   "model": "",
+   "date": "2026-10-05",
+   "calls": 0,
+   "failed_calls": 0,
+   "chunks": null,
+   "failed_chunks": null,
+   "cost_usd": 0.0,
+   "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+   "source_sha256": "087bb8c560631a5bf51cd1a4075fb78e3f50eb90a4e8f9c601a97076feedfb6f",
+   "rows": 45,
+   "candidates": 45,
+   "refused": {},
+   "duplicates": 0,
+   "labels": {},
+   "model_choice": null,
+   "outcome": "yielded",
+   "template": "current",
+   "source": "current",
+   "stale": false,
+   "category": "plot-outline"
   }
  ]
 }

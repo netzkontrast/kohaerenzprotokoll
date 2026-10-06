@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -49,12 +49,28 @@ Title: the commission titles the chapter „Stimmen der Fürsorge“ ^[kontext-o
 - Story: its `Plot Summary` plans „Rhys (Fürsorger) aktiv, versucht zu vermitteln/stabilisieren“ ^[kontext-outline.md:L112]
 - Foci: `Kael Sys Focus` „Erster Kontaktversuch EPs?“ ^[kontext-outline.md:L113]; `AEGIS Focus` „Identifiziert/manipuliert evtl. Empathie als Schwachstelle“ ^[kontext-outline.md:L114]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Interne Vermittlung`
+
+Focus: `Interne Vermittlung`, „Der Versuch des Fürsorger-Anteils (Rhys), interne Konflikte zu moderieren“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L74]
+
+- Story: „Ein erster, vorsichtiger Kontaktversuch zu EPs könnte dargestellt werden“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L75]
+- Concept: „Sein Versuch, zwischen ANPs zu vermitteln und Kontakt zu EPs herzustellen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L76] (concept tag: `Phase 1 der TSDP-Behandlung (Stabilisierung)`)
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Ruf der Tiefe
 
 Title: „Der Ruf der Tiefe“ ^[roman-outline-system-kael.md:L100]
 Position: Teil II, KW2
 
 - Story: „Ein starker Impuls der Juna-Verbindung destabilisiert Kaels Realität in KW1 vollständig.“ ^[roman-outline-system-kael.md:L100]
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.2, „Das Ufer im Nebel / Der Fehler in der Logik“ ^[finales-kausales-plot-geruest.md:L37] (Kapitel 3–4)
+
+The beat sheet places Kapitel 4 in Beat 1.2; the beat spans Kapitel 3 to 4.
+
+- Beat: the heading titles it „Das Ufer im Nebel / Der Fehler in der Logik“ ^[finales-kausales-plot-geruest.md:L37]
+- Event: the beat sheet's `Beschreibung` says „Kael erlebt eine sich verändernde Realität“ ^[finales-kausales-plot-geruest.md:L39] „behindert aktiv sein Verständnis“ ^[finales-kausales-plot-geruest.md:L39]
+- Cause: the `Kausale Verknüpfung` says „liegt in seiner TSDP-basierten Fragmentierung begründet“ ^[finales-kausales-plot-geruest.md:L40]
+- Throughlines: the OS or MC line says „genau die Probleme verursachen, die sie zu verhindern suchen“ ^[finales-kausales-plot-geruest.md:L45]
 
 ## Reading — `outline`, 2025-07-30, the outline — Echoes aus dem See der Tränen
 
@@ -91,6 +107,10 @@ Position: Teil I, „Juna als Echo“ ^[romanstruktur-und-philosophische-einleit
 
 - Story: Juna appears as an emotional anchor to the external level, in KW2 mostly as an echo: „Im Kontext von KW2 erscheint Juna oft nur als Echo“ ^[romanstruktur-und-philosophische-einleitung.md:L61]
 - Story: the three-part analysis reads the Kael–Juna dynamic as attachment trauma: „Dies ist der Kern der psychologischen Tragödie“ ^[romanstruktur-und-philosophische-einleitung.md:L63]
+
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — the Alters manifest through the Resonanz-Landschaft, proposed
+
+- For Kap 4–6 the plot analysis proposes „Die Manifestation der Alters durch die Umwelt“ ^[plot-analyse-und-romanentwicklung.md:L143]: when Kael is moved into the Resonanz-Landschaft, „sollten die Alters nicht einfach im Kopf anfangen zu sprechen“ ^[plot-analyse-und-romanentwicklung.md:L143]; the world reacts to emotions — Echo's fear brings rain, Eos's co-consciousness bends the data streams (L143).
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Korruptionsmarkierung
 

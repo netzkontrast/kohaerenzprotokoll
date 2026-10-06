@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 42
-readings: 42
+sources: 45
+readings: 45
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
 gathered: "2026-09-24"
 ---
 
@@ -22,6 +22,10 @@ AEGIS lever: „AEGIS könnte versuchen, Isabelles Bedürfnis nach Kontrolle und
 
 The world concept names Isabelle twice. In KW2 (Resonanz-Landschaft), the primary domain of the EPs: „Isabelle (Trauma-spezifisch)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L60]. In KW3 (Grenzfeste) the hedged proposal reads: „potenziell Nyx (Verteidigung) und Isabelle (Grenzkontrolle)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L82].
 
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — the staged-power EP and its KW1 overlay, hedged
+
+The concept heads Isabelle „EP - Sexualisiert/Kampf/Kontrolle“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L84] and describes „Eine Bühne, auf der sie Macht, Kontrolle und (scheinbare) sexuelle Selbstbestimmung inszeniert“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L86]. Her overlays are mostly conditional; on KW1 (Co₁): „Verachtet die sterile Kontrolle, könnte aber versuchen, die Regeln für ihre Machtspiele zu nutzen“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L91].
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — named in the roster of EPs only
 
 `Isabelle` stands once in the report, in the sentence that gives the plot document's EPs (a reference-1 sentence): „die EPs (Nyx, Kiko, Lia, Isabelle, Moros)“ ^[scifi-roman-mit-ki-schreiben.md:L121] Nothing else is said of her.
@@ -33,6 +37,10 @@ In the roster of eleven parts (glued `1`, reference 1) Isabelle is listed among 
 ## Reading — `charaktere`, 2025-07-29, the character concept — Isabelle as sexualised EP
 
 The character concept lists Isabelle sixth in the first and second answers and ninth in the third, an EP. First answer: she „Steht für die Bewältigung von sexualisiertem Trauma durch die Übernahme von Kontrolle und Dominanz“ ^[charaktere.md:L57] (L57). Third answer: „Widerstand, da Integration ihre Kontrolle und Persona bedroht“ ^[charaktere.md:L327] (L327) is her stance toward integration.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Isabelle named among the EPs
+
+Beat 1.5 (Kapitel 10–12) names her among the parts Kael struggles with: „z.B. durch Kiko, Moros, Isabelle“ ^[finales-kausales-plot-geruest.md:L78]. In Beat 3.1 (Kapitel 27–29) the sheet lists him among the cooperating parts: „ANPs wie Lex, Rhys, Alex, Argus und EPs wie Nyx, Kiko, Lia, Isabelle, Moros“ ^[finales-kausales-plot-geruest.md:L171].
 
 ## Reading — `outline`, 2025-07-30, the outline — Isabelle in the list of EPs
 
@@ -77,6 +85,10 @@ The outline of 2026-05-01 places Isabelle first in Kap 16's machine POV, where L
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — one row of the alter table
 In its alter table (L44–L55, columns `Alter Name`, `TSDP-Aktionssystem`, `Funktionale Rolle`, `DKT-Korrelat`; the export lost the symbol in some cells) Isabelle has the action system „Kreativität“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L52], the role „Ästhetische Brücke“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L52] and the DKT correlate „Möglichkeiten-Vektor“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L52].
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Isabelle in the ten-alter table: creativity, aesthetic bridge and art
+
+The row for Isabelle reads „Isabelle | Kreativität | Möglichkeiten-Vektor | Ästhetische Brücke / Kunst“ ^[romanprojekt-analyse-synthese.md:L81]. `Isabelle` ^[romanprojekt-analyse-synthese.md:#1] stands once in the document, in this row. The row is one of the table the synthesis calls „Das valide Alter-Profil (Reset 2026-04-30)“ ^[romanprojekt-analyse-synthese.md:L68]; its claim to be valid is its own, recorded and not applied.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

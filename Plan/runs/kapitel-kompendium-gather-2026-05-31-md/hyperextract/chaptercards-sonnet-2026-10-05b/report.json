@@ -1,0 +1,490 @@
+{
+  "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "input_rows": 20,
+  "candidates": 17,
+  "refused": 3,
+  "duplicates": 0,
+  "rows": [
+    {
+      "id": "claim:cc2af2329a11ab2365e52f8d05222dd6aa250f36f46502945740f0eb62cd7aa3",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KAP 1",
+        "target": "eine einzige konkrete Falschheit (eine Sache, die nicht stimmt)",
+        "type": "falsehood",
+        "quote": "durch **eine einzige konkrete Falschheit** (eine Sache, die nicht stimmt)",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        37
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:843918286a5f402e332d6a0ab295dc8b844ea3360c121b0a12183f3513182083",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "KAP 1",
+        "target": "Kael",
+        "type": "who",
+        "quote": "Kael lebt nur seinen Tag.",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        39
+      ],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "chapter is neither on the quoted line nor the heading above it",
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9aa0ef431e25ecdeda076f642031642916ad4d4b6e6646431d2a06ea1eed9f91",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Verlust der Privatheit des Wir",
+        "type": "cost",
+        "quote": "Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion) — manifest Kap 39",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        148
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:9be988bcc58c6f7b8b2d55c269e24994a83d79b45608e145d3f9df55a82c421b",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "cost",
+        "quote": "AEGIS-monolithisch erlischt — manifest Kap 36",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        148
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:b357def8f801751685ab7362fa89ebf89e130ced8f685f53b0ee71d5aef766c6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 0",
+        "target": "endet auf den Scherben",
+        "type": "hook_out",
+        "quote": "Kap 0 endet auf den Scherben",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        182
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fa3fa27957e364556a76e10997d071f1d1da7fb5e37dd19bbf8f81fc05edba6c",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "1.  **Illusion der perfekten Welt**",
+        "target": "Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7",
+        "type": "place",
+        "quote": "Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        190
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:7975ff5a4e047103a0f5d848f59026c180708bc97d71fc192564caf06ee6c930",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "3.  **Erwachen & Vorbereitung**",
+        "target": "verdoppelt Kontrolle/Ordnung als Bewältigung",
+        "type": "want",
+        "quote": "Kael verdoppelt Kontrolle/Ordnung als Bewältigung",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        192
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:c186476d635eca1bb7da37167cd8dda2ab874aa0c851829020ff2051a42ac84e",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "5.  **Auge des Sturms**",
+        "target": "ein Scheinerfolg, dessen Basis nicht integriert ist",
+        "type": "falsehood",
+        "quote": "ein Scheinerfolg, dessen Basis nicht integriert ist",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        194
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e3bf8654e0c3b0b1441031e2b8be0bc64d33f897cc5b6a8c5ce9c8170d2a737d",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "6.  **Tod einer Einstellung**",
+        "target": "die einseitige Logik scheitert an einem komplexen Problem",
+        "type": "obstacle",
+        "quote": "die einseitige Logik scheitert an einem komplexen Problem",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        195
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:8ced703c70a3ad59c0b81c2d294eab89b99635c895589d7dd7a97c0d47d64208",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "10. **Erste Anwendung der Integration**",
+        "target": "K-J-Verbindung",
+        "type": "object",
+        "quote": "10. **Erste Anwendung der Integration** · KW1/McL-Vorschein · A-Requirement: **Moonshine-Bewusstsein**. **Story:** K-J-Verbindung erstmals als Werkzeug.",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        199
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:bf6bf830e6bc6f6095e239190b7d5c37f1e09f65db6cc96649b58dba468232d1",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "11. **Akzeptanz der Komplexität**",
+        "target": "Mosaik-Herz",
+        "type": "object",
+        "quote": "11. **Akzeptanz der Komplexität** · KW1 · A-Requirement: **Mosaik-Akzeptanz**. **Story:** „Mosaik-Herz",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        200
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:46e0d7bc0efa037d07d5a910243ee8d09a283bb44d6a568942459779399e07a7",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 14 — Das Archiv der Grenzen",
+        "target": "AEGIS' technischen Dossiers (Lernarchiv Theta-9)",
+        "type": "object",
+        "quote": "Kael erhält Zugang zu AEGIS' technischen Dossiers (Lernarchiv Theta-9).",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        210
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:e0f2d7210f9229da389c38cae7a8ee5a7b156f432280211afba299b155e44446",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 15 — Turing-Mechanik",
+        "target": "die Stadt als universelle Turingmaschine",
+        "type": "object",
+        "quote": "die Stadt als universelle Turingmaschine",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        211
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:ae649ee2381aa1a37df23ac8806224a2b18cd0eb26d480bcf680c1d4e0fb544f",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 16 — Die Diktatur der Komplexität",
+        "target": "Realitäts-Detail",
+        "type": "cost",
+        "quote": "AEGIS opfert Realitäts-Detail für globale Stabilität",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        212
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:fd253c8f8f218e080a9773709248b40f970147f44c3d09c03e032471b9e77794",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 17 — Phaenomena vs. Noumena",
+        "target": "die „Drähte“ der Simulation",
+        "type": "object",
+        "quote": "Kael sieht die „Drähte“ der Simulation",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "unplaced",
+      "lines": [],
+      "review_status": "unreviewed",
+      "status": "refused",
+      "reason": "quote not placed",
+      "absent_surfaces": [
+        "die „Drähte“ der Simulation"
+      ]
+    },
+    {
+      "id": "claim:663023c51ab8a2cd97b2c61c3425f041388a97ea79601307bb557f8829741243",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 18–22 — Genesis-Flashback-Cluster",
+        "target": "Kael = Komp 734",
+        "type": "object",
+        "quote": "Einheit → Trennungsprotokoll → Kael = Komp 734",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        215
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:77f4365a4b6dbb8b03ccd07c3dc5542cb41ab83d565b3c65717453554dd7db64",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 25",
+        "target": "Vorbereitung/Entschluss",
+        "type": "want",
+        "quote": "Kap 25 = Stehen an der Schwelle (Vorbereitung/Entschluss, NICHT Konfrontations-Beginn)",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        218
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:797bfa17b3923d0a141fc716e9a8c746a9b659b59259371f2e9a405eb46732a6",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 28",
+        "target": "ewige Fragmentierung droht",
+        "type": "cost",
+        "quote": "Kap 28 — Consequence akut** (A: ewige Fragmentierung droht)",
+        "stance": "hedges"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        226
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:775ba01a53bc61ffe9b4e440c58b0cd5e0eb14374f32d9601d925632fc44c86a",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 36",
+        "target": "AEGIS-monolithisch erlischt",
+        "type": "cost",
+        "quote": "AEGIS-monolithisch erlischt (Kap 36)",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        232
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    },
+    {
+      "id": "claim:49684d3d321c7d924b5c86049126b518e642a632b0338fd97af1a6c2e6b58ff8",
+      "kind": "relation_reading",
+      "raw": {
+        "source": "Kap 39",
+        "target": "Verlust der Privatheit des Wir",
+        "type": "cost",
+        "quote": "A-Cost (Verlust der Privatheit des Wir) manifest Kap 39",
+        "stance": "asserts"
+      },
+      "document": "kapitel-kompendium-gather-2026-05-31-md",
+      "template": "ChapterCards",
+      "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+      "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+      "extractor": "claude-cli/sonnet",
+      "quote_status": "placed",
+      "lines": [
+        240
+      ],
+      "review_status": "unreviewed",
+      "status": "candidate",
+      "reason": null,
+      "absent_surfaces": []
+    }
+  ]
+}

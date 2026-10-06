@@ -1,0 +1,106 @@
+{
+  "document": "kapitel-kompendium-gather-2026-05-31-md",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "eedce375dede551d67758d6678f01e53766b212943f09cc808977e1595f5d18f",
+  "calls": 17,
+  "failed_calls": 0,
+  "seconds": 131.6,
+  "input_tokens": 74902,
+  "output_tokens": 12245,
+  "cost_usd": 0.3319,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1863,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1849,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1935,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1904,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1268,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1511,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1827,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1430,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 2041,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1321,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 645,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1577,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1782,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1791,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 1594,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1913,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 150,
+      "ok": true
+    }
+  ]
+}

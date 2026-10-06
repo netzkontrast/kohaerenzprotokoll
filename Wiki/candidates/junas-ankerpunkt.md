@@ -1,10 +1,10 @@
 ---
 term: Junas Ankerpunkt
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "welt"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -44,6 +44,14 @@ Its rules are stated as an exemption:
 So the same phenomenon is a failure to [[aegis|AEGIS]] and a connection to [[juna|Juna]], depending
 on which side describes it. The document says it once, hedged, and does not
 develop it. See [[risse]], [[externe-ebene]].
+
+## Reading — `welt`, 2025-07-29, the Welt blueprint — a specific place where her connection becomes manifest
+
+The Welt blueprint names the `Ankerpunkt` once, `Ankerpunkt` ^[welt.md:#1], at the end of the Externe Ebene's second-pass profile (L130): Junas `Ankerpunkt` „ist ein spezifischer Ort, an dem ihre Verbindung manifest wird“ ^[welt.md:L130]. The line puts the word in straight quotation marks, and says nothing more of where the place lies or what it looks like. It sits beside „ein offenes Rätsel“ ^[welt.md:L76], the narrative function of the level as a whole.
+
+## Where the sources differ
+
+- `welt` (2025-07-29) writes Junas Ankerpunkt as a specific place of manifestation, within an open level.
 
 ## Open
 

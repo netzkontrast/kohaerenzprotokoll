@@ -1,0 +1,206 @@
+{
+  "document": "concept-paper-the-architectural-foundations-of-kohaerenz-pro",
+  "drive_id": "1a4xOpx2PZEodZa7fcT6whsx598Cu7cFcwdaEKAiGsoE",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 96,
+  "typographic_marks": 18,
+  "ascii_quotes": 128,
+  "inflection_families": {
+    "archi": [
+      "Archipel",
+      "Architectural",
+      "Architecture",
+      "Architectures"
+    ],
+    "prote": [
+      "Protection",
+      "Protector",
+      "Protectors",
+      "Protects"
+    ],
+    "world": [
+      "World",
+      "Worldbuilding",
+      "Worlds",
+      "Worldview"
+    ],
+    "found": [
+      "Foundation",
+      "Foundational",
+      "Foundations"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentiality"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "careg": [
+      "Caregiver",
+      "Caregiving"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherons"
+    ],
+    "confl": [
+      "Conflict",
+      "Conflicts"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "criti": [
+      "Criticism",
+      "Criticizes"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator"
+    ],
+    "inter": [
+      "Interaction",
+      "Internal"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "nietz": [
+      "Nietzsche",
+      "Nietzschean"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontology"
+    ],
+    "origi": [
+      "Origin",
+      "Original"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "ratio": [
+      "Rationalist",
+      "Rationalization"
+    ],
+    "react": [
+      "Reaction",
+      "Reactions"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Host",
+      "Hostile"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "These",
+      "Theseus"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Worldview"
+    ],
+    [
+      "World",
+      "Worldbuilding"
+    ],
+    [
+      "Action",
+      "Reaction"
+    ],
+    [
+      "Action",
+      "Reactions"
+    ],
+    [
+      "Action",
+      "Interaction"
+    ],
+    [
+      "Nature",
+      "Signature"
+    ],
+    [
+      "Origin",
+      "Original"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systems"
+    ]
+  ]
+}

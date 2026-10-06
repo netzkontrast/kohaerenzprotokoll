@@ -1,0 +1,166 @@
+{
+  "document": "outline",
+  "template": "ChapterCards.yaml",
+  "model": "claude-cli/sonnet",
+  "template_sha256": "83f7ab40c8cbc0dac7d094a58e5d5cea2eef7c5dc42caf232c40536bb02617d6",
+  "source_sha256": "2f6fefb548960ef69dfead7c59c2824dae36b2b63a31db080bba58b7c825107f",
+  "calls": 29,
+  "failed_calls": 0,
+  "seconds": 262.7,
+  "input_tokens": 123704,
+  "output_tokens": 30251,
+  "cost_usd": 0.6435,
+  "model_choice": {
+    "model": "sonnet",
+    "explored": false,
+    "reason": "named by the caller"
+  },
+  "approval": "decision 011",
+  "chunks": [
+    {
+      "chunk": 0,
+      "characters": 1882,
+      "ok": true
+    },
+    {
+      "chunk": 1,
+      "characters": 1301,
+      "ok": true
+    },
+    {
+      "chunk": 2,
+      "characters": 1332,
+      "ok": true
+    },
+    {
+      "chunk": 3,
+      "characters": 1297,
+      "ok": true
+    },
+    {
+      "chunk": 4,
+      "characters": 1927,
+      "ok": true
+    },
+    {
+      "chunk": 5,
+      "characters": 1830,
+      "ok": true
+    },
+    {
+      "chunk": 6,
+      "characters": 1795,
+      "ok": true
+    },
+    {
+      "chunk": 7,
+      "characters": 1729,
+      "ok": true
+    },
+    {
+      "chunk": 8,
+      "characters": 2010,
+      "ok": true
+    },
+    {
+      "chunk": 9,
+      "characters": 1455,
+      "ok": true
+    },
+    {
+      "chunk": 10,
+      "characters": 807,
+      "ok": true
+    },
+    {
+      "chunk": 11,
+      "characters": 1938,
+      "ok": true
+    },
+    {
+      "chunk": 12,
+      "characters": 1315,
+      "ok": true
+    },
+    {
+      "chunk": 13,
+      "characters": 1032,
+      "ok": true
+    },
+    {
+      "chunk": 14,
+      "characters": 2015,
+      "ok": true
+    },
+    {
+      "chunk": 15,
+      "characters": 1984,
+      "ok": true
+    },
+    {
+      "chunk": 16,
+      "characters": 1966,
+      "ok": true
+    },
+    {
+      "chunk": 17,
+      "characters": 1033,
+      "ok": true
+    },
+    {
+      "chunk": 18,
+      "characters": 1967,
+      "ok": true
+    },
+    {
+      "chunk": 19,
+      "characters": 988,
+      "ok": true
+    },
+    {
+      "chunk": 20,
+      "characters": 1403,
+      "ok": true
+    },
+    {
+      "chunk": 21,
+      "characters": 1162,
+      "ok": true
+    },
+    {
+      "chunk": 22,
+      "characters": 1356,
+      "ok": true
+    },
+    {
+      "chunk": 23,
+      "characters": 1162,
+      "ok": true
+    },
+    {
+      "chunk": 24,
+      "characters": 1294,
+      "ok": true
+    },
+    {
+      "chunk": 25,
+      "characters": 1203,
+      "ok": true
+    },
+    {
+      "chunk": 26,
+      "characters": 1135,
+      "ok": true
+    },
+    {
+      "chunk": 27,
+      "characters": 1321,
+      "ok": true
+    },
+    {
+      "chunk": 28,
+      "characters": 1942,
+      "ok": true
+    }
+  ]
+}

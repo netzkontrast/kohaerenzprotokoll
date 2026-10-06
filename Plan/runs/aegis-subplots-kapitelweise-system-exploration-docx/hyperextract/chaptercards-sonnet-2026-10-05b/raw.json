@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "source": "Kapitel 8",
+      "target": "Beweise für Manipulation finden",
+      "type": "want",
+      "quote": "seine eigenen fragmentierten Erinnerungen überprüfen (vielleicht Beweise für Manipulation finden - Kapitel 8)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 5",
+      "target": "Beobachtungen",
+      "type": "object",
+      "quote": "vielleicht basierend auf Beobachtungen aus Kapitel 5",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 10",
+      "target": "in der Nähe reparierter Risse",
+      "type": "place",
+      "quote": "agiert an spezifischen Orten (wie in der Nähe reparierter Risse - Kapitel 10)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16",
+      "target": "Rückkopplungsschleife",
+      "type": "object",
+      "quote": "bevor die Rückkopplungsschleife (Kapitel 16) vollständig greift",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 16, 18",
+      "target": "Kaels Versuche, es zu testen und auszunutzen",
+      "type": "want",
+      "quote": "Kaels Versuche, es zu testen und auszunutzen (Kapitel 16, 18)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18",
+      "target": "Schlupfloch oder Exploit",
+      "type": "object",
+      "quote": "ein in Kapitel 18 entdecktes Schlupfloch oder Exploit",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "Kernparadoxon",
+      "type": "object",
+      "quote": "dem in Kapitel 17 identifizierten Kernparadoxon",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7",
+      "target": "Glitches",
+      "type": "object",
+      "quote": "Dies geht über Glitches (Kapitel 7) hinaus",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22",
+      "target": "während der in Kapitel 22 verursachten Störung",
+      "type": "why_now",
+      "quote": "Vielleicht während der in Kapitel 22 verursachten Störung",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 19",
+      "target": "die Schwäche wird plötzlich gepatcht",
+      "type": "obstacle",
+      "quote": "die Schwäche wird plötzlich gepatcht (Erweiterung von Kapitel 19)",
+      "stance": "hedges"
+    },
+    {
+      "source": "Kapitel 17",
+      "target": "paradoxen Kerndirektiven",
+      "type": "object",
+      "quote": "paradoxen Kerndirektiven (aus Kapitel 17)",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 32",
+      "target": "das durch den Paradox-Angriff verursachte Chaos ausnutzt",
+      "type": "want",
+      "quote": "möglicherweise das durch den Paradox-Angriff verursachte Chaos ausnutzt (Kapitel 32)",
+      "stance": "hedges"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 29
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -51,12 +51,28 @@ Title: the commission titles the chapter „Der erste Riss“ ^[kontext-outline.
 - Story: its `Plot Summary` plans „Erkenntnis als Bedrohung & Chance“ ^[kontext-outline.md:L189]
 - Foci: `Kael Sys Focus` „Erkenntnis AEGIS' Fehlbarkeit“ ^[kontext-outline.md:L190]; `AEGIS Focus` „Versuch, Riss zu verbergen/reparieren“ ^[kontext-outline.md:L191]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Systeminstabilität als Chance`
+
+Focus: `Systeminstabilität als Chance`, „Die Wahrnehmung einer signifikanten Anomalie“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L123]
+
+- Story: „deutet auf eine tiefere Instabilität oder sogar eine externe Verbindung (Juna/V?) hin“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L124]
+- Concept: „Er könnte der erste klare Hinweis auf die externe Entität“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L125] (concept tag: the `AEGIS-Paradoxon`)
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Welle der Unmöglichkeit
 
 Title: „Die Welle der Unmöglichkeit“ ^[roman-outline-system-kael.md:L189]
 Position: Teil IV, KW4
 
 - Story: AEGIS sees Kael developing „eine neue, unvorhersehbare und für das System unlogische Form der Kohärenz“ ^[roman-outline-system-kael.md:L189] and reads it „als den ultimativen Systemfehler, als maximale Entropie“ ^[roman-outline-system-kael.md:L189].
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.5, „Der blockierte Funke / Die Suche nach dem Nexus“ ^[finales-kausales-plot-geruest.md:L76] (Kapitel 10–12)
+
+The beat sheet places Kapitel 11 in Beat 1.5; the beat spans Kapitel 10 to 12.
+
+- Beat: the heading titles it „Der blockierte Funke / Die Suche nach dem Nexus“ ^[finales-kausales-plot-geruest.md:L76]
+- Event: the beat sheet's `Beschreibung` says „führt dazu, dass AEGIS versucht, diese Verbindungen zu blockieren“ ^[finales-kausales-plot-geruest.md:L78] „Kael kämpft mit tieferen Aspekten seines Traumas“ ^[finales-kausales-plot-geruest.md:L78]
+- Cause: the `Kausale Verknüpfung` says „treibt die Unterdrückung von Kaels integrativen Bemühungen an“ ^[finales-kausales-plot-geruest.md:L79]
+- Throughlines: the OS or MC line says „bei dem seine Bemühungen, die Ordnung aufrechtzuerhalten, aktiv Instabilität verursachen oder die Heilung blockieren“ ^[finales-kausales-plot-geruest.md:L84]
 
 ## Reading — `outline`, 2025-07-30, the outline — Der Hilferuf aus der Leere
 
@@ -102,6 +118,11 @@ Position: Teil I; setting from the `Schauplatz` field: „Ruinen der gelöschten
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Index, AEGIS-Parser“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L142]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael forscht in gelöschten Speicherbänken nach dem Ursprung von Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144] and „Kael nimmt die Existenz all seiner Alters (die TSDP-Fragmente) erstmals bewusst als Überlebensmechanismus an, anstatt sie zu fürchten“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L144]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — graph theory and IFS parts in Kapitel 11–13; the transition in Kapitel 11
+
+- under Leitfrage 2 it says „Die dynamische Verschränkung von Graphentheorie (McLaughlin-Graph) und IFS-Teilen in den Kapiteln 11-13“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L48] needs a precise network topology of the psyche (its source 2);
+- under Leitfrage 4 it asks how Kael achieves „gelingt Kael der physische, datentechnische oder psychologische Übergang in Kapitel 11 oder Kapitel 18“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L83].
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das zweite Echo
 

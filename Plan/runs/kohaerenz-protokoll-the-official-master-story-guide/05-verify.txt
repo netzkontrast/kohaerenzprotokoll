@@ -1,0 +1,85 @@
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "canonical"
+whole word, case-sensitive     5
+whole word, case-insensitive   8
+including compounds            5
+
+`canonical` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#5]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "immutable"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`immutable` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#3]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "mandatory"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`mandatory` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#1]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "algorithmic melancholy"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`algorithmic melancholy` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#1]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "gnosis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`gnosis` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#2]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "episteme"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`episteme` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#2]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#2]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "Risse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risse` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#1]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "K₀"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`K₀` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#4]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "K₁"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`K₁` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#2]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "DKT"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DKT` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#1]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "Kohärenz Protokoll"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#4]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "Caspian/Sloane"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Caspian/Sloane` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#1]
+$ read.py kohaerenz-protokoll-the-official-master-story-guide --count "Kael (The Host)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael (The Host)` ^[kohaerenz-protokoll-the-official-master-story-guide.md:#1]
+stance_marker_count 9 = canonical 5 + immutable 3 + mandatory 1

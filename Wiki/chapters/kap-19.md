@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 21
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 24
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,22 @@ Title: the commission titles the chapter „Das Flüstern von Außen: Erster Kon
 - Theme: the commission's `Core Theme` is „Das Mysterium der Externen Ebene; Hoffnung oder neue Gefahr?“ ^[kontext-outline.md:L281]
 - Story: its `Plot Summary` plans „erster bewusster, fragmentarischer Kontakt zu Juna/V“ ^[kontext-outline.md:L282]
 - Foci: `Kael Sys Focus` „Reaktion auf das Fremde; Hoffnung vs. Angst“ ^[kontext-outline.md:L283]; `AEGIS Focus` „Alarmiert durch externen Kontakt“ ^[kontext-outline.md:L284]
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Das Flüstern von Außen: Erster Kontakt mit Juna/V`
+
+Focus: `Das externe Mysterium`, „Der erste bewusste, wenn auch fragmentarische, Kontakt mit der externen Entität Juna/V“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L179]
+
+- Story: „Ist Juna/V eine Hilfe, eine weitere Täuschung oder etwas völlig Fremdes?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L180]
+- Concept: „Für AEGIS stellt Juna/V eine existenzielle Bedrohung dar“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L181] (concept tag: `Simulation Hypothesis` and the `Problem des Anderen`)
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.2, „Intervention der Guardians & Kaels Verwirrung“ ^[finales-kausales-plot-geruest.md:L119] (Kapitel 18–21)
+
+The beat sheet places Kapitel 19 in Beat 2.2; the beat spans Kapitel 18 to 21.
+
+- Beat: the heading titles it „Intervention der Guardians & Kaels Verwirrung“ ^[finales-kausales-plot-geruest.md:L119]
+- Event: the beat sheet's `Beschreibung` says „setzen AEGIS' fehlerhafte Protokolle aktiv durch“ ^[finales-kausales-plot-geruest.md:L121]
+- Cause: the `Kausale Verknüpfung` says „hindern sie daran, Kael wirklich zu verstehen, was zu kontraproduktiven Interventionen führt“ ^[finales-kausales-plot-geruest.md:L122]
+- Throughlines: the OS or MC line says „um ihre wahrgenommene Ordnung aufrechtzuerhalten“ ^[finales-kausales-plot-geruest.md:L127]
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -138,6 +154,10 @@ Title: „Die thermische Inversion“ ^[kohaerenz-protokoll-kapitel-outline-gene
 - Story: the dual-storyform outline plans „Kael stellt fest, dass Junas Nähe die Umgebung kühlt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L217]
 - Storyforms: `Storyform B` (`MC: Universe/Progress`): „Die physische Instabilität der Stadt nimmt zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L219]; `Storyform A` (`MC: Mind/Preconscious`): „Kael bereitet sich innerlich auf den Widerstand vor“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L220]
 - Scene and pacing: `Szenen-Keim`: „Ein Raum, der zur Hälfte glüht und zur Hälfte mit Raureif bedeckt ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L221]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Kael finds the Chaitin constant
+
+- The reset synthesis places in Phase II: „Kael entdeckt in Kapitel 19 die Chaitin-Konstante“ ^[romanprojekt-analyse-synthese.md:L56] (the symbol after it is lost in the export).
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

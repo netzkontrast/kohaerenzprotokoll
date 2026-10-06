@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 14
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 16
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen"]
 records: ["C3", "C10", "C12", "C7", "C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,13 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Der Genesis-Prolog erzählt, darin sind sich die gelesenen Pläne einig, AEGIS' Werdung und das Trennungsprotokoll als ontologische Grundlegung, vor allen Welten: ein Funken-Ich clustert sich aus dem Rauschen zu Form und wird zu AEGIS, bis Junas unbenannte Resonanz in der Krise als ontologische Anomalie einbricht und AEGIS sich trennt und in unzählige Scherben fällt. Laut Konzept-Iteration Genesis, konsolidiertem Konzept und strukturierter Outline wird er aus einer fluiden Funken-Ich- und AEGIS-Perspektive mit Anrede an den Leser erzählt; die Erstfassung schreibt das Funken-Ich in der ersten und AEGIS in der dritten Person, der annotierte Entwurf lässt die Erzählerstimme mit der Krise verschwinden, und die Doppel-Klammer-Abhandlung schlägt für das Vorwort das plurale Wir-AEGIS vor. Die Quellen gliedern die Genesis verschieden, als Stationen bis zum Überlebenskampf oder bis zum großen Wandel oder als Beats, von denen der Prolog nur einen Teil trägt; laut Erstfassung ist Kael der Rest, den das Protokoll abschneidet, laut annotiertem Entwurf die Komponente 734 selbst, und nur der annotierte Entwurf hat die blutenden Knöchel in Nyx' Stimme, die Storyform-Outline und Kapitel-Kompendium hierher locken. Strukturell steht der Prolog laut strukturierter Outline im Ki der Kishōtenketsu und außerhalb der narrativen Modi, ist laut Storyform-Outline und Kapitel-Kompendium die Genesis-Hälfte der Klammer mit dem Schluss des Romans und trägt nur Storyform B mit dem MC-Signpost Past, A als Phantomgefühl, während die Doppel-Klammer-Abhandlung B erst mit dem Klick entstehen lässt und ihm Driver Action und Approach Do-er als Akzent gibt. Laut Kapitel-Kompendium und Storyform-Outline endet er mit hartem Schnitt auf den Erstsatz des Erwachens, der annotierte Entwurf hängt noch Kaels erste Zeilen an, und laut Konzept-Iteration Genesis kennt der Leser durch ihn von Anfang an die kosmologische Wahrheit.
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `[Genesis]`
+
+Focus: `Ursprungsparadoxon`, „Die Entstehung von AEGIS aus Chaos/Angst“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L46]
+
+- Story: „Erzählt aus einer distanzierten, fast mythischen Perspektive“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47]; „Die Leere/das Rauschen erzeugt Cosmic Horror-Atmosphäre.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47]
+- Concept: „Kontrolle führt zu Instabilität“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L48] (concept tag: the `Paradox of Control`)
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Kapitel 40/0 as epilogue and prologue
 
 Title: „Der Ouroboros und das Trennungsprotokoll“ ^[romanstruktur-und-philosophische-einleitung.md:L284]
@@ -38,6 +45,11 @@ Position: the coda `CODA: Die Rekursive Klammer`, after Teil III; the blueprint 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael (Meta-Perspektive)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L383]
 - Story: the blueprint plans, in `Plot-Beats`, „Der Moment nach dem Ende löst den Anfang aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385] and „auf die Erinnerungen der Zukunft durch, um Kapitel 1 zu generieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kapitel 40/0, the end that is the beginning
+
+- under Leitfrage 6, from documents it numbers: „Wenn Kapitel 40/0 das Ende und der zirkuläre Neuanfang ist“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L119], the nature of the reset must be coherent; it asks whether the lab accident Nova Ardent is causally identical with the `Universal Reboot` AEGIS initiates in the foreword.
+- The report writes the chapter only as `Kapitel 40/0`: Kap 0 here is Kap 40 read as the restart — see Kap 40.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

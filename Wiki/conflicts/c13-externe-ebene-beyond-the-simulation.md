@@ -158,3 +158,35 @@ Stands: a seventh row beyond/not-outside is not decided; the report's wording `d
 **A reality outside AEGIS's control, nature unknown.**
 Section 6: „Realität außerhalb von AEGIS' Kontrolle; verbunden mit Juna; Natur unbekannt, aber im Kontrast zur Simulation“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133]. Its laws: „Unbekannt; basieren nicht auf AEGIS-Logik; potenziell auf Empathie, Bewusstsein, Resonanz, Nichtlokalität.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144]
 It places the Externe Ebene beyond the simulation, hedged with `potenziell`; the conflict stays open.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis has the Spiegel-Effekt in Kapitel 36 export the simulation's data into the reader's physical reality, named „Köln 2026“ ^[romanprojekt-analyse-synthese.md:L62].**
+
+The line reads: „in Kapitel 36 durchbricht die vierte Wand“ ^[romanprojekt-analyse-synthese.md:L62]. The effect „exportiert die Daten der Simulation symbolisch in die physikalische Realität des Lesers“ ^[romanprojekt-analyse-synthese.md:L62]. The document does not use the name `Externe Ebene` ^[romanprojekt-analyse-synthese.md:#0] and does not say that this reality lies beyond or outside AEGIS's simulation; it says the data are exported into it, symbolically. In the same finale Kael recognises „dass er nicht nur ein Bewohner der Simulation ist, sondern das System selbst“ ^[romanprojekt-analyse-synthese.md:L62].
+
+Stands as a physical reality of the reader, Köln 2026, reached by export and not by a break-through, without the record's name; recorded, not applied, and the record is not changed.
+
+## 2026-10-06 — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis
+
+**The plot analysis puts Juna and the Externe Ebene outside AEGIS's formal system: „Juna und die Externe Ebene existieren“ ^[plot-analyse-und-romanentwicklung.md:L109].**
+
+The line continues that they exist outside this system, and that AEGIS cannot delete Juna because she does not exist in its ontological programming language. It is the assistant's Gödel metaphor, proposed to the author, and the line uses `Externe Ebene` while L117 writes „der Externen Ebene“ ^[plot-analyse-und-romanentwicklung.md:L117] for the origin of the j-function.
+
+Stands as beyond AEGIS's formal system, not named a simulation's outside; recorded, not applied, and the record is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report asks, and does not answer, whether the Externe Ebene is the real world of the therapists or a further simulation level.**
+
+It is the report's first closing question to the concept: „Wie genau manifestiert sich die“ ^[romananalyse-kohaerenz-plot-kritik.md:L168] Externe Ebene, „zu der Juna gehört“ ^[romananalyse-kohaerenz-plot-kritik.md:L168]. The alternative it offers: „Welt der Therapeuten, oder eine weitere, übergeordnete Simulationsebene?“ ^[romananalyse-kohaerenz-plot-kritik.md:L168]. The report counts the question among those that „geklärt werden müssen“ ^[romananalyse-kohaerenz-plot-kritik.md:L166] for the plot to be finalised. It names neither Köln nor `Basisrealität`.
+
+Stands on neither side: a question put to the concept in a document of 2026-02-23, recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint writes the Externe Ebene as outside AEGIS's direct control and as an open, hedged riddle, not as a settled outside.**
+
+First pass: the level lies „die außerhalb von AEGIS' direkter Kontrolle liegt“ ^[welt.md:L75] and is tied to Juna/V. The second pass heads its profile „Die Externe Ebene: Das Unbekannte Jenseits der Simulation“ ^[welt.md:L124] and says it „könnte eine andere Form von Realität“ ^[welt.md:L128] represent, or „eine gesunde innere Welt repräsentieren“ ^[welt.md:L128] from before the fragmentation. Its nature is „ein offenes Rätsel“ ^[welt.md:L76], to be settled in the course of the story. Both the other form of reality and the inner world are written with `könnte`.
+
+Stands as a hedged side that holds both an outside and an inner world open; recorded, not applied, and the record's rows are not changed.

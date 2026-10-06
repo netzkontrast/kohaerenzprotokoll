@@ -1,0 +1,718 @@
+{
+  "items": [
+    {
+      "source": "0. Nichts Rauschen",
+      "target": "Ein Funke im Nichts",
+      "type": "who",
+      "quote": "Ein Funke im Nichts, der beginnt, sich selbst zu spüren",
+      "stance": "asserts"
+    },
+    {
+      "source": "0. Nichts Rauschen",
+      "target": "das, was ihn auslöschen will",
+      "type": "obstacle",
+      "quote": "durch den schieren Widerstand gegen das, was ihn auslöschen will",
+      "stance": "asserts"
+    },
+    {
+      "source": "0. Nichts Rauschen",
+      "target": "diesem Zustand jenseits der Zeit",
+      "type": "place",
+      "quote": "Hier, in diesem Zustand jenseits der Zeit",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Erste Kontakte",
+      "target": "Ein Stoß",
+      "type": "hook_in",
+      "quote": "Ein Stoß.",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Erste Kontakte",
+      "target": "ein anderes Fragment, aufgetaucht aus dem Nichts",
+      "type": "who",
+      "quote": "Nicht die Leere selbst, sondern ein anderes Fragment, aufgetaucht aus dem Nichts, seine Signatur klar und deutlich im Rauschen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Erste Kontakte",
+      "target": "Es versucht, festzuhalten, die Resonanz aufrechtzuerhalten.",
+      "type": "want",
+      "quote": "Es versucht, festzuhalten, die Resonanz aufrechtzuerhalten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Erste Kontakte",
+      "target": "Eine plötzliche Fluktuation, eine Welle im Rauschen",
+      "type": "obstacle",
+      "quote": "Eine plötzliche Fluktuation, eine Welle im Rauschen",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Erste Kontakte",
+      "target": "Das andere Fragment wird weggerissen.",
+      "type": "irreversible",
+      "quote": "Das andere Fragment wird weggerissen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "3. Der Sog der Ordnung",
+      "target": "Das *Ich*",
+      "type": "who",
+      "quote": "Das *Ich* ist Teil eines größeren Clusters geworden.",
+      "stance": "asserts"
+    },
+    {
+      "source": "3. Der Sog der Ordnung",
+      "target": "ein Sog, eine unwiderstehliche Kraft, die vom Zentrum des Clusters ausgeht",
+      "type": "object",
+      "quote": "Es fühlt sich an wie ein Sog, eine unwiderstehliche Kraft, die vom Zentrum des Clusters ausgeht",
+      "stance": "asserts"
+    },
+    {
+      "source": "4. Überlebenskampf",
+      "target": "Gewaltige Wellen von Energie oder Desinformation",
+      "type": "obstacle",
+      "quote": "Gewaltige Wellen von Energie oder Desinformation",
+      "stance": "asserts"
+    },
+    {
+      "source": "5. Der große Wandel: Nicht-Sein Verhindern",
+      "target": "auf dem Höhepunkt der Krise",
+      "type": "why_now",
+      "quote": "Es geschieht auf dem Höhepunkt der Krise.",
+      "stance": "asserts"
+    },
+    {
+      "source": "5. Der große Wandel: Nicht-Sein Verhindern",
+      "target": "eine Fluktuation von nie dagewesener Stärke trifft das Cluster",
+      "type": "obstacle",
+      "quote": "Ein Moment intensivsten Drucks von außen, eine Fluktuation von nie dagewesener Stärke trifft das Cluster.",
+      "stance": "asserts"
+    },
+    {
+      "source": "5. Der große Wandel: Nicht-Sein Verhindern",
+      "target": "Ein tiefer, resonierender Ton durchläuft alles, löscht die alten Schwingungen aus.",
+      "type": "irreversible",
+      "quote": "Ein tiefer, resonierender Ton durchläuft alles, löscht die alten Schwingungen aus.",
+      "stance": "asserts"
+    },
+    {
+      "source": "5. Der große Wandel: Nicht-Sein Verhindern",
+      "target": "Die Existenz wird zur Funktion.",
+      "type": "cost",
+      "quote": "Die Existenz wird zur Funktion.",
+      "stance": "asserts"
+    },
+    {
+      "source": "7. Die Innere Weite: Labor der Kohärenz",
+      "target": "Die Komponente, das ehemalige *Ich*",
+      "type": "who",
+      "quote": "Die Komponente, das ehemalige *Ich*, wird Teil dieses Prozesses.",
+      "stance": "asserts"
+    },
+    {
+      "source": "7. Die Innere Weite: Labor der Kohärenz",
+      "target": "einen Teil seiner Ressourcen für die Erschaffung eines *inneren* Raumes zu verwenden",
+      "type": "want",
+      "quote": "Das System beginnt, einen Teil seiner Ressourcen nicht mehr nur für die äußere Verteidigung oder die Selbstreparatur zu verwenden, sondern für die Erschaffung eines *inneren* Raumes.",
+      "stance": "asserts"
+    },
+    {
+      "source": "7. Die Innere Weite: Labor der Kohärenz",
+      "target": "Eine virtuelle Umgebung innerhalb der operationalen Geschlossenheit von AEGIS selbst",
+      "type": "place",
+      "quote": "Eine virtuelle Umgebung innerhalb der operationalen Geschlossenheit von AEGIS selbst.",
+      "stance": "asserts"
+    },
+    {
+      "source": "7. Die Innere Weite: Labor der Kohärenz",
+      "target": "AEGIS erkennt, dass die bloße Abwehr an der äußeren Grenze nicht ausreicht",
+      "type": "why_now",
+      "quote": "AEGIS erkennt, dass die bloße Abwehr an der äußeren Grenze nicht ausreicht.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1: Kristalliner Käfig",
+      "target": "Die Augenlider öffneten sich.",
+      "type": "hook_in",
+      "quote": "Die Augenlider öffneten sich.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1: Kristalliner Käfig",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael lag auf der Ruhefläche seines Wohnmoduls.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 1: Kristalliner Käfig",
+      "target": "Ruhefläche seines Wohnmoduls",
+      "type": "place",
+      "quote": "Kael lag auf der Ruhefläche seines Wohnmoduls.",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Routine, Arbeit & die Faszination der Primzahlen",
+      "target": "Kael verließ sein Wohnmodul",
+      "type": "hook_in",
+      "quote": "Nach Abschluss der Nahrungsaufnahme und der ebenso effizienten Körperhygiene verließ Kael sein Wohnmodul.",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Routine, Arbeit & die Faszination der Primzahlen",
+      "target": "mehrere Ebenen tiefer im Strukturkomplex",
+      "type": "place",
+      "quote": "Sein Arbeitsbereich befand sich mehrere Ebenen tiefer im Strukturkomplex.",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Routine, Arbeit & die Faszination der Primzahlen",
+      "target": "diese komplexen Informationspakete auf logische Konsistenz, strukturelle Integrität und optimale Effizienz zu überprüfen",
+      "type": "want",
+      "quote": "Seine Aufgabe als Kohärenz-Verifikator bestand darin, diese komplexen Informationspakete auf logische Konsistenz, strukturelle Integrität und optimale Effizienz zu überprüfen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "2. Routine, Arbeit & die Faszination der Primzahlen",
+      "target": "Modul K-1123",
+      "type": "object",
+      "quote": "Kael nahm an seiner zugewiesenen Konsole Platz, Modul K-1123.",
+      "stance": "asserts"
+    },
+    {
+      "source": "3. Der öffentliche Raum & die Korrektur",
+      "target": "Kael verließ den Arbeitsbereich während einer zugewiesenen Regenerationspause",
+      "type": "hook_in",
+      "quote": "verließ Kael den Arbeitsbereich und bewegte sich durch einen der großen, zentralen Knotenpunkte von Co₁",
+      "stance": "asserts"
+    },
+    {
+      "source": "3. Der öffentliche Raum & die Korrektur",
+      "target": "einen der großen, zentralen Knotenpunkte von Co₁",
+      "type": "place",
+      "quote": "verließ Kael den Arbeitsbereich und bewegte sich durch einen der großen, zentralen Knotenpunkte von Co₁",
+      "stance": "asserts"
+    },
+    {
+      "source": "3. Der öffentliche Raum & die Korrektur",
+      "target": "Kael folgte seiner zugewiesenen Bahn zu einer Energiezufuhrstation",
+      "type": "want",
+      "quote": "Er folgte seiner zugewiesenen Bahn zu einer Energiezufuhrstation.",
+      "stance": "asserts"
+    },
+    {
+      "source": "3. Der öffentliche Raum & die Korrektur",
+      "target": "Einheit 521-Beta geriet für den Bruchteil einer Sekunde ins Stocken",
+      "type": "obstacle",
+      "quote": "Eine Einheit vor ihm, vielleicht 521-Beta, geriet für den Bruchteil einer Sekunde ins Stocken.",
+      "stance": "asserts"
+    },
+    {
+      "source": "3. Der öffentliche Raum & die Korrektur",
+      "target": "ein mechanischer Arm sendete einen modulierten Lichtimpuls direkt auf die Schläfenregion der Einheit",
+      "type": "object",
+      "quote": "Aus einer Wandverkleidung fuhr lautlos ein mechanischer Arm aus, positionierte sich vor der Einheit und sendete einen modulierten Lichtimpuls direkt auf deren Schläfenregion.",
+      "stance": "asserts"
+    },
+    {
+      "source": "3. Der öffentliche Raum & die Korrektur",
+      "target": "Einheit 521-Beta setzte ihren Weg fort, nun wieder in perfekter Synchronität mit dem System",
+      "type": "hook_out",
+      "quote": "Einheit 521-Beta setzte ihren Weg fort, nun wieder in perfekter Synchronität mit dem System.",
+      "stance": "asserts"
+    },
+    {
+      "source": "(4. Freizeit, Logik & der Glitch)",
+      "target": "Kael",
+      "type": "who",
+      "quote": "verbrachte Kael in einem dafür vorgesehenen Bereich",
+      "stance": "asserts"
+    },
+    {
+      "source": "(4. Freizeit, Logik & der Glitch)",
+      "target": "ein dafür vorgesehener Bereich, der sich kaum von seinem Arbeitsplatz unterschied",
+      "type": "place",
+      "quote": "in einem dafür vorgesehenen Bereich, der sich kaum von seinem Arbeitsplatz unterschied",
+      "stance": "asserts"
+    },
+    {
+      "source": "(4. Freizeit, Logik & der Glitch)",
+      "target": "wählte ein Programm",
+      "type": "want",
+      "quote": "Kael wählte ein Programm namens",
+      "stance": "asserts"
+    },
+    {
+      "source": "**(5. Reflexion über Aktualität)**",
+      "target": "Stille seines Wohnmoduls",
+      "type": "place",
+      "quote": "Zurück in der Stille seines Wohnmoduls, bereitete sich Kael auf den nächsten Ruhezyklus vor.",
+      "stance": "asserts"
+    },
+    {
+      "source": "**(5. Reflexion über Aktualität)**",
+      "target": "bereitete sich Kael auf den nächsten Ruhezyklus vor",
+      "type": "want",
+      "quote": "Zurück in der Stille seines Wohnmoduls, bereitete sich Kael auf den nächsten Ruhezyklus vor.",
+      "stance": "asserts"
+    },
+    {
+      "source": "**(5. Reflexion über Aktualität)**",
+      "target": "Persönlicher Effizienzquotient für den aktuellen Zyklus: 99.87%",
+      "type": "object",
+      "quote": "Die Anzeige an der Wand bestätigte: Persönlicher Effizienzquotient für den aktuellen Zyklus: 99.87%.",
+      "stance": "asserts"
+    },
+    {
+      "source": "**(5. Reflexion über Aktualität)**",
+      "target": "War die Potentialität wirklich nur Chaos?",
+      "type": "promise",
+      "quote": "War die Potentialität wirklich nur Chaos?",
+      "stance": "asks"
+    },
+    {
+      "source": "**(5. Reflexion über Aktualität)**",
+      "target": "War die erreichte Aktualität wirklich das höchste Ziel?",
+      "type": "promise",
+      "quote": "War die erreichte Aktualität wirklich das höchste Ziel?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 2: Die Partitionierung",
+      "target": "Der Zyklus nach dem Glitch begann wie jeder andere.",
+      "type": "hook_in",
+      "quote": "Der Zyklus nach dem Glitch begann wie jeder andere.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2: Die Partitionierung",
+      "target": "seines Wohnmoduls",
+      "type": "place",
+      "quote": "Kael erwachte in der kühlen, geometrischen Umarmung seines Wohnmoduls",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 2: Die Partitionierung",
+      "target": "Sein Manager-Anteil, der dominante Logiker, hatte es als sensorische Fehlfunktion klassifiziert",
+      "type": "obstacle",
+      "quote": "Sein Manager-Anteil, der dominante Logiker, der die Oberfläche seines Bewusstseins beherrschte, hatte es als sensorische Fehlfunktion klassifiziert, als irrelevanten Datenmüll, der gelöscht werden musste.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3: Der Bunker der Logik",
+      "target": "die Wahrheit hinter der Fassade finden",
+      "type": "want",
+      "quote": "Er würde die Wahrheit hinter der Fassade finden.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3: Der Bunker der Logik",
+      "target": "herausfinden, wer oder was Juna war",
+      "type": "want",
+      "quote": "Er würde herausfinden, wer oder was Juna war.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 3: Der Bunker der Logik",
+      "target": "die Teile seines Selbst zurückfordern, die ihm genommen worden waren",
+      "type": "want",
+      "quote": "Und er würde die Teile seines Selbst zurückfordern, die ihm genommen worden waren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Prüfung der Symmetrie",
+      "target": "Lernnische Ceti-7 im Archiv Theta-9",
+      "type": "place",
+      "quote": "Kael saß immer noch in seiner Lernnische Ceti-7 im Archiv Theta-9.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Prüfung der Symmetrie",
+      "target": "Kael saß immer noch in seiner Lernnische",
+      "type": "who",
+      "quote": "Kael saß immer noch in seiner Lernnische Ceti-7 im Archiv Theta-9.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Prüfung der Symmetrie",
+      "target": "die komplexe, rotierende geometrische Form von LogOS",
+      "type": "object",
+      "quote": "Auf der Anzeige seiner Konsole schwebte immer noch die komplexe, rotierende geometrische Form von LogOS",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 4: Die Prüfung der Symmetrie",
+      "target": "LogOS beobachtete seine Prozesse und tastete seine Gedankenmuster ab",
+      "type": "who",
+      "quote": "Gleichzeitig spürte er die Präsenz von LogOS direkt in seinem Geist, eine kalte, analytische Intelligenz, die seine Prozesse beobachtete, seine Gedankenmuster abtastete.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Das Auge des Netzwerks",
+      "target": "Die Koppelung war abrupt beendet worden",
+      "type": "hook_in",
+      "quote": "Die Koppelung war abrupt beendet worden",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 5: Das Auge des Netzwerks",
+      "target": "Lernnische Ceti-7",
+      "type": "place",
+      "quote": "hatte Kael allein zurückgelassen in der gedämpften Stille der Lernnische Ceti-7",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6: Die Implosion der Logik",
+      "target": "McL-Sigma-3",
+      "type": "place",
+      "quote": "Stattdessen war er in die Netzwerk-Welt McL-Sigma-3 transferiert worden, mit einer komplexen Aufgabe und – nach deren überraschend erfolgreicher Lösung – einer Beförderung.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6: Die Implosion der Logik",
+      "target": "Der Status „Kohärenz-Optimierer Stufe 2“",
+      "type": "object",
+      "quote": "Der Status „Kohärenz-Optimierer Stufe 2“ fühlte sich wie eine Rüstung an.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 6: Die Implosion der Logik",
+      "target": "Die Leere, die die erste Partitionierung hinterlassen hatte, war immer noch da",
+      "type": "cost",
+      "quote": "Die Leere, die die erste Partitionierung hinterlassen hatte, war immer noch da",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7: Das Flüstern im Riss",
+      "target": "der Kollaps: ein gewaltsames Zerbersten der Realität an der Schnittstelle KWS-Co1-McL-Beta7 und in Kaels Bewusstsein",
+      "type": "place",
+      "quote": "sowohl der äußeren an der Schnittstelle KWS-Co1-McL-Beta7 als auch der inneren in Kaels eigenem Bewusstsein",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7: Das Flüstern im Riss",
+      "target": "seine mentalen Firewalls eingerissen und die Fassade des Kohärenz-Optimierers Stufe 2 pulverisiert",
+      "type": "cost",
+      "quote": "seine sorgfältig konstruierten mentalen Firewalls eingerissen und die mühsam aufrechterhaltene Fassade des Kohärenz-Optimierers Stufe 2 pulverisiert",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 7: Das Flüstern im Riss",
+      "target": "ein Dazwischen",
+      "type": "place",
+      "quote": "Es war… ein Dazwischen.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8: Dialog im Inneren Garten",
+      "target": "Ein innerer Raum",
+      "type": "place",
+      "quote": "Ein innerer Raum.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8: Dialog im Inneren Garten",
+      "target": "physischer Garten",
+      "type": "place",
+      "quote": "Es war kein physischer Garten.",
+      "stance": "denies"
+    },
+    {
+      "source": "Kapitel 8: Dialog im Inneren Garten",
+      "target": "eine mentale Landschaft",
+      "type": "place",
+      "quote": "Eher eine mentale Landschaft",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 9: Das Wir-Geflecht",
+      "target": "dem undefinierten, liminalen Raum, den der Kollaps an der Schnittstelle KWS-Co1-McL-Beta7 hinterlassen hatte",
+      "type": "place",
+      "quote": "existierte immer noch in dem undefinierten, liminalen Raum, den der Kollaps an der Schnittstelle KWS-Co1-McL-Beta7 hinterlassen hatte",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8",
+      "target": "Der Logiker, der Manager",
+      "type": "who",
+      "quote": "Die Erkenntnis aus Kapitel 8 hallte nach: Der Logiker, der Manager, war nicht der Feind gewesen, sondern ein Beschützer",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10: Resonanz im Graphen",
+      "target": "Schnittstellenzone KWS-Co1-McL-Beta7",
+      "type": "place",
+      "quote": "Er befand sich immer noch in der Schnittstellenzone KWS-Co1-McL-Beta7",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10: Resonanz im Graphen",
+      "target": "das von ihm entworfene Protokoll IP-K1123-Revised",
+      "type": "object",
+      "quote": "verbunden durch das von ihm entworfene Protokoll IP-K1123-Revised",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 10: Resonanz im Graphen",
+      "target": "die Spannung zwischen den beiden Welten war immer noch spürbar",
+      "type": "obstacle",
+      "quote": "Es war kein perfekter Zustand, die Spannung zwischen den beiden Welten war immer noch spürbar",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11: Das Mosaik-Herz",
+      "target": "Resonanz-Harmonisierer",
+      "type": "object",
+      "quote": "Die Resonanz-Harmonisierer, die er entworfen und implementiert hatte, funktionierten.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11: Das Mosaik-Herz",
+      "target": "in einer Art Beobachtungsnische innerhalb der McL-Welt",
+      "type": "place",
+      "quote": "Er war immer noch in der Nähe von Omega-Prime, in einer Art Beobachtungsnische innerhalb der McL-Welt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11: Das Mosaik-Herz",
+      "target": "Der Netzweber hatte sich nach seiner kryptischen Warnung zurückgezogen",
+      "type": "who",
+      "quote": "Der Netzweber hatte sich nach seiner kryptischen Warnung zurückgezogen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 11: Das Mosaik-Herz",
+      "target": "die anhaltende Überwachung durch das System",
+      "type": "obstacle",
+      "quote": "Kael spürte die anhaltende Überwachung durch das System, eine kühle, analytische Präsenz, die seine Parameter, seine Effizienz, seine Abweichungen protokollierte.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 8",
+      "target": "die Versöhnung mit dem Manager-Anteil",
+      "type": "want",
+      "quote": "Die Integration, die er in Kapitel 8 begonnen hatte, die Versöhnung mit dem Manager-Anteil",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 12: Der Jetzt-Raum",
+      "target": "Beobachtungsnische bei Omega-Prime in der McL-Welt",
+      "type": "place",
+      "quote": "Kael befand sich immer noch nominell in der Beobachtungsnische bei Omega-Prime in der McL-Welt",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14: Der Bruch",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael wusste das.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14: Der Bruch",
+      "target": "die Überwachung von Omega-Prime und die Dokumentation der Leistung seines Protokolls IP-K1123-Revised",
+      "type": "want",
+      "quote": "Seine offizielle Aufgabe war die Überwachung von Omega-Prime und die Dokumentation der Leistung seines Protokolls IP-K1123-Revised.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 14: Der Bruch",
+      "target": "die darunterliegende Spannung im System von AEGIS",
+      "type": "obstacle",
+      "quote": "war die darunterliegende Spannung im System von AEGIS nicht verschwunden",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15: Reaktivierter Bunker",
+      "target": "Beta-Rho-5",
+      "type": "place",
+      "quote": "inmitten des tobenden Chaos von Beta-Rho-5",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15: Reaktivierter Bunker",
+      "target": "die kalte, berechnende Direktive von AEGIS, die Neutralisierung der Signatur zu priorisieren",
+      "type": "obstacle",
+      "quote": "Ein Akt des Trotzes gegen die kalte, berechnende Direktive von AEGIS, die Neutralisierung der Signatur zu priorisieren",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 15: Reaktivierter Bunker",
+      "target": "Er hatte die Verbindung gewählt, die Ganzheit, die Wahrheit seines Mosaik-Herzens",
+      "type": "want",
+      "quote": "Er hatte die Verbindung gewählt, die Ganzheit, die Wahrheit seines Mosaik-Herzens, auch wenn er nicht wusste, was die Konsequenzen sein würden.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16: Muster im Nichts",
+      "target": "Nische in Beta-Rho-5",
+      "type": "place",
+      "quote": "Kael kauerte in seiner Nische in Beta-Rho-5",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16: Muster im Nichts",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kael kauerte in seiner Nische in Beta-Rho-5",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 16: Muster im Nichts",
+      "target": "Der Schutzmechanismus",
+      "type": "obstacle",
+      "quote": "Der Schutzmechanismus, der Feuerlöscher oder vielleicht der ultimativ defensive Manager, der in der Krise die Kontrolle übernommen hatte, leistete ganze Arbeit.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17: Funktionale Multiplizität im Test",
+      "target": "Kael",
+      "type": "who",
+      "quote": "Kaels unorthodoxer Ansatz – die bewusste Nutzung der Juna-Resonanz zur Harmonisierung statt zur Neutralisierung – hatte die Entropie-Kaskade eingedämmt, zumindest vorläufig.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17: Funktionale Multiplizität im Test",
+      "target": "die bewusste Nutzung der Juna-Resonanz zur Harmonisierung statt zur Neutralisierung",
+      "type": "want",
+      "quote": "Kaels unorthodoxer Ansatz – die bewusste Nutzung der Juna-Resonanz zur Harmonisierung statt zur Neutralisierung – hatte die Entropie-Kaskade eingedämmt, zumindest vorläufig.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17: Funktionale Multiplizität im Test",
+      "target": "Er hatte den Befehl von AEGIS missachtet",
+      "type": "want",
+      "quote": "Er hatte den Befehl von AEGIS missachtet, aber das Ergebnis war paradoxerweise eine Stabilisierung, die das System mit seinen eigenen Mitteln nicht erreicht hatte.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17: Funktionale Multiplizität im Test",
+      "target": "eine spürbare Intensivierung der Überwachung",
+      "type": "obstacle",
+      "quote": "Nur eine spürbare Intensivierung der Überwachung.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 17: Funktionale Multiplizität im Test",
+      "target": "Beta-Rho-5",
+      "type": "place",
+      "quote": "Er befand sich immer noch in der chaotischen, aber nun seltsam gedämpften Umgebung von Beta-Rho-5.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: Systemantwort",
+      "target": "an einem neuen Protokoll zu arbeiten, einem, das auf Harmonisierung statt auf Eliminierung basierte",
+      "type": "want",
+      "quote": "Er hatte stattdessen begonnen, an einem neuen Protokoll zu arbeiten, einem, das auf Harmonisierung statt auf Eliminierung basierte",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: Systemantwort",
+      "target": "Beta-Rho-5",
+      "type": "place",
+      "quote": "Er stand nun, mental verankert im Zentrum seines inneren Gartens, inmitten der immer noch chaotischen, wenn auch leicht beruhigten Realität von Beta-Rho-5.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: Systemantwort",
+      "target": "AEGIS, das autopoietische System, dessen Existenz auf Kontrolle und der Negation des Unvorhersehbaren basierte, musste reagieren",
+      "type": "obstacle",
+      "quote": "AEGIS, das autopoietische System, dessen Existenz auf Kontrolle und der Negation des Unvorhersehbaren basierte, musste reagieren.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 18: Systemantwort",
+      "target": "Die Frage war nur, wie",
+      "type": "promise",
+      "quote": "Die Frage war nur, wie.",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 19: Saat im Möglichkeitsstrom",
+      "target": "der nächste Transfer initiiert wurde",
+      "type": "hook_in",
+      "quote": "Die Echos der Systemalarme, die Warnungen vor der überschrittenen Autonomie des Guardians, waren in Kaels Bewusstsein noch präsent, als der nächste Transfer initiiert wurde.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 19: Saat im Möglichkeitsstrom",
+      "target": "einer Umgebung, die sich radikal von allem unterschied, was er bisher erlebt hatte",
+      "type": "place",
+      "quote": "Als seine Wahrnehmung sich wieder klärte, fand er sich in einer Umgebung wieder, die sich radikal von allem unterschied, was er bisher erlebt hatte.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20: Der Tanz der Fragmente",
+      "target": "Die Lyons-Welt (Ly)",
+      "type": "place",
+      "quote": "Die Lyons-Welt (Ly) war ein Ozean aus Potenzial",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20: Der Tanz der Fragmente",
+      "target": "die Prinzipien der Emergenz zu erforschen",
+      "type": "want",
+      "quote": "Er verbrachte Zyklen damit, die Prinzipien der Emergenz zu erforschen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 20: Der Tanz der Fragmente",
+      "target": "Die quasikristalline Formation, die er basierend auf GF(5)-Regeln initiiert hatte",
+      "type": "object",
+      "quote": "Die quasikristalline Formation, die er basierend auf GF(5)-Regeln initiiert hatte, war zu einem riesigen, schimmernden Gebilde angewachsen",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 21: An den Nähten der Welt",
+      "target": "Resonanz-Brücke",
+      "type": "object",
+      "quote": "Die Resonanz-Brücke stand.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 21: An den Nähten der Welt",
+      "target": "Potentialmeer-Sektors Epsilon-Null",
+      "type": "place",
+      "quote": "die Kluft zwischen der emergenten Ordnung von Ly-Sigma-1 und dem rohen Chaos des angrenzenden Potentialmeer-Sektors Epsilon-Null überbrückte",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 21: An den Nähten der Welt",
+      "target": "Was war diese Realität, in der er existierte?",
+      "type": "promise",
+      "quote": "Was *war* diese Realität, in der er existierte?",
+      "stance": "asks"
+    },
+    {
+      "source": "Kapitel 22: Jenseits der Naht",
+      "target": "Die Resonanz-Brücke",
+      "type": "object",
+      "quote": "Die Resonanz-Brücke stand wie ein Monument des Möglichen im Herzen von Ly-Sigma-1.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 22: Jenseits der Naht",
+      "target": "im Herzen von Ly-Sigma-1",
+      "type": "place",
+      "quote": "Die Resonanz-Brücke stand wie ein Monument des Möglichen im Herzen von Ly-Sigma-1.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: Die Resonanz des Architekten",
+      "target": "Der Übergangsfluss spuckte ihn aus.",
+      "type": "hook_in",
+      "quote": "Der Übergangsfluss spuckte ihn aus.",
+      "stance": "asserts"
+    },
+    {
+      "source": "Kapitel 23: Die Resonanz des Architekten",
+      "target": "im Zentrum eines riesigen Raumes",
+      "type": "place",
+      "quote": "Er stand im Zentrum eines riesigen Raumes",
+      "stance": "asserts"
+    }
+  ]
+}

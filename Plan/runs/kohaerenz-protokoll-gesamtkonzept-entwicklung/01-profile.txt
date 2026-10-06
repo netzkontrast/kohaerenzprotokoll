@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-gesamtkonzept-entwicklung
+  lines                444  (frontmatter ends at 9)
+  body words           7400
+  headings             44   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       61
+  backslash escapes    96
+  typographic marks    34   ascii quotes 146
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    128
+  repeated labels      Central Conceptual Focus x40, Narrative & Reader Psychology Strategy x40, Recherche-Keywords x40, Research & Concept Application x40
+  longest line         1014 chars
+

@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 46
-readings: 46
+sources: 51
+readings: 51
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
 gathered: "2026-09-24"
 ---
 
@@ -22,9 +22,21 @@ Conflict pair „Rhys (ANP) vs. Moros (EP):“ ^[strukturelle-dissoziation-syste
 
 The world concept lists Moros in KW2 as „Moros (Leere)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L60]. In KW1: „Die Sterilität kann Moros' Zustand verstärken“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L39]. In KW3 it proposes: „Moros könnte hier in tiefster Erstarrung verharren“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L83]. In KW4: „Moros könnte Potenzial als schmerzhafte Erinnerung empfinden“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L105].
 
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — the collapse EP and its KW3 overlay, hedged
+
+The concept heads Moros „EP - Kollaps/Freeze“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L96] and describes „Eine fast nicht-existente Welt der Erstarrung, Leere und Hoffnungslosigkeit“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L98]. On KW3 (B) it says, hedged: „Könnte der Ort sein, der seinen Zustand ausgelöst hat oder ihn am stärksten aufrechterhält“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L105].
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — one of three named EPs
 
 The glossary lists three names together: „Spezifische EPs (assoziiert mit Angst, Sehnsucht, Trauer)“ ^[kontext-outline.md:L47]. Chapter 5 plans a „Konfrontation mit Gefühlen (Kiko/Moros?)“ ^[kontext-outline.md:L123], and Chapter 6 „EPs: Kiko, Lia, Moros?“ ^[kontext-outline.md:L134].
+
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — Moros as the part tied to grief, first with a question mark
+
+The concept development assigns an emotion to Moros once, in the block headed `Chapter 5:`, with a hedge: „Angst - Kiko?, Trauer - Moros?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L82] In the block headed `Chapter 6: [Fragmente der Vergangenheit]` he is one of the EPs: „repräsentiert durch EPs (Kiko, Lia, Moros)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L89]. The block headed `Chapter 30:` repeats the three: „Rhys (Fürsorge) und die EPs (Kiko, Lia, Moros) stehen im Zentrum dieser Auseinandersetzung.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L257]
+
+## Reading — `roman-konzept-kohaerenz-protokoll`, 2025-05-03, the Roman-Konzept — table row: grief
+
+The Roman-Konzept plans Moros in its table of parts as EP with the core function `Trauer`, the phobia entry „Phobie vor Konfrontation mit Verlust, vor ANPs“ ^[roman-konzept-kohaerenz-protokoll.md:L71] and the concept entry „EP Funktion (Trauer/Unterwerfung?)“ ^[roman-konzept-kohaerenz-protokoll.md:L71], with a question mark. Primary chapters: 5 and `6?`.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the part called Der Erstarrte, the system's deepest wound
 
@@ -37,6 +49,10 @@ In the roster (glued `1`) Moros (Kollaps) „Verkörpert die extremste Verteidig
 ## Reading — `charaktere`, 2025-07-29, the character concept — Moros as collapse
 
 The character concept lists Moros seventh in the first and second answers and tenth in the third, an EP of collapse and freeze. First answer: „Repräsentiert die tiefste Traumareaktion“ ^[charaktere.md:L62] (L62). Third answer, toward integration: „Äußerster Widerstand, wird als irrelevant oder unerreichbar empfunden“ ^[charaktere.md:L334] (L334).
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Moros as an EP of collapse and emptiness
+
+In Beat 1.5 (Kapitel 10–12) the MC line has Kael confront „Moros (Kollaps/Leere)“ ^[finales-kausales-plot-geruest.md:L85]; the description also names him: „z.B. durch Kiko, Moros, Isabelle“ ^[finales-kausales-plot-geruest.md:L78]. In Beat 3.1 (Kapitel 27–29) the sheet lists him among the cooperating parts: „ANPs wie Lex, Rhys, Alex, Argus und EPs wie Nyx, Kiko, Lia, Isabelle, Moros“ ^[finales-kausales-plot-geruest.md:L171].
 
 ## Reading — `outline`, 2025-07-30, the outline — Moros in the list of EPs
 
@@ -93,6 +109,10 @@ The outline of 2026-05-01 gives Moros's trace and first named appearance as the 
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — the table row and one chapter beat
 In its alter table (L44–L55, columns `Alter Name`, `TSDP-Aktionssystem`, `Funktionale Rolle`, `DKT-Korrelat`; the export lost the symbol in some cells) Moros has the action system „Erstarrung (Freeze)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L53], the role „Entropie-Fixierung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L53] and the DKT correlate „Halteproblem-Symptom“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L53]. In the Storyform A line of a chapter beat „Moros (Freeze-Alter) wird aktiviert; Kael erstarrt in der Enge“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L143].
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Moros in the ten-alter table: freeze, depression and standstill
+
+The row for Moros reads „Moros | Erstarrung (Freeze) | Entropie-Fixierung | Depression und Stillstand“ ^[romanprojekt-analyse-synthese.md:L82]. The DKT cell is `Entropie-Fixierung`, written with the word Entropie; the synthesis does not explain it. The row is one of the table the synthesis calls „Das valide Alter-Profil (Reset 2026-04-30)“ ^[romanprojekt-analyse-synthese.md:L68]; its claim to be valid is its own, recorded and not applied.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 13
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll"]
+sources: 14
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,11 @@ Position: the coda `CODA: Die Rekursive Klammer`, after Teil III; the blueprint 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael (Meta-Perspektive)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L383]
 - Story: the blueprint plans, in `Plot-Beats`, „Der Moment nach dem Ende löst den Anfang aus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385] and „auf die Erinnerungen der Zukunft durch, um Kapitel 1 zu generieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L385]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kapitel 40/0, the Neon Ashes and the recursive reset
+
+- under Leitfrage 6, from documents it numbers (its source 9): „Am Ende, in Kapitel 40/0, befindet sich Kael in den“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117] Neon Ashes of New Zenith;
+- under Leitfrage 9 it asks how the Gödel-Gambit is carried „(Kapitel 37/38) in den rekursiven Reset (Kapitel 40/0) überführt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L157], and names the end (Kapitel 39 -> 40/0) as Ketsu, circular recursion.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

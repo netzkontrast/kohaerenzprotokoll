@@ -231,12 +231,28 @@ The resolution table says „AEGIS is not destroyed but transformed into a state
 
 Transformed into a permanent state, the third variant of the record, with no Vortex and no successor named; the question stays open.
 
+## 2026-10-05 — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development
+
+**The concept development plans „den Kollaps/die Transformation von AEGIS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L291] as completed or steered in Chapter 35 and a world „ohne AEGIS' dominante Kontrolle“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L298] in Chapter 36; no Vortex is named.**
+
+Chapter 35, `Finale Transformation`: Kael uses her integrated power „um den Kollaps/die Transformation von AEGIS zu vollenden oder zu lenken“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L291]. Chapter 36, `Der Zustand danach`, plans a transition into a new, uncertain state „ohne AEGIS' dominante Kontrolle“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L298], and the strategy field puts it after „dem Fall oder der Transformation von AEGIS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L299], with the open question about the world after: „Selbstorganisation? Chaos?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L300]. The document names no `Vortex` ^[2-kohaerenz-protokoll-konzeptentwicklung.md:#0] and no beat, and it does not say who takes over AEGIS's function.
+
+Where it stands in the record's own terms: collapse or transformation left open in the plan's own words, and what remains is a state without AEGIS's dominant control; recorded, the question stays open.
+
+## 2026-10-05 — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report
+
+**The Leitfragen report describes the end as a recursive reset, Kapitel 40/0, and asks how it follows the Gödel-Gambit; it has no Vortex and names no fate for AEGIS.**
+
+This is the report's account of documents it numbers (its sources 9, 10 and 13). The word `Vortex` ^[roman-entwicklung-kohaerenz-und-leitfragen.md:#0] does not stand in it (a count). Of the model: Kael wakes after a Universal Reboot, „ohne Erinnerung erwacht“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117], and „Am Ende, in Kapitel 40/0, befindet sich Kael in den“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L117] Neon Ashes of New Zenith. The Kishōtenketsu ending runs to „der zirkulären Rekursion, in der das Ende zum Neuanfang wird“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153]; Kael, caught in a Race Condition, „und den Zyklus neu startet“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L155]. Leitfrage 9 asks how the arc passes „in den rekursiven Reset (Kapitel 40/0) überführt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L157].
+
+Stands: AEGIS's state at the end is not addressed; the report asks only about tone and the transition into the reset, as an unanswered question; recorded, not applied.
+
 ## 2026-10-05 — the author: the monolithic AEGIS goes out and a plural one arises (the first half of Q8)
 
 Asked what AEGIS is after the Vortex, with the answers the sources offer (a living relic, extinguished, plural, a
 receiver), the author chose the reading of the consolidated concept: „AEGIS-monolithisch erlischt; AEGIS-plural
 entsteht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L265] It happens in Kap 39, with the fourth
-beat of the Genesis (W12), and storyform B runs until then, not only to the Vortex's fifth beat. **This answers the
+beat of the [[genesis|Genesis]] (W12), and storyform B runs until then, not only to the Vortex's fifth beat. **This answers the
 first half.** Whether Oblivion takes over AEGIS' function inside Kael, choosing instead of erasing, the author left
 open; so does the question's status.
 
@@ -247,3 +263,18 @@ that names his role gives: „Empfehlung: Oblivion übernimmt als interne Wachhe
 ^[dual-storyform-hintergruende-md.md:L428] **With the first half (above), Q8 is answered**: outside, the monolithic
 AEGIS goes out and becomes plural in Kap 39; inside, Oblivion keeps the function of forgetting, but as a choice.
 
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet gives AEGIS a collapse or destabilisation at the midpoint, a logical collapse in Kapitel 33-35 and a tragic fate; it writes no Vortex.**
+
+At the midpoint (Beat 2.4, Kapitel 25-26) the OS line has AEGIS' control attempt backfire: „der nach hinten losgeht und zu seinem“ ^[finales-kausales-plot-geruest.md:L153] collapse or destabilisation. In Kapitel 33-35 (Beat 3.3) the beat sheet lets Kael confront AEGIS' core logic, which leads to the „logischen Kollaps“ ^[finales-kausales-plot-geruest.md:L190], and speaks of „dessen Selbstzerstörung oder erzwungene Transformation auszulösen“ ^[finales-kausales-plot-geruest.md:L191]. In Kapitel 36-37: „Während AEGIS zusammenbricht oder transformiert wird, wird sein Scheitern mit der emergenten Kohärenz kontrastiert“ ^[finales-kausales-plot-geruest.md:L209]. After the climax the OS line speaks of AEGIS' „tragisches Schicksal“ ^[finales-kausales-plot-geruest.md:L222]. The word `Vortex` ^[finales-kausales-plot-geruest.md:#0] is not in the beat sheet, and the lines do not say whether AEGIS survives, is extinguished or becomes plural; the or stands in the document.
+
+Stands as collapse or transformation, undecided, in a beat sheet of 2025-07-29 that has no Vortex; it predates and does not touch the author's answers of 2026-10-05 above, which stand.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis lets AEGIS be transformed, not destroyed: „Es erfolgt keine Zerstörung, sondern eine philosophische Transformation in Richtung algorithmischer Melancholie“ ^[romanprojekt-analyse-synthese.md:L118].**
+
+The line stands among the consensus points. In the finale the protocol ends not in a victory over AEGIS but in a stable, adaptive resonance protocol in which AEGIS stays „algorithmisch melancholischer“ ^[romanprojekt-analyse-synthese.md:L62] guardian, while Juna is accepted as the integrative centre. In the storyform passage the failure of AEGIS before living paradoxes leads „zur finalen Disintegration der rigiden AEGIS-Struktur“ ^[romanprojekt-analyse-synthese.md:L107]. The document does not use the word `Vortex` ^[romanprojekt-analyse-synthese.md:#0] and does not say AEGIS becomes plural.
+
+Stands: transformation with AEGIS kept, and at the same time the rigid structure's disintegration, in a synthesis of 2026-04-30; it predates the author's answers of 2026-10-05, which stand, and changes neither.

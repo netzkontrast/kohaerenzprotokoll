@@ -1,0 +1,14 @@
+# roman-entwicklung-kohaerenz-und-leitfragen
+  lines                215  (frontmatter ends at 9)
+  body words           3829
+  headings             12   bold-only lines 1
+  table rows           21   code fences 0
+  question marks       55
+  backslash escapes    102
+  typographic marks    14   ascii quotes 156
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    65
+  repeated labels      Wertvollste Quellen x10
+  longest line         811 chars
+

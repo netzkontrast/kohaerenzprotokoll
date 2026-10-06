@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 28
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline"]
+sources: 32
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,12 +39,29 @@ Title: the commission titles the chapter „Am Abgrund: Die Entscheidung zur Tra
 - Story: its `Plot Summary` plans „Aktive Suche nach Antworten, AEGIS verstehen“ ^[kontext-outline.md:L212]
 - Foci: `Kael Sys Focus` „Entscheidung zur aktiven Suche“ ^[kontext-outline.md:L213]; `AEGIS Focus` „Registriert Strategiewechsel“ ^[kontext-outline.md:L214]
 
+## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — `Wendepunkt zur Agency`
+
+Focus: `Wendepunkt zur Agency`, „Der Übergang von einer primär reaktiven Haltung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L137]
+
+- Story: „Eine Koalition von Anteilen (oder ein stärker integriertes System Kael)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L138]
+- Concept: „Dieser Wendepunkt entspricht dem“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L139] (concept tag: the move from `Phase 1` to `Phase 2` of TSDP)
+- Act: the block opens „Ende von Akt“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L138]
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Kontakt
 
 Title: „Kapitel 13: Kontakt“ ^[roman-outline-system-kael.md:L191]
 Position: Teil IV, KW4
 
 - Story: „Gemeinsam navigieren Kael und seine inneren und äußeren Verbündeten die chaotische, zerbrechende Überwelt“ ^[roman-outline-system-kael.md:L191] to the AEGIS hub; Part 1 ends with Kael as the Wir of his system making contact.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 1.6, „Eintritt in den Nexus / Erkenntnis Innenwelt (Plot Point 1)“ ^[finales-kausales-plot-geruest.md:L89] (Kapitel 13)
+
+The beat sheet places Kapitel 13 in Beat 1.6; the beat covers Kapitel 13 alone.
+
+- Beat: the heading titles it „Eintritt in den Nexus / Erkenntnis Innenwelt (Plot Point 1)“ ^[finales-kausales-plot-geruest.md:L89]
+- Event: the beat sheet's `Beschreibung` says „Dies fällt oft mit dem Eintritt in die instabile Überwelt oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91]
+- Cause: the `Kausale Verknüpfung` says „zwingt Kael zu einem Wandel vom passiven Opfer zum aktiven Akteur“ ^[finales-kausales-plot-geruest.md:L92]
+- Throughlines: the OS or MC line says „Seine Domäne der Fixed Attitude beginnt sich in Richtung Change zu verschieben“ ^[finales-kausales-plot-geruest.md:L98]
 
 ## Reading — `outline`, 2025-07-30, the outline — Der Einstieg in die Überwelt
 
@@ -90,6 +107,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Übergangszone zwische
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, LogOS, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L158]
 - Story: the blueprint plans, in `Plot-Beats`, „Er hört auf, sein Trauma zu vermeiden“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L160] and „AEGIS schaltet von sanfter Panoptikum-Lenkung auf feindliche Eliminierung um“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L160]
+
+## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — graph theory and IFS parts in Kapitel 11–13
+
+- under Leitfrage 2 it says „Die dynamische Verschränkung von Graphentheorie (McLaughlin-Graph) und IFS-Teilen in den Kapiteln 11-13“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L48] needs a precise network topology of the psyche (its source 2); the range is the report's account of a document it numbers, and it names no single chapter within it.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Abgrund-Entscheidung
 
@@ -154,6 +175,10 @@ Title: „Der totale System-Kollaps“ ^[kohaerenz-protokoll-kapitel-outline-gen
 - Story: the dual-storyform outline plans „Akt-Finale. Kael bricht unter dem Druck der widersprüchlichen Informationen zusammen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L164]
 - Storyforms: `Storyform B` (`MC: Universe/Present`): „Kael ist am Tiefpunkt seiner physischen Belastbarkeit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L166]; `Storyform A` (`MC: Mind/Conscious`): „Die Erkenntnis der eigenen Spaltung wird zur Gewissheit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L167]
 - Scene and pacing: `Szenen-Keim`: „Eine Explosion aus reinem Licht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L168]; `Pacing`: „Dramatisch, stockend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L169]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — the first collapse closes Phase I
+
+- The reset synthesis places in Phase I (heading „Die Ästhetik der Ohnmacht (Kapitel 1–13)“ ^[romanprojekt-analyse-synthese.md:L46]): „Der erste Zusammenbruch in Kapitel 13 markiert das Scheitern des rein rationalen Denkens“ ^[romanprojekt-analyse-synthese.md:L50]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
