@@ -227,3 +227,11 @@ Stands on the external side of the record's origins, with the DID as AEGIS's doi
 The line reads „Juna repräsentiert das exilierte Ursprungs-Ich“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L141], a high-energy mass of identity and traumatic memories outside the regular system parameters; she is „ein kohärenter Datensatz“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L141] bound to Kael by quantum entanglement (ER=EPR), and AEGIS's target (L141). The concept does not say that Kael is a fragment of Juna, of M or of AEGIS; it names him as the protagonist „der unter einer tertiären strukturellen Dissoziation der Persönlichkeit (TSDP) leidet“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L100] (L100). The sentences carry glued reference numbers to sources the text does not name.
 
 Stands beside the record's origin told through a split self (rows 5 to 7), as the exiled original self set against Kael through entanglement, dated 2026-03-26; recorded, nothing decided, and the record's rows are not changed.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction
+
+**The concept extraction analyses Kael's DID as AEGIS's doing, not as a property of his M-Avatar-Natur, and associates the origin-island with Julia.**
+
+It says: „ist Kaels DID keine inhärente Eigenschaft seiner M-Avatar-Natur“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L221], and names the K-J connection as possibly linked to the origin island in the Potentialmeer, „die mit einer Entität oder einem Prinzip namens“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L181] Julia is associated. It gives no origin of Kael beyond the Kohärenz-Inseln, „die als Ursprung der Essenzen von Kael und Julia postuliert werden“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L19].
+
+Stands beside the record's rows for 2025-04, as an analysis of Kael's fragmentation by AEGIS; recorded, nothing decided, and the record's rows are not changed.
