@@ -59,6 +59,10 @@ python3 scripts/check_skills.py         # after a repository skill changes
   2b sections from `development.json`, values included (decision 025 step 47); never
   edit that line by hand — change the chapter's references and regenerate. The event
   bullets above it are never touched.
+- A **note** that a treatment paragraph never names AEGIS, its ensemble or its budget
+  where the weave gives the chapter storyform B means a bridge tells only its A half.
+  Add a B beat as a proposal, or leave it silent where the author chose silence
+  (Kap 18 shimmers only, step 39); never add a marker word to silence the note.
 - A **note** that a concern sits in an act whose signpost is another type points at a
   reference the act rhythm (step 44) would replace; replace it only as the author's
   rhythm says, never to silence the note.

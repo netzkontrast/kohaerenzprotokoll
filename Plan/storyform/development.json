@@ -573,11 +573,12 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
-        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md",
+        "Plan/runs/writing/akt-2-vortex/scene-architecture_2026-10-06.md"
       ],
       "goal": "Kael außerhalb von KW1 orten.",
       "opposition": "Mnemosynes Bewahren widerspricht dem Schließen des Falls. Mnemosyne bewahrt, was AEGIS schließen will (Contagonist in B).",
-      "action": "AEGIS setzt einen Checkpoint, der einen Weg sichert und einen anderen verschließt.",
+      "action": "AEGIS setzt einen Checkpoint, der einen Weg sichert und einen anderen verschließt. AEGIS untersucht, warum Mnemosyne bewahrt, und lernt die Anomalie kennen, ohne sie zu verstehen (B-OS Learning).",
       "turn": "Die Klassifizierung scheitert, obwohl der Weg praktisch gesichert ist.",
       "cost": "Ein Gefühlswert bleibt ohne passenden Typ und ein eigener Logbezug fehlt. Das Abwärmebudget sinkt weiter (die Uhr von B).",
       "knowledge": "Kael erlebt nur die zugängliche Tür, nicht die Systemabsicht.",
@@ -958,11 +959,12 @@
         "Manuscript/kanon.md",
         "Plan/runs/writing/book/plot-development_2026-10-06.md",
         "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md",
-        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md"
+        "Plan/runs/writing/book/plot-vergleich_2026-10-05.md",
+        "Plan/runs/writing/akt-2-vortex/scene-architecture_2026-10-06.md"
       ],
       "goal": "Entscheiden, ob er die sichere Ordnung verlässt.",
       "opposition": "Suche, Abwehr und Vermeidung haben jeweils nachvollziehbare Verlustrisiken.",
-      "action": "Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf. Selene vermittelt; die Suche (Rhys, Kiko, Lia, Silas) gewinnt gegen Abwehr und Vermeidung.",
+      "action": "Kael wählt den Weg zu Juna und gibt einen sicheren Rückzugspunkt auf. Selene vermittelt; die Suche (Rhys, Kiko, Lia, Silas) gewinnt gegen Abwehr und Vermeidung. Auf der Seite von B verzeichnet AEGIS den Entschluss als Bewegung, die seine Klassifizierung aus Kap 22 widerlegt; Kaels Erinnerung drückt (B-MC Present, B-IC Memory; Vorschlag).",
       "turn": "Die Suche gewinnt; die Gegenwart muss nun erreicht werden.",
       "cost": "Seine bisherige Überlebensordnung ist nicht mehr verfügbar. Der sichere Rückzugspunkt entfällt (die Uhr von A).",
       "knowledge": "Er kennt genügend, um zu wählen, aber weder Erfolg noch Junas Zustimmung.",
@@ -1053,11 +1055,12 @@
       "sources": [
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
-        "Plan/runs/writing/book/plot-development_2026-10-06.md"
+        "Plan/runs/writing/book/plot-development_2026-10-06.md",
+        "Plan/runs/writing/akt-2-vortex/scene-architecture_2026-10-06.md"
       ],
       "goal": "Die Verbindung durch den Purge schließen.",
       "opposition": "Eine erfolgreiche Schutzmaßnahme gefährdet Juna durch denselben Zugriff.",
-      "action": "AEGIS berechnet den Eingriff und findet einen belegten Nutzen für andere, den Kaels Verbindung stört.",
+      "action": "AEGIS berechnet den Eingriff und findet einen belegten Nutzen für andere, den Kaels Verbindung stört. Der Purge verbraucht mehr Abwärmebudget als jeder Sweep zuvor (die Uhr von B, Schritt 43).",
       "turn": "Der Zugriff gelingt teilweise; der eigene Riss wächst.",
       "cost": "AEGIS verliert die Möglichkeit, einen früheren Schutzentscheid zu erinnern.",
       "knowledge": "Kael sieht den Angriff, nicht alle Gründe oder den eigenen Systemverlust.",
@@ -1234,11 +1237,12 @@
       "sources": [
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
-        "Plan/runs/writing/book/plot-development_2026-10-06.md"
+        "Plan/runs/writing/book/plot-development_2026-10-06.md",
+        "Plan/runs/writing/akt-2-vortex/scene-architecture_2026-10-06.md"
       ],
       "goal": "Juna in der Gegenwart begegnen.",
       "opposition": "Erwartung und Zustimmung sind verschiedene Dinge.",
-      "action": "Kael stellt eine konkrete Frage, und Juna verfolgt ihr eigenes Vorhaben statt seine Erinnerung zu bestätigen.",
+      "action": "Kael stellt eine konkrete Frage, und Juna verfolgt ihr eigenes Vorhaben statt seine Erinnerung zu bestätigen. Auf der Seite von B sieht AEGIS nur die Bewegung: Kael geht auf Juna zu, bevor er es beschließt, ein Reflex, den AEGIS nicht klassifizieren kann (B-IC Preconscious; Vorschlag).",
       "turn": "Die Begegnung ist real; Nähe löst die Trennung nicht automatisch.",
       "cost": "Ein geliebtes Selbstbild muss aufgegeben werden.",
       "knowledge": "Er weiß jetzt, dass sie da ist; was beide wollen, verlangt Gespräch.",
@@ -1479,11 +1483,12 @@
       "sources": [
         "Plan/storyform/weave.json",
         "Manuscript/kanon.md",
-        "Plan/runs/writing/book/plot-development_2026-10-06.md"
+        "Plan/runs/writing/book/plot-development_2026-10-06.md",
+        "Plan/runs/writing/akt-2-vortex/scene-architecture_2026-10-06.md"
       ],
       "goal": "Eine gemeinsame Zukunft verhandeln.",
       "opposition": "Verbindung als Fähigkeit ersetzt keine Zustimmung und keinen Wunsch.",
-      "action": "Kael und Juna vereinbaren eine begrenzte nächste Handlung, die jeder ablehnen darf.",
+      "action": "Kael und Juna vereinbaren eine begrenzte nächste Handlung, die jeder ablehnen darf. Das Rauschen ist AEGIS' Sterben, auf Kaels Seite hörbar: Was das Abwärmebudget nicht mehr hält, kommt als Rauschen herein (B-RS Becoming; Vorschlag).",
       "turn": "Ein geteiltes Vorhaben entsteht ohne Vollständigkeitsversprechen.",
       "cost": "Beide verzichten auf die Kontrolle der Antwort des anderen.",
       "knowledge": "Kael weiß, was vereinbart wurde, nicht die sichere Zukunft.",
