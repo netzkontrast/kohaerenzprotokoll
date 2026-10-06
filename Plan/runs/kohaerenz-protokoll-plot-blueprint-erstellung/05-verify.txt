@@ -1,0 +1,197 @@
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Antwort"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            18
+
+`Antwort` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#9]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Rationale"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Rationale` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#3]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Zweck dieses Teils"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zweck dieses Teils` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#2]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Theorien"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Theorien` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#22]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "möglicherweise"
+whole word, case-sensitive     37
+whole word, case-insensitive   39
+including compounds            37
+
+`möglicherweise` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#37]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Integriert in"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Integriert in` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#9]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Teil 3"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Teil 3` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#0]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Kaels"
+whole word, case-sensitive     90
+whole word, case-insensitive   90
+including compounds            90
+
+`Kaels` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#90]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Julias"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Julias` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#2]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Sophias"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Sophias` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#7]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Guardians"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            43
+
+`Guardians` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#43]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Liminal"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Liminal` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#5]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Echos"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Echos` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#6]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Echoes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Echoes` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#1]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#2]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "KW1"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            34
+
+`KW1` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#34]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "KW2"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`KW2` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#36]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "KW3"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`KW3` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#26]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "KW4"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`KW4` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#16]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Konstrukt-Stadt"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Konstrukt-Stadt` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#5]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Resonanz-Landschaft"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Resonanz-Landschaft` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#5]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Grenzfeste"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Grenzfeste` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#7]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Möglichkeits-Garten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Möglichkeits-Garten` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#5]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "Julia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Julia` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#1]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "K-J-Paradox"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`K-J-Paradox` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#9]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "K-J-Paradoxon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K-J-Paradoxon` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#1]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "ANP"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`ANP` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#21]
+
+$ read.py kohaerenz-protokoll-plot-blueprint-erstellung --count "\*Self\*"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`\*Self\*` ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:#1]
+
+stance_marker_count = Antwort 9 + Rationale 3 + Zweck dieses Teils 2 + Theorien 22 = 36 (whole word, case-sensitive, from the counts above)

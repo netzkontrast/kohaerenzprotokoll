@@ -1,0 +1,119 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Candidates as the document writes them. The export lost Greek symbols (the kernel letters stand as "-Kernel" with a gap, and several formulas are empty parentheses), so the symbol-led names are listed only as far as the document writes them. Footnote digits 1 and 2 are glued to the sentences' end words; they cite the reference list at the end. The lens terms below are borrowed concepts the document applies to its world.
+
+- Autonomous Entropic Gatekeeper for Identity Systems
+- AEGIS
+- Genesis Crisis
+- Nichts Rauschen
+- Trennungsprotokoll
+- Separation Protocol
+- Great Realignment
+- fear-vibration
+- falling glass
+- Dual-Kernel Theory
+- Coherence Kernel
+- Collapse Kernel
+- No-Trust Principle
+- Coherence Theory of Truth
+- Operative Closedness
+- Real-Time Self-Verification
+- RTSV
+- Zero-Trust Execution Model
+- Cognitive Firewall
+- SIS Protocol
+- Coherence Protocol
+- Authors
+- Ratschläge
+- Narrative Enforcement Parameter
+- Vector Jitter
+- Data Moshing
+- Batch-Invariant Kernels
+- Absolute Greedy Decoding
+- Isolated Memory Allocation
+- Semantic Entropy
+- Tier 0 (Homeostasis)
+- Tier 1 (Dissonance)
+- Tier 1 Dissonance
+- Compute-Lock
+- Gatekeeper
+- Digital Overworld (Überwelt)
+- Digital Overworld
+- Überwelt
+- Overworld
+- Behavioral Proof-of-Function
+- BPoF
+- Core Worlds (Kernwelten)
+- Core Worlds
+- Kernwelten
+- Psycho-Architecture
+- Somatic Truth
+- Component 734
+- Kael
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Grenzfeste
+- Apparently Normal Parts
+- Apparently Normal Part
+- ANPs
+- ANP
+- Emotional Parts
+- Emotional Part
+- EPs
+- EP
+- Regulated Breath Counting
+- Visceral Gut Reactions
+- Tensing of Muscles
+- Unclenching of Hands
+- ruin-garden
+- Juna/V
+- Guardians
+- LogOS
+- Oblivion
+- Silas
+- Isabelle
+- Cerberus
+- Mnemosyne
+- Hard Glitch Cut
+- Format C:
+- Digital Kintsugi
+- PRO-Framework
+- Consensus Enforcer
+- Amnesia Protocol
+- Narrative Context Protocol
+- NCP
+- State-Freezing
+- Memory-as-Action
+- MemAct
+- Wächter-Zwiespalt
+- Positional Bias
+- Progressive Disclosure
+- Line Budget
+- Manus-Pattern Triade
+- task\_plan.md
+- findings.md
+- progress.md
+- Specification Gaming
+- Causal Resonance
+- Risse
+- Tertiary Structural Dissociation of the Personality
+- TSDP
+- Gödel Gambit
+- Gödel-Satz
+- Moonshine-Link
+- functional multiplicity
+- Algorithmic Melancholy
+
+## lens
+
+- Free Energy Principle
+- Active Inference
+- Expected Free Energy
+- Integrated Information Theory
+- Principle of Explosion

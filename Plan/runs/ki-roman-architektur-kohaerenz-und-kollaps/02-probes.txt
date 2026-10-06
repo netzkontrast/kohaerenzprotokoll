@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x2
+  glued ref numbers      29
+  backslash escapes      80
+  typographic marks      9
+  ascii quotes           94
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systemarchitektur, Systemdrucks, Systemen, Systementscheidung, Systeminteraktionen, Systemkonflikte, Systems, Systemtechnik, Systemweisheit
+  handl    Handlung, Handlungsbogens, Handlungsbögen, Handlungsfluss, Handlungsfreiheit, Handlungsintention, Handlungspfade
+  agent    Agent, Agenten, Agentenklassen, Agentic, Agents, Agentur
+  infor    Information, Informationen, Informationserhaltung, Informationskonstrukt, Informationslöschung, Informationszustände
+  archi    Archipel, Architecture, Architektonische, Architektur, Architekturen
+  autor    Autor, Autoregressive, Autoren, Autorenschaft, Autors
+  daten    Daten, Datenbank, Datenkanals, Datenpakete, Datenspeicherung
+  integ    Integration, Integrator, Integratorin, Integrity, Integrität
+  konfl    Konflikt, Konfliktanalyse, Konflikte, Konfliktlösung, Konflikts
+  narra    Narration, Narrationen, Narrativ, Narrative, Narratologie
+  parad    Paradigma, Paradigmen, Paradigmenwechsel, Paradoxien, Paradoxon
+  story    Story, Storyform, Storyforms, Storypoints, Storytelling
+  algor    Algorithmen, Algorithmisch, Algorithmische, Algorithmus
+  chara    Character, Charakterdialog, Charaktere, Charakterentwicklung
+  funkt    Funktion, Funktionalen, Funktionalität, Funktionen
+  korre    Korrektheit, Korrekturen, Korrespondenz, Korrespondenztheorie
+  proto    Protocol, Protocols, Protokoll, Protokolls
+  psych    Psyche, Psycho, Psychologie, Psychologische
+  schwe    Schwebe, Schwelle, Schwellenwert, Schwellenwerts
+  theor    Theoretisches, Theorie, Theorien, Theory
+  trans    Transaktionen, Transformation, Transformationen, Transparenz
+  traum    Traum, Trauma, Traumaabwehr, Traumas
+  berec    Berechnung, Berechnungen, Berechnungsart
+  diale    Dialetheie, Dialetheische, Dialetheismus
+  diese    Diese, Dieser, Dieses
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Antinomie
+  Chat < ChatCompanions
+  Eine < Seine
+  Eine < Anscheinend
+  Eins < Daseins
+  Erst < Erster
+  Form < Storyform
+  Form < Storyforms
+  Form < Information
+  Form < Informationen
+  Form < Formalisierung
+  Form < Transformation
+  Form < Transformationen
+  Form < Informationslöschung
+  Form < Informationszustände
+  Form < Informationserhaltung
+  Form < Informationskonstrukt
+  Hier < Hierbei
+  Hier < Hierarchie
+  Kael < Kaels

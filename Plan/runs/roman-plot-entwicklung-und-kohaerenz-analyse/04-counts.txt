@@ -1,0 +1,131 @@
+# counts for 101 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                9 word     9 in   [11, 15, 154, 155, 156, 157]
+  Kohärenz-Protokolls               1 word     1 in   [66]
+  AEGIS                            55 word    63 in   [15, 17, 25, 27, 35, 37]
+                                    1      as AEGIS-Simulation
+                                    1      as AEGIS-Struktur
+                                    1      as AEGIS-Muster
+                                    1      as AEGIS-Instanz
+  AEGIS v1.5                        4 word     5 in   [114, 117, 142]
+  Kael                             74 word    86 in   [15, 17, 25, 27, 36, 37]
+                                   12      as Kaels
+  Juna                             18 word    21 in   [27, 37, 38, 66, 75, 77]
+                                    2      as Junas
+                                    1      as Juna-Aspekts
+  Julia                             2 word     2 in   [27, 121]
+  Kernwelten                        7 word     7 in   [25, 42, 44, 78, 101, 116]
+  KW1                               9 word    11 in   [25, 46, 59, 67, 68, 69]
+  KW2                              10 word    10 in   [47, 59, 70, 71, 72, 73]
+  KW3                               6 word     6 in   [48, 59, 74, 75, 76]
+  KW4                               3 word     4 in   [25, 49, 95, 135]
+  Logos-Prime                       2 word     2 in   [46, 67]
+  Mnemosyne-Archipel                1 word     1 in   [47]
+  Cerberus-Labyrinth                1 word     1 in   [48]
+  Kairos-Potentialis                1 word     1 in   [49]
+  Guardian LogOS                    2 word     2 in   [46, 91]
+  LogOS                             3 word     3 in   [46, 91]
+                                    2      as Logos-Prime
+  Mnemosyne                         5 word     6 in   [47, 71, 92, 116, 146]
+                                    1      as Mnemosyne-Archipel
+  Cerberus                          4 word     5 in   [48, 75, 116, 146]
+                                    1      as Cerberus-Labyrinth
+  Guardians                         4 word     4 in   [116, 118, 146]
+  Lex                              18 word    18 in   [46, 59, 68, 69, 70, 71]
+  Rhys                              6 word     6 in   [47, 70, 71, 93, 99]
+  Kiko                              6 word     6 in   [47, 59, 70, 99]
+  Alex                              3 word     3 in   [48, 69, 76]
+  Nyx                               7 word     7 in   [48, 72, 75, 97, 137, 138]
+  Selene                            4 word     5 in   [49, 79, 100]
+                                    1      as Selenes
+  Moros                             2 word     2 in   [59, 73]
+  Argus                             2 word     2 in   [94]
+  Architekt                         3 word    14 in   [13, 15, 42, 48, 81, 96]  <-- substring
+                                    8      as Architektur
+                                    2      as Architekt-Archetyp
+                                    1      as Architekten-Zentrum
+  Echo                              2 word     5 in   [59, 66, 70, 119]  <-- substring
+                                    3      as Echos
+  Fragment O                        6 word     6 in   [125, 127, 141]
+  Gärtner                           1 word     4 in   [125, 127, 141]  <-- substring
+                                    2      as Gärtner-Axiom
+                                    1      as Gärtners
+  Gärtner-Axiom                     2 word     2 in   [127, 141]
+  Herr beider Welten                1 word     1 in   [125]
+  Nichts Rauschen                   2 word     2 in   [19, 125]
+  Kernel                            3 word     3 in   [17, 19, 23]
+  Moonshine-Link                    4 word     5 in   [21, 27, 38, 77]
+                                    1      as Moonshine-Links
+  Moonshine-Protokoll               1 word     1 in   [95]
+  Moonshine-Symmetrie               2 word     2 in   [106, 122]
+  Moonshine-Transfer                1 word     1 in   [136]
+  K-J-Brücke                        1 word     1 in   [136]
+  Kohärenz-Insel                    1 word     2 in   [27, 100]
+                                    1      as Kohärenz-Inseln
+  Kohärenz-Inseln                   1 word     1 in   [100]
+  Einheitsfront                     2 word     2 in   [100, 138]
+  Abfallwelten                      4 word     4 in   [83, 93, 139]
+  Überwelt                          3 word     3 in   [90, 113, 114]
+  Meta-Ebene                        3 word     3 in   [81, 90]
+  Potentialmeer                     6 word     6 in   [106, 113, 114, 119, 145]
+  Genesis-Punkt                     1 word     1 in   [79]
+  New Zenith                        1 word     1 in   [127]
+  Kapitel 40/0                      1 word     1 in   [127]
+  CCPP                              1 word     2 in   [120, 122]
+                                    1      as CCPP-Kern
+  Central Coherence Preservation Protocol    1 word     1 in   [120]
+  Controlled Fragmentation Protocol    1 word     1 in   [68]
+  Parakonsistente Gambit            2 word     2 in   [104, 123]
+  algorithmische Melancholie        2 word     2 in   [106, 123]
+  Instrumente der Ordnung           2 word     2 in   [118, 146]
+  Trauma-Schleife                   1 word     1 in   [99]
+  Kern-Trauma                       2 word     2 in   [74, 99]
+  Schatten-Kopien                   1 word     1 in   [92]
+  Gehirn im Tank                    1 word     1 in   [98]
+  Gott aus der Maschine             1 word     1 in   [37]
+  Glitch                            3 word     8 in   [25, 59, 67, 68, 69, 71]  <-- substring
+                                    5      as Glitches
+  Glitches                          5 word     5 in   [25, 59, 68, 69, 144]
+  Host                              2 word     2 in   [59, 67]
+  Alters                            2 word     2 in   [42, 44]
+  ANP                               6 word     7 in   [44, 46, 47, 48, 59, 67]
+  EP                                6 word     8 in   [44, 47, 48, 70, 72, 73]
+  Dual Kernel Theory                1 word     1 in   [23]
+  Dramatica                         2 word     6 in   [15, 29, 31, 131, 155, 157]  <-- substring
+                                    2      as Dramatica-Theorie
+                                    1      as Dramatica-Matrix
+                                    1      as Dramatica-Storyform
+  Grand Argument Story              1 word     1 in   [15]
+  Storyform                         2 word     3 in   [131, 155, 157]
+  Throughline                       1 word     1 in   [35]
+  Objective Story                   1 word     1 in   [35]
+  Main Character                    1 word     1 in   [36]
+  Influence Character               1 word     1 in   [37]
+  Relationship Story                2 word     2 in   [38, 145]
+  TSDP                              2 word     2 in   [17, 44]
+  IFS                               1 word     2 in   [44, 138]
+  Internal Family Systems           1 word     1 in   [44]
+  Strukturellen Dissoziation        2 word     2 in   [17, 44]
+  Dissoziativen Identitätsstörung    1 word     1 in   [17]
+  Kohärenztheorie der Wahrheit      1 word     1 in   [15]
+  Korrespondenztheorie der Wahrheit    1 word     1 in   [15]
+  Monstrous Moonshine               5 word     5 in   [23, 27, 159, 170, 175]
+  Monstergruppe                     4 word     4 in   [27, 106, 122, 136]
+  j-Funktion                        1 word     1 in   [27]
+  Leech-Gitter                      0 word     2 in   [27, 135]
+                                    2      as Leech-Gitters
+  Leech Lattice                     2 word     2 in   [27, 162]
+  Heroine's Journey                 4 word     4 in   [57, 59, 167, 168]
+  Hero's Journey                    3 word     3 in   [106, 112, 166]
+  Gödels Unvollständigkeitssatz     1 word     1 in   [91]
+  Beobachter-Effekt                 2 word     2 in   [75, 83]
+  Kybernetik zweiter Ordnung        1 word     1 in   [83]
+  Panoptismus                       1 word     1 in   [69]
+  Qualia                            2 word     2 in   [92, 106]
+  Nullsummenspiel                   1 word     1 in   [122]
+  Narrative Context Protocol        2 word     2 in   [148, 174]
+  NCP                               2 word     2 in   [131, 148]
+  Multiplizität                     3 word     3 in   [19, 49, 78]

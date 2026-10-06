@@ -456,3 +456,151 @@ Four worlds, with Kairos and Sophia together in one; it adds a pairing, and deci
 „Jeder Guardian ist einer spezifischen Kernwelt zugeordnet“ ^[charaktere.md:L363] (L363). `LogOS` stands for KW1, `Mnemosyne` for KW2, `Cerberus` for KW3 (L365–L367), and for KW4: „Die Wächter der KW4 (Kairos-Potentialis), einer kreativitäts- und potenzialbasierten Welt“ ^[charaktere.md:L368], `Kairos & Sophia` (L368).
 
 Stands as four worlds with five named Guardians, two of them in KW4; recorded, not applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline claims the guardians reduced to Mnemosyne and the Lösch-Pol, and lists Cerberus, Kairos and Sophia as discarded.**
+
+Appendix B reads: „Wächter Cerberus, Kairos, Sophia: Verworfen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1576], and gives its reason on the same line: „das Pantheon wurde auf Mnemosyne und den Lösch-Pol reduziert“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1576], citing Kanon-Dok 2. Kapitel 5 names Mnemosyne as „Wächter-Entität“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L201].
+
+Stands as a third position beside a larger set of guardians, dated 2026-04-30; the discard is the outline's own claim, recorded and not applied.
+
+## 2026-10-06 — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline
+
+**The detailed outline plans three Guardians paired with worlds.**
+
+The outline pairs LogOS with the first world: „Seine Rolle als Wächter und potenzieller Manipulator wird etabliert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L162] Mnemosyne with the second: „Ihre ambivalente Rolle als Hüterin und potenzielle Manipulatorin wird etabliert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L355] Cerberus with the third: „Seine Funktion als Tester und potenzielle Barriere wird etabliert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L624] It names these three Guardians; it breaks off in Chapter 13.
+
+Stands as a pairing of three Guardians with three worlds, dated 2025-05-03; recorded, the record's rows are not changed.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots plans five Guardians, three of them paired with a Kernwelt, and Kairos and Sophia with none.**
+
+The five stand in Kapitel 16: „Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L47]. The pairing is written in the chapter lines: „LogOS (Guardian KW1)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], „Mnemosyne (Guardian KW2)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L31], „Cerberus (Guardian KW3)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L29]. Kairos and Sophia carry no world label in the concept (a plan, not a canon claim).
+
+Stands as a count of five with three pairings, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan
+
+**The subplot plan names five Guardians and sets them over four worlds, Kairos & Sophia together.**
+
+The plan's fourth arc names „(LogOS, Mnemosyne, Cerberus, Kairos & Sophia) als spezialisierte, nicht-anthropomorphe Agenten von AEGIS“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L22], with „Domänen (KW1-4, Überwelt)“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L22]. It places LogOS and Cerberus: „Einführung von LogOS (KW1) und Cerberus (KW3) als Agenten von AEGIS' Kontrolle und Abwehr“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L123]; Mnemosyne: „Einführung von Mnemosyne (KW2) und Konfrontation mit ihrer Rolle bei der Verwaltung von Erinnerungen/Emotionen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L124]; and the pair: „Einführung von Kairos & Sophia (KW4) und Interaktion mit ihrer Rolle bei der Steuerung von Potenzial“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134].
+
+Stands with position 1's pairing (five named Guardians, four worlds, Kairos and Sophia sharing one); recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept names five Guardians and sets four of the worlds each under a Guardian label, Kairos and Sophia sharing the fourth.**
+
+Its table gives the first world „LogOS / Index, Architekt, (Praetor, Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186] and the fourth „Kairos/Sophia / Eos, Index, Silas, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L189]; the second and third worlds are headed „Resonanz-Landschaft (Mnemosyne)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L204] and „Grenzfeste (Cerberus)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L215]. The fourth heading is „Möglichkeits-Garten (Kairos/Sophia)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L226]. In the Überwelt it lists the five together: „(LogOS, Mnemosyne, Cerberus, Kairos, Sophia – vielleicht als Avatare oder lokalisierte Systemfunktionen)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L246], hedged with `vielleicht`.
+
+Stands as five named Guardians over four worlds with a shared fourth, as a concept dated 2025-04-18; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview lists five Guardians over four worlds, Kairos/Sophia as twin Guardians of the fourth.**
+
+It lists four entries: „The Guardian of logic and order, presiding over the sterile reality of Core World“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L37] 1, „The Guardian of memory and emotion“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L38] of Core World 2, „The Guardian of defense, paranoia, and control“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L39] of Core World 3, and „The twin Guardians of opportunity and wisdom“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L40] over Core World 4 (L37–L40).
+
+Stands with position 1's pairing (five named Guardians, four worlds, Kairos and Sophia sharing one); recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept's Table 1 lists five Guardian names on four Kern-Welten, Kairos and Sophia sharing KW4.**
+
+The Guardian column reads LogOS (KW1, L119), Mnemosyne (KW2, L120), Cerberus (KW3, L121) and for KW4 „Kairos/Sophia“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L122]; the Überwelt's cell is „AEGIS, Guardians“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L123]. The prose repeats the pairing: „Sie ist die Domäne des Guardians LogOS“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L128], „Sie wird durch den Guardian Cerberus geprägt, der auf Grenzsicherung spezialisiert ist“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L150], and KW4 is „Sie wird von Kairos (dem richtigen Zeitpunkt, der Gelegenheit) und Sophia (Weisheit, Integration) beeinflusst“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L161].
+
+Stands as a further source for the first position of the record (five Guardians, four pairs), dated 2025-04-18; a proposal in the conditional, recorded and not applied.
+
+## 2026-10-06 — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework
+
+**The plot framework gives one Guardian per Kernwelt and two further names for the Guardians of Kernwelt 3 and 4.**
+
+Chapters 15 to 20 introduce them: „Introduce LogOS, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L256] 1, „Introduce Mnemosyne, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L257] 2, „Introduce Cerberus, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L260] 3 and „Introduce Kairos/Sophia, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L261] 4. The Mosaic names „The Chaos-Regulator (Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L136] 3 and „The Possibility-Weaver (Guardian of KW4)“ ^[plot-generation-framework-for-the-coherence-protocol.md:L166]. It does not say whether these are the same Guardians as Cerberus and Kairos/Sophia.
+
+Where it stands: four Guardians paired with four worlds in a proposal of 2025-11-03; the pairing question is not touched.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint
+
+**The plot blueprint plans five Guardians, each with an insight, Sophia the fifth above the others, and Kairos alone in KW4.**
+
+Its insight list names Sophia „Erkennt möglicherweise durch Kaels Handlungen oder eine direkte Konfrontation“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L113], LogOS „Könnte durch ein unlösbares Paradoxon“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L114], Mnemosyne „Könnte erkennen, dass Kaels Integration keine Rückkehr zu altem Schmerz“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L115], Cerberus „Könnte erkennen, dass die wahre Bedrohung nicht Kael/Juna“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L116] and Kairos „Könnte erkennen, dass Junas Verbindung keine bloße“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L117]. Step 2.9: „dem fünften Guardian, der für Weisheit und Synthese zuständig ist“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L452], who „Sophia operiert auf einer höheren Ebene als die anderen Guardians“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L452]. Step 2.7 places „Kairos , der Guardian von KW4“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L418] in KW4 alone.
+
+Stands: five Guardians as the blueprint plans them, as one document's planning; nothing decided for the record.
+
+## 2026-10-06 — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles
+
+**The place profiles pair four worlds with five Guardians: LogOS, Mnemosyne, Cerberus, and Kairos with Sophia in one world.**
+
+The section headings read „KW1: Konstrukt-Stadt (LogOS)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L106] (L106), „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241] (L241), „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346] (L346) and „KW4: Möglichkeits-Garten (Kairos/Sophia)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L436] (L436). The design principles say the same: „KW1 (LogOS) repräsentiert Logik und Ordnung, KW2 (Mnemosyne) Emotion und Erinnerung, KW3 (Cerberus) Abwehr und Schutzmechanismen, und KW4 (Kairos/Sophia) Potenzial und Kreativität“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L31], and the Überwelt profile lists „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) sind hier als Datenströme oder abstrakte Entitäten präsent und erhalten ihre Direktiven.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L551]
+
+Stands on the side of one Guardian per world with KW4 shared, as a concept of 2025-04-18; recorded, not applied, and the record's status is not changed.
+
+## 2026-10-06 — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture
+
+**The dual plot architecture pairs one Guardian each with KW1 to KW3 and two with KW4: LogOS, Mnemosyne, Cerberus, Kairos and Sophia.**
+
+KW1: „This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] LogOS; KW2 the same form for Mnemosyne („This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L102]), KW3 for Cerberus („This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L106]). KW4: „This world is the domain of the Guardians“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L110], Kairos and Sophia.
+
+Stands as a five-Guardian pairing over four worlds, dated 2025-11-03, recorded beside the other counts and not resolving them.
+
+## 2026-10-06 — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing
+
+**The briefing pairs LogOS with KW1, Mnemosyne with KW2, Cerberus with KW3 and Kairos/Sophia with KW4, without calling them Guardians.**
+
+The table gives „Classical Consistency / LogOS“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L133] for KW1, „Dialetheic Coexistence / Mnemosyne“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L134] for KW2, „Pragmatic Elimination / Cerberus“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L135] for KW3 and „Generative Synthesis / Kairos/Sophia“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L136] for KW4. The column is headed Logic / Inhabitant (L132).
+
+Stands as a pairing of one inhabitant per world, with KW4 given as one entry `Kairos/Sophia`, dated 2025-10-15; recorded, not resolving the count.
+
+## 2026-10-06 — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree
+
+**The canon decree pairs each of four Core Worlds with a Designated Guardian.**
+
+Its table head reads „Designated Guardian“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L82]; the pairs are „Logos-Prime“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L83] with LogOS, „Mnemosyne-Archipel“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L84] with Mnemosyne, „Cerberus-Labyrinth“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L85] with Cerberus, and „Kairos-Potentialis“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86] with „Kairos/Sophia“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86], one cell for two names.
+
+Stands as this document's claimed pairing, recorded and not applied.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto names four Guardians — LogOS, [[oblivion|Oblivion]], [[silas|Silas]], [[isabelle|Isabelle]] — each by function, and pairs none with a world as a set.**
+
+The closing declaration lists them: „The Guardians—LogOS, Oblivion, Silas, and Isabelle—are commissioned“ ^[aegis-manifest-genesis-krise-reboot.md:L234]. Oblivion and Silas are Hypervisors (L119, L125); Isabelle is a Guardian and „the secondary K1-Kernel Proxy“ ^[aegis-manifest-genesis-krise-reboot.md:L131], and LogOS is „the primary K1-Kernel Proxy“ ^[aegis-manifest-genesis-krise-reboot.md:L113]. The same sentence names the four worlds separately (`Logos-Prime`, `Mnemosyne-Archipel`, `Cerberus-Labyrinth`, `Kairos-Potentialis`, L234), as Kernwelten and not as Guardians. The text speaks as AEGIS.
+
+Stands: a fourth position on the count, four named Guardians; recorded as the manifesto's declaration, decided nothing here.
+
+## 2026-10-06 — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts
+
+**The character concepts propose five Guardians, one per world, with Sophia on the [[ueberwelt|Überwelt]]; Oblivion and Silas appear in it only as alters.**
+
+The section heading names them: „Die Guardians (Systemagenten: LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L148]. The paper's summary of placement: „Jeder Guardian ist fest an eine Kern-Welt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L207] bound (LogOS, Mnemosyne, Cerberus, Kairos), Sophia to the Überwelt (L207). The pairs are given in each profile: „LogOS (Zugeordnet: Konstrukt-Stadt)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L155], „Mnemosyne (Zugeordnet: Resonanz-Landschaft)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L165], „Cerberus (Zugeordnet: Grenzfeste)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L175], „Kairos (Zugeordnet: Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L185], „Sophia (Zugeordnet: Überwelt / Integration?)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L195]. Oblivion and Silas are two of the ten alters here, „Oblivion (Der Gefrorene)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L393] and „Silas (Der Pflegende)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L471], not Guardians.
+
+Stands as one more arrangement of five named Guardians, each with a world or the Überwelt, dated 2025-04-18; recorded, not applied, and the count is the author's.
+
+## 2026-10-06 — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc
+
+**The 39-part arc gives no count of Guardians; it pairs LogOS with KW1 and Kairos and Sophia together with KW4.**
+
+Story 2 has „a world governed by the rigid protocols of its Guardian, LogOS“ ^[coherence-protocol-a-39-part-narrative-arc.md:L22] (KW1). Story 10 places Kael in KW4, „Influenced by the Guardians Kairos (opportunity) and Sophia (wisdom)“ ^[coherence-protocol-a-39-part-narrative-arc.md:L30]. Story 7 gives KW2 „the world's Guardian, Mnemosyne“ ^[coherence-protocol-a-39-part-narrative-arc.md:L27] and Story 9 gives KW3 „Cerberus, the Guardian of defense and paranoia“ ^[coherence-protocol-a-39-part-narrative-arc.md:L29]. These are stories of an outline, not chapters.
+
+Stands as an outline of 2025-11-03 whose pairing, one Guardian for KW1 to KW3 and two for KW4, resembles position 1 of the record's table; recorded, not applied, and it does not touch the decision of 2026-09-24.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**The log, speaking as AEGIS, tabulates six Guardians and gives two of them the names of Core Worlds, without pairing Guardians and worlds.**
+
+> „LogOS“ ^[aegis-genesis-crisis-self-definition.md:L150] is the first row of the table, and „Mnemosyne“ ^[aegis-genesis-crisis-self-definition.md:L155] the last; between them stand Oblivion, Silas, Isabelle and Cerberus (L150–L155).
+
+> „The architecture classifies, monitors, and contains four primary Core Worlds“ ^[aegis-genesis-crisis-self-definition.md:L113]
+
+> „The Mnemosyne-Archipel is categorized as a high-risk quarantine zone.“ ^[aegis-genesis-crisis-self-definition.md:L123]
+
+Where it stands: a sixth count beside the record's five and two, in AEGIS's own classification; Cerberus and Mnemosyne are both Guardians (L154, L155) and world names (KW3 and KW2, L129, L123), and the log pairs no Guardian with a world, so the count and Q5 stay as the record has them.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis analyses five Guardians, one world each but Sophia, whom it leaves hedged over an integrating function; Silas is an Alter.**
+
+„AEGIS operiert nicht als monolithische Entität, sondern verfügt über spezialisierte Subsysteme, die Guardians: LogOS, Mnemosyne, Cerberus, Kairos und Sophia.“ ^[kohaerenz-protokoll-plotideen-generierung.md:L129] Sophia: „Überwacht potenziell eine übergeordnete oder integrierende Funktion“ ^[kohaerenz-protokoll-plotideen-generierung.md:L135]. The table is marked „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147]. Silas stands in the list of Kael's Alters: „Der Architekt, Das Echo, Der Wächter, Der Sucher, Der Funke, Limina, Nox, Praetor, Index, Silas“ ^[kohaerenz-protokoll-plotideen-generierung.md:L174].
+
+Stands with five named Guardians in the record's terms, Sophia without a world of her own, hypothetical; recorded, nothing decided.

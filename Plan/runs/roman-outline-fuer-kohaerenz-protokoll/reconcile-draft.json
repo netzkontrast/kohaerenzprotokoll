@@ -1,0 +1,399 @@
+{
+  "document": "roman-outline-fuer-kohaerenz-protokoll",
+  "drive_id": "1y6dHc6rsHOoUhRlzDRefnFNBK4d4tReKBTwTguHHB7c",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 108,
+    "decisions": 117,
+    "decided_by_lookup": 84,
+    "needs_judgement": 33
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        27,
+        56,
+        150,
+        634,
+        759,
+        789
+      ],
+      "attribution": "",
+      "note": "AEGIS as a reactive principle whose coherence needs fragmentation, and whose control the Riss shows is not absolute"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        214,
+        215,
+        226,
+        885
+      ],
+      "attribution": "",
+      "note": "Alex as the protector part, awakened by threat, whose blind defence is insufficient"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        748,
+        791,
+        859
+      ],
+      "attribution": "",
+      "note": "Argus as a possible meta-observer around the Riss"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        611,
+        614,
+        615,
+        624,
+        632
+      ],
+      "attribution": "",
+      "note": "the Guardian of Kernwelt 3, introduced in Chapter 9"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "the Prologue's Emergenz, which AEGIS tries to steer"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        760,
+        790
+      ],
+      "attribution": "",
+      "note": "the Riss as the first door to the Externe Ebene"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        609,
+        611,
+        614
+      ],
+      "attribution": "",
+      "note": "Chapter 9's title and the fortress of Kernwelt 3"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        162,
+        355,
+        424,
+        624
+      ],
+      "attribution": "",
+      "note": "each world's Guardian introduced in its chapter"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        19,
+        58,
+        788
+      ],
+      "attribution": "",
+      "note": "Juna/V, an external factor kept mysterious"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        16,
+        84,
+        884,
+        885
+      ],
+      "attribution": "",
+      "note": "Kael as dominant host, amnesic of his origin, turning from victim to actor"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        86,
+        342,
+        343,
+        611,
+        612
+      ],
+      "attribution": "",
+      "note": "Kernwelt 1 as sterile logic, Kernwelt 2 of emotions and memories, Kernwelt 3 of fear and defence"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        342,
+        404,
+        414,
+        612
+      ],
+      "attribution": "",
+      "note": "Kiko as an emotional part carrying fear and childhood trauma"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        84,
+        149,
+        226,
+        885
+      ],
+      "attribution": "",
+      "note": "Lex as latent logician, then active decoder of KW1, then a strategy that proves insufficient"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        452,
+        479
+      ],
+      "attribution": "",
+      "note": "Lia named only as one of three EPs"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        150,
+        162,
+        172
+      ],
+      "attribution": "",
+      "note": "Guardian LogOS, the Wächter of Kernwelt 1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        343,
+        355,
+        433
+      ],
+      "attribution": "",
+      "note": "Guardian Mnemosyne, Hüterin and possible manipulator in Kernwelt 2"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        342,
+        407,
+        414
+      ],
+      "attribution": "",
+      "note": "Moros as an emotional part of grief and loss"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        84,
+        226,
+        685,
+        827
+      ],
+      "attribution": "",
+      "note": "Multiplicity as an amnesic fact, a dawning awareness and a possible functional state"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        17,
+        18,
+        68
+      ],
+      "attribution": "",
+      "note": "the Prologue's pre-existential void"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        612,
+        656
+      ],
+      "attribution": "",
+      "note": "Nyx as a still-undiscovered possible part"
+    },
+    {
+      "page": "residual-echos",
+      "lines": [
+        28,
+        71
+      ],
+      "attribution": "",
+      "note": "the Echo, suppressed origin that stays latent"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        279,
+        307,
+        315,
+        885
+      ],
+      "attribution": "",
+      "note": "Rhys as the caregiver ANP and mediator; pure care as insufficient"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        84,
+        95,
+        748,
+        759,
+        788,
+        789,
+        801
+      ],
+      "attribution": "",
+      "note": "from the Glitches of perception to the Riss of Chapter 11"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        16,
+        682,
+        722,
+        885
+      ],
+      "attribution": "",
+      "note": "Selene as an origin form and a possible future coordinator, only hinted"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        478
+      ],
+      "attribution": "",
+      "note": "TSDP named once, as the frame of the phobias between ANPs and EPs"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        18,
+        79,
+        750
+      ],
+      "attribution": "",
+      "note": "the AEGIS-Überwelt, the ordered realm after the Prologue's fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 790,
+      "decision": "reading",
+      "why": "the Riss as the first gate to it — a reading on the page"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "`[Genesis]` the Prologue's title, read on kap-00"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 609,
+      "decision": "reading",
+      "why": "Chapter 9's title and its place — a reading on the page"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 19,
+      "decision": "reading",
+      "why": "Juna/V whose nature stays mysterious — a reading on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title and the protocol's name (J9)"
+    },
+    {
+      "page": "logos",
+      "surface": "LogOS",
+      "line": 150,
+      "decision": "reading",
+      "why": "Guardian LogOS of KW1 — a reading on the page"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 343,
+      "decision": "reading",
+      "why": "Guardian Mnemosyne of KW2 — a reading on the page"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 84,
+      "decision": "reading",
+      "why": "Kael's amnesia of his multiplicity and the steps toward accepting it — a reading on the page"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 829,
+      "decision": "occurrence",
+      "why": "the Fundament as the deepest level of reality, nothing said of the page's levels"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

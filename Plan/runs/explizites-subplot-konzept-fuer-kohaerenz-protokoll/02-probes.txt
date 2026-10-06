@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      69
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           40
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systeme, Systemebene, Systemregeln, Systems, Systemverständnis, Systemwissen
+  antei    Anteile, Anteilen, Anteils, Anteilsstärken
+  bewus    Bewusste, Bewusstheit, Bewusstsein, Bewusstseins
+  inter    Interaktion, Interaktionen, Interaktionsprotokolle, Interne
+  diese    Diese, Dieser, Dieses
+  erken    Erkennen, Erkenntnis, Erkenntnissen
+  gegen    Gegenreaktion, Gegensätze, Gegensätzen
+  integ    Integration, Integrationsziel, Integrität
+  muste    Muster, Mustererkennung, Mustern
+  parad    Paradoxien, Paradoxon, Paradoxons
+  überw    Überwachung, Überwelt, Überwindung
+  abweh    Abwehr, Abwehrmechanismen
+  aktio    Aktion, Aktionen
+  analy    Analyse, Analyst
+  begin    Beginn, Beginnt
+  beoba    Beobachters, Beobachtung
+  blind    Blinden, Blindheit
+  einfl    Einfluss, Einflüsse
+  emoti    Emotion, Emotionen
+  entde    Entdeckung, Entdeckungen
+  entro    Entropie, Entropiemanagement
+  entsc    Entscheidung, Entschlossenheit
+  erinn    Erinnerung, Erinnerungen
+  exter    Externe, Externen
+  fragm    Fragmentierung, Fragments
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Verhalten
+  Alte < Verhaltens
+  Alte < Verwaltern
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Kael < Kaels
+  Kern < Kernwelten
+  Teil < Anteile
+  Teil < Anteils
+  Teil < Anteilen
+  Teil < Anteilsstärken
+  Welt < Überwelt
+  Welt < Kernwelten
+  Diese < Dieser
+  Diese < Dieses
+  Ebene < Systemebene
+  Logik < Logikfehlern
+  Probe < Belastungsproben
+  Risse < Rissen

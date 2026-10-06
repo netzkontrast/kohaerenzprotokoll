@@ -1,0 +1,135 @@
+# counts for 103 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             84 word   155 in   [31, 32, 34, 35, 44, 45]
+                                   71      as Kaels
+  Juna                             24 word    32 in   [119, 178, 179, 188, 194, 254]
+                                    6      as Junas
+                                    2      as Juna-Erinnerung
+  Anya                              7 word     7 in   [98, 453, 457, 458, 461, 463]
+  AEGIS                            38 word    43 in   [31, 34, 35, 43, 44, 46]
+                                    2      as AEGIS-Kontrolle
+                                    1      as AEGIS-Domäne
+                                    1      as AEGIS-Struktur
+                                    1      as AEGIS-Systems
+  Guardians                         9 word     9 in   [34, 35, 74, 548, 551, 553]
+  Wächter                           1 word     1 in   [31]
+  LogOS                            13 word    14 in   [31, 47, 57, 67, 88, 106]
+                                    1      as LogOS-Informationen
+  Mnemosyne                         7 word    17 in   [31, 44, 67, 94, 241, 251]  <-- substring
+                                   10      as Mnemosynes
+  Cerberus                         24 word    24 in   [31, 33, 57, 67, 89, 100]
+  Kairos                           11 word    11 in   [31, 67, 436, 446, 461, 476]
+  Sophia                            6 word    10 in   [31, 67, 436, 446, 458, 461]
+                                    4      as Sophias
+  Nox                              11 word    11 in   [32, 119, 164, 179, 209, 239]
+  Index                             7 word    10 in   [32, 67, 119, 143, 149, 179]
+                                    3      as Index-Alter
+  Limina                           10 word    11 in   [31, 33, 67, 100, 209, 329]
+                                    1      as Liminas
+  Praetor                           9 word     9 in   [67, 100, 134, 224, 299, 359]
+  Echo                             12 word    23 in   [31, 33, 56, 67, 100, 194]
+                                    7      as Echos
+                                    3      as Echowald
+                                    1      as Echo-Alter
+  Flicker                           2 word     2 in   [67, 344]
+  Silas                            11 word    11 in   [67, 284, 299, 314, 344, 374]
+  Eos                               8 word     8 in   [67, 100, 299, 449, 458, 464]
+  Oblivion                          4 word     4 in   [100, 194, 269, 314]
+  Alters                           19 word    19 in   [31, 32, 58, 67, 100, 178]
+  Alter-Persönlichkeiten            1 word     1 in   [31]
+  DID                               4 word     4 in   [31, 75, 203, 209]
+  Archivar                          2 word     4 in   [323, 326, 328, 329]
+                                    1      as Archivar-Konstrukt
+                                    1      as Archivars
+  Therapeut-Konstrukt               3 word     3 in   [206, 208, 209]
+  Regel-Exekutor                    3 word     7 in   [131, 134, 149, 213, 217, 236]  <-- substring
+                                    3      as Regel-Exekutoren
+                                    1      as Regel-Exekutor-Einheiten
+  Grenzwärter-Konstrukte            2 word     4 in   [356, 428, 431, 434]
+                                    2      as Grenzwärter-Konstrukten
+  Trauma-Symbolfigur                3 word     3 in   [266, 268, 269]
+  Daten-Parasiten                   2 word     2 in   [419, 448]
+  Orakel-Entität                    1 word     1 in   [536]
+  Junas Fragment                    2 word     2 in   [284, 524]
+  Kern-Welten                      20 word    20 in   [31, 33, 43, 46, 58, 88]
+  KW1                              38 word    40 in   [31, 32, 47, 55, 56, 57]
+  KW2                              43 word    43 in   [31, 33, 35, 47, 55, 56]
+  KW3                              55 word    57 in   [31, 33, 55, 56, 57, 67]
+  KW4                              42 word    42 in   [31, 35, 55, 56, 67, 68]
+  Überwelt                         19 word    19 in   [43, 46, 74, 93, 95, 96]
+  Konstrukt-Stadt                  11 word    11 in   [106, 112, 127, 128, 142, 157]
+  Resonanz-Landschaft              11 word    11 in   [58, 67, 75, 241, 247, 262]
+  Grenzfeste                       11 word    11 in   [67, 89, 100, 346, 352, 367]
+  Möglichkeits-Garten              12 word    12 in   [67, 68, 93, 99, 436, 442]
+  Realitätsebenen                   3 word     3 in   [19, 74, 76]
+  Risse                            32 word    75 in   [44, 45, 47, 59, 74, 76]  <-- substring
+                                   43      as Rissen
+  Entropie                         38 word    44 in   [34, 45, 46, 57, 92, 116]
+                                    3      as Entropiemanagement
+                                    2      as Entropielevel
+                                    1      as Entropiewerten
+  Entropiemanagement                3 word     3 in   [116, 146, 551]
+  Post-Reboot                       0 word     1 in   [114]
+                                    1      as Post-Reboot-Standard
+  Ortsgedächtnis                    1 word     1 in   [80]
+  Welt-Bibel                        1 word     1 in   [17]
+  Glitch-Zone                       1 word     1 in   [69]
+  Kern-Trauma-Lokus                 2 word     2 in   [258, 262]
+  Kaels Initiale Wohneinheit        2 word     2 in   [108, 112]
+  Standardisierter Transitkorridor    2 word     2 in   [123, 127]
+  Datenknotenpunkt Gamma-7          2 word     2 in   [138, 142]
+  Steriler Pausenbereich            2 word     2 in   [153, 157]
+  Interface/Spiegelnde Wand         2 word     2 in   [168, 172]
+  Designierte Schlafnische          2 word     2 in   [183, 187]
+  Schnittstelle für Mentale Gesundheit    2 word     2 in   [198, 202]
+  Regel-Exekutor Überwachungsposten    2 word     2 in   [213, 217]
+  Öffentlicher Platz/Forum          2 word     2 in   [228, 232]
+  Ankunftszone                      5 word     5 in   [68, 243, 247, 438, 442]
+  Vergessener Schrein               3 word     3 in   [33, 258, 262]
+  Ort spezifischer Juna-Erinnerung    2 word     2 in   [273, 277]
+  Zone Emotionaler Stürme           2 word     2 in   [288, 292]
+  Narbe                             7 word     7 in   [33, 92, 303, 307, 309, 313]
+  Echowald                          3 word     3 in   [33, 333, 337]
+  Verlorenen Kindes                 2 word     2 in   [333, 337]
+  Übergangsschleuse/Kontrollpunkt    2 word     2 in   [348, 352]
+  Versteckte Nische                 2 word     2 in   [363, 367]
+  Auge des Sturms                   3 word     3 in   [363, 367, 384]
+  Ort der Konfrontation/Falle       2 word     2 in   [378, 382]
+  Innerer Bunker                    2 word     2 in   [393, 397]
+  Cerberus' Kontrollzentrum         2 word     2 in   [393, 397]
+  Zerfallende Mauer / Riss-Zone     2 word     2 in   [408, 412]
+  Grenzwärter Außenposten           2 word     2 in   [423, 427]
+  Ort der Finalen Prüfung           2 word     2 in   [498, 502]
+  Muse-Begegnung                    2 word     2 in   [453, 457]
+  Nexus-Knoten                      2 word     2 in   [468, 472]
+  Interface zum Potenzial           2 word     2 in   [468, 472]
+  Ort der Mosaik-Metapher           3 word     3 in   [97, 483, 487]
+  Ankerpunkt                        3 word     3 in   [513, 517, 518]
+  Orakel-Schnittstelle              3 word     3 in   [98, 528, 532]
+  AEGIS Analyse-Hub                 3 word     3 in   [44, 543, 547]
+  Guardian Koordinationszentrum     2 word     2 in   [543, 547]
+  Schnittstelle zu den Kern-Welten    2 word     2 in   [558, 562]
+  Psychologische Landschaften       2 word     2 in   [27, 80]
+  Environmental Storytelling       10 word    10 in   [18, 51, 57, 59, 75, 80]
+  Spatial UI                        2 word     2 in   [44]
+  Datamoshing                       3 word     3 in   [45, 148, 588]
+  Glitch Art                        2 word     2 in   [45, 148]
+  Ruin Porn                         5 word     7 in   [92, 414, 671, 672, 673]
+  Kintsugi                          8 word     9 in   [97, 309, 489, 704, 705, 706]
+                                    1      as Kintsugi-Philosophie
+                                    1      as kintsugi-how-japanese-art-teaches-us-to-live
+  Memory Palace                     4 word     4 in   [94, 324, 684]
+  Methode der Loci                  1 word     1 in   [94]
+  Sacred Geometry                   4 word     4 in   [99, 724, 725, 726]
+  heiligen Geometrie                1 word     1 in   [99]
+  feindliche Architektur            1 word     1 in   [91]
+  Funktionalismus                   1 word     1 in   [89]
+  Pathetische Fallacy               1 word     1 in   [68]
+  Bunker Psychology                 1 word     1 in   [90]
+  Reactive Environments             2 word     2 in   [58, 621]
+  Setting as Characterization       1 word     1 in   [67]
+  Character Perspective Filtering    1 word     1 in   [32]
+  Simulator Sickness                1 word     1 in   [45]

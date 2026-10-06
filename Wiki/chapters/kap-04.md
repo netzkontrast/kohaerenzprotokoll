@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 30
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 37
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,10 @@ In den Pforten der Verurteilung wird Kaels neue, einseitig logische Identität a
 
 - The Teil-1 plot proposes Kapitel 4, `Descent` (L109), as descent into KW2 and the meeting with Echo: „Kael erkundet die fluide, traumgleiche Resonanz-Landschaft“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L114]. It hedges, and adds Echo, the lost child, as a shadow mentor (L120), Juna as anchor (L122), Mnemosyne's passive presence (L123).
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.4, Der erste Riss im Selbst
+
+- The plot blueprint plans step 1.4, „Der erste Riss im Selbst“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L178]. Its synopsis begins: „Nach der Konfrontation mit LogOS und dem wachsenden Druck erlebt Kael einen ersten, signifikanten dissoziativen Durchbruch“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L181] — a plan, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -45,6 +49,14 @@ Position: „(Fundamentales Konzept: Symmetrie / Gödel’sche Sätze)“ ^[koha
 - Named: „Gödels Unvollständigkeitssatz, in Reinform manifestiert in den Fundamenten von Co₁.“ ^[kohaerenz-protokoll.md:L480]
 - Result: „Er hatte versagt.“ ^[kohaerenz-protokoll.md:L516]
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Stimmen der Fürsorge
+
+- The concept with subplots titles Kapitel 4 „Stimmen der Fürsorge“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L30]. It plans: „Rhys (Pfleger ANP) tritt hervor. Rhys versucht, die innere Harmonie zu wahren und die unterschwellige Angst (Kiko) zu lindern“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L30] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — HJn: Weg der Prüfungen: Begegnung mit Drachen / Inneren Schatten
+
+- The subplot catalogue analyses Kapitel 4 under the phase `Weg der Prüfungen: Begegnung mit 'Drachen' / Inneren Schatten` (L104) of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Stimmen der Fürsorge
 
 Title: the commission titles the chapter „Stimmen der Fürsorge“ ^[kontext-outline.md:L109], placed in Act 1.
@@ -59,6 +71,10 @@ Focus: `Interne Vermittlung`, „Der Versuch des Fürsorger-Anteils (Rhys), inte
 
 - Story: „Ein erster, vorsichtiger Kontaktversuch zu EPs könnte dargestellt werden“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L75]
 - Concept: „Sein Versuch, zwischen ANPs zu vermitteln und Kontakt zu EPs herzustellen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L76] (concept tag: `Phase 1 der TSDP-Behandlung (Stabilisierung)`)
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 4
+
+- The detailed outline plans Chapter 4 with the Core Theme „Der Versuch der internen Vermittlung und Stabilisierung angesichts wachsender Konflikte und Dysregulation“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L278] — a plan, not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Ruf der Tiefe
 
@@ -112,6 +128,10 @@ Position: the scene outline plans the scene at „1.4 - Mnemosyne-Archipel (KW2)
 
 - The scene outline plans Chapter 4 within Chapters 4–5, „The First Journey into Memory“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L73], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Intrusion
+
+- The plot framework titles Chapter 4 „The Intrusion“ ^[plot-generation-framework-for-the-coherence-protocol.md:L240]. It commissions: „Write a scene where a trigger causes a traumatic intrusion from a child-part, Kiko, which is then violently suppressed, dramatizing the brutal internal war“ ^[plot-generation-framework-for-the-coherence-protocol.md:L240] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The encounter with the shadow
 
 Title: „Die Begegnung mit dem Schatten“ ^[romanstruktur-und-philosophische-einleitung.md:L59]
@@ -131,6 +151,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Die Nahtstelle zwische
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Rhys (Caretaker)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L86]
 - Story: the blueprint plans, in `Plot-Beats`, „AEGIS stuft Kaels psychologische Intrusion (ein aufkommender Flashback) fehlerhaft als Datenkorruption ein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88] and „tritt hervor, um Kael vor dem emotionalen Aufprall in einer nebligen, feuchten Landschaft zu dämpfen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L88]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Echos im Fundament
+
+- The plot synthesis plans Kapitel 4 as „Echos im Fundament“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L70], set in `KW1 / Übergang KW2`, with the focus on Kiko (EP), Rhys. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die unentscheidbare Zone
 
@@ -186,6 +210,10 @@ Title: „Der erste thermische Glitch“ ^[kohaerenz-protokoll-kapitel-outline-g
 - Story: the dual-storyform outline plans „Es ist die erste Manifestation des Landauer-Limits“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L91]
 - Storyforms: `Storyform B` (`OS: Psychology/Conceptualizing`): „AEGIS versucht, den Vorfall als Hardware-Fehler zu rationalisieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L93]; `Storyform A` (`MC: Mind/Preconscious`): „Unbewusste Panik-Reaktionen von Kiko“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L94]
 - Scene and pacing: `Szenen-Keim`: „Der Geruch nach verbranntem Ozon“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L95]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die Begrenztheit des Raumes
+
+- The 39-chapter outline titles Kapitel 4 „Die Begrenztheit des Raumes“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L163]. It plans: „Das autopoietische System versucht, Kaels aufkeimende Zweifel durch extrem rigide architektonische Kontrolle und Ressourcenumverteilung zu ersticken“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L165]; POV Kael / Alex (L171) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

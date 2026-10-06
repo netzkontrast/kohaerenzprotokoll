@@ -1,0 +1,129 @@
+{
+  "document": "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+  "drive_id": "1PCW8rTAd2_pIqw13LPbHAswsNR81pXmGW1-clDmtUzE",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 4,
+  "backslash_escapes": 28,
+  "typographic_marks": 18,
+  "ascii_quotes": 66,
+  "inflection_families": {
+    "funct": [
+      "Function",
+      "Functional",
+      "Functions"
+    ],
+    "compo": [
+      "Component",
+      "Components"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional"
+    ],
+    "exter": [
+      "External",
+      "Externe"
+    ],
+    "garde": [
+      "Garden",
+      "Gardener"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxon"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonanz"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "trans": [
+      "Transcendent",
+      "Transformation"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Order",
+      "Disorder"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Overworld"
+    ],
+    [
+      "Garden",
+      "Gardener"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Emotion",
+      "Emotional"
+    ],
+    [
+      "Paradox",
+      "Paradoxon"
+    ],
+    [
+      "Function",
+      "Functions"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Component",
+      "Components"
+    ]
+  ]
+}

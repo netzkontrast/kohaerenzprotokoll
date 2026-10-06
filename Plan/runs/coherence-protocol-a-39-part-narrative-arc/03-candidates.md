@@ -1,0 +1,85 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+Candidates of a document that is an English synopsis list of 39 story concepts in three parts; the German names (Risse, Überwelt, Das Fundament, Potentialmeer, Gödel-Satz) stand inside English prose. Lens terms are under the heading at the end.
+
+- Kael
+- Juna
+- AEGIS
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Guardian
+- Guardians
+- Lex
+- Nyx
+- Kiko
+- Nox
+- Selene
+- Core World 1 (KW1)
+- Core World 1
+- KW1
+- Core World 2 (KW2)
+- KW2
+- Resonance Landscape
+- Core World 3 (KW3)
+- KW3
+- Core World 4 (KW4)
+- KW4
+- Garden of Possibility
+- Core Worlds
+- Überwelt
+- Overworld
+- Risse
+- Riss
+- Moonshine-Link
+- Apparently Normal Parts
+- Apparently Normal Part
+- ANP
+- ANPs
+- Emotional Parts
+- EPs
+- Forgotten Shrine
+- System Kael
+- inner council
+- alter acceptance
+- functional multiplicity
+- Discursive Logic (D2)
+- Discursive Logic
+- D2
+- LFI
+- Das Fundament
+- strange attractor
+- Gnosis
+- Episteme
+- Algorithmic Horror
+- logic tumor
+- Gödel-Satz
+- Algorithmic Melancholy
+- Potentialmeer
+- Sea of Possibilities
+- Gatekeeper
+- Gardener
+- O
+- The Integrated Other
+- The Differently Fragmented Other
+- The Unconscious Other
+- positive intent
+- Persecutor
+- Manager
+- Firefighter
+- epistemological victory
+- Cache Coherence Failure
+
+## lens
+
+- Theory of Structural Dissociation of the Personality (TSDP)
+- TSDP
+- Internal Family Systems (IFS)
+- IFS
+- Logics of Formal Inconsistency (LFI)
+- split-brain
+- co-consciousness

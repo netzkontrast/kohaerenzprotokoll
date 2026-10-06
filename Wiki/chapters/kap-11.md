@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 32
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 39
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,10 @@ Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstuf
 
 - The Teil-1 plot proposes Kapitel 11, `Moment of Truth` (L239), as the resurrection, a last test in KW4: „Kael steht vor einer letzten Prüfung in KW4“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L244]. It hedges, and adds a breakthrough about his DID and a fragile acceptance of his Multiplizität (L244).
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.11, Der Wächter der Schwelle
+
+- The plot blueprint plans step 1.11, „Der Wächter der Schwelle“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L283]. Its synopsis begins: „Kael schafft es (vielleicht durch eine List, die Hilfe eines unerwarteten Impulses eines anderen Alters wie Flicker oder durch Ausnutzung von Mnemosynes Fixierung), die Grenzen von“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L286] — a plan, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -47,6 +51,14 @@ Position: „(Fundamentales Konzept: Akzeptanz der Komplexität / Scherben der E
 - The pieces gathered, not erased: „Jede schmerzhafte Erfahrung, jedes Scheitern, jede Konfrontation hatte ihm eine neue Scherbe des Wissens, des Verständnisses geschenkt.“ ^[kohaerenz-protokoll.md:L1330]
 - The chapter's image: „Ein Mosaik-Herz.“ ^[kohaerenz-protokoll.md:L1326]
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Der erste Riss
+
+- The concept with subplots titles Kapitel 11 „Der erste Riss“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L37]. It plans: „Kael wird Zeuge oder verursacht einen signifikanten“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L37] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — HJn: Heilung/Integration des Männlichen / Akzeptanz der Logik/Struktur
+
+- The subplot catalogue analyses Kapitel 11 under the phase `Heilung/Integration des 'Männlichen' / Akzeptanz der Logik/Struktur` (L279) of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der erste Riss
 
 Title: the commission titles the chapter „Der erste Riss“ ^[kontext-outline.md:L186], placed in Act 1.
@@ -61,6 +73,10 @@ Focus: `Systeminstabilität als Chance`, „Die Wahrnehmung einer signifikanten 
 
 - Story: „deutet auf eine tiefere Instabilität oder sogar eine externe Verbindung (Juna/V?) hin“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L124]
 - Concept: „Er könnte der erste klare Hinweis auf die externe Entität“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L125] (concept tag: the `AEGIS-Paradoxon`)
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 11
+
+- The detailed outline plans Chapter 11 with the Core Theme „Die Wahrnehmung von Systeminstabilität als Bedrohung und Chance zugleich“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L747] — a plan, not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Welle der Unmöglichkeit
 
@@ -114,6 +130,10 @@ Position: the scene outline plans the scene at „1.8 - Kael's Inner World“ ^[
 
 - The scene outline plans Chapter 11 within Chapters 11–13, „The Decision to Act“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L142], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Warrior's Vow
+
+- The plot framework titles Chapter 11 „The Warrior's Vow“ ^[plot-generation-framework-for-the-coherence-protocol.md:L247]. It commissions: „Introduce the aggressive protector, Nyx, to deepen the psychological complexity by showing the positive, protective intent behind even the most destructive-seeming parts“ ^[plot-generation-framework-for-the-coherence-protocol.md:L247] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Integration of the masculine
 
 Title: „Integration des“ ^[romanstruktur-und-philosophische-einleitung.md:L101]
@@ -135,6 +155,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Ruinen der gelöschten
 
 - under Leitfrage 2 it says „Die dynamische Verschränkung von Graphentheorie (McLaughlin-Graph) und IFS-Teilen in den Kapiteln 11-13“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L48] needs a precise network topology of the psyche (its source 2);
 - under Leitfrage 4 it asks how Kael achieves „gelingt Kael der physische, datentechnische oder psychologische Übergang in Kapitel 11 oder Kapitel 18“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L83].
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Integration der positiven Absicht
+
+- The plot synthesis plans Kapitel 11 as „Integration der positiven Absicht“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L77], set in `Übergangszonen`, with the focus on Kael, Juna, AEGIS. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das zweite Echo
 
@@ -196,6 +220,10 @@ Title: „Nyx’ Erwachen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2
 - Story: the dual-storyform outline plans „Der erste gewaltsame Ausbruch eines Trauma-Alters“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L148]
 - Storyforms: `Storyform B` (`OS: Psychology/Becoming`): „Das System sieht sich mit einer unvorhersehbaren Aggression konfrontiert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L150]; `Storyform A` (`OS: Physics/Doing`): „Der Kampf gegen die Lösch-Sweeps wird physisch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L151]
 - Scene and pacing: `Pacing`: „Actionreich, hektisch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L152]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Das Wuchern der Wurzeln
+
+- The 39-chapter outline titles Kapitel 11 „Das Wuchern der Wurzeln“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L421]. It plans: „Rhys versucht, den emotionalen Fallout der schrecklichen Erkenntnis zu puffern, verwickelt das System aber unbeabsichtigt in unlösbare emotionale Widersprüche“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L423]; POV Rhys (L429) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

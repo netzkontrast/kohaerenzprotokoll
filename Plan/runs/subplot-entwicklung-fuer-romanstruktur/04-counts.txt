@@ -1,0 +1,129 @@
+# counts for 84 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  System Kael                       6 word     6 in   [15, 28, 33, 58, 173, 325]
+  Kael                            154 word   218 in   [15, 21, 28, 33, 34, 48]
+                                   64      as Kaels
+  AEGIS                           114 word   146 in   [15, 21, 28, 33, 34, 48]
+                                   10      as AEGIS-System
+                                    4      as AEGIS-Systems
+                                    2      as AEGIS-Architektur
+                                    1      as AEGIS-Guardians
+  Guardians                        16 word    17 in   [15, 74, 83, 100, 175, 361]
+  Guardian                          8 word    27 in   [15, 74, 83, 98, 100, 124]  <-- substring
+                                   16      as Guardians
+                                    1      as Guardian-Verhaltensweisen
+                                    1      as Guardian-Verhalten
+  Kern-Welt                         2 word    13 in   [74, 83, 150, 249, 360, 406]  <-- substring
+                                   11      as Kern-Welten
+  Kern-Welten                      11 word    11 in   [150, 249, 360, 406, 407, 411]
+  KW1                               8 word    11 in   [74, 98, 173, 198, 199, 360]
+  KW2                               7 word     7 in   [99, 124, 208, 223, 249, 360]
+  KW3                               5 word     5 in   [74, 100, 123, 360, 468]
+  KW4                               8 word    10 in   [150, 299, 324, 325, 360, 432]
+  Logos-Prime                       1 word     1 in   [98]
+  Mnemosyne-Archipel                3 word     3 in   [99, 124, 208]
+  Cerberus-Labyrinth                1 word     1 in   [123]
+  Kairos-Potentialis                2 word     2 in   [150, 324]
+  Überwelt                          3 word     4 in   [406, 407, 415, 434]
+  Lex                              42 word    42 in   [33, 48, 49, 58, 73, 75]
+  Alex                             25 word    25 in   [49, 58, 74, 75, 83, 99]
+                                    1      as ALEXITHYMIA
+  Rhys                             19 word    19 in   [49, 73, 100, 123, 148, 173]
+  Kiko                             19 word    25 in   [58, 75, 99, 115, 124, 200]
+                                    6      as Kikos
+  Lia                              10 word    12 in   [58, 115, 149, 200, 208, 209]
+  Nyx                              11 word    11 in   [99, 109, 115, 123, 149, 258]
+  Moros                             7 word     7 in   [115, 199, 208, 250, 550]
+  Isabelle                          2 word     3 in   [115, 125]
+                                    1      as Isabelles
+  Selene                           11 word    12 in   [133, 233, 249, 258, 283, 284]
+                                    1      as Selene-Anteil
+  Argus                            18 word    19 in   [133, 150, 175, 249, 300, 361]
+                                    1      as Argus-Anteil
+  Juna/V                            7 word     8 in   [133, 150, 250, 398, 434]
+                                    1      as Juna/Vs
+  LogOS                             6 word     6 in   [74, 98, 175, 397, 433, 506]
+                                    1      as Logos-Prime
+  Cerberus                          4 word     5 in   [74, 100, 123, 225, 468]
+                                    1      as Cerberus-Labyrinth
+  Mnemosyne                         1 word     4 in   [99, 124, 208]  <-- substring
+                                    3      as Mnemosyne-Archipel
+  Sophia                            1 word     1 in   [506]
+  Riss                              9 word    15 in   [33, 48, 50, 74, 150, 396]
+                                    4      as Risse
+                                    1      as Rissen
+                                    1      as Risses
+  Entropie                         17 word    24 in   [15, 33, 34, 58, 108, 158]
+                                    3      as Entropie-Management
+                                    2      as Entropie-Köder
+                                    1      as Entropie-Kontrolle
+                                    1      as Entropie-Bilanz
+  Meta-Ebene                       14 word    14 in   [15, 325, 338, 342, 360, 361]
+  Kernlüge                          5 word     6 in   [474, 478, 483, 496, 505]
+                                    1      as Kernlügen
+  Entropie-Kontrolle                1 word     1 in   [15]
+  Entropie-Management               3 word     3 in   [487, 541]
+  Alters                            4 word     4 in   [15, 65, 139, 647]
+  Host                             15 word    16 in   [33, 48, 64, 75, 98, 123]
+                                    1      as Hosts
+  Analytiker                        7 word     7 in   [48, 64, 73, 98, 148, 274]
+  Protektor                         8 word    10 in   [49, 64, 74, 99, 148, 274]
+                                    1      as Protektor-Anteils
+                                    1      as Protektor-Funktion
+  Pfleger                           7 word     7 in   [49, 64, 73, 148, 248, 273]
+  Kämpfer                           2 word     2 in   [123, 273]
+  Beobachter                        5 word     5 in   [150, 175, 300, 407, 442]
+  Teil 1                            5 word     5 in   [26, 325, 333, 365, 370]
+  Teil 2                            4 word     4 in   [325, 338, 361, 363]
+  HJn                              19 word    20 in   [15, 26, 28, 29, 54, 58]
+  HJ                                1 word    21 in   [15, 26, 28, 29, 54, 58]  <-- substring
+  Meta                              6 word    35 in   [15, 109, 300, 325, 338, 342]  <-- substring
+                                   14      as Meta-Ebene
+                                    6      as Meta-Phase
+                                    3      as Meta-Erkenntnis
+                                    1      as metaphorisch
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [15]
+  TSDP                             31 word    39 in   [15, 16, 34, 39, 48, 59]
+                                    3      as TSDP-Zyklen
+                                    2      as TSDP-System
+                                    1      as TSDP-Begriffen
+                                    1      as TSDP-Kontext
+  Apparently Normal Parts           1 word     1 in   [28]
+  ANPs                             31 word    32 in   [28, 33, 34, 49, 58, 59]
+  Emotional Parts                   1 word     1 in   [28]
+  EPs                              57 word    57 in   [28, 33, 34, 39, 58, 59]
+  Alltagspersönlichkeitsanteile     1 word     1 in   [28]
+  Apparently Normal Personality     1 word     1 in   [183]
+  Pseudo-Integration                5 word     5 in   [159, 164, 174, 175]
+  funktionale Multiplizität         3 word     3 in   [15, 350, 359]
+  Ko-Bewusstsein                    5 word     6 in   [139, 308, 315, 323, 324]
+                                    1      as Ko-Bewusstseins
+  integrative Kapazität             3 word     4 in   [133, 334, 350]
+  Kernwunde                         6 word     7 in   [200, 204, 208, 209, 223, 224]
+                                    1      as Kernwunden
+  Trauma-Zeit                       4 word     4 in   [108, 208, 209, 214]
+  Heilige Hochzeit                  6 word     6 in   [304, 308, 309, 323, 325]
+  Subplot Idee                     55 word    55 in   [48, 49, 50, 73, 74, 75]
+  Trope ODER Konzept               19 word    19 in   [34, 59, 84, 109, 134, 159]
+  Chain of Thought                  7 word     7 in   [342, 379, 415, 451, 487, 523]
+  Insight                          16 word    17 in   [338, 361, 375, 411, 447, 469]
+                                    1      as Insights
+  Entropie-Köder                    2 word     2 in   [541, 576]
+  Dissoziative-Tisch-Technik        1 word     1 in   [134]
+  Heroine's Journey                12 word    12 in   [15, 26, 28, 583, 586, 587]
+  Hero's Journey                    3 word     3 in   [15, 584]
+  Maureen Murdocks Heroine's Journey    1 word     1 in   [28]
+  coniunctio oppositorum            2 word     2 in   [308, 314]
+  Glitch in the Matrix              4 word     4 in   [84, 371, 387, 627]
+  Internal Family Systems           1 word     1 in   [284]
+  IFS                               2 word     3 in   [284, 289]
+  Systemarchetypen                  3 word     3 in   [443, 459]
+  Fixes That Fail                   1 word     1 in   [470]
+  Komplexe Adaptive Systeme         2 word     2 in   [551, 567]
+  CAS                               3 word     4 in   [551, 559, 567]
+  Kybernetik                        8 word     8 in   [479, 487, 495, 551, 559, 567]
+  Systemtheorie                    10 word    10 in   [407, 415, 423, 443, 459, 479]
+  Spieltheorie                      4 word     4 in   [515, 523, 531]

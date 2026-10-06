@@ -1,0 +1,347 @@
+{
+  "document": "charakterkonzepte-fuer-kohaerenz-protokoll",
+  "drive_id": "1TrEID4KSYZRV5DYGh9C8TEKUVlym6EprPumhVqbIydw",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-145/brief.md; no chapter page — the paper names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 97,
+    "decisions": 99,
+    "decided_by_lookup": 79,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German character-concept paper: its 56 new surfaces are seven alters without a page (Limina, Nox, Echo, Flicker, Eos, Praetor, Index), eleven proposed minor figures with names it marks „oder ähnlich“, the world name Möglichkeiten-Garten, the KW shorthand and borrowed DID and narrative vocabulary; everything it says of existing terms went on their pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        118,
+        127,
+        128,
+        138,
+        143,
+        144,
+        146
+      ],
+      "attribution": "",
+      "note": "AEGIS as a non-malicious system protocol with a named blind spot"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        217,
+        218,
+        223,
+        230,
+        231,
+        497,
+        501
+      ],
+      "attribution": "",
+      "note": "the alters reviewed against DID research, with a table of primary worlds"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        50,
+        128,
+        138,
+        160,
+        170,
+        180,
+        190,
+        200,
+        209
+      ],
+      "attribution": "",
+      "note": "a profile field for Kael, Juna, AEGIS and each of the five Guardians"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        175,
+        179,
+        180
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of the Grenzfeste, paranoia as blind spot"
+    },
+    {
+      "page": "did",
+      "lines": [
+        19,
+        49,
+        231,
+        658
+      ],
+      "attribution": "",
+      "note": "DID as Kael's frame, with a sensitivity pledge and a research synthesis"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        67,
+        86,
+        118
+      ],
+      "attribution": "",
+      "note": "entropy as AEGIS's target and Juna's supposed source"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        58,
+        91,
+        94,
+        112
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as Juna's postulated anchor"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        175,
+        283,
+        309,
+        439,
+        578,
+        582
+      ],
+      "attribution": "",
+      "note": "Cerberus's world, defence and borders"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        138,
+        148,
+        150,
+        205,
+        207,
+        209
+      ],
+      "attribution": "",
+      "note": "the five Guardians as AEGIS's agents, one per world, antagonists of Teil 1"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        84,
+        86,
+        87,
+        91,
+        92,
+        96,
+        97,
+        112,
+        114,
+        606,
+        607
+      ],
+      "attribution": "",
+      "note": "Juna as an openly speculative profile"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        27,
+        29,
+        40,
+        50,
+        68,
+        688
+      ],
+      "attribution": "",
+      "note": "Kael as host and as whole system, proposed as a profile"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        185,
+        189,
+        190
+      ],
+      "attribution": "",
+      "note": "Kairos as the Guardian of the Möglichkeiten-Garten, growth within AEGIS's limits"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        30,
+        66,
+        671
+      ],
+      "attribution": "",
+      "note": "four worlds as manifestations of clusters of alters"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        66,
+        72,
+        155,
+        159,
+        283,
+        525,
+        526,
+        529
+      ],
+      "attribution": "",
+      "note": "the first world, Kael's start and LogOS's domain"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        155,
+        159,
+        160,
+        530
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of the Konstrukt-Stadt, blind to the illogic of trauma"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        165,
+        170
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the Guardian of the Resonanz-Landschaft, memories as data points"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        28,
+        78,
+        82,
+        658
+      ],
+      "attribution": "",
+      "note": "functional multiplicity named once, as a reported research finding"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        225,
+        393,
+        395,
+        403,
+        406,
+        408,
+        508
+      ],
+      "attribution": "",
+      "note": "Oblivion as an alter, the frozen trauma holder (not a Guardian)"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        76,
+        165,
+        169,
+        335,
+        511,
+        558
+      ],
+      "attribution": "",
+      "note": "Mnemosyne's world, home of emotions and memories"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        136,
+        143,
+        150,
+        209,
+        671
+      ],
+      "attribution": "",
+      "note": "Risse as deviations, provoked by the Guardians' blind spots"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        225,
+        471,
+        473,
+        481,
+        484,
+        491,
+        511
+      ],
+      "attribution": "",
+      "note": "Silas as an alter, the caretaker (not a Guardian)"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        195,
+        199,
+        200
+      ],
+      "attribution": "",
+      "note": "Sophia placed on the Überwelt, with a question mark"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        118,
+        143,
+        144,
+        195,
+        201
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's information domain, and Sophia's proposed station"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C6"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (the AEGIS expansion — here Autonomous Entropic Gatekeeper for Integrity Systems — and its Gatekeeper, read on aegis), J34 (Junas Fragment, read on juna), J9 (the title), J12 and J16 (compounds with their own sense: Das Entropie-Torwächter-Protokoll, Zero-Trust-Protokolle — said on guardians — Latente Multiplizität, Leech / Glitchwyrm, a proposed minor figure), J49 (Echo, Lichtfunke, Das Schattenkind / Der Weinende Mann — figure names, not the pages residual-echos or risse), J23 and J56 (inflections), and the A (B) and slash rule for Ashby's Law of Requisite Variety / requisite variety",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title in the document's title"
+    }
+  ],
+  "not_promoted": [
+    "the seven alters without a page — on alters and Q3",
+    "the eleven minor figures (Aris Thorne, Herr Jansen, Der Archivar, Chronos, Sibyl, Cassian …) — proposals, marked „oder ähnlich“",
+    "Möglichkeiten-Garten, KW1–KW4 — on kern-welten",
+    "the DID vocabulary (ANP, Persecutor, Caretaker, Internal Self-Helper, Switching, Co-Bewusstsein …) — on did and alters",
+    "Heldenreise, Ashby's Law, Homöostase, John Locke — borrowed lenses"
+  ],
+  "internal_tension": "Limina's primary world is offered two ways in one profile (L283); Echo names both an alter and a proposed name for Juna's fragment, never said to be one figure",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

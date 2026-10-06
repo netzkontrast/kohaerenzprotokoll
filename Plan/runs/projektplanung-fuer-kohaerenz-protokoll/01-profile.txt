@@ -1,0 +1,14 @@
+# projektplanung-fuer-kohaerenz-protokoll
+  lines                419  (frontmatter ends at 9)
+  body words           4214
+  headings             35   bold-only lines 4
+  table rows           25   code fences 0
+  question marks       39
+  backslash escapes    166
+  typographic marks    203   ascii quotes 42
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    41
+  repeated labels      none
+  longest line         794 chars
+

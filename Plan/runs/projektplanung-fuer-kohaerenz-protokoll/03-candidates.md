@@ -1,0 +1,104 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is an English-titled German planning report ("Maximal-Plotter-Workflow") that cites other Drive documents by number; terms below are listed as it writes them. Subscripted K₁ and K₀ stand in the ontology table and the opening; the database section writes K1 and K0 with plain digits, so both forms are listed. The glued reference numbers (1 to 11) follow words in the body. The "Kohärenz Protokoll" title stands inside straight single quotes.
+
+- Kohärenz Protokoll
+- Maximal-Plotter
+- Mosaik-Struktur
+- psycho-strukturelle Resonanz
+- System Kael
+- Kael
+- AEGIS
+- Juna
+- Fundament
+- Dual Kernel Theory
+- DKT
+- Agentive Narrative
+- System-Dirigent
+- Protocol Ontology
+- Kohärenz
+- Kollaps
+- K₁
+- K₀
+- K1
+- K0
+- Ontologischer Status
+- K₁-Dominant
+- K₀-Dominant
+- Riss-Zone
+- Integraler Status
+- Corrective Wavelets
+- funktionalen Multiplizität
+- Nichts-Rauschen
+- Protocol Failure
+- Enforcer
+- Gödel-Satz
+- Gödel-Gambit
+- Singularität
+- Kernwelten
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- KW1
+- KW2
+- KW3
+- KW4
+- Constraint-Based Writing
+- Apparently Normal Parts
+- Emotional Parts
+- ANP
+- EP
+- Systemkarte
+- Lex
+- Nyx
+- Kiko
+- Lia
+- Alex
+- Argus
+- Fronter
+- Co-Conscious
+- Trigger-Level
+- Amnesia-Status
+- Internal Conflict
+- Gravitations-Architektur
+- Ergosphäre
+- Ereignishorizont
+- Irreversiblen Kosten
+- Irreversible Kosten
+- Genesis-Krise
+- Trennungsprotokoll
+- Moonshine-Link
+- Ontologischen Exploit
+- Voices from the Machine
+- Found Footage
+- Paraconsistent Gambit
+- Critical Plot Interrogatories
+- Interrogatories
+- Conflict Check
+- Conflict Analyst
+- LeanRAG
+- Meta-Prompting
+- Chain-of-Density
+- P-SYS
+- P-PSY
+- P-AES
+- Komplexität als Ressource
+- Kohärenz durch Negation
+- Milieukontrolle
+- Energiehaushalt
+- Mosaik-Stories
+- 40-Chapter Plot Module
+- Hamilton-Slot
+- Writer's Bible
+- Hamartia
+
+## lens
+
+- TSDP
+- Autopoiesis
+- Dogfooding
+- Save the Cat
+- Hero's Journey
+- Prehension
+- Quantenverschränkung

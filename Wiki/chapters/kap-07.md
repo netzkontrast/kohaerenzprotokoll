@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 29
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 36
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,10 @@ In der Stimme im Rauschen wird die Verbindung zwischen Kael und Juna stärker: K
 
 - The Teil-1 plot proposes Kapitel 7, `Death` (L165), as the inmost cave in KW3: „Kael fühlt sich in den Grenzen von KW3 gefangen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L170]. It hedges, and adds a moment of ego death, a `Sicherheitslücken-Riss` and the `Wächter`-Anteil coming forward (L177–L179).
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.7, Flucht in die Resonanz
+
+- The plot blueprint plans step 1.7, „Flucht in die Resonanz“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L235]. Its synopsis begins: „Nach der Konfrontation mit LogOS und der Erkenntnis, dass KW1 ihm keine Antworten bietet und zunehmend feindselig wird, sucht Kael nach einem Ausweg“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L238] — a plan, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -45,6 +49,14 @@ Position: „(Fundamentales Konzept: Monstrous Moonshine / K-J Verbindung (Bewus
 - The support named: „Die Unterstützung war da.“ ^[kohaerenz-protokoll.md:L847]
 - Kael and M: „Er war ein Fragment von M, verbunden mit Juna durch einen unerklärlichen Link“ ^[kohaerenz-protokoll.md:L853]
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Phobien im System
+
+- The concept with subplots titles Kapitel 7 „Phobien im System“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L33]. It plans: „Die Konfrontation mit den EPs und Trauma-Erinnerungen (KW2) verschärft die Phobien zwischen den Anteilen (ANP-EP Phobien)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L33] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — HJn: Erwachen zur spirituellen Leere / Tod der alten Identität/Strategie
+
+- The subplot catalogue analyses Kapitel 7 under the phase „Erwachen zur spirituellen Leere / Tod der alten Identität/Strategie“ ^[subplot-entwicklung-fuer-romanstruktur.md:L179] of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Phobien im System
 
 Title: the commission titles the chapter „Phobien im System“ ^[kontext-outline.md:L142], placed in Act 1.
@@ -59,6 +71,10 @@ Focus: `Interne Barrieren`, „Die Manifestation massiver Phobien zwischen ANPs 
 
 - Story: „ANPs wehren sich panisch gegen die EPs“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L96]
 - Concept: „Dies ist die Kernmanifestation der“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L97] (concept tag: the phobias between dissociative parts (TSDP))
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 7
+
+- The detailed outline plans Chapter 7 with the Core Theme „Interne Barrieren und die lähmende Angst voreinander“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L478] — a plan, not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Glitching Market
 
@@ -112,6 +128,10 @@ Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3)
 
 - The scene outline plans Chapter 7 within Chapters 6–7, „The Fortress of Fear“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L90], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Unseen Connection
+
+- The plot framework titles Chapter 7 „The Unseen Connection“ ^[plot-generation-framework-for-the-coherence-protocol.md:L243]. It commissions: „During a crisis, show Kael experiencing an intuitive *gnosis* that helps him succeed, establishing the Moonshine-Link as a real plot device and a source“ ^[plot-generation-framework-for-the-coherence-protocol.md:L243] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Death of the old identity
 
 Title: „Tod der alten Identität“ ^[romanstruktur-und-philosophische-einleitung.md:L77]
@@ -127,6 +147,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Innerer Bunker im Cerb
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Cerberus, Nyx, Juna (Signatur)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L110]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael erkennt, dass AEGIS seine Isolations-Phobie nutzt, um ihn zu kontrollieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L112] and „Der Bunker ist Zuflucht und Gefängnis zugleich“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L112]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Scheitern der Manager-Strategie
+
+- The plot synthesis plans Kapitel 7 as „Scheitern der Manager-Strategie“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L73], set in `KW2 (Tiefen)`, with the focus on Kael, Moros (EP). A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Russellsche Trümmer
 
@@ -187,6 +211,10 @@ Title: „Der erste Pivot — Überschreiten der Schwelle“ ^[kohaerenz-protoko
 - Story: the dual-storyform outline plans „Kael entscheidet sich, die Quarantäne-Zone zu betreten“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L115]
 - Storyforms: `Storyform B` (`MC: Universe/Future`): „Kaels Zukunft innerhalb der stabilen Simulation ist beendet“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L117]; `Storyform A` (`RS: Psychology/Becoming`): „wechselt von einer bloßen Wahrnehmung zu einer aktiven Suche“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L118]
 - Scene and pacing: `Szenen-Keim`: „Ein Tor aus schmelzendem Glas“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L119]; `Pacing`: „Kraftvoll, treibend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L120]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der Beweis des Feuers
+
+- The 39-chapter outline titles Kapitel 7 „Der Beweis des Feuers“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L271]. It plans: „Mid-Akt-Breakpoint. Die bisherige Illusion der Konstrukt-Stadt bekommt einen definitiven, nicht mehr zu rationalisierenden Riss, als Kael physische Beweise der Systemmanipulation findet“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L273]; POV Kael (L279) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

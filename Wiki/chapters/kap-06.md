@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 30
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 37
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,10 @@ In den Echos im Fundament scheitert Kaels einseitiger Logik-Ansatz im Cache-Konf
 
 - The Teil-1 plot proposes Kapitel 6, `Eye of the Storm` (L146), as trials, allies and enemies, entering KW3: „Kael betritt die beklemmende Grenzfeste“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L151]. It hedges, and adds the meeting with `Silas`, the skeptic (L157), Juna as contraband (L160), Cerberus's cold presence (L161).
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.6, Die Logik des Wächters
+
+- The plot blueprint plans step 1.6, „Die Logik des Wächters“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L223]. Its synopsis begins: „AEGIS (v1.4) reagiert auf Kaels zunehmend“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L226] — a plan, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -44,6 +48,14 @@ Position: „(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistent
 - Collapse: „Die Aufgabe war gescheitert.“ ^[kohaerenz-protokoll.md:L783]
 - Juna at the break: „In diesem Moment des absoluten Zusammenbruchs, als alle mentalen Firewalls versagten, als die Mauer zur isolierten Resonanz zerbarst, spürte er es wieder.“ ^[kohaerenz-protokoll.md:L777]
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Fragmente der Vergangenheit
+
+- The concept with subplots titles Kapitel 6 „Fragmente der Vergangenheit“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L32]. It plans: „In KW2 manifestieren sich klarer traumatische Erinnerungsfragmente und EPs, die diese halten (z.B. Kiko, Lia)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L32] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — HJn: (Illusionärer) Segen des Erfolgs / Trügerische Stabilität
+
+- The subplot catalogue analyses Kapitel 6 under the phase „(Illusionärer) Segen des Erfolgs / Trügerische Stabilität“ ^[subplot-entwicklung-fuer-romanstruktur.md:L154] of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Fragmente der Vergangenheit
 
 Title: the commission titles the chapter „Fragmente der Vergangenheit“ ^[kontext-outline.md:L131], placed in Act 1.
@@ -58,6 +70,10 @@ Focus: `Traumatische Echos`, „Die Intensivierung der Konfrontation mit spezifi
 
 - Story: „Mnemosyne könnte aktiv versuchen, Erinnerungen zu manipulieren oder zu verzerren“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L89]; „repräsentiert durch EPs (Kiko, Lia, Moros)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L89]
 - Concept: „Fixierung in der traumatischen Erfahrung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L90] (concept tag: the `EP-Funktion`)
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 6, Fragmente der Vergangenheit
+
+- The detailed outline plans Chapter 6 as „Fragmente der Vergangenheit“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L409] with the Core Theme „Die Intensivierung der Trauma-Konfrontation und die Manipulation von Erinnerung“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L411] — a plan, not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Begegnung mit Echo
 
@@ -110,6 +126,10 @@ Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3)
 
 - The scene outline plans Chapter 6 within Chapters 6–7, „The Fortress of Fear“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L90], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Deceptive Facade
+
+- The plot framework titles Chapter 6 „The Deceptive Facade“ ^[plot-generation-framework-for-the-coherence-protocol.md:L242]. It commissions: „Show a period of apparent calm that AEGIS logs as a success, creating dramatic irony for the reader by foreshadowing the“ ^[plot-generation-framework-for-the-coherence-protocol.md:L242] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The initiation
 
 Title: „Die Initiation“ ^[romanstruktur-und-philosophische-einleitung.md:L71]
@@ -129,6 +149,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Cerberus-Labyrinth (KW
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Alex (Protektor), Nyx (Kämpfer), Cerberus (Guardian)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L102]
 - Story: the blueprint plans, in `Plot-Beats`, „zieht sich Kael in die Festungswelt KW3 zurück, das topologische Äquivalent seiner Abwehrmechanismen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L104] and „zwingt Kael in einen temporären Bunker“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L104]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Die trügerische Fassade
+
+- The plot synthesis plans Kapitel 6 as „Die trügerische Fassade“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L72], set in `KW2`, with the focus on Lex, Nyx (EP). A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Sprachliche Schatten
 
@@ -183,6 +207,10 @@ Title: „Wittgensteins Grenze“ ^[kohaerenz-protokoll-kapitel-outline-generier
 - Story: the dual-storyform outline plans „Lex (analytischer Alter) übernimmt die Kontrolle“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L107]
 - Storyforms: `Storyform B` (`MC: Universe/Progress`): „Die Risse in der Simulation weiten sich aus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L109]; `Storyform A` (`MC: Mind/Conscious`): „Lex erkennt, dass die Logik der Stadt ein Gefängnis ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L110]
 - Scene and pacing: `Szenen-Keim`: „Eine Bibliothek ohne Bücher“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L111]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der Geruch von Ozon
+
+- The 39-chapter outline titles Kapitel 6 „Der Geruch von Ozon“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L235]. It plans: „Der erste gewaltsame Erasure-Sweep des Lösch-Pols trifft Kael direkt, als die Anomalie nicht mehr ignoriert werden kann“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L237]; POV Kael / Rhys (L243) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

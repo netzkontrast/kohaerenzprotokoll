@@ -1,0 +1,96 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Kohärenz Protokoll
+- AEGIS
+- Guardians
+- Kern-Welten
+- Realitätsebenen
+- Überwelt
+- Externe Ebene
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Kael
+- Juna
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kairos/Sophia
+- Alters
+- Index
+- Architekt
+- Praetor
+- Nox
+- Echo
+- Flicker
+- Silas
+- Oblivion
+- Limina
+- Eos
+- DID
+- Zero-Trust
+- Entropie
+- Entropie-Management
+- Risse
+- Post-Reboot
+- universal reboot
+- Reboot
+- Kaels Wohneinheit
+- Zentraler Trauma-Lokus
+- Cerberus' Kernbunker
+- Nexus-Interface Garten
+- AEGIS Analyse-Hub
+- Glitch-Zone
+- Junas Zufluchtsort
+- Central Processing Core
+- Nexus-Schnittstelle
+- Nexus
+- AEGIS-Kern
+- Guardian-Hubs
+- Kontrollbunker
+- Quellpunkt
+- Trauma-Lokus
+- Kompartmentalisierung
+- Datenkonvergenzpunkt
+- Kern-Welt Komparative Übersicht
+- Konzeptueller Kern
+- Reaktivitätstyp
+- Typische Riss-Manifestation
+- Sensorische Details
+- Visuelle Ästhetik
+- Spezifische Landmarken
+- Verbindung zu Charakteren/Plot
+- Regeln & Funktionsweise
+- Atmosphäre & Stimmung
+- Systemische Reaktivität
+- Psychologische Reaktivität
+
+## lens
+
+- Prospect-Refuge Theorie
+- Das Unheimliche
+- Uncanny Valley
+- Traumlogik
+- Verkörperte Kognition
+- Embodied Cognition
+- Environmental Storytelling
+- Pathetische Fallazie
+- Brutalismus
+- Mise-en-scène
+- Set Dressing
+- Panopticon
+- Cyberspace
+- Trauma-informierte Gestaltungsprinzipien
+- Blade Runner
+- Silent Hill 2
+- Control
+- Oldest House
+
+Observations. The document is a research report in German on locations for the novel, with a numbered reference list of web sources (L431 onward); passages marked [Context] and [Insight 1.12] report prompt context and are not the document's own definitions. Each of the six realities and six key places is written to one template of labelled fields. L280 carries export damage (Greek words in the middle of a German sentence). The alter names are set in single quotation marks, the word Alters is the document's plural.

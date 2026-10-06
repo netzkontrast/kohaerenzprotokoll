@@ -1,0 +1,146 @@
+# counts for 90 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           171 word   196 in   [15, 19, 23, 24, 25, 26]
+                                   14      as AEGIS-Aktion
+                                    5      as AEGIS-Paradoxon
+                                    3      as AEGIS-Überwelt
+                                    2      as AEGIS-Paradoxons
+  Kael                             82 word   139 in   [15, 19, 23, 24, 35, 44]
+                                   49      as Kaels
+                                    5      as Kael-System
+                                    2      as Kael-System-Dynamik
+                                    1      as Kael-Systems
+  System Kael                       1 word     1 in   [23]
+  Kael-System                       5 word     8 in   [253, 278, 340, 533, 662, 664]
+                                    2      as Kael-System-Dynamik
+                                    1      as Kael-Systems
+  Echo                              7 word    12 in   [23, 24, 35, 45, 64, 68]
+                                    5      as Echos
+  Nichts Rauschen                   5 word     5 in   [24, 25, 44, 54, 74]
+  Kohärenz Protokoll                2 word     3 in   [11, 24, 75]
+  Fehlausgerichtete Kohärenz        1 word     1 in   [63]
+  Fehlausgerichteten Kohärenz       2 word     2 in   [24, 352]
+  Kernparadoxon                     2 word     2 in   [24, 63]
+  AEGIS Paradoxon                   8 word     8 in   [34, 99, 164, 352, 545, 737]
+  AEGIS-Paradoxon                   5 word     7 in   [153, 155, 193, 209, 726, 727]
+                                    2      as AEGIS-Paradoxons
+  logisches Kollektiv               1 word     1 in   [24]
+  Selene                            7 word     9 in   [23, 26, 64, 663, 666, 701]
+                                    1      as Selene-Potenzials
+                                    1      as Selene-Potenzial
+  Juna/V                           12 word    13 in   [26, 36, 64, 80, 726, 727]
+                                    1      as Juna/Vs
+  Lex                              42 word    42 in   [87, 128, 147, 152, 153, 155]
+  Alex                             40 word    40 in   [216, 217, 218, 219, 235, 244]
+  Rhys                             37 word    37 in   [255, 278, 279, 280, 281, 289]
+  Kiko                              7 word     7 in   [340, 362, 380, 407, 597, 608]
+  Moros                             4 word     4 in   [340, 362, 380, 407]
+  Lia                               2 word     2 in   [407, 663]
+  Nyx                               5 word     5 in   [597, 600, 608, 639, 643]
+  Argus                             4 word     4 in   [726, 771, 790, 833]
+  LogOS                            23 word    23 in   [151, 153, 155, 165, 174, 182]
+                                    6      as Logos-Prime
+  Mnemosyne                        13 word    26 in   [340, 341, 342, 343, 352, 353]
+                                   10      as Mnemosynes
+                                    3      as Mnemosyne-Archipel
+  Cerberus                         12 word    14 in   [597, 598, 599, 600, 609, 618]
+                                    2      as Cerberus-Labyrinth
+  Guardian                          8 word    21 in   [153, 155, 165, 191, 209, 353]  <-- substring
+                                   11      as Guardians
+                                    1      as Guardian-Funktionen
+  Guardians                        11 word    11 in   [155, 165, 191, 209, 353, 419]
+  Kernwelten                        2 word     3 in   [127, 191, 636]
+                                    1      as Kernwelten-Struktur
+  KW1                              33 word    33 in   [86, 88, 89, 90, 127, 138]
+  KW2                              32 word    32 in   [340, 341, 342, 343, 352, 353]
+  KW3                              13 word    13 in   [597, 598, 599, 600, 617, 618]
+  KW4                               1 word     1 in   [860]
+  Logos-Prime                       6 word     6 in   [88, 89, 154, 218, 534, 536]
+  Mnemosyne-Archipel                3 word     3 in   [340, 342, 409]
+  Cerberus-Labyrinth                2 word     2 in   [597, 599]
+  Überwelt                          1 word     4 in   [25, 728, 860, 897]  <-- substring
+  AEGIS-Überwelt                    3 word     3 in   [25, 728, 860]
+  Inneren Konferenzraums            2 word     2 in   [280, 706]
+  Inneres Konferenzzimmer           1 word     1 in   [665]
+  Riss                             12 word    26 in   [117, 139, 726, 727, 728, 729]  <-- substring
+                                   12      as Risses
+                                    2      as Risse
+  Fundament                         5 word     6 in   [428, 765, 803, 834, 954]
+                                    2      as fundamentale
+                                    1      as fundamentalen
+                                    1      as fundamentaler
+                                    1      as Fundamentals
+  Glitches                         18 word    18 in   [87, 88, 89, 90, 98, 99]
+  Host                             11 word    14 in   [87, 126, 132, 152, 340, 387]
+                                    3      as Hosts
+  ANP                               5 word    27 in   [87, 126, 128, 152, 163, 216]  <-- substring
+  ANPs                             13 word    13 in   [128, 163, 216, 278, 314, 407]
+  EPs                              32 word    32 in   [87, 128, 152, 163, 278, 289]
+  Apparently Normal Part            1 word     2 in   [87, 407]
+  Apparently Normal Parts           1 word     1 in   [407]
+  Emotional Parts                   3 word     3 in   [87, 278, 407]
+  TSDP                             12 word    18 in   [62, 126, 152, 216, 278, 281]
+                                    3      as TSDP-Phobien
+                                    1      as TSDP-Prinzipien
+                                    1      as TSDP-Dynamiken
+                                    1      as TSDP-basierten
+  Beschützer-ANP                    1 word     1 in   [216]
+  Fürsorger-ANP                     1 word     1 in   [278]
+  Meta-Beobachter                   2 word     2 in   [726, 790]
+  Meta-Ebene                        2 word     2 in   [897]
+  Ko-Bewusstsein                    3 word     4 in   [663, 664, 666, 699]
+                                    1      as Ko-Bewusstseins
+  Ko-Präsenz                        3 word     3 in   [662, 663, 699]
+  Multiplizität                     4 word     4 in   [699, 858, 861, 869]
+  Interne Phobien                   1 word     1 in   [87]
+  Panoptismus                       3 word     4 in   [86, 88, 153, 210]
+                                    1      as Panoptismus-Themas
+  Gaslighting                      19 word    25 in   [108, 510, 533, 534, 535, 537]
+                                    3      as Gaslightings
+                                    1      as Gaslighting-Taktik
+                                    1      as Gaslighting-Sequenz
+                                    1      as gaslighting_in_intimate_relationships
+  Kohärenzstiftung                  1 word     1 in   [217]
+  Akt 1                             5 word     5 in   [857, 861, 879, 887, 888]
+  Akt 2                            16 word    16 in   [448, 639, 767, 790, 793, 832]
+  Bündeltheorie                     1 word     1 in   [87]
+  Logischer Positivismus            1 word     1 in   [174]
+  logischen Positivismus            2 word     2 in   [151, 174]
+  Bad Faith                         4 word     4 in   [490, 1027, 1028]
+  Qualia                            7 word     7 in   [362, 965, 966, 967, 968]
+                                    1      as qualia-inverted
+  Ethik der Fürsorge                1 word     1 in   [297]
+  Dialogphilosophie                 1 word     1 in   [682]
+  Hume                              9 word    11 in   [87, 107, 361, 811, 932, 933]
+                                    2      as Humes
+                                    1      as hume-personal-identity
+  Kant                              4 word     5 in   [87, 173, 935, 936]
+                                    1      as Kants
+                                    1      as kant-reason
+  Hobbes                            4 word     4 in   [235, 949, 950]
+                                    1      as hobbes-on-the-state-of-nature
+                                    1      as hobbes-moral
+  Sartre                           12 word    14 in   [19, 44, 490, 813, 879, 1022]
+                                    1      as Sartres
+                                    1      as sartre-ex
+  Buber                             9 word    10 in   [682, 720, 1084, 1085, 1087, 1090]
+                                    1      as Bubers
+  Kuhn                              4 word     5 in   [747, 1107, 1109, 1111]
+                                    1      as kuhn-ts
+                                    1      as Kuhn-SSR-2ndEd
+  Bachelard                         1 word     1 in   [747]
+  Cosmic Horror                     4 word     4 in   [54, 921, 922]
+  Unreliable Narrator               4 word     4 in   [116, 939, 940]
+  Glitch in the Matrix              3 word     3 in   [117, 144, 941]
+  Threshold Guardian                2 word     5 in   [627, 1076, 1077, 1079, 1083]  <-- substring
+  Civil War Within                  2 word     2 in   [471, 498]
+  Hope Spot                         2 word     2 in   [755, 1112]
+  Crossing the Threshold            5 word     5 in   [888, 1140, 1142, 1143, 1144]
+  Body Keeps the Score              7 word     7 in   [407, 437, 982, 983, 984, 985]
+  Rules Lawyer                      2 word     2 in   [183]
+  Journey to the Center of the Mind    2 word     2 in   [370, 969]
+  Getting the Team Together         1 word     1 in   [691]
+  Wendepunkt                        7 word     7 in   [674, 728, 785, 853, 869, 887]

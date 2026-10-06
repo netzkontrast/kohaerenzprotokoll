@@ -1,14 +1,22 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
 # Ontologischer blinder Fleck
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts — a profile field for Kael, Juna, AEGIS and each of the five Guardians
+
+The character concepts make `Blinder Fleck` a field of the profile, kept for Kael, AEGIS and each Guardian (L50, L97, L128, L160, L170, L180, L190, L200). Kael's: „Anfänglich ist sein größter blinder Fleck die Existenz seiner eigenen DID“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L50], and later he might underestimate AEGIS's control (L50). AEGIS's: „Dazu gehören insbesondere die Dynamiken eines sich entwickelnden menschlichen Bewusstseins“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L128] (L128), a weakness in understanding non-linear, emergent phenomena, with Juna and her link to the Externe Ebene named too.
+
+The Guardians' blind spots are given one each: LogOS „Er ist unfähig, die illogische Natur von Traumata“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L160]; Mnemosyne „Sie behandelt Erinnerungen rein als Datenpunkte“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L170]; Cerberus „Er interpretiert jegliche Form von Verletzlichkeit“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L180]; Kairos „Seine Fähigkeit zur Vorhersage und Steuerung ist durch AEGIS' lineare, algorithmische Modelle begrenzt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L190]; Sophia „Sie sieht Integration als Eliminierung von Abweichung, nicht als Synthese“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L200]. The Guardians, the AEGIS section adds, „Sie operieren innerhalb der von AEGIS vorgegebenen Protokolle und teilen dessen“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138] blind spots (L138), and their acts, the Guardian section says, rest on them: „Ihre Aktionen, die oft auf ihren spezifischen“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L209] blind spots (L209).
+
+This one document holds both bearers, AEGIS's blind spot and each Guardian's, and relates them by that sharing (L138).
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
@@ -45,6 +53,7 @@ The Leitfragen report (an analyst's review) says of other documents that for Log
 ## Where the sources differ
 
 - The beat sheet writes blind spots for the Guardians (Kapitel 18-21) and for AEGIS itself (Kapitel 22-24); it does not relate the two.
+- `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, has both AEGIS's blind spot (L128) and each Guardian's (L160–L200) in one paper, and says the Guardians „Sie operieren innerhalb der von AEGIS vorgegebenen Protokolle und teilen dessen“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138] blind spots.
 
 ## Open
 

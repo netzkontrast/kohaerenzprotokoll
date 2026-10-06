@@ -1,0 +1,108 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is an English-free German architecture report in the voice of a system ("Das System fordert den Anwender auf"). Its kernel symbols K1 and K0 lost their glyphs in the export: headings read "Der Kohärenz-Kernel ()" and the table keeps "K1" and "K0" with an invisible character glued on, so they are not listed. Chapter ranges (Kapitel 1-13, 14-26, 27-39) are the three phases. Names like Juna, Kael and Selene appear in the character section. Sources are cited by number and the reference list names them; names that stand only inside a reference title are not listed.
+
+- Kohärenz Protokoll
+- Kohärenz-Protokoll
+- Dual-Kernel-Theorie
+- DKT
+- Dual-Kernel-Narrativ-Engine
+- Drama-Engine
+- Narrative Context Protocol
+- NCP
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Erasure-Kernel
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Existenz via Negation
+- ontologischen Blindheit
+- Ontological Blindness
+- Nichts Rauschen
+- Nichts Rauschens
+- Rissen
+- Rifts
+- Kernwelten
+- KW1
+- KW3
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- LogOS
+- Mnemosyne
+- Gödel-Gambit
+- funktionalen Multiplizität
+- Funktionalen Multiplizität
+- Dialetheie
+- Coherons
+- Wavelets
+- Big Freeze
+- Dunklen Energie
+- narrative Energie
+- Collapse Susceptibility Index
+- CSI
+- World State
+- Moonshine-Link
+- Player Dilemma
+- Player-Dilemma
+- Mosaik-Herz
+- Zombie-System
+- Algorithmische Melancholie
+- Trauma-Zeit
+- unentscheidbaren Zonen
+- Zielkohärenz
+- Blockchain für Subtext
+- Thermodynamik der Bedeutung
+- Grand Argument
+- Throughlines
+- Storyform
+- Storypoints
+- Context Object
+- Kael
+- Lex
+- Alex
+- Rhys
+- Argus
+- Nyx
+- Kiko
+- Lia
+- Moros
+- Isabelle
+- Selene
+- Juna
+- System Kael
+- Anscheinend Normalen Persönlichkeitsanteile
+- ANPs
+- Emotionalen Persönlichkeitsanteile
+- EPs
+- ANP-EP-Phobien
+- Phobische Barriere
+- Internal Self-Helper
+- ISH
+- ChatCompanions
+- InstructionDeputies
+- AutoCompanion
+- Cache Coherence
+- Isolation Objection
+- Existential Shattering
+
+## lens
+
+- Landauer-Prinzips
+- Phänomenalen Selbstmodells
+- PSM
+- Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Kohärenztheorie
+- Korrespondenztheorie
+- Principle of Explosion
+- Ex Contradictione Quodlibet
+- Parakonsistenz
+- Dialetheismus
+- Grenzsituationen
+- Umgreifende
+- Autopoiesis
+- Zero-Trust
+- Phaenomena
+- Noumena
+- Qualia

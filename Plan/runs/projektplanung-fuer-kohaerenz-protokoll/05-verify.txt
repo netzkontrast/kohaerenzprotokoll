@@ -1,0 +1,81 @@
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Workflow-Regel"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Workflow-Regel` ^[projektplanung-fuer-kohaerenz-protokoll.md:#4]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Konkreter Prompt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Konkreter Prompt` ^[projektplanung-fuer-kohaerenz-protokoll.md:#3]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Zweck"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zweck` ^[projektplanung-fuer-kohaerenz-protokoll.md:#3]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Adaptions-Vorschlag"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Adaptions-Vorschlag` ^[projektplanung-fuer-kohaerenz-protokoll.md:#1]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Prompt-Strategie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Prompt-Strategie` ^[projektplanung-fuer-kohaerenz-protokoll.md:#1]
+stance_marker_count 12 = 4+3+3+1+1
+$ grep -c "^[0-9]*\.  " references L408-418 (eleven references)
+11
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Irreversiblen Kosten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Irreversiblen Kosten` ^[projektplanung-fuer-kohaerenz-protokoll.md:#2]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Irreversible Kosten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Irreversible Kosten` ^[projektplanung-fuer-kohaerenz-protokoll.md:#3]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Ontologischen Exploit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ontologischen Exploit` ^[projektplanung-fuer-kohaerenz-protokoll.md:#1]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fundament` ^[projektplanung-fuer-kohaerenz-protokoll.md:#1]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[projektplanung-fuer-kohaerenz-protokoll.md:#1]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Alex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alex` ^[projektplanung-fuer-kohaerenz-protokoll.md:#1]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "DKT"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DKT` ^[projektplanung-fuer-kohaerenz-protokoll.md:#1]
+$ read.py projektplanung-fuer-kohaerenz-protokoll --count "Enforcer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Enforcer` ^[projektplanung-fuer-kohaerenz-protokoll.md:#1]

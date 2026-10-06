@@ -1,0 +1,103 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is written in the voice of a "Novel Writing Assistent" addressing the author as "Sie"; it proposes a refactoring of the novel and ends in questions to the author. World terms come first, the borrowed concepts the document applies stand under the lens heading. Code and repository names (action-planner.md, kg_core.py and the like) are left out as ordinary file names, not terms of the world.
+
+- Kohärenz Protokoll
+- Dual-Kernel-Theorie
+- DKT
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Juna
+- Anomalie Juna
+- Kael
+- System Kael
+- Konstrukt-Stadt
+- Überwelt
+- Nexus
+- Guardians
+- LogOS
+- Mnemosyne
+- Genesis-Krise
+- Tertiären Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Phänomenales Selbstmodell
+- PSM
+- Anscheinend Normale Persönlichkeitsanteile
+- ANPs
+- Emotionale Persönlichkeitsanteile
+- EPs
+- Cache-Inkohärenz
+- Selene
+- Nyx
+- Lex
+- Moros
+- Kiko
+- Lia
+- Isabelle
+- Rhys
+- Alex
+- Argus
+- Funktionale Multiplizität
+- Funktionalen Multiplizität
+- Final Fusion
+- Mosaik-Herz
+- External Awakening
+- Nichts-Rauschen
+- Russellschen Trümmer
+- Erwachen-Zyklus
+- Jenseits des Ereignishorizonts
+- Verschränkungs-Inseln
+- Entanglement Islands
+- Replica Wormholes
+- Großen Faktum
+- Große Faktum
+- Schiffbruch des Denkens
+- existenzielle Erschütterung
+- Existential Shattering
+- Architectural Storytelling
+- Integratorin
+- Wächter
+
+## lens
+
+- Korrespondenztheorie
+- Kohärenztheorie
+- Slingshot-Arguments
+- Slingshot-Argument
+- Protokollsatzdebatte
+- Konstatierungen
+- Schiffsmetapher
+- Landauer-Prinzip
+- Kachelproblem
+- Wang-Kacheln
+- Halteproblem
+- Gödelsche Unvollständigkeitssatz
+- Bekenstein-Schranke
+- Hubble-Volumen
+- Big Rip
+- Big Freeze
+- Page-Wootters-Mechanismus
+- Wheeler-DeWitt-Gleichung
+- Quantenuhr
+- Platonia
+- Zeitkapseln
+- Grenzsituation
+- Grenzsituationen
+- Sein zum Tode
+- Vorlaufen in den Tod
+- Ayin
+- Pauli-Ausschlussprinzip
+- Zeno-Effekt
+- Planck-Skala
+- Hawking-Strahlung
+- Ultrafinitismus
+- Theorem von Paris-Harrington
+- Satz von Goodstein
+- Peano-Arithmetik
+- Polyphonie
+- polyphonen Narration
+- Mutuale Information
+- Meinigkeit
+- Epigenetik

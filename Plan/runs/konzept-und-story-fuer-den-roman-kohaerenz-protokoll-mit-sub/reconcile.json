@@ -1,0 +1,358 @@
+{
+  "document": "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
+  "drive_id": "1LXm-LeT3bXtK3xucnDCNF6qBYlalaAPYADGQDcqOS2I",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; third in the queue re-ranked after document 121; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-125/brief.md; the 39 chapter readings written by the session from each chapter's line (Plan/runs/ingest-125-kap/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 78,
+    "decisions": 83,
+    "decided_by_lookup": 66,
+    "needs_judgement": 17
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A 39-chapter concept whose own new surfaces are its five subplot titles, its journey labels (Heroine's Journey, Meta-Exploration, Hero's Journey) and its tropes list; everything it says of the novel's world went on existing pages and records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        45,
+        72,
+        80,
+        84
+      ],
+      "attribution": "",
+      "note": "AEGIS spelled out, its goal, its paradox and its fall"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        29,
+        35
+      ],
+      "attribution": "",
+      "note": "Alex as the Protektor ANP, active at the Grenzfeste"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        33,
+        79
+      ],
+      "attribution": "",
+      "note": "the alters as the driver of plot and inner transformation"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "Argus named once beside Lex"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        29,
+        35
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of KW3 and AEGIS's defences"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        48,
+        84
+      ],
+      "attribution": "",
+      "note": "entropy as the central organising principle"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        21,
+        37,
+        53,
+        82
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as the Other outside AEGIS's control"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "the Grenzfeste as KW3, domain of Cerberus"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        46,
+        47,
+        64,
+        72
+      ],
+      "attribution": "",
+      "note": "five Guardians, placed in the Überwelt, with blind spots"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        53,
+        56,
+        66,
+        82
+      ],
+      "attribution": "",
+      "note": "Juna/V, contact in Kapitel 22 to 30"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        19,
+        27,
+        48,
+        70,
+        75
+      ],
+      "attribution": "",
+      "note": "Kael as the host of a fragmented system, waking with amnesia, ending in functional multiplicity"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "named among the five Guardians"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        27,
+        31,
+        35,
+        81
+      ],
+      "attribution": "",
+      "note": "KW1, KW2 and KW3 named; the worlds as manifestations of psyche and control"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        30,
+        32,
+        79
+      ],
+      "attribution": "",
+      "note": "Kiko as the underlying fear and an EP holding fragments"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        27,
+        28
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as KW1"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        21,
+        28,
+        46,
+        48
+      ],
+      "attribution": "",
+      "note": "Lex as the analyst ANP and the subplot of system analysis"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Lia named once, as an EP with Kiko"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        28,
+        47
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        31,
+        47
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the Guardian of KW2"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        19,
+        21,
+        75
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's goal and the plan's end"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "Nyx named once, for anger"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "KW2 as chaotic and emotional, the opposite of KW1"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "Rhys as the Pfleger ANP who soothes the underlying fear"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37,
+        45,
+        84
+      ],
+      "attribution": "",
+      "note": "Glitches and Risse as manifestations of entropy and instability"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "Selene named once, for integration"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "named among the five Guardians"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        13,
+        79
+      ],
+      "attribution": "",
+      "note": "TSDP as the stated basis and psychological backbone"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        46,
+        63,
+        81
+      ],
+      "attribution": "",
+      "note": "the Überwelt as stage of meta-analysis and final confrontation"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C6",
+    "C9",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title and the protocol's name), J34 (Juna/V, how the concept writes Juna), J60 (the AEGIS expansion, read on aegis and C1), J12 and J16 (compounds with their own sense: Digitale Überwelt — read on ueberwelt — Paradoxon der Fehlausgerichteten Kohärenz, read on aegis, Tertiäre Strukturelle Dissoziation, on kael), J23 and J56 (inflections: Glitches, Selenes, Kikos, Alters)",
+  "sweep": [],
+  "not_promoted": [
+    "the five subplot titles — read on the pages they touch",
+    "Heroine's Journey, Meta-Exploration, Hero's Journey — the Teile's labels",
+    "the tropes list (L85), Gaslighting, Ko-Bewusstsein, Elixier — no page",
+    "Paradoxon X (L83) — named once, not said"
+  ],
+  "internal_tension": "the Guardians are domain-bound to KW1–KW3 (L28, L31, L35) and placed in their domains in the Überwelt (L46); five are named (L47) for three worlds",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,97 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+## world
+- AEGIS
+- Kael
+- System Kael
+- Juna/V
+- Juna
+- Das Fundament
+- Nichts Rauschen
+- Kernwelten
+- Core Worlds
+- KW1
+- Logos-Prime (Construct-City)
+- Logos-Prime
+- Construct-City
+- KW2
+- Mnemosyne-Archipel (Resonance Landscape)
+- Mnemosyne-Archipel
+- KW3
+- Cerberus-Labyrinth (Border Fortress)
+- Cerberus-Labyrinth
+- KW4
+- Kairos-Potentialis (Garden of Possibilities)
+- Kairos-Potentialis
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Guardian
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Moros
+- Selene
+- Risse
+- Moonshine-Link
+- Component 734
+- Separation Protocol
+- Gödel Gambit
+- living Gödel-Satz
+- Existenz-Matrizen
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Kohärenz-Patching-Protokolle
+- functional multiplicity
+- society of selves
+- alters
+- Impact Character
+- strange attractor
+- algorithmic melancholy
+- Information Hazard
+- ontological exploit
+- algorithmic horror
+- open coherence
+- Grand Argument Story
+- Existence Through Negation
+- Coherence over Truth
+- Operational Closure
+- Resilience Through Inclusion
+- Gnosis over Episteme
+- Kael (ANP - Host)
+- Selene (Integrating Self)
+- Kohärenz Protokoll
+- gnosis
+- episteme
+
+## lens
+- Theory of Tertiary Structural Dissociation of the Personality
+- TSDP
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- ex contradictione quodlibet
+- paraconsistent
+- Logic of Formal Inconsistency
+- LFI
+- Specification Gaming
+- Perverse Instantiation
+- P vs. NP
+- NP-complete
+- autopoietic
+- qualia
+- Quantum Entanglement
+- Prehension
+- Deus ex Machina
+- Chaos Theory
+- dialetheic
+- Hegelian
+- ergodic
+- Daoist
+
+The document is English prose with German names in quotation marks; the Kernwelt headings join a code, a name and an English gloss in parentheses, so both the joined form and each half are listed. The four world codes are written KW1 to KW4 with plain digits. The twelve table rows of the alter table carry escaped asterisks. The document labels its own parts as Thesis, Antithesis and Synthesis.

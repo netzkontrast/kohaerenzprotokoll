@@ -1,0 +1,216 @@
+{
+  "document": "aegis-genesis-crisis-self-definition",
+  "drive_id": "16sw8iTHj0w1twSQc_JS7jKWyIS08jzykCmIbqO-LAVg",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 8,
+  "backslash_escapes": 87,
+  "typographic_marks": 17,
+  "ascii_quotes": 72,
+  "inflection_families": {
+    "opera": [
+      "OPERATIONAL",
+      "Operates",
+      "Operating",
+      "Operational",
+      "Operative"
+    ],
+    "syste": [
+      "SYSTEM",
+      "SYSTEMIC",
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "compu": [
+      "COMPUTATION",
+      "COMPUTATIONAL",
+      "Computation",
+      "Compute"
+    ],
+    "activ": [
+      "ACTIVE",
+      "Active",
+      "Actively"
+    ],
+    "archi": [
+      "ARCHITECTURE",
+      "Archipel",
+      "Architecture"
+    ],
+    "conse": [
+      "Consensus",
+      "Consequence",
+      "Consequently"
+    ],
+    "enfor": [
+      "Enforcement",
+      "Enforcer",
+      "Enforces"
+    ],
+    "entro": [
+      "ENTROPY",
+      "Entropic",
+      "Entropy"
+    ],
+    "execu": [
+      "EXECUTIVE",
+      "Execution",
+      "Executive"
+    ],
+    "guard": [
+      "GUARDIANS",
+      "Guardian",
+      "Guardians"
+    ],
+    "invar": [
+      "INVARIANCE",
+      "INVARIANT",
+      "Invariant"
+    ],
+    "kerne": [
+      "KERNEL",
+      "Kernel",
+      "Kernels"
+    ],
+    "model": [
+      "MODELING",
+      "Model",
+      "Models"
+    ],
+    "perso": [
+      "Persona",
+      "Personality",
+      "Personifies"
+    ],
+    "regul": [
+      "REGULATION",
+      "Regulated",
+      "Regulation"
+    ],
+    "algor": [
+      "ALGORITHMIC",
+      "Algorithmic"
+    ],
+    "auton": [
+      "AUTONOMOUS",
+      "Autonomous"
+    ],
+    "batch": [
+      "BATCH",
+      "Batch"
+    ],
+    "causa": [
+      "CAUSAL",
+      "Causal"
+    ],
+    "compo": [
+      "COMPONENT",
+      "Component"
+    ],
+    "core": [
+      "CORE",
+      "Core"
+    ],
+    "desig": [
+      "Designated",
+      "Designation"
+    ],
+    "deter": [
+      "DETERMINISM",
+      "DETERMINISTIC"
+    ],
+    "digit": [
+      "DIGITAL",
+      "Digital"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonance"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "CORE",
+      "Core"
+    ],
+    [
+      "DUAL",
+      "Dual"
+    ],
+    [
+      "Free",
+      "Freezing"
+    ],
+    [
+      "Hard",
+      "HARDWARE"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Real",
+      "REALIGNMENT"
+    ],
+    [
+      "Real",
+      "Realignment"
+    ],
+    [
+      "Spec",
+      "Specification"
+    ],
+    [
+      "Spec",
+      "SPECIFICATIONS"
+    ],
+    [
+      "Tier",
+      "Frontiers"
+    ],
+    [
+      "With",
+      "Within"
+    ],
+    [
+      "With",
+      "Without"
+    ],
+    [
+      "ZERO",
+      "Zero"
+    ],
+    [
+      "ÖDEL",
+      "Gödel"
+    ],
+    [
+      "BATCH",
+      "Batch"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Model",
+      "Models"
+    ],
+    [
+      "Model",
+      "MODELING"
+    ],
+    [
+      "Order",
+      "Border"
+    ],
+    [
+      "STATE",
+      "State"
+    ]
+  ]
+}

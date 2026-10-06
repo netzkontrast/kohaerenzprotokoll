@@ -1,0 +1,296 @@
+{
+  "document": "briefing-core-concepts-of-the-kohaerenz-protokoll-project",
+  "drive_id": "1eWVhVq5Np4RAjmITLilDA3OfBTrDeQOk4eCbnpmbsos",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 111,
+    "decisions": 114,
+    "decided_by_lookup": 95,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        70,
+        74,
+        75
+      ],
+      "attribution": "",
+      "note": "the briefing's table of six protocols"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        29,
+        31,
+        56,
+        58,
+        60,
+        62,
+        64,
+        65
+      ],
+      "attribution": "",
+      "note": "AEGIS as the central antagonist, a tragic autopoietic system with protocols"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        63,
+        84
+      ],
+      "attribution": "",
+      "note": "the alter table and D2's treatment of the alters"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Argus as an ANP and meta-observer"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        135
+      ],
+      "attribution": "",
+      "note": "KW3, the Cerberus-Labyrinth, in the Core-World table"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        117
+      ],
+      "attribution": "",
+      "note": "the climax built on Gödel's first incompleteness theorem"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        95,
+        97
+      ],
+      "attribution": "",
+      "note": "Juna/V as a mysterious external entity of ambiguous origin"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        35,
+        37,
+        39,
+        79,
+        84
+      ],
+      "attribution": "",
+      "note": "Kael as the antithesis to AEGIS, modeled on Tertiary Structural Dissociation"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        136
+      ],
+      "attribution": "",
+      "note": "KW4 Kairos-Potentialis in the Core-World table"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        87
+      ],
+      "attribution": "",
+      "note": "Kiko as an Emotional Part holding early trauma"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        156
+      ],
+      "attribution": "",
+      "note": "Kishōtenketsu named as a second structure beside Dramatica"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "Lex as a rationalist ANP"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        133
+      ],
+      "attribution": "",
+      "note": "KW1 Logos-Prime and LogOS"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        134
+      ],
+      "attribution": "",
+      "note": "KW2 Mnemosyne-Archipel in the Core-World table"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        98,
+        101
+      ],
+      "attribution": "",
+      "note": "the link as non-local and invisible to AEGIS's sensors"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "Moros as the frozen Emotional Part"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        109
+      ],
+      "attribution": "",
+      "note": "the Void as the primordial state AEGIS emerged from"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        86
+      ],
+      "attribution": "",
+      "note": "Nyx as a fighter EP and internal persecutor"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        29,
+        97
+      ],
+      "attribution": "",
+      "note": "Potentialmeer as AEGIS's high-entropy void and a possible source of Juna"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "Rhys as a caregiver ANP"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        138
+      ],
+      "attribution": "",
+      "note": "Risse as manifestations of systemic instability"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "Selene as the Internal Self Helper"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        136
+      ],
+      "attribution": "",
+      "note": "Sophia named with Kairos in KW4"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        123
+      ],
+      "attribution": "",
+      "note": "TSDP as the blueprint for Kael's psyche"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C6",
+    "C11"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 93,
+      "decision": "reading",
+      "why": "Juna/V a mysterious external entity — a reading on the page"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 136,
+      "decision": "reading",
+      "why": "Kairos/Sophia in KW4 — a reading on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 136,
+      "decision": "reading",
+      "why": "Kairos/Sophia in KW4 — a reading on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 126,
+      "decision": "occurrence",
+      "why": "`Simulation` in a heading"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

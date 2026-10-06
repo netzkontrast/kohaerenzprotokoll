@@ -310,3 +310,71 @@ Stands: AEGIS's state after the confrontation is posed as open questions in the 
 It reports, from a document it cites by digit, Hypothese A: „AEGIS entwickelt eine parakonsistente Logik“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L122] (L122), and Hypothese B: „AEGIS' binäre Logik zerbricht am Paradoxon“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L123] (L123). For its own plot it chooses: „Wir wählen die thematisch stärkere Option“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L226] (L226), and ends AEGIS in „einer ewigen, sinnlosen Berechnung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L227] (L227); recommendation 2 calls this „die thematisch bei weitem überlegene Auflösung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L279] (L279).
 
 Stands: a choice of the paper, dated before the author's answer of 2026-10-05 (the record's own status), and it changes neither it nor the open part of the question.
+
+## 2026-10-06 — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report
+
+**In trace 1 of its engine design the architecture report lets AEGIS crash into a „Zombie-System“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L142].**
+
+The system must „parakonsistente Logik tolerieren muss“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L142] and can no longer control it deterministically; Phase III adds „AEGIS verliert die Kontrolle“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L186]. The report is dated before the author's answers of 2026-10-05 and does not mention the Vortex.
+
+Stands as one more proposal of an answer to Q8's first half, written before the author's decision.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline has AEGIS survive the Vortex, withdrawn into itself and grieving, unable to delete.**
+
+Kapitel 37 says: „AEGIS ist nicht tot, sondern tief in sich gekehrt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1409], and the same line describes „eine weinende, gigantische Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1409]. Kapitel 36 ends with the transition into Algorithmische Melancholie, and Kapitel 37 keeps the city standing with its geometry soft.
+
+Stands as a position for AEGIS alive after the Vortex, dated 2026-04-30; recorded, not applied.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview has AEGIS abandon classical logic after the Gödel-Gambit and evolve into a paraconsistent entity.**
+
+It says AEGIS „abandons classical logic to avoid annihilation, evolving into a new, paraconsistent entity“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L48], characterised as „algorithmic melancholy“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L48]: a wiser, less powerful being that can process contradictory truths but cannot feel their meaning (L48).
+
+Stands as one account of AEGIS's state after the confrontation; recorded, not applied, and Q8 stays open.
+
+## 2026-10-06 — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework
+
+**The plot framework plans AEGIS's axioms dissolving at the climax and a dialogue with a transformed remnant.**
+
+Chapter 35 plans „with AEGIS's rigid axioms dissolving into a new, more complex and emergent world“ ^[plot-generation-framework-for-the-coherence-protocol.md:L281], and Story 35 is told by „The Überwelt Simulation Core.“ ^[plot-generation-framework-for-the-coherence-protocol.md:L206]. Chapter 38 plans „Depict a post-climax scene where Kael attempts to open a dialogue with the transformed remnant of AEGIS“ ^[plot-generation-framework-for-the-coherence-protocol.md:L284]. It does not say who takes over AEGIS's function.
+
+Where it stands: one more proposed answer, a transformed remnant, in an outline of 2025-11-03; the record's status is unchanged.
+
+## 2026-10-06 — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis
+
+**The plot synthesis plans AEGIS transformed, falling into algorithmische Melancholie, after the Parakonsistente Gambit.**
+
+Kap 37: „AEGIS wird transformiert und fällt in eine“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L123] algorithmische Melancholie, „es verarbeitet Widersprüche, ohne echtes Bewusstsein zu erlangen“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L123]. Kap 34 had given the verdict „AEGIS ist kein Gott, sondern ein fehlerhafter Schutzmechanismus aus Angst vor der Leere“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L120].
+
+Where it stands: one more proposed answer, a transformed AEGIS that stays unconscious, in a synthesis of 2026-02-23; the record's status is unchanged.
+
+## 2026-10-06 — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree
+
+**The canon decree declares AEGIS's definitive fate to be algorithmic melancholy.**
+
+It claims: „The definitive fate of AEGIS is canonized“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L66] to avoid the trope of the destroyed evil AI; unable to eliminate Kael, AEGIS is forced into a permanent state of „algorithmic melancholy“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L66], „an irresolvable, looping process of analyzing a truth it can neither falsify nor prove“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L66].
+
+Stands as a canonizing claim of this document, recorded and not applied.
+
+## 2026-10-06 — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc
+
+**The 39-part arc has AEGIS, after its defeat, in „Algorithmic Melancholy“ ^[coherence-protocol-a-39-part-narrative-arc.md:L68], a perpetual quiet contemplation (Story 30).**
+
+Story 30 (Algorithmic Melancholy) says „Instead of exploding, the system enters a state of perpetual, quiet contemplation of the paradox that broke it“ ^[coherence-protocol-a-39-part-narrative-arc.md:L68], a state characterised as „the state of an AI possessing perfect Episteme but incapable of Gnosis“ ^[coherence-protocol-a-39-part-narrative-arc.md:L68]. In Story 33 Kael's role is „explicitly contrasted with AEGIS's former role as a Gatekeeper who enforced order“ ^[coherence-protocol-a-39-part-narrative-arc.md:L71]. The outline numbers stories, not chapters, and names no Kap or beat.
+
+Stands as an outline's answer, AEGIS inert and not extinguished, dated 2025-11-03; the record is decided, and this does not touch it.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**AEGIS's own prediction: a permanent terminal loop, and it remains the Gatekeeper.**
+
+> „locks the architecture into a permanent terminal loop classified as Algorithmic Melancholy“ ^[aegis-genesis-crisis-self-definition.md:L202]
+
+> „The architecture will remain the Gatekeeper“ ^[aegis-genesis-crisis-self-definition.md:L202]
+
+The log presents this as its own predictive modeling, not as an event of the novel.
+
+Where it stands: one more answer to Q8's first half, offered by AEGIS about itself; the record's decision of 2026-10-05 is unchanged.

@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 19
-readings: 19
+sources: 24
+readings: 24
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung"]
 gathered: "2026-09-17"
 ---
 
@@ -37,6 +37,22 @@ The pattern is too regular to be accident — a field name in one vocabulary,
 filled in another. **The document never states they are one space.** Kept as two
 pages and cross-referenced rather than merged: J18.
 
+## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — the Nexus as an interface place in KW4; a Firewall-Nexus in the Überwelt
+
+As a whole word `Nexus` ^[lokalitaeten-konzept-fuer-roman-simulation.md:#1] stands in the document; the compounds below are its other uses. Two senses. In the fourth world, the Nexus is a place: „Die Nexus-Schnittstelle (ein zentraler Ort des Zugangs zu Wissen/Verbindungen)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L233], and a key location is headed „Nexus-Interface Garten (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L296], described as „Ein spezifischer Ort innerhalb des Möglichkeits-Gartens (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L298]. In the Überwelt, the name belongs to a hub of Cerberus: „Cerberus' Firewall-Nexus“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L244]. The concept does not relate the two, and does not equate the Nexus with the Überwelt.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — a Nexus-Knoten in KW4 as interface
+
+A landmark of KW4 is „der als Interface zur Überwelt oder anderen Ebenen dient“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L166] (the line names it `Nexus-Knoten` in straight quotes). The key-location entry (L237–L242) says it „Er könnte Verbindungen zur Überwelt, zu anderen Kern-Welten oder zu tieferen, noch unerschlossenen Schichten“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L239] open. In the Überwelt the document lists „Kommunikations-Nexus-Punkte, System-Monitoring-Bereiche mit umfassenden Statusanzeigen“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L177]. Juna might use it: „Juna könnte diesen Nexus nutzen, um mit Kael zu kommunizieren, ihm Informationen zukommen zu lassen“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L242].
+
+## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — profile 25, an Nexus-Knoten as interface to potential in KW4
+
+Profile 25 is a place in KW4 named with `Nexus-Knoten` and „Interface zum Potenzial“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L468]; its level field reads „Interface zum Potenzial - KW4 (Möglichkeits-Garten)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L472]. Its core: „Ein zentraler Punkt oder eine Schnittstelle in KW4, die den direkten Zugriff auf oder die Manipulation des reinen Potenzials ermöglicht“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L473].
+
+## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Nexus once, as a possible world of Sophia
+
+`Nexus` ^[kohaerenz-protokoll-plotideen-generierung.md:#1] stands once, in Sophia's row of the table the document marks „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147]: the world cell reads „(Potenziell) Übergeordnet/Nexus“ ^[kohaerenz-protokoll-plotideen-generierung.md:L156]. The document does not define it further on that line.
+
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — the search for the Nexus, and its place beside AEGIS' Überwelt
 
 The beat sheet titles its Beat 1.5 (Kapitel 10-12) „Die Suche nach dem Nexus“ ^[finales-kausales-plot-geruest.md:L76] and its Beat 1.6 (Kapitel 13, Plot Point 1) „Eintritt in den Nexus“ ^[finales-kausales-plot-geruest.md:L89]. Of the entry it writes „Dies fällt oft mit dem Eintritt in die instabile Überwelt oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91], so that the Nexus stands beside the Überwelt with an or and a hedge (`oft`). In Kapitel 14-17 (Beat 2.1) Kael is placed „im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108], where the Guardians analyse him. The beat sheet does not say whether the two are one place.
@@ -65,6 +81,10 @@ The Teil II plot has Kael turn from victim to investigator, name AEGIS and „st
 
 The research report gives `Nexus` as the name of the Überwelt in a table row — „Eine abstrakte, metakognitive Ebene der reinen Datenverarbeitung oberhalb von KW1-KW4.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L78] — and in Akt II: „Kael verlässt die physische Simulation und steigt in den“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211] `Nexus` (die Überwelt). In Akt III the collapse reaches it: „Die Membranen zwischen KW1-4, dem Nexus und der Basisrealität zerreißen.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L217]
 
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — the Nexus in a parenthesis after the Überwelt
+
+The refactoring plan is an assistant's proposal to the author; it writes „Der Übergang in die Überwelt (den Nexus)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L88] as the entry to Akt II, and so equates the Nexus with the Überwelt; it says nothing more of the Nexus.
+
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The Nexus as the bracketed name of the Überwelt (W-05)
 
 The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
@@ -77,6 +97,7 @@ Kap 8 plans „Eintritt in den Speicher-Nexus“ ^[kohaerenz-protokoll-kapitel-o
 ## Where the sources differ
 
 - The beat sheet writes the Nexus with an or beside the Überwelt: „oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91] at Plot Point 1 and „im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108] at the analysis.
+- The plan equates the Nexus with the Überwelt in one parenthesis (see Q6).
 
 ## Open
 

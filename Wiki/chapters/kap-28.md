@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 30
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,10 @@ Title: „Das Versagen der Eindämmung“ ^[monstergruppe-primzahlen-plot-bluepr
 Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
 
 - Plot: AEGIS' „großangelegte Aktion (Reset, Angriff, etc.) schlägt fehl oder hat katastrophale unbeabsichtigte Folgen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308] and „destabilisiert das M-Fundament noch weiter und beschleunigt den Kollaps der Simulation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L308]
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Der Spießrutenlauf der Paradoxien
+
+- The concept with subplots titles Kapitel 28 „Der Spießrutenlauf der Paradoxien“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L64]. It plans: „Kael navigiert durch AEGIS' Verteidigungsmechanismen, die oft dessen eigene Paradoxien verkörpern“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L64] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Logik brechen: Konfrontation mit LogOS
 
@@ -89,6 +93,10 @@ Position: scene 3.1 at „3.1 - The Überwelt, Outer Defenses“ ^[ai-assisted-n
 
 - The scene outline plans Chapter 28 within Chapters 27–30, „Cracking the Code“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L322], in Act III: The Confrontation and the New Reality — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Echoes of the Past
+
+- The plot framework titles Chapter 28 „Echoes of the Past“ ^[plot-generation-framework-for-the-coherence-protocol.md:L274]. It commissions: „Depict Kael's integrated system successfully handling a trauma trigger that would have previously caused a collapse, providing concrete proof of his new resilience“ ^[plot-generation-framework-for-the-coherence-protocol.md:L274] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Crossing the threshold
 
 Title: „Überwindung der Schwelle“ ^[romanstruktur-und-philosophische-einleitung.md:L232]
@@ -108,6 +116,10 @@ Position: Teil III; setting from the `Schauplatz` field: „Das Potentialmeer (I
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kairos in the Lyons-Welt, Kapitel 26–29
 
 - under Leitfrage 5 it asks how Kairos, whom it calls the Möglichkeits-Weber, acts „mit Kaels sich entfaltender Kreativität in der Lyons-Welt (Kapitel 26-29)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L107]; the range is the report's account of a document it numbers (its source 2), and it names no single chapter within it.
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Sturm der Unmöglichkeit
+
+- The plot synthesis plans Kapitel 28 as „Sturm der Unmöglichkeit“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L114], set in `Das Potentialmeer`, with the focus on Kael, AEGIS v1.5. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Geburt von Selene
 
@@ -171,6 +183,10 @@ Title: „Die Resonanz der Wirklichkeit“ ^[kohaerenz-protokoll-kapitel-outline
 - Story: the dual-storyform outline plans „Kael beginnt, die Risse in der Stadt zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L295]
 - Storyforms: `Storyform B` (`MC: Universe/Present`): „Kael manipuliert die physischen Gesetze der Simulation“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L297]; `Storyform A` (`MC: Mind/Conscious`): „Die Alters verschmelzen zu einer funktionalen Multiplizität“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L298]
 - Scene and pacing: `Szenen-Keim`: „Kael tritt durch eine Wand aus flüssigem Feuer in einen Sektor“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L299]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der Widerstand der Leere
+
+- The 39-chapter outline titles Kapitel 28 „Der Widerstand der Leere“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1059]. It plans: „Junas Präsenz im Moonshine-Link beginnt, die Flammen lokal zu kühlen, was AEGIS' Berechnungen vollends ad absurdum führt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1061]; POV Silas / Kael (L1067) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

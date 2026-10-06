@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 29
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 35
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,14 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“, Ende ^[monstergrup
 
 - Plot: „AEGIS initiiert seine gewählte Endspiel-Strategie“ ^[monstergruppe-primzahlen-plot-blueprint.md:L284] — a reset, a weapon, or a direct confrontation and erasure.
 - Establishes: „Der Konflikt eskaliert zur direkten Konfrontation; Kael muss reagieren.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L284]
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Der Punkt ohne Wiederkehr
+
+- The concept with subplots titles Kapitel 26 „Der Punkt ohne Wiederkehr“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L57]. It plans: „Kael trifft die endgültige Entscheidung, AEGIS direkt zu konfrontieren“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L57] — a plan, not the chapter as written.
+
+## Reading — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan — the revelation at the end of Teil 2
+
+- The subplot plan ends Teil 2 in Kap. 26 in every arc: for Kael a „Wichtiger Meilenstein in der internen Entwicklung“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L46], for Lex an „Enthüllung über AEGIS' Ursprung/Schwachstelle oder die Natur der Realität“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L76], and the same revelation possibly touching Juna/V, the Guardians and the Fundament — a plan in the conditional, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Ruhe vor dem Sturm: Finale Integration und Planung
 
@@ -82,6 +90,10 @@ Position: the chapter has no scene fields in the outline; its prose says „Juna
 
 - The scene outline plans Chapter 26 as „Juna's Ultimate Impulse“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L310], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Meta-Revelation
+
+- The plot framework titles Chapter 26 „The Meta-Revelation“ ^[plot-generation-framework-for-the-coherence-protocol.md:L267]. It commissions: „Conclude Act II as Argus pieces together all the clues, leading to the horrifying realization that their reality is a construct“ ^[plot-generation-framework-for-the-coherence-protocol.md:L267] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Behind the curtain
 
 Title: „Der Blick hinter den Vorhang“ ^[romanstruktur-und-philosophische-einleitung.md:L212]
@@ -102,6 +114,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Der ontologische Kern
 
 - under Leitfrage 5 it asks how Kairos, whom it calls the Möglichkeits-Weber, acts „mit Kaels sich entfaltender Kreativität in der Lyons-Welt (Kapitel 26-29)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L107]; the range is the report's account of a document it numbers (its source 2), and it names no single chapter within it.
 
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Symphonie der Dissonanz
+
+- The plot synthesis plans Kapitel 26 as „Symphonie der Dissonanz“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L102], set in `Zentrum des Netzwerks`, with the focus on Kael. A plan, not the chapter as written.
+
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Systemisches Trauma
 
 Title: „Systemisches Trauma“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L325] — heading „Der Preis des Wissens“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L326]
@@ -117,6 +133,10 @@ Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“, Ende ^[rom
 
 - Plot: „Juna wirft sich zwischen Cerberus und Kael.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109] „In einem Moment gleißender Klarheit erkennt Kael, dass Juna keine externe Entität oder KI-Anomalie ist. Sie ist die unzerstörbare relationale Essenz zwischen seinen eigenen gespaltenen Anteilen.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109]
 - Establishes: „Dies ist der Durchbruch zur Relationalen Ontologie“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109]; „Juna strahlt ein Licht (K0) aus, das keine physikalische Temperatur besitzt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L109], felt as unshakeable certainty.
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Jenseits des Ereignishorizonts
+
+- The refactoring plan has „Wenn Kael schließlich in Kapitel 26 (Jenseits des Ereignishorizonts) Juna vor dem finalen Löschbefehl beschützen muss“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L104], read through the physics of black holes — a plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — an outside, or the psyche's own creative power
 
@@ -163,6 +183,10 @@ Title: „Der Abgrund — Die dunkle Nacht“ ^[kohaerenz-protokoll-kapitel-outl
 ## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Phase II ends here
 
 - The reset synthesis closes Phase II, headed „Die Anatomie der Spaltung (Kapitel 14–26)“ ^[romanprojekt-analyse-synthese.md:L52] — the range given is Kapitel 14–26; the line names no event for Kap 26 itself.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Das Auge des Sturms
+
+- The 39-chapter outline titles Kapitel 26 „Das Auge des Sturms“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L971]. It plans: „Akt-Übergang. Kael erreicht das Archipel“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L973]; POV Kael / Wir-Geflecht (L979) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

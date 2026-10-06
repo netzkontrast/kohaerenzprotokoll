@@ -1,0 +1,14 @@
+# plan-zur-subplot-integration-fuer-den-roman-erweitert
+  lines                223  (frontmatter ends at 9)
+  body words           3569
+  headings             10   bold-only lines 2
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    1   ascii quotes 52
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    113
+  repeated labels      Abschluss (Kap. 38-39) x5, Höhepunkt/Auflösung Teil 2 (Kap. 26) x5
+  longest line         740 chars
+

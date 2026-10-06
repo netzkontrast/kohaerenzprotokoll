@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung"]
 gathered: "2026-09-25"
 ---
 
@@ -45,6 +45,10 @@ Kap 36 lists it among its introduced concepts: „Truth-Rotation, Stille als leb
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — Kap 35 named the Truth-Rotation
 Kap 35 is titled `Der Vortex-Pivot — Die Truth-Rotation` (L349). Its first line plans „Der entscheidende Driver-Pivot“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L351]: „Kael wechselt vom reaktiven Opfer (Universe) zum handelnden Subjekt (Mind)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L351].
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — prepared in Kapitel 22, an inner rotation in Kapitel 29, enacted in Kapitel 36
+
+Kapitel 22 prepares it: „Die Wahrheit der Truth-Rotation und die unausweichliche Algorithmische Melancholie werden hier intellektuell vorbereitet“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L849]. In Kapitel 29, Oblivion's choice against AEGIS is called „Diese Wahl ist die erste innere“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1101], and the line goes on to name it a Truth-Rotation that anticipates the outer Vortex collapse. Kapitel 36 lists `Truth-Rotation` with Lebende Dialetheia and Heat-Spike, and its action line has AEGIS recognise „dass es selbst K0 ist (die Entropie)“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1360].
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
@@ -200,6 +204,7 @@ background document says it of B's phenomenology — pain, erasure, separation �
 stays rememberable and is no longer operative (its L56). So the difference is in what the name points at, the fact or the moment. It
 is recorded here and not as a conflict record.
 - `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29: the Truth-Rotation is the inversion of the two readings, AEGIS' order the destructive vector and Kael's chaos and multiplicity the true coherence, which the research mandate requires and the audit verifies.
+- `kohaerenz-protokoll-kapitel-outline-generierung` (2026-04-30, the 39-chapter outline) places the Truth-Rotation as Beat 5 of the Vortex, with an earlier inner one in Oblivion's arc.
 
 ## Open
 

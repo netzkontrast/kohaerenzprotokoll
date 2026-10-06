@@ -1,0 +1,362 @@
+{
+  "document": "subplot-entwicklung-fuer-romanstruktur",
+  "drive_id": "1BulvK-GHhMZetjf27eS38ZG-bv2I01WDks5Zeg1KsQ4",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 84,
+    "decisions": 91,
+    "decided_by_lookup": 67,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        33,
+        100,
+        158,
+        483,
+        506
+      ],
+      "attribution": "",
+      "note": "AEGIS as the antagonist whose ideal is Kael's illusory success"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        49,
+        74,
+        274,
+        299
+      ],
+      "attribution": "",
+      "note": "a protector ANP, from the warning of Kapitel 1 to a safe inner space in Kapitel 11"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        15,
+        65
+      ],
+      "attribution": "",
+      "note": "the word for the parts, once in the opening paragraph"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        133,
+        249,
+        300,
+        361,
+        396
+      ],
+      "attribution": "",
+      "note": "an observer/critic part with a possible integrating function"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        74,
+        100,
+        123
+      ],
+      "attribution": "",
+      "note": "Cerberus as KW3's Guardian, enforcing rules"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        15,
+        33,
+        34,
+        483
+      ],
+      "attribution": "",
+      "note": "entropy as what AEGIS controls, emotion as a form of it"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        74,
+        98,
+        100,
+        124,
+        397,
+        506
+      ],
+      "attribution": "",
+      "note": "Guardians named with a world, as proposals and guesses"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        115,
+        125
+      ],
+      "attribution": "",
+      "note": "a sexualised or controlling EP, named once among the shadows"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        133,
+        150,
+        434
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external ally or cryptic contact"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        28,
+        48,
+        233,
+        308
+      ],
+      "attribution": "",
+      "note": "the figure the catalogue builds its subplots around"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        74,
+        98,
+        99,
+        123,
+        150,
+        360,
+        415
+      ],
+      "attribution": "",
+      "note": "four worlds KW1 to KW4, named and read as inner landscapes"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        75,
+        124,
+        233,
+        299,
+        359
+      ],
+      "attribution": "",
+      "note": "a child EP of fear or freeze across Kapitel 2 to 13"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        48,
+        73,
+        274,
+        359
+      ],
+      "attribution": "",
+      "note": "an analyst ANP whose logic the catalogue lets Rhys resist and later turn to understanding"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        149,
+        208,
+        233
+      ],
+      "attribution": "",
+      "note": "a child EP tied to attachment, mentioned briefly"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        98,
+        506
+      ],
+      "attribution": "",
+      "note": "LogOS as KW1's Guardian"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        124
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as a Guardian possibly present in KW2"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        199,
+        208,
+        250
+      ],
+      "attribution": "",
+      "note": "a collapse EP who may surface in despair"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        15,
+        308,
+        333,
+        359
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the outcome of Kapitel 12 and 13"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        123,
+        149,
+        273,
+        359
+      ],
+      "attribution": "",
+      "note": "a fighter EP in the subplot catalogue"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        49,
+        73,
+        273,
+        274
+      ],
+      "attribution": "",
+      "note": "a caretaker ANP who mediates and feels with the EPs"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        84,
+        150,
+        434
+      ],
+      "attribution": "",
+      "note": "cracks and glitches as signs of AEGIS's unreliability"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        133,
+        284,
+        308,
+        309,
+        323
+      ],
+      "attribution": "",
+      "note": "an integration or Self part that may facilitate co-consciousness"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        506
+      ],
+      "attribution": "",
+      "note": "Sophia named once, as a possible Guardian"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        28,
+        34,
+        284
+      ],
+      "attribution": "",
+      "note": "the theory of structural dissociation as the frame of Kael's identity and the ANP/EP vocabulary"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        406,
+        434
+      ],
+      "attribution": "",
+      "note": "the Überwelt as a system component to map, once a possible database"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 623,
+      "decision": "occurrence",
+      "why": "only in a reference title"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 133,
+      "decision": "reading",
+      "why": "Juna/V as an external ally or contact — a reading on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 325,
+      "decision": "occurrence",
+      "why": "in passing (J9)"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 84,
+      "decision": "reading",
+      "why": "the trope Glitch in the Matrix and a persistent Riss — a reading on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

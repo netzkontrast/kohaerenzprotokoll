@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-plotideen-generierung
+  lines                428  (frontmatter ends at 9)
+  body words           8964
+  headings             2   bold-only lines 41
+  table rows           8   code fences 0
+  question marks       20
+  backslash escapes    47
+  typographic marks    25   ascii quotes 136
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    155
+  repeated labels      none
+  longest line         1322 chars
+

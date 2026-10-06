@@ -1,10 +1,10 @@
 ---
 term: Protokoll v1.4
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-plot-blueprint-erstellung"]
 gathered: "2026-09-17"
 ---
 
@@ -40,3 +40,7 @@ the research supplied the escalation that leads to it.**
 
 **The document names its own stages as undefined**, in its list of what still
 needs working out.
+
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — Protocol v1.4 as the state of the reboot
+
+Teil 1 begins „nach einem System-Reboot unter AEGIS v1.4“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L138]. In step 1.1 AEGIS „Operiert im Hintergrund unter Protokoll v1.4“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L147], and the blueprint adds „Der Reboot war ein Versuch, Ordnung wiederherzustellen“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L147]. The core-question answer calls v1.4 a reset to a seemingly stable, for Kael incomplete state: „AEGIS' Versuch, das System auf einen vermeintlich stabilen“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42] state.

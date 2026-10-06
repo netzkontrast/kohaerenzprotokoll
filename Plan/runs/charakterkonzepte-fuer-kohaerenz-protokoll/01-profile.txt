@@ -1,0 +1,14 @@
+# charakterkonzepte-fuer-kohaerenz-protokoll
+  lines                769  (frontmatter ends at 9)
+  body words           15436
+  headings             2   bold-only lines 9
+  table rows           27   code fences 0
+  question marks       52
+  backslash escapes    406
+  typographic marks    18   ascii quotes 204
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    105
+  repeated labels      Kernaussagen der Recherche x3, Motivationen x3, Ziele x3
+  longest line         1486 chars
+

@@ -1,0 +1,335 @@
+{
+  "document": "kohaerenz-protokoll-plotideen-generierung",
+  "drive_id": "12RQxQKneMwFJrwLll3_ZqBypR3EfLlMIfnvDksZtBfE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list (Index, the tenth Alter, left off the frozen list and recorded); rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-149/brief.md; no chapter page — the document names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 86,
+    "decisions": 91,
+    "decided_by_lookup": 78,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German concept analysis with plot seeds: its 60 new surfaces are AEGIS's five protocols (OBP, RIVE, PMAS, SARM, CCPP), the Kael-Julia link's names, metaphors (Monstergruppe, Moonshine), eight Alters without a page, world names of its own (Resonanz-Nebel, Schattenlabyrinth, Möglichkeitsstrom), its plot-seed labels and borrowed theory; what it says of existing terms went on their pages and six records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        49,
+        63,
+        65,
+        103,
+        109,
+        253
+      ],
+      "attribution": "",
+      "note": "AEGIS analysed as an autopoietic, adaptive, first-order observer caught in a double bind"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        174,
+        307
+      ],
+      "attribution": "",
+      "note": "ten Alters, read through IFS"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        133,
+        154
+      ],
+      "attribution": "",
+      "note": "Cerberus over the Schattenlabyrinth"
+    },
+    {
+      "page": "did",
+      "lines": [
+        109,
+        111,
+        172,
+        308
+      ],
+      "attribution": "",
+      "note": "DID as induced by AEGIS's observation"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        23,
+        49,
+        292
+      ],
+      "attribution": "",
+      "note": "conditions for emergence from the sea"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "entropy as maximal possibility"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        292
+      ],
+      "attribution": "",
+      "note": "plot seed 9.1, AEGIS's emergence from the sea"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        129,
+        137,
+        141,
+        143,
+        147
+      ],
+      "attribution": "",
+      "note": "five Guardians as subsystems of AEGIS, with a hypothetical table of blind spots"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        188,
+        190,
+        192,
+        196
+      ],
+      "attribution": "",
+      "note": "the Kael-Julia link, read on juna"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        172,
+        180,
+        308
+      ],
+      "attribution": "",
+      "note": "Kael as avatar of a Monstergruppe-inspired structure, his DID induced by AEGIS"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        134,
+        155
+      ],
+      "attribution": "",
+      "note": "Kairos over the Möglichkeitsstrom"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        43,
+        164,
+        166
+      ],
+      "attribution": "",
+      "note": "Kernwelten as AEGIS's simulations and externalisations of Kael's psyche"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        131
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as LogOS's world of logic and control"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        131,
+        152
+      ],
+      "attribution": "",
+      "note": "LogOS over the Konstrukt-Stadt"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        132,
+        153
+      ],
+      "attribution": "",
+      "note": "Mnemosyne over the Resonanz-Nebel"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        174,
+        182
+      ],
+      "attribution": "",
+      "note": "the acceptance of Kael's multiplicity against AEGIS's methods"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        147,
+        156
+      ],
+      "attribution": "",
+      "note": "Nexus once, as a possible world of Sophia"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        188
+      ],
+      "attribution": "",
+      "note": "Julia as a Partnerin or another Kohärenz-Insel"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        19,
+        23,
+        49,
+        292
+      ],
+      "attribution": "",
+      "note": "the Seinsgrund as pure potentiality, AEGIS's source"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        103,
+        188
+      ],
+      "attribution": "",
+      "note": "the level AEGIS maintains, and the deeper one"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        103,
+        166
+      ],
+      "attribution": "",
+      "note": "Risse as system instabilities from the K-J conflict"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        174
+      ],
+      "attribution": "",
+      "note": "Silas as an Alter"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        135,
+        156
+      ],
+      "attribution": "",
+      "note": "Sophia as a possible integrating function, left unclear"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's domain"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C6",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J34 (Julia, how this analysis writes Juna, read on juna), J12 and J16 (compounds with their own sense: Kael-Julia-Verbindung and Kael-Julia-Einheit — read on juna and kael — Kohärenz-Inseln, read on potentialmeer, Signatur), J49 (Der Architekt, Das Echo, Der Wächter — Alter names, not the pages mnemosyne-server-architektur, residual-echos or aegis), J23 and J56 (number: Kohärenz-Insel/Inseln)",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 23,
+      "decision": "reading",
+      "why": "the conditions for emergence from the Potentialmeer, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "decision": "reading",
+      "why": "the sea's maximal entropy in the sense of maximal possibility, read on entropie"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 292,
+      "decision": "reading",
+      "why": "plot seed 9.1 Genesis von AEGIS, read on genesis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 182,
+      "decision": "reading",
+      "why": "Kael's acceptance of his multiplicity, read on multiplizitaet"
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 188,
+      "decision": "reading",
+      "why": "Julia as a Partnerin of the K-J link, read on partnerin"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 103,
+      "decision": "reading",
+      "why": "the Realitätsebene AEGIS maintains, read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "OBP, RIVE, PMAS, SARM, CCPP, Protokolle v1.4/1.5 — AEGIS's protocols, on aegis",
+    "Kohärenz-Inseln — on potentialmeer",
+    "Kael-Julia-Verbindung, K-J-Verbindung, Kael-Julia-Einheit — on juna and kael",
+    "Monstergruppe, Moonshine — metaphors of the link",
+    "Der Architekt, Das Echo, Der Wächter, Der Sucher, Der Funke, Limina, Nox, Praetor, Index — Alters without a page, on alters",
+    "Resonanz-Nebel, Schattenlabyrinth, Möglichkeitsstrom — on kern-welten",
+    "Autopoiesis, Dunamis, Double Bind, IFS, Kybernetik, Landauer-Prinzip — borrowed"
+  ],
+  "internal_tension": "five Guardians for four Kernwelten, Sophia hedged as „Übergeordnet/Nexus“ (L135, L156); the guardian table marked „Hypothetisch“ (L147)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

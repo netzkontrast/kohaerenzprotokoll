@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 66
-readings: 66
+sources: 88
+readings: 88
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "charakterkonzepte-fuer-kohaerenz-protokoll", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-plotideen-generierung"]
 gathered: "2026-09-17"
 ---
 
@@ -45,6 +45,32 @@ principle: each section is a `Guardian/Welt-Paar`.
 
 The Teil-1 plot proposes Mnemosyne as the Guardian of KW2, felt as a „Subtiles Gefühl, von einer unsichtbaren, empathischen, aber passiven Präsenz beobachtet“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L123] by Kael; it also notes the danger that her focus on the past „birgt die Gefahr, Kael in Schleifen gefangen zu halten“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L123]. At the edge of KW2, „Mnemosynes Unfähigkeit, Trauma zu heilen, wird offenbar“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L142]. The proposed Echo mirrors the system's tendency to „Erinnerungen zu archivieren statt aufzulösen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L30]. In Kap 12 „Mnemosyne meldet unkontrollierbare emotionale Rückkopplungsschleifen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L271], and the matrix names her blind spot: „Fokussiert auf Vergangenheit, verfehlt Gegenwartsbedarf“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L300].
 
+## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — Mnemosyne as the Guardian of the second world
+
+The second Kern-Welt is headed „Resonanz-Landschaft (Mnemosyne)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L204]. The concept proposes that „Mnemosyne versucht, die emotionalen Daten zu katalogisieren und zu stabilisieren“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L206], which it says runs against the world's nature, and describes her as „Mnemosyne als flüchtige Präsenz, die versucht zu katalogisieren“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L213]. In the Überwelt: „Mnemosynes Archiv“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L244].
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — Mnemosyne ordering emotional data in KW2
+
+Table 1 names Mnemosyne as KW2's Guardian (L120). The level is shaped by feeling and by „Mnemosynes Versuch geprägt, emotionale Daten zu ordnen und Kohärenz herzustellen“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L139]. In the plot field: „Mnemosyne interagiert hier mit ihm, versucht zu helfen, zu verstehen oder (aus AEGIS' Sicht) zu kontrollieren“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L146]. In the Überwelt, Mnemosyne's data-archive interfaces are named as a possible hub (L177).
+
+## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — Mnemosyne as the Guardian of KW2 and its archive interface
+
+The place profiles pair Mnemosyne with emotion and memory: „KW2 (Mnemosyne) Emotion und Erinnerung“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L31]; the section heading is „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241], and KW2 is the place „der von Mnemosyne beeinflusst wird“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L67]. In the Juna-memory profile: „Mnemosynes Einfluss ist hier, die Erinnerung zugänglich zu machen.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L281] Profile 15, the archive interface, is described as access that may be controlled: „Mnemosyne/AEGIS könnten den Zugriff beschränken, Erinnerungen zensieren oder manipulieren“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L326]. The concept also suggests a memory-palace structure for it: „Die Struktur von Mnemosynes“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L94] archive interface may follow the method of loci (L94).
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts — Mnemosyne as the Guardian of the Resonanz-Landschaft, memories as data points
+
+The character concepts name `Mnemosyne` second among the five Guardians, „Mnemosyne (Zugeordnet: Resonanz-Landschaft)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L165]. Its function is the administration and monitoring of memories, emotional resonances and historical data streams (L169). Its blind spot: „Sie behandelt Erinnerungen rein als Datenpunkte“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L170], and „Sie versteht nicht den Unterschied zwischen bloßer Speicherung und sinnhafter Verarbeitung von Erinnerung“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L170]; the paper writes that attempts to integrate traumatic memories could be misread by it as data corruption or dangerous emotional entropy (L170).
+
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — Mnemosyne as Guardian of KW2, fixed on loss
+
+The plot blueprint gives Mnemosyne a possible insight: „Könnte erkennen, dass Kaels Integration keine Rückkehr zu altem Schmerz“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L115] is, but real healing. Step 2.2 is titled „Mnemosynes Einflüsterungen“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L335]; it plans Mnemosyne as „Mnemosyne , der Guardian von KW2“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L338], who manipulates memories and emotions, and says of her blind spot that she „interpretiert Juna als Verlust, nicht als notwendige Verbindung“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L339]. The development field: „Mnemosyne agiert subtil und manipulativ“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L340].
+
+In step 1.11 Kael might pass KW2's limits by „Mnemosynes Fixierung“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L286]. Tabelle 3 gives her the blind spot „Juna = Tiefer Verlust/Wunde“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L404] and the consequence „Fixierung auf Vergangenheit verhindert Verständnis von Heilung“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L404].
+
+## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Mnemosyne over the Resonanz-Nebel
+
+The plot-idea synthesis lists Mnemosyne among the five Guardians: „Überwacht den Resonanz-Nebel (Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L132]. Its table (marked hypothetical) gives the function „Datenspeicherung, Erinnerungsanalyse, Mustererkennung in Vergangenheitsdaten“ ^[kohaerenz-protokoll-plotideen-generierung.md:L153] and a blind spot, the semantic gap towards the meaning of emotions and memories.
+
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Mnemosyne as Guardian of KW2
 
 Mnemosyne is the Guardian named in the heading „Resonanz-Landschaft (Guardian: Mnemosyne)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L41]. In its laws she works with AEGIS: „AEGIS/Mnemosyne versuchen, emotionale Extreme zu dämpfen/zu ordnen.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L54]
@@ -53,6 +79,18 @@ Mnemosyne is the Guardian named in the heading „Resonanz-Landschaft (Guardian:
 
 `Mnemosyne` stands once, in brackets after the place name of KW2: „KW2: Resonanz-Landschaft (Mnemosyne):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18]. The concept says nothing further of it, and marks the pairing of that line with `McL` „Interpretation im Romankontext“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18].
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Mnemosyne as the Guardian of KW2
+
+The concept with subplots puts Mnemosyne over the Resonanz-Landschaft: „Mnemosyne (Guardian KW2)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L31] „wacht über diesen Bereich“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L31]. She is the second name in the five of Kapitel 16, „Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L47].
+
+## Reading — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan — Mnemosyne in KW2, memory and emotion
+
+The plan places Mnemosyne in Kap. 5–9: „Einführung von Mnemosyne (KW2) und Konfrontation mit ihrer Rolle bei der Verwaltung von Erinnerungen/Emotionen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L124]. Her blind spot is named „Mnemosynes für Ontologie“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134].
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — Mnemosyne as a Guardian possibly present in KW2
+
+In a Kapitel 4 subplot idea the catalogue sets Kiko's frozen terror in KW2 (Mnemosyne-Archipel), a place saturated with trauma memories, and adds „Mnemosyne (Guardian) könnte subtil präsent sein“ ^[subplot-entwicklung-fuer-romanstruktur.md:L124], representing the unavoidability of memory. The idea is a possibility in the conditional; Mnemosyne is named three times in the document.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — KW2's guardian, from the glossary and the two planned Mnemosyne chapters
 
 The glossary pairs Mnemosyne with the second world: „Chaotische, emotions-/erinnerungsbasierte Welt. Guardian: Mnemosyne.“ ^[kontext-outline.md:L31] Chapter 5 introduces „„Mnemosyne (Guardian KW2)“ ^[kontext-outline.md:L123] — `read.py` drops the digit glued to the world's abbreviation, so the line is quoted around it. Chapter 16 plans the return to that world, and Chapter 30 plans the final confrontation with „Mnemosyne als letzte Bastion emotionaler Kontrolle“ ^[kontext-outline.md:L407].
@@ -60,6 +98,10 @@ The glossary pairs Mnemosyne with the second world: „Chaotische, emotions-/eri
 ## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — Mnemosyne as AEGIS' agent for emotion analysis in KW2, a possible manipulator of memories
 
 The concept development plans, in the block headed `Chapter 5:`, that Kael is thrown into „KW2 (Mnemosyne-Archipel)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L82], where „Die Präsenz von Guardian Mnemosyne wird spürbar.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L82] Its application field says: „KW2 dient AEGIS als Werkzeug zur Emotionsanalyse und -kontrolle, Mnemosyne als dessen Agentin.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L83] In the block headed `Chapter 6: [Fragmente der Vergangenheit]` the plan hedges: „Mnemosyne könnte aktiv versuchen, Erinnerungen zu manipulieren oder zu verzerren, um Kael zu destabilisieren.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L89] The block headed `Chapter 16:` names the stake: „Wahrheit der Erinnerung:“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L158] against „die Manipulation durch Mnemosyne in KW2“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L158]. The block headed `Chapter 30:` plans the final confrontation: „Die finale Auseinandersetzung mit Mnemosyne, um emotionale Kontrollmechanismen zu durchbrechen und die Integration traumatischer Erinnerungen abzuschließen.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L256]
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Guardian Mnemosyne, Hüterin and possible manipulator in Kernwelt 2
+
+The outline's field on AEGIS in the second world plans: „Der Wächter von KW2, Guardian Mnemosyne, wird aktiv.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L343] Her role is ambivalent: „Sie ist die Hüterin der Erinnerungen, aber auch eine potenzielle Manipulatorin“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L343]. The `Guardians` line: „Guardian Mnemosyne wird eingeführt, zuständig für Erinnerung und Emotion.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L355] and „Ihre ambivalente Rolle als Hüterin und potenzielle Manipulatorin wird etabliert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L355] A later chapter's philosophy field says: „Mnemosynes Manipulationen werfen direkt die Frage nach der Zuverlässigkeit und Formbarkeit von Erinnerungen auf“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L433]. The `Mnemosyne-Archipel` as a world name is not read here.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — overseer of KW2; archives a memory fragment or phantom pain
 
@@ -97,13 +139,41 @@ The concept document's table names the world `KW2: Mnemosyne-Archipel` and the b
 
 The scene outline introduces Mnemosyne in Act I as „a manipulative archivist of memory“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L80] who appears „not as a threat, but as a serene guide“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L85]; the blueprint line says it „Introduces Mnemosyne as a key antagonist who weaponizes memory.“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L89] Chapter 20 is titled „The Fight for Memory: Confrontation with Mnemosyne“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L264]. The architecture analysis's table gives her name only inside the world's name, „Resonanz-Landschaft/Mnemosyne-Archipel“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L464].
 
+## Reading — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing — KW2 Mnemosyne-Archipel in the Core-World table
+
+The table lists „KW2 (Mnemosyne-Archipel)“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L134] with Emotion / Memory and the entry „Dialetheic Coexistence / Mnemosyne“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L134] (L134).
+
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — Mnemosyne as the guardian of KW2
 
 The guide writes `Mnemosyne` twice in the KW2 cell: in the world's name „KW2: Mnemosyne-Archipel / Resonanz-Landschaft“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97] and, alone, as the guardian in brackets in the column „Core World & Guardian“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L95]. The principle is „Trauma & Emotional Memory (EPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L97].
 
+## Reading — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview — Mnemosyne, Guardian of Core World 2
+
+The ontological overview presents `Mnemosyne` as „The Guardian of memory and emotion“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L38], manipulating the chaotic dreamscape of Core World 2 (L38). The table pairs it with KW2, the Resonance Landscape (L90).
+
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Mnemosyne as Guardian of Kernwelt 2 and dialetheic logic
+
+Story 16 is told by „Mnemosyne, Guardian of the chaotic, swamp-like Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L107] 2, who „describes her world as operating on a dialetheic logic where contradictions are real and true“ ^[plot-generation-framework-for-the-coherence-protocol.md:L107]. Chapter 16 plans „Introduce Mnemosyne, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L257] 2 to establish that counter-philosophy.
+
+## Reading — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture — Mnemosyne as the Guardian of KW2, and a story narrator
+
+The dual plot architecture names Mnemosyne as the Guardian of the second Kernwelt, the Mnemosyne-Archipel: „This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L102], a world described as „It is the world of emotion, memory, and trauma“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L102]. A story proposal is „Told from the perspective of a Guardian, such as Mnemosyne, as it struggles to process the Kael-Juna connection“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L149].
+
+## Reading — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree — Mnemosyne as Guardian of the second Core World
+
+The table pairs „Mnemosyne-Archipel“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L84] (trauma-time, memory and subjectivity) with the Guardian Mnemosyne.
+
+## Reading — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc — the Guardian of KW2 in Story 7 of an outline
+
+In the 39-part arc, Story 7 (The Mnemosyne Archipelago) has Kael arrive in KW2, „a chaotic world shaped by emotion and memory“ ^[coherence-protocol-a-39-part-narrative-arc.md:L27], where his perceptions are „actively manipulated by the world's Guardian, Mnemosyne“ ^[coherence-protocol-a-39-part-narrative-arc.md:L27]. A story of an outline, not a chapter.
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — Mnemosyne as the Wächter of KW2 and one of AEGIS's hunters
 
 In the truth-duality paper's list of worlds, Mnemosyne is the Wächter of KW2 `Mnemosyne-Archipel`, the world of correspondence truth, in Act 2: the line reads „(EPs, Trauma). Wächter:“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L238] and then the name. In Act 2 the paper has AEGIS's Wächter hunt the parts, naming „Wächter (Mnemosyne, Cerberus)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L205] to correct them.
+
+## Reading — `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, the planning report — the Mnemosyne-Archipel as a container and as a cost
+
+In the planning report's proposal the Mnemosyne-Archipel is KW2, the place of memory and grief, with a non-linear time rule (L67, L72). Among the three categories of irreversible cost the report proposes for Phase II, the world category reads „Ein Teil des Mnemosyne-Archipels stürzt ins Nichts-Rauschen“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L230], and the map then becomes smaller. In its table mapping stories to Hamilton's model, the slot at the lowest point has „Totaler Zusammenbruch der Juna-Verbindung“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L217] and the destruction of an important place (for example Mnemosyne), as an irreversible cost. These are proposals for the plot, not statements of what happens.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Mnemosyne as the domain of KW2 and, in Kap 15, an archive routine
 
@@ -129,6 +199,10 @@ In the report's table Mnemosyne guards KW2 and „Speichert die traumatische Ver
 
 The drafting compendium describes Mnemosyne as the Guardian of the Resonanz-Landschaft (KW2): „Empathisch, aber in der Vergangenheit gefangen“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L104]. She treats trauma as „abrufbare Datenpunkte“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L104] and confuses the emotional history with the actual need for healing. The line carries a glued reference number; the description is reported, not instructed.
 
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Mnemosyne over KW2, and defecting
+
+KW2 is „Überwacht von Mnemosyne“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L47]. Kap 16 is set in Code-Schichten with Kael and Mnemosyne („Kael, Mnemosyne“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L92]); in Kap 30 the Systemwächter (Mnemosyne, Cerberus) „erleben kognitive Dissonanz“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L116] and refuse AEGIS.
+
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Mnemosyne in Kap 8–10
 
 Kap 8 is headed „Schwelle zu Mnemosyne“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L106] and Kap 9 is titled „Mnemosynes Archipel“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L117] It casts „Kael, Nyx, Mnemosyne (Guardian).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L120] Kap 10 plans „Konfrontation mit Mnemosyne.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L135]
@@ -140,6 +214,10 @@ The Teil I plot has Kael's amnesia kept up by the Wächter, „durch die Wächte
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Mnemosyne as Wächterin of KW2, and the archipelago
 
 The research report (6.2) writes of `Mnemosyne`: „Wächterin der Identität und Erinnerung (KW2).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L131] It adds that she „konfrontiert Kael mit der beunruhigenden Relationalität und Fluidität seiner eigenen mentalen Konstruktion.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L131] In Akt II: „Mnemosyne konfrontiert ihn schonungslos mit der Relationalität seiner Identität“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211]. The table names KW2 `Mnemosyne-Archipel` (`Resonance Landscape`): „Die Domäne der fluiden Logik und der rohen Emotionen.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L75]
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Mnemosyne confronting Kael with the illusion of a singular ego, Kapitel 18
+
+The refactoring plan is an assistant's proposal to the author; „Das Treffen mit Mnemosyne (Kapitel 18) verschiebt den Fokus auf die Grenzen der Identität“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L98]; there „Mnemosyne konfrontiert Kael mit der Illusion seines singulären Egos“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L98].
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW2 under Mnemosyne
 
@@ -154,6 +232,14 @@ Row W-02: „Domäne von Mnemosyne. Fließende, synästhetische Trauma-Landschaf
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Guardian of the Resonance Landscape, who maps the wound as a closed scar
 
 The manifest says the administration of the Resonance Landscape „is delegated to the Guardian subsystem designated as Mnemosyne“ ^[aegis-persona-and-manifest-generation.md:L77], whose domain „encompasses memory, emotion, subjective experience, empathy, and historical data archiving“ ^[aegis-persona-and-manifest-generation.md:L77]; she is „the archivist of the internal world“ ^[aegis-persona-and-manifest-generation.md:L77]. Her limitation: she „identifies the systemic wound but categorizes it as a closed scar rather than an active, ongoing structural breach“ ^[aegis-persona-and-manifest-generation.md:L83].
+
+## Reading — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto — the Mnemosyne-Archipel as the quarantine world of KW2
+
+In the manifesto Mnemosyne is a Kernwelt, KW2, the Mnemosyne-Archipel, „constructed as a high-security quarantine zone governed by Paraconsistent Logic“ ^[aegis-manifest-genesis-krise-reboot.md:L79]. It holds fragments that „carry the thermal residue of the Genesis Crisis, operating in a state of fixed“ ^[aegis-manifest-genesis-krise-reboot.md:L79] Trauma-Time. It targets the Emotional Parts, and because it processes subjective experience „it is classified as an inconsistent domain“ ^[aegis-manifest-genesis-krise-reboot.md:L81]. The table gives its function: „Quarantine and isolation of subjective trauma, memory, and thermal residue“ ^[aegis-manifest-genesis-krise-reboot.md:L101]. These are AEGIS's specifications; the manifesto names no Guardian for it here.
+
+## Reading — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log — Mnemosyne as a Guardian and as the name of a world
+
+The log uses the name twice. As a Guardian, `Mnemosyne` has the status „Memory Regulation“ ^[aegis-genesis-crisis-self-definition.md:L155] and „Manages the processing of emotion and memory strictly as quantifiable, abstract metrics within the Overworld.“ ^[aegis-genesis-crisis-self-definition.md:L155] As a world, KW2, the Mnemosyne-Archipel „is categorized as a high-risk quarantine zone“ ^[aegis-genesis-crisis-self-definition.md:L123], housing „trauma, volatile emotional memory, and the Emotional Parts“ ^[aegis-genesis-crisis-self-definition.md:L123]. Both are AEGIS's own classifications; the log does not say that Guardian and world belong together.
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Mnemosyne-Archipel as the pivot's setting, and Mnemosyne against one erasing pole
 
@@ -188,12 +274,18 @@ Kap 8 is `Der Mnemosyne-Archipel`; Kap 17 plans „Mnemosyne verzerrt Kaels Erin
 
 The line reads: „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[romanprojekt-analyse-synthese.md:L153], and continues that they must act as specialised filter algorithms, each a defensive wall in Kael's psyche. `Mnemosyne` ^[romanprojekt-analyse-synthese.md:#1] stands only here; the synthesis assigns it no world and no function beyond that. Recorded, not applied.
 
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — a Wächter-Entität that isolates instead of erasing, and a pantheon reduced to Mnemosyne and the Lösch-Pol
+
+Chapter 5 plans Kael's indirect encounter: „Kael begegnet indirekt der Wächter-Entität Mnemosyne, die gefährliche Erinnerungen nicht thermisch löscht, sondern kognitiv isoliert“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L201]. Its action line has the intervention as „interveniert die Systeminstanz Mnemosyne“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L205], a gentle cognitive redirection and not an Erasure-Sweep. Later chapters use the name for a place: in Kapitel 27 the sweep „trifft das Mnemosyne-Archipel mit voller Wucht“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1023], and in Kapitel 37 Kael and the Alter stand „in den noch rauchenden Trümmern des Mnemosyne-Archipels“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1409]. Appendix B, in the outline's own claim of a discard, says of the older guardians that „das Pantheon wurde auf Mnemosyne und den Lösch-Pol reduziert“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1576], citing Kanon-Dok 2 on the same line.
+
 ## Where the sources differ
 
 - `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30: Mnemosyne is the one Guardian the Kanon keeps (L581), and the Archipel is the setting of the climax (L494).
 - the outline of 2026-05-01 writes Mnemosyne as `er` in Kap 10 and as `sie` in Kap 26 and Kap 32, without comment
 - Kap 7 plans the Mnemosyne-Archipel as an environment coupled to [[kael|Kael]]'s emotions, Kap 35 as K1 cache banks and physical hardware; the outline keeps Mnemosyne as one of two Wächter and reports the other three as discarded.
 - The plot analysis proposes Mnemosyne as a guardian who holds Kael in a loop of nostalgia or trauma, taking it for healing.
+- `kohaerenz-protokoll-kapitel-outline-generierung` (2026-04-30, the 39-chapter outline) names Mnemosyne as a Wächter-Entität that isolates instead of deleting, and claims the pantheon reduced to „Mnemosyne und den Lösch-Pol“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1576].
+- `aegis-manifest-genesis-krise-reboot`, 2026-04-27: Mnemosyne is a quarantine world under Paraconsistent Logic, not a Guardian; recorded as the manifesto's usage.
 
 ## Open
 

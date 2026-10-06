@@ -1,0 +1,97 @@
+# counts for 80 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                4 word     4 in   [11, 13, 17, 86]
+  Kael                             38 word    59 in   [13, 17, 19, 23, 25, 26]
+                                   20      as Kaels
+                                    1      as Kael-Systems
+  System Kael                       1 word     1 in   [13]
+  AEGIS                            47 word    48 in   [13, 17, 19, 25, 26, 27]
+                                    1      as AEGIS-Paradoxon
+  Autonomous Entropic Gatekeeper for Integrity Systems (AEGIS)    1 word     1 in   [17]
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [17]
+  Kohärenz                          9 word     9 in   [11, 13, 17, 37, 46, 65]
+  Entropie                          8 word     9 in   [17, 35, 46, 49, 65, 82]
+                                    1      as Entropiemanagement
+  Juna/V                            8 word    10 in   [17, 45, 51, 54, 61, 64]
+                                    2      as Juna/Vs
+  Host                              1 word     2 in   [17, 25]
+                                    1      as Host-Anteil
+  Host-Anteil                       1 word     1 in   [17]
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [17]
+  TSDP                              2 word     2 in   [13, 77]
+  funktionale Multiplizität         4 word     4 in   [19, 53, 62, 72]
+  Simulation                       11 word    11 in   [13, 17, 25, 35, 36, 41]
+  Kernwelten                        5 word     5 in   [23, 44, 50, 66, 79]
+  KW1                               8 word     8 in   [25, 26, 27, 28, 29, 50]
+  KW2                               5 word     5 in   [29, 30, 31]
+  KW3                               6 word     6 in   [27, 33, 50]
+  Konstrukt-Stadt                   2 word     2 in   [25, 26]
+  Resonanz-Landschaft               2 word     2 in   [29]
+  Grenzfeste                        2 word     2 in   [33]
+  Überwelt                          5 word     5 in   [44, 45, 61, 79]
+  Digitalen Überwelt                1 word     1 in   [44]
+  Externe Ebene                     2 word     2 in   [51, 80]
+  Fundament                         4 word     5 in   [64, 69, 73, 80, 81]
+                                    1      as Fundaments
+  Guardians                         3 word     3 in   [45, 52, 78]
+  Guardian KW1                      1 word     1 in   [26]
+  Guardian KW2                      1 word     1 in   [29]
+  Guardian KW3                      2 word     2 in   [27, 33]
+  LogOS                             3 word     3 in   [26, 32, 45]
+  Mnemosyne                         4 word     4 in   [29, 30, 32, 45]
+  Cerberus                          3 word     3 in   [27, 33, 45]
+  Kairos                            1 word     1 in   [45]
+  Sophia                            1 word     1 in   [45]
+  Lex                              10 word    10 in   [26, 27, 31, 34, 35, 44]
+  Lex/Argus                         1 word     1 in   [46]
+  Argus                             1 word     1 in   [46]
+  Alex                              4 word     4 in   [27, 31, 33]
+  Rhys                              7 word     7 in   [28, 31, 34, 77]
+  Nyx                               1 word     1 in   [77]
+  Kiko                              2 word     3 in   [28, 30, 77]
+                                    1      as Kikos
+  Lia                               1 word     1 in   [30]
+  Selene                            0 word     1 in   [77]
+                                    1      as Selenes
+  Analytiker ANP                    1 word     1 in   [26]
+  Protektor ANP                     1 word     1 in   [27]
+  Pfleger ANP                       1 word     1 in   [28]
+  ANP                               3 word     6 in   [26, 27, 28, 30, 31, 34]
+  EP                                0 word     7 in   [28, 30, 31, 34, 35, 37]  <-- substring
+  EPs                               5 word     5 in   [28, 30, 31, 34, 35]
+  Alters                            1 word     1 in   [77]
+  Anteile                           3 word     4 in   [31, 34, 37]
+                                    1      as Anteilen
+  Phobien                           5 word     5 in   [31, 34, 77]
+  ANP-EP Phobien                    1 word     1 in   [31]
+  Glitches                          5 word     5 in   [25, 26, 32, 36, 43]
+  Glitch                            2 word     7 in   [25, 26, 32, 36, 43, 83]  <-- substring
+                                    5      as Glitches
+  Riss                              3 word     6 in   [35, 36, 43, 82]
+                                    3      as Risse
+  Risse                             3 word     3 in   [36, 43, 82]
+  Paradoxon der Fehlausgerichteten Kohärenz    1 word     1 in   [46]
+  Blinde Flecken                    2 word     2 in   [45, 78]
+  Gaslighting                       2 word     2 in   [32, 52]
+  Ko-Bewusstsein                    1 word     1 in   [34]
+  Intrusionen                       1 word     1 in   [28]
+  Flashbacks                        1 word     1 in   [30]
+  dissoziative Amnesie              0 word     0 in   []
+  Zyklen                            2 word     2 in   [39, 47]
+  Resets                            1 word     1 in   [47]
+  Opferpunkt                        1 word     1 in   [67]
+  Elixier                           1 word     1 in   [72]
+  Heroine's Journey                 1 word     1 in   [21]
+  Hero's Journey                    1 word     1 in   [57]
+  Meta-Exploration                  1 word     1 in   [39]
+  Unzuverlässiger Erzähler          1 word     1 in   [83]
+  Unzuverlässige Erzähler-Trope     1 word     1 in   [25]
+  Tropen                            2 word     2 in   [83]
+  Kosmischer Horror                 1 word     1 in   [83]
+  Psychologischer Horror            1 word     1 in   [83]
+  Hard Science-Fiction              1 word     1 in   [13]
+  Gehirn im Tank                    1 word     1 in   [48]
+  Apotheose/Transformation          1 word     1 in   [68]

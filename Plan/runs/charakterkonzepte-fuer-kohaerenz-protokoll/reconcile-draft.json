@@ -1,0 +1,343 @@
+{
+  "document": "charakterkonzepte-fuer-kohaerenz-protokoll",
+  "drive_id": "1TrEID4KSYZRV5DYGh9C8TEKUVlym6EprPumhVqbIydw",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 97,
+    "decisions": 99,
+    "decided_by_lookup": 79,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        118,
+        127,
+        128,
+        138,
+        143,
+        144,
+        146
+      ],
+      "attribution": "",
+      "note": "AEGIS as a non-malicious system protocol with a named blind spot"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        217,
+        218,
+        223,
+        230,
+        231,
+        497,
+        501
+      ],
+      "attribution": "",
+      "note": "the alters reviewed against DID research, with a table of primary worlds"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        50,
+        128,
+        138,
+        160,
+        170,
+        180,
+        190,
+        200,
+        209
+      ],
+      "attribution": "",
+      "note": "a profile field for Kael, Juna, AEGIS and each of the five Guardians"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        175,
+        179,
+        180
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of the Grenzfeste, paranoia as blind spot"
+    },
+    {
+      "page": "did",
+      "lines": [
+        19,
+        49,
+        231,
+        658
+      ],
+      "attribution": "",
+      "note": "DID as Kael's frame, with a sensitivity pledge and a research synthesis"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        67,
+        86,
+        118
+      ],
+      "attribution": "",
+      "note": "entropy as AEGIS's target and Juna's supposed source"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        58,
+        91,
+        94,
+        112
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as Juna's postulated anchor"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        175,
+        283,
+        309,
+        439,
+        578,
+        582
+      ],
+      "attribution": "",
+      "note": "Cerberus's world, defence and borders"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        138,
+        148,
+        150,
+        205,
+        207,
+        209
+      ],
+      "attribution": "",
+      "note": "the five Guardians as AEGIS's agents, one per world, antagonists of Teil 1"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        84,
+        86,
+        87,
+        91,
+        92,
+        96,
+        97,
+        112,
+        114,
+        606,
+        607
+      ],
+      "attribution": "",
+      "note": "Juna as an openly speculative profile"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        27,
+        29,
+        40,
+        50,
+        68,
+        688
+      ],
+      "attribution": "",
+      "note": "Kael as host and as whole system, proposed as a profile"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        185,
+        189,
+        190
+      ],
+      "attribution": "",
+      "note": "Kairos as the Guardian of the Möglichkeiten-Garten, growth within AEGIS's limits"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        30,
+        66,
+        671
+      ],
+      "attribution": "",
+      "note": "four worlds as manifestations of clusters of alters"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        66,
+        72,
+        155,
+        159,
+        283,
+        525,
+        526,
+        529
+      ],
+      "attribution": "",
+      "note": "the first world, Kael's start and LogOS's domain"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        155,
+        159,
+        160,
+        530
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of the Konstrukt-Stadt, blind to the illogic of trauma"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        165,
+        170
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the Guardian of the Resonanz-Landschaft, memories as data points"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        28,
+        78,
+        82,
+        658
+      ],
+      "attribution": "",
+      "note": "functional multiplicity named once, as a reported research finding"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        225,
+        393,
+        395,
+        403,
+        406,
+        408,
+        508
+      ],
+      "attribution": "",
+      "note": "Oblivion as an alter, the frozen trauma holder (not a Guardian)"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        76,
+        165,
+        169,
+        335,
+        511,
+        558
+      ],
+      "attribution": "",
+      "note": "Mnemosyne's world, home of emotions and memories"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        136,
+        143,
+        150,
+        209,
+        671
+      ],
+      "attribution": "",
+      "note": "Risse as deviations, provoked by the Guardians' blind spots"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        225,
+        471,
+        473,
+        481,
+        484,
+        491,
+        511
+      ],
+      "attribution": "",
+      "note": "Silas as an alter, the caretaker (not a Guardian)"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        195,
+        199,
+        200
+      ],
+      "attribution": "",
+      "note": "Sophia placed on the Überwelt, with a question mark"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        118,
+        143,
+        144,
+        195,
+        201
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's information domain, and Sophia's proposed station"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C6"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title in the document's title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

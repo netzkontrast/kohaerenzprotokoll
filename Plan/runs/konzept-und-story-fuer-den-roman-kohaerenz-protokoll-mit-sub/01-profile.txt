@@ -1,0 +1,14 @@
+# konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub
+  lines                89  (frontmatter ends at 9)
+  body words           2657
+  headings             6   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       6
+  backslash escapes    0
+  typographic marks    10   ascii quotes 38
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    128
+  repeated labels      none
+  longest line         690 chars
+

@@ -1,0 +1,14 @@
+# explizites-subplot-konzept-fuer-kohaerenz-protokoll
+  lines                186  (frontmatter ends at 9)
+  body words           2760
+  headings             8   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    1   ascii quotes 40
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    69
+  repeated labels      Abschluss (Kap. 38-39) x5, Höhepunkt/Auflösung Teil 2 (Kap. 26) x5
+  longest line         1001 chars
+

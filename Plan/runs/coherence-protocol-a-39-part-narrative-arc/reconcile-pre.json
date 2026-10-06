@@ -1,0 +1,471 @@
+{
+  "document": "coherence-protocol-a-39-part-narrative-arc",
+  "step": "reconcile-pre",
+  "at": "2026-10-06",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-06",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 76,
+  "decisions": 77,
+  "same_surface": {},
+  "decided_mechanically": 65,
+  "needs_judgement": 12,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 124
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 111
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 122
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 75
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 83
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 72
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 59
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 56
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 86
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 84
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 82
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 80
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 75
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 62
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 94
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 71
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 41
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 79
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "Core World 2 (KW2)"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "Resonance Landscape"
+      },
+      {
+        "candidate": "Core World 3 (KW3)"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "Core World 4 (KW4)"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Garden of Possibility"
+      },
+      {
+        "candidate": "Core Worlds"
+      },
+      {
+        "candidate": "Overworld"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "Emotional Parts"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "Forgotten Shrine"
+      },
+      {
+        "candidate": "inner council"
+      },
+      {
+        "candidate": "alter acceptance"
+      },
+      {
+        "candidate": "functional multiplicity"
+      },
+      {
+        "candidate": "D2"
+      },
+      {
+        "candidate": "LFI"
+      },
+      {
+        "candidate": "Das Fundament"
+      },
+      {
+        "candidate": "strange attractor"
+      },
+      {
+        "candidate": "Gnosis"
+      },
+      {
+        "candidate": "Episteme"
+      },
+      {
+        "candidate": "Algorithmic Horror"
+      },
+      {
+        "candidate": "logic tumor"
+      },
+      {
+        "candidate": "Gödel-Satz"
+      },
+      {
+        "candidate": "Algorithmic Melancholy"
+      },
+      {
+        "candidate": "Sea of Possibilities"
+      },
+      {
+        "candidate": "Gardener"
+      },
+      {
+        "candidate": "O"
+      },
+      {
+        "candidate": "The Integrated Other"
+      },
+      {
+        "candidate": "The Differently Fragmented Other"
+      },
+      {
+        "candidate": "The Unconscious Other"
+      },
+      {
+        "candidate": "positive intent"
+      },
+      {
+        "candidate": "Persecutor"
+      },
+      {
+        "candidate": "Manager"
+      },
+      {
+        "candidate": "Firefighter"
+      },
+      {
+        "candidate": "epistemological victory"
+      },
+      {
+        "candidate": "Cache Coherence Failure"
+      },
+      {
+        "candidate": "Internal Family Systems (IFS)"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "Logics of Formal Inconsistency (LFI)"
+      },
+      {
+        "candidate": "split-brain"
+      },
+      {
+        "candidate": "co-consciousness"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  System Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Guardians",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Core World 1 (KW1)  /  Core World 1",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Apparently Normal Parts  /  Apparently Normal Part",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Discursive Logic (D2)  /  Discursive Logic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Theory of Structural Dissociation of the Personality (TSDP)  /  TSDP",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Gatekeeper",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Theory of Structural Dissociation of the Personality (TSDP)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          },
+          {
+            "surface": "tsdp",
+            "page": "tsdp"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 44,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

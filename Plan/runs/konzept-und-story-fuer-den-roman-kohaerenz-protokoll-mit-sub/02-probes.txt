@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      128
+  backslash escapes      0
+  typographic marks      10
+  ascii quotes           38
+
+# inflection families -- one term, several surfaces
+  kontr    Kontrolle, Kontrollmechanismen, Kontrollstrukturen, Kontrollverlust, Kontrollversuche
+  syste    System, Systemanalyse, Systemgrenzen, Systeminstabilität, Systems
+  antei    Anteil, Anteile, Anteilen, Anteils
+  diese    Diese, Dieser, Dieses
+  entro    Entropic, Entropie, Entropiemanagement
+  erinn    Erinnerungen, Erinnerungsfetzen, Erinnerungsfragmente
+  inter    Interaktionen, Intervention, Interventionen
+  konfl    Konflikt, Konflikte, Konflikts
+  konze    Konzept, Konzepte, Konzepten
+  parad    Paradoxien, Paradoxon, Paradoxons
+  wächt    Wächter, Wächtern, Wächters
+  überw    Überwachung, Überwelt, Überwindung
+  abweh    Abwehr, Abwehrmechanismen
+  alter    Alternative, Alters
+  analy    Analyse, Analytiker
+  bewus    Bewusstsein, Bewusstwerdung
+  blind    Blinde, Blindheit
+  domän    Domäne, Domänen
+  elixi    Elixier, Elixiers
+  emoti    Emotionalität, Emotionen
+  entit    Entität, Entitäten
+  entsc    Entscheidung, Entschlüsselung
+  erzäh    Erzähler, Erzählung
+  folge    Folge, Folgenden
+  frage    Frage, Fragen
+
+# substring pairs -- never one term, often merged by accident
+  Code < Quellcode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Seine
+  Eine < Meilensteine
+  Ende < Folgenden
+  Form < Informationen
+  Form < Transformation
+  Hero < Heroine
+  Kael < Kaels
+  Kern < Kernwelten
+  Kern < Kernparadoxon
+  Kiko < Kikos
+  Meta < Metapher
+  Plan < Plans
+  Riss < Risse
+  Sein < Seine
+  Sein < Bewusstsein

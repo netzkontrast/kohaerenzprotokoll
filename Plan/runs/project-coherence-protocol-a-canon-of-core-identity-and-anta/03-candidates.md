@@ -1,0 +1,71 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is English prose with German names in quotation marks. Terms are listed as written. The roster and the Kernwelt table write names in escaped bold. Selene's type reads "Integrator?" with a question mark.
+
+- Coherence Protocol
+- System Kael
+- Kael
+- AEGIS
+- Guardians
+- Kernwelten
+- Core Worlds
+- Core World (Kernwelt)
+- Kernwelt
+- KW1: Logos-Prime
+- KW2: Mnemosyne-Archipel
+- KW3: Cerberus-Labyrinth
+- KW4: Kairos-Potentialis
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kairos
+- Sophia
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Anteil (Alter)
+- Typ (ANP/EP)
+- ANP/EP-Mix
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- phobia between parts
+- functional multiplicity
+- Original Self
+- Ursprungs-Ich
+- Genesis-Krise
+- Juna/V
+- Einsamkeit
+- Sehnsucht
+- algorithmic dismemberment
+- Coherence Imperative
+- Aegis is what Aegis prevents itself from not being
+- algorithmic melancholy
+- Algorithmic Melancholy
+- living Gödel-Satz
+- Paraconsistent Transformation
+- Wächter-Zwiespalt
+- Guardian's Dilemma
+- Construct City
+- The Fortress
+- Integrator?
+
+## lens
+- Theory of Tertiary Structural Dissociation of the Personality
+- TSDP
+- Coherence Theory of Truth
+- Correspondence Truth
+- autopoietic, operationally closed system

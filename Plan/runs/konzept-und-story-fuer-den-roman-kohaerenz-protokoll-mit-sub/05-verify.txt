@@ -1,0 +1,192 @@
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Subplot"
+whole word, case-sensitive     80
+whole word, case-insensitive   80
+including compounds            88
+
+`Subplot` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#80]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "könnte"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`könnte` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#6]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "möglicherweise"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`möglicherweise` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#4]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "vielleicht"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`vielleicht` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#2]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Selene"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Selene` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#0]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Funktionale Multiplizität"
+whole word, case-sensitive     0
+whole word, case-insensitive   4
+including compounds            0
+
+`Funktionale Multiplizität` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#0]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "funktionale Multiplizität"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`funktionale Multiplizität` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#4]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "funktionaler Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`funktionaler Multiplizität` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#2]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Funktionalen Multiplizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   5
+including compounds            3
+
+`Funktionalen Multiplizität` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#3]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Guardians"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Guardians` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#7]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Wächter"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Wächter` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#4]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Kapitel"
+whole word, case-sensitive     44
+whole word, case-insensitive   44
+including compounds            45
+
+`Kapitel` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#44]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "AEGIS"
+whole word, case-sensitive     52
+whole word, case-insensitive   52
+including compounds            53
+
+`AEGIS` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#52]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Kernwelten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kernwelten` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#5]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Überwelt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Überwelt` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#6]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Externe Ebene"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Externe Ebene` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#7]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "KW1"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`KW1` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#8]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "KW2"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`KW2` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#5]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "KW3"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW3` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#6]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "EPs"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`EPs` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#5]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Kiko"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kiko` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#2]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#1]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#1]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Selenes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selenes` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#1]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "LogOS"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`LogOS` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#4]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Mnemosyne"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Mnemosyne` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#4]
+
+$ python3 scripts/read.py konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub --count "Kernparadoxon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernparadoxon` ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:#1]
+$ grep -n '?' Sources/drive/konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md | cut -c1-20  (six question marks: L37 one, L38 three, L50 two, per the read of those lines)
+37:  - **Kapitel 11:
+38:  - **Kapitel 12:
+50:  - **Kapitel 19:

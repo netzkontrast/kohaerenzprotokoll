@@ -250,3 +250,43 @@ Where it stands: a new bearer of 734 in a proposal, recorded before the author's
 Scene 1.2 (Logos-Prime, Transit Corridor, L37–L52): „A Guardian, designated Unit 734, detains him for a“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L42] `random coherence check`. The unit stops Kael, „its voice clinical and impersonal, its presence an embodiment of AEGIS's oppressive control“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L45], and registers his emotional noise „as an anomaly and escalates its protocol, demanding clarification with increased scrutiny“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L49]. The number: `734` ^[kohaerenz-protokoll-scene-by-scene-outline.md:#3].
 
 Stands as a new bearer of 734 in a plan of 2025-10-15, a Guardian, recorded before the author's answers and changing neither the question nor its status.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline has Kael present himself to AEGIS as `Komponente 734` and says no more of what the number names.**
+
+In the chapter of the Schein-Verhalten: „Kael präsentiert sich gegenüber AEGIS als fehlerfrei funktionierende“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L767] component. The number `734` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#1] stands once in the document; its line ties it to no dwelling.
+
+Stands: it takes the designation reading, Komponente as what Kael shows AEGIS, and leaves the question of what 734 labels in the world open.
+
+## 2026-10-06 — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework
+
+**The plot framework gives 734 to an AEGIS component: it plans Component 734 as a point of view.**
+
+Story 14's POV is „Component 734 (AEGIS Core Logic).“ ^[plot-generation-framework-for-the-coherence-protocol.md:L96], „the AEGIS component that was once its“ ^[plot-generation-framework-for-the-coherence-protocol.md:L97] Ursprungs-Ich, and Chapter 14 plans „Shift the POV to AEGIS's core logic (Component 734) as it observes Kael's new integration“ ^[plot-generation-framework-for-the-coherence-protocol.md:L255]. The document names no dwelling and no designation of Kael's with 734.
+
+Where it stands: one more document that makes 734 a component of AEGIS, as an outline's proposal; the question stays open.
+
+## 2026-10-06 — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture
+
+**The dual plot architecture proposes a story about 'Component 734' as the minimal I-fragment within the Nichts Rauschen before AEGIS functionalized it.**
+
+L148 offers a story „A story from the first-person perspective of the minimal“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L148] I-fragment, „detailing its terrifying experience of fragmentation during the“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L148] Separation Protocol. The line names the number as the name the fragment received once functionalized within AEGIS.
+
+Stands as a reading of 734 as an I-fragment, from a design of 2025-11-03, recorded and not applied; the question keeps its status.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto makes Component 734 the functional form of the antecedent consciousness after the Great Realignment; it names no dwelling.**
+
+It declares: „The antecedent consciousness was transformed into an objective, functional component designated as Component 734“ ^[aegis-manifest-genesis-krise-reboot.md:L19], following the dismemberment of the original self, which it says „was systematically dismembered“ ^[aegis-manifest-genesis-krise-reboot.md:L19]. `734` ^[aegis-manifest-genesis-krise-reboot.md:#1] stands once; `Wohneinheit` ^[aegis-manifest-genesis-krise-reboot.md:#0].
+
+Where it stands in the record's own terms: a component, not an address; it does not say what the number labels in the world beyond that, and the question stays open; recorded, not applied.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**The log, as AEGIS, uses 734 as a component designation of the person.**
+
+> „designated internally as Component 734 (known externally as Kael)“ ^[aegis-genesis-crisis-self-definition.md:L177]
+
+Where it stands: the log gives the Komponente sense (Kael's designation) in AEGIS's voice; it is a reading for Q7's first sense and settles nothing, the question stays as recorded.

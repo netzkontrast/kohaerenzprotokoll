@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 32
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,18 @@ Position: „Funktionale Multiplizität / Cache Kohärenz (Konflikt)“ ^[kohaer
 - Where: AEGIS transfers Kael to „MCL-SIGMA-3, KOORDINATIONS-HUB ZETA.“ ^[kohaerenz-protokoll.md:L1774]
 - Story: a new assignment, „PROJEKT: KOOPERATIVE DATENSTROM-INTEGRATION (KDSI-GAMMA-7)“ ^[kohaerenz-protokoll.md:L1772], leading a team of three units toward a shared protocol, „AUFGABE: LEITUNG EINES KOOPERATIVEN TEAMS (EINHEITEN 734-ALPHA, 888-BETA, 101-GAMMA)“ ^[kohaerenz-protokoll.md:L1778], timed at „ZEITRAHMEN: 36.0 STANDARDSTUNDEN.“ ^[kohaerenz-protokoll.md:L1782] — its closing report Kapitel 23 names again.
 - Voice: third person on Kael; the system directive in capitals, the three units in dialogue, his own Anteile in italics.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Der Fehler in der Maschine
+
+- The concept with subplots titles Kapitel 17 „Der Fehler in der Maschine“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L48]. It plans: „Kael (Lex/Argus) identifiziert ein zentrales AEGIS-Paradoxon“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L48] — a plan, not the chapter as written.
+
+## Reading — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan — the paradox uncovered, Kairos and Sophia introduced
+
+- The subplot plan puts two of its arcs into Kap. 17: the „Aufdeckung von AEGIS' Kern-Paradoxon“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L75] in Lex' analysis, and the „Einführung von Kairos & Sophia (KW4)“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134] in the Guardians' arc — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — Meta: Konfrontation mit dem System-Paradoxon/Fehler/der Kernlüge
+
+- The subplot catalogue analyses Kapitel 17 under the phase „Konfrontation mit dem System-Paradoxon/Fehler/der Kernlüge“ ^[subplot-entwicklung-fuer-romanstruktur.md:L474] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Garten der Möglichkeiten: Erkundung von
 
@@ -93,6 +105,10 @@ Position: the scene outline plans the scene at „2.4 - AEGIS Core Logic Space�
 
 - The scene outline plans Chapter 17 as „A Paradox Becomes Visible“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L227], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Gödel Gambit
+
+- The plot framework titles Chapter 17 „The Gödel Gambit“ ^[plot-generation-framework-for-the-coherence-protocol.md:L258]. It commissions: „Depict Kael performing an action that is true but unprovable by AEGIS's logic, demonstrating that his integration is now having a tangible, system-destabilizing external“ ^[plot-generation-framework-for-the-coherence-protocol.md:L258] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Entropy as a weapon
 
 Title: „Entropie als Waffe“ ^[romanstruktur-und-philosophische-einleitung.md:L160]
@@ -109,6 +125,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Die Randbereiche der 
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Juna/V, Selene (Self)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L193]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael findet einen rauschfreien Nexus“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195] and „Hier offenbart sich Juna in ihrer wahren Form“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L195]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Entropie-Management
+
+- The plot synthesis plans Kapitel 17 as „Entropie-Management“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L93], set in `Abfallwelten (Entropy)`, with the focus on Kael, Rhys. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Riss im Schild
 
@@ -160,6 +180,10 @@ Title: „Der Mnemosyne-Verrat“ ^[kohaerenz-protokoll-kapitel-outline-generier
 - Story: the dual-storyform outline plans „Mnemosyne verzerrt Kaels Erinnerungen an Juna“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L201]
 - Storyforms: `Storyform B` (`IC: Mind/Conscious`): „Juna muss gegen diese falsche Repräsentation ankämpfen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L203]; `Storyform A` (`IC: Universe/Past`): „Sie bleibt die unveränderliche Witness-Funktion im Hintergrund“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L204]
 - Scene and pacing: `Szenen-Keim`: „Ein Spiegelkabinett“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L205]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Öffnung des Kanals
+
+- The 39-chapter outline titles Kapitel 17 „Öffnung des Kanals“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L653]. It plans: „Silas nutzt ein Zeitfenster, um den Zugang zu Juna zu öffnen, was eine nicht-lokale Verbindung tief außerhalb der AEGIS-Kontrolle etabliert“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L655]; POV Silas / Kael (L661) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

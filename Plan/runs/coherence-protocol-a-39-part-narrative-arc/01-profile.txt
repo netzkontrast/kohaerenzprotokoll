@@ -1,0 +1,14 @@
+# coherence-protocol-a-39-part-narrative-arc
+  lines                78  (frontmatter ends at 9)
+  body words           2758
+  headings             4   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    20   ascii quotes 104
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    46
+  repeated labels      none
+  longest line         683 chars
+

@@ -1,0 +1,823 @@
+{
+  "document": "roman-refactoring-kohaerenz-und-charakterentwicklung",
+  "drive_id": "1smMGBTWAarYWuqTEmq84BkAyZf8dXrGfjbqfqptf8WA",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        13,
+        128,
+        158
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        21,
+        25,
+        27
+      ]
+    },
+    "DKT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        31
+      ]
+    },
+    "AEGIS": {
+      "n": 41,
+      "n_including_compounds": 41,
+      "lines": [
+        27,
+        29,
+        31,
+        33,
+        37,
+        39,
+        54,
+        55,
+        58,
+        59,
+        60,
+        66,
+        68,
+        76,
+        80,
+        84,
+        88,
+        94,
+        104,
+        106,
+        114,
+        116,
+        120,
+        126
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Juna": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        27,
+        31,
+        33,
+        80,
+        84,
+        100,
+        104,
+        106,
+        116
+      ]
+    },
+    "Anomalie Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        31
+      ]
+    },
+    "Kael": {
+      "n": 43,
+      "n_including_compounds": 57,
+      "lines": [
+        15,
+        21,
+        29,
+        33,
+        35,
+        37,
+        39,
+        41,
+        51,
+        52,
+        58,
+        61,
+        66,
+        76,
+        80,
+        84,
+        88,
+        92,
+        94,
+        98,
+        100,
+        104,
+        106,
+        114,
+        116,
+        120,
+        122,
+        126,
+        128,
+        134
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        41,
+        51
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        54,
+        60,
+        72,
+        110,
+        138
+      ]
+    },
+    "Überwelt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        86,
+        88,
+        100,
+        110
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "LogOS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        90,
+        92,
+        94
+      ]
+    },
+    "Mnemosyne": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        96,
+        98,
+        100
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Tertiären Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        51,
+        132
+      ]
+    },
+    "Phänomenales Selbstmodell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "PSM": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        98
+      ]
+    },
+    "Anscheinend Normale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "ANPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        84
+      ]
+    },
+    "Emotionale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "EPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        41,
+        61,
+        80,
+        92,
+        98,
+        100
+      ]
+    },
+    "Cache-Inkohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        98
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        53,
+        92,
+        106
+      ]
+    },
+    "Nyx": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        54,
+        68,
+        126
+      ]
+    },
+    "Lex": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        55,
+        68,
+        76,
+        126,
+        136
+      ]
+    },
+    "Moros": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        56,
+        60,
+        116,
+        136
+      ]
+    },
+    "Kiko": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        57,
+        76,
+        98,
+        116,
+        126
+      ]
+    },
+    "Lia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        58,
+        98
+      ]
+    },
+    "Isabelle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59
+      ]
+    },
+    "Rhys": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        60,
+        100,
+        126
+      ]
+    },
+    "Alex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61
+      ]
+    },
+    "Argus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        92
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Final Fusion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        126
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        108,
+        124,
+        126
+      ]
+    },
+    "External Awakening": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        78,
+        80,
+        120
+      ]
+    },
+    "Russellschen Trümmer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Erwachen-Zyklus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Jenseits des Ereignishorizonts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Verschränkungs-Inseln": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        104
+      ]
+    },
+    "Entanglement Islands": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        104
+      ]
+    },
+    "Replica Wormholes": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        104
+      ]
+    },
+    "Großen Faktum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Große Faktum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Schiffbruch des Denkens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "existenzielle Erschütterung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Existential Shattering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Architectural Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Integratorin": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        106
+      ]
+    },
+    "Wächter": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        33,
+        92,
+        100
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        31,
+        92,
+        126
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        126
+      ]
+    },
+    "Slingshot-Arguments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Slingshot-Argument": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        94
+      ]
+    },
+    "Protokollsatzdebatte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Konstatierungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Schiffsmetapher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78,
+        80
+      ]
+    },
+    "Kachelproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Wang-Kacheln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Halteproblem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        76
+      ]
+    },
+    "Gödelsche Unvollständigkeitssatz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        128
+      ]
+    },
+    "Bekenstein-Schranke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Hubble-Volumen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Big Rip": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        60,
+        114
+      ]
+    },
+    "Big Freeze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        114
+      ]
+    },
+    "Page-Wootters-Mechanismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        116
+      ]
+    },
+    "Wheeler-DeWitt-Gleichung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Quantenuhr": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Platonia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Zeitkapseln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Grenzsituation": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        82,
+        84
+      ]
+    },
+    "Grenzsituationen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        84
+      ]
+    },
+    "Sein zum Tode": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        118,
+        122
+      ]
+    },
+    "Vorlaufen in den Tod": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Ayin": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118,
+        120
+      ]
+    },
+    "Pauli-Ausschlussprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Zeno-Effekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Planck-Skala": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Hawking-Strahlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Ultrafinitismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Theorem von Paris-Harrington": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Satz von Goodstein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Peano-Arithmetik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Polyphonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "polyphonen Narration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Mutuale Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Meinigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Epigenetik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    }
+  }
+}

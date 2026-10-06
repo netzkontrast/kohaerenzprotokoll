@@ -1,0 +1,126 @@
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Ich empfehle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ich empfehle` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "empfehle ich"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`empfehle ich` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Ich schlage"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ich schlage` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Refactoring Akt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Refactoring Akt` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#3]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Zugriff am Februar 26, 2026"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Zugriff am Februar 26, 2026` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#14]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Kapitel"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`Kapitel` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#11]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Kaels"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Kaels` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#14]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Kollaps-Kernels"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kollaps-Kernels` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Junas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Junas` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Wächter-Algorithmen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wächter-Algorithmen` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Big Rips"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Big Rips` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Lexik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lexik` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "TSDP-Typ"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP-Typ` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "TSDP-Traumastruktur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP-Traumastruktur` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Slingshot-Arguments"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Slingshot-Arguments` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#1]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Grenzsituationen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Grenzsituationen` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#2]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Cache-Inkohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Cache-Inkohärenz` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#2]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Kohärenz Protokoll"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenz Protokoll` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#4]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Kälte"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kälte` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#2]
+$ python3 scripts/read.py roman-refactoring-kohaerenz-und-charakterentwicklung --count "Final Fusion"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Final Fusion` ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:#2]
+$ grep -n "?" Sources/drive/roman-refactoring-kohaerenz-und-charakterentwicklung.md | cut -c1-12
+33:Um diesen
+68:Um diese 
+136:Darüber
+138:Lassen S
+stance_marker_count 3 = 1 + 1 + 1 (Ich empfehle, empfehle ich, Ich schlage)

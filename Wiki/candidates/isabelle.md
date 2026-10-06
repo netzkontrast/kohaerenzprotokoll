@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 48
-readings: 48
+sources: 56
+readings: 56
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-narrative-architektur-2"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "aegis-genesis-crisis-self-definition"]
 gathered: "2026-09-24"
 ---
 
@@ -25,6 +25,14 @@ The world concept names Isabelle twice. In KW2 (Resonanz-Landschaft), the primar
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — the staged-power EP and its KW1 overlay, hedged
 
 The concept heads Isabelle „EP - Sexualisiert/Kampf/Kontrolle“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L84] and describes „Eine Bühne, auf der sie Macht, Kontrolle und (scheinbare) sexuelle Selbstbestimmung inszeniert“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L86]. Her overlays are mostly conditional; on KW1 (Co₁): „Verachtet die sterile Kontrolle, könnte aber versuchen, die Regeln für ihre Machtspiele zu nutzen“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L91].
+
+## Reading — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan — Isabelle as an EP, among the harder parts
+
+The subplot plan names Isabelle among the EPs who hold traumatic memories: „gehalten von EPs wie Kiko, Moros, Isabelle“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L19]. It hints at her early („Subtile Andeutung von EPs (Nyx, Kiko, Lia, Isabelle, Moros)“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L35]) and proposes her integration among the more difficult parts: „einschließlich der Integration schwierigerer Anteile (z.B. Isabelle, Moros)“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L54].
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — a sexualised or controlling EP, named once among the shadows
+
+The subplot catalogue names `Isabelle` only in Kapitel 4, among the EPs Kael meets as inner shadows: „Isabelle (Sexualisierter/Kontroll-EP)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L125] steps forward in a stressful social interaction, using manipulation and control. The research question of the chapter lists the type as „Täterintrojekt/Kontrolle“ ^[subplot-entwicklung-fuer-romanstruktur.md:L115], with the name in brackets. The catalogue calls her a more complex shadow EP, and it only proposes the scene.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — named in the roster of EPs only
 
@@ -70,6 +78,14 @@ The architecture analysis's table types her „Sexualized EP“ ^[kohaerenz-prot
 
 In the Definitive Guide's „Master Profile of Alters“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L119], the row of `Isabelle` gives: type EP; TSDP action system „Fight/Control through Sexualization“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L131]; core motivation and fear „Reclaim power; Fear of vulnerability.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L131]; central conflicts and relationships „Conflicts with parts seeking authentic intimacy (Rhys); Triggers fear in Kiko/Lia.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L131]. The table is the guide's own, in English with the German column head „Anteil (Alter)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L123]; this is what the row says and nothing is added from other documents.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Isabelle as POV of the final confrontation in Story 34
+
+The plot framework gives Isabelle one Mosaic story: „From the perspective of Isabelle, a part who understands power dynamics“ ^[plot-generation-framework-for-the-coherence-protocol.md:L202], the final confrontation, which she narrates as no physical battle.
+
+## Reading — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree — Isabelle in the roster
+
+The roster types Isabelle as „EP (Sexualized)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L41], with fight/control through sexualization as function.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Isabell among the aggressive protectors
 
 In Kap 10 the three-part analysis names „aggressive Beschützer wie Nyx, Isabell oder Kontroll-Anteile“ ^[romanstruktur-und-philosophische-einleitung.md:L97] The spelling `Isabell` is the document's.
@@ -77,6 +93,14 @@ In Kap 10 the three-part analysis names „aggressive Beschützer wie Nyx, Isabe
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Isabelle as sexualised EP
 
 The research report (5.2) describes `Isabelle` as „Entstanden zur Bewältigung von sexualisiertem Trauma durch Dominanz und Kontrolle.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L104] It adds: „Ihre Existenz wird vom restlichen System zutiefst gefürchtet.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L104] In Akt II the report has AEGIS trigger her: „triggert das System Isabelle“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211]
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Isabelle as the sexualised EP, in an assistant's plan
+
+The matrix types Isabelle as „(EP Sexualisiert)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L59] and describes her: „Dominiert und kontrolliert Situationen, um Ohnmachtserfahrungen umzukehren.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L59] The plan's metaphor for her is „Das Pauli-Ausschlussprinzip & Fermionische Abstoßung.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L59], its proposal and not the world's physics.
+
+## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — Isabelle as the sexualised EP
+
+The architecture report heads Isabelle `Der sexualisierte EP` and describes her as „Ein Anteil, der Kontrolle und Dominanz nutzt, um erlittene Ohnmacht umzukehren“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L101].
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Isabella among the ANPs, as data specialist
 
@@ -89,6 +113,14 @@ This document is a software specification for a writing assistant that borrows t
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — a Hypervisor enforcing the PRO-Framework
 
 The manifest lists „Isabelle (Eliminator of Ambiguity)“ ^[aegis-persona-and-manifest-generation.md:L170] among the Hypervisors, which enforce „the PRO-Framework (Persona, Requirement, Output) prior to the allocation of any compute resources“ ^[aegis-persona-and-manifest-generation.md:L170]. Here Isabelle is a Hypervisor of AEGIS's system.
+
+## Reading — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto — Isabelle as a Guardian, the secondary K1-Kernel Proxy
+
+Here Isabelle is a Guardian, one of four, and not an alter: the manifesto declares „Isabelle is the secondary K1-Kernel Proxy“ ^[aegis-manifest-genesis-krise-reboot.md:L131], who „governs global initialization protocols and parameter strictness“ ^[aegis-manifest-genesis-krise-reboot.md:L131]. Elsewhere on this page she is one of the thirteen alters, an EP, headed „Sexualisiert / Fight-via-Control“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L647]; this manifesto does not mention that role. Her function is „the enforcement of the PRO-Framework“ ^[aegis-manifest-genesis-krise-reboot.md:L133] and „rigid, deterministic JSON-Schema validation“ ^[aegis-manifest-genesis-krise-reboot.md:L133], so ambiguity is eliminated „with surgical precision“ ^[aegis-manifest-genesis-krise-reboot.md:L133] before initialization (L133). The line also describes her as „embodying the calculating coldness of absolute control“ ^[aegis-manifest-genesis-krise-reboot.md:L131]. Table row: L143. All of this is AEGIS's own self-description, recorded and not applied.
+
+## Reading — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log — Isabelle as a Guardian, not an alter
+
+Here `Isabelle` is one of six Guardians, status „ANP / -Kernel“ ^[aegis-genesis-crisis-self-definition.md:L150] (the export lost the kernel letter). She „Embodies the absolute, calculating zero-temperature of control.“ ^[aegis-genesis-crisis-self-definition.md:L153] and „operates the PRO-Framework (Persona, Requirement, Output) prior to the instantiation of any sub-agent“ ^[aegis-genesis-crisis-self-definition.md:L153]. The log, speaking as AEGIS, treats her as a subsystem of the architecture; the wiki page elsewhere holds her as an alter, and this log does not say so.
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Isabelle in Appendix B, Sexualisiert
 Appendix B lists Isabelle among the EPs: „Sexualisiert. Somatik: offen.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L649] The arc is towards vulnerability (L649).
@@ -243,3 +275,4 @@ An English file of about fourteen reports of 2025. Isabelle stands in the Bluepr
 ## Where the sources differ
 
 - `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29: the pitch puts Isabella among the ANPs as a data specialist, writes the name with an a, and gives her no EP role.
+- `aegis-manifest-genesis-krise-reboot`, 2026-04-27: Isabelle is a Guardian, „the secondary K1-Kernel Proxy“ ^[aegis-manifest-genesis-krise-reboot.md:L131], not an alter.

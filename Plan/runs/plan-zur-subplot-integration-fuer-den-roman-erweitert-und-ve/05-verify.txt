@@ -1,0 +1,154 @@
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Einführung"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Einführung` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#13]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Entwicklung"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            22
+
+`Entwicklung` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#20]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Höhepunkt/Auflösung"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Höhepunkt/Auflösung` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#13]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Abschluss"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Abschluss` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#6]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Vertieft"
+whole word, case-sensitive     9
+whole word, case-insensitive   11
+including compounds            11
+
+`Vertieft` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#9]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Kap."
+whole word, case-sensitive     140
+whole word, case-insensitive   140
+including compounds            140
+
+`Kap.` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#140]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "könnte"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            24
+
+`könnte` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#18]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "könnten"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`könnten` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#6]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "möglicherweise"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`möglicherweise` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#11]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "TSDP"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`TSDP` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#4]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Elixier"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Elixier` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#4]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Paradoxon der Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paradoxon der Fehlausgerichteten Kohärenz` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#2]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Keine direkte Rolle erwartet"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Keine direkte Rolle erwartet` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#2]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Blinden Flecken"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Blinden Flecken` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#5]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "EICs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EICs` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#2]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "BPoF"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`BPoF` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#1]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Bostroms Argument"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Bostroms Argument` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#2]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Paradoxon X"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Paradoxon X` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#5]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Externe Ebene"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Externe Ebene` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#8]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Externen Ebene"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Externen Ebene` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#6]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Ko-Bewusstheit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Ko-Bewusstheit` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#3]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Ko-Bewusstsein"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ko-Bewusstsein` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#1]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Guardians"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Guardians` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#12]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Wächter"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Wächter` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#5]
+$ read.py plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve --count "Funktionalen Multiplizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`Funktionalen Multiplizität` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:#3]
+stance_marker_count 61 = Vertieft 9 + Einführung 13 + Entwicklung 20 + Höhepunkt/Auflösung 13 + Abschluss 6 (case-sensitive whole word)
+Absence: Funktionale Multiplizität
+NOT IN THIS DOCUMENT, on any single line. Nearest:
+  L45  60% in common  - Entwicklung (Kap. 14-25): Die innere Arbeit wird fortgesetzt, nun aber im Kontext des Verständnisses von AEG…

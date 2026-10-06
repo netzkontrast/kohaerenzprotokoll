@@ -1,0 +1,323 @@
+{
+  "document": "roman-outline-1-13-fuer-kohaerenz-protokoll",
+  "drive_id": "1LaN0MSyOS_HxpztgZzshpMo4XJ20Bc-SAvdGSWpMjYs",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 37,
+  "backslash_escapes": 123,
+  "typographic_marks": 45,
+  "ascii_quotes": 128,
+  "inflection_families": {
+    "kommu": [
+      "Kommunikation",
+      "Kommunikations",
+      "Kommunikationsbarrieren",
+      "Kommunikationsblockaden",
+      "Kommunikationskanal",
+      "Kommunikationsleitungen",
+      "Kommunikationsphase",
+      "Kommunikationsversuche",
+      "Kommunikationsversuchs",
+      "Kommunikationszusammenbruch"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstentfremdung",
+      "Selbstgefühl",
+      "Selbstreflexion",
+      "Selbstsabotage",
+      "Selbsttäuschung",
+      "Selbstvertrauen",
+      "Selbstvertrauens",
+      "Selbstwahrnehmung",
+      "Selbstzweifel"
+    ],
+    "syste": [
+      "System",
+      "Systematische",
+      "Systeme",
+      "Systementwicklung",
+      "Systemfehler",
+      "Systemgrenze",
+      "Systeminstabilität",
+      "Systemische",
+      "Systems",
+      "Systemängste"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations",
+      "Integrationsaufgabe",
+      "Integrationsbemühungen",
+      "Integrationsprozess",
+      "Integrationsversuch",
+      "Integrationsversuche",
+      "Integrationsversuchen",
+      "Integrative"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interesse",
+      "Interface",
+      "Internal",
+      "Interne",
+      "Interner",
+      "Internet",
+      "Intervention"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrfähigkeiten",
+      "Abwehrhaltung",
+      "Abwehrkräfte",
+      "Abwehrmaßnahmen",
+      "Abwehrmechanismen",
+      "Abwehrmechanismus",
+      "Abwehrreaktionen"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialogbeginns",
+      "Dialogfetzen",
+      "Dialoglastig",
+      "Dialogphilosophie",
+      "Dialogs",
+      "Dialogue",
+      "Dialogversuche"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollkampf",
+      "Kontrollmechanismen",
+      "Kontrollmethoden",
+      "Kontrollstrategie",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstanden",
+      "Verständigung",
+      "Verständnis",
+      "Verständnisses",
+      "Verstärken",
+      "Verstärkt",
+      "Verstärkung"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfetzen",
+      "Erinnerungsfragmente",
+      "Erinnerungsfragmenten",
+      "Erinnerungsorte",
+      "Erinnerungssequenzen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktbewältigung",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktmomenten",
+      "Konfliktmustern",
+      "Konflikts"
+    ],
+    "manip": [
+      "Manipulation",
+      "Manipulationen",
+      "Manipulationsstrategie",
+      "Manipulationstechnik",
+      "Manipulationstechniken",
+      "Manipulatorin",
+      "Manipulierbarkeit"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychoanalyse",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbole",
+      "Symbolik",
+      "Symbolische",
+      "Symbolisieren",
+      "Symbolisiert",
+      "Symbols"
+    ],
+    "vermi": [
+      "Vermittler",
+      "Vermittlung",
+      "Vermittlungsbemühungen",
+      "Vermittlungsinstanz",
+      "Vermittlungsszenen",
+      "Vermittlungsversuch",
+      "Vermittlungsversuche"
+    ],
+    "exist": [
+      "Existence",
+      "Existentialism",
+      "Existentialismus",
+      "Existenz",
+      "Existenzielle",
+      "Existierens"
+    ],
+    "haupt": [
+      "Haupt",
+      "Haupthindernis",
+      "Hauptkonflikts",
+      "Hauptquelle",
+      "Hauptsächlich",
+      "Hauptziel"
+    ],
+    "philo": [
+      "Philosopher",
+      "Philosophical",
+      "Philosophie",
+      "Philosophische",
+      "Philosophischer",
+      "Philosophy"
+    ],
+    "reali": [
+      "Realisierung",
+      "Reality",
+      "Realität",
+      "Realitätsanker",
+      "Realitätsbezugs",
+      "Realitätswahrnehmung"
+    ],
+    "unter": [
+      "Unterbewusstseins",
+      "Unterdrückung",
+      "Untergrabung",
+      "Unterströmungen",
+      "Untersucht",
+      "Untersuchung"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungsanalyse",
+      "Bedrohungshinweise",
+      "Bedrohungswahrnehmung"
+    ],
+    "besch": [
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschwichtigung",
+      "Beschützer",
+      "Beschützers"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungsarbeit",
+      "Beziehungsdynamik",
+      "Beziehungsdynamiken"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionalität",
+      "Emotionen"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungslähmung",
+      "Entscheidungsmoment",
+      "Entscheidungsprozesses",
+      "Entschlossenheit"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Arch",
+      "ARCHIVES"
+    ],
+    [
+      "Arch",
+      "Archetyp"
+    ],
+    [
+      "Arch",
+      "Archipel"
+    ],
+    [
+      "Arch",
+      "Research"
+    ],
+    [
+      "Arch",
+      "Archipels"
+    ],
+    [
+      "Arch",
+      "Hierarchy"
+    ],
+    [
+      "Arch",
+      "Archetypes"
+    ],
+    [
+      "Arch",
+      "ResearchGate"
+    ],
+    [
+      "Back",
+      "Flashback"
+    ],
+    [
+      "Back",
+      "Flashbacks"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Best",
+      "Bestrafung"
+    ],
+    [
+      "Best",
+      "Bestätigung"
+    ],
+    [
+      "Blog",
+      "Blogs"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Book",
+      "Bookshelf"
+    ],
+    [
+      "Book",
+      "Bookshelves"
+    ],
+    [
+      "Care",
+      "Scares"
+    ],
+    [
+      "Care",
+      "Caregiver"
+    ],
+    [
+      "Care",
+      "Healthcare"
+    ]
+  ]
+}

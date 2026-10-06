@@ -1,0 +1,140 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is a 39-chapter outline in which every chapter repeats one template (Worum geht es, Eingeführte Konzepte, Was passiert, POV, Foreshadowing / Pacing / Reader-Substrate, two Encoding blocks, Quellen pro Befund, Widersprüche aufgetaucht, Such-Parameter-Historie, Confidence), followed by appendices A to H. The numbered footnotes glued to words are references 1 to 5 at the end. The template labels are listed as the document's own marks. Terms inside the Eingeführte Konzepte lines are the document's own concept list for each chapter. Alter names in other lists (Appendix B) are rejected material, listed once. Some phrases that carry a comma or an ordinal are left out.
+
+- Kael
+- Juna
+- AEGIS
+- Mnemosyne
+- Lex
+- Alex
+- Rhys
+- Selene
+- Silas
+- Oblivion
+- Wir-Geflecht
+- Köln
+- Konstrukt-Stadt
+- Sektor 04
+- Mnemosyne-Archipel
+- Mnemosyne-Pol
+- Lösch-Pol
+- F3-Klärung
+- Erasure-Sweep
+- Erasure-Sweeps
+- Finaler Erasure-Sweep
+- Fokussierter Sweep
+- System-Auspuff
+- Amnesie-Terror
+- Universal Reboot
+- thermische Risse
+- Telefon-Stille
+- Phantom-Resonanz
+- Moonshine-Link
+- Trennungsprotokoll
+- Genesis-Lüge
+- Landauer-Hitze
+- Landauer-Limit
+- Bekenstein-Schranke
+- Pixelierung
+- Klaustrophobie der Architektur
+- Gödel-Eigenschaft
+- Gödel-Falsifikation
+- Witness-Funktion
+- Witness-Interferenz
+- Exklusions-Deskription
+- Exklusions-Paradoxon
+- Dialetheia
+- Lebende Dialetheia
+- Truth-Rotation
+- Algorithmische Melancholie
+- Heat-Spike
+- Vortex
+- Vortex-Korridor
+- Vortex-Beat-Zuordnung
+- Convergence
+- Pivot
+- ANP/EP-Drop
+- Post-Vortex
+- Das falsche Ende
+- Köder-Simulation
+- Universal Re-Connecting
+- Russellsche Trümmer
+- Ouroboros-Schluss
+- Ouroboros-Marker
+- funktionale Multiplizität
+- Komponente 734
+- Kudzu-Wachstum
+- Kudzu
+- LogOS
+- Funktionale Isolation
+- hypotaktische Syntax
+- Hypoventilation
+- Hypertonus
+- Bruxismus
+- Freeze-Symptomatik
+- Täuschungs-Architektur
+- Kakophonie
+- Internal Self Helper
+- Anscheinend Normaler Anteil
+- 13-Alter-System
+- TSDP
+- Storyform A
+- Storyform B
+- Heuristics of Integration
+- Phoenix Collapse
+- Dual-Storyform
+- Driver-Trigger
+- Pivot-Marker
+- Reader-Substrate
+- Mosaik-Sprung
+- Polyphonie-Bruch
+- AEGIS-Linse
+- Juna-Linse
+- Leser-Linse
+- Parser-Linse
+- Ästhetik der Ohnmacht
+- Anatomie der Spaltung
+- Existenzielle Fusion
+- Worum geht es
+- Eingeführte Konzepte
+- Was passiert
+- Quellen pro Befund
+- Widersprüche aufgetaucht
+- Such-Parameter-Historie
+- Confidence
+- Arbeitstitel
+- Vorschlag
+- single-source
+- Pre-Synthesis Integrity Check
+- Kanon-Drift-Log
+- Kanon-Drift-Scan
+- Kanon-Drift-Check
+- Cross-Pollination Log
+- Widerspruchs-Register
+- Analytische Historie
+- Constraint Block
+- Source Triangulation
+- Contradiction Log
+- What Would Change My Mind
+- Adversarial Query Expansion
+- Pre-Commitments
+- Kanon-Trio
+- Kanon-Dok
+- Hidden-Items
+- Dekanonisiert
+- Cerberus
+- Prehension
+- Paraiyas
+- Pantheon
+
+## lens
+
+- Halteproblem
+- Universelle Turingmaschine
+- Iser-Mechanik
+- Śūnyatā
+- Wittgenstein
+- Parmenides
+- Dramatica
+- Ouroboros

@@ -1,0 +1,84 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Candidates of the Lokalitäten-Konzept, read L1 to L389. The document is a concept for the settings of the novel: six reality levels, seven key locations, narrative techniques, comparison works and further research tasks. Figures and places first, then the document's own terms, then the borrowed concepts under the lens heading. The titles of cited works (Inception, Westworld, Neuromancer, Silent Hill 2, Control, Disco Elysium) are left out by rule, as are phrases of the argument. The document writes the level names with a plain digit (KW1) and the table cells carry escaped asterisks. The key locations are headed in quotation marks, and the Inner Bunker stands in two forms (L155 Innerer, L230 Innere).
+
+- Kael
+- Juna
+- AEGIS
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kairos/Sophia
+- Alters
+- Index
+- Praetor
+- Nox
+- Echo
+- Flicker
+- Silas
+- Oblivion
+- Limina
+- Eos
+- Kern-Welten
+- Überwelt
+- Externe Ebene
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Kaels Initiale Wohneinheit
+- Vergessene Schrein
+- Innere Bunker
+- Innerer Bunker
+- Nexus-Knoten
+- Analyse-Hub
+- Koordinationszentrum
+- Narbe
+- Ankerpunkt
+- Ort des Kern-Traumas
+- AEGIS-Kern
+- Hotspots
+- Keimplasma
+- Quarantäne
+- Gefängniszellen
+- Datenknotenpunkt
+- Membran
+- universal reboot
+- Post-Reboot
+- Risse
+- Entropie
+- Zero-Trust
+- Systemdatei
+- Entropic Gatekeeper
+- Realitätsebenen
+- Traumlogik
+- Trauma-Landschaft
+- Dissoziativen Identitätsstörung
+- Insight 9
+- Insight 11
+
+## lens
+
+- Environmental Storytelling
+- Uncanny Valley
+- Brutalismus
+- Shannon-Entropie
+- Superposition
+- Verschränkung
+- Beobachtereffekt
+- Place Attachment
+- Sense of Place
+- Placelessness
+- Ortsbindung
+- Bachelard
+- Tufte
+- Lakoff/Johnson
+- Synästhesie
+- Gatekeeping

@@ -217,3 +217,43 @@ The world side, in the record's terms; the conflict stays open.
 The row opens „KW1: Logos-Prime / Konstrukt-Stadt“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96] and carries `LogOS` as guardian, the principle „Rationalization & Control (ANPs)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96] and the signature „Sterile, geometric, silent, cold“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L96]. `Konstrukt-Stadt` ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:#1] stands only here, as the second name of the first world beside three other worlds in the same table; the whole simulation is not named by it.
 
 Position 3's scale (KW1, with Logos-Prime); the record is decided by the author, 2026-09-24, KW1 only, and this entry changes nothing.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots writes the Konstrukt-Stadt as KW1 only.**
+
+„Kael (Host) erwacht in der Konstrukt-Stadt (KW1), desorientiert und mit Amnesie“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L27]. Kapitel 2 is titled „Echos in der Konstrukt-Stadt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], and there Lex tries to understand „die Regeln von KW1“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28]. KW2 and KW3 are the Resonanz-Landschaft and the Grenzfeste, so the city is one of three numbered worlds here.
+
+Stands with the record's positions 1 and 3 (KW1), dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept writes the Konstrukt-Stadt as KW1 only.**
+
+Its table row reads „KW1: Konstrukt-Stadt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186], and the key place „Kaels Wohneinheit (KW1)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L263] lies „innerhalb der Konstrukt-Stadt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L265]. The other worlds stand beside it as KW2 to KW4, so the city is one of four.
+
+Stands with the record's positions 1 and 3 (KW1), dated 2025-04-18; recorded, not applied.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept writes the Konstrukt-Stadt as KW1 only.**
+
+Its table row reads „KW1: Konstrukt-Stadt“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L119], its section „Kern-Welt 1: Konstrukt-Stadt (LogOS)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L126], and the first key place is set in „der Konstrukt-Stadt (KW1)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L218]. The other worlds stand beside it as KW2 to KW4, so the city is one of four.
+
+Stands with the record's positions 1 and 3 (KW1), dated 2025-04-18; recorded, not applied.
+
+## 2026-10-06 — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles
+
+**The place profiles write `Konstrukt-Stadt` as the name of KW1 alone, under LogOS, one of four worlds.**
+
+The section heading reads „KW1: Konstrukt-Stadt (LogOS)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L106]; the three sections after it carry other names, „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241], „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346] and „KW4: Möglichkeits-Garten (Kairos/Sophia)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L436]. The profiles use the name inside KW1, as for the transit corridor, which „Symbolisiert die regulierten, kontrollierten Bewegungsabläufe und die Anonymität innerhalb der Konstrukt-Stadt“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L128]. The principles name the whole as four: „Die vier Kern-Welten (KW1-4) des Romans“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L31].
+
+Stands with position 1 of the record's table, the KW1 reading, as a concept of 2025-04-18; recorded, not applied, and the record's decision (KW1 only, 2026-09-24) is not changed by it.
+
+## 2026-10-06 — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture
+
+**The dual plot architecture titles KW1 „Logos-Prime (Construct-City)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L96] and gives it as a world, not a measured city.**
+
+Of KW1 it says „This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] LogOS and describes it as „a hyper-logical, orderly realm“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98], with a „sterile, hyper-geometric, functional“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] aesthetic. It states no size or scale for the Construct-City.
+
+Where it stands: a KW1 title and description only; it takes no side on the scale of the Konstrukt-Stadt.

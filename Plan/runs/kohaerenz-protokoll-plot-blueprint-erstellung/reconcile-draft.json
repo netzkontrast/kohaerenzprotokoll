@@ -1,0 +1,372 @@
+{
+  "document": "kohaerenz-protokoll-plot-blueprint-erstellung",
+  "drive_id": "1XqnmgULt10CWi_87jFPIAvFP6DDReRfB-tI6DztuN7U",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 86,
+    "decided_by_lookup": 74,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        34,
+        138,
+        147,
+        170,
+        319,
+        388,
+        440
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system under versions v1.4 and v1.5"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        101,
+        159,
+        182,
+        201,
+        347,
+        352
+      ],
+      "attribution": "",
+      "note": "the alters: planned names, roles and defences"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        116,
+        283,
+        288,
+        359,
+        362,
+        405
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of KW3, the Grenzfeste"
+    },
+    {
+      "page": "did",
+      "lines": [
+        146,
+        182
+      ],
+      "attribution": "",
+      "note": "DID as researched frame for the fiction"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        101,
+        452
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as what Juna connects to, and Sophia's missing data"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        286,
+        289,
+        295
+      ],
+      "attribution": "",
+      "note": "KW3 as world of defence and fear"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        113,
+        114,
+        115,
+        116,
+        117,
+        147,
+        170,
+        319,
+        406,
+        407,
+        452
+      ],
+      "attribution": "",
+      "note": "five Guardians with an insight and a blind spot each"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        42,
+        101,
+        117,
+        211,
+        319
+      ],
+      "attribution": "",
+      "note": "Julia (Juna) as passive consequence, and the Juna-Anomalie AEGIS 1.5 tries to eliminate"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        101,
+        147,
+        171,
+        350,
+        352
+      ],
+      "attribution": "",
+      "note": "Kael as host and ANP in the blueprint plan"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        117,
+        406,
+        418,
+        425,
+        428
+      ],
+      "attribution": "",
+      "note": "Kairos as the seductive Guardian of KW4"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        19,
+        58,
+        72,
+        276
+      ],
+      "attribution": "",
+      "note": "KW1 to KW4 as externalisations of Kael and their rules"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        145,
+        148
+      ],
+      "attribution": "",
+      "note": "KW1 as the sterile, logic-ruled world"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        114,
+        147,
+        148,
+        371,
+        376,
+        403
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of KW1 and its planned dilemma"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        115,
+        286,
+        335,
+        338,
+        339,
+        340,
+        404
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Guardian of KW2, fixed on loss"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        413,
+        416,
+        419
+      ],
+      "attribution": "",
+      "note": "KW4 as generative world of possibilities"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        20,
+        101,
+        129
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as planned goal"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        201,
+        250
+      ],
+      "attribution": "",
+      "note": "Oblivion as trauma-holder in KW2"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        34,
+        440
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as where the K-J-Essenz stands outside AEGIS"
+    },
+    {
+      "page": "protokoll-v14",
+      "lines": [
+        42,
+        138,
+        147
+      ],
+      "attribution": "",
+      "note": "Protocol v1.4 as the state of the reboot"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        235,
+        238,
+        241
+      ],
+      "attribution": "",
+      "note": "KW2 as emotional landscape"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        42,
+        138,
+        146,
+        178,
+        377
+      ],
+      "attribution": "",
+      "note": "the Risse as symptoms of the fundamental instability"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        204,
+        216,
+        352
+      ],
+      "attribution": "",
+      "note": "Silas as the caring alter"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        113,
+        407,
+        449,
+        452
+      ],
+      "attribution": "",
+      "note": "Sophia as the fifth Guardian, above the others"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        20,
+        147,
+        149
+      ],
+      "attribution": "",
+      "note": "TSDP as a planned theory frame"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        407,
+        437,
+        440,
+        441
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's network"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "in a list of researched concepts; Shannon-Entropie borrowed"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "protokoll-v14",
+      "surface": "Protokoll v1.4",
+      "line": 147,
+      "decision": "reading",
+      "why": "the reboot under AEGIS v1.4 — a reading on the page"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 146,
+      "decision": "occurrence",
+      "why": "the simulation introduced as a level of reality, nothing said of the levels"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

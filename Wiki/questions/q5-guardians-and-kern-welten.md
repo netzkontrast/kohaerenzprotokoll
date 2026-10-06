@@ -489,3 +489,107 @@ Stands: a proposal of 2025-11-18 with four world-Wächter pairs and Kairos/Sophi
 It gives KW1 „LogOS (Architekt)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L263], KW2 the name Mnemosyne (L274), KW3 the name Cerberus (L284) and KW4 „Kairos/Sophia (Sucher)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L295]. The table repeats them under the column „Guardian“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L309], with „Kairos/Sophia“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L313] as one cell. The recommendation on L380 speaks of „der jeweiligen Wächter-KIs“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L380].
 
 Stands as another position on the pairing: four worlds, four Guardian labels, the fourth shared by two names.
+
+## 2026-10-06 — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline
+
+**The detailed outline plans one Guardian per world, three named.**
+
+For Kernwelt 1: „Guardian LogOS wird als Verkörperung der rigiden Systemlogik von KW1 eingeführt.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L162] For Kernwelt 2: „Der Wächter von KW2, Guardian Mnemosyne, wird aktiv.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L343] For Kernwelt 3: „die Domäne der Angst, der Verteidigung und des Wächters Cerberus“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L611] and „Guardian Cerberus wird eingeführt, der die Schwelle zur tieferen Wahrheit oder Integration bewacht und die Angst selbst verkörpert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L624]
+
+Stands on the side of one Guardian per world for the three worlds the outline reaches; recorded, not resolved.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots pairs LogOS, Mnemosyne and Cerberus with the three Kernwelten and plans the Guardians' domains in the Überwelt.**
+
+Pairing: „LogOS (Guardian KW1)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], „Mnemosyne (Guardian KW2)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L31], „Cerberus (Guardian KW3)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L29]. Placement, in Kapitel 15: „Die Guardians werden in ihren Domänen in der Überwelt verortet“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L46].
+
+Stands as the pairing of three Guardians to three Kernwelten with the domains set in the Überwelt, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan
+
+**The subplot plan pairs each of four worlds with a Guardian and lets Kairos & Sophia share KW4; it names no Erasure-Pol.**
+
+The plan writes the pairing across its fourth arc: „Einführung von LogOS (KW1) und Cerberus (KW3) als Agenten von AEGIS' Kontrolle und Abwehr“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L123], „Einführung von Mnemosyne (KW2) und Konfrontation mit ihrer Rolle bei der Verwaltung von Erinnerungen/Emotionen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L124] and „Einführung von Kairos & Sophia (KW4) und Interaktion mit ihrer Rolle bei der Steuerung von Potenzial“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134]. On pacing it names the worlds by tempo: „von der Rigidität KW1 zur Fluidität KW2, zur Beklemmung KW3, zum Potenzial KW4“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L197].
+
+Stands on the side of four pairs with a shared KW4 as a plan, not a canon claim; the question stays open.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept pairs each of four worlds with a Guardian in one table, the [[alters]] beside them, and lets Kairos and Sophia share the fourth.**
+
+The table column for the associated Guardian and alters has cells that read „LogOS / Index, Architekt, (Praetor, Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186], „Mnemosyne / Echo, Flicker, Silas, Oblivion“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L187], „Cerberus / Limina, Praetor, Oblivion, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L188] and „Kairos/Sophia / Eos, Index, Silas, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L189]. The cells separate the Guardian from the alters by a slash; the concept proposes these in its own names of 2025-04-18.
+
+Stands on the side of four pairs with a shared fourth, in the table's cells; recorded, not applied, and the question stays open.
+
+## 2026-10-06 — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue
+
+**The subplot catalogue pairs LogOS with KW1, Mnemosyne with KW2 and Cerberus with KW3, and names KW4 without a Guardian; it offers these as ideas, not canon.**
+
+Guardians appear in parentheses beside worlds: „LogOS (Guardian) könnte dies unbeteiligt beobachten“ ^[subplot-entwicklung-fuer-romanstruktur.md:L98] in KW1, „Mnemosyne (Guardian) könnte subtil präsent sein“ ^[subplot-entwicklung-fuer-romanstruktur.md:L124] in KW2, and „Cerberus (Guardian von KW3)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L100]. The worlds' names are written „KW1 (Logos-Prime)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L98], „KW2 - Mnemosyne-Archipel“ ^[subplot-entwicklung-fuer-romanstruktur.md:L99], „KW3 - Cerberus-Labyrinth“ ^[subplot-entwicklung-fuer-romanstruktur.md:L123] and „KW4 - Kairos-Potentialis“ ^[subplot-entwicklung-fuer-romanstruktur.md:L150]. A Guardian is not placed in KW4; Kapitel 17 leaves the Guardian open: „Kael konfrontiert einen Guardian (vielleicht LogOS oder Sophia)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L506]. The catalogue names no Erasure-Pol.
+
+Where it stands: the catalogue gives three Guardian/world pairs and the four world names as hedged proposals; it does not answer whether Kairos or Sophia belongs to KW4, and the record stays open.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview's table pairs each Core World with a Guardian, the fourth with Kairos/Sophia.**
+
+Its table rows read „KW1: Construct City (LogOS)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L89], „KW2: Resonance Landscape (Mnemosyne)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L90], „KW3: The Fortress (Cerberus)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L91] and „KW4: Garden of Possibility (Kairos/Sophia)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L92] (L89–L92).
+
+Stands as a pairing of four worlds with four Guardian labels, dated 2025-11-03; recorded, not applied, and Q5 stays open.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept answers the pairing with a table: one Guardian cell per level, in the same table as the six [[realitaetsebenen|Realitätsebenen]].**
+
+Table 1 (L119–L124) gives the Guardian column: LogOS, Mnemosyne, Cerberus, „Kairos/Sophia“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L122] for KW1–KW4, „AEGIS, Guardians“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L123] for the Überwelt and Juna for the Externe Ebene (L124). Each level block names its Guardian in its first field, as „Sie ist die Domäne des Guardians LogOS“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L128] for KW1.
+
+Stands as a document that pairs, in the conditional; the record's question is not settled by it.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint
+
+**The plot blueprint pairs LogOS with KW1, Mnemosyne with KW2, Cerberus with KW3, Kairos with KW4 and sets Sophia over the Überwelt and all Kern-Welten.**
+
+Its Tabelle 3 reads: „KW1 (Konstrukt-Stadt)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L195] for LogOS (Konstrukt-Stadt appears as „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L148] in step 1.1), „KW2 (Resonanz-L.)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L404] for Mnemosyne, „KW3 (Grenzfeste)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L196] for Cerberus, „KW4 (Möglichkeits-G.)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L406] for Kairos and „Überwelt / Alle KW“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L407] for Sophia. In step 2.9 Sophia works „möglicherweise direkt in der Überwelt“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L452].
+
+Stands: one Guardian per world for four, Sophia over all, as the blueprint plans it; nothing decided for the record.
+
+## 2026-10-06 — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles
+
+**The place profiles pair each Kern-Welt with a Guardian, KW4 with two, and give the Überwelt to AEGIS and the Guardians.**
+
+Headings: „KW1: Konstrukt-Stadt (LogOS)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L106], „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241], „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346], „KW4: Möglichkeits-Garten (Kairos/Sophia)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L436]. The Überwelt: „Überwelt (AEGIS/Guardian-Domäne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L541], where the Guardians are „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) sind hier als Datenströme oder abstrakte Entitäten präsent und erhalten ihre Direktiven.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L551]
+
+Stands as one more arrangement of the pairing, dated 2025-04-18; recorded, not applied, and the question stays open in the record's own terms.
+
+## 2026-10-06 — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis
+
+**The plot synthesis sets LogOS over KW1, Mnemosyne over KW2 and Cerberus over KW3, and names no Guardian for KW4.**
+
+KW1 is „Überwacht vom Guardian LogOS“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L46], KW2 „Überwacht von Mnemosyne“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L47], KW3 „Überwacht von Cerberus“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L48]. The KW4 entry (Kairos-Potentialis, L49) resonates with Selene and names no overseer. In Kap 30 the Systemwächter : „Die Systemwächter (Mnemosyne, Cerberus) erleben kognitive Dissonanz“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L116].
+
+Where it stands: three Guardians over three worlds, KW4 without one, as a synthesis of 2026-02-23 proposes it; nothing decided.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto ties LogOS to the Überwelt and KW1 and gives [[silas|Silas]] oversight into KW4; it names no Guardian for KW2 or KW3.**
+
+LogOS is „the fundamental operating system of reality within the Überwelt and KW1“ ^[aegis-manifest-genesis-krise-reboot.md:L113]. Silas has „specific oversight extending into the volatile domain of KW4“ ^[aegis-manifest-genesis-krise-reboot.md:L125]. The four worlds are described in 5.1–5.4 and in the table (L99–L103) by logic and target fragments, and the Guardians in 6.1–6.4; the sections for KW2 and KW3 do not name a Guardian, and the Guardians' own sections name only the two ties above.
+
+Stands: two Guardian-to-world ties in AEGIS's voice, a full pairing not given; nothing decided.
+
+## 2026-10-06 — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts
+
+**The character concepts pair LogOS with the Konstrukt-Stadt, Mnemosyne with the Resonanz-Landschaft, Cerberus with the Grenzfeste, Kairos with the Möglichkeiten-Garten and Sophia with the Überwelt, with a question mark.**
+
+The pairs are the profile headings: „LogOS (Zugeordnet: Konstrukt-Stadt)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L155], „Mnemosyne (Zugeordnet: Resonanz-Landschaft)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L165], „Cerberus (Zugeordnet: Grenzfeste)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L175], „Kairos (Zugeordnet: Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L185] and „Sophia (Zugeordnet: Überwelt / Integration?)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L195]. The question mark is the paper's, on Sophia's station. Four of the five worlds named are the four Kern-Welten and each has its own Guardian; Sophia is on the Überwelt, so the paper does not make two Guardians share a world: „Jeder Guardian ist fest an eine Kern-Welt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L207] (L207).
+
+Stands as a fifth-Guardian-on-the-Überwelt pairing with a question mark, dated 2025-04-18; recorded, not applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis pairs each of four Guardians with a world named Konstrukt-Stadt, Resonanz-Nebel, Schattenlabyrinth or Möglichkeitsstrom.**
+
+„Überwacht die Konstrukt-Stadt (Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L131]; „Überwacht den Resonanz-Nebel (Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L132]; „Überwacht das Schattenlabyrinth (Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L133]; „Überwacht den Möglichkeitsstrom (Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L134]. The pairing is part of an analysis whose table is marked „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147].
+
+Stands with a pairing of LogOS, Mnemosyne, Cerberus and Kairos to these four worlds; recorded, nothing decided.

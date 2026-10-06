@@ -1,0 +1,89 @@
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Chapter"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Chapter` ^[roman-outline-fuer-kohaerenz-protokoll.md:#14]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Key Beats / Abstract Scenes"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Key Beats / Abstract Scenes` ^[roman-outline-fuer-kohaerenz-protokoll.md:#13]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Notiz"
+whole word, case-sensitive     64
+whole word, case-insensitive   64
+including compounds            64
+
+`Notiz` ^[roman-outline-fuer-kohaerenz-protokoll.md:#64]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Philo Hint"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Philo Hint` ^[roman-outline-fuer-kohaerenz-protokoll.md:#21]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Kap."
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kap.` ^[roman-outline-fuer-kohaerenz-protokoll.md:#10]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Akt 2"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Akt 2` ^[roman-outline-fuer-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Nyx"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nyx` ^[roman-outline-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Argus"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Argus` ^[roman-outline-fuer-kohaerenz-protokoll.md:#11]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "AEGIS-Überwelt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`AEGIS-Überwelt` ^[roman-outline-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Überwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Überwelt` ^[roman-outline-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Kohärenz Protokolls"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz Protokolls` ^[roman-outline-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Canon` ^[roman-outline-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[roman-outline-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-outline-fuer-kohaerenz-protokoll --count "MisalignedCoherence"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`MisalignedCoherence` ^[roman-outline-fuer-kohaerenz-protokoll.md:#1]
+stance_marker_count 85 = Notiz 64 + Philo Hint 21
+$ grep -c "^[0-9]*\. .*Zugriff" Sources/drive/roman-outline-fuer-kohaerenz-protokoll.md  (13 references, L889-L901)
+13
+$ grep -o "ANP/EP-Phobien" Sources/drive/roman-outline-fuer-kohaerenz-protokoll.md | wc -l  (Phobien 27 alone, 30 in)
+3

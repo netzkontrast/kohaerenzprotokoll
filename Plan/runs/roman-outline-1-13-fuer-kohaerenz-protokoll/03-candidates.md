@@ -1,0 +1,97 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is a chapter-by-chapter outline (Prolog and Kapitel 1 to 13, Act 1) built from the same fourteen field labels under every chapter, followed by a numbered list of web references. The outline stops mid-line at the end of Chapter 13 (L910). Candidates below are the world's figures, places and objects, the document's own working terms, and the borrowed concepts it applies as lens. The field labels themselves (Core Theme, Kael System Dynamics and so on) are the template and are not listed. Chapter 4 to 13 name the figures Alex, Rhys, Kiko, Moros, Lia, Nyx, Argus; the outline never explains Lia, Nyx or Argus beyond a bracketed role. The word Juna/V is always written joined, with a genitive in Juna/Vs and Juna/V's. The document writes the Kernwelt abbreviation KW with a plain digit, never subscripted, and in some headings the export has dropped the digit from the label (KW (Logos-Prime)).
+
+- AEGIS
+- Kael
+- System Kael
+- Kael-System
+- Echo
+- Nichts Rauschen
+- Kohärenz Protokoll
+- Fehlausgerichtete Kohärenz
+- Fehlausgerichteten Kohärenz
+- Kernparadoxon
+- AEGIS Paradoxon
+- AEGIS-Paradoxon
+- logisches Kollektiv
+- Selene
+- Juna/V
+- Lex
+- Alex
+- Rhys
+- Kiko
+- Moros
+- Lia
+- Nyx
+- Argus
+- LogOS
+- Mnemosyne
+- Cerberus
+- Guardian
+- Guardians
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Überwelt
+- AEGIS-Überwelt
+- Inneren Konferenzraums
+- Inneres Konferenzzimmer
+- Riss
+- Fundament
+- Glitches
+- Host
+- ANP
+- ANPs
+- EPs
+- Apparently Normal Part
+- Apparently Normal Parts
+- Emotional Parts
+- TSDP
+- Beschützer-ANP
+- Fürsorger-ANP
+- Meta-Beobachter
+- Meta-Ebene
+- Ko-Bewusstsein
+- Ko-Präsenz
+- Multiplizität
+- Interne Phobien
+- Panoptismus
+- Gaslighting
+- Kohärenzstiftung
+- Akt 1
+- Akt 2
+
+## lens
+
+- Bündeltheorie
+- Logischer Positivismus
+- logischen Positivismus
+- Bad Faith
+- Qualia
+- Ethik der Fürsorge
+- Dialogphilosophie
+- Hume
+- Kant
+- Hobbes
+- Sartre
+- Buber
+- Kuhn
+- Bachelard
+- Cosmic Horror
+- Unreliable Narrator
+- Glitch in the Matrix
+- Threshold Guardian
+- Civil War Within
+- Hope Spot
+- Crossing the Threshold
+- Body Keeps the Score
+- Rules Lawyer
+- Journey to the Center of the Mind
+- Getting the Team Together
+- Wendepunkt

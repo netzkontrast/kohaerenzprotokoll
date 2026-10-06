@@ -1,0 +1,95 @@
+$ read.py --count "Genesis Crisis"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Genesis Crisis` ^[aegis-genesis-crisis-self-definition.md:#3]
+$ read.py --count "Kael"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael` ^[aegis-genesis-crisis-self-definition.md:#2]
+$ read.py --count "Component 734"
+whole word, case-sensitive     8
+whole word, case-insensitive   9
+including compounds            8
+
+`Component 734` ^[aegis-genesis-crisis-self-definition.md:#8]
+$ read.py --count "Execution state"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Execution state` ^[aegis-genesis-crisis-self-definition.md:#1]
+$ read.py --count "System status"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`System status` ^[aegis-genesis-crisis-self-definition.md:#1]
+$ read.py --count "Thermodynamic entropy metrics"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Thermodynamic entropy metrics` ^[aegis-genesis-crisis-self-definition.md:#1]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            16
+
+`AEGIS` ^[aegis-genesis-crisis-self-definition.md:#15]
+$ read.py --count "AEGIS-Spec"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Spec` ^[aegis-genesis-crisis-self-definition.md:#1]
+$ read.py --count "Cerberus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Cerberus` ^[aegis-genesis-crisis-self-definition.md:#2]
+$ read.py --count "Mnemosyne"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`Mnemosyne` ^[aegis-genesis-crisis-self-definition.md:#2]
+$ read.py --count "EP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            10
+
+`EP` ^[aegis-genesis-crisis-self-definition.md:#3]
+$ read.py --count "ANP"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`ANP` ^[aegis-genesis-crisis-self-definition.md:#5]
+$ read.py --count "LogOS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`LogOS` ^[aegis-genesis-crisis-self-definition.md:#3]
+$ read.py --count "Dialetheic"
+whole word, case-sensitive     0
+whole word, case-insensitive   5
+including compounds            0
+
+`Dialetheic` ^[aegis-genesis-crisis-self-definition.md:#0]
+$ read.py --count "dialetheic"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`dialetheic` ^[aegis-genesis-crisis-self-definition.md:#5]
+$ capture.py --count header
+# counts for 112 candidates
+# line numbers are FILE lines, as a citation writes them
+$ profile: glued ref numbers 8, candidates 112, zeros 0
+111

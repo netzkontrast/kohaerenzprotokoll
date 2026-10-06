@@ -269,3 +269,43 @@ What the `Ich` may know, and how it sounds, is not decided here (W7, W3).
 The strategy field of Chapter P reads „Erzählt aus einer distanzierten, fast mythischen Perspektive“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47], to establish the cosmic dimension. The field does not name an `Ich` of AEGIS or an inside view; it says that the plan shows AEGIS's emergence „sondern als verzweifelten Versuch der Ordnungsschaffung aus Angst“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L47], from outside, as myth.
 
 Where it stands in the record's own terms: Chapter P is planned in a distant mythic perspective; the document gives no first-person chapter for AEGIS in these lines; recorded, not applied.
+
+## 2026-10-06 — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework
+
+**The plot framework plans AEGIS-told stories and chapters as logs and as a core logic's point of view, and says nothing of a first person.**
+
+Its logs: Story 3 has „An AEGIS System Log.“ ^[plot-generation-framework-for-the-coherence-protocol.md:L36] as POV. Its core logic: Story 14 has „Component 734 (AEGIS Core Logic).“ ^[plot-generation-framework-for-the-coherence-protocol.md:L96] and Chapter 14 plans „Shift the POV to AEGIS's core logic (Component 734) as it observes Kael's new integration“ ^[plot-generation-framework-for-the-coherence-protocol.md:L255]. The document, dated 2025-11-03, does not write the grammatical person.
+
+Where it stands: a proposal recorded before the author's decision of 2026-10-05; the record's status is unchanged.
+
+## 2026-10-06 — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture
+
+**The dual plot architecture offers first-person stories in its short-story mosaic, not chapters: one from the I-fragment, one from a Guardian's logs.**
+
+L148: „A story from the first-person perspective of the minimal“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L148] I-fragment of the Nichts Rauschen. L149: „The narrative would consist of its internal logs“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L149], told by a Guardian such as Mnemosyne. Its chapter structure (L114–L132) holds no first-person AEGIS chapter.
+
+Stands as a document that places first-person voices in companion stories, dated 2025-11-03; the conflict is not decided.
+
+## 2026-10-06 — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc
+
+**The 39-part arc has one story told from AEGIS's side, Story 17, a story of an outline and not a chapter.**
+
+Story 17 (AEGIS's Misalignment) is „Told from the perspective of AEGIS“ ^[coherence-protocol-a-39-part-narrative-arc.md:L46], and it ends on „revealing its core paradox: the problem is its solution“ ^[coherence-protocol-a-39-part-narrative-arc.md:L46]. Nothing in the line says first person.
+
+Stands as an outline's AEGIS-perspective story, dated 2025-11-03; the record is decided, and this does not touch it.
+
+## 2026-10-06 — `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, the planning report
+
+**The planning report proposes a story slot for AEGIS's perspective as log entries; it does not name the grammatical person.**
+
+In its table of open questions the antagonist row proposes the story slot „Voices from the Machine“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L213] and „Ein dedizierter Slot für AEGIS' Perspektive“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L359], as log entries, to reveal the Genesis-Krise and the Trennungsprotokoll; the same cell ends „AEGIS wird tragisch“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L359]. In its Hamilton mapping the first slot carries the same title with „Einführung von AEGIS“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L213] (its „Ch“ numbers are chapters of Hamilton's model, not of the novel).
+
+Stands as a proposal for a perspective slot in log form; whether it is first or third person, and whether it is one chapter, the report does not say. The question stays open in the record's terms.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**The log, written in AEGIS's own voice, states a third-person rule without exception for itself.**
+
+> „The system refers to itself exclusively in the third person“ ^[aegis-genesis-crisis-self-definition.md:L23]
+
+Where it stands: with the third-person rows of C14; the log is itself a text in AEGIS's voice and says nothing about a chapter, and the record's decision of 2026-10-05 is unchanged.

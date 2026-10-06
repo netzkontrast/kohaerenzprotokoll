@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 31
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „Trauma Response (Flight/Freeze) / IFS (Firefighter/Manager - Vermei
 - Story: AEGIS answers Kael's refusal not with punishment but by intensifying the world's chaos, and an old defensive part seizes control and reactivates a dissociative retreat, „Rückzug, signalisierte dieser Teil mit unwiderstehlicher Kraft. Abschottung. Minimierung des Inputs. Aktivierung des Bunkers.“ ^[kohaerenz-protokoll.md:L1620]
 - Effect: the retreat cuts him off from every inner Anteil and from Juna, „Der Rückfall war vollständig. Die Vermeidung war total.“ ^[kohaerenz-protokoll.md:L1652]
 - Voice: third person on Kael, his inner Anteile in italics; AEGIS acts through the environment rather than speaking.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Entschlüsselung der Architektur
+
+- The concept with subplots titles Kapitel 15 „Entschlüsselung der Architektur“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L46]. It plans: „Kael (oft unter Lex' Führung) beginnt, die Regeln, Grenzen und die Architektur von AEGIS und den Kernwelten systematisch zu analysieren, möglicherweise in der Digitalen Überwelt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L46] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — Meta: Erkundung der Systemregeln/Grenzen/Architektur
+
+- The subplot catalogue analyses Kapitel 15 under the phase „Erkundung der Systemregeln/Grenzen/Architektur“ ^[subplot-entwicklung-fuer-romanstruktur.md:L402] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Echo im System: Identifikation von Mustern und Zyklen
 
@@ -92,6 +100,10 @@ Position: the scene outline plans the scene at „2.2 - AEGIS Überwelt (Log Ent
 
 - The scene outline plans Chapter 15 as „Analysis of the Overworld“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L189], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Logic of Control
+
+- The plot framework titles Chapter 15 „The Logic of Control“ ^[plot-generation-framework-for-the-coherence-protocol.md:L256]. It commissions: „Introduce LogOS, the Guardian of Kernwelt 1, to personify AEGIS's sterile, Apollonian philosophy of order as an oppressive force“ ^[plot-generation-framework-for-the-coherence-protocol.md:L256] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The architecture of the guardians
 
 Title: „Die Architektur der Wächter“ ^[romanstruktur-und-philosophische-einleitung.md:L148]
@@ -107,6 +119,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Die Schattenebene von
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Nox (Persecutor/Verfolger), AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L177]
 - Story: the blueprint plans, in `Plot-Beats`, „Unter dem extremen Stress von AEGIS regrediert Kael und fällt in eine traumatische Endlosschleife“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L179] and „Kael erkennt, dass Nox eine fehlgeleitete Schutzfunktion erfüllt“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L179]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Die Logik des Labyrinths
+
+- The plot synthesis plans Kapitel 15 as „Die Logik des Labyrinths“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L91], set in `KW1-Core`, with the focus on Lex, LogOS. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Cerberus-Labyrinth
 
@@ -159,6 +175,10 @@ Title: „Die Chaitin-Konstante“ ^[kohaerenz-protokoll-kapitel-outline-generie
 - Story: the dual-storyform outline plans „Entdeckung der irreduziblen Zufälligkeit im Quellcode“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L185]
 - Storyforms: `Storyform B` (`MC: Universe/Past`): „Die Vergangenheit wird als mathematische Notwendigkeit sichtbar“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L187]; `Storyform A` (`RS: Psychology/Being`): „Juna manifestiert sich als diese Zufälligkeit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L188]
 - Scene and pacing: `Szenen-Keim`: „Ein Brunnen, aus dem keine Wasser, sondern glühende Binärzahlen sprudeln“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L189]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der Preis der Logik
+
+- The 39-chapter outline titles Kapitel 15 „Der Preis der Logik“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L581]. It plans: „Lex' hypotaktische und kalte Analyse treibt die Ermittlungen massiv voran, droht jedoch, das System Kael emotional vollständig zu isolieren und zu beschädigen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L583]; POV Lex (L589) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

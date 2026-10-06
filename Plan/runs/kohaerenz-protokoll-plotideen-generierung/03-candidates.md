@@ -1,0 +1,93 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is German prose with English acronyms and English names of borrowed concepts. It is a concept analysis (Teil I) followed by plot seeds (Teil II). World terms come first, borrowed concepts it applies sit under the lens heading. The Alters are named once in a parenthesis; the guardian names also stand in a table. Quotation marks around "Risse", "Kohärenz-Insel", "blinden Flecken" and "Signatur" mark terms of the concept the document analyses. Section headings carry numbers; the numbers are not part of the terms.
+
+- Potentialmeer
+- AEGIS
+- Kael
+- Julia
+- Kohärenz-Inseln
+- Kohärenz-Insel
+- Überwelt
+- Kernwelten
+- Kael-Julia-Verbindung
+- K-J-Verbindung
+- Kael-Julia-Einheit
+- K-J-Einheit
+- Signatur
+- Risse
+- Ontological Boundary Protocol
+- OBP
+- RIVE
+- PMAS
+- SARM
+- CCPP
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Konstrukt-Stadt
+- Resonanz-Nebel
+- Schattenlabyrinth
+- Möglichkeitsstrom
+- Nexus
+- blinden Flecken
+- Blinde Flecken
+- Monstergruppe
+- Der Architekt
+- Das Echo
+- Der Wächter
+- Der Sucher
+- Der Funke
+- Limina
+- Nox
+- Praetor
+- Silas
+- Alters
+- DID
+- IFS
+- Sub-protokollar
+- Hitzetod
+- Plot-Keime
+
+## lens
+
+- Dunamis
+- Kreativität
+- Śūnyatā
+- Infosphäre
+- It from Bit
+- Ontischer Struktureller Realismus
+- OSR
+- Digitale Physik
+- Prozessphilosophie
+- Konstruktivismus
+- Autopoiesis
+- CAS
+- parakonsistente Logik
+- Gödelsche Unvollständigkeitssätze
+- Ashbys Gesetz
+- Landauer-Prinzip
+- Kybernetik zweiter Ordnung
+- KI-Alignment-Problem
+- instrumentelle Konvergenz
+- Chinesisches Zimmer
+- Hard Problem
+- Qualia
+- VOA/CFT
+- Monstrous Moonshine
+- Holographische Prinzip
+- Russell-Paradoxon
+- Sorites-Paradoxon
+- Maxwell's Demon
+- Double Bind
+- Symmetriebrechung
+- Internal Family Systems
+- Self-Leadership
+- Exiles
+- Managers
+- Firefighters
+- Dissoziativen Identitätsstörung
+- Environmental Storytelling

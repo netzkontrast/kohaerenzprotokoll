@@ -1,0 +1,119 @@
+# 05-verify: numbers stated in census and note
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "\[Context\]"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "\[Insight 1.12\]"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "\[Insight 1.7\]"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "\[Insight 1.4\]"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "\[Insight 1.9\]"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "könnte"
+whole word, case-sensitive     55
+whole word, case-insensitive   63
+including compounds            73
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "möglicherweise"
+whole word, case-sensitive     16
+whole word, case-insensitive   17
+including compounds            16
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Realitätsebenen"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Risse"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            34
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Rissen"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Entropie"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            43
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Zero-Trust"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Panopticon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Panopticon-ähnliche"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "universal reboot"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Post-Reboot"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Kael"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            94
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Kaels"
+whole word, case-sensitive     53
+whole word, case-insensitive   53
+including compounds            53
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Juna"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            19
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Junas"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Architekt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            35
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Architektur"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            31
+
+$ read.py lokalitaeten-konzept-fuer-roman-simulation --count "Control"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            15
+
+$ sed -n 431,534p Sources/drive/lokalitaeten-konzept-fuer-roman-simulation.md | grep -c "^[0-9]"  # references
+104
+stance_marker_count 28 = 18+4+3+2+1
