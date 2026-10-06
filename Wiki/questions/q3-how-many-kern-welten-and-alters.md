@@ -604,3 +604,11 @@ Stands as one more document listing the Anteile by world, dated 2025-07-29; the 
 Its roster, introduced by „The following entities are key components of System Kael“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11], lists `Kael`, `Lex`, `Isabella`, `Alex`, `The Sentinel`, `Nyx`, `Kiko`, `Silas`, `Vesper` and `Caspian/Sloane` as one row, each with a role. Its Kernwelten table begins „KW1: Logos-Prime / Konstrukt-Stadt“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11] and ends with „KW4: Kairos-Potentialis“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L13].
 
 Stands as an answer of 2026-01-02 that predates the author's answers; its own claim, recorded, changing neither.
+
+## 2026-10-06 — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium
+
+**The compendium reports three Kern-Welten seated by IFS role, with Alters assigned to each, and names a Möglichkeits-Garten and Ly-Welt only in its phase layout.**
+
+It reports each world with its Alters: KW1 „Limina (Gatekeeper), Index (Analytiker), Eos (Kontrolleurin)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L95], KW2 „Echo (verängstigtes Kind), Oblivion (im Freeze-Zustand eingefrorener Trauma-Halter), Silas (Caretaker)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L103] and KW3 „Nox (Persecutor/Verfolger, der das System durch Härte“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L111] protects, with Praetor beside him. Several Alters stand in each world, so the correspondence is by IFS role, not one world to one Alter. It reports Juna as the Self „Im Zentrum des IFS-Modells“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L117]. A fourth world has no number or role: the Möglichkeits-Garten appears as the place of the Gärtner (L165) and the Ly-Welt as chaos Kael must face (L164). The document is a drafting guide dated before the author's answers; it does not say whether three is all.
+
+Where it stands: three IFS-seated worlds with several Alters each, a fourth place unseated; recorded, the question stays open.
