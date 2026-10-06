@@ -585,3 +585,11 @@ Stands: two Guardian-to-world ties in AEGIS's voice, a full pairing not given; n
 The pairs are the profile headings: „LogOS (Zugeordnet: Konstrukt-Stadt)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L155], „Mnemosyne (Zugeordnet: Resonanz-Landschaft)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L165], „Cerberus (Zugeordnet: Grenzfeste)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L175], „Kairos (Zugeordnet: Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L185] and „Sophia (Zugeordnet: Überwelt / Integration?)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L195]. The question mark is the paper's, on Sophia's station. Four of the five worlds named are the four Kern-Welten and each has its own Guardian; Sophia is on the Überwelt, so the paper does not make two Guardians share a world: „Jeder Guardian ist fest an eine Kern-Welt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L207] (L207).
 
 Stands as a fifth-Guardian-on-the-Überwelt pairing with a question mark, dated 2025-04-18; recorded, not applied.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis pairs each of four Guardians with a world named Konstrukt-Stadt, Resonanz-Nebel, Schattenlabyrinth or Möglichkeitsstrom.**
+
+„Überwacht die Konstrukt-Stadt (Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L131]; „Überwacht den Resonanz-Nebel (Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L132]; „Überwacht das Schattenlabyrinth (Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L133]; „Überwacht den Möglichkeitsstrom (Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L134]. The pairing is part of an analysis whose table is marked „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147].
+
+Stands with a pairing of LogOS, Mnemosyne, Cerberus and Kairos to these four worlds; recorded, nothing decided.
