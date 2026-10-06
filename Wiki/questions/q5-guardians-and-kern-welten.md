@@ -417,3 +417,11 @@ Stands: five Guardians, none paired with a world, in a plan of 2026-04-30; nothi
 The four lines of its list read „KW1: Konstrukt-Stadt (LogOS):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L17], „KW2: Resonanz-Landschaft (Mnemosyne):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18], „KW3: Grenzfeste (Cerberus):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L19] and „KW4: Möglichkeits-Garten (Kairos/Sophia):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L20]. The concept calls none of the names a Guardian and says nothing further of them; Sophia comes once more, in Selene's entry, hedged: „Sie könnte eine besondere Verbindung zu Sophia haben“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L46]. It does not mention an Erasure-Pol.
 
 Where it stands in the record's own terms: four worlds, four bracketed names, KW4's with two, in a concept of 2025-04-29; it pairs and settles nothing about five Guardians, and the question stays open.
+
+## 2026-10-06 — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis
+
+**The plot analysis proposes a table giving each of four Kern-Welten one guardian cell, the fourth reading `Kairos / Sophia`.**
+
+The table (L67–L73) is the assistant's structuring (L63), and its column header is „Zuständiger Guardian“ ^[plot-analyse-und-romanentwicklung.md:L69]. Its rows pair LogOS with the Konstrukt-Stadt (L70), Mnemosyne with the Resonanz-Landschaft (L71), Cerberus with the Grenzfeste (L72) and „Kairos / Sophia“ ^[plot-analyse-und-romanentwicklung.md:L73] with the Möglichkeits-Garten (L73), each with an IFS category: Manager (ANP), Manager & Caretaker, Firefighter / Protectors, and Exiles & Emergent Parts. The document does not say whether the last cell is one guardian or two, and it names no Erasure-Pol.
+
+Stands as one proposed pairing per world, with KW4's cell shared; recorded, no pairing applied, and the question's status is not changed.
