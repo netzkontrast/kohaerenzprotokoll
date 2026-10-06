@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 150 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 150 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 151 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 151 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -475,7 +475,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Binnenerzählungen Kohärenz Protokoll (Heldinnenreise-Struktur)](drive/binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt.md) | 2025-04-26 | 1,622 |  | Potentialmeer 17, Juna 11, Kern-Welten 2, Kael 59, AEGIS 37 | Kael/M 17, B-Welt 4, Co₁ 10, McL 10, Ly-Welt 3 |
 | [Kohärenz Protokoll - Detaillierte Kapitelstruktur (39 Kapitel)](drive/kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md) | 2025-04-26 | 5,934 |  | Juna 5, Überwelt 11, Kael 67, Emergenz† 2, AEGIS 68 | Fragment Alpha 14, K-J Vector 10, Co1 13, McL 13, Core World 8 |
 | [Kohärenz Protokoll - Kapitelstruktur mit Konzepten (39 Kapitel)](drive/kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md) | 2025-04-26 | 2,886 |  | Negentropie 2, Potentialmeer 5, Multiplizität 4, Emergenz 3, Juna 2, Entropie 3, Kohärenz 6, AEGIS 47 | Kael/M 9, Fragment Alpha 2, B-Welt 2, Jetzt-Raum 2, Co₁ 3 |
-| [Kohärenz Protokoll: Plotideen-Extraktion](drive/kohaerenz-protokoll-plotideen-extraktion.md) | 2025-04-26 | 12,519 |  | Potentialmeer 34, Realitätsebenen 8, Guardians 20, DID 13, Nexus 2, Sophia 3, Silas 2, Kairos 3 | OBP 17, K-J-Einheit 8, Chinesisches Zimmer 9, Kael-Julia 12, Ashbys Gesetz 6 |
+| [Kohärenz Protokoll: Plotideen-Extraktion](drive/kohaerenz-protokoll-plotideen-extraktion.md) | 2025-04-26 | 12,519 | **read** | Potentialmeer 34, Realitätsebenen 8, Guardians 20, DID 13, Nexus 2, Sophia 3, Silas 2, Kairos 3 | OBP 17, K-J-Einheit 8, Chinesisches Zimmer 9, Kael-Julia 12, Ashbys Gesetz 6 |
 | [Kohärenz Protokoll: Plotideen Generierung](drive/kohaerenz-protokoll-plotideen-generierung.md) | 2025-04-26 | 8,964 | **read** | Potentialmeer 28, Realitätsebenen 3, Sophia 4, Guardians 14, DID 10, Kairos 3, Cerberus 3, Mnemosyne 4 | Double Bind 13, OBP 14, OSR 5, Kael-Julia 9, K-J-Einheit 5 |
 | [Plot-Rekonstruktion: Kohärenz Protokoll](drive/plot-rekonstruktion-kohaerenz-protokoll.md) | 2025-04-26 | 8,942 |  | DID 11, Potentialmeer 4, Alters 15, Juna 26, Guardians 2, Überwelt 23, Emergenz 4, Kohärenz 19 | OPE 5, Moonshine-Signatur 8, M-Kohärenz 8, VOA/CFT 11, Conformal Field Theory 5 |
 | [Plotkonzept Kohärenz Protokoll (Heldinnenreise-Struktur)](drive/plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md) | 2025-04-26 | 1,525 |  | Cache-Kohärenz 3, Mosaik-Herz 2, Potentialmeer 7, Kern-Welten 8, Juna 6, Kael 33, AEGIS 35, Risse 2 | Album 25, Kael/M 6, Co₁ 4, K-J-Verbindung 6, McL 4 |
@@ -998,7 +998,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Vermittler-Stimme](../Wiki/candidates/vermittler-stimme.md) | — |
 | [Verschränkungs-Insel](../Wiki/candidates/verschraenkungs-insel.md) | [dramatica-dual-storyform-mapping-protokoll](drive/dramatica-dual-storyform-mapping-protokoll.md), [roman-synthese-mit-dual-kernel-theorie](drive/roman-synthese-mit-dual-kernel-theorie.md) |
 | [Vortex](../Wiki/candidates/vortex.md) | — |
-| [ZTV](../Wiki/candidates/ztv.md) | [kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese](drive/kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md), [kohaerenz-protokoll-plotideen-extraktion](drive/kohaerenz-protokoll-plotideen-extraktion.md) |
+| [ZTV](../Wiki/candidates/ztv.md) | [kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese](drive/kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md) |
 
 ### The translation pairs used
 
