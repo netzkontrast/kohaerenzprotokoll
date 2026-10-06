@@ -536,3 +536,11 @@ Stands: five Guardians as the blueprint plans them, as one document's planning; 
 The section headings read „KW1: Konstrukt-Stadt (LogOS)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L106] (L106), „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241] (L241), „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346] (L346) and „KW4: Möglichkeits-Garten (Kairos/Sophia)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L436] (L436). The design principles say the same: „KW1 (LogOS) repräsentiert Logik und Ordnung, KW2 (Mnemosyne) Emotion und Erinnerung, KW3 (Cerberus) Abwehr und Schutzmechanismen, und KW4 (Kairos/Sophia) Potenzial und Kreativität“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L31], and the Überwelt profile lists „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) sind hier als Datenströme oder abstrakte Entitäten präsent und erhalten ihre Direktiven.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L551]
 
 Stands on the side of one Guardian per world with KW4 shared, as a concept of 2025-04-18; recorded, not applied, and the record's status is not changed.
+
+## 2026-10-06 — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture
+
+**The dual plot architecture pairs one Guardian each with KW1 to KW3 and two with KW4: LogOS, Mnemosyne, Cerberus, Kairos and Sophia.**
+
+KW1: „This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] LogOS; KW2 the same form for Mnemosyne („This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L102]), KW3 for Cerberus („This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L106]). KW4: „This world is the domain of the Guardians“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L110], Kairos and Sophia.
+
+Stands as a five-Guardian pairing over four worlds, dated 2025-11-03, recorded beside the other counts and not resolving them.
