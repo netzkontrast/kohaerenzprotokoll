@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 33
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -66,6 +66,10 @@ Position: the outline plans the `Erzählperspektive` „Leser (Reflexion über A
 
 - Story: the outline plans, under `Plot`, „findet eine neue, weniger rigide Form von Kohärenz“ ^[outline.md:L250]; „um echte Emergenz statt Kontrolle zu unterstützen“ ^[outline.md:L250]
 - Question: under `Thematische Kernfrage`, „Ist selbst die Fehlfunktion einer Ordnung besser als reines Nichts?“ ^[outline.md:L252]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Der Spiegel des Anderen
+
+- The chapter overview plans Kapitel 37 as „Der Spiegel des Anderen“ ^[detaillierte-kapiteluebersicht.md:L68], in Akt IV (Ketsu). A plan, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

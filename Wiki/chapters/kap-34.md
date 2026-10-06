@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 31
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 32
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -62,6 +62,10 @@ Position: the outline plans the `Erzählperspektive` „Kael (ontologische Konfr
 
 - Story: the outline plans, under `Plot`, „Er erkennt dessen Natur als integrierende Kraft“ ^[outline.md:L223]; „ein primordialer Zustand von Potenzial oder integrierten Paradoxien“ ^[outline.md:L223]
 - Question: under `Thematische Kernfrage`, „Wie verarbeitet man eine Wahrheit, die alles bisherige Verständnis sprengt?“ ^[outline.md:L225]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die Präsentation des Gödel-Satzes
+
+- The chapter overview plans Kapitel 34 as „Die Präsentation des Gödel-Satzes“ ^[detaillierte-kapiteluebersicht.md:L60], in Akt III (Ten). A plan, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

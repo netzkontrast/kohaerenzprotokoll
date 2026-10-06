@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 38
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 39
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -99,6 +99,10 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 
 - Story: the outline plans, under `Inhalt`, „um seine Realitätswahrnehmung zu untergraben“ ^[outline.md:L61]
 - Focus: under `Fokus`, „die thematische Auseinandersetzung mit Realität vs. Simulation“ ^[outline.md:L62]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Axiom der Vermeidung
+
+- The chapter overview plans Kapitel 8 as „Axiom der Vermeidung“ ^[detaillierte-kapiteluebersicht.md:L24], in Akt I (Ki). A plan, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

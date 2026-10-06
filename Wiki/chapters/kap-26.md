@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 35
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 36
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -63,6 +63,10 @@ The beat sheet places Kapitel 26 in Beat 2.4; the beat spans Kapitel 25 to 26.
 - Event: the beat sheet's `Beschreibung` says „fehlgeleiteter Reparaturversuch“ ^[finales-kausales-plot-geruest.md:L147]
 - Cause: the `Kausale Verknüpfung` says „erreicht eine kritische Masse“ ^[finales-kausales-plot-geruest.md:L148]
 - Throughlines: the OS or MC line says „Kael erlebt einen tiefen“ ^[finales-kausales-plot-geruest.md:L154]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die Wahrheit im Riss (Midpoint)
+
+- The chapter overview plans Kapitel 26 as „Die Wahrheit im Riss (Midpoint)“ ^[detaillierte-kapiteluebersicht.md:L47], in Akt II (Shō). A plan, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

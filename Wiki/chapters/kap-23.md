@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 30
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu"]
+sources: 31
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -68,6 +68,10 @@ The beat sheet places Kapitel 23 in Beat 2.3; the beat spans Kapitel 22 to 24.
 - Event: the beat sheet's `Beschreibung` says „ihre Loyalität oder das letztendliche Ziel des Systems in“ ^[finales-kausales-plot-geruest.md:L134]
 - Cause: the `Kausale Verknüpfung` says „schafft internen Dissens im antagonistischen System“ ^[finales-kausales-plot-geruest.md:L135]
 - Throughlines: the OS or MC line says „Kael profitiert von diesem Wandel und gewinnt potenziell“ ^[finales-kausales-plot-geruest.md:L141]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Analyse-Paralyse
+
+- The chapter overview plans Kapitel 23 as „Analyse-Paralyse“ ^[detaillierte-kapiteluebersicht.md:L44], in Akt II (Shō). A plan, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 

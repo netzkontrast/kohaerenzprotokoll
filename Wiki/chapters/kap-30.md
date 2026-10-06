@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 33
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -69,6 +69,10 @@ Position: the outline plans the `Erzählperspektive` „AEGIS (Systemversagen, I
 
 - Story: the outline plans, under `Plot`, „Kael kehrt zu einem entscheidenden Trauma-Lokus in KW2 zurück“ ^[outline.md:L187]; „was zu einer signifikanten inneren Heilung führt“ ^[outline.md:L187]
 - Question: under `Thematische Kernfrage`, „Wie zerbricht ein System, das sich selbst nicht verstehen kann?“ ^[outline.md:L189]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Funktionale Multiplizität
+
+- The chapter overview plans Kapitel 30 as „Funktionale Multiplizität“ ^[detaillierte-kapiteluebersicht.md:L56], in Akt III (Ten). A plan, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
