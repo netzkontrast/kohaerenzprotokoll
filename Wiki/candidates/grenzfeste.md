@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -51,6 +51,10 @@ each section is a `Guardian/Welt-Paar`.
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — section 3: KW3 with Guardian Cerberus
 
 Section 3 is headed „Grenzfeste (Guardian: Cerberus)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L63]. Its core: „Repräsentiert Kaels Abwehrmechanismen, Paranoia, Angst, Kontrollbedürfnis, Grenzen und Isolation.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L65] The atmosphere is „Beklemmend, paranoid, angespannt, bedrohlich, isolierend.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L72]
+
+## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — KW3 as B, chaos and defence, marked an interpretation
+
+The Erlebniswelten concept lists `Grenzfeste` as KW3, with `Cerberus` in brackets, paired with `B` (Baby-Monstergruppe), focus „Fokus auf Chaos, Abwehr, Grenzen, Paranoia, das Ungezügelte/Bedrohliche“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L19], marked „Interpretation im Romankontext“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18]. For Kael it is „Bedrohlich, löst Angst vor Kontrollverlust aus“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L33]; for Nyx the entry opens „Resonanz/Heimat?“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L57], with the document's own question mark.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — a chapter title, not a glossary entry
 
