@@ -214,3 +214,11 @@ Stands on the side of an outside reached through the Riss; the outline hedges (`
 „Sie repräsentieren das“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L82] Other, „das außerhalb von AEGIS' Kontrolle liegt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L82]. Kapitel 22: „Kael findet erste konkrete Hinweise auf die Externe Ebene oder Juna/V“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53].
 
 Stands as an Externe Ebene beyond AEGIS's control, introduced from Kapitel 22 in a plan, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan
+
+**The subplot plan describes Juna/V and the Externe Ebene as possibly non-digital and relational, and suggests, hedged, one true reality beyond AEGIS' digital order.**
+
+It explores their nature as „potenziell nicht-digitale, relationale Ordnung, Gegenprinzip zu AEGIS' Kohärenz“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L21]. In the intersections it says: „vielleicht repräsentieren sie verschiedene Aspekte oder Ebenen einer“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193] reality; the line closes with „jenseits von AEGIS' digitaler Ordnung“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193], and opens: „Die Natur von Juna/V (Subplot 3) und dem Fundament (Subplot 5) könnte sich als eng verbunden erweisen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193].
+
+Stands as a plan, in the conditional (könnte, vielleicht); it uses neither `Basisrealität` nor a denial of the outside, and the record's rows are not changed.
