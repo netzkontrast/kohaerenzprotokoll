@@ -189,3 +189,11 @@ Stands as the Überwelt placed with AEGIS and a Nexus-Interface Garten placed in
 „Die Überwelt ist der Schauplatz der Meta-Analyse und der finalen Konfrontation“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L81]. Kapitel 15 plans the analysis „möglicherweise in der Digitalen Überwelt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L46].
 
 Stands as a use of the name Überwelt for the meta-analysis stage, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan
+
+**The refactoring plan equates the Überwelt and the Nexus in one parenthesis.**
+
+„Der Übergang in die Überwelt (den Nexus)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L88] — it writes the entry to Akt II so, without relating either to the Überraum.
+
+Stands as one more document that writes the Nexus and the Überwelt as the same place; the question stays open.
