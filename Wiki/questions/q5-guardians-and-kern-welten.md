@@ -441,3 +441,11 @@ Stands as one pairing per world with KW4's cell shared, in a report of 2026-02-2
 Each pairing is given as a block of `Der Guardian` and `Die Kern-Welt` (L95–L113): LogOS, „Die Personifikation von Logik und Systemarchitektur“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L96], with the Konstrukt-Stadt; Mnemosyne, „Empathisch, aber in der Vergangenheit gefangen“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L104], with the Resonanz-Landschaft; Cerberus, „Das paranoide Immunsystem der Simulation“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L112], with the Grenzfeste. Its closing instruction speaks of „den Nebenfiguren und Guardians“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L176] in the respective Kern-Welten. The Möglichkeits-Garten has no Guardian in this document, `Kairos` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0] and `Sophia` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0] do not stand in it, and neither does `Erasure` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#0].
 
 Where it stands: three Guardian and world pairs; recorded, the question stays open.
+
+## 2026-10-06 — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot
+
+**The Teil-1 plot sets one matrix of four worlds, each with its Guardian, its part of Kael and a blind spot.**
+
+KW1 has LogOS with „Ignoriert Nicht-Logisches (Emotion, Juna)“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L299], KW2 has Mnemosyne with „Fokussiert auf Vergangenheit, verfehlt Gegenwartsbedarf“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L300], KW3 has Cerberus with „Sieht Verbindung/Unterschied als Bedrohung“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L301], and KW4 has two Guardians, „Kairos & Sophia“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L302], with „Fehlende Kerndaten“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L302]. The plot reads these as systemic: „Die blinden Flecken der Guardians sind nicht nur individuelle Fehler, sondern systemimmanent“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L304]. It calls the Überwelt „die operative Domäne der Guardians“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L281].
+
+Where it stands: a worlds-to-Guardians assignment of four rows in a proposal, the fourth shared by two Guardians; recorded, deciding nothing.
