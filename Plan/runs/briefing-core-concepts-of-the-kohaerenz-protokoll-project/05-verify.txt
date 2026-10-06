@@ -1,0 +1,107 @@
+# every number the census and note state, with the command that produced it
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Nature"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nature` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#2]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Purpose"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Purpose` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#1]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Function"
+whole word, case-sensitive     3
+whole word, case-insensitive   5
+including compounds            6
+
+`Function` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#3]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Mechanism"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mechanism` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#1]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Analogy"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Analogy` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#1]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`canon` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#0]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`chapter` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#0]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#0]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#0]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "ANP"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`ANP` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#4]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "ANPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ANPs` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#2]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "EP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`EP` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#3]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#2]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`KW1` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#1]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Mnemosyne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Mnemosyne` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#1]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Cerberus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Cerberus` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#1]
+$ read.py briefing-core-concepts-of-the-kohaerenz-protokoll-project --count "Kairos"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kairos` ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:#1]
+stance_marker_count 8 = Nature 2 + Purpose 1 + Function 3 + Mechanism 1 + Analogy 1
+candidates 111: from census-draft.md frontmatter (capture.py --count)
+zeros: 0 (04-counts.txt / census-draft.md "Zeros: 0")
+110 backslash escapes, 5 tables (L41 L67 L81 L130 L148), 4 numbered sections I-IV, 6 protocol rows: profile and reading

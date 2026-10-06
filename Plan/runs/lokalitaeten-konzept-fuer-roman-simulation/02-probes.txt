@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      147
+  backslash escapes      132
+  typographic marks      50
+  ascii quotes           198
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemalarme, Systemartefakte, Systemausfälle, Systembefehle, Systeme, Systemebenen, Systementropie, Systemfunktionen, Systemgrundlagen, Systeminstabilität, Systeminstabilitäten, Systeminteraktionen, Systemisch, Systemische, Systemlogik, Systemnachrichten, Systemprotokolle, Systemprozesse, Systemprozesses, Systempräsenz, Systemregeln, Systems, Systemstörungen, Systemverfall, Systemwarnungen, Systemzusammenbrüche, Systemzustände, Systemzuständen
+  daten    Daten, Datenabfragen, Datenarchitektur, Datenarchive, Datencluster, Datendichte, Datenfeeds, Datenflüsse, Datenflüssen, Datenfragmente, Datenkonvergenzpunkt, Datenkorruption, Datenmanipulation, Datenpfade, Datenpriorität, Datenprotokolle, Datenraum, Datenrauschen, Datenstrom, Datenstrukturen, Datenströme, Datentyp, Datenverarbeitung, Datenverarbeitungsgeräuschen, Datenvisualisierung, Datenvisualisierungen
+  kontr    Kontrast, Kontraste, Kontrasten, Kontrollbunker, Kontrolle, Kontrollen, Kontrollierte, Kontrolliertes, Kontrollknoten, Kontrollmechanismen, Kontrollmethoden, Kontrollpunkte, Kontrollschicht, Kontrollsysteme, Kontrollverlusts, Kontrollversuche
+  chara    Characteristics, Characterization, Characters, Charakter, Charaktere, Charakteren, Charakterentwicklung, Charaktergewohnheiten, Charakterisierung, Charakterperspektiven, Charakterpsychologie, Charakters, Charakterzustand, Charakterzüge
+  archi    Architects, Architectural, Architecture, Architekt, Architektonische, Architektonisches, Architektur, Architekturen, Architekturpsychologie, Architekturstil, Architekturstile, Architekturstils, Archiv
+  überw    Überwachung, Überwachungs, Überwachungsbildschirmen, Überwachungsfeed, Überwachungsfeeds, Überwachungsfehler, Überwachungsstationen, Überwachungssysteme, Überwachungssystemen, Überwachungszentralen, Überwelt, Überwiegend, Überwältigende
+  inter    Interaktion, Interaktionen, Interaktionsmethoden, Interaktionsmodelle, Interaktiv, Interaktivität, Interface, Interior, Interpretation, Interpretationen
+  psych    PSYCHOANALYSIS, Psych, Psyche, Psychoanalysis, Psychological, Psychologie, Psychologische, Psychologischer, Psychology
+  schlü    Schlüssel, Schlüsselelement, Schlüsselenthüllungen, Schlüsselorten, Schlüsselparallele, Schlüsselszenen, Schlüsseltechniken, Schlüsselverständnisse, Schlüsselworts
+  umgeb    Umgebung, Umgebungen, Umgebungsdetails, Umgebungsgeräusche, Umgebungshindernisse, Umgebungskonfiguration, Umgebungsmerkmalen, Umgebungsreaktion, Umgebungsveränderungen
+  visua    Visual, Visualisation, Visualisiert, Visualisierung, Visualization, Visualizations, Visualize, Visualizing, Visuals
+  funkt    Funktion, Funktional, Funktionale, Funktionalismus, Funktionalität, Funktionen, Funktioniert, Funktionsweise
+  infor    Informatik, Information, Informationen, Informationsanzeigen, Informationsarchitektur, Informationsquellen, Informationsströme, Informed
+  konze    Konzept, Konzepte, Konzepten, Konzeption, Konzeptionelle, Konzepts, Konzeptueller, Konzernmacht
+  reali    Realities, Reality, Realität, Realitäten, Realitätsebene, Realitätsebenen, Realitätsgrenzen, Realitätszusammenbruchs
+  erinn    Erinnerung, Erinnerungen, Erinnerungs, Erinnerungsfetzen, Erinnerungsfragmente, Erinnerungsspur, Erinnerungstrigger
+  netzw    Netzwerk, Netzwerkdiagramme, Netzwerke, Netzwerkfehler, Netzwerkmodelle, Netzwerktopologien, Netzwerkverkehr
+  symbo    Symbol, Symbole, Symbolen, Symbolik, Symbolische, Symbolisiert, Symbolismus
+  traum    Traum, Trauma, Traumas, Traumata, Traumgleich, Traumlandschaften, Traumlogik
+  assoz    Assoziation, Assoziationen, Assoziationsketten, Assoziativ, Assoziiert, Assoziierte
+  atmos    Atmosphere, Atmospheric, Atmosphäre, Atmosphären, Atmosphärisch, Atmosphärische
+  bruta    Brutal, Brutalism, Brutalismus, Brutalist, Brutalistisch, Brutalistisches
+  desig    Design, Designentscheidungen, Designer, Designprinzipien, Designprozess, Designs
+  emoti    Emotion, Emotional, Emotionale, Emotionen, Emotions, Emotionslandschaft
+  reakt    Reaktion, Reaktionen, Reaktionsfähigkeit, Reaktive, Reaktivität, Reaktivitätstyp
+
+# substring pairs -- never one term, often merged by accident
+  ARTS < TheArtStory
+  Arch < Archiv
+  Arch < ArchDaily
+  Arch < ArchPsych
+  Arch < Architekt
+  Arch < Archetypen
+  Arch < Architects
+  Arch < Hierarchie
+  Arch < Architektur
+  Arch < Hierarchien
+  Arch < Architecture
+  Arch < Datenarchive
+  Arch < ResearchGate
+  Arch < Architectural
+  Arch < Architekturen
+  Arch < Architekturstil
+  Arch < Architektonische
+  Arch < Architekturstile
+  Arch < Architekturstils
+  Arch < Datenarchitektur

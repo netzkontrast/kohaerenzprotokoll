@@ -1,0 +1,406 @@
+{
+  "document": "umfassendes-lokalitaeten-konzept-fuer-roman",
+  "drive_id": "10PgZCzT-RKu516SWUrcXW3ssjOkABamyn3a50pzGdLA",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 103,
+    "decisions": 109,
+    "decided_by_lookup": 86,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        35,
+        43,
+        44,
+        116,
+        548,
+        551,
+        552,
+        554
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's domain and its Analyse-Hub"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        31,
+        67,
+        100,
+        488
+      ],
+      "attribution": "",
+      "note": "the alters named per world, and as the inner conflicts the architecture shows"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        31,
+        57,
+        67,
+        89,
+        346,
+        393,
+        398,
+        401,
+        404
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of KW3 and its control centre"
+    },
+    {
+      "page": "did",
+      "lines": [
+        31,
+        203,
+        209
+      ],
+      "attribution": "",
+      "note": "the worlds as externalisations of a dissociative identity structure"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        34,
+        45,
+        46,
+        92,
+        116,
+        553
+      ],
+      "attribution": "",
+      "note": "Entropie as theme, Risse's cause and AEGIS's task"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        33,
+        67,
+        346,
+        353,
+        383,
+        398,
+        413
+      ],
+      "attribution": "",
+      "note": "KW3 under Cerberus, a fortress of control and its decay"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        31,
+        543,
+        548,
+        551
+      ],
+      "attribution": "",
+      "note": "the Guardians as the Überwelt's coordinated entities"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        119,
+        178,
+        273,
+        278,
+        281,
+        518,
+        554
+      ],
+      "attribution": "",
+      "note": "places for Juna: memory, glimpses, an Ankerpunkt"
+    },
+    {
+      "page": "junas-ankerpunkt",
+      "lines": [
+        517,
+        518,
+        519,
+        521
+      ],
+      "attribution": "",
+      "note": "profile 28, Junas Ankerpunkt / Symbolort"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        32,
+        67,
+        113,
+        119,
+        138,
+        143,
+        203
+      ],
+      "attribution": "",
+      "note": "the four worlds as externalisations of Kael's psyche, and the places that carry him"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        112,
+        113,
+        119,
+        172,
+        173
+      ],
+      "attribution": "",
+      "note": "profile 1, Kaels initial living unit in KW1"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        31,
+        67,
+        436,
+        446,
+        461,
+        476
+      ],
+      "attribution": "",
+      "note": "Kairos as one of KW4's two Guardians"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        31,
+        33,
+        100,
+        106,
+        241,
+        346,
+        436,
+        507
+      ],
+      "attribution": "",
+      "note": "four worlds as psychological landscapes, each coupled to a Guardian"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        67,
+        106,
+        128,
+        143,
+        173,
+        202
+      ],
+      "attribution": "",
+      "note": "KW1 as the section of profiles, written Konstrukt-Stadt, under LogOS"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        31,
+        47,
+        57,
+        67,
+        88,
+        106,
+        116
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        31,
+        67,
+        94,
+        241,
+        281,
+        326
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the Guardian of KW2 and its archive interface"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        67,
+        93,
+        436,
+        443,
+        458,
+        464,
+        473,
+        504
+      ],
+      "attribution": "",
+      "note": "KW4 under Kairos and Sophia, generative chaos and its places"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        468,
+        472,
+        473
+      ],
+      "attribution": "",
+      "note": "profile 25, an Nexus-Knoten as interface to potential in KW4"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        194,
+        269,
+        314
+      ],
+      "attribution": "",
+      "note": "three places where Oblivion might be present"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        19,
+        74,
+        102
+      ],
+      "attribution": "",
+      "note": "Teil II is arranged by reality level; six levels named"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        58,
+        67,
+        241,
+        248,
+        251,
+        293,
+        323
+      ],
+      "attribution": "",
+      "note": "KW2 under Mnemosyne, from the arrival fog to the archive"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        44,
+        45,
+        47,
+        59,
+        408,
+        413,
+        418,
+        553
+      ],
+      "attribution": "",
+      "note": "Risse as glitches of the simulation, with a profile in KW3"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        67,
+        284,
+        299,
+        344,
+        374
+      ],
+      "attribution": "",
+      "note": "an alter who might soothe, protect or be drawn to warmth"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        31,
+        67,
+        446,
+        458,
+        461,
+        476
+      ],
+      "attribution": "",
+      "note": "Sophia as one of KW4's two Guardians"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        43,
+        46,
+        541,
+        550,
+        551,
+        554,
+        563
+      ],
+      "attribution": "",
+      "note": "the Überwelt as a virtual, data-based domain with two profiles"
+    },
+    {
+      "page": "vergessener-schrein",
+      "lines": [
+        33,
+        262,
+        263,
+        264,
+        269
+      ],
+      "attribution": "",
+      "note": "profile 11, the place of Kael's central trauma in KW2"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C9"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kaels-wohneinheit",
+      "surface": "Kaels Wohneinheit",
+      "line": 172,
+      "decision": "reading",
+      "why": "profile 1, Kaels Initiale Wohneinheit — a reading on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 206,
+      "decision": "occurrence",
+      "why": "the Therapeut-Konstrukt (KI/Persona), nothing said of Personas"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      41
+  backslash escapes      166
+  typographic marks      203
+  ascii quotes           42
+
+# inflection families -- one term, several surfaces
+  inter    Interessanterweise, Interessenkonflikte, Interferenz, Interferenzen, Internal, Interrogatorien, Interrogatories, Interrogatory, Intervention
+  chara    Character, Charakter, Charakterblatt, Charakterdynamik, Charaktere, Charakterprofil, Charakterprofile, Charakters
+  daten    Daten, Datenbank, Datenbankarchitektur, Datenbanken, Datenbankstruktur, Datenbankstrukturen, Datenbanktechnologie, Datenstruktur
+  ontol    Ontologie, Ontologisch, Ontologische, Ontologischem, Ontologischen, Ontologischer, Ontologisches, Ontology
+  schre    Schreib, Schreibanweisungen, Schreiben, Schreiber, Schreibprozess, Schreibprozesses, Schreibregel
+  syste    System, Systemabsturz, Systemfehler, Systemisch, Systemkarte, Systems, Systemzeit
+  archi    Archipel, Archipels, Architecture, Architekten, Architektonische, Architektur
+  konfl    Konflikt, Konfliktdynamik, Konflikte, Konfliktpotenzial, Konflikts, Konfliktsimulation
+  struk    Struktur, Strukturellen, Strukturelles, Strukturen, Strukturierung, Strukturprinzip
+  energ    Energie, Energieaufwand, Energiehaushalt, Energiehaushalts, Energy
+  arbei    Arbeit, Arbeitsschritte, Arbeitssystem, Arbeitstitel
+  emoti    Emotion, Emotional, Emotionale, Emotionen
+  proje    Projekt, Projektdatenbank, Projekthistorie, Projekts
+  regel    Regel, Regelbasierte, Regelmäßiger, Regeln
+  diese    Diese, Dieser, Dieses
+  dokum    Dokument, Dokumente, Dokumenten
+  entro    Entropic, Entropie, Entropy
+  erzäh    Erzählen, Erzählung, Erzählweise
+  final    Final, Finaler, Finalisierung
+  fragm    Fragmente, Fragmentierte, Fragmentierung
+  gesch    Geschehen, Geschichte, Geschichten
+  infor    Information, Informationen, Informationslöschung
+  integ    Integraler, Integration, Integrität
+  irrev    Irreversible, Irreversiblen, Irreversibler
+  logik    Logik, Logiken, Logikfehler
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Auftauchen
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dual < Dualität
+  Eine < Keine
+  Eine < Reine
+  Eine < Steine
+  Eine < Einerseits
+  Eine < Verfeinerung
+  Form < Formen
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationslöschung
+  Füge < Zusammenfügen
+  Hero < Speicherort
+  Idee < Ideen
+  Info < Information
+  Info < Informationen

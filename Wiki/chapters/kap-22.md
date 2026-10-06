@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 29
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -38,6 +38,10 @@ Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-proto
 - Where: still Ly-Sigma-1, „Die Resonanz-Brücke stand wie ein Monument des Möglichen im Herzen von Ly-Sigma-1.“ ^[kohaerenz-protokoll.md:L2292]
 - Story: Kael amplifies the Juna-correlated frequencies and reaches a direct exchange with her, asking „War Juna eine Entität innerhalb des Meeres? Oder war sie das Meer?“ ^[kohaerenz-protokoll.md:L2298]; AEGIS escalates to erasure, „AKTIVIERE PROTOKOLL 734: KONTAMINATIONS-EINDÄMMUNG.“ ^[kohaerenz-protokoll.md:L2348], and as the sector collapses Kael slips beyond the simulation for a heartbeat, „Er war jenseits der Naht.“ ^[kohaerenz-protokoll.md:L2372], into „Ein Raum reiner Information, aber nicht kalt und logisch wie AEGIS' Überwelt.“ ^[kohaerenz-protokoll.md:L2376]
 - Voice: third person on Kael; AEGIS' escalation stands in capitals.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Samen der Rebellion
+
+- The concept with subplots titles Kapitel 22 „Samen der Rebellion“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53]. It plans: „Kael findet erste konkrete Hinweise auf die Externe Ebene oder Juna/V – eine Anomalie, die AEGIS nicht erklären kann, ein Signal, eine Ahnung von etwas außerhalb des Systems“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Ethik des Codes: Reflexion über Verantwortung, Schuld und Legitimität
 
@@ -91,6 +95,10 @@ Position: the chapter has no scene fields in the outline; its prose says „A Gu
 
 - The scene outline plans Chapter 22 as „A System Fractures“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L270], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Discovery of the Core Flaw
+
+- The plot framework titles Chapter 22 „Discovery of the Core Flaw“ ^[plot-generation-framework-for-the-coherence-protocol.md:L263]. It commissions: „Depict an AEGIS Guardian discovering the fatal paradox in its prime directive, providing the protagonists (and the reader) with a critical piece of exposition“ ^[plot-generation-framework-for-the-coherence-protocol.md:L263] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The world as wound
 
 Title: „Spiegel des Traumas“ ^[romanstruktur-und-philosophische-einleitung.md:L190]
@@ -106,6 +114,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Die ontologische Gren
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Juna“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L233]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael erreicht den absoluten Rand der Simulation“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235] and „AEGIS hat keinen inhärenten Sinn, es existiert rein apophatisch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L235]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Das Paradox der Kontrolle
+
+- The plot synthesis plans Kapitel 22 as „Das Paradox der Kontrolle“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L98], set in `KW-Grenzen`, with the focus on Lex, Kael. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Das Paradoxon X
 
@@ -160,6 +172,10 @@ Title: „Die Pixelierung des Selbst (II)“ ^[kohaerenz-protokoll-kapitel-outli
 - Story: the dual-storyform outline plans „Sein eigenes Körpermodell beginnt zu fragmentieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L242]
 - Storyforms: `Storyform B` (`IC: Mind/Memory`): „Juna hält die Erinnerung an Kaels physische Form aufrecht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L244]; `Storyform A` (`IC: Universe/Past`): „Sie ist der Anker in der leeren Welt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L245]
 - Scene and pacing: `Szenen-Keim`: „Kael sieht seine eigenen Hände als grobe, transparente Drahtgittermodelle“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L246]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der Konstruktionsfehler des Gottes
+
+- The 39-chapter outline titles Kapitel 22 „Der Konstruktionsfehler des Gottes“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L839]. It plans: „Kael durchschaut die fundamentale, mathematische Tragik von AEGIS: Das System ist durch seine Axiome zwangsläufig sein eigener Zerstörer“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L841]; POV Kael / Lex (L847) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

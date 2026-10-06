@@ -1,0 +1,117 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Read whole, L1 to L902 (Prolog, Chapters 1 to 13, the last cut off mid-chapter at L885, then a reference list). The document is an outline in German with English template labels; each chapter repeats the same labelled fields.
+
+- AEGIS
+- Kael
+- System Kael
+- Echo
+- Selene
+- Nichts Rauschen
+- Fehlausgerichtete Kohärenz
+- MisalignedCoherence
+- Kohärenz Protokoll
+- AEGIS Paradoxon
+- Kael Fragmentation
+- Kael Integration
+- Juna/V
+- Kernparadoxon
+- Kerntrauma
+- Überwelt
+- Host
+- Glitch
+- Lex
+- Alex
+- Rhys
+- Kiko
+- Lia
+- Moros
+- Kernwelt 1
+- KW1
+- Logos-Prime
+- Kernwelt 2
+- KW2
+- Mnemosyne-Archipel
+- Guardian LogOS
+- Guardian Mnemosyne
+- Guardians
+- ANPs
+- EPs
+- Apparently Normal Parts
+- Emotional Parts
+- Emotionale Teile
+- Inneren Konferenzzimmers
+- TSDP
+- Theory of Structural Dissociation of the Personality
+- Panoptismus
+- Philo Hint
+- Core Theme
+- Kael System Dynamics
+- AEGIS Strategy/Manifestation
+- Setting & Atmosphere
+- Narrative Goals & Pacing
+- Conceptual Deep Dive
+- Subplot Progression
+- Philosophical Resonance
+- Genre/Trope Application
+- Key Concepts/Foreshadowing
+- Narrative Technique Focus
+- Key Symbols/Motifs
+- Key Beats / Abstract Scenes (ca. 3-5)
+- Nyx
+- Argus
+- Meta-Beobachter
+- Kernwelt 3
+- KW3
+- Cerberus-Labyrinth
+- Guardian Cerberus
+- Cerberus
+- Gaslighting
+- Riss
+- Der Riss
+- Ko-Bewusstsein
+- Inneres Konferenzzimmer
+- Fundament
+- Akt 2
+- Fragmente der Vergangenheit
+- Die Logik des Gaslichts
+- Die Mauern der Grenzfeste
+- Relation R
+- Switches
+- Dissoziation
+- Phobien
+
+## lens
+
+- Hume
+- Parfits
+- Kant
+- Hobbes
+- Logischer Positivismus
+- Ethik der Fürsorge
+- Qualia
+- Emergenz
+- Ontologie
+- Loftus
+- Body Keeps the Score
+- Glitch in the Matrix
+- Unreliable Narrator
+- Cosmic Horror
+- Origin Story
+- Rules Lawyer
+- Psychological Horror
+- Sartre
+- Bad Faith
+- Mauvaise Foi
+- Locke
+- Buber
+- Ich-Du
+- Kuhn
+- Epistemologischer Bruch
+- Simulationstheorie
+- Existentialismus
+- Threshold Guardian
+- Deadly Maze
+- Hope Spot
+- Erkenntnistheorie
+- Philosophie der Angst

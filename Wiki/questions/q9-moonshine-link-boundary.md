@@ -196,3 +196,59 @@ Stands as a statement of what the link is, between Kael and Juna/V; recorded, an
 Section III opens with „die Verbindung zwischen Kael und Juna/V“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L142], called „Moonshine-Verbindung“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L142] and made to work as an exploit against AEGIS. Applying Whitehead, it calls the connection „direkte physische Prehension“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158], a „Abwärtskausalität“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158]; AEGIS can register only „anomale Datenspitzen“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L158], not the connection. It argues „Das Scheitern von AEGIS ist garantiert“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L187].
 
 The plan states a boundary by mechanism, not by place or distance.
+
+## 2026-10-06 — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report
+
+**In trace 2 the architecture report has Juna, or „Der Spieler (oder das System Juna/V)“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L148], use the Moonshine-Link; it carries no classical logic packets, only resonances.**
+
+The report says the link „überträgt keine klassischen Logik-Pakete“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L149] and that its data reach the EPs Kiko and Lia: „Der Input erreicht die empfänglichen EPs“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L151]. It does not say whether the link is exclusive to a pair.
+
+Stands as one more statement on Q9's questions of what crosses and whose it is; the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline sets the Moonshine-Link as storyform A's Relationship Story throughline, in Physics, and Silas as its carrier.**
+
+The table has „Physics (Moonshine-Link)“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L31] for the RS throughline of A. Kapitel 5 foreshadows Silas as „spätere Bewahrer des Moonshine-Links“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L209], and Kapitel 17 has him activate it on the inside of the psyche.
+
+Stands as the outline's placement of the link in Physics, dated 2026-04-30; recorded, not applied.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview calls the Moonshine-Link a non-local, sub-protocol bond on a different ontological level from AEGIS's reality.**
+
+It says the link is „a non-local, sub-protocol bond“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L108] that „operates on a different ontological level from AEGIS's information-based reality“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L108], and that for AEGIS's sensors it registers only by secondary effects on Kael (L108).
+
+Stands with the link as non-local and outside AEGIS's reality; recorded, not applied, and Q9 stays open.
+
+## 2026-10-06 — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing
+
+**The briefing calls the Moonshine-Link non-local and acausal, structurally invisible to AEGIS's sensors.**
+
+„This is a non-local“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L98] connection (L98); „Because it is non-local and acausal, the link is structurally invisible to AEGIS's sensors“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L101] (L101).
+
+Stands as a statement of the boundary from AEGIS's side, dated 2025-10-15; recorded, not settling the question.
+
+## 2026-10-06 — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc
+
+**The 39-part arc lets the Moonshine-Link become „a stable, conscious channel between Kael and Juna“ ^[coherence-protocol-a-39-part-narrative-arc.md:L48] in Story 19 and lead Kael to 'O'.**
+
+Story 19 (The Moonshine Anomaly) has the link evolve so; story 35 (The Other Fragment, 'O'): „Guided by Juna's Moonshine-Link, Kael follows the dissonant resonance to another being“ ^[coherence-protocol-a-39-part-narrative-arc.md:L73]. It names only Kael and Juna as the channel's ends.
+
+Stands as a statement of the link's reach in one outline, dated 2025-11-03; recorded, not settling the question.
+
+## 2026-10-06 — `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, the planning report
+
+**The planning report assigns the Moonshine-Link a definition slot in its database and proposes that AEGIS cannot see it; it draws no boundary.**
+
+In its table of open questions, the catalyst row asks how the link works technically, and the report gives the slot „Konzept-Definition in DB“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L361]: the link is to be defined in the database under Quantenverschränkung/Prehension. For Phase II it adds: „In Phase II muss gezeigt werden, dass AEGIS diesen Link“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L361] cannot be seen by AEGIS (Blinder Fleck).
+
+Stands as a proposal that places the question in a slot and names one limit, AEGIS's blindness; what the link carries and who feels it, the report does not say. The question stays open.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**AEGIS predicts the integrated state reaches it through the Moonshine-Link.**
+
+> „presented to the architecture via the primary sensory interface (the Moonshine-Link)“ ^[aegis-genesis-crisis-self-definition.md:L191]
+
+Where it stands: under Q9's first way of asking (what crosses), the log says the link carries the integrated state to AEGIS, in its forecast; the question stays open.

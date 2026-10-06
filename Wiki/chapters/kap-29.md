@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 29
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,10 @@ Title: „Kollidierende Realitäten“ ^[monstergruppe-primzahlen-plot-blueprint
 Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L291]
 
 - Plot: „Der Höhepunkt der Konfrontation.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318] „Kael (verkörpert M-Integration) und AEGIS (verkörpert reduktionistische Kontrolle) treffen direkt aufeinander“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318] — „ein Aufeinanderprallen inkompatibler Seinsweisen und Logiken.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L318]
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Die Versuchung der Ordnung
+
+- The concept with subplots titles Kapitel 29 „Die Versuchung der Ordnung“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L65]. It plans: „AEGIS kommuniziert direkt mit Kael, bietet ihm Stabilität, Integration in sein System oder ein Ende des Leidens an, wenn er sich unterordnet“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L65] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Paradox der Toleranz: Ethisches Dilemma
 
@@ -89,6 +93,10 @@ Position: scene 3.1 at „3.1 - The Überwelt, Outer Defenses“ ^[ai-assisted-n
 
 - The scene outline plans Chapter 29 within Chapters 27–30, „Cracking the Code“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L322], in Act III: The Confrontation and the New Reality — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Subverting the System
+
+- The plot framework titles Chapter 29 „Subverting the System“ ^[plot-generation-framework-for-the-coherence-protocol.md:L275]. It commissions: „Write a scene where Kael cleverly exploits one of AEGIS's rigid feedback loops, demonstrating his strategic shift from reacting to the system to actively“ ^[plot-generation-framework-for-the-coherence-protocol.md:L275] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The road of trials
 
 Title: „Straße der Prüfungen“ ^[romanstruktur-und-philosophische-einleitung.md:L236]
@@ -108,6 +116,10 @@ Position: Teil III; setting from the `Schauplatz` field: „Ein Daten-Wirbel im 
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kairos in the Lyons-Welt, Kapitel 26–29
 
 - under Leitfrage 5 it asks how Kairos, whom it calls the Möglichkeits-Weber, acts „mit Kaels sich entfaltender Kreativität in der Lyons-Welt (Kapitel 26-29)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L107]; the range is the report's account of a document it numbers (its source 2), and it names no single chapter within it.
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Konfrontation der Schöpfer
+
+- The plot synthesis plans Kapitel 29 as „Konfrontation der Schöpfer“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L115], set in `Architektur der Leere`, with the focus on Kael, Architekt. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die semipermeable Membran
 
@@ -160,6 +172,10 @@ Title: „Alles-oder-Nichts“ ^[kohaerenz-protokoll-kapitel-outline-generierung
 - Story: the dual-storyform outline plans „AEGIS zieht alle verbleibenden Ressourcen im Mnemosyne-Zentrum zusammen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L303]
 - Storyforms: `Storyform B` (`RS: Physics/Doing`): „Massive Interferenz der AEGIS-Signale“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L305]; `Storyform A` (`RS: Psychology/Becoming`): „Der Moonshine-Link zwischen Kael und Juna wird unzerstörbar“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L306]
 - Scene and pacing: `Pacing`: „Fokussiert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L307]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die Versuchung der Erlösung
+
+- The 39-chapter outline titles Kapitel 29 „Die Versuchung der Erlösung“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1095]. It plans: „Oblivion erhält ein letztes, perfides Angebot von AEGIS: Absolute Schmerzfreiheit durch völlige Unterwerfung unter den Sweep“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1097]; POV Oblivion (L1103) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

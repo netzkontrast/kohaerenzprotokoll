@@ -1,0 +1,265 @@
+{
+  "document": "projektplanung-fuer-kohaerenz-protokoll",
+  "drive_id": "1_E39KiFfAYe02p1WcfR3MVx0byJ87gRold8Ug7MA3MU",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 41,
+  "backslash_escapes": 166,
+  "typographic_marks": 203,
+  "ascii_quotes": 42,
+  "inflection_families": {
+    "inter": [
+      "Interessanterweise",
+      "Interessenkonflikte",
+      "Interferenz",
+      "Interferenzen",
+      "Internal",
+      "Interrogatorien",
+      "Interrogatories",
+      "Interrogatory",
+      "Intervention"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterblatt",
+      "Charakterdynamik",
+      "Charaktere",
+      "Charakterprofil",
+      "Charakterprofile",
+      "Charakters"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datenbankarchitektur",
+      "Datenbanken",
+      "Datenbankstruktur",
+      "Datenbankstrukturen",
+      "Datenbanktechnologie",
+      "Datenstruktur"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologisch",
+      "Ontologische",
+      "Ontologischem",
+      "Ontologischen",
+      "Ontologischer",
+      "Ontologisches",
+      "Ontology"
+    ],
+    "schre": [
+      "Schreib",
+      "Schreibanweisungen",
+      "Schreiben",
+      "Schreiber",
+      "Schreibprozess",
+      "Schreibprozesses",
+      "Schreibregel"
+    ],
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemfehler",
+      "Systemisch",
+      "Systemkarte",
+      "Systems",
+      "Systemzeit"
+    ],
+    "archi": [
+      "Archipel",
+      "Archipels",
+      "Architecture",
+      "Architekten",
+      "Architektonische",
+      "Architektur"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktdynamik",
+      "Konflikte",
+      "Konfliktpotenzial",
+      "Konflikts",
+      "Konfliktsimulation"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturellen",
+      "Strukturelles",
+      "Strukturen",
+      "Strukturierung",
+      "Strukturprinzip"
+    ],
+    "energ": [
+      "Energie",
+      "Energieaufwand",
+      "Energiehaushalt",
+      "Energiehaushalts",
+      "Energy"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitsschritte",
+      "Arbeitssystem",
+      "Arbeitstitel"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen"
+    ],
+    "proje": [
+      "Projekt",
+      "Projektdatenbank",
+      "Projekthistorie",
+      "Projekts"
+    ],
+    "regel": [
+      "Regel",
+      "Regelbasierte",
+      "Regelmäßiger",
+      "Regeln"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumente",
+      "Dokumenten"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropy"
+    ],
+    "erzäh": [
+      "Erzählen",
+      "Erzählung",
+      "Erzählweise"
+    ],
+    "final": [
+      "Final",
+      "Finaler",
+      "Finalisierung"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentierte",
+      "Fragmentierung"
+    ],
+    "gesch": [
+      "Geschehen",
+      "Geschichte",
+      "Geschichten"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationslöschung"
+    ],
+    "integ": [
+      "Integraler",
+      "Integration",
+      "Integrität"
+    ],
+    "irrev": [
+      "Irreversible",
+      "Irreversiblen",
+      "Irreversibler"
+    ],
+    "logik": [
+      "Logik",
+      "Logiken",
+      "Logikfehler"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auch",
+      "Auftauchen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Steine"
+    ],
+    [
+      "Eine",
+      "Einerseits"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Füge",
+      "Zusammenfügen"
+    ],
+    [
+      "Hero",
+      "Speicherort"
+    ],
+    [
+      "Idee",
+      "Ideen"
+    ],
+    [
+      "Info",
+      "Information"
+    ],
+    [
+      "Info",
+      "Informationen"
+    ]
+  ]
+}

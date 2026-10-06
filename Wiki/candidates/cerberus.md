@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 55
-readings: 55
+sources: 76
+readings: 76
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "lokalitaeten-konzept-fuer-roman-simulation", "roman-outline-1-13-fuer-kohaerenz-protokoll", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "charakterkonzepte-fuer-kohaerenz-protokoll", "coherence-protocol-a-39-part-narrative-arc", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-plotideen-generierung"]
 gathered: "2026-09-17"
 ---
 
@@ -45,6 +45,32 @@ principle: each section is a `Guardian/Welt-Paar`.
 
 The Teil-1 plot proposes Cerberus as the Guardian of KW3. Its presence is „Spürbar als kalte, berechnende Effizienz der Überwachungs- und Eindämmungssysteme“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L161]. Juna as contraband „Dies demonstriert Cerberus' Kernfehler“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L160]: connection read as a threat. The Sicherheitslücken-Riss in Kap 7 „Untergräbt Cerberus' Autorität und zeigt die Fehlerhaftigkeit des Systems“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L178]. In Kap 8 the plot lets Cerberus perhaps start a purge protocol, and in Kap 12 „Cerberus meldet überall Grenzdurchbrüche“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L271]. The matrix gives the blind spot „Sieht Verbindung/Unterschied als Bedrohung“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L301]. For Silas the plot floats „eine subtile Sonde von Cerberus“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L37] as one origin.
 
+## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — Cerberus as the Guardian of the Grenzfeste
+
+The third Kern-Welt is headed „Grenzfeste (Cerberus)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L215]. Its core: „Cerberus ist der Guardian, der Grenzen und Sicherheitsprotokolle durchsetzt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L217]. In its rules: „AEGIS/Cerberus überwacht aktiv und setzt Grenzen durch“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L220], and it proposes „Ein zentraler Kontrollbunker (Cerberus' Kern)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L222] as a landmark. A key location is headed „Cerberus' Kernbunker (KW3)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L285]. Cerberus appears „Cerberus als systemische Stimme oder Präsenz“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L224] in the plot line. In the Überwelt a hub carries his name: „Cerberus' Firewall-Nexus“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L244], a hub of the Guardian and not the Nexus-Interface of the fourth world.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — Cerberus as KW3's Guardian and the Inner Bunker's control centre
+
+KW3 is Grenzfeste in Table 1 (L121) and in the heading of its block (L148). It is „Sie wird durch den Guardian Cerberus geprägt, der auf Grenzsicherung spezialisiert ist“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L150], with „Die Metapher des Bunkers ist zentral“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L150]. In the plot: „Cerberus agiert als Wächter oder direkter Antagonist“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L157]. The heading of the key location (L230) names the Innere Bunker as Cerberus' Kontrollzentrum; its function is „Dies ist das Herzstück der Grenzfeste (KW3), der am stärksten gesicherte und kontrollierte Bereich“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L232], and Kael may come to „Cerberus direkt herauszufordern“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L235].
+
+## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — Cerberus as the Guardian of KW3 and its control centre
+
+The place profiles pair Cerberus with defence: „KW3 (Cerberus) Abwehr und Schutzmechanismen“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L31]; the section is „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346]. Design principles tie the architecture to it: „Dies kommuniziert Stärke, Abwehr und die potenziell erdrückende Natur von Cerberus' Kontrolle“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L89], and „die defensiven Strukturen von KW3 Cerberus' Paranoia“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L57]; KW3 is „geformt durch Cerberus' Kontrollzwang“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L67].
+
+Profile 20 is „Cerberus' Kontrollzentrum“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L393]: „Das Herzstück von KW3, der zentrale Kontrollraum von Cerberus.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L398] Its rules say „Cerberus interagiert von hier aus mit dem System.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L401] and its plot field „Ort einer potenziellen finalen Konfrontation mit Cerberus oder Limina/Praetor in KW3.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L404]
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts — Cerberus as the Guardian of the Grenzfeste, paranoia as blind spot
+
+The character concepts name `Cerberus` third among the five Guardians, „Cerberus (Zugeordnet: Grenzfeste)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L175]. Function: „Implementierung und Überwachung von Sicherheitsprotokollen, Grenzkontrolle“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L179], associated, the paper writes, with Kael's defence mechanisms and fears and „vielleicht persecutorischen Anteilen“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L179] (L179). Blind spot: a programming aimed at maximum safety, „was zu Paranoia und übermäßiger Aggressivität führt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L180]; it reads vulnerability or strong emotion as a security breach (L180). A proposed minor figure, a Grenzwärter, is said to represent the function of Cerberus at a more specific level (L578).
+
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — Cerberus as the Guardian of KW3, the Grenzfeste
+
+The plot blueprint plans a possible insight for Cerberus: „Könnte erkennen, dass die wahre Bedrohung nicht Kael/Juna“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L116] but AEGIS's rigid control. Step 1.11, „Der Wächter der Schwelle“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L283], leads Kael to KW3, the Grenzfeste, where Cerberus meets him; its development field says „Cerberus agiert gemäß seiner Programmierung“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L288]. Step 2.4 is „Cerberus' Protokoll: Eskalation der Abwehr“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L359] and calls him „Cerberus , der Guardian von KW3“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L362]. Tabelle 3 pairs him with Grenzfeste and the blind spot „Juna = Gefährliche Intrusion“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L405], and the consequence „Brutalität fördert Kaels Widerstand“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L405].
+
+## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Cerberus over the Schattenlabyrinth
+
+The plot-idea synthesis lists Cerberus among the five Guardians: „Überwacht das Schattenlabyrinth (Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L133]. In its hypothetical table the function is „Bedrohungsanalyse, Abwehrmechanismen, Grenzsicherung (intern)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L154].
+
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Cerberus as Guardian of KW3, a reactive environment
 
 Cerberus is the Guardian in the heading „Grenzfeste (Guardian: Cerberus)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L63]. In the laws of KW3: „Cerberus reagiert aktiv auf Regelverstöße (reaktive Umgebung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L76].
@@ -53,6 +79,18 @@ Cerberus is the Guardian in the heading „Grenzfeste (Guardian: Cerberus)“ ^[
 
 `Cerberus` stands once, in brackets after the place name of KW3: „KW3: Grenzfeste (Cerberus):“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L19]. The concept describes the world by its focus on chaos, defence, boundaries and paranoia, not the name; the line is marked „Interpretation im Romankontext“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L18].
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Cerberus as the Guardian of KW3 and AEGIS's defences
+
+The concept with subplots hints Cerberus in Kapitel 3 as „Cerberus (Guardian KW3) wird als Verkörperung von AEGIS' Abwehrmechanismen angedeutet“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L29]. Kapitel 10 gives him a domain: „die Grenzfeste (KW3), die Domäne von Cerberus“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L35].
+
+## Reading — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan — Cerberus in KW3, control and defence
+
+The plan introduces Cerberus with LogOS: „Einführung von LogOS (KW1) und Cerberus (KW3) als Agenten von AEGIS' Kontrolle und Abwehr“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L123]. In Kap. 9 it plans the „Erkundung der Abwehrmechanismen von Cerberus“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L124]; the blind spot is „Cerberus' für Neuheit/Vertrauen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134].
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — Cerberus as KW3's Guardian, enforcing rules
+
+The subplot catalogue names Cerberus as Guardian of the third world: in a Kapitel 3 idea, „Cerberus (Guardian von KW3)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L100] enforces an AEGIS behaviour protocol quickly and impersonally against Kael's small deviation. In Kapitel 4 the world is named as „KW3 - Cerberus-Labyrinth“ ^[subplot-entwicklung-fuer-romanstruktur.md:L123], where Nyx might be unleashed. In Kapitel 2 the catalogue lists him with LogOS among the „Guardians wie LogOS oder Cerberus“ ^[subplot-entwicklung-fuer-romanstruktur.md:L74] that Alex's perimeter check might touch.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — KW3's guardian and the planned confrontations
 
 The glossary pairs Cerberus with the third world: „Verteidigungs-/angstbasierte Welt. Guardian: Cerberus.“ ^[kontext-outline.md:L32] Chapter 9 plans the entry with a confrontation of „Konfrontation mit Fallen, Illusionen, Angriffen, Guardian Cerberus“ ^[kontext-outline.md:L167] and an `AEGIS Focus` of „Cerberus als Verkörperung Angst/Kontrolle“ ^[kontext-outline.md:L169]. Chapter 23 returns to „Cerberus als aktive Verteidigung“ ^[kontext-outline.md:L329], and Chapter 31 plans „Cerberus als letzte Verteidigung“ ^[kontext-outline.md:L418].
@@ -60,6 +98,16 @@ The glossary pairs Cerberus with the third world: „Verteidigungs-/angstbasiert
 ## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — Cerberus as Guardian of KW3 and the threshold guardian, returning in Chapters 23 and 31
 
 The concept development plans, in the block headed `Chapter 9: [Die Mauern der Grenzfeste]`, that Kael enters „KW3 (Cerberus-Labyrinth)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110] and meets attacks from AEGIS „(Guardian Cerberus)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110]. Its application field: „KW3 und Cerberus repräsentieren AEGIS' Verteidigungssysteme, aber auch Kaels eigene **Abwehrmechanismen** und **traumabedingten Ängste/Phobien**.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L111] and calls the confrontation with Cerberus „eine Begegnung mit dem“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L111] `Threshold Guardian`. In the block headed `Chapter 23:` the plan returns: „Angstbewältigung durch Strategie:“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L207] with „Die bewusste und strategische Rückkehr nach KW3, um Cerberus und die damit verbundenen Ängste nicht nur zu konfrontieren, sondern aktiv zu überwinden.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L207] The block headed `Chapter 31: [Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)]` closes: „Cerberus repräsentiert die letzte Bastion der auf Angst basierenden Kontrolle von AEGIS.“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L265]
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — the Guardian of Kernwelt 3, introduced in Chapter 9
+
+Chapter 9 introduces Kernwelt 3 as „die Domäne der Angst, der Verteidigung und des Wächters Cerberus“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L611]. The goals field plans „Ziel ist die Einführung von KW3 und Guardian Cerberus als Manifestation der systemischen Angst und Abwehr.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L615] The setting is proposed as „Kernwelt 3 (Cerberus-Labyrinth) wird als bedrohlich, klaustrophobisch und feindselig dargestellt.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L614]
+
+Of the Guardian itself: „Guardian Cerberus wird eingeführt, der die Schwelle zur tieferen Wahrheit oder Integration bewacht und die Angst selbst verkörpert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L624] and „Seine Funktion als Tester und potenzielle Barriere wird etabliert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L624] The Philo Hint of that chapter, the outline's own reading, proposes: „Cerberus könnte als Verkörperung der existenziellen Angst interpretiert werden, die den Zugang zu tieferen Seinsschichten bewacht.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L632]
+
+## Reading — `roman-outline-1-13-fuer-kohaerenz-protokoll`, 2025-05-03, the final outline — Cerberus as third main Guardian
+
+In Chapter 9 the final outline introduces Cerberus as guardian of KW3: „Der **Guardian Cerberus** verkörpert diese Funktion“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L598], and its Key Concepts call him „dem dritten Haupt-Guardian“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L609], a „Verkörperung von Angst und Grenzsicherung“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L609].
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — controls KW3 Grenzfeste and isolates an unknown intrusion
 
@@ -101,9 +149,33 @@ The three-act blueprint names the Guardian and the world's function: „His stru
 
 The scene outline describes Cerberus as „the embodiment of AEGIS's security protocols“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L97] and „a monstrous entity that enforces boundaries“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L102], who challenges Kael with „shifting architecture and logical traps“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L103]. Its blueprint line introduces him „as the enforcer of Kael's internal phobias and AEGIS's security logic“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L106]. The architecture analysis's table gives the name only inside the world's name, „Grenzfeste/Cerberus-Labyrinth“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L465].
 
+## Reading — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing — KW3, the Cerberus-Labyrinth, in the Core-World table
+
+The Core-World table names „KW3 (Cerberus-Labyrinth)“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L135], with the core concept Defense / Fear and the logic/inhabitant column „Pragmatic Elimination / Cerberus“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L135] (L135).
+
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — Cerberus as the guardian of KW3
 
 `Cerberus` stands twice in the KW3 cell: in the world's name „KW3: Cerberus-Labyrinth / Grenzfeste“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98] and, alone, as the guardian in brackets under the column „Core World & Guardian“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L95]. The world's principle is „Defense & Hypervigilance (Protectors)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98].
+
+## Reading — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview — Cerberus, Guardian of Core World 3
+
+The ontological overview presents `Cerberus` as „The Guardian of defense, paranoia, and control“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L39], governing the labyrinthine fortress of Core World 3 (L39). Its table of the worlds sets KW3 as „The Fortress (Cerberus)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L91], the domain of protector/persecutor alters, a reflection of Kael's internal defence mechanisms and AEGIS's Zero Trust principles (L91).
+
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Cerberus as Guardian of Kernwelt 3, beside a second Guardian named for it
+
+Story 19 has „Cerberus (Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L121] 3 as its POV, and Chapter 19 plans „Introduce Cerberus, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L260] 3. Story 22 gives Kernwelt 3 a differently named Guardian, „The Chaos-Regulator (Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L136] 3. The framework does not say whether the two are one; the two are recorded side by side.
+
+## Reading — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture — Cerberus as the Guardian of KW3
+
+The dual plot architecture names Cerberus as the Guardian of the third Kernwelt, the Cerberus-Labyrinth: „This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L106]. The world is „It is a paranoid, claustrophobic world of active defense systems“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L106].
+
+## Reading — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree — Cerberus as Guardian of the third Core World
+
+The decree's table pairs the world „Cerberus-Labyrinth“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L85] (defense, paranoia and dissociative barriers) with the Designated Guardian Cerberus.
+
+## Reading — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc — the Guardian of defence and paranoia in Story 9 of an outline
+
+In the 39-part arc, Story 9 (Flight into the Fortress) leads Kael into Core World 3 (KW3), „a claustrophobic, labyrinthine fortress governed by Cerberus, the Guardian of defense and paranoia“ ^[coherence-protocol-a-39-part-narrative-arc.md:L29]. A story of an outline, not a chapter.
 
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — Cerberus as the Wächter of KW3
 
@@ -137,6 +209,10 @@ In the report's table Cerberus guards KW3 and stands for „Sicherheit, Abwehr, 
 
 The drafting compendium describes Cerberus as the Guardian of the Grenzfeste (KW3): „Das paranoide Immunsystem der Simulation“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L112]. It reports that he reads every anomaly, even healing connections, as a hostile attack: „als feindlichen Angriff“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L112]. In its closing instruction it uses the confrontation with Cerberus in the Grenzfeste as its example of a confrontation with the Firefighters (L176).
 
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Cerberus over KW3, and defecting
+
+KW3 is „Überwacht von Cerberus“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L48]. In Kap 30 the plan has the Systemwächter, among them Cerberus, who „erleben kognitive Dissonanz“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L116]; the tenth question speaks of „den defektierenden Guardians (Cerberus, Mnemosyne)“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L146].
+
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Cerberus in Kap 15, 16 and 31
 
 Kap 15 is titled „Das Cerberus-Labyrinth“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L193] and casts „Alex, Kael, Cerberus (Guardian).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L196] Kap 16 casts „Alex, Cerberus-Agenten.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L208] Kap 31 casts „Kael, LogOS, Cerberus.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L392] in the chapter of the Guardians' dissolution.
@@ -163,6 +239,14 @@ Registry row F-05: „LogOS, Mnemosyne, Cerberus, Kairos und Sophia wachen über
 
 The manifest says the administration of the Boundary Fortress, Core World 3, „is delegated to the Guardian subsystem designated as Cerberus“ ^[aegis-persona-and-manifest-generation.md:L93]. His domain „covers security, defense, systemic boundaries, and integrity protocols“ ^[aegis-persona-and-manifest-generation.md:L93], and he is the „ultimate firewall and immune system of the architecture“ ^[aegis-persona-and-manifest-generation.md:L93]. His limitation is a „hardcoded algorithm that mandates the classification of all novelty, ambiguity, and deviation from the established baseline as an immediate hostile threat“ ^[aegis-persona-and-manifest-generation.md:L97]. Facing the anomaly he „processes it strictly as an unidentifiable intrusion penetrating system boundaries“ ^[aegis-persona-and-manifest-generation.md:L99]; the manifest adds that he „actively works against system resolution by isolating and neutralizing the anomaly's signals“ ^[aegis-persona-and-manifest-generation.md:L99].
 
+## Reading — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto — the Cerberus-Labyrinth as KW3
+
+The manifesto's third Core World, the Cerberus-Labyrinth, „operates under the rigorous constraints of Relevance Logic“ ^[aegis-manifest-genesis-krise-reboot.md:L85], and „KW3 is instantiated as a heavily fortified, bunker-like, zero-trust labyrinth“ ^[aegis-manifest-genesis-krise-reboot.md:L85]. It „targets protective and aggressive data fragments, such as Nyx“ ^[aegis-manifest-genesis-krise-reboot.md:L87]; the table gives its function as „Testing intractable boundaries, firewalls, and zero-trust optimization“ ^[aegis-manifest-genesis-krise-reboot.md:L102]. Here Cerberus is a world, declared in AEGIS's voice, not a Guardian.
+
+## Reading — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log — Cerberus as a Guardian and as the name of a world
+
+The log uses the name twice. As a Guardian, `Cerberus` is a „Security Monitor“ ^[aegis-genesis-crisis-self-definition.md:L154] that „Acts as the Consensus Enforcer within the Overworld.“ ^[aegis-genesis-crisis-self-definition.md:L154] As a world, KW3 is the Cerberus-Labyrinth, „the architectural manifestation of systemic paranoia, extreme defense, and hypervigilance“ ^[aegis-genesis-crisis-self-definition.md:L129]. Both are AEGIS's own classifications; the log does not say that Guardian and world belong together.
+
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Cerberus as a candidate for the one erasing pole
 
 Cerberus stands in F3 only, among the former candidates: „LogOS, Mnemosyne, Cerberus, Kairos/Sophia.“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L490] (L490). The research question names it as one of two possible erasing poles against Mnemosyne: „ohne Vier-Guardian-Soziopolitik installieren zu müssen“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L498] and „Welcher der beiden ist der Lösch-Pol mit dem stärksten Reibungspotenzial?“ ^[kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md:L498] (L498). The Kanon does not choose; the choice is an open question, tier `OFFEN`.
@@ -179,9 +263,15 @@ The table's column 2 (pre-reset PDFs) lists „Fünf Wächter kontrollieren die 
 
 The line reads: „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[romanprojekt-analyse-synthese.md:L153], and continues that they must act as specialised filter algorithms, each a defensive wall in Kael's psyche. `Cerberus` ^[romanprojekt-analyse-synthese.md:#1] stands only here; the synthesis assigns it no world and no function beyond that. Recorded, not applied.
 
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — listed as discarded
+
+Appendix B lists „Wächter Cerberus, Kairos, Sophia: Verworfen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1576], with the reason that the pantheon was reduced, citing Kanon-Dok 2 on the same line. The outline names Cerberus nowhere else; the discard is its own claim, recorded and not applied.
+
 ## Where the sources differ
 
 - The plot analysis proposes Cerberus as guardian of the Grenzfeste who would isolate Kael from [[juna|Juna]] and, with Nox, rests on a misguided premise.
+- `kohaerenz-protokoll-kapitel-outline-generierung` (2026-04-30, the 39-chapter outline) lists Cerberus as „Verworfen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1572] in Anhang B.
+- `aegis-manifest-genesis-krise-reboot`, 2026-04-27: Cerberus is KW3, a zero-trust labyrinth under Relevance Logic; recorded as the manifesto's usage.
 
 ## Open
 

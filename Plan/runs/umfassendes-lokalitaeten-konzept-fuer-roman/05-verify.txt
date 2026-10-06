@@ -1,0 +1,110 @@
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "impliziert"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`impliziert` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#6]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Nebenfigur"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Nebenfigur` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#11]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Konzeptueller Kern & Narrative Funktion"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            31
+
+`Konzeptueller Kern & Narrative Funktion` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#31]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Kern-Welten"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Kern-Welten` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#20]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Risse"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            75
+
+`Risse` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#32]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Überwelt"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Überwelt` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#19]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Master-Liste"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Master-Liste` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#1]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Anhang"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anhang` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#1]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#1]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Welt-Bibel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Welt-Bibel` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#1]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Post-Reboot"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Post-Reboot` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#0]
+$ python3 scripts/read.py umfassendes-lokalitaeten-konzept-fuer-roman --count "Rissen"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            43
+
+`Rissen` ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:#43]
+$ grep -c "^ *- \\\\\*\\\\\*[0-9]*\. " (numbered place headings)
+33
+$ grep -E numbered place headings with line numbers
+27:  - **1. Psychologische Landschaften (Psychological Landscapes):**
+39:  - **2. Gestaltung Digitaler/Virtueller Realitäten (Designing Dig
+108:  - \*\*1. Kaels Initiale Wohneinheit \*\*
+123:  - \*\*2. Standardisierter Transitkorridor \*\*
+138:  - \*\*3. Datenknotenpunkt Gamma-7 (Kaels Arbeitsplatz) \*\*
+153:  - \*\*4. Steriler Pausenbereich \*\*
+168:  - \*\*5. Interface/Spiegelnde Wand \*\*
+183:  - \*\*6. Designierte Schlafnische \*\*
+198:  - \*\*7. "Schnittstelle für Mentale Gesundheit" (Therapie-Ort) 
+213:  - **8. Regel-Exekutor Überwachungsposten \[impliziert durch Cha
+228:  - **9. Öffentlicher Platz/Forum (Ort formaler Interaktion) \[ne
+243:  - \*\*10. Ankunftszone (Neblig, instabil) \*\*
+258:  - \*\*11. "Vergessener Schrein" / Kern-Trauma-Lokus \*\*
+273:  - \*\*12. Ort spezifischer Juna-Erinnerung (warm/schmerzhaft) \*
+288:  - \*\*13. Zone Emotionaler Stürme \*\*
+303:  - \*\*14. Die "Narbe" der Vergangenheit \*\*
+318:  - \*\*15. Mnemosynes "Archiv"-Schnittstelle (Zugang zu Erinnerun
+333:  - **16. Der Echowald / Ort des "Verlorenen Kindes" \[neu, vgl. C
+348:  - \*\*17. Übergangsschleuse/Kontrollpunkt \*\*
+363:  - \*\*18. Versteckte Nische / "Auge des Sturms" \*\*
+378:  - \*\*19. Ort der Konfrontation/Falle (wo Kael gefangen wird) \*
+393:  - \*\*20. "Innerer Bunker" / Cerberus' Kontrollzentrum \*\*
+408:  - \*\*21. Zerfallende Mauer / Riss-Zone \*\*
+423:  - **22. Grenzwärter Außenposten \[impliziert durch Charakter\]
+438:  - \*\*23. Ankunftszone (Chaotisch, generativ) \*\*
+453:  - \*\*24. Ort der "Anya"/Muse-Begegnung \*\*
+468:  - \*\*25. "Nexus-Knoten" / Interface zum Potenzial \*\*
+483:  - \*\*26. Ort der Mosaik-Metapher / Integration \*\*
+498:  - \*\*27. Ort der Finalen Prüfung (instabil) \*\*
+513:  - \*\*28. Junas "Ankerpunkt" / Symbolort \*\*
+528:  - **29. Orakel-Schnittstelle? \[impliziert durch Charakter\]**
+543:  - \*\*30. AEGIS Analyse-Hub / Guardian Koordinationszentrum \*\*
+558:  - \*\*31. Schnittstelle zu den Kern-Welten (Visualisierung) \*\*
+stance_marker_count 17 = 6 + 11
+census numbers (220, 199, 234, 18, 31, 30) are from 01-profile.txt and census-draft.md facts; 03-candidates counts in 04-counts.txt

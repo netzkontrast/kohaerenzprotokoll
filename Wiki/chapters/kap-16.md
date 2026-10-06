@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 32
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,14 @@ Position: „Trauma & NET (Mustererkennung) / IFS (Funktion der Vermeidung)“ ^
 - Story: from inside the Bunker of Kapitel 15, Kael recognises the retreat as a recurring survival pattern and meets it with compassion rather than fighting it, „Mitgefühl. Das war das Gefühl, das nun im Zentrum des Selbst aufstieg.“ ^[kohaerenz-protokoll.md:L1692], which lets the Juna-resonance reach him again and leads him to a plan for a resonance-based, not a purely logical or avoidant, protocol, „Er brauchte ein neues Protokoll. Kein rein logisches, kein rein vermeidendes.“ ^[kohaerenz-protokoll.md:L1742]
 - Close: the chapter ends the first cycle, „Der erste Zyklus war fast abgeschlossen. Der Bruch war geschehen. Der Rückfall war erkannt und überwunden.“ ^[kohaerenz-protokoll.md:L1748]
 - Voice: third person on Kael; his inner Anteile (Manager, Kind, Schatten, Selbst) speak in italics.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Begegnung mit den Wächtern
+
+- The concept with subplots titles Kapitel 16 „Begegnung mit den Wächtern“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L47]. It plans: „Kael interagiert direkter mit den Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) in der Überwelt oder ihren Domänen“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L47] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — Meta: Identifikation wiederkehrender Muster/Zyklen/Feedbackschleifen
+
+- The subplot catalogue analyses Kapitel 16 under the phase „Identifikation wiederkehrender Muster/Zyklen/Feedbackschleifen“ ^[subplot-entwicklung-fuer-romanstruktur.md:L438] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Archäologie der Seele: Gezielte Erinnerungssuche in
 
@@ -90,6 +98,10 @@ Position: the scene outline plans the scene at „2.3 - Mnemosyne-Archipel (KW2)
 
 - The scene outline plans Chapter 16 as „Mnemosyne's Grip and Kiko's Fear“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L209], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Logic of Trauma
+
+- The plot framework titles Chapter 16 „The Logic of Trauma“ ^[plot-generation-framework-for-the-coherence-protocol.md:L257]. It commissions: „Introduce Mnemosyne, the Guardian of Kernwelt 2, to establish the counter-philosophy of dialetheic logic (holding contradictions), hinting at the true path to healing that“ ^[plot-generation-framework-for-the-coherence-protocol.md:L257] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The hard problem
 
 Title: „Das Hard Problem“ ^[romanstruktur-und-philosophische-einleitung.md:L154]
@@ -105,6 +117,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Glitch-Landschaften (
 
 - Cast: the `Charaktere/Linsen` field lists „AEGIS (Parser), Kael, LogOS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L185]
 - Story: the blueprint plans, in `Plot-Beats`, „Das Resultat sind Albtraumlandschaften, in denen Kausalität invertiert ist“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L187] and „da logisches Denken in dieser Falle tödlich ist“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L187]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Spiegelbilder im Code
+
+- The plot synthesis plans Kapitel 16 as „Spiegelbilder im Code“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L92], set in `Code-Schichten`, with the focus on Kael, Mnemosyne. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Consensus Enforcer
 
@@ -163,6 +179,10 @@ Title: „Das Halteproblem“ ^[kohaerenz-protokoll-kapitel-outline-generierung-
 - Story: the dual-storyform outline plans „Lex analysiert Kaels eigene Unfähigkeit, den Ausgang der Simulation vorherzusagen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L193]
 - Storyforms: `Storyform B` (`OS: Psychology/Being`): „Das System AEGIS gerät in eine Endlosschleife“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L195]; `Storyform A` (`MC: Mind/Memory`): „Fragmente der Kindheit vor der Simulation tauchen auf“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L196]
 - Scene and pacing: `Pacing`: „Stetig, intellektuell fordernd“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L197]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Somatische Dissonanz
+
+- The 39-chapter outline titles Kapitel 16 „Somatische Dissonanz“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L617]. It plans: „Die rigoros unterdrückten Emotionen brechen sich durch heftige somatische Reaktionen Bahn, die das AEGIS-System völlig falsch interpretiert“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L619]; POV Alex / Selene (L625) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

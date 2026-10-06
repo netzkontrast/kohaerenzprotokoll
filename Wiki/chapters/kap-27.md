@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 28
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,10 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: „Angesichts von AEGIS' Angriff erreicht Kael den Höhepunkt seiner Integration.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] „Seine fragmentierten Alters verschmelzen zu einem kohärenten Ganzen, das im Einklang mit seiner M-Resonanz und der Moonshine-Verbindung steht.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
 - Establishes: „Er erreicht die Phase“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] of „Wissen, dass er weiß.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Eintritt in die Höhle des Löwen
+
+- The concept with subplots titles Kapitel 27 „Eintritt in die Höhle des Löwen“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L63]. It opens „Teil 3: Die Äußere Konfrontation & Rückkehr“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L59]. It plans: „Kael beginnt mit der Umsetzung seines Plans“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L63] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Sturm beginnt: Direkte Konfrontation mit AEGIS
 
@@ -91,6 +95,10 @@ Position: scene 3.1 at „3.1 - The Überwelt, Outer Defenses“ ^[ai-assisted-n
 
 - The scene outline plans Chapter 27 within Chapters 27–30, „Cracking the Code“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L322], in Act III: The Confrontation and the New Reality — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — A World Remade
+
+- The plot framework titles Chapter 27 „A World Remade“ ^[plot-generation-framework-for-the-coherence-protocol.md:L273]. It opens „Act III: The Liberation“ ^[plot-generation-framework-for-the-coherence-protocol.md:L269]. It commissions: „Show Kael re-entering a familiar world and using his new perception to navigate it with newfound power, demonstrating the tangible benefits of his transformation“ ^[plot-generation-framework-for-the-coherence-protocol.md:L273] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The call to adventure
 
 Title: „Ruf zum Abenteuer“ ^[romanstruktur-und-philosophische-einleitung.md:L228]
@@ -113,6 +121,10 @@ Position: Teil III; setting from the `Schauplatz` field: „Epsilon-Null (Das Po
 
 - under Leitfrage 5 it asks how Kairos, whom it calls the Möglichkeits-Weber, acts „mit Kaels sich entfaltender Kreativität in der Lyons-Welt (Kapitel 26-29)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L107]; the range is the report's account of a document it numbers (its source 2), and it names no single chapter within it.
 
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Der radikale Bruch
+
+- The plot synthesis plans Kapitel 27 as „Der radikale Bruch“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L113], set in `Rand der Überwelt`, with the focus on Kael, Juna. It opens „Teil III: Das Parakonsistente Gambit“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L104]. A plan, not the chapter as written.
+
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Sprung ins Nichts
 
 Title: „Der Sprung ins Nichts“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L341] — heading „Akzeptanz der Entropie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L342]
@@ -132,6 +144,14 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 8, waking in Köln (Kap 27/35)
 
 - A guiding question for Kap 27/35 — the report gives both numbers — a proposal: „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96] He falls onto „das nasse, schmutzige Kopfsteinpflaster der Kölner Südstadt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96], into the noise of the carnival; the external level is indifferent to him.
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Akt III opens
+
+- The refactoring plan opens „Refactoring Akt III: Die Fusion und das Mosaik-Herz (Kapitel 27 – 39)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L108], the crescendo, where the borders of the Konstrukt-Stadt, the Überwelt and the reader's reality flicker (L110) — a plan, not the chapter as written.
+
+## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — Phase III opens, the Gödel-Gambit
+
+- The architecture report opens Phase III, „Die Existenzielle Fusion und das Mosaik-Herz“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L186], for Kapitel 27–39: Kael uses the limits of mathematics to carry out the Gödel-Gambit and AEGIS's dictator algorithm crashes — a plan, not the chapter as written.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in KW4, an overgrown ruined garden in warm light
 
@@ -176,6 +196,10 @@ Title: „Der Marsch zum Vortex“ ^[kohaerenz-protokoll-kapitel-outline-generie
 
 - The reset synthesis opens Phase III with the heading „Die existenzielle Fusion (Kapitel 27–39)“ ^[romanprojekt-analyse-synthese.md:L58]
 - It says: „Kael wählt den Sprung ins Nichts“ ^[romanprojekt-analyse-synthese.md:L60]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die brennenden Archive
+
+- The 39-chapter outline titles Kapitel 27 „Die brennenden Archive“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1017]. It opens „Akt III — Kapitel 27–39“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1013]. It plans: „Der Einschlag des Sweeps auf das Archipel beginnt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1019]; POV Kael / Lex (L1025) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

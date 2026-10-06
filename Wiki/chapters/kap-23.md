@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 29
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,10 @@ Position: „Selbst-Schöpfung / Mosaik-Herz“ ^[kohaerenz-protokoll.md:L2396] 
 - Story: a new assignment, „PROJEKT: SYSTEM-HARMONISIERUNG GAMMA-OMEGA-PRIME.“ ^[kohaerenz-protokoll.md:L2416], supervised directly by „SUPERVISION: DIREKT DURCH PMAS (PREDICTIVE MODELING & ADAPTATION SUBSYSTEM).“ ^[kohaerenz-protokoll.md:L2428]; Kael stops forcing a merger of Co1 and McL logics and instead loosens control to let them self-organise, „Er musste vom Architekten zum Gärtner werden.“ ^[kohaerenz-protokoll.md:L2454]
 - Close: PMAS's own report closes both this task and Kapitel 17's, „Die 36 Stunden liefen ab. Die Kohärenz-Metrik erreichte 99.97%, stabilisierte sich dort in einem dynamischen, atmenden Gleichgewicht.“ ^[kohaerenz-protokoll.md:L2478], „BETREFF: PROJEKT KDSI-GAMMA-7“ ^[kohaerenz-protokoll.md:L2486] — the project Kapitel 17 assigns, timed there at the same 36 hours.
 - Voice: third person on Kael; AEGIS/PMAS speak only in capitalised system text.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Preis des Wissens
+
+- The concept with subplots titles Kapitel 23 „Preis des Wissens“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L54]. It plans: „AEGIS registriert Kaels wachsendes Verständnis und seine Suche nach dem“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L54] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Den Wächter überlisten: Strategische Konfrontation in KW
 
@@ -91,6 +95,10 @@ Position: scene 2.6 at „2.6 - A simulated "safe space" within KW1“ ^[ai-assi
 
 - The scene outline plans Chapter 23 as „AEGIS's Reaction to Kael's Progress“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L273], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Second Cycle's Cost
+
+- The plot framework titles Chapter 23 „The Second Cycle's Cost“ ^[plot-generation-framework-for-the-coherence-protocol.md:L264]. It commissions: „Write the second failed test cycle, escalating the psychological cost to the system and increasing the characters' desperation as their internal world becomes more“ ^[plot-generation-framework-for-the-coherence-protocol.md:L264] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The glitch as freedom
 
 Title: „Der Glitch als Freiheit“ ^[romanstruktur-und-philosophische-einleitung.md:L196]
@@ -107,6 +115,10 @@ Position: Teil II; setting from the `Schauplatz` field: „AEGIS-Verteidigungsne
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, AEGIS“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L241]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael entwickelt ein Meta-Bewusstsein“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L243] and „als ein fragiles, verzweifeltes Konstrukt, das an seinem eigenen Unvollständigkeitssatz scheitert“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L243]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Trauma als Datenstrom
+
+- The plot synthesis plans Kapitel 23 as „Trauma als Datenstrom“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L99], set in `KW2 Tiefe`, with the focus on Kiko, Rhys. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Resonanzkaskade
 
@@ -160,6 +172,10 @@ Title: „Verrat der Logik“ ^[kohaerenz-protokoll-kapitel-outline-generierung-
 - Story: the dual-storyform outline plans „Gaslighting auf systemischer Ebene“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L250]
 - Storyforms: `Storyform B` (`RS: Physics/Obtaining`): „AEGIS versucht, Juna als Datenpaket zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L252]; `Storyform A` (`RS: Psychology/Conceiving`): „Kael begreift, dass Juna radikal exterior ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L253]
 - Scene and pacing: `Pacing`: „Emotional schwer“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L254]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Das Rauschen vor dem Sturm
+
+- The 39-chapter outline titles Kapitel 23 „Das Rauschen vor dem Sturm“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L875]. It plans: „AEGIS registriert die unaufhaltsam akkumulierte Hitze und bereitet einen massiven, allumfassenden Erasure-Sweep zur totalen Bereinigung vor“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L877]; POV AEGIS / Alex (L883) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

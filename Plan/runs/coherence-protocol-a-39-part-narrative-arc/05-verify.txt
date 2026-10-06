@@ -1,0 +1,158 @@
+$ read.py --count "Story"
+whole word, case-sensitive     39
+whole word, case-insensitive   57
+including compounds            39
+
+`Story` ^[coherence-protocol-a-39-part-narrative-arc.md:#39]
+$ read.py --count "synopsis"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`synopsis` ^[coherence-protocol-a-39-part-narrative-arc.md:#7]
+$ read.py --count "KW1"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`KW1` ^[coherence-protocol-a-39-part-narrative-arc.md:#7]
+$ read.py --count "KW2"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`KW2` ^[coherence-protocol-a-39-part-narrative-arc.md:#5]
+$ read.py --count "TSDP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`TSDP` ^[coherence-protocol-a-39-part-narrative-arc.md:#3]
+$ read.py --count "ANP"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            10
+
+`ANP` ^[coherence-protocol-a-39-part-narrative-arc.md:#7]
+$ read.py --count "EPs"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`EPs` ^[coherence-protocol-a-39-part-narrative-arc.md:#6]
+$ read.py --count "functional multiplicity"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`functional multiplicity` ^[coherence-protocol-a-39-part-narrative-arc.md:#4]
+$ read.py --count "Gnosis"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gnosis` ^[coherence-protocol-a-39-part-narrative-arc.md:#3]
+$ read.py --count "Episteme"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Episteme` ^[coherence-protocol-a-39-part-narrative-arc.md:#3]
+$ read.py --count "D2"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`D2` ^[coherence-protocol-a-39-part-narrative-arc.md:#2]
+$ read.py --count "Das Fundament"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Das Fundament` ^[coherence-protocol-a-39-part-narrative-arc.md:#2]
+$ read.py --count "Gardener"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gardener` ^[coherence-protocol-a-39-part-narrative-arc.md:#3]
+$ read.py --count "Potentialmeer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Potentialmeer` ^[coherence-protocol-a-39-part-narrative-arc.md:#1]
+$ read.py --count "LogOS"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`LogOS` ^[coherence-protocol-a-39-part-narrative-arc.md:#3]
+$ read.py --count "Mnemosyne"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mnemosyne` ^[coherence-protocol-a-39-part-narrative-arc.md:#2]
+$ read.py --count "Cerberus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cerberus` ^[coherence-protocol-a-39-part-narrative-arc.md:#1]
+$ read.py --count "Kairos"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kairos` ^[coherence-protocol-a-39-part-narrative-arc.md:#2]
+$ read.py --count "Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sophia` ^[coherence-protocol-a-39-part-narrative-arc.md:#1]
+$ read.py --count "Guardians"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Guardians` ^[coherence-protocol-a-39-part-narrative-arc.md:#7]
+$ read.py --count "Risse"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Risse` ^[coherence-protocol-a-39-part-narrative-arc.md:#4]
+$ read.py --count "Riss"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`Riss` ^[coherence-protocol-a-39-part-narrative-arc.md:#2]
+$ read.py --count "Guardian"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            10
+
+`Guardian` ^[coherence-protocol-a-39-part-narrative-arc.md:#3]
+$ read.py --count "Apparently Normal Parts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Apparently Normal Parts` ^[coherence-protocol-a-39-part-narrative-arc.md:#1]
+$ read.py --count "ANPs"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`ANPs` ^[coherence-protocol-a-39-part-narrative-arc.md:#3]
+$ read.py --count "LFI"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`LFI` ^[coherence-protocol-a-39-part-narrative-arc.md:#1]
+stance_marker_count 39+7=46
+numbers in census: 39 entries (Story count 39), 46 glued ref numbers (01-profile.txt)

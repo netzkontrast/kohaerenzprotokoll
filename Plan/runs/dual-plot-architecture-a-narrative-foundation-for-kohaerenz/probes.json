@@ -1,0 +1,154 @@
+{
+  "document": "dual-plot-architecture-a-narrative-foundation-for-kohaerenz",
+  "drive_id": "1_7nQG7fKQvhiUiicYJgqtVhMZkYW56K_YP1xpoBMWtM",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 9,
+  "backslash_escapes": 36,
+  "typographic_marks": 13,
+  "ascii_quotes": 92,
+  "inflection_families": {
+    "exist": [
+      "Existence",
+      "Existential",
+      "Existenz"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle"
+    ],
+    "analy": [
+      "Analysis",
+      "Analyst"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "chapt": [
+      "Chapter",
+      "Chapters"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonance"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "integ": [
+      "Integrating",
+      "Integration"
+    ],
+    "logic": [
+      "Logic",
+      "Logical"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "matri": [
+      "Matrices",
+      "Matrizen"
+    ],
+    "opera": [
+      "Operating",
+      "Operational"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxon"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis"
+    ],
+    "resil": [
+      "Resilience",
+      "Resilient"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Pathological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Nature",
+      "Signatures"
+    ],
+    [
+      "Thesis",
+      "Synthesis"
+    ],
+    [
+      "Thesis",
+      "Antithesis"
+    ],
+    [
+      "Chapter",
+      "Chapters"
+    ],
+    [
+      "Logical",
+      "Pathological"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "Paradox",
+      "Paradoxon"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ],
+    [
+      "Protokoll",
+      "Protokolle"
+    ]
+  ]
+}

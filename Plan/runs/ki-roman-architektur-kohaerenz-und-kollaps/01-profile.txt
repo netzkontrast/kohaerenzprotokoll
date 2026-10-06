@@ -1,0 +1,14 @@
+# ki-roman-architektur-kohaerenz-und-kollaps
+  lines                217  (frontmatter ends at 9)
+  body words           4052
+  headings             27   bold-only lines 1
+  table rows           16   code fences 0
+  question marks       6
+  backslash escapes    80
+  typographic marks    9   ascii quotes 94
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    29
+  repeated labels      none
+  longest line         908 chars
+

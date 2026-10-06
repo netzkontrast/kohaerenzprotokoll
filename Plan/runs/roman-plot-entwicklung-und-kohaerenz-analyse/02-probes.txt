@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      63
+  backslash escapes      456
+  typographic marks      35
+  ascii quotes           36
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systemarchitektur, Systemfehler, Systemgrenze, Systemische, Systemregeln, Systems, Systemstabilisierung, Systemverrat, Systemweite, Systemwächter
+  inter    Interest, Interferenzmuster, Interferieren, Internal, Interner, Intervention
+  kontr    Kontrollapparat, Kontrolle, Kontrollgrammatiken, Kontrollmechanismus, Kontrollsystem, Kontrollverlust
+  traum    Trauma, Traumabehandlung, Traumaexposition, Traumafolgestörungen, Traumas, Traumazeit
+  fragm    Fragment, Fragmentation, Fragmente, Fragmentierte, Fragmentierung
+  archi    Archipel, Architekt, Architekten, Architektur
+  entro    Entropie, Entropiemeer, Entropieminimierung, Entropy
+  integ    Integration, Integrative, Integrierte, Integrität
+  narra    Narrativ, Narrative, Narratologie, Narratologische
+  psych    Psyche, Psychologie, Psychologisch, Psychology
+  schut    Schutz, Schutzinstinkte, Schutzmechanismus, Schutzstrategien
+  überw    Überwacht, Überwachung, Überwachungsdruck, Überwelt
+  antei    Anteil, Anteile, Anteilen
+  bewus    Bewusstsein, Bewusstseinsverschmelzung, Bewusstwerdung
+  chara    Character, Charakter, Charaktere
+  daten    Daten, Datenstrom, Datenströme
+  disso    Dissonanz, Dissoziation, Dissoziativen
+  final    Finale, Finaler, Finalisierung
+  ident    Identifikation, Identität, Identitätsstörung
+  kernw    Kernwelt, Kernwelten, Kernwunde
+  konfl    Konflikt, Konfliktdomänen, Konflikts
+  konze    Konzept, Konzepte, Konzepts
+  monst    Monster, Monstergruppe, Monstrous
+  parad    Paradox, Paradoxien, Paradoxon
+  persö    Persönlichkeit, Persönlichkeitsanteil, Persönlichkeitsanteile
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Aktes
+  Akte < Charakter
+  Akte < Charaktere
+  Alle < Allegorie
+  Code < Codes
+  Dual < Dualität
+  Echo < Echos
+  Eine < Seine
+  Eine < Anscheinend
+  Fall < Abfallwelten
+  Form < Storyform
+  Form < Tabellenform
+  Form < Formlosigkeit
+  Form < Transformation
+  Form < Informationstheorie
+  Form < Strukturinformationen
+  Hard < Richard
+  Hero < Heroine
+  Juna < Junas
+  Kael < Kaels

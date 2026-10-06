@@ -374,3 +374,29 @@ Where it stands in the record's own terms: the Guardians on AEGIS' side as agent
 Each Kernwelt is „an eine spezifische psychologische Domäne Kaels“ ^[welt.md:L88] and „einen AEGIS-Guardian gekoppelt“ ^[welt.md:L88] (second pass, L88). The closing paragraph says what the Guardians are: „lokalisierte, dynamische Prozesse oder Felder“ ^[welt.md:L158], and that their existence is their function „innerhalb des AEGIS-Protokolls“ ^[welt.md:L158]; „Sie sind keine anthropomorphen Avatare“ ^[welt.md:L158]. The Überwelt is their stage: „der primäre operative Schauplatz für die Guardians“ ^[welt.md:L122].
 
 Stands as the Guardians being AEGIS's own, tied to its protocol and coupled one to each world; recorded, the question stays open.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto declares the Guardians components of AEGIS.**
+
+„These Guardians are fundamental components of the System AEGIS“ ^[aegis-manifest-genesis-krise-reboot.md:L109], „serving as autonomous sub-protocols that execute the architecture's will“ ^[aegis-manifest-genesis-krise-reboot.md:L109]. It speaks as AEGIS, so this is AEGIS's own account of the relation; the Guardians are not peers or a replaced design here.
+
+Stands: an answer in the first of the question's three terms, given by AEGIS about itself; recorded, not applied, the question stays open.
+
+## 2026-10-06 — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts
+
+**The character concepts state the relation directly: the Guardians are AEGIS's specialised, functional agents and its executing organs.**
+
+In the Guardian section: „Die fünf Guardians sind spezialisierte, funktionale Agenten von AEGIS“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L150], and they „Sie agieren als lokale Feedback-Mechanismen für AEGIS“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L150] (L150), citing a supplied context (`Kontext Pt 3`). In the AEGIS section: „Die Guardians sind funktionale Ausführungsorgane von AEGIS“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138], „seine Sensoren und Effektoren“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138] (L138). Relations: „Die Guardians sind primär Diener von AEGIS und handeln nach dessen Direktiven“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L205]. The paper is a concept paper that proposes, and these lines are not marked as questions.
+
+Stands as a document that places the Guardians inside AEGIS's architecture as agents, answering the record's question for this document; recorded, not applied, and the lines it cites do not say whether the Guardians could also be peers or a replaced design.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**AEGIS, speaking of itself, calls the Guardians subsystems it delegates to, and not avatars.**
+
+> „delegates its surveillance and regulatory functions to highly specialized, non-anthropomorphic autonomous subsystems identified as Guardians“ ^[aegis-genesis-crisis-self-definition.md:L141]
+
+> „These entities are not avatars; they are localized, dynamic processes that enforce the Coherence Protocol through strict isolation and punitive computing.“ ^[aegis-genesis-crisis-self-definition.md:L143]
+
+Where it stands: the log answers the question as a component of AEGIS, in AEGIS's own voice; the question stays open.

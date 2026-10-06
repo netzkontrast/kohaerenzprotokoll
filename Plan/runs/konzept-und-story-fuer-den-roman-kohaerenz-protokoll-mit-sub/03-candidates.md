@@ -1,0 +1,86 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is an outline of 39 chapters in three parts with five subplot arcs, German prose with straight ASCII quotation marks. Chapter entries carry the labels Subplot 1 to Subplot 5. Names listed as written; the Guardians are named only inside chapter entries. Tropes and story-structure names stand under the lens heading.
+
+- Kohärenz Protokoll
+- Kael
+- System Kael
+- Host
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Kohärenz
+- Entropie
+- Simulation
+- Juna/V
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Selenes
+- Argus
+- Analytiker ANP
+- Protektor ANP
+- Pfleger ANP
+- ANP
+- EPs
+- Alters
+- Anteile
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Überwelt
+- Digitalen Überwelt
+- Externe Ebene
+- Fundament
+- Das Fundament
+- Guardians
+- Wächter
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Glitches
+- Riss
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Paradoxons der Fehlausgerichteten Kohärenz
+- Paradoxon X
+- Kernparadoxon
+- Blinde Flecken
+- funktionaler Multiplizität
+- funktionale Multiplizität
+- Funktionalen Multiplizität
+- Phobien
+- Intrusionen
+- Ko-Bewusstsein
+- Gaslighting
+- Subplot
+- Elixier
+- Quellcode
+- Opferpunkt
+- Zyklen
+- Resets
+- Qualia
+- Tropen
+
+## lens
+
+- Tertiäre Strukturelle Dissoziation
+- Theorie der Strukturellen Dissoziation
+- TSDP
+- dissoziativen Amnesie
+- Unzuverlässiger Erzähler
+- Unzuverlässige Erzähler-Trope
+- Kosmischer Horror
+- Psychologischer Horror
+- Heroine's Journey
+- Hero's Journey
+- Meta-Exploration
+- Gehirn im Tank
+- Hard Science-Fiction

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      161
+  backslash escapes      117
+  typographic marks      242
+  ascii quotes           160
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemfehler, Systeminstanz, Systemkollaps, Systemmanipulation, Systempatrouille, Systemrechenleistung, Systemreset, Systemrisse, Systems, Systemstabilität, Systemwarnung
+  daten    Daten, Datenfragmente, Datengewinnung, Datengrundlage, Datenmengen, Datenpaket, Datenpakete, Datenverarbeitung, Datenübergabe
+  schwe    Schweigen, Schweiß, Schwelle, Schwellen, Schwellwerte, Schwerpunkten
+  überl    Überladung, Überlagerung, Überlastung, Überleben, Überlegenheit
+  algor    Algorithmen, Algorithmische, Algorithmischen, Algorithmus
+  arbei    Arbeit, Arbeitstitel, Arbeitsweg, Arbeitsweges
+  archi    Archipel, Archipels, Architektur, Archive
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsoberfläche, Bewusstseinszustand
+  erinn    Erinnerung, Erinnerungen, Erinnerungs, Erinnerungssplitterung
+  funkt    Funktion, Funktionale, Funktionalität, Funktionen
+  schme    Schmerz, Schmerzen, Schmerzes, Schmerzfreiheit
+  selbs    Selbst, Selbstaufgabe, Selbstreferenz, Selbstverrat
+  unive    Universal, Universe, Universelle, Universums
+  unter    Unter, Unterbewusstsein, Unterstützt, Unterwerfung
+  verha    Verhalten, Verhaltensmuster, Verhandlungssyntax, Verhandlungstaktik
+  wider    Widerspruch, Widerspruchs, Widersprüche, Widerstand
+  allta    Alltag, Alltags, Alltagsgedanken
+  analy    Analyse, Analytische, Analytischen
+  axiom    Axiom, Axiome, Axiomen
+  bestä    Bestätigt, Bestätigung, Bestätigungsfehler
+  bewei    Beweis, Beweise, Beweisführung
+  bruch    Bruch, Bruchstücke, Bruchteil
+  diese    Diese, Dieser, Dieses
+  disso    Dissonanz, Dissonanzen, Dissoziation
+  energ    Energie, Energieabgabe, Energiequelle
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Fakten
+  Akte < Akteure
+  Akte < Extrakte
+  Akte < Charakter
+  Alle < Alles
+  Alle < Falle
+  Alle < Valley
+  Alle < Intervalle
+  Auge < Augen
+  Auge < Augenblicks
+  Beat < Beats
+  Bild < Bilder
+  Code < Codes
+  Code < Kerncode
+  Echo < Echos
+  Eine < Keine
+  Eine < Keiner
+  Eine < Anscheinend
+  Ende < Lebende
+  Ende < Rendern

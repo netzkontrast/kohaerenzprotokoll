@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 24
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 28
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,10 @@ Position: „Funktionale Multiplizität / Cache Kohärenz (Konflikt)“ ^[kohaer
 - Where: „ORT: LY-SIGMA-1, SEKTOR EMERGENTER STRUKTUREN.“ ^[kohaerenz-protokoll.md:L2092]
 - Story: a new assignment, „PROJEKT: RESONANZ-BRÜCKE LY-BETA-7.“ ^[kohaerenz-protokoll.md:L2090], timed at „ZEITRAHMEN: 48.0 STANDARDSTUNDEN.“ ^[kohaerenz-protokoll.md:L2100] and supervised by „SUPERVISION: MÖGLICHKEITS-WEBER.“ ^[kohaerenz-protokoll.md:L2104]; Kael resolves a Co1/McL cache conflict inside himself and the bridge holds under stress-testing, „Es funktionierte. Die Brücke hielt. Die Kohärenz war stabil.“ ^[kohaerenz-protokoll.md:L2178]
 - Voice: third person on Kael; the system directive in capitals, his own Anteile in italics.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Perspektive der Maschine
+
+- The concept with subplots titles Kapitel 20 „Perspektive der Maschine“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L51]. It plans: „Kael erhält Einblicke in AEGIS'“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L51] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der entlarvte Mechanismus: Das AEGIS-Paradoxon verstehen
 
@@ -91,6 +95,10 @@ Position: the chapter has no scene fields in the outline; its prose places the a
 
 - The scene outline plans Chapter 20 as „Confrontation with Mnemosyne“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L264], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Garden of What If
+
+- The plot framework titles Chapter 20 „The Garden of What If“ ^[plot-generation-framework-for-the-coherence-protocol.md:L261]. It commissions: „Introduce Kairos/Sophia, the Guardian of Kernwelt 4, who witnesses Kael using his integrated parts creatively, demonstrating the thematic superiority of emergence over rigid control“ ^[plot-generation-framework-for-the-coherence-protocol.md:L261] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Gödel's limit
 
 Title: „Gödels Grenze“ ^[romanstruktur-und-philosophische-einleitung.md:L178]
@@ -106,6 +114,10 @@ Position: Teil II; setting from the `Schauplatz` field: „(Tiefe Datenbänke)�
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Chronos (Archivar-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L217]
 - Story: the blueprint plans, in `Plot-Beats`, „Mit Hilfe des Archivar-Alters findet Kael die Gräber früherer, gescheiterter AEGIS-Simulationen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L219] and „AEGIS stört aktiv die internen Funkkanäle der Alters, um die Kooperation zu sabotieren“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L219]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Der entlarvte Mechanismus
+
+- The plot synthesis plans Kapitel 20 as „Der entlarvte Mechanismus“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L96], set in `Architekten-Zentrum`, with the focus on Kael, Architekt. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Weigerung
 
@@ -162,6 +174,10 @@ Title: „Der Midpoint — Das Parakonsistente Gambit“ ^[kohaerenz-protokoll-k
 - Story: the dual-storyform outline plans „Die Konstrukt-Stadt ist AEGIS’ Versuch, Kaels Trauma zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L225]
 - Storyforms: `Storyform B` (`OS: Psychology/Conceptualizing`): „AEGIS’ Weltbild bekommt erste Risse“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L227]; `Storyform A` (`OS: Physics/Learning`): „Kael lernt, die parakonsistente Logik als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L228]
 - Scene and pacing: `Szenen-Keim`: „Ein brennendes Buch“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L229]; `Pacing`: „Hektisch, Schock-Elemente“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L230]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Das fragile Bündnis
+
+- The 39-chapter outline titles Kapitel 20 „Das fragile Bündnis“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L761]. It plans: „Mid-Akt-Breakpoint (Akt II). Selene etabliert unter Hochdruck eine fragile Allianz zwischen den gespaltenen Altern, um AEGIS endgültig zu täuschen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L763]; POV Selene / Kael (L769) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

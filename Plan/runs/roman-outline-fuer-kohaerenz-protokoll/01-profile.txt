@@ -1,0 +1,14 @@
+# roman-outline-fuer-kohaerenz-protokoll
+  lines                902  (frontmatter ends at 9)
+  body words           16371
+  headings             16   bold-only lines 26
+  table rows           0   code fences 0
+  question marks       39
+  backslash escapes    178
+  typographic marks    42   ascii quotes 180
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    23
+  repeated labels      Core Theme x14, Kael System Dynamics x14, AEGIS Strategy/Manifestation x13, Conceptual Deep Dive x13, Genre/Trope Application x13, Key Beats / Abstract Scenes (ca. 3-5) x13, Key Concepts/Foreshadowing x13, Key Symbols/Motifs x13, Narrative Goals & Pacing x13, Narrative Technique Focus x13, Philosophical Resonance x13, Setting & Atmosphere x13, Subplot Progression x13
+  longest line         1101 chars
+

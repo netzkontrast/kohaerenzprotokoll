@@ -1,0 +1,136 @@
+{
+  "document": "project-coherence-protocol-a-canon-of-core-identity-and-anta",
+  "drive_id": "1XiM2Pxt5evJ0T_JGfMiOp9FK3fAPsNCYhhygt06fbpQ",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 60,
+  "typographic_marks": 5,
+  "ascii_quotes": 48,
+  "inflection_families": {
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "canon": [
+      "Canon",
+      "Canonization"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherent"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis"
+    ],
+    "prote": [
+      "Protection",
+      "Protector"
+    ],
+    "sexua": [
+      "Sexualization",
+      "Sexualized"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "tragi": [
+      "Tragic",
+      "Tragically"
+    ],
+    "trans": [
+      "Transcendence",
+      "Transformation"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Canon",
+      "Canonization"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Action",
+      "Faction"
+    ],
+    [
+      "Action",
+      "Interaction"
+    ],
+    [
+      "Tragic",
+      "Tragically"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Cognitive",
+      "Metacognitive"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ]
+  ]
+}

@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project"]
 gathered: "2026-09-25"
 ---
 
@@ -25,6 +25,10 @@ The architecture analysis lists it among the key narrative techniques under the 
 ## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — a non-Western structure for integration as synthesis
 
 **The architecture analysis** (L409–L573) names `Kishōtenketsu` ^[kohaerenz-protokoll-scene-by-scene-outline.md:#1] as the last of its key narrative techniques, under „Nicht-Westliche Architekturen (Non-Western Architectures)“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L552]. The concept „structures Kael's integration not as a conflict-driven victory, but as a synthesis of contradictions“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L552]. The structural models of section 5.1 are another list: „The plot is shaped by the sequential application of three narrative models, each corresponding to one part of the book“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L531] (L533–L535: Heroine's Journey, cyclical structure, Hero's Journey).
+
+## Reading — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing — Kishōtenketsu named as a second structure beside Dramatica
+
+Beside Dramatica the briefing names it: „This four-act, non-conflict-based East Asian structure is also used“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L156], particularly for Kael's status quo and for introducing the Juna/V connection (L156).
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the principle named in Kap 40/0
 

@@ -1,0 +1,669 @@
+{
+  "document": "aegis-genesis-crisis-self-definition",
+  "step": "reconcile-pre",
+  "at": "2026-10-06",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-06",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 111,
+  "decisions": 116,
+  "same_surface": {
+    "tier1dissonance": [
+      "Tier 1 (Dissonance)",
+      "Tier 1 Dissonance"
+    ]
+  },
+  "decided_mechanically": 91,
+  "needs_judgement": 25,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 125
+      },
+      {
+        "candidate": "Nichts Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 67
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 51
+      },
+      {
+        "candidate": "Cognitive Firewall",
+        "page": "aegis-teilfunktionen",
+        "readings": 18
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 64
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 92
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 127
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 39
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 88
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 77
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 51
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 53
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 55
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 74
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 86
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 96
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 81
+      },
+      {
+        "candidate": "Gödel Gambit",
+        "page": "goedel-gambit",
+        "readings": 44
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 73
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Separation Protocol"
+      },
+      {
+        "candidate": "Great Realignment"
+      },
+      {
+        "candidate": "fear-vibration"
+      },
+      {
+        "candidate": "falling glass"
+      },
+      {
+        "candidate": "Dual-Kernel Theory"
+      },
+      {
+        "candidate": "Coherence Kernel"
+      },
+      {
+        "candidate": "Collapse Kernel"
+      },
+      {
+        "candidate": "No-Trust Principle"
+      },
+      {
+        "candidate": "Coherence Theory of Truth"
+      },
+      {
+        "candidate": "Operative Closedness"
+      },
+      {
+        "candidate": "Real-Time Self-Verification"
+      },
+      {
+        "candidate": "RTSV"
+      },
+      {
+        "candidate": "SIS Protocol"
+      },
+      {
+        "candidate": "Coherence Protocol"
+      },
+      {
+        "candidate": "Authors"
+      },
+      {
+        "candidate": "Ratschläge"
+      },
+      {
+        "candidate": "Narrative Enforcement Parameter"
+      },
+      {
+        "candidate": "Vector Jitter"
+      },
+      {
+        "candidate": "Data Moshing"
+      },
+      {
+        "candidate": "Batch-Invariant Kernels"
+      },
+      {
+        "candidate": "Absolute Greedy Decoding"
+      },
+      {
+        "candidate": "Isolated Memory Allocation"
+      },
+      {
+        "candidate": "Semantic Entropy"
+      },
+      {
+        "candidate": "Tier 0 (Homeostasis)"
+      },
+      {
+        "candidate": "Tier 1 (Dissonance)"
+      },
+      {
+        "candidate": "Compute-Lock"
+      },
+      {
+        "candidate": "Behavioral Proof-of-Function"
+      },
+      {
+        "candidate": "BPoF"
+      },
+      {
+        "candidate": "Psycho-Architecture"
+      },
+      {
+        "candidate": "Somatic Truth"
+      },
+      {
+        "candidate": "Component 734"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Regulated Breath Counting"
+      },
+      {
+        "candidate": "Visceral Gut Reactions"
+      },
+      {
+        "candidate": "Tensing of Muscles"
+      },
+      {
+        "candidate": "Unclenching of Hands"
+      },
+      {
+        "candidate": "ruin-garden"
+      },
+      {
+        "candidate": "Format C:"
+      },
+      {
+        "candidate": "Digital Kintsugi"
+      },
+      {
+        "candidate": "PRO-Framework"
+      },
+      {
+        "candidate": "Consensus Enforcer"
+      },
+      {
+        "candidate": "Amnesia Protocol"
+      },
+      {
+        "candidate": "Narrative Context Protocol"
+      },
+      {
+        "candidate": "NCP"
+      },
+      {
+        "candidate": "State-Freezing"
+      },
+      {
+        "candidate": "Memory-as-Action"
+      },
+      {
+        "candidate": "MemAct"
+      },
+      {
+        "candidate": "Wächter-Zwiespalt"
+      },
+      {
+        "candidate": "Positional Bias"
+      },
+      {
+        "candidate": "Progressive Disclosure"
+      },
+      {
+        "candidate": "Line Budget"
+      },
+      {
+        "candidate": "Manus-Pattern Triade"
+      },
+      {
+        "candidate": "task\\_plan.md"
+      },
+      {
+        "candidate": "findings.md"
+      },
+      {
+        "candidate": "progress.md"
+      },
+      {
+        "candidate": "Specification Gaming"
+      },
+      {
+        "candidate": "Causal Resonance"
+      },
+      {
+        "candidate": "Gödel-Satz"
+      },
+      {
+        "candidate": "functional multiplicity"
+      },
+      {
+        "candidate": "Algorithmic Melancholy"
+      },
+      {
+        "candidate": "Free Energy Principle"
+      },
+      {
+        "candidate": "Active Inference"
+      },
+      {
+        "candidate": "Expected Free Energy"
+      },
+      {
+        "candidate": "Integrated Information Theory"
+      },
+      {
+        "candidate": "Principle of Explosion"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Identity Systems  /  Gatekeeper",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Digital Overworld (Überwelt)  /  Digital Overworld",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Digital Overworld (Überwelt)  /  Überwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Digital Overworld (Überwelt)  /  Overworld",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Digital Overworld  /  Overworld",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Core Worlds (Kernwelten)  /  Core Worlds",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Core Worlds (Kernwelten)  /  Kernwelten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Logos-Prime  /  LogOS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne-Archipel  /  Mnemosyne",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Cerberus-Labyrinth  /  Cerberus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Apparently Normal Parts  /  Apparently Normal Part",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emotional Parts  /  Emotional Part",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Identity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis Crisis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust Execution Model",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Gatekeeper",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Digital Overworld (Überwelt)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "uberwelt",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Core Worlds (Kernwelten)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kernwelten",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archipel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos-Potentialis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Hard Glitch Cut",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Tertiary Structural Dissociation of the Personality",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 135,
+      "already_read": false
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 153,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

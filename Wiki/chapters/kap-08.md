@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 30
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 38
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,10 @@ Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Wi
 
 - The Teil-1 plot proposes Kapitel 8, `All is Lost` (L183), as the ordeal, the lowest point: „ist am Tiefpunkt, möglicherweise gefangen oder gejagt“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L188]. It hedges, and adds rampant Risse, Silas's possible end, Juna's absence and a Cerberus escalation (L194–L198).
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.8, Spiegel der Vergangenheit
+
+- The plot blueprint plans step 1.8, „Spiegel der Vergangenheit“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L247]. Its synopsis begins: „Kael erkundet KW2 und wird unweigerlich mit Fragmenten seiner verdrängten Vergangenheit konfrontiert“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L250] — a plan, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -45,6 +49,14 @@ Position: „(Fundamentales Konzept: Internal Family Systems (IFS) – Heilung d
 - Kael speaks as Selbst to the parts: „Du musst das nicht allein tun“ ^[kohaerenz-protokoll.md:L947], said by „Kael (Selbst)“ ^[kohaerenz-protokoll.md:L947]
 - A Wächterin named beside Juna's light, in a list of three: „Die Wächterin, das Licht von Juna“ ^[kohaerenz-protokoll.md:L987]
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Die Logik des Gaslichts
+
+- The concept with subplots titles Kapitel 8 „Die Logik des Gaslichts“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L34]. It plans: „AEGIS (oft durch LogOS oder Mnemosyne) nutzt Kaels innere Konflikte und Amnesie, um seine Realitätswahrnehmung zu manipulieren (Gaslighting)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L34] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — HJn: Abstieg zur Göttin / Konfrontation mit tiefstem Selbst/Trauma/Kernwunde
+
+- The subplot catalogue analyses Kapitel 8 under the phase „Abstieg zur Göttin / Konfrontation mit tiefstem Selbst/Trauma/Kernwunde“ ^[subplot-entwicklung-fuer-romanstruktur.md:L204] of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Logik des Gaslichts
 
 Title: the commission titles the chapter „Die Logik des Gaslichts“ ^[kontext-outline.md:L153], placed in Act 1.
@@ -59,6 +71,10 @@ Focus: `Wahrnehmungsmanipulation`, „AEGIS' gezielter Einsatz von Gaslighting�
 
 - Story: „Kael (möglicherweise Lex dominant, versucht verzweifelt Ordnung zu schaffen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L103]; „wird von AEGIS (LogOS?) subtil manipuliert“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L103]
 - Concept: „AEGIS erzeugt aktiv Inkohärenz (durch Täuschung), um scheinbare Kohärenz (Kontrolle) zu erzwingen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L104] (concept tag: the `AEGIS-Paradoxon`)
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 8, Die Logik des Gaslichts
+
+- The detailed outline plans Chapter 8 as „Die Logik des Gaslichts“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L543] with the Core Theme „AEGIS' subtile Manipulation der Wahrnehmung und Realitätskonstruktion“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L545] — a plan, not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Mauern der Logik
 
@@ -111,6 +127,10 @@ Position: the scene outline plans the scene at „1.6 - Logos-Prime (KW1)“ ^[a
 
 - The scene outline plans Chapter 8 as „Gaslighting Protocol“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L107], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Descent to the Core
+
+- The plot framework titles Chapter 8 „Descent to the Core“ ^[plot-generation-framework-for-the-coherence-protocol.md:L244]. It commissions: „Write the pivotal scene where Kael confronts the core traumatic memory, serving as the inciting incident for the main internal journey of healing“ ^[plot-generation-framework-for-the-coherence-protocol.md:L244] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Descent to the goddess
 
 Title: „Abstieg zur Göttin“ ^[romanstruktur-und-philosophische-einleitung.md:L83]
@@ -128,6 +148,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Praxis von Dr. Thorne 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Dr. Aris Thorne (Konstrukt), Index (Analyst-Alter)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L118]
 - Story: the blueprint plans, in `Plot-Beats`, „AEGIS teleportiert Kael zurück nach KW1 zu einer Zwangstherapie“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L120] and „analysiert die Unstimmigkeiten in Thornes Aussagen und schützt Kaels Verstand“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L120]
 
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Konfrontation mit dem Kern-Trauma
+
+- The plot synthesis plans Kapitel 8 as „Konfrontation mit dem Kern-Trauma“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L74], set in `Zwischenräume / KW3`, with the focus on Kael (Kern). A plan, not the chapter as written.
+
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Fall nach Innen
 
 Title: „Der Fall nach Innen“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L105] — heading „Schwelle zu Mnemosyne“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L106]
@@ -144,6 +168,10 @@ Title: „Russellsche Trümmer und das Holographische Trauma“ ^[roman-konzept-
 
 - Establishes: „Es handelt sich um verwaiste Datenpakete, die aufgrund der Russellschen Antinomie“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L69]
 - Heat (C11): „Das Landauer-Prinzip greift erneut massiv ein: Hitze entlädt sich, Kael übergibt sich physisch“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L69]
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — the Russellsche Trümmer
+
+- The refactoring plan names the `Russellschen Trümmer` of Kapitel 8 as the second Grenzsituation of Akt I (L84) — a plan, not the chapter as written.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the fight with Nyx ends in a stalemate, and Alex takes over
 
@@ -186,6 +214,10 @@ Title: „Der Mnemosyne-Archipel“ ^[kohaerenz-protokoll-kapitel-outline-generi
 - Story: the dual-storyform outline plans „Eintritt in den Speicher-Nexus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L124]
 - Storyforms: `Storyform B` (`OS: Psychology/Being`): „AEGIS definiert diese Erinnerungen als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L126]; `Storyform A` (`OS: Physics/Learning`): „Kael lernt, wie AEGIS Informationen sortiert und löscht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L127]
 - Scene and pacing: `Szenen-Keim`: „Ein Archipel aus kristallinen Datenspeicherbänken“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L128]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die Vermittlerin
+
+- The 39-chapter outline titles Kapitel 8 „Die Vermittlerin“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L313]. It plans: „Eine tiefgreifende interne Umstrukturierung beginnt im System Kael, um den psychischen Druck der Systemrisse auszugleichen und das Überleben zu sichern“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L315]; POV Selene / Kael (L321) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

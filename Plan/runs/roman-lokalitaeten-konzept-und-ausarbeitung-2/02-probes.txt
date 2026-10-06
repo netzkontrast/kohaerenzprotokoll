@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      48
+  backslash escapes      109
+  typographic marks      46
+  ascii quotes           302
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenarchitektur, Datenarchiv, Datenfluss, Datenflüssen, Datenfragment, Dateninputs, Datenknotenpunkt, Datenkorruption, Datenlogik, Datenmanipulation, Datenpakete, Datenraum, Datenrauschen, Datenrepräsentation, Datenstrukturen, Datenströme, Datenströmen, Datenvisualisierung, Datenvisualisierungen, Datenzerfall
+  syste    System, Systembefehlen, Systemdatei, Systeme, Systemebenen, Systemen, Systemfehler, Systemfehlern, Systeminstabilität, Systemintegrität, Systemkontrolle, Systemlast, Systemlogik, Systemmetriken, Systemregeln, Systems, Systemstabilität, Systemstatus, Systemwarnungen, Systemzustand, Systemzustände
+  kontr    Kontrast, Kontraste, Kontrastierend, Kontrastierende, Kontrollaspekts, Kontrolle, Kontrolleur, Kontrollfunktion, Kontrollinstanz, Kontrollinstanzen, Kontrollmechanismen, Kontrollmechanismus, Kontrollposten, Kontrollpunkte, Kontrollräume, Kontrollsystems, Kontrollversuche, Kontrollzentrum
+  infor    Information, Informationen, Informationsanzeigen, Informationsbedarf, Informationsdarstellung, Informationsdichte, Informationsdisplays, Informationsfehler, Informationsfluss, Informationsgehalt, Informationstheorie, Informationsverarbeitung, Informationsverlust, Informationsästhetik, Informationsübermittlung
+  inter    Interaktion, Interaktionen, Interaktionsmöglichkeiten, Interaktive, Interdisciplinary, Interface, Interfaces, Interferenzen, International, Interpretation, Intervention
+  überw    Überwachung, Überwachungselemente, Überwachungsfehler, Überwachungssummen, Überwachungssystem, Überwachungssysteme, Überwachungssystemen, Überwachungstechnik, Überwachungstechnologie, Überwelt, Überwinden
+  archi    ARCHITECTURE, Archi, Architectural, Architecture, Architekt, Architekten, Architektonische, Architektur, Architekturen, Archiv
+  chara    Character, Characters, Charakter, Charaktere, Charakteren, Charakterentwicklung, Charakterisierung, Charakters
+  unter    Unterbau, Unterbewusste, Unterbewusstsein, Unterbewusstseins, Unterdrückung, Unterscheidbarkeit, Unterschied, Untersuchung
+  entro    Entropic, Entropie, Entropiefluktuationen, Entropiekontrolle, Entropielevel, Entropiewerte, Entropy
+  konze    Konzentration, Konzept, Konzepte, Konzepten, Konzeptionelle, Konzepts, Konzeptueller
+  metap    METAPHORIC, Metapher, Metaphern, Metapherntheorie, Metaphor, Metaphors, Metaphysik
+  siche    Sicherheit, Sicherheitslücke, Sicherheitsmaßnahmen, Sicherheitsmechanismen, Sicherheitsschleusen, Sicherheitsversagen, Sicherheitszonen
+  symbo    Symbol, Symbole, Symbolen, Symbolic, Symbolik, Symbolische, Symbols
+  traum    Traum, Trauma, Traumas, Traumata, Traumebenen, Traumlogik, Traumwelt
+  integ    Integration, Integrations, Integrationsprozesses, Integrationsreise, Integrierte, Integrität
+  klang    Klang, Klangfeld, Klangkulisse, Klanglandschaften, Klangmustern, Klangwelt
+  spiel    Spiel, Spielen, Spieler, Spieleraktionen, Spielers, Spielwelt
+  umgeb    Umgebung, Umgebungen, Umgebungs, Umgebungsdesign, Umgebungsdetails, Umgebungsgestalter
+  bewus    Bewusstsein, Bewusstseinsfeldern, Bewusstseinszustände, Bewusstseinszuständen, Bewusstwerdungsprozess
+  desig    Design, Designelemente, Designing, DesigningVirtualWorlds, Designs
+  mögli    Mögliche, Möglicherweise, Möglichkeit, Möglichkeiten, Möglichkeits
+  proto    Protokoll, Protokolle, Protokollen, Protokollfehler, Protokolls
+  psych    Psych, Psyche, Psychologie, Psychologische, Psychology
+  reali    Reality, Realität, Realitäten, Realitätsebene, Realitätsebenen
+
+# substring pairs -- never one term, often merged by accident
+  Arch < Archi
+  Arch < Archiv
+  Arch < Monarch
+  Arch < Research
+  Arch < Architekt
+  Arch < Archetypal
+  Arch < Archetypen
+  Arch < Hierarchie
+  Arch < Architekten
+  Arch < Architektur
+  Arch < Datenarchiv
+  Arch < Hierarchien
+  Arch < ARCHITECTURE
+  Arch < Architecture
+  Arch < ResearchGate
+  Arch < Architectural
+  Arch < Architekturen
+  Arch < Architektonische
+  Arch < Datenarchitektur
+  Arch < Bunkerarchitektur

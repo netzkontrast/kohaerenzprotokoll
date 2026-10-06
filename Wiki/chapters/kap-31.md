@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 28
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 32
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,10 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Kollaps: „AEGIS' Systeme brechen unter dem logischen Widerspruch und dem Kontrollverlust endgültig zusammen.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L342]
 - Dormanz: „Es zieht sich zurück, unfähig, die neue Realität zu verarbeiten, und wird inaktiv.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L343]
 - Adaption: „Konfrontiert mit dem unbestreitbaren Beweis seines Scheiterns und der Struktur der Moonshine-Signatur, beginnt AEGIS, seine grundlegenden Annahmen zu überdenken.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L344]
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Konfrontation mit dem Quellcode
+
+- The concept with subplots titles Kapitel 31 „Konfrontation mit dem Quellcode“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L67]. It plans: „Kael erreicht den Kern von AEGIS' Intelligenz oder Programmierung“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L67] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)
 
@@ -93,6 +97,10 @@ Position: scene 3.2 at „3.2 - AEGIS Core Processor Chamber“ ^[ai-assisted-na
 
 - The scene outline plans Chapter 31 within Chapters 31–33, „The Gödel-Gambit“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L340], in Act III: The Confrontation and the New Reality — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — First Contact
+
+- The plot framework titles Chapter 31 „First Contact“ ^[plot-generation-framework-for-the-coherence-protocol.md:L277]. It commissions: „Show Kael making contact with another fragmented consciousness within AEGIS, expanding the scope of the conflict from a personal struggle to a systemic rebellion“ ^[plot-generation-framework-for-the-coherence-protocol.md:L277] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The temptress
 
 Title: „Die Frau als Versucherin“ ^[romanstruktur-und-philosophische-einleitung.md:L244]
@@ -112,6 +120,10 @@ Position: Teil III; setting from the `Schauplatz` field: „Die Logik-Schleifen 
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — Kael synchronising abilities from different caches
 
 - under Leitfrage 7 (the ARCHON / LeanRAG mechanics) it cites „Wenn Kael in Kapitel 31“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L131] „Fähigkeiten aus verschiedenen Caches aktiv synchronisiert“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L131] (its source 2) and asks how that feels to him.
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Der Verrat der Logik
+
+- The plot synthesis plans Kapitel 31 as „Der Verrat der Logik“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L117], set in `Kollabierendes Labyrinth`, with the focus on AEGIS v1.5. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Auflösung der Guardians
 
@@ -178,6 +190,10 @@ Title: „Oblivions Erwachen“ ^[kohaerenz-protokoll-kapitel-outline-generierun
 ## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — healing by integrating the traumatic caches
 
 - The reset synthesis places in Phase III: „In Kapitel 31 erfolgt die Heilung durch die Integration der traumatischen“ ^[romanprojekt-analyse-synthese.md:L60] caches.
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Zersplitterung der Perfektion
+
+- The 39-chapter outline titles Kapitel 31 „Zersplitterung der Perfektion“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1161]. It plans: „Kael zerbricht das falsche Ende bewusst und wählt den Schmerz der Realität über die Lüge der Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1163]; POV Kael (L1169) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

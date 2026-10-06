@@ -1,0 +1,14 @@
+# project-coherence-protocol-a-canon-of-core-identity-and-anta
+  lines                97  (frontmatter ends at 9)
+  body words           1562
+  headings             13   bold-only lines 2
+  table rows           21   code fences 0
+  question marks       1
+  backslash escapes    60
+  typographic marks    5   ascii quotes 48
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         858 chars
+

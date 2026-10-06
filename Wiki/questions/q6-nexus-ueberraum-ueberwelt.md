@@ -181,3 +181,59 @@ Stands as one more placement with an or, hedged by `oft` at its first use; the q
 In both passes: „Die Überwelt ist die Meta-Ebene von AEGIS“ ^[welt.md:L68], „ihr Kontrollzentrum und ihre Code-Ebene“ ^[welt.md:L117], not directly experienced like the Kernwelten. In KW4 (second pass): `Nexus-Interface Garten` (in straight quotation marks), „ist ein spezifischer Ort hier“ ^[welt.md:L111]. The blueprint does not place that garden in the Überwelt and does not say how it relates to the Überwelt.
 
 Stands as the Überwelt placed with AEGIS and a Nexus-Interface Garten placed in KW4; recorded, the question stays open.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots calls the Überwelt the stage of meta-analysis and final confrontation, and writes it as the Digitale Überwelt with a hedge.**
+
+„Die Überwelt ist der Schauplatz der Meta-Analyse und der finalen Konfrontation“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L81]. Kapitel 15 plans the analysis „möglicherweise in der Digitalen Überwelt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L46].
+
+Stands as a use of the name Überwelt for the meta-analysis stage, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan
+
+**The refactoring plan equates the Überwelt and the Nexus in one parenthesis.**
+
+„Der Übergang in die Überwelt (den Nexus)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L88] — it writes the entry to Akt II so, without relating either to the Überraum.
+
+Stands as one more document that writes the Nexus and the Überwelt as the same place; the question stays open.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept puts a Nexus-Interface inside the fourth world and the Überwelt as the control layer; it does not write Überraum, and does not relate the two.**
+
+The Nexus is a place of KW4: „Die Nexus-Schnittstelle (ein zentraler Ort des Zugangs zu Wissen/Verbindungen)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L233], and a key location „Nexus-Interface Garten (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L296], „Ein spezifischer Ort innerhalb des Möglichkeits-Gartens (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L298], which may allow a link to „anderen Kern-Welten oder der Überwelt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L298]. The Überwelt is „Die Kontrollschicht des Systems, die Domäne von AEGIS und den Guardians“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L239], and a hub of Cerberus carries the name „Cerberus' Firewall-Nexus“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L244]. The word `Überraum` ^[lokalitaeten-konzept-fuer-roman-simulation.md:#0] does not stand in it, a count and not an inference.
+
+Stands as the Nexus placed in KW4 and the Überwelt as the control layer; recorded, the question stays open.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept places a Nexus-Knoten in KW4 as an interface to the Überwelt, and does not use the name Überraum.**
+
+KW4's landmark is „der als Interface zur Überwelt oder anderen Ebenen dient“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L166] (L166; the line puts `Nexus-Knoten` in straight quotes). In the key-location entry: „Er könnte Verbindungen zur Überwelt, zu anderen Kern-Welten oder zu tieferen, noch unerschlossenen Schichten“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L239]. The Überwelt itself lists „Kommunikations-Nexus-Punkte, System-Monitoring-Bereiche mit umfassenden Statusanzeigen“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L177]. `Überraum` ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:#0] is not written in this document.
+
+Stands as a position that puts the Nexus inside KW4 with a link out to the Überwelt, a possibility and not a fact.
+
+## 2026-10-06 — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles
+
+**The place profiles put a Nexus-Knoten in KW4 as an interface to potential, and place the Überwelt as AEGIS's domain.**
+
+Profile 25, `Nexus-Knoten`, is named „Interface zum Potenzial - KW4 (Möglichkeits-Garten)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L472] and is „Ein zentraler Punkt oder eine Schnittstelle in KW4, die den direkten Zugriff auf oder die Manipulation des reinen Potenzials ermöglicht“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L473]. The Überwelt is separately „Überwelt (AEGIS/Guardian-Domäne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L541].
+
+Stands as a KW4 reading of the Nexus, apart from the Überwelt; recorded, not applied, and the question stays open in the record's own terms.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto declares the Überwelt the primary control layer with every sub-reality nested in it, and names neither Nexus nor Überraum.**
+
+It declares „the primary computational control layer“ ^[aegis-manifest-genesis-krise-reboot.md:L55], and that sub-realities, firewalls and quarantine zones are „hierarchical dependencies nested strictly within the“ ^[aegis-manifest-genesis-krise-reboot.md:L61] Überwelt's execution thread. `Nexus` ^[aegis-manifest-genesis-krise-reboot.md:#0] and `Überraum` ^[aegis-manifest-genesis-krise-reboot.md:#0] do not appear; `Überwelt` ^[aegis-manifest-genesis-krise-reboot.md:#12].
+
+Where it stands in the record's own terms: one of the three names, the Überwelt, as a control layer in AEGIS's voice; it neither separates nor equates the others, and the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis names Nexus once, in [[sophia|Sophia]]'s hypothetical cell, and the Überwelt as AEGIS's domain.**
+
+Sophia's world cell reads „(Potenziell) Übergeordnet/Nexus“ ^[kohaerenz-protokoll-plotideen-generierung.md:L156]. The Überwelt: „Diese Konzepte untermauern die Idee, dass AEGIS' Domäne (die Überwelt)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L43]. The document does not relate the two.
+
+Stands as one occurrence of Nexus and one of the Überwelt in a hedged analysis; recorded, nothing decided.

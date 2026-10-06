@@ -198,3 +198,51 @@ Stands as a hedged side that holds both an outside and an inner world open; reco
 Section 3.2 (L468–L470) opens „Beyond the Kernwelten lie more abstract and fundamental layers of existence“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470], and calls the Externe Ebene „a mysterious reality that exists beyond AEGIS's direct control“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470], „intrinsically linked to the entity known as Juna/V“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470].
 
 Stands as a side that places the level beyond AEGIS's control and beyond the Kernwelten, without the record's terms; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline
+
+**The detailed outline plans the Riss as first door to the Externe Ebene.**
+
+Chapter 11 plans: „Der Riss ist das erste konkrete Tor oder der erste Hinweis auf diese Ebene.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L790] with Juna/V: „Der Riss ist der erste klare Hinweis auf die Existenz und den Einfluss von Juna/V oder der externen Ebene.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L760] and as „Etabliert als zentrales Symbol für Systeminstabilität und die Verbindung zur Außenwelt/Juna/V.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L788]
+
+Stands on the side of an outside reached through the Riss; the outline hedges (`Tor oder Hinweis`), and the record's rows are not changed.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots makes the Externe Ebene and Juna/V the Other outside AEGIS's control, with first hints in Kapitel 22.**
+
+„Sie repräsentieren das“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L82] Other, „das außerhalb von AEGIS' Kontrolle liegt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L82]. Kapitel 22: „Kael findet erste konkrete Hinweise auf die Externe Ebene oder Juna/V“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53].
+
+Stands as an Externe Ebene beyond AEGIS's control, introduced from Kapitel 22 in a plan, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan
+
+**The subplot plan describes Juna/V and the Externe Ebene as possibly non-digital and relational, and suggests, hedged, one true reality beyond AEGIS' digital order.**
+
+It explores their nature as „potenziell nicht-digitale, relationale Ordnung, Gegenprinzip zu AEGIS' Kohärenz“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L21]. In the intersections it says: „vielleicht repräsentieren sie verschiedene Aspekte oder Ebenen einer“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193] reality; the line closes with „jenseits von AEGIS' digitaler Ordnung“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193], and opens: „Die Natur von Juna/V (Subplot 3) und dem Fundament (Subplot 5) könnte sich als eng verbunden erweisen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193].
+
+Stands as a plan, in the conditional (könnte, vielleicht); it uses neither `Basisrealität` nor a denial of the outside, and the record's rows are not changed.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview places the Externe Ebene outside AEGIS's simulation.**
+
+It connects Juna/V to the „Externe Ebene“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L104] (External Level), „a realm that exists outside of AEGIS's simulation“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L104] (L104).
+
+Stands with the Externe Ebene beyond the simulation, dated 2025-11-03; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept
+
+**The second locations concept holds the Externe Ebene wholly outside AEGIS's control, with its nature unknown.**
+
+The definition: „Eine Realität, die vollständig außerhalb des AEGIS-Kontrollsystems existiert“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L183], and „Ihre genaue Natur ist unbekannt“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L183]; AEGIS „AEGIS hat hier mutmaßlich keine Kontrolle und möglicherweise nicht einmal Sensorik“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L206]. Kael might find there „einen Weg zur endgültigen Befreiung aus der Simulation“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L210] (L210), and „Dies ist Junas Herkunftsort, ihre Domäne oder die Quelle ihrer Fähigkeiten“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L210].
+
+Stands as a position that the Externe Ebene lies beyond the simulation's control system, dated 2025-04-18, in the conditional.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint
+
+**The plot blueprint writes Julia (Juna) as no active agent inside the simulation and places the K-J-Essenz in the [[potentialmeer|Potentialmeer]] beyond AEGIS's logic.**
+
+Its answer: „Julia (Juna) ist keine aktive Agentin“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42] inside the simulation, her influence the „passive Konsequenz ihrer ontologischen Verbindung zu Kael“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42]. The K-J-Essenz is „potenziell im Potentialmeer angesiedelt, jenseits der linearen Logik von AEGIS“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L34]. Another answer says coherence needs „Verbindung nach außen (Juna/Externe Ebene) erfordert“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L101].
+
+Stands: a plan that keeps Juna outside AEGIS's logic, as one document's planning; nothing decided for the record.

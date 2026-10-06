@@ -1,0 +1,156 @@
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Hypothese"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hypothese` ^[kohaerenz-protokoll-plotideen-generierung.md:#3]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Hypothetisch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothetisch` ^[kohaerenz-protokoll-plotideen-generierung.md:#1]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "möglicherweise"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`möglicherweise` ^[kohaerenz-protokoll-plotideen-generierung.md:#10]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "wahrscheinlich"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`wahrscheinlich` ^[kohaerenz-protokoll-plotideen-generierung.md:#4]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Konzepte:"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Konzepte:` ^[kohaerenz-protokoll-plotideen-generierung.md:#20]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Themen:"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Themen:` ^[kohaerenz-protokoll-plotideen-generierung.md:#3]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Plot-Keime"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Plot-Keime` ^[kohaerenz-protokoll-plotideen-generierung.md:#5]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Zugriff am"
+whole word, case-sensitive     83
+whole word, case-insensitive   83
+including compounds            83
+
+`Zugriff am` ^[kohaerenz-protokoll-plotideen-generierung.md:#83]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Alters"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Alters` ^[kohaerenz-protokoll-plotideen-generierung.md:#3]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Index"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Index` ^[kohaerenz-protokoll-plotideen-generierung.md:#1]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Nexus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nexus` ^[kohaerenz-protokoll-plotideen-generierung.md:#1]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Risse"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`Risse` ^[kohaerenz-protokoll-plotideen-generierung.md:#8]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Überwelt"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Überwelt` ^[kohaerenz-protokoll-plotideen-generierung.md:#5]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Ontological Boundary Protocol"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ontological Boundary Protocol` ^[kohaerenz-protokoll-plotideen-generierung.md:#1]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Kael-Julia-Verbindung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kael-Julia-Verbindung` ^[kohaerenz-protokoll-plotideen-generierung.md:#7]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "K-J-Verbindung"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`K-J-Verbindung` ^[kohaerenz-protokoll-plotideen-generierung.md:#37]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Kael-Julia-Einheit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael-Julia-Einheit` ^[kohaerenz-protokoll-plotideen-generierung.md:#2]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "K-J-Einheit"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`K-J-Einheit` ^[kohaerenz-protokoll-plotideen-generierung.md:#4]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Kohärenz-Inseln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Inseln` ^[kohaerenz-protokoll-plotideen-generierung.md:#1]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Kohärenz-Insel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Kohärenz-Insel` ^[kohaerenz-protokoll-plotideen-generierung.md:#3]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "blinden Flecken"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`blinden Flecken` ^[kohaerenz-protokoll-plotideen-generierung.md:#4]
+
+$ read.py kohaerenz-protokoll-plotideen-generierung --count "Blinde Flecken"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`Blinde Flecken` ^[kohaerenz-protokoll-plotideen-generierung.md:#4]
+
+stance_marker_count 18 = Hypothese 3 + Hypothetisch 1 + möglicherweise 10 + wahrscheinlich 4
+83 sources: numbered references 1 to 83, L345 to L427 (read.py --from 345 --to 427)

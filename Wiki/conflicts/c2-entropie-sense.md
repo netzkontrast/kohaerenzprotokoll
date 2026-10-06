@@ -288,3 +288,11 @@ The audit states this as physics and as verified; the wording of the second sens
 Of the Collapse Kernel the Definitive Guide says: „This is the principle of entropy, information erasure, and irreversible change.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60] and „This K₀ pressure is the primary motor for the evolution of complexity.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60] Of AEGIS it says its prime directive is to eliminate contradiction, paradox and unquantifiable experience, „which it pathologically misinterprets as systemic“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L26] noise or `entropy` (L26), and that it works „by classifying all inconvenient external data as“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L113] `entropy` to be eliminated (L113). The text does not define the word beyond these uses and does not relate K₀'s entropy to the one AEGIS removes; neither use is the record's „schöpferische Matrix“ ^[aegis-emergenz-aus-der-leere.md:L126] in its words.
 
 Stands beside both of the record's senses (resisted disorder, creative matrix) as a third, productive one for K₀, and AEGIS's as the misread; recorded, nothing decided.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis takes entropy, of the [[potentialmeer|Potentialmeer]], as maximal possibility.**
+
+„charakterisiert durch informationelles Chaos und maximale Entropie – hier im Sinne maximaler Möglichkeit“ ^[kohaerenz-protokoll-plotideen-generierung.md:L19].
+
+Stands beside the record's senses as entropy meaning possibility, said of the sea and not of AEGIS; recorded, nothing decided.

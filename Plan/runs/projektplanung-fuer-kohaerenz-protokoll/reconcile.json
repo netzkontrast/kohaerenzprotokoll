@@ -1,0 +1,309 @@
+{
+  "document": "projektplanung-fuer-kohaerenz-protokoll",
+  "drive_id": "1_E39KiFfAYe02p1WcfR3MVx0byJ87gRold8Ug7MA3MU",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-147/brief.md; no chapter page — its „Ch N“ are Hamilton's model chapters",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 95,
+    "decisions": 97,
+    "decided_by_lookup": 83,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German planning report proposing a writing workflow: its 66 new surfaces are its own workflow and database vocabulary (Maximal-Plotter, Mosaik-Struktur, Systemkarte, Riss-Zone, Integraler Status, Gravitations-Architektur with Ergosphäre, Ereignishorizont, Singularität, Irreversible Kosten), the tool and prompting terms it borrows (LeanRAG, Meta-Prompting, Chain-of-Density, P-SYS …) and borrowed plot models (Hamilton's 40-Chapter Plot Module, Save the Cat, Hero's Journey); what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        42,
+        44,
+        138,
+        166,
+        169,
+        199,
+        213,
+        216,
+        359,
+        361,
+        362
+      ],
+      "attribution": "",
+      "note": "AEGIS as an interviewed agent, a log-entry slot and a blind spot, all proposed"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "Alex named once, in the Cerberus-Labyrinth"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        107,
+        119,
+        121
+      ],
+      "attribution": "",
+      "note": "the alters as scene properties and conflict profiles"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        112,
+        117
+      ],
+      "attribution": "",
+      "note": "Argus as co-conscious observer, in a proposed workflow"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        21,
+        29,
+        45
+      ],
+      "attribution": "",
+      "note": "the `DKT` named once, as the engine of its database"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        362
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as a climax to be prepared"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        44,
+        91,
+        217,
+        231
+      ],
+      "attribution": "",
+      "note": "Juna/V as rift-maker and the Juna-Verbindung as a cost, in a proposed workflow"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        99,
+        103,
+        112,
+        128
+      ],
+      "attribution": "",
+      "note": "System Kael as a Systemkarte, in a proposed workflow"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        51,
+        62,
+        71,
+        72,
+        82,
+        92,
+        95
+      ],
+      "attribution": "",
+      "note": "the four Kernwelten as writing-rule containers"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        71,
+        151,
+        156
+      ],
+      "attribution": "",
+      "note": "Kiko as the bearer of the trauma, in a proposed workflow"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        29,
+        42,
+        43,
+        45,
+        47,
+        166
+      ],
+      "attribution": "",
+      "note": "Kohärenz (`K₁`) against Kollaps (`K₀`) as the classifying logic of a database"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        111,
+        132,
+        138,
+        215
+      ],
+      "attribution": "",
+      "note": "Lex as the Rationalist and ally of AEGIS, in a proposed workflow"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "Lia named once, as an EP of the Mnemosyne-Archipel"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        217,
+        230
+      ],
+      "attribution": "",
+      "note": "the Mnemosyne-Archipel as a container and as a cost"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        361
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a concept to define, and AEGIS's blind spot"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        45,
+        198
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the goal state of the third act"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        43,
+        230
+      ],
+      "attribution": "",
+      "note": "the Nichts-Rauschen as the `K₀` place and a cost of the world"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        81,
+        142,
+        147,
+        167
+      ],
+      "attribution": "",
+      "note": "Nyx as the Fight alter, in a proposed workflow"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        359
+      ],
+      "attribution": "",
+      "note": "the Trennungsprotokoll named once, in the antagonist row"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        99,
+        307,
+        402
+      ],
+      "attribution": "",
+      "note": "TSDP as the basis of System Kael and of the database schema"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C14"
+  ],
+  "questions_changed": [
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title, Kohärenz Protokoll), J49 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis — world names, read on kern-welten), J12 and J16 (compounds with their own sense: System Kael — read on kael — Kohärenz durch Negation, read on kohaerenz, Genesis-Krise, Critical Plot Interrogatories), J23 and J56 (inflections: funktionalen Multiplizität), and Kollaps as the principle K₀, read on kohaerenz and dkt, not the page kollaps-kernel",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 119,
+      "decision": "reading",
+      "why": "the heading of section 3.2 on the alters' conflict dynamics, read on alters"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 87,
+      "decision": "occurrence",
+      "why": "a word in KW4's container label, Container der Möglichkeit & Emergenz, not the concept"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 166,
+      "decision": "occurrence",
+      "why": "inside a sample prompt to an AEGIS agent, not the document's own reading"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 217,
+      "decision": "reading",
+      "why": "a place destroyed as an irreversible cost in the Hamilton mapping, read on mnemosyne"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 45,
+      "decision": "reading",
+      "why": "the Integraler Status row's funktionale Multiplizität, read on multiplizitaet"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "a metaphor for gaps in the narrative itself, not the world's Risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 298,
+      "decision": "occurrence",
+      "why": "algorithmische Simulation, a writing method in a heading"
+    }
+  ],
+  "not_promoted": [
+    "Maximal-Plotter, Mosaik-Struktur, Systemkarte, Gravitations-Architektur and its three phases, Irreversible Kosten — the report's workflow",
+    "Riss-Zone, Integraler Status, Enforcer — rows of its ontology table, said on kohaerenz",
+    "K₁, K₀, KW1–KW4 — on dkt and kern-welten",
+    "Writer's Bible, Agentive Narrative — documents it cites",
+    "LeanRAG, Meta-Prompting, Chain-of-Density, P-SYS, P-PSY, P-AES, Conflict Analyst — tools and prompts",
+    "Hamilton's 40-Chapter Plot Module, Save the Cat, Hero's Journey, Hamartia, Autopoiesis, Prehension, Quantenverschränkung — borrowed"
+  ],
+  "internal_tension": "the Irreversible-costs concept is written in two cases (L192, L217); Fundament and Enforcer stand once each, undefined",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

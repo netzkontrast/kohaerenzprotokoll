@@ -1,0 +1,362 @@
+{
+  "document": "plot-generation-framework-for-the-coherence-protocol",
+  "drive_id": "1Yt2MRvp2q2D2XBUGj9pX19gTAy_Cl32i9tBJOIK5Glc",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 91,
+    "decided_by_lookup": 68,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        122,
+        260
+      ],
+      "attribution": "",
+      "note": "Zero-Trust as the principle of Cerberus's fortress"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        36,
+        37,
+        52,
+        96,
+        255,
+        278,
+        281,
+        284
+      ],
+      "attribution": "",
+      "note": "AEGIS as POV, antagonist and remnant in a 39-part outline"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        142
+      ],
+      "attribution": "",
+      "note": "Alex as protector-part in the second failed cycle"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        82,
+        248,
+        267
+      ],
+      "attribution": "",
+      "note": "Argus as observer and critic; assembles the clues in Chapter 26"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        121,
+        136,
+        260
+      ],
+      "attribution": "",
+      "note": "Cerberus as Guardian of Kernwelt 3, beside a second Guardian named for it"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        278
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as a log Kael uncovers"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        202
+      ],
+      "attribution": "",
+      "note": "Isabelle as POV of the final confrontation in Story 34"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        57,
+        117,
+        235
+      ],
+      "attribution": "",
+      "note": "Juna/V as a connection that catalyzes Kael's integration"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        202,
+        212,
+        237,
+        280,
+        282
+      ],
+      "attribution": "",
+      "note": "Kael as host in Story 1, as embodied Gödel-Satz in the climax, as Gardener"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        126,
+        166,
+        261
+      ],
+      "attribution": "",
+      "note": "Kairos/Sophia as Guardian of Kernwelt 4, beside the Possibility-Weaver"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        101,
+        102,
+        106,
+        121,
+        126,
+        127,
+        136,
+        166
+      ],
+      "attribution": "",
+      "note": "one Guardian per Kernwelt, and two further Guardians named for 3 and 4"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        42,
+        240
+      ],
+      "attribution": "",
+      "note": "Kiko as child-part whose intrusion Lex suppresses"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        32,
+        238
+      ],
+      "attribution": "",
+      "note": "Lex as cold rationalist in Story 2 and Chapter 2"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        67,
+        245
+      ],
+      "attribution": "",
+      "note": "Lia as child-part shifting from fear to longing"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        101,
+        102,
+        256
+      ],
+      "attribution": "",
+      "note": "LogOS as Guardian of Kernwelt 1, in Story 15 and Chapter 15"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        107,
+        257
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Guardian of Kernwelt 2 and dialetheic logic"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        52,
+        55,
+        242,
+        243
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as unclassified signature and plot device"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        197,
+        279
+      ],
+      "attribution": "",
+      "note": "Moros as the part of despair in Chapter 33"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        147
+      ],
+      "attribution": "",
+      "note": "Nichts Rauschen as the Guardian's only reading beyond a Riss"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        77,
+        247
+      ],
+      "attribution": "",
+      "note": "Nyx as aggressive protector with protective intent"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        145,
+        147,
+        265
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as cosmic horror beyond the simulation"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        47,
+        152,
+        241
+      ],
+      "attribution": "",
+      "note": "Rhys the caretaker: de-escalation (Story 5, Chapter 5) and despair (Story 25, the third cycle)"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        146,
+        147
+      ],
+      "attribution": "",
+      "note": "a Guardian monitoring the Risse"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        71,
+        72
+      ],
+      "attribution": "",
+      "note": "Selene as regulator in Story 10"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        126,
+        261
+      ],
+      "attribution": "",
+      "note": "Sophia named only in the pair Kairos/Sophia"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "TSDP as the named condition of Story 1"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        97,
+        206,
+        207
+      ],
+      "attribution": "",
+      "note": "the Überwelt as an AEGIS component's task and a POV"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the project's name (J9)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,122 @@
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Konzeptueller Kern"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Zweck/Funktion"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Charakter/Plot"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Spezifische Landmarken/Sub-Zonen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Insight"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            15
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Kontext Punkt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "universal reboot"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Index"
+whole word, case-sensitive     3
+whole word, case-insensitive   5
+including compounds            3
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Nox"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Praetor"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Oblivion"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Silas"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "AEGIS-Kern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Entropic Gatekeeper"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Risse"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            21
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Reboot"
+whole word, case-sensitive     12
+whole word, case-insensitive   14
+including compounds            18
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Nexus-Knoten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Environmental Storytelling"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Innere Bunker"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+
+$ read.py roman-lokalitaeten-konzept-und-ausarbeitung-2 --count "Innerer Bunker"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+
+stance_marker_count 23 = 9 (Konzeptueller Kern) + 7 (Zweck/Funktion) + 7 (Charakter/Plot), whole word
+candidates 77 and zeros 0: 04-counts.txt header, census.py draft

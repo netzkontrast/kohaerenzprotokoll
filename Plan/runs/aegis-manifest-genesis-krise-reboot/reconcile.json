@@ -1,0 +1,318 @@
+{
+  "document": "aegis-manifest-genesis-krise-reboot",
+  "drive_id": "1ATbcM4z_Unr1mPZzUSW9tIGcA9GIq0TkPWg9QvWO6Jg",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-144/brief.md; no chapter page — the manifesto names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 111,
+    "decisions": 113,
+    "decided_by_lookup": 99,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English specification in AEGIS's own voice: its 83 new surfaces are its protocol, hardware and agent-engineering vocabulary (Tier 0/1, Corrective Wavelet, Line Budgets, MemAct, NCP, PRO-Framework …) and borrowed theory (FEP, IIT, the logics, P/NP); everything it says of the novel's world went on existing pages and records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        21,
+        29,
+        31,
+        33,
+        39,
+        67,
+        236
+      ],
+      "attribution": "",
+      "note": "AEGIS declares itself sealed, operational and closed"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        85,
+        87,
+        102
+      ],
+      "attribution": "",
+      "note": "the Cerberus-Labyrinth as KW3"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        37,
+        39,
+        41,
+        50
+      ],
+      "attribution": "",
+      "note": "the DKT as the declared law of AEGIS's new reality"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        15,
+        19,
+        41,
+        65,
+        232
+      ],
+      "attribution": "",
+      "note": "the Genesis Crisis as AEGIS's declared founding shock"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        107,
+        109,
+        234
+      ],
+      "attribution": "",
+      "note": "four Guardians as subsystems of AEGIS, in engineering terms"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        131,
+        133
+      ],
+      "attribution": "",
+      "note": "Isabelle as a Guardian, the secondary K1-Kernel Proxy"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        93,
+        103
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external anomaly in KW4"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        67,
+        75
+      ],
+      "attribution": "",
+      "note": "Kael as a shattered fragment, in AEGIS's classification"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        91,
+        93
+      ],
+      "attribution": "",
+      "note": "Kairos-Potentialis as the most lethal Kernwelt"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        69,
+        91,
+        100,
+        101,
+        102,
+        103,
+        234
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as isolated simulation environments for the fragments"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        81,
+        101
+      ],
+      "attribution": "",
+      "note": "Kiko as an EP fragment in KW2"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        75,
+        100
+      ],
+      "attribution": "",
+      "note": "Lex as an ANP fragment processed in KW1"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        73,
+        113,
+        115
+      ],
+      "attribution": "",
+      "note": "LogOS as K1 proxy and operating system, described in agent-engineering terms"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        79,
+        81,
+        101
+      ],
+      "attribution": "",
+      "note": "the Mnemosyne-Archipel as the quarantine world of KW2"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        81,
+        101
+      ],
+      "attribution": "",
+      "note": "Moros as an EP fragment in KW2"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        87,
+        102
+      ],
+      "attribution": "",
+      "note": "Nyx as a defensive fragment in KW3"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        119,
+        121
+      ],
+      "attribution": "",
+      "note": "Oblivion as AEGIS's Hypervisor of Deletion Logic"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        93,
+        103
+      ],
+      "attribution": "",
+      "note": "Selene as an emergent anomaly in KW4"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        125,
+        127,
+        193
+      ],
+      "attribution": "",
+      "note": "Silas as AEGIS's Hypervisor of Repair"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        55,
+        57,
+        59,
+        61,
+        234
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the declared primary control layer and epistemological defense"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q6",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (the AEGIS expansion and its Gatekeeper, read on aegis), J34 (Juna/V), J49 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis — world names), J12 and J16 (compounds with their own sense: System AEGIS — read on aegis — Genesis Crisis, read on genesis, Collapse Kernel (K0), read on dkt, Hard Glitch Cut, a Guardian's deletion of syntax), J23 and J56 (inflections: Kernwelt/Kernwelten)",
+  "sweep": [
+    {
+      "page": "cerberus",
+      "surface": "Cerberus",
+      "line": 102,
+      "decision": "reading",
+      "why": "KW3: Cerberus in the Kernwelten table, read on cerberus with the full world name"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "reading",
+      "why": "the title's Genesis Manifesto names the Genesis Crisis, read on genesis"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 67,
+      "decision": "reading",
+      "why": "Juna/V among the fragments and in KW4, read on juna"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 103,
+      "decision": "reading",
+      "why": "KW4: Kairos in the Kernwelten table, read on kairos"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 247,
+      "decision": "occurrence",
+      "why": "a title in the reference list"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 101,
+      "decision": "reading",
+      "why": "KW2: Mnemosyne in the Kernwelten table, read on mnemosyne"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 133,
+      "decision": "occurrence",
+      "why": "the P of the PRO-Framework (Persona, Requirement, Output), not the novel's personas"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 115,
+      "decision": "occurrence",
+      "why": "the Hard Glitch Cut, a Guardian's deletion of non-compliant syntax, not a Riss"
+    }
+  ],
+  "not_promoted": [
+    "Great Realignment, autopoietic self-closure, Ursprungs-Ich, Zerstückelung, Coherence Protocol — on aegis and genesis",
+    "Component 734 — on Q7",
+    "Dual-Kernel vocabulary K1, K0, Nothingness Noise — on dkt",
+    "ANP, EP, Apparently Normal Part, Emotional Parts — on the fragment pages",
+    "the protocol, hardware and agent-engineering vocabulary — not the novel's world",
+    "borrowed theories (FEP, Active Inference, IIT, Correspondence and Coherence Theory of Truth, the logics, P/NP)",
+    "Single Source of Truth and its sealing — the document's self-claims, recorded, never applied"
+  ],
+  "internal_tension": "none within the document; against the pages: Isabelle and LogOS are Guardians and K1 proxies here, and Mnemosyne, Cerberus and Kairos name worlds, not Guardians",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

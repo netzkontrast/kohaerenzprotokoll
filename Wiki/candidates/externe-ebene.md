@@ -1,14 +1,26 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 35
-readings: 35
+sources: 43
+readings: 43
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
 # Externe Ebene
+
+## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — the Externe Ebene as a reality outside AEGIS, tied to Juna
+
+The comparison table covers only the Kern-Welten; its note says: „Die Überwelt und Externe Ebene folgen als separate Beschreibungen, da sie systemisch bzw. extern sind“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L191]. The section is headed „Die Externe Ebene (Juna)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L248]. Its core: „Eine Realität außerhalb der Kontrolle von AEGIS“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L250], connected with the figure Juna. Of its instability: „Unwahrscheinlich, dass sie sich als AEGIS-artige“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L256] Risse should appear. Of its place in the plot: „Die Natur dieser Ebene ist ein zentrales Mysterium des Romans“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L257]. A key location is headed „Junas Zufluchtsort (Externe Ebene)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L329].
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — a reality wholly outside AEGIS, nature unknown
+
+The sixth level is defined by exclusion: „Eine Realität, die vollständig außerhalb des AEGIS-Kontrollsystems existiert“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L183], and „Ihre genaue Natur ist unbekannt“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L183]. On AEGIS's reach: „AEGIS hat hier mutmaßlich keine Kontrolle und möglicherweise nicht einmal Sensorik“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L206]. It is tied to Juna: „Dies ist Junas Herkunftsort, ihre Domäne oder die Quelle ihrer Fähigkeiten“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L210].
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts — the Externe Ebene as Juna's postulated anchor
+
+The character concepts tie the Externe Ebene to Juna and keep it hedged. Her presence is unintelligible to the system because of „ihre Verbindung zur postulierten Externen Ebene für das System unverständlich sind“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L58] (citing a supplied context). Her world link reads „ihre primäre Verankerung die Externe Ebene“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L112], and as a possible aim of hers the paper lists „oder das Erreichen der Externen Ebene“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L91]. A need is guessed: „Vielleicht benötigt sie Kael, um die Externe Ebene zu erreichen oder zu stabilisieren“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L94].
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
@@ -27,11 +39,23 @@ nature ^[kohaerenzprotokoll-aegis-und-systementropie.md:L124].
 **Premise, not finding.** The source takes the layer as given and reasons about
 what follows.
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — the Externe Ebene as what Juna connects to, and Sophia's missing data
+
+The plot blueprint names the Externe Ebene twice. The answer on Kael's loneliness after integration plans: „Verbindung nach außen (Juna/Externe Ebene) erfordert“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L101] — true coherence needs it. In step 2.9 Sophia knows Juna's meaning but „nicht ihre wahre Natur oder Herkunft“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L452], followed by the parenthesis (Externe Ebene). The blueprint says nothing further about the level's laws.
+
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — section 6: a reality outside AEGIS's control, laws `Unbekannt`
 
 Section 6 describes the Externe Ebene as „Realität außerhalb von AEGIS' Kontrolle“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133], its nature „unbekannt, aber im Kontrast zur Simulation“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133]; it represents „potenziell basierend auf Emotion, Verbindung, Bewusstsein oder anderer Physik/Metaphysik.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L133] Its look and senses are written as questions: „Stark kontrastierend zur Simulation (organisch? warm? lichtvoll? anders abstrakt?).“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L138]
 
 For its laws the field reads „Unbekannt; basieren nicht auf AEGIS-Logik; potenziell auf Empathie, Bewusstsein, Resonanz, Nichtlokalität.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144] and adds „Entropie/Risse im AEGIS-Sinn nicht anwendbar.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144] The field `Schnittstellen/Überlappungen` names the way in: „Manifestiert sich innerhalb der Simulation möglicherweise durch "Ankerpunkte" (siehe Roman-Lokalitäten Konzept) oder durch die Verbindung V selbst, die AEGIS' System durchdringt.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L145] The referenced concept is not quoted by this document.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — the Externe Ebene as the Other outside AEGIS's control
+
+The concept with subplots tags a subplot „Das Mysterium Juna/V & die Externe Ebene“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L21] as its own bookkeeping. Kapitel 22 plans that „Kael findet erste konkrete Hinweise auf die Externe Ebene oder Juna/V“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53]; Kapitel 11 had only hedged hints: „Subtile Andeutungen auf die Externe Ebene“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L37]. In the theme list Juna/V and the Externe Ebene stand for the Other, „das außerhalb von AEGIS' Kontrolle liegt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L82].
+
+## Reading — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan — the Externe Ebene as a subplot, heard from outside in Kap. 21 and met in Kap. 28
+
+The plan's third arc is „Das Mysterium Juna/V & die Externe Ebene“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L21]. Its first hints are planned for Kap. 21: „Erste konkrete Hinweise auf Juna/V und die Externe Ebene“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L102]; in Part 3 follows „Direkte Begegnung mit dem Unbegreiflichen (Juna/V, Externe Ebene)“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L113]. The Fundament might be sought „möglicherweise durch das Navigieren der tiefsten Schichten der Überwelt oder über die Externe Ebene“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L171]. The plan hedges its link to the Fundament: „könnte sich als eng verbunden erweisen, vielleicht repräsentieren sie verschiedene Aspekte oder Ebenen einer“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L193] — see C13.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — the two lines that name the external level
 
@@ -40,6 +64,10 @@ The outline writes the external level as a setting or a mystery. Chapter 19's co
 ## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — the Externe Ebene as an open question, twice
 
 Chapter 19 says of the Juna/V contact: „Die Natur der externen Ebene bleibt unklar“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L180], with the question `höhere Realität? Andere Simulation?` in brackets. Chapter 38 plans that the new reality is established, with three guesses in the plan's own question form: „Die Beschaffenheit der“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L314] `neuen Realität` is followed by `veränderte Simulation? Nähe zum Fundament? Externe Ebene?` — the question mark stays.
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — the Riss as the first door to the Externe Ebene
+
+Chapter 11's foreshadowing field proposes: „Der Riss ist das erste konkrete Tor oder der erste Hinweis auf diese Ebene.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L790] The subplot field gives it with Juna/V: „Der Riss ist der erste klare Hinweis auf die Existenz und den Einfluss von Juna/V oder der externen Ebene.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L760] and „Er dient als potenzielles Portal oder Kommunikationskanal.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L760] The field on L790 names contact in Kap. 19 and 25, which the outline does not contain.
 
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — a postulated plane beyond the simulation's logic, reached through Juna
 
@@ -66,6 +94,10 @@ The concept document says of the Externe Ebene: „Juna/V is a transcendent enti
 ## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — a reality beyond AEGIS's direct control, tied to Juna/V
 
 **The architecture analysis** (L409–L573), section 3.2, opens „Beyond the Kernwelten lie more abstract and fundamental layers of existence“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470]. Of the Externe Ebene (External Plane) it says it is „a mysterious reality that exists beyond AEGIS's direct control“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470], „intrinsically linked to the entity known as Juna/V“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470], and „representing an alternative model of order that AEGIS cannot integrate“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470]. The term: `Externe Ebene` ^[kohaerenz-protokoll-scene-by-scene-outline.md:#2].
+
+## Reading — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview — the Externe Ebene as a realm outside AEGIS's simulation
+
+The ontological overview connects Juna/V to the `Externe Ebene` (External Level), „a realm that exists outside of AEGIS's simulation“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L104] (L104). The same passage calls her ontological nature deliberately ambiguous.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Juna's link to a reality beyond the simulation, and in Part II a hedged an outside
 
@@ -118,6 +150,7 @@ Row W-06, `Externe Ebene (Köln)` (three stars): „Basisrealität, in der Kael 
 - The report of 2026-02-23 asks whether the Externe Ebene is the therapists' real world or a further simulation level, and gives no answer.
 - `welt` (2025-07-29) keeps the Externe Ebene a hedged open question: „eine andere Form von Realität“ ^[welt.md:L128] or an inner world from before the fragmentation, outside AEGIS's direct control.
 - The architecture analysis puts the Externe Ebene „beyond AEGIS's direct control“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470] and as a reality of its own, tied to Juna/V; the line states control, not a place relative to the simulation.
+- The ontological overview (2025-11-03) places the Externe Ebene outside AEGIS's simulation (L104).
 
 ## Open
 

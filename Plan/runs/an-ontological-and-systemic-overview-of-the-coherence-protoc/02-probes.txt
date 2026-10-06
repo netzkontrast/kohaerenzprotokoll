@@ -1,0 +1,38 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      4
+  backslash escapes      28
+  typographic marks      18
+  ascii quotes           66
+
+# inflection families -- one term, several surfaces
+  funct    Function, Functional, Functions
+  compo    Component, Components
+  disso    Dissociation, Dissociative
+  emoti    Emotion, Emotional
+  exter    External, Externe
+  garde    Garden, Gardener
+  guard    Guardian, Guardians
+  parad    Paradox, Paradoxon
+  proto    Protocol, Protokoll
+  reson    Resonance, Resonanz
+  syste    System, Systemic
+  trans    Transcendent, Transformation
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Here < Coherence
+  Logic < Ontological
+  Logic < Psychological
+  Order < Disorder
+  World < Worlds
+  World < Overworld
+  Garden < Gardener
+  System < Systemic
+  Emotion < Emotional
+  Paradox < Paradoxon
+  Function < Functions
+  Function < Functional
+  Guardian < Guardians
+  Component < Components

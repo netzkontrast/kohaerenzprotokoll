@@ -1,0 +1,92 @@
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Vorbedingung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Vorbedingung` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#3]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Interventionsschritt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Interventionsschritt` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#3]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Trace"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Trace` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#5]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Kapitel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kapitel` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#3]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Nichts Rauschen` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#2]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "funktionalen Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`funktionalen Multiplizität` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#2]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "AutoCompanion"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`AutoCompanion` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#0]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`Kernwelt` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#0]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Kernwelten"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kernwelten` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#4]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Kohärenz Protokolls"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kohärenz Protokolls` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#5]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Kaels"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kaels` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#5]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "AutoCompanion-Subklassen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AutoCompanion-Subklassen` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#1]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "KW"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`KW` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#0]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Phase"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Phase` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#4]
+$ python3 scripts/read.py ki-roman-architektur-kohaerenz-und-kollaps --count "Juna"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna` ^[ki-roman-architektur-kohaerenz-und-kollaps.md:#3]
+stance_marker_count = Vorbedingung 3 + Interventionsschritt 3 = 6
+eleven parts: ANP 5 (L89-92) + EP 5 (L98-101) + Selene 1 (L105) = 11; document says elf at L81

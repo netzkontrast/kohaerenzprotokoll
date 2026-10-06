@@ -1,0 +1,148 @@
+# counts for 109 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Key Beats / Abstract Scenes (ca. 3-5)
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           180 word   190 in   [15, 17, 18, 19, 27, 37]
+                                    3      as AEGIS-Überwelt
+                                    2      as AEGIS-Paradoxon
+                                    1      as AEGIS-Logik
+                                    1      as AEGIS-Taktik
+  Kael                            114 word   166 in   [16, 19, 28, 37, 47, 57]
+                                   49      as Kaels
+                                    1      as Kael-System
+                                    1      as Kael-Systems
+                                    1      as Kael-Integration
+  System Kael                      13 word    13 in   [16, 57, 78, 279, 341, 342]
+  Echo                             10 word    12 in   [15, 16, 17, 28, 38, 39]
+                                    2      as Echos
+  Selene                            6 word     7 in   [16, 28, 59, 682, 722, 885]
+                                    1      as Selene-Aspekt
+  Nichts Rauschen                   7 word     7 in   [17, 18, 37, 39, 48, 68]
+  Fehlausgerichtete Kohärenz        3 word     3 in   [56, 190, 557]
+  MisalignedCoherence               1 word     1 in   [17]
+  Kohärenz Protokoll                3 word     6 in   [11, 17, 29, 77, 216, 480]
+  AEGIS Paradoxon                   8 word     8 in   [27, 56, 96, 161, 354, 557]
+  Kael Fragmentation                1 word     1 in   [28]
+  Kael Integration                 12 word    12 in   [95, 160, 226, 290, 353, 423]
+  Juna/V                            9 word    10 in   [19, 29, 58, 76, 748, 749]
+                                    1      as Juna/Vs
+  Kernparadoxon                     3 word     4 in   [17, 38, 77, 789]
+                                    1      as Kernparadoxons
+  Kerntrauma                        3 word     4 in   [16, 70, 78, 454]
+                                    1      as Kerntrauma-Ereignis
+  Überwelt                          0 word     3 in   [18, 79, 750]  <-- substring
+  Host                              4 word     8 in   [83, 84, 130, 141, 160, 342]
+                                    4      as Hosts
+  Glitch                            6 word    23 in   [84, 95, 96, 104, 105, 106]  <-- substring
+                                   17      as Glitches
+  Lex                              63 word    63 in   [84, 125, 142, 148, 149, 150]
+  Alex                             56 word    56 in   [214, 215, 216, 217, 218, 226]
+  Rhys                             48 word    48 in   [278, 279, 280, 282, 290, 298]
+  Kiko                             10 word    13 in   [342, 383, 399, 404, 412, 414]
+                                    3      as Kikos
+  Lia                               3 word     3 in   [412, 452, 479]
+  Moros                             9 word     9 in   [342, 383, 399, 407, 412, 414]
+  Kernwelt 1                        2 word     2 in   [85, 86]
+  KW1                              48 word    48 in   [85, 87, 96, 105, 106, 124]
+  Logos-Prime                       3 word     3 in   [86, 151, 548]
+  Kernwelt 2                        2 word     2 in   [344, 382]
+  KW2                              35 word    35 in   [316, 337, 342, 343, 345, 354]
+  Mnemosyne-Archipel                2 word     3 in   [344, 382, 414]
+                                    1      as Mnemosyne-Archipels
+  Guardian LogOS                    5 word     5 in   [150, 152, 162, 189, 547]
+  Guardian Mnemosyne                6 word     6 in   [343, 345, 355, 384, 406, 413]
+  Guardians                         4 word     4 in   [162, 355, 424, 624]
+  ANPs                             27 word    27 in   [149, 160, 215, 278, 279, 280]
+  EPs                              48 word    48 in   [78, 144, 191, 215, 278, 279]
+  Apparently Normal Parts           2 word     2 in   [160, 479]
+  Emotional Parts                   3 word     3 in   [191, 383, 479]
+  Emotionale Teile                  1 word     1 in   [342]
+  Inneren Konferenzzimmers          2 word     2 in   [281, 727]
+  TSDP                              1 word     1 in   [478]
+  Theory of Structural Dissociation of the Personality    1 word     1 in   [478]
+  Panoptismus                       1 word     1 in   [85]
+  Philo Hint                       21 word    21 in   [39, 172, 236, 299, 365, 434]
+  Core Theme                       14 word    14 in   [15, 83, 148, 214, 278, 341]
+  Kael System Dynamics             14 word    14 in   [16, 84, 149, 215, 279, 342]
+  AEGIS Strategy/Manifestation     13 word    13 in   [17, 85, 150, 216, 280, 343]
+  Setting & Atmosphere             13 word    13 in   [18, 86, 151, 217, 281, 344]
+  Narrative Goals & Pacing         13 word    13 in   [19, 87, 152, 218, 282, 345]
+  Conceptual Deep Dive             13 word    13 in   [21, 89, 154, 220, 284, 347]
+  Subplot Progression              13 word    13 in   [23, 91, 156, 222, 286, 349]
+  Philosophical Resonance          13 word    13 in   [33, 100, 166, 230, 294, 359]
+  Genre/Trope Application          13 word    13 in   [43, 110, 176, 240, 303, 369]
+  Key Concepts/Foreshadowing       13 word    13 in   [52, 119, 185, 249, 311, 378]
+  Narrative Technique Focus        13 word    13 in   [63, 130, 195, 259, 322, 390]
+  Key Symbols/Motifs               13 word    13 in   [64, 131, 196, 260, 323, 391]
+  Nyx                               3 word     3 in   [612, 623, 656]
+  Argus                            11 word    11 in   [748, 791, 807, 808, 810, 816]
+  Meta-Beobachter                   4 word     4 in   [748, 791, 816, 859]
+  Kernwelt 3                        4 word     4 in   [611, 612, 614, 652]
+  KW3                              22 word    22 in   [611, 612, 613, 615, 632, 633]
+  Cerberus-Labyrinth                2 word     2 in   [614, 652]
+  Guardian Cerberus                 5 word     5 in   [613, 615, 624, 653, 675]
+  Cerberus                         16 word    18 in   [611, 613, 614, 615, 624, 632]
+                                    2      as Cerberus-Labyrinth
+  Gaslighting                      10 word    16 in   [545, 546, 547, 548, 549, 558]
+                                    5      as Gaslightings
+                                    1      as Gaslighting-Techniken
+  Riss                             32 word    47 in   [115, 748, 749, 750, 751, 759]
+                                   14      as Risses
+                                    1      as Risse
+  Der Riss                         10 word    10 in   [749, 759, 760, 769, 770, 779]
+  Ko-Bewusstsein                    4 word     5 in   [682, 683, 693, 719, 741]
+                                    1      as Ko-Bewusstseins
+  Inneres Konferenzzimmer           1 word     1 in   [684]
+  Fundament                         2 word     2 in   [829]
+                                    6      as fundamentalen
+                                    4      as fundamental
+                                    2      as fundamentaler
+                                    1      as fundamentalster
+  Akt 2                             5 word     5 in   [520, 816, 819, 860, 884]
+  Fragmente der Vergangenheit       1 word     1 in   [409]
+  Die Logik des Gaslichts           1 word     1 in   [543]
+  Die Mauern der Grenzfeste         1 word     1 in   [609]
+  Relation R                        3 word     3 in   [106, 837, 840]
+  Switches                          6 word     6 in   [479, 482, 509, 518, 524, 538]
+  Dissoziation                      3 word     3 in   [412, 471, 517]
+  Phobien                          27 word    30 in   [57, 84, 126, 279, 281, 282]
+  Hume                              4 word     4 in   [104, 106]
+  Parfits                           3 word     3 in   [106, 837, 840]
+  Kant                              3 word     4 in   [170, 172, 298]
+                                    1      as Kantianismus
+  Hobbes                            2 word     2 in   [234]
+                                    2      as hobbessche
+  Logischer Positivismus            1 word     1 in   [171]
+  Ethik der Fürsorge                2 word     2 in   [298, 299]
+  Qualia                            4 word     4 in   [364, 365, 390]
+  Emergenz                          8 word     8 in   [37, 38, 39, 59]
+  Ontologie                         1 word     1 in   [37]
+  Loftus                            1 word     1 in   [433]
+  Body Keeps the Score              2 word     2 in   [432, 443]
+  Glitch in the Matrix              1 word     1 in   [115]
+  Unreliable Narrator               1 word     1 in   [114]
+  Cosmic Horror                     1 word     1 in   [48]
+  Origin Story                      1 word     1 in   [47]
+  Rules Lawyer                      2 word     2 in   [181]
+  Psychological Horror              1 word     1 in   [444]
+  Sartre                            3 word     3 in   [499, 839]
+  Bad Faith                         3 word     3 in   [499]
+  Mauvaise Foi                      2 word     2 in   [499, 500]
+  Locke                             2 word     3 in   [837, 840]
+                                    1      as Lockes
+  Buber                             2 word     3 in   [701, 702]
+                                    1      as Bubers
+  Ich-Du                            3 word     4 in   [701, 702]
+                                    1      as Ich-Du-Begegnungen
+  Kuhn                              1 word     2 in   [770]
+                                    1      as Kuhns
+  Epistemologischer Bruch           1 word     1 in   [769]
+  Simulationstheorie                2 word     2 in   [838, 840]
+  Existentialismus                  2 word     2 in   [839, 840]
+  Threshold Guardian                1 word     1 in   [643]
+  Deadly Maze                       1 word     1 in   [642]
+  Hope Spot                         1 word     1 in   [779]
+  Erkenntnistheorie                 3 word     3 in   [566, 567]
+  Philosophie der Angst             1 word     1 in   [632]

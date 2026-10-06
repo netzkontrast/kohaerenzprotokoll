@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 31
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 38
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,10 @@ Im ersten Riss bricht eine konkrete Anomalie Kaels Ordnung in KW1: laut struktur
 
 - The Teil-1 plot proposes Kapitel 2, `Betrayal` (L73), as the call, the Risse grow and Kael loses time: „werden häufiger und auffälliger, widersetzen sich einfachen Erklärungen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L78]. It hedges, and adds the first DID symptom, Kael loses time (L84), and a wave of sadness seeping in from KW2 (L87).
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.2, Echos aus dem Inneren
+
+- The plot blueprint plans step 1.2, „Echos aus dem Inneren“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L154]. Its synopsis begins: „Kael erlebt stärkere Intrusionen aus seinem Inneren“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L157] — a plan, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -45,6 +49,14 @@ Position: „(Fundamentales Konzept: Dissoziative Identitätsstörung)“ ^[koha
 - Juna erased: „Der Name *Juna* wurde zu einem bedeutungslosen Echo, einem gelöschten Datenfragment.“ ^[kohaerenz-protokoll.md:L264]
 - What is left: „Er war immer noch K-1123, der Kohärenz-Verifikator, der Logiker.“ ^[kohaerenz-protokoll.md:L268]
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Echos in der Konstrukt-Stadt
+
+- The concept with subplots titles Kapitel 2 „Echos in der Konstrukt-Stadt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28]. It plans: „Lex (Analytiker ANP) wird dominanter. Getrieben von einem Bedürfnis nach Ordnung und Kontrolle, versucht Lex, die Regeln von KW1 (Logik, AEGIS' Protokolle) zu verstehen und die Glitches rational“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — HJn: Identifikation mit dem Männlichen / Neue (Überlebens-)Strategie
+
+- The subplot catalogue analyses Kapitel 2 under the phase `Identifikation mit dem 'Männlichen' / Neue (Überlebens-)Strategie` (L54) of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Echos in der Konstrukt-Stadt
 
 Title: the commission titles the chapter „Echos in der Konstrukt-Stadt“ ^[kontext-outline.md:L87], placed in Act 1.
@@ -59,6 +71,10 @@ Focus: `Grenzen der Ratio`, „Der Versuch, ein inhärent paradoxes System“ ^[
 
 - Story: „Verlagerung des Fokus auf Kaels analytischen Anteil (Lex)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61]; „ersten direkten, wenn auch subtilen, Konfrontationen mit Guardian LogOS“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L61]
 - Concept: „Die Konfrontation mit LogOS zeigt AEGIS' rigide, aber potenziell fehlerhafte Logik“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L62] (concept tag: the `AEGIS-Paradoxon`)
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 2
+
+- The detailed outline plans Chapter 2 with the Core Theme „Die Suche nach Mustern in der sterilen Ordnung“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L148] — a plan, not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Logik der Risse
 
@@ -102,6 +118,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 
 - The scene outline gives no line of its own to Chapter 2; it falls within „Fragmentation and First Echoes“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L17], whose opening scenes (1.1–1.3, the awakening in Logos-Prime, the coherence check, the anomaly in the data stream) carry no chapter number.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Proactive Protector
+
+- The plot framework titles Chapter 2 „The Proactive Protector“ ^[plot-generation-framework-for-the-coherence-protocol.md:L238]. It commissions: „Introduce Lex's cold, logical control, thereby establishing the internal psychological mirroring of AEGIS's flawed, top-down control strategy“ ^[plot-generation-framework-for-the-coherence-protocol.md:L238] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The guardians of the threshold
 
 Title: „Die Wächter der Schwelle“ ^[romanstruktur-und-philosophische-einleitung.md:L45]
@@ -129,6 +149,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Transit-Korridor in Lo
 ## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — Kael's fall through the decaying worlds, active resistance recommended
 
 - The publisher's report criticises Kael as „extrem reaktiv und passiv“ ^[romananalyse-kohaerenz-plot-kritik.md:L141] in the concept of the first two chapters. Of the second it says that Kael, falling „durch die zerfallenden Welten“ ^[romananalyse-kohaerenz-plot-kritik.md:L162], should not merely endure: „sollte dies nicht nur ein passives Ertragen sein“ ^[romananalyse-kohaerenz-plot-kritik.md:L162] — the report's recommendation.
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Identifikation mit dem Männlichen
+
+- The plot synthesis plans Kapitel 2 as „Identifikation mit dem Männlichen“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L68], set in `KW1`, with the focus on Lex (Analytiker), Kael. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Geometrie der Isolation
 
@@ -190,6 +214,10 @@ Title: „Kausale Horizonte“ ^[kohaerenz-protokoll-kapitel-outline-generierung
 - Story: the dual-storyform outline plans „Kael unternimmt eine charakterlose Erkundung der Stadt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L74]
 - Storyforms: `Storyform B` (`OS: Psychology/Becoming`): „AEGIS beginnt, Kaels Identität zu formen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L76]; `Storyform A` (`RS: Psychology/Being`): „Eine erste, unbewusste Resonanz mit einem abwesenden“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L77]
 - Scene and pacing: `Szenen-Keim`: „Endlose, mathematisch perfekte Korridore“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L78]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die Geometrie des Rauschens
+
+- The 39-chapter outline titles Kapitel 2 „Die Geometrie des Rauschens“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L91]. It plans: „Die zunehmende Wahrnehmungsstörung zwingt den Verstand in eine funktionale Aufspaltung, als Lex die Kontrolle übernimmt, um den Wahnsinn zu rationalisieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L93]; POV Kael / Lex (L99) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

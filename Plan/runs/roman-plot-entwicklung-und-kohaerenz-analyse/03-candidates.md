@@ -1,0 +1,112 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+# Candidates, roman-plot-entwicklung-und-kohaerenz-analyse
+
+The document is German prose with six-column chapter tables. Names of the novel's world come first, then its own terms, then the borrowed concepts it applies under the lens heading. The export dropped the subscripts of the two kernels, so `Kernel` stands without its index, and the world numbers KW1 to KW4 stand as KW plus digit.
+
+- Kohärenz Protokoll
+- Kohärenz-Protokolls
+- AEGIS
+- AEGIS v1.5
+- Kael
+- Juna
+- Julia
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Guardian LogOS
+- LogOS
+- Mnemosyne
+- Cerberus
+- Guardians
+- Lex
+- Rhys
+- Kiko
+- Alex
+- Nyx
+- Selene
+- Moros
+- Argus
+- Architekt
+- Echo
+- Fragment O
+- Gärtner
+- Gärtner-Axiom
+- Herr beider Welten
+- Nichts Rauschen
+- Kernel
+- Moonshine-Link
+- Moonshine-Protokoll
+- Moonshine-Symmetrie
+- Moonshine-Transfer
+- K-J-Brücke
+- Kohärenz-Insel
+- Kohärenz-Inseln
+- Einheitsfront
+- Abfallwelten
+- Überwelt
+- Meta-Ebene
+- Potentialmeer
+- Genesis-Punkt
+- New Zenith
+- Kapitel 40/0
+- CCPP
+- Central Coherence Preservation Protocol
+- Controlled Fragmentation Protocol
+- Parakonsistente Gambit
+- algorithmische Melancholie
+- Instrumente der Ordnung
+- Trauma-Schleife
+- Kern-Trauma
+- Schatten-Kopien
+- Gehirn im Tank
+- Gott aus der Maschine
+- Glitch
+- Glitches
+- Host
+- Alters
+- ANP
+- EP
+- Dual Kernel Theory
+
+## lens
+
+- Dramatica
+- Grand Argument Story
+- Storyform
+- Throughline
+- Objective Story
+- Main Character
+- Influence Character
+- Relationship Story
+- TSDP
+- IFS
+- Internal Family Systems
+- Strukturellen Dissoziation
+- Dissoziativen Identitätsstörung
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Monstrous Moonshine
+- Monstergruppe
+- j-Funktion
+- Leech-Gitter
+- Leech Lattice
+- Heroine's Journey
+- Hero's Journey
+- Gödels Unvollständigkeitssatz
+- Beobachter-Effekt
+- Kybernetik zweiter Ordnung
+- Panoptismus
+- Qualia
+- Nullsummenspiel
+- Narrative Context Protocol
+- NCP
+- Multiplizität

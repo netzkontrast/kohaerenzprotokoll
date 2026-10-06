@@ -1,0 +1,304 @@
+{
+  "document": "dual-plot-architecture-a-narrative-foundation-for-kohaerenz",
+  "drive_id": "1_7nQG7fKQvhiUiicYJgqtVhMZkYW56K_YP1xpoBMWtM",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 105,
+    "decided_by_lookup": 67,
+    "needs_judgement": 38
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        19,
+        47,
+        49,
+        50,
+        52
+      ],
+      "attribution": "",
+      "note": "AEGIS as thesis and tragic antagonist"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        66,
+        106
+      ],
+      "attribution": "",
+      "note": "Alex as the protector ANP, placed in KW3"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        35,
+        59,
+        74
+      ],
+      "attribution": "",
+      "note": "Alters as a society of selves with phobias between them"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of KW3"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis from the Nichts Rauschen"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        37,
+        132
+      ],
+      "attribution": "",
+      "note": "the Gödel Gambit as the synthesis"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        110,
+        149,
+        170
+      ],
+      "attribution": "",
+      "note": "the Guardians as domain-holders and decaying agents"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        78,
+        81
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external force and Impact Character"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        39,
+        56,
+        58,
+        64,
+        74
+      ],
+      "attribution": "",
+      "note": "Kael as antithesis and as a TSDP system of nine named parts"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "Kairos as a Guardian of KW4, with Sophia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        94,
+        96,
+        100,
+        104,
+        108
+      ],
+      "attribution": "",
+      "note": "The four Kernwelten as epistemological landscapes"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        69,
+        102
+      ],
+      "attribution": "",
+      "note": "Kiko as the frightened-child EP, placed in KW2"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        65,
+        98
+      ],
+      "attribution": "",
+      "note": "Lex as the analyst ANP, resident of KW1"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        70,
+        102
+      ],
+      "attribution": "",
+      "note": "Lia as the ambivalent-child EP, placed in KW2"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        102,
+        149
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the Guardian of KW2, and a story narrator"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a non-local connection"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "Moros as the collapse EP"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        49,
+        148,
+        171
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as pre-real state and intruder"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        68,
+        106
+      ],
+      "attribution": "",
+      "note": "Nyx as an emotional-part fighter, placed in KW3"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        67
+      ],
+      "attribution": "",
+      "note": "Rhys as an ANP caregiver"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        120,
+        171,
+        178
+      ],
+      "attribution": "",
+      "note": "the Risse as rifts and as a style device"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        72,
+        110
+      ],
+      "attribution": "",
+      "note": "Selene as the integrating self, most influential in KW4"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "Sophia as the second Guardian of KW4"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        29,
+        58
+      ],
+      "attribution": "",
+      "note": "TSDP as the stated model of Kael's psyche"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C9",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 49,
+      "decision": "reading",
+      "why": "AEGIS emerged from the Nichts Rauschen — a reading on the page"
+    },
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 110,
+      "decision": "reading",
+      "why": "Kairos and Sophia the Guardians of KW4 — a reading on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,170 @@
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Worum geht es"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Worum geht es` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Quellen pro Befund"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Quellen pro Befund` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Confidence"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Confidence` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "HIGH"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`HIGH` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Vorschlag"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Vorschlag` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#11]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "single-source"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`single-source` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Pivot-Marker"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Pivot-Marker` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#12]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Verworfen"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            5
+
+`Verworfen` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Dekanonisiert"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dekanonisiert` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Konflikt gelöst durch Kanon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konflikt gelöst durch Kanon` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Wir-Geflecht"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Wir-Geflecht` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#17]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Lex"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Lex` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Landauer-Hitze"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Landauer-Hitze` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#7]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Erasure-Sweep"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            9
+
+`Erasure-Sweep` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Erasure-Sweeps"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Erasure-Sweeps` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Ouroboros-Marker"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Ouroboros-Marker` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Legacy"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            6
+
+`Legacy` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Vorschläge"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Vorschläge` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Throughline"
+whole word, case-sensitive     82
+whole word, case-insensitive   82
+including compounds            83
+
+`Throughline` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#82]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Pre-Synthesis Integrity Check"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Pre-Synthesis Integrity Check` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Halteproblem"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Halteproblem` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Universelle Turingmaschine"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Universelle Turingmaschine` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Iser-Mechanik"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Iser-Mechanik` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-kapitel-outline-generierung --count "Cerberus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cerberus` ^[kohaerenz-protokoll-kapitel-outline-generierung.md:#1]
+
+stance_marker_count 29 = Vorschlag 11 + single-source 1 + Pivot-Marker 12 + Verworfen 4 + Dekanonisiert 1
+table 2 names seven Alter (Kael Lex Alex Rhys Selene Silas Oblivion): read L40-L46; 39 chapters: Worum geht es count above; 12 Pivot-Marker blocks; 21 and 23 degrees: read L881 (23°C), L15 (21 Grad); Wir-Geflecht 17 above; 161 glued numbers, 117 escapes: 01-profile.txt; 5 references L1625-L1629; 133 candidates, 27 compounds-lines: census-draft.md facts; 82 Throughline above

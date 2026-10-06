@@ -1,0 +1,119 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Candidates written as the document spells them. The document is English prose with German names in quotation marks; the English and the German form are each listed. Subscripted digits are plain in this export (KW1, D2). Table cells carry escaped bold markers.
+
+- Kohärenz Protokoll
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Kael
+- Potentialmeer
+- Nichts Rauschen
+- The Void
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Paradox of Misaligned Coherence
+- Coherence through Alienation
+- Coherence through Negation
+- Coherence through Integration
+- functional multiplicity
+- alters
+- dialetheic mind
+- ontological exploit
+- Gödel-Gambit
+- living Gödel-Satz
+- ARCHON
+- Narrative Context Protocol
+- NCP
+- Knowledge Hypergraph
+- Storyform
+- Theory of Structural Dissociation of Personality
+- Theory of Structural Dissociation
+- TSDP
+- Tertiary Structural Dissociation
+- Apparently Normal Parts
+- Emotional Parts
+- ANP
+- EP
+- ISH
+- Internal Self Helper
+- Kael (Host)
+- Lex
+- Nyx
+- Kiko
+- Rhys
+- Selene
+- Argus
+- Moros
+- Meta-Observer
+- ZTEM
+- Zero-Trust Execution Model
+- RTSV
+- Real-time Self-Verification
+- BPoF
+- Behavioral Proof-of-Function
+- EIC
+- Encrypted Intent Channels
+- Cognitive Firewall
+- RIVE
+- Recursive Integrity
+- Symbolic Core
+- Specialized Modules
+- Adaptive Layer
+- LFI
+- Logics of Formal Inconsistency
+- Discursive Logic
+- D2
+- gentle explosion
+- Juna/V
+- Moonshine-Link
+- Gnostic Injection
+- Coordinated Emergence
+- Das Fundament
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- KW1-4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Risse
+- digital waste heat
+- Externalized Perpetrator Introject
+- System Responsibility
+- Grand Argument Story
+- System Mind
+- Objective Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Kishōtenketsu
+- Polyphonic Prose
+- The Reader's Protocol
+- unreliable, contradictory footnotes
+
+## lens
+
+- strange attractor
+- basin of attraction
+- principle of explosion
+- Landauer's principle
+- Reinforcement Learning
+- prehension
+- quantum entanglement
+- Dramatica
+- Dramatica Theory
+- Gödel's First Incompleteness Theorem
+- autopoietic
+- Autopoiesis
+- paraconsistent
+- IIT
+- Model Context Protocol
+- USB-C for narratives
+- Deus ex Machina
+- found footage

@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 28
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „AEGIS' Risse / KI-Ethik (Grenzen der Kontrolle)“ ^[kohaerenz-prot
 - Story: AEGIS tries to force Co1-style geometric order on the chaos world to break Kael's refusal, and its own Guardian, the Chaos-Regulator, splits between that order and the Juna-resonance Kael offers it, then fuses the two into something new, „Kohärenz ist nicht Einheitlichkeit.“ ^[kohaerenz-protokoll.md:L1938]; the system flags the Guardian's own drift as a breach of protocol.
 - Sequence: this chapter narrates the averting of the very Beta-Rho-5 collapse that this document's Kapitel 17 — headed one cycle later, „Zyklus 2“ ^[kohaerenz-protokoll.md:L1758] — already treats as past. State it; the order does not reorder.
 - Voice: third person on Kael; the alarm stands in capitals, and the split Guardian speaks with two voices at once, „eine kalt und logisch, die andere chaotisch und emotional“ ^[kohaerenz-protokoll.md:L1910], both as dialogue.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Echos der Vergangenheit
+
+- The concept with subplots titles Kapitel 18 „Echos der Vergangenheit“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L49]. It plans: „Kael entdeckt Beweise für frühere Zyklen oder Resets in der Simulation, oder wiederkehrende Muster in AEGIS' Verhalten“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L49] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — Meta: Versuch, den Zyklus zu durchbrechen/System zu manipulieren/zu verstehen
+
+- The subplot catalogue analyses Kapitel 18 under the phase „Versuch, den Zyklus zu durchbrechen/System zu manipulieren/zu verstehen“ ^[subplot-entwicklung-fuer-romanstruktur.md:L510] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Beobachter im System: Meta-Reflexion über AEGIS
 
@@ -90,6 +98,10 @@ Position: the chapter has no scene fields in the outline; it is a prose paragrap
 
 - The scene outline plans Chapter 18 as „Creativity and Potentials“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L244], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Entropic Bleed
+
+- The plot framework titles Chapter 18 „The Entropic Bleed“ ^[plot-generation-framework-for-the-coherence-protocol.md:L259]. It commissions: „Use an AEGIS report to create chilling dramatic irony, showcasing the antagonist's tragic flaw: its inability to distinguish the complexity of life from the“ ^[plot-generation-framework-for-the-coherence-protocol.md:L259] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Cosmic horror
 
 Title: „Kosmischer Horror“ ^[romanstruktur-und-philosophische-einleitung.md:L166]
@@ -110,6 +122,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Der Maschinenraum der
 
 - under Leitfrage 4 it asks how Kael makes the transition: „gelingt Kael der physische, datentechnische oder psychologische Übergang in Kapitel 11 oder Kapitel 18“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L83]; a question, with no answer (its source 2).
 
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Der Beobachter im System
+
+- The plot synthesis plans Kapitel 18 as „Der Beobachter im System“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L94], set in `Beobachter-Netzwerk`, with the focus on Argus (Beobachter). A plan, not the chapter as written.
+
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Kairos Potentialis
 
 Title: „Kairos Potentialis“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L229] — heading „Die Welt der Was-wäre-wenn“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L230]
@@ -126,6 +142,10 @@ Title: „Das Qualia-Paradoxon und die Dominanz“ ^[roman-konzept-dualitaet-koh
 
 - Who: „Kael begegnet Isabelle, dem sexualisierten Kampf-EP, die einen ganzen Sektor der Resonanz-Landschaft mit grausamer Dominanz kontrolliert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L93]
 - Establishes: „wird aber von der toxischen, erstickenden Hitze ihrer Präsenz (K0) an die Wand gedrückt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L93]
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Kael meets Mnemosyne
+
+- The refactoring plan has „Das Treffen mit Mnemosyne (Kapitel 18) verschiebt den Fokus auf die Grenzen der Identität“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L98] — a plan, not the chapter as written.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Lia teaches Kael the Archiv's paraconsistent logic
 
@@ -169,6 +189,10 @@ Title: „Qualia vs. Information“ ^[kohaerenz-protokoll-kapitel-outline-generi
 - Story: the dual-storyform outline plans „Kael erlebt Schmerz und Wärme, die AEGIS nicht als Daten registriert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L209]
 - Storyforms: `Storyform B` (`RS: Physics/Doing`): „AEGIS startet physische Scans, um den Ursprung der Hitze zu finden“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L211]; `Storyform A` (`RS: Psychology/Conceptualizing`): „Kael und Juna nutzen den Schmerz als geheimen Kommunikationskanal“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L212]
 - Scene and pacing: `Pacing`: „Schmerzhaft, intensiv“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L213]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die Anatomie des Trennungsprotokolls
+
+- The 39-chapter outline titles Kapitel 18 „Die Anatomie des Trennungsprotokolls“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L689]. It plans: „Kael kartografiert mithilfe der neuen Daten das Trennungsprotokoll und begreift endlich den wahren, tragischen Zweck der Stadt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L691]; POV Kael (L697) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -188,3 +188,27 @@ Stands as position 1 again, reported and not weighed; recorded, not applied, and
 The line reads „Autonomous Entropic Gatekeeper for“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L337] and then `Integrity` in bold, with `Systems` after it. The plan goes on to say AEGIS „jedoch wahrscheinlich als Singularität, Einheitlichkeit, Vorhersagbarkeit“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L337] defines `Integrität`, so that „Kaels Multiplizität selbst als Entropie, als Systemfehler“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L337] is read as a fault to correct. It offers no second or third expansion.
 
 Stands: position 1 again, from a plan written in the conditional; it neither adds nor settles anything.
+
+## 2026-10-06 — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report
+
+**The architecture report expands AEGIS as „Autonomous Entropic Gatekeeper for Integrity Systems“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L33].**
+
+It goes on: „verkörpert der Antagonist AEGIS“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L33] the coherence kernel.
+
+Stands as position 1 of C1 again; no new position.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots expands AEGIS as „Autonomous Entropic Gatekeeper for Integrity Systems (AEGIS)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L17], once, and then uses the acronym alone.**
+
+It gives the goal of AEGIS as stability, order and predictability through minimising entropy.
+
+Stands as another witness of the expansion in the record's position 1, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing
+
+**The briefing expands AEGIS as „Autonomous Entropic Gatekeeper for Integrity Systems“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L56] in the entity section.**
+
+The line reads „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is the central antagonist“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L56] and goes on to call it a tragic entity rather than a malevolent one.
+
+Stands as position 1 again, in a briefing of 2025-10-15; recorded, not applied.

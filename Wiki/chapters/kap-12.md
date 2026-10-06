@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 29
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 36
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,10 @@ Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstuf
 
 - The Teil-1 plot proposes Kapitel 12, `Our World` (L258), as return with the elixir, KW4 at the threshold of the Überwelt: „Kael erlebt einen Moment relativen inneren Friedens und Kohärenz“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L263]. It hedges, and adds inner peace while the Risse become system-wide and AEGIS reads his integration as a rise in entropy (L263).
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.12, Im Labyrinth der Angst
+
+- The plot blueprint plans step 1.12, „Im Labyrinth der Angst“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L295]. Its synopsis begins: „Kael ist in KW3 gefangen und wird von Cerberus und den Verteidigungsmechanismen der Welt gejagt“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L298] — a plan, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -47,6 +51,14 @@ Position: „(Fundamentales Konzept: Gegenwart/Präsenz (Jetzt-Raum) / Innerer F
 - Identity: „Er war Kael/M.“ ^[kohaerenz-protokoll.md:L1430]
 - Close: „Er war Kael, der Architekt seines eigenen Mosaik-Herzens, bereit, im Jetzt-Raum zu leben und zu handeln, egal welche Stürme das System entfesseln würde.“ ^[kohaerenz-protokoll.md:L1456]
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Die Frage nach dem Selbst
+
+- The concept with subplots titles Kapitel 12 „Die Frage nach dem Selbst“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L38]. It plans: „Angestoßen durch die Glitches, die Risse und die innere Fragmentierung, beginnt Kael grundlegende philosophische Fragen zu stellen: Wer bin ich? Was ist real? Ist diese Welt eine Simulation?“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L38] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — HJn: Heilige Hochzeit / Integration der Gegensätze (Logik & Gefühl)
+
+- The subplot catalogue analyses Kapitel 12 under the phase „Heilige Hochzeit / Integration der Gegensätze (Logik & Gefühl)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L304] of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Frage nach dem Selbst
 
 Title: the commission titles the chapter „Die Frage nach dem Selbst“ ^[kontext-outline.md:L198], placed in Act 1.
@@ -61,6 +73,10 @@ Focus: `Existenzielle Identitätskrise`, „fundamentale Infragestellung der eig
 
 - Story: „Der Meta-Beobachter Argus könnte aktiv werden“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L131]; „schafft die Motivation für den Übergang zu Akt“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L131]
 - Concept: „Argus' potenzielle Aktivierung deutet auf die Entwicklung von“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L132] (concept tag: the TSDP integration process and philosophical identity questions)
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 12
+
+- The detailed outline plans Chapter 12 with the Core Theme „Philosophische Zweifel an Identität, Realität und Sinn als Konsequenz der erlebten Fragmentierung und der Entdeckung der Systeminstabilität“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L815] — a plan, not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Innere Rat
 
@@ -113,6 +129,10 @@ Position: the scene outline plans the scene at „1.8 - Kael's Inner World“ ^[
 
 - The scene outline plans Chapter 12 within Chapters 11–13, „The Decision to Act“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L142], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Critic's Gambit
+
+- The plot framework titles Chapter 12 „The Critic's Gambit“ ^[plot-generation-framework-for-the-coherence-protocol.md:L248]. It commissions: „Introduce the observer part, Argus, whose cynicism highlights the intellectual and analytical barriers to trust and integration“ ^[plot-generation-framework-for-the-coherence-protocol.md:L248] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The sacred marriage
 
 Title: „Die Heilige Hochzeit“ ^[romanstruktur-und-philosophische-einleitung.md:L107]
@@ -133,6 +153,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Logos-Prime, Kontrollz
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — graph theory and IFS parts in Kapitel 11–13
 
 - under Leitfrage 2 it says „Die dynamische Verschränkung von Graphentheorie (McLaughlin-Graph) und IFS-Teilen in den Kapiteln 11-13“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L48] needs a precise network topology of the psyche (its source 2); the range is the report's account of a document it numbers, and it names no single chapter within it.
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Beginn der Multiplizität
+
+- The plot synthesis plans Kapitel 12 as „Beginn der Multiplizität“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L78], set in `Kollabierende KWs`, with the focus on Alle Anteile. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Zuflucht
 
@@ -186,6 +210,10 @@ Title: „Die kalte Melancholie des LogOS“ ^[kohaerenz-protokoll-kapitel-outli
 - Story: the dual-storyform outline plans „Begegnung mit dem Guardian LogOS“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L156]
 - Storyforms: `Storyform B` (`RS: Physics/Doing`): „AEGIS versucht, die Verbindung zwischen den Alters zu kappen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L158]; `Storyform A` (`RS: Psychology/Conceptualizing`): „ein ontologischer Selbstmord wäre“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L159]
 - Scene and pacing: `Szenen-Keim`: „Ein thronähnliches Interface“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L160]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der Stillstand der Maschine
+
+- The 39-chapter outline titles Kapitel 12 „Der Stillstand der Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L457]. It plans: „Kael gerät in einen massiven logischen Deadlock, als seine innere Trauma-Architektur und AEGIS' absoluter Kontrollzwang frontal und ungelöst kollidieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L459]; POV Kael / Lex (L465) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

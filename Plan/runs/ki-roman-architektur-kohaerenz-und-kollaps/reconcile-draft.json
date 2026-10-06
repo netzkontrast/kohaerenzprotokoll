@@ -1,0 +1,319 @@
+{
+  "document": "ki-roman-architektur-kohaerenz-und-kollaps",
+  "drive_id": "1HixaAyyRgNa_1U4DnoWzF5BuuV4LCA09bnp55S0y4VA",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 98,
+    "decisions": 102,
+    "decided_by_lookup": 84,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        139
+      ],
+      "attribution": "",
+      "note": "`Zero-Trust` as AEGIS' monitoring paradigm"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        33,
+        55,
+        63,
+        142,
+        182,
+        186
+      ],
+      "attribution": "",
+      "note": "AEGIS as the coherence kernel, undone in the report's trace 1"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "Alex as a secondary ANP"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        142
+      ],
+      "attribution": "",
+      "note": "the end state of its trace 1"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "Argus as the meta-cognitive ANP"
+    },
+    {
+      "page": "did",
+      "lines": [
+        173
+      ],
+      "attribution": "",
+      "note": "a dissociative identity structure as a design question"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        21,
+        27
+      ],
+      "attribution": "",
+      "note": "the physical basis of its design"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        23,
+        37,
+        39,
+        184
+      ],
+      "attribution": "",
+      "note": "entropy as the second kernel's pressure"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        63,
+        135,
+        175,
+        186
+      ],
+      "attribution": "",
+      "note": "the climax as a Gödel limit and trace 1"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        184
+      ],
+      "attribution": "",
+      "note": "Guardians in Phase II"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        101
+      ],
+      "attribution": "",
+      "note": "Isabelle as the sexualised EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        121,
+        148,
+        149
+      ],
+      "attribution": "",
+      "note": "Juna beside AEGIS and V in the NCP and trace 2"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        39,
+        63,
+        77,
+        81,
+        89,
+        160,
+        182
+      ],
+      "attribution": "",
+      "note": "Kael as host ANP of an eleven-part system, and as the one who reaches functional multiplicity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        55,
+        105,
+        186
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as AEGIS's closed spaces, with Logos-Prime as KW1"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "Kiko as a child EP"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        31,
+        33,
+        43
+      ],
+      "attribution": "",
+      "note": "the kernel of reversible computation, embodied by AEGIS"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        37,
+        43
+      ],
+      "attribution": "",
+      "note": "the anti-algorithmic domain of irreversible computation"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        90,
+        159
+      ],
+      "attribution": "",
+      "note": "Lex as the cold rationalist ANP"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "Lia as a child EP"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        149,
+        151,
+        176
+      ],
+      "attribution": "",
+      "note": "a channel past AEGIS' filters"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        100,
+        160
+      ],
+      "attribution": "",
+      "note": "Moros as the collapse EP, integrated in trace 3"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        186
+      ],
+      "attribution": "",
+      "note": "Mosaik-Herz as the end state of the report's Phase III"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        63,
+        186
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the state that defeats AEGIS"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        39,
+        182,
+        184
+      ],
+      "attribution": "",
+      "note": "the entropic pressure, escaped by AEGIS"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "Nyx as the fighter EP"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "Rhys as a secondary ANP"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        39,
+        182
+      ],
+      "attribution": "",
+      "note": "the collapse as rifts, a link to objective truth"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "Selene as the integrator and Internal Self-Helper"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        81,
+        173
+      ],
+      "attribution": "",
+      "note": "TSDP as the theory the report says it implements"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      14,
+      27
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

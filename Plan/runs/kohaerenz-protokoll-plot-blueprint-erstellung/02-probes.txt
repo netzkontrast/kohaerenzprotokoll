@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      174
+  backslash escapes      152
+  typographic marks      31
+  ascii quotes           218
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanpassungen, Systemdaten, Systeme, Systemebene, Systemen, Systemfehler, Systemic, Systeminstabilität, Systemintegrität, Systemische, Systemisches, Systemkollaps, Systemkonflikts, Systemkonformität, Systemkontrolle, Systemlogik, Systemmanipulation, Systemrauschen, Systemreaktionen, Systemregeln, Systems, Systemstabilität, Systemstruktur, Systemtheorie, Systemzusammenbruch, Systemzusammenbruchs, Systemzustand, Systemzuständen, Systemüberlastung
+  kontr    Kontrast, Kontrolle, Kontrollebene, Kontrollebenen, Kontrolleur, Kontrollfunktion, Kontrollieren, Kontrollknoten, Kontrollmatrix, Kontrollmaßnahmen, Kontrollmechanismen, Kontrollproblem, Kontrollprotokollen, Kontrollpunkte, Kontrollraum, Kontrollstrategie, Kontrollstrategien, Kontrollstruktur, Kontrollsystem, Kontrolltaktik, Kontrollverlust, Kontrollverlusts, Kontrollversuch, Kontrollversuche
+  daten    Daten, Datenanzeigen, Datenflüsse, Datengrundlage, Datenlücke, Datenlücken, Datenrauschen, Datensequenz, Datenströme, Datenströmen, Datenvisualisierung
+  inter    Interactive, Interaktion, Interaktionen, Interaktionspunkte, Internal, Internalisierte, International, Interne, Interpretation, Intervention, Interventionen
+  psych    Psyche, Psychobiology, Psychodynamik, Psychological, Psychologisch, Psychologische, Psychologischer, Psychotherapy
+  überw    Überwachung, Überwachungs, Überwachungsaugen, Überwachungsintensität, Überwachungskameras, Überwachungsmechanismen, Überwelt, Überwältigung
+  analy    Analyse, Analysen, Analysiert, Analysis, Analyst, Analytics, Analytikerin
+  selbs    Selbst, Selbstfindung, Selbstkritik, Selbstreferenz, Selbstsabotage, Selbstzweifel, Selbstzweifeln
+  verst    Verstehen, Verständnis, Verständnislosigkeit, Verständnisses, Verstärkt, Verstärkte, Verstöße
+  chara    Character, Charakter, Charakterarchitektur, Charakterentwicklung, Charakterpsyche, Charakterstärke
+  disso    Dissociation, Dissociative, Dissonance, Dissonanz, Dissoziation, Dissoziativen
+  konze    Konzept, Konzepte, Konzepten, Konzeption, Konzeptionelle, Konzepts
+  parad    Paradiese, Paradox, Paradoxes, Paradoxien, Paradoxon, Paradoxons
+  schut    Schutz, Schutzfunktion, Schutzfunktionen, Schutzimpuls, Schutzmauern, Schutzmechanismen
+  symbo    Symbol, Symbole, Symbolen, Symbolic, Symbolismus, Symbols
+  abweh    Abwehr, Abwehrkonstrukte, Abwehrmaßnahmen, Abwehrmechanismen, Abwehrmechanismus
+  dialo    Dialog, Dialoge, Dialogen, Dialogfetzen, Dialogues
+  erinn    Erinnerung, Erinnerungen, Erinnerungsbilder, Erinnerungsfragmenten, Erinnerungssequenz
+  erken    Erkennen, Erkennt, Erkenntnis, Erkenntnistheorie, Erkennung
+  grund    Grund, Grundlage, Grundlegende, Grundursache, Grundzustand
+  handl    Handlung, Handlungen, Handlungselement, Handlungsspielraum, Handlungssynopsis
+  konfl    Konflikt, Konflikte, Konflikten, Konfliktniveau, Konflikts
+  narra    Narrativ, Narrative, Narratives, Narratology, Narrator
+  phäno    Phänomen, Phänomene, Phänomenen, Phänomenologie, Phänomenologische
+  regel    Regelbrüche, Regelhüter, Regeln, Regelverstöße, Regeländerungen
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Falle
+  Alle < Fallen
+  Alle < Valley
+  Alle < Allegory
+  Alle < Allegorie
+  Alle < Challenges
+  Alle < Parallelen
+  Best < Bestätigung
+  Bild < Bildern
+  Bild < Trugbilder
+  Bild < Erscheinungsbild
+  Bild < Erinnerungsbilder
+  Bind < Bindung
+  Bind < Verbindung
+  Bind < Verbindungssuche
+  Data < Databases
+  Dies < Diese
+  Dies < Dieser
+  Dies < Paradiese
+  Echo < Echos

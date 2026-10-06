@@ -1,0 +1,14 @@
+# plot-generation-framework-for-the-coherence-protocol
+  lines                286  (frontmatter ends at 9)
+  body words           5401
+  headings             9   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    16   ascii quotes 142
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    101
+  repeated labels      Assigned POV x39, Core Concept x39, Summary x39
+  longest line         668 chars
+

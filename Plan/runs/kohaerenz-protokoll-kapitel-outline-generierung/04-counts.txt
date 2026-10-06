@@ -1,0 +1,186 @@
+# counts for 133 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                            143 word   164 in   [15, 17, 26, 29, 35, 40]
+                                   21      as Kaels
+  Juna                             36 word    59 in   [17, 29, 45, 129, 131, 137]
+                                    8      as Junas
+                                    4      as Juna-Echo
+                                    2      as Juna-Schatten
+                                    2      as Juna-Linse
+  AEGIS                           102 word   121 in   [26, 46, 113, 117, 119, 133]
+                                    4      as AEGIS-Echo
+                                    2      as AEGIS-System
+                                    2      as AEGIS-Linse
+                                    1      as AEGIS-Funktion
+  Mnemosyne                         7 word    16 in   [201, 203, 205, 209, 225, 227]  <-- substring
+                                    4      as Mnemosyne-Archipel
+                                    2      as Mnemosyne-Pol
+                                    1      as Mnemosyne-Eingriff
+                                    1      as Mnemosynes
+  Lex                              39 word    39 in   [41, 93, 97, 99, 101, 109]
+  Alex                             18 word    18 in   [42, 169, 171, 181, 463, 545]
+  Rhys                             18 word    18 in   [43, 137, 241, 243, 423, 427]
+  Selene                           14 word    15 in   [44, 319, 321, 331, 623, 625]
+                                    1      as Selenes
+  Silas                            20 word    21 in   [45, 205, 207, 209, 217, 227]
+                                    1      as Silas-Funktion
+  Oblivion                         17 word    19 in   [46, 355, 357, 359, 727, 731]
+                                    2      as Oblivions
+  Wir-Geflecht                     17 word    17 in   [47, 203, 499, 501, 587, 731]
+  Köln                              2 word     2 in   [15, 1137]
+  Konstrukt-Stadt                   9 word     9 in   [51, 57, 273, 391, 537, 587]
+  Sektor 04                         5 word     5 in   [169, 355, 809, 881, 941]
+  Mnemosyne-Archipel                4 word     5 in   [939, 941, 1023, 1313, 1409]
+                                    1      as Mnemosyne-Archipels
+  Mnemosyne-Pol                     2 word     2 in   [203, 227]
+  Lösch-Pol                         8 word    10 in   [237, 239, 241, 261, 499, 731]
+                                    2      as Lösch-Pols
+  F3-Klärung                        3 word     3 in   [239, 241, 977]
+  Erasure-Sweep                     5 word     9 in   [79, 95, 205, 237, 239, 537]
+                                    3      as Erasure-Sweeps
+  Erasure-Sweeps                    3 word     3 in   [95, 205, 239]
+  Finaler Erasure-Sweep             1 word     1 in   [879]
+  Fokussierter Sweep                1 word     1 in   [975]
+  System-Auspuff                    3 word     3 in   [97, 275, 545]
+  Amnesie-Terror                    3 word     3 in   [57, 123, 1596]
+  Universal Reboot                  1 word     1 in   [57]
+  thermische Risse                  2 word     2 in   [57, 695]
+  Telefon-Stille                    2 word     2 in   [131, 1360]
+  Phantom-Resonanz                  2 word     2 in   [131, 133]
+  Moonshine-Link                   10 word    13 in   [31, 45, 209, 431, 657, 659]
+                                    3      as Moonshine-Links
+  Trennungsprotokoll                4 word     6 in   [689, 691, 693, 695, 1203, 1599]
+                                    2      as Trennungsprotokolls
+  Genesis-Lüge                      1 word     1 in   [693]
+  Landauer-Hitze                    7 word     7 in   [63, 845, 977, 1167, 1239, 1360]
+  Landauer-Limit                    1 word     1 in   [239]
+  Bekenstein-Schranke               5 word     5 in   [167, 169, 173, 387, 389]
+  Pixelierung                       2 word     2 in   [167, 169]
+  Klaustrophobie der Architektur    2 word     2 in   [167, 391]
+  Gödel-Eigenschaft                 4 word     4 in   [131, 137, 663, 1167]
+  Gödel-Falsifikation               1 word     1 in   [1165]
+  Witness-Funktion                  4 word     4 in   [131, 1065, 1085, 1575]
+  Witness-Interferenz               1 word     1 in   [1063]
+  Exklusions-Deskription            3 word     3 in   [1237, 1243, 1265]
+  Exklusions-Paradoxon              1 word     1 in   [1063]
+  Dialetheia                        8 word     9 in   [275, 813, 843, 845, 1358, 1360]
+  Lebende Dialetheia                1 word     1 in   [1358]
+  Truth-Rotation                    5 word     5 in   [849, 1101, 1358, 1360, 1393]
+  Algorithmische Melancholie        2 word     2 in   [849, 1407]
+  Heat-Spike                        3 word     4 in   [245, 1358, 1360, 1391]
+  Vortex                            9 word    18 in   [245, 945, 1015, 1101, 1201, 1235]
+                                    2      as Vortex-Korridor
+                                    2      as Vortex-Beat-Zuordnung
+                                    1      as Vortex-Heat-Spike
+                                    1      as Vortex-Setup
+  Vortex-Korridor                   2 word     2 in   [1201, 1235]
+  Vortex-Beat-Zuordnung             2 word     2 in   [1341, 1387]
+  Convergence                       3 word     4 in   [1271, 1311, 1313, 1343]
+                                    1      as Convergence-Anlauf
+  Pivot                             5 word    19 in   [299, 521, 567, 789, 999, 1045]  <-- substring
+                                   12      as Pivot-Marker
+                                    1      as Pivot-Kollaps
+                                    1      as Pivots
+  ANP/EP-Drop                       2 word     2 in   [1311, 1344]
+  Post-Vortex                       1 word     1 in   [1407]
+  Das falsche Ende                  1 word     1 in   [1135]
+  Köder-Simulation                  1 word     1 in   [1135]
+  Universal Re-Connecting           4 word     5 in   [1135, 1141, 1517, 1574, 1610]
+  Russellsche Trümmer               3 word     3 in   [1447, 1449, 1471]
+  Ouroboros-Schluss                 2 word     2 in   [1477, 1483]
+  Ouroboros-Marker                  3 word     3 in   [81, 1501, 1591]
+  funktionale Multiplizität         5 word     5 in   [323, 537, 771, 1201, 1477]
+  Komponente 734                    1 word     1 in   [767]
+  Kudzu-Wachstum                    1 word     1 in   [425]
+  Kudzu                             4 word     6 in   [43, 425, 427, 807, 809, 845]
+                                    1      as Kudzu-Wachstum
+                                    1      as Kudzu-Metapher
+  LogOS                             1 word     1 in   [95]
+  Funktionale Isolation             1 word     1 in   [95]
+  hypotaktische Syntax              2 word     2 in   [95, 591]
+  Hypoventilation                   3 word     3 in   [41, 585, 587]
+  Hypertonus                        4 word     4 in   [42, 167, 169, 623]
+  Bruxismus                         2 word     2 in   [621, 623]
+  Freeze-Symptomatik                2 word     2 in   [461, 463]
+  Täuschungs-Architektur            1 word     1 in   [765]
+  Kakophonie                        2 word     2 in   [497, 499]
+  Internal Self Helper              3 word     3 in   [44, 317, 319]
+  Anscheinend Normaler Anteil       1 word     1 in   [40]
+  13-Alter-System                   1 word     1 in   [35]
+  TSDP                              2 word     7 in   [35, 39, 205, 253, 317, 427]  <-- substring
+                                    1      as TSDP-Funktion
+                                    1      as TSDP-Struktur
+                                    1      as TSDP-Architektur
+                                    1      as TSDP-System
+  Storyform A                      41 word    41 in   [25, 65, 103, 139, 175, 211]
+  Storyform B                      40 word    40 in   [25, 73, 111, 147, 183, 219]
+  Heuristics of Integration        40 word    40 in   [25, 65, 103, 139, 175, 211]
+  Phoenix Collapse                 40 word    40 in   [25, 73, 111, 147, 183, 219]
+  Dual-Storyform                    1 word     3 in   [11, 21, 1625]  <-- substring
+                                    1      as Dual-Storyform-Encoding
+                                    1      as Dual-Storyform-Interferenz
+  Driver-Trigger                   78 word    79 in   [71, 79, 109, 117, 145, 153]
+                                    1      as Driver-Triggers
+  Pivot-Marker                     12 word    12 in   [299, 521, 567, 789, 999, 1045]
+  Reader-Substrate                 74 word    75 in   [63, 101, 137, 173, 209, 245]
+                                    1      as Reader-Substrate-Mechanismus
+  Mosaik-Sprung                     3 word     3 in   [195, 209, 1597]
+  Polyphonie-Bruch                  2 word     2 in   [137, 503]
+  AEGIS-Linse                       2 word     2 in   [885, 903]
+  Juna-Linse                        2 word     2 in   [915, 1241]
+  Leser-Linse                       3 word     3 in   [1207, 1451, 1453]
+  Parser-Linse                      2 word     2 in   [885, 1364]
+  Ästhetik der Ohnmacht             1 word     1 in   [51]
+  Anatomie der Spaltung             3 word     3 in   [503, 537, 977]
+  Existenzielle Fusion              1 word     1 in   [1015]
+  Worum geht es                    39 word    39 in   [55, 93, 129, 165, 201, 237]
+  Eingeführte Konzepte             39 word    39 in   [57, 95, 131, 167, 203, 239]
+  Was passiert                     39 word    39 in   [59, 97, 133, 169, 205, 241]
+  Quellen pro Befund               39 word    39 in   [83, 119, 155, 191, 227, 263]
+  Widersprüche aufgetaucht         39 word    39 in   [85, 121, 157, 193, 229, 265]
+  Such-Parameter-Historie          41 word    41 in   [87, 123, 159, 195, 231, 267]
+  Confidence                       39 word    39 in   [89, 125, 161, 197, 233, 269]
+  Arbeitstitel                      2 word     2 in   [83, 1621]
+  Vorschlag                        11 word    11 in   [207, 357, 429, 547, 625, 811]
+  single-source                     1 word     1 in   [83]
+  Pre-Synthesis Integrity Check     1 word     1 in   [1511]
+  Kanon-Drift-Log                   1 word     1 in   [1580]
+  Kanon-Drift-Scan                  2 word     2 in   [1582, 1583]
+  Kanon-Drift-Check                 2 word     2 in   [1517, 1610]
+  Cross-Pollination Log             1 word     1 in   [1607]
+  Widerspruchs-Register             1 word     1 in   [1601]
+  Analytische Historie              1 word     1 in   [1585]
+  Constraint Block                  3 word     3 in   [1513, 1520, 1609]
+  Source Triangulation              2 word     2 in   [1514, 1616]
+  Contradiction Log                 2 word     2 in   [1514, 1617]
+  What Would Change My Mind         1 word     1 in   [1514]
+  Adversarial Query Expansion       2 word     2 in   [1514, 1619]
+  Pre-Commitments                   1 word     1 in   [1618]
+  Kanon-Trio                        1 word     2 in   [1616, 1621]
+                                    1      as Kanon-Trios
+  Kanon-Dok                         5 word     6 in   [1518, 1574, 1575, 1576, 1577, 1578]
+                                    1      as Kanon-Dokumente
+  Hidden-Items                      2 word     2 in   [1517, 1609]
+  Dekanonisiert                     1 word     1 in   [1577]
+  Cerberus                          1 word     1 in   [1576]
+  Prehension                        1 word     1 in   [1578]
+  Paraiyas                          1 word     1 in   [1578]
+  Pantheon                          1 word     1 in   [1576]
+  Halteproblem                      3 word     3 in   [461, 463, 467]
+  Universelle Turingmaschine        1 word     1 in   [543]
+  Iser-Mechanik                     2 word     2 in   [101, 173]
+  Śūnyatā                           1 word     1 in   [1239]
+  Wittgenstein                      1 word     1 in   [1243]
+  Parmenides                        2 word     2 in   [1243, 1265]
+  Dramatica                         2 word     6 in   [25, 1583, 1589, 1604, 1625, 1627]  <-- substring
+                                    2      as Dramatica-Quad
+                                    1      as Dramatica-Parameter
+                                    1      as Dramatica-Matrix
+  Ouroboros                         2 word    11 in   [81, 83, 1453, 1475, 1477, 1483]  <-- substring
+                                    3      as Ouroboros-Marker
+                                    3      as Ouroboros-Ende
+                                    2      as Ouroboros-Schluss
+                                    1      as Ouroboros-Struktur

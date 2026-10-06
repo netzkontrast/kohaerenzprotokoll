@@ -1,0 +1,98 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+# Candidates, written while reading
+
+The document is English prose with a few German names in quotation marks. Its body is 39 repeated blocks (Story or Chapter) with the labels Core Concept, Assigned POV and Summary; those labels are template, not terms. Names of cast, places and the antagonist come first, then the document's own terms, then the borrowed concepts under the lens heading.
+
+- Narrative Mosaic
+- Novel Plot
+- Kohärenz Protokoll
+- The Coherence Protocol
+- Coherence Protocol
+- AEGIS
+- System Kael
+- Kael
+- Juna/V
+- Juna
+- Lex
+- Alex
+- Kiko
+- Rhys
+- Lia
+- Selene
+- Nyx
+- Argus
+- Moros
+- Isabelle
+- Primary ANP
+- ANP
+- EP
+- EPs
+- Emotional Part
+- Apparently Normal Part
+- Host
+- Manager
+- Exiles
+- Persecutor
+- Kernwelt 1
+- Kernwelt 2
+- Kernwelt 3
+- Kernwelt 4
+- KW3
+- KW4
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kairos
+- Sophia
+- Component 734
+- Ursprungs-Ich
+- Überwelt
+- Überwelt Simulation Core
+- Moonshine-Link
+- Qualia-Space
+- New Qualia-Space
+- Potentialmeer
+- Risse
+- Riss
+- Nichts Rauschen
+- Bruchpunkt
+- Genesis-Krise
+- Gödel-Satz
+- Gödel-class anomaly
+- negative feedback loops
+- Negative Feedback Loop
+- negative feedback protocol
+- Zero-Trust
+- The Gardener
+- gatekeeper
+- functional multiplicity
+- algorithmic melancholy
+- dead code
+- informational entropy
+- Chaos-Regulator
+- Possibility-Weaver
+- Self-energy
+- gnosis
+- Freeze
+- Subject: Kael
+
+## lens
+
+- Tertiary Structural Dissociation
+- TSDP
+- Internal Family Systems
+- IFS
+- Social Constructionism
+- Apollonian Principle
+- Dionysian Principle
+- Dialetheism
+- Gödel's Incompleteness Theorems
+- Information-Theoretic Entropy
+- Phenomenology
+- Heroine's Journey
+- Hero's Journey
+- Cyclical Structure

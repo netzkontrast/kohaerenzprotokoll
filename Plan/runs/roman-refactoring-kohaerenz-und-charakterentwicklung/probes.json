@@ -1,0 +1,255 @@
+{
+  "document": "roman-refactoring-kohaerenz-und-charakterentwicklung",
+  "drive_id": "1smMGBTWAarYWuqTEmq84BkAyZf8dXrGfjbqfqptf8WA",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 38,
+  "backslash_escapes": 110,
+  "typographic_marks": 8,
+  "ascii_quotes": 70,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systemarchitekturen",
+      "Systemfehler",
+      "Systemische",
+      "Systemischer",
+      "Systemkapazität",
+      "Systems"
+    ],
+    "quant": [
+      "Quantengravitation",
+      "Quantenmechanisch",
+      "Quantensuperposition",
+      "Quantenuhr",
+      "Quantenverschränkung",
+      "Quantenzustände",
+      "Quantum"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsauffassungen",
+      "Wahrheitsbegriff",
+      "Wahrheitstheorie",
+      "Wahrheitstheorien"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charakterinteraktionen",
+      "Charakterprofile"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsstruktur"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationserhaltung",
+      "Informationsparadoxon",
+      "Informationsparadoxons"
+    ],
+    "konst": [
+      "Konstatierungen",
+      "Konstrukt",
+      "Konstrukte",
+      "Konstruktionsfehler",
+      "Konstrukts"
+    ],
+    "narra": [
+      "Narration",
+      "Narrativ",
+      "Narrative",
+      "Narratives",
+      "Narrators"
+    ],
+    "theor": [
+      "Theorem",
+      "Theoremen",
+      "Theoretic",
+      "Theorie",
+      "Theorien"
+    ],
+    "überl": [
+      "Überlagerung",
+      "Überlastung",
+      "Überleben",
+      "Überlebensreaktionen",
+      "Überlebensstrategie"
+    ],
+    "archi": [
+      "Architectural",
+      "Architektonische",
+      "Architektonischer",
+      "Architektur"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfluss",
+      "Datenfragment",
+      "Datenpunkten"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalen",
+      "Funktionen"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzsituation",
+      "Grenzsituationen"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmacht",
+      "Kontrollsystem",
+      "Kontrollverlust"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptes"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturbaums",
+      "Strukturellen",
+      "Strukturen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "bedeu": [
+      "Bedeutung",
+      "Bedeutungen",
+      "Bedeutungslosigkeit"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtung",
+      "Beobachtungshorizont"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstwerdung"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "emerg": [
+      "Emergent",
+      "Emergenz",
+      "Emergierender"
+    ],
+    "exist": [
+      "Existential",
+      "Existenz",
+      "Existenzphilosophie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Aktes"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Charakteren"
+    ],
+    [
+      "Akte",
+      "Charakterprofile"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Akte",
+      "Charakterinteraktionen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ding",
+      "Dividing"
+    ],
+    [
+      "Ding",
+      "According"
+    ],
+    [
+      "Ding",
+      "Unfolding"
+    ],
+    [
+      "Ding",
+      "Worldbuildings"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Formel"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Ausformulieren"
+    ]
+  ]
+}

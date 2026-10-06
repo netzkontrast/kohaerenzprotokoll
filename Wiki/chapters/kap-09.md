@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 30
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 37
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C10"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,10 @@ Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe R�
 
 - The Teil-1 plot proposes Kapitel 9, `Rescue` (L202), as the reward, escape from KW3 into KW4: „Angesichts der Vernichtung erlebt Kael eine unerwartete Intervention“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L207]. It hedges, and adds perhaps the „Funke“ part, the Risse, or an intervention of Kairos or Sophia (L207).
 
+## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.9, Die Stimme des Kritikers
+
+- The plot blueprint plans step 1.9, „Die Stimme des Kritikers“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L259]. Its synopsis begins: „Während Kael in KW2 mit schmerzhaften Emotionen ringt, wird eine weitere innere Stimme laut: Nox, der interne Kritiker oder Verfolger . Nox manifestiert sich möglicherweise nicht“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L262] — a plan, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -43,6 +47,14 @@ Position: „(Fundamentales Konzept: Holismus vs. Reduktionismus)“ ^[kohaerenz
 - Names the mechanism AEGIS runs on: „die Zerlegung von M in Kael, die Fragmentierung von Kael in Caches“ ^[kohaerenz-protokoll.md:L1019]
 - The parts begin to talk: „Die verschiedenen Anteile kommunizierten, brachten ihre Perspektiven ein, arbeiteten zusammen unter der Führung des Selbst.“ ^[kohaerenz-protokoll.md:L1073] — the text's own name for this, `Wir-Geflecht`, gives the chapter its title.
 
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — An Mauern der Grenzfeste
+
+- The concept with subplots titles Kapitel 9 „An Mauern der Grenzfeste“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L35]. It plans: „Kael erkundet die Grenzfeste (KW3), die Domäne von Cerberus (Guardian KW3)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L35] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — HJn: Sehnsucht nach Wiederverbindung mit dem Verlorenen/Abgelehnten
+
+- The subplot catalogue analyses Kapitel 9 under the phase „Sehnsucht nach Wiederverbindung mit dem Verlorenen/Abgelehnten“ ^[subplot-entwicklung-fuer-romanstruktur.md:L229] of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Mauern der Grenzfeste
 
 Title: the commission titles the chapter „Die Mauern der Grenzfeste“ ^[kontext-outline.md:L164], placed in Act 1.
@@ -57,6 +69,10 @@ Focus: `Konfrontation mit Abwehr`, „als Manifestation externer (AEGIS) und int
 
 - Story: „Cerberus-Labyrinth“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110]; „Alex (Schutz) und möglicherweise Nyx (Aggression/Kampf) könnten hier aktiv werden“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L110]
 - Concept: „Die Konfrontation mit Cerberus ist eine Begegnung mit dem“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L111] (concept tag: the `Threshold Guardian` and the TSDP defence action systems)
+
+## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 9, Die Mauern der Grenzfeste
+
+- The detailed outline plans Chapter 9 as „Die Mauern der Grenzfeste“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L609] with the Core Theme „Die Erkundung und Konfrontation mit den tiefsten Ängsten und Abwehrmechanismen des Systems“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L611] — a plan, not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Ego-Tod im Abgrund
 
@@ -110,6 +126,10 @@ Position: the scene outline plans the scene at „1.7 - Kairos-Potentialis (KW4)
 
 - The scene outline plans Chapter 9 within Chapters 9–10, „Glimpse of Potential“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L124], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Longing for Wholeness
+
+- The plot framework titles Chapter 9 „The Longing for Wholeness“ ^[plot-generation-framework-for-the-coherence-protocol.md:L245]. It commissions: „Following the trauma confrontation, depict a traumatized part, Lia, shifting from fear to longing, personifying the system's innate and powerful drive to heal“ ^[plot-generation-framework-for-the-coherence-protocol.md:L245] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Longing for reconnection
 
 Title: „Sehnsucht nach Wiederverbindung“ ^[romanstruktur-und-philosophische-einleitung.md:L89]
@@ -125,6 +145,10 @@ Position: Teil I; setting from the `Schauplatz` field: „Kairos-Potentialis (KW
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Juna/V (Echo)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L126]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael entflieht dem Therapie-Protokoll durch eine Systemlücke und bricht nach KW4 durch“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128] and „Hier nimmt er Juna/V zum ersten Mal nicht als Hologramm, sondern als reale, externe Präsenz wahr“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L128]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Sehnsucht nach Erlösung
+
+- The plot synthesis plans Kapitel 9 as „Sehnsucht nach Erlösung“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L75], set in `KW3 (Cerberus)`, with the focus on Nyx, Kael, Juna. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Mnemosynes Archipel
 
@@ -188,6 +212,10 @@ Title: „Das Echo von Silas“ ^[kohaerenz-protokoll-kapitel-outline-generierun
 - Story: the dual-storyform outline plans „Kael trifft auf Silas, den Archivar“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L132]
 - Storyforms: `Storyform B` (`IC: Mind/Memory`): „Junas Einfluss wird durch Silas’ Erzählungen konkretisiert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L134]; `Storyform A` (`IC: Universe/Past`): „Die wahre Genesis von Kael als“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L135]
 - Scene and pacing: `Szenen-Keim`: „Ein alter Mann, dessen Körper aus zerfallenden Papierseiten besteht“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L136]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der Schatten in der Maschine
+
+- The 39-chapter outline titles Kapitel 9 „Der Schatten in der Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L349]. It plans: „Kael wird sich eines dunklen, automatenhaften Anteils in sich selbst bewusst, der dem Antagonisten-System erschreckend ähnlich ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L351]; POV Oblivion / Kael (L357) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,14 @@
+# lokalitaeten-konzept-fuer-roman-simulation
+  lines                535  (frontmatter ends at 9)
+  body words           13188
+  headings             31   bold-only lines 3
+  table rows           13   code fences 0
+  question marks       34
+  backslash escapes    132
+  typographic marks    50   ascii quotes 198
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    147
+  repeated labels      Sensorische Details x15, Atmosphäre & Stimmung x13, Konzeptueller Kern x13, Manifestation von "Rissen"/Entropie x13, Regeln & Funktionsweise x13, Verbindung zu Charakteren/Plot x13, Visuelle Ästhetik x9, Spezifische Landmarken x7, Spezifische Landmarken/Sub-Zonen x6, Visuelle Ästhetik (Post-Reboot) x4
+  longest line         1750 chars
+

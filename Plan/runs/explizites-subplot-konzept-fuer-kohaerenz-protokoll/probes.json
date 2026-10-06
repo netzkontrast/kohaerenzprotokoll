@@ -1,0 +1,215 @@
+{
+  "document": "explizites-subplot-konzept-fuer-kohaerenz-protokoll",
+  "drive_id": "1Ch6w1N_ut_H4LUYuqNU3xE7P5mCjw2vIsllLm_hc88Y",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 69,
+  "backslash_escapes": 0,
+  "typographic_marks": 1,
+  "ascii_quotes": 40,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systeme",
+      "Systemebene",
+      "Systemregeln",
+      "Systems",
+      "Systemverständnis",
+      "Systemwissen"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteilen",
+      "Anteils",
+      "Anteilsstärken"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsprotokolle",
+      "Interne"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkenntnis",
+      "Erkenntnissen"
+    ],
+    "gegen": [
+      "Gegenreaktion",
+      "Gegensätze",
+      "Gegensätzen"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsziel",
+      "Integrität"
+    ],
+    "muste": [
+      "Muster",
+      "Mustererkennung",
+      "Mustern"
+    ],
+    "parad": [
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwelt",
+      "Überwindung"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen"
+    ],
+    "aktio": [
+      "Aktion",
+      "Aktionen"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyst"
+    ],
+    "begin": [
+      "Beginn",
+      "Beginnt"
+    ],
+    "beoba": [
+      "Beobachters",
+      "Beobachtung"
+    ],
+    "blind": [
+      "Blinden",
+      "Blindheit"
+    ],
+    "einfl": [
+      "Einfluss",
+      "Einflüsse"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionen"
+    ],
+    "entde": [
+      "Entdeckung",
+      "Entdeckungen"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropiemanagement"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entschlossenheit"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen"
+    ],
+    "exter": [
+      "Externe",
+      "Externen"
+    ],
+    "fragm": [
+      "Fragmentierung",
+      "Fragments"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Alte",
+      "Verhaltens"
+    ],
+    [
+      "Alte",
+      "Verwaltern"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Teil",
+      "Anteils"
+    ],
+    [
+      "Teil",
+      "Anteilen"
+    ],
+    [
+      "Teil",
+      "Anteilsstärken"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Diese",
+      "Dieser"
+    ],
+    [
+      "Diese",
+      "Dieses"
+    ],
+    [
+      "Ebene",
+      "Systemebene"
+    ],
+    [
+      "Logik",
+      "Logikfehlern"
+    ],
+    [
+      "Probe",
+      "Belastungsproben"
+    ],
+    [
+      "Risse",
+      "Rissen"
+    ]
+  ]
+}

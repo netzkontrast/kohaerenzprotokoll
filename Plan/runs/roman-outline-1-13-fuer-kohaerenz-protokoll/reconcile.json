@@ -1,0 +1,184 @@
+{
+  "document": "roman-outline-1-13-fuer-kohaerenz-protokoll",
+  "drive_id": "1LaN0MSyOS_HxpztgZzshpMo4XJ20Bc-SAvdGSWpMjYs",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; light pass — readings by one wiki-reader subagent (Sonnet) on the ten pages where it adds to document 124, from Plan/runs/ingest-130/brief.md; no chapter readings; rlm_ingest not run",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 97,
+    "decided_by_lookup": 70,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: the expanded „final“ version of document 124's outline of the same day, with the same chapter titles; its new surfaces are field labels, beat functions, borrowed philosophers (Hume, Kant, Sartre, Buber, Kuhn, Bachelard) and craft terms; nothing names a thing of the novel's world that has no page.",
+  "new_readings": [
+    {
+      "page": "cerberus",
+      "lines": [
+        598,
+        609
+      ],
+      "attribution": "",
+      "note": "Cerberus as third main Guardian"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        64
+      ],
+      "attribution": "",
+      "note": "Juna/V as external catalyst"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        636,
+        860
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as thematic specialisations"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        340,
+        380,
+        597
+      ],
+      "attribution": "",
+      "note": "Kiko as fear and child part"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        407
+      ],
+      "attribution": "",
+      "note": "Lia as ambivalent child part"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        340,
+        380,
+        407
+      ],
+      "attribution": "",
+      "note": "Moros as grief part"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        597,
+        600
+      ],
+      "attribution": "",
+      "note": "Nyx named for Chapter 9"
+    },
+    {
+      "page": "residual-echos",
+      "lines": [
+        73
+      ],
+      "attribution": "",
+      "note": "the Echo and the origin of the trauma"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        23,
+        701
+      ],
+      "attribution": "",
+      "note": "Selene as the later integrated self"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        471
+      ],
+      "attribution": "",
+      "note": "TSDP spelled out in Chapter 7"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title and the protocol's name), J34 (Juna/V), J49 (Logos-Prime, Mnemosyne-Archipel — world names), J12 and J16 (compounds with their own sense: AEGIS Paradoxon/AEGIS-Paradoxon, Fehlausgerichtete Kohärenz, Kohärenzstift, Inneres Konferenzzimmer, Selene-Potenzial), J23 and J56 (inflections: Kaels, Guardians, ANPs, Risses), as for document 124",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 19,
+      "decision": "reading",
+      "why": "light pass: the expanded version of document 124's outline, whose reading on this page holds the same"
+    },
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 765,
+      "decision": "reading",
+      "why": "light pass: the expanded version of document 124's outline, whose reading on this page holds the same"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "`[Genesis]` the Prologue's title"
+    },
+    {
+      "page": "grenzfeste",
+      "surface": "Grenzfeste",
+      "line": 594,
+      "decision": "reading",
+      "why": "light pass: the expanded version of document 124's outline, whose reading on this page holds the same"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 596,
+      "decision": "occurrence",
+      "why": "Chapter 9's theme of fear as a system boundary, not the page's wall"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 26,
+      "decision": "reading",
+      "why": "Juna/V as an external force and catalyst — a reading on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    }
+  ],
+  "not_promoted": [
+    "the fourteen field labels and the „Funktion:“ notes — the outline's form",
+    "Inneres Konferenzzimmer / Inneren Konferenzraums — the internal room, said two ways",
+    "the lens philosophers and Threshold Guardian, Civil War Within — borrowed",
+    "Fundament — the goal of the questions in Chapter 12; no page"
+  ],
+  "internal_tension": "the internal room is „Inneres Konferenzzimmer“ (L665) and „Inneren Konferenzraums“ (L706); Moros's introduction carries a question mark (L380) beside its role (L340)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

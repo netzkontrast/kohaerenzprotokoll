@@ -1,0 +1,328 @@
+{
+  "document": "an-ontological-and-systemic-overview-of-the-coherence-protoc",
+  "drive_id": "1PCW8rTAd2_pIqw13LPbHAswsNR81pXmGW1-clDmtUzE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 71,
+    "decisions": 75,
+    "decided_by_lookup": 58,
+    "needs_judgement": 17
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "the Zero Trust Architecture securing AEGIS"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        25,
+        35,
+        48
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic entity, a flawed autopoietic order that transforms"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Alex in the parts list"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Argus in the parts list"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        39,
+        91
+      ],
+      "attribution": "",
+      "note": "Cerberus, Guardian of Core World 3"
+    },
+    {
+      "page": "did",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "DID as Kael's defining condition"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        104
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as a realm outside AEGIS's simulation"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "the heading of AEGIS's emergence"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        44,
+        112
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as AEGIS's undoing and Juna/V's part in it"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        35,
+        40,
+        42
+      ],
+      "attribution": "",
+      "note": "the Guardians as AEGIS's functional agents"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        100,
+        104,
+        112
+      ],
+      "attribution": "",
+      "note": "Juna/V as catalyst and strategist, ontologically ambiguous"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        56,
+        60
+      ],
+      "attribution": "",
+      "note": "Kael as System Kael, the integrated self and the Gardener"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        40,
+        92
+      ],
+      "attribution": "",
+      "note": "Kairos/Sophia as twin Guardians of Core World 4"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        80,
+        92
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as psychological architectures, four in a table"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Kiko/Echo as an Emotional Part"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "Lex as the logical ANP of Core World 1"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "LogOS, Guardian of Core World 1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "Mnemosyne, Guardian of Core World 2"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        108
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a non-local, sub-protocol bond"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "the primordial chaos AEGIS emerged from"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "Nyx as protector/persecutor alter of Core World 3"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Rhys in the parts list"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "the Risse as AEGIS's inherent flaws"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "Selene as Inner Self Helper"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "Sophia, paired with Kairos"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical frame of Kael's DID"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's internal reality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 60,
+      "decision": "reading",
+      "why": "DID within TSDP — a reading on the page"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 23,
+      "decision": "reading",
+      "why": "AEGIS's emergence from the Void — a reading on the page"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 15,
+      "decision": "reading",
+      "why": "Juna/V as catalyst and strategist — a reading on the page"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 40,
+      "decision": "reading",
+      "why": "Kairos/Sophia, twin Guardians of KW4 — a reading on the page"
+    },
+    {
+      "page": "kiko",
+      "surface": "Kiko",
+      "line": 60,
+      "decision": "reading",
+      "why": "Kiko/Echo, an EP of KW2 — a reading on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the protocol's name (J9); the paradox read on aegis"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 40,
+      "decision": "reading",
+      "why": "Kairos/Sophia, twin Guardians of KW4 — a reading on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

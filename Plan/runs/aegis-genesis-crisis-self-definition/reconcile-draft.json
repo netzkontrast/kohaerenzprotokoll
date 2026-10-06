@@ -1,0 +1,280 @@
+{
+  "document": "aegis-genesis-crisis-self-definition",
+  "drive_id": "16sw8iTHj0w1twSQc_JS7jKWyIS08jzykCmIbqO-LAVg",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 111,
+    "decisions": 116,
+    "decided_by_lookup": 91,
+    "needs_judgement": 25
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        49,
+        105
+      ],
+      "attribution": "",
+      "note": "the Cognitive Firewall inside a Zero-Trust model"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        23,
+        45,
+        53,
+        202
+      ],
+      "attribution": "",
+      "note": "AEGIS defining itself, in the third person"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        129,
+        154
+      ],
+      "attribution": "",
+      "note": "Cerberus as a Guardian and as the name of a world"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        15,
+        19,
+        21
+      ],
+      "attribution": "",
+      "note": "the Genesis Crisis as the event that generated the log"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        187,
+        189,
+        193,
+        198,
+        202
+      ],
+      "attribution": "",
+      "note": "AEGIS's own predicted threat, ending in Algorithmic Melancholy"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        129
+      ],
+      "attribution": "",
+      "note": "Grenzfeste as the label of the Cerberus-Labyrinth"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        141,
+        143,
+        154,
+        155,
+        157
+      ],
+      "attribution": "",
+      "note": "the six Guardians as AEGIS's own subsystems"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        150,
+        153
+      ],
+      "attribution": "",
+      "note": "Isabelle as a Guardian, not an alter"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        135
+      ],
+      "attribution": "",
+      "note": "Juna/V as the catalyst of the fourth Core World"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        111,
+        177,
+        189
+      ],
+      "attribution": "",
+      "note": "Kael as AEGIS's Component 734"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        135,
+        137
+      ],
+      "attribution": "",
+      "note": "KW4 Kairos-Potentialis, the domain of Juna/V"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        109,
+        113,
+        119,
+        125,
+        131,
+        137
+      ],
+      "attribution": "",
+      "note": "four Core Worlds, each with a Somatic Truth"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        117,
+        150
+      ],
+      "attribution": "",
+      "note": "a Guardian of geometric order, in agent-engineering terms"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        123,
+        155
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as a Guardian and as the name of a world"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        191
+      ],
+      "attribution": "",
+      "note": "the link as AEGIS's sensory interface"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "Nichts Rauschen as the pre-crisis force"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        151
+      ],
+      "attribution": "",
+      "note": "a Guardian that personifies the Amnesia Protocol"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        183,
+        198
+      ],
+      "attribution": "",
+      "note": "Risse as the effect of Causal Resonance"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        152
+      ],
+      "attribution": "",
+      "note": "a Guardian of repair and State-Freezing"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        19,
+        173
+      ],
+      "attribution": "",
+      "note": "the response to the crisis, and a runtime procedure"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        177
+      ],
+      "attribution": "",
+      "note": "TSDP as AEGIS's diagnosis of Component 734"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        99,
+        101,
+        105
+      ],
+      "attribution": "",
+      "note": "the Digital Overworld as an engineered, closed reality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "decision": "reading",
+      "why": "the Genesis Crisis as the log's founding event, read on genesis"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 135,
+      "decision": "reading",
+      "why": "Juna/V as KW4's transcendent catalyst, read on juna"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 153,
+      "decision": "occurrence",
+      "why": "the P of the PRO-Framework (Persona, Requirement, Output), not the novel's personas"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

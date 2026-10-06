@@ -1,0 +1,551 @@
+{
+  "document": "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub",
+  "step": "reconcile-pre",
+  "at": "2026-10-06",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-06",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 78,
+  "decisions": 83,
+  "same_surface": {
+    "fundament": [
+      "Fundament",
+      "Das Fundament"
+    ]
+  },
+  "decided_mechanically": 66,
+  "needs_judgement": 17,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 109
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 107
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 28
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 75
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 50
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 73
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 59
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 55
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 70
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 68
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 62
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 55
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 65
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 76
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 64
+      },
+      {
+        "candidate": "Resonanz-Landschaft",
+        "page": "resonanz-landschaft",
+        "readings": 33
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 33
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 50
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 36
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 73
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 60
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 68
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 57
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 47
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 44
+      },
+      {
+        "candidate": "Glitches",
+        "page": "risse",
+        "readings": 81
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 77
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 67
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "Analytiker ANP"
+      },
+      {
+        "candidate": "Protektor ANP"
+      },
+      {
+        "candidate": "Pfleger ANP"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "Anteile"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "Fundament"
+      },
+      {
+        "candidate": "Paradoxon X"
+      },
+      {
+        "candidate": "Kernparadoxon"
+      },
+      {
+        "candidate": "Blinde Flecken"
+      },
+      {
+        "candidate": "Phobien"
+      },
+      {
+        "candidate": "Intrusionen"
+      },
+      {
+        "candidate": "Ko-Bewusstsein"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "Subplot"
+      },
+      {
+        "candidate": "Elixier"
+      },
+      {
+        "candidate": "Quellcode"
+      },
+      {
+        "candidate": "Opferpunkt"
+      },
+      {
+        "candidate": "Zyklen"
+      },
+      {
+        "candidate": "Resets"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "Tropen"
+      },
+      {
+        "candidate": "Tertiäre Strukturelle Dissoziation"
+      },
+      {
+        "candidate": "Theorie der Strukturellen Dissoziation"
+      },
+      {
+        "candidate": "dissoziativen Amnesie"
+      },
+      {
+        "candidate": "Unzuverlässiger Erzähler"
+      },
+      {
+        "candidate": "Unzuverlässige Erzähler-Trope"
+      },
+      {
+        "candidate": "Kosmischer Horror"
+      },
+      {
+        "candidate": "Psychologischer Horror"
+      },
+      {
+        "candidate": "Heroine's Journey"
+      },
+      {
+        "candidate": "Hero's Journey"
+      },
+      {
+        "candidate": "Meta-Exploration"
+      },
+      {
+        "candidate": "Gehirn im Tank"
+      },
+      {
+        "candidate": "Hard Science-Fiction"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  System Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Paradoxon der Fehlausgerichteten Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Paradoxons der Fehlausgerichteten Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Überwelt  /  Digitalen Überwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Selenes",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "selene",
+            "page": "selene"
+          }
+        ]
+      },
+      {
+        "candidate": "Digitalen Überwelt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "uberwelt",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Paradoxon der Fehlausgerichteten Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Paradoxons der Fehlausgerichteten Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "funktionaler Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Funktionalen Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

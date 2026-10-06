@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      113
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           52
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systeme, Systemfehlern, Systemgrenzen, Systemische, Systemregeln, Systems
+  beoba    Beobachter, Beobachters, Beobachtung, Beobachtungen
+  bewus    Bewusste, Bewusstheit, Bewusstsein, Bewusstseins
+  inter    Interaktion, Interaktionen, Interaktionsprotokolle, Intersektionen
+  antei    Anteile, Anteilen, Anteils
+  entro    Entropie, Entropiemanagement, Entropiezunahme
+  erken    Erkennen, Erkenntnis, Erkenntnissen
+  gegen    Gegenreaktion, Gegensätze, Gegensätzen
+  haupt    Haupt, Hauptplot, Hauptplots
+  integ    Integration, Integrationsziel, Integrität
+  kontr    Kontrast, Kontrolle, Kontrollmechanismen
+  konze    Konzentriert, Konzepte, Konzepten
+  logik    Logik, Logikfehler, Logikfehlern
+  parad    Paradoxien, Paradoxon, Paradoxons
+  struk    Struktur, Strukturelle, Strukturellen
+  verti    Vertieft, Vertiefte, Vertiefung
+  überw    Überwachung, Überwelt, Überwindung
+  abweh    Abwehr, Abwehrmechanismen
+  aktio    Aktionen, Aktionssysteme
+  ambiv    Ambivalenz, Ambivalenzen
+  analy    Analyse, Analyst
+  andeu    Andeutung, Andeutungen
+  ansat    Ansatzpunkt, Ansatzpunkte
+  argum    Argument, Argumentation
+  aspek    Aspekte, Aspekten
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Verhalten
+  Alte < Beinhaltet
+  Alte < Verhaltens
+  Alte < Verwaltern
+  Alte < Alternative
+  Dies < Dieser
+  Eine < Keine
+  Eine < Seine
+  Eine < Meilensteine
+  Kael < Kaels
+  Kern < Kerntrauma
+  Kern < Kernwelten
+  Kern < Kernfunktion
+  Plan < Planung
+  Riss < Risse
+  Riss < Rissen
+  Teil < Teile
+  Teil < Anteile
+  Teil < Anteils
+  Teil < Anteilen

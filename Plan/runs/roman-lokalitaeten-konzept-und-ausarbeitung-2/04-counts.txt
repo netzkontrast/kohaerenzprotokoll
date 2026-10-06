@@ -1,0 +1,103 @@
+# counts for 77 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             52 word   109 in   [15, 17, 27, 29, 33, 35]  <-- substring
+                                   57      as Kaels
+  Juna                             18 word    27 in   [15, 124, 135, 146, 155, 157]
+                                    9      as Junas
+  AEGIS                            75 word    86 in   [15, 17, 27, 29, 37, 43]
+                                    3      as AEGIS-Systems
+                                    1      as AEGIS-Propaganda
+                                    1      as AEGIS-Sinne
+                                    1      as AEGIS-Kern
+  Guardians                        14 word    14 in   [87, 89, 106, 123, 128, 170]
+  LogOS                            10 word    10 in   [106, 119, 126, 128, 131, 133]
+  Mnemosyne                         8 word    10 in   [120, 137, 139, 142, 144, 146]
+                                    2      as Mnemosynes
+  Cerberus                         10 word    10 in   [121, 148, 150, 153, 155, 157]
+  Kairos                            6 word     6 in   [122, 159, 161, 164, 168, 242]
+  Sophia                            7 word     7 in   [122, 159, 161, 164, 166, 168]
+  Kairos/Sophia                     2 word     2 in   [122, 159]
+  Alters                            9 word    10 in   [128, 139, 146, 150, 155, 157]
+  Index                             3 word     3 in   [128, 161, 168]
+  Praetor                           5 word     5 in   [128, 150, 157, 232, 235]
+  Nox                               3 word     3 in   [128, 150, 161]
+  Echo                              2 word     5 in   [121, 139, 141, 146, 152]  <-- substring
+                                    3      as Echos
+  Flicker                           1 word     1 in   [139]
+  Silas                             3 word     3 in   [139, 146, 161]
+  Oblivion                          4 word     4 in   [139, 145, 150, 228]
+  Limina                            3 word     3 in   [150, 155, 157]
+  Eos                               2 word     2 in   [161, 168]
+  Kern-Welten                      25 word    25 in   [15, 27, 29, 33, 35, 43]
+  Überwelt                         33 word    33 in   [15, 27, 43, 47, 59, 62]
+  Externe Ebene                     7 word     7 in   [27, 60, 77, 124, 181, 322]
+  KW1                              19 word    20 in   [35, 37, 45, 55, 72, 79]
+  KW2                              32 word    32 in   [35, 37, 56, 73, 79, 81]
+  KW3                              26 word    26 in   [35, 57, 74, 79, 87, 89]
+  KW4                              24 word    24 in   [35, 58, 64, 75, 79, 81]
+  Konstrukt-Stadt                   5 word     5 in   [35, 119, 126, 218, 266]
+  Resonanz-Landschaft               6 word     6 in   [35, 91, 120, 137, 226, 251]
+  Grenzfeste                        5 word     5 in   [35, 121, 148, 232, 267]
+  Möglichkeits-Garten               6 word     6 in   [35, 91, 122, 159, 239, 265]
+  Kaels Initiale Wohneinheit        1 word     1 in   [216]
+  Vergessene Schrein                2 word     2 in   [144, 223]
+  Innere Bunker                     1 word     1 in   [230]
+  Innerer Bunker                    2 word     2 in   [155, 355]
+  Nexus-Knoten                      3 word     3 in   [166, 237, 355]
+  Analyse-Hub                       2 word     2 in   [244, 355]
+  Koordinationszentrum              1 word     1 in   [244]
+  Narbe                             6 word     8 in   [100, 251, 253, 254, 256, 299]
+                                    2      as Narben
+  Ankerpunkt                        6 word     7 in   [146, 242, 258, 272, 355, 382]
+                                    1      as Ankerpunkte
+  Ort des Kern-Traumas              1 word     1 in   [223]
+  AEGIS-Kern                        1 word     1 in   [177]
+  Hotspots                          1 word     1 in   [177]
+  Keimplasma                        1 word     1 in   [166]
+  Quarantäne                        1 word     1 in   [133]
+  Gefängniszellen                   1 word     1 in   [155]
+  Datenknotenpunkt                  1 word     1 in   [133]
+  Membran                           1 word     1 in   [208]
+  universal reboot                  2 word     2 in   [15, 218]
+  Post-Reboot                       2 word     2 in   [29, 370]
+                                    1      as post-Reboot-Ordnung
+  Risse                            10 word    21 in   [29, 37, 45, 87, 91, 104]  <-- substring
+                                   11      as Rissen
+  Entropie                         24 word    33 in   [29, 43, 47, 51, 59, 62]
+                                    2      as Entropie-Management
+                                    1      as entropie-regulierenden
+                                    1      as Entropiekontrolle
+                                    1      as Entropie-Manifestation
+  Zero-Trust                        2 word     6 in   [43, 62, 150, 153, 175, 177]  <-- substring
+                                    2      as Zero-Trust-Prinzip
+                                    2      as Zero-Trust-Prinzipien
+  Systemdatei                       2 word     2 in   [179, 249]
+  Entropic Gatekeeper               1 word     1 in   [331]
+  Realitätsebenen                   7 word     7 in   [27, 110, 112, 114, 355, 365]
+  Traumlogik                        2 word     2 in   [33, 305]
+  Trauma-Landschaft                 4 word     5 in   [33, 35, 139, 305, 308]
+                                    1      as Trauma-Landschaften
+  Dissoziativen Identitätsstörung    1 word     1 in   [15]
+  Insight 9                         2 word     2 in   [132, 220]
+  Insight 11                        2 word     2 in   [153, 164]
+  Environmental Storytelling       16 word    16 in   [29, 93, 95, 104, 106, 299]
+  Uncanny Valley                    1 word     1 in   [45]
+  Brutalismus                       3 word     4 in   [151, 233, 309, 320]
+                                    1      as Brutalismus-Ästhetik
+  Shannon-Entropie                  1 word     1 in   [331]
+  Superposition                     1 word     1 in   [333]
+  Verschränkung                     1 word     1 in   [333]
+  Beobachtereffekt                  1 word     1 in   [333]
+  Place Attachment                  2 word     2 in   [342, 388]
+  Sense of Place                    1 word     1 in   [342]
+  Placelessness                     1 word     1 in   [342]
+  Ortsbindung                       2 word     2 in   [342]
+  Bachelard                         2 word     3 in   [35, 341]
+                                    1      as Bachelards
+  Tufte                             5 word     5 in   [43, 129, 321, 388]
+  Lakoff/Johnson                    1 word     1 in   [343]
+  Synästhesie                       6 word     6 in   [81, 120, 141, 174, 298, 372]
+  Gatekeeping                       1 word     1 in   [62]

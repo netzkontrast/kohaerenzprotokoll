@@ -1,0 +1,14 @@
+# subplot-entwicklung-fuer-romanstruktur
+  lines                799  (frontmatter ends at 9)
+  body words           16466
+  headings             2   bold-only lines 3
+  table rows           0   code fences 0
+  question marks       52
+  backslash escapes    137
+  typographic marks    46   ascii quotes 92
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    154
+  repeated labels      Diskussion x55, Analyse des Kapitelfokus x20, Begründung x19, Recherchethemen x19, Subplot-Ideen x19, Vorschlag: Trope ODER Konzept x19, Konzept x17, Chain of Thought x7, Insight x7
+  longest line         1438 chars
+

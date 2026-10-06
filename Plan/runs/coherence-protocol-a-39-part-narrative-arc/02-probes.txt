@@ -1,0 +1,37 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      46
+  backslash escapes      0
+  typographic marks      20
+  ascii quotes           104
+
+# inflection families -- one term, several surfaces
+  fragm    Fragment, Fragmentation, Fragmented
+  disso    Dissociation, Dissonant
+  emoti    Emotion, Emotional
+  garde    Garden, Gardener
+  guard    Guardian, Guardians
+  inter    Interference, Internal
+  logic    Logic, Logics
+  logos    LogOS, Logos
+  narra    Narrative, Narrator
+  overw    Overwhelmed, Overworld
+  possi    Possibilities, Possibility
+  reson    Resonance, Resonant
+  syste    System, Systems
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Here < Coherence
+  Part < Parts
+  Riss < Risse
+  LogOS < Logos
+  Logic < Logics
+  World < Worlds
+  World < Overworld
+  Garden < Gardener
+  System < Systems
+  Emotion < Emotional
+  Fragment < Fragmented
+  Fragment < Fragmentation
+  Guardian < Guardians

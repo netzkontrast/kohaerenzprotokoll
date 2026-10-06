@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 29
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 33
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -29,6 +29,10 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: „Ein kurzer Blick über den unmittelbaren Konflikt hinaus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396], hinting „dass AEGIS“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396] „Simulation nur eine von vielen war, oder dass M selbst nur eine mögliche Struktur ist, die aus dem unendlichen Potentialmeer emergiert ist.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
 - Establishes: „Dies verstärkt den kosmischen Horror und die Relativität des gerade Erreichten.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L396]
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Die Heimreise
+
+- The concept with subplots titles Kapitel 37 „Die Heimreise“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L73]. It plans: „Kael navigiert die veränderte Realität. Die Welt ist nicht mehr vollständig von AEGIS kontrolliert, aber möglicherweise chaotisch oder unsicher“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L73] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Bürde der Freiheit: Entscheidung über die Zukunft
 
@@ -90,6 +94,10 @@ Position: scene 3.4 at „3.4 - A space beyond the Core Worlds“ ^[ai-assisted-
 
 - The scene outline plans Chapter 37 within Chapters 37–38, „Contacting the Foundation“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L374], in Act III: The Confrontation and the New Reality — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Objective Confirmation
+
+- The plot framework titles Chapter 37 „Objective Confirmation“ ^[plot-generation-framework-for-the-coherence-protocol.md:L283]. It commissions: „Provide external, objective validation of Kael's transformation through a clinical log from an outside AI, confirming the narrative's central thesis from a detached, scientific“ ^[plot-generation-framework-for-the-coherence-protocol.md:L283] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The return across the threshold
 
 Title: „Rückkehr über die Schwelle“ ^[romanstruktur-und-philosophische-einleitung.md:L270]
@@ -111,6 +119,10 @@ Position: Teil III; setting from the `Schauplatz` field: „Das Fundament“ ^[r
 - under Leitfrage 3 the report states of the finale, as the premise of documents it cites (its source 2): „Das Finale des Romans (Kapitel 36-39) baut auf der Prämisse auf, dass Kael zu einem“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L69] lebenden Gödel-Satz becomes and defeats AEGIS by a Parakonsistentes Gambit; it names the range, no single chapter within it.
 - under Leitfrage 3 it asks „Wie visualisiert die Erzählung in Kapitel 37 diesen Systemkollaps“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L73] in the Lyons-Welt or the Potentialmeer;
 - under Leitfrage 9 it names the „(Kapitel 37/38) in den rekursiven Reset (Kapitel 40/0) überführt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L157] as the passage from the Gödel-Gambit to the reset.
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Auferstehung & Fall von AEGIS
+
+- The plot synthesis plans Kapitel 37 as „Auferstehung & Fall von AEGIS“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L123], set in `Rest-Simulation`, with the focus on Kael, AEGIS. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Die Geburt des Gärtners
 
@@ -172,6 +184,10 @@ Title: „Der Klimax — Zielkohärenz“ ^[kohaerenz-protokoll-kapitel-outline-
 ## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — within the finale, Kapitel 35–39
 
 - The reset synthesis gives no line of its own to Kap 37; it falls within the finale: „Das Finale (Kapitel 35–39) dekonstruiert die Subjekt-Objekt-Spaltung“ ^[romanprojekt-analyse-synthese.md:L62]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die trauernde Maschine
+
+- The 39-chapter outline titles Kapitel 37 „Die trauernde Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1403]. It plans: „Die Nachbeben des Vortex. Die Stadt ist nicht zerstört, aber ihres Zwangs beraubt, und AEGIS betrauert seine Existenz“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1405]; POV Kael (L1411) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

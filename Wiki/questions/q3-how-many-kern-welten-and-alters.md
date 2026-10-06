@@ -648,3 +648,87 @@ Stands: a table of 2025-11-18 with named parts and four Kernwelten, which predat
 The ANPs are „ANPs (Lex, Rhys, Alex, Argus)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L90] and the EPs „EPs (Nyx, Kiko, Lia, Isabelle, Moros)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L91]. Of Selene it says „Selene agiert als interne Therapeutin“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L112]. The worlds are KW1 to KW4, in the section „Entwürfe für die Rätsel der Kernwelten“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L255].
 
 Stands as one more listing of the alters (nine named, plus Selene) and four worlds.
+
+## 2026-10-06 — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report
+
+**The architecture report says Kael's psyche is fragmented „in elf spezialisierte Subsysteme“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L81], listed as five ANPs, five EPs and the integrator Selene, and names four Kernwelten as a range.**
+
+Its part list runs Kael, Lex, Alex, Rhys and Argus as ANPs (L89–L92), Nyx, Kiko, Lia, Moros and Isabelle as EPs (L98–L101), and then Selene, of whom it says „Sie fungiert als Integratorin“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L105]. Its engine table repeats „Die 11 psychologischen Anteile“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L173]. For the worlds it writes „Kernwelten 1-4“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L55].
+
+Stands as the report's own count of eleven parts and its range of four worlds, written before the author's answers; it is a proposal for the record, not a settled answer.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline writes a 13-alter system with seven named carriers and six nameless ones, and its Anhang F resolves 13 against 10 against 7 as 13 in all, 7 named for the plot.**
+
+Its synopsis speaks of „Das 13-Alter-System (TSDP) ist integraler Bestandteil der psychologischen Architektur des Protagonisten Kael.“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L35] The table names seven rows, among them „Caregiver (EP)“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L43] for Rhys, and a last row for the rest: „Die restlichen 6 namenlosen Alter“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L47], which „Konvergieren im Akt III zur funktionalen Multiplizität.“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L47] Anhang F lists as its Widerspruch 3 „Diskrepanz in der Anzahl der Alter (13 Alter vs. 10 benannte Alter vs. 7 spezifisch definierte Alter).“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1605] and resolves it: „Die Gesamtarchitektur besteht aus exakt 13 Altern, jedoch sind nur 7 für den Plot namentlich als Träger ausdefiniert“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1605]. Anhang B lists fifteen alter names, from Nox to Sentinel, as „Dekanonisiert, ungültig nach dem Reset vom 2026-04-30 (Kanon-Dok 1).“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1577] The outline says nothing about Kern-Welten and alters corresponding.
+
+Stands: the outline answers the alter count as thirteen with seven named and records a reset of 2026-04-30 as its basis, a claim recorded here and not applied; the Kern-Welt count and the correspondence stay open.
+
+## 2026-10-06 — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan
+
+**The refactoring plan counts eleven parts in the system Kael and lists them in an eleven-row matrix; it does not count Kern-Welten.**
+
+„Das System Kael besteht aus elf hochspezialisierten Anteilen“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L41] — divided into ANPs and EPs. The matrix rows (L52 to L62) are Kael „(Primärer ANP)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L52], Selene „(Integratorin / ISH)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L53], Nyx „(EP Kampf-Reaktion)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L54], Lex „(Rationaler ANP)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L55], Moros „(EP Kollaps)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L56], Kiko „(EP Freeze/Angst)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L57], Lia „(EP Ambivalenz)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L58], Isabelle „(EP Sexualisiert)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L59], Rhys „(Sekundärer ANP)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L60], Alex „(Sekundärer ANP)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L61] and Argus „(Emergierender ANP/EP)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L62]. The plan ties the parts to physical limits, not to worlds: „die psychologischen Funktionen dieser elf Anteile untrennbar mit den abstrakten physikalischen und mathematischen Grenzen des Konstrukts verknüpfen“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L41]
+
+Stands as a count of eleven parts with the plan's own types; the correspondence of Kern-Welten to alters stays open.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept describes four Kern-Welten within six Realitätsebenen and names alters per world in a table, without a total.**
+
+The chapter opens „Dieses Kapitel detailliert die sechs fundamentalen Realitätsebenen des Romans“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L179], and the table „Die Tabelle fasst die Kern-Welten zusammen“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L191], four rows KW1 to KW4. The alter names stand per world: KW1 „LogOS / Index, Architekt, (Praetor, Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186]; KW2 „Mnemosyne / Echo, Flicker, Silas, Oblivion“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L187]; KW3 „Cerberus / Limina, Praetor, Oblivion, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L188]; KW4 „Kairos/Sophia / Eos, Index, Silas, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L189]. Brackets mark weaker links, and some names stand in more than one world.
+
+Where it stands in the record's own terms: four Kern-Welten in a concept of 2025-04-18, with alter names per world and no stated count; it predates the author's answers of 2026-10-05, which stand, and is recorded, not applied.
+
+## 2026-10-06 — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue
+
+**The subplot catalogue names four Kern-Welten by theme, KW1 to KW4, and ten parts with roles, as proposals; it does not say that a world corresponds to a part.**
+
+For the worlds, Kapitel 13 proposes that Kael revisit „eine oder mehrere der Kern-Welten (KW1-KW4)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L360] and sees them by theme: „KW1 (Logik) wirkt vielleicht weniger steril, KW2 (Emotion/Erinnerung) weniger bedrohlich, KW3 (Abwehr) weniger absolut, KW4 (Potenzial) zugänglicher.“ ^[subplot-entwicklung-fuer-romanstruktur.md:L360]
+
+For the parts it names, with roles: „Kael (Host ANP)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L48], „Lex (Analytiker ANP)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L48], „Alex (Protektor ANP)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L74], „Rhys (Pfleger ANP)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L49], „Nyx (Kämpfer EP)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L123], „Isabelle (Sexualisierter/Kontroll-EP)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L125], „Moros (Kollaps EP)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L199], „Der Argus-Anteil (Beobachter/Kritiker)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L300], „Selene (Integration/Selbst)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L308] and „Kiko (Kind EP - Angst)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L75]. Lia is named as a child EP among the core-trauma holders in Kapitel 8 and 9 (L208, L233).
+
+Stands: the catalogue is a collection of ideas and states no count of worlds or parts as canon; the open question of whether one Kern-Welt corresponds to one part is left where it was.
+
+## 2026-10-06 — `dual-plot-architecture-a-narrative-foundation-for-kohaerenz`, 2025-11-03, the dual plot architecture
+
+**The dual plot architecture proposes four Kernwelten and gives a table of the alters with TSDP classes, Rhys among the ANPs.**
+
+It writes „The four Core Worlds“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L94] and names them KW1 to KW4, each tied to a Guardian (L96–L110). The alter table gives each part its class in brackets: „Kael (ANP - Host)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L64], „Lex (ANP - Analyst)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L65], „Alex (ANP - Protector)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L66], „Rhys (ANP - Caregiver)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L67], „Nyx (EP - Fighter)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L68], „Kiko (EP - Frightened Child)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L69], „Lia (EP - Ambivalent Child)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L70], „Moros (EP - Collapse)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L71] and „Selene (Integrating Self)“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L72].
+
+Where it stands: a design document's table of nine named rows and four worlds, recorded beside the question and not answering it.
+
+## 2026-10-06 — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing
+
+**The briefing maps four Core Worlds and a table of alters led by Kael (Host), with Rhys and Argus as ANPs and Selene as an ISH.**
+
+Worlds: „The primary settings are four simulated“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L128] Core Worlds, KW1 to KW4 (L128–L136). Alters, table L83–L91: „Kael (Host)“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L84], Lex, Nyx, Kiko, Rhys, Selene, Argus and Moros. Rhys is „ANP: Caregiver, focused on empathy and internal mediation.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L88], Argus „ANP: Meta-Observer“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L90], and Selene „ISH (Internal Self Helper): Guardian and mediator.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L89]
+
+Stands as one more count of worlds and alters, dated 2025-10-15, not resolving the question.
+
+## 2026-10-06 — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree
+
+**The canon decree lists eleven parts of System Kael with ANP/EP types and four Core Worlds.**
+
+Its roster rows run from „ANP (Host)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L34] for Kael to „ANP/EP-Mix“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L44] for Argus, with the types „EP (Child)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L39] and „EP (Collapse)“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L42] between. Its table names four worlds: „Logos-Prime“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L83], „Mnemosyne-Archipel“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L84], „Cerberus-Labyrinth“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L85] and „Kairos-Potentialis“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86].
+
+Stands as this document's claimed roster and world list, recorded and not applied.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto declares four Kernwelten and assigns fragments by type, not one per world; it states no count of parts.**
+
+It speaks as AEGIS: the Gatekeeper „has instantiated four specialized, operationally isolated simulation environments designated as the Kernwelten (Core Worlds)“ ^[aegis-manifest-genesis-krise-reboot.md:L69]. The fragments are named in one sentence — „other anomalies designated as Nyx, Juna/V, Kiko, Moros, Selene, and Lex“ ^[aegis-manifest-genesis-krise-reboot.md:L67] beside Kael — and the table assigns them by type: „ANP Fragments (Lex, Kael-Logic)“ ^[aegis-manifest-genesis-krise-reboot.md:L100] to KW1, „EP Fragments (Kiko, Moros)“ ^[aegis-manifest-genesis-krise-reboot.md:L101] to KW2, „Defensive Fragments (Nyx)“ ^[aegis-manifest-genesis-krise-reboot.md:L102] to KW3 and „Emergent Anomalies (Selene, Juna/V)“ ^[aegis-manifest-genesis-krise-reboot.md:L103] to KW4.
+
+Where it stands in the record's own terms: four worlds, a type per world, no one-part-per-world pairing; recorded as AEGIS's classification, not decided.
+
+## 2026-10-06 — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts
+
+**The character concepts propose four Kern-Welten and a list of alters with one primary world each, several marked with a question mark.**
+
+The paper names the four worlds: „Die Struktur der vier Kern-Welten (Konstrukt-Stadt, Resonanz-Landschaft, Grenzfeste, Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L30] mirrors Kael's system. It says the worlds are not loosely associated with alters but are „ökologischen Manifestationen spezifischer Cluster von Alters“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L30], so it reads the worlds as clusters of alters, not one to one. Kael's journey „Seine Reise führt ihn durch alle vier Kern-Welten“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L66].
+
+The alters come from a reviewed list (L218), and the closing table „Tabelle: Übersicht über Kaels Alters“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L497] gives each a „Primärer Kern-Welt Link“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L501]: Limina, Eos and Index carry a question mark (L503, L507, L510), as does Silas (L511), and Oblivion is given two worlds, `KW2 (isoliert)/ KW3` ^[L508]. Silas's profile itself names two candidates (L491). Several worlds hold more than one alter in this table; the paper does not state a count of alters per world.
+
+Where it stands: the record's count question is answered by proposal only — four worlds named and a hedged assignment table; the correspondence of one world to one alter is not asserted, and the paper reads the worlds as clusters of alters.

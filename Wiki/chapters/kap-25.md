@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 31
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -28,6 +28,10 @@ Title: „Die Ruhe vor dem Sturm“ ^[monstergruppe-primzahlen-plot-blueprint.md
 Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
 
 - Plot: „Ein Moment relativer Ruhe, bevor AEGIS seine letzte Option wählt.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L274] „Kael reflektiert über seine Reise, seine Integration, die Verbindung zu J.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L274]
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Flüstern von jenseits
+
+- The concept with subplots titles Kapitel 25 „Flüstern von jenseits“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L56]. It plans: „Ein klarerer, vielleicht direkterer Kontakt mit Juna/V“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L56] — a plan, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Botschaft von Außen: Vertiefung des Kontakts zu Juna/V
 
@@ -80,6 +84,10 @@ Position: scene 2.7 at „2.7 - Kael's Inner World (A stable meeting space)“ ^
 
 - The scene outline plans Chapter 25 as „Consolidation of Forces“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L294], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Third Cycle's Cost
+
+- The plot framework titles Chapter 25 „The Third Cycle's Cost“ ^[plot-generation-framework-for-the-coherence-protocol.md:L266]. It commissions: „Write the third and most devastating failed cycle, which serves as the“ ^[plot-generation-framework-for-the-coherence-protocol.md:L266] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The paradox of control
 
 Title: „Das Paradox der Kontrolle“ ^[romanstruktur-und-philosophische-einleitung.md:L206]
@@ -95,6 +103,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Das Fundament der Psy
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Selene (Self)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L257]
 - Story: the blueprint plans, in `Plot-Beats`, „Kael wehrt die mentale Invasion ab“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L259] and „Diese nicht-reaktive Resilienz macht AEGIS' Angriffs-Algorithmen wirkungslos“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L259]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Der Point of No Return
+
+- The plot synthesis plans Kapitel 25 as „Der Point of No Return“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L101], set in `Systemweite Ebene`, with the focus on Kael. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der Fall des Himmels
 
@@ -153,6 +165,10 @@ Title: „Ontologischer Selbstmord (II)“ ^[kohaerenz-protokoll-kapitel-outline
 ## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — the protocol of coherence as ontological suicide
 
 - The reset synthesis places in Phase II: „Diese Phase gipfelt in der Erkenntnis von Kapitel 25“ ^[romanprojekt-analyse-synthese.md:L56] that the protocol of coherence is „ein ontologischer Selbstmord“ ^[romanprojekt-analyse-synthese.md:L56]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die Flucht ins Feuer
+
+- The 39-chapter outline titles Kapitel 25 „Die Flucht ins Feuer“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L935]. It plans: „Kael flieht physisch und mental in das Zentrum der verbotenen Erinnerungs-Architektur, um dem massiven Sweep zu begegnen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L937]; POV Kael / Alex (L943) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

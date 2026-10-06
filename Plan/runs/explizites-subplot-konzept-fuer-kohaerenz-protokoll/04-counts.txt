@@ -1,0 +1,93 @@
+# counts for 72 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Abschluss (Kap. 38-39)
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             12 word    29 in   [13, 15, 17, 23, 24, 25]  <-- substring
+                                   17      as Kaels
+  Lex                              12 word    12 in   [23, 25, 46, 48, 54, 55]
+  Alex                              2 word     2 in   [23]
+  Rhys                              4 word     4 in   [23, 25, 33]
+  Nyx                               1 word     2 in   [24]
+  Kikos                             1 word     1 in   [24]
+  Moros                             1 word     1 in   [33]
+  Isabelle                          1 word     1 in   [33]
+  Selene                            2 word     2 in   [33, 34]
+  Argus                             5 word     5 in   [48, 65, 66, 128]
+  Juna/V                           16 word    17 in   [78, 94, 95, 96, 104, 105]
+                                    1      as Juna/Vs
+  AEGIS                            36 word    38 in   [13, 33, 42, 46, 48, 55]
+                                    1      as AEGIS-Überwelt
+                                    1      as AEGIS-System
+  LogOS                             4 word     4 in   [54, 117, 119, 128]
+  Cerberus                          4 word     4 in   [117, 118, 119, 128]
+  Mnemosyne                         1 word     2 in   [118, 128]
+                                    1      as Mnemosynes
+  Kairos & Sophia                   1 word     1 in   [128]
+  Kairos/Sophia                     2 word     3 in   [128, 129, 178]
+                                    1      as Kairos/Sophias
+  Guardians                        13 word    13 in   [111, 127, 128, 129, 137, 138]
+  Wächter                           2 word     3 in   [109, 139, 179]
+                                    1      as Wächtern
+  KW1                               4 word     5 in   [23, 54, 117, 118, 176]
+  KW2                               4 word     4 in   [24, 86, 118]
+  KW3                               2 word     2 in   [24, 117]
+  KW4                               3 word     3 in   [86, 128, 178]
+  Kernwelten                        6 word     6 in   [74, 86, 104, 117, 137, 179]
+  Überwelt                          7 word     8 in   [64, 74, 94, 104, 127, 137]
+  Digitalen Überwelt                1 word     1 in   [64]
+  AEGIS-Überwelt                    1 word     1 in   [127]
+  Externe Ebene                     6 word     6 in   [78, 94, 96, 105, 106, 167]
+  Externen Ebene                    5 word     5 in   [104, 105, 106, 107, 137]
+  Fundament                        17 word    22 in   [66, 74, 75, 96, 105, 137]
+                                    5      as Fundaments
+                                    1      as fundamentalen
+  Elixier                           4 word     4 in   [44, 76, 107, 170]
+  Paradoxon X                       2 word     2 in   [66, 159]
+  Paradoxon der Fehlausgerichteten Kohärenz    1 word     1 in   [65]
+  Kern-Paradoxon                    1 word     1 in   [65]
+  letztes Aufgebot                  3 word     3 in   [42, 137, 168]
+  Blinden Flecken                   2 word     2 in   [128, 179]
+  Flüstern von Außen                1 word     1 in   [94]
+  Durchbruch der äußeren Mauern     1 word     1 in   [104]
+  Die Suche nach dem Fundament      3 word     3 in   [105, 167, 180]
+  Freiheit zu leben                 1 word     1 in   [44]
+  Hacking the System                1 word     1 in   [65]
+  Wahl der Realität                 2 word     2 in   [106, 169]
+  System Kael                       1 word     1 in   [119]
+  Meta-Ebene                        8 word     8 in   [25, 29, 33, 60, 64, 90]
+  Glitches                          3 word     3 in   [54, 64, 86]
+  Risse                             1 word     2 in   [86, 94]
+                                    1      as Rissen
+  ANP                               1 word     4 in   [23, 24, 54]  <-- substring
+  EP                                0 word     4 in   [23, 24, 25]  <-- substring
+  EICs                              1 word     1 in   [127]
+  BPoF                              1 word     1 in   [127]
+  TSDP                              0 word     1 in   [178]
+                                    1      as TSDP-Dynamiken
+  Subplot                          36 word    44 in   [11, 13, 15, 17, 46, 48]
+                                    6      as Subplots
+                                    1      as Subplot-Konzept
+                                    1      as Subplot-Bögen
+  Funktionalen Multiplizität        1 word     1 in   [15]
+  funktionale Multiplizität         1 word     1 in   [42]
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [17]
+  Ko-Bewusstheit                    2 word     2 in   [25, 34]
+  Ko-Bewusstsein                    1 word     1 in   [33]
+  Kern-Anteilen                     1 word     1 in   [34]
+  Selene/Selbst-Figur               1 word     1 in   [34]
+  ANP-Anteile                       1 word     1 in   [23]
+  ANP-Phobie                        1 word     1 in   [24]
+  Phobien zwischen Anteilen         2 word     2 in   [24]
+  Gaslighting                       2 word     3 in   [55, 64, 177]
+                                    1      as Gaslighting-Logik
+  Entropiemanagement-Logik          1 word     1 in   [65]
+  Integration existenzieller Angst    3 word     3 in   [33, 95, 158]
+  Verknüpfungspunkte                3 word     3 in   [13, 172, 174]
+  Höhepunkt/Auflösung              13 word    13 in   [25, 34, 43, 56, 66, 75]
+  Bostroms Argument                 2 word     2 in   [95, 158]
+  Gehirn im Tank                    1 word     1 in   [65]
+  Gödelsche Grenzen                 1 word     1 in   [65]
+  Parakonsistenz                    1 word     1 in   [75]
+  unendlichen Regression von Simulationen    2 word     2 in   [95, 157]

@@ -1,0 +1,243 @@
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Anmerkung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anmerkung` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#1]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Optional"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Optional` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#1]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Insight"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            15
+
+`Insight` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#14]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Tabelle 1"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Tabelle 1` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#4]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Dissoziativen Identitätsstörung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziativen Identitätsstörung` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#1]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "DID"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`DID` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#7]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "universal reboot"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`universal reboot` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#2]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Post-Reboot"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Post-Reboot` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#2]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Co-Protagonistin"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Co-Protagonistin` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#2]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "KW1"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            20
+
+`KW1` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#19]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "KW2"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+
+`KW2` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#32]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "KW3"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`KW3` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#26]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "KW4"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            24
+
+`KW4` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#24]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Kern-Welten"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Kern-Welten` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#25]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Alters"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Alters` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#9]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "AEGIS-Kern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Kern` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#1]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Zero-Trust"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`Zero-Trust` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#2]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Risse"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            21
+
+`Risse` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#10]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Rissen"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Rissen` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#11]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Ankerpunkt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Ankerpunkt` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#6]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Narbe"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`Narbe` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#6]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Environmental Storytelling"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Environmental Storytelling` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#16]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Mindscape"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Mindscape` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#0]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Mindscapes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mindscapes` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#1]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Mindscape-Mechanik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mindscape-Mechanik` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#1]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Architekt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            42
+
+`Architekt` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#3]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Architektur"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            36
+
+`Architektur` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#31]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Kern-Welt"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            32
+
+`Kern-Welt` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#7]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Kael"
+whole word, case-sensitive     52
+whole word, case-insensitive   52
+including compounds            109
+
+`Kael` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#52]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Kaels"
+whole word, case-sensitive     57
+whole word, case-insensitive   57
+including compounds            57
+
+`Kaels` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#57]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Kern-Welt 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kern-Welt 1` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#1]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Zero-Trust-Prinzip"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Zero-Trust-Prinzip` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#2]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "Zero-Trust-Prinzipien"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zero-Trust-Prinzipien` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#2]
+
+$ python3 scripts/read.py roman-lokalitaeten-konzept-und-ausarbeitung-3 --count "stellt sicher, dass alle Lokalitäten des Romans"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`stellt sicher, dass alle Lokalitäten des Romans` ^[roman-lokalitaeten-konzept-und-ausarbeitung-3.md:#1]
+
+$ grep -c "end list" Sources/drive/roman-lokalitaeten-konzept-und-ausarbeitung-3.md
+11
+stance_marker_count 20 = Anmerkung 1 + Optional 1 + Insight 14 + Tabelle 1 4
+profile (capture.py): backslash escapes 70, glued ref numbers 134, ascii quotes 302, typographic marks 46, repeated labels x7 (12 labels), 463 lines
+$ grep -c "Kern-Welt" etc: see counts above; Zeros: 04-counts.txt Mindscape 0 word 2 in

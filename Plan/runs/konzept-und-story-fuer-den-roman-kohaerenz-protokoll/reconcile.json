@@ -1,0 +1,50 @@
+{
+  "document": "konzept-und-story-fuer-den-roman-kohaerenz-protokoll",
+  "drive_id": "1ewirSX3l264pw0jVndfJMhKz-yqa9KMo9njJSddtMGE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; light pass — no readings, no chapter readings, as the same concept as document 125 without its subplot tags; rlm_ingest not run",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 80,
+    "decisions": 87,
+    "decided_by_lookup": 67,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: the concept of document 125, same date, same three Teile and 39 chapter titles, without the five subplot tags; nothing names a thing of the novel's world that has no page, and nothing it says differs from document 125's readings.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title and the protocol's name), J34 (Juna/V), J60 (the AEGIS expansion), J12 and J16 (compounds with their own sense: Digitalen Überwelt, Paradoxon der Fehlausgerichteten Kohärenz, Host-Anteil, ANP-EP Phobien, System Kael), J23 and J56 (inflections: Glitch/Glitches, Riss/Risse), as for document 125",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 17,
+      "decision": "reading",
+      "why": "light pass: the same concept as document 125 without its subplot tags, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "everything document 125 did not promote — Heroine's/Hero's Journey labels, the tropes list, Gaslighting, Ko-Bewusstsein, Elixier"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

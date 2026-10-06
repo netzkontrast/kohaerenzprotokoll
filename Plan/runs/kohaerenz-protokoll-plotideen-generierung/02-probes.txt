@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x2
+  glued ref numbers      155
+  backslash escapes      47
+  typographic marks      25
+  ascii quotes           136
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemblockaden, Systemdestabilisierung, Systemdynamik, Systeme, Systemen, Systemfehler, Systemgrenzen, Systemic, Systeminstabilität, Systeminstabilitäten, Systemische, Systemkohärenz, Systemkollaps, Systems, Systemverhalten, Systemweite
+  poten    Potential, Potentialanalyse, Potentiality, Potentialität, Potentialmeer, Potentialmeers, Potentials, Potenzial, Potenziell, Potenzielle
+  reali    Realism, Realismus, Reality, Realität, Realitäten, Realitätsebene, Realitätsebenen, Realitätsverzerrungen
+  selbs    Selbst, Selbstbezug, Selbstdefinition, Selbsterhaltung, Selbstfindung, Selbstorganisation, Selbstschutz, Selbstvertrauen
+  wider    Widerspruch, Widerspruchs, Widersprüche, Widersprüchen, Widersprüchliche, Widersprüchlichkeit, Widerstand, Widerstands
+  beoba    Beobachter, Beobachtereffekt, Beobachterproblem, Beobachters, Beobachtung, Beobachtungen, Beobachtungstätigkeit
+  grenz    Grenze, Grenzen, Grenzfläche, Grenzflächenkodierung, Grenzsicherung, Grenzziehung, Grenzziehungen
+  infor    Information, Informationell, Informationen, Informationsgehalt, Informationstheorie, Informationsverarbeitung, Informationsverarbeitungsoperationen
+  kontr    Kontrolle, Kontrollkapazität, Kontrollparadigma, Kontrollsystem, Kontrollversuche, Kontrollversuchen, Kontrollziel
+  daten    Daten, Datenarchäologie, Datenkonflikten, Datenkorruption, Datenmuster, Datenspeicherung
+  holog    Hologramm, Hologramms, Holographic, Holographische, Holographischen, Holographisches
+  inter    Interaktion, Interaktionen, Internal, Interpretation, Interpretationen, Interventionen
+  konfl    Konflikt, Konflikte, Konfliktfall, Konfliktpotenziale, Konfliktpunkt, Konflikts
+  konze    Konzept, Konzeptanalyse, Konzepte, Konzepten, Konzeptionelle, Konzepts
+  model    Model, Modell, Modellblindheit, Modelle, Modellierung, Modells
+  parad    Paradox, Paradoxes, Paradoxien, Paradoxon, Paradoxons, Paradoxpotenzial
+  symme    Symmetrie, Symmetriebrechung, Symmetriebrechungen, Symmetrien, Symmetries, Symmetry
+  theor    Theoreme, Theorems, Theoretische, Theorie, Theorien, Theory
+  funkt    Funktion, Funktionen, Funktionieren, Funktionsstörungen, Funktionsweise
+  grund    Grund, Grundgleichungen, Grundlage, Grundlagen, Grundzustand
+  konst    Konstante, Konstruierte, Konstrukt, Konstruktion, Konstruktivismus
+  opera    Operation, Operationalisierung, Operationen, Operator, Operatorprodukte
+  proto    Protocol, Protokoll, Protokolle, Protokollen, Protokolls
+  quant    Quanta, Quantenkohärenz, Quantenmechanik, Quantenwelt, Quantum
+  überw    Überwacht, Überwachte, Überwachung, Überwachungs, Überwelt
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Semantik
+  Bind < Binds
+  Bind < Verbindung
+  Bind < Verbindungen
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Seine
+  Fall < Konfliktfall
+  Feld < Feldtheorien
+  Feld < Feldinteraktionen
+  Form < Formen
+  Form < Konforme
+  Form < Conformal
+  Form < Formulation
+  Form < Information
+  Form < Informationen
+  Form < Informationell
+  Form < Kohärenzformen

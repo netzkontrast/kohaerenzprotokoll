@@ -1,0 +1,121 @@
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Vertieft"
+whole word, case-sensitive     9
+whole word, case-insensitive   12
+including compounds            11
+
+`Vertieft` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#9]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "könnte"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            25
+
+`könnte` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#19]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "könnten"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`könnten` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#6]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "möglicherweise"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`möglicherweise` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#11]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Kap"
+whole word, case-sensitive     140
+whole word, case-insensitive   140
+including compounds            151
+
+`Kap` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#140]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Blinden Flecken"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Blinden Flecken` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#5]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Guardians"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Guardians` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#13]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Wächter"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Wächter` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#5]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Funktionalen Multiplizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`Funktionalen Multiplizität` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#3]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "funktionaler Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`funktionaler Multiplizität` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#2]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Bewachtseins"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bewachtseins` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#1]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Paradoxon X"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Paradoxon X` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#5]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            10
+
+`Kernwelt` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#0]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Kernwelten"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kernwelten` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#10]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Gödelsche Grenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödelsche Grenzen` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#1]
+
+$ python3 scripts/read.py plan-zur-subplot-integration-fuer-den-roman-erweitert --count "Kapitel"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Kapitel` ^[plan-zur-subplot-integration-fuer-den-roman-erweitert.md:#9]
+
+stance_marker_count 45 = Vertieft (case-sensitive 9) + könnte 19 + könnten 6 + möglicherweise 11 = 45
+$ grep -n "Paradoxon X" Sources/drive/plan-zur-subplot-integration-fuer-den-roman-erweitert.md | cut -d: -f1
+23
+76
+163
+181
+184
+$ grep -c "?" Sources/drive/plan-zur-subplot-integration-fuer-den-roman-erweitert.md  (question marks, profile says 0)
+0

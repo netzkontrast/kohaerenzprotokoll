@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 31
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -39,6 +39,14 @@ Position: „Lyons-Welt (Ly) / Emergenz“ ^[kohaerenz-protokoll.md:L1966] · �
 - Where: transfer to „Dies war die Lyons-Welt (Ly), wie er aus den fragmentierten Daten im Lernarchiv wusste.“ ^[kohaerenz-protokoll.md:L1978]
 - Story: Kael learns to seed rules into the world's fluid medium and meets its Guardian, „Es war der Möglichkeits-Weber.“ ^[kohaerenz-protokoll.md:L2024], who warns him about a watcher, „Du versuchst, dich zu verstecken. Vor dem Großen Beobachter.“ ^[kohaerenz-protokoll.md:L2034], and points him toward the Lyons-Gruppe's own arithmetic, „Rechnen modulo 5“ ^[kohaerenz-protokoll.md:L2052] (GF(5)), as a resource for creation rather than concealment.
 - Voice: third person on Kael; the Weber speaks in dialogue, his own Anteile in italics.
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Natur der Mauern
+
+- The concept with subplots titles Kapitel 19 „Natur der Mauern“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L50]. It plans: „Kael vertieft seine Untersuchung der Natur der Realität“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L50] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — Meta: Rückschlag/Scheitern/Bestätigung des Zyklus/der Systemmacht
+
+- The subplot catalogue analyses Kapitel 19 under the phase „Rückschlag/Scheitern/Bestätigung des Zyklus/der Systemmacht“ ^[subplot-entwicklung-fuer-romanstruktur.md:L546] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Flüstern von Außen: Erster Kontakt mit Juna/V
 
@@ -90,6 +98,10 @@ Position: the scene outline plans the scene at „2.5 - An interface space betwe
 
 - The scene outline plans Chapter 19 as „A New Juna-Connection“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L247], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Zero-Trust Fortress
+
+- The plot framework titles Chapter 19 „The Zero-Trust Fortress“ ^[plot-generation-framework-for-the-coherence-protocol.md:L260]. It commissions: „Introduce Cerberus, the Guardian of Kernwelt 3, to externalize the system's core principle of paranoia, showing how it misinterprets Kael's healing as a security“ ^[plot-generation-framework-for-the-coherence-protocol.md:L260] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Amnesia as a safeguard
 
 Title: „Amnesie als Sicherung“ ^[romanstruktur-und-philosophische-einleitung.md:L172]
@@ -105,6 +117,10 @@ Position: Teil II; setting from the `Schauplatz` field: „in verschiedenen KW-Z
 
 - Cast: the `Charaktere/Linsen` field lists „Kael, Lex, Alex, Kiko, Selene“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L209]
 - Story: the blueprint plans, in `Plot-Beats`, „Um den aggressiven Überwachungssonden von AEGIS zu entgehen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211] and „hackt Logikfallen“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L211]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Das Flüstern von Außen
+
+- The plot synthesis plans Kapitel 19 as „Das Flüstern von Außen“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L95], set in `KW2/KW4 Übergang`, with the focus on Kael, Juna. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Der verführerische Loop
 
@@ -166,6 +182,10 @@ Title: „Die thermische Inversion“ ^[kohaerenz-protokoll-kapitel-outline-gene
 ## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Kael finds the Chaitin constant
 
 - The reset synthesis places in Phase II: „Kael entdeckt in Kapitel 19 die Chaitin-Konstante“ ^[romanprojekt-analyse-synthese.md:L56] (the symbol after it is lost in the export).
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die Verlockung der Leere
+
+- The 39-chapter outline titles Kapitel 19 „Die Verlockung der Leere“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L725]. It plans: „Oblivion evaluiert die dunkle Möglichkeit, die Rebellion komplett aufzugeben, um dem unerträglichen Schmerz der Erkenntnis zu entgehen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L727]; POV Oblivion (L733) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

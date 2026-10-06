@@ -236,3 +236,11 @@ Where it stands in the record's own terms: the plan places AEGIS's origin in cha
 Under `Origin & Tragic Flaw (Genesis-Krise)` the codex writes that AEGIS „emerged as a cluster of“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L64] `Ich-Fragmenten` „from the chaotic“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L64] `Potentialmeer`. Its foundational trauma is a catastrophic epistemological shock, answered by an act of „logical self-harm“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L64]. The Definitive Guide words the same origin „in the primordial chaos.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112]
 
 Neither of the record's two positions as it words them; a third origin, in fragments of a self, as in the Definitive Guide's entry above; recorded, not applied, the conflict stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis analyses AEGIS as arising by autopoiesis from the Potentialmeer, which it reads as Aristoteles' Dunamis.**
+
+„AEGIS entsteht durch Selbstorganisation (Autopoiesis) aus dem Potentialmeer“ ^[kohaerenz-protokoll-plotideen-generierung.md:L49]. The sea, it says: „Das Potentialmeer entspricht dieser reinen Dunamis“ ^[kohaerenz-protokoll-plotideen-generierung.md:L23], and emergence needs specific conditions: „deutet auf die Notwendigkeit spezifischer Bedingungen oder Katalysatoren für die Emergenz aus dem Meer hin“ ^[kohaerenz-protokoll-plotideen-generierung.md:L23].
+
+Stands as an origin from the sea by self-organisation; recorded, nothing decided.

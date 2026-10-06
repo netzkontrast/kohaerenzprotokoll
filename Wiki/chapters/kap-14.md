@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 28
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 35
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -40,6 +40,14 @@ Position: „AEGIS' Fragilität / Risse / Cache Kohärenz (Konflikt)“ ^[kohaer
 - Story: AEGIS orders him to destroy the Juna connection it blames for the world's entropy cascade, „BEFEHL: K-1123. PRIORISIERE IDENTIFIKATION UND NEUTRALISIERUNG DER SUB-PROTOKOLLARISCHEN SIGNATUR.“ ^[kohaerenz-protokoll.md:L1544], and he refuses it, „Nein, dachte Kael, und diesmal war es keine Stimme eines Teils, sondern seine eigene, integrierte Stimme.“ ^[kohaerenz-protokoll.md:L1578]
 - Voice: third person on Kael; AEGIS' commands stand in capitals, and his inner Anteile speak in italics.
 - Close: „Der Bruch war geschehen. Die Realität seiner Situation war klar. Der Zyklus hatte begonnen.“ ^[kohaerenz-protokoll.md:L1588]
+
+## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Das Echo im Code
+
+- The concept with subplots titles Kapitel 14 „Das Echo im Code“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L45]. It opens „Teil 2: Die Meta-Ebene & Zyklen“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L41]. It plans: „Kael erkennt, dass die Glitches und Risse nicht zufällig sind, sondern auf ein System hindeuten – AEGIS' bewusste Präsenz und Kontrolle“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L45] — a plan, not the chapter as written.
+
+## Reading — `subplot-entwicklung-fuer-romanstruktur`, 2025-05-02, the subplot catalogue — Meta: Eintritt/Erkenntnis der Meta-Ebene/des Systems
+
+- The subplot catalogue analyses Kapitel 14 under the phase „Eintritt/Erkenntnis der Meta-Ebene/des Systems“ ^[subplot-entwicklung-fuer-romanstruktur.md:L366] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Grammatik der Kontrolle: Eintritt in die Meta-Ebene
 
@@ -96,6 +104,10 @@ Position: the scene outline plans the scene at „2.1 - Mnemosyne-Archipel (KW2)
 
 - The scene outline plans Chapter 14 as „In the Flow of Memories“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L168], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Constructed Self
+
+- The plot framework titles Chapter 14 „The Constructed Self“ ^[plot-generation-framework-for-the-coherence-protocol.md:L255]. It opens „Act II: The Deconstruction“ ^[plot-generation-framework-for-the-coherence-protocol.md:L251]. It commissions: „Shift the POV to AEGIS's core logic (Component 734) as it observes Kael's new integration, revealing its tragically flawed worldview and establishing it as“ ^[plot-generation-framework-for-the-coherence-protocol.md:L255] — a plan, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — System initiation
 
 Title: „System-Initiation“ ^[romanstruktur-und-philosophische-einleitung.md:L142]
@@ -112,6 +124,10 @@ Position: Teil II; setting from the `Schauplatz` field: „Kaels desintegrierend
 
 - Cast: the `Charaktere/Linsen` field lists „AEGIS, Kael, Juna (Soziale Linse), Leser (Spiegel-Linse)“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L169]
 - Story: the blueprint plans, in `Plot-Beats`, „Der Regelbruch aus Kapitel 13 führt zu extremen physischen Anomalien“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L171] and „Die Gravitation versagt lokal“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L171]
+
+## Reading — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis — Eintritt in die Meta-Ebene
+
+- The plot synthesis plans Kapitel 14 as „Eintritt in die Meta-Ebene“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L90], set in `Meta-Ebene (Überwelt)`, with the focus on Lex, Kael. It opens „Teil II: Die Architektur der Meta-Ebene“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L81]. A plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Eintritt in die Überwelt
 
@@ -131,6 +147,14 @@ Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-kon
 - Where: „Kael erwacht in der Resonanz-Landschaft (Kernwelt 2), einer nebligen, nicht-linearen Traumwelt, überwacht vom Guardian Mnemosyne“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
 - Who: „Der innere Gatekeeper Limina blockiert den direkten Zugriff“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
 - Establishes: „die bei der Berührung wie warmes Blut durch seine Finger rinnen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L85]
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Akt II opens, Kael meets LogOS
+
+- The refactoring plan opens „Refactoring Akt II: Die Überwelt und die Anatomie des Rauschens (Kapitel 14 – 26)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L86], and has „In Kapitel 14 trifft Kael auf LogOS, den Wächter der Logik“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L92] — a plan, not the chapter as written.
+
+## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — Phase II opens, the passage into the psychological sectors
+
+- The architecture report opens Phase II, „Die Anatomie des Rauschens“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L184], for Kapitel 14–26: Kael passes beyond the surface simulation into sectors such as the Mnemosyne-Archipel and the Cerberus-Labyrinth and meets the Guardians LogOS and Mnemosyne — a plan, not the chapter as written.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in the Mnemosyne-Archiv, KW2, the first chapter of Akt II
 
@@ -173,6 +197,10 @@ Title: „Erwachen im Nexus“ ^[kohaerenz-protokoll-kapitel-outline-generierung
 
 - The reset synthesis opens Phase II with the heading „Die Anatomie der Spaltung (Kapitel 14–26)“ ^[romanprojekt-analyse-synthese.md:L52]
 - It says of the phase: „Kael erhält Zugriff auf die technischen Dossiers von AEGIS“ ^[romanprojekt-analyse-synthese.md:L54]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Dekonstruktion der Maschine
+
+- The 39-chapter outline titles Kapitel 14 „Dekonstruktion der Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L539]. It opens „Akt II — Kapitel 14–26“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L535]. It plans: „Akt-Übergang. Kael erwacht aus dem Zusammenbruch und beginnt, die Regeln seines kybernetischen Gefängnisses systematisch und kaltblütig zu dekonstruieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L541]; POV Lex / Alex (L547) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-plot-blueprint-erstellung
+  lines                557  (frontmatter ends at 9)
+  body words           14111
+  headings             6   bold-only lines 26
+  table rows           30   code fences 0
+  question marks       28
+  backslash escapes    152
+  typographic marks    31   ascii quotes 218
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    174
+  repeated labels      Antwort x9
+  longest line         1354 chars
+

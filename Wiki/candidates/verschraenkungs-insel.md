@@ -1,16 +1,20 @@
 ---
 term: Verschränkungs-Insel
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-refactoring-kohaerenz-und-charakterentwicklung"]
 gathered: "2026-09-24"
 ---
 
 # Verschränkungs-Insel
 
 **The [[ueberwelt|Überwelt]]'s Kap-33 setting, where [[kael|Kael]] touches the K₁-Reinform.**
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Selene establishing an entanglement island for Kael and Juna
+
+The refactoring plan is an assistant's proposal to the author; in Kapitel 26 it has Selene recognise the entanglement, and writes that their mutual information gives rise to „die Etablierung einer Verschränkungs-Insel“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L106]. The physics (Replica Wormholes, Entanglement Islands) is the plan's report of a theory, with footnotes.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
