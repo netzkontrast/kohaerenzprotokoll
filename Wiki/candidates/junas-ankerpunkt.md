@@ -1,10 +1,10 @@
 ---
 term: Junas Ankerpunkt
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "welt"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -44,6 +44,10 @@ Its rules are stated as an exemption:
 So the same phenomenon is a failure to [[aegis|AEGIS]] and a connection to [[juna|Juna]], depending
 on which side describes it. The document says it once, hedged, and does not
 develop it. See [[risse]], [[externe-ebene]].
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — the seventh key place, shown in KW4, KW1 and KW3
+
+The seventh key place is headed „Manifestation in einer Kern-Welt (z.B. KW4)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L258], after the name Juna's Ankerpunkt in the document's straight quotes. It is a place or object that serves „als direkte Manifestation oder Verbindungspunkt zur Externen Ebene und zu Juna dient“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L260], and it is, in the concept's words, „Es ist ein Symbol der Hoffnung, der Andersartigkeit und des externen Einflusses“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L260]. Examples are given per world, KW4 first („In KW4 (Möglichkeits-Garten):“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L265] a plant), KW1 (a small organic flaw) and KW3 (an unexplained safe zone). For the plot: „Juna könnte durch diesen Ankerpunkt kommunizieren, erscheinen oder Kael mit Energie oder Informationen versorgen.“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L272] Conditional throughout.
 
 ## Reading — `welt`, 2025-07-29, the Welt blueprint — a specific place where her connection becomes manifest
 
