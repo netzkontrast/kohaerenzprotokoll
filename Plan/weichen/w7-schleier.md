@@ -70,3 +70,26 @@ Noch offen. Antwortformat: W7 A/B/C oder frei, danach getrennt:
 **Pluralität: Vermutung/Benennung/Selbstwissen; Kael-Name; AEGIS-Name; DKT-Wortgebrauch**.
 Die Kapitelposition wird an einem Ereignis verankert und erst dann nummeriert.
 W3/W6 begrenzen den Zugang, W9/W12 die Herkunftswahrheit, W10 die Stimmen.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was festliegt oder als Arbeitsgrundlage gilt:**
+- **Anteile:** Bis Kap 13 haben sie keinen Namen (`anteile.json`, Schritt 32; Arbeitsgrundlage).
+- **AEGIS:** AEGIS nennt sich ab Kap 0 selbst (C14).
+- **Kael:** Sein Name fällt in Kap 1, weil die alte Frau fragt (Entwürfe G, J).
+- **734:** Q7 ist entschieden: Kael ist der aus 734 herausgetrennte Teil. Die Zahl taucht im Treatment erst in Kap 6
+  auf, im AEGIS-Kapitel und nur für den Leser, und als „Komp 734“ in Kap 22.
+
+**Was offen bleibt:**
+- **Die Verbindung zu Juna:** Wann erfährt der Leser, dass das Gewicht am anderen Ende die Verbindung zu Juna ist?
+  Das Leserpanel zu J las „sieben Milliarden Bänke“ teils als Menschheit (siehe W21).
+- **Die Amnesie:** Wann heißt sie so? Die berichtete Sperre L4 verbietet das Wort bis Kap 13.
+- **DKT-Wörter:** Ob ein Fachwort der Dissoziation je fällt, ist offen.
+
+**Empfehlung:**
+- Leserwissen vor Kaels Wissen nur über die AEGIS-Kapitel (Kap 6: 734).
+- Kael erfährt in Kap 12, dass der Anschluss unter seiner Zeile steht.
+- Junas Name fällt erst in der zweiten erinnerten Szene (Kap 11).
+- Kein DKT-Fachwort im Text.
+
+**Frage an dich:** Wann fällt Junas Name zum ersten Mal: Kap 4, Kap 11 oder erst Kap 17?

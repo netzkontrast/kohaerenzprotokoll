@@ -76,3 +76,21 @@ Zählweise; Silas/Oblivion behalten, ersetzen oder vertagen; Doran/Mira je einze
 behalten, ersetzen oder vertagen**. Bei C bleibt der Gesamtkreis ausdrücklich offen.
 W3/W7 regeln die Stimmen, W9 Junas Status, W11 die Guardians, W13 die Nachfolge.
 Q3 wird durch diese Vorbereitung nicht geschlossen.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was festliegt:**
+- **Die Anteile:** Es sind dreizehn (Q3), Isabelle ist Teil von Nyx.
+- **Die Archetypen:** Sie sind für A und B besetzt (W10-A, W10-B).
+- **Die Lager:** Suche, Abwehr, Vermeidung; Argus beobachtet.
+- **Die vier Menschen:** Ihre Wünsche sind vorläufig gesetzt (Schritt 34).
+
+**Was offen bleibt:**
+- **Die Archetypen von A nach Kap 14:** Mara (Guardian), Dorn (Contagonist), die alte Frau (Sidekick) und die Kollegin
+  (Skeptic) bleiben mit KW1 zurück, so deine Vorliebe in Schritt 39. Damit fehlen A's Archetypen-Funktionen für 27
+  Kapitel. Das ist ein strukturelles Problem für A und gehört jetzt in W17.
+- **Doran und Mira:** Beide sind nur in einer Quelle genannt und nicht besetzt.
+
+**Empfehlung:** W10 als beantwortet markieren und die Frage nach den Archetypen nach KW1 in W17 führen.
+
+**Frage an dich:** Ist W10 damit beantwortet, und W17 übernimmt den Rest?

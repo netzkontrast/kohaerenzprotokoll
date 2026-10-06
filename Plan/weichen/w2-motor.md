@@ -118,3 +118,22 @@ in keiner Quelle belegt.
   - `kohaerenz-protokoll-konzeptentwicklung`
   - `outline-3`
   - `romananalyse-kohaerenz-plot-kritik`
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was spätere Entscheidungen schon festgelegt haben:** Der Plan hat C mit A gebaut, ohne dass W2 formal beantwortet
+wurde.
+- **Die sichtbare Uhr (C):** Das Wartungsfenster hat Daten. In Kap 1 liegt es um 16:40, in Kap 2 kommt eine Frist von elf
+  Tagen dazu, und in Kap 5 zieht der Bericht der Kollegin sie vor (Entscheidung 025, Schritt 47). AEGIS' Abwärmebudget
+  wird in jedem AEGIS-Kapitel als Zahl abgelesen und ist in Kap 35 aufgebraucht (Schritte 43, 48;
+  `Plan/storyform/clock-b.json`).
+- **Kaels Beruf (A):** Er bleibt der Ort, an dem Kael die Uhr liest. Die Konsole, die Zuweisung und die RÜCKFRAGE
+  tragen Kap 1, 2 und 13.
+- **Die Reise (B):** Mit W8 A (getrennte Welten, Schritt 35) durchquert Kael vier Kernwelten, und jede Grenze kostet
+  etwas (die Uhr von A, Schritt 44).
+
+**Was offen bleibt:** nur die Bestätigung. Das Treatment Kap 0–40 ist nach dieser Mischung geschrieben.
+
+**Empfehlung:** W2 als „C mit A, dazu die Reise aus B“ beantworten.
+
+**Frage an dich:** Ist W2 damit beantwortet?

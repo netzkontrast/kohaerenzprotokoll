@@ -91,3 +91,18 @@ unterschiedliche Gliederungen. Ihre Zuordnung wird erst am Treatment geprüft,
 statt eine vierte Romanaktgrenze stillschweigend einzuführen.
 
 Noch offen. Antwortformat: je Point der Kandidat oder die Alternative oder ein eigenes Wort; bei den Signposts die Reihenfolge. Hängt an **W1** (bei Antwort B sind diese Points Diagnose und dürfen sich unter dem Schreiben ändern, AP-11), **W2** (C nimmt Uhr B als Motor), **W6** (ob AEGIS eine eigene Sicht bekommt) und **C8** (Approach von AEGIS; er bestimmt mit, ob B in Physics/Universe stehen darf). Die NCP-Dateien in `Plan/runs/plot-2026-09-30/ncp/` transkribieren nur die gewählte Statusbericht-Lesart; diese Points stehen dort nicht, bis du antwortest. Die anderen Quellenfassungen sind weiterhin offen.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was festliegt:** WP ist in der Sache beantwortet.
+- **Goal:** A Conceptualizing und B Obtaining, entschieden in Schritt 8 mit dem Crucial Element (A Inertia, B Logic).
+- **Requirements, Consequences, Forewarnings:** von dir gewählt (Schritt 13).
+- **Costs, Dividends:** Schritt 14.
+- **Prerequisites, Preconditions:** Feinstruktur 2b.
+
+Alle Werte stehen mit Herkunft in `a.json` und `b.json` und sind im NCP. Der Kandidat Becoming für A's Goal ist seit
+Schritt 8 verworfen.
+
+**Was offen bleibt:** nur der Status.
+
+**Frage an dich:** WP auf „beantwortet“ setzen?
