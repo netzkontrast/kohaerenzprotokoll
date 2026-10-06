@@ -1,0 +1,139 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+# Candidates, written while reading (L1 to L574)
+
+The document is English prose with German terms. Where it writes a case variant (Logos-Prime and LogOS-Prime) the list carries one surface, since the count ignores case. A term with a comma ("Show, Don't Tell") or with "Dr. " is left off or written without the title, because the count would read it as a sentence.
+
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Kael
+- Kael (Host)
+- Kael (System)
+- System Kael
+- System AEGIS
+- Subject Kael
+- Juna/V
+- Juna-construct
+- Juna
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Lex
+- Alex
+- Rhys
+- Argus
+- Aris Thorne
+- Thorne
+- Unit 734
+- Guardian
+- LogOS
+- Mnemosyne
+- Cerberus
+- Core World 1 (KW1)
+- KW1
+- KW2
+- KW3
+- KW4
+- Core World
+- Core Worlds
+- Kernwelten (Core Worlds)
+- Kernwelten
+- Kernwelt
+- Logos-Prime
+- Konstrukt-Stadt/LogOS-Prime
+- Konstrukt-Stadt
+- Mnemosyne-Archipel
+- Resonanz-Landschaft
+- Cerberus-Labyrinth
+- Grenzfeste
+- Kairos-Potentialis
+- Möglichkeits-Garten
+- Lake of Tears
+- Trauma Zone
+- Überwelt
+- Externe Ebene
+- Potentialmeer
+- Nichts Rauschen (Nothingness Roaring)
+- Nichts Rauschen
+- Nothingness Roaring
+- Das Fundament
+- Entropie
+- Risse
+- naht
+- Wave of Impossibility
+- universal reboot
+- random coherence check
+- Echo-Intrusion
+- Moonshine-Link
+- ontological exploit
+- Täterintrojekt
+- Gaslighting Protocol
+- Apparently Normal Parts
+- Emotional Parts
+- ANPs
+- EPs
+- Internal Self Helper (ISH)
+- ISH
+- internal council
+- Impact Character
+- Functional Multiplicity
+- funktionale Multiplizität
+- co-consciousness
+- Gödel-Gambit
+- Paradox of Misaligned Coherence
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Maximize Coherence
+- Reduce Complexity and Unpredictability
+- preventative fragmentation
+- systemic contagion
+- Schrödinger's memory
+- Genesis Crisis
+- dialetheic offensive
+- unprovable true statement
+- undecidable proposition
+- sanfte Explosion
+- algorithmic melancholy
+- algorithmischer Melancholie
+- Kohärenz statt Wahrheit
+- Emergenz durch Negation
+- No-Trust & Rekursive Selbstverifikation
+- Ontologische Autarkie
+- Logics of Formal Inconsistency
+- LFI
+- Discursive Logic
+- D2
+- polyphone prose
+- Polyphone Prosa
+- dreifache Helix
+- Heldinnenreise
+- Zyklische Struktur
+- Heldenreise
+- Unzuverlässiges Erzählen
+- Perspektivwechsel
+- Metafiktion
+- Nicht-Westliche Architekturen
+
+## lens
+
+- Theory of Tertiary Structural Dissociation
+- TSDP
+- Tertiäre Strukturelle Dissoziation
+- Autopoiesis
+- Gödel's Incompleteness Theorems
+- Heroine's Journey
+- Hero's Journey
+- Cyclical Structure
+- Kishōtenketsu
+- Glitch in the Matrix
+- strange attractor
+- Gnostic
+- paraconsistent
+- Deus ex Machina
+- Hard Science Fiction
+- Cosmic Horror
+- P versus NP

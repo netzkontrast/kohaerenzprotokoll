@@ -1,0 +1,459 @@
+{
+  "document": "kohaerenz-protokoll-scene-by-scene-outline",
+  "drive_id": "1-vH5pZntNj6DEpzWChR5HUgD1hfhdJ_oKVaFtntZKGI",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 128,
+    "decisions": 146,
+    "decided_by_lookup": 100,
+    "needs_judgement": 46
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        194,
+        239,
+        356,
+        371,
+        506,
+        510,
+        512,
+        515,
+        517,
+        563
+      ],
+      "attribution": "",
+      "note": "a tragic antagonist with four principles, who in the plan ends in melancholy"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        50,
+        101,
+        500
+      ],
+      "attribution": "",
+      "note": "the protector and crisis manager"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        121,
+        187,
+        336,
+        502
+      ],
+      "attribution": "",
+      "note": "the observer"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        97,
+        102,
+        103,
+        106,
+        465
+      ],
+      "attribution": "",
+      "note": "the enforcer of KW3"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        421,
+        462,
+        463,
+        464,
+        465,
+        466
+      ],
+      "attribution": "",
+      "note": "Entropie as a column of the Kernwelten table, and as AEGIS's misreading"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        470
+      ],
+      "attribution": "",
+      "note": "a reality beyond AEGIS's direct control, tied to Juna/V"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        312,
+        340,
+        347,
+        354,
+        355,
+        356,
+        419,
+        541,
+        566
+      ],
+      "attribution": "",
+      "note": "a proof, not a fight, ending in a paraconsistent AEGIS"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        90,
+        465
+      ],
+      "attribution": "",
+      "note": "KW3's double name, and the fortress chapters"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        42,
+        45,
+        49,
+        270,
+        272,
+        369
+      ],
+      "attribution": "",
+      "note": "Unit 734 as a Guardian, Guardians that fracture, and Guardians that turn useless"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        280,
+        290,
+        497
+      ],
+      "attribution": "",
+      "note": "the sexualized EP who emerges under AEGIS's attack"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        26,
+        31,
+        32,
+        35,
+        310,
+        312,
+        352,
+        470,
+        521,
+        568
+      ],
+      "attribution": "",
+      "note": "a flickering construct, a signal from beyond AEGIS's control, and a catalyst of resonance"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        34,
+        35,
+        42,
+        157,
+        405,
+        492,
+        565,
+        566,
+        573
+      ],
+      "attribution": "",
+      "note": "the host of an eleven-row alter table, and the protagonist of every scene"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        458,
+        569
+      ],
+      "attribution": "",
+      "note": "four worlds made by AEGIS, each a cache of identity"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        48,
+        209,
+        216,
+        224,
+        495
+      ],
+      "attribution": "",
+      "note": "the child alter whose fear bleeds through"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        531,
+        552
+      ],
+      "attribution": "",
+      "note": "a non-Western structure for integration as synthesis"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        21,
+        463
+      ],
+      "attribution": "",
+      "note": "KW1's double name in the table"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        47,
+        267,
+        269,
+        492,
+        499
+      ],
+      "attribution": "",
+      "note": "the rationalist who meets the limit of logic"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        254,
+        261,
+        263,
+        496
+      ],
+      "attribution": "",
+      "note": "the ambivalent-attachment alter, brought in with Juna/V"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        60,
+        65,
+        463
+      ],
+      "attribution": "",
+      "note": "LogOS as KW1's Guardian"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        80,
+        85,
+        89,
+        264,
+        464
+      ],
+      "attribution": "",
+      "note": "the archivist of memory and antagonist of KW2"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        244,
+        466
+      ],
+      "attribution": "",
+      "note": "KW4's double name, and the oracle chapter"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        521,
+        570
+      ],
+      "attribution": "",
+      "note": "a non-local, acausal bond that AEGIS's logic cannot model"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        291,
+        293,
+        498
+      ],
+      "attribution": "",
+      "note": "the most deeply suppressed alter"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        158,
+        565
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the therapeutic goal"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        429,
+        571
+      ],
+      "attribution": "",
+      "note": "the primordial chaos as the horror, and the lexicon's substrate"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        51,
+        222,
+        494
+      ],
+      "attribution": "",
+      "note": "the fight-response alter"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        403,
+        476
+      ],
+      "attribution": "",
+      "note": "the primordial source against which AEGIS defines itself, and the place of the last scene"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        168,
+        464
+      ],
+      "attribution": "",
+      "note": "KW2's double name in the table"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        178,
+        184,
+        222,
+        337,
+        500,
+        501
+      ],
+      "attribution": "",
+      "note": "the caregiver whose empathy works with Lex's logic"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        19,
+        448,
+        572
+      ],
+      "attribution": "",
+      "note": "Risse as glitches that wake Kael, and as the failures of AEGIS's own control"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        153,
+        156,
+        158,
+        308,
+        404,
+        493
+      ],
+      "attribution": "",
+      "note": "the integrator alter, written two ways"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        226,
+        309,
+        487,
+        573
+      ],
+      "attribution": "",
+      "note": "the clinical model behind the alters"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        189,
+        193,
+        470
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's domain, and the site of its log"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
