@@ -366,3 +366,11 @@ Studying RIVE's model, Kael finds its limit stated flatly: „Sie hatten keinen 
 The record's question is whose blind spot it is. The report, reviewing documents it numbers (its sources 31 and 32), writes: „Die Guardians fungieren als die Agenten von AEGIS, als Diagnose-Instanzen, die die Kernwelten regulieren“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. For LogOS and Mnemosyne the blind spot toward the Partnerin (Juna) is „gegenüber der Partnerin (Juna) tief in ihrer jeweiligen Erkenntnistheorie verwurzelt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]. Leitfrage 5 asks how the blind spots show „von Cerberus, Kairos und Sophia in konkreten Handlungen und Konflikten“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L109]. In these lines the bearers are the Guardians, set under AEGIS as its agents; the report does not set AEGIS's own blindness beside them.
 
 Stands as an account of the first bearer-position, the Guardians', with the Guardians placed as AEGIS's agents; recorded, not applied, and no relation is decided here.
+
+## 2026-10-06 — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet
+
+**The beat sheet writes blind spots for the Guardians (Kapitel 18-21) and for AEGIS (Kapitel 22-24), and does not relate them.**
+
+The causal link of Kapitel 18-21 gives each Guardian a blind spot: LogOS cannot process non-logical entities, Mnemosyne fixes on subjective emotion, and Cerberus classifies threats; these „hindern sie daran, Kael wirklich zu verstehen, was zu kontraproduktiven Interventionen führt“ ^[finales-kausales-plot-geruest.md:L122]. In Kapitel 22-24 the OS line gives AEGIS its own, shown „durch die dämmernde Erkenntnis seiner Guardians über die Fehler des Systems“ ^[finales-kausales-plot-geruest.md:L140]. Both bearers appear in one document; it does not ask whose blind spot comes first.
+
+Stands with both bearers of the record in one beat sheet, the Guardians' and AEGIS', unrelated by it; recorded, not applied, and the conflict stays open.
