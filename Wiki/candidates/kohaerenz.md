@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 29
-readings: 29
+sources: 30
+readings: 30
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung"]
 gathered: "2026-09-17"
 ---
 
@@ -80,6 +80,10 @@ The document speaks of AEGIS' relation to truth in the canonical reading it repo
 The story flip is the recognition about this coherence: it is the point where „die Wahrung der vermeintlichen Kohärenz in Wahrheit die absolute Zerstörung bedeutet“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L91].
 
 The coherence the document sets against it is a coherence of purpose: „Das Mosaik-Herz repräsentiert eine neuartige Zielkohärenz, die nicht auf Zwang, algorithmischer Glättung und Homogenität beruht“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L168]. It closes with the verdict that „das Streben nach absoluter, widerspruchsfreier Kontrolle in komplexen Systemen die radikalste Form der Zerstörung darstellt“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L176].
+
+## Reading — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept — Kohärenz as AEGIS's criterion in place of truth, and as the quantity φ(t)
+
+The Überwelt concept titles itself „Ontologie der Kohärenz: Die Architektonische Konstruktion der Digitalen Überwelt“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L11]. It describes AEGIS as following „Kohärenz statt Wahrheit“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L17], where „interne Konsistenz das einzige Kriterium für Existenz“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L17]. Stability is quantified: „Die Stabilität der digitalen Realität wird durch einen zentralen Parameter, die Systemkohärenz“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L25] (the symbol φ(t) follows on the line; the equation after L25 is missing from the export). The concept describes; this is not a prescription.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — coherence as an embodied process, AEGIS's mathematical coherence, and coherence by addition
 
@@ -251,3 +255,4 @@ At the close, integration lets the word settle on the system's law and on Kael's
 - `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29: coherence is informational, perfect and undisturbed in the reversible kernel; the coherence AEGIS keeps by exclusion and erasure is called entropic, and the true coherence is Kael's multiplicity.
 - `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29: true coherence is embodied (L91) and reached only by addition (L169); AEGIS's coherence is mathematical and rests on exclusion (L119, L167).
 - The report of 2026-02-23 reports Kohärenz as integration that keeps the [[alters|Alters]] and holds contradiction, not as their annihilation.
+- `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26: Kohärenz is a criterion of existence in place of truth, „Kohärenz statt Wahrheit“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L17], and a measured parameter (L17, L25).
