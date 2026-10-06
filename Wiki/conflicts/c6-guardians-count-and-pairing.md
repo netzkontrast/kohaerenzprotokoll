@@ -604,3 +604,11 @@ Where it stands: a sixth count beside the record's five and two, in AEGIS's own 
 „AEGIS operiert nicht als monolithische Entität, sondern verfügt über spezialisierte Subsysteme, die Guardians: LogOS, Mnemosyne, Cerberus, Kairos und Sophia.“ ^[kohaerenz-protokoll-plotideen-generierung.md:L129] Sophia: „Überwacht potenziell eine übergeordnete oder integrierende Funktion“ ^[kohaerenz-protokoll-plotideen-generierung.md:L135]. The table is marked „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147]. Silas stands in the list of Kael's Alters: „Der Architekt, Das Echo, Der Wächter, Der Sucher, Der Funke, Limina, Nox, Praetor, Index, Silas“ ^[kohaerenz-protokoll-plotideen-generierung.md:L174].
 
 Stands with five named Guardians in the record's terms, Sophia without a world of her own, hypothetical; recorded, nothing decided.
+
+## 2026-10-06 — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept
+
+**The Überwelt concept describes five Guardians, each a subsystem of AEGIS, and pairs none of them with a world.**
+
+It gives each its own section, in order `LogOS` (L56), `Mnemosyne` (L60), `Cerberus` (L64), `Kairos` (L68) and `Sophia` (L72), and calls the group „spezialisierte Subsysteme“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L54]. Sophia „empfängt und verarbeitet die aggregierten Datenströme aller anderen Guardians“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L74]. The only contact with a world is the name: the administrative centre is „auch Logos-Prime oder Konstrukt-Stadt genannt“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L50], and the concept does not say there that LogOS belongs to it.
+
+Stands on the five-Guardian side by the count of its sections, with no pairing stated; recorded, not applied, and the record's rows are not changed.
