@@ -225,3 +225,11 @@ Position 3's scale (KW1, with Logos-Prime); the record is decided by the author,
 „Kael (Host) erwacht in der Konstrukt-Stadt (KW1), desorientiert und mit Amnesie“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L27]. Kapitel 2 is titled „Echos in der Konstrukt-Stadt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], and there Lex tries to understand „die Regeln von KW1“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28]. KW2 and KW3 are the Resonanz-Landschaft and the Grenzfeste, so the city is one of three numbered worlds here.
 
 Stands with the record's positions 1 and 3 (KW1), dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept writes the Konstrukt-Stadt as KW1 only.**
+
+Its table row reads „KW1: Konstrukt-Stadt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186], and the key place „Kaels Wohneinheit (KW1)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L263] lies „innerhalb der Konstrukt-Stadt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L265]. The other worlds stand beside it as KW2 to KW4, so the city is one of four.
+
+Stands with the record's positions 1 and 3 (KW1), dated 2025-04-18; recorded, not applied.
