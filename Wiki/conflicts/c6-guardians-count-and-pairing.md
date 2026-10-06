@@ -472,3 +472,11 @@ Stands as a third position beside a larger set of guardians, dated 2026-04-30; t
 The outline pairs LogOS with the first world: „Seine Rolle als Wächter und potenzieller Manipulator wird etabliert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L162] Mnemosyne with the second: „Ihre ambivalente Rolle als Hüterin und potenzielle Manipulatorin wird etabliert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L355] Cerberus with the third: „Seine Funktion als Tester und potenzielle Barriere wird etabliert.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L624] It names these three Guardians; it breaks off in Chapter 13.
 
 Stands as a pairing of three Guardians with three worlds, dated 2025-05-03; recorded, the record's rows are not changed.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots plans five Guardians, three of them paired with a Kernwelt, and Kairos and Sophia with none.**
+
+The five stand in Kapitel 16: „Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L47]. The pairing is written in the chapter lines: „LogOS (Guardian KW1)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], „Mnemosyne (Guardian KW2)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L31], „Cerberus (Guardian KW3)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L29]. Kairos and Sophia carry no world label in the concept (a plan, not a canon claim).
+
+Stands as a count of five with three pairings, dated 2025-05-02; recorded, not applied.
