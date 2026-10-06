@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest"]
 gathered: "2026-09-24"
 ---
 
@@ -19,6 +19,10 @@ The earliest read source, and the one that names the metaphor in so many words r
 ## Reading — `charaktere`, 2025-07-29, the character concept — Kael's Cache Kohärenz problem
 
 First answer (L33), in the entry of the part named Kael: a `Cache Kohärenz` problem, a „Problem – die Inkonsistenz seiner Erinnerungen und Überzeugungen“ ^[charaktere.md:L33], that mirrors his struggle to keep up normality.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Kael's own Cache Kohärenz as a hindrance
+
+In Beat 1.2 (Kapitel 3–4) the description speaks of Kael's own „Cache Kohärenz“ ^[finales-kausales-plot-geruest.md:L39], glossed „dissoziative Amnesie“ ^[finales-kausales-plot-geruest.md:L39], which „behindert aktiv sein Verständnis“ ^[finales-kausales-plot-geruest.md:L39].
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Mnemosyne's duty, Moros's failure
 
