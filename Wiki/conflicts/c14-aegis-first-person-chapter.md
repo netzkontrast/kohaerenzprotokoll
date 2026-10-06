@@ -285,3 +285,11 @@ Where it stands: a proposal recorded before the author's decision of 2026-10-05;
 L148: „A story from the first-person perspective of the minimal“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L148] I-fragment of the Nichts Rauschen. L149: „The narrative would consist of its internal logs“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L149], told by a Guardian such as Mnemosyne. Its chapter structure (L114–L132) holds no first-person AEGIS chapter.
 
 Stands as a document that places first-person voices in companion stories, dated 2025-11-03; the conflict is not decided.
+
+## 2026-10-06 — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc
+
+**The 39-part arc has one story told from AEGIS's side, Story 17, a story of an outline and not a chapter.**
+
+Story 17 (AEGIS's Misalignment) is „Told from the perspective of AEGIS“ ^[coherence-protocol-a-39-part-narrative-arc.md:L46], and it ends on „revealing its core paradox: the problem is its solution“ ^[coherence-protocol-a-39-part-narrative-arc.md:L46]. Nothing in the line says first person.
+
+Stands as an outline's AEGIS-perspective story, dated 2025-11-03; the record is decided, and this does not touch it.
