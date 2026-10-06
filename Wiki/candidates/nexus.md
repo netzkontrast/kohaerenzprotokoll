@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung"]
 gathered: "2026-09-17"
 ---
 
@@ -48,6 +48,10 @@ A landmark of KW4 is „der als Interface zur Überwelt oder anderen Ebenen dien
 ## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — profile 25, an Nexus-Knoten as interface to potential in KW4
 
 Profile 25 is a place in KW4 named with `Nexus-Knoten` and „Interface zum Potenzial“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L468]; its level field reads „Interface zum Potenzial - KW4 (Möglichkeits-Garten)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L472]. Its core: „Ein zentraler Punkt oder eine Schnittstelle in KW4, die den direkten Zugriff auf oder die Manipulation des reinen Potenzials ermöglicht“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L473].
+
+## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Nexus once, as a possible world of Sophia
+
+`Nexus` ^[kohaerenz-protokoll-plotideen-generierung.md:#1] stands once, in Sophia's row of the table the document marks „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147]: the world cell reads „(Potenziell) Übergeordnet/Nexus“ ^[kohaerenz-protokoll-plotideen-generierung.md:L156]. The document does not define it further on that line.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — the search for the Nexus, and its place beside AEGIS' Überwelt
 
