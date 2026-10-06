@@ -431,3 +431,11 @@ Stands with Juna first appearing as an absence, dated 2026-04-30; recorded, not 
 „Wenn Kael auf Juna trifft (Kapitel 3)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L84] — a plan's recommendation to the author, written before the canon-era sources of the record and before the author's decision of 2026-10-05.
 
 Stands as an earlier placement, Kapitel 3, outside the two canon-era positions of the record, which it does not change.
+
+## 2026-10-06 — `roman-plot-entwicklung-und-kohaerenz-analyse`, 2026-02-23, the plot synthesis
+
+**The plot synthesis, dated 2026-02-23, plans Juna's contact in Kap 9 and has Juna with Kael and [[aegis|AEGIS]] in Kap 11.**
+
+Kap 9, in KW3 (Cerberus), has Nyx, Kael and Juna in the character column: „Juna riskiert alles für den Kontakt“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L75]. Kap 11, in the Übergangszonen, lists Kael, Juna and AEGIS and says „Die Natur des Moonshine-Links wird offenbart“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L77]. The Prologue row already lists Juna/V among its characters (L66).
+
+Stands as a plan for a first contact in Kap 9, dated 2026-02-23; recorded, not applied, and it does not touch the author's decision of 2026-10-05.
