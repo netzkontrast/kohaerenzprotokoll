@@ -1,10 +1,10 @@
 ---
 term: Ouroboros-Struktur
 status: candidate
-sources: 31
-readings: 30
+sources: 32
+readings: 31
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "duale-storyform-synthese-kohaerenz-protokoll", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung"]
 gathered: "2026-09-25"
 ---
 
@@ -64,6 +64,10 @@ The report's directive (§4.5, F10): „Das kanonische Bild (F10) ist der Geruch
 The outline calls it a marker: the heading of its block reads `Ouroboros-Marker (Kapitel 1 ↔ Kapitel 39)`. In Kap 1 the cold and the ozone mean isolation: „Die absolute Kälte und der beißende Geruch von Ozon symbolisieren hier Kaels radikale Isolation“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L51] The block after Kap 39 gives the same phenomena a changed meaning: „sind exakt diese Phänomene das Produkt der unaufhebbaren, heißen Reibung der Moleküle aneinander“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1200]
 
 The run's first-person reflection in Anhang D mentions the marker twice: „Den Ouroboros-Marker (Ozon/Hitze) schon ab dem Entwurf von Kapitel 1 aggressiver mit der DKT-Physik verknüpfen.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1372] and, writing `Ouroboros-Struktur` once, „Die semantischen Anker der Ouroboros-Struktur noch stärker durch Akt II weben.“ ^[kohaerenz-protokoll-kapitel-outline-erstellung.md:L1396]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — the structure cited against a discarded fusion, and an Ouroboros ending
+
+Appendix B discards the `Universal Re-Connecting` as „widerspricht der K1-Logik der Ouroboros-Struktur aus Kanon-Dok 2“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1574]; the line attributes the structure to Kanon-Dok 2, and the discard is the outline's own claim, recorded and not applied. Kapitel 39 opens „Das Ouroboros-Ende“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1475] and lists `Ouroboros-Schluss`; its morning routine „exakt jener aus Kapitel 1 gleicht“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1479].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -288,6 +292,7 @@ L79; L39).
 **First line or last.** The glossary's third test calls the sentence one written
 consciously as the first line (L625); the storyform outline, in the same test, says Kael
 writes it last (L127).
+- `kohaerenz-protokoll-kapitel-outline-generierung` (2026-04-30, the 39-chapter outline) cites an Ouroboros-Struktur from Kanon-Dok 2 against the Universal Re-Connecting, and closes Kapitel 39 as an Ouroboros ending.
 
 ## Open
 
