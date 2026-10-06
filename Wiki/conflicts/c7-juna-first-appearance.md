@@ -439,3 +439,11 @@ Stands as an earlier placement, Kapitel 3, outside the two canon-era positions o
 Kap 9, in KW3 (Cerberus), has Nyx, Kael and Juna in the character column: „Juna riskiert alles für den Kontakt“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L75]. Kap 11, in the Übergangszonen, lists Kael, Juna and AEGIS and says „Die Natur des Moonshine-Links wird offenbart“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L77]. The Prologue row already lists Juna/V among its characters (L66).
 
 Stands as a plan for a first contact in Kap 9, dated 2026-02-23; recorded, not applied, and it does not touch the author's decision of 2026-10-05.
+
+## 2026-10-06 — `coherence-protocol-a-39-part-narrative-arc`, 2025-11-03, the 39-part arc
+
+**The 39-part arc has Juna first as „a subtle, unexplained wave of emotion“ ^[coherence-protocol-a-39-part-narrative-arc.md:L24] in Story 4, not a meeting.**
+
+Story 4 (The Resonant Intrusion): „Kael experiences his first encounter with Juna“ ^[coherence-protocol-a-39-part-narrative-arc.md:L24], and „This is not a physical meeting but a subtle, unexplained wave of emotion“ ^[coherence-protocol-a-39-part-narrative-arc.md:L24]. The outline numbers stories, not chapters, and gives no Kap for it.
+
+Stands as an outline's first encounter by emotion, dated 2025-11-03; recorded, not applied, and it does not touch the decision of 2026-10-05.
