@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      134
+  typographic marks      66
+  ascii quotes           272
+
+# inflection families -- one term, several surfaces
+  funct    Function, Functional, Functionally, Functions
+  integ    Integrated, Integration, Integrator
+  multi    Multiple, Multiplicity, Multisensory
+  alter    Alter, Alters
+  antei    Anteil, Anteile
+  archi    Archipel, Architecture
+  autop    Autopoiesis, Autopoietic
+  avoid    Avoidant, Avoided
+  class    Classical, Classification
+  confr    Confrontation, Confronting
+  contr    Contradiction, Control
+  defin    Definition, Definitive
+  diale    Dialectic, Dialetheical
+  disor    Disorder, Disorientation
+  disso    Dissociation, Dissociative
+  emerg    Emergence, Emergent
+  emoti    Emotional, Emotionale
+  estra    Estranged, Estrangement
+  exter    External, Externalizing
+  fragm    Fragmentation, Fragmented
+  frame    Framework, Frameworks
+  garde    Garden, Gardener
+  glitc    Glitch, Glitches
+  guard    Guardian, Guardians
+  gödel    Gödel, Gödelian
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Here < Inherent
+  Here < Coherence
+  Hero < Heroine
+  Laws < Flaws
+  Once < Conceptual
+  Part < Parts
+  Seek < Seeks
+  Void < Avoided
+  Void < Avoidant
+  Alter < Alters
+  Gödel < Gödelian
+  LogOS < Logos
+  Logic < Logics
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Epistemological
+  Order < Border
+  Order < Disorder
+  Point < Midpoint
