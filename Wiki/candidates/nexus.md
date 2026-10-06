@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
 gathered: "2026-09-17"
 ---
 
@@ -36,6 +36,10 @@ instances open `Im Überraum…`**. `Nexus` 11 occurrences, `Überraum` 5.
 The pattern is too regular to be accident — a field name in one vocabulary,
 filled in another. **The document never states they are one space.** Kept as two
 pages and cross-referenced rather than merged: J18.
+
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — the search for the Nexus, and its place beside AEGIS' Überwelt
+
+The beat sheet titles its Beat 1.5 (Kapitel 10-12) „Die Suche nach dem Nexus“ ^[finales-kausales-plot-geruest.md:L76] and its Beat 1.6 (Kapitel 13, Plot Point 1) „Eintritt in den Nexus“ ^[finales-kausales-plot-geruest.md:L89]. Of the entry it writes „Dies fällt oft mit dem Eintritt in die instabile Überwelt oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91], so that the Nexus stands beside the Überwelt with an or and a hedge (`oft`). In Kapitel 14-17 (Beat 2.1) Kael is placed „im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108], where the Guardians analyse him. The beat sheet does not say whether the two are one place.
 
 ## Reading — `outline`, 2025-07-30, the outline — the Nexus as the place Kael returns to in Kap 27
 
@@ -69,6 +73,10 @@ Row W-05 is titled „Die Überwelt (Nexus)“ ^[romanprojekt-analyse-kohaerenz-
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — the Nexus as memory store
 Kap 8 plans „Eintritt in den Speicher-Nexus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L124]; Kap 14 is titled `Erwachen im Nexus`.
+
+## Where the sources differ
+
+- The beat sheet writes the Nexus with an or beside the Überwelt: „oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91] at Plot Point 1 and „im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108] at the analysis.
 
 ## Open
 
