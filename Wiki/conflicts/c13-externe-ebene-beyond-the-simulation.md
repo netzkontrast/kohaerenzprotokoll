@@ -182,3 +182,11 @@ Stands as beyond AEGIS's formal system, not named a simulation's outside; record
 It is the report's first closing question to the concept: „Wie genau manifestiert sich die“ ^[romananalyse-kohaerenz-plot-kritik.md:L168] Externe Ebene, „zu der Juna gehört“ ^[romananalyse-kohaerenz-plot-kritik.md:L168]. The alternative it offers: „Welt der Therapeuten, oder eine weitere, übergeordnete Simulationsebene?“ ^[romananalyse-kohaerenz-plot-kritik.md:L168]. The report counts the question among those that „geklärt werden müssen“ ^[romananalyse-kohaerenz-plot-kritik.md:L166] for the plot to be finalised. It names neither Köln nor `Basisrealität`.
 
 Stands on neither side: a question put to the concept in a document of 2026-02-23, recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint writes the Externe Ebene as outside AEGIS's direct control and as an open, hedged riddle, not as a settled outside.**
+
+First pass: the level lies „die außerhalb von AEGIS' direkter Kontrolle liegt“ ^[welt.md:L75] and is tied to Juna/V. The second pass heads its profile „Die Externe Ebene: Das Unbekannte Jenseits der Simulation“ ^[welt.md:L124] and says it „könnte eine andere Form von Realität“ ^[welt.md:L128] represent, or „eine gesunde innere Welt repräsentieren“ ^[welt.md:L128] from before the fragmentation. Its nature is „ein offenes Rätsel“ ^[welt.md:L76], to be settled in the course of the story. Both the other form of reality and the inner world are written with `könnte`.
+
+Stands as a hedged side that holds both an outside and an inner world open; recorded, not applied, and the record's rows are not changed.
