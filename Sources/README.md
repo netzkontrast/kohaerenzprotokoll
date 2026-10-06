@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 159 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 159 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 160 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 160 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -526,7 +526,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Romanarchitektur: Kohärenz Protokoll Finalisierung](drive/romanarchitektur-kohaerenz-protokoll-finalisierung.md) | 2025-07-29 | 5,062 |  | Multiplizität 10, Gödel-Gambit 2, Selene 4, Moonshine-Link 2, Juna 6, Guardians 2, Nyx 3, Kiko 2 | Strange Attractors 6, Yin 4, Lorenz 2, Systemverantwortung 2, LFI 5 |
 | [Als Ihr Narrativer Architekt blicke ich auf das r...](drive/als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md) | 2025-07-30 | 1,419 |  | Rhys 4, Lex 7, Konstrukt-Stadt 2, Kiko 3, Nyx 2, Juna 2, Kael 24, Risse 3 | Akt I 2, KW2 6, Juna/V 8, Cerberus-Labyrinth 2, Riss 4 |
 | [Detaillierte Kapitelübersicht](drive/detaillierte-kapiteluebersicht.md) | 2025-07-30 | 1,295 | **read** | Rhys 3, Konstrukt-Stadt 2, Lex 4, Nyx 3, Juna 2, Kael 23, Risse 2, AEGIS 18 | D2 2, Juna/V 9, Riss 4, KW2 3, Guardian 2 |
-| [Kürze: Rechercheauftrag: Die Architektur der Seel...](drive/kuerze-rechercheauftrag-die-architektur-der-seel.md) | 2025-07-30 | 924 |  | Genesis 2, Multiplizität 2, Kern-Welten 2, Kohärenz 6, AEGIS 13, Kael 3 | Täterintrojekt 2, Fundament 3, Synthese 2, Fragmentierung 2, Kohärenz-Protokoll 2 |
+| [Kürze: Rechercheauftrag: Die Architektur der Seel...](drive/kuerze-rechercheauftrag-die-architektur-der-seel.md) | 2025-07-30 | 924 | **read** | Genesis 2, Multiplizität 2, Kern-Welten 2, Kohärenz 6, AEGIS 13, Kael 3 | Täterintrojekt 2, Fundament 3, Synthese 2, Fragmentierung 2, Kohärenz-Protokoll 2 |
 | [Narrativ](drive/narrativ.md) | 2025-07-30 | 3,947 |  | Kishōtenketsu 2, Realitätsebenen 4, Cache-Kohärenz 2, Multiplizität 5, DID 4, Konstrukt-Stadt 2, Nyx 4, Kern-Welten 8 | Novelcrafter 4, Codex 7, Digitale Überwelt 2, Prompt Engineering 2, Architekten 2 |
 | [Outline](drive/outline.md) | 2025-07-30 | 5,348 | **read** | Externe Ebene 6, Multiplizität 18, Nexus 2, Rhys 5, Lex 18, LogOS 4, Sophia 2, Argus 2 | Heldenreise 26, See der Tränen 2, AEGIS-Paradoxon 7, Der Innere Bunker 2, Katharsis 5 |
 | [Romanidee als interaktiver Prototyp](drive/romanidee-als-interaktiver-prototyp.md) | 2025-08-05 | 5,995 |  | AEGIS' four sub-functions 2, Multiplizität 7, Realitätsebenen 2, Rhys 4, Kiko 9, Lex 12, Nyx 8, Genesis 2 | NCP 18, Kael-System 10, Narrative Context Protocol 5, Ontologischer Exploit 2, ZTEM 2 |
