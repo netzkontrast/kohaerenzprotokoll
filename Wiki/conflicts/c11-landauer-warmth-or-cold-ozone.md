@@ -536,3 +536,11 @@ Stands as a source for the warm side only in what the line says, dated 2025-10-1
 In its sense section it describes: „sterile, recycelte Luft“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L126] with no memory triggers (L126), and its table's olfactory row reads „Geruch nach Ozon und steriler Luft“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L136], the elimination of scent triggers (L136). For the light it prescribes (L122, „sollte“): „kühlen, gleichmäßigen Licht“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L122]. The concept does not name Landauer: `Landauer` ^[digitale-uberwelt-konzept-und-gestaltung.md:#0], and gives no warm trace.
 
 Stands on the cold side as a description of the Überwelt's air and light, from a document that does not name the Landauer trace, dated 2026-03-26; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration
+
+**The master integration states the Landauer strand as heat: every erasure produces warmth, and the city fevers measurably.**
+
+Its foreshadowing table has a row `Landauer`: introduction „Beiläufige Temperaturanomalie“ ^[kohaerenz-protokoll-master-integration-md.md:L312] in Kap. 2–3, detonation „Stadt fiebert messbar“ ^[kohaerenz-protokoll-master-integration-md.md:L312] in Kap. 15–18. The same row says: „Jede Löschung erzeugt Wärme.“ ^[kohaerenz-protokoll-master-integration-md.md:L312] The paradox section has „Jede Löschung heizt die Stadt auf (Landauer).“ ^[kohaerenz-protokoll-master-integration-md.md:L129] The log reads „Landauer-Budget: 94.7% verbraucht“ ^[kohaerenz-protokoll-master-integration-md.md:L351]. The document names no cold ozone and gives other chapters than Kap 6 and Kap 36.
+
+Stands as a further source on the heat side of the record, with chapters 2–3 and 15–18; the record stays open.
