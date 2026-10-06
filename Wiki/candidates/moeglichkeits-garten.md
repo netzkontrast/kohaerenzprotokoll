@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 33
-readings: 33
+sources: 34
+readings: 34
 conflict: C5, C11
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -89,6 +89,10 @@ Teil 2's section IV names `KW4` `Möglichkeits-Garten`: „Diese Welt der Potent
 
 The architecture analysis pairs the name with Kairos-Potentialis: „KW4 (Möglichkeits-Garten/Kairos-Potentialis)“ ^[ai-assisted-narrative-coherence.md:L1728]. The blueprint's heading glosses the same world in English: „KW4: Kairos-Potentialis (The Garden of Potential)“ ^[ai-assisted-narrative-coherence.md:L481]; the critique calls it a `Possibility Garden`.
 
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — row 4 and the Moonshine metaphor
+
+**Proposes.** Row 4 of the table (L73) names Kairos / Sophia as guardians, Exiles & Emergent Parts as category, Echo, Flicker and the Selbst as Alters, and the function „Raum für kreative Emergenz“ ^[plot-analyse-und-romanentwicklung.md:L73]. At L121 the document writes the world `Möglichkeiten-Garten` and calls it `Ly-Welt`: „Nutzen Sie diese Metapher, wenn Kael sich im Möglichkeiten-Garten“ ^[plot-analyse-und-romanentwicklung.md:L121] — the Moonshine metaphor, which is the assistant's applied mathematics. The closing question lists it among the worlds (L160).
+
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the fourth Kernwelt: Ly, creativity, Kairos / Sophia
 
 The Leitfragen report (an analyst's review) lists, as its account of other documents, „Möglichkeits-Garten (Ly)“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95] with „Kreativität, Potenzial, Emergenz“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95], the Guardians „Kairos / Sophia“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95], „Lyons-Gruppe, Quantenschaum“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95] and an open transition, „Gnosis-Durchbruch via Moonshine“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L95]. Elsewhere it writes the world with a slash, „Möglichkeits-Garten / Nexus“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L105], where it speaks of the weaker Guardian profiles; it gives no explanation of the slash.
@@ -112,6 +116,10 @@ Row W-04: „Organischer Garten der Synthese und dialethischen Logik, in dem Sel
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the English name of Core World 4
 
 The manifest writes only the English name: „The fourth Core World is designated as the Garden of Possibilities.“ ^[aegis-persona-and-manifest-generation.md:L105] It is „the system's NP-Search heuristic engine“ ^[aegis-persona-and-manifest-generation.md:L105].
+
+## Where the sources differ
+
+- The plot analysis proposes the Möglichkeits-Garten as the place of Exiles and the Selbst and as the setting of the Moonshine recognition; it writes the name in two forms.
 
 ## Open
 
