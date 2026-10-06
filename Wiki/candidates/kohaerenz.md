@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion"]
 gathered: "2026-09-17"
 ---
 
@@ -36,6 +36,10 @@ other — and neither defined it. A term can be everywhere and mean nothing yet.
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — coherence by integration (M) against coherence by demarcation (AEGIS)
 
 The report sets two kinds of coherence against each other: `Kohärenz durch Abgrenzung` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#2] for AEGIS and `Kohärenz durch Integration` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#3] for M, as in the sentence about the ontological difference: „Kohärenz durch Abgrenzung (AEGIS) und Kohärenz durch Integration (M)“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L71] (L71, cited there from the User Query). The matrix gives M's side: „Natur von M; Kaels Wesen; Kohärenz durch Integration“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L40] The Plotanalyse reads the Jungian shadow as showing that true coherence includes the dark parts: „Es betont, dass wahre Kohärenz (wie die von M) die Einbeziehung“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L95] of all aspects follows on the line.
+
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — AEGIS's aim of coherence, and a conflict of two principles of it
+
+The concept extraction defines coherence in AEGIS's aim: AEGIS maximises „systemischer Kohärenz“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L57], which the line glosses as internal consistency, stability and low informational entropy. In its chapter on the core conflict it opens: „Der fundamentale Konflikt entspinnt sich zwischen zwei gegensätzlichen Prinzipien der Kohärenz:“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L289] — a proposal it goes on to develop, not a ruling.
 
 ## Reading — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative — coherence as inner order, and as what kills the narrator
 
