@@ -1,0 +1,178 @@
+# counts for 137 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Conformity vs. Individuality
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                            172 word   222 in   [11, 39, 48, 49, 50, 53]
+                                   50      as Kaels
+  System Kael                      57 word    59 in   [11, 49, 59, 87, 115, 123]
+  Host                             11 word    12 in   [67, 68, 82, 96, 124, 138]
+                                    1      as Hosts
+  AEGIS                           231 word   255 in   [11, 24, 30, 31, 32, 36]
+                                   11      as AEGIS-Überwelt
+                                    5      as AEGIS-Guardian
+                                    2      as AEGIS-System
+                                    1      as AEGIS-Domänen
+  Autonomous Entropic Gatekeeper for    1 word     1 in   [337]
+  Lex                              50 word    50 in   [18, 68, 72, 79, 81, 82]
+  Alex                             39 word    39 in   [19, 93, 95, 96, 98, 99]
+  Rhys                             46 word    46 in   [20, 86, 87, 107, 109, 110]
+  Argus                            27 word    27 in   [41, 67, 72, 156, 221, 222]
+  Kiko                             10 word    11 in   [110, 137, 142, 143, 151, 198]
+                                    1      as Kikos
+  Nyx                               7 word     7 in   [137, 151, 310, 327, 440, 500]
+  Lia                               2 word     2 in   [137, 310]
+  Isabelle                          2 word     3 in   [310, 444, 495]
+                                    1      as Isabelles
+  Moros                             3 word     3 in   [236, 310, 495]
+  Selene/Selbst                     7 word    13 in   [296, 310, 422, 431, 440, 495]
+                                    6      as Selene/Selbst-Figur
+  Selene                           17 word    17 in   [296, 310, 343, 366, 422, 431]
+  Juna/V                           41 word    41 in   [37, 43, 208, 240, 245, 349]
+  LogOS                            18 word    18 in   [18, 67, 68, 79, 81, 82]
+  Mnemosyne                        12 word    13 in   [22, 123, 126, 135, 137, 138]
+                                    1      as Mnemosynes
+  Cerberus                         19 word    19 in   [25, 177, 179, 180, 182, 183]
+  Kairos                           12 word    12 in   [33, 267, 286, 293, 295, 296]
+  Sophia                           14 word    14 in   [33, 267, 286, 293, 295, 296]
+  Guardians                        19 word    19 in   [67, 165, 171, 267, 268, 271]
+  Guardian                          9 word    33 in   [67, 81, 98, 137, 165, 171]  <-- substring
+                                   19      as Guardians
+  AEGIS-Guardian                    5 word     5 in   [81, 137, 179, 235, 342]
+  Kernwelten                       15 word    15 in   [59, 129, 165, 208, 240, 253]
+  Kernwelt                          8 word    23 in   [59, 67, 87, 123, 129, 165]  <-- substring
+                                   15      as Kernwelten
+  KW1                              24 word    24 in   [67, 68, 71, 72, 73, 81]
+  KW2                              20 word    20 in   [21, 121, 123, 124, 126, 127]
+  KW3                              15 word    15 in   [25, 177, 179, 180, 182, 184]
+  KW4                              11 word    11 in   [33, 245, 293, 295, 296, 300]
+  Konstrukt-Stadt                   4 word     4 in   [18, 75, 78, 81]
+  Resonanz-Landschaft               4 word     4 in   [21, 117, 120, 123]
+  Grenzfeste                        5 word     5 in   [25, 173, 176, 179, 253]
+  Möglichkeits-Garten               1 word     1 in   [295]
+  Potenzial-Garten                  1 word     1 in   [295]
+  AEGIS-Überwelt                   11 word    11 in   [31, 208, 240, 245, 265, 267]
+  Überwelt                          8 word    19 in   [31, 208, 240, 245, 265, 267]  <-- substring
+  Externe Ebene                     9 word     9 in   [37, 245, 349, 354, 357, 365]
+  Fundament                        19 word    24 in   [34, 45, 303, 306, 365, 431]
+                                    5      as fundamentalen
+                                    5      as Fundaments
+                                    1      as fundamentalere
+                                    1      as fundamentales
+  Basisrealität                     1 word     1 in   [365]
+  Entwicklerkonsole                 1 word     1 in   [370]
+  Riss                             15 word    28 in   [27, 201, 204, 207, 208, 210]
+                                    8      as Risse
+                                    3      as Rissen
+                                    2      as Risses
+  Risse                             8 word    13 in   [210, 212, 213, 221, 241, 256]
+                                    3      as Rissen
+                                    2      as Risses
+  Entropie                         28 word    28 in   [40, 84, 169, 207, 210, 253]
+  unkontrollierten Variablen        2 word     2 in   [43, 437]
+  Singularität                     11 word    11 in   [36, 222, 335, 337, 340, 342]
+  Integrität                        8 word     8 in   [36, 245, 331, 334, 337, 343]
+  funktionale Multiplizität         5 word     5 in   [225, 341, 481, 501, 555]
+  funktionaler Multiplizität       10 word    10 in   [47, 55, 199, 241, 245, 329]
+  Ko-Präsenz                        4 word     4 in   [26, 191, 193, 197]
+  Ko-Bewusstsein                    5 word     6 in   [35, 193, 197, 235, 321, 323]
+                                    1      as Ko-Bewusstseins
+  Ko-Bewusstheit                    5 word     5 in   [47, 421, 425, 493, 495]
+  Integrationsfigur                 1 word     1 in   [296]
+  Beschützer-Anteil                 0 word     2 in   [95]
+                                    1      as Beschützer-Anteils
+                                    1      as Beschützer-Anteilen
+  Fürsorge-Anteil                   0 word     1 in   [109]
+                                    1      as Fürsorge-Anteils
+  Kollaps-Anteil                    1 word     1 in   [236]
+  Schutzanteile                     1 word     1 in   [151]
+  Anteile                          44 word    73 in   [26, 70, 82, 87, 95, 96]
+                                   26      as Anteilen
+  TSDP                             11 word    18 in   [23, 59, 70, 95, 109, 149]
+                                    2      as TSDP-Dynamiken
+                                    2      as TSDP-Symptomatik
+                                    1      as TSDP-Symptomen
+                                    1      as TSDP-Systemen
+  ANPs                              6 word     6 in   [109, 138, 151, 310]
+  EPs                              23 word    23 in   [22, 110, 135, 137, 138, 140]
+  Emotional Parts                   1 word     1 in   [137]
+  Apparently Normal Parts           1 word     1 in   [109]
+  Switch                            2 word     7 in   [59, 67, 73, 152, 170, 323]  <-- substring
+                                    5      as Switches
+  Switches                          5 word     5 in   [59, 73, 152, 170, 496]
+  Amnesie                           8 word    11 in   [59, 67, 70, 73, 141, 165]
+                                    2      as Amnesiebarrieren
+                                    1      as Amnesie-Handlung
+  Dissoziation                      2 word     2 in   [67, 140]
+  Phobien                          15 word    15 in   [23, 138, 145, 148, 151, 152]
+  Trauma-Arbeit                     6 word     6 in   [34, 307, 310, 315, 323, 380]
+  Teile und Herrsche                1 word     1 in   [152]
+  Gaslighting                       9 word    11 in   [68, 73, 165, 168, 170, 221]
+                                    1      as Gaslightings
+                                    1      as Gaslighting-Techniken
+  Unreliable Narrator               1 word     1 in   [70]
+  The Sterile Utopia                1 word     1 in   [71]
+  The Logic Police                  1 word     1 in   [84]
+  Maze Runner                       1 word     1 in   [85]
+  The Reluctant Guardian            1 word     1 in   [98]
+  Fight or Flight                   1 word     1 in   [99]
+  The Heart                         1 word     1 in   [112]
+  Mediator                          1 word     1 in   [113]
+  World of Symbolism                1 word     1 in   [126]
+  The Call to Adventure             1 word     1 in   [127]
+  The Haunted Past                  1 word     1 in   [140]
+  Amnesia Plot                      1 word     1 in   [141]
+  Enemy Within                      1 word     1 in   [154]
+  Psychological Horror              1 word     1 in   [155]
+  Conspiracy Thriller               1 word     1 in   [169]
+  The Fortress                      1 word     1 in   [182]
+  Guardian at the Threshold         1 word     1 in   [183]
+  Team Building                     1 word     1 in   [196]
+  Mind Meld                         1 word     1 in   [197]
+  Glitch in the Matrix              1 word     1 in   [210]
+  Portal Fantasy                    1 word     1 in   [211]
+  Philosophical Fiction             1 word     1 in   [224]
+  Identity Crisis                   1 word     1 in   [225]
+  The Climax                        1 word     1 in   [238]
+  Forced Alliance                   1 word     1 in   [239]
+  The Logic Puzzle Box              1 word     1 in   [256]
+  Sentient Environment              1 word     1 in   [257]
+  Cyberspace                        1 word     1 in   [270]
+  Meeting the Gods                  1 word     1 in   [271]
+  The Flawed AI                     1 word     1 in   [284]
+  Hoist by His Own Petard           1 word     1 in   [285]
+  The Garden of Eden                1 word     1 in   [298]
+  The Mentor Figure                 1 word     1 in   [299]
+  Healing Journey                   1 word     1 in   [312]
+  Confronting the Inner Demon       1 word     1 in   [313]
+  Skill Sharing                     1 word     1 in   [327]
+  The Cure is Worse Than the Disease    1 word     1 in   [341]
+  The Ghost in the Machine          1 word     1 in   [354]
+  Forbidden Knowledge               1 word     1 in   [355]
+  Simulated Reality                 1 word     1 in   [368]
+  Existential Horror                1 word     1 in   [369]
+  Cat and Mouse Game                1 word     1 in   [382]
+  The System Fights Back            1 word     1 in   [383]
+  Know Your Enemy                   1 word     1 in   [396]
+  Embrace the Dark Side             1 word     1 in   [397]
+  The Chronicler                    1 word     1 in   [410]
+  Redemption Arc                    1 word     1 in   [411]
+  The Reveal                        1 word     1 in   [424]
+  Level Up                          1 word     1 in   [425]
+  Lovecraftian Encounter            1 word     1 in   [443]
+  First Contact                     1 word     1 in   [456]
+  The Quest                         1 word     1 in   [470]
+  Finding Home                      1 word     1 in   [471]
+  The Empire Strikes Back           1 word     1 in   [484]
+  All-Out War                       1 word     1 in   [485]
+  Showdown                          3 word     3 in   [487, 554]
+  Hacking the Mainframe             1 word     1 in   [555]
+  System Reset                      1 word     1 in   [568]
+  Redeeming the Villain             1 word     1 in   [569]
+  Domino Effect                     1 word     1 in   [540]
+  World Building                    1 word     1 in   [583]
+  Cosmic Horror                     1 word     1 in   [431]
+  Hard Sci-Fi                       1 word     1 in   [245]
+  Gehirn-im-Tank-Gedankenexperiment    1 word     1 in   [365]
+  Schiff des Theseus                1 word     1 in   [221]

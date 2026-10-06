@@ -1,0 +1,153 @@
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Gesamtfokus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gesamtfokus` ^[romanarchitektur-kael-aegis-entropie-docx.md:#3]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Vertiefende Konzepte"
+whole word, case-sensitive     38
+whole word, case-insensitive   38
+including compounds            38
+
+`Vertiefende Konzepte` ^[romanarchitektur-kael-aegis-entropie-docx.md:#38]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Charakter-/Systemdynamik"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`Charakter-/Systemdynamik` ^[romanarchitektur-kael-aegis-entropie-docx.md:#37]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Genre-Tropes & Innovative Interpretation"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`Genre-Tropes & Innovative Interpretation` ^[romanarchitektur-kael-aegis-entropie-docx.md:#37]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Subplot-Andeutungen"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`Subplot-Andeutungen` ^[romanarchitektur-kael-aegis-entropie-docx.md:#37]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Narrative Funktion & Innovative Vermittlung"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`Narrative Funktion & Innovative Vermittlung` ^[romanarchitektur-kael-aegis-entropie-docx.md:#37]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Innovation"
+whole word, case-sensitive     74
+whole word, case-insensitive   74
+including compounds            74
+
+`Innovation` ^[romanarchitektur-kael-aegis-entropie-docx.md:#74]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "möglicherweise"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`möglicherweise` ^[romanarchitektur-kael-aegis-entropie-docx.md:#36]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "vielleicht"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            31
+
+`vielleicht` ^[romanarchitektur-kael-aegis-entropie-docx.md:#31]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Kernthema"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Kernthema` ^[romanarchitektur-kael-aegis-entropie-docx.md:#39]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Kapitel 39"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel 39` ^[romanarchitektur-kael-aegis-entropie-docx.md:#0]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Beschützer-Anteils"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beschützer-Anteils` ^[romanarchitektur-kael-aegis-entropie-docx.md:#1]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Beschützer-Anteilen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beschützer-Anteilen` ^[romanarchitektur-kael-aegis-entropie-docx.md:#1]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Fürsorge-Anteils"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fürsorge-Anteils` ^[romanarchitektur-kael-aegis-entropie-docx.md:#1]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Beschützer-Anteil"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Beschützer-Anteil` ^[romanarchitektur-kael-aegis-entropie-docx.md:#0]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Fürsorge-Anteil"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Fürsorge-Anteil` ^[romanarchitektur-kael-aegis-entropie-docx.md:#0]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Psychologisch"
+whole word, case-sensitive     6
+whole word, case-insensitive   12
+including compounds            7
+
+`Psychologisch` ^[romanarchitektur-kael-aegis-entropie-docx.md:#6]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Selene/Selbst"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            13
+
+`Selene/Selbst` ^[romanarchitektur-kael-aegis-entropie-docx.md:#7]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Selene"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Selene` ^[romanarchitektur-kael-aegis-entropie-docx.md:#17]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Kernwelten"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Kernwelten` ^[romanarchitektur-kael-aegis-entropie-docx.md:#15]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "AEGIS-Überwelt"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`AEGIS-Überwelt` ^[romanarchitektur-kael-aegis-entropie-docx.md:#11]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "ANPs"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`ANPs` ^[romanarchitektur-kael-aegis-entropie-docx.md:#6]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "EPs"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`EPs` ^[romanarchitektur-kael-aegis-entropie-docx.md:#23]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Juna/V"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            41
+
+`Juna/V` ^[romanarchitektur-kael-aegis-entropie-docx.md:#41]
+$ python3 scripts/read.py romanarchitektur-kael-aegis-entropie-docx --count "Externe Ebene"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Externe Ebene` ^[romanarchitektur-kael-aegis-entropie-docx.md:#9]
+
+stance_marker_count = 3+38+37+37+37+37+74 =
+263

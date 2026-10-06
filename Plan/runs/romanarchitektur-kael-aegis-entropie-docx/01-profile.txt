@@ -1,0 +1,14 @@
+# romanarchitektur-kael-aegis-entropie-docx
+  lines                594  (frontmatter ends at 9)
+  body words           16048
+  headings             43   bold-only lines 0
+  table rows           41   code fences 0
+  question marks       69
+  backslash escapes    0
+  typographic marks    45   ascii quotes 246
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    52
+  repeated labels      Archetypische Phase x38, Detaillierte Ausarbeitung x38, Kernthema x38, Teil x38
+  longest line         1170 chars
+

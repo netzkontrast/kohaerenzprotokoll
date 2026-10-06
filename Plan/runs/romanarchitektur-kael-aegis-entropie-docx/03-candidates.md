@@ -1,0 +1,149 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+Read through read.py in ranges; the document is a chapter-by-chapter architecture of a 39-chapter novel in three parts, every chapter in the same template. The chapter titles (the "Archetypische Phase" labels) and the template field labels are not listed: titles of chapters are phrases of the outline, the labels are the template. The export stops inside chapter 38 at L593; chapter 39 has only its table row. Trope names are listed by their English heading only, the German gloss in parentheses is left out.
+
+## figures and places
+
+- Kael
+- System Kael
+- Host
+- AEGIS
+- Autonomous Entropic Gatekeeper for
+- Lex
+- Alex
+- Rhys
+- Argus
+- Kiko
+- Nyx
+- Lia
+- Isabelle
+- Moros
+- Selene/Selbst
+- Selene
+- Juna/V
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Guardians
+- Guardian
+- AEGIS-Guardian
+- Kernwelten
+- Kernwelt
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Potenzial-Garten
+- AEGIS-Überwelt
+- Überwelt
+- Externe Ebene
+- Fundament
+- Basisrealität
+- Entwicklerkonsole
+- Riss
+- Risse
+- Entropie
+- unkontrollierten Variablen
+- Singularität
+- Integrität
+- funktionale Multiplizität
+- funktionaler Multiplizität
+- Ko-Präsenz
+- Ko-Bewusstsein
+- Ko-Bewusstheit
+- Integrationsfigur
+- Beschützer-Anteil
+- Fürsorge-Anteil
+- Kollaps-Anteil
+- Schutzanteile
+- Anteile
+- TSDP
+- ANPs
+- EPs
+- Emotional Parts
+- Apparently Normal Parts
+- Switch
+- Switches
+- Amnesie
+- Dissoziation
+- Phobien
+- Trauma-Arbeit
+- Teile und Herrsche
+- Gaslighting
+
+## lens
+
+- Unreliable Narrator
+- The Sterile Utopia
+- The Logic Police
+- Maze Runner
+- The Reluctant Guardian
+- Fight or Flight
+- The Heart
+- Mediator
+- World of Symbolism
+- The Call to Adventure
+- The Haunted Past
+- Amnesia Plot
+- Enemy Within
+- Psychological Horror
+- Conspiracy Thriller
+- The Fortress
+- Guardian at the Threshold
+- Team Building
+- Mind Meld
+- Glitch in the Matrix
+- Portal Fantasy
+- Philosophical Fiction
+- Identity Crisis
+- The Climax
+- Forced Alliance
+- The Logic Puzzle Box
+- Sentient Environment
+- Cyberspace
+- Meeting the Gods
+- The Flawed AI
+- Hoist by His Own Petard
+- The Garden of Eden
+- The Mentor Figure
+- Healing Journey
+- Confronting the Inner Demon
+- Skill Sharing
+- Conformity vs. Individuality
+- The Cure is Worse Than the Disease
+- The Ghost in the Machine
+- Forbidden Knowledge
+- Simulated Reality
+- Existential Horror
+- Cat and Mouse Game
+- The System Fights Back
+- Know Your Enemy
+- Embrace the Dark Side
+- The Chronicler
+- Redemption Arc
+- The Reveal
+- Level Up
+- Lovecraftian Encounter
+- First Contact
+- The Quest
+- Finding Home
+- The Empire Strikes Back
+- All-Out War
+- Showdown
+- Hacking the Mainframe
+- System Reset
+- Redeeming the Villain
+- Domino Effect
+- World Building
+- Cosmic Horror
+- Hard Sci-Fi
+- Gehirn-im-Tank-Gedankenexperiment
+- Schiff des Theseus
