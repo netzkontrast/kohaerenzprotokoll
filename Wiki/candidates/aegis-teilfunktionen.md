@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 23
-readings: 21
+sources: 24
+readings: 22
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur"]
 gathered: "2026-09-16"
 ---
 
@@ -75,6 +75,10 @@ Zero-Trust appears twice among the protocols that make the Überwelt: its physic
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the Guardian-Interface protocols and the Integrity Guardian
 
 The synthesis describes the Digitale Überwelt's interactions as ruled by „strengen Guardian-Interface-Protokollen“ ^[system-kael-konzeptentwicklung-und-analyse.md:L48] and lists three, each as a rule between the Wächter (the glued `1` marks them as reported from its reference 1): `Zero-Trust Execution Model (ZTEM)` with „Never trust, always verify“ ^[system-kael-konzeptentwicklung-und-analyse.md:L50]; `Behavioral Proof-of-Function (BPoF)`, where „Interaktionen werden nicht durch einfache Anfragen initiiert“ ^[system-kael-konzeptentwicklung-und-analyse.md:L51]; and `Encrypted Intent Channels (EIC)`, where „Die Kommunikation zwischen den Wächtern erfolgt nicht über Sprache“ ^[system-kael-konzeptentwicklung-und-analyse.md:L52] The `Integrity Guardian` is named once, inside the Landauer paragraph: „jede Korrektur durch den Integrity Guardian“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82]
+
+## Reading — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter — the Moonshine link bypasses the Zero-Trust Execution Model and the Encrypted Intent Channels
+
+The letter names the Zero-Trust model once, among what the Kael-Juna link bypasses: „Diese Eigenschaft umgeht AEGIS' Sicherheitsarchitektur, einschließlich des Zero-Trust Execution Model (ZTEM) und der Encrypted Intent Channels (EIC), vollständig“ ^[aegis-logik-und-erzaehlstruktur.md:L189]. It gives no account of the Zero-Trust model itself; the other three sub-functions of the page are not named.
 
 ## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — the Wächter-Konstrukte under the Zero-Trust Execution Model
 
