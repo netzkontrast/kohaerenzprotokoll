@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 27
-readings: 27
+sources: 28
+readings: 28
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "ki-roman-architektur-kohaerenz-und-kollaps"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung"]
 gathered: "2026-09-24"
 ---
 
@@ -54,6 +54,10 @@ Kap 39 is titled „Das Mosaik-Herz“ ^[kohaerenz-protokoll-39-kapitel-matrix.m
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Mosaik-Herz as Juna unmasked in Akt II
 
 The research report (8.2, Akt II) says of Juna that she is „Sie ist kein fehlerhafter Code, sondern das unkomprimierbare“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211] `Mosaik-Herz` of chaos and „der essenzielle Vektor für Heilung“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211]
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — the Mosaik-Herz as Akt III's resolution without fusion
+
+The refactoring plan is an assistant's proposal to the author; it titles Akt III „Refactoring Akt III: Die Fusion und das Mosaik-Herz“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L108], and then declares „Die narrative Auflösung findet nicht in einer“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L126] fusion; the parts „Kaels Anteile (Nyx, Rhys, Lex, Kiko etc.) bleiben distinkt“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L126].
 
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — Mosaik-Herz as the end state of the report's Phase III
 
