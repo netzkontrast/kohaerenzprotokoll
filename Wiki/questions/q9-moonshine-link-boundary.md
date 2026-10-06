@@ -212,3 +212,11 @@ Stands as one more statement on Q9's questions of what crosses and whose it is; 
 The table has „Physics (Moonshine-Link)“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L31] for the RS throughline of A. Kapitel 5 foreshadows Silas as „spätere Bewahrer des Moonshine-Links“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L209], and Kapitel 17 has him activate it on the inside of the psyche.
 
 Stands as the outline's placement of the link in Physics, dated 2026-04-30; recorded, not applied.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview calls the Moonshine-Link a non-local, sub-protocol bond on a different ontological level from AEGIS's reality.**
+
+It says the link is „a non-local, sub-protocol bond“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L108] that „operates on a different ontological level from AEGIS's information-based reality“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L108], and that for AEGIS's sensors it registers only by secondary effects on Kael (L108).
+
+Stands with the link as non-local and outside AEGIS's reality; recorded, not applied, and Q9 stays open.
