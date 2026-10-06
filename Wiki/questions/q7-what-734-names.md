@@ -217,3 +217,13 @@ AEGIS emerged from 734), the author chose the reading of the early outline commi
 Komponente 734“ ^[kontext-outline.md:L26]. **This answers where AEGIS comes from, not what the number labels in
 Kael's world.** Whether Kael's dwelling or designation carries 734, and what Kael's own relation to the component
 is, stays open, and so does the question's status.
+
+## 2026-10-05 — the author: Kael is the part cut out of Komponente 734
+
+Asked how Kael stands to 734, now that AEGIS emerged from it (W12), with three answers (the part the separation
+cut out of 734, the dwelling's number only, open until the Vortex), the author chose the first, the reading of the
+draft text of Kap 40/0: „Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde.“
+^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63] **AEGIS and Kael share one origin: AEGIS emerged
+from 734, Kael is what the separation cut out of it.** What the number labels in Kael's daily world — his dwelling,
+his designation, both — stays open, and so does the question's status for that part.
+

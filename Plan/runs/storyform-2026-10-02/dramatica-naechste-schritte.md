@@ -52,7 +52,9 @@
   - Q8, was nach dem Vortex aus AEGIS wird;
   - W12, ob Genesis und Fragmentierungsnacht ein Ereignis sind.
 
-### 6. Progressions und Events
+### 6. Progressions und Events — **vorbereitet 2026-10-06**: Das Treatment hat 2b-Absätze für Kap 0–39, jeder mit einer
+von `storyform.py` geschriebenen Storypoints-Zeile. Die Events daraus ins NCP zu schreiben, wartet auf deine Freigabe
+der Absätze: Welche Throughline ein Ereignis trägt, ist eine Zuordnung, keine Rechnung.
 - **Was:** 16 Progressions und 64 Events je Throughline, die Feinstruktur unter den Signposts.
 - **Wozu:** Das NCP hat dafür die storybeats `progression` (bis 16) und `event` (bis 64).
 - **Wann:** erst mit dem Treatment, Kapitel für Kapitel. Heute zu füllen hieße, Szenen zu erfinden, die noch nicht

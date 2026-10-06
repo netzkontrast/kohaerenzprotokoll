@@ -196,3 +196,11 @@ Stands as AEGIS' own names for Kael, the outside origin's names held in AEGIS' v
 The line reads: „Juna ist im aktuellen Kanon eindeutig als Teil von Kaels“ ^[romanprojekt-analyse-synthese.md:L90] origin-self and as a „transzendenter Katalysator“ ^[romanprojekt-analyse-synthese.md:L90]; the origin-self stands in the document in quotation marks. The sentence is the synthesis's own report of the current canon. In the contradictions it adds that Juna is „ein transzendenter Teil des ursprünglichen Selbst“ ^[romanprojekt-analyse-synthese.md:L123]. It gives no origin of Kael himself, only Juna's place in it.
 
 Stands with an inside origin for Juna, as a part of Kael's own origin-self, in a synthesis of 2026-04-30; recorded, not applied.
+## 2026-10-05 — a decision on Q7 that bears on this record (not a decision of it)
+
+The author answered Q7: Kael is the part the separation cut out of Komponente 734, from which AEGIS emerged (W12),
+in the words of the draft text of Kap 40/0, „Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde.“
+^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63] That is close to this record's second telling,
+Kael as the remainder of AEGIS's split self. **The record stays open:** whether the external entity M of the first
+telling has any place beside it is the author's to say, and was not asked.
+
