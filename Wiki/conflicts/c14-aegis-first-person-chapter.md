@@ -317,3 +317,11 @@ Where it stands: with the third-person rows of C14; the log is itself a text in 
 Kapitel 2 is headed „AEGIS / Die Digitale Überwelt“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L75]; Kapitel 10 and 22 each carry the perspective line `AEGIS` (L131, L203). Kapitel 40 has „Eine duale Perspektive, die zwischen Kael und AEGIS wechselt“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L283]. The outline is a design of 2025-08-15, and these are planned chapters, not chapters as written.
 
 Where it stands: a plan that gives AEGIS whole chapters of its own without saying `ich` or third person; the record's question, which person, is not touched.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review
+
+**The Bauplan review reports the plan's voice for AEGIS as „objektiv, klinisch, technisch und präzise“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L60], and proposes a controlled language for it; it names no grammatical person.**
+
+L60: „Die im Bauplan vorgeschlagene Erzählstimme für AEGIS“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L60] is the plan's, as the review reports it. The review's own recommendation is „Die Syntax von AEGIS sollte sich an einer kontrollierten natürlichen Sprache“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L60] orient itself, and (L240) the AEGIS sections should stand sharply against Kael's stream of consciousness.
+
+Stands as a document of 2025-07-29 on AEGIS's voice that does not say first or third person; the record's status is unchanged.
