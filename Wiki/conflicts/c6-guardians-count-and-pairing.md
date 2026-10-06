@@ -568,3 +568,11 @@ Stands as this document's claimed pairing, recorded and not applied.
 The closing declaration lists them: „The Guardians—LogOS, Oblivion, Silas, and Isabelle—are commissioned“ ^[aegis-manifest-genesis-krise-reboot.md:L234]. Oblivion and Silas are Hypervisors (L119, L125); Isabelle is a Guardian and „the secondary K1-Kernel Proxy“ ^[aegis-manifest-genesis-krise-reboot.md:L131], and LogOS is „the primary K1-Kernel Proxy“ ^[aegis-manifest-genesis-krise-reboot.md:L113]. The same sentence names the four worlds separately (`Logos-Prime`, `Mnemosyne-Archipel`, `Cerberus-Labyrinth`, `Kairos-Potentialis`, L234), as Kernwelten and not as Guardians. The text speaks as AEGIS.
 
 Stands: a fourth position on the count, four named Guardians; recorded as the manifesto's declaration, decided nothing here.
+
+## 2026-10-06 — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts
+
+**The character concepts propose five Guardians, one per world, with Sophia on the [[ueberwelt|Überwelt]]; Oblivion and Silas appear in it only as alters.**
+
+The section heading names them: „Die Guardians (Systemagenten: LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L148]. The paper's summary of placement: „Jeder Guardian ist fest an eine Kern-Welt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L207] bound (LogOS, Mnemosyne, Cerberus, Kairos), Sophia to the Überwelt (L207). The pairs are given in each profile: „LogOS (Zugeordnet: Konstrukt-Stadt)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L155], „Mnemosyne (Zugeordnet: Resonanz-Landschaft)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L165], „Cerberus (Zugeordnet: Grenzfeste)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L175], „Kairos (Zugeordnet: Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L185], „Sophia (Zugeordnet: Überwelt / Integration?)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L195]. Oblivion and Silas are two of the ten alters here, „Oblivion (Der Gefrorene)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L393] and „Silas (Der Pflegende)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L471], not Guardians.
+
+Stands as one more arrangement of five named Guardians, each with a world or the Überwelt, dated 2025-04-18; recorded, not applied, and the count is the author's.
