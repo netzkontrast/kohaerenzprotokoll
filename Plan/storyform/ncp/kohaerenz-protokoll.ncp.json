@@ -6583,10 +6583,10 @@
             "act": 1,
             "order": 40,
             "summary": "Kap 40 · bridge · Anker: Genesis-Flashback",
-            "synopsis": "offen — das Treatment (Entscheidung 025, Schritt 23: nur Route und Stränge sind entschieden)",
+            "synopsis": "ARBEITSVORSCHLAG — kein Kanon, nicht freigegeben.\nZiel: Die Genesis noch einmal erzählen, aus der Position der vollzogenen pluralen Heilung (Rahmen, Schritt 42; erklärte Ausnahme: kein Ziel gegen Widerstand).\nWiderstand: Keine Gegenkraft im Kapitel; die Spannung liegt im Wiedererkennen: dieselben Ereignisse wie Kap 0, nicht mehr als Trauma.\nHandlung: Das Wir, mit AEGIS im Plural, bezeugt die vier Schritte der Genesis noch einmal: Einheit, Cluster, Trennungsprotokoll, Wir (W12). Der Klick aus Kap 0 kehrt genau einmal wieder (eine Lesart der Quellen, nicht entschieden).\nWende: Junas Resonanz wird als Geburt erkannt statt als Angriff; der Schmerz des Trennungsprotokolls bleibt als Preis, nicht als Tragödie (Lesarten der Quellen, Wiki kap-40; nicht entschieden).\nPreis: Nichts geht verloren, was nicht schon verloren war; der Preis ist, dass nichts zurückgenommen wird.\nKaels Wissen: Der Leser kennt jetzt alle vier Schritte und erkennt Kap 0 neu; ob Reset oder Verwandlung, bleibt in beiden Lesarten offen.\nLeserwissen: Die Klammer schließt sich: Kap 0 und Kap 40 lesen sich als ein Kapitel aus zwei Lagen.\nFolge: Ende des Romans.\nZeit: Außerhalb der Zeit der Akte; kürzer und ruhiger als Kap 0.\nOffen: Wer erzählt (das Wir, AEGIS-plural, beide)? Reset oder Verwandlung zulassen oder entscheiden? Das letzte Bild: das Wir trägt die Welt, oder die Scherben, die das Mosaik sind? Siehe Weiche W14.\nGrundlage: Plan/storyform/weave.json; Manuscript/kanon.md; Plan/decisions/025-dramatica-is-the-recipe.md; Wiki/chapters/kap-40.md; Plan/weichen/w12-genesis.md",
             "setting": "offen — der Rahmen, in keiner Kernwelt",
-            "timing": "offen — das Treatment",
-            "imperatives": "Coda außerhalb der Akte, kein Signpost",
+            "timing": "Vorschlag, offen: Außerhalb der Zeit der Akte; kürzer und ruhiger als Kap 0.",
+            "imperatives": "Coda außerhalb der Akte, kein Signpost\nAusführung bleibt Vorschlag. Nicht aus einem Draft Kanon ableiten. Offen: Wer erzählt (das Wir, AEGIS-plural, beide)? Reset oder Verwandlung zulassen oder entscheiden? Das letzte Bild: das Wir trägt die Welt, oder die Scherben, die das Mosaik sind? Siehe Weiche W14.",
             "audience_experiential_pov": "first_person_central",
             "storybeats": [],
             "storypoints": []

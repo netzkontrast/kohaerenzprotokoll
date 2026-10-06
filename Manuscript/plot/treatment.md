@@ -2,8 +2,7 @@
 
 > **Entwurf einer Claude-Sitzung, 2026-10-05**, auf den Auftrag des Autors „Lets start Treatments“. Das ist Phase 2 des
 > Schreibplans (`Plan/concept/novel-writing-plan_2026-09-29.md`): 2a, das ganze Buch auf einer Seite, und 2b, ein Absatz
-> pro Bewegung. 2b liegt für Kap 0–39 vor (Akt I am 2026-10-05, Akt II bis Vortex am 2026-10-06); Kap 40 steht nur
-> auf der Buchseite.
+> pro Bewegung. 2b liegt für Kap 0–40 vor (Akt I am 2026-10-05, Akt II bis Kap 40 am 2026-10-06).
 >
 > **Kein Kanon.** Ein Akt gilt erst, wenn du ihn freigibst. Bis dahin ist jeder Absatz ein Vorschlag (Entscheidung 025,
 > Schritt 38: kein Entwurf wird Kanon, die Storyform geht vor).
@@ -488,6 +487,15 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 - **Hook-out:** Kap 40, die Genesis noch einmal, geheilt [S42].
 - *Storypoints:* A-MC Problem Inertia, A-MC Solution Change, A-OS Solution Change, B-MC Solution Faith,
   B-IC Solution Faith, B Story Consequence Becoming [D 39].
+
+### Kap 40 — Die Genesis noch einmal
+- Erklärte Ausnahme: Kap 40 ist der Rahmen. Es läuft nicht nach Ziel, Widerstand und Wende, wie Kap 0 [S42, D 40].
+- Das Wir, mit AEGIS im Plural, bezeugt die vier Schritte der Genesis noch einmal: Einheit, Cluster,
+  Trennungsprotokoll, Wir [K W12, D 40].
+- Dieselben Ereignisse wie in Kap 0, nicht mehr als Trauma erzählt. Die Quellen lesen Junas Resonanz hier als Geburt
+  statt als Angriff, den Schmerz als Preis statt als Tragödie; entschieden ist das nicht [D 40].
+- Was offen bleibt: wer erzählt, ob Reset oder Verwandlung lesbar bleiben, und das letzte Bild [D 40, Weiche W14].
+- *Storypoints:* keine [D 40].
 
 ---
 

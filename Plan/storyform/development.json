@@ -1568,6 +1568,27 @@
           "Story Consequence"
         ]
       ]
+    },
+    "40": {
+      "status": "proposal",
+      "sources": [
+        "Plan/storyform/weave.json",
+        "Manuscript/kanon.md",
+        "Plan/decisions/025-dramatica-is-the-recipe.md",
+        "Wiki/chapters/kap-40.md",
+        "Plan/weichen/w12-genesis.md"
+      ],
+      "goal": "Die Genesis noch einmal erzählen, aus der Position der vollzogenen pluralen Heilung (Rahmen, Schritt 42; erklärte Ausnahme: kein Ziel gegen Widerstand).",
+      "opposition": "Keine Gegenkraft im Kapitel; die Spannung liegt im Wiedererkennen: dieselben Ereignisse wie Kap 0, nicht mehr als Trauma.",
+      "action": "Das Wir, mit AEGIS im Plural, bezeugt die vier Schritte der Genesis noch einmal: Einheit, Cluster, Trennungsprotokoll, Wir (W12). Der Klick aus Kap 0 kehrt genau einmal wieder (eine Lesart der Quellen, nicht entschieden).",
+      "turn": "Junas Resonanz wird als Geburt erkannt statt als Angriff; der Schmerz des Trennungsprotokolls bleibt als Preis, nicht als Tragödie (Lesarten der Quellen, Wiki kap-40; nicht entschieden).",
+      "cost": "Nichts geht verloren, was nicht schon verloren war; der Preis ist, dass nichts zurückgenommen wird.",
+      "knowledge": "Der Leser kennt jetzt alle vier Schritte und erkennt Kap 0 neu; ob Reset oder Verwandlung, bleibt in beiden Lesarten offen.",
+      "reader": "Die Klammer schließt sich: Kap 0 und Kap 40 lesen sich als ein Kapitel aus zwei Lagen.",
+      "next": "Ende des Romans.",
+      "timing": "Außerhalb der Zeit der Akte; kürzer und ruhiger als Kap 0.",
+      "open": "Wer erzählt (das Wir, AEGIS-plural, beide)? Reset oder Verwandlung zulassen oder entscheiden? Das letzte Bild: das Wir trägt die Welt, oder die Scherben, die das Mosaik sind? Siehe Weiche W14.",
+      "storypoints": []
     }
   }
 }
