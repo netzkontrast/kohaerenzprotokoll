@@ -612,3 +612,11 @@ Stands with five named Guardians in the record's terms, Sophia without a world o
 It gives each its own section, in order `LogOS` (L56), `Mnemosyne` (L60), `Cerberus` (L64), `Kairos` (L68) and `Sophia` (L72), and calls the group „spezialisierte Subsysteme“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L54]. Sophia „empfängt und verarbeitet die aggregierten Datenströme aller anderen Guardians“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L74]. The only contact with a world is the name: the administrative centre is „auch Logos-Prime oder Konstrukt-Stadt genannt“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L50], and the concept does not say there that LogOS belongs to it.
 
 Stands on the five-Guardian side by the count of its sections, with no pairing stated; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction
+
+**Five Guardians, four worlds, each pair given in one line, Sophia with a question mark; Silas an Alter, not a Guardian.**
+
+The concept extraction lists five: „Jeder Guardian ist für die Überwachung und Steuerung einer spezifischen Kernwelt zuständig“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L257] It pairs them in one list: „LogOS (Konstrukt-Stadt - Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L265], „Mnemosyne (Resonanz-Nebel - Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L266], „Cerberus (Schattenlabyrinth - Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L267], „Kairos (Möglichkeitsstrom - Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L268] and „Sophia (Nexus/Übergreifende Weisheit?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L269]. Four worlds are named (L241) for five Guardians; the document does not say that Kairos and Sophia share one. `Silas` stands once as one of ten Alters (L233), not among the Guardians.
+
+Stands as a fifth position on the count and pairing, a proposal with hedges; it decides nothing in C6.
