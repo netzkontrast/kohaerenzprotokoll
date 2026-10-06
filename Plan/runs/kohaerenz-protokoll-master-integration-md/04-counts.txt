@@ -1,0 +1,155 @@
+# counts for 130 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Protokoll-Ontologie               1 word     1 in   [23]
+  Dual-Kernel-Substrat              1 word     1 in   [29]
+  DKT                               2 word    20 in   [13, 15, 29, 147, 160, 172]  <-- substring
+  K₁                                7 word    21 in   [31, 34, 45, 48, 52, 61]  <-- substring
+  K₀                                8 word    22 in   [39, 45, 48, 59, 75, 84]  <-- substring
+  Kohärenz-Kernel                   1 word     1 in   [31]
+  Kollaps-Kernel                    1 word     1 in   [39]
+  Grenzfläche                       4 word     5 in   [47, 48, 90, 284]
+  Coherons                          4 word     4 in   [50, 52, 245, 277]
+  Coheron                           0 word    15 in   [33, 50, 52, 56, 82, 84]  <-- substring
+                                    4      as Coherons
+                                    2      as Coheron-Netzwerke
+                                    2      as Coheron-Netzwerks
+                                    2      as Coheron-Inseln
+  Erasonen                          3 word     3 in   [50, 59, 277]
+  Erason                            1 word    11 in   [50, 59, 62, 84, 205, 231]  <-- substring
+                                    3      as Erasonen
+                                    2      as Erason-Inversion
+                                    1      as Erason-Aktivität
+                                    1      as Erason-Löschung
+  Coheron-Netzwerke                 2 word     2 in   [33, 56]
+  Coheron-Netzwerk                  1 word     5 in   [33, 56, 84, 259, 306]  <-- substring
+                                    2      as Coheron-Netzwerke
+                                    2      as Coheron-Netzwerks
+  Coheron-Inseln                    2 word     2 in   [160, 164]
+  Corrective Wavelets               1 word     1 in   [55]
+  Tags of Erasure                   1 word     1 in   [61]
+  Allen Orbital Lattice             1 word     1 in   [57]
+  PFT                               1 word     1 in   [57]
+  Persistenzgleichung               5 word     5 in   [64, 148, 253, 277, 284]
+  Persistenz-Score                  1 word     1 in   [72]
+  Phase Alignment Lock              1 word     1 in   [82]
+  PAL                               5 word     7 in   [82, 151, 162, 223, 344]
+  Phase-Alignment-Bruch             1 word     1 in   [162]
+  Witness Function                  2 word     2 in   [90, 191]
+  Zeugenfunktion                    4 word     4 in   [90, 191, 271, 314]
+  Dunkle Materie                    3 word     3 in   [88, 400, 401]
+  Fundament                         4 word     4 in   [13, 131, 382]
+                                    2      as fundamentale
+                                    1      as fundamentaler
+  Das Fundament                     2 word     2 in   [131, 382]
+  AEGIS                            44 word    46 in   [78, 82, 109, 117, 118, 121]
+                                    1      as AEGIS-Log-Physik
+                                    1      as AEGIS-Genesis
+  Kael                             24 word    38 in   [112, 120, 121, 125, 127, 145]
+                                   14      as Kaels
+  Juna                              9 word    10 in   [145, 193, 203, 205, 272, 350]
+                                    1      as Juna-Entscheidung
+  Juna/V                            2 word     3 in   [145, 193, 381]
+                                    1      as Juna/V-Vorläufer
+  Nichts-Rauschen                   1 word     2 in   [141, 337]
+                                    1      as Nichts-Rauschens
+  Potentialmeer                     1 word     1 in   [141]
+  Ur-Entropie                       1 word     1 in   [141]
+  Operational Closure               1 word     1 in   [141]
+  Primal Directive                  1 word     1 in   [143]
+  Primal-Trauma                     1 word     1 in   [141]
+  Genesis-Krise                     2 word     2 in   [145, 160]
+  Trennungsprotokolls               1 word     1 in   [145]
+  Komponente 734                    1 word     1 in   [145]
+  Component 734                     1 word     1 in   [409]
+  Ursprungs-Ich                     1 word     2 in   [145, 196]
+                                    1      as Ursprungs-Ichs
+  Ursprungstrauma                   3 word     3 in   [160, 191, 394]
+  CSI                               4 word     4 in   [150, 215, 313, 345]
+  Collapse Susceptibility Index     1 word     1 in   [150]
+  Algorithmische Melancholie        3 word     3 in   [154, 288, 298]
+  Algorithmischer Horror            1 word     1 in   [332]
+  System Kael                       1 word     1 in   [156]
+  TSDP                              2 word     2 in   [158, 369]
+  ANPs                              2 word     2 in   [158, 170]
+  EPs                               4 word     4 in   [158, 174, 181, 229]
+  Apparently Normal Parts           1 word     1 in   [170]
+  Emotional Parts                   1 word     1 in   [181]
+  Alter-Liste                       2 word     2 in   [168, 388]
+  Lex                               4 word     4 in   [175, 222, 328, 330]
+  Alex                              1 word     1 in   [176]
+  Rhys/Elara                        2 word     2 in   [177, 389]
+  Rhys                              2 word     2 in   [177, 389]
+  Elara                             3 word     3 in   [177, 243, 389]
+  Aris                              2 word     2 in   [178, 389]
+  Mina/Selene                       2 word     2 in   [179, 389]
+  Mina                              2 word     2 in   [179, 389]
+  Selene                            3 word     3 in   [179, 243, 389]
+  Nyx                               4 word     4 in   [185, 236, 328, 330]
+  Kiko                              3 word     3 in   [186, 328, 330]
+  Lia/Lyra                          1 word     1 in   [187]
+  Lia                               2 word     2 in   [187, 389]
+  Lyra                              2 word     2 in   [187, 389]
+  Isabelle                          1 word     1 in   [188]
+  Moros                             2 word     2 in   [189, 401]
+  Funktionelle Multiplizität        3 word     3 in   [285, 295, 375]
+  Dialetheic Mind                   1 word     1 in   [166]
+  Healed State                      1 word     1 in   [166]
+  Living Gödel-Satz                 3 word     3 in   [125, 166, 295]
+  Gödel-Gambit                      3 word     3 in   [286, 292, 313]
+  Perverse Learning Loop            1 word     1 in   [279]
+  Moonshine-Link                    2 word     2 in   [197, 300]
+  Option B                          2 word     2 in   [203, 392]
+  Option C                          1 word     1 in   [205]
+  Erason-Inversion                  2 word     2 in   [205, 392]
+  Thermodynamic Graph Field         1 word     1 in   [213]
+  TGF                               1 word     1 in   [213]
+  Kernwelten                        4 word     4 in   [217, 219, 260, 315]
+  KW1                               1 word     1 in   [221]
+  KW2                               1 word     1 in   [228]
+  KW3                               1 word     1 in   [235]
+  KW4                               1 word     1 in   [242]
+  Logos-Prime                       1 word     1 in   [221]
+  Mnemosyne-Archipel                1 word     1 in   [228]
+  Cerberus-Labyrinth                1 word     1 in   [235]
+  Kairos-Potentialis                1 word     1 in   [242]
+  Archiv Theta-9                    1 word     1 in   [249]
+  Theta-9                           2 word     2 in   [249, 316]
+  Risse                             6 word     6 in   [129, 255, 257, 360, 373]
+  Erason-Kaskade                    1 word     1 in   [259]
+  Landauer-Budget                   1 word     1 in   [351]
+  AEGIS-Log-Physik                  1 word     1 in   [339]
+  Foreshadowing-Architektur         1 word     1 in   [308]
+  Paradoxon der Fehlausgerichteten Kohärenz    2 word     2 in   [129, 280]
+  Exclusionary Order                1 word     1 in   [110]
+  Gravitationsermüdung              1 word     1 in   [397]
+  Short-Story-Mosaik                1 word     1 in   [408]
+  The Guardian's Blind Spot         1 word     1 in   [409]
+  Guardians                         1 word     1 in   [336]
+  Paraîyas                          1 word     1 in   [405]
+  Polyphonische Prosa               1 word     1 in   [322]
+  Choric                            1 word     1 in   [327]
+  Dasein/Witness                    1 word     1 in   [314]
+  Geworfenheit                      1 word     1 in   [314]
+  Kohärenztheorie der Wahrheit      1 word     1 in   [109]
+  Korrespondenztheorie der Wahrheit    1 word     1 in   [112]
+  Principle of Explosion            1 word     1 in   [118]
+  Parakonsistente Logik             1 word     1 in   [120]
+  Dialetheismus                     1 word     1 in   [120]
+  Gödels Unvollständigkeit          1 word     1 in   [125]
+  Hard Problem of Consciousness     1 word     1 in   [127]
+  Strange Attractor                 1 word     1 in   [133]
+  Theseus-Paradox                   1 word     1 in   [27]
+  Euler'sche Identität              1 word     1 in   [92]
+  Landauer                          2 word     3 in   [129, 312, 351]
+                                    1      as Landauer-Budget
+  Bekenstein-Bound                  1 word     1 in   [315]
+  Monstrous Moonshine               1 word     1 in   [302]
+  Whitehead'sche Prehension         2 word     2 in   [197, 303]
+  Perpetrator Introject             1 word     1 in   [152]
+  IFS-Prozess                       1 word     1 in   [370]
+  MC Resolve                        1 word     1 in   [369]
+  Story Limit                       1 word     1 in   [374]
+  Optionlock                        1 word     1 in   [374]

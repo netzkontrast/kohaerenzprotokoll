@@ -1,0 +1,460 @@
+{
+  "document": "kohaerenz-protokoll-master-integration-md",
+  "drive_id": "1YDYuTblPZjLMelZwD_O0nlzfku2wQ9Bg",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 129,
+    "decisions": 141,
+    "decided_by_lookup": 98,
+    "needs_judgement": 43
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        215,
+        237
+      ],
+      "attribution": "",
+      "note": "AEGIS manages the city's CSI and triage; KW3 physics names Zero-Trust"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        78,
+        109,
+        117,
+        129,
+        139,
+        141,
+        148,
+        149,
+        150,
+        219,
+        288
+      ],
+      "attribution": "",
+      "note": "AEGIS as tragic god, engineered buffer and holder of the coherence theory of truth"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        176
+      ],
+      "attribution": "",
+      "note": "the protector ANP"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        154,
+        288,
+        298
+      ],
+      "attribution": "",
+      "note": "AEGIS's fate: not destruction, a looping analysis"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        168,
+        388,
+        389
+      ],
+      "attribution": "",
+      "note": "an alter list it labels canonical, and its own note of divergence"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        33,
+        52,
+        53,
+        56,
+        82,
+        203,
+        245
+      ],
+      "attribution": "",
+      "note": "Coherons as K1 units, self-correcting loops of mutual information"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        29,
+        48,
+        245,
+        249,
+        306,
+        413
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel-Substrat as natural law, with the document's own additions"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        245
+      ],
+      "attribution": "",
+      "note": "emergence in Kernwelt 4"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        39,
+        141,
+        151,
+        279
+      ],
+      "attribution": "",
+      "note": "K0 as principle of entropy, Ur-Entropie and AEGIS's entropy management"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        60,
+        62,
+        205,
+        231,
+        259
+      ],
+      "attribution": "",
+      "note": "Erasonen as elementary erasure events and the arrow of time"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        141,
+        145
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis in the Nichts-Rauschen and the Genesis-Krise"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        292,
+        294,
+        297,
+        298
+      ],
+      "attribution": "",
+      "note": "the climax mechanic in five steps"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        336
+      ],
+      "attribution": "",
+      "note": "Guardians in behavioural loops"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        188
+      ],
+      "attribution": "",
+      "note": "the EP of sexualisation"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        145,
+        193,
+        199,
+        203,
+        205,
+        207,
+        272
+      ],
+      "attribution": "",
+      "note": "the anomaly, a catalyst held in superposition"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        112,
+        113,
+        120,
+        156,
+        158,
+        164,
+        166,
+        273,
+        280,
+        284,
+        290
+      ],
+      "attribution": "",
+      "note": "his truth theory, his logic, his system and his Act III choice"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        217,
+        219,
+        249
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as externalised psychological states, four worlds and Archiv Theta-9"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        186,
+        330
+      ],
+      "attribution": "",
+      "note": "the child EP"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        31,
+        37
+      ],
+      "attribution": "",
+      "note": "K1 as principle of order"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        109,
+        129,
+        280
+      ],
+      "attribution": "",
+      "note": "coherence as AEGIS's theory of truth and the paradox of misaligned coherence"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        39,
+        45
+      ],
+      "attribution": "",
+      "note": "K0 as principle of entropy, not an enemy but a correspondence check"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        145,
+        409
+      ],
+      "attribution": "",
+      "note": "the name for AEGIS's fragmented origin-self"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        175,
+        330
+      ],
+      "attribution": "",
+      "note": "the rationalist ANP"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        187
+      ],
+      "attribution": "",
+      "note": "Lia/Lyra, the ambivalent child"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        197,
+        300,
+        303,
+        305,
+        306
+      ],
+      "attribution": "",
+      "note": "a non-local link, and the document's delivery-system section"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        189,
+        401
+      ],
+      "attribution": "",
+      "note": "the collapse EP, and Moros as dark matter in an open question"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        164,
+        285,
+        295
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as integration, reached in Act III"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        141,
+        337
+      ],
+      "attribution": "",
+      "note": "the Nichts-Rauschen as active primal entropy and its sensory signature"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        185,
+        236,
+        330
+      ],
+      "attribution": "",
+      "note": "the fighter EP"
+    },
+    {
+      "page": "persistenzgleichung",
+      "lines": [
+        64,
+        72,
+        78,
+        284,
+        354
+      ],
+      "attribution": "",
+      "note": "the equation, AEGIS computing it, Kael's decision, and the log's last line"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        141
+      ],
+      "attribution": "",
+      "note": "Potentialmeer as a gloss of the Nichts-Rauschen"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        177
+      ],
+      "attribution": "",
+      "note": "Rhys/Elara, the caregiver ANP"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        129,
+        257,
+        259,
+        260
+      ],
+      "attribution": "",
+      "note": "Risse as K0 breakthroughs and Erason cascades"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        179,
+        243
+      ],
+      "attribution": "",
+      "note": "Mina/Selene, the integrator, and the garden"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        158,
+        369
+      ],
+      "attribution": "",
+      "note": "the clinical frame and the Dramatica setting"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C11"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 237,
+      "decision": "reading",
+      "why": "KW3's Zero-Trust threat detection, read on aegis-teilfunktionen"
+    },
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 389,
+      "decision": "reading",
+      "why": "the sources' divergence on 11 vs. 13 alters, read on alters"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 245,
+      "decision": "reading",
+      "why": "KW4's signature Emergenz statt Erhaltung, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 39,
+      "decision": "reading",
+      "why": "K₀ as the principle of entropy, read on entropie"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 141,
+      "decision": "reading",
+      "why": "AEGIS's Genesis in the Nichts-Rauschen, read on genesis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 129,
+      "decision": "reading",
+      "why": "the Paradoxon der Fehlausgerichteten Kohärenz, read on kohaerenz"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 164,
+      "decision": "reading",
+      "why": "integration as funktionelle Multiplizität, read on multiplizitaet"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
