@@ -197,3 +197,11 @@ Stands as a use of the name Überwelt for the meta-analysis stage, dated 2025-05
 „Der Übergang in die Überwelt (den Nexus)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L88] — it writes the entry to Akt II so, without relating either to the Überraum.
 
 Stands as one more document that writes the Nexus and the Überwelt as the same place; the question stays open.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept puts a Nexus-Interface inside the fourth world and the Überwelt as the control layer; it does not write Überraum, and does not relate the two.**
+
+The Nexus is a place of KW4: „Die Nexus-Schnittstelle (ein zentraler Ort des Zugangs zu Wissen/Verbindungen)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L233], and a key location „Nexus-Interface Garten (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L296], „Ein spezifischer Ort innerhalb des Möglichkeits-Gartens (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L298], which may allow a link to „anderen Kern-Welten oder der Überwelt“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L298]. The Überwelt is „Die Kontrollschicht des Systems, die Domäne von AEGIS und den Guardians“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L239], and a hub of Cerberus carries the name „Cerberus' Firewall-Nexus“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L244]. The word `Überraum` ^[lokalitaeten-konzept-fuer-roman-simulation.md:#0] does not stand in it, a count and not an inference.
+
+Stands as the Nexus placed in KW4 and the Überwelt as the control layer; recorded, the question stays open.
