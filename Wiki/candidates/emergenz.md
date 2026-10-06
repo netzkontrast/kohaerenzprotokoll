@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 32
-readings: 32
+sources: 33
+readings: 33
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "roman-outline-fuer-kohaerenz-protokoll"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "roman-outline-fuer-kohaerenz-protokoll", "roman-refactoring-kohaerenz-und-charakterentwicklung"]
 gathered: "2026-09-16"
 ---
 
@@ -120,6 +120,10 @@ In Teil III the report has Kael accept entropy-noise as a necessary source: „d
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Emergenz in section 2.1 and section 9
 
 The research report (2.1) places `Emergenz` in the Kollaps-Kernel: „Er ist der Ort der Emergenz, der echten Zeitlichkeit und der evolutionären Neuheit.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L31] Section 9 is headed `Synthese: Emergenz und die Metaphysik der Integration`; in 7.1 the solution is „Die Lösung ist die Akzeptanz von emergenter Komplexität und parakonsistenter Logik.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L145]
+
+## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — time as an emergent phenomenon, the Page-Wootters mechanism
+
+The refactoring plan is an assistant's proposal to the author; it reports of the Page-Wootters mechanism that „Dieser Mechanismus postuliert, dass Zeit ein rein emergentes Phänomen ist“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L116], and applies it to Kael: „Die Zeit in Kaels Erlebniswelt entsteht erst durch den sogenannten Page-Wootters-Mechanismus“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L116]. The mechanism is a reference, with footnotes; the application is the plan's proposal.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — emergence as a kernel's precondition, and as the manifesto's negation
 
