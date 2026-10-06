@@ -632,3 +632,11 @@ For the parts it writes in Kapitel 1 of Kael as „Kael (Host)“ ^[romanarchite
 For the worlds the Gesamtfokus of Teil 1 says „Die Kernwelten werden als Spiegel der inneren Psyche und gleichzeitig als Domänen von AEGIS eingeführt“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L59], and the chapters number KW1 to KW4: Konstrukt-Stadt (Kapitel 2), Resonanz-Landschaft (Kapitel 5), Grenzfeste (Kapitel 9), Möglichkeits-Garten (Kapitel 17). The plan pairs worlds with Guardians (LogOS, Mnemosyne with a question mark, Cerberus, Kairos und/oder Sophia), not with parts.
 
 Stands: the plan's roster is ten named parts plus the emerging Selene/Selbst figure, and four worlds; it states neither that four is all, nor a correspondence of world to part, so the question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper
+
+**The truth-duality paper's Table 1 lists the host Kael and nine named parts, five ANPs and four EPs, and writes four Kernwelten; it does not set a world against a part.**
+
+Its table (L63–L72) names, beside the host, the ANPs Lex, Alex, Rhys, Argus and Selene, whose type it marks „ANP (Integrator?)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L72], and the EPs Kiko, Lia, Moros and Nyx. Of the worlds it writes: „Die vier Kernwelten (KWs)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L235], each tied to a truth position and an act, not to a part. In Act 2, Kael is „ANPs wie dem logischen Lex und dem fürsorglichen Rhys“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L205] meeting the EPs.
+
+Stands: a table of 2025-11-18 with named parts and four Kernwelten, which predates the author's answers (thirteen alters; four Kern-Welten) and changes neither; the correspondence of worlds and parts stays open.
