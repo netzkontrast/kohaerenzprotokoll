@@ -198,3 +198,11 @@ Stands as a hedged side that holds both an outside and an inner world open; reco
 Section 3.2 (L468–L470) opens „Beyond the Kernwelten lie more abstract and fundamental layers of existence“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470], and calls the Externe Ebene „a mysterious reality that exists beyond AEGIS's direct control“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470], „intrinsically linked to the entity known as Juna/V“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L470].
 
 Stands as a side that places the level beyond AEGIS's control and beyond the Kernwelten, without the record's terms; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline
+
+**The detailed outline plans the Riss as first door to the Externe Ebene.**
+
+Chapter 11 plans: „Der Riss ist das erste konkrete Tor oder der erste Hinweis auf diese Ebene.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L790] with Juna/V: „Der Riss ist der erste klare Hinweis auf die Existenz und den Einfluss von Juna/V oder der externen Ebene.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L760] and as „Etabliert als zentrales Symbol für Systeminstabilität und die Verbindung zur Außenwelt/Juna/V.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L788]
+
+Stands on the side of an outside reached through the Riss; the outline hedges (`Tor oder Hinweis`), and the record's rows are not changed.
