@@ -628,3 +628,11 @@ Stands as a fifth position on the count and pairing, a proposal with hedges; it 
 L126: „Beschützer-Anteilen wie Cerberus und Alex“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L126] — Cerberus beside Alex, as a protector part. L241: „archetypischen Figuren wie Echo oder Sophia“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L241] — Sophia beside Echo, as an archetypal figure among Kael's inner parts. It does not use the word Guardian for either.
 
 Stands as a document of 2025-07-29 that gives the two names as inner parts, outside the record's count and pairing of Guardians; the conflict is not decided.
+
+## 2026-10-06 — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide
+
+**The learner's guide's appendix pairs four named guardians with the four worlds and names no fifth.**
+
+The entity appendix lists `LogOS` as „Guardian KW“ ^[deconstructing-reality-s-architecture.md:L312], `Mnemosyne` as „Guardian KW“ ^[deconstructing-reality-s-architecture.md:L313], `Cerberus` as „Guardian KW“ ^[deconstructing-reality-s-architecture.md:L314] and `Kairos` as „Guardian KW“ ^[deconstructing-reality-s-architecture.md:L315]; the export dropped the digits, and the pairing follows the table's order (KW1 to KW4).
+
+Stands as a four-guardian, one-per-world arrangement in the guide's report; recorded, not applied, and no relation to the count in the record is decided here.
