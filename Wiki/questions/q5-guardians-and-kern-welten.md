@@ -481,3 +481,11 @@ Stands: five Guardians over four worlds, the second by a question and the fourth
 It writes „Die vier Kernwelten (KWs)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L235] and lists them: KW1 `Logos-Prime`, Wächter LogOS, Act 1; KW2 `Mnemosyne-Archipel`, Wächter Mnemosyne, Act 2; KW3 `Grenzfeste`, Wächter Cerberus, Act 2; KW4 `Möglichkeits-Garten`, Wächter Kairos/Sophia, Act 3 (preparation). The pair for KW4 reads „(Kreativität, Integration).“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L240] and then the two names, joined by a slash. The world of KW3 is „gegen die Wahrheit (Phobien, Paranoia).“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L239] defence. The paper reports the worlds from another document (a glued reference digit) and does not mention an Erasure-Pol.
 
 Stands: a proposal of 2025-11-18 with four world-Wächter pairs and Kairos/Sophia sharing KW4, using the world names `Logos-Prime`, `Mnemosyne-Archipel`, `Grenzfeste` and `Möglichkeits-Garten`; it predates the author's answers and changes neither the record nor the question.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan
+
+**The system plan pairs one Guardian label with each of four worlds, KW4's label naming Kairos and Sophia together.**
+
+It gives KW1 „LogOS (Architekt)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L263], KW2 the name Mnemosyne (L274), KW3 the name Cerberus (L284) and KW4 „Kairos/Sophia (Sucher)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L295]. The table repeats them under the column „Guardian“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L309], with „Kairos/Sophia“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L313] as one cell. The recommendation on L380 speaks of „der jeweiligen Wächter-KIs“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L380].
+
+Stands as another position on the pairing: four worlds, four Guardian labels, the fourth shared by two names.
