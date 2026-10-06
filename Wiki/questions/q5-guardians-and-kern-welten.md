@@ -505,3 +505,11 @@ Stands on the side of one Guardian per world for the three worlds the outline re
 Pairing: „LogOS (Guardian KW1)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L28], „Mnemosyne (Guardian KW2)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L31], „Cerberus (Guardian KW3)“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L29]. Placement, in Kapitel 15: „Die Guardians werden in ihren Domänen in der Überwelt verortet“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L46].
 
 Stands as the pairing of three Guardians to three Kernwelten with the domains set in the Überwelt, dated 2025-05-02; recorded, not applied.
+
+## 2026-10-06 — `plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve`, 2025-05-02, the subplot plan
+
+**The subplot plan pairs each of four worlds with a Guardian and lets Kairos & Sophia share KW4; it names no Erasure-Pol.**
+
+The plan writes the pairing across its fourth arc: „Einführung von LogOS (KW1) und Cerberus (KW3) als Agenten von AEGIS' Kontrolle und Abwehr“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L123], „Einführung von Mnemosyne (KW2) und Konfrontation mit ihrer Rolle bei der Verwaltung von Erinnerungen/Emotionen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L124] and „Einführung von Kairos & Sophia (KW4) und Interaktion mit ihrer Rolle bei der Steuerung von Potenzial“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134]. On pacing it names the worlds by tempo: „von der Rigidität KW1 zur Fluidität KW2, zur Beklemmung KW3, zum Potenzial KW4“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L197].
+
+Stands on the side of four pairs with a shared KW4 as a plan, not a canon claim; the question stays open.
