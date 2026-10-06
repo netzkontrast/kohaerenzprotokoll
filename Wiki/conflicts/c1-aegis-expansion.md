@@ -156,3 +156,11 @@ Position 1's word, not its expansion; the conflict stays open.
 Its line also reports the self-definition „AEGIS ist, was AEGIS verhindert, dass es nicht ist“ ^[plot-analyse-und-romanentwicklung.md:L23], marked with the same reference. The plot analysis is advice to the author and gives the expansion in passing, as the author's own draft.
 
 Stands as position 1 again, reported and not weighed; recorded, not applied, and the record is not changed.
+
+## 2026-10-06 — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report
+
+**The publisher's report gives the expansion „Autonomous Entropic Gatekeeper for Integrity Systems“ ^[romananalyse-kohaerenz-plot-kritik.md:L17], in a report of 2026-02-23 that carries its reference 1.**
+
+The report writes the acronym as AEGIS's name, calls it the Kontrollinstanz, and ends the sentence with reference 1, a summary of the manuscript and its concept documents rather than a statement of its own: it „verkörpert den ultimativen, reduktionistischen Versuch“ ^[romananalyse-kohaerenz-plot-kritik.md:L17] to stabilise a traumatised system.
+
+Stands on position 1's side, as an account of other documents; recorded, not applied, and the record's rows are not changed.
