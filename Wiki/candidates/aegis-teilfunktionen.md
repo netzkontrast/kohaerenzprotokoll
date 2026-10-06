@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 15
-readings: 13
+sources: 16
+readings: 14
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation"]
 gathered: "2026-09-16"
 ---
 
@@ -59,6 +59,10 @@ System*, *System Integrity Service*, *Simulated Identity Substrate*. **All three
 are guesses and are recorded as guesses**, so that a real expansion can be
 recognised when it arrives. One has: the Hard-SF-Outline writes `Systemic Identity
 Safeguard`, none of the three (its reading below).
+
+## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — Zero-Trust and entropy regulation as AEGIS's system logic
+
+The concept names Zero-Trust as part of how the Überwelt is to work. In its principle of consistency: „inklusive des Zero-Trust-Prinzips und der Entropie-Regulierung“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L21]. In the Überwelt's rules: „Zugang wird durch Berechtigungen kontrolliert (Zero-Trust)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L242], and the same line asks that the surroundings manage entropy. The line marks the idea with `[Insight 1.9]`, which points to a brief that is not in the file.
 
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Zero-Trust in KW3 and the Überwelt
 
