@@ -251,3 +251,11 @@ Stands as one more plan, dated 2025-10-15, that gives Kael a counterpart rather 
 In its timeline of Kael it says of his birth that it „is a traumatic event, resulting from the fragmentation of an entity known as“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L54] `Komponente 734`, after which he is „unaware of his Dissociative Identity Disorder“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L54]. The report gives no source for the account.
 
 Stands as one more account of Kael's origin in a report of 2025-11-03; recorded, nothing decided, and the record's rows are not changed.
+
+## 2026-10-06 — `project-status-report-kohaerenz-protokoll-canonical-state-st`, 2026-03-26, the status report
+
+**The status report names the original unified self's fragmentation in the Genesis-Krise, gives Juna/V as Kael's exiled `Ursprungs-Ich`, and marks Kael's own originating trauma `UNKLAR`.**
+
+It writes of the `Genesis-Krise` as „the foundational epistemological trauma of the original unified self“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L37]; in it the original self „encountered an unclassifiable entity“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L37] and misread its own qualia as data corruption (L37). It says Juna/V „has been synthesized into a dual-state“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L41], one state being the exiled `Ursprungs-Ich` of Kael (L41). Of Kael himself: „the specific nature of“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L63] his `Original Trauma` is written `UNKLAR` (L63), and the roadmap plans to script it (L102).
+
+Stands as a report of 2026-03-26 that declares the original self's split and Juna/V as Kael's exiled self while marking Kael's own origin `UNKLAR`; recorded, nothing decided, and the record's rows are not changed.
