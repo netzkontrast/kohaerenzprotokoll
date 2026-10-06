@@ -458,3 +458,11 @@ Stands: one proposal of the brief for what AEGIS is after the climax (failed, re
 „AEGIS is not destroyed by a system crash“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L53] — the report's own words, in its section on the terminal state (L53), where it gives the resolution as fixed by that architecture and says AEGIS „undergoes a transformation“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L53]. In the climax section it describes the same state: „an irresolvable, infinite looping state where the AI must contemplate a truth it can neither accept nor deny“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L31].
 
 Where it stands: a position the status report declares and attributes to Canonical Narrative Architecture 3.2; it says nothing here of Oblivion taking AEGIS's function, and the record's decision is not touched.
+
+## 2026-10-06 — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief
+
+**The design brief directs that AEGIS, once its classical logic fails, crashes or becomes a zombie system.**
+
+Of the Gödel-Gambit's outcome it writes „AEGIS's classical logic fails.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L158] and „It crashes or transforms into a state of“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L158] `Algorithmic Melancholy`, „a zombie system that can perceive truth but can no longer process it“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L158].
+
+Stands as a row naming a crash or a transformation into a state that perceives and cannot process; recorded, not applied, and the question is not answered.
