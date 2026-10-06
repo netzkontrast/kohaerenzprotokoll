@@ -1,0 +1,107 @@
+# counts for 81 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            82 word    82 in   [28, 32, 36, 44, 48, 50]
+  Kael                             35 word    66 in   [28, 40, 44, 48, 50, 52]
+                                   27      as Kaels
+                                    1      as Kael-Juna-Verbindung
+                                    1      as Kael-Paradoxon
+                                    1      as Kael-Juna-Kohärenz
+  Juna                             12 word    21 in   [28, 40, 44, 52, 171, 175]
+                                    5      as Junas
+                                    1      as Juna-Phänomen
+  Guardians                         5 word     5 in   [66, 99, 291, 293, 305]
+  Guardian LogOS                    4 word     4 in   [52, 66, 101]
+  LogOS                             5 word     5 in   [52, 66, 101, 305]
+                                    1      as Logos-Prime
+  Mnemosyne                         1 word     1 in   [305]
+  Lex                               3 word     3 in   [52, 227]
+  Nyx                               4 word     4 in   [52, 90, 227]
+  Rhys                              1 word     1 in   [227]
+  Kiko                              2 word     2 in   [227]
+  Alter                             5 word     6 in   [52, 101, 191, 225, 227, 293]
+                                    1      as Altern
+  Kern-Welt                         1 word     2 in   [68, 291]
+                                    1      as Kern-Welten
+  Kern-Welten                       1 word     1 in   [291]
+  Logos-Prime                       1 word     1 in   [151]
+  Überwelt                          1 word     1 in   [293]
+  Leere                            16 word    16 in   [105, 109, 113, 117, 123, 129]
+                                    1      as leerer
+  Leere/das Potentialmeer           1 word     1 in   [109]
+  Leere/des Potentialmeers          2 word     2 in   [113, 133]
+  Potentialmeer                     1 word     3 in   [109, 113, 133]  <-- substring
+                                    2      as Potentialmeers
+  Fundament                        13 word    16 in   [24, 105, 109, 137, 141, 145]
+                                    3      as fundamental
+                                    3      as Fundaments
+                                    2      as fundamentalere
+                                    1      as fundamentalsten
+  Risse                             5 word     6 in   [84, 129, 133, 152]
+                                    1      as Rissen
+  Grounding-Artefakte               5 word     5 in   [137, 141, 151, 152, 318]
+  Psycho-Architekturen              2 word     2 in   [149, 283]
+  Moonshine-Link                    0 word     2 in   [179, 205]
+                                    2      as Moonshine-Links
+  Moonshine-Links                   2 word     2 in   [179, 205]
+  Kael-Juna-Verbindung              1 word     1 in   [44]
+  Kael/Juna-Phänomen                1 word     1 in   [40]
+  Juna/V-Verbindung                 2 word     2 in   [28, 319]
+  Juna/V-Vektor                     1 word     1 in   [171]
+  Zero-Trust Execution Model (ZTEM)    1 word     1 in   [189]
+  ZTEM                              1 word     1 in   [189]
+  Encrypted Intent Channels (EIC)    1 word     1 in   [189]
+  EIC                               2 word     2 in   [189, 193]
+  Externen Ebene                    1 word     1 in   [205]
+  ontologische Exploit              4 word     4 in   [211, 215, 251, 320]
+  funktionale Multiplizität         1 word     1 in   [165]
+  funktionalen Multiplizität        1 word     1 in   [245]
+  Kohärenz durch Empathie           1 word     1 in   [205]
+  lebendigen Gödel-Satz             0 word     0 in   []
+  Gödel-Gambit                      1 word     1 in   [233]
+  Kael-Paradoxon                    1 word     1 in   [82]
+  Konsistenzmetrik                  1 word     2 in   [279, 291]
+                                    1      as Konsistenzmetriken
+  Axiommodifikationen               1 word     1 in   [279]
+  Kernaxiom                         1 word     2 in   [97, 262]
+                                    1      as Kernaxiome
+  Kern-Definition                   1 word     1 in   [133]
+  Anti-Dialetheisches AEGIS         1 word     1 in   [96]
+  Hybrides AEGIS                    1 word     1 in   [96]
+  Der rekursive Absturz             2 word     2 in   [255, 261]
+  erzwungene Transformation         1 word     1 in   [262]
+  logische Paralyse                 1 word     1 in   [263]
+  Der ertrinkende Gott              1 word     1 in   [263]
+  Anti-Licht                        1 word     1 in   [129]
+  Klang des Anti-Klangs             1 word     1 in   [130]
+  Nichts-Rauschen                   1 word     1 in   [130]
+  Integration                       8 word     8 in   [28, 52, 165, 167, 215, 229]
+  Fehlerberichte                    2 word     2 in   [66, 99]
+  ANOMALY DETECTED                  1 word     1 in   [66]
+  Dialetheismus                     1 word     1 in   [44]
+  Dialetheia                        1 word     1 in   [44]
+  psychologischen Dialetheia        1 word     1 in   [44]
+  Parakonsistenz                    5 word     5 in   [76, 78, 86, 88, 96]
+  C1                                2 word     2 in   [64, 336]
+  FLP-Unmöglichkeitstheorem         1 word     1 in   [50]
+  Edge Instantiation                1 word     1 in   [62]
+  perversen Instantiierung          1 word     3 in   [60, 86, 317]  <-- substring
+  Society of Mind                   5 word     5 in   [223, 320, 370, 371, 375]
+  Gesellschaft des Geistes          2 word     2 in   [219, 223]
+  Gödels Erster Unvollständigkeitssatz    1 word     1 in   [239]
+  Gödel-Satz                        3 word     3 in   [205, 237, 320]
+  Trauma-Modell der Dissoziativen Identitätsstörung (DID)    1 word     1 in   [225]
+  DID                               1 word     1 in   [225]
+  Katalysator- oder Magier-Archetyp    1 word     1 in   [203]
+  Katalysator-Archetyp              1 word     1 in   [197]
+  Quanten-Nichtlokalität            2 word     2 in   [185, 319]
+  Environmental Storytelling        6 word     6 in   [149, 279, 321, 355, 356, 357]
+  Deus ex Machina                   2 word     2 in   [141, 318]
+  Grounding                         6 word    12 in   [137, 141, 143, 151, 152, 318]
+                                    5      as Grounding-Artefakte
+                                    1      as Grounding_
+  Wuji                              1 word     1 in   [117]
+  Kyoto-Schule                      1 word     1 in   [119]
+  Steering                          1 word     1 in   [187]

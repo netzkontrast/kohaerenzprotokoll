@@ -58,10 +58,11 @@
         "briefing-core-concepts-of-the-kohaerenz-protokoll-project",
         "aegis-genesis-crisis-self-definition",
         "digitale-uberwelt-konzept-und-gestaltung",
-        "romanstruktur-duale-erzaehlung-und-kishotenketsu"
+        "romanstruktur-duale-erzaehlung-und-kishotenketsu",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 23,
-      "readings": 21,
+      "sources": 24,
+      "readings": 22,
       "conflict": "none"
     },
     "aegis": {
@@ -205,10 +206,11 @@
         "digitale-uberwelt-konzept-und-gestaltung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
         "kohaerenz-protokoll-plotideen-extraktion",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 131,
-      "readings": 131,
+      "sources": 132,
+      "readings": 132,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -887,10 +889,11 @@
         "umfassendes-lokalitaeten-konzept-fuer-roman",
         "charakterkonzepte-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-plotideen-generierung",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 41,
+      "readings": 41,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1165,10 +1168,11 @@
         "charakterkonzepte-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-plotideen-generierung",
         "digitale-uberwelt-konzept-und-gestaltung",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 87,
-      "readings": 87,
+      "sources": 88,
+      "readings": 88,
       "conflict": "C2"
     },
     "erason": {
@@ -1478,10 +1482,11 @@
         "dual-plot-architecture-a-narrative-foundation-for-kohaerenz",
         "briefing-core-concepts-of-the-kohaerenz-protokoll-project",
         "projektplanung-fuer-kohaerenz-protokoll",
-        "aegis-genesis-crisis-self-definition"
+        "aegis-genesis-crisis-self-definition",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 47,
-      "readings": 45,
+      "sources": 48,
+      "readings": 46,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -1653,10 +1658,11 @@
         "aegis-genesis-crisis-self-definition",
         "kohaerenz-protokoll-plotideen-generierung",
         "digitale-uberwelt-konzept-und-gestaltung",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 92,
-      "readings": 92,
+      "sources": 93,
+      "readings": 93,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -1899,10 +1905,11 @@
         "digitale-uberwelt-konzept-und-gestaltung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
         "kohaerenz-protokoll-plotideen-extraktion",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 120,
-      "readings": 120,
+      "sources": 121,
+      "readings": 121,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2099,10 +2106,11 @@
         "digitale-uberwelt-konzept-und-gestaltung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
         "kohaerenz-protokoll-plotideen-extraktion",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 132,
-      "readings": 133,
+      "sources": 133,
+      "readings": 134,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2320,10 +2328,11 @@
         "kohaerenz-protokoll-plotideen-generierung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
         "kohaerenz-protokoll-plotideen-extraktion",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 98,
-      "readings": 97,
+      "sources": 99,
+      "readings": 98,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2417,10 +2426,11 @@
         "projektplanung-fuer-kohaerenz-protokoll",
         "digitale-uberwelt-konzept-und-gestaltung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 85,
-      "readings": 85,
+      "sources": 86,
+      "readings": 86,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2551,10 +2561,11 @@
         "digitale-uberwelt-konzept-und-gestaltung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
         "kohaerenz-protokoll-plotideen-extraktion",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 34,
+      "readings": 34,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -2895,10 +2906,11 @@
         "coherence-protocol-a-39-part-narrative-arc",
         "projektplanung-fuer-kohaerenz-protokoll",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 88,
-      "readings": 88,
+      "sources": 89,
+      "readings": 89,
       "conflict": "none"
     },
     "lia": {
@@ -3073,10 +3085,11 @@
         "kohaerenz-protokoll-plotideen-generierung",
         "digitale-uberwelt-konzept-und-gestaltung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 82,
-      "readings": 82,
+      "sources": 83,
+      "readings": 83,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -3194,10 +3207,11 @@
         "kohaerenz-protokoll-plotideen-generierung",
         "digitale-uberwelt-konzept-und-gestaltung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 91,
-      "readings": 91,
+      "sources": 92,
+      "readings": 92,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -3341,10 +3355,11 @@
         "briefing-core-concepts-of-the-kohaerenz-protokoll-project",
         "coherence-protocol-a-39-part-narrative-arc",
         "projektplanung-fuer-kohaerenz-protokoll",
-        "aegis-genesis-crisis-self-definition"
+        "aegis-genesis-crisis-self-definition",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 74,
-      "readings": 74,
+      "sources": 75,
+      "readings": 75,
       "conflict": "none"
     },
     "moros": {
@@ -3563,10 +3578,11 @@
         "charakterkonzepte-fuer-kohaerenz-protokoll",
         "projektplanung-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-plotideen-generierung",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 87,
-      "readings": 87,
+      "sources": 88,
+      "readings": 88,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -3706,10 +3722,11 @@
         "briefing-core-concepts-of-the-kohaerenz-protokoll-project",
         "projektplanung-fuer-kohaerenz-protokoll",
         "aegis-genesis-crisis-self-definition",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 69,
-      "readings": 69,
+      "sources": 70,
+      "readings": 70,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -3817,10 +3834,11 @@
         "coherence-protocol-a-39-part-narrative-arc",
         "projektplanung-fuer-kohaerenz-protokoll",
         "digitale-uberwelt-konzept-und-gestaltung",
-        "romanstruktur-duale-erzaehlung-und-kishotenketsu"
+        "romanstruktur-duale-erzaehlung-und-kishotenketsu",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 86,
-      "readings": 86,
+      "sources": 87,
+      "readings": 87,
       "conflict": "C10"
     },
     "oblivion": {
@@ -4051,10 +4069,11 @@
         "briefing-core-concepts-of-the-kohaerenz-protokoll-project",
         "coherence-protocol-a-39-part-narrative-arc",
         "kohaerenz-protokoll-plotideen-generierung",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 43,
-      "readings": 44,
+      "sources": 44,
+      "readings": 45,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -4099,10 +4118,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung-2",
         "umfassendes-lokalitaeten-konzept-fuer-roman",
         "kohaerenz-protokoll-plotideen-generierung",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 20,
-      "readings": 20,
+      "sources": 21,
+      "readings": 21,
       "conflict": "none"
     },
     "residual-echos": {
@@ -4255,10 +4275,11 @@
         "briefing-core-concepts-of-the-kohaerenz-protokoll-project",
         "project-coherence-protocol-a-canon-of-core-identity-and-anta",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 67,
-      "readings": 67,
+      "sources": 68,
+      "readings": 68,
       "conflict": "none"
     },
     "risse": {
@@ -4370,10 +4391,11 @@
         "kohaerenz-protokoll-plotideen-generierung",
         "digitale-uberwelt-konzept-und-gestaltung",
         "kohaerenz-protokoll-plotideen-extraktion",
-        "kohaerenz-protokoll-narrativer-bauplan"
+        "kohaerenz-protokoll-narrativer-bauplan",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 101,
-      "readings": 101,
+      "sources": 102,
+      "readings": 102,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -5049,10 +5071,11 @@
         "kohaerenz-protokoll-plotideen-generierung",
         "digitale-uberwelt-konzept-und-gestaltung",
         "romanstruktur-duale-erzaehlung-und-kishotenketsu",
-        "kohaerenz-protokoll-plotideen-extraktion"
+        "kohaerenz-protokoll-plotideen-extraktion",
+        "aegis-logik-und-erzaehlstruktur"
       ],
-      "sources": 69,
-      "readings": 69,
+      "sources": 70,
+      "readings": 70,
       "conflict": "none yet"
     },
     "vergessener-schrein": {

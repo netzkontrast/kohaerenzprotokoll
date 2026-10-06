@@ -1,0 +1,793 @@
+{
+  "document": "aegis-logik-und-erzaehlstruktur",
+  "drive_id": "1SVSfKb3B_sBm0vbxFg1kkSzeNC3bZqIiCWs1VxaPg5Y",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 82,
+      "n_including_compounds": 82,
+      "lines": [
+        28,
+        32,
+        36,
+        44,
+        48,
+        50,
+        52,
+        60,
+        62,
+        64,
+        68,
+        78,
+        86,
+        88,
+        90,
+        92,
+        96,
+        129,
+        133,
+        141,
+        151,
+        152,
+        154,
+        164,
+        167,
+        183,
+        189,
+        191,
+        193,
+        201,
+        203,
+        205,
+        207,
+        215,
+        239,
+        243,
+        245,
+        259,
+        261,
+        262,
+        263,
+        271,
+        279,
+        283,
+        287,
+        291,
+        292,
+        293,
+        303,
+        317,
+        319,
+        320,
+        321,
+        323
+      ]
+    },
+    "Kael": {
+      "n": 35,
+      "n_including_compounds": 66,
+      "lines": [
+        28,
+        40,
+        44,
+        48,
+        50,
+        52,
+        62,
+        68,
+        82,
+        86,
+        90,
+        101,
+        127,
+        131,
+        133,
+        151,
+        154,
+        158,
+        162,
+        164,
+        165,
+        167,
+        175,
+        183,
+        189,
+        191,
+        193,
+        203,
+        205,
+        207,
+        211,
+        215,
+        223,
+        227,
+        229,
+        237,
+        239,
+        243,
+        245,
+        247,
+        251,
+        261,
+        263,
+        279,
+        292,
+        293,
+        303,
+        307,
+        317,
+        320,
+        321
+      ]
+    },
+    "Juna": {
+      "n": 12,
+      "n_including_compounds": 21,
+      "lines": [
+        28,
+        40,
+        44,
+        52,
+        171,
+        175,
+        183,
+        191,
+        193,
+        197,
+        201,
+        203,
+        205,
+        207,
+        319
+      ]
+    },
+    "Guardians": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        66,
+        99,
+        291,
+        293,
+        305
+      ]
+    },
+    "Guardian LogOS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        52,
+        66,
+        101
+      ]
+    },
+    "LogOS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        52,
+        66,
+        101,
+        305
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        305
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        227
+      ]
+    },
+    "Nyx": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        52,
+        90,
+        227
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        227
+      ]
+    },
+    "Alter": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        52,
+        101,
+        191,
+        225,
+        227,
+        293
+      ]
+    },
+    "Kern-Welt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        291
+      ]
+    },
+    "Kern-Welten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        291
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        293
+      ]
+    },
+    "Leere": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        105,
+        109,
+        113,
+        117,
+        123,
+        129,
+        131,
+        133,
+        152,
+        318
+      ]
+    },
+    "Leere/das Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Leere/des Potentialmeers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        133
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        109,
+        113,
+        133
+      ]
+    },
+    "Fundament": {
+      "n": 13,
+      "n_including_compounds": 16,
+      "lines": [
+        24,
+        105,
+        109,
+        137,
+        141,
+        145,
+        151,
+        154,
+        158,
+        162,
+        164,
+        165,
+        318
+      ]
+    },
+    "Risse": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        84,
+        129,
+        133,
+        152
+      ]
+    },
+    "Grounding-Artefakte": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        137,
+        141,
+        151,
+        152,
+        318
+      ]
+    },
+    "Psycho-Architekturen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        149,
+        283
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        179,
+        205
+      ]
+    },
+    "Moonshine-Links": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        179,
+        205
+      ]
+    },
+    "Kael-Juna-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Kael/Juna-Phänomen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Juna/V-Verbindung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        319
+      ]
+    },
+    "Juna/V-Vektor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Zero-Trust Execution Model (ZTEM)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "ZTEM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Encrypted Intent Channels (EIC)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "EIC": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        189,
+        193
+      ]
+    },
+    "Externen Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "ontologische Exploit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        211,
+        215,
+        251,
+        320
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "Kohärenz durch Empathie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "lebendigen Gödel-Satz": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Gödel-Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        233
+      ]
+    },
+    "Kael-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Konsistenzmetrik": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        279,
+        291
+      ]
+    },
+    "Axiommodifikationen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        279
+      ]
+    },
+    "Kernaxiom": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        262
+      ]
+    },
+    "Kern-Definition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Anti-Dialetheisches AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Hybrides AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Der rekursive Absturz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        255,
+        261
+      ]
+    },
+    "erzwungene Transformation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "logische Paralyse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Der ertrinkende Gott": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Anti-Licht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Klang des Anti-Klangs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Integration": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        28,
+        52,
+        165,
+        167,
+        215,
+        229,
+        320,
+        321
+      ]
+    },
+    "Fehlerberichte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        99
+      ]
+    },
+    "ANOMALY DETECTED": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Dialetheia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "psychologischen Dialetheia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Parakonsistenz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        76,
+        78,
+        86,
+        88,
+        96
+      ]
+    },
+    "C1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        336
+      ]
+    },
+    "FLP-Unmöglichkeitstheorem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Edge Instantiation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "perversen Instantiierung": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        86,
+        317
+      ]
+    },
+    "Society of Mind": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        223,
+        320,
+        370,
+        371,
+        375
+      ]
+    },
+    "Gesellschaft des Geistes": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        219,
+        223
+      ]
+    },
+    "Gödels Erster Unvollständigkeitssatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        239
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        205,
+        237,
+        320
+      ]
+    },
+    "Trauma-Modell der Dissoziativen Identitätsstörung (DID)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "DID": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Katalysator- oder Magier-Archetyp": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Katalysator-Archetyp": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Quanten-Nichtlokalität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        185,
+        319
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        149,
+        279,
+        321,
+        355,
+        356,
+        357
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        318
+      ]
+    },
+    "Grounding": {
+      "n": 6,
+      "n_including_compounds": 12,
+      "lines": [
+        137,
+        141,
+        143,
+        151,
+        152,
+        318,
+        351,
+        352,
+        353,
+        354
+      ]
+    },
+    "Wuji": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Kyoto-Schule": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Steering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    }
+  }
+}

@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 152 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 152 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 153 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 153 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -712,7 +712,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Genesis: AEGIS und Logische Grenzen](drive/genesis-aegis-und-logische-grenzen-2.md) | 2025-04-29 | 7,452 |  | Komponente 734 13, Nichts-Rauschen 2, Überwelt 39, Entropie† 11, Emergenz 2, Kohärenz 6, AEGIS 79, Kael 18 | NULL-STATE 5, OMEGA 13, Omega-Prime 4, Component 19, Halting Problem 4 |
 | [Genesis: Logik, Krise, Zerstückelung](drive/genesis-logik-krise-zerstueckelung.md) | 2025-04-29 | 4,986 |  | Komponente 734 14, Genesis 20, Nichts-Rauschen 11, Emergenz 4, Überwelt 18, Kohärenz 12, Kael 22, AEGIS 76 | Cluster-Bildung 2, Hybris 3, Funken 2, Funke 3, Echo 7 |
 | [Logiksystem Aegis, Entwicklungsszenarien .docx](drive/logiksystem-aegis-entwicklungsszenarien-docx.md) | 2025-06-03 | 5,990 |  | Negentropie 3, Nexus 2, Entropie† 14, Emergenz 3, Kohärenz 14, Überwelt 7, AEGIS 89 | GIF 30, PSE 26, KRM 24, Potentialraum 26, PS 15 |
-| [AEGIS: Logik und Erzählstruktur](drive/aegis-logik-und-erzaehlstruktur.md) | 2025-07-29 | 6,101 |  | Realitätsebenen 2, LogOS 5, Guardians 5, Juna 12, Nyx 4, DID 2, Multiplizität 2, Lex 3 | Kyoto School 2, KAEL 3, LessWrong 4, The_Void_ 8, Environmental Storytelling 9 |
+| [AEGIS: Logik und Erzählstruktur](drive/aegis-logik-und-erzaehlstruktur.md) | 2025-07-29 | 6,101 | **read** | Realitätsebenen 2, LogOS 5, Guardians 5, Juna 12, Nyx 4, DID 2, Multiplizität 2, Lex 3 | Kyoto School 2, KAEL 3, LessWrong 4, The_Void_ 8, Environmental Storytelling 9 |
 | [AEGIS-Logik und narrative Implikationen](drive/aegis-logik-und-narrative-implikationen.md) | 2025-07-29 | 4,909 |  | Gödel-Gambit 2, Multiplizität 5, Kohärenz 12, Kern-Welten 2, Kael 17, AEGIS 51, Risse 3 | Frame Problem 9, Yin-Yang 4, Tononi 4, P_versus_NP_problem 4, Yin 4 |
 | [Aegis Logik in der Leere .docx](drive/aegis-logik-in-der-leere-docx.md) | 2025-08-05 | 5,485 |  | Emergenz 6, Überwelt 18, Entropie† 7, Kohärenz 5, AEGIS 84 | Potentialraum 26, CLIK 10, BMS 9, Paradox Engine 5, Regel-Engine 2 |
 | [AEGIS Paradoxon Neukonzeption und Analyse .docx](drive/aegis-paradoxon-neukonzeption-und-analyse-docx.md) | 2025-08-05 | 7,067 |  | Kern-Welten 28, Kohärenz 49, Entropie† 10, Emergenz† 4, AEGIS 132, Kael 32, Risse 2, Überwelt 2 | Path Dependence 4, Frame Problem 9, Paradoxon des Seins 2, Paradoxon des Verstehens 2, Anagnorisis 3 |
