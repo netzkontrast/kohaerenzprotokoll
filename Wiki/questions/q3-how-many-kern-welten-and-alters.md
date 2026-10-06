@@ -732,3 +732,11 @@ The paper names the four worlds: „Die Struktur der vier Kern-Welten (Konstrukt
 The alters come from a reviewed list (L218), and the closing table „Tabelle: Übersicht über Kaels Alters“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L497] gives each a „Primärer Kern-Welt Link“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L501]: Limina, Eos and Index carry a question mark (L503, L507, L510), as does Silas (L511), and Oblivion is given two worlds, `KW2 (isoliert)/ KW3` ^[L508]. Silas's profile itself names two candidates (L491). Several worlds hold more than one alter in this table; the paper does not state a count of alters per world.
 
 Where it stands: the record's count question is answered by proposal only — four worlds named and a hedged assignment table; the correspondence of one world to one alter is not asserted, and the paper reads the worlds as clusters of alters.
+
+## 2026-10-06 — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure
+
+**The dual structure counts eleven Persönlichkeitsanteile and indexes Kael's Kernwelt as `Co₁`, naming a second world `McL` in passing.**
+
+The outline states the count of the parts: Kael's plot is coherence „zwischen seinen elf Persönlichkeitsanteilen“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L27]. It names `Kael`, `Lex`, `Rhys`, `Nyx`, `Kiko`, `Moros`, `Selene`, `Alex` and `Lia`, and gives no list of eleven. For the worlds, Kapitel 10 has „Die Parameter von Kaels Kernwelt Co₁ werden angepasst“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L139], and the sequence of Kapitel 13 to 21 says that AEGIS „könnte versuchen, Kaels andere Kernwelten zu manipulieren“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L185], with „die chaotische Welt McL“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L185] as the example. The document states no number of Kernwelten and no rule of one world to one part.
+
+Stands as a count of the Anteile (eleven) with the Kernwelten left uncounted in this document; recorded, not applied, and the question stays open.
