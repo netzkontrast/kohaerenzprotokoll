@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -69,6 +69,10 @@ Chapter II of the locations concept opens: „Dieses Kapitel detailliert die sec
 ## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — six levels in a table
 
 Teil 3 opens the general concepts with „A. Die 6 Realitätsebenen (Generelle Konzepte)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L112], followed by „Tabelle 1: Übersicht der Realitätsebenen“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L114]. The six are named in the introduction: „vier psychologische Kern-Welten, eine digitale Überwelt, eine mysteriöse Externe Ebene“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L27]. The closing description of the document repeats them: „sechs Realitätsebenen (KW1-4, Überwelt, Externe Ebene)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L355].
+
+## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — Teil II is arranged by reality level; six levels named
+
+The concept says how it is arranged: Teil II contains profiles „geordnet nach den sechs Realitätsebenen des Romans“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L19], and the heading of Teil II reads „Detaillierte Lokalitäten-Profile nach Realitätsebene“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L102]. In the design inspirations the levels are a reason for design: a source is relevant „wo verschiedene Realitätsebenen interferieren“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L74] and another one for the instabilities between them (L76). The sections of Teil II stand under the headings at L106, L241, L346, L436 and L541; the document does not list the six levels by name in these lines.
 
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — the introduction's Realitätsebenen and the six-level structure
 
