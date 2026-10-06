@@ -640,3 +640,11 @@ Stands: the plan's roster is ten named parts plus the emerging Selene/Selbst fig
 Its table (L63–L72) names, beside the host, the ANPs Lex, Alex, Rhys, Argus and Selene, whose type it marks „ANP (Integrator?)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L72], and the EPs Kiko, Lia, Moros and Nyx. Of the worlds it writes: „Die vier Kernwelten (KWs)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L235], each tied to a truth position and an act, not to a part. In Act 2, Kael is „ANPs wie dem logischen Lex und dem fürsorglichen Rhys“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L205] meeting the EPs.
 
 Stands: a table of 2025-11-18 with named parts and four Kernwelten, which predates the author's answers (thirteen alters; four Kern-Welten) and changes neither; the correspondence of worlds and parts stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan
+
+**The system plan applies TSDP to name four ANPs, five EPs and Selene as internal therapist, and designs four Kernwelten.**
+
+The ANPs are „ANPs (Lex, Rhys, Alex, Argus)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L90] and the EPs „EPs (Nyx, Kiko, Lia, Isabelle, Moros)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L91]. Of Selene it says „Selene agiert als interne Therapeutin“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L112]. The worlds are KW1 to KW4, in the section „Entwürfe für die Rätsel der Kernwelten“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L255].
+
+Stands as one more listing of the alters (nine named, plus Selene) and four worlds.
