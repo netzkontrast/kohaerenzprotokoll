@@ -601,3 +601,11 @@ Stands with a pairing of LogOS, Mnemosyne, Cerberus and Kairos to these four wor
 The pairs: „LogOS (Konstrukt-Stadt - Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L265], „Mnemosyne (Resonanz-Nebel - Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L266], „Cerberus (Schattenlabyrinth - Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L267], „Kairos (Möglichkeitsstrom - Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L268], „Sophia (Nexus/Übergreifende Weisheit?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L269]. The extraction gives the pairing as its own proposal („Könnte“ at each line), after writing that each Guardian is responsible for one Kernwelt (L257).
 
 Stands as one more answer to the pairing, a proposal; nothing is decided.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept pairs one Guardian with each world and gives the fourth world to two.**
+
+Five names: „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[kohaerenz-protokoll-2.md:L66]. Four worlds, each named with its bearer: „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-2.md:L75], „Resonanz-Landschaft (Mnemosyne)“ ^[kohaerenz-protokoll-2.md:L76], „Grenzfeste (Cerberus)“ ^[kohaerenz-protokoll-2.md:L77], „Möglichkeits-Garten (Kairos/Sophia)“ ^[kohaerenz-protokoll-2.md:L78].
+
+Stands with the four-pair position, Kairos and Sophia sharing one world; recorded, not applied, and the question stays open.
