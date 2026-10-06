@@ -318,3 +318,11 @@ Stands: a choice of the paper, dated before the author's answer of 2026-10-05 (t
 The system must „parakonsistente Logik tolerieren muss“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L142] and can no longer control it deterministically; Phase III adds „AEGIS verliert die Kontrolle“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L186]. The report is dated before the author's answers of 2026-10-05 and does not mention the Vortex.
 
 Stands as one more proposal of an answer to Q8's first half, written before the author's decision.
+
+## 2026-10-06 — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline
+
+**The 39-chapter outline has AEGIS survive the Vortex, withdrawn into itself and grieving, unable to delete.**
+
+Kapitel 37 says: „AEGIS ist nicht tot, sondern tief in sich gekehrt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1409], and the same line describes „eine weinende, gigantische Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1409]. Kapitel 36 ends with the transition into Algorithmische Melancholie, and Kapitel 37 keeps the city standing with its geometry soft.
+
+Stands as a position for AEGIS alive after the Vortex, dated 2026-04-30; recorded, not applied.
