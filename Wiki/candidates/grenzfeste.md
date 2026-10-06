@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -85,6 +85,10 @@ The outline makes KW3 „eine bunkerartige, klaustrophobische Festung oder ein G
 ## Reading — `welt`, 2025-07-29, the Welt blueprint — KW3 as the fortress of Alex and Nyx
 
 The Welt blueprint profiles `Cerberus-Labyrinth / Grenzfeste` as the third Kernwelt, in both passes. First pass (L54): „Diese Welt ist die Domäne von Alex (Protektor-ANP) und Nyx (Kampf-EP)“ ^[welt.md:L54], and it „kann als Festung oder Labyrinth gestaltet sein“ ^[welt.md:L54]. Second pass (L105): „defensiv, befestigt, labyrinthisch, klaustrophobisch und dunkel“ ^[welt.md:L105]. There Kael meets the Guardian: „Kael begegnet dem Guardian Cerberus und muss seine Angstmechanismen überwinden“ ^[welt.md:L107].
+
+## Reading — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan — KW3, an NP-complete world of heuristic security
+
+The system plan designs KW3 as „Grenzfeste (NP-vollständig - Heuristische Sicherheit)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L280], with Cerberus as Guardian, about „Ressourcenmanagement, Bedrohungsanalyse und Optimierung unter Zwang“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L285]. Its core puzzle is „eine Variante des“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L286] travelling-salesman problem. A virus that stands for a repressed trauma attacks several entry points; Cerberus must plan a patrol route and settle for a heuristic that may hide a fatal flaw, the „Sicherheitslücke“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L287] Kael can exploit or help close.
 
 ## Reading — `outline`, 2025-07-30, the outline — Grenzfeste as KW3's name in Teil 2
 
