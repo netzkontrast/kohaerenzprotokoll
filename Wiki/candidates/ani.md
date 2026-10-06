@@ -1,10 +1,10 @@
 ---
 term: ANI — Äußere Nicht-Identifikation
 status: candidate
-sources: 1
+sources: 2
 readings: 1
 conflict: none yet
-ingested: ["aegis-emergenz-aus-der-leere"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-plotideen-extraktion"]
 gathered: "2026-09-16"
 ---
 
@@ -32,6 +32,10 @@ It blocks the learning and adaptation an AGI requires.
 **Not in the corpus.** This source quotes and analyses a document that is not
 among the 346 landed, so the claims above exist only as restated by a critic.
 Nothing can be checked against an original.
+
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — one name inside AEGIS's philosophy of trustlessness
+
+The concept extraction names ANI once, beside ZTV, in the sentence on AEGIS's core aim: „Assume Non-Intentionality, ANI“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L57]. It is given as the second of two parts of AEGIS's philosophy of trustlessness; no description follows.
 
 ## Open
 
