@@ -245,3 +245,11 @@ Stands as one occurrence of Nexus and one of the Überwelt in a hedged analysis;
 „Die Überwelt ist die abstrakte, informationsbasierte operative Domäne von AEGIS“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L83]. `Nexus` appears as „Sophia (Nexus/Übergreifende Weisheit?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L269] and as a central point linking the worlds in a plot idea (L474). It does not equate Nexus and Überwelt, nor name an `Überraum`.
 
 Stands as one more occurrence of the two names, not tied together; nothing is decided.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept names the Nexus once, in a Teil 2 sketch beside the worlds, and gives the Überwelt as the digital level; it relates the two nowhere.**
+
+The Nexus: „Michaels erste Versuche mit den Werkzeugen im Nexus oder bei kurzen Ausflügen in die Welten“ ^[kohaerenz-protokoll-2.md:L107]. The Überwelt: „Digital, AEGIS/Guardian-Domäne“ ^[kohaerenz-protokoll-2.md:L82] and „Rein informationsbasierte Realität, regiert vom AEGIS-Protokoll.“ ^[kohaerenz-protokoll-2.md:L82]
+
+Stands: one mention of the Nexus, undefined, and no sentence relating it to the Überwelt; the question stays open in the record's terms.
