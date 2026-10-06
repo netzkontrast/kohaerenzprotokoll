@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -113,6 +113,10 @@ The concept summary gives the foundation as the deepest level of reality: „Die
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — a deeper Realitätsebene sought beneath AEGIS's simulation
 
 The architecture plan proposes one Realitätsebene beneath the simulation, not several. Its table gives Kapitel 29 the theme „Die Jagd nach einer tieferen, konsistenten Realitätsebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L45]. The Kapitel 29 section calls the Fundament „hypothetischen, tieferen, stabileren Realitätsebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L467], „unterhalb oder jenseits von AEGIS' Simulation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L467], and asks whether reaching it would be a return to the real world, a level where AEGIS's paradoxes dissolve, or a way to create a new reality of one's own. Kapitel 22 asks „Ist alles eine Simulation, die von AEGIS gesteuert wird?“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L365].
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — six Realitätsebenen as externalisations of Kael's states and AEGIS' paradigms
+
+The prototype proposal reports, from its outline, in a section headed „Psycho-architektonisches Design der Realitätsebenen“ ^[romanidee-als-interaktiver-prototyp.md:L80]: „Die sechs identifizierten Realitätsebenen“ ^[romanidee-als-interaktiver-prototyp.md:L84], the four Kernwelten, the Überwelt of AEGIS and the Externe Ebene of Juna/V, which „sind Externalisierungen von Kaels psychischen Zuständen und AEGIS' logischen Paradigmen“ ^[romanidee-als-interaktiver-prototyp.md:L84].
 
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — the higher level of reality in Approach B
 
