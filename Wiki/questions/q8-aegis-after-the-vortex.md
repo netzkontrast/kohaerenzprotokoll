@@ -418,3 +418,11 @@ Stands as one more answer to the first half of the question, as the master integ
 It calls this „the most significant conceptual fork in the project“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L113], with a „total system crash“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L113] on one side and „paraconsistent logic (LFI)“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L113] on the other, reporting the sources it names on each. It recommends the latter, which „offers a more tragic and unique antagonist arc“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L126].
 
 Stands as one more answer to the first half of the question, the report's own recommendation, recorded, not applied.
+
+## 2026-10-06 — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview
+
+**The chapter overview plans that AEGIS does not collapse after the Gödel-Satz but freezes in transformation, in Kapitel 35.**
+
+Kapitel 34 plans the presentation as „Dies ist der epistemologische Sieg, der AEGIS' Transformation erzwingt“ ^[detaillierte-kapiteluebersicht.md:L60] Kapitel 35, `Algorithmische Melancholie`, plans „AEGIS kollabiert nicht, sondern erstarrt in einem Zustand der Transformation“ ^[detaillierte-kapiteluebersicht.md:L66] marked by „kontemplativer Lähmung“ ^[detaillierte-kapiteluebersicht.md:L66] The outline names no plural form and no Oblivion.
+
+Stands as one more answer to the question's first half, dated 2025-07-30: frozen in transformation, not collapsed; recorded, not applied.
