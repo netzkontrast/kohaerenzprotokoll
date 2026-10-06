@@ -596,3 +596,11 @@ Stands as an outline of 2025-11-03 whose pairing, one Guardian for KW1 to KW3 an
 > „The Mnemosyne-Archipel is categorized as a high-risk quarantine zone.“ ^[aegis-genesis-crisis-self-definition.md:L123]
 
 Where it stands: a sixth count beside the record's five and two, in AEGIS's own classification; Cerberus and Mnemosyne are both Guardians (L154, L155) and world names (KW3 and KW2, L129, L123), and the log pairs no Guardian with a world, so the count and Q5 stay as the record has them.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis
+
+**The plot-idea synthesis analyses five Guardians, one world each but Sophia, whom it leaves hedged over an integrating function; Silas is an Alter.**
+
+„AEGIS operiert nicht als monolithische Entität, sondern verfügt über spezialisierte Subsysteme, die Guardians: LogOS, Mnemosyne, Cerberus, Kairos und Sophia.“ ^[kohaerenz-protokoll-plotideen-generierung.md:L129] Sophia: „Überwacht potenziell eine übergeordnete oder integrierende Funktion“ ^[kohaerenz-protokoll-plotideen-generierung.md:L135]. The table is marked „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147]. Silas stands in the list of Kael's Alters: „Der Architekt, Das Echo, Der Wächter, Der Sucher, Der Funke, Limina, Nox, Praetor, Index, Silas“ ^[kohaerenz-protokoll-plotideen-generierung.md:L174].
+
+Stands with five named Guardians in the record's terms, Sophia without a world of her own, hypothetical; recorded, nothing decided.
