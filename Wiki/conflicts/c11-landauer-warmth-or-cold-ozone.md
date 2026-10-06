@@ -496,3 +496,11 @@ Stands on the warmth side, as an account of other documents dated 2026-02-23; re
 It names the principle the plot's motor: „Das Landauer-Prinzip fungiert hierbei als zentraler Plot-Motor“ ^[romanprojekt-analyse-synthese.md:L27]. The heat shows as thermal `Risse`, „oder Glitches in der Architektur der Konstrukt-Stadt“ ^[romanprojekt-analyse-synthese.md:L29]. In the build plan, the Juna scenes are to make the `Wärme` of the principle felt, „durch dichte, atmosphärische Beschreibungen spürbar werden“ ^[romanprojekt-analyse-synthese.md:L141]. And when Kael recognises a truth, the simulation „überhitzt“ ^[romanprojekt-analyse-synthese.md:L149] locally. The document gives no cold and no colour or smell for the heat (`Ozon` ^[romanprojekt-analyse-synthese.md:#0]).
 
 Stands on the warmth side, in a synthesis of 2026-04-30; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-06 — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis
+
+**The plot analysis proposes heat and burnt ozone together: the Risse as zones of „digitaler Abwärme“ ^[plot-analyse-und-romanentwicklung.md:L31] where „Die Luft könnte nach verbranntem Ozon riechen“ ^[plot-analyse-und-romanentwicklung.md:L31].**
+
+The proposal carries the label `Narrative Umsetzungsempfehlung` and rests on the Landauer principle. Its Kap 1–3 drones are proposed to repair a glitch at a cost of energy: „Zeigen Sie, dass die Reparatur“ ^[plot-analyse-und-romanentwicklung.md:L141] needs light and heat. Both are the assistant's proposals, not a chapter's fact.
+
+Stands on the warmth side, with ozone beside it, as a proposal only; recorded, not applied, and the record is not changed.
