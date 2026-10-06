@@ -243,3 +243,11 @@ Stands beside the record's rows for 2025-04, as an analysis of Kael's fragmentat
 Its first part, in the ending, has Kael find 'O', „another being, deeply connected to him“ ^[narrative-blueprint-the-coherence-protocol.md:L153], and the same passage calls 'O' traumatized and fragmented differently. Its beat sheet (third part) writes 'O' as „the other half of his original self“ ^[narrative-blueprint-the-coherence-protocol.md:L407], who in the same line may be integrated, differently fragmented, or completely unaware. The first part says another being; the beat sheet says half of his original self. The blueprint does not say whether these are one account.
 
 Stands as one more plan, dated 2025-10-15, that gives Kael a counterpart rather than an origin; recorded, not settling C16.
+
+## 2026-10-06 — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report
+
+**The contradiction report gives Kael's birth as the fragmentation of `Komponente 734` by AEGIS's protocol, and does not list it as a contradiction.**
+
+In its timeline of Kael it says of his birth that it „is a traumatic event, resulting from the fragmentation of an entity known as“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L54] `Komponente 734`, after which he is „unaware of his Dissociative Identity Disorder“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L54]. The report gives no source for the account.
+
+Stands as one more account of Kael's origin in a report of 2025-11-03; recorded, nothing decided, and the record's rows are not changed.
