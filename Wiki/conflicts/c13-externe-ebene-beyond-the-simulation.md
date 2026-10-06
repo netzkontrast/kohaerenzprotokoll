@@ -206,3 +206,11 @@ Stands as a side that places the level beyond AEGIS's control and beyond the Ker
 Chapter 11 plans: „Der Riss ist das erste konkrete Tor oder der erste Hinweis auf diese Ebene.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L790] with Juna/V: „Der Riss ist der erste klare Hinweis auf die Existenz und den Einfluss von Juna/V oder der externen Ebene.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L760] and as „Etabliert als zentrales Symbol für Systeminstabilität und die Verbindung zur Außenwelt/Juna/V.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L788]
 
 Stands on the side of an outside reached through the Riss; the outline hedges (`Tor oder Hinweis`), and the record's rows are not changed.
+
+## 2026-10-06 — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots
+
+**The concept with subplots makes the Externe Ebene and Juna/V the Other outside AEGIS's control, with first hints in Kapitel 22.**
+
+„Sie repräsentieren das“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L82] Other, „das außerhalb von AEGIS' Kontrolle liegt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L82]. Kapitel 22: „Kael findet erste konkrete Hinweise auf die Externe Ebene oder Juna/V“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53].
+
+Stands as an Externe Ebene beyond AEGIS's control, introduced from Kapitel 22 in a plan, dated 2025-05-02; recorded, not applied.
