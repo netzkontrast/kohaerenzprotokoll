@@ -172,3 +172,11 @@ Stands as a boundary toward AEGIS, once blocking and once beyond containment by 
 The codex calls it „a non-local, sub-protocol connection“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L101] of entanglement and prehension, and writes that AEGIS is „ontologically blind to this fundamental resonance“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L101]. In Act II the failed cycles cost „Relational Erosion“ ^[project-codex-the-canonical-narrative-architecture-of-kohaer.md:L146], the damage to the link with Juna/V. It draws no boundary beyond AEGIS and says nothing of who in Kael's system feels the link.
 
 A boundary toward AEGIS, and a damage by Act II's cycles; recorded, the question stays open.
+
+## 2026-10-06 — `welt`, 2025-07-29, the Welt blueprint
+
+**The Welt blueprint writes the Externe Ebene as acting as the Moonshine-Link, hedged as non-local and possibly able to overcome AEGIS's Boundary Protocols.**
+
+First pass: the Externe Ebene is „Eine mysteriöse Realitätsebene, verbunden mit Juna/V“ ^[welt.md:L75], acts as `Moonshine-Link` and offers „eine alternative Kohärenz auf Basis von Resonanz und Empathie“ ^[welt.md:L75]. As a „nicht-lokale, sub-protokollarische Verbindung“ ^[welt.md:L77] it rests „möglicherweise auf den Prinzipien der Quanten-Nichtlokalität und Verschränkung“ ^[welt.md:L77]; the line adds that this would let it overcome the Boundary Protocols (OBP) and the Zero-Trust architecture. The claim is hedged by `möglicherweise`, the following clause is not.
+
+Stands as a boundary toward AEGIS stated as a capacity of the Externe Ebene; recorded, the question stays open.
