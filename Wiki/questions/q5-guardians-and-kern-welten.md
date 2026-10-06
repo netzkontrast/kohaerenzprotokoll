@@ -513,3 +513,11 @@ Stands as the pairing of three Guardians to three Kernwelten with the domains se
 The plan writes the pairing across its fourth arc: „Einführung von LogOS (KW1) und Cerberus (KW3) als Agenten von AEGIS' Kontrolle und Abwehr“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L123], „Einführung von Mnemosyne (KW2) und Konfrontation mit ihrer Rolle bei der Verwaltung von Erinnerungen/Emotionen“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L124] and „Einführung von Kairos & Sophia (KW4) und Interaktion mit ihrer Rolle bei der Steuerung von Potenzial“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L134]. On pacing it names the worlds by tempo: „von der Rigidität KW1 zur Fluidität KW2, zur Beklemmung KW3, zum Potenzial KW4“ ^[plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md:L197].
 
 Stands on the side of four pairs with a shared KW4 as a plan, not a canon claim; the question stays open.
+
+## 2026-10-06 — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept
+
+**The locations concept pairs each of four worlds with a Guardian in one table, the [[alters]] beside them, and lets Kairos and Sophia share the fourth.**
+
+The table column for the associated Guardian and alters has cells that read „LogOS / Index, Architekt, (Praetor, Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L186], „Mnemosyne / Echo, Flicker, Silas, Oblivion“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L187], „Cerberus / Limina, Praetor, Oblivion, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L188] and „Kairos/Sophia / Eos, Index, Silas, (Nox)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L189]. The cells separate the Guardian from the alters by a slash; the concept proposes these in its own names of 2025-04-18.
+
+Stands on the side of four pairs with a shared fourth, in the table's cells; recorded, not applied, and the question stays open.
