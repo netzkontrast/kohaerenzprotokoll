@@ -350,3 +350,11 @@ Where it stands: one more proposed answer, a transformed remnant, in an outline 
 Kap 37: „AEGIS wird transformiert und fällt in eine“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L123] algorithmische Melancholie, „es verarbeitet Widersprüche, ohne echtes Bewusstsein zu erlangen“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L123]. Kap 34 had given the verdict „AEGIS ist kein Gott, sondern ein fehlerhafter Schutzmechanismus aus Angst vor der Leere“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L120].
 
 Where it stands: one more proposed answer, a transformed AEGIS that stays unconscious, in a synthesis of 2026-02-23; the record's status is unchanged.
+
+## 2026-10-06 — `project-coherence-protocol-a-canon-of-core-identity-and-anta`, 2025-11-03, the canon decree
+
+**The canon decree declares AEGIS's definitive fate to be algorithmic melancholy.**
+
+It claims: „The definitive fate of AEGIS is canonized“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L66] to avoid the trope of the destroyed evil AI; unable to eliminate Kael, AEGIS is forced into a permanent state of „algorithmic melancholy“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L66], „an irresolvable, looping process of analyzing a truth it can neither falsify nor prove“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L66].
+
+Stands as a canonizing claim of this document, recorded and not applied.
