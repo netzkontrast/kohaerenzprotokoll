@@ -229,9 +229,16 @@ is, stays open, and so does the question's status.
 ## 2026-10-05 — the author: Kael is the part cut out of Komponente 734
 
 Asked how Kael stands to 734, now that AEGIS emerged from it (W12), with three answers (the part the separation
-cut out of 734, the dwelling's number only, open until the Vortex), the author chose the first, the reading of the
+cut out of 734, the dwelling's number only, open until the [[vortex|Vortex]]), the author chose the first, the reading of the
 draft text of Kap 40/0: „Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde.“
 ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63] **AEGIS and Kael share one origin: AEGIS emerged
 from 734, Kael is what the separation cut out of it.** What the number labels in Kael's daily world — his dwelling,
 his designation, both — stays open, and so does the question's status for that part.
 
+## 2026-10-06 — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot
+
+**The Teil-1 plot proposes `Einheit 734` as the designation of a side character, the construct Lex, the Archivar of KW1.**
+
+The profile of KW1 writes the name field as „Einheit 734 /“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L19] with `Lex` as a „potenzieller Spitzname durch Kael“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L19]. It makes this bearer a construct under LogOS, „Wahrscheinlich eine spezialisierte Subroutine oder ein niederer Agent unter der Kontrolle von LogOS“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L21], and says it „Besitzt kein menschliches Selbstbewusstsein“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L21]. The document does not say what the number labels in the world, and names neither Komponente 734 nor Kael's dwelling.
+
+Where it stands: a new bearer of 734 in a proposal, recorded before the author's answers and changing neither the question nor its status.
