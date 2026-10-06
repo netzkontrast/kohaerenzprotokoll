@@ -1,10 +1,10 @@
 ---
 term: Vergessener Schrein
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman"]
 aliases: ["Vergessener Schrein (Trauma-Lokus)", "Trauma-Lokus"]
 gathered: "2026-09-17"
 ---
@@ -44,6 +44,10 @@ a Riss looks like anywhere read so far. See [[risse]].
 ## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung-2`, 2025-04-18, the second locations concept — the place of the core trauma in KW2
 
 The second key place is headed „Ort des Kern-Traumas (KW2)“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L223], after the name in the document's straight quotes. Its purpose: the „Manifestation eines zentralen, tief verdrängten traumatischen Ereignisses“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L225]. Its design: „Der Schrein ist eine stark verzerrte, albtraumhafte und symbolisch aufgeladene Version eines realen Ortes“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L226]. For the plot, „Kael muss diesen Ort aufsuchen“ ^[roman-lokalitaeten-konzept-und-ausarbeitung-2.md:L228] and face it.
+
+## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — profile 11, the place of Kael's central trauma in KW2
+
+Profile 11 is named „Vergessener Schrein / Kern-Trauma-Lokus“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L262] in KW2. Its core field: „Der physische oder symbolische Ort von Kaels zentralem Trauma“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L263], which „Repräsentiert den verdrängten, schmerzhaften Kern seiner psychischen Wunde“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L263]; the name `Vergessenheit` in it „deutet auf Verdrängung hin“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L263]. Its look is only suggested: „Könnte eine verfallene Struktur sein“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L264]. The plot field: „Zentraler Ort für die Konfrontation mit dem Kerntrauma in KW2“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L269]. Teil I already mentions it as a cave of hidden truths: „verborgene Wahrheiten, Unterbewusstsein“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L33].
 
 ## Reading — `welt`, 2025-07-29, the Welt blueprint — a cave, one possible element of KW2
 
