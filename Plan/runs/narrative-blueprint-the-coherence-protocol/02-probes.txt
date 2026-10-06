@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      18
+  backslash escapes      254
+  typographic marks      90
+  ascii quotes           232
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Archipelago, Architect, Architecture, Architektur
+  syste    SYSTEM, System, Systemic, Systems
+  confr    Confrontation, Confronted, Confronting
+  fragm    Fragment, Fragmentation, Fragmented
+  funct    Function, Functional, Functions
+  integ    Integrating, Integration, Integrator
+  logic    Logic, Logical, Logics
+  parad    Paradigm, Paradox, Paradoxon
+  world    World, Worldbuilding, Worlds
+  alter    Alter, Alters
+  coher    COHERENCE, Coherence
+  consc    Conscious, Consciousness
+  contr    Contradictions, Control
+  disso    Dissociation, Dissonant
+  emerg    Emergence, Emergent
+  ethic    Ethical, Ethics
+  execu    Execution, Executive
+  fight    Fight, Fighter
+  final    Final, Finale
+  found    Foundation, Foundational
+  garde    Garden, Gardener
+  guard    Guardian, Guardians
+  initi    Initial, Initially
+  manif    Manifestation, Manifestations
+  metap    Metaphor, Metaphysics
+
+# substring pairs -- never one term, often merged by accident
+  Beat < Beats
+  City < Multiplicity
+  Each < Breaching
+  Echo < Echoes
+  Help < Helper
+  Here < There
+  Here < Inherent
+  Here < COHERENCE
+  Here < Coherence
+  Here < Therefore
+  Main < Maintains
+  Meta < Metaphor
+  Meta < Metaphysics
+  Meta < Metafictional
+  Part < Parts
+  Part < Participation
+  Riss < Risse
+  Turn < Return
+  Uses < Focuses
+  With < Without
