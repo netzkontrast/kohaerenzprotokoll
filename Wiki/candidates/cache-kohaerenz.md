@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan"]
 gathered: "2026-09-24"
 ---
 
@@ -27,6 +27,10 @@ First answer (L33), in the entry of the part named Kael: a `Cache Kohärenz` pro
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Kael's own Cache Kohärenz as a hindrance
 
 In Beat 1.2 (Kapitel 3–4) the description speaks of Kael's own „Cache Kohärenz“ ^[finales-kausales-plot-geruest.md:L39], glossed „dissoziative Amnesie“ ^[finales-kausales-plot-geruest.md:L39], which „behindert aktiv sein Verständnis“ ^[finales-kausales-plot-geruest.md:L39].
+
+## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — Cache Kohärenz as a metaphor for dissociative amnesia
+
+The review reads the plan's state `Cache Kohärenz` as „ist eine treffende narrative Metapher für die dissoziative Amnesie“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40], the memory gaps between the identity states. This is the review's clinical application of DIS literature; the plan's own definition of the term is not given here.
 
 ## Reading — `the-coherence-protocol-a-definitive-guide-to-the-narrative-a`, 2025-11-03, the Coherence Protocol guide — the guide sets `Overhead` as a protocol's cost, drawn from cache coherence protocols
 
