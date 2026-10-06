@@ -1723,10 +1723,11 @@
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
         "project-codex-the-canonical-narrative-architecture-of-kohaer",
-        "the-coherence-protocol-a-definitive-guide-to-the-narrative-a"
+        "the-coherence-protocol-a-definitive-guide-to-the-narrative-a",
+        "concept-paper-the-architectural-foundations-of-kohaerenz-pro"
       ],
-      "sources": 92,
-      "readings": 92,
+      "sources": 93,
+      "readings": 93,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2863,10 +2864,11 @@
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "concept-paper-the-architectural-foundations-of-kohaerenz-pro"
       ],
-      "sources": 64,
-      "readings": 64,
+      "sources": 65,
+      "readings": 65,
       "conflict": "none yet"
     },
     "negentropie": {

@@ -1,0 +1,14 @@
+# concept-paper-the-architectural-foundations-of-kohaerenz-pro
+  lines                216  (frontmatter ends at 9)
+  body words           3623
+  headings             28   bold-only lines 0
+  table rows           21   code fences 0
+  question marks       0
+  backslash escapes    96
+  typographic marks    18   ascii quotes 128
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         670 chars
+

@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 105 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 105 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 106 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 106 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -385,7 +385,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [The Coherence Protocol: A World Bible](drive/the-coherence-protocol-a-world-bible.md) | 2025-10-15 | 3,381 |  | Silas 5, Oblivion 3, Alters 12, Genesis 2, Moonshine-Link 3, Nichts-Rauschen 2, Emergenz† 4, Juna 3 | Nothingness Noise 6, Nox 6, Garden of Possibilities 2, Classical Logic 4, Discursive Logic 2 |
 | [An Introduction to the Concepts of Coherence Protocol](drive/an-introduction-to-the-concepts-of-coherence-protocol.md) | 2025-11-03 | 1,381 |  | Kern-Welten 2, Entropie† 3, Kael 19, AEGIS 26, Risse 2 | Worlds 3, functional multiplicity 3, Foundation 3, Juna/V 3, Fundament 2 |
 | [An Introduction to the World of Kohärenz Protokoll](drive/an-introduction-to-the-world-of-kohaerenz-protokoll.md) | 2025-11-03 | 1,493 |  | Kael 23, Entropie† 2, AEGIS 22 | Foundation 7, Episteme 2, functional multiplicity 2, ANPs 3, Mind 2 |
-| [Concept Paper: The Architectural Foundations of "Kohärenz Protokoll"](drive/concept-paper-the-architectural-foundations-of-kohaerenz-pro.md) | 2025-11-03 | 3,623 |  | Kollaps-Kernel 5, Kohärenz-Kernel 4, Trennungsprotokoll† 3, Rhys 6, Lia 4, Dual-Kernel-Theorie† 2, Moonshine-Link 3, Lex 6 | Coherence Theory of Truth 3, "dialetheic mind" 2, Core World 2, Correspondence Theory of Truth 2, decoherence 2 |
+| [Concept Paper: The Architectural Foundations of "Kohärenz Protokoll"](drive/concept-paper-the-architectural-foundations-of-kohaerenz-pro.md) | 2025-11-03 | 3,623 | **read** | Kollaps-Kernel 5, Kohärenz-Kernel 4, Trennungsprotokoll† 3, Rhys 6, Lia 4, Dual-Kernel-Theorie† 2, Moonshine-Link 3, Lex 6 | Coherence Theory of Truth 3, "dialetheic mind" 2, Core World 2, Correspondence Theory of Truth 2, decoherence 2 |
 | [Dramaturgical Precision: Deconstructing the Irreversible Conflict in Kohärenz Protokoll](drive/dramaturgical-precision-deconstructing-the-irreversible-conf.md) | 2025-11-03 | 1,772 |  | Gödel-Gambit 2, Alters 3, TSDP 3, Risse† 4, Kael 25, AEGIS 30 | Recursive Consistency Validation 2, Core World 4, Prime 3, Protocol 6, Guardian 4 |
 | [Exploring Coherence Across Disciplines](drive/exploring-coherence-across-disciplines.md) | 2025-11-03 | 7,036 |  | — | Coherence Theory 8, Photon 3, decoherence 8, Correspondence 13, TEMPORAL 13 |
 | [Exploring the Coherence Protocol](drive/exploring-the-coherence-protocol.md) | 2025-11-03 | 6,027 |  | Cache-Kohärenz† 16, Kohärenz-Kernel 4, Kollaps-Kernel 3, Dual-Kernel-Theorie† 6, Emergenz† 6, Entropie† 5 | Persistence Principle 6, Anthropic 11, ALife 5, WAP 2, Giannakopoulos 13 |

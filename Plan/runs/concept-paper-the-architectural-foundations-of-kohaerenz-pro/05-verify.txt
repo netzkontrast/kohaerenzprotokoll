@@ -1,0 +1,31 @@
+$ python3 scripts/read.py concept-paper-the-architectural-foundations-of-kohaerenz-pro --count "conceptual blueprint"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`conceptual blueprint` ^[concept-paper-the-architectural-foundations-of-kohaerenz-pro.md:#1]
+$ python3 scripts/read.py concept-paper-the-architectural-foundations-of-kohaerenz-pro --count "LOG"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`LOG` ^[concept-paper-the-architectural-foundations-of-kohaerenz-pro.md:#2]
+$ python3 scripts/read.py concept-paper-the-architectural-foundations-of-kohaerenz-pro --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[concept-paper-the-architectural-foundations-of-kohaerenz-pro.md:#1]
+$ python3 scripts/read.py concept-paper-the-architectural-foundations-of-kohaerenz-pro --count "Φ"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Φ` ^[concept-paper-the-architectural-foundations-of-kohaerenz-pro.md:#0]
+$ python3 scripts/read.py concept-paper-the-architectural-foundations-of-kohaerenz-pro --count "Guardian"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian` ^[concept-paper-the-architectural-foundations-of-kohaerenz-pro.md:#1]
+profile figures (96 escapes, 128 ascii quotes, 0 question marks, 91 candidates) from 01-profile.txt and 04-counts.txt; eleven alters counted by hand: L137 to L147 table rows
