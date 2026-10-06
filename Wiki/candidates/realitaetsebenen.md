@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -85,6 +85,10 @@ The question that opens the document asks for „Wie können die sechs Realität
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — a deeper Realitätsebene sought beneath AEGIS's simulation
 
 The architecture plan proposes one Realitätsebene beneath the simulation, not several. Its table gives Kapitel 29 the theme „Die Jagd nach einer tieferen, konsistenten Realitätsebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L45]. The Kapitel 29 section calls the Fundament „hypothetischen, tieferen, stabileren Realitätsebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L467], „unterhalb oder jenseits von AEGIS' Simulation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L467], and asks whether reaching it would be a return to the real world, a level where AEGIS's paradoxes dissolve, or a way to create a new reality of one's own. Kapitel 22 asks „Ist alles eine Simulation, die von AEGIS gesteuert wird?“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L365].
+
+## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — the higher level of reality in Approach B
+
+Among its contradictions the paper reports, from a document it cites by digit, an Approach B to the climax in which Kael „verlässt die AEGIS-Realität“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L132] and transcends to „zu einer höheren Realitätsebene“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L132] (L132). It sets this beside Approach A, the Gödel-Gambit (L131), and chooses A for its own climax (L217).
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a new level of reality in Kap 39
 
