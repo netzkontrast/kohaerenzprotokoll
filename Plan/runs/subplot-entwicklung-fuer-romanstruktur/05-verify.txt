@@ -1,0 +1,247 @@
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Prompt"
+whole word, case-sensitive     58
+whole word, case-insensitive   58
+including compounds            58
+
+`Prompt` ^[subplot-entwicklung-fuer-romanstruktur.md:#58]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "\[Prompt\]"
+whole word, case-sensitive     55
+whole word, case-insensitive   55
+including compounds            55
+
+`\[Prompt\]` ^[subplot-entwicklung-fuer-romanstruktur.md:#55]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Diskussion"
+whole word, case-sensitive     57
+whole word, case-insensitive   57
+including compounds            57
+
+`Diskussion` ^[subplot-entwicklung-fuer-romanstruktur.md:#57]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Insight"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            17
+
+`Insight` ^[subplot-entwicklung-fuer-romanstruktur.md:#16]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Chain of Thought"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Chain of Thought` ^[subplot-entwicklung-fuer-romanstruktur.md:#7]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Subplot Idee"
+whole word, case-sensitive     55
+whole word, case-insensitive   55
+including compounds            55
+
+`Subplot Idee` ^[subplot-entwicklung-fuer-romanstruktur.md:#55]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "wahrscheinlich"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`wahrscheinlich` ^[subplot-entwicklung-fuer-romanstruktur.md:#12]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "vielleicht"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`vielleicht` ^[subplot-entwicklung-fuer-romanstruktur.md:#36]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Kapitel 20"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel 20` ^[subplot-entwicklung-fuer-romanstruktur.md:#0]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Kapitel 39"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel 39` ^[subplot-entwicklung-fuer-romanstruktur.md:#0]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            96
+
+`Kap` ^[subplot-entwicklung-fuer-romanstruktur.md:#0]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[subplot-entwicklung-fuer-romanstruktur.md:#0]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Kern-Welt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            13
+
+`Kern-Welt` ^[subplot-entwicklung-fuer-romanstruktur.md:#2]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Kern-Welten"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kern-Welten` ^[subplot-entwicklung-fuer-romanstruktur.md:#11]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Kael"
+whole word, case-sensitive     154
+whole word, case-insensitive   154
+including compounds            218
+
+`Kael` ^[subplot-entwicklung-fuer-romanstruktur.md:#154]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Kaels"
+whole word, case-sensitive     64
+whole word, case-insensitive   64
+including compounds            64
+
+`Kaels` ^[subplot-entwicklung-fuer-romanstruktur.md:#64]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Meta"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            35
+
+`Meta` ^[subplot-entwicklung-fuer-romanstruktur.md:#6]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "HJ"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            21
+
+`HJ` ^[subplot-entwicklung-fuer-romanstruktur.md:#1]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "HJn"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            20
+
+`HJn` ^[subplot-entwicklung-fuer-romanstruktur.md:#19]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Alex"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Alex` ^[subplot-entwicklung-fuer-romanstruktur.md:#25]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Guardian"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            27
+
+`Guardian` ^[subplot-entwicklung-fuer-romanstruktur.md:#8]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Guardians"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            17
+
+`Guardians` ^[subplot-entwicklung-fuer-romanstruktur.md:#16]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sophia` ^[subplot-entwicklung-fuer-romanstruktur.md:#1]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "KW1"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`KW1` ^[subplot-entwicklung-fuer-romanstruktur.md:#8]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "KW2"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`KW2` ^[subplot-entwicklung-fuer-romanstruktur.md:#7]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "KW3"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`KW3` ^[subplot-entwicklung-fuer-romanstruktur.md:#5]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "KW4"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`KW4` ^[subplot-entwicklung-fuer-romanstruktur.md:#8]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Selene"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`Selene` ^[subplot-entwicklung-fuer-romanstruktur.md:#11]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Moros"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Moros` ^[subplot-entwicklung-fuer-romanstruktur.md:#7]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Isabelle"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Isabelle` ^[subplot-entwicklung-fuer-romanstruktur.md:#2]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Maureen Murdocks Heroine's Journey"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Maureen Murdocks Heroine's Journey` ^[subplot-entwicklung-fuer-romanstruktur.md:#1]
+
+$ python3 scripts/read.py subplot-entwicklung-fuer-romanstruktur --count "Dissoziative-Tisch-Technik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziative-Tisch-Technik` ^[subplot-entwicklung-fuer-romanstruktur.md:#1]
+
+$ grep -c insight/CoT labels (L338..L555 / L342..L559)
+338:  - **Insight:** Die 'neue Sicht auf
+342:  - **Chain of Thought:** HJn Phase 
+375:  - **Insight:** Die Erkenntnis der 
+379:  - **Chain of Thought:** Meta-Phase
+411:  - **Insight:** Kaels Erkundung der
+415:  - **Chain of Thought:** Meta-Phase
+447:  - **Insight:** Die von Kael identi
+451:  - **Chain of Thought:** Meta-Phase
+483:  - **Insight:** Die Kernlüge oder 
+487:  - **Chain of Thought:** Meta-Phase
+519:  - **Insight:** Kaels Versuch, das 
+523:  - **Chain of Thought:** Meta-Phase
+555:  - **Insight:** AEGIS scheitert nic
+559:  - **Chain of Thought:** Meta-Phase
+$ stance_marker_count 138 = Prompt 58 + Diskussion 57 + Insight 16 + Chain of Thought 7
+$ profile: backslash escapes 137, glued ref numbers 154, candidates 84 (01-profile.txt, census.py draft)
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ALEXITHYMIA` ^[subplot-entwicklung-fuer-romanstruktur.md:#1]
+134:  - **Vorschlag: Trope ODE

@@ -1,0 +1,354 @@
+{
+  "document": "subplot-entwicklung-fuer-romanstruktur",
+  "drive_id": "1BulvK-GHhMZetjf27eS38ZG-bv2I01WDks5Zeg1KsQ4",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 154,
+  "backslash_escapes": 137,
+  "typographic_marks": 46,
+  "ascii_quotes": 92,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanomalie",
+      "Systemarchetyp",
+      "Systemarchetypen",
+      "Systemarchitektur",
+      "Systemdenken",
+      "Systemdenkens",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemfortschritts",
+      "Systemgrenzen",
+      "Systemic",
+      "Systeminformation",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemkomponenten",
+      "Systemkontrolle",
+      "Systemlogik",
+      "Systemlücken",
+      "Systemmacht",
+      "Systemmuster",
+      "Systemnatur",
+      "Systemreaktion",
+      "Systemregel",
+      "Systemregeln",
+      "Systemresilienz",
+      "Systems",
+      "Systemstrukturen",
+      "Systemtheorie",
+      "Systemverhalten",
+      "Systemwahrheiten",
+      "Systemzyklen"
+    ],
+    "traum": [
+      "TRAUMA",
+      "Trauma",
+      "Traumaarbeit",
+      "Traumaerinnerung",
+      "Traumageschichte",
+      "Traumareaktion",
+      "Traumas",
+      "Traumata",
+      "Traumatherapie",
+      "Traumatherapieprozess",
+      "Traumatic",
+      "Traumatization",
+      "Traumatized",
+      "Traumaursprüngen",
+      "Traumaverarbeitung"
+    ],
+    "kontr": [
+      "Kontraproduktivität",
+      "Kontrast",
+      "Kontrastiert",
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollmechanismus",
+      "Kontrollmethoden",
+      "Kontrollparadoxien",
+      "Kontrollstrukturen",
+      "Kontrollsystem",
+      "Kontrollsystems",
+      "Kontrollverlust",
+      "Kontrollversuche"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifizieren",
+      "Identifiziert",
+      "Identifizierung",
+      "Identifying",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsintegration",
+      "Identitätsstrategie",
+      "Identitätsverwirrung"
+    ],
+    "inter": [
+      "INTERPERSONAL",
+      "INTERSECTION",
+      "Interaktion",
+      "Interaktionen",
+      "Intergration",
+      "Internal",
+      "International",
+      "Interne",
+      "Interpersonal",
+      "Intervention",
+      "Interventions"
+    ],
+    "psych": [
+      "PSYCHOLOGY",
+      "Psyche",
+      "Psychedelic",
+      "Psychoanalysis",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischer",
+      "Psychologisches",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charakterbögen",
+      "Charaktere",
+      "Charakterentwicklungspotenzial",
+      "Charakteristisch",
+      "Charakterwachstum"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsergebnisse",
+      "Integrationsergebnissen",
+      "Integrationsprozess",
+      "Integrationsprozesses",
+      "Integrationsreise",
+      "Integrative",
+      "Integrität"
+    ],
+    "reali": [
+      "Realisation",
+      "Realism",
+      "Realist",
+      "Realities",
+      "Reality",
+      "Realität",
+      "Realitäten"
+    ],
+    "strat": [
+      "STRATEGIC",
+      "Strategic",
+      "Strategie",
+      "Strategien",
+      "Strategies",
+      "Strategisches",
+      "Strategy"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückung",
+      "Untergräbt",
+      "Unterstützung",
+      "Untersuchung",
+      "Unterwelt",
+      "Unterwelten"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltensanalyse",
+      "Verhaltensketten",
+      "Verhaltensmuster",
+      "Verhaltensprotokoll",
+      "Verhaltensregeln",
+      "Verhaltensweisen"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeiten",
+      "Analysen",
+      "Analysis",
+      "Analysten",
+      "Analytiker"
+    ],
+    "kernt": [
+      "Kernteil",
+      "Kernthema",
+      "Kernthemen",
+      "Kerntrauma",
+      "Kerntraumas",
+      "Kerntraumatische"
+    ],
+    "verme": [
+      "Vermeidung",
+      "Vermeidungshaltung",
+      "Vermeidungsmustern",
+      "Vermeidungsneigungen",
+      "Vermeidungsstrategie",
+      "Vermeidungsverhalten"
+    ],
+    "arche": [
+      "Archetyp",
+      "Archetypal",
+      "Archetype",
+      "Archetypen",
+      "Archetypes"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture",
+      "Architektur",
+      "Archive",
+      "Archiven"
+    ],
+    "bewäl": [
+      "Bewältigung",
+      "Bewältigungsfähigkeiten",
+      "Bewältigungsmechanismen",
+      "Bewältigungsstrategie",
+      "Bewältigungsstrategien"
+    ],
+    "disso": [
+      "DISSOCIATION",
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziative"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionen",
+      "Funktionsfähigkeit",
+      "Funktionsverlust",
+      "Funktionsweise"
+    ],
+    "gegen": [
+      "Gegenmaßnahme",
+      "Gegenmaßnahmen",
+      "Gegenstrategien",
+      "Gegensätze",
+      "Gegensätzen"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelfokus",
+      "Kapiteln",
+      "Kapitels",
+      "Kapiteltitel"
+    ],
+    "konze": [
+      "Konzentriert",
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzepts"
+    ],
+    "narra": [
+      "Narration",
+      "Narrative",
+      "Narrativen",
+      "Narratives",
+      "Narrativs"
+    ],
+    "persp": [
+      "PERSPECTIVE",
+      "Perspective",
+      "Perspectives",
+      "Perspektive",
+      "Perspektiven"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ages",
+      "Infragestellen"
+    ],
+    [
+      "Ages",
+      "Infragestellung"
+    ],
+    [
+      "Ages",
+      "Traumageschichte"
+    ],
+    [
+      "Alex",
+      "ALEXITHYMIA"
+    ],
+    [
+      "Anti",
+      "Atlantic"
+    ],
+    [
+      "Arts",
+      "PARTS"
+    ],
+    [
+      "Arts",
+      "Parts"
+    ],
+    [
+      "Bank",
+      "Datenbank"
+    ],
+    [
+      "Best",
+      "Bestätigt"
+    ],
+    [
+      "Best",
+      "Bestätigung"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Book",
+      "Bookshelf"
+    ],
+    [
+      "CORE",
+      "Core"
+    ],
+    [
+      "Code",
+      "Codefragmente"
+    ],
+    [
+      "Data",
+      "RegData"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "EXPO",
+      "EXPOS"
+    ],
+    [
+      "EXPO",
+      "Exposition"
+    ]
+  ]
+}

@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 129 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 129 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 130 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 130 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -493,7 +493,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Konzept und Story für den Roman Kohärenz Protokoll (mit Subplots)](drive/konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md) | 2025-05-02 | 2,657 | **read** | Externe Ebene 7, Grenzfeste 2, Rhys 7, Multiplizität 9, Resonanz-Landschaft 2, Alex 4, Guardians 7, Cerberus 3 | AEGIS-Paradoxon 6, Juna/Vs 2, Juna/V 15, Funktionaler Multiplizität 2, Guardian 7 |
 | [Plan zur Subplot-Integration für den Roman (Erweitert)](drive/plan-zur-subplot-integration-fuer-den-roman-erweitert.md) | 2025-05-02 | 3,569 |  | Partnerin 3, Externe Ebene 8, Argus 8, Sophia 5, Kairos 5, Guardians 13, Cerberus 5, LogOS 5 | AEGIS-Paradoxon 8, EICs 2, AEGIS-Protokolls 2, Ko-Bewusstheit 2, Paradoxon X 5 |
 | [Plan zur Subplot-Integration für den Roman (Erweitert und Vertieft)](drive/plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve.md) | 2025-05-02 | 3,478 | **read** | Partnerin 3, Externe Ebene 8, Argus 9, Sophia 6, Kairos 7, Cerberus 7, Isabelle 3, Guardians 12 | EICs 2, Ko-Bewusstheit 3, AEGIS-Paradoxon 6, AEGIS-Protokolls 2, Paradoxon X 5 |
-| [Subplot-Entwicklung für Romanstruktur](drive/subplot-entwicklung-fuer-romanstruktur.md) | 2025-05-02 | 16,466 |  | Argus 19, Alex 25, Rhys 19, Lia 10, Selene 12, Lex 42, Guardians 14, Kiko 19 | Cognitive-Behavioral Therapy 9, Kael (Host) 8, CBT 5, Onno 4, Moros-EP 2 |
+| [Subplot-Entwicklung für Romanstruktur](drive/subplot-entwicklung-fuer-romanstruktur.md) | 2025-05-02 | 16,466 | **read** | Argus 19, Alex 25, Rhys 19, Lia 10, Selene 12, Lex 42, Guardians 14, Kiko 19 | Cognitive-Behavioral Therapy 9, Kael (Host) 8, CBT 5, Onno 4, Moros-EP 2 |
 | [Kohärenz Protokoll: Detailliertes Roman-Outline (Leserzentriert)](drive/kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie.md) | 2025-05-03 | 7,933 | **read** | Argus 17, Cerberus 17, Alex 18, Komponente 734 3, Mnemosyne 20, Rhys 14, LogOS 16, Selene 15 | AEGIS-Paradoxon 36, Fehlausgerichtete Kohärenz 4, Zweite-Ordnung-Kybernetik 2, AEGIS-Kern 5, Nietzsche 2 |
 | [Kohärenz Protokoll: Listen der Tropes, Subplots & Konzepte](drive/kohaerenz-protokoll-listen-der-tropes-subplots-konzepte.md) | 2025-05-03 | 1,549 | **read** | Selene 4, Argus 2, Mnemosyne 3, Cerberus 2, Guardians 3, LogOS 2, DID 2, Multiplizität 2 | Kontrollproblem 2, Künstliche Intelligenz 3, Heidegger 2, Kant 2, AEGIS-Paradoxon 2 |
 | [Kontext outline](drive/kontext-outline.md) | 2025-05-03 | 4,661 | **read** | Argus 11, Cerberus 12, Mnemosyne 18, Realitätsebenen 4, Rhys 12, Sophia 5, Alex 9, LogOS 13 | AEGIS-Paradoxon 21, KWs 4, Fehlausgerichtete Kohärenz 4, Zweite-Ordnung-Kybernetik 2, Paradox der Toleranz 2 |
