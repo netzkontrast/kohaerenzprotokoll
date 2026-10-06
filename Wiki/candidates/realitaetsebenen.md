@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -78,6 +78,10 @@ The premise says the plot includes „die Suche nach einer ultimativen Realität
 
 Third answer, section VI (L393): the characters' perceptions are challenged by „die geschichteten Realitätsebenen kontinuierlich herausgefordert“ ^[charaktere.md:L393].
 
+## Reading — `welt`, 2025-07-29, the Welt blueprint — six levels in the question, seven named with a Fundament in the second pass
+
+The question that opens the document asks for „Wie können die sechs Realitätsebenen“ ^[welt.md:L26] — the four Kernwelten, the Überwelt and the Externe Ebene — to be conceived as distinct environments, and the answer announces „Hier ist der detaillierte Bauplan der sechs Realitätsebenen“ ^[welt.md:L32]. The first pass (L34–L78) profiles those six. The second pass counts further: it lists „die vier Kernwelten (KW1-4), die Überwelt, die Externe Ebene und das Potentialmeer“ ^[welt.md:L84], „unterlegt von einem mysteriösen Fundament“ ^[welt.md:L84], and later gives the Fundament its own section: „Das Fundament ist die postulierte tiefste Realitätsebene“ ^[welt.md:L142], „unter oder hinter AEGIS' Simulation“ ^[welt.md:L142]. The text does not itself revise the number six; the Potentialmeer and the Fundament appear as sections of the second pass (L132–L146).
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a new level of reality in Kap 39
 
 The master blueprint sets Kap 39 in „Eine neue, offene Realitätsebene.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L372] and plans Kael and Juna to exist in „in einer Realität, die Chaos und Ordnung in Balance hält“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L375]
@@ -87,6 +91,10 @@ The master blueprint sets Kap 39 in „Eine neue, offene Realitätsebene.“ ^[r
 The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
 
 In C-006 the report quotes Doc 42 on one climax approach: „Kael verlässt die AEGIS-Realität und transzendiert zu einer höheren Realitätsebene“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L33]. Its own summary: „Flucht in die externe Realität vs. interne Konfrontation und Umprogrammierung der Simulation durch das Gödel-Gambit.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L33]
+
+## Where the sources differ
+
+- `welt` (2025-07-29) opens on six levels and, in its second pass, names the Potentialmeer and a „mysteriösen Fundament“ ^[welt.md:L84] beneath them.
 
 ## Open
 
