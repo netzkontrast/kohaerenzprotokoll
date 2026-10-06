@@ -553,3 +553,11 @@ Stands as a document that pairs, in the conditional; the record's question is no
 Its Tabelle 3 reads: „KW1 (Konstrukt-Stadt)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L195] for LogOS (Konstrukt-Stadt appears as „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L148] in step 1.1), „KW2 (Resonanz-L.)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L404] for Mnemosyne, „KW3 (Grenzfeste)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L196] for Cerberus, „KW4 (Möglichkeits-G.)“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L406] for Kairos and „Überwelt / Alle KW“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L407] for Sophia. In step 2.9 Sophia works „möglicherweise direkt in der Überwelt“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L452].
 
 Stands: one Guardian per world for four, Sophia over all, as the blueprint plans it; nothing decided for the record.
+
+## 2026-10-06 — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles
+
+**The place profiles pair each Kern-Welt with a Guardian, KW4 with two, and give the Überwelt to AEGIS and the Guardians.**
+
+Headings: „KW1: Konstrukt-Stadt (LogOS)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L106], „KW2: Resonanz-Landschaft (Mnemosyne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L241], „KW3: Grenzfeste (Cerberus)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L346], „KW4: Möglichkeits-Garten (Kairos/Sophia)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L436]. The Überwelt: „Überwelt (AEGIS/Guardian-Domäne)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L541], where the Guardians are „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) sind hier als Datenströme oder abstrakte Entitäten präsent und erhalten ihre Direktiven.“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L551]
+
+Stands as one more arrangement of the pairing, dated 2025-04-18; recorded, not applied, and the question stays open in the record's own terms.
