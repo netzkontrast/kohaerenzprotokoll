@@ -792,3 +792,11 @@ It adds a count of 11 and names for it, and nothing on the number of Kern-Welten
 Reporting its outline, it writes „Das System besteht aus elf detailliert ausgearbeiteten Anteilen (Alters)“ ^[romanidee-als-interaktiver-prototyp.md:L44], and for the worlds „Die sechs identifizierten Realitätsebenen“ ^[romanidee-als-interaktiver-prototyp.md:L84], of which four are Kernwelten, KW1 to KW4, with the Überwelt of AEGIS and „die Externe Ebene von Juna/V“ ^[romanidee-als-interaktiver-prototyp.md:L84] making six. For the game it plans a variable for „Der aktuelle Einflussgrad jedes der elf Anteile“ ^[romanidee-als-interaktiver-prototyp.md:L125] and one stability value for each of the four Kernwelten.
 
 It adds a count of eleven and a count of four and six, and says nothing on one world per part: the question stays open in the record's own terms.
+
+## 2026-10-06 — `project-status-report-kohaerenz-protokoll-canonical-state-st`, 2026-03-26, the status report
+
+**The status report declares a Confirmed Core of eleven, calls the 11 vs. 13 discrepancy `UNKLAR`, and plans to purge Silas and Oblivion.**
+
+Its heading reads „The Alter-List Discrepancy (11 vs. 13)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L43], and it declares „Confirmed Core (11)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L47] (L47). It writes of `Silas` and `Oblivion`: „appear in legacy notes“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L48], and plans „Finalize the 11-part system; purge Silas and Oblivion redundancies.“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L101] The report says nothing of Kern-Welten counts beyond naming `Logos-Prime` as KW1 (L86).
+
+Stands as an alter count of eleven, declared in a report of 2026-03-26 with its own `UNKLAR` status; recorded, not answering Q3.
