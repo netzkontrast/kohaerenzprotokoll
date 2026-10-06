@@ -1,0 +1,140 @@
+$ read.py --count "Narrative Umsetzungsempfehlung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Umsetzungsempfehlung` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Konkrete Handlungsempfehlungen zur Plot-Optimierung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konkrete Handlungsempfehlungen zur Plot-Optimierung` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Inkonsistenz-Warnung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Inkonsistenz-Warnung` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Narrative Integration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Integration` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Handlungsanweisung für das Finale"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Handlungsanweisung für das Finale` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Kohärenz Protokolls"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz Protokolls` ^[plot-analyse-und-romanentwicklung.md:#3]
+$ read.py --count "AEGIS-Domäne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Domäne` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Kern-Welten-Konzept"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kern-Welten-Konzept` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Kaels"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kaels` ^[plot-analyse-und-romanentwicklung.md:#8]
+$ read.py --count "Junas"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Junas` ^[plot-analyse-und-romanentwicklung.md:#2]
+$ read.py --count "McL-Sigma-3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`McL-Sigma-3` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "McL-Welt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`McL-Welt` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "McLaughlin"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`McLaughlin` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "ANP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ANP` ^[plot-analyse-und-romanentwicklung.md:#2]
+$ read.py --count "Möglichkeiten-Garten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Möglichkeiten-Garten` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Ly-Welt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ly-Welt` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Mosaik-Herz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mosaik-Herz` ^[plot-analyse-und-romanentwicklung.md:#2]
+$ read.py --count "Wir-Geflecht"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Wir-Geflecht` ^[plot-analyse-und-romanentwicklung.md:#3]
+$ read.py --count "Guardians"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Guardians` ^[plot-analyse-und-romanentwicklung.md:#5]
+$ read.py --count "Alters"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Alters` ^[plot-analyse-und-romanentwicklung.md:#10]
+$ read.py --count "Alter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            13
+
+`Alter` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Gatekeeper-Alter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gatekeeper-Alter` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ read.py --count "Beschützer-Alter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beschützer-Alter` ^[plot-analyse-und-romanentwicklung.md:#1]
+$ grep -c "^[0-9]\.  \*\*" (numbered phases 83-95 = 7, read by eye, L83 L85 L87 L89 L91 L93 L95); labels = 5 (sum of five counts of 1); profile: glued ref numbers 67, candidates 86
+7

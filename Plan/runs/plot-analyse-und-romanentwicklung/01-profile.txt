@@ -1,0 +1,14 @@
+# plot-analyse-und-romanentwicklung
+  lines                218  (frontmatter ends at 9)
+  body words           4195
+  headings             15   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       8
+  backslash escapes    98
+  typographic marks    62   ascii quotes 40
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    67
+  repeated labels      none
+  longest line         883 chars
+

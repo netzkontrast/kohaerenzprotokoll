@@ -48,10 +48,11 @@
         "romanprojekt-kohaerenz-protokoll-analyse",
         "system-kael-konzeptentwicklung-und-analyse",
         "romanprojekt-kohaerenz-protokoll-leitfragen",
-        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert"
+        "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 13,
-      "readings": 11,
+      "sources": 14,
+      "readings": 12,
       "conflict": "none"
     },
     "aegis": {
@@ -158,10 +159,11 @@
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
-        "project-codex-the-canonical-narrative-architecture-of-kohaer"
+        "project-codex-the-canonical-narrative-architecture-of-kohaer",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 94,
-      "readings": 94,
+      "sources": 95,
+      "readings": 95,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -354,10 +356,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "roman-entwicklung-kohaerenz-und-leitfragen",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 63,
-      "readings": 62,
+      "sources": 64,
+      "readings": 63,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -602,10 +605,11 @@
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 45,
-      "readings": 45,
+      "sources": 46,
+      "readings": 46,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -727,10 +731,11 @@
         "charaktere",
         "strukturelle-dissoziation-system-kael-analyse",
         "roman-entwicklung-kohaerenz-und-leitfragen",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 27,
+      "readings": 27,
       "conflict": "none yet"
     },
     "dkt": {
@@ -966,10 +971,11 @@
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 63,
-      "readings": 63,
+      "sources": 64,
+      "readings": 64,
       "conflict": "C2"
     },
     "erason": {
@@ -1053,10 +1059,11 @@
         "kontext-outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "2-kohaerenz-protokoll-konzeptentwicklung",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 31,
+      "readings": 31,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1283,10 +1290,11 @@
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "roman-entwicklung-kohaerenz-und-leitfragen",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 24,
+      "readings": 24,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -1376,10 +1384,11 @@
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 64,
-      "readings": 64,
+      "sources": 65,
+      "readings": 65,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -1572,10 +1581,11 @@
         "kohaerenz-protokoll-konzeptentwicklung",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 81,
-      "readings": 81,
+      "sources": 82,
+      "readings": 82,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -1732,10 +1742,11 @@
         "the-coherence-protocol-a-definitive-guide-to-the-narrative-a",
         "concept-paper-the-architectural-foundations-of-kohaerenz-pro",
         "the-coherence-protocol-a-definitive-guide-to-narrative-archi",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 95,
-      "readings": 95,
+      "sources": 96,
+      "readings": 96,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -1813,10 +1824,11 @@
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
         "project-codex-the-canonical-narrative-architecture-of-kohaer",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 41,
+      "readings": 41,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -1891,10 +1903,11 @@
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 65,
-      "readings": 64,
+      "sources": 66,
+      "readings": 65,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2249,10 +2262,11 @@
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "romanprojekt-analyse-synthese",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 54,
-      "readings": 54,
+      "sources": 55,
+      "readings": 55,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -2501,10 +2515,11 @@
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 50,
-      "readings": 50,
+      "sources": 51,
+      "readings": 51,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -2589,10 +2604,11 @@
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 58,
-      "readings": 58,
+      "sources": 59,
+      "readings": 59,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -2636,10 +2652,11 @@
         "outline",
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "roman-entwicklung-kohaerenz-und-leitfragen",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 34,
+      "readings": 34,
       "conflict": "C5, C11"
     },
     "moonshine-link": {
@@ -2807,10 +2824,11 @@
         "roman-plot-entwicklung-mit-kohaerenzprotokoll",
         "kohaerenz-protokoll-39-kapitel-matrix",
         "roman-entwicklung-kohaerenz-protokoll-json",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 23,
-      "readings": 23,
+      "sources": 24,
+      "readings": 24,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -2885,10 +2903,11 @@
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
-        "concept-paper-the-architectural-foundations-of-kohaerenz-pro"
+        "concept-paper-the-architectural-foundations-of-kohaerenz-pro",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 65,
-      "readings": 65,
+      "sources": 66,
+      "readings": 66,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -3004,10 +3023,11 @@
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "roman-entwicklung-kohaerenz-und-leitfragen",
-        "finales-kausales-plot-geruest"
+        "finales-kausales-plot-geruest",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 52,
-      "readings": 52,
+      "sources": 53,
+      "readings": 53,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -3143,10 +3163,11 @@
         "roman-plot-entwicklung-mit-kohaerenzprotokoll",
         "romanprojekt-analyse-kohaerenz-protokoll",
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
-        "roman-entwicklung-kohaerenz-und-leitfragen"
+        "roman-entwicklung-kohaerenz-und-leitfragen",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 41,
-      "readings": 41,
+      "sources": 42,
+      "readings": 42,
       "conflict": "C11"
     },
     "ouroboros-struktur": {
@@ -3298,10 +3319,11 @@
         "charaktere",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "roman-entwicklung-kohaerenz-und-leitfragen",
-        "project-codex-the-canonical-narrative-architecture-of-kohaer"
+        "project-codex-the-canonical-narrative-architecture-of-kohaer",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 33,
-      "readings": 34,
+      "sources": 34,
+      "readings": 35,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -3397,10 +3419,11 @@
         "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert",
         "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch",
         "roman-entwicklung-kohaerenz-und-leitfragen",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 26,
+      "readings": 26,
       "conflict": "C11"
     },
     "rhys": {
@@ -3538,10 +3561,11 @@
         "2-kohaerenz-protokoll-konzeptentwicklung",
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 69,
-      "readings": 69,
+      "sources": 70,
+      "readings": 70,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -3706,10 +3730,11 @@
         "romanprojekt-analyse-kohaerenz-protokoll",
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
         "roman-entwicklung-kohaerenz-und-leitfragen",
-        "romanprojekt-analyse-synthese"
+        "romanprojekt-analyse-synthese",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 41,
-      "readings": 41,
+      "sources": 42,
+      "readings": 42,
       "conflict": "C11"
     },
     "snk": {
@@ -3768,10 +3793,11 @@
         "roman-entwicklung-kohaerenz-und-leitfragen",
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
-        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"
+        "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten",
+        "plot-analyse-und-romanentwicklung"
       ],
-      "sources": 37,
-      "readings": 37,
+      "sources": 38,
+      "readings": 38,
       "conflict": "C4, C6"
     },
     "system-monitor": {

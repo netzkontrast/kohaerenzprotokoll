@@ -1,0 +1,368 @@
+{
+  "document": "plot-analyse-und-romanentwicklung",
+  "drive_id": "1-nxpVh-lpPC7ddma9ZfFBNhIZV5UMo3TX8IB7px8f5w",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; third in the queue re-ranked after document 109; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), one after the other, from Plan/runs/ingest-111/brief.md, written after the session had read the document itself; one doubled subject in the aegis reading corrected by the session before apply; the six chapter readings written by the session from Plan/runs/ingest-111-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 86,
+    "decisions": 87,
+    "decided_by_lookup": 77,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An assistant's advice whose new surfaces are borrowed concepts it applies (IFS, Murdock's phases, Gödel, Monstrous Moonshine, the j-function, paraconsistent logic, Landauer), Alters named only in its table, and place and protocol names of the draft it reports; none is read in a second document as a term of the novel here, and everything it says of the novel's world went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the ZTEM as AEGIS's means against Shannon entropy"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        27,
+        33,
+        43,
+        109,
+        135
+      ],
+      "attribution": "",
+      "note": "advice that reports AEGIS from the author's documents and proposes a heat price and a Gödel limit"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        63,
+        121
+      ],
+      "attribution": "",
+      "note": "the assistant's count of ten Alters and the Symmetrie-Dimensionen"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        75
+      ],
+      "attribution": "",
+      "note": "guardian of row 3 and the attempt to isolate Kael from Juna"
+    },
+    {
+      "page": "did",
+      "lines": [
+        57,
+        129
+      ],
+      "attribution": "",
+      "note": "DID as an adaptive strategy, and as contradictory"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        27,
+        29
+      ],
+      "attribution": "",
+      "note": "Shannon entropy against the thermodynamic price of erasing"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        109,
+        117,
+        121
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as outside AEGIS's formal system"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        72,
+        75
+      ],
+      "attribution": "",
+      "note": "row 3, Cerberus and Nox on the same premises"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        119,
+        145
+      ],
+      "attribution": "",
+      "note": "guardian confrontations as debates, and the Moonshine verdict"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        41,
+        83,
+        91,
+        109,
+        117,
+        148
+      ],
+      "attribution": "",
+      "note": "Juna as emotional anchor, Gödel sentence and j-function"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        37,
+        41,
+        45,
+        50,
+        87,
+        91,
+        95,
+        117,
+        133,
+        135
+      ],
+      "attribution": "",
+      "note": "Kael in the draft's Kap 1, the proposed pacing, Murdock's phases and the finale"
+    },
+    {
+      "page": "kairos",
+      "lines": [],
+      "attribution": "",
+      "note": "Kairos in a shared cell"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        63,
+        69,
+        160
+      ],
+      "attribution": "",
+      "note": "a proposed table of guardian, IFS category, Alters and function per Kern-Welt"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        37,
+        70,
+        141
+      ],
+      "attribution": "",
+      "note": "row 1 of the table, the draft's Kap 1 and the maintenance drones"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        93,
+        129
+      ],
+      "attribution": "",
+      "note": "guardian of row 1, healed not destroyed, classical logic"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        147
+      ],
+      "attribution": "",
+      "note": "guardian of row 2 and the loop of nostalgia"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        73,
+        121
+      ],
+      "attribution": "",
+      "note": "row 4 and the Moonshine metaphor"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        95,
+        117
+      ],
+      "attribution": "",
+      "note": "accepted in phase 7, the Monster group in Kael"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "slowing recognition to raise the force of Multiplizität"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        23,
+        91
+      ],
+      "attribution": "",
+      "note": "an active sea of potential, and the liminal space of the descent"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "Oblivion as Freeze in row 3"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as a Potentialmeer"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        53,
+        71,
+        143
+      ],
+      "attribution": "",
+      "note": "row 2 of the table and a world that reacts to emotions"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        31,
+        51
+      ],
+      "attribution": "",
+      "note": "a proposal that the Risse give off heat"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "Silas as Caretaker in row 2"
+    },
+    {
+      "page": "sophia",
+      "lines": [],
+      "attribution": "",
+      "note": "Sophia in a shared cell"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C11",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title and the protocol's name: Kohärenz Protokoll, Kohärenz Protokolls), J12 and J16 (compounds with their own sense: Kohärenz-Optimierer Stufe 2 — a rank, on kael — Cache-Inkohärenz, Genesis der Existenz — a document's title — Zero-Trust Execution Model — read on aegis-teilfunktionen — Shannon-Entropie — read on entropie), J60 (the AEGIS expansion, read on aegis and C1); `Echo` a child Alter, not the residual echoes",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 27,
+      "decision": "reading",
+      "why": "the Zero-Trust Execution Model as AEGIS's means against Shannon entropy — a reading on the page, from the plot analysis's report or proposal"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 15,
+      "decision": "reading",
+      "why": "DID as an adaptive survival strategy (L57, L129) — a reading on the page, from the plot analysis's report or proposal"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 73,
+      "decision": "occurrence",
+      "why": "a cell of row 4's function, „Raum für kreative Emergenz“, nothing said of Emergenz itself"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 15,
+      "decision": "reading",
+      "why": "Shannon against thermodynamic entropy (L27–L29) — a reading on the page, from the plot analysis's report or proposal"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title of an uploaded document, `Genesis der Existenz` (L15, L169)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title and the protocol's name (J9)"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 45,
+      "decision": "reading",
+      "why": "the proposal to slow recognition to raise the weight of the multiplicity — a reading on the page, from the plot analysis's report or proposal"
+    },
+    {
+      "page": "potentialmeer",
+      "surface": "Potentialmeer",
+      "line": 23,
+      "decision": "reading",
+      "why": "the Nichts Rauschen as an active Potentialmeer (Śūnyatā) — a reading on the page, from the plot analysis's report or proposal"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "only in a heading and in „Realitätssimulation“, nothing said of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "the IFS categories Manager, Firefighter, Exiles (L59) — borrowed, applied by the assistant; no page",
+    "Murdock's seven phases of the Heroine's Journey (L83–L95) — borrowed; on kael where they place him",
+    "Gödel's first incompleteness theorem, Monstrous Moonshine, the monster group, the j-function, paraconsistent logic and dialetheism (L107–L131) — the assistant's metaphors; on aegis, juna, kael and mosaik-herz where applied",
+    "Index, Limina, Eos, Praetor, Nox, Flicker, Echo — Alters named in the table (L70–L73) and L53, L143, L148; on Q3, no page",
+    "Transitkorridor 3, Datenknotenpunkt Gamma-7, Sub-Netzwerk Gamma-Phi, Beta-Rho-5, McL-Sigma-3, IP-K1123, Beta7 — places and a protocol reported from the draft; no page",
+    "Wir-Geflecht, Jetzt-Raum, Innerer Garten, PMAS — named once or twice; on kael and aegis where read",
+    "Śūnyatā (L23) — on nichts-rauschen and potentialmeer"
+  ],
+  "internal_tension": "it says „nicht alle zehn Alters“ (L63) beside a table naming eleven figures with the Selbst (L70–L73); the fourth world is `Möglichkeits-Garten` (L73, L160) and `Möglichkeiten-Garten` (L121); `Externe Ebene` (L109) and `Externen Ebene` (L111, L117, L121)",
+  "baseline_moved": "graphrag.py bench: unchanged by this document's readings (not re-run for a document that adds no page)"
+}
