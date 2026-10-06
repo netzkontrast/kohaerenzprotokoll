@@ -1,10 +1,10 @@
 ---
 term: Persistenzgleichung
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "kohaerenz-protokoll-master-integration-md"]
 gathered: "2026-09-24"
 ---
 
@@ -12,6 +12,10 @@ gathered: "2026-09-24"
 
 **The equation [[aegis|AEGIS]] computes to measure its own stability — and what
 it actually measures.**
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — the equation, AEGIS computing it, Kael's decision, and the log's last line
+
+The master integration gives the equation its own section, „Die Persistenzgleichung“ ^[kohaerenz-protokoll-master-integration-md.md:L64], with the table of η as „Persistenz-Score (0–1)“ ^[kohaerenz-protokoll-master-integration-md.md:L72]. It states: „AEGIS berechnet diese Gleichung buchstäblich für jeden Bürger und jede Struktur der Stadt.“ ^[kohaerenz-protokoll-master-integration-md.md:L78] In Act III Kael decides: „Kaels Entscheidung an der Persistenzgleichung“ ^[kohaerenz-protokoll-master-integration-md.md:L284], with α=1, β=∞ as stasis and β=0 as death (L284). In the log of AEGIS the document writes „Die Gleichung hat keine Lösung.“ ^[kohaerenz-protokoll-master-integration-md.md:L354]
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
