@@ -298,3 +298,11 @@ Where it stands: the log gives the Komponente sense (Kael's designation) in AEGI
 At L40 it reads the phenomenon of depersonalisation „das Kael als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40] Komponente 734 experiences; at L170 „Kaels anfänglicher Zustand als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L170] Komponente 734 within the order of AEGIS and the Konstrukt-Stadt (KW1). `Wohneinheit 734` does not appear in the review.
 
 Stands: the review adds a use of Komponente 734 as Kael's designation and as a state, and does not answer the question; it stays open.
+
+## 2026-10-06 — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint
+
+**The blueprint writes `Komponente 734` once, as what emerges from the `Nichts Rauschen` in its opening set-piece, and gives AEGIS an agent `Unit 734` in two other places; it names no dwelling and does not connect the two.**
+
+In the Writer's Room set-piece list: „We experience the emergence of“ ^[narrative-blueprint-the-coherence-protocol.md:L419] `Komponente 734`, whose first moment is „a pure act of resistance“ ^[narrative-blueprint-the-coherence-protocol.md:L419]. In the AEGIS timeline AEGIS „deploys agents like Unit 734 to monitor and increase its direct, oppressive presence.“ ^[narrative-blueprint-the-coherence-protocol.md:L345] and in beat 4 of the beat sheet „AEGIS's Unit 734 begins actively pursuing him, shifting the threat from an abstract feeling of paranoia to a tangible pursuer.“ ^[narrative-blueprint-the-coherence-protocol.md:L364] The blueprint does not say that the component and the unit are one, or that either is Kael's designation.
+
+Stands: the blueprint offers two uses of the number in two parts and decides nothing; the question of what the number labels in the world stays open.
