@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -166,6 +166,10 @@ Title: „Die Juna-Anomalie“ ^[kohaerenz-protokoll-kapitel-outline-generierung
 - Story: the dual-storyform outline plans „Kael begegnet einer flüchtigen Silhouette“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L83]
 - Storyforms: `Storyform B` (`IC: Mind/Conscious`): „Juna übt Druck auf Kaels Bewusstsein aus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L85]; `Storyform A` (`IC: Universe/Past`): „Sie ist die äußere, verlorene Wahrheit“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L86]
 - Scene and pacing: `Szenen-Keim`: „Ein Telefon in einer verlassenen Lobby“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L87]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — first encounter with Juna, classed a syntax error
+
+- The reset synthesis places in Phase I: „Die erste Begegnung mit Juna in Kapitel 3 wird vom System als“ ^[romanprojekt-analyse-synthese.md:L50] „Syntaxfehler“ ^[romanprojekt-analyse-synthese.md:L50] classified.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

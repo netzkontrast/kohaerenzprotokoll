@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: ["C9", "C7"]
 gathered: "2026-09-25"
 ---
@@ -151,6 +151,10 @@ Title: „Der Abgrund — Die dunkle Nacht“ ^[kohaerenz-protokoll-kapitel-outl
 - Story: the dual-storyform outline plans „AEGIS startet das SIS-Protokoll (Secure Isolation State)“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L274]
 - Storyforms: `Storyform B` (`MC: Universe/Future`): „Die Vernichtung scheint unvermeidlich“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L276]; `Storyform A` (`RS: Psychology/Becoming`): „Juna ist die einzige verbleibende Verbindung“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L277]
 - Scene and pacing: `Szenen-Keim`: „Ein schwarzer Raum ohne Wände“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L278]; `Pacing`: „Langsam, depressiv“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L279]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Phase II ends here
+
+- The reset synthesis closes Phase II, headed „Die Anatomie der Spaltung (Kapitel 14–26)“ ^[romanprojekt-analyse-synthese.md:L52] — the range given is Kapitel 14–26; the line names no event for Kap 26 itself.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -160,6 +160,10 @@ Title: „Rückkehr / Ankunft“ ^[kohaerenz-protokoll-kapitel-outline-generieru
 - Story: the dual-storyform outline plans „Kael erwacht in der“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L375]
 - Storyforms: `Storyform A` (`RS: Psychology/Becoming`): „Die Beziehung zu Juna ist nun eine von gleichberechtigten Entitäten“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L377]; `Storyform A` (`IC: Universe/Past`): „Die Vergangenheit ist nicht mehr gelöscht, sondern als Teil der Identität akzeptiert“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L378]
 - Scene and pacing: `Pacing`: „Ausklingend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L379]
+
+## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — the climax in Kapitel 38/39, coexistence
+
+- The reset synthesis says: „Der Climax in Kapitel 38/39 darf nicht in einem simplen Sieg enden“ ^[romanprojekt-analyse-synthese.md:L157] and makes the city a „Receiver of Consciousness“ ^[romanprojekt-analyse-synthese.md:L157]
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
