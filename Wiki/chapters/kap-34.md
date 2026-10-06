@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 27
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 28
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -163,6 +163,10 @@ Title: „Der Showdown im Vortex (II)“ ^[kohaerenz-protokoll-kapitel-outline-g
 - Story: the dual-storyform outline plans „Kael präsentiert sich AEGIS als ein lebender Gödel-Satz“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L343]
 - Storyforms: `Storyform B` (`IC: Mind/Conscious`): „Juna zwingt AEGIS in den System-Kollaps“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L345]; `Storyform A` (`IC: Universe/Past`): „Die äußere Realität bricht in die Simulation ein“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L346]
 - Scene and pacing: `Szenen-Keim`: „AEGIS’ Avatare zerfallen in schwarze Asche, während der Himmel der Stadt aufreißt“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L347]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Die Schwelle der Konvergenz
+
+- The 39-chapter outline titles Kapitel 34 „Die Schwelle der Konvergenz“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1267]. It plans: „Unmittelbar vor dem Vortex. Der finale Sweep und die vollkommene Bereitstellung des Systems Kael für den Einschlag“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1269]; POV Wir-Geflecht (L1275) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

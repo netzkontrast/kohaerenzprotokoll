@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 25
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 26
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -160,6 +160,10 @@ Title: „Verrat der Logik“ ^[kohaerenz-protokoll-kapitel-outline-generierung-
 - Story: the dual-storyform outline plans „Gaslighting auf systemischer Ebene“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L250]
 - Storyforms: `Storyform B` (`RS: Physics/Obtaining`): „AEGIS versucht, Juna als Datenpaket zu“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L252]; `Storyform A` (`RS: Psychology/Conceiving`): „Kael begreift, dass Juna radikal exterior ist“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L253]
 - Scene and pacing: `Pacing`: „Emotional schwer“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L254]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Das Rauschen vor dem Sturm
+
+- The 39-chapter outline titles Kapitel 23 „Das Rauschen vor dem Sturm“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L875]. It plans: „AEGIS registriert die unaufhaltsam akkumulierte Hitze und bereitet einen massiven, allumfassenden Erasure-Sweep zur totalen Bereinigung vor“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L877]; POV AEGIS / Alex (L883) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 26
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 27
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung"]
 records: ["Q4"]
 gathered: "2026-09-25"
 ---
@@ -160,6 +160,10 @@ Title: „Der Mnemosyne-Verrat“ ^[kohaerenz-protokoll-kapitel-outline-generier
 - Story: the dual-storyform outline plans „Mnemosyne verzerrt Kaels Erinnerungen an Juna“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L201]
 - Storyforms: `Storyform B` (`IC: Mind/Conscious`): „Juna muss gegen diese falsche Repräsentation ankämpfen“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L203]; `Storyform A` (`IC: Universe/Past`): „Sie bleibt die unveränderliche Witness-Funktion im Hintergrund“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L204]
 - Scene and pacing: `Szenen-Keim`: „Ein Spiegelkabinett“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L205]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Öffnung des Kanals
+
+- The 39-chapter outline titles Kapitel 17 „Öffnung des Kanals“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L653]. It plans: „Silas nutzt ein Zeitfenster, um den Zugang zu Juna zu öffnen, was eine nicht-lokale Verbindung tief außerhalb der AEGIS-Kontrolle etabliert“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L655]; POV Silas / Kael (L661) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 

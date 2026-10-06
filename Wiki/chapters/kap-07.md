@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 29
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx"]
+sources: 30
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -187,6 +187,10 @@ Title: „Der erste Pivot — Überschreiten der Schwelle“ ^[kohaerenz-protoko
 - Story: the dual-storyform outline plans „Kael entscheidet sich, die Quarantäne-Zone zu betreten“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L115]
 - Storyforms: `Storyform B` (`MC: Universe/Future`): „Kaels Zukunft innerhalb der stabilen Simulation ist beendet“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L117]; `Storyform A` (`RS: Psychology/Becoming`): „wechselt von einer bloßen Wahrnehmung zu einer aktiven Suche“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L118]
 - Scene and pacing: `Szenen-Keim`: „Ein Tor aus schmelzendem Glas“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L119]; `Pacing`: „Kraftvoll, treibend“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L120]
+
+## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der Beweis des Feuers
+
+- The 39-chapter outline titles Kapitel 7 „Der Beweis des Feuers“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L271]. It plans: „Mid-Akt-Breakpoint. Die bisherige Illusion der Konstrukt-Stadt bekommt einen definitiven, nicht mehr zu rationalisierenden Riss, als Kael physische Beweise der Systemmanipulation findet“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L273]; POV Kael (L279) — a plan, not the chapter as written.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
