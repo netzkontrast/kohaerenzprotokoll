@@ -529,3 +529,11 @@ Stands on the side of four pairs with a shared fourth, in the table's cells; rec
 Guardians appear in parentheses beside worlds: „LogOS (Guardian) könnte dies unbeteiligt beobachten“ ^[subplot-entwicklung-fuer-romanstruktur.md:L98] in KW1, „Mnemosyne (Guardian) könnte subtil präsent sein“ ^[subplot-entwicklung-fuer-romanstruktur.md:L124] in KW2, and „Cerberus (Guardian von KW3)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L100]. The worlds' names are written „KW1 (Logos-Prime)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L98], „KW2 - Mnemosyne-Archipel“ ^[subplot-entwicklung-fuer-romanstruktur.md:L99], „KW3 - Cerberus-Labyrinth“ ^[subplot-entwicklung-fuer-romanstruktur.md:L123] and „KW4 - Kairos-Potentialis“ ^[subplot-entwicklung-fuer-romanstruktur.md:L150]. A Guardian is not placed in KW4; Kapitel 17 leaves the Guardian open: „Kael konfrontiert einen Guardian (vielleicht LogOS oder Sophia)“ ^[subplot-entwicklung-fuer-romanstruktur.md:L506]. The catalogue names no Erasure-Pol.
 
 Where it stands: the catalogue gives three Guardian/world pairs and the four world names as hedged proposals; it does not answer whether Kairos or Sophia belongs to KW4, and the record stays open.
+
+## 2026-10-06 — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview
+
+**The ontological overview's table pairs each Core World with a Guardian, the fourth with Kairos/Sophia.**
+
+Its table rows read „KW1: Construct City (LogOS)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L89], „KW2: Resonance Landscape (Mnemosyne)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L90], „KW3: The Fortress (Cerberus)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L91] and „KW4: Garden of Possibility (Kairos/Sophia)“ ^[an-ontological-and-systemic-overview-of-the-coherence-protoc.md:L92] (L89–L92).
+
+Stands as a pairing of four worlds with four Guardian labels, dated 2025-11-03; recorded, not applied, and Q5 stays open.
