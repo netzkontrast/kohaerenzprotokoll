@@ -1,0 +1,56 @@
+$ read.py --count "vielleicht"
+whole word, case-sensitive     28
+whole word, case-insensitive   35
+including compounds            28
+
+`vielleicht` ^[romanplot-kohaerenz-protokoll-teil-1.md:#28]
+$ read.py --count "möglicherweise"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`möglicherweise` ^[romanplot-kohaerenz-protokoll-teil-1.md:#14]
+$ read.py --count "könnte"
+whole word, case-sensitive     21
+whole word, case-insensitive   23
+including compounds            26
+
+`könnte` ^[romanplot-kohaerenz-protokoll-teil-1.md:#21]
+$ read.py --count "Heldinnenreise-Stufe"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Heldinnenreise-Stufe` ^[romanplot-kohaerenz-protokoll-teil-1.md:#13]
+$ read.py --count "Song-Thema"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Song-Thema` ^[romanplot-kohaerenz-protokoll-teil-1.md:#13]
+$ read.py --count "Externen Ebene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Externen Ebene` ^[romanplot-kohaerenz-protokoll-teil-1.md:#1]
+$ read.py --count "DIS"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            11
+
+`DIS` ^[romanplot-kohaerenz-protokoll-teil-1.md:#4]
+$ read.py --count "DID"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            7
+
+`DID` ^[romanplot-kohaerenz-protokoll-teil-1.md:#1]
+$ read.py --count "Kap"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            24
+
+`Kap` ^[romanplot-kohaerenz-protokoll-teil-1.md:#1]
+stance_marker_count 63 = 28 (vielleicht) + 14 (möglicherweise) + 21 (könnte), whole word, case-sensitive, from the counts above
+Census prose numbers: 188 backslash escapes, 42 glued ref numbers, 12 ascii quotes, 13 chapters: from 01-profile.txt and 04-counts.txt (Heldinnenreise-Stufe 13, Song-Thema 13)

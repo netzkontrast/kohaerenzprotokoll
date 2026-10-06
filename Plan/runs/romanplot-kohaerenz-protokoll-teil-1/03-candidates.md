@@ -1,0 +1,102 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is a German plot outline for chapters 1 to 13 with four proposed side characters, a chapter plot, a matrix table and writing aids. Terms are listed as written. The numbered bracket references such as [1071-1074] are glued source markers and are not terms. Chapter titles are English and stand as headings of the outline. The three Kap-numbers are left out of the list.
+
+- Kael
+- Juna
+- Lex
+- Einheit 734
+- Archivar
+- Echo
+- Das Verlorene Kind
+- Verlorenes Kind
+- Verlorenen Kindes
+- Silas
+- Skeptiker/Torwächter
+- Anya
+- Muse/Trickster
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- AEGIS
+- Guardians
+- Guardian
+- Kern-Welten
+- Kern-Welt
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Überwelt
+- Externen Ebene
+- Risse
+- Riss
+- Juna-Echo
+- Sicherheitslücken-Riss
+- Architekt
+- Kind/Echo
+- Wächter
+- Funke
+- Anteile
+- Anteil
+- Switch
+- Anteilwechsel
+- Co-Bewusstsein
+- Multiplizität
+- DIS
+- DID
+- Ego-Tod
+- Feuerprobe
+- Elixier
+- Meister zweier Welten
+- Freedom to live
+- Unsere Welt
+- Auge des Sturms
+- Bunker
+- Mosaik-Metapher
+- Puppenspielers
+- Guardian-Paradoxon
+- Säuberungs
+- Systemwartungs
+- Schnittstelle für Mentale Gesundheit
+- Wellness-Modul
+- Schatten-Mentor
+- Entropie
+- Reboot
+- Uncanny Valley
+- Heldinnenreise-Stufe
+- Song-Thema
+- Primäre Kern-Welt
+- Schlüsselszenen & Entwicklungen
+- Plot-Zusammenfassung
+- Plot-Rolle
+- Name/Bezeichnung
+- Funktion/Herkunft
+- Guardian Blind Spot
+- Kern-Welt / Guardian / Psyche Matrix
+- Kern-Weltmechanik
+- Atmosphäre & Sensorik
+- Pacing & Spannung
+- DIS-Darstellung
+- Metaphern-Einsatz
+- Dialog-Beispiel
+- Perfect World
+- Betrayal
+- Awakened
+- Descent
+- Gates of Judgement
+- Eye of the Storm
+- Death
+- All is Lost
+- Rescue
+- Rebirth
+- Moment of Truth
+- Our World
+- Kernthese
+- Kausalschleife
