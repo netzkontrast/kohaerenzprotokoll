@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest"]
 gathered: "2026-09-17"
 ---
 
@@ -34,9 +34,17 @@ The last is load-bearing:
 AEGIS reacts to symptoms it can see and misdiagnoses their cause ^[L82, L177],
 which makes its escalation — see [[protokoll-v14|Protokoll v1.4]] — actively destructive.
 
+## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — the Guardians' blind spots, and AEGIS' own
+
+The beat sheet gives the Guardians blind spots in Kapitel 18-21, with LogOS, Mnemosyne and Cerberus as examples: the line writes „blinden Flecken“ ^[finales-kausales-plot-geruest.md:L122] for each Guardian. In Kapitel 22-24 it gives AEGIS its own, for the OS line: `blinde Flecken` are shown „durch die dämmernde Erkenntnis seiner Guardians über die Fehler des Systems“ ^[finales-kausales-plot-geruest.md:L140].
+
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the Guardians' blind spot toward the Partnerin, and the open question for the other three
 
 The Leitfragen report (an analyst's review) says of other documents that for LogOS and Mnemosyne the „Blinde Fleck“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103] toward the Partnerin is „tief in ihrer jeweiligen Erkenntnistheorie verwurzelt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]: LogOS makes a category error, Mnemosyne misreads her presence as a past scar. Its Leitfrage 5 then asks how the blind spots of Cerberus, Kairos and Sophia show in action: „Wie manifestieren sich die“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L109]. The report asks; it gives no answer.
+
+## Where the sources differ
+
+- The beat sheet writes blind spots for the Guardians (Kapitel 18-21) and for AEGIS itself (Kapitel 22-24); it does not relate the two.
 
 ## Open
 
