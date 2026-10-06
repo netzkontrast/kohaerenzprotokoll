@@ -214,3 +214,11 @@ No sub-location of KW4 is named and no containment word stands beside the name (
 **KW4 as one of four [[kern-welten|Kern-Welten]] — position 1's side.**
 Section 4 is headed „Möglichkeits-Garten (Guardian: Kairos/Sophia)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L85], and the overview counts it among „vier Kern-Welten (KW1-4)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L17]. It gives the garden its own laws and Risse toward other worlds: „Verbindungen zu anderen Welten werden instabil (Eindringen von Angst aus KW3, Emotionen aus KW2).“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L99]
 No place inside KW4 is named. Position 1's side, by the world's own name; the conflict stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept lists the Möglichkeits-Garten as one of four worlds, for [[kairos|Kairos]] and [[sophia|Sophia]], with no region inside it.**
+
+The concept counts „simulierte Kern-Welten (repräsentieren Michaels Psyche)“ ^[kohaerenz-protokoll-2.md:L25] as four and lists the fourth as „Möglichkeits-Garten (Kairos/Sophia)“ ^[kohaerenz-protokoll-2.md:L78]: „Ebene des Potenzials, der Kreativität, der Intuition, der Hoffnung, der Synthese“ ^[kohaerenz-protokoll-2.md:L78]. A separate metaphor line reads „Garten“ for the psyche; it is not that place.
+
+Stands as a further position for the world scale (one of four Kern-Welten, Kairos/Sophia); recorded, not applied, and the record stays open.
