@@ -292,3 +292,11 @@ Stands as one more statement of the link's invisibility to AEGIS, dated 2025-07-
 It writes that the link „is the delivery system.“ ^[deconstructing-reality-s-architecture.md:L230] It ties Kael to Juna/V, „an external entity.“ ^[deconstructing-reality-s-architecture.md:L233] AEGIS scans for algorithmic data and the link carries subjective data, feelings and resonance (L234); because AEGIS is Ontologically Blind to subjectivity, „the link is invisible to it.“ ^[deconstructing-reality-s-architecture.md:L235]
 
 Stands: the guide gives a pair, Kael and Juna, and what crosses as feeling and resonance; who else can feel it, and whether it is exclusive, it does not say, so Q9 stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis
+
+**The architecture synthesis says the Moonshine-Link carries no classical signal and that AEGIS is topologically blind to it.**
+
+Appendix D proposes: „The connection transmits no classical signal“ ^[kohaerenz-protokoll-architecture-synthesis.md:L169], respecting the no-signaling theorem, and AEGIS, a classical system, is, in its words, „it is topologically blind to the conformal symmetry of the Moonshine-Link“ ^[kohaerenz-protokoll-architecture-synthesis.md:L169]. It places the link between Juna and Kael: „The connection between Juna and Kael operates completely outside“ ^[kohaerenz-protokoll-architecture-synthesis.md:L165] AEGIS's surveillance network.
+
+It gives the link a boundary of what it carries (no classical signal) and a pair (Juna and Kael); the question stays open in the record's own terms.
