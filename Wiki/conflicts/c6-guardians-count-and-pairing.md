@@ -584,3 +584,15 @@ Stands as one more arrangement of five named Guardians, each with a world or the
 Story 2 has „a world governed by the rigid protocols of its Guardian, LogOS“ ^[coherence-protocol-a-39-part-narrative-arc.md:L22] (KW1). Story 10 places Kael in KW4, „Influenced by the Guardians Kairos (opportunity) and Sophia (wisdom)“ ^[coherence-protocol-a-39-part-narrative-arc.md:L30]. Story 7 gives KW2 „the world's Guardian, Mnemosyne“ ^[coherence-protocol-a-39-part-narrative-arc.md:L27] and Story 9 gives KW3 „Cerberus, the Guardian of defense and paranoia“ ^[coherence-protocol-a-39-part-narrative-arc.md:L29]. These are stories of an outline, not chapters.
 
 Stands as an outline of 2025-11-03 whose pairing, one Guardian for KW1 to KW3 and two for KW4, resembles position 1 of the record's table; recorded, not applied, and it does not touch the decision of 2026-09-24.
+
+## 2026-10-06 — `aegis-genesis-crisis-self-definition`, 2026-04-27, the initialization log
+
+**The log, speaking as AEGIS, tabulates six Guardians and gives two of them the names of Core Worlds, without pairing Guardians and worlds.**
+
+> „LogOS“ ^[aegis-genesis-crisis-self-definition.md:L150] is the first row of the table, and „Mnemosyne“ ^[aegis-genesis-crisis-self-definition.md:L155] the last; between them stand Oblivion, Silas, Isabelle and Cerberus (L150–L155).
+
+> „The architecture classifies, monitors, and contains four primary Core Worlds“ ^[aegis-genesis-crisis-self-definition.md:L113]
+
+> „The Mnemosyne-Archipel is categorized as a high-risk quarantine zone.“ ^[aegis-genesis-crisis-self-definition.md:L123]
+
+Where it stands: a sixth count beside the record's five and two, in AEGIS's own classification; Cerberus and Mnemosyne are both Guardians (L154, L155) and world names (KW3 and KW2, L129, L123), and the log pairs no Guardian with a world, so the count and Q5 stay as the record has them.
