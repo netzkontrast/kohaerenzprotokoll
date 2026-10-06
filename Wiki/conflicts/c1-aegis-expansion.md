@@ -188,3 +188,11 @@ Stands as position 1 again, reported and not weighed; recorded, not applied, and
 The line reads „Autonomous Entropic Gatekeeper for“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L337] and then `Integrity` in bold, with `Systems` after it. The plan goes on to say AEGIS „jedoch wahrscheinlich als Singularität, Einheitlichkeit, Vorhersagbarkeit“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L337] defines `Integrität`, so that „Kaels Multiplizität selbst als Entropie, als Systemfehler“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L337] is read as a fault to correct. It offers no second or third expansion.
 
 Stands: position 1 again, from a plan written in the conditional; it neither adds nor settles anything.
+
+## 2026-10-06 — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report
+
+**The architecture report expands AEGIS as „Autonomous Entropic Gatekeeper for Integrity Systems“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L33].**
+
+It goes on: „verkörpert der Antagonist AEGIS“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L33] the coherence kernel.
+
+Stands as position 1 of C1 again; no new position.
