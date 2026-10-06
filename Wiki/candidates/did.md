@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 43
-readings: 43
+sources: 44
+readings: 44
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kuerze-rechercheauftrag-die-architektur-der-seel"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kuerze-rechercheauftrag-die-architektur-der-seel", "deconstructing-reality-s-architecture"]
 gathered: "2026-09-16"
 ---
 
@@ -141,6 +141,10 @@ The drafting compendium of 2026-02-23 states, with reference 2 glued on (`Charak
 
 The plan names the aim of its rewrite as ordering „die dissoziative Identitätsstruktur Ihres Protagonisten Kael“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L15] into the story. It calls the choice a source of depth: „Die Entscheidung, Kael als ein System mit einer dissoziativen Identitätsstruktur zu konzipieren“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L37] (a footnote digit follows, pointing at the plan's reference list). It asks that it not be treated as a gimmick: „Es ist jedoch essenziell, dass wir diese Pathologie nicht als bloßes Gimmick“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L37]
 
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — DID as the psychological kernel
+
+The learner's guide states that „psychological reality of Dissociative Identity Disorder (DID) is treated with the same rigorous consistency as the speculative physics of the simulated world.“ ^[deconstructing-reality-s-architecture.md:L19] It adds that the project is „explicitly an allegory for the treatment of complex trauma“ ^[deconstructing-reality-s-architecture.md:L76], and that the external sci-fi elements are isomorphic to internal psychological states. This is the guide's own framing; it is recorded here, never applied.
+
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — a dissociative identity structure as a design question
 
 The architecture report's decision table asks „Wie simuliert man eine authentische dissoziative Identitätsstruktur ohne flache Tropes?“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L173] and answers by programming the eleven parts as agent classes. The line names the structure as something to simulate in the engine design.
@@ -158,6 +162,7 @@ The synthesis lists it among its consensus points: „Die Dissoziative Identitä
 - The report of 2026-02-23 reads the whole work as a technological allegory of DID on an AI-run simulation.
 - the plot-idea synthesis (2025-04-26) holds Kael's DID to be induced by AEGIS's analysis and to be a result of its first-order perspective (L109, L111, L172)
 - the concept extraction takes DID as a consequence of AEGIS's analysis, not of Kael's M-Avatar-Natur
+- The learner's guide treats DID as the psychological ground of the work and calls the project an allegory for complex trauma.
 
 ## Open
 
