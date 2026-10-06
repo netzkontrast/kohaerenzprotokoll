@@ -374,3 +374,11 @@ Where it stands in the record's own terms: the Guardians on AEGIS' side as agent
 Each Kernwelt is „an eine spezifische psychologische Domäne Kaels“ ^[welt.md:L88] and „einen AEGIS-Guardian gekoppelt“ ^[welt.md:L88] (second pass, L88). The closing paragraph says what the Guardians are: „lokalisierte, dynamische Prozesse oder Felder“ ^[welt.md:L158], and that their existence is their function „innerhalb des AEGIS-Protokolls“ ^[welt.md:L158]; „Sie sind keine anthropomorphen Avatare“ ^[welt.md:L158]. The Überwelt is their stage: „der primäre operative Schauplatz für die Guardians“ ^[welt.md:L122].
 
 Stands as the Guardians being AEGIS's own, tied to its protocol and coupled one to each world; recorded, the question stays open.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto declares the Guardians components of AEGIS.**
+
+„These Guardians are fundamental components of the System AEGIS“ ^[aegis-manifest-genesis-krise-reboot.md:L109], „serving as autonomous sub-protocols that execute the architecture's will“ ^[aegis-manifest-genesis-krise-reboot.md:L109]. It speaks as AEGIS, so this is AEGIS's own account of the relation; the Guardians are not peers or a replaced design here.
+
+Stands: an answer in the first of the question's three terms, given by AEGIS about itself; recorded, not applied, the question stays open.
