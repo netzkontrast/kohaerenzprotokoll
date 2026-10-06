@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 26
-readings: 26
+sources: 27
+readings: 27
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung"]
 gathered: "2026-09-16"
 ---
 
@@ -66,6 +66,12 @@ The critical review (L652 on) lists among the novel's strengths „Offers a resp
 ## Reading — `hard-sci-fi-cosmic-horror-research-questions`, 2026-01-02, the Cosmic-Horror research report — DID as reported from an analysed Plotanalyse
 
 This is a report of another document (its reference 87, the analysed Plotanalyse). The report says that document uses Internal Family Systems for „The structure of Kael's fragmented mind (DID)“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L199], and that the fragmentation (DID) of Kael's psyche results from AEGIS's attempts to force M into a reductionist box (L205).
+
+## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — DID as an adaptive strategy, and as contradictory
+
+The plot analysis reports, with reference 15, the author's concept of using Dissoziative Identitätsstörung not as a pathological horror trope but as „hochentwickelte, adaptive Überlebensstrategie“ ^[plot-analyse-und-romanentwicklung.md:L57], and calls it ethically responsible. It proposes the IFS model as a blueprint for Kael's parts.
+
+In the Klimax section it states, as part of its paraconsistent-logic argument, that „ein DID-System ist inhärent widersprüchlich“ ^[plot-analyse-und-romanentwicklung.md:L129] — part A loves Juna, part B fears her — which is why it says AEGIS fears Kael's trauma and DID. That is the assistant's argument.
 
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — DIS/DID as the condition behind the main figure
 
