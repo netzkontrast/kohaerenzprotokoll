@@ -21,6 +21,8 @@ script reads them and writes nothing else into them:
     moments, the alters' appearances as `event` storybeats of A; status `draft`). Proposal-only chapter development
     from `development.json` fills supported Moment fields without changing the structural model or canon. Validate with the author's fork:
     `node tests/validate-file.js` in netzkontrast/narrative-context-protocol.
+  * notes a treatment paragraph whose chapter the weave gives storyform B but whose events never name AEGIS, its
+    ensemble or its waste-heat budget (a B half woven and not told);
   * rewrites one line per paragraph of the treatment's 2b sections (`Manuscript/plot/treatment.md`): the
     `- *Storypoints:*` line under `### Kap N`, derived from that chapter's `development.json` references with their
     values (decision 025 step 47), so the treatment and the NCP name the same storypoints. Nothing else in the
@@ -635,6 +637,50 @@ def treatment_sync(text, forms, dev, weave):
     return "\n".join(out), errors
 
 
+# Words that put storyform B on the page: AEGIS, its ensemble (W10-B) and its clock (step 43).
+B_MARKERS = ("AEGIS", "Mnemosyne", "Sophia", "LogOS", "Kairos", "Cerberus", "Abwärmebudget", "Sweep", "Purge")
+
+
+def treatment_paragraphs(text):
+    """{chapter: the paragraph's lines without its generated storypoints line}, from the 2b sections only."""
+    out, kap, in_2b = {}, None, False
+    for line in text.split("\n"):
+        if line.startswith("## "):
+            in_2b, kap = line.startswith("## 2b"), None
+        elif in_2b and line.startswith("### Kap "):
+            kap = line[len("### Kap "):].split()[0]
+            out[kap] = []
+        elif kap is not None and line.strip() == "---":
+            kap = None
+        elif kap is not None:
+            out[kap].append(line)
+    for kap, lines in out.items():
+        keep, skip = [], False
+        for line in lines:
+            if line.startswith(STORYPOINTS_LINE):
+                skip = True
+                continue
+            if skip and line.startswith("  "):
+                continue
+            skip = False
+            keep.append(line)
+        out[kap] = "\n".join(keep)
+    return out
+
+
+def treatment_notes(text, weave):
+    """A paragraph whose chapter the weave gives storyform B (a bridge or hard-b) but whose events never put AEGIS,
+    its ensemble or its clock on the page: the B half is woven and not told. A note, not an error — the author may
+    keep a B half silent on purpose (Kap 18, step 39)."""
+    notes = []
+    for kap, body in treatment_paragraphs(text).items():
+        lines = weave["chapters"].get(kap, {}).get("B", [])
+        if lines and not any(m in body for m in B_MARKERS):
+            notes.append(f"Kap {kap}: the weave gives B {'/'.join(lines)} here, but the treatment paragraph never names AEGIS, "
+                         "its ensemble or its waste-heat budget")
+    return notes
+
+
 def ncp3(forms, weave, anteile=None, kanon=None, development=None, journeys=None):
     """One NCP 3.0.0-rc.1 document for the book (decision 025 step 24): the core envelope, and in the `dramatica:`
     payload one story with both narratives and the chapters as story-level moments that reference both; the alters'
@@ -820,6 +866,9 @@ def run(check_only=False):
         for e in errors:
             print(f"ERROR {e}")
             failed = True
+    if treatment is not None:
+        for n in treatment_notes(treatment, weave):
+            print(f"note  treatment: {n}")
     gaps = development_notes(development, weave, {sf["storyform"]: sf for sf in forms}) if development and weave else []
     for g in gaps:
         print(f"note  development: {g}")
@@ -1033,6 +1082,10 @@ def selftest():
     if storypoint_label(forms[0], "Objective Story Catalyst") != "A Catalyst Threat" or \
             storypoint_label(forms[1], "Main Character Unique Ability") != "B-MC Unique Ability Control":
         fails.append("treatment: a storypoint label lost its value")
+    silent = "## 2b\n### Kap 26 — x\n- Kael wählt.\n- *Storypoints:* A x [D 26].\n### Kap 6 — y\n- AEGIS will schließen.\n"
+    found = treatment_notes(silent, weave)
+    if not any("Kap 26" in n for n in found) or any("Kap 6" in n for n in found):
+        fails.append("treatment: a bridge paragraph without its B half went unnoticed, or a told one was flagged")
     stray = json.loads(json.dumps(dev))
     stray["chapters"]["17"]["storypoints"] = [["A", "Influence Character Concern"]]
     if not any("Kap 17: A-IC Concern" in n for n in development_notes(stray, weave, {sf["storyform"]: sf for sf in forms})):
