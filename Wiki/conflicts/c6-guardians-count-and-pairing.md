@@ -560,3 +560,11 @@ Stands as a pairing of one inhabitant per world, with KW4 given as one entry `Ka
 Its table head reads „Designated Guardian“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L82]; the pairs are „Logos-Prime“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L83] with LogOS, „Mnemosyne-Archipel“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L84] with Mnemosyne, „Cerberus-Labyrinth“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L85] with Cerberus, and „Kairos-Potentialis“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86] with „Kairos/Sophia“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L86], one cell for two names.
 
 Stands as this document's claimed pairing, recorded and not applied.
+
+## 2026-10-06 — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto
+
+**The manifesto names four Guardians — LogOS, [[oblivion|Oblivion]], [[silas|Silas]], [[isabelle|Isabelle]] — each by function, and pairs none with a world as a set.**
+
+The closing declaration lists them: „The Guardians—LogOS, Oblivion, Silas, and Isabelle—are commissioned“ ^[aegis-manifest-genesis-krise-reboot.md:L234]. Oblivion and Silas are Hypervisors (L119, L125); Isabelle is a Guardian and „the secondary K1-Kernel Proxy“ ^[aegis-manifest-genesis-krise-reboot.md:L131], and LogOS is „the primary K1-Kernel Proxy“ ^[aegis-manifest-genesis-krise-reboot.md:L113]. The same sentence names the four worlds separately (`Logos-Prime`, `Mnemosyne-Archipel`, `Cerberus-Labyrinth`, `Kairos-Potentialis`, L234), as Kernwelten and not as Guardians. The text speaks as AEGIS.
+
+Stands: a fourth position on the count, four named Guardians; recorded as the manifesto's declaration, decided nothing here.
