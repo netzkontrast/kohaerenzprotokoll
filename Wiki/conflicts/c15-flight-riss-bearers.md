@@ -107,3 +107,11 @@ The pairing Kiko and Lia (rows 1, 6, 7), by action system and not by riss row; I
 Kiko's row, typed EP, names in its concept column „EP Funktion (Angst/Flucht)“ ^[roman-konzept-kohaerenz-protokoll.md:L69]. Of the table's ten rows this is the only one with `Flucht` ^[roman-konzept-kohaerenz-protokoll.md:#3]; Lia's row reads „EP Funktion (Bindungstrauma?)“ ^[roman-konzept-kohaerenz-protokoll.md:L70] and names no flight, and `Flight` ^[roman-konzept-kohaerenz-protokoll.md:#0] and `Isabelle` ^[roman-konzept-kohaerenz-protokoll.md:#0] do not occur. The word stands twice more, in chapter fields and not on a part: „Hoffnung auf Flucht/Wahrheit“ ^[roman-konzept-kohaerenz-protokoll.md:L181] at the Riss discovery, and, in the decision at the end of Act 1, „Veränderung/Flucht“ ^[roman-konzept-kohaerenz-protokoll.md:L199]. Those are the plan's story beats, not a bearer, so the table's single row holds. `Riss` ^[roman-konzept-kohaerenz-protokoll.md:#4] stands four times and is not tied to any part.
 
 Kiko alone by action-system function (row 1 pairs Kiko and Lia as bearers, rows 2 to 5 Lia and Isabelle); recorded, 2025-05-03, not applied; the conflict stays open.
+
+## 2026-10-06 — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis
+
+**The reset synthesis gives flight to Kiko alone: „Kiko | Flucht (Angst)“ ^[romanprojekt-analyse-synthese.md:L79].**
+
+The row is in the table of ten parts, with the narrative function „Vulnerabilitätsspeicher“ ^[romanprojekt-analyse-synthese.md:L79]; its DKT cell lost its kernel symbol in the export and is not supplied. `Flucht` ^[romanprojekt-analyse-synthese.md:#1] stands once in the document, on this row; Lia's row is „Lia | Fürsorge | Stabilitäts-Erhalt | Interne System-Regulation“ ^[romanprojekt-analyse-synthese.md:L80] and Isabelle's „Isabelle | Kreativität | Möglichkeiten-Vektor | Ästhetische Brücke / Kunst“ ^[romanprojekt-analyse-synthese.md:L81]. The table gives TSDP action systems and names no Riss types.
+
+Kiko alone by action system (row 1 pairs Kiko and Lia as bearers); recorded, 2026-04-30, not applied; the conflict stays open.
