@@ -858,3 +858,11 @@ Stands as one more document that writes eleven parts and four worlds and links o
 The rows carry the classes „ANP: Host, Alltagsfassade“ ^[kohaerenz-protokoll-narrative-synthese.md:L255], „EP: Beschützer (Kampf-Reaktion)“ ^[kohaerenz-protokoll-narrative-synthese.md:L256], „EP: Kind-Anteil (Freeze)“ ^[kohaerenz-protokoll-narrative-synthese.md:L257], „ANP: Intellektueller Analytiker“ ^[kohaerenz-protokoll-narrative-synthese.md:L258] and „ISH/Torwächter“ ^[kohaerenz-protokoll-narrative-synthese.md:L259]. The table is a proposal of the report; the prose beside it speaks of „Jeder primäre Anteil“ ^[kohaerenz-protokoll-narrative-synthese.md:L203] having a rhythm, without a number. No line of the report maps a part to a world.
 
 Stands: one more row for the question's alter side — five named parts in one table; the count and the correspondence stay open.
+
+## 2026-10-07 — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report
+
+**The strategy report names eight alters across its tables and prose: Lex, Alex and Nyx as ANPs, Kiko, Lia and Moros as EPs, and Rhys and Selene.**
+
+The ANPs stand in the Murdock table under stage 9: „Aussöhnung/Koordination der ANPs (Lex, Alex, Nyx) unter Selene“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L123]. The EPs stand under stage 8: „Integration der EPs (Kiko, Lia, Moros)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L122]. Lex and Alex appear again as „Kael verlässt sich auf Logik (Lex) und Abwehr (Alex) zur Navigation in AEGIS' feindlicher Umgebung.“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L116]. Rhys is named in the dissonance section, „Rhys wünscht Harmonie, während Anteile im Konflikt sind“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L142], and Selene as the coordinator, „Emergenz von Selene als Koordinatorin“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L124].
+
+Stands as one more list of alters for the question's count; recorded, not applied, and the question is not answered.
