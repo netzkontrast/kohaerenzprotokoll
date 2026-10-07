@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -77,6 +77,10 @@ Teil 3 opens the general concepts with „A. Die 6 Realitätsebenen (Generelle K
 ## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — Teil II is arranged by reality level; six levels named
 
 The concept says how it is arranged: Teil II contains profiles „geordnet nach den sechs Realitätsebenen des Romans“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L19], and the heading of Teil II reads „Detaillierte Lokalitäten-Profile nach Realitätsebene“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L102]. In the design inspirations the levels are a reason for design: a source is relevant „wo verschiedene Realitätsebenen interferieren“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L74] and another one for the instabilities between them (L76). The sections of Teil II stand under the headings at L106, L241, L346, L436 and L541; the document does not list the six levels by name in these lines.
+
+## Reading — `welten`, 2025-04-20, the world-concept reply — the Überwelt as an informational Realitätsebene
+
+The world-concept reply calls the Überwelt „rein informationsbasierte, abstrakte Realitätsebene“ ^[welten.md:L54], structured and regulated by the protocols of AEGIS. It lays out its world as levels, from the Potentialmeer as the lowest, „Die unterste, grundlegendste Ebene der Existenz“ ^[welten.md:L34], to the Kern-Welten, and adds a hypothetical Externe Ebene outside AEGIS's control.
 
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — the level AEGIS maintains, and the deeper one
 
