@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 13
-readings: 12
+sources: 14
+readings: 13
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls"]
 gathered: "2026-09-16"
 ---
 
@@ -90,6 +90,10 @@ The Textanalyse, a commentary on one narrative, reads the narrative's „minimal
 ## Reading — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis — negentropy as the counter to the pull of the black hole, and anger as energy
 
 The exegesis writes that the system (Kael/AEGIS) must, against the `Schwarzen Loch` of trauma, create „eine Zone negativer Entropie (Negentropie)“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L119] — a hectic order of information; the sentence is the project's integration of Verlinde's entropic gravitation (L119). In theme 11 it reads anger so: „Wut wird als Energie (Negentropie) erkannt“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L190], needed to prevent total collapse of K0 in the past (L190).
+
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — ordered structure as `Negentropie` against the gradient
+
+In a passage that opens `Die Dokumente`, the protocol analysis writes: „Jede geordnete Struktur (Negentropie)“ ^[analyse-des-kohaerenz-protokolls.md:L68] that arises in the Potentialmeer is exposed to a massive energetic gradient (L68). It uses the word once, in brackets, as a gloss on ordered structure.
 
 ## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — Storyform A's outcome, new order patterns replacing AEGIS' toxic structure
 
