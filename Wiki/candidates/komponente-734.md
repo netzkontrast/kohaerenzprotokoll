@@ -77,7 +77,7 @@ What this adds on the page: the component is the original self numbered, not a p
 
 The review reads `Komponente 734` twice (`Komponente 734` ^[kohaerenz-protokoll-narrativer-bauplan.md:#2]). First clinically (L40): the phenomenon of depersonalisation „das Kael als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40] Komponente 734 experiences, which it takes for an estrangement from one's own self. Second, in its reading of the arc (L170): „Kaels anfänglicher Zustand als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L170] Komponente 734 within the order of AEGIS and the Konstrukt-Stadt, an illusion of the perfect world; his strategy is „Seine Bewältigungsstrategie besteht darin, seine Identität vollständig dem System unterzuordnen“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L170]. The review does not say what the number 734 names.
 
-## Reading — [[aegis]], 2025-07-29, the AEGIS concept file — Komponente 734 as the original Ich, reduced to a functional component
+## Reading — `aegis`, 2025-07-29, the AEGIS concept file — Komponente 734 as the original Ich, reduced to a functional component
 
 The AEGIS concept file names the first self in the Nichts Rauschen: a minimal consciousness, „Komponente 734“ ^[aegis.md:L166], which fought to keep its form. After the catastrophic event the file says this original fragment was suppressed and turned into „bloße funktionale Komponente“ ^[aegis.md:L170], with the number in brackets. It does not say here whether the number names Kael or anything else.
 
