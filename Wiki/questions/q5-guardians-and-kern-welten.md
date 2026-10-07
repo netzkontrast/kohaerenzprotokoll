@@ -717,3 +717,11 @@ Where it stands: one Guardian-to-world pairing in a story proposal, no five and 
 It says: „Der Guardian“ ^[charaktermodellierung-mit-aieos-schema.md:L59] Mnemosyne „verwaltet die Datenströme der Erinnerung, erkennt jedoch den emotionalen Kontext nicht“ ^[charaktermodellierung-mit-aieos-schema.md:L59], citing its reference 2. The evaluation speaks of the Konstrukt-Stadt elsewhere, but never in connection with this Guardian.
 
 Stands as one Guardian named for the memory streams, with no pairing and no Erasure-Pol; recorded, not applied, and the record is not changed.
+
+## 2026-10-07 — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis
+
+**The project analysis reads the Kernwelten as conditioning environments, each aimed at one target part of System Kael, and names no Guardian.**
+
+Its Kapitel 5 (the essay's own section) says the Kernwelten „fungieren als riesige, umgebungsbasierte“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L107] Skinner boxes, and that they are built as totalitarian environments: „werden die Kernwelten als totalitäre Umgebungen gestaltet“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L109]. Its table 2 pairs worlds with parts, one per row: `KW1 (Logos-Prime)` with Lex (L120), `KW3 (Cerberus-Labyrinth)` with Nyx (L121), and two worlds marked `Annahme`, one for Rhys and one for Kiko (L122, L123). The table has no KW2 and no column for a bearer or Guardian; the count of `Guardian` in the essay is `Guardian` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#0].
+
+The essay pairs worlds with parts, and says nothing of a Guardian per world; the record's question of which Guardian goes with which world therefore stays open in the record's own terms.
