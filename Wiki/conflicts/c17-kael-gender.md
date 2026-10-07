@@ -118,3 +118,11 @@ Stands as a report of 2025-11-03 that names the question and recommends a decisi
 Its pronouns are kept here in quotation: the aim of its first section is to foster empathy „für ihre dissoziative Erfahrung“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L33]; the vulnerability passage speaks of „Ihr fragmentiertes Selbstgefühl“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L98]; and the chapter on identity says „Ihre existenzielle Krise“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L166]. The strategy report applies to this arc Murdock's model, which it describes as one that addresses „speziell die psycho-spirituelle Reise von Frauen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L106], and it maps the stages to Kael's chapters.
 
 Stands as a new row on the female side of C17, in the report's own words; recorded, not applied, and the record is not decided.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis decides that Kael, as the primary ANP, uses male pronouns by default, and that Julia is deprecated as a primary name.**
+
+It reports that the documents it read vary between Kael and the host names Michael or Julia, and then sets: „He uses male pronouns (He/Him) as the default interface“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L131]. On the second host name it decides that „should be deprecated as a primary name“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L133], replaced by Nyx and Kiko.
+
+Stands as one more row for the gender question, Kael male by default in the report's proposed hierarchy; recorded, not applied.
