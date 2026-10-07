@@ -606,3 +606,11 @@ Where it stands in the record's own terms: two of four proposed storyforms end i
 Chapter 34 has Kael present his integrated, paradoxical state to the core of AEGIS, „was dessen Transformation erzwingt“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L132]. Chapter 35 plans: „AEGIS erstarrt in einem Zustand der Transformation, geprägt von“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L138] inefficient beauty, under the title „Algorithmische Melancholie: Die unmittelbaren Nachwirkungen.“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L138] Chapter 36 turns to Kael: „Kael erlangt Gnosis durch die Verbindung zum Fundament und nimmt seine neue Rolle als ethischer Hüter der Realität an.“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L140]
 
 Where it stands in the record's own terms: AEGIS transformed and frozen, not collapsed, in a plan that calls itself final; recorded, not applied, and the record's author decision stands untouched.
+
+## 2026-10-07 — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework
+
+**The handbook, reporting the novel from its reference 1, has AEGIS crash after the Gödel-Gambit and become a Zombie-System that must tolerate paraconsistent logic; it says nothing of what takes over AEGIS's function inside Kael.**
+
+In Trace 1, at the verification loop: „Kael präsentiert sich als lebende Gödel-Aussage“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L174]. AEGIS's attempt to reduce that state fails; the handbook writes „AEGIS stürzt ab und wird architektonisch in ein“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L174] Zombie-System transformed, one that suffers from algorithmic melancholy (both names in its own quotation marks). It asks the analysis to show that the collapse came from the logic limit and not from a hardware memory error (L174).
+
+Stands in the record's own terms: a report of the crash and of a plural-tolerant remainder, with no mention of Oblivion or of the Vortex's fifth beat; the record's decided status (author, 2026-10-05) is untouched.
