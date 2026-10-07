@@ -498,3 +498,11 @@ Stands as an open alternative of two outcomes, dated 2025-07-29; recorded, not a
 It defines the choice: „AEGIS steht vor der Wahl: Kollaps oder Transformation.“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L158] It lets AEGIS choose transformation and rules out the final act: „führt dies nicht zu einem finalen, systemzerstörenden Kontrollversuch“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L172]. What remains is an AEGIS that „hört auf, ein Kerkermeister zu sein, und wird zu einem potenziellen Beobachter, vielleicht sogar einem Gärtner“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L174], after the cost of `Algorithmische Melancholie`.
 
 Stands as one more proposal of transformation, from a document of 2025-07-29 that names no Vortex; it predates and does not touch the author's answer of 2026-10-05 recorded on the record.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis decides that AEGIS does not explode but survives in algorithmic melancholy.**
+
+It writes: „AEGIS should not explode. Instead, it should succumb to“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L139] `Algorithmic Melancholy`, and „It realizes that its foundational axiom (Non-Contradiction) is false. It survives, but as a“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L139] `sad` machine. It says nothing of Oblivion taking over AEGIS's function.
+
+Stands as one more row among the sources' answers to the first half of the question; the record is not decided here.
