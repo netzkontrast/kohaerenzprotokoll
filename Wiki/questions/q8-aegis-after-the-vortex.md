@@ -614,3 +614,11 @@ Where it stands in the record's own terms: AEGIS transformed and frozen, not col
 In Trace 1, at the verification loop: „Kael präsentiert sich als lebende Gödel-Aussage“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L174]. AEGIS's attempt to reduce that state fails; the handbook writes „AEGIS stürzt ab und wird architektonisch in ein“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L174] Zombie-System transformed, one that suffers from algorithmic melancholy (both names in its own quotation marks). It asks the analysis to show that the collapse came from the logic limit and not from a hardware memory error (L174).
 
 Stands in the record's own terms: a report of the crash and of a plural-tolerant remainder, with no mention of Oblivion or of the Vortex's fifth beat; the record's decided status (author, 2026-10-05) is untouched.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible gives AEGIS a binary end, evolve or collapse, in its Act III resolution, and names no Vortex.**
+
+It writes: „AEGIS must either evolve its fundamental protocol or suffer a total system collapse“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L204], while „System Kael, now integrated and free“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L204] defines its own identity. Which of the two happens is not stated on that line.
+
+Stands: the guide frames AEGIS's fate as an either-or, not an answer to Q8; recorded, not applied.
