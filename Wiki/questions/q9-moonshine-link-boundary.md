@@ -498,3 +498,11 @@ Stands: adds a description of the link's relation to AEGIS, not an answer to Q9,
 It names the link between Kael and Juna/V only; it names no other bearer of it and says nothing of what crosses.
 
 The question stays open in the record's own terms: this reading adds a description of the link's nature, not a limit.
+
+## 2026-10-07 — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible
+
+**The worldbuilding bible states the link as non-local, a synthesis of entanglement and prehension, between Kael and Juna/V, and does not draw a boundary.**
+
+It gives „a non-local, sub-protocol connection based on a synthesis of“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L164] Quantum Entanglement and Prehension, and says what the link does for Kael: it „acts as a covert synchronization point for his alters“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L165]. The glossary words it as „The non-local, sub-protocol connection between Kael and Juna/V“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L205]. The text names no other bearer and does not say what crosses; whether it is exclusive to the pair it does not state.
+
+Stands as: the link between two named figures, with its synchronising role for the [[alters]]; the three edges of Q9 — what crosses, who feels it, whose it is — are not addressed. Recorded, not applied; the record is not changed.
