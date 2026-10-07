@@ -436,3 +436,11 @@ The boundary is drawn toward AEGIS only; the report does not say who in Kael's s
 „Sie umgeht die logikbasierten Protokolle und Überwachungssysteme von AEGIS“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L127]. AEGIS sees it late: „Für AEGIS ist diese Resonanz zunächst unsichtbar“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129]. Its effect is aimed at Kael's psyche, „Ihre Wirkung ist direkt auf Kaels Psyche gerichtet“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129].
 
 Where it stands in the record's own terms: a boundary toward AEGIS only, bypass and initial invisibility; it says nothing of who inside Kael's system can feel it, and the question stays open.
+
+## 2026-10-07 — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis
+
+**The concept synthesis defines the Kael-Juna connection as a sub-protocol link that bypasses AEGIS's control, and says nothing of its boundary.**
+
+It writes „Kael-Juna Verbindung“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L31] as a „nicht-lokale Verbindung“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L31]; „Sie umgeht AEGIS' Kontrolle“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L31] and „wirkt integrativ für Kael“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L31]. What it carries, who feels it and whether it is exclusive to the pair are not stated on this line.
+
+It adds a definition of the link's relation to AEGIS, not an answer to Q9, which stays open.
