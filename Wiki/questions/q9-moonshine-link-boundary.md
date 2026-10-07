@@ -340,3 +340,11 @@ Stands as a row on who can feel the link and whether it is purely healing; the a
 It says of the novel: „Im Roman dient dies als wissenschaftliche Untermauerung für die Verbindung zwischen Kael und Juna.“ ^[kohaerenz-analyse-kapitel-2.md:L196] (L196) And: „Es ist eine akausale Symmetrie.“ ^[kohaerenz-analyse-kapitel-2.md:L198] AEGIS, it reads, cannot cut it: „AEGIS kann diese Verbindung nicht kappen, weil sie orthogonal zur Systemlogik verläuft.“ ^[kohaerenz-analyse-kapitel-2.md:L198] (L198)
 
 This adds a row to the record and decides nothing in it.
+
+## 2026-10-07 — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium
+
+**The compendium defines the link as non-local and sub-protocol, and invisible to AEGIS.**
+
+Its table gives „Nicht-lokale, sub-protokollarische Resonanz“ ^[kohaerenz-protokoll-narrative-synthese.md:L112]. On the boundary it writes: „Eine nicht-lokale, akausale, sub-protokollarische Resonanz liegt außerhalb seiner ontologischen Kategorien.“ ^[kohaerenz-protokoll-narrative-synthese.md:L99] AEGIS can register only effects: „Es kann nur die sekundären Effekte“ ^[kohaerenz-protokoll-narrative-synthese.md:L99] as unexplained noise. The link is „eine fundamentale Eigenschaft der Realitätsarchitektur, die AEGIS weder wahrnehmen noch reparieren kann“ ^[kohaerenz-protokoll-narrative-synthese.md:L94].
+
+Stands: another statement of the boundary from AEGIS's side; the report defines and proposes, and does not say where the link ends.
