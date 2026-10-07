@@ -452,3 +452,11 @@ It adds a definition of the link's relation to AEGIS, not an answer to Q9, which
 It writes of the link between Kael and Juna/V that it „ist kein Kommunikationskanal, sondern ein“ ^[kohaerenz-protokoll-narrative-architektur.md:L184] ontological exploit, an „architektonische Hintertür“ ^[kohaerenz-protokoll-narrative-architektur.md:L113]. It argues that AEGIS cannot see it: „Diese Kombination macht AEGIS strukturell blind für die Verbindung“ ^[kohaerenz-protokoll-narrative-architektur.md:L190], and that the link is an unpatchable property of reality's architecture present from the start. It draws no boundary for the link and states no limit on what it carries beyond this.
 
 Stands: a description of the link as exploit and not as channel; it does not decide where the link's boundary lies.
+
+## 2026-10-07 — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint
+
+**The blueprint offers the Monstergruppe as a metaphor for the Kohärenz-Insel and its Moonshine connections as a possible symbol of the K-J connection; it draws no boundary and names no link.**
+
+Of the Moonshine connections it says only that they „könnten die unerklärliche, sub-protokollarische Natur der K-J-Verbindung symbolisieren“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119], linking „scheinbar disparate Realitätsebenen (Kaels Psyche, das Potentialmeer, AEGIS' System)“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It asks no question about what the connection carries or who can feel it; its nearest question is whether the connection might let Kael perceive the Potentialmeer: „Könnte die Verbindung Kael ermöglichen, Aspekte des Potentialmeers direkt wahrzunehmen oder zu beeinflussen?“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L180]
+
+Where it stands in the record's own terms: a metaphor, not a boundary; it bears on the second and third ways of asking only as that one question, and is recorded, not applied.
