@@ -649,3 +649,11 @@ Where it stands in the record's own terms: one Guardian to one Kernwelt; recorde
 It lists „The Construct City (Logos-Prime)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L57], „The Resonance Landscape (Mnemosyne)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L58], „The Fortress (Cerberus)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L59] and „The Garden of Possibility (Kairos/Sophia)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L60]. The fourth bracket holds two names. The report does not say what the bracketed names are, and it names no Guardians.
 
 Where it stands in the record's own terms: four worlds with bracketed names, no stated relation to Guardians; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint
+
+**The plot blueprint proposes one Guardian per Kernwelt, and offers it as plot, not as settled.**
+
+It writes: „Die spezialisierten Guardians, die jeweils eine Kernwelt überwachen“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], with LogOS at KW1, Mnemosyne at KW2, Cerberus at KW3 and Kairos at KW4. Its table of the worlds gives each world a Guardian column.
+
+Stands on the side of a one-to-one pairing, as a proposal to the author; recorded, not applied, and the question stays open.
