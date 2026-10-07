@@ -839,3 +839,5 @@
 {"document": "romanentwurf-kohaerenz-protokoll-teil-1", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the Protokoll's name in the title", "at": "2026-10-07"}
 {"document": "romanentwurf-kohaerenz-protokoll-teil-1", "page": "sophia", "surface": "Sophia", "line": 51, "decision": "reading", "why": "Kairos/Sophia as an alter, read on sophia", "at": "2026-10-07"}
 {"document": "romanentwurf-kohaerenz-protokoll-teil-1", "page": "ueberwelt", "surface": "Simulation", "line": 32, "decision": "occurrence", "why": "the world's general nature as a simulation", "at": "2026-10-07"}
+{"document": "openai-math-contents", "page": "ueberwelt", "surface": "Simulation", "line": 1347, "decision": "occurrence", "why": "a family title, one-tape time simulation by a machine — the computational sense, not the novel's simulated world", "at": "2026-10-07"}
+{"document": "openai-math-readme", "page": "mezard-parisi-formula", "surface": "Mézard–Parisi", "line": 43, "decision": "occurrence", "why": "a reasoning-summary title in the readme table, no sentence about the result (J125); found when document 205 opened the page", "at": "2026-10-07"}

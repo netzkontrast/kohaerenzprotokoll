@@ -1,0 +1,192 @@
+{
+  "document": "openai-math-contents",
+  "drive_id": "github:openai/math@adc7f12/CONTENTS.md",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from Plan/runs/ingest-openai-math/task-openai-math-contents.md with no count before the list; rlm_ingest not run; page choice, new pages and readings by the session (Plan/runs/ingest-openai-math-contents/readings/), on the author's request of 2026-10-07 (decision 026)",
+  "state_before": {
+    "pages": 110,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 118,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 202,
+    "decisions": 198,
+    "decided_by_lookup": 192,
+    "needs_judgement": 6
+  },
+  "new_terms": [
+    "birch-swinnerton-dyer",
+    "hilberts-tenth-problem",
+    "hodge-conjecture",
+    "langlands",
+    "mezard-parisi-formula",
+    "navier-stokes",
+    "quasi-riemann-hypothesis",
+    "unique-games-conjecture"
+  ],
+  "new_readings": [
+    {
+      "page": "birch-swinnerton-dyer",
+      "lines": [
+        29,
+        33
+      ],
+      "attribution": "",
+      "note": "family 002, the full formula from low Selmer corank"
+    },
+    {
+      "page": "hilberts-tenth-problem",
+      "lines": [
+        57,
+        61
+      ],
+      "attribution": "",
+      "note": "family 004, a negative answer over the rationals"
+    },
+    {
+      "page": "hodge-conjecture",
+      "lines": [
+        317,
+        321,
+        329
+      ],
+      "attribution": "",
+      "note": "family 032, the rational Hodge conjecture for CM abelian varieties and for products of K3 surfaces"
+    },
+    {
+      "page": "langlands",
+      "lines": [
+        149,
+        739
+      ],
+      "attribution": "",
+      "note": "two families, the restricted and the quantum geometric Langlands equivalences"
+    },
+    {
+      "page": "lean-formalization",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "a link label on 235 of 372 families, never explained"
+    },
+    {
+      "page": "mathematics-manuscript-collection",
+      "lines": [
+        11,
+        13,
+        19,
+        27,
+        1517,
+        1819,
+        2729
+      ],
+      "attribution": "",
+      "note": "the catalogue itself: 372 families, proved and disproved, and silent about who produced them"
+    },
+    {
+      "page": "mezard-parisi-formula",
+      "lines": [
+        2129,
+        2133
+      ],
+      "attribution": "",
+      "note": "family 221, the hierarchical cavity formula for diluted spin glasses"
+    },
+    {
+      "page": "navier-stokes",
+      "lines": [
+        3665,
+        3673,
+        3693
+      ],
+      "attribution": "",
+      "note": "family 376, a fluid that computes"
+    },
+    {
+      "page": "quasi-riemann-hypothesis",
+      "lines": [
+        43,
+        47,
+        51,
+        55
+      ],
+      "attribution": "",
+      "note": "family 003, a zero-free half-plane at 7/8 and a second proof at 11/12"
+    },
+    {
+      "page": "unique-games-conjecture",
+      "lines": [
+        1031,
+        1033,
+        1035,
+        1039
+      ],
+      "attribution": "",
+      "note": "family 102, Khot's conjecture proved, and optimal hardness thresholds"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [
+    "J126",
+    "J127"
+  ],
+  "decided_by_existing_rules": "J124 (`Lean` read on lean-formalization; the bare word is no alias); J122 (OpenAI stands 0 times here, nothing to decide)",
+  "sweep": [
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 1347,
+      "decision": "occurrence",
+      "why": "a family title, one-tape time simulation by a machine — the computational sense, not the novel's simulated world"
+    }
+  ],
+  "not_promoted": [
+    {
+      "term": "the other 181 named results and terms of the census",
+      "lines": [],
+      "why": "the author asked for pages for the most important entities only; eight results were chosen — the readme's two exceptions (quasi-Riemann, Hodge), the oldest famous problems the catalogue claims (Hilbert's tenth, BSD), the two with a reasoning summary or a direct bearing on computation that the remaining documents may read (Unique Games, Mézard–Parisi, Navier–Stokes computation), and Langlands, which the novel's own sources already write. Every other candidate stays in the census with its count, so a later document that reads one opens its page"
+    },
+    {
+      "term": "Riemann hypothesis",
+      "lines": [
+        43,
+        47,
+        51
+      ],
+      "why": "only inside quasi-Riemann hypothesis (J126)"
+    },
+    {
+      "term": "Gaia Carenini, Tanaka, Schramm, Khot, Erdős",
+      "lines": [
+        2309
+      ],
+      "why": "eponyms and a priority credit — people the catalogue reports, not terms it reads (J127)"
+    },
+    {
+      "term": "computer-assisted, interval arithmetic, deduction traces, exact certificate",
+      "lines": [
+        927,
+        1777,
+        2729,
+        2733
+      ],
+      "why": "the catalogue's words for how a result was computed; read on mathematics-manuscript-collection by one line (L2729), no page"
+    }
+  ],
+  "internal_tension": "the numbering skips 045, 061, 070, 123 and 163 and ends at 377 while the file says 372 families (L13); family 302's first manuscript title (L3047) does not match its description (L3045); family 056 lists one title twice (L617, L621); „Gersten's conjecture“ names two statements (families 209, 258); the Lean label stands on 235 families and is never explained",
+  "baseline_moved": "graphrag.py bench after the eight pages: seeds recall@8 0.548, ppr 0.654 over 26 cases — unchanged"
+}

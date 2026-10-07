@@ -1,0 +1,223 @@
+# Candidates — openai-math-contents
+
+written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count
+
+Written by hand while reading, before any counting. One line per candidate, nothing else
+as a bullet. The document is English prose from a public repository, with no world of a
+novel in it. So the rule applied is the briefing's second and third clause: the words the
+document uses as its own terms (the headings of its numbered result families, its link
+labels, its vocabulary for the work) and the named problems, conjectures, objects, methods
+and people it applies. The list is selective: it takes the names that stand as a proper
+name in a family heading or abstract (a person's conjecture, a named theorem or problem, a
+named object or method) and the phrases that recur across families. A formula written in
+LaTeX is never listed, and a term that stands only inside a formula is left out. The
+document names no model, no product and no institution that produced the manuscripts. It
+names a proof assistant only as the link label Lean, and one external report archive,
+ECCC, in a priority credit.
+
+The document is a catalogue. Each family heading is numbered and followed by a description
+that opens with a verb of result (Proves, Disproves, Constructs, Resolves), then paper
+titles as links to PDFs, each followed by its abstract.
+
+- Mathematics manuscript collection
+- Manuscript map
+- result families
+- Lean
+- secondary writeup
+- companion paper
+- Milne's rationality conjecture
+- Birch–Swinnerton-Dyer
+- Selmer corank
+- quasi-Riemann hypothesis
+- Landau–Siegel zeros
+- Hilbert's tenth problem
+- Catalan's constant
+- Goldfeld's conjecture
+- Chowla conjecture
+- corrected Elliott conjecture
+- Deligne–Drinfeld conjecture
+- Bogomolov–Pop reconstruction
+- Fontaine–Mazur
+- Emerton's dimension conjecture
+- Ford–Konyagin–Luca conjecture
+- Erdős–Pomerance joint Dickman conjecture
+- Ostmann's inverse Goldbach conjecture
+- restricted geometric Langlands
+- Ramanujan
+- Zilber–Pink
+- Flint–Hills series
+- Margulis–Platonov conjecture
+- section conjecture
+- Jacobsthal's function
+- Duffin–Schaeffer conjecture
+- Patterson's first moment
+- Egyptian fractions
+- Gaussian moat conjecture
+- Artin's primitive root conjecture
+- Uchida's conjecture
+- Hodge conjecture
+- Kuga–Satake
+- Iitaka subadditivity
+- log abundance
+- Fujita's freeness conjecture
+- Nagata's conjecture
+- Seshadri constants
+- Bloch's conjecture
+- strong hyperkähler SYZ conjecture
+- Hikita conjecture
+- Shafarevich
+- Zariski cancellation
+- Lipman–Zariski
+- Stable Coordinate conjecture
+- Abhyankar–Sathaye
+- Griffiths' positivity conjecture
+- Kobayashi's canonical-ampleness conjecture
+- Beauville's splitting conjecture
+- Pixton completeness
+- Kuznetsov's rationality conjecture
+- Bridgeland stability
+- Campana's abelianity conjecture
+- Kollár–Pardon conjecture
+- Zariski's multiplicity conjecture
+- Global Spherical Shell conjecture
+- LeBrun–Salamon conjecture
+- generalized Mukai conjecture
+- Virasoro conjecture
+- Shokurov's bounded-klt-complement conjecture
+- Campana–Peternell conjecture
+- quantum geometric Langlands
+- Koebe's circle-domain conjecture
+- Brennan's conjecture
+- Falconer distance conjecture
+- Kakeya
+- Bochner–Riesz
+- local smoothing
+- Carleson
+- Erdős similarity conjecture
+- Mahler conjecture
+- Petty's projection-volume conjecture
+- Lax conjecture
+- Gaussian propeller conjecture
+- Steinitz–Bergström
+- Unique Games Conjecture
+- Lang–Plaut problem
+- edit distance
+- 2-to-1 Games Conjecture
+- mean-payoff games
+- Brunn–Minkowski
+- isotropic constant
+- Turyn's
+- Littlewood polynomials
+- Courtade–Kumar conjecture
+- Hellinger conjecture
+- Sensitivity Conjecture
+- Weisfeiler–Leman
+- Hilbert's sixteenth problem
+- Banach's simple Lebesgue-spectrum problem
+- Rokhlin's multiple-mixing problem
+- Birkhoff conjecture
+- Borsuk's conjecture
+- Hadwiger's conjecture
+- Hadwiger–Nelson problem
+- Sidorenko's conjecture
+- Ryser's covering conjecture
+- Hindman's finite sums and products conjecture
+- Harary–Hill conjecture
+- Zarankiewicz
+- distinct-distances conjecture
+- Seymour's second-neighborhood conjecture
+- Kahn–Kalai conjecture
+- Barnette's conjecture
+- Kaplansky's zero-divisor conjecture
+- Auslander–Reiten conjecture
+- Donovan's conjecture
+- Saxl's conjecture
+- Foulkes' conjecture
+- Kadison's similarity conjecture
+- Toms–Winter
+- bicentralizer conjecture
+- Cannon's conjecture
+- Boone–Higman conjecture
+- Thompson's group F
+- Kervaire conjecture
+- Hilbert–Smith conjecture
+- Hovey–Strickland conjecture
+- Singer conjecture
+- Curtis's conjecture
+- Borel conjecture
+- Tingley's problem
+- Crouzeix conjecture
+- Yau's uniformization conjecture
+- Katok's entropy rigidity conjecture
+- nearby Lagrangian conjecture
+- Blaschke conjecture
+- Arnold conjecture
+- Penrose inequality
+- Anderson model
+- Lieb–Thirring
+- Haldane gap
+- strong cosmic censorship
+- Bose–Einstein condensation
+- Sherrington–Kirkpatrick
+- Schramm–Loewner evolution
+- Mézard–Parisi
+- De Giorgi's conjecture
+- Navier–Stokes
+- hot spots conjecture
+- Lane–Emden conjecture
+- Mumford–Shah
+- Ball–Evans approximation problem
+- Calderón problem
+- Bernoulli problem
+- Brenier maps
+- Gaia Carenini
+- Tanaka
+- ECCC
+- Schramm
+- Erdős
+- Khot
+- Oka classification
+- overview PDF
+- constituent manuscripts
+- Paper titles
+- counterexample
+- computer-assisted
+- interval arithmetic
+- verification pipeline
+- exact certificate
+- deduction traces
+- alternative proof
+- independent proof
+- companion
+- priority
+- NP-hard
+- quasipolynomial
+- Poisson–Dirichlet
+- Hanner polytopes
+- Gaussian free field
+- Liouville quantum gravity
+- conformal loop ensemble
+- measure rigidity
+- Bott–Chern cohomology
+- Fourier restriction
+- Unique Games Theorem
+- Hodge standard conjecture
+- Tate conjecture
+- Riemann hypothesis
+- Szemerédi
+- van der Waerden numbers
+- Ramsey number
+- Kaplansky's direct-finiteness conjecture
+- Baum–Connes
+- Kadison–Kastler
+- Jiang–Su stability
+- Zauner
+- mutually unbiased bases
+- Hamiltonian fixed points
+- Ricci flow
+- Calabi flow
+- Cartan–Hadamard
+- Kerr
+- Alperin weight conjecture
+- Cohen–Macaulay
+- Gersten's conjecture

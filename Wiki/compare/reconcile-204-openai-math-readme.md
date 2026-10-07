@@ -18,7 +18,7 @@ new_readings: 4
 
 ## New pages
 
-`internal-openai-model`, `lean-formalization`, `mathematics-manuscript-collection`, `reasoning-summaries`. Four, all real-world entities and named so in each lead: the model that produced the collection, the collection and its families, the Lean formalizations that verify part of it, and the reasoning summaries. Each is read here, not merely named. Not promoted, with lines in `reconcile.json`: the Riemann zeta zero-free region and the Hodge Conjecture (L52, defined by the manuscript map, whose reconciliation opens their pages with this line), `OpenAI` alone (J122), the ten table titles (J125), and the file pointers.
+`internal-openai-model`, `lean-formalization`, `mathematics-manuscript-collection`, `reasoning-summaries`. Four, all real-world entities and named so in each lead: the model that produced the collection, the collection and its families, the Lean formalizations that verify part of it, and the reasoning summaries. Each is read here, not merely named. The Riemann zeta zero-free region and the Hodge Conjecture (L52) waited for the manuscript map, which defines them; when document 205 opened `quasi-riemann-hypothesis` and `hodge-conjecture`, this line went on both. Not promoted, with lines in `reconcile.json`: `OpenAI` alone (J122), the ten table titles (J125), and the file pointers.
 
 ## Judgements
 

@@ -1,0 +1,253 @@
+{
+  "document": "openai-math-contents",
+  "drive_id": "github:openai/math@adc7f12/CONTENTS.md",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 11,
+  "backslash_escapes": 0,
+  "typographic_marks": 623,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "class": [
+      "Class",
+      "Classes",
+      "Classical",
+      "Classification",
+      "Classifies",
+      "Classifying",
+      "Classwise"
+    ],
+    "bound": [
+      "Bound",
+      "Boundaries",
+      "Boundary",
+      "Bounded",
+      "Boundedness",
+      "Bounds"
+    ],
+    "const": [
+      "Constant",
+      "Constants",
+      "Constraints",
+      "Constructible",
+      "Constructions",
+      "Constructs"
+    ],
+    "multi": [
+      "Multiple",
+      "Multiplication",
+      "Multiplicity",
+      "Multipliers",
+      "Multiplies",
+      "Multipoint"
+    ],
+    "algeb": [
+      "Algebra",
+      "Algebraic",
+      "Algebraically",
+      "Algebraicity",
+      "Algebras"
+    ],
+    "inter": [
+      "Interfaces",
+      "Interior",
+      "Interpolation",
+      "Intersection",
+      "Intersections"
+    ],
+    "separ": [
+      "Separable",
+      "Separate",
+      "Separately",
+      "Separating",
+      "Separation"
+    ],
+    "compa": [
+      "Compact",
+      "Companion",
+      "Comparison",
+      "Compatibility"
+    ],
+    "compl": [
+      "Complete",
+      "Complex",
+      "Complexes",
+      "Complexity"
+    ],
+    "corre": [
+      "Correlation",
+      "Correlations",
+      "Correspondence",
+      "Correspondences"
+    ],
+    "deter": [
+      "Determinant",
+      "Determination",
+      "Determines",
+      "Deterministic"
+    ],
+    "equiv": [
+      "Equivalence",
+      "Equivalent",
+      "Equivalently",
+      "Equivariant"
+    ],
+    "gener": [
+      "General",
+      "Generalised",
+      "Generalized",
+      "Generic"
+    ],
+    "integ": [
+      "Integer",
+      "Integrability",
+      "Integrable",
+      "Integral"
+    ],
+    "jacob": [
+      "Jacobian",
+      "Jacobson",
+      "Jacobsthal",
+      "Jacobsthals"
+    ],
+    "proje": [
+      "Projected",
+      "Projection",
+      "Projective",
+      "Projectivization"
+    ],
+    "space": [
+      "Space",
+      "Spaces",
+      "Spacetime",
+      "Spacetimes"
+    ],
+    "squar": [
+      "Square",
+      "Squared",
+      "Squarefree",
+      "Squares"
+    ],
+    "super": [
+      "Supercritical",
+      "Superexponential",
+      "Superreflexivity",
+      "Superstring"
+    ],
+    "trans": [
+      "Transformations",
+      "Translation",
+      "Translative",
+      "Transport"
+    ],
+    "appro": [
+      "Approximate",
+      "Approximating",
+      "Approximation"
+    ],
+    "brown": [
+      "Brown",
+      "Brownian",
+      "Browning"
+    ],
+    "chara": [
+      "Characteristic",
+      "Characterization",
+      "Characterizes"
+    ],
+    "combi": [
+      "Combinatorial",
+      "Combined",
+      "Combining"
+    ],
+    "compu": [
+      "Computation",
+      "Computations",
+      "Computing"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alon",
+      "Villalonga"
+    ],
+    [
+      "Ball",
+      "Balls"
+    ],
+    [
+      "Bass",
+      "Basso"
+    ],
+    [
+      "Baum",
+      "Baumslag"
+    ],
+    [
+      "Bond",
+      "Bondi"
+    ],
+    [
+      "Bott",
+      "Bottom"
+    ],
+    [
+      "Chai",
+      "Chain"
+    ],
+    [
+      "Chen",
+      "Panchenko"
+    ],
+    [
+      "Chen",
+      "Babichenko"
+    ],
+    [
+      "Chow",
+      "Chowla"
+    ],
+    [
+      "Cone",
+      "Cones"
+    ],
+    [
+      "Cone",
+      "Falconer"
+    ],
+    [
+      "Disc",
+      "Discrete"
+    ],
+    [
+      "Even",
+      "Eventual"
+    ],
+    [
+      "Even",
+      "Eventually"
+    ],
+    [
+      "Face",
+      "Surfaces"
+    ],
+    [
+      "Face",
+      "Interfaces"
+    ],
+    [
+      "Flat",
+      "Ultraflat"
+    ],
+    [
+      "Flow",
+      "Flows"
+    ],
+    [
+      "Ford",
+      "Mumford"
+    ]
+  ]
+}

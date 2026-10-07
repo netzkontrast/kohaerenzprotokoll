@@ -1,0 +1,646 @@
+$ grep -c -E '^\*\*[0-9]{3}\. ' Sources/drive/openai-math-contents.md   # numbered bold family headings
+372
+
+$ grep -c -E '\]\(preprints/' Sources/drive/openai-math-contents.md   # lines that link a PDF
+722
+
+$ grep -o -E '^\*\*[0-9]{3}\.' Sources/drive/openai-math-contents.md | tr -d '*.' | sort -n | awk 'NR==1{p=$1;next}{for(i=p+1;i<$1;i++)print "missing",i;p=$1}END{print "last",p}'
+missing 45
+missing 61
+missing 70
+missing 123
+missing 163
+last 377
+
+$ grep -c -E '^\*\*[0-9]{3}\..*\(\[Lean\]' Sources/drive/openai-math-contents.md   # headings that carry a Lean link
+235
+
+$ grep -E '^\*\*[0-9]{3}\.' Sources/drive/openai-math-contents.md | grep -vc '\[Lean\]'   # headings without a Lean link
+137
+
+$ grep -c '\[Lean\]' Sources/drive/openai-math-contents.md   # lines with a Lean link in all
+235
+
+$ grep -n -c '<thead>' Sources/drive/openai-math-contents.md; sed -n 21p Sources/drive/openai-math-contents.md
+1
+<thead><tr><th>Result</th></tr></thead>
+
+$ sed -n 1,16p Plan/runs/openai-math-contents/01-profile.txt
+# openai-math-contents
+  lines                3708  (frontmatter ends at 9)
+  body words           67493
+  headings             2   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    623   ascii quotes 0
+  invisible characters none
+  math symbol lines    24
+  glued ref numbers    11
+  repeated labels      none
+  longest line         1143 chars
+
+
+$ python3 scripts/read.py openai-math-contents --count "Riemann hypothesis"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`Riemann hypothesis` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "quasi-Riemann hypothesis"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`quasi-Riemann hypothesis` ^[openai-math-contents.md:#4]
+
+$ python3 scripts/read.py openai-math-contents --count "Riemann zeta function"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Riemann zeta function` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "companion paper"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`companion paper` ^[openai-math-contents.md:#8]
+
+$ python3 scripts/read.py openai-math-contents --count "companion papers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`companion papers` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Hodge conjecture"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            12
+
+`Hodge conjecture` ^[openai-math-contents.md:#10]
+
+$ python3 scripts/read.py openai-math-contents --count "Hodge conjectures"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hodge conjectures` ^[openai-math-contents.md:#2]
+
+$ python3 scripts/read.py openai-math-contents --count "Mahler conjecture"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            6
+
+`Mahler conjecture` ^[openai-math-contents.md:#4]
+
+$ python3 scripts/read.py openai-math-contents --count "Mahler conjectures"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mahler conjectures` ^[openai-math-contents.md:#2]
+
+$ python3 scripts/read.py openai-math-contents --count "isotropic constant"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`isotropic constant` ^[openai-math-contents.md:#4]
+
+$ python3 scripts/read.py openai-math-contents --count "isotropic constants"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`isotropic constants` ^[openai-math-contents.md:#2]
+
+$ python3 scripts/read.py openai-math-contents --count "Hellinger conjecture"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Hellinger conjecture` ^[openai-math-contents.md:#2]
+
+$ python3 scripts/read.py openai-math-contents --count "Hellinger conjectures"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hellinger conjectures` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Ramsey number"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            9
+
+`Ramsey number` ^[openai-math-contents.md:#5]
+
+$ python3 scripts/read.py openai-math-contents --count "Ramsey numbers"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Ramsey numbers` ^[openai-math-contents.md:#4]
+
+$ python3 scripts/read.py openai-math-contents --count "Lane–Emden conjecture"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            3
+
+`Lane–Emden conjecture` ^[openai-math-contents.md:#2]
+
+$ python3 scripts/read.py openai-math-contents --count "Hénon–Lane–Emden conjecture"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            2
+
+`Hénon–Lane–Emden conjecture` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Hénon–Lane–Emden conjectures"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hénon–Lane–Emden conjectures` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Weisfeiler–Leman"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Weisfeiler–Leman` ^[openai-math-contents.md:#9]
+
+$ python3 scripts/read.py openai-math-contents --count "k-Weisfeiler–Leman"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`k-Weisfeiler–Leman` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "NP-hard"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            15
+
+`NP-hard` ^[openai-math-contents.md:#13]
+
+$ python3 scripts/read.py openai-math-contents --count "NP-hardness"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`NP-hardness` ^[openai-math-contents.md:#2]
+
+$ python3 scripts/read.py openai-math-contents --count "quasipolynomial"
+whole word, case-sensitive     7
+whole word, case-insensitive   10
+including compounds            16
+
+`quasipolynomial` ^[openai-math-contents.md:#7]
+
+$ python3 scripts/read.py openai-math-contents --count "quasipolynomial-time"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            9
+
+`quasipolynomial-time` ^[openai-math-contents.md:#5]
+
+$ python3 scripts/read.py openai-math-contents --count "Kerr"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            19
+
+`Kerr` ^[openai-math-contents.md:#13]
+
+$ python3 scripts/read.py openai-math-contents --count "Kerr–Newman"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kerr–Newman` ^[openai-math-contents.md:#6]
+
+$ python3 scripts/read.py openai-math-contents --count "Near-Kerr"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Near-Kerr` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Ramanujan"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            14
+
+`Ramanujan` ^[openai-math-contents.md:#11]
+
+$ python3 scripts/read.py openai-math-contents --count "Ramanujan–Arthur"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Ramanujan–Arthur` ^[openai-math-contents.md:#2]
+
+$ python3 scripts/read.py openai-math-contents --count "Kakeya"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`Kakeya` ^[openai-math-contents.md:#6]
+
+$ python3 scripts/read.py openai-math-contents --count "Selmer corank"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            5
+
+`Selmer corank` ^[openai-math-contents.md:#3]
+
+$ python3 scripts/read.py openai-math-contents --count "counterexample"
+whole word, case-sensitive     56
+whole word, case-insensitive   64
+including compounds            92
+
+`counterexample` ^[openai-math-contents.md:#56]
+
+$ python3 scripts/read.py openai-math-contents --count "counterexamples"
+whole word, case-sensitive     14
+whole word, case-insensitive   26
+including compounds            16
+
+`counterexamples` ^[openai-math-contents.md:#14]
+
+$ python3 scripts/read.py openai-math-contents --count "Counterexamples"
+whole word, case-sensitive     12
+whole word, case-insensitive   26
+including compounds            16
+
+`Counterexamples` ^[openai-math-contents.md:#12]
+
+$ python3 scripts/read.py openai-math-contents --count "Counterexample"
+whole word, case-sensitive     8
+whole word, case-insensitive   64
+including compounds            39
+
+`Counterexample` ^[openai-math-contents.md:#8]
+
+$ python3 scripts/read.py openai-math-contents --count "section conjecture"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`section conjecture` ^[openai-math-contents.md:#5]
+
+$ python3 scripts/read.py openai-math-contents --count "intersection conjectures"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`intersection conjectures` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Shafarevich"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`Shafarevich` ^[openai-math-contents.md:#12]
+
+$ python3 scripts/read.py openai-math-contents --count "Tate–Shafarevich"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Tate–Shafarevich` ^[openai-math-contents.md:#6]
+
+$ python3 scripts/read.py openai-math-contents --count "Shafarevich–Tate"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Shafarevich–Tate` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Milne's rationality conjecture"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Milne's rationality conjecture` ^[openai-math-contents.md:#3]
+
+$ python3 scripts/read.py openai-math-contents --count "Milne’s rationality conjecture"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Milne’s rationality conjecture` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "lean"
+whole word, case-sensitive     235
+whole word, case-insensitive   470
+including compounds            266
+
+`lean` ^[openai-math-contents.md:#235]
+
+$ python3 scripts/read.py openai-math-contents --count "Lean"
+whole word, case-sensitive     235
+whole word, case-insensitive   470
+including compounds            235
+
+`Lean` ^[openai-math-contents.md:#235]
+
+$ grep -o 'counterexample' Sources/drive/openai-math-contents.md | wc -l   # all lowercase occurrences
+92
+
+$ grep -o -E '[A-Za-z0-9_–-]*counterexample[A-Za-z0-9_–-]*' Sources/drive/openai-math-contents.md | grep -c -- '-'   # hyphen-joined (paper-path slugs)
+22
+
+$ grep -o -E '[A-Za-z0-9_–-]*counterexample[A-Za-z0-9_–-]*' Sources/drive/openai-math-contents.md | grep -v -E '^counterexamples?$' | grep -v -E 'September|October' | sort | uniq -c
+      1 naimark-counterexample-zfc
+      1 wall-d2-counterexample
+
+$ grep -o -E '[A-Za-z0-9_–-]*[Qq]uasipolynomial[A-Za-z0-9_–-]*' Sources/drive/openai-math-contents.md | sort | uniq -c
+      1 Deterministic-quasipolynomial-time-mean-payoff-games-September-25-2026
+      1 Mean-payoff-parity-games-in-quasipolynomial-time-October-5-2026
+      3 Quasipolynomial
+      1 Quasipolynomial-Bounds-for-Arithmetic-Progressions-September-23-2026
+      1 Randomized-quasipolynomial-time-mean-payoff-games-September-25-2026
+      1 Turn-Based-Stochastic-Mean-Payoff-Games-in-Deterministic-Quasipolynomial-Time-October-5-2026
+      1 Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026
+      7 quasipolynomial
+      5 quasipolynomial-time
+
+$ grep -n -o -E '[A-Za-z0-9_–-]*Kerr[A-Za-z0-9_–-]*' Sources/drive/openai-math-contents.md | cut -c1-110
+2623:Kerr–Newman
+2623:The-Kerr-Newman-Penrose-Inequality-for-Axisymmetric-Electrovacuum-Exteriors-October-5-2026
+2625:Kerr–Newman
+2629:Kerr–Newman
+2631:Kerr–Newman
+2631:Electromagnetic-tails-and-the-Kerr-Newman-Penrose-inequality-October-5-2026
+2633:Kerr–Newman
+2633:Kerr–Newman
+2705:Kerr
+2705:Kerr
+2707:Kerr
+2707:Generic-Future-Inextendibility-with-Square-Integrable-Connection-Near-a-Fixed-Kerr-Spacetime-September-23
+2709:Kerr
+2711:Kerr
+2711:Generic-C1-Future-Inextendibility-Near-Rotating-Subextremal-Kerr-Spacetimes-September-23-2026
+2713:Kerr
+2715:Near-Kerr
+2715:Quantitative-Near-Kerr-Evolution-and-Generic-C2-Future-Inextendibility-September-23-2026
+2717:Kerr
+
+$ grep -n -o -E '[A-Za-z0-9_–-]*Ramanujan-[A-Za-z0-9_-]*' Sources/drive/openai-math-contents.md | cut -c1-110
+159:Ramanujan-Arthur
+159:Ramanujan-Arthur-Decompositions-of-Cuspidal-Functions-at-Full-Finite-Level-September-24-2026
+1693:Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026
+
+$ grep -n -o -E '[A-Za-z0-9_–-]*Kakeya-[A-Za-z0-9_–-]*' Sources/drive/openai-math-contents.md | cut -c1-110
+773:The-Kakeya-maximal-conjecture-in-three-dimensions-September-23-2026
+777:Every-four-dimensional-Kakeya-set-has-full-Hausdorff-dimension-September-24-2026
+
+$ grep -n -o -E 'Shafarevich[A-Za-z–-]*|Tate–Shafarevich' Sources/drive/openai-math-contents.md | cut -c1-110
+29:Tate–Shafarevich
+33:Tate–Shafarevich
+37:Tate–Shafarevich
+37:Tate–Shafarevich
+41:Tate–Shafarevich
+65:Shafarevich–Tate
+77:Tate–Shafarevich
+527:Shafarevich
+527:Shafarevich
+531:Shafarevich
+533:Shafarevich
+533:Shafarevich-holomorphic-convexity-September-
+535:Shafarevich
+
+$ python3 scripts/read.py openai-math-contents --count "Proves"
+whole word, case-sensitive     165
+whole word, case-insensitive   244
+including compounds            165
+
+`Proves` ^[openai-math-contents.md:#165]
+
+$ python3 scripts/read.py openai-math-contents --count "Resolves"
+whole word, case-sensitive     41
+whole word, case-insensitive   125
+including compounds            41
+
+`Resolves` ^[openai-math-contents.md:#41]
+
+$ python3 scripts/read.py openai-math-contents --count "Constructs"
+whole word, case-sensitive     44
+whole word, case-insensitive   63
+including compounds            44
+
+`Constructs` ^[openai-math-contents.md:#44]
+
+$ python3 scripts/read.py openai-math-contents --count "Disproves"
+whole word, case-sensitive     18
+whole word, case-insensitive   67
+including compounds            18
+
+`Disproves` ^[openai-math-contents.md:#18]
+
+$ python3 scripts/read.py openai-math-contents --count "does not assert"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`does not assert` ^[openai-math-contents.md:#4]
+
+$ python3 scripts/read.py openai-math-contents --count "do not assert"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`do not assert` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Assuming"
+whole word, case-sensitive     8
+whole word, case-insensitive   10
+including compounds            8
+
+`Assuming` ^[openai-math-contents.md:#8]
+
+$ python3 scripts/read.py openai-math-contents --count "priority"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`priority` ^[openai-math-contents.md:#3]
+
+$ python3 scripts/read.py openai-math-contents --count "Together with"
+whole word, case-sensitive     13
+whole word, case-insensitive   19
+including compounds            13
+
+`Together with` ^[openai-math-contents.md:#13]
+
+$ python3 scripts/read.py openai-math-contents --count "companion"
+whole word, case-sensitive     35
+whole word, case-insensitive   37
+including compounds            35
+
+`companion` ^[openai-math-contents.md:#35]
+
+$ python3 scripts/read.py openai-math-contents --count "ECCC"
+whole word, case-sensitive     1
+whole word, case-insensitive   4
+including compounds            1
+
+`ECCC` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Tanaka"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tanaka` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Gaia Carenini"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gaia Carenini` ^[openai-math-contents.md:#3]
+
+$ python3 scripts/read.py openai-math-contents --count "BSD"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`BSD` ^[openai-math-contents.md:#2]
+
+$ python3 scripts/read.py openai-math-contents --count "Birch–Swinnerton-Dyer"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Birch–Swinnerton-Dyer` ^[openai-math-contents.md:#4]
+
+$ python3 scripts/read.py openai-math-contents --count "Gersten's conjecture"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Gersten's conjecture` ^[openai-math-contents.md:#4]
+
+$ python3 scripts/read.py openai-math-contents --count "computer-assisted"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`computer-assisted` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "Manuscript map"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Manuscript map` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "secondary writeup"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`secondary writeup` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "OpenAI"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`OpenAI` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "internal model"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`internal model` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "verified"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`verified` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "checked"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`checked` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "peer"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`peer` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "referee"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`referee` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "reviewed"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`reviewed` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "released"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`released` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "result family"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`result family` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "result families"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`result families` ^[openai-math-contents.md:#1]
+
+$ python3 scripts/read.py openai-math-contents --count "proof assistant"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`proof assistant` ^[openai-math-contents.md:#0]
+
+$ python3 scripts/read.py openai-math-contents --count "formalized"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`formalized` ^[openai-math-contents.md:#0]
+
+stance_marker_count = Manuscript map 1 + Lean 235 + secondary writeup 1 = 237
+$ grep -n -i -E 'withdrawn|retract|omitted|intentionally' Sources/drive/openai-math-contents.md  # a note on the numbering gaps
+3177:At the prime three and height three, the chromatic overlap cannot be constructed from the rational, height-one, and height-two local spheres by finitely many sums, shifts, cofibers, and retracts in the category of $`E(2)`$-local modules over the derived 3-complete sphere. This gives a negative answer to the ordinary finite-assembly question for chromatic overlaps.
+3181:For the derived p-completion of the sphere, the canonical weak chromatic splitting map has no homotopy retraction at height p for every prime p ≥ 5, and at height $`p+1`$ for every prime p ≥ 7. The classical sphere product $`\beta_1^{(p-1)^2}`$ gives a nonzero kernel class in both ranges.
+3183:**319. Counterexamples to finite generation at chromatic height two.** Refutes the Hahn–Wilson conjecture at chromatic height two. For every sufficiently large prime p, constructs a connective p-complete spectrum of exact fp-type two that cannot be built from completed $`\mathrm{BP}\langle2\rangle`$ by finitely many sums, shifts, cones and retracts. The examples nevertheless satisfy the finite and telescopic localization comparisons.
+(exit 0 of the pipeline; no output above = no hit)
+
+# reading of the two hits above: 'retracts' and 'retraction' are mathematical words (spectra, homotopy), L3177 and L3181; no sentence of the document comments on the numbering gaps.
+$ grep -E "^(candidates|\*\*Zeros)" Plan/runs/openai-math-contents/census-draft.md
+candidates: 202    # the terms capture.py counted
+**Zeros:** 1 — `Riemann hypothesis`.
+does not assert 4 + do not assert 1 = 5 places

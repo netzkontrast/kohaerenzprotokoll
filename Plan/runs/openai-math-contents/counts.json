@@ -1,0 +1,2221 @@
+{
+  "document": "openai-math-contents",
+  "drive_id": "github:openai/math@adc7f12/CONTENTS.md",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Mathematics manuscript collection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Manuscript map": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "result families": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Lean": {
+      "n": 235,
+      "n_including_compounds": 235,
+      "lines": [
+        43,
+        67,
+        83,
+        89,
+        95,
+        137,
+        143,
+        183,
+        215,
+        241,
+        247,
+        259,
+        265,
+        271,
+        277,
+        289,
+        351,
+        475,
+        537,
+        549,
+        559,
+        571,
+        639,
+        745,
+        755,
+        765,
+        787,
+        833,
+        839,
+        853,
+        859,
+        869,
+        881,
+        895,
+        905,
+        915,
+        933,
+        939,
+        955,
+        961,
+        975,
+        981,
+        987,
+        993,
+        1007,
+        1031,
+        1059,
+        1077,
+        1083,
+        1089,
+        1103,
+        1115,
+        1125,
+        1131,
+        1137,
+        1151,
+        1161,
+        1171,
+        1185,
+        1195,
+        1201,
+        1217,
+        1223,
+        1237,
+        1243,
+        1253,
+        1259,
+        1265,
+        1271,
+        1281,
+        1291,
+        1297,
+        1303,
+        1321,
+        1335,
+        1363,
+        1369,
+        1407,
+        1417,
+        1423,
+        1429,
+        1445,
+        1451,
+        1461,
+        1471,
+        1477,
+        1511,
+        1517,
+        1523,
+        1537,
+        1543,
+        1553,
+        1559,
+        1565,
+        1581,
+        1601,
+        1611,
+        1617,
+        1623,
+        1643,
+        1649,
+        1655,
+        1665,
+        1679,
+        1685,
+        1697,
+        1703,
+        1709,
+        1715,
+        1729,
+        1735,
+        1745,
+        1751,
+        1761,
+        1767,
+        1773,
+        1779,
+        1785,
+        1791,
+        1807,
+        1819,
+        1825,
+        1843,
+        1849,
+        1897,
+        1907,
+        1917,
+        1943,
+        1953,
+        1983,
+        1993,
+        2003,
+        2009,
+        2079,
+        2115,
+        2129,
+        2135,
+        2209,
+        2243,
+        2253,
+        2267,
+        2277,
+        2303,
+        2309,
+        2327,
+        2333,
+        2387,
+        2449,
+        2459,
+        2465,
+        2471,
+        2481,
+        2487,
+        2493,
+        2499,
+        2509,
+        2515,
+        2521,
+        2535,
+        2545,
+        2551,
+        2557,
+        2571,
+        2577,
+        2587,
+        2609,
+        2667,
+        2677,
+        2691,
+        2729,
+        2739,
+        2771,
+        2791,
+        2809,
+        2815,
+        2821,
+        2831,
+        2841,
+        2847,
+        2859,
+        2865,
+        2871,
+        2923,
+        2929,
+        2935,
+        2949,
+        2959,
+        2977,
+        2983,
+        2993,
+        2999,
+        3005,
+        3011,
+        3017,
+        3023,
+        3055,
+        3087,
+        3125,
+        3155,
+        3201,
+        3207,
+        3213,
+        3223,
+        3233,
+        3239,
+        3245,
+        3251,
+        3257,
+        3263,
+        3299,
+        3305,
+        3339,
+        3373,
+        3379,
+        3411,
+        3433,
+        3453,
+        3487,
+        3497,
+        3509,
+        3525,
+        3531,
+        3541,
+        3551,
+        3561,
+        3567,
+        3587,
+        3607,
+        3623,
+        3629,
+        3635,
+        3641,
+        3647,
+        3653,
+        3665
+      ]
+    },
+    "secondary writeup": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1095
+      ]
+    },
+    "companion paper": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        165,
+        303,
+        973,
+        1405,
+        2017,
+        2047,
+        2321,
+        2503,
+        3319
+      ]
+    },
+    "Milne's rationality conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        25,
+        27
+      ]
+    },
+    "Birch–Swinnerton-Dyer": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        31,
+        33,
+        39
+      ]
+    },
+    "Selmer corank": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        39,
+        41,
+        65,
+        77
+      ]
+    },
+    "quasi-Riemann hypothesis": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        43,
+        47,
+        51
+      ]
+    },
+    "Landau–Siegel zeros": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        53,
+        55
+      ]
+    },
+    "Hilbert's tenth problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        61
+      ]
+    },
+    "Catalan's constant": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        69,
+        71
+      ]
+    },
+    "Goldfeld's conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Chowla conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        87
+      ]
+    },
+    "corrected Elliott conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        87
+      ]
+    },
+    "Deligne–Drinfeld conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        89,
+        93
+      ]
+    },
+    "Bogomolov–Pop reconstruction": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        95,
+        99,
+        107
+      ]
+    },
+    "Fontaine–Mazur": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        109,
+        119,
+        121
+      ]
+    },
+    "Emerton's dimension conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Ford–Konyagin–Luca conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Erdős–Pomerance joint Dickman conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        137,
+        141
+      ]
+    },
+    "Ostmann's inverse Goldbach conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        143,
+        147
+      ]
+    },
+    "restricted geometric Langlands": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        149,
+        157,
+        169
+      ]
+    },
+    "Ramanujan": {
+      "n": 11,
+      "n_including_compounds": 14,
+      "lines": [
+        149,
+        153,
+        159,
+        161,
+        165,
+        1691,
+        1693,
+        1695
+      ]
+    },
+    "Zilber–Pink": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        197,
+        199,
+        201,
+        203,
+        205,
+        209,
+        211,
+        213
+      ]
+    },
+    "Flint–Hills series": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        215,
+        219
+      ]
+    },
+    "Margulis–Platonov conjecture": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        221,
+        223,
+        225,
+        227,
+        229
+      ]
+    },
+    "section conjecture": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        231,
+        237,
+        239,
+        1749
+      ]
+    },
+    "Jacobsthal's function": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Duffin–Schaeffer conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        253,
+        257
+      ]
+    },
+    "Patterson's first moment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Egyptian fractions": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        271,
+        273
+      ]
+    },
+    "Gaussian moat conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        289,
+        293
+      ]
+    },
+    "Artin's primitive root conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        295,
+        299
+      ]
+    },
+    "Uchida's conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        311,
+        315
+      ]
+    },
+    "Hodge conjecture": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        317,
+        319,
+        321,
+        327,
+        329,
+        331,
+        333,
+        337,
+        339,
+        341
+      ]
+    },
+    "Kuga–Satake": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        317,
+        323,
+        325,
+        331,
+        333,
+        347,
+        349
+      ]
+    },
+    "Iitaka subadditivity": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        351,
+        353,
+        355,
+        365,
+        367,
+        373,
+        375,
+        377,
+        385
+      ]
+    },
+    "log abundance": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        373,
+        377,
+        389,
+        401,
+        431,
+        435
+      ]
+    },
+    "Fujita's freeness conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        469,
+        471,
+        473
+      ]
+    },
+    "Nagata's conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        477,
+        479
+      ]
+    },
+    "Seshadri constants": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        475,
+        481,
+        489
+      ]
+    },
+    "Bloch's conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        493,
+        497
+      ]
+    },
+    "strong hyperkähler SYZ conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        499,
+        505,
+        507
+      ]
+    },
+    "Hikita conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        521,
+        523,
+        525
+      ]
+    },
+    "Shafarevich": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        29,
+        33,
+        37,
+        41,
+        65,
+        77,
+        527,
+        531,
+        533,
+        535
+      ]
+    },
+    "Zariski cancellation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        537
+      ]
+    },
+    "Lipman–Zariski": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        543,
+        547
+      ]
+    },
+    "Stable Coordinate conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        549
+      ]
+    },
+    "Abhyankar–Sathaye": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        549,
+        553,
+        557
+      ]
+    },
+    "Griffiths' positivity conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        559
+      ]
+    },
+    "Kobayashi's canonical-ampleness conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        565,
+        569
+      ]
+    },
+    "Beauville's splitting conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        571
+      ]
+    },
+    "Pixton completeness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        581,
+        583
+      ]
+    },
+    "Kuznetsov's rationality conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        587,
+        591
+      ]
+    },
+    "Bridgeland stability": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        593,
+        597,
+        601
+      ]
+    },
+    "Campana's abelianity conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        625,
+        629
+      ]
+    },
+    "Kollár–Pardon conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        639,
+        643
+      ]
+    },
+    "Zariski's multiplicity conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        649
+      ]
+    },
+    "Global Spherical Shell conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        659,
+        663
+      ]
+    },
+    "LeBrun–Salamon conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        665,
+        667,
+        669
+      ]
+    },
+    "generalized Mukai conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        671,
+        673,
+        675
+      ]
+    },
+    "Virasoro conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        683,
+        691
+      ]
+    },
+    "Shokurov's bounded-klt-complement conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        697
+      ]
+    },
+    "Campana–Peternell conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        703,
+        705,
+        707
+      ]
+    },
+    "quantum geometric Langlands": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        739,
+        741,
+        743
+      ]
+    },
+    "Koebe's circle-domain conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        745,
+        753
+      ]
+    },
+    "Brennan's conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        755,
+        757,
+        759
+      ]
+    },
+    "Falconer distance conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        765,
+        767,
+        769
+      ]
+    },
+    "Kakeya": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        771,
+        773,
+        775,
+        777,
+        779
+      ]
+    },
+    "Bochner–Riesz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        811,
+        813,
+        815
+      ]
+    },
+    "local smoothing": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        809,
+        817,
+        819,
+        821
+      ]
+    },
+    "Carleson": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        823,
+        827,
+        831
+      ]
+    },
+    "Erdős similarity conjecture": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        859,
+        861,
+        863,
+        865,
+        867
+      ]
+    },
+    "Mahler conjecture": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        881,
+        883,
+        885,
+        889,
+        893
+      ]
+    },
+    "Petty's projection-volume conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        895,
+        899
+      ]
+    },
+    "Lax conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        961,
+        965,
+        969
+      ]
+    },
+    "Gaussian propeller conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        975,
+        979
+      ]
+    },
+    "Steinitz–Bergström": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        981,
+        983,
+        985
+      ]
+    },
+    "Unique Games Conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1031,
+        1035
+      ]
+    },
+    "Lang–Plaut problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        987,
+        991
+      ]
+    },
+    "edit distance": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        993,
+        997,
+        1217,
+        1221
+      ]
+    },
+    "2-to-1 Games Conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1077,
+        1081
+      ]
+    },
+    "mean-payoff games": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1059,
+        1063,
+        1069,
+        1073
+      ]
+    },
+    "Brunn–Minkowski": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        933,
+        935,
+        937
+      ]
+    },
+    "isotropic constant": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        1025,
+        1027,
+        1029
+      ]
+    },
+    "Turyn's": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        787,
+        799
+      ]
+    },
+    "Littlewood polynomials": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        787,
+        789,
+        791,
+        793,
+        797
+      ]
+    },
+    "Courtade–Kumar conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1201,
+        1205
+      ]
+    },
+    "Hellinger conjecture": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        1201,
+        1209
+      ]
+    },
+    "Sensitivity Conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1297,
+        1301
+      ]
+    },
+    "Weisfeiler–Leman": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        1303,
+        1305,
+        1307,
+        1309,
+        1311,
+        1313,
+        1315,
+        1317,
+        1319
+      ]
+    },
+    "Hilbert's sixteenth problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1407,
+        1411
+      ]
+    },
+    "Banach's simple Lebesgue-spectrum problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1417,
+        1421
+      ]
+    },
+    "Rokhlin's multiple-mixing problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1423,
+        1425,
+        1427
+      ]
+    },
+    "Birkhoff conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1435,
+        1443
+      ]
+    },
+    "Borsuk's conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1517,
+        1521
+      ]
+    },
+    "Hadwiger's conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1523,
+        1525,
+        1527
+      ]
+    },
+    "Hadwiger–Nelson problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1537
+      ]
+    },
+    "Sidorenko's conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1559,
+        1561,
+        1563
+      ]
+    },
+    "Ryser's covering conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1565,
+        1569,
+        1571,
+        1573
+      ]
+    },
+    "Hindman's finite sums and products conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1575,
+        1579
+      ]
+    },
+    "Harary–Hill conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1581,
+        1585
+      ]
+    },
+    "Zarankiewicz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1581,
+        1591
+      ]
+    },
+    "distinct-distances conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1595,
+        1597,
+        1599
+      ]
+    },
+    "Seymour's second-neighborhood conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1649
+      ]
+    },
+    "Kahn–Kalai conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1679,
+        1681,
+        1683
+      ]
+    },
+    "Barnette's conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1703,
+        1707
+      ]
+    },
+    "Kaplansky's zero-divisor conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1819,
+        1823
+      ]
+    },
+    "Auslander–Reiten conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1853
+      ]
+    },
+    "Donovan's conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1881,
+        1885
+      ]
+    },
+    "Saxl's conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1897,
+        1905
+      ]
+    },
+    "Foulkes' conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1943,
+        1945,
+        1947
+      ]
+    },
+    "Kadison's similarity conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        2929,
+        2933
+      ]
+    },
+    "Toms–Winter": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        2959,
+        2967,
+        2971,
+        2975
+      ]
+    },
+    "bicentralizer conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        2949,
+        2953
+      ]
+    },
+    "Cannon's conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        2493,
+        2497
+      ]
+    },
+    "Boone–Higman conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        2521,
+        2523,
+        2525,
+        2529
+      ]
+    },
+    "Thompson's group F": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        2509,
+        2511,
+        2513
+      ]
+    },
+    "Kervaire conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        2585
+      ]
+    },
+    "Hilbert–Smith conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3061,
+        3063,
+        3065
+      ]
+    },
+    "Hovey–Strickland conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3119,
+        3123
+      ]
+    },
+    "Singer conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3143,
+        3145,
+        3147
+      ]
+    },
+    "Curtis's conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3153
+      ]
+    },
+    "Borel conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3189,
+        3193
+      ]
+    },
+    "Tingley's problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3201,
+        3205
+      ]
+    },
+    "Crouzeix conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3223,
+        3227,
+        3231
+      ]
+    },
+    "Yau's uniformization conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        3349,
+        3353
+      ]
+    },
+    "Katok's entropy rigidity conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        3355,
+        3359
+      ]
+    },
+    "nearby Lagrangian conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3361,
+        3363,
+        3365
+      ]
+    },
+    "Blaschke conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        3389,
+        3393
+      ]
+    },
+    "Arnold conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3427,
+        3431
+      ]
+    },
+    "Penrose inequality": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        2609,
+        2611,
+        2625,
+        2631,
+        2633,
+        2639,
+        2641,
+        2643,
+        2645,
+        2647,
+        2649,
+        2651,
+        2653,
+        2655,
+        2657,
+        2659,
+        2663
+      ]
+    },
+    "Anderson model": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        2667
+      ]
+    },
+    "Lieb–Thirring": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        2677,
+        2679,
+        2681,
+        2683,
+        2685,
+        2687,
+        2689
+      ]
+    },
+    "Haldane gap": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        2761,
+        2763
+      ]
+    },
+    "strong cosmic censorship": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        2705
+      ]
+    },
+    "Bose–Einstein condensation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        2739,
+        2741,
+        2743,
+        2759
+      ]
+    },
+    "Sherrington–Kirkpatrick": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        2069,
+        2071,
+        2073,
+        2075,
+        2077,
+        2211,
+        2213,
+        2217,
+        2219,
+        2221,
+        2223,
+        2225,
+        2227,
+        2229,
+        2233,
+        2237,
+        2239,
+        2241,
+        2871,
+        2875,
+        2879
+      ]
+    },
+    "Schramm–Loewner evolution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        2271
+      ]
+    },
+    "Mézard–Parisi": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        2129,
+        2131,
+        2133
+      ]
+    },
+    "De Giorgi's conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3659,
+        3661,
+        3663
+      ]
+    },
+    "Navier–Stokes": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        3665,
+        3673,
+        3675,
+        3687,
+        3691,
+        3693,
+        3697,
+        3701
+      ]
+    },
+    "hot spots conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        3623,
+        3627
+      ]
+    },
+    "Lane–Emden conjecture": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        3629,
+        3633
+      ]
+    },
+    "Mumford–Shah": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3601,
+        3603,
+        3605
+      ]
+    },
+    "Ball–Evans approximation problem": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3613,
+        3617,
+        3621
+      ]
+    },
+    "Calderón problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3593,
+        3599
+      ]
+    },
+    "Bernoulli problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3607,
+        3611
+      ]
+    },
+    "Brenier maps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3653
+      ]
+    },
+    "Gaia Carenini": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        2309,
+        2313,
+        2325
+      ]
+    },
+    "Tanaka": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        3011
+      ]
+    },
+    "ECCC": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        2309
+      ]
+    },
+    "Schramm": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        745,
+        749,
+        1993,
+        2001,
+        2003,
+        2007,
+        2161,
+        2177,
+        2267,
+        2271,
+        2275,
+        2283,
+        2291,
+        2295
+      ]
+    },
+    "Erdős": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        127,
+        137,
+        141,
+        265,
+        269,
+        271,
+        275,
+        277,
+        281,
+        799,
+        859,
+        861,
+        863,
+        865,
+        867,
+        1543,
+        1547,
+        1553,
+        1557,
+        1595,
+        1597,
+        1599,
+        1601,
+        1605,
+        1637,
+        1641,
+        1709,
+        1713,
+        1735,
+        1743,
+        1773,
+        1777
+      ]
+    },
+    "Khot": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1031,
+        1077
+      ]
+    },
+    "Oka classification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        509
+      ]
+    },
+    "overview PDF": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "constituent manuscripts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Paper titles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "counterexample": {
+      "n": 56,
+      "n_including_compounds": 92,
+      "lines": [
+        527,
+        533,
+        543,
+        549,
+        553,
+        557,
+        559,
+        563,
+        581,
+        583,
+        895,
+        901,
+        903,
+        987,
+        1011,
+        1471,
+        1511,
+        1519,
+        1521,
+        1525,
+        1529,
+        1561,
+        1567,
+        1571,
+        1777,
+        1813,
+        1819,
+        1825,
+        1829,
+        1841,
+        1843,
+        1849,
+        1851,
+        1853,
+        1855,
+        1857,
+        1869,
+        1933,
+        1935,
+        1939,
+        2515,
+        2517,
+        2633,
+        2901,
+        2905,
+        2909,
+        2985,
+        2995,
+        3011,
+        3013,
+        3021,
+        3093,
+        3161,
+        3195,
+        3197,
+        3207,
+        3251,
+        3257,
+        3259,
+        3361,
+        3363,
+        3425,
+        3429,
+        3459,
+        3467,
+        3487,
+        3491,
+        3553,
+        3649
+      ]
+    },
+    "computer-assisted": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        2733
+      ]
+    },
+    "interval arithmetic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        927,
+        931
+      ]
+    },
+    "verification pipeline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        2733
+      ]
+    },
+    "exact certificate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        2737
+      ]
+    },
+    "deduction traces": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1777
+      ]
+    },
+    "alternative proof": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        2313,
+        2957
+      ]
+    },
+    "independent proof": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        633
+      ]
+    },
+    "companion": {
+      "n": 35,
+      "n_including_compounds": 35,
+      "lines": [
+        43,
+        165,
+        213,
+        303,
+        337,
+        973,
+        1005,
+        1123,
+        1405,
+        1439,
+        1723,
+        1917,
+        1957,
+        1961,
+        1965,
+        2017,
+        2047,
+        2051,
+        2321,
+        2395,
+        2503,
+        2577,
+        2617,
+        2665,
+        2729,
+        2761,
+        2781,
+        2921,
+        3087,
+        3169,
+        3319,
+        3441,
+        3577,
+        3697
+      ]
+    },
+    "priority": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        2309,
+        2313,
+        2325
+      ]
+    },
+    "NP-hard": {
+      "n": 13,
+      "n_including_compounds": 15,
+      "lines": [
+        975,
+        1031,
+        1039,
+        1043,
+        1047,
+        1051,
+        1077,
+        1081,
+        1083,
+        1087,
+        1185,
+        1189,
+        1195,
+        1199
+      ]
+    },
+    "quasipolynomial": {
+      "n": 7,
+      "n_including_compounds": 16,
+      "lines": [
+        1063,
+        1065,
+        1067,
+        1069,
+        1071,
+        1073,
+        1075,
+        1223,
+        1225,
+        1227,
+        1231,
+        1543
+      ]
+    },
+    "Poisson–Dirichlet": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        123,
+        131
+      ]
+    },
+    "Hanner polytopes": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        881,
+        885
+      ]
+    },
+    "Gaussian free field": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        2051,
+        2067,
+        2197,
+        2199,
+        2201,
+        2283,
+        2287,
+        2289,
+        2291,
+        2295,
+        2297,
+        2301
+      ]
+    },
+    "Liouville quantum gravity": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1953,
+        1961,
+        1969,
+        1977
+      ]
+    },
+    "conformal loop ensemble": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1969,
+        1973
+      ]
+    },
+    "measure rigidity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Bott–Chern cohomology": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        441,
+        445
+      ]
+    },
+    "Fourier restriction": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        801,
+        803,
+        805
+      ]
+    },
+    "Unique Games Theorem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1033
+      ]
+    },
+    "Hodge standard conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        317,
+        329
+      ]
+    },
+    "Tate conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        317,
+        329
+      ]
+    },
+    "Riemann hypothesis": {
+      "n": 0,
+      "n_including_compounds": 4,
+      "lines": [
+        43,
+        47,
+        51
+      ]
+    },
+    "Szemerédi": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1543,
+        1735,
+        1743
+      ]
+    },
+    "van der Waerden numbers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1553
+      ]
+    },
+    "Ramsey number": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        1623,
+        1627,
+        1631,
+        1633,
+        1637,
+        1639,
+        1641,
+        1773,
+        1775
+      ]
+    },
+    "Kaplansky's direct-finiteness conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1833,
+        1841
+      ]
+    },
+    "Baum–Connes": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        2899,
+        2901,
+        2903,
+        2909,
+        2911
+      ]
+    },
+    "Kadison–Kastler": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        2935,
+        2937,
+        2939,
+        2947
+      ]
+    },
+    "Jiang–Su stability": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        2959,
+        2963,
+        2969,
+        2971,
+        3023,
+        3045,
+        3053
+      ]
+    },
+    "Zauner": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        2729,
+        2733
+      ]
+    },
+    "mutually unbiased bases": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        2729,
+        2731,
+        2737
+      ]
+    },
+    "Hamiltonian fixed points": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        3411,
+        3415,
+        3423
+      ]
+    },
+    "Ricci flow": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        3467,
+        3469,
+        3471,
+        3473,
+        3475
+      ]
+    },
+    "Calabi flow": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        3481,
+        3483,
+        3485
+      ]
+    },
+    "Cartan–Hadamard": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        3339,
+        3341,
+        3343,
+        3347
+      ]
+    },
+    "Kerr": {
+      "n": 13,
+      "n_including_compounds": 19,
+      "lines": [
+        2623,
+        2625,
+        2629,
+        2631,
+        2633,
+        2705,
+        2707,
+        2709,
+        2711,
+        2713,
+        2715,
+        2717
+      ]
+    },
+    "Alperin weight conjecture": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1875,
+        1879
+      ]
+    },
+    "Cohen–Macaulay": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        1813,
+        1815,
+        1817
+      ]
+    },
+    "Gersten's conjecture": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1935,
+        1937,
+        2593,
+        2597
+      ]
+    }
+  }
+}

@@ -1753,3 +1753,31 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** the ten rows L37–L46 are link titles; the readme writes no sentence about any of them
 
 **Result.** two terms each — a result and the object it is about; neither gets a page from this document, which reads none of them (not_promoted)
+
+## J126 — quasi-Riemann hypothesis / Riemann hypothesis
+
+**two-terms** · openai-math-contents · 2026-10-07 · replay: `judgement`
+
+- **rule:** a prefix that names a weaker statement (quasi-, restricted, partial) makes a different term; a claimed weaker result never becomes a surface of the stronger one
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, weaker-statement
+
+**Question.** one term or two?
+
+**What was done.** `Riemann hypothesis` stands 0 times alone and 4 times inside „quasi-Riemann hypothesis“ (L43, L47, L51); the family claims the half-plane beyond 7/8, not the critical line
+
+**Result.** two terms — the page is quasi-riemann-hypothesis; the Riemann hypothesis is no alias of it
+
+## J127 — Erdős–Pomerance joint Dickman conjecture / Erdős similarity conjecture / Erdős / Schramm–Loewner evolution / Schramm / companion paper / companion
+
+**judgement** · openai-math-contents · 2026-10-07 · replay: `skipped`
+
+- **rule:** an eponym inside a result's name is a different term from the result; an attributive noun (paper) after the catalogue's own label does not make a second term
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, eponym-in-name, document-vocabulary
+
+**Question.** is a person the conjecture or object named after them?
+
+**What was done.** the eponyms stand inside the named results; `companion` and `companion paper` both name a manuscript accompanying a principal result
+
+**Result.** a person and a result named after them are two terms (none paged); companion and companion paper are one word of the catalogue's vocabulary (not paged)

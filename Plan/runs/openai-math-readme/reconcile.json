@@ -67,6 +67,22 @@
       ],
       "attribution": "",
       "note": "abridged summaries of the model's reasoning, for ten results"
+    },
+    {
+      "page": "quasi-riemann-hypothesis",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "the zero-free region as an exception to the procedure, and a human-edited writeup — written when document 205 opened the page (not_promoted's promise)"
+    },
+    {
+      "page": "hodge-conjecture",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "the CM case as an exception to the procedure — written when document 205 opened the page"
     }
   ],
   "chapters": {
@@ -88,20 +104,6 @@
   "decided_by_existing_rules": "none — every surface was new to the index; J122–J125 were written for this document",
   "sweep": [],
   "not_promoted": [
-    {
-      "term": "Riemann zeta function",
-      "lines": [
-        52
-      ],
-      "why": "an exception to the procedure, named; the manuscript map defines the result (family 003) — the page opens there, with this line"
-    },
-    {
-      "term": "Hodge Conjecture",
-      "lines": [
-        52
-      ],
-      "why": "as above; the manuscript map defines the result"
-    },
     {
       "term": "OpenAI",
       "lines": [

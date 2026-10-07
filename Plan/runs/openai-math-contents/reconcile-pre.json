@@ -1,0 +1,776 @@
+{
+  "document": "openai-math-contents",
+  "step": "reconcile-pre",
+  "at": "2026-10-07",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-07",
+  "state": {
+    "pages": 110,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "internal-openai-model",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lean-formalization",
+    "lex",
+    "lia",
+    "logos",
+    "mathematics-manuscript-collection",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "reasoning-summaries",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 202,
+  "decisions": 198,
+  "same_surface": {},
+  "decided_mechanically": 192,
+  "needs_judgement": 6,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Mathematics manuscript collection",
+        "page": "mathematics-manuscript-collection",
+        "readings": 1
+      },
+      {
+        "candidate": "Manuscript map",
+        "page": "mathematics-manuscript-collection",
+        "readings": 1
+      },
+      {
+        "candidate": "result families",
+        "page": "mathematics-manuscript-collection",
+        "readings": 1
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "secondary writeup"
+      },
+      {
+        "candidate": "Milne's rationality conjecture"
+      },
+      {
+        "candidate": "Birch–Swinnerton-Dyer"
+      },
+      {
+        "candidate": "Selmer corank"
+      },
+      {
+        "candidate": "Landau–Siegel zeros"
+      },
+      {
+        "candidate": "Hilbert's tenth problem"
+      },
+      {
+        "candidate": "Catalan's constant"
+      },
+      {
+        "candidate": "Goldfeld's conjecture"
+      },
+      {
+        "candidate": "Chowla conjecture"
+      },
+      {
+        "candidate": "corrected Elliott conjecture"
+      },
+      {
+        "candidate": "Deligne–Drinfeld conjecture"
+      },
+      {
+        "candidate": "Bogomolov–Pop reconstruction"
+      },
+      {
+        "candidate": "Fontaine–Mazur"
+      },
+      {
+        "candidate": "Emerton's dimension conjecture"
+      },
+      {
+        "candidate": "Ford–Konyagin–Luca conjecture"
+      },
+      {
+        "candidate": "Ostmann's inverse Goldbach conjecture"
+      },
+      {
+        "candidate": "restricted geometric Langlands"
+      },
+      {
+        "candidate": "Ramanujan"
+      },
+      {
+        "candidate": "Zilber–Pink"
+      },
+      {
+        "candidate": "Flint–Hills series"
+      },
+      {
+        "candidate": "Margulis–Platonov conjecture"
+      },
+      {
+        "candidate": "section conjecture"
+      },
+      {
+        "candidate": "Jacobsthal's function"
+      },
+      {
+        "candidate": "Duffin–Schaeffer conjecture"
+      },
+      {
+        "candidate": "Patterson's first moment"
+      },
+      {
+        "candidate": "Egyptian fractions"
+      },
+      {
+        "candidate": "Gaussian moat conjecture"
+      },
+      {
+        "candidate": "Artin's primitive root conjecture"
+      },
+      {
+        "candidate": "Uchida's conjecture"
+      },
+      {
+        "candidate": "Hodge conjecture"
+      },
+      {
+        "candidate": "Kuga–Satake"
+      },
+      {
+        "candidate": "Iitaka subadditivity"
+      },
+      {
+        "candidate": "log abundance"
+      },
+      {
+        "candidate": "Fujita's freeness conjecture"
+      },
+      {
+        "candidate": "Nagata's conjecture"
+      },
+      {
+        "candidate": "Seshadri constants"
+      },
+      {
+        "candidate": "Bloch's conjecture"
+      },
+      {
+        "candidate": "strong hyperkähler SYZ conjecture"
+      },
+      {
+        "candidate": "Hikita conjecture"
+      },
+      {
+        "candidate": "Shafarevich"
+      },
+      {
+        "candidate": "Zariski cancellation"
+      },
+      {
+        "candidate": "Lipman–Zariski"
+      },
+      {
+        "candidate": "Stable Coordinate conjecture"
+      },
+      {
+        "candidate": "Abhyankar–Sathaye"
+      },
+      {
+        "candidate": "Griffiths' positivity conjecture"
+      },
+      {
+        "candidate": "Kobayashi's canonical-ampleness conjecture"
+      },
+      {
+        "candidate": "Beauville's splitting conjecture"
+      },
+      {
+        "candidate": "Pixton completeness"
+      },
+      {
+        "candidate": "Kuznetsov's rationality conjecture"
+      },
+      {
+        "candidate": "Bridgeland stability"
+      },
+      {
+        "candidate": "Campana's abelianity conjecture"
+      },
+      {
+        "candidate": "Kollár–Pardon conjecture"
+      },
+      {
+        "candidate": "Zariski's multiplicity conjecture"
+      },
+      {
+        "candidate": "Global Spherical Shell conjecture"
+      },
+      {
+        "candidate": "LeBrun–Salamon conjecture"
+      },
+      {
+        "candidate": "generalized Mukai conjecture"
+      },
+      {
+        "candidate": "Virasoro conjecture"
+      },
+      {
+        "candidate": "Shokurov's bounded-klt-complement conjecture"
+      },
+      {
+        "candidate": "Campana–Peternell conjecture"
+      },
+      {
+        "candidate": "quantum geometric Langlands"
+      },
+      {
+        "candidate": "Koebe's circle-domain conjecture"
+      },
+      {
+        "candidate": "Brennan's conjecture"
+      },
+      {
+        "candidate": "Falconer distance conjecture"
+      },
+      {
+        "candidate": "Kakeya"
+      },
+      {
+        "candidate": "Bochner–Riesz"
+      },
+      {
+        "candidate": "local smoothing"
+      },
+      {
+        "candidate": "Carleson"
+      },
+      {
+        "candidate": "Mahler conjecture"
+      },
+      {
+        "candidate": "Petty's projection-volume conjecture"
+      },
+      {
+        "candidate": "Lax conjecture"
+      },
+      {
+        "candidate": "Gaussian propeller conjecture"
+      },
+      {
+        "candidate": "Steinitz–Bergström"
+      },
+      {
+        "candidate": "Unique Games Conjecture"
+      },
+      {
+        "candidate": "Lang–Plaut problem"
+      },
+      {
+        "candidate": "edit distance"
+      },
+      {
+        "candidate": "2-to-1 Games Conjecture"
+      },
+      {
+        "candidate": "mean-payoff games"
+      },
+      {
+        "candidate": "Brunn–Minkowski"
+      },
+      {
+        "candidate": "isotropic constant"
+      },
+      {
+        "candidate": "Turyn's"
+      },
+      {
+        "candidate": "Littlewood polynomials"
+      },
+      {
+        "candidate": "Courtade–Kumar conjecture"
+      },
+      {
+        "candidate": "Hellinger conjecture"
+      },
+      {
+        "candidate": "Sensitivity Conjecture"
+      },
+      {
+        "candidate": "Weisfeiler–Leman"
+      },
+      {
+        "candidate": "Hilbert's sixteenth problem"
+      },
+      {
+        "candidate": "Banach's simple Lebesgue-spectrum problem"
+      },
+      {
+        "candidate": "Rokhlin's multiple-mixing problem"
+      },
+      {
+        "candidate": "Birkhoff conjecture"
+      },
+      {
+        "candidate": "Borsuk's conjecture"
+      },
+      {
+        "candidate": "Hadwiger's conjecture"
+      },
+      {
+        "candidate": "Hadwiger–Nelson problem"
+      },
+      {
+        "candidate": "Sidorenko's conjecture"
+      },
+      {
+        "candidate": "Ryser's covering conjecture"
+      },
+      {
+        "candidate": "Hindman's finite sums and products conjecture"
+      },
+      {
+        "candidate": "Harary–Hill conjecture"
+      },
+      {
+        "candidate": "Zarankiewicz"
+      },
+      {
+        "candidate": "distinct-distances conjecture"
+      },
+      {
+        "candidate": "Seymour's second-neighborhood conjecture"
+      },
+      {
+        "candidate": "Kahn–Kalai conjecture"
+      },
+      {
+        "candidate": "Barnette's conjecture"
+      },
+      {
+        "candidate": "Kaplansky's zero-divisor conjecture"
+      },
+      {
+        "candidate": "Auslander–Reiten conjecture"
+      },
+      {
+        "candidate": "Donovan's conjecture"
+      },
+      {
+        "candidate": "Saxl's conjecture"
+      },
+      {
+        "candidate": "Foulkes' conjecture"
+      },
+      {
+        "candidate": "Kadison's similarity conjecture"
+      },
+      {
+        "candidate": "Toms–Winter"
+      },
+      {
+        "candidate": "bicentralizer conjecture"
+      },
+      {
+        "candidate": "Cannon's conjecture"
+      },
+      {
+        "candidate": "Boone–Higman conjecture"
+      },
+      {
+        "candidate": "Thompson's group F"
+      },
+      {
+        "candidate": "Kervaire conjecture"
+      },
+      {
+        "candidate": "Hilbert–Smith conjecture"
+      },
+      {
+        "candidate": "Hovey–Strickland conjecture"
+      },
+      {
+        "candidate": "Singer conjecture"
+      },
+      {
+        "candidate": "Curtis's conjecture"
+      },
+      {
+        "candidate": "Borel conjecture"
+      },
+      {
+        "candidate": "Tingley's problem"
+      },
+      {
+        "candidate": "Crouzeix conjecture"
+      },
+      {
+        "candidate": "Yau's uniformization conjecture"
+      },
+      {
+        "candidate": "Katok's entropy rigidity conjecture"
+      },
+      {
+        "candidate": "nearby Lagrangian conjecture"
+      },
+      {
+        "candidate": "Blaschke conjecture"
+      },
+      {
+        "candidate": "Arnold conjecture"
+      },
+      {
+        "candidate": "Penrose inequality"
+      },
+      {
+        "candidate": "Anderson model"
+      },
+      {
+        "candidate": "Lieb–Thirring"
+      },
+      {
+        "candidate": "Haldane gap"
+      },
+      {
+        "candidate": "strong cosmic censorship"
+      },
+      {
+        "candidate": "Bose–Einstein condensation"
+      },
+      {
+        "candidate": "Sherrington–Kirkpatrick"
+      },
+      {
+        "candidate": "Mézard–Parisi"
+      },
+      {
+        "candidate": "De Giorgi's conjecture"
+      },
+      {
+        "candidate": "Navier–Stokes"
+      },
+      {
+        "candidate": "hot spots conjecture"
+      },
+      {
+        "candidate": "Lane–Emden conjecture"
+      },
+      {
+        "candidate": "Mumford–Shah"
+      },
+      {
+        "candidate": "Ball–Evans approximation problem"
+      },
+      {
+        "candidate": "Calderón problem"
+      },
+      {
+        "candidate": "Bernoulli problem"
+      },
+      {
+        "candidate": "Brenier maps"
+      },
+      {
+        "candidate": "Gaia Carenini"
+      },
+      {
+        "candidate": "Tanaka"
+      },
+      {
+        "candidate": "ECCC"
+      },
+      {
+        "candidate": "Khot"
+      },
+      {
+        "candidate": "Oka classification"
+      },
+      {
+        "candidate": "overview PDF"
+      },
+      {
+        "candidate": "constituent manuscripts"
+      },
+      {
+        "candidate": "Paper titles"
+      },
+      {
+        "candidate": "counterexample"
+      },
+      {
+        "candidate": "computer-assisted"
+      },
+      {
+        "candidate": "interval arithmetic"
+      },
+      {
+        "candidate": "verification pipeline"
+      },
+      {
+        "candidate": "exact certificate"
+      },
+      {
+        "candidate": "deduction traces"
+      },
+      {
+        "candidate": "alternative proof"
+      },
+      {
+        "candidate": "independent proof"
+      },
+      {
+        "candidate": "priority"
+      },
+      {
+        "candidate": "NP-hard"
+      },
+      {
+        "candidate": "quasipolynomial"
+      },
+      {
+        "candidate": "Poisson–Dirichlet"
+      },
+      {
+        "candidate": "Hanner polytopes"
+      },
+      {
+        "candidate": "Gaussian free field"
+      },
+      {
+        "candidate": "Liouville quantum gravity"
+      },
+      {
+        "candidate": "conformal loop ensemble"
+      },
+      {
+        "candidate": "measure rigidity"
+      },
+      {
+        "candidate": "Bott–Chern cohomology"
+      },
+      {
+        "candidate": "Fourier restriction"
+      },
+      {
+        "candidate": "Unique Games Theorem"
+      },
+      {
+        "candidate": "Hodge standard conjecture"
+      },
+      {
+        "candidate": "Tate conjecture"
+      },
+      {
+        "candidate": "Szemerédi"
+      },
+      {
+        "candidate": "van der Waerden numbers"
+      },
+      {
+        "candidate": "Ramsey number"
+      },
+      {
+        "candidate": "Kaplansky's direct-finiteness conjecture"
+      },
+      {
+        "candidate": "Baum–Connes"
+      },
+      {
+        "candidate": "Kadison–Kastler"
+      },
+      {
+        "candidate": "Jiang–Su stability"
+      },
+      {
+        "candidate": "Zauner"
+      },
+      {
+        "candidate": "mutually unbiased bases"
+      },
+      {
+        "candidate": "Hamiltonian fixed points"
+      },
+      {
+        "candidate": "Ricci flow"
+      },
+      {
+        "candidate": "Calabi flow"
+      },
+      {
+        "candidate": "Cartan–Hadamard"
+      },
+      {
+        "candidate": "Kerr"
+      },
+      {
+        "candidate": "Alperin weight conjecture"
+      },
+      {
+        "candidate": "Cohen–Macaulay"
+      },
+      {
+        "candidate": "Gersten's conjecture"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "companion paper  /  companion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "quasi-Riemann hypothesis  /  Riemann hypothesis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erdős–Pomerance joint Dickman conjecture  /  Erdős",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erdős similarity conjecture  /  Erdős",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schramm–Loewner evolution  /  Schramm",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Lean",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "leanformalization",
+            "page": "lean-formalization"
+          },
+          {
+            "surface": "leanformalizations",
+            "page": "lean-formalization"
+          },
+          {
+            "surface": "leanlibrary",
+            "page": "lean-formalization"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 1347,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
