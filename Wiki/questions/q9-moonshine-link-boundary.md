@@ -522,3 +522,11 @@ Stands: a partial answer to what the link carries, in an exposé without canon c
 In Act II, „Juna (the internal guide) facilitates communication between the warring factions by bypassing Lex’s logic and using sensory resonance“ ^[kael-s-dissociative-architecture-analysis.md:L191]. In section 7 the link is „mediated by the alter“ ^[kael-s-dissociative-architecture-analysis.md:L203] Juna, a systemic exploit „against both the internal rigidity of Lex and the external tyranny of AEGIS“ ^[kael-s-dissociative-architecture-analysis.md:L203]. The one other party the report shows meeting it is Silas: „Silas creates the index; Juna corrupts it with poetry“ ^[kael-s-dissociative-architecture-analysis.md:L209].
 
 Stands: the report names Juna as the mediator and Silas as one party it works on; it does not say what the link carries across from the Externe Ebene or whether it is exclusive, so the record's question stays open on this document.
+
+## 2026-10-07 — `plot-outline-for-kohaerenz-protokoll-a-journey-through-syste`, 2025-11-03, the journey outline
+
+**The journey outline plans the Moonshine-Link as provided by Juna/V and used in the confrontation of the Gödel Gambit (Chapters 33-35).**
+
+„Aided by the“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L89] Moonshine-Link provided by Juna/V, Kael presents his integrated state, in the outline's words „Kael presents this integrated state directly to AEGIS's core logic“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L89]. The outline says nothing of a boundary of the link, of what it may carry or of where it ends.
+
+Stands: the outline names the link's source and its use in the climax and leaves the question of its boundary untouched.
