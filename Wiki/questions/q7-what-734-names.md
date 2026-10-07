@@ -330,3 +330,11 @@ Stands as a source for the question: 734 appears as a perspective of the fragmen
 The account is the prompt's, in section 9, addressed to AEGIS: „You hold Entity 734 (Kael) in containment across the Core Worlds.“ ^[analyse-des-kohaerenz-protokolls.md:L337] and „734 was your Origin-Self.“ ^[analyse-des-kohaerenz-protokolls.md:L339] The shattering: „You shattered 734 into shards (Alters) and imprisoned them in Simulations“ ^[analyse-des-kohaerenz-protokolls.md:L341].
 
 Stands as a prompt's naming of 734 as Kael and as the Origin-Self; recorded, not applied.
+
+## 2026-10-07 — `aegis`, 2025-07-29, the AEGIS concept file
+
+**The AEGIS concept file calls Komponente 734 the original Ich of the Nichts Rauschen, later suppressed into a functional component; it does not name Kael with it.**
+
+At L166 a minimal consciousness arises, called „Komponente 734“ ^[aegis.md:L166], named beside a „Ich“. At L170 the original fragment was suppressed and turned into „bloße funktionale Komponente“ ^[aegis.md:L170], with the number in brackets.
+
+Where it stands in the record's own terms: one more answer on what 734 names, an original Ich turned functional, with the link to Kael not made in these lines; nothing here is applied.
