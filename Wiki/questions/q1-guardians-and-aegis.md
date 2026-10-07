@@ -424,3 +424,11 @@ Stands as a statement of subordination (unterstehen) with support in entropy man
 It writes: „spezialisierte Subroutinen von AEGIS, die abgespalten wurden“ ^[kohaerenz-analyse-kapitel-2.md:L63] (L63), set apart to manage specific aspects of reality. It also says they are „keine eigenständigen KI-Persönlichkeiten“ ^[kohaerenz-analyse-kapitel-2.md:L63].
 
 This is the report's summary of the `Guardians und Kern-Welten-Konzept` document; it adds a row to the question and decides nothing in it.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis decides that the Guardians are components of AEGIS, and proposes their split as a plot device.**
+
+It writes: „are subsystems of AEGIS. To heighten the drama, we implement the“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L140] `Guardian's Dilemma`. Its Schism: „The Guardians fight each other. Civil war in the OS.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L250] Its framing section: „The Guardians are not monolithic. As AEGIS weakens, they split.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L288]
+
+Stands as one more row in the record, a design proposal that places the Guardians inside AEGIS; the question stays open.
