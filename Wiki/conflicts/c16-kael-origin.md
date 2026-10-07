@@ -369,3 +369,11 @@ Stands outside the record's two origins: it neither tells Kael as an avatar of M
 In its Monstergruppe paragraph it writes: „Die Kohärenz-Insel, der Ursprung von Kaels Essenz und der K-J-Verbindung“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It describes this as a metaphor „kann metaphorisch durch die Eigenschaften der mathematischen Monstergruppe“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119] described, and says Kael „könnte diese Metapher in KW4 entdecken oder intuitiv erfassen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119], which would help him understand „die Natur seiner eigenen Herkunft“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It also asks whether Juna is „ein Aspekt der Kohärenz-Insel selbst“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L180]. The document does not mention an entity M, a Komponente 734 or a split self in these lines.
 
 Where it stands in the record's own terms: a third place for Kael's origin, in the island, from a source of 2025-04-23; stated as a metaphor and a proposal; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible states two links at once: Juna/V as a part of Kael's own Ursprungs-Ich, and Kael as the memory of AEGIS's trauma.**
+
+On Juna/V it says she is both a transcendent entity and „an exiled part of Kael's own“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L173] Ursprungs-Ich. At the Midpoint Reversal it says „he is the living, externalized memory of AEGIS's own foundational trauma“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L197], the Genesis-Krise. Both are stated as fact and the guide does not relate them.
+
+This is one more position on the record's question, stated by a writer's guide in its own voice; it settles nothing.
