@@ -1,0 +1,14 @@
+# the-coherence-protocol-a-worldbuilding-bible
+  lines                208  (frontmatter ends at 9)
+  body words           3838
+  headings             25   bold-only lines 0
+  table rows           51   code fences 0
+  question marks       0
+  backslash escapes    134
+  typographic marks    14   ascii quotes 136
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         813 chars
+
