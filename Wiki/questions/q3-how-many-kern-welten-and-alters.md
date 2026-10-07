@@ -1052,3 +1052,11 @@ The count of parts stands in the introduction: „elf identifizierten Persönlic
 The report maps parts onto worlds as triggers and resonances, several at once, hedged: B „Aktiviert wahrscheinlich mehrere EPs“ ^[kael-system-tsdp-analyse-und-profile.md:L99], and of Ly: „Könnte mit Lias Kreativität resonieren“ ^[kael-system-tsdp-analyse-und-profile.md:L100]. So one world touches many parts and one part many worlds in the report's proposal; the profile report does not say one world is one part.
 
 Where it stands in the record's own terms: it gives eleven and four, and a resonance map offered as proposal, not assignment. It leaves the correspondence question open and does not say whether four is all of the worlds.
+
+## 2026-10-07 — `kohaerenz-protokoll-duale-dramatica-storyform-synthese`, 2026-04-28, the dual storyform synthesis
+
+**The dual storyform synthesis tabulates its alters Kael, Lex, Nyx, Kiko, Selene and Moros, each against one of four worlds, KW1 to KW4.**
+
+In the TSDP-alter table each row carries a world: „Erlebendes Subjekt, Angst vor Kontrollverlust“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L107] (Kael, Logos-Prime), „Träger der emotionalen Sensibilität“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L110] (Kiko), „Kreative Intelligenz, Integratorin, NP-Search-Prozesse“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L111] (Selene, Kairos-Potentialis) and „Träger der existentiellen Leere und des Zusammenbruchs“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L112] (Moros, Cerberus-Labyrinth, as is Nyx). In the synthesis they „als eigenständige, orthogonale Vektoren im Raum zu existieren“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L184].
+
+One more position in the record; it decides nothing about how many Kern-Welten or alters there are.
