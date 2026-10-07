@@ -1,0 +1,639 @@
+{
+  "document": "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-07",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-07",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 83,
+  "decisions": 92,
+  "same_surface": {},
+  "decided_mechanically": 67,
+  "needs_judgement": 25,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 174
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 170
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 115
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 112
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 115
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 81
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 83
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 62
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 81
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 79
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 70
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 95
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 161
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 95
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 110
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 58
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 134
+      },
+      {
+        "candidate": "Nexus",
+        "page": "nexus",
+        "readings": 29
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "ANP-EP Phobien"
+      },
+      {
+        "candidate": "Emotionale Persönlichkeitsanteile (EPs)"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "Positive Absicht (IFS)"
+      },
+      {
+        "candidate": "Paradoxon X"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Co₁"
+      },
+      {
+        "candidate": "McL"
+      },
+      {
+        "candidate": "Ly"
+      },
+      {
+        "candidate": "Post-Reboot-Zustand"
+      },
+      {
+        "candidate": "Bunker"
+      },
+      {
+        "candidate": "Das Fundament (Hypothese)"
+      },
+      {
+        "candidate": "Paraiyas"
+      },
+      {
+        "candidate": "Fundamentale Symmetrie"
+      },
+      {
+        "candidate": "P=NP (Symbolische Bedeutung)"
+      },
+      {
+        "candidate": "Das Resonanz-Gefüge (Meta-Dokument)"
+      },
+      {
+        "candidate": "Resonanz (Begriff & Ziel)"
+      },
+      {
+        "candidate": "Switching-Mechanismen & Trigger"
+      },
+      {
+        "candidate": "Amnesie & Ko-Bewusstsein"
+      },
+      {
+        "candidate": "Sprachwechsel (Englisch/Deutsch in Alben)"
+      },
+      {
+        "candidate": "Heldinnenreise (Schmidt)"
+      },
+      {
+        "candidate": "Zyklische Struktur (Teil 2)"
+      },
+      {
+        "candidate": "Heldenreise (Campbell/Vogler)"
+      },
+      {
+        "candidate": "Der Schatten (Jung)"
+      },
+      {
+        "candidate": "Anima/Animus (Jung)"
+      },
+      {
+        "candidate": "Individuationsprozess (Jung)"
+      },
+      {
+        "candidate": "Bindungstheorie (Desorganisierte Bindung)"
+      },
+      {
+        "candidate": "Narrative Identität (Ricoeur)"
+      },
+      {
+        "candidate": "Performativität (Butler)"
+      },
+      {
+        "candidate": "Dialogisches Selbst (Hermans)"
+      },
+      {
+        "candidate": "Feedback Loops (Positiv/Negativ)"
+      },
+      {
+        "candidate": "Gödels Unvollständigkeitssätze (Metaphorisch/Buchstäblich)"
+      },
+      {
+        "candidate": "Parakonsistente Logik"
+      },
+      {
+        "candidate": "Komplexitätstheorie"
+      },
+      {
+        "candidate": "Informationsontologie (Floridi)"
+      },
+      {
+        "candidate": "Prozessphilosophie (Whitehead)"
+      },
+      {
+        "candidate": "Konstruktivismus"
+      },
+      {
+        "candidate": "Phänomenologie"
+      },
+      {
+        "candidate": "Resonanztheorie (Rosa)"
+      },
+      {
+        "candidate": "Intersubjektivität"
+      },
+      {
+        "candidate": "Macht/Wissen (Foucault)"
+      },
+      {
+        "candidate": "KI-Ethik (Value Alignment)"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "Deus ex Machina (Vermeidung)"
+      },
+      {
+        "candidate": "Foreshadowing (Besonders für \"Das Fundament\")"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  Zero-Trust-Prinzip (AEGIS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Entropie-Management (AEGIS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Die Überwelt (AEGIS-Domäne)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Gaslighting (AEGIS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Autopoiesis (AEGIS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selene  /  Das Selbst (IFS/Selene)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna/V",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Die Externe Ebene (Juna/V)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V  /  Die Externe Ebene (Juna/V)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Tertiäre Strukturelle Dissoziation (TSDP)  /  TSDP",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anscheinend Normale Persönlichkeitsanteile (ANPs)  /  ANPs",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Tertiäre Strukturelle Dissoziation (TSDP)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "tsdp",
+            "page": "tsdp"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Selbst (IFS/Selene)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "selene",
+            "page": "selene"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust-Prinzip (AEGIS)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Management (AEGIS)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelten als Psychologische Architektur",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kernwelten",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Die Überwelt (AEGIS-Domäne)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "uberwelt",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Die Externe Ebene (Juna/V)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "externeebene",
+            "page": "externe-ebene"
+          },
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Schrein",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "vergessenerschrein",
+            "page": "vergessener-schrein"
+          },
+          {
+            "surface": "vergessenerschreintraumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz (Begriff & Ziel)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Gaslighting (AEGIS)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Autopoiesis (AEGIS)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulationshypothese & Kritiken",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 71,
+      "already_read": false
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 51,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 56,
+      "already_read": false
+    },
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 74,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 26,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Überwelt",
+      "line": 55,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

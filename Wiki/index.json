@@ -70,10 +70,11 @@
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
         "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
         "analyse-des-kohaerenz-protokolls",
-        "aegis"
+        "aegis",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 35,
-      "readings": 33,
+      "sources": 36,
+      "readings": 34,
       "conflict": "none"
     },
     "aegis": {
@@ -258,10 +259,12 @@
         "dramatica-und-kohaerenz-protokoll-analyse",
         "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 172,
-      "readings": 172,
+      "sources": 174,
+      "readings": 174,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -351,10 +354,12 @@
         "project-status-report-kohaerenz-protokoll-canonical-state-st",
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
-        "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor"
+        "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 81,
-      "readings": 81,
+      "sources": 83,
+      "readings": 83,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -428,10 +433,11 @@
         "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
         "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
         "analyse-des-kohaerenz-protokolls",
-        "narrative-architektur-fuer-kohaerenz-protokoll"
+        "narrative-architektur-fuer-kohaerenz-protokoll",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 65,
-      "readings": 65,
+      "sources": 66,
+      "readings": 66,
       "conflict": "none"
     },
     "alters": {
@@ -675,10 +681,12 @@
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "project-status-report-kohaerenz-protokoll-canonical-state-st",
-        "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"
+        "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 70,
-      "readings": 70,
+      "sources": 72,
+      "readings": 72,
       "conflict": "none"
     },
     "ars": {
@@ -1191,10 +1199,11 @@
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
         "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
         "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
-        "romanplot-kohaerenz-protokoll-entwickeln"
+        "romanplot-kohaerenz-protokoll-entwickeln",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 51,
-      "readings": 51,
+      "sources": 52,
+      "readings": 52,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1354,10 +1363,11 @@
         "dramatica-und-kohaerenz-protokoll-analyse",
         "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 109,
-      "readings": 109,
+      "sources": 110,
+      "readings": 110,
       "conflict": "C2"
     },
     "erason": {
@@ -1462,10 +1472,11 @@
         "welten",
         "kohaerenz-protokoll-weltkonzept-synthese",
         "recherche-ueberwelt",
-        "roman-konzept-kael-aegis-simulation"
+        "roman-konzept-kael-aegis-simulation",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 50,
-      "readings": 50,
+      "sources": 51,
+      "readings": 51,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1630,10 +1641,11 @@
         "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
         "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
         "analyse-des-kohaerenz-protokolls",
-        "aegis"
+        "aegis",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 83,
-      "readings": 83,
+      "sources": 84,
+      "readings": 84,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1710,10 +1722,11 @@
         "analyse-des-kohaerenz-protokolls",
         "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
         "kohaerenz-protokoll-narrative-architektur",
-        "narrative-architektur-fuer-kohaerenz-protokoll"
+        "narrative-architektur-fuer-kohaerenz-protokoll",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 68,
-      "readings": 66,
+      "sources": 69,
+      "readings": 67,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -2039,10 +2052,12 @@
         "detaillierte-kapiteluebersicht",
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "project-status-report-kohaerenz-protokoll-canonical-state-st",
-        "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor"
+        "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 62,
-      "readings": 62,
+      "sources": 64,
+      "readings": 64,
       "conflict": "C15"
     },
     "juna": {
@@ -2215,10 +2230,12 @@
         "dramatica-und-kohaerenz-protokoll-analyse",
         "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 163,
-      "readings": 163,
+      "sources": 165,
+      "readings": 165,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2461,10 +2478,12 @@
         "dramatica-und-kohaerenz-protokoll-analyse",
         "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 175,
-      "readings": 176,
+      "sources": 177,
+      "readings": 178,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2733,10 +2752,12 @@
         "narrative-architektur-fuer-kohaerenz-protokoll",
         "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 132,
-      "readings": 131,
+      "sources": 134,
+      "readings": 133,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2856,10 +2877,12 @@
         "the-psychological-mechanics-from-tertiary-structural-dissoci",
         "roman-konzept-kael-aegis-simulation",
         "kohaerenz-protokoll-narrative-architektur",
-        "dramatica-und-kohaerenz-protokoll-analyse"
+        "dramatica-und-kohaerenz-protokoll-analyse",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 111,
-      "readings": 112,
+      "sources": 113,
+      "readings": 114,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2890,10 +2913,11 @@
         "narrativ",
         "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
         "narrative-architektur-fuer-kohaerenz-protokoll",
-        "dramatica-und-kohaerenz-protokoll-analyse"
+        "dramatica-und-kohaerenz-protokoll-analyse",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 22,
-      "readings": 22,
+      "sources": 23,
+      "readings": 23,
       "conflict": "none yet"
     },
     "kohaerenz-kernel": {
@@ -3014,10 +3038,11 @@
         "master-konzept-kohaerenz-protokoll-analyse",
         "aegis",
         "kohaerenz-protokoll-narrative-architektur",
-        "romanplot-kohaerenz-protokoll-entwickeln"
+        "romanplot-kohaerenz-protokoll-entwickeln",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 47,
-      "readings": 47,
+      "sources": 48,
+      "readings": 48,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -3131,10 +3156,11 @@
         "analyse-des-kohaerenz-protokolls",
         "aegis",
         "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 57,
-      "readings": 55,
+      "sources": 58,
+      "readings": 56,
       "conflict": "C12, C16"
     },
     "konstrukt-stadt": {
@@ -3237,10 +3263,11 @@
         "plot-entwicklung-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 93,
-      "readings": 93,
+      "sources": 94,
+      "readings": 94,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -3413,10 +3440,12 @@
         "roman-konzept-kael-aegis-simulation",
         "kohaerenz-protokoll-narrative-architektur",
         "dramatica-und-kohaerenz-protokoll-analyse",
-        "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"
+        "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 114,
-      "readings": 115,
+      "sources": 116,
+      "readings": 117,
       "conflict": "none"
     },
     "lia": {
@@ -3504,10 +3533,12 @@
         "kuerze-rechercheauftrag-die-architektur-der-seel",
         "project-status-report-kohaerenz-protokoll-canonical-state-st",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
-        "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor"
+        "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 79,
-      "readings": 79,
+      "sources": 81,
+      "readings": 81,
       "conflict": "C15"
     },
     "logos": {
@@ -3760,10 +3791,11 @@
         "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
         "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 113,
-      "readings": 113,
+      "sources": 114,
+      "readings": 114,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -3828,10 +3860,11 @@
         "roman-konzept-und-philosophische-fragen",
         "analyse-des-kohaerenz-protokolls",
         "the-psychological-mechanics-from-tertiary-structural-dissoci",
-        "kishotenketsu-fuer-meinen-roman-bitte-plane-ein"
+        "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 54,
-      "readings": 54,
+      "sources": 55,
+      "readings": 55,
       "conflict": "C5, C11"
     },
     "moonshine-link": {
@@ -3936,10 +3969,11 @@
         "analyse-des-kohaerenz-protokolls",
         "aegis",
         "kohaerenz-protokoll-narrative-architektur",
-        "romanplot-kohaerenz-protokoll-entwickeln"
+        "romanplot-kohaerenz-protokoll-entwickeln",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 96,
-      "readings": 96,
+      "sources": 97,
+      "readings": 97,
       "conflict": "none"
     },
     "moros": {
@@ -4031,10 +4065,12 @@
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
         "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
         "master-konzept-kohaerenz-protokoll-analyse",
-        "analyse-des-kohaerenz-protokolls"
+        "analyse-des-kohaerenz-protokolls",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 83,
-      "readings": 83,
+      "sources": 85,
+      "readings": 85,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -4198,10 +4234,12 @@
         "roman-konzept-kael-aegis-simulation",
         "kohaerenz-protokoll-narrative-architektur",
         "narrative-architektur-fuer-kohaerenz-protokoll",
-        "dramatica-und-kohaerenz-protokoll-analyse"
+        "dramatica-und-kohaerenz-protokoll-analyse",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 113,
-      "readings": 113,
+      "sources": 115,
+      "readings": 115,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -4506,10 +4544,12 @@
         "the-psychological-mechanics-from-tertiary-structural-dissoci",
         "roman-konzept-kael-aegis-simulation",
         "kohaerenz-protokoll-narrative-architektur",
-        "dramatica-und-kohaerenz-protokoll-analyse"
+        "dramatica-und-kohaerenz-protokoll-analyse",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 114,
-      "readings": 115,
+      "sources": 116,
+      "readings": 117,
       "conflict": "C10"
     },
     "oblivion": {
@@ -4763,10 +4803,11 @@
         "aegis",
         "plot-entwicklung-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
-        "romanplot-kohaerenz-protokoll-entwickeln"
+        "romanplot-kohaerenz-protokoll-entwickeln",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 58,
-      "readings": 59,
+      "sources": 59,
+      "readings": 60,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -4910,10 +4951,11 @@
         "analyse-des-kohaerenz-protokolls",
         "the-psychological-mechanics-from-tertiary-structural-dissoci",
         "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
-        "narrative-architektur-fuer-kohaerenz-protokoll"
+        "narrative-architektur-fuer-kohaerenz-protokoll",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"
       ],
-      "sources": 50,
-      "readings": 50,
+      "sources": 51,
+      "readings": 51,
       "conflict": "C11"
     },
     "rhys": {
@@ -5003,10 +5045,12 @@
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
         "project-coherence-protocol-narrative-blueprint-decisions",
         "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 81,
-      "readings": 81,
+      "sources": 83,
+      "readings": 83,
       "conflict": "none"
     },
     "risse": {
@@ -5153,10 +5197,12 @@
         "dramatica-und-kohaerenz-protokoll-analyse",
         "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "romanentwurf-kohaerenz-protokoll-teil-1"
+        "romanentwurf-kohaerenz-protokoll-teil-1",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 136,
-      "readings": 136,
+      "sources": 138,
+      "readings": 138,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -5309,10 +5355,11 @@
         "project-coherence-protocol-narrative-blueprint-decisions",
         "the-psychological-mechanics-from-tertiary-structural-dissoci",
         "kohaerenz-protokoll-narrative-architektur",
-        "dramatica-und-kohaerenz-protokoll-analyse"
+        "dramatica-und-kohaerenz-protokoll-analyse",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 95,
-      "readings": 95,
+      "sources": 96,
+      "readings": 96,
       "conflict": "none"
     },
     "silas": {
@@ -5797,10 +5844,11 @@
         "the-psychological-mechanics-from-tertiary-structural-dissoci",
         "kohaerenz-protokoll-narrative-architektur",
         "narrative-architektur-fuer-kohaerenz-protokoll",
-        "dramatica-und-kohaerenz-protokoll-analyse"
+        "dramatica-und-kohaerenz-protokoll-analyse",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 110,
-      "readings": 110,
+      "sources": 111,
+      "readings": 111,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -5909,10 +5957,12 @@
         "aegis",
         "recherche-ueberwelt",
         "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
-        "roman-konzept-kael-aegis-simulation"
+        "roman-konzept-kael-aegis-simulation",
+        "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 85,
-      "readings": 85,
+      "sources": 87,
+      "readings": 87,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
