@@ -974,3 +974,11 @@ Stands as a further assignment of parts to four worlds, recorded as a topic with
 It says Kael was „in elf hochspezialisierte Subsysteme fragmentiert wurde“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L111]. Its table lists the ANPs as „Kael, Lex, Argus, Alex, Rhys“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L128], the EPs as „Nyx, Kiko, Lia, Moros, Isabelle“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L129], and the integrator row names Selene alone. The prose list of the EPs gives four names, „Zu dieser Klasse zählen Nyx (Aggression und Kampfinstinkt)“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L119], and leaves out Lia. The handbook does not add the lists up to eleven itself, and it does not say that a Kernwelt corresponds to an alter; its only world named with a number is „Kael erreicht das Cerberus-Labyrinth (KW3)“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L180].
 
 Stands: the handbook reports eleven subsystems and takes no position on whether a Kernwelt corresponds to an alter; the question stays open in the record's own terms.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible lists four Core Worlds and a table of eleven alters, and says its table profiles the key alters.**
+
+It numbers the worlds KW1 to KW4, the third a bunker „shaped by the zero-trust principles of“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L88] Alex and Nyx. Its table, introduced as one that „profiles the key alters“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L154], holds Kael, Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus. Kael, Lex, Alex and Rhys are ANPs, Selene is typed „ANP (Integrator?)“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L168], and Argus is „ANP/EP-Mix“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L169]; Nyx, Kiko, Lia, Isabelle and Moros are EPs.
+
+It gives no total beyond the rows, and calls the table a profile of the key alters, so it does not say whether more exist.
