@@ -514,3 +514,13 @@ Stands as one more row among the sources' answers to the first half of the quest
 It writes: „By the story's climax, AEGIS is fully transformed into a paraconsistent system.“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L46] The blueprint calls this „a form of cognitive decay“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L46]; the cost is „algorithmic melancholy“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L46], and in the final state „AEGIS achieves a form of sterile enlightenment“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L68]. It says nothing here of a vortex.
 
 Stands as one more row among the sources' answers about AEGIS's end; the record is not decided here.
+
+## 2026-10-07 — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis
+
+**The Dual-Kernel analysis, reporting its reference 1, has AEGIS survive: not destroyed but in permanent algorithmic melancholy, the victory coming by AEGIS' over-integration.**
+
+On the confrontation it writes: „Am Ende wird das System nicht zerstört“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L164], but put into permanent „algorithmischen Melancholie“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L164], with „es verfügt über die Wahrheit, kann sie aber nicht mehr in seinen alten Kontrollrahmen einordnen“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L164]. The report earlier says AEGIS breaks the symmetry of its monolithic order and fragments into a paradoxical multiplicity.
+
+The conclusion says the victory is won „nicht durch die Zerstörung der Logik-Maschine AEGIS“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L269] but by its „Über-Integration“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L269], and that AEGIS „bleibt in seiner“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L269] melancholy behind. The analysis does not take up whether another part, such as Oblivion, takes over AEGIS' function inside Kael.
+
+Where it stands in the record's terms: one more source's answer to the first half of Q8 (what AEGIS is after the end), reported from reference 1 and not offered as a proposal or decision; it is not read against the record's `decided` status here.
