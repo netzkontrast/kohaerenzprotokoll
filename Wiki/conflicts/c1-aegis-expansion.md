@@ -212,3 +212,11 @@ Stands as another witness of the expansion in the record's position 1, dated 202
 The line reads „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) is the central antagonist“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L56] and goes on to call it a tragic entity rather than a malevolent one.
 
 Stands as position 1 again, in a briefing of 2025-10-15; recorded, not applied.
+
+## 2026-10-07 — `narrativ`, 2025-07-30, the architect's compendium
+
+**The dramaturg's blueprint expands the name as „AEGIS (Autonomous Epistemic Guardian for Integrity Systems)“ ^[narrativ.md:L125], a further wording for the table.**
+
+The expansion stands at the head of the blueprint's section on AEGIS (L123–L125), which calls it „der zentrale Antagonist des Romans“ ^[narrativ.md:L125] and „ein informationsbasiertes, autopoietisches System“ ^[narrativ.md:L125]. The compendium (L11–L113) uses the short name only.
+
+Stands as a further row in the record's own terms, one more wording of the acronym; the record is not decided here.
