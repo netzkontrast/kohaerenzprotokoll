@@ -134,3 +134,11 @@ Stands as one more row for the gender question, Kael male by default in the repo
 In its note on canonical identity (L34) it says that developmental source documents „present a contradiction regarding the protagonist's name and gender“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34], and gives the two poles as „Kael (ehem. Michael)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34] and „Kael/Julia“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34]. Its settlement: „For the purpose of narrative consistency, this blueprint establishes the protagonist as Kael, using male pronouns“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34]. In its stories Kael is a male host, for instance „Kael (ANP Host)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L67] in Story 1.
 
 Stands as one more position in the record: a proposal of 2025-11-03 that names the difference and settles it for itself; recorded, not applied.
+
+## 2026-10-07 — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier
+
+**The development dossier writes Kael as a man and does not name the question.**
+
+Its labelled core sentence is „die Reise eines fragmentierten Mannes, Kael“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L54]; the sentence goes on to call him the one whom AEGIS made in the image of its own trauma. The dossier does not remark on a gender or on any other family of documents writing it otherwise.
+
+Where it stands: a male Kael in a planning dossier, to be entered beside the existing rows of C17, which stays open.
