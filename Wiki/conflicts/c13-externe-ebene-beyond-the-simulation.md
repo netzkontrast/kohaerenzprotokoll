@@ -286,3 +286,15 @@ Stands: the guide gives the External Level as transcendent and uncontrolled by A
 Its third subplot „führt ein Element außerhalb von AEGIS' Kontrolle ein“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L21] (L21), and Kap 22 plans „Hinweise auf Externe Ebene/Juna/V“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L61] (L61). The document never writes `Köln` or `Basisrealität` and does not say where the level lies relative to the simulation, though Kap 11 speaks of a „Signifikanter Riss in Simulation“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L45] (L45).
 
 In the record's terms the revision stands with a level outside AEGIS's control, a proposal of 2025-05-02 recorded and not applied; the record's rows are not changed.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing puts Juna/V's origin on an `External Level` beyond AEGIS's comprehension, and does not say whether that level lies outside the simulation.**
+
+> „She is simultaneously a transcendent entity from an“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L112] `External Level`, in its words, „beyond AEGIS's comprehension“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L112]
+
+> „encountered a transcendent, unclassifiable entity (related to Juna/V)“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L61]
+
+Its measure is AEGIS's comprehension, not the simulation's edge.
+
+It stands outside both columns of the record's table, as a position the record's own terms do not yet hold.
