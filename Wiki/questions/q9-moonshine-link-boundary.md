@@ -514,3 +514,11 @@ Stands as: the link between two named figures, with its synchronising role for t
 The exposé writes that the link „does not provide him with“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] episteme, the data-based knowledge „which AEGIS could intercept“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66]. „Instead, it provides“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] gnosis. It names the link only between Juna/V and Kael, and says nothing of who else could feel it or whether it is exclusive.
 
 Stands: a partial answer to what the link carries, in an exposé without canon claim; the question stays open in the record's own terms.
+
+## 2026-10-07 — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report
+
+**The dissociative architecture report has the Moonshine-Link mediated by the alter Juna, working through sensory resonance and bypassing Lex's logic; it draws no boundary.**
+
+In Act II, „Juna (the internal guide) facilitates communication between the warring factions by bypassing Lex’s logic and using sensory resonance“ ^[kael-s-dissociative-architecture-analysis.md:L191]. In section 7 the link is „mediated by the alter“ ^[kael-s-dissociative-architecture-analysis.md:L203] Juna, a systemic exploit „against both the internal rigidity of Lex and the external tyranny of AEGIS“ ^[kael-s-dissociative-architecture-analysis.md:L203]. The one other party the report shows meeting it is Silas: „Silas creates the index; Juna corrupts it with poetry“ ^[kael-s-dissociative-architecture-analysis.md:L209].
+
+Stands: the report names Juna as the mediator and Silas as one party it works on; it does not say what the link carries across from the Externe Ebene or whether it is exclusive, so the record's question stays open on this document.
