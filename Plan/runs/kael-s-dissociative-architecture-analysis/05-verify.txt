@@ -1,0 +1,121 @@
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Case Study'
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Case Study` ^[kael-s-dissociative-architecture-analysis.md:#4]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Turning Point'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Turning Point` ^[kael-s-dissociative-architecture-analysis.md:#2]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Narrative Justification'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Justification` ^[kael-s-dissociative-architecture-analysis.md:#1]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Psychological Mapping'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Psychological Mapping` ^[kael-s-dissociative-architecture-analysis.md:#1]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'K\_1'
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`K\_1` ^[kael-s-dissociative-architecture-analysis.md:#8]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'K\_0'
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`K\_0` ^[kael-s-dissociative-architecture-analysis.md:#10]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Moonshine-Link'
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Moonshine-Link` ^[kael-s-dissociative-architecture-analysis.md:#5]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Functional Multiplicity'
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Functional Multiplicity` ^[kael-s-dissociative-architecture-analysis.md:#9]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Silas'
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Silas` ^[kael-s-dissociative-architecture-analysis.md:#3]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Julia'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Julia` ^[kael-s-dissociative-architecture-analysis.md:#0]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Kapitel'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kael-s-dissociative-architecture-analysis.md:#0]
+
+$ python3 scripts/read.py kael-s-dissociative-architecture-analysis --count 'Samen der Sicherheit'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Samen der Sicherheit` ^[kael-s-dissociative-architecture-analysis.md:#1]
+
+$ grep -c '^[0-9]*\.  *[A-Z]' Sources/drive/kael-s-dissociative-architecture-analysis.md
+16
+
+$ sed -n '257,272p' Sources/drive/kael-s-dissociative-architecture-analysis.md | cut -c1-40
+1.  Deconstructing Reality's Architectur
+2.  Zugriff am Januar 2, 2026, <https://
+3.  Integriertes Kohärenz-Protokoll Ers
+4.  KI-Architektur für Kohärenz und Sk
+5.  Understanding Structural Dissociatio
+6.  Forschungsprojekt: Kohärenz Protoko
+7.  Tertiary Structural Dissociation - D
+8.  Structural Dissociation of the Perso
+9.  TSDP-Analyse: Kaels innere Welt , <h
+10. Theory of Structural Dissociation an
+11. Projektanalyse Kohärenz Protokoll &
+12. The True Coherence Protocol: Archite
+13. System Kael: Konzeptentwicklung und 
+14. Strukturelle Dissoziation: System Ka
+15. Kohärenz Protokoll: Narrative Archi
+16. Kohärenz Protokoll: Konzeptionelle 
+
+$ sed -n '62p' Sources/drive/kael-s-dissociative-architecture-analysis.md | cut -c1-80
+The research materials identify 13 distinct entities within the system.11 These 
+
+$ grep -n '?' Sources/drive/kael-s-dissociative-architecture-analysis.md | cut -c1-12
+259:3.  Inte
+262:6.  Fors
+265:9.  TSDP
+267:11. Proj
+268:12. The 
+269:13. Syst
+270:14. Stru
+271:15. Koh�
+272:16. Koh�
+
+stance_marker_count 8 = 4 (Case Study) + 2 (Turning Point) + 1 (Narrative Justification) + 1 (Psychological Mapping)
+entity roster: tables L71-75 (5 ANP: Kael Lex Isabella Alex The Sentinel), L84-88 (5 EP: Nyx Kiko Moros The Shadow The Martyr), L94-95 (Selene Juna) = 12; L209-211 adds Silas Vesper Caspian Sloane = 16

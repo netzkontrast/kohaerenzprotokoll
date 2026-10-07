@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x2
+  glued ref numbers      26
+  backslash escapes      310
+  typographic marks      40
+  ascii quotes           282
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architecting, Architectural, Architecture, Architektur, Architekturanalyse, Archives, Archivist
+  psych    Psychological, Psychologically, Psychology, Psychopathology, Psychotraumatology
+  disso    Dissociation, Dissociative, Dissonance, Dissoziation
+  syste    System, Systematic, Systemic, Systems
+  integ    Integrated, Integration, Integriertes
+  inter    Interactions, Internal, Internalized
+  manag    Manager, Managers, Manages
+  reali    Realism, Realist, Reality
+  affec    Affect, Affects
+  chapt    Chapter, Chapters
+  compl    Complexity, Compliance
+  diagn    Diagnosis, Diagnostic
+  dynam    Dynamic, Dynamics
+  envir    Environment, Environmental
+  exile    Exile, Exiles
+  exist    Existence, Existential
+  fight    Fight, Fighter
+  fragm    Fragmentation, Fragmented
+  funct    Function, Functional
+  intru    Intruder, Intrusions
+  konze    Konzeptentwicklung, Konzeptionelle
+  proce    Process, Processing
+  prote    Protector, Protectors
+  proto    Protocol, Protokoll
+  ritua    Ritual, Rituals
+
+# substring pairs -- never one term, often merged by accident
+  Data < Metadata
+  Just < Justification
+  Kael < Kaels
+  PTSD < CPtsd
+  Rift < Drift
+  Rift < Rifts
+  Riss < Risse
+  Safe < Safety
+  Seed < Seeds
+  Void < Avoidance
+  Wall < Firewall
+  Exile < Exiles
+  Fight < Fighter
+  Fight < Firefighter
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Psychologically
+  Order < Border
+  Order < Disorder
+  Table < Tables
