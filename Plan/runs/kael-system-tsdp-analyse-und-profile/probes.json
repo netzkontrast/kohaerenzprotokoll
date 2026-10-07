@@ -1,0 +1,365 @@
+{
+  "document": "kael-system-tsdp-analyse-und-profile",
+  "drive_id": "1ExIOg8b7u86sOSyrYdzAMQnY2OG2i65niJf1ko7_j8U",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 75,
+  "backslash_escapes": 80,
+  "typographic_marks": 96,
+  "ascii_quotes": 8,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstaufgabe",
+      "Selbstausdruck",
+      "Selbstbehauptung",
+      "Selbstberuhigung",
+      "Selbstbewusstsein",
+      "Selbstbild",
+      "Selbste",
+      "Selbstermächtigung",
+      "Selbstfürsorge",
+      "Selbstinstrumentalisierung",
+      "Selbstregulation",
+      "Selbstregulationsfähigkeiten",
+      "Selbstvernachlässigung",
+      "Selbstwahrnehmung",
+      "Selbstwert",
+      "Selbstzustände",
+      "Selbstüberzeugungen"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsbedürfnis",
+      "Bindungsbedürfnisse",
+      "Bindungsfigur",
+      "Bindungskontrolle",
+      "Bindungsmuster",
+      "Bindungsmustern",
+      "Bindungsobjekt",
+      "Bindungsprobleme",
+      "Bindungsruf",
+      "Bindungsstrategien",
+      "Bindungsstörungen",
+      "Bindungssystem",
+      "Bindungssysteme",
+      "Bindungstheorie",
+      "Bindungsverhalten"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzbefohlenen",
+      "Schutzdrang",
+      "Schutzdynamik",
+      "Schutzes",
+      "Schutzfokus",
+      "Schutzfunktion",
+      "Schutzimpuls",
+      "Schutzinstinkt",
+      "Schutzmechanismus",
+      "Schutzmodus",
+      "Schutzreaktion",
+      "Schutzreaktionen",
+      "Schutzrolle",
+      "Schutzschild",
+      "Schutzziel"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontroll",
+      "Kontrollbedürfnis",
+      "Kontrollbedürfnisse",
+      "Kontrollbestrebungen",
+      "Kontrolle",
+      "Kontrollfassade",
+      "Kontrollmuster",
+      "Kontrollstrategien",
+      "Kontrollverlust",
+      "Kontrollverlusts",
+      "Kontrollversuche",
+      "Kontroverse"
+    ],
+    "syste": [
+      "System",
+      "Systematische",
+      "Systemdynamik",
+      "Systeme",
+      "Systemfehler",
+      "Systemfunktionalität",
+      "Systeminstabilität",
+      "Systemische",
+      "Systemkollaps",
+      "Systemreaktionen",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie"
+    ],
+    "entwi": [
+      "ENTWICKLUNG",
+      "Entwicklung",
+      "Entwicklungen",
+      "Entwicklungspotenzial",
+      "Entwicklungsprozesse",
+      "Entwicklungspsychologie",
+      "Entwicklungsschritte",
+      "Entwicklungsstadien",
+      "Entwicklungstrajektorie",
+      "Entwicklungstrauma",
+      "Entwicklungsumgebung"
+    ],
+    "inter": [
+      "Inter",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionspartner",
+      "Intern",
+      "Internal",
+      "Interne",
+      "Interner",
+      "Internes",
+      "Interrelationen",
+      "Interventionen"
+    ],
+    "traum": [
+      "TRAUMA",
+      "TRAUMATISIERUNG",
+      "Trauma",
+      "Traumaauswirkungen",
+      "Traumafolgestörungen",
+      "Traumageschichte",
+      "Traumas",
+      "Traumata",
+      "Traumatic",
+      "Traumatisierung",
+      "Traumaumgebung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations",
+      "Integrationsbestrebungen",
+      "Integrationshindernisse",
+      "Integrationspotenzial",
+      "Integrationsprozess",
+      "Integrationsprozesses",
+      "Integrationsversuche",
+      "Integratives",
+      "Integratorin"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionalen",
+      "Emotionaler",
+      "Emotionalität",
+      "Emotionen",
+      "Emotionskontrolle",
+      "Emotionslosigkeit",
+      "Emotionsphobie",
+      "Emotionsregulation"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückt",
+      "Unterdrückung",
+      "Unterdrückungs",
+      "Unterdrückungsstrategien",
+      "Unterschiedliche",
+      "Unterstützer",
+      "Untersuchung",
+      "Unterwerfung"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltags",
+      "Alltagsbewältigung",
+      "Alltagsbewältigungsstrategien",
+      "Alltagsfunktion",
+      "Alltagsleben",
+      "Alltagslebens",
+      "Alltagsmanager"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen",
+      "Handlungsfähigkeit",
+      "Handlungssystem",
+      "Handlungssysteme",
+      "Handlungssystemen"
+    ],
+    "leben": [
+      "Leben",
+      "Lebendigkeit",
+      "Lebens",
+      "Lebensbedrohliches",
+      "Lebensfreude",
+      "Lebensimpulse",
+      "Lebenswillen"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwinden",
+      "Überwinderin",
+      "Überwindung",
+      "Überwältigender",
+      "Überwältigt",
+      "Überwältigung"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen",
+      "Abwehrreaktionen",
+      "Abwehrstrategien",
+      "Abwehrverhalten",
+      "Abwehrzustände"
+    ],
+    "chara": [
+      "Charakterbögen",
+      "Charakterdarstellung",
+      "Charakterdynamiken",
+      "Charakterinteraktionen",
+      "Charakterisierung",
+      "Charakterprofile"
+    ],
+    "überl": [
+      "Überlastung",
+      "Überleben",
+      "Überlebender",
+      "Überlebens",
+      "Überlebensanpassungen",
+      "Überlebensstrategien"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeit",
+      "Analysen",
+      "Analytiker",
+      "Analytisch"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsmechanismen",
+      "Bewusstseinsmodi"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativer"
+    ],
+    "ident": [
+      "Identifizierung",
+      "Identity",
+      "Identität",
+      "Identitätsbildung",
+      "Identitätsverlust"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktaversion",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktpotentiale"
+    ],
+    "manag": [
+      "Management",
+      "Managementfähigkeiten",
+      "Managements",
+      "Managementstil",
+      "Manager"
+    ],
+    "perso": [
+      "Person",
+      "Persona",
+      "Personal",
+      "Personality",
+      "Personen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bind",
+      "Bindung"
+    ],
+    [
+      "Bind",
+      "Verbindet"
+    ],
+    [
+      "Bind",
+      "Verbindung"
+    ],
+    [
+      "Bind",
+      "Bindungsruf"
+    ],
+    [
+      "Bind",
+      "Verbindungen"
+    ],
+    [
+      "Bind",
+      "Bindungsfigur"
+    ],
+    [
+      "Bind",
+      "Bindungsmuster"
+    ],
+    [
+      "Bind",
+      "Bindungsobjekt"
+    ],
+    [
+      "Bind",
+      "Bindungssystem"
+    ],
+    [
+      "Bind",
+      "Kernverbindung"
+    ],
+    [
+      "Bind",
+      "Bindungsmustern"
+    ],
+    [
+      "Bind",
+      "Bindungssysteme"
+    ],
+    [
+      "Bind",
+      "Bindungstheorie"
+    ],
+    [
+      "Bind",
+      "Bindungsprobleme"
+    ],
+    [
+      "Bind",
+      "Bindungsbedürfnis"
+    ],
+    [
+      "Bind",
+      "Bindungskontrolle"
+    ],
+    [
+      "Bind",
+      "Bindungsstörungen"
+    ],
+    [
+      "Bind",
+      "Bindungsverhalten"
+    ],
+    [
+      "Bind",
+      "Bindungsstrategien"
+    ],
+    [
+      "Bind",
+      "Bindungsbedürfnisse"
+    ]
+  ]
+}

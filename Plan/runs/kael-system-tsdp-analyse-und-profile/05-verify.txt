@@ -1,0 +1,184 @@
+$ read.py --count "wahrscheinlich"
+whole word, case-sensitive     46
+whole word, case-insensitive   46
+including compounds            47
+
+`wahrscheinlich` ^[kael-system-tsdp-analyse-und-profile.md:#46]
+$ read.py --count "möglicherweise"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`möglicherweise` ^[kael-system-tsdp-analyse-und-profile.md:#19]
+$ read.py --count "könnte"
+whole word, case-sensitive     60
+whole word, case-insensitive   67
+including compounds            78
+
+`könnte` ^[kael-system-tsdp-analyse-und-profile.md:#60]
+$ read.py --count "User Query"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`User Query` ^[kael-system-tsdp-analyse-und-profile.md:#4]
+$ read.py --count "Forschungskontext"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Forschungskontext` ^[kael-system-tsdp-analyse-und-profile.md:#12]
+$ read.py --count "Bericht"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Bericht` ^[kael-system-tsdp-analyse-und-profile.md:#2]
+$ read.py --count "Phobien"
+whole word, case-sensitive     44
+whole word, case-insensitive   44
+including compounds            52
+
+`Phobien` ^[kael-system-tsdp-analyse-und-profile.md:#44]
+$ read.py --count "Phobie"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            73
+
+`Phobie` ^[kael-system-tsdp-analyse-und-profile.md:#20]
+$ read.py --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[kael-system-tsdp-analyse-und-profile.md:#0]
+$ read.py --count "Erinnerungsschutz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Erinnerungsschutz` ^[kael-system-tsdp-analyse-und-profile.md:#2]
+$ read.py --count "Juna/V"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Juna/V` ^[kael-system-tsdp-analyse-und-profile.md:#40]
+$ read.py --count "Funktionierers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Funktionierers` ^[kael-system-tsdp-analyse-und-profile.md:#1]
+$ read.py --count "Tertiäre Strukturelle Dissoziation"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Tertiäre Strukturelle Dissoziation` ^[kael-system-tsdp-analyse-und-profile.md:#2]
+$ read.py --count "Primärer ANP"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`Primärer ANP` ^[kael-system-tsdp-analyse-und-profile.md:#6]
+$ read.py --count "Sekundärer ANP"
+whole word, case-sensitive     6
+whole word, case-insensitive   8
+including compounds            6
+
+`Sekundärer ANP` ^[kael-system-tsdp-analyse-und-profile.md:#6]
+$ read.py --count "Entstehender ANP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Entstehender ANP` ^[kael-system-tsdp-analyse-und-profile.md:#2]
+$ read.py --count "Modifizierter ANP"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Modifizierter ANP` ^[kael-system-tsdp-analyse-und-profile.md:#1]
+$ read.py --count "Kernwelten"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kernwelten` ^[kael-system-tsdp-analyse-und-profile.md:#11]
+$ read.py --count "Co₁"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Co₁` ^[kael-system-tsdp-analyse-und-profile.md:#5]
+$ read.py --count "McL"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`McL` ^[kael-system-tsdp-analyse-und-profile.md:#3]
+$ read.py --count "Ly"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Ly` ^[kael-system-tsdp-analyse-und-profile.md:#6]
+$ read.py --count "Autopoiesis"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Autopoiesis` ^[kael-system-tsdp-analyse-und-profile.md:#4]
+$ read.py --count "Strukturelle Kopplung"
+whole word, case-sensitive     2
+whole word, case-insensitive   5
+including compounds            2
+
+`Strukturelle Kopplung` ^[kael-system-tsdp-analyse-und-profile.md:#2]
+$ read.py --count "IFS-Modell"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`IFS-Modell` ^[kael-system-tsdp-analyse-und-profile.md:#2]
+$ read.py --count "Selbst-Energie"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Selbst-Energie` ^[kael-system-tsdp-analyse-und-profile.md:#4]
+$ read.py --count "Paradoxon X"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Paradoxon X` ^[kael-system-tsdp-analyse-und-profile.md:#3]
+$ read.py --count "Cache Kohärenz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Cache Kohärenz` ^[kael-system-tsdp-analyse-und-profile.md:#3]
+$ read.py --count "PP-INT-04"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`PP-INT-04` ^[kael-system-tsdp-analyse-und-profile.md:#3]
+$ read.py --count "Daher"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Daher` ^[kael-system-tsdp-analyse-und-profile.md:#9]
+$ read.py --count "Teil"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            18
+
+`Teil` ^[kael-system-tsdp-analyse-und-profile.md:#14]
+$ stance_marker_count 46+19+60+4+12 = 141
+$ references: grep -c "Zugriff am" -> 40
+$ candidates: 74 (04-counts.txt header)
+$ zeros: 0 (grep -c "0 word" 04-counts.txt -> 0)

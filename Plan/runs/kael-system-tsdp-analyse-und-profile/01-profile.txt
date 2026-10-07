@@ -1,0 +1,14 @@
+# kael-system-tsdp-analyse-und-profile
+  lines                459  (frontmatter ends at 9)
+  body words           11466
+  headings             2   bold-only lines 18
+  table rows           14   code fences 0
+  question marks       15
+  backslash escapes    80
+  typographic marks    96   ascii quotes 8
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    75
+  repeated labels      Bedürfnisse & Integrationshindernisse x11, Beziehung zu AEGIS & Juna/V x11, Beziehung zum Trauma & Emotionen x11, Beziehungen zu anderen Anteilen x11, Entwicklungspotenzial x11, Kognitive Muster & Verhalten x11, Mögliche Manifestationen x11, TSDP-Rolle & Funktion x11, Trigger & Phobien x11
+  longest line         1536 chars
+

@@ -1,0 +1,268 @@
+{
+  "document": "kael-system-tsdp-analyse-und-profile",
+  "drive_id": "1ExIOg8b7u86sOSyrYdzAMQnY2OG2i65niJf1ko7_j8U",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-218/brief.md; no chapter page",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 74,
+    "decisions": 73,
+    "decided_by_lookup": 68,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German report that reads the eleven parts of System Kael through the TSDP, with eleven template profiles and recommendations: its new surfaces are the template fields, the PP- codes, the borrowed theories and Paradoxon X; what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        104,
+        106,
+        107,
+        109,
+        309,
+        325,
+        341
+      ],
+      "attribution": "",
+      "note": "AEGIS as an antagonist fitted to the weaknesses of TSDP, hedged"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        37,
+        67,
+        304,
+        307,
+        309
+      ],
+      "attribution": "",
+      "note": "Alex as a secondary ANP, the protector, hedged"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        69,
+        149,
+        352,
+        355,
+        357
+      ],
+      "attribution": "",
+      "note": "Argus as an emerging ANP/EP mix, the observer, hedged"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        129,
+        389
+      ],
+      "attribution": "",
+      "note": "Cache Kohärenz as the missing shared memory that makes integration hard"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        79,
+        272,
+        275,
+        276,
+        277
+      ],
+      "attribution": "",
+      "note": "Isabelle as an EP of sexualised fight and control, hedged"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        113,
+        115,
+        385
+      ],
+      "attribution": "",
+      "note": "the connection to Juna/V as an external attachment object"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        192,
+        195,
+        197,
+        389
+      ],
+      "attribution": "",
+      "note": "Kael as the primary ANP and host, and AEGIS's main target, all hedged"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        95,
+        99,
+        384
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as externalised inner conflicts and triggers"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        240,
+        243,
+        244,
+        245
+      ],
+      "attribution": "",
+      "note": "Kiko as a child EP of freeze, flight and the attachment cry"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        336,
+        339,
+        341
+      ],
+      "attribution": "",
+      "note": "Lex as a primary ANP, the rationalist, a possible tool of AEGIS"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        79,
+        100,
+        256,
+        259,
+        260,
+        261
+      ],
+      "attribution": "",
+      "note": "Lia as a child EP of flight and ambivalent attachment"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        57,
+        288,
+        291,
+        292,
+        293,
+        294
+      ],
+      "attribution": "",
+      "note": "Moros as an EP of freeze and collapse, hedged"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        224,
+        227,
+        228,
+        229
+      ],
+      "attribution": "",
+      "note": "Nyx as a fight EP who protects Kiko and Lia"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        115,
+        320,
+        323,
+        325,
+        326
+      ],
+      "attribution": "",
+      "note": "Rhys as a secondary ANP, the carer, drawn to Juna/V"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        208,
+        211,
+        212,
+        213
+      ],
+      "attribution": "",
+      "note": "Selene as a modified ANP and integrative potential, hedged"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        95,
+        336
+      ],
+      "attribution": "",
+      "note": "TSDP as the theoretical basis of a report on the eleven parts"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J34 (Juna/V on juna); DID at L452 a reference title; Emergenz at L95 the label of the world Ly; Persona at L90 Isabelle's persona of control",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 452,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 95,
+      "decision": "occurrence",
+      "why": "the label of the world Ly"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 15,
+      "decision": "reading",
+      "why": "Juna/V among the report's subjects, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 90,
+      "decision": "occurrence",
+      "why": "Isabelle's persona of control"
+    }
+  ],
+  "not_promoted": [
+    "the template fields and PP- codes",
+    "the borrowed theories (Bowlby, Ainsworth, Luhmann, IFS)",
+    "Paradoxon X",
+    "the recommendations"
+  ],
+  "internal_tension": "most readings are hedged (wahrscheinlich, könnte, möglicherweise) and rest on a user query and a research context the file does not reproduce; the world B is Chaos/Trauma here (L95)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
