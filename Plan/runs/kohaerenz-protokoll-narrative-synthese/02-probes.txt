@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      63
+  backslash escapes      38
+  typographic marks      202
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalytiker, Systeme, Systemen, Systemrauschen, Systems, Systemstabilität, Systemtheorie
+  exist    EXISTENTIALISM, Existentialism, Existentialist, Existentielle, Existenz
+  metap    Metapher, Metaphern, Metaphor, Metaphorik, Metaphysik
+  multi    Multi, Multifaceted, Multiplizität, Multisense, Multitude
+  polyp    POLYPHONIC, Polyphone, Polyphonic, Polyphonie, Polyphony
+  prosa    Prosa, Prosarhythmus, Prosastil, Prosastimme, Prosatechniken
+  psych    Psychologie, Psychologisch, Psychologist, Psychose, Psychosis
+  selbs    Selbst, Selbstauslöschung, Selbsterhaltung, Selbsterhaltungstrieb, Selbstverletzung
+  verha    Verhalten, Verhaltens, Verhaltensschleifen, Verhaltensweisen, Verhandlungen
+  wider    Widerspruch, WiderspruchineineralskonsistentmarkiertenAussage, Widerspruchs, Widersprüche, Widersprüchen
+  besch    Beschreibung, Beschreibungen, Beschützer, Beschützerin
+  disso    Dissociative, Dissonanz, Dissoziation, Dissoziiert
+  explo    Exploit, Explored, Exploring, Explosion
+  liter    LITERATURE, Literary, Literatur, Literature
+  narra    Narration, Narrative, Narrativer, Narrators
+  reali    Realism, Reality, Realität, Realitätsarchitektur
+  theor    Theorems, Theorie, Theorien, Theory
+  umgeb    Umgebung, Umgebungen, Umgebungsgeräusche, Umgebungslärm
+  analy    Analysis, AnalysisOfAnalogHorror, Analytiker
+  antei    Anteil, Anteile, Anteils
+  bedro    Bedrohung, Bedrohungen, Bedrohungsneutralisierung
+  daten    Daten, Datenströme, Datenübertragungen
+  diese    Diese, Dieser, Dieses
+  erzäh    Erzählstimme, Erzählung, Erzählwelt
+  funda    Fundament, Fundamente, Fundaments
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augenblick
+  Bach < Bachtin
+  Bach < Bachelor
+  Bach < Bachtins
+  Bach < Beobachters
+  Book < Books
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  ENGL < English
+  Eine < Seine
+  Eine < Anscheinend
+  Eine < WiderspruchineineralskonsistentmarkiertenAussage
+  FILM < Film
+  Form < Formen
+  Form < Formalen
+  Form < Performanz
+  Form < Information
+  Form < Informationen
+  Form < Transformation

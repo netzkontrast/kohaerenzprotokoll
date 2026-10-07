@@ -229,10 +229,11 @@
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 147,
-      "readings": 147,
+      "sources": 148,
+      "readings": 148,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -391,10 +392,11 @@
         "kohaerenz-protokoll-architecture-synthesis",
         "romanidee-als-interaktiver-prototyp",
         "romanideen-zu-roman-entwickeln",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 59,
-      "readings": 59,
+      "sources": 60,
+      "readings": 60,
       "conflict": "none"
     },
     "alters": {
@@ -1109,10 +1111,11 @@
         "romanidee-als-interaktiver-prototyp",
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 45,
-      "readings": 45,
+      "sources": 46,
+      "readings": 46,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1257,10 +1260,11 @@
         "romanidee-als-interaktiver-prototyp",
         "kohaerenz-protokoll-2",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 94,
-      "readings": 94,
+      "sources": 95,
+      "readings": 95,
       "conflict": "C2"
     },
     "erason": {
@@ -1784,10 +1788,11 @@
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 103,
-      "readings": 103,
+      "sources": 104,
+      "readings": 104,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2051,10 +2056,11 @@
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 136,
-      "readings": 136,
+      "sources": 137,
+      "readings": 137,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2268,10 +2274,11 @@
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kael-charakterarchitektur-und-konfliktdynamik-2",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 149,
-      "readings": 150,
+      "sources": 150,
+      "readings": 151,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2618,10 +2625,11 @@
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 99,
-      "readings": 99,
+      "sources": 100,
+      "readings": 100,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -3134,10 +3142,11 @@
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 102,
-      "readings": 102,
+      "sources": 103,
+      "readings": 103,
       "conflict": "none"
     },
     "lia": {
@@ -3614,10 +3623,11 @@
         "project-status-report-kohaerenz-protokoll-canonical-state-st",
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "romanideen-zu-roman-entwickeln",
-        "kael-charakterarchitektur-und-konfliktdynamik"
+        "kael-charakterarchitektur-und-konfliktdynamik",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 86,
-      "readings": 86,
+      "sources": 87,
+      "readings": 87,
       "conflict": "none"
     },
     "moros": {
@@ -3858,10 +3868,11 @@
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kael-charakterarchitektur-und-konfliktdynamik-2",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 99,
-      "readings": 99,
+      "sources": 100,
+      "readings": 100,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -4011,10 +4022,11 @@
         "kohaerenz-protokoll-architecture-synthesis",
         "romanidee-als-interaktiver-prototyp",
         "the-coherence-protocol-a-narrative-design-world-architecture",
-        "kohaerenz-analyse-kapitel-2"
+        "kohaerenz-analyse-kapitel-2",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 78,
-      "readings": 78,
+      "sources": 79,
+      "readings": 79,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -4136,10 +4148,11 @@
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 100,
-      "readings": 100,
+      "sources": 101,
+      "readings": 101,
       "conflict": "C10"
     },
     "oblivion": {
@@ -4380,10 +4393,11 @@
         "narrative-blueprint-the-coherence-protocol",
         "kohaerenz-protokoll-master-integration-md",
         "deconstructing-reality-s-architecture",
-        "kael-charakterarchitektur-und-konfliktdynamik"
+        "kael-charakterarchitektur-und-konfliktdynamik",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 48,
-      "readings": 49,
+      "sources": 49,
+      "readings": 50,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -4881,10 +4895,11 @@
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 88,
-      "readings": 88,
+      "sources": 89,
+      "readings": 89,
       "conflict": "none"
     },
     "silas": {
@@ -5346,10 +5361,11 @@
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kael-charakterarchitektur-und-konfliktdynamik-2",
-        "narrativ"
+        "narrativ",
+        "kohaerenz-protokoll-narrative-synthese"
       ],
-      "sources": 98,
-      "readings": 97,
+      "sources": 99,
+      "readings": 98,
       "conflict": "none yet"
     },
     "ueberraum": {

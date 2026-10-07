@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-narrative-synthese
+  lines                468  (frontmatter ends at 9)
+  body words           5655
+  headings             17   bold-only lines 5
+  table rows           14   code fences 0
+  question marks       8
+  backslash escapes    38
+  typographic marks    202   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    63
+  repeated labels      Kernkonzept x8
+  longest line         1229 chars
+

@@ -1,0 +1,134 @@
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Kernkonzept"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Kernkonzept` ^[kohaerenz-protokoll-narrative-synthese.md:#9]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Narrative Übersetzung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Narrative Übersetzung` ^[kohaerenz-protokoll-narrative-synthese.md:#3]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Zugriff am Juli 29, 2025"
+whole word, case-sensitive     52
+whole word, case-insensitive   52
+including compounds            52
+
+`Zugriff am Juli 29, 2025` ^[kohaerenz-protokoll-narrative-synthese.md:#52]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Das Nichts Rauschen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Das Nichts Rauschen` ^[kohaerenz-protokoll-narrative-synthese.md:#4]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Moonshine-Link"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Moonshine-Link` ^[kohaerenz-protokoll-narrative-synthese.md:#4]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Juna/V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V` ^[kohaerenz-protokoll-narrative-synthese.md:#4]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            69
+
+`V` ^[kohaerenz-protokoll-narrative-synthese.md:#4]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[kohaerenz-protokoll-narrative-synthese.md:#2]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Zombie-System"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zombie-System` ^[kohaerenz-protokoll-narrative-synthese.md:#1]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "TSDP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`TSDP` ^[kohaerenz-protokoll-narrative-synthese.md:#2]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "IFS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`IFS` ^[kohaerenz-protokoll-narrative-synthese.md:#1]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "seltsamer Attraktor"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`seltsamer Attraktor` ^[kohaerenz-protokoll-narrative-synthese.md:#4]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Seltsamer Attraktor"
+whole word, case-sensitive     1
+whole word, case-insensitive   5
+including compounds            1
+
+`Seltsamer Attraktor` ^[kohaerenz-protokoll-narrative-synthese.md:#1]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "funktionalen Multiplizität"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`funktionalen Multiplizität` ^[kohaerenz-protokoll-narrative-synthese.md:#5]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "funktionale Multiplizität"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`funktionale Multiplizität` ^[kohaerenz-protokoll-narrative-synthese.md:#0]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[kohaerenz-protokoll-narrative-synthese.md:#1]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Lex"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Lex` ^[kohaerenz-protokoll-narrative-synthese.md:#5]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Lexikon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lexikon` ^[kohaerenz-protokoll-narrative-synthese.md:#1]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "könnte"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`könnte` ^[kohaerenz-protokoll-narrative-synthese.md:#11]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Whitehead"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Whitehead` ^[kohaerenz-protokoll-narrative-synthese.md:#4]
+$ read.py kohaerenz-protokoll-narrative-synthese --count "Analog Horror"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Analog Horror` ^[kohaerenz-protokoll-narrative-synthese.md:#5]
+$ grep -c "^[0-9]*\.  " (Referenzen entries L415-L467)
+53
+$ grep -nw V
+94:**Kernkon
+96:1.  **Qua
+137:**Die er
+216:1.  **Ph
+$ stance_marker_count = Kernkonzept 9 + Narrative Übersetzung 3 = 12

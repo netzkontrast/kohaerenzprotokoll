@@ -707,3 +707,13 @@
 {"document": "narrativ", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the project's name", "at": "2026-10-07"}
 {"document": "narrativ", "page": "personas", "surface": "Persona", "line": 117, "decision": "occurrence", "why": "a tag in a bracketed reference list", "at": "2026-10-07"}
 {"document": "narrativ", "page": "ueberwelt", "surface": "Überwelt", "line": 171, "decision": "reading", "why": "the world as Digitale Überwelt, read on ueberwelt", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "alex", "surface": "Alex", "line": 419, "decision": "occurrence", "why": "in the reference list", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "alters", "surface": "Alters", "line": 321, "decision": "occurrence", "why": "in the source list", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "did", "surface": "DID", "line": 459, "decision": "occurrence", "why": "in the reference list", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "emergenz", "surface": "Emergenz", "line": 24, "decision": "reading", "why": "the Fundament allows weak emergence, read on emergenz", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "entropie", "surface": "Entropie", "line": 83, "decision": "reading", "why": "the Leere as peripheral entropy, read on entropie", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "goedel-gambit", "surface": "Gödel-Gambit", "line": 283, "decision": "occurrence", "why": "in the source list", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the title", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "multiplizitaet", "surface": "Multiplizität", "line": 28, "decision": "reading", "why": "functional multiplicity performed by polyphonic prose, read on multiplizitaet", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "risse", "surface": "Glitches", "line": 66, "decision": "occurrence", "why": "the Fundament's artefacts are not glitches — a contrast", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-narrative-synthese", "page": "ueberwelt", "surface": "Simulation", "line": 68, "decision": "occurrence", "why": "the simulation's noise, not the place", "at": "2026-10-07"}
