@@ -916,3 +916,11 @@ Stands as a row for the alters side of the question; the report decrees, recorde
 It describes „Vier primäre simulierte Realitäten, die als Externalisierungen von Kaels Psyche“ ^[welten.md:L77] serve, and lists them under „Die vier Kern-Welten“ ^[welten.md:L78]. Its proposed names (L15–L18) are `Konstrukt-Stadt`, marked „Bestätigt aus Roman“ ^[welten.md:L15], `Resonanz-Nebel`, `Schattenlabyrinth` and `Möglichkeitsstrom`. Each world is paired with one Guardian in the Guardians' list, and the reply gives Sophia no world (L65–L69). The word `Alter` ^[welten.md:#0] does not stand in the reply (a count, not an inference).
 
 Stands on the four-worlds side, with names that differ from those the record's table lists; the correspondence between world and alter is not touched, and the record is not changed.
+
+## 2026-10-07 — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis
+
+**The protocol analysis counts four primary Kernwelten and gives the Alters as examples, not as a count.**
+
+„Das System umfasst vier primäre Kernwelten“ ^[analyse-des-kohaerenz-protokolls.md:L231]. Its table assigns inhabitants: KW1 „Kael, Index“ ^[analyse-des-kohaerenz-protokolls.md:L236], KW2 „Alters mit Trauma-Fokus“ ^[analyse-des-kohaerenz-protokolls.md:L237], KW3 „Praetor, Nox“ ^[analyse-des-kohaerenz-protokolls.md:L238], KW4 `Limina` (L239). The Alters appear in section 5 as fragments of the EP, „bei dem der EP weiter in Fragmente (Alters wie Nyx, Kiko, Moros) zerschlagen wurde“ ^[analyse-des-kohaerenz-protokolls.md:L221].
+
+Four worlds, a number the report states with „primäre“; the Alters are named as examples with `wie` and no total. Stands as a count of four worlds with no count of Alters; recorded, the question stays open.
