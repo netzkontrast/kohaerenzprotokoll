@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein"]
 gathered: "2026-09-25"
 ---
 
@@ -31,6 +31,10 @@ The dramaturg's blueprint (L115–L238) recommends it: „Die Anwendung von Kish
 The outline designs Kael's strand on this structure: „Kaels Heilungsreise auf der transformativen Kishōtenketsu-Struktur“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L22] stands against AEGIS's conflict dramaturgy. It claims for the form a meaning of its own: „Die Form des Romans wird so zu einem Meta-Kommentar“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L41], a commentary on „den Zusammenprall zweier unvereinbarer Paradigmen des Seins und des Verstehens“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L41].
 
 The four phases are the four acts of the plan: „Ki (Einleitung) - Das Instabile Gleichgewicht“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L45] for Kapitel 1–9, „Shō (Entwicklung) - Die Eskalierende Paradoxie“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L119] for 10–21, „Ten (Wendung) - Katastrophales Versagen & Emergentes Selbst“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L191] for 22–31 and „Ketsu (Schluss) - Eine Neue Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L245] for 32–40. Each full chapter block also carries a `Kapitel-Kishōtenketsu` list of four lines; in the planned Kapitel 3 the Ten line reads „Juna macht eine unerwartete, authentische emotionale Geste“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L102], the turn that sets off the chapter's Ketsu.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — the structure applied to a 30-chapter outline
+
+The Kishōtenketsu plan is a chat reply that applies the structure to the novel: its concept „der japanischen Erzählstruktur des“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L11] Kishōtenketsu follows, and the reply says why it suits the story: weight falls less on direct conflict than on introduction, development, an unexpected turn and its consequence. It divides the book into four acts: „Ki (起) - Einführung (Kapitel“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L23] 1–7 with the title `Das Gitter`; Shō, development, chapters 8–16, `Das Training`; Ten, the turn, chapters 17–23, `Der Gegentakt`, of which the plan says „Dies ist der entscheidende Wendepunkt“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L25]; and Ketsu, the conclusion, chapters 24–30, `Die Synthese`. The act names and chapter numbers are the plan's proposal for a 30-chapter book and are not promoted.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the architecture analysis) — a non-Western structure for Kael's integration
 
