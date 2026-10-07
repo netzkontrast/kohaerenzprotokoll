@@ -446,3 +446,11 @@ Stands: one more row for the record; the Guardians' blind spots are given as per
 It gives AEGIS a blind spot: AEGIS is „systemisch unfähig“ ^[welten.md:L46] to recognise the nature and meaning of the Kael-Julia connection. It describes the Guardians as „Spezialisierte Subsysteme von AEGIS“ ^[welten.md:L60], and gives each a `Blinder Fleck`, for example `LogOS`: „sieht nur Struktur, nicht Essenz“ ^[welten.md:L65]. It states how the two levels relate: „Ihre individuellen Blinden Flecken führen“ ^[welten.md:L73] AEGIS to misread the central anomaly and to respond inadequately, and it names a project document for this limitation. It is a proposal and synthesis, so this is its report, not a finding.
 
 Stands as a text that puts the AEGIS blind spot and the Guardians' blind spots in one structure; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept
+
+**The final world concept writes the Guardians as subsystems or agents of AEGIS whose blind spots are fault lines within AEGIS.**
+
+It writes: „Die Guardians sind spezialisierte Subsysteme oder Agenten von AEGIS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43], and that each inherits its Kernwelt's logic, which leads to `blinden Flecken` (L44). It then says that these blind spots „schaffen potenzielle Bruchlinien innerhalb von AEGIS selbst“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L55], with an example of Mnemosyne and LogOS reading Resonanz differently (L55). The document hedges this with `könnte` and `potenziell`.
+
+Stands with the Guardians as components of AEGIS, whose blind spots the document places inside AEGIS; recorded, not applied, and the conflict stays open.
