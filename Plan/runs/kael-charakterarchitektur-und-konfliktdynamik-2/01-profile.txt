@@ -1,0 +1,14 @@
+# kael-charakterarchitektur-und-konfliktdynamik-2
+  lines                423  (frontmatter ends at 9)
+  body words           8811
+  headings             8   bold-only lines 7
+  table rows           16   code fences 0
+  question marks       29
+  backslash escapes    36
+  typographic marks    135   ascii quotes 22
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    89
+  repeated labels      Pressure Point x12, Beziehungen & Konflikte (Extern) x7, Beziehungen & Konflikte (Intern) x7, Dominante Kernwelt(en) & Interaktion x7, Entwicklungspotenzial/Integrationspfad x7, Kernmotivationen & Ziele x7, Name/Bezeichnung x7, Psychologische Basis/Analogie x7, Typisches Verhalten & Manifestation x7, Verbindung zu Kernthemen x7, Kernfunktion & Positive Absicht x6, Kernängste & "Bürden" x6
+  longest line         1691 chars
+
