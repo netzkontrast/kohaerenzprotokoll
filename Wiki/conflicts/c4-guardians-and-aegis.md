@@ -470,3 +470,11 @@ Stands on the side of the Guardians as failing, specialised instruments of AEGIS
 The statement reads: „Spezialisierte AEGIS-Agenten“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24] with blind spots „die kollektiv verhindern, dass AEGIS die K-J-Verbindung korrekt interpretiert“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. It adds „Sie können Zweifel entwickeln und potenziell ihre Loyalität ändern“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. The blind spots are the Guardians' own, set under AEGIS as its agents; the line does not place a blind spot in AEGIS itself.
 
 Stands as an account of one bearer-position, the Guardians', recorded, not applied; no relation is decided here.
+
+## 2026-10-07 — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept
+
+**The part-1 plot concept treats the `Guardians` as AEGIS's units, in the earlier draft and in its own escalation chapter.**
+
+It says the earlier draft introduces the Risse „und führt zentrale Konzepte wie die“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L21] interventions of the `Guardians` (AEGIS) „nachvollziehbar ein. Die Ereignissequenz ist klar definiert.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L21] In its escalation chapter `Einheit 734` is named with others: „und andere Guardians versuchen, die Kontrolle zurückzugewinnen, identifizieren Kael als Störfaktor und nehmen die Verfolgung auf.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L481] The document says nothing of a blind spot, of a domain or of one Guardian per level.
+
+Where it stands: the `Guardians` as AEGIS's agents, a third voice beside neither bearer's blind spot; recorded, not applied.
