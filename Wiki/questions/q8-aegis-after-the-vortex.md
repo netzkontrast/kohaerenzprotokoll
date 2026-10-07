@@ -532,3 +532,11 @@ Where it stands in the record's terms: one more source's answer to the first hal
 „The only canon outcome is“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L46] „Transformation into Algorithmic Melancholy/Paraconsistency“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L46]; total collapse is a „low-concept“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L46] resolution. AEGIS „must survive as a dethroned god, knowing the truth of“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L46] Kael's existence, „forever unable to“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L46] feel it.
 
 Where it stands in the record's own terms: a decree by this report, which does not name the Vortex's fifth beat or Oblivion's takeover; recorded as one more answer, not as the record's decision.
+
+## 2026-10-07 — `master-konzept-kohaerenz-protokoll-analyse`, 2025-12-05, the master concept
+
+**The master concept ends AEGIS in phase III either by collapse or by expansion, and names no Vortex.**
+
+In the plot of phase III, the Gödel-Gambit, Kael confronts AEGIS with the integrated trauma, and the master concept writes: „AEGIS muss kollabieren oder sich erweitern“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L240], adding the label of a paraconsistent transformation. In the logic section it gives the same pair of outcomes: AEGIS „stürzt ab oder muss sich transformieren“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L138]. The master concept offers both as its own synthesis and does not choose between them, nor does it say what AEGIS is afterwards or who takes over its function.
+
+Stands as collapse or expansion, undecided, in a synthesis of 2025-12-05 that has no Vortex; it predates and does not touch the author's answers of 2026-10-05 above, which stand.
