@@ -1979,9 +1979,11 @@
         "internal-openai-model",
         "unreleased internal OpenAI model"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-readme"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "isabelle": {
@@ -3315,9 +3317,11 @@
         "formalization catalogue",
         "lean-formalization"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-readme"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "lex": {
@@ -3659,9 +3663,11 @@
         "result families",
         "result family"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-readme"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "mnemosyne-server-architektur": {
@@ -4878,9 +4884,11 @@
         "reasoning summary",
         "reasoning-summaries"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-readme"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "residual-echos": {
