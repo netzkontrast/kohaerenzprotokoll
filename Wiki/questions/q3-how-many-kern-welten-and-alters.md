@@ -1034,3 +1034,11 @@ Where it stands: a count of alters with a lower bound beside an itemised roster;
 The character table of `Kael: Das multiple Interface` has five rows (L403 to L407), headed „Anteil/Alter“ ^[roman-synthese-mit-dual-kernel-theorie.md:L402] in its first column; its second row gives the Host as „Host (Kael)“ ^[roman-synthese-mit-dual-kernel-theorie.md:L403]. Kapitel 28 puts one alter and one world together: „Kael konfrontiert Nox, den Alter des Traumas, in der Grenzfeste“ ^[roman-synthese-mit-dual-kernel-theorie.md:L288]. The document also says the cache procedures load alters only when needed: „Alters werden nur geladen, wenn sie benötigt werden“ ^[roman-synthese-mit-dual-kernel-theorie.md:L433]. A fifth part, Juna, is listed in the same table, not as an alter of the Host's world.
 
 Stands: the document counts neither alters nor Kern-Welten and states no rule of correspondence between them; the question remains as the record has it.
+
+## 2026-10-07 — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report
+
+**The dissociative architecture report states a roster of 13 entities and names twelve in its tables and four more in section 7, without relating the figure to the names.**
+
+It writes: „The research materials identify 13 distinct entities within the system“ ^[kael-s-dissociative-architecture-analysis.md:L62], citing its own sources. Its tables name five ANPs (Kael, Lex, Isabella, Alex, The Sentinel, L71–L75), five EPs (Nyx, Kiko, Moros, The Shadow, The Martyr, L84–L88) and the hybrid pair Selene and Juna (L94–L95), twelve names. Section 7 adds Silas, Vesper and the Protectors Caspian and Sloane: „With Silas (The Archivist)“ ^[kael-s-dissociative-architecture-analysis.md:L209], „With Vesper (The Executive)“ ^[kael-s-dissociative-architecture-analysis.md:L210] and „With the Protectors (Caspian/Sloane)“ ^[kael-s-dissociative-architecture-analysis.md:L211]. The report does not say how the figure and the names fit.
+
+Stands as a roster whose stated size and listed names differ within one report; it says nothing of the Kern-Welten count or of a correspondence between worlds and alters beyond its Lex row naming KW1.
