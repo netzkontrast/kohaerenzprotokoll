@@ -506,3 +506,11 @@ Stands as one more proposal of transformation, from a document of 2025-07-29 tha
 It writes: „AEGIS should not explode. Instead, it should succumb to“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L139] `Algorithmic Melancholy`, and „It realizes that its foundational axiom (Non-Contradiction) is false. It survives, but as a“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L139] `sad` machine. It says nothing of Oblivion taking over AEGIS's function.
 
 Stands as one more row among the sources' answers to the first half of the question; the record is not decided here.
+
+## 2026-10-07 — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint
+
+**The locked blueprint ratifies paraconsistent decay for AEGIS's end, a sterile knowing it calls a „zombie system“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L68].**
+
+It writes: „By the story's climax, AEGIS is fully transformed into a paraconsistent system.“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L46] The blueprint calls this „a form of cognitive decay“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L46]; the cost is „algorithmic melancholy“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L46], and in the final state „AEGIS achieves a form of sterile enlightenment“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L68]. It says nothing here of a vortex.
+
+Stands as one more row among the sources' answers about AEGIS's end; the record is not decided here.
