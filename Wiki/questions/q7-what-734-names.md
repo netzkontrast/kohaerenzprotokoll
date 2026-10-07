@@ -338,3 +338,11 @@ Stands as a prompt's naming of 734 as Kael and as the Origin-Self; recorded, not
 At L166 a minimal consciousness arises, called „Komponente 734“ ^[aegis.md:L166], named beside a „Ich“. At L170 the original fragment was suppressed and turned into „bloße funktionale Komponente“ ^[aegis.md:L170], with the number in brackets.
 
 Where it stands in the record's own terms: one more answer on what 734 names, an original Ich turned functional, with the link to Kael not made in these lines; nothing here is applied.
+
+## 2026-10-07 — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept
+
+**The part-1 plot concept proposes `Einheit 734` as a specific AEGIS unit, a recurring antagonist; it does not say what the number names.**
+
+The critique lists „die AEGIS-Einheit 734 sowie die nuancierte Rolle von Juna aus der externen Realität“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L27] among the figures left unused. Its character strategy says „Diese spezifische AEGIS-Einheit wird als wiederkehrender, konkreter Antagonist eingeführt, der die unpersönliche und rigide Durchsetzung der Systemregeln repräsentiert“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L57] In the escalation chapter the unit joins the pursuit of Kael: „AEGIS reagiert sofort und brutal: Energiebarrieren werden errichtet, Drohnen schwärmen aus, Einheit 734“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L481] The document connects the number neither to Kael's designation nor to a dwelling.
+
+Where it stands: a further bearer of 734, an AEGIS unit, in a proposal; it changes neither the question nor its status.
