@@ -1,0 +1,674 @@
+{
+  "document": "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
+  "drive_id": "1Wx02lTSBQaLOnud-Br7YnN06hR8ZKbXV5QG9lqkzVTA",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1,
+        5,
+        15,
+        85
+      ]
+    },
+    "Triple Helix Methodology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Triple Helix": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        5,
+        13,
+        16,
+        42
+      ]
+    },
+    "Stabilization": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Confrontation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        5,
+        24
+      ]
+    },
+    "Unerkennbarkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Hard Canon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        5,
+        9
+      ]
+    },
+    "Tertiary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "trauma-time": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        76
+      ]
+    },
+    "AEGIS": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        14,
+        18,
+        28,
+        30,
+        45,
+        46,
+        54,
+        68,
+        75
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        14,
+        68
+      ]
+    },
+    "Separation Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        14,
+        28
+      ]
+    },
+    "Qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "K\\_1": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        26,
+        75,
+        84
+      ]
+    },
+    "K\\_0": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        26,
+        44,
+        50,
+        55,
+        76,
+        84
+      ]
+    },
+    "Reversible Computation and Symmetry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Irreversible Erasure and the Landauer Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Narrative Mosaic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Gärtner Axiom": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        28
+      ]
+    },
+    "The Gardener": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Living Gödel-Sentence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        18,
+        40,
+        85
+      ]
+    },
+    "Kael": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        13,
+        18,
+        24,
+        28,
+        30,
+        39,
+        40,
+        46,
+        54,
+        60
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        30,
+        38,
+        40,
+        71,
+        82
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Dialetheic Solution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Silas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        83
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Moros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        83
+      ]
+    },
+    "Collapse EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Oblivion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        83
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Algorithmic Melancholy/Paraconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Biography of AEGIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        14,
+        46
+      ]
+    },
+    "narrative entropy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Buffering Capacity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Genesis Trauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Trigger Objects": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "K-Signature": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Trigger-Items": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "ozone": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Nothingness Noise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "anti-light": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "subtle symmetries": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Other Fragment 'O'": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Kael-'O' Symbiose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Permeable Fourth Wall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Golden Sources": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Genesis Log": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Component 734 Perspective": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Finde die Naht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Moonshine-Link Descriptions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Synesthetic Resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Hypotaxis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Parataxis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Lex/AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Nyx/Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        84
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        84
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Maximal-Plotting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        80
+      ]
+    },
+    "Final Fusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Autopoietic Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Resonanz-Kodex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Cybernetic Feedback Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Juna-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Alter-Registry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "dethroned god": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Heroine’s Journey": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Hero’s Journey": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Cyclical Deconstruction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "autopoietic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "Dialetheic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        82
+      ]
+    },
+    "Paraconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Landauer Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Apparently Normal Parts (ANPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    }
+  }
+}
