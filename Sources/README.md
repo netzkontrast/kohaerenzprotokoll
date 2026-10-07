@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 175 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 175 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 176 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 176 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -522,7 +522,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz Protokoll: Narrative Synthese](drive/kohaerenz-protokoll-narrative-synthese.md) | 2025-07-29 | 5,655 | **read** | Nichts-Rauschen 6, Multiplizität 7, Moonshine-Link 4, Algorithmische Melancholie 2, Nyx 7, Alters 6, Lex 5, Selene 2 | Derealization Disorder 6, LessWrong 10, Bell 4, Second-Order 3, Strange Attractors 3 |
 | [Kohärenz Protokoll: Narrativer Bauplan](drive/kohaerenz-protokoll-narrativer-bauplan.md) | 2025-07-29 | 6,555 | **read** | Möglichkeits-Garten 3, Resonanz-Landschaft 5, Grenzfeste 3, Komponente 734 2, Multiplizität 11, LogOS 7, Konstrukt-Stadt 4, Alters 12 | Attempto Controlled English 6, HAL 6, Swamp 4, ACE 2, LNC 2 |
 | [Narrative Architektur für Kohärenz Protokoll](drive/narrative-architektur-fuer-kohaerenz-protokoll.md) | 2025-07-29 | 6,723 |  | Kishōtenketsu 8, Gödel-Gambit 2, Algorithmische Melancholie 2, Multiplizität 4, Guardians 3, TSDP 6, Kern-Welten 5, Emergenz† 5 | Baudrillard 3, Levinas 5, Directory 4, Daoismus 2, Ergodic 3 |
-| [Roman-Konzept und philosophische Fragen](drive/roman-konzept-und-philosophische-fragen.md) | 2025-07-29 | 3,220 |  | Multiplizität 6, Gödel-Gambit 2, Juna 5, TSDP 3, Kern-Welten 3, Kohärenz 12, Überwelt 3, AEGIS 35 | Frame Problem 2, Integrierte Information 2, Ontologischer Exploit 2, LessWrong 2, LFI 3 |
+| [Roman-Konzept und philosophische Fragen](drive/roman-konzept-und-philosophische-fragen.md) | 2025-07-29 | 3,220 | **read** | Multiplizität 6, Gödel-Gambit 2, Juna 5, TSDP 3, Kern-Welten 3, Kohärenz 12, Überwelt 3, AEGIS 35 | Frame Problem 2, Integrierte Information 2, Ontologischer Exploit 2, LessWrong 2, LFI 3 |
 | [Romanarchitektur: Kohärenz Protokoll Finalisierung](drive/romanarchitektur-kohaerenz-protokoll-finalisierung.md) | 2025-07-29 | 5,062 |  | Multiplizität 10, Gödel-Gambit 2, Selene 4, Moonshine-Link 2, Juna 6, Guardians 2, Nyx 3, Kiko 2 | Strange Attractors 6, Yin 4, Lorenz 2, Systemverantwortung 2, LFI 5 |
 | [Als Ihr Narrativer Architekt blicke ich auf das r...](drive/als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md) | 2025-07-30 | 1,419 |  | Rhys 4, Lex 7, Konstrukt-Stadt 2, Kiko 3, Nyx 2, Juna 2, Kael 24, Risse 3 | Akt I 2, KW2 6, Juna/V 8, Cerberus-Labyrinth 2, Riss 4 |
 | [Detaillierte Kapitelübersicht](drive/detaillierte-kapiteluebersicht.md) | 2025-07-30 | 1,295 | **read** | Rhys 3, Konstrukt-Stadt 2, Lex 4, Nyx 3, Juna 2, Kael 23, Risse 2, AEGIS 18 | D2 2, Juna/V 9, Riss 4, KW2 3, Guardian 2 |
