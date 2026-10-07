@@ -332,3 +332,11 @@ Stands as a boundary toward AEGIS and a statement of what crosses; recorded, the
 In the conflict map: „Diese Personas können den“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L232] link, „spüren oder mit ihm interagieren“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L232]. In section 5.1 it asks, and does not answer: „Oder birgt diese externe Resonanz, die AEGIS nicht versteht und bekämpft, auch eigene Risiken oder Kosten“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L316], and „Könnte die Verbindung Forderungen an Kael stellen“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L316].
 
 Stands as a row on who can feel the link and whether it is purely healing; the architecture does not say where the link ends, and decides nothing of the record.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report reads Monstrous Moonshine as a metaphor for the Kael–Juna link, an acausal symmetry orthogonal to AEGIS's logic.**
+
+It says of the novel: „Im Roman dient dies als wissenschaftliche Untermauerung für die Verbindung zwischen Kael und Juna.“ ^[kohaerenz-analyse-kapitel-2.md:L196] (L196) And: „Es ist eine akausale Symmetrie.“ ^[kohaerenz-analyse-kapitel-2.md:L198] AEGIS, it reads, cannot cut it: „AEGIS kann diese Verbindung nicht kappen, weil sie orthogonal zur Systemlogik verläuft.“ ^[kohaerenz-analyse-kapitel-2.md:L198] (L198)
+
+This adds a row to the record and decides nothing in it.
