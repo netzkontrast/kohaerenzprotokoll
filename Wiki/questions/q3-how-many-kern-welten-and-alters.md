@@ -908,3 +908,11 @@ Where it stands in the record's own terms: a proposal of six named alters and fo
 It writes „The registry is hereby standardized to“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L42] 13 Alters, matching „This aligns with the 39-chapter mosaic“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L42]. Silas is merged into Rhys, Moros becomes the „Collapse EP“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L44], and Oblivion „is downgraded to a passive environmental state/landscape within KW2.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L44].
 
 Stands as a row for the alters side of the question; the report decrees, recorded and not applied, and the question stays open.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The reply writes four Kern-Welten with names it proposes itself, and says nothing of alters.**
+
+It describes „Vier primäre simulierte Realitäten, die als Externalisierungen von Kaels Psyche“ ^[welten.md:L77] serve, and lists them under „Die vier Kern-Welten“ ^[welten.md:L78]. Its proposed names (L15–L18) are `Konstrukt-Stadt`, marked „Bestätigt aus Roman“ ^[welten.md:L15], `Resonanz-Nebel`, `Schattenlabyrinth` and `Möglichkeitsstrom`. Each world is paired with one Guardian in the Guardians' list, and the reply gives Sophia no world (L65–L69). The word `Alter` ^[welten.md:#0] does not stand in the reply (a count, not an inference).
+
+Stands on the four-worlds side, with names that differ from those the record's table lists; the correspondence between world and alter is not touched, and the record is not changed.
