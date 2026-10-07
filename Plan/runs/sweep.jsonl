@@ -764,3 +764,6 @@
 {"document": "welten", "page": "kohaerenz", "surface": "Kohärenz", "line": 24, "decision": "occurrence", "why": "the project's name in the heading", "at": "2026-10-07"}
 {"document": "welten", "page": "protokoll-v14", "surface": "Protokoll v1.4", "line": 45, "decision": "reading", "why": "AEGIS evolved at least to Protokoll v1.4/v1.5, read on protokoll-v14", "at": "2026-10-07"}
 {"document": "welten", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 54, "decision": "reading", "why": "the Überwelt as an informational plane of reality, read on realitaetsebenen", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-weltkonzept-synthese", "page": "emergenz", "surface": "Emergenz", "line": 33, "decision": "occurrence", "why": "AEGIS's arising in a heading, read on aegis", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-weltkonzept-synthese", "page": "entropie", "surface": "Entropie", "line": 21, "decision": "reading", "why": "the Potentialmeer's very high entropy, read on entropie", "at": "2026-10-07"}
+{"document": "kohaerenz-protokoll-weltkonzept-synthese", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the project's name in the title", "at": "2026-10-07"}
