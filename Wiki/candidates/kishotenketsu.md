@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -17,6 +17,12 @@ the ending is a synthesis rather than a victory.** Where each part falls in the
 chapters is laid out per source in the plot overview
 ([plot.md](../overview/plot.md)); this page holds what the sources say the structure
 is and does.
+
+## Reading — `narrative-architektur-fuer-kohaerenz-protokoll`, 2025-07-29, the craft handbook — Kael's healing arc structured as Kishōtenketsu
+
+The craft handbook devotes a section to „Strukturierung von Kaels Heilungsbogen als Kishōtenketsu“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L445]; the term stands in the document as `Kishōtenketsu` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#5]. This is a recommendation of form, not a claim about the novel as it stands.
+
+Its Ki is „Einführung in Kaels fragmentierten Zustand unter der totalen Kontrolle von AEGIS.“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L449] The Ten brings an outside element, and the Ketsu has Kael „Er besiegt AEGIS nicht durch einen Kampf, sondern indem er einen Zustand der inneren und äußeren Kohärenz“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L452] reach. A table sets this synthesis-based structure beside the conflict-based three acts, with the Shō applied as „Kael lernt seine Anteile kennen; die Dynamik der Unterdrückung und Vermeidung wird detailliert gezeigt.“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L471]
 
 ## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — the plot follows Kishōtenketsu
 
