@@ -990,3 +990,11 @@ It gives no total beyond the rows, and calls the table a profile of the key alte
 It writes „The eleven identified parts each have distinct roles, motivations, and conflicts“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L89]. It mentions the Kernwelten once: AEGIS uses them as vast Skinner boxes to shape Kael's personality parts; no world is named and no world is tied to a part.
 
 Where it stands in the record's own terms: it answers the alter count at eleven and is silent on the Kernwelt count and the correspondence; the question stays open.
+
+## 2026-10-07 — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible
+
+**The worldbuilding bible lists four Core Worlds and a table of nine key alters, with Selene as Integrator/Self.**
+
+It numbers the worlds KW1 to KW4 and gives each to named parts, for instance „The domain of protectors like Alex and Nyx“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L109]. Its table is introduced as one that „profiles the key alters within System Kael“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L144] and holds nine rows, L149 to L157: Kael, Lex, Rhys, Alex, Selene, Nyx, Kiko, Moros, Isabelle. `Lia` ^[the-coherence-protocol-a-worldbuilding-bible.md:#0] and `Argus` ^[the-coherence-protocol-a-worldbuilding-bible.md:#0] do not stand in the document. Selene is typed „Integrator/Self“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L153].
+
+Where it stands in the record's own terms: four worlds as the domains of parts and nine rows called the key alters, with no total beyond the rows; the question stays open.
