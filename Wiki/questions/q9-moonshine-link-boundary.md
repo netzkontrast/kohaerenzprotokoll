@@ -428,3 +428,11 @@ Stands as a neighbouring description of the edge the question asks about, not an
 „Diese Verbindung wird im Roman als“ ^[analyse-des-kohaerenz-protokolls.md:L176] `Moonshine-Link` named. In the cache reading the system „detektierte die Abweichung (die Resonanz/den Moonshine-Link).“ ^[analyse-des-kohaerenz-protokolls.md:L203] Relaying its sources (the words `Die Dokumente deuten darauf hin`), the report says the link „operiert auf einer Ebene, die AEGIS nicht kontrollieren kann“ ^[analyse-des-kohaerenz-protokolls.md:L267].
 
 The boundary is drawn toward AEGIS only; the report does not say who in Kael's system can feel the link. Stands as a boundary toward AEGIS, detection and no control; recorded, the question stays open.
+
+## 2026-10-07 — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint
+
+**The plot blueprint proposes that the Kael-Juna connection bypasses AEGIS's protocols and is at first invisible to AEGIS; it does not name the Moonshine-Link.**
+
+„Sie umgeht die logikbasierten Protokolle und Überwachungssysteme von AEGIS“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L127]. AEGIS sees it late: „Für AEGIS ist diese Resonanz zunächst unsichtbar“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129]. Its effect is aimed at Kael's psyche, „Ihre Wirkung ist direkt auf Kaels Psyche gerichtet“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129].
+
+Where it stands in the record's own terms: a boundary toward AEGIS only, bypass and initial invisibility; it says nothing of who inside Kael's system can feel it, and the question stays open.
