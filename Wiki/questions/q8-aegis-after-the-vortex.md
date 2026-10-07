@@ -622,3 +622,11 @@ Stands in the record's own terms: a report of the crash and of a plural-tolerant
 It writes: „AEGIS must either evolve its fundamental protocol or suffer a total system collapse“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L204], while „System Kael, now integrated and free“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L204] defines its own identity. Which of the two happens is not stated on that line.
 
 Stands: the guide frames AEGIS's fate as an either-or, not an answer to Q8; recorded, not applied.
+
+## 2026-10-07 — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision
+
+**The subplot revision plans AEGIS's fate in Kap 32 and Kap 36 with the verbs collapse and defeated or changed; it names no Vortex, and no Oblivion.**
+
+In Part 3, Kap 32, `Das System zerfällt`, the line plans that „Kaels/Juna/Vs Aktionen lösen Kollaps AEGIS-Kontrolle aus“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L76]. In Kap 36, `Der Fall des Wächters`, the line reads „AEGIS besiegt/verändert“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L80], followed by „Auflösung Paradoxon“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L80] and „Schicksal Guardians“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L80]. The slash leaves the choice between defeat and change open in the document.
+
+Where it stands: a proposal that AEGIS is defeated or changed in Kap 36, after its control collapses in Kap 32; it answers none of Q8's forms and is recorded, not applied.
