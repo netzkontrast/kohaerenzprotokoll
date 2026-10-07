@@ -1,0 +1,466 @@
+{
+  "document": "roman-synthese-mit-dual-kernel-theorie",
+  "drive_id": "1KLOwuxTJcVuJQDJ7bvN16Ygwdxfg6EXJk3abFJ0b_T8",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-216/brief.md; chapter readings on 39 chapters by the session, from each chapter's title and the first clause of its narrative level, Plan/runs/ingest-216-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 125,
+    "decisions": 126,
+    "decided_by_lookup": 117,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German analysis that applies its Dual-Kernel-Theorie to a 39-chapter plot on four levels: its new surfaces are the four levels, the RTSV cycle and the SIS state, the borrowed physics (Landauer, Bekenstein, Page-Wootters), the Wir-Geflecht and its part names Manager, Nox and Kind; what it says of the novel's world went on existing pages, 39 chapter pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        148
+      ],
+      "attribution": "",
+      "note": "`SIS` expanded as Secure Isolation State at the first collapse"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        24,
+        390,
+        411,
+        413,
+        420,
+        429,
+        433,
+        456,
+        464
+      ],
+      "attribution": "",
+      "note": "AEGIS as the guardian of the coherence kernel's domain, whose Guardians, heat limit and storage limit the analysis reads chapter by chapter"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        19,
+        315,
+        433
+      ],
+      "attribution": "",
+      "note": "the alters as partitioned memory areas, loaded on demand"
+    },
+    {
+      "page": "archiv-der-grenzen",
+      "lines": [
+        156,
+        159
+      ],
+      "attribution": "",
+      "note": "Kapitel 14 titled `Das Archiv der Grenzen`"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        132,
+        415,
+        417,
+        418,
+        419,
+        420,
+        421
+      ],
+      "attribution": "",
+      "note": "one blind spot shared by the Guardians, and what each fails to see"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        419
+      ],
+      "attribution": "",
+      "note": "Cerberus as security protocols in the Grenzfeste that read vulnerability as attack"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        462
+      ],
+      "attribution": "",
+      "note": "Juna as the personified Chaitin-Konstante"
+    },
+    {
+      "page": "did",
+      "lines": [
+        19,
+        152,
+        462
+      ],
+      "attribution": "",
+      "note": "Kael's DID as mirror of the system split and as survival architecture"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        13,
+        17,
+        67,
+        148,
+        215,
+        390,
+        462
+      ],
+      "attribution": "",
+      "note": "the DKT applied to the 39 chapters as the fourth level under each one"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        17,
+        370,
+        411
+      ],
+      "attribution": "",
+      "note": "entropy as the mark of the irreversible kernel, and Juna as AEGIS's `Absolute Entropie`"
+    },
+    {
+      "page": "evaluierungseinheit",
+      "lines": [
+        145,
+        146
+      ],
+      "attribution": "",
+      "note": "the Evaluierungseinheit in Kapitel 13, with the first persona's collapse"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        288,
+        419
+      ],
+      "attribution": "",
+      "note": "the Grenzfeste as place of Kael's confrontation with Nox and of Cerberus's protocols"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        413,
+        415,
+        417,
+        418,
+        419,
+        420,
+        421
+      ],
+      "attribution": "",
+      "note": "five Guardians as AEGIS's filter algorithms, each with a domain"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        53,
+        134,
+        264,
+        406,
+        411,
+        462
+      ],
+      "attribution": "",
+      "note": "Juna as relationality, second-kernel embodiment and personified Chaitin-Konstante"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        37,
+        145,
+        288,
+        342,
+        398,
+        462
+      ],
+      "attribution": "",
+      "note": "Kael as DID system, witness function and conscious architect, read through the Dual-Kernel-Theorie"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        420
+      ],
+      "attribution": "",
+      "note": "Kairos as steward of the creative processes, bounded by AEGIS's probabilities"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        298
+      ],
+      "attribution": "",
+      "note": "the Kernwelten named once, in the collapse of their protective zones"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        13,
+        17,
+        24
+      ],
+      "attribution": "",
+      "note": "the coherence kernel as the reversible, information-preserving substrate"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        13,
+        17,
+        25
+      ],
+      "attribution": "",
+      "note": "the collapse kernel as the kernel of irreversible collapse and entropy"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        17,
+        417,
+        433
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as a hyper-structured environment of the first kernel, guarded by LogOS"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        24,
+        134,
+        306,
+        417
+      ],
+      "attribution": "",
+      "note": "LogOS paired with AEGIS, blind to Juna, silenced in Kapitel 30"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        110,
+        219,
+        418
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as monitor of emotional coherence and manager of the memory streams"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        264,
+        340,
+        344
+      ],
+      "attribution": "",
+      "note": "Mosaik-Herz as Juna in Kapitel 26 and as the title of Kapitel 34"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        316,
+        317
+      ],
+      "attribution": "",
+      "note": "psychic Negentropie as ordered mental energy in Kapitel 31"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        333
+      ],
+      "attribution": "",
+      "note": "the Nexus as a place of retreat in Kapitel 33"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        71,
+        369,
+        370
+      ],
+      "attribution": "",
+      "note": "the `Nichts-Rauschen` as the border of the world in Kapitel 5 and what remains in Kapitel 37"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        143
+      ],
+      "attribution": "",
+      "note": "the collapse of the first persona in Kapitel 13"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        19,
+        429,
+        462
+      ],
+      "attribution": "",
+      "note": "the Risse as heat from erasure, as relief points, and as the breathing pause of reality"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "a deadlock in the subroutine architecture of Sektor 04"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        421
+      ],
+      "attribution": "",
+      "note": "Sophia as the system-immanent wisdom of the Überwelt, reading integration as elimination of deviation"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        421
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the domain of the Guardian Sophia"
+    },
+    {
+      "page": "verschraenkungs-insel",
+      "lines": [
+        331,
+        333
+      ],
+      "attribution": "",
+      "note": "the Verschränkungs-Insel in Kapitel 33 as causal isolation"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name; Zielkohärenz a chapter title, Cache-Inkohärenz the document's word), J12 and J48 (Absolute Entropie on entropie, Psychische Negentropie on negentropie, Dual-Kernel-Theorie on dkt, Nichts-Rauschen on nichts-rauschen); Phaenomena the document's word",
+  "sweep": [
+    {
+      "page": "archiv-der-grenzen",
+      "surface": "Archiv der Grenzen",
+      "line": 154,
+      "decision": "reading",
+      "why": "chapter 14's title, read on archiv-der-grenzen"
+    },
+    {
+      "page": "chaitin-konstante",
+      "surface": "Chaitin-Konstante",
+      "line": 462,
+      "decision": "reading",
+      "why": "Juna as the personified constant, read on chaitin-konstante"
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 13,
+      "decision": "reading",
+      "why": "the analysis applying the DKT, read on dkt"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "decision": "reading",
+      "why": "the kernel of collapse and entropy, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the Protokoll's name"
+    },
+    {
+      "page": "negentropie",
+      "surface": "Negentropie",
+      "line": 317,
+      "decision": "reading",
+      "why": "psychic negentropy, read on negentropie"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 143,
+      "decision": "reading",
+      "why": "decided by the reader on personas"
+    }
+  ],
+  "not_promoted": [
+    "the four levels and the RTSV cycle",
+    "the borrowed physics",
+    "the Wir-Geflecht",
+    "Nox, the Manager and the Kind — on q3",
+    "the reference list"
+  ],
+  "internal_tension": "it says chapters 2 and 14 show that suppressing traumatic memories produces heat (L429), but neither chapter's bullets write Wärme — the heat is tied to erasure in chapter 20 (L213); the export dropped every kernel symbol",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

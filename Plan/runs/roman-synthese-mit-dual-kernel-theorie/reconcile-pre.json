@@ -1,0 +1,677 @@
+{
+  "document": "roman-synthese-mit-dual-kernel-theorie",
+  "step": "reconcile-pre",
+  "at": "2026-10-07",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-07",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 125,
+  "decisions": 126,
+  "same_surface": {},
+  "decided_mechanically": 117,
+  "needs_judgement": 9,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 186
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 172
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 182
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 102
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 116
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 95
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 82
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 73
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 121
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 96
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 111
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 50
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 93
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 140
+      },
+      {
+        "candidate": "Nexus",
+        "page": "nexus",
+        "readings": 29
+      },
+      {
+        "candidate": "Sektor 04",
+        "page": "sektor-04",
+        "readings": 10
+      },
+      {
+        "candidate": "Evaluierungseinheit",
+        "page": "evaluierungseinheit",
+        "readings": 5
+      },
+      {
+        "candidate": "SIS",
+        "page": "aegis-teilfunktionen",
+        "readings": 35
+      },
+      {
+        "candidate": "Nichts-Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 93
+      },
+      {
+        "candidate": "Mosaik-Herz",
+        "page": "mosaik-herz",
+        "readings": 29
+      },
+      {
+        "candidate": "Verschränkungs-Insel",
+        "page": "verschraenkungs-insel",
+        "readings": 6
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 145
+      },
+      {
+        "candidate": "Blinder Fleck",
+        "page": "blinder-fleck",
+        "readings": 17
+      },
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 60
+      },
+      {
+        "candidate": "Kohärenz-Kernel",
+        "page": "kohaerenz-kernel",
+        "readings": 42
+      },
+      {
+        "candidate": "Kollaps-Kernel",
+        "page": "kollaps-kernel",
+        "readings": 39
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 56
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "Manager"
+      },
+      {
+        "candidate": "Kind"
+      },
+      {
+        "candidate": "Möglichkeiten-Garten"
+      },
+      {
+        "candidate": "Lernarchiv Theta-9"
+      },
+      {
+        "candidate": "Einheit 521-Beta"
+      },
+      {
+        "candidate": "Universal Reboot"
+      },
+      {
+        "candidate": "Universal Re-Connecting"
+      },
+      {
+        "candidate": "Rekursive Integritätsprüfung"
+      },
+      {
+        "candidate": "RIVE"
+      },
+      {
+        "candidate": "RTSV"
+      },
+      {
+        "candidate": "Secure Isolation State"
+      },
+      {
+        "candidate": "kognitive Firewall"
+      },
+      {
+        "candidate": "Semantische Firewall"
+      },
+      {
+        "candidate": "Wir-Geflecht"
+      },
+      {
+        "candidate": "Netzwerker"
+      },
+      {
+        "candidate": "Externen Level"
+      },
+      {
+        "candidate": "Resonanz-Protokolls"
+      },
+      {
+        "candidate": "Holographisches Trauma"
+      },
+      {
+        "candidate": "Pixelierung"
+      },
+      {
+        "candidate": "Cache-Verfahren"
+      },
+      {
+        "candidate": "Syntaxfehler"
+      },
+      {
+        "candidate": "Licht scar"
+      },
+      {
+        "candidate": "strukturelle Wunde"
+      },
+      {
+        "candidate": "Messer im Bewusstsein"
+      },
+      {
+        "candidate": "Viren der Unentscheidbarkeit"
+      },
+      {
+        "candidate": "Survival Architecture"
+      },
+      {
+        "candidate": "Receiver of Consciousness"
+      },
+      {
+        "candidate": "Absolute Wahrheit"
+      },
+      {
+        "candidate": "Köln 2026"
+      },
+      {
+        "candidate": "Phantomschmerz der Identität"
+      },
+      {
+        "candidate": "Der Erwachen-Zyklus"
+      },
+      {
+        "candidate": "Narrative Ebene"
+      },
+      {
+        "candidate": "Systemische Ebene"
+      },
+      {
+        "candidate": "Wissenschaftliche Ebene"
+      },
+      {
+        "candidate": "DKT-Ebene"
+      },
+      {
+        "candidate": "K0"
+      },
+      {
+        "candidate": "K1"
+      },
+      {
+        "candidate": "Witness-Funktion"
+      },
+      {
+        "candidate": "Slack"
+      },
+      {
+        "candidate": "Ledger"
+      },
+      {
+        "candidate": "Interface"
+      },
+      {
+        "candidate": "Transzendenz-Vektor"
+      },
+      {
+        "candidate": "mutualer Information"
+      },
+      {
+        "candidate": "Phänomenales Selbstmodell (PSM)"
+      },
+      {
+        "candidate": "PSM"
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung (DID)"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "Anscheinend Normaler Anteil"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Emotionaler Anteil"
+      },
+      {
+        "candidate": "Epistemologische Eskalation"
+      },
+      {
+        "candidate": "Architectural Storytelling"
+      },
+      {
+        "candidate": "Biosemantische Kopplung"
+      },
+      {
+        "candidate": "Interferenzmuster"
+      },
+      {
+        "candidate": "Zeitpfeils"
+      },
+      {
+        "candidate": "Explanatory Gap"
+      },
+      {
+        "candidate": "Harten Problem"
+      },
+      {
+        "candidate": "Landauer-Prinzip"
+      },
+      {
+        "candidate": "Landauer-Limits"
+      },
+      {
+        "candidate": "Bekenstein-Schranke"
+      },
+      {
+        "candidate": "Gödels Unvollständigkeit"
+      },
+      {
+        "candidate": "Halteproblem"
+      },
+      {
+        "candidate": "Turingmaschine"
+      },
+      {
+        "candidate": "Chaitins Konstante"
+      },
+      {
+        "candidate": "Russellsche Antinomie"
+      },
+      {
+        "candidate": "Mengen-Paradoxon"
+      },
+      {
+        "candidate": "Page-Kurve"
+      },
+      {
+        "candidate": "Replica Wormholes"
+      },
+      {
+        "candidate": "Hawking-Strahlung"
+      },
+      {
+        "candidate": "Ereignishorizont"
+      },
+      {
+        "candidate": "Quantenschaum"
+      },
+      {
+        "candidate": "Planck-Barriere"
+      },
+      {
+        "candidate": "Wärmetod"
+      },
+      {
+        "candidate": "Zweite Hauptsatz der Thermodynamik"
+      },
+      {
+        "candidate": "Uncanny-Valley-Ästhetik"
+      },
+      {
+        "candidate": "Tractatus"
+      },
+      {
+        "candidate": "Wittgenstein"
+      },
+      {
+        "candidate": "Kants Kategorien"
+      },
+      {
+        "candidate": "Ding an sich"
+      },
+      {
+        "candidate": "transzendentaler Idealismus"
+      },
+      {
+        "candidate": "Noumena"
+      },
+      {
+        "candidate": "Jaspers"
+      },
+      {
+        "candidate": "Grenzsituationen"
+      },
+      {
+        "candidate": "Heidegger"
+      },
+      {
+        "candidate": "Sartre"
+      },
+      {
+        "candidate": "Wigner"
+      },
+      {
+        "candidate": "Wellenfunktion"
+      },
+      {
+        "candidate": "Prozess-Ontologie"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS v1.4",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS v1.4",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Zielkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Cache-Inkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Absolute Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          }
+        ]
+      },
+      {
+        "candidate": "Psychische Negentropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "negentropie",
+            "page": "negentropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Phaenomena",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "thermodynamischerphaenomenalismus",
+            "page": "thermodynamischer-phaenomenalismus"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "archiv-der-grenzen",
+      "surface": "Archiv der Grenzen",
+      "line": 154,
+      "already_read": false
+    },
+    {
+      "page": "chaitin-konstante",
+      "surface": "Chaitin-Konstante",
+      "line": 462,
+      "already_read": false
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 13,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "already_read": false
+    },
+    {
+      "page": "negentropie",
+      "surface": "Negentropie",
+      "line": 317,
+      "already_read": false
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 143,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

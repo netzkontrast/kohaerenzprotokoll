@@ -1,0 +1,14 @@
+# roman-synthese-mit-dual-kernel-theorie
+  lines                497  (frontmatter ends at 9)
+  body words           4139
+  headings             57   bold-only lines 0
+  table rows           21   code fences 0
+  question marks       0
+  backslash escapes    48
+  typographic marks    104   ascii quotes 0
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    81
+  repeated labels      DKT-Ebene x39, Narrative Ebene x39, Systemische Ebene x39, Wissenschaftliche Ebene x39
+  longest line         906 chars
+
