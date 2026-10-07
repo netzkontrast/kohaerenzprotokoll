@@ -417,3 +417,11 @@ Stands beside the record's rows as one more telling of AEGIS's own split self pr
 On Juna/V it writes: „Possessing a dual nature as both a transcendent entity and“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] an exiled part of Kael's own `Ursprungs-Ich`. On AEGIS it writes that the Genesis-Krise was met when „AEGIS's logic-based system encountered a transcendent, unclassifiable entity“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L38], and that in the `Trennungsprotokoll` the act is an informational dismemberment „where it violently fragmented its own“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L38] `Ursprungs-Ich`. The exposé gives no origin for Kael as a fragment of AEGIS or of an entity M.
 
 Where it stands in the record's own terms: one word, `Ursprungs-Ich`, for two owners, stated in a design exposé and unrelated by it; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis
+
+**The DKT synthesis gives no origin for Kael; it lists Juna as a part of his system, a transcendence vector and interface to the external level.**
+
+In the character table of `Kael: Das multiple Interface` the row reads „Juna | Transzendenz-Vektor“ ^[roman-synthese-mit-dual-kernel-theorie.md:L406], with the interface to the external level in the last cell (a kernel symbol before `Interface` is lost in the export). The section calls Kael „die Witness-Funktion des Gesamtsystems“ ^[roman-synthese-mit-dual-kernel-theorie.md:L398]. It does not say where Kael or the system comes from, and it names neither M, Komponente 734 nor a split self.
+
+Stands: the document takes no side in C16; it adds Juna as a part inside Kael's system, which none of the origins in the record's table says.
