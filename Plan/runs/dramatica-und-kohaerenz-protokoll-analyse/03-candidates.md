@@ -1,0 +1,133 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+World, figures, places, objects, laws
+
+- Kohärenz-Protokoll
+- Kohärenz-Protokolls
+- AEGIS
+- Kael
+- Juna
+- Juna/V
+- Lex
+- Nyx
+- Kiko
+- Selene
+- Dual Kernel Theory
+- DKT
+- Tertiären Strukturellen Dissoziation
+- TSDP
+- Landauer-Prinzip
+- Landauer-Abwärme
+- Risse
+- digitale Abwärme
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- LogOS
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Fortress of Logic
+- Inner Council
+- Mosaic Heart
+- Dance in the Garden
+- Collapse of the Formulas
+- Resonance of the Depth
+- K-J Vector
+- Moonshine resonance
+- Fragment Alpha
+- McL
+- Apparently Normal Part
+- Emotional Parts
+- ANP
+- ANPs
+- Functional Multiplicity
+- amnestischen Barrieren
+- Monster Group
+- Foundation
+- NovelOS
+- Narrative Context Protocol
+- NCP
+- ARCHON-Framework
+- Fabula
+- Syuzhet
+- narrative Entropie
+
+The document's own mechanisms and terms
+
+- Reflexions-Baseline-Mechanismus
+- Restatement-Mechanismus
+- Integritätsprüfungsmechanismus
+- adversarielle Abfragemechanismus
+- Local-Minimum Lock-in
+- Self-Containment
+- RISEN-Framework
+- ReAct-Paradigma
+- Story Mind
+- Physik-Engine
+- Orphan Events
+- Dead Ends
+- Alternative Storyform I
+- Alternative Storyform II
+- Alternative Storyform III
+- Alternative Storyform IV
+- Personal Triumph
+
+## lens
+
+- Dramatica
+- Dramatica-Matrix
+- Quad
+- Dynamic Pairs
+- Companion Pair
+- Dependent Pairs
+- Objective Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Crucial Element
+- Grand Argument Story
+- MC Resolve
+- MC Growth
+- MC Approach
+- OS Problem
+- OS Solution
+- Steadfast
+- Kishōtenketsu
+- Dialetheismus
+- parakonsistente Logik
+- Logics of Formal Inconsistency
+- Kohärenztheorie
+- Korrespondenztheorie
+- Z-Buffer
+- Z-Fighting
+- Grenzsituationen
+- Sein zum Tode
+- Jaspers
+- Heidegger
+- holografische Prinzip
+- Hyperkohärenz
+
+The document's own table entries (class, type, variation, element names) are written in English italics inside the prose and in tables; I list the class and concern labels that stand as the document's mapping of the characters: Universe, Mind, Psychology, Physics, Understanding, Memories, Future, Becoming, Certainty, Truth, Choice, Commitment, Order, Faith, Unproven, Proven, Protection, Proaction. They are listed below one by one.
+
+- Universe
+- Mind
+- Psychology
+- Physics
+- Understanding
+- Memories
+- Future
+- Becoming
+- Certainty
+- Truth
+- Choice
+- Commitment
+- Order
+- Faith
+- Unproven
+- Proven
+- Protection
+- Proaction

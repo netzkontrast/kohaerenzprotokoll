@@ -1,0 +1,14 @@
+# dramatica-und-kohaerenz-protokoll-analyse
+  lines                178  (frontmatter ends at 9)
+  body words           5028
+  headings             14   bold-only lines 0
+  table rows           43   code fences 0
+  question marks       1
+  backslash escapes    194
+  typographic marks    11   ascii quotes 86
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    22
+  repeated labels      Konzept & Design x4, Systemische Evaluation x4
+  longest line         2071 chars
+
