@@ -484,3 +484,17 @@ The handbook states these as its report of the mechanism and as a point to test;
 It writes: „The link between Kael and Juna/V is a non-local, sub-protocol“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L174] Moonshine-Link, and „its sensors are built to detect local, protocol-based data“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L174]. The link is named between Kael and Juna/V only on that line; whether it is exclusive to the pair is not stated there.
 
 Stands: adds a description of the link's relation to AEGIS, not an answer to Q9, which stays open.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing describes the link's kind, not its boundary: non-local, sub-protocol, and invisible to AEGIS.**
+
+> „The connection to Kael is a non-local, sub-protocol phenomenon“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L114]
+
+> „AEGIS is ontologically blind to this link, perceiving its effects only as random system noise“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L114]
+
+> „The link provides Kael with“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L115] gnosis rather than episteme, as the same line has it.
+
+It names the link between Kael and Juna/V only; it names no other bearer of it and says nothing of what crosses.
+
+The question stays open in the record's own terms: this reading adds a description of the link's nature, not a limit.
