@@ -126,3 +126,11 @@ Stands as a new row on the female side of C17, in the report's own words; record
 It reports that the documents it read vary between Kael and the host names Michael or Julia, and then sets: „He uses male pronouns (He/Him) as the default interface“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L131]. On the second host name it decides that „should be deprecated as a primary name“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L133], replaced by Nyx and Kiko.
 
 Stands as one more row for the gender question, Kael male by default in the report's proposed hierarchy; recorded, not applied.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic, an English proposal, names the contradiction over Kael's name and gender in its source documents and settles it for its own blueprint: Kael, male pronouns.**
+
+In its note on canonical identity (L34) it says that developmental source documents „present a contradiction regarding the protagonist's name and gender“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34], and gives the two poles as „Kael (ehem. Michael)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34] and „Kael/Julia“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34]. Its settlement: „For the purpose of narrative consistency, this blueprint establishes the protagonist as Kael, using male pronouns“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34]. In its stories Kael is a male host, for instance „Kael (ANP Host)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L67] in Story 1.
+
+Stands as one more position in the record: a proposal of 2025-11-03 that names the difference and settles it for itself; recorded, not applied.
