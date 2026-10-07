@@ -681,3 +681,13 @@ Where it stands in the record's own terms: four worlds, one inhabitant named and
 In KW1 it writes „AEGIS und sein Wächter LogOS intervenieren hier am deutlichsten“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L43]. For KW3 it proposes „Der Wächter Cerberus könnte hier als Hüter der Grenzen oder Verkörperung der Angst auftreten.“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L45] For KW4 it writes „Der Wächter Kairos, verbunden mit dem rechten Zeitpunkt und der Gelegenheit, könnte hier eine Rolle spielen.“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L46] Mnemosyne is named as a Wächter charged with data collection in the first intervention phase: „Wächter wie LogOS (Logik) und Mnemosyne (Gedächtnis) werden beauftragt, Daten zu sammeln und Analysen durchzuführen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L70]. The document names no Wächter for KW2 in the lines read, and no Sophia.
 
 Where it stands: LogOS, Cerberus and Kairos are tied to worlds, two of them in the modal mood; Mnemosyne is tied to a task, not a world; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint
+
+**The outline names four worlds by labels and sets two Guardian scenes in them, but pairs no Guardian to a world.**
+
+KW1 is the first world: Kael wakes „gefolgt von Kaels Erwachen in der sterilen Konstrukt-Stadt“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L21] (chapter 1). Chapter 7 has Kael enter „Kael betritt unwillentlich die Resonanz-Landschaft“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L51] (KW2) and withdraw into an inner bunker (KW3). In chapter 9 he glimpses KW4: „Er erhascht einen Blick auf“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L61] the Möglichkeiten-Garten.
+
+One Guardian is named, in chapter 15: „Konfrontation mit Guardian Mnemosyne in“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L90] KW2. In chapter 33 Kael uses his new ability „als Waffe gegen einen Guardian“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L130], unnamed and without a world.
+
+Where it stands in the record's own terms: Mnemosyne placed in KW2 by one chapter line, a second Guardian unnamed; the other Guardians and pairings are not in this outline, and the record is untouched.
