@@ -454,3 +454,11 @@ Where it stands in the record's own terms: the Guardians as components of AEGIS 
 **The Guardians are agents under AEGIS's control, not avatars, but localised processes or fields.** The file says „Dies sind spezialisierte Entitäten oder Agenten, die unter AEGIS' Kontrolle stehen“ ^[aegis.md:L143], then „Sie sind keine Avatare“ ^[aegis.md:L143], and continues „sondern lokalisierte, dynamische Prozesse oder Felder, die sich als reine Informationskonstrukte manifestieren“ ^[aegis.md:L143]. It names no other thing they are or are not, and in the same line says their existence is their function.
 
 Where it stands in the record's own terms: the Guardians are placed under AEGIS and apart from avatars, in a file that also names the same names for the Kernwelten (L212); recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis
+
+**The concept synthesis calls the Guardians AEGIS's agents.**
+
+The statement on the five Guardians reads „Spezialisierte AEGIS-Agenten“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24], with „Sie können Zweifel entwickeln und potenziell ihre Loyalität ändern“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. They are agents of AEGIS, with a loyalty that may change.
+
+Stands as an answer to the record's question on the side of agents of AEGIS; recorded, not applied.
