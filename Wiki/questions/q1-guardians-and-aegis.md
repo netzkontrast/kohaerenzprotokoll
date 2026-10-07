@@ -440,3 +440,11 @@ Stands as one more row in the record, a design proposal that places the Guardian
 It repeats the relation where it describes the Überwelt, whose inhabitants are „Primär die Guardians als funktionale Subsysteme von AEGIS“ ^[welten.md:L56], and where it says that they operate from there. It does not discuss peers or a replaced design, and it gives the relation without a hedge.
 
 Stands on the side of components of AEGIS; recorded, not applied, and the record is not decided by it.
+
+## 2026-10-07 — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept
+
+**The final world concept answers with „spezialisierte Subsysteme oder Agenten von AEGIS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43], and offers no choice between the two.**
+
+L43 reads: „Die Guardians sind spezialisierte Subsysteme oder Agenten von AEGIS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43], and they act as „lokale Vollstrecker der AEGIS-Protokolle“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43]. The document's fault-line passage places their blind spots „innerhalb von AEGIS selbst“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L55] (L55).
+
+Where it stands in the record's own terms: the Guardians as components of AEGIS (subsystems or agents), not peers; recorded, not applied, and the question stays open.
