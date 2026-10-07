@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 38
-readings: 38
+sources: 39
+readings: 39
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kuerze-rechercheauftrag-die-architektur-der-seel"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kuerze-rechercheauftrag-die-architektur-der-seel", "kohaerenz-analyse-kapitel-2"]
 gathered: "2026-09-17"
 ---
 
@@ -88,6 +88,14 @@ Its ontology table gives `K₁` „Orte oder Zustände maximaler Ordnung, Inform
 As a pacing rule for the author: „Ein Plot-Strang, der zu lange in“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L47] `K₁` states stays, becomes static; too much `K₀` leads to chaos, so the workflow asks for a rhythmic balance. The report also quotes AEGIS's logic as „Kohärenz durch Negation“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L166] inside a sample prompt, without defining it.
 
 The table is the report's schema for a database, not its statement of canon.
+
+## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — coherence as the reality-integrity variable, and as weaving
+
+The analysis report reads coherence as a quantity: it „dient als operative Variable für die Integrität der Realität.“ ^[kohaerenz-analyse-kapitel-2.md:L39] Falling values have a result: „Wenn die Kohärenzmetriken sinken, entstehen“ ^[kohaerenz-analyse-kapitel-2.md:L39] Risse, which the report calls ontological injuries (L39).
+
+It compares inconsistent states to processor cores: „bricht die Konsistenz zusammen.“ ^[kohaerenz-analyse-kapitel-2.md:L41] (L41), and says the novel's plot is the fight against AEGIS's erasing of divergent perceptions.
+
+In its closing, the report states what it takes to be coherence of the novel: „Die Kohärenz des Romans entsteht nicht durch die Eliminierung von Widersprüchen“ ^[kohaerenz-analyse-kapitel-2.md:L233] and goes on „sondern durch deren kunstvolle Verwebung zu einem komplexen, resonanten Ganzen.“ ^[kohaerenz-analyse-kapitel-2.md:L233] This is the analyst's closing statement, set against what it says AEGIS would do (L233).
 
 ## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — healing called Kohärenz, and a coherence that holds contradictions
 
