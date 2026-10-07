@@ -270,3 +270,11 @@ Stands outside both rows of the record's table: it neither places the level beyo
 The item `Die Externe Ebene (Juna/V)` has the reason „Das Unbekannte außerhalb von AEGIS; Quelle der Verbindung/Hoffnung.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L74]. Among the reasons for the Risse the list names „Grenzen der Simulation.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L75], but it does not connect that to the Externe Ebene.
 
 Stands outside both rows of the record's table: it places the level outside AEGIS, not outside the simulation, and denies nothing; recorded, the record's rows are not changed.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible places the External Level outside AEGIS's control, as a transcendent realm, and does not say whether it lies beyond a simulation.**
+
+It writes: „Two domains exist outside of AEGIS's control and comprehension“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L97], and of the Externe Ebene: „This is a transcendent realm that is the source of the Juna/V connection“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L99]. In the Risse section it calls AEGIS's world a simulated reality: „as tears or glitches in the fabric of AEGIS's simulated reality“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L93].
+
+Stands: the guide gives the External Level as transcendent and uncontrolled by AEGIS; the question of a simulation is not settled by it, recorded, not applied.
