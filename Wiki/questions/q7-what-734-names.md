@@ -346,3 +346,11 @@ Where it stands in the record's own terms: one more answer on what 734 names, an
 The critique lists „die AEGIS-Einheit 734 sowie die nuancierte Rolle von Juna aus der externen Realität“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L27] among the figures left unused. Its character strategy says „Diese spezifische AEGIS-Einheit wird als wiederkehrender, konkreter Antagonist eingeführt, der die unpersönliche und rigide Durchsetzung der Systemregeln repräsentiert“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L57] In the escalation chapter the unit joins the pursuit of Kael: „AEGIS reagiert sofort und brutal: Energiebarrieren werden errichtet, Drohnen schwärmen aus, Einheit 734“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L481] The document connects the number neither to Kael's designation nor to a dwelling.
 
 Where it stands: a further bearer of 734, an AEGIS unit, in a proposal; it changes neither the question nor its status.
+
+## 2026-10-07 — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft
+
+**The chapter-1 draft's prose sketch gives 734 as the protagonist's own unit number in the system; it is not an AEGIS unit, and the draft does not say why the number is 734.**
+
+In scene 4 of the prose sketch the entrance scanner answers Michael (the draft's early name of Kael): „Identität bestätigt. Michael Einheit 734. Zugriff gewährt.“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L257]. The supervisor, `Supervisor Einheit 12`, addresses him by the same number in straight-quoted dialogue. The draft writes no `Komponente 734` and no `Wohneinheit 734`: his dwelling is „Seine Wohneinheit“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L229] with no number.
+
+Where it stands: a further document in which 734 is Kael's own designation, in a working draft that hedges and claims no canon; it changes neither the question nor its status.
