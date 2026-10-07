@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      4
+  backslash escapes      1
+  typographic marks      46
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  kontr    Kontrast, Kontrolle, Kontrollmechanismen, Kontrollparameter, Kontrollstrategie, Kontrollversuchen
+  archi    Architektur, Archivar, Archivars, Archive, Archiven
+  antei    Anteil, Anteile, Anteils
+  fragm    Fragment, Fragmente, Fragmentierung
+  syste    System, Systemfehler, Systems
+  traum    Trauma, Traumaerfahrung, Traumata
+  waffe    Waffe, Waffen, Waffenstillstand
+  bedro    Bedrohung, Bedrohungsanalyse
+  beoba    Beobachter, Beobachtung
+  besch    Beschreibung, Beschützer
+  detai    Detail, Detaillierte
+  diese    Dieser, Dieses
+  direk    Direkte, Direktive
+  eleme    Element, Elementen
+  erinn    Erinnerung, Erinnerungen
+  etabl    Etabliert, Etablierung
+  fehle    Fehler, Fehlerkaskade
+  funda    Fundament, Fundaments
+  funkt    Funktion, Funktionale
+  gesch    Geschichte, Geschmack
+  handl    Handlung, Handlungen
+  infor    Informationen, Informationsblockade
+  insta    Instabilität, Instantiierung
+  intru    Intrusion, Intrusionen
+  kapit    Kapitel, Kapitelübersicht
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Seine
+  Ende < Wendepunkt
+  Kael < Kaels
+  Kern < Kernaxiome
+  Kiko < Kikos
+  Last < Überlastung
+  Meta < Metaphysischer
+  Nach < Nachwirkungen
+  Riss < Risse
+  Riss < Rissen
+  Riss < Zerrissenheit
+  Stil < Stille
+  Stil < Waffenstillstand
+  Welt < Überwelt
+  Axiom < Kernaxiome
+  Blick < Rückblick
+  Natur < Signatur
