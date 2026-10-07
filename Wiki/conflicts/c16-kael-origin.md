@@ -409,3 +409,11 @@ Stands as one more position in the record, on the side of the Ursprungs-Ich: her
 A planning dossier, not a canon claim, and it names no external entity M here. It says: „externalisierte AEGIS es, indem es einen menschlichen Geist nach dem Abbild seiner eigenen Fragmentierung strukturierte“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L50]. Its core sentence has Kael confront the digital god „der ihn nach dem Abbild seines eigenen Traumas erschaffen hat“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L54]. At the midpoint of act II the plan has the truth revealed: „Die Wahrheit wird enthüllt: Kael ist kein“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L155] error in the system, but the system's founding trauma, a living memory of the Genesis-Krise.
 
 Stands beside the record's rows as one more telling of AEGIS's own split self producing Kael; recorded, not applied.
+
+## 2026-10-07 — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé
+
+**The correspondence exposé makes Juna/V an exiled part of Kael's Ursprungs-Ich and has AEGIS fragment its own Ursprungs-Ich; it does not make Kael a fragment of either.**
+
+On Juna/V it writes: „Possessing a dual nature as both a transcendent entity and“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] an exiled part of Kael's own `Ursprungs-Ich`. On AEGIS it writes that the Genesis-Krise was met when „AEGIS's logic-based system encountered a transcendent, unclassifiable entity“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L38], and that in the `Trennungsprotokoll` the act is an informational dismemberment „where it violently fragmented its own“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L38] `Ursprungs-Ich`. The exposé gives no origin for Kael as a fragment of AEGIS or of an entity M.
+
+Where it stands in the record's own terms: one word, `Ursprungs-Ich`, for two owners, stated in a design exposé and unrelated by it; recorded, not applied, and the record's rows are not changed.
