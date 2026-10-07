@@ -463,3 +463,11 @@ Stands, in the record's own terms, as a planned meeting with Juna in Kapitel 3: 
 Kapitel 4, titled „Der Duft von Regen auf trockenem Grund“ ^[detaillierte-kapiteluebersicht.md:L20], is planned as „Die erste, subtile Manifestation der Juna/V-Verbindung“ ^[detaillierte-kapiteluebersicht.md:L20] and the line adds „ein sensorisches Detail, das für AEGIS nicht existiert“ ^[detaillierte-kapiteluebersicht.md:L20] In Kapitel 29 the connection becomes „Die Juna/V-Verbindung wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal“ ^[detaillierte-kapiteluebersicht.md:L55]
 
 Stands as a further placement in the record's terms, dated 2025-07-30: a first subtle manifestation in Kapitel 4, a clear conscious channel in Kapitel 29; recorded, not applied.
+
+## 2026-10-07 — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept
+
+**The part-1 plot concept proposes, hedged, a first trace of Juna in Kap 1 as a failed communication attempt, shown as static.**
+
+For Kap 1 the field reads „Möglicherweise ein fehlgeschlagener Kommunikationsversuch Junas, der sich als statisches Rauschen oder Bildstörung äußert.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L118] The revision principles say that „Junas Interventionen und Kommunikationsversuche werden strategischer an kritischen Plotpunkten platziert“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L90]. The plan places no direct encounter with her in the lines read here; the Kap 1 trace is a possibility, marked by `Möglicherweise`.
+
+Where it stands: a hedged proposal of an early indirect trace, recorded, not applied, and not a direct appearance in the record's terms.
