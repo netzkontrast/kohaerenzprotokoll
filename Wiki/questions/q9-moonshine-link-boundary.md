@@ -372,3 +372,11 @@ Stands as a document that places the link below AEGIS's protocols, in the topolo
 It writes: „AEGIS cannot see the Moonshine Link because AEGIS filters out“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L120] subjective data. The Link lets Juna pass: „It allows Juna (The Anomaly) to bypass AEGIS's logic.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L120] It names the connection „sub-protocol connection“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L120].
 
 Stands as a row on the edge of the Link, seen from AEGIS's side; the question stays open.
+
+## 2026-10-07 — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint
+
+**The locked blueprint defines the link as a shared, non-local state that AEGIS cannot perceive, and draws no boundary for it.**
+
+It writes „The link is not a data transmission but a“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L141] shared state, analogous to quantum entanglement, operating on non-locality, and calls the link one that AEGIS is „definitionally incapable of perceiving“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L139]. Its observable effects are named for Kael and Juna (L145, L146).
+
+Stands as a statement of what the link is from AEGIS's side; whether it reaches beyond Kael and Juna the report does not say.
