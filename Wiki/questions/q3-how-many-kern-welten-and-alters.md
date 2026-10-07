@@ -832,3 +832,13 @@ Stands as a new row beside the record's alter counts: one consolidated table pro
 Each persona has a name line of role and name: „Der Logiker“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L48] (Lex), „Das Kind“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L64] (Kiko), „Der Schatten“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L80] (Nyx), „Der Relationale Anteil“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L96] (Rhys), „Der Kreativ-Intuitive“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L112] (Kai) and „Die Wächterin“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L128] (Selene). The worlds named as dominant are the Konstrukt-Stadt for Lex (L51), the Resonanz-Landschaft for Rhys (L99), the Grenzfeste for Nyx (L83) and the Möglichkeiten-Garten for Kai (L115). The pairing itself is hedged: „Die Verknüpfung der Personas mit spezifischen Kernwelten legt nahe“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142] a design by AEGIS. The Wächterin is, by contrast, „Potenziell in allen Welten präsent“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L131].
 
 Stands as a roster of six personas with four named worlds, offered as a design; it does not say whether this is the count of the novel's alters, and the record is not decided by it.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report names Kael as host and five further alters, Limina, Nox, Praetor, Echo and Oblivion, and mentions Index; a triad forms in Kapitel 2.**
+
+It places Nox in the Grenzfeste: „Nox kooperiert oft unbewusst mit Cerberus“ ^[kohaerenz-analyse-kapitel-2.md:L114] (L114), and Echo in the Resonanz-Landschaft: „Ein Kind-Anteil, der die reine emotionale Last und Angst trägt.“ ^[kohaerenz-analyse-kapitel-2.md:L124] (L124) Oblivion is „Ein katatonischer Anteil, der die schlimmsten Erinnerungen hält.“ ^[kohaerenz-analyse-kapitel-2.md:L125] (L125) Index appears in the cooperation: „Kael nutzt die Logik von Index, die Wut von Praetor und die Sensibilität von Echo situativ.“ ^[kohaerenz-analyse-kapitel-2.md:L131] (L131)
+
+For Kapitel 2 it reports a splitting into a triad of host, protector and trauma-holder: „Um den Schmerz des Verlusts zu überleben, spaltet sich Kael auf.“ ^[kohaerenz-analyse-kapitel-2.md:L168] (L168)
+
+This adds a row to the record and decides nothing in it.
