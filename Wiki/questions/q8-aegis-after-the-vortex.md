@@ -658,3 +658,11 @@ Where it stands: AEGIS persists in a pathological state after the climax, in sto
 The word `Vortex` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#0] does not stand in it (a count). In the act III resolution AEGIS stands „vor einer Wahl“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L166]. The alternatives are „die Wahrheit zu akzeptieren und sich weiterzuentwickeln“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L166] or „einen totalen Systemzusammenbruch zu erleiden“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L166].
 
 Stands as a plan that leaves AEGIS's fate open between two outcomes; recorded, not applied.
+
+## 2026-10-07 — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé
+
+**The correspondence exposé ends AEGIS's story at the climax with a system forced into collapse or transformation, and does not choose between them.**
+
+In its Act III the exposé has Kael confront AEGIS as a living Gödel-Satz, a truth whose nature „cannot be proven or processed“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L98] by AEGIS's logic, „thus forcing the system into collapse or transformation“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L98]. It does not say what AEGIS is afterwards, and it names no successor to its function.
+
+Stands: one more proposal of two outcomes, from an exposé without canon claim; the record's decision of 2026-10-05 is neither applied nor disputed here.
