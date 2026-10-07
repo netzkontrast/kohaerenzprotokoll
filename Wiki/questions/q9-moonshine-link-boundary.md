@@ -506,3 +506,11 @@ The question stays open in the record's own terms: this reading adds a descripti
 It gives „a non-local, sub-protocol connection based on a synthesis of“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L164] Quantum Entanglement and Prehension, and says what the link does for Kael: it „acts as a covert synchronization point for his alters“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L165]. The glossary words it as „The non-local, sub-protocol connection between Kael and Juna/V“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L205]. The text names no other bearer and does not say what crosses; whether it is exclusive to the pair it does not state.
 
 Stands as: the link between two named figures, with its synchronising role for the [[alters]]; the three edges of Q9 — what crosses, who feels it, whose it is — are not addressed. Recorded, not applied; the record is not changed.
+
+## 2026-10-07 — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé
+
+**The correspondence exposé draws one edge of the Moonshine-Link: it carries gnosis and not episteme, so AEGIS cannot intercept it; it does not ask where the boundary lies.**
+
+The exposé writes that the link „does not provide him with“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] episteme, the data-based knowledge „which AEGIS could intercept“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66]. „Instead, it provides“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] gnosis. It names the link only between Juna/V and Kael, and says nothing of who else could feel it or whether it is exclusive.
+
+Stands: a partial answer to what the link carries, in an exposé without canon claim; the question stays open in the record's own terms.
