@@ -1,0 +1,14 @@
+# briefing-document-the-kohaerenz-protokoll-narrative-framewor
+  lines                154  (frontmatter ends at 9)
+  body words           2446
+  headings             19   bold-only lines 0
+  table rows           26   code fences 0
+  question marks       1
+  backslash escapes    68
+  typographic marks    15   ascii quotes 106
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         690 chars
+

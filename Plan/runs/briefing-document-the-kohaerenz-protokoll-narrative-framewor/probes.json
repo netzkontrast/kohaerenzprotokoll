@@ -1,0 +1,168 @@
+{
+  "document": "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+  "drive_id": "1DI54WhWHyPVkqOVtKOnVp8LX-fkmQWaMT9AQvs2EaXc",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 68,
+  "typographic_marks": 15,
+  "ascii_quotes": 106,
+  "inflection_families": {
+    "embod": [
+      "Embodied",
+      "Embodies",
+      "Embodiment"
+    ],
+    "prote": [
+      "Protect",
+      "Protection",
+      "Protector"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "world": [
+      "World",
+      "Worlds",
+      "Worldview"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherons"
+    ],
+    "confr": [
+      "Confrontation",
+      "Confronted"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "execu": [
+      "Execution",
+      "Executive"
+    ],
+    "ident": [
+      "Identify",
+      "Identity"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator"
+    ],
+    "manag": [
+      "Manage",
+      "Management"
+    ],
+    "ratio": [
+      "Rationalism",
+      "Rationalist"
+    ],
+    "sexua": [
+      "Sexualization",
+      "Sexualized"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "theor": [
+      "Theories",
+      "Theory"
+    ],
+    "these": [
+      "These",
+      "Theseus"
+    ],
+    "wavel": [
+      "Wavelet",
+      "Wavelets"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Rage",
+      "Tragedy"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "These",
+      "Theseus"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Worldview"
+    ],
+    [
+      "Manage",
+      "Management"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Protect",
+      "Protector"
+    ],
+    [
+      "Protect",
+      "Protection"
+    ],
+    [
+      "Wavelet",
+      "Wavelets"
+    ],
+    [
+      "Protocol",
+      "Protocols"
+    ],
+    [
+      "Cognitive",
+      "Metacognitive"
+    ],
+    [
+      "Protokoll",
+      "Trennungsprotokoll"
+    ]
+  ]
+}

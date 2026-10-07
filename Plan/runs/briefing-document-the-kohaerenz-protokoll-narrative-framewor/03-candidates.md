@@ -1,0 +1,85 @@
+written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count
+
+The document is English prose with German names in quotation marks (Genesis-Krise, Trennungsprotokoll, Überwelt, Kernwelten, Risse, Das Potentialmeer, Ursprungs-Ich). It is a briefing that synthesizes a narrative framework. K₁ and K₀ are written with subscript characters. The alter table is a flattened markdown table with escaped asterisks around names. Candidates below follow the document's own spelling; the lens list holds borrowed frameworks the document applies.
+
+- Kohärenz Protokoll
+- Protocol Ontology
+- Coherence
+- Collapse
+- K₁
+- K₀
+- Dual Kernel Theory
+- DKT
+- Coherons
+- Protocols
+- Overhead
+- Corrective Wavelets
+- Corrective Wavelet
+- AEGIS
+- Autonomous Entropic Gatekeeper
+- Genesis-Krise
+- Ursprungs-Ich
+- Original Self
+- Das Potentialmeer
+- Trennungsprotokoll
+- Separation Protocol
+- Überwelt
+- Kernwelten
+- Core Worlds
+- Risse
+- Rifts
+- Riss
+- Isolation Objection
+- System Kael
+- Kael
+- Juna/V
+- Juna
+- Moonshine-Link
+- Paraiyas
+- External Level
+- Λ-Canon Synthesis
+- Bill Giannakopoulos
+- Coherence Protocol
+- Void
+- ANP-EP Phobia
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Self
+- functional multiplicity
+- dialetheic mind
+- living Gödel-Satz
+- Stabilization
+- Confrontation
+- Integration
+- Three-Act Trauma Narrative Structure
+- Thematic Duality Matrix
+
+## lens
+
+- Coherence Theory of Truth
+- Correspondence Theory of Truth
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- Internal Family Systems
+- IFS
+- Ship of Theseus paradox
+- Skinner boxes
+- operant conditioning
+- thought reform
+- autopoietic
+- prehension
+- gnosis
+- episteme
+- paraconsistent logic
