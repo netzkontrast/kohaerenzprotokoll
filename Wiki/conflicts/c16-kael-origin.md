@@ -337,3 +337,11 @@ Kael is the Ursprungs-Ich in the conclusion, and the EP in section 5; the report
 **Kael is the fragmentation of M by AEGIS's analysis, and an original fragment, Komponente 734, is a component of AEGIS.** The file says AEGIS's attempt to analyse the Monstergruppe (M) „führt zur Fragmentierung von M in den menschlichen Avatar Kael“ ^[aegis.md:L128]. It places the origin of AEGIS in the Potentialmeer: „Innerhalb dieses feindseligen Rauschens entstand ursprünglich ein minimales Bewusstsein“ ^[aegis.md:L166]. Of the original fragment the file says it was suppressed and turned „in eine bloße funktionale Komponente“ ^[aegis.md:L170], and the same line names it Komponente 734. The file does not connect Komponente 734 with Kael; the two passages stand apart, at L128 and L166 to L170.
 
 Where it stands in the record's own terms: Kael from M (L128) and the original fragment inside AEGIS (L170) are both written, with no link between them, and the question stays open.
+
+## 2026-10-07 — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint
+
+**The plot blueprint proposes Kael's „ursprüngliche Natur“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L54] as the integrative way of being of the `Kohärenz-Insel`; it names no external entity M and no split of AEGIS.**
+
+It writes that his integration actualises „die integrative Seinsweise der Kohärenz-Insel“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L54]. Elsewhere it hedges the same origin: his deepest layers are „die möglicherweise mit seiner Herkunft von der Kohärenz-Insel verbunden sind“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129].
+
+Where it stands in the record's own terms: an origin in the `Kohärenz-Insel`, hedged with `möglicherweise` and proposed to the author; it tells neither of the two origins the record holds, and the question stays open.
