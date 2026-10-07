@@ -684,3 +684,9 @@ Stands on the side of five named Guardians with four pairs, Sophia unpaired and 
 L43 lists them: „Beispiele sind LogOS (KW1 - Konstrukt-Stadt), Mnemosyne (KW2 - Resonanz-Nebel), Cerberus (KW3 - Schattenlabyrinth), Kairos (KW4 - Möglichkeitsstrom)“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43] and then „und möglicherweise eine koordinierende Entität wie Sophia“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43]. The world entries repeat the pairing: „Verwaltet von Guardian LogOS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L72], „Verwaltet von Guardian Mnemosyne“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L73], „Verwaltet von Guardian Cerberus“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L74], „Verwaltet von Guardian Kairos“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L75] (L72–L75). Sophia has no world there.
 
 Stands as four Guardians paired one to one with the four Kernwelten, with a hedged fifth; recorded, not applied, and the conflict stays open.
+
+## 2026-10-07 — `aegis`, 2025-07-29, the AEGIS concept file
+
+**Five Guardians as examples under one heading, and the same names as four Kernwelten under another, Kairos and Sophia joined.** The file lists the Guardians: „Beispiele sind LogOS (Logik), Mnemosyne (Erinnerung/Emotion), Cerberus (Sicherheit), Kairos (Potenzial) und Sophia (Wissen/Synthese)“ ^[aegis.md:L143]. Later it says AEGIS made the Kernwelten with these names: „geschaffen (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[aegis.md:L212]. The file states no pairing of Guardian and world and no count beyond the two lists; the first is introduced as examples.
+
+Where it stands in the record's own terms: five names at L143 and four entries at L212, each list recorded as written; the file chooses neither a count nor a pairing, and the question stays open.
