@@ -1,0 +1,266 @@
+{
+  "document": "the-psychological-mechanics-from-tertiary-structural-dissoci",
+  "drive_id": "1Rz9FuQ4nSIIcnD0Y5HE6hOdXJ_UvXbpc4sxm0kmi4zs",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 47,
+    "decided_by_lookup": 39,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        29,
+        30,
+        31,
+        55
+      ],
+      "attribution": "",
+      "note": "AEGIS as the engine that maintains Kael's fragmentation"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "alters as parts that each emerged with a survival function"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "Cerberus in brackets after the Fortress"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "the Fortress as Kael's defence mechanisms"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "Juna/V named only through Rhys"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        25,
+        44,
+        70,
+        74,
+        82,
+        84
+      ],
+      "attribution": "",
+      "note": "Kael as host ANP of a TSDP system, moving from unawareness to functional multiplicity"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Kairos in a shared bracket with Sophia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        55,
+        57,
+        58,
+        59,
+        60
+      ],
+      "attribution": "",
+      "note": "the Core Worlds as epistemological landscapes of Kael's psyche, designed by AEGIS"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "Kiko as the child/freeze EP"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "the Construct City as the class P"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        45,
+        57
+      ],
+      "attribution": "",
+      "note": "Lex as a primary ANP of logic and control"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "Mnemosyne in brackets after the Resonance Landscape"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "the Garden of Possibility as NP-search"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        66,
+        74,
+        76,
+        84
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as cooperation, not fusion, performed in choric prose"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        46,
+        59
+      ],
+      "attribution": "",
+      "note": "Nyx as the fight-response EP"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "the Resonance Landscape as Dialetheic Koexistenz"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        48,
+        58
+      ],
+      "attribution": "",
+      "note": "Rhys as the caregiver ANP"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        49,
+        60
+      ],
+      "attribution": "",
+      "note": "Selene as the modified ANP/EP and inner helper"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Sophia joined with Kairos in the bracket of the fourth world"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        19,
+        43,
+        82
+      ],
+      "attribution": "",
+      "note": "TSDP as a clinical model turned into a narrative mechanic"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 35,
+      "decision": "reading",
+      "why": "the alters' functional roles, read on alters"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 48,
+      "decision": "reading",
+      "why": "Rhys central to the connection with Juna/V, read on juna"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 60,
+      "decision": "reading",
+      "why": "KW4 as Kairos/Sophia, read on kairos"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "AEGIS's directive in the specification-gaming sentence"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 60,
+      "decision": "reading",
+      "why": "KW4 as Kairos/Sophia, read on sophia"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

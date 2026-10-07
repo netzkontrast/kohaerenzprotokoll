@@ -1,0 +1,42 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      90
+  typographic marks      9
+  ascii quotes           54
+
+# inflection families -- one term, several surfaces
+  analy    Analyse, Analysis, Analyzing
+  consc    Conscious, Consciously, Consciousness
+  funct    Function, Functional, Functions
+  proto    Protocol, Protocols, Protokoll
+  aegis    AEGIS, Aegis
+  alter    Alter, Alters
+  diale    Dialetheic, Dialetheismus
+  disso    Dissociated, Dissociation
+  fragm    Fragmentation, Fragmented
+  integ    Integrated, Integration
+  intro    Introduction, Introject
+  logic    Logic, Logics
+  narra    Narrativ, Narrative
+  phobi    Phobia, Phobias
+  psych    Psyche, Psychological
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Fear < Fears
+  Role < Roles
+  AEGIS < Aegis
+  Alter < Alters
+  Logic < Logics
+  Logic < Psychological
+  World < Worlds
+  Phobia < Phobias
+  Function < Functions
+  Function < Functional
+  Narrativ < Narrative
+  Protocol < Protocols
+  Conscious < Consciously
+  Conscious < Unconscious
+  Conscious < Consciousness
