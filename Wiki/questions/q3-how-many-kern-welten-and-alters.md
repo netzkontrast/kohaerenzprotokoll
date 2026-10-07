@@ -982,3 +982,11 @@ Stands: the handbook reports eleven subsystems and takes no position on whether 
 It numbers the worlds KW1 to KW4, the third a bunker „shaped by the zero-trust principles of“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L88] Alex and Nyx. Its table, introduced as one that „profiles the key alters“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L154], holds Kael, Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus. Kael, Lex, Alex and Rhys are ANPs, Selene is typed „ANP (Integrator?)“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L168], and Argus is „ANP/EP-Mix“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L169]; Nyx, Kiko, Lia, Isabelle and Moros are EPs.
 
 It gives no total beyond the rows, and calls the table a profile of the key alters, so it does not say whether more exist.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing counts eleven identified parts in a table of eleven rows, and lists no Kernwelten.**
+
+It writes „The eleven identified parts each have distinct roles, motivations, and conflicts“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L89]. It mentions the Kernwelten once: AEGIS uses them as vast Skinner boxes to shape Kael's personality parts; no world is named and no world is tied to a part.
+
+Where it stands in the record's own terms: it answers the alter count at eleven and is silent on the Kernwelt count and the correspondence; the question stays open.
