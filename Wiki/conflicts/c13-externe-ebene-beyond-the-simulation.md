@@ -306,3 +306,11 @@ It stands outside both columns of the record's table, as a position the record's
 It states „Two domains exist outside of AEGIS's direct control“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L118], and of the first: „The source of the Juna/V connection“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120], a realm of transcendent reality that „operates on principles AEGIS cannot model or comprehend“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120], standing for „a reality beyond AEGIS's solipsistic prison“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120]. The text does not use the name `Basisrealität` and has no mirror image or reader's world.
 
 Stands as: outside AEGIS's control and beyond its solipsism, which is not the same as the record's beyond-the-simulation or not-outside-it columns; recorded, not applied, and the record is not changed.
+
+## 2026-10-07 — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation
+
+**The AIEOS evaluation describes the external level as the reality of the author and reader in Köln 2026, into which Kael overwrites and the data are exported.**
+
+Its section heading is „Meta-Narrative Eskalation: Datenexport und die Externe Ebene“ ^[charaktermodellierung-mit-aieos-schema.md:L176]. It names the level as „der Realität des Autors/Lesers im Köln des Jahres 2026“ ^[charaktermodellierung-mit-aieos-schema.md:L178], and says of the export: „Der Datenexport in die physikalische Realität verdeutlicht, dass das System des Lesers denselben thermodynamischen und logischen Grenzen“ ^[charaktermodellierung-mit-aieos-schema.md:L178] is subject as the construct. Of Kael: „Wenn Kael in die Realität von“ ^[charaktermodellierung-mit-aieos-schema.md:L180] Köln 2026 overwrites, the schema turns into a metadata protocol of the reader's experience. The report cites its reference 6 for these lines and does not say whether the level lies beyond or inside the simulation.
+
+Stands as a physical reality of the reader, reached by overwriting and export, in the report's own words; recorded, not applied, and the record is not changed.
