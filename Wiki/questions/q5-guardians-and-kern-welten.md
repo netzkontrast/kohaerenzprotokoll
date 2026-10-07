@@ -609,3 +609,11 @@ Stands as one more answer to the pairing, a proposal; nothing is decided.
 Five names: „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[kohaerenz-protokoll-2.md:L66]. Four worlds, each named with its bearer: „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-2.md:L75], „Resonanz-Landschaft (Mnemosyne)“ ^[kohaerenz-protokoll-2.md:L76], „Grenzfeste (Cerberus)“ ^[kohaerenz-protokoll-2.md:L77], „Möglichkeits-Garten (Kairos/Sophia)“ ^[kohaerenz-protokoll-2.md:L78].
 
 Stands with the four-pair position, Kairos and Sophia sharing one world; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report pairs the Guardians with the Kernwelten, one world each for LogOS, Mnemosyne and Cerberus and one for Kairos & Sophia together.**
+
+The headings read „LogOS (Konstrukt-Stadt“ ^[kohaerenz-analyse-kapitel-2.md:L65] (L65), „Mnemosyne (Resonanz-Landschaft“ ^[kohaerenz-analyse-kapitel-2.md:L72] (L72), „Cerberus (Grenzfeste“ ^[kohaerenz-analyse-kapitel-2.md:L79] (L79) and „Kairos & Sophia (Möglichkeits-Garten / Überwelt“ ^[kohaerenz-analyse-kapitel-2.md:L85] (L85), with KW1 to KW4 after the slashes. Two Guardians thus stand under KW4, in one heading.
+
+This adds a row to the question and decides nothing in it.
