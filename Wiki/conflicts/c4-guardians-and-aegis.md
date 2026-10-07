@@ -422,3 +422,11 @@ Stands as a row on AEGIS's sight, not on the Guardians: the architecture speaks 
 It reports: „Die Guardians sind keine eigenständigen KI-Persönlichkeiten, sondern spezialisierte Subroutinen von AEGIS, die abgespalten wurden“ ^[kohaerenz-analyse-kapitel-2.md:L63] (L63), and that they cannot see the anomaly because „Sie operieren innerhalb geschlossener logischer Systeme, während Juna eine externe Variable darstellt.“ ^[kohaerenz-analyse-kapitel-2.md:L63] For them she is noise: „Für die Guardians ist sie Rauschen.“ ^[kohaerenz-analyse-kapitel-2.md:L191] (L191)
 
 This adds a row to the record and decides nothing in it.
+
+## 2026-10-07 — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium
+
+**The compendium gives AEGIS itself a structural blind spot, to the link, and does not name the Guardians as its bearers.**
+
+It writes: „AEGIS ist für die Verbindung strukturell blind“ ^[kohaerenz-protokoll-narrative-synthese.md:L99], because its sensors are built for local, causal, protocol-based transmission, and „Es kann nur die sekundären Effekte“ ^[kohaerenz-protokoll-narrative-synthese.md:L99] register. The line says nothing of the Guardians in this passage.
+
+Stands: one more row for the record's bearer of the blind spot (AEGIS, as the compendium has it); it does not settle whether the bearer is one structure or two.
