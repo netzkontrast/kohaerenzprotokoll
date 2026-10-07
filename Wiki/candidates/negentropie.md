@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 14
-readings: 13
+sources: 15
+readings: 14
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis"]
 gathered: "2026-09-16"
 ---
 
@@ -58,6 +58,10 @@ research reasoned from it rather than concluding it.
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — AEGIS' Negentropie-Fehlinterpretation
 
 The beat sheet writes `Negentropie` only in a compound, once. In the causal link of Kapitel 10-12, AEGIS' reading of Kael's adaptive behaviour as `Entropie` is „eine Schlüsselmanifestation seiner“ ^[finales-kausales-plot-geruest.md:L79] „Negentropie-Fehlinterpretation“ ^[finales-kausales-plot-geruest.md:L79]. The beat sheet does not say what the correct reading would be.
+
+## Reading — `aegis`, 2025-07-29, the AEGIS concept file — the Negentropie-Fehlinterpretation: integration taken for entropy
+
+The AEGIS concept file names a misreading under its own heading, `Negentropie-Fehlinterpretation` (L115). Integration, emotional connection or creative expression, it says, „werden von AEGIS als gefährliche Inkohärenz oder Entropie eingestuft“ ^[aegis.md:L115] and actively fought; the file adds that this makes AEGIS an obstacle to healing and growth. The word `Negentropie` is the file's label for what AEGIS wrongly classes as entropy; it gives no definition of the term.
 
 ## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Psychological Exposé — the misreading named as AEGIS' central flaw
 
