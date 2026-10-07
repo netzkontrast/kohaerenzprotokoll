@@ -1,0 +1,98 @@
+{
+ "toolchain": "leanprover/lean4:v4.24.0",
+ "lean": "Lean (version 4.24.0, x86_64-unknown-linux-gnu, commit 797c613eb9b6d4ec95db23e3e00af9ac6657f24b, Release)",
+ "date": "2026-10-07T07:46:32Z",
+ "allowed_axioms": [
+  "Classical.choice",
+  "Quot.sound",
+  "propext"
+ ],
+ "logs": {
+  "AL-01": {
+   "ok": true,
+   "sha256": "f59b18d758dd212bf2abe14c1b9f1c53457807257cdfda175162f06a25897351",
+   "parts": {
+    "lean": "f7845ce3cf05c65f95fde79bfdd717996ff980169d14737544d6cb973b687838",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434",
+    "Formale Behauptung": "aba8cfc3bdea14e79bd8497c8ca491a1e417ad341e713c23f6e0ac25bc5396c4",
+    "Definitionen und Voraussetzungen": "7cc6cab44c93e3ab5aec54d0ac11dac743b916fa2f4507cec836dbce88ec337a"
+   },
+   "lean": "lean/AL01.lean",
+   "axioms": {
+    "korrektur_schont_bewohner": [
+     "propext"
+    ],
+    "ohne_eingriff_schaden": [],
+    "ohne_eingriff_trifft_0415": [],
+    "mit_eingriff_kein_ueberlauf": [],
+    "mit_eingriff_kein_schaden": [],
+    "entfernt_genau_die_alte_fassung": [],
+    "entfernt_ist_duplikat": [],
+    "begruendung_verloren": []
+   },
+   "problems": []
+  },
+  "AL-02": {
+   "ok": true,
+   "sha256": "497c473db63dba6c622f9466ee8391e42655f9804d1873b9187297875ff0a472",
+   "parts": {
+    "lean": "c867cb6ed8a5e54c6c205b3b0a203cbfff20df1945ca5149a7a2028b77ce05c0",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434",
+    "Formale Behauptung": "870ad9368c37ed62b92388e292937ebca2fd58393a66e133e90e6c763b3deec5",
+    "Definitionen und Voraussetzungen": "02774302d0a44ef7e8423e85f0b82633a7c2c2d93a0d6312428925f51d2c5c59"
+   },
+   "lean": "lean/AL02.lean",
+   "axioms": {
+    "summe_le": [
+     "propext",
+     "Quot.sound"
+    ],
+    "mindestens_betroffen": [
+     "propext",
+     "Quot.sound"
+    ],
+    "urspruenglich_unzulaessig": [
+     "propext"
+    ],
+    "umverteilung_zulaessig": [],
+    "jeder_zulaessige_plan_trifft_sechs": [
+     "propext",
+     "Quot.sound"
+    ],
+    "preis": []
+   },
+   "problems": []
+  },
+  "AL-03": {
+   "ok": true,
+   "sha256": "64231a1fe3b524c6292b7880173a2e965120e8e82851e03e3e79aed0237f8cec",
+   "parts": {
+    "lean": "7f9c19d1147679c2fa261dd229c3c90d87b8895049fb1f2a2169c24bbf77f2a0",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434",
+    "Formale Behauptung": "66330347826d541e2cffed08dd59668a7fada585ad6b00267b26f0f48849e5ed",
+    "Definitionen und Voraussetzungen": "176a96fab33bd3ef13235a705a17ba29f85743089802c316c5a4e0422eede731"
+   },
+   "lean": "lean/AL03.lean",
+   "axioms": {
+    "regel_werte": [
+     "Quot.sound"
+    ],
+    "offenlassen_regel": [],
+    "purge_regel": [],
+    "offenlassen_zulaessig_gdw": [
+     "Quot.sound"
+    ],
+    "purge_zulaessig_gdw": [
+     "Quot.sound"
+    ],
+    "aegis_waehlt_purge": [],
+    "offenlassen_erkannt": [],
+    "offenlassen_verworfen": [],
+    "andere_regel_andere_wahl": [],
+    "widerspruchsfrei_durch_auslassung": [],
+    "purge_schadensfrei_und_trifft_vektor": []
+   },
+   "problems": []
+  }
+ }
+}
