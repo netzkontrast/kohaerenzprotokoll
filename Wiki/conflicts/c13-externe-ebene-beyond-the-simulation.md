@@ -298,3 +298,11 @@ In the record's terms the revision stands with a level outside AEGIS's control, 
 Its measure is AEGIS's comprehension, not the simulation's edge.
 
 It stands outside both columns of the record's table, as a position the record's own terms do not yet hold.
+
+## 2026-10-07 — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible
+
+**The worldbuilding bible places the External Level outside AEGIS's direct control, as transcendent reality, and does not say whether it lies beyond or inside the simulation.**
+
+It states „Two domains exist outside of AEGIS's direct control“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L118], and of the first: „The source of the Juna/V connection“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120], a realm of transcendent reality that „operates on principles AEGIS cannot model or comprehend“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120], standing for „a reality beyond AEGIS's solipsistic prison“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120]. The text does not use the name `Basisrealität` and has no mirror image or reader's world.
+
+Stands as: outside AEGIS's control and beyond its solipsism, which is not the same as the record's beyond-the-simulation or not-outside-it columns; recorded, not applied, and the record is not changed.
