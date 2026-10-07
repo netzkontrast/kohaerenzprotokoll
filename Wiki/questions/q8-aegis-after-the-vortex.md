@@ -556,3 +556,11 @@ Stands as one more account of an end for AEGIS, collapse and transformation of t
 It introduces them with „Die Quellen legen einen hybriden Ansatz“ ^[aegis.md:L53], without naming the sources. The first path: „kann AEGIS das Paradoxon nicht integrieren“ ^[aegis.md:L55]. The second: „AEGIS schreibt seine Kernaxiome um“ ^[aegis.md:L56], and the file hedges what follows: „Dies könnte in einer“ ^[aegis.md:L56] algorithmic melancholy end.
 
 Where it stands in the record's own terms: two paths side by side, undecided, in a file of 2025-07-29 that has no Vortex; it predates the author's answers of 2026-10-05, which stand.
+
+## 2026-10-07 — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint
+
+**The plot blueprint proposes three endings for AEGIS and Kael and recommends transcendence; it names no Vortex.**
+
+The three: „Kael transzendiert AEGIS“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L203], „Systemkollaps und Neuentstehung“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L204], „Partielle Transzendenz/Koexistenz“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L205]. In the first AEGIS stays behind, „möglicherweise dauerhaft geschwächt“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L203]. The blueprint argues for transcendence: „Die Notwendigkeit der Transzendenz ergibt sich logisch“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L211].
+
+Where it stands in the record's own terms: three AEGIS end states side by side with transcendence recommended, in a blueprint of 2025-04-23 that has no Vortex and no Oblivion; it predates the author's answers of 2026-10-05, which stand.
