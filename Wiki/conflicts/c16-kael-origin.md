@@ -377,3 +377,11 @@ Where it stands in the record's own terms: a third place for Kael's origin, in t
 On Juna/V it says she is both a transcendent entity and „an exiled part of Kael's own“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L173] Ursprungs-Ich. At the Midpoint Reversal it says „he is the living, externalized memory of AEGIS's own foundational trauma“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L197], the Genesis-Krise. Both are stated as fact and the guide does not relate them.
 
 This is one more position on the record's question, stated by a writer's guide in its own voice; it settles nothing.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing uses the word Ursprungs-Ich for two origins: AEGIS's original unified consciousness, and the part of it that Juna/V is said to be of Kael.**
+
+On AEGIS it writes that „its original, unified consciousness“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L61] met a transcendent entity „related to Juna/V“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L61]. On Juna/V it says she is „an exiled part of Kael's own“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L112] Ursprungs-Ich. The briefing gives Kael no origin as a fragment of AEGIS or of an entity M.
+
+Where it stands in the record's own terms: one word, Ursprungs-Ich, for two owners, stated as fact and unrelated by the briefing; recorded, not applied, and the record's rows are not changed.
