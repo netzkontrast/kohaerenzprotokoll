@@ -266,10 +266,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 178,
-      "readings": 178,
+      "sources": 180,
+      "readings": 180,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -365,10 +367,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 87,
-      "readings": 87,
+      "sources": 89,
+      "readings": 89,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -565,10 +569,11 @@
         "romanplot-kohaerenz-protokoll-entwickeln",
         "romanentwurf-kohaerenz-protokoll-teil-1",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible"
       ],
-      "sources": 110,
-      "readings": 110,
+      "sources": 111,
+      "readings": 111,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -698,10 +703,11 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 76,
-      "readings": 76,
+      "sources": 77,
+      "readings": 77,
       "conflict": "none"
     },
     "ars": {
@@ -970,10 +976,11 @@
         "project-status-report-kohaerenz-protokoll-canonical-state-st",
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 31,
+      "readings": 31,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -1128,10 +1135,11 @@
         "dramatica-und-kohaerenz-protokoll-analyse",
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible"
       ],
-      "sources": 57,
-      "readings": 57,
+      "sources": 58,
+      "readings": 58,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -1497,10 +1505,11 @@
         "roman-konzept-kael-aegis-simulation",
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots"
+        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
+        "the-coherence-protocol-a-worldbuilding-bible"
       ],
-      "sources": 53,
-      "readings": 53,
+      "sources": 54,
+      "readings": 54,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1668,10 +1677,12 @@
         "aegis",
         "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 86,
-      "readings": 86,
+      "sources": 88,
+      "readings": 88,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1962,10 +1973,11 @@
         "narrative-architektur-fuer-kohaerenz-protokoll",
         "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots"
+        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 120,
-      "readings": 120,
+      "sources": 121,
+      "readings": 121,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2086,10 +2098,12 @@
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 67,
-      "readings": 67,
+      "sources": 69,
+      "readings": 69,
       "conflict": "C15"
     },
     "juna": {
@@ -2268,10 +2282,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 169,
-      "readings": 169,
+      "sources": 171,
+      "readings": 171,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2520,10 +2536,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 181,
-      "readings": 182,
+      "sources": 183,
+      "readings": 184,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2798,10 +2816,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 138,
-      "readings": 137,
+      "sources": 140,
+      "readings": 139,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2927,10 +2947,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 117,
-      "readings": 118,
+      "sources": 119,
+      "readings": 120,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -3497,10 +3519,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 120,
-      "readings": 121,
+      "sources": 122,
+      "readings": 123,
       "conflict": "none"
     },
     "lia": {
@@ -3594,10 +3618,11 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 85,
-      "readings": 85,
+      "sources": 86,
+      "readings": 86,
       "conflict": "C15"
     },
     "logos": {
@@ -4034,10 +4059,12 @@
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 100,
-      "readings": 100,
+      "sources": 102,
+      "readings": 102,
       "conflict": "none"
     },
     "moros": {
@@ -4134,10 +4161,12 @@
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 88,
-      "readings": 88,
+      "sources": 90,
+      "readings": 90,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -4476,10 +4505,12 @@
         "kohaerenz-protokoll-narrative-architektur",
         "narrative-architektur-fuer-kohaerenz-protokoll",
         "ki-roman-architektur-kritische-analyse-methoden",
-        "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to"
+        "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 90,
-      "readings": 90,
+      "sources": 92,
+      "readings": 92,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -4620,10 +4651,12 @@
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 119,
-      "readings": 120,
+      "sources": 121,
+      "readings": 122,
       "conflict": "C10"
     },
     "oblivion": {
@@ -4880,10 +4913,12 @@
         "romanplot-kohaerenz-protokoll-entwickeln",
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 61,
-      "readings": 62,
+      "sources": 63,
+      "readings": 64,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -5128,10 +5163,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 87,
-      "readings": 87,
+      "sources": 89,
+      "readings": 89,
       "conflict": "none"
     },
     "risse": {
@@ -5284,10 +5321,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 142,
-      "readings": 142,
+      "sources": 144,
+      "readings": 144,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -5444,10 +5483,12 @@
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 99,
-      "readings": 99,
+      "sources": 101,
+      "readings": 101,
       "conflict": "none"
     },
     "silas": {
@@ -5775,10 +5816,11 @@
         "kohaerenz-protokoll-architecture-synthesis",
         "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible"
       ],
-      "sources": 56,
-      "readings": 56,
+      "sources": 57,
+      "readings": 57,
       "conflict": "C12, C16"
     },
     "truth-rotation": {
@@ -5939,10 +5981,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
       ],
-      "sources": 115,
-      "readings": 115,
+      "sources": 117,
+      "readings": 117,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -6056,10 +6100,11 @@
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "briefing-document-the-kohaerenz-protokoll-narrative-framewor"
+        "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
+        "the-coherence-protocol-a-worldbuilding-bible"
       ],
-      "sources": 90,
-      "readings": 90,
+      "sources": 91,
+      "readings": 91,
       "conflict": "none yet"
     },
     "vergessener-schrein": {

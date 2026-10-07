@@ -1,0 +1,14 @@
+# the-coherence-protocol-a-proposal-for-a-39-story-narrative-m
+  lines                270  (frontmatter ends at 9)
+  body words           5100
+  headings             11   bold-only lines 26
+  table rows           5   code fences 0
+  question marks       3
+  backslash escapes    91
+  typographic marks    37   ascii quotes 122
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    47
+  repeated labels      Assigned POV x39, Core Concept x39, Narrative Directive x39
+  longest line         1090 chars
+

@@ -1,0 +1,288 @@
+{
+  "document": "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+  "drive_id": "1N6LHcHwPy52CJKVdxQ6ccMdkhCo16DYeI4MPciEnuvc",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 87,
+    "decided_by_lookup": 64,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        51,
+        147,
+        153,
+        233
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic AI, narrated by its own logs, whose cruelty is reenactment"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        39,
+        87
+      ],
+      "attribution": "",
+      "note": "Alex as the protector ANP"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        39,
+        104
+      ],
+      "attribution": "",
+      "note": "Argus as observer, once ANP and once ANP/EP"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        25,
+        153
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as AEGIS's origin-trauma"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        52,
+        147,
+        202,
+        238
+      ],
+      "attribution": "",
+      "note": "Guardians as external observers, loyal, rebel and surviving"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "Isabelle as a sexualized EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        34,
+        52,
+        81,
+        153
+      ],
+      "attribution": "",
+      "note": "Juna/V as a dual entity and narrator, and the Kael/Julia alternative it rejects"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        32,
+        34,
+        67,
+        183,
+        262
+      ],
+      "attribution": "",
+      "note": "Kael as System Kael, a TSDP-modelled host, and a settled name and gender"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        122,
+        123
+      ],
+      "attribution": "",
+      "note": "a Guardian assigned to a logic-based Kernwelt"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        40,
+        83
+      ],
+      "attribution": "",
+      "note": "Kiko as the child EP"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        39,
+        69,
+        116,
+        117,
+        176,
+        221
+      ],
+      "attribution": "",
+      "note": "Lex as the rationalist narrator of several stories"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "Lia as a child EP of ambivalence"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        147,
+        153
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link in Stories 21 and 22"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        40,
+        79,
+        226,
+        227
+      ],
+      "attribution": "",
+      "note": "Moros as the collapse EP, narrator of two stories"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        183
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen named with the Potentialmeer"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        40,
+        73,
+        176
+      ],
+      "attribution": "",
+      "note": "Nyx as the fight part and narrator"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        183
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as the stake of Part 3"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        39,
+        75,
+        134,
+        135,
+        245
+      ],
+      "attribution": "",
+      "note": "Rhys as the caretaker narrator"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "Story 15, a Riss as a glitch in Kael's reality"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        39,
+        89,
+        250
+      ],
+      "attribution": "",
+      "note": "Selene as integrator, with and without a question mark"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        32,
+        67,
+        73,
+        79,
+        81
+      ],
+      "attribution": "",
+      "note": "TSDP as the model of Kael's mind and the core concept of several stories"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C16",
+    "C17"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 52,
+      "decision": "reading",
+      "why": "the Kernwelt Guardians as observers, read on guardians"
+    },
+    {
+      "page": "juna",
+      "surface": "Julia",
+      "line": 34,
+      "decision": "reading",
+      "why": "Kael/Julia as the rejected alternative in the identity note, read on juna"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 107,
+      "decision": "reading",
+      "why": "Story 15's glitch, read on risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 109,
+      "decision": "occurrence",
+      "why": "Simulation Theory, a borrowed concept"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
