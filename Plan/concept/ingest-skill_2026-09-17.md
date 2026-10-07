@@ -221,7 +221,7 @@ optimizer learns from what is in the input — and the survey supplies the
 vocabulary for closing it.
 
 **`truncated` is a field nobody measures.** The manifest carries `truncated` on
-every row and it reads `false` for all 586 <!--state:sources.landed--> landed documents. No script in
+every row and it reads `false` for all 598 <!--state:sources.landed--> landed documents. No script in
 `scripts/` mentions the word; the value came in with the Drive index and has
 never been derived. A field that asserts „this export is complete" without
 anything having checked is worse than no field. The cheap heuristic does not
@@ -255,7 +255,7 @@ nothing to check: `Wiki/` contains zero `[[links]]`". The wiki linked with
 the markup did not mark. What the survey rejected was a model *inferring* edges,
 and it said in the same line that canon links must be **explicit**. Decision 005
 separated the two marks and ran the migration:
-710 <!--state:wiki.relations--> links, 17 <!--state:wiki.orphans--> orphans,
+710 <!--state:wiki.relations--> links, 21 <!--state:wiki.orphans--> orphans,
 822 <!--state:wiki.unmarked--> still unmarked because a quotation may not gain
 markup a source did not have.
 

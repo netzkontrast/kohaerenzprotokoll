@@ -155,7 +155,7 @@ term in prose without marking it — more than three times the marked links.
 standing unmarked in other pages 68 times.
 
 Decision 005 closed it. The wiki now carries 710 <!--state:wiki.relations-->
-links across 106 <!--state:wiki.pages--> pages, 17 <!--state:wiki.orphans-->
+links across 110 <!--state:wiki.pages--> pages, 21 <!--state:wiki.orphans-->
 orphans and 822 <!--state:wiki.unmarked--> mentions the pass may not touch,
 because their first occurrence sits inside a quotation or a citation line.
 
