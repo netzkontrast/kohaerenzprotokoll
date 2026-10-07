@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -114,6 +114,10 @@ The letter says the Grounding-Artefakte are phenomena AEGIS's simulation cannot 
 
 The concept summary gives the foundation as the deepest level of reality: „Die tiefste Realitätsebene ist ein“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L30] process, conceived as a strange attractor; it does not intervene but creates a basin of attraction toward which integrated systems such as Kael strive.
 
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — six reality levels in the dramaturg's blueprint, three entries listed
+
+The dramaturg's blueprint (L115–L238) has a heading, „Die Sechs Realitätsebenen:“ ^[narrativ.md:L173], and under it three numbered entries: the four Kernwelten as „Vier Psychologische Kernwelten (KW1-4)“ ^[narrativ.md:L175], then „Die Digitale Überwelt (AEGIS-Netzwerk)“ ^[narrativ.md:L181], then „Die Externe Ebene“ ^[narrativ.md:L182], which it calls „Eine mysteriöse, dritte Realitätsebene.“ ^[narrativ.md:L182] The three entries as printed are the four worlds, the Überwelt and the Externe Ebene; the blueprint states six levels and lists three entries.
+
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — a deeper Realitätsebene sought beneath AEGIS's simulation
 
 The architecture plan proposes one Realitätsebene beneath the simulation, not several. Its table gives Kapitel 29 the theme „Die Jagd nach einer tieferen, konsistenten Realitätsebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L45]. The Kapitel 29 section calls the Fundament „hypothetischen, tieferen, stabileren Realitätsebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L467], „unterhalb oder jenseits von AEGIS' Simulation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L467], and asks whether reaching it would be a return to the real world, a level where AEGIS's paradoxes dissolve, or a way to create a new reality of one's own. Kapitel 22 asks „Ist alles eine Simulation, die von AEGIS gesteuert wird?“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L365].
@@ -139,6 +143,7 @@ In C-006 the report quotes Doc 42 on one climax approach: „Kael verlässt die 
 ## Where the sources differ
 
 - `welt` (2025-07-29) opens on six levels and, in its second pass, names the Potentialmeer and a „mysteriösen Fundament“ ^[welt.md:L84] beneath them.
+- `narrativ` says „Die Sechs Realitätsebenen“ ^[narrativ.md:L173] and lists three numbered entries, the first holding four Kernwelten; see Q3.
 
 ## Open
 
