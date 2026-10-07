@@ -665,3 +665,11 @@ Stands on the side of a one-to-one pairing, as a proposal to the author; recorde
 The plan, a chat reply, names the Guardians in the AEGIS fields of single chapters: „Mnemosyne (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L58] for the second world, „Cerberus (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L69] for the third, „Kairos/Sophia (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L80] for the fourth and „LogOS (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L91] for the first; the line writes each number. It says nothing of an Erasure-Pol, and its chapter numbers count 30 chapters.
 
 Where it stands: on the side of four pairs with Kairos and Sophia sharing one world, as a proposal in an assistant's outline, not a canon claim; the record's status is not touched.
+
+## 2026-10-07 — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis
+
+**The Dramatica loop analysis names the four core worlds KW1 to KW4 and puts one entity, LogOS, in the first; it names no Guardian for any of them.**
+
+It writes of the first: „KW1 (Logos-Prime) wird von der Entität LogOS bewohnt“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61], and of the second, „KW2 (Mnemosyne-Archipel) ist das Reich der Emotionen“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61]. The third is „KW3 (Cerberus-Labyrinth) visualisiert Hypervigilanz“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61] and the fourth „KW4 (Kairos-Potentialis) verkörpert schließlich Potenzial und Kreativität“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61]. Only the first world has an inhabitant named in the line; the others are described by what they stand for. The analysis maps these worlds onto the psyche in its second loop, whose confirmation rests on data not in the file.
+
+Where it stands in the record's own terms: four worlds, one inhabitant named and no Guardian, in an analysis that proposes a mapping; recorded, not applied, and the question stays open.
