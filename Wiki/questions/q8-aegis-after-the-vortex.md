@@ -540,3 +540,11 @@ Where it stands in the record's own terms: a decree by this report, which does n
 In the plot of phase III, the Gödel-Gambit, Kael confronts AEGIS with the integrated trauma, and the master concept writes: „AEGIS muss kollabieren oder sich erweitern“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L240], adding the label of a paraconsistent transformation. In the logic section it gives the same pair of outcomes: AEGIS „stürzt ab oder muss sich transformieren“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L138]. The master concept offers both as its own synthesis and does not choose between them, nor does it say what AEGIS is afterwards or who takes over its function.
 
 Stands as collapse or expansion, undecided, in a synthesis of 2025-12-05 that has no Vortex; it predates and does not touch the author's answers of 2026-10-05 above, which stand.
+
+## 2026-10-07 — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis
+
+**The protocol analysis ends AEGIS in algorithmic melancholy after the Gödel-Gambit and calls for the protocol to be transcended, not defeated; it names no Vortex and no successor.**
+
+Its account of AEGIS's state is that it can manage contradictions but never resolve them: „AEGIS kann die Widersprüche zwar verwalten“ ^[analyse-des-kohaerenz-protokolls.md:L147] (L147). The Gödel-Gambit ends in „einer fatalen Rekursion“ ^[analyse-des-kohaerenz-protokolls.md:L24] and the system collapses into the melancholy, in which „es weiß alles, versteht aber nichts“ ^[analyse-des-kohaerenz-protokolls.md:L271] (L271). For the novel it holds that the conflict cannot be settled by military victory but by a transformation of the logic: „Das Kohärenz-Protokoll muss nicht besiegt, sondern transzendiert werden“ ^[analyse-des-kohaerenz-protokolls.md:L373] (L373).
+
+Stands as one more account of an end for AEGIS, collapse and transformation of the logic; the question stays as the record has it, and nothing here is applied.
