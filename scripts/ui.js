@@ -525,20 +525,25 @@ class Component extends DCLogic {
     const fin = (j) => ({ key: N.findings[j].f, kind: 'finding', ref: j });
     const logs = (N.logs || []).map((x, i) => ({ x: x, i: i }));
     const logOf = (o) => ({ key: o.x.id, kind: 'log', ref: o.i });
+    const lessons = ((N.logsMeta || {}).lessons || []).map((x, i) => ({ x: x, i: i }));
+    const lessonOf = (o) => ({ key: o.x.id, kind: 'lesson', ref: o.i });
     if (tab === 'chapters') {
       N.chapters.forEach((c) => {
         out.push({ group: 'Kap ' + c.n });
         if (c.readme >= 0) out.push({ key: D.manuscript[c.readme].f, kind: 'draft', ref: c.readme });
         c.drafts.forEach((i) => out.push({ key: D.manuscript[i].f, kind: 'draft', ref: i }));
         logs.filter((o) => o.x.kap === c.n).forEach((o) => out.push(logOf(o)));
+        lessons.filter((o) => o.x.kap === c.n).forEach((o) => out.push(lessonOf(o)));
         if (c.findings.length) {
           out.push({ group: 'Findings on Kap ' + c.n });
           c.findings.forEach((j) => out.push(fin(j)));
         }
       });
-      logs.filter((o) => !N.chapters.some((c) => c.n === o.x.kap)).sort((a, b) => a.x.kap - b.x.kap).forEach((o) => {
-        out.push({ group: 'Kap ' + o.x.kap + ' · AEGIS log, no draft yet' });
-        out.push(logOf(o));
+      const loose = logs.map((o) => ({ o: o, of: logOf })).concat(lessons.map((o) => ({ o: o, of: lessonOf })))
+        .filter((e) => !N.chapters.some((c) => c.n === e.o.x.kap)).sort((a, b) => a.o.x.kap - b.o.x.kap);
+      loose.forEach((e, j) => {
+        if (!j || loose[j - 1].o.x.kap !== e.o.x.kap) out.push({ group: 'Kap ' + e.o.x.kap + ' · no draft yet' });
+        out.push(e.of(e.o));
       });
     } else if (tab === 'cast' || tab === 'world') {
       const kind = tab === 'cast' ? 'figuren' : 'welt';
@@ -555,6 +560,11 @@ class Component extends DCLogic {
         out.push({ group: 'AEGIS — Logs & Beweise' });
         out.push({ key: 'aegis-logs', kind: 'logs', ref: -1 });
         logs.forEach((o) => out.push(logOf(o)));
+      }
+      if (tab === 'cast' && lessons.length) {
+        out.push({ group: 'Lean-Tutorial · Kap 1–3' });
+        out.push({ key: 'lean-tutorial', kind: 'lessons', ref: -1 });
+        lessons.forEach((o) => out.push(lessonOf(o)));
       }
     } else if (tab === 'plot') {
       D.manuscript.forEach((m, i) => { if (m.part === 'plot') out.push({ key: m.f, kind: 'draft', ref: i }); });
@@ -1042,6 +1052,11 @@ class Component extends DCLogic {
             const lg = N.logs[x.ref];
             return item(lg.id, lg.t, 'Kap ' + lg.kap + ' · ' + lg.redaktion + ' · Lean ' + lg.status, on, sel(x.key), lg.status === 'geprüft' ? '#2B4C8C' : '#B0341E');
           }
+          if (x.kind === 'lessons') return item('LT', 'Lean lernen mit Kael', ((N.logsMeta || {}).lessons || []).length + ' lessons · along the outlines of Kap 1–3', on, sel(x.key), '#1C1B18');
+          if (x.kind === 'lesson') {
+            const ls = N.logsMeta.lessons[x.ref];
+            return item(ls.id, ls.t, 'Kap ' + ls.kap + ' · Lean lesson · ' + ls.uebungen.length + ' exercises · Lean ' + ls.status, on, sel(x.key), ls.status === 'geprüft' ? '#2B4C8C' : '#B0341E');
+          }
           if (x.kind === 'ledger') return item('§', 'The canon ledger', N.kanon.length + ' decisions · ' + N.approved.length + ' chapters approved', on, sel(x.key), '#1C1B18');
           const w = N.weichen[x.ref];
           return item(w.id, w.t.replace(/`/g, ''), (w.rec ? 'recommended ' + w.rec + ' · ' : '') + (this.novelDecided(w) ? 'decided' : 'open'), on, sel(x.key), '#B0341E');
@@ -1069,7 +1084,8 @@ class Component extends DCLogic {
           if (c.wiki >= 0) extra.push([['Research'], -1, '', [['p', ['The wiki collects what the sources say. None of it holds here until you decide it: ', ['l', D.pages[c.wiki].t + ' in the wiki', c.wiki], '.']]]]);
           if (c.s === 'aegis' && (N.logs || []).length) {
             extra.unshift([['Logs & Beweise'], -1, '', [['p', ['AEGIS legitimiert Handlungen durch Ableitungen, die Lean prüft — ein Pilot, kein Kanon: ', ['m', 'alle Logs mit ihren Beweisen', 'cast', 'aegis-logs'], '.']],
-              ['ul', N.logs.map((x) => [['m', x.id + ' ' + x.t, 'cast', x.id], ' · Kap ' + x.kap + ' · Redaktion ' + x.redaktion + ' · Lean ' + x.status])]]]);
+              ['ul', N.logs.map((x) => [['m', x.id + ' ' + x.t, 'cast', x.id], ' · Kap ' + x.kap + ' · Redaktion ' + x.redaktion + ' · Lean ' + x.status])]]
+              .concat(((N.logsMeta || {}).lessons || []).length ? [['p', ['Lean dafür lernen: ', ['m', 'Lean lernen mit Kael', 'cast', 'lean-tutorial'], ', drei Lektionen entlang der Outlines von Kap 1–3.']]] : [])]);
           }
           rd = {
             kicker: (c.kind === 'figuren' ? 'Cast' : 'World') + ' · ' + c.f, title: c.t, tsz: 40, hasSub: false, sub: '',
@@ -1096,6 +1112,38 @@ class Component extends DCLogic {
             sub: { schutzmassnahme: 'Eine überzeugende Schutzmaßnahme.', 'umverteilte-loeschung': 'Eine umverteilte Löschung mit menschlichem Preis.', 'verweigerte-alternative': 'Eine erkannte, von AEGIS verweigerte Alternative.' }[x.art] || x.art,
             chips: [this.chip('Redaktion: ' + x.redaktion, x.redaktion === 'freigegeben' ? 'ink' : 'rubric'), this.chip(st[0], st[1]), this.chip('Kap ' + x.kap + ' · Vorschlag'), this.chip(x.kanon.length ? 'canon · ' + x.kanon.join(' ') : 'not canon', x.kanon.length ? 'ink' : 'rubric')],
             secs: this.secs(x.lede, this.logSecs(x, false), uid + '-l' + x.id), maxW: 760, key: 'ml:' + x.id,
+          };
+        } else if (cur && cur.kind === 'lessons') {
+          const T = (N.logsMeta || {}).tutorial || { f: '', lede: [], sec: [] };
+          rd = {
+            kicker: 'Lean-Tutorial · ' + T.f, title: 'Lean lernen mit Kael', tsz: 40, hasSub: true,
+            sub: 'Lean 4 entlang der Dramatica-Outlines von Kap 1–3. Übungsmaterial, kein Kanon; geprüft wie die AEGIS-Logs.',
+            chips: N.logsMeta.lessons.map((x) => this.chip(x.id + ' · Lean ' + x.status, x.status === 'geprüft' ? 'blue' : 'rubric')).concat([this.chip('not canon', 'rubric')]),
+            secs: this.secs(T.lede, T.sec.concat([[['Die Lektionen'], -1, '', [['ul', N.logsMeta.lessons.map((x) => [['m', x.id + ' · ' + x.t, 'cast', x.id], ' · Kap ' + x.kap + ' · ' + x.uebungen.length + ' Übungen'])]]]]), uid + '-lt'),
+            maxW: 760, key: 'mt:all',
+          };
+        } else if (cur && cur.kind === 'lesson') {
+          const x = N.logsMeta.lessons[cur.ref];
+          const st = this.logStatus(x);
+          const open = !!(s.wopen || {})[x.id];
+          const used = [];
+          x.axioms.forEach((a) => (a[1] || []).forEach((n) => { if (used.indexOf(n) < 0) used.push(n); }));
+          const M = N.logsMeta;
+          const formal = x.status === 'geprüft'
+            ? 'geprüft mit ' + (M.toolchain || 'Lean') + (M.date ? ' am ' + M.date.slice(0, 10) : '') + ' · ' + x.theoreme.length + ' Sätze, ' + x.uebungen.length + ' Übungen · Axiome: ' + (used.join(', ') || 'keine')
+            : x.status === 'geändert seit Prüfung' ? 'geändert seit Prüfung — ' + x.changed.map((k) => ({ lean: 'die Lektionsdatei', uebung: 'die Übungsdatei', toolchain: 'die Lean-Version' }[k] || k)).join(', ') + ' weicht vom geprüften Stand ab'
+              : x.status;
+          const head = [[['Status'], -1, '', [['ul', [
+            [['b', 'Redaktion: '], x.redaktion + ' · kein Kanon'],
+            [['b', 'Verifikation: '], formal],
+            [['b', 'Kapitel: '], 'Kap ' + x.kap + ' · Outline aus Plan/storyform/development.json · ', ['m', 'alle Lektionen', 'cast', 'lean-tutorial']],
+          ]], ['tg', 'Lean-Quelltext: Lektion und Übungsdatei', x.id, open]]]];
+          const src = open ? [[[x.id + ' · ' + x.leanF], -1, '', [['pre', x.leanSrc]]], [[x.id + ' · ' + x.uebungF], -1, '', [['pre', x.exSrc]]]] : [];
+          rd = {
+            kicker: 'Lean-Tutorial · ' + x.f, title: x.title || x.t, tsz: 36, hasSub: true,
+            sub: 'Lektion zu Kap ' + x.kap + ': Lean entlang des Outlines. Übungsmaterial, kein Kanon.',
+            chips: [this.chip('Redaktion: ' + x.redaktion, 'rubric'), this.chip(st[0], st[1]), this.chip('Kap ' + x.kap), this.chip(x.uebungen.length + ' Übungen')],
+            secs: this.secs(x.lede, head.concat(x.sec).concat(src), uid + '-lt' + x.id), maxW: 760, key: 'mt:' + x.id,
           };
         } else if (cur && cur.kind === 'ledger') {
           rd = {

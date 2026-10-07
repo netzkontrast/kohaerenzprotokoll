@@ -63,7 +63,8 @@ On the website (not inside a canvas frame) the app keeps its state in the URL:
 `#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3` or `#/questions/agenda`,
 `#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`,
 `#/manuscript/<tab>[/<key>]` (the novel's workspace, decision 024; `#/manuscript/cast/aegis-logs`
-is the AEGIS logs with their Lean proofs, `#/manuscript/cast/AL-01` one of them), and
+is the AEGIS logs with their Lean proofs, `#/manuscript/cast/AL-01` one of them, `#/manuscript/cast/lean-tutorial`
+the Lean tutorial along Kap 1–3, `#/manuscript/cast/LT-01` one lesson), and
 `#/now/session/<id>` — one of the next sessions, opened with its prompt.
 Stable ids, never list positions, so a link survives a rebuild; the back button
 retraces the screens; a hash not starting `#/` is a section anchor and is left alone.
@@ -661,9 +662,23 @@ def aegis_export(md: "Renderer") -> tuple[list, dict]:
                      "leanSrc": x["lean_src"], "title": title, "lede": lede, "read": read, "sec": work})
     readme = aegis_logs.LOGS / "README.md"
     meta = {"lean": ex["lean"], "toolchain": ex["toolchain"], "date": ex["date"],
-            "f": readme.relative_to(ROOT).as_posix(), "t": "", "lede": [], "sec": []}
+            "f": readme.relative_to(ROOT).as_posix(), "t": "", "lede": [], "sec": [], "lessons": [], "tutorial": None}
     if readme.is_file():
         meta["t"], meta["lede"], meta["sec"] = md.sections(readme.read_text(encoding="utf-8"))
+    # the Lean tutorial (Manuscript/aegis-logs/tutorial/): one lesson per chapter, checked like the logs
+    for x in ex["lessons"]:
+        body, _ = subject._split(x["text"])
+        title, lede, secs = md.sections(body)
+        base = aegis_logs.TUTORIAL.relative_to(ROOT).as_posix()
+        meta["lessons"].append({"id": x["id"], "f": x["f"], "t": x["t"], "kap": x["kap"], "redaktion": x["redaktion"],
+                                "leanF": f"{base}/{x['lean']}", "uebungF": f"{base}/{x['uebung']}",
+                                "theoreme": x["theoreme"], "uebungen": x["uebungen"], "status": x["status"],
+                                "changed": x["changed"], "axioms": [[t, x["axioms"].get(t)] for t in x["theoreme"]],
+                                "leanSrc": x["lean_src"], "exSrc": x["ex_src"], "title": title, "lede": lede, "sec": secs})
+    tut = aegis_logs.TUTORIAL / "README.md"
+    if tut.is_file():
+        t, lede, secs = md.sections(tut.read_text(encoding="utf-8"))
+        meta["tutorial"] = {"f": tut.relative_to(ROOT).as_posix(), "t": t, "lede": lede, "sec": secs}
     return logs, meta
 
 
@@ -1058,6 +1073,10 @@ def agent_index(data: dict) -> list[dict]:
     items += [{"kind": "aegis-log", "id": x["id"], "title": f"{x['id']} {x['t']}", "path": x["f"], "lean": x["leanF"],
                "address": f"#/manuscript/cast/{x['id']}", "chapter": x["kap"], "status": x["status"],
                "redaktion": x["redaktion"]} for x in data["novel"].get("logs", [])]
+    items += [{"kind": "lean-lesson", "id": x["id"], "title": f"{x['id']} {x['t']}", "path": x["f"], "lean": x["leanF"],
+               "exercises": x["uebungF"], "address": f"#/manuscript/cast/{x['id']}", "chapter": x["kap"],
+               "status": x["status"], "redaktion": x["redaktion"]}
+              for x in (data["novel"].get("logsMeta") or {}).get("lessons", [])]
     items += [{"kind": "session", "id": x["id"], "title": x["title"], "path": "NOW.md", "address": f"#/now/session/{x['id']}",
                "status": x["status"]} for x in data["sessions"]["sessions"]]
     return items
@@ -1080,7 +1099,7 @@ container without the author's decision.
   with its next step, whether it waits on the author, the files to open first, and a self-contained prompt.
   {n_ready} ready, {n_gated} waiting on the author.
 - [index.json](agents/index.json): {n_items} items (pages, conflicts, questions, records, decisions, drafts,
-  AEGIS logs, sessions), each with its repository path and its address in this app; an AEGIS log also names its
+  AEGIS logs, Lean lessons, sessions), each with its repository path and its address in this app; an AEGIS log also names its
   Lean file, its chapter and both statuses — editorial (`redaktion`) and formal (`status`, measured by
   `scripts/aegis_logs.py`; „geändert seit Prüfung“ when the proof or its claim changed since Lean checked them).
 - [state.json](agents/state.json): every measurement `scripts/state.py` made for this snapshot, with how it was measured.
@@ -1310,6 +1329,20 @@ def check_data(data: dict) -> list[str]:
                 problems.append(f"AEGIS log {x['f']}: claims canon {kid}, which Manuscript/kanon.md does not list")
         if x["status"] == aegis_logs.STATUS_OK and any(a is None for _, a in x["axioms"]):
             problems.append(f"AEGIS log {x['f']}: geprüft, but the record names no axioms for a theorem")
+    lm = novel.get("logsMeta") or {}
+    for x in lm.get("lessons", []):
+        blocks(x["lede"], f"lesson {x['f']}")
+        for sec in x["sec"]:
+            walk(sec[0], f"lesson {x['f']}")
+            blocks(sec[3], f"lesson {x['f']}")
+        if x["status"] not in states:
+            problems.append(f"lesson {x['f']}: verification status {x['status']!r} is none of {', '.join(states)}")
+        if not x["leanSrc"] or not x["exSrc"]:
+            problems.append(f"lesson {x['f']}: its Lean file or its exercise file is empty")
+    if lm.get("tutorial"):
+        blocks(lm["tutorial"]["lede"], "Manuscript/aegis-logs/tutorial/README.md")
+        for sec in lm["tutorial"]["sec"]:
+            blocks(sec[3], "Manuscript/aegis-logs/tutorial/README.md")
     for a in novel.get("approved", []):
         if not (MANUSCRIPT / a).exists():
             problems.append(f"Manuscript/kanon.md: approves {a}, which does not exist")

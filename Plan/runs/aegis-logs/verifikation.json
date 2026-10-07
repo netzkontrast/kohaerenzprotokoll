@@ -1,7 +1,7 @@
 {
  "toolchain": "leanprover/lean4:v4.24.0",
  "lean": "Lean (version 4.24.0, x86_64-unknown-linux-gnu, commit 797c613eb9b6d4ec95db23e3e00af9ac6657f24b, Release)",
- "date": "2026-10-07T07:46:32Z",
+ "date": "2026-10-07T09:57:28Z",
  "allowed_axioms": [
   "Classical.choice",
   "Quot.sound",
@@ -91,6 +91,98 @@
     "andere_regel_andere_wahl": [],
     "widerspruchsfrei_durch_auslassung": [],
     "purge_schadensfrei_und_trifft_vektor": []
+   },
+   "problems": []
+  }
+ },
+ "tutorial": {
+  "LT-01": {
+   "ok": true,
+   "sha256": "22e5229c3c0f5b851b2a080c5430ca3a51552429bcff53335dd8da3111d8f96c",
+   "parts": {
+    "lean": "25aaa38467d1302c357c56daac72e72466bc8a9d0f5e62aa5997c644bddf0e2a",
+    "uebung": "dd0a4e09eb0eab5741ecf6d5e707b2c7ee03831ff8879ab5db23d5f91be618c5",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434"
+   },
+   "lean": "K01.lean",
+   "uebung": "K01_Uebung.lean",
+   "axioms": {
+    "anschluss_ohne_typ": [],
+    "sieben_milliarden": [],
+    "kap1_nicht_richtig": [],
+    "es_fehlen_37": [],
+    "rueckfrage_aendert_nichts": [],
+    "messreihe_joule": [],
+    "bank_hat_typ": [],
+    "anschluss_joule": [],
+    "zwei_rueckfragen": [],
+    "ohne_hand_richtig": []
+   },
+   "problems": []
+  },
+  "LT-02": {
+   "ok": true,
+   "sha256": "40c07c79a973b20e5b7b6a3a850f8af07b7d263dfe30494dd5d619cc73a6cbd6",
+   "parts": {
+    "lean": "ff56fc6555f585bd59905264b1a59662055a5610b5343f4f14ddf238741c9b55",
+    "uebung": "dfd9bafc63e7ce14ac50cd045a55bd76b5f2a88ea70e20c19ffffbd6ff61e1d7",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434"
+   },
+   "lean": "K02.lean",
+   "uebung": "K02_Uebung.lean",
+   "axioms": {
+    "frist_in_stunden": [],
+    "frist_am_abend": [],
+    "rueckfrage_hat_ursache": [],
+    "zeuge_belastet_tamm": [],
+    "wartung_schliesst_nicht": [
+     "propext"
+    ],
+    "zwoelf_minuten_ohne_zeugen": [],
+    "nichts_schliesst": [],
+    "korrigiere_idempotent": [],
+    "fehler_der_wartet": [],
+    "neun_zehntel": [],
+    "hand_erklaert_rueckfrage": [],
+    "ausgang_hat_ursache": [],
+    "und_tauschen": [],
+    "ehrlich_schliesst_auch_nicht": []
+   },
+   "problems": []
+  },
+  "LT-03": {
+   "ok": true,
+   "sha256": "7c4aa95e661f2470adf9ee289ac37123934018c28209638e96c5a81c24b8aa66",
+   "parts": {
+    "lean": "64ce0afbb53588c993686796e15674f152482db4ca72e014e57e48e0e5c26328",
+    "uebung": "089bb1255476c8e3693fe87eb513275d7f391464067ff3590007e192b65de8af",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434"
+   },
+   "lean": "K03.lean",
+   "uebung": "K03_Uebung.lean",
+   "axioms": {
+    "fuss_gleich_kopf": [
+     "propext"
+    ],
+    "ein_stueck_ein_schritt": [
+     "propext"
+    ],
+    "zweihundertneun": [
+     "propext"
+    ],
+    "nach_abgleich_kein_beleg": [
+     "propext"
+    ],
+    "vorher_ein_beleg": [],
+    "nur_er_weiss": [],
+    "fuss_append": [
+     "propext",
+     "Quot.sound"
+    ],
+    "konsole_unveraendert": [],
+    "zwei_stuecke": [
+     "propext"
+    ]
    },
    "problems": []
   }

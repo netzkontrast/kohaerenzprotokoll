@@ -10,6 +10,7 @@ the **formal** status is measured, never typed in.
     python3 scripts/aegis_logs.py verify        # run Lean, ask `#print axioms` for every listed theorem,
                                                 # write Plan/runs/aegis-logs/verifikation.json
     python3 scripts/aegis_logs.py verify --no-write   # the same, writing nothing (CI)
+    python3 scripts/aegis_logs.py exercises     # write each tutorial lesson's exercise file from its lesson file
     python3 scripts/aegis_logs.py selftest      # every check, proved able to fail
 
 `check` needs only the standard library and runs on GitHub with the other checks. `verify` needs the
@@ -22,6 +23,14 @@ comments, and `#print axioms` names only Lean's three standard axioms. The recor
 fingerprint of what the proof verifies: the Lean file, the toolchain, and the log's sections
 „Formale Behauptung“ and „Definitionen und Voraussetzungen“. When any of them changes, the log reads
 `geändert seit Prüfung` until `verify` runs again; the reading version and the reach may change freely.
+
+The Lean tutorial (`Manuscript/aegis-logs/tutorial/`, one lesson per chapter) is held to the same rules.
+A lesson's Lean file carries the worked examples and, after the line `/-! ## Lösungen der Übungen`, the
+solutions; its exercise file is generated from it (`exercises`) — the same file with every solution's
+proof replaced by `sorry` — so the two never drift: `check` fails when an exercise file is stale, and
+`verify` requires the lesson to pass like a log and the exercise file to compile with exactly one
+`sorry` per exercise and no error. A lesson's fingerprint is its Lean file, its exercise file and the
+toolchain; its prose may change without voiding the check.
 """
 
 from __future__ import annotations
@@ -55,6 +64,14 @@ REDAKTION = ["entwurf", "vorgelegt", "freigegeben"]
 FORBIDDEN = ["sorry", "admit", "axiom", "native_decide", "implemented_by", "extern", "unsafe"]
 ALLOWED_AXIOMS = {"propext", "Quot.sound", "Classical.choice"}
 ID = re.compile(r"AL-\d{2}")
+
+TUTORIAL = LOGS / "tutorial"
+LESSON_SECTIONS = ["Die Szene", "Was Lean hier lernt", "Schritt für Schritt", "Übungen",
+                   "Was der Beweis nicht weiß", "Bezug zur Storyform"]
+LESSON_FIELDS = ["id", "titel", "kapitel", "redaktion", "lean", "uebung", "theoreme", "uebungen"]
+LESSON_ID = re.compile(r"LT-\d{2}")
+SOLUTIONS = "/-! ## Lösungen der Übungen"
+EXERCISES = "/-! ## Übungen — ersetze jedes `sorry` durch einen Beweis -/"
 
 STATUS_OK, STATUS_CHANGED, STATUS_NONE, STATUS_FAILED = (
     "geprüft", "geändert seit Prüfung", "ungeprüft", "Prüfung fehlgeschlagen")
@@ -140,8 +157,8 @@ def read_record() -> dict:
         return {}
 
 
-def status(log: dict, record: dict) -> str:
-    entry = (record.get("logs") or {}).get(str(log["meta"].get("id")))
+def status(log: dict, record: dict, key: str = "logs") -> str:
+    entry = (record.get(key) or {}).get(str(log["meta"].get("id")))
     if not entry:
         return STATUS_NONE
     if not entry.get("ok"):
@@ -248,7 +265,156 @@ def check() -> tuple[list[str], list[str]]:
                      f"verifikation {status(log, record)}")
     stale = sorted(set((record.get("logs") or {})) - seen)
     probs += [f"Plan/runs/aegis-logs/verifikation.json names {s}, which no log holds" for s in stale]
+    lessons = all_lessons()
+    if lessons:
+        index = (TUTORIAL / "README.md").read_text(encoding="utf-8") if (TUTORIAL / "README.md").is_file() else ""
+        if "](tutorial/README.md)" not in readme:
+            probs.append("Manuscript/aegis-logs/README.md does not link tutorial/README.md")
+        seen_l = set()
+        for lesson in lessons:
+            lid = str(lesson["meta"].get("id", lesson["f"]))
+            if lid in seen_l:
+                probs.append(f"{lesson['f']}: id {lid} twice")
+            seen_l.add(lid)
+            probs += [f"{lesson['f']}: {p}" for p in lesson_problems(lesson, chapters)]
+            if f"]({lesson['path'].name})" not in index:
+                probs.append(f"Manuscript/aegis-logs/tutorial/README.md does not list {lesson['path'].name}")
+            lines.append(f"{lid}  Kap {lesson['meta'].get('kapitel', '?'):>2}  redaktion {lesson['meta'].get('redaktion', '?'):<11} "
+                         f"verifikation {status(lesson, record, 'tutorial')}")
+        stale = sorted(set((record.get("tutorial") or {})) - seen_l)
+        probs += [f"Plan/runs/aegis-logs/verifikation.json names lesson {s}, which no lesson holds" for s in stale]
     return probs, lines
+
+
+# ---------------------------------------------------------------- the tutorial
+
+def exercises_from(src: str, lesson: str) -> str:
+    """The exercise file of a lesson: the lesson's Lean file with every solution's proof replaced by `sorry`."""
+    head, sep, tail = src.partition(SOLUTIONS)
+    if not sep:
+        return ""
+    _, _, tail = tail.partition("\n")
+    parts = re.split(r"(?m)^(?=theorem )", tail)
+    out = [parts[0]]
+    for part in parts[1:]:
+        statement, _, rest = part.partition(":=")
+        after = re.search(r"(?m)^(?:/-|end )", rest)
+        out.append(statement.rstrip() + " := by\n  sorry\n\n" + (rest[after.start():] if after else ""))
+    note = (f"/- Übungsdatei, erzeugt aus {lesson} von `python3 scripts/aegis_logs.py exercises` — nicht von Hand ändern.\n"
+            f"   Ersetze jedes `sorry` durch einen Beweis; die Lösungen stehen am Ende von {lesson}. -/\n")
+    return note + head + EXERCISES + "\n" + "".join(out)
+
+
+def solutions(src: str) -> list[str]:
+    return theorems(src.partition(SOLUTIONS)[2])
+
+
+def load_lesson(path: Path, root: Path = ROOT) -> dict:
+    text = path.read_text(encoding="utf-8")
+    meta = wiki_index.frontmatter(text)
+    read = lambda rel: (path.parent / rel).read_text(encoding="utf-8") if rel and (path.parent / rel).is_file() else ""  # noqa: E731
+    lean_src, ex_src = read(str(meta.get("lean") or "")), read(str(meta.get("uebung") or ""))
+    toolchain = TOOLCHAIN.read_text(encoding="utf-8") if TOOLCHAIN.is_file() else ""
+    parts = {"lean": lean_src, "uebung": ex_src, "toolchain": toolchain}
+    each = {k: hashlib.sha256(v.encode("utf-8")).hexdigest() for k, v in parts.items()}
+    whole = hashlib.sha256("\n".join(f"{k}:{each[k]}" for k in sorted(each)).encode()).hexdigest()
+    return {"path": path, "f": path.relative_to(root).as_posix(), "text": text, "meta": meta,
+            "lean_src": lean_src, "ex_src": ex_src, "fp": {"sha256": whole, "parts": each}}
+
+
+def all_lessons() -> list[dict]:
+    return [load_lesson(p) for p in sorted(TUTORIAL.glob("lektion-*.md"))] if TUTORIAL.is_dir() else []
+
+
+def lesson_problems(lesson: dict, chapters: set[int]) -> list[str]:
+    out, meta, text = [], lesson["meta"], lesson["text"]
+    for field in LESSON_FIELDS:
+        if field not in meta:
+            out.append(f"no `{field}:` in the front matter")
+    lid, kap = str(meta.get("id", "")), str(meta.get("kapitel", ""))
+    if lid and not LESSON_ID.fullmatch(lid):
+        out.append(f"id {lid!r} is not LT-NN")
+    if kap and (not kap.isdigit() or int(kap) not in chapters):
+        out.append(f"kapitel {kap} has no `### Kap {kap} ` heading in Manuscript/plot/treatment.md")
+    if meta.get("redaktion") not in (None, *REDAKTION):
+        out.append(f"redaktion {meta.get('redaktion')!r} is not one of {', '.join(REDAKTION)}")
+    secs = sections(text)
+    for s in LESSON_SECTIONS:
+        if s not in secs:
+            out.append(f"no section „## {s}“")
+    if [h for h in secs if h in LESSON_SECTIONS] != [s for s in LESSON_SECTIONS if s in secs]:
+        out.append("the six sections are not in their order")
+    for target in re.findall(r"\]\(([^)#\s]+)", text):
+        if not re.match(r"[a-z]+:", target) and not (lesson["path"].parent / target).exists():
+            out.append(f"link {target} points at nothing")
+    for field, src in (("lean", lesson["lean_src"]), ("uebung", lesson["ex_src"])):
+        if meta.get(field) and not src:
+            out.append(f"{field} file {meta[field]} does not exist")
+        elif meta.get(field) and f"]({meta[field]})" not in text:
+            out.append(f"the lesson never links its {field} file {meta[field]}")
+    src = lesson["lean_src"]
+    if src:
+        for t in forbidden(src):
+            out.append(f"{meta.get('lean')} uses `{t}` outside a comment")
+        defined, sols = set(theorems(src)), solutions(src)
+        for t in meta.get("theoreme") or []:
+            if t not in defined:
+                out.append(f"theorem {t} is listed but not defined in {meta.get('lean')}")
+        if SOLUTIONS not in src:
+            out.append(f"{meta.get('lean')} has no line `{SOLUTIONS}`")
+        if list(meta.get("uebungen") or []) != sols:
+            out.append(f"`uebungen:` is not the theorems after the solutions line, in order: {sols}")
+        for t in sols:
+            if f"`{t}`" not in secs.get("Übungen", ""):
+                out.append(f"exercise {t} is never named under „## Übungen“")
+        if lesson["ex_src"] and lesson["ex_src"] != exercises_from(src, Path(str(meta.get("lean"))).name):
+            out.append(f"{meta.get('uebung')} is stale — python3 scripts/aegis_logs.py exercises")
+        if lesson["ex_src"] and [t for t in forbidden(lesson["ex_src"]) if t != "sorry"]:
+            out.append(f"{meta.get('uebung')} uses a forbidden token besides `sorry`")
+    return out
+
+
+def parse_exercise_run(output: str, returncode: int, n: int) -> list[str]:
+    """Problems with one Lean run over an exercise file: it must compile with exactly n sorries."""
+    probs = [ln.strip() for ln in output.splitlines() if re.search(r":\d+:\d+: error", ln)]
+    if returncode:
+        probs.append(f"lean exited {returncode} on the exercise file")
+    found = output.count("declaration uses 'sorry'")
+    if found != n:
+        probs.append(f"the exercise file has {found} sorries, the lesson {n} exercises")
+    return probs
+
+
+def verify_lesson(lesson: dict, lean: Path) -> dict:
+    meta = lesson["meta"]
+    listed = list(meta.get("theoreme") or [])
+    ns = namespace(lesson["lean_src"])
+    static = [p for p in lesson_problems(lesson, treatment_chapters())
+              if "outside a comment" in p or "not defined" in p or "does not exist" in p or "stale" in p]
+    with tempfile.TemporaryDirectory() as tmp:
+        probe = Path(tmp) / Path(str(meta.get("lean"))).name
+        probe.write_text(lesson["lean_src"].rstrip("\n") + "\n\n" +
+                         "".join(f"#print axioms {ns}.{t}\n" for t in listed), encoding="utf-8")
+        proc = subprocess.run([str(lean), str(probe)], capture_output=True, text=True, timeout=600, cwd=tmp)
+        axioms, probs = parse_run(proc.stdout + proc.stderr, proc.returncode, ns, listed)
+        ex = Path(tmp) / Path(str(meta.get("uebung"))).name
+        ex.write_text(lesson["ex_src"], encoding="utf-8")
+        exproc = subprocess.run([str(lean), str(ex)], capture_output=True, text=True, timeout=600, cwd=tmp)
+        probs += parse_exercise_run(exproc.stdout + exproc.stderr, exproc.returncode, len(meta.get("uebungen") or []))
+    probs = static + probs
+    return {"ok": not probs, "sha256": lesson["fp"]["sha256"], "parts": lesson["fp"]["parts"],
+            "lean": meta.get("lean"), "uebung": meta.get("uebung"), "axioms": axioms, "problems": probs}
+
+
+def write_exercises() -> int:
+    for lesson in all_lessons():
+        meta = lesson["meta"]
+        if not (meta.get("lean") and meta.get("uebung") and lesson["lean_src"]):
+            continue
+        target = lesson["path"].parent / str(meta["uebung"])
+        target.write_text(exercises_from(lesson["lean_src"], Path(str(meta["lean"])).name), encoding="utf-8")
+        print(f"wrote {target.relative_to(ROOT)} ({len(solutions(lesson['lean_src']))} exercises)")
+    return 0
 
 
 # ---------------------------------------------------------------- verify
@@ -321,6 +487,17 @@ def verify(write: bool) -> int:
         for p in entry["problems"]:
             print(f"    {p}")
         failed += not entry["ok"]
+    record["tutorial"] = {}
+    for lesson in all_lessons():
+        entry = verify_lesson(lesson, lean)
+        record["tutorial"][str(lesson["meta"].get("id"))] = entry
+        used = sorted({a for v in entry["axioms"].values() for a in v})
+        print(f"{lesson['meta'].get('id')}  {'verified' if entry['ok'] else 'FAILED'}  "
+              f"{len(entry['axioms'])} theorems, {len(lesson['meta'].get('uebungen') or [])} exercises, "
+              f"axioms: {', '.join(used) or 'none'}")
+        for p in entry["problems"]:
+            print(f"    {p}")
+        failed += not entry["ok"]
     if write:
         RECORD.parent.mkdir(parents=True, exist_ok=True)
         RECORD.write_text(json.dumps(record, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
@@ -346,8 +523,21 @@ def export() -> dict:
                     "theoreme": meta.get("theoreme") or [], "status": status(log, record),
                     "changed": changed, "axioms": entry.get("axioms") or {},
                     "lean_src": log["lean_src"], "text": log["text"]})
-    return {"logs": out, "lean": record.get("lean", ""), "toolchain": record.get("toolchain", ""),
-            "date": record.get("date", ""), "readme": "Manuscript/aegis-logs/README.md"}
+    lessons = []
+    for lesson in all_lessons():
+        meta = lesson["meta"]
+        entry = (record.get("tutorial") or {}).get(str(meta.get("id")), {})
+        changed = [k for k, v in (entry.get("parts") or {}).items() if lesson["fp"]["parts"].get(k) != v]
+        lessons.append({"id": meta.get("id"), "f": lesson["f"], "t": meta.get("titel") or meta.get("id"),
+                        "kap": int(meta["kapitel"]) if str(meta.get("kapitel", "")).isdigit() else None,
+                        "redaktion": meta.get("redaktion", ""), "lean": meta.get("lean", ""),
+                        "uebung": meta.get("uebung", ""), "theoreme": meta.get("theoreme") or [],
+                        "uebungen": meta.get("uebungen") or [], "status": status(lesson, record, "tutorial"),
+                        "changed": changed, "axioms": entry.get("axioms") or {},
+                        "lean_src": lesson["lean_src"], "ex_src": lesson["ex_src"], "text": lesson["text"]})
+    return {"logs": out, "lessons": lessons, "lean": record.get("lean", ""), "toolchain": record.get("toolchain", ""),
+            "date": record.get("date", ""), "readme": "Manuscript/aegis-logs/README.md",
+            "tutorial": "Manuscript/aegis-logs/tutorial/README.md"}
 
 
 # ---------------------------------------------------------------- selftest
@@ -422,6 +612,41 @@ def selftest() -> int:
             expect(probs(good), "sorry in the Lean file passes")
         finally:
             TOOLCHAIN = saved
+    lesson_src = ("namespace X\ntheorem a : 1 = 1 := rfl\n\n" + SOLUTIONS + " -/\n\n"
+                  "/-- Übung -/\ntheorem b : 2 = 2 := by\n  rfl\n\ntheorem c (n : Nat) :\n    n = n := rfl\n\nend X\n")
+    ex = exercises_from(lesson_src, "X.lean")
+    expect("theorem a : 1 = 1 := rfl" in ex, "the worked part of a lesson is lost in its exercises")
+    expect("theorem b : 2 = 2 := by\n  sorry" in ex and "theorem c (n : Nat) :\n    n = n := by\n  sorry" in ex,
+           "a solution's statement is not kept with `sorry`")
+    expect("  rfl\n\ntheorem c" not in ex and ex.count("  sorry\n") == 2 and "/-- Übung -/" in ex and ex.rstrip().endswith("end X"),
+           "a solution's proof survives in the exercises, or the docstring or `end` is lost")
+    expect(solutions(lesson_src) == ["b", "c"], "the solutions are not the theorems after the line")
+    expect(exercises_from("theorem a : True := trivial", "X.lean") == "", "a lesson without solutions has exercises")
+    two = "x.lean:3:8: warning: declaration uses 'sorry'\nx.lean:9:8: warning: declaration uses 'sorry'\n"
+    expect(parse_exercise_run(two, 0, 2) == [], "an exercise file with one sorry per exercise has problems")
+    expect(parse_exercise_run(two, 0, 3), "a missing sorry passes")
+    expect(parse_exercise_run(two + "x.lean:4:2: error: unknown identifier\n", 1, 2), "an error in the exercises passes")
+    with tempfile.TemporaryDirectory() as tmp:
+        d = Path(tmp)
+        (d / "X.lean").write_text(lesson_src, encoding="utf-8")
+        (d / "X_U.lean").write_text(ex, encoding="utf-8")
+        good = ("---\nid: LT-09\ntitel: X\nkapitel: 6\nredaktion: entwurf\nlean: X.lean\nuebung: X_U.lean\n"
+                "theoreme: [a, b, c]\nuebungen: [b, c]\n---\n# X\n\n[X](X.lean) [U](X_U.lean)\n\n" + "".join(
+                    f"## {h}\n\n" + ("`b` `c`" if h == "Übungen" else "x") + "\n\n" for h in LESSON_SECTIONS))
+        (d / "lektion-9-x.md").write_text(good, encoding="utf-8")
+
+        def lprobs(text: str) -> list[str]:
+            (d / "lektion-9-x.md").write_text(text, encoding="utf-8")
+            return lesson_problems(load_lesson(d / "lektion-9-x.md", d), {6})
+        expect(lprobs(good) == [], f"a good lesson has problems: {lprobs(good)}")
+        expect(lprobs(good.replace("uebungen: [b, c]", "uebungen: [b]")), "a lesson listing fewer exercises passes")
+        expect(lprobs(good.replace("`b` `c`", "`b`")), "an exercise never named in the lesson passes")
+        expect(lprobs(good.replace("## Bezug zur Storyform", "## Bezug")), "a lesson without its sections passes")
+        (d / "X_U.lean").write_text(ex.replace("sorry", "rfl", 1), encoding="utf-8")
+        expect(any("stale" in p for p in lprobs(good)), "a stale exercise file passes")
+        (d / "X_U.lean").write_text(ex, encoding="utf-8")
+        (d / "X.lean").write_text(lesson_src.replace(":= rfl\n\n" + SOLUTIONS, ":= by sorry\n\n" + SOLUTIONS), encoding="utf-8")
+        expect(any("`sorry`" in p for p in lprobs(good)), "sorry in a lesson file passes")
     for b in bad:
         print(f"FAILED: {b}")
     print(f"aegis_logs selftest: {'held' if not bad else 'FAILED'} ({len(bad)} of the cases failed)")
@@ -434,13 +659,15 @@ def main(argv: list[str]) -> int:
         return selftest()
     if cmd == "verify":
         return verify(write="--no-write" not in argv)
+    if cmd == "exercises":
+        return write_exercises()
     if cmd == "check":
         probs, lines = check()
         for ln in lines:
             print(ln)
         for p in probs:
             print(f"PROBLEM  {p}")
-        print(f"{len(lines)} logs, {len(probs)} problems" + ("" if lean_binary() else " — Lean not installed here; `verify` needs scripts/install.sh lean"))
+        print(f"{len(lines)} logs and lessons, {len(probs)} problems" + ("" if lean_binary() else " — Lean not installed here; `verify` needs scripts/install.sh lean"))
         return 1 if probs else 0
     print(__doc__)
     return 2

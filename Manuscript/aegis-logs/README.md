@@ -11,6 +11,9 @@ Kapitelstelle ist entschieden.
 | AL-02 | [Umverteilung](al-02-umverteilung.md) | Kap 13 | eine umverteilte Löschung mit menschlichem Preis | die Schwelle zählt Bits je Wohneinheit und Fenster, nicht was die Bits sind |
 | AL-03 | [Offenlassen](al-03-offenlassen.md) | Kap 28 | eine erkannte, von AEGIS verweigerte Alternative | Beleg ist nur, was eine messende Quelle sagt; Schaden zählt nur an Bewohnern |
 
+Wer Lean dafür erst lernen will: [Lean lernen mit Kael](tutorial/README.md), ein Tutorial in drei Lektionen entlang
+der Outlines von Kap 1–3, geprüft wie die Logs.
+
 ## Wie ein Log gebaut ist
 
 Jedes Log hat sechs Teile, in dieser Reihenfolge: die **Lesefassung** (so stünde es im Roman), die **formale
