@@ -876,3 +876,11 @@ Its table has the header „Alter Name | TSDP-Klassifikation (Initial)“ ^[roma
 For the Kernwelten it writes „Kernwelt 1 (Logik)“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L218] through „Kernwelt 4 (Potential)“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L221], each transformed into an inner landscape; Kernwelt 4 becomes „kreativen Kern“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L221]. It writes no correspondence between a Kernwelt and an alter.
 
 Stands as a document that gives eight alters in a table and four Kernwelten; it does not decide the record.
+
+## 2026-10-07 — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint
+
+**The locked blueprint tabulates four Core Worlds and six canonical alters.**
+
+Its Core World table names Logos-Prime (classical logic, „Order, Control, Analysis (ANPs like Lex)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L101]), Mnemosyne-Archipel (paraconsistent, „Emotion, Memory, Trauma (EPs like Nyx, Kiko)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L102]), Cerberus-Labyrinth (relevance logic) and Kairos-Potentialis (dialetheic) on L101–L104. Its alter table, „Alter Name (Canonical)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L193], has six rows on L194–L199: Kael, Lex, Nyx, Kiko, Rhys, Selene, and the report says it „consolidates the names and profiles from the various source documents“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L189].
+
+Stands as one more count, four and six, from a report that sets them as canonical; it does not decide the record.
