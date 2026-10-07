@@ -633,10 +633,10 @@ P8): an edge to a page that does not exist, a document no manifest row lands.
 Exports: `--json`, `--graphml`, `--triples`, `--around <term> --hops N
 [--mermaid]`.
 
-**Current counts**: 321 <!--state:graph.nodes--> nodes,
-10385 <!--state:graph.edges--> edges; the evidence layer holds
-20324 <!--state:graph.evidence--> quotations, of which
-20321 <!--state:graph.evidence_verified--> verify against their cited line.
+**Current counts**: 323 <!--state:graph.nodes--> nodes,
+10453 <!--state:graph.edges--> edges; the evidence layer holds
+20482 <!--state:graph.evidence--> quotations, of which
+20479 <!--state:graph.evidence_verified--> verify against their cited line.
 
 **The graph is not a third layer** (P20): it is derived on every call, about
 0.4s, exactly like `Wiki/index.json`, and holds no content a page does not

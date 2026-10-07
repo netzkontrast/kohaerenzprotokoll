@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      83
+  backslash escapes      48
+  typographic marks      35
+  ascii quotes           144
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanpassungen, Systemdiagnose, Systeme, Systemen, Systemfehler, Systemfluktuationen, Systemlogik, Systemmeldung, Systemprotokolle, Systems, Systemschwankung, Systemschwankungen, Systemstabilität, Systemzwang
+  arbei    Arbeit, Arbeiter, Arbeits, Arbeitsanweisung, Arbeitserschöpfung, Arbeitskraft, Arbeitsmetriken, Arbeitsnischen, Arbeitsplatz, Arbeitsplatzes, Arbeitsstation, Arbeitszyklus
+  daten    Daten, Datenflüsse, Datenknotenpunkt, Datenpaket, Datenstrom, Datenstrukturen, Datenströme, Datenströmen, Datenverarbeitung, Datenverarbeitungszentrum
+  emoti    Emotion, Emotional, Emotionale, Emotionalem, Emotionalität, Emotionally, Emotionen, Emotionless, Emotions, Emotionslosigkeit
+  disso    Dissociation, Dissociative, Dissonantem, Dissonanz, Dissoziative, Dissoziativer
+  aufga    Aufgabe, Aufgaben, Aufgabenfortschritt, Aufgabenparameter, Aufgabenprogression
+  dista    Distance, Distancing, Distanz, Distanzierte, Distanzierter
+  fehle    Fehlen, Fehlens, Fehler, Fehlermeldung, Fehlern
+  inter    Interaktion, Interaktionen, Interface, Interfaces, Internal
+  intru    Intrusion, Intrusionen, Intrusionshinweis, Intrusiver, Intrusives
+  senso    Sensoren, Sensorfläche, Sensorik, Sensorische, Sensorischer
+  stadt    Stadt, Stadtblick, Stadtlandschaft, Stadtlichter, Stadtmuster
+  trans    Transit, Transitkorridor, Transitkorridore, Transitwege, Transportkapsel
+  dialo    Dialog, Dialoge, Dialogen, Dialogue
+  effiz    Effizient, Effizienz, Effizienzbewertung, Effizienzgründen
+  fragm    Fragmenten, Fragmentierte, Fragmentierter, Fragmentierung
+  gefüh    Gefühl, Gefühle, Gefühlen, Gefühlskälte
+  handl    Handlung, Handlungen, Handlungsfreiheit, Handlungsimpulse
+  inner    Inner, Innere, Innerem, Innerer
+  korri    Korridor, Korridore, Korridors, Korrigiert
+  morge    Morgen, Morgenprotokoll, Morgenroutine, Morgens
+  psych    Psyched, Psychic, Psycho, Psychology
+  regel    Regel, Regelbasiertheit, Regeln, Regelsysteme
+  verha    Verhalten, Verhaltenshinweise, Verhaltensprotokollen, Verhaltensweisen
+  abend    Abend, Abendprotokoll, Abendroutine
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augen
+  Auge < Augenblick
+  Auge < Augenwinkeln
+  Bild < Bilder
+  Bild < Bildschirm
+  Bild < Spiegelbild
+  Bild < Bildfragment
+  Blau < Blauw
+  Blau < Blaupause
+  Code < Codes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Keine
+  Eine < Seine
+  Eine < Kleine
+  Ende < Beendet
+  Ende < Tendenz
+  Ende < Leuchtende
