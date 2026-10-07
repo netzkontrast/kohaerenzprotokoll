@@ -668,3 +668,11 @@ This adds a row to the record and decides nothing in it.
 The matrix has a Guardian column. Its rows read: Konstrukt-Stadt with LogOS (`KW1`), Resonanz-Landschaft with Mnemosyne (`KW2`), Grenzfeste with Cerberus (`KW3`), and Möglichkeits-Garten with „Kairos/Sophia“ ^[roman-konzept-und-philosophische-fragen.md:L196] (`KW4`). The synthesis says each world shows „die logischen Grenzen ihres jeweiligen Wächter-Systems und von AEGIS selbst aufzeigt“ ^[roman-konzept-und-philosophische-fragen.md:L188].
 
 Stands as a position of five names in four cells, dated 2025-07-29; recorded, not applied, the record stays open.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The world-concept reply names five Guardians, pairs four of them with a Kern-Welt each, and pairs Sophia with none.**
+
+It lists the „Bekannte Guardians und ihre Domänen/Blinden Flecken“ ^[welten.md:L61]: `LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia`. Each of the first four lines ends with `Überwacht primär` ^[welten.md:#4] and one world, the Konstrukt-Stadt (KW1), Resonanz-Nebel (KW2), Schattenlabyrinth (KW3) and Möglichkeitsstrom (KW4). The line on Sophia names no world, and says „Ihre Rolle ist möglicherweise übergreifender als die der anderen vier“ ^[welten.md:L69]. The pairing recurs in the section on the Kern-Welten, where each world's heading carries one Guardian in brackets, for example „KW1: Konstrukt-Stadt“ ^[welten.md:L15] with `LogOS` after it.
+
+Stands on the side of five named Guardians with four pairs, Sophia unpaired and hedged; recorded, not applied, and the record's rows are not changed.
