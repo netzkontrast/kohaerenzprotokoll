@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 30
-readings: 30
+sources: 31
+readings: 31
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -89,6 +89,10 @@ The world-concept reply calls the Überwelt „rein informationsbasierte, abstra
 ## Reading — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint — AEGIS's Realitätsebene as what Kael might transcend
 
 The word stands once, in the final-decision passage: Kael might use his connection to the `Kohärenz-Insel`, „um AEGIS' Realitätsebene vollständig zu transzendieren“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L52]. The blueprint puts this as a question among options, not as a decision.
+
+## Reading — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint — three Realitätsebenen the Moonshine connections might link
+
+The detailed plot blueprint uses `Realitätsebenen` once, in its Monstergruppe paragraph. It proposes that the Moonshine connections could symbolise the K-J connection, which links „scheinbar disparate Realitätsebenen (Kaels Psyche, das Potentialmeer, AEGIS' System)“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It does not number or define a set of levels there; the three named in brackets are the document's own list.
 
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — the level AEGIS maintains, and the deeper one
 
