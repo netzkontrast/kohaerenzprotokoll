@@ -315,3 +315,11 @@ Where it stands in the record's own terms: an origin told from Kael's side, in a
 It sets the conflict as „External Correspondent“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L39] against an exiled part of Kael's „Ursprungs-Ich“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L39], citing two other texts, and resolves: Juna is a dual-natured entity, „simultaneously an external correspondent and an exiled fragment of Kael’s original self“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L40]. This concerns Juna's origin, not Kael's.
 
 Stands as one more row for the origin question, in the report's own terms: a declared both-at-once for Juna; recorded, not applied, and the record is not decided.
+
+## 2026-10-07 — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept
+
+**The final world concept places Kael's origin in a Kohärenz-Insel of the Potentialmeer, not in AEGIS's realities, and names no entity M and no Komponente 734.**
+
+It writes: „stammt nicht aus den von AEGIS simulierten Realitäten, sondern von einer einzigartigen Struktur im Potentialmeer, bekannt als Kohärenz-Insel“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L62], with a question mark after `menschliche` in its own line. It adds that the origin „ist nicht nur Hintergrundgeschichte“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L84]. Its section on the island says it is Kael's place of origin: „Kaels Herkunftsort“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L92].
+
+Stands as a further origin set beside the record's nine: a Kohärenz-Insel, a structure of the Potentialmeer; recorded, not applied.
