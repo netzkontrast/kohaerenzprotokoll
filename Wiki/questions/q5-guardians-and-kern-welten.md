@@ -641,3 +641,11 @@ Stands on the side of one Guardian per world for four worlds, with Sophia's role
 L43 says the Guardians are each responsible for „die Verwaltung einer der Kernwelten“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43]. The four world entries (L72–L75) each close with the manager: „Verwaltet von Guardian LogOS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L72], „Verwaltet von Guardian Mnemosyne“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L73], „Verwaltet von Guardian Cerberus“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L74], „Verwaltet von Guardian Kairos“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L75]. Sophia is named as possibly coordinating, not as a world's Guardian.
 
 Where it stands in the record's own terms: one Guardian to one Kernwelt; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `the-psychological-mechanics-from-tertiary-structural-dissoci`, 2025-11-03, the TSDP mechanics report
+
+**The TSDP mechanics report puts a name in brackets after each of the four Core Worlds and calls none of them a Guardian.**
+
+It lists „The Construct City (Logos-Prime)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L57], „The Resonance Landscape (Mnemosyne)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L58], „The Fortress (Cerberus)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L59] and „The Garden of Possibility (Kairos/Sophia)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L60]. The fourth bracket holds two names. The report does not say what the bracketed names are, and it names no Guardians.
+
+Where it stands in the record's own terms: four worlds with bracketed names, no stated relation to Guardians; recorded, not applied, and the question stays open.
