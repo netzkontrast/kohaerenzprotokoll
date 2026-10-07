@@ -657,3 +657,11 @@ Where it stands in the record's own terms: four worlds with bracketed names, no 
 It writes: „Die spezialisierten Guardians, die jeweils eine Kernwelt überwachen“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], with LogOS at KW1, Mnemosyne at KW2, Cerberus at KW3 and Kairos at KW4. Its table of the worlds gives each world a Guardian column.
 
 Stands on the side of a one-to-one pairing, as a proposal to the author; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan
+
+**The [[kishotenketsu|Kishōtenketsu]] plan proposes one Wächter per world, with Kairos and Sophia sharing the fourth, in its 30-chapter outline.**
+
+The plan, a chat reply, names the Guardians in the AEGIS fields of single chapters: „Mnemosyne (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L58] for the second world, „Cerberus (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L69] for the third, „Kairos/Sophia (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L80] for the fourth and „LogOS (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L91] for the first; the line writes each number. It says nothing of an Erasure-Pol, and its chapter numbers count 30 chapters.
+
+Where it stands: on the side of four pairs with Kairos and Sophia sharing one world, as a proposal in an assistant's outline, not a canon claim; the record's status is not touched.
