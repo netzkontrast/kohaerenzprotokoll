@@ -476,3 +476,11 @@ Where it stands in the record's own terms: the question of the link's nature is 
 On what crosses: the link „operiert als asymmetrischer Out-of-Band (OOB) Datenkanal“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L146] and carries „ausschließlich non-verbale Resonanzen“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L146], affective variables rather than classical logic packets. On who feels it: the handbook names the receptive EPs, Kiko or Lia (L146), and not Silas. On whose it is: the player, or the entity Juna, must inject guidance past AEGIS's filters (L144). On the firewall: „Daten passieren die Firewall unbemerkt“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L146].
 
 The handbook states these as its report of the mechanism and as a point to test; it does not call any of it open. Stands in the record's own terms: one more statement on what crosses and who receives it, no answer to where the boundary lies; the question stays open.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible calls the Moonshine-Link a non-local sub-protocol that AEGIS cannot detect, and says nothing of what it carries or who else can feel it.**
+
+It writes: „The link between Kael and Juna/V is a non-local, sub-protocol“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L174] Moonshine-Link, and „its sensors are built to detect local, protocol-based data“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L174]. The link is named between Kael and Juna/V only on that line; whether it is exclusive to the pair is not stated there.
+
+Stands: adds a description of the link's relation to AEGIS, not an answer to Q9, which stays open.
