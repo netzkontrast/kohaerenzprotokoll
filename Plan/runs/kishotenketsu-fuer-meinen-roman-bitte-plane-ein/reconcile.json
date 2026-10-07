@@ -1,0 +1,269 @@
+{
+  "document": "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
+  "drive_id": "1vc9MslRv_n9Jt5-AcOrhYEz9Jxcz-keY6iT0i6CzJNA",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-194/brief.md; chapter readings on 30 chapters by the session, from each chapter's heading and the first sentence of its Handlung, Plan/runs/ingest-194-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 74,
+    "decisions": 76,
+    "decided_by_lookup": 56,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German chat reply that condenses a 39-chapter draft into a 30-chapter Kishōtenketsu outline: its new surfaces are the act names and chapter fields, W1–W4, the alters' epithets (Die Ruhige, Die Mutige, Die Präzise, the Schatten), its own motifs (Gegentakt, Drall, Sinnbild) and borrowed concepts (Epoché, Chronos and Kairos, Wu Wei, DBT, Śūnyatā); what it says of the novel's world went on existing pages, 30 chapter pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        24,
+        25,
+        47,
+        370,
+        380
+      ],
+      "attribution": "",
+      "note": "AEGIS as a perspective in every chapter of a 30-chapter outline"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        23,
+        57,
+        139
+      ],
+      "attribution": "",
+      "note": "alters as epithets that act on Kael"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        69
+      ],
+      "attribution": "",
+      "note": "Cerberus as Wächter of the third world"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        174
+      ],
+      "attribution": "",
+      "note": "Kael's unity as an emergent property"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        26,
+        364,
+        369,
+        370
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as the climax, defeat without force"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        23,
+        79,
+        81,
+        254
+      ],
+      "attribution": "",
+      "note": "Juna as a subtle presence, in Kairos, behind Kael's sharpened intuition"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        24,
+        25,
+        380
+      ],
+      "attribution": "",
+      "note": "Kael's arc across four acts, from fragmented inmate to gardener"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        80,
+        81
+      ],
+      "attribution": "",
+      "note": "Kairos joined with Sophia as Wächter, and Kairos as qualitative time"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        11,
+        23,
+        25
+      ],
+      "attribution": "",
+      "note": "the structure applied to a 30-chapter outline"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "LogOS as Wächter of the first world"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        58,
+        102
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Wächter of the second world"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        79,
+        128
+      ],
+      "attribution": "",
+      "note": "the Möglichkeits-Garten as the fourth world, where Kael listens and lets go"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        24,
+        171,
+        182,
+        324
+      ],
+      "attribution": "",
+      "note": "multiplicity trained, accepted, then used"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "the Resonanz-Landschaft as the organic second world"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        216
+      ],
+      "attribution": "",
+      "note": "a Glitch in an AEGIS-caused time jump, not the word Risse"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "Sophia joined with Kairos as Wächter of the fourth world"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J34 (Kairos/Sophia, read on kairos and sophia), J12 and J48 (compounds with their page's sense); Die Simulationstheorie is a borrowed concept, not the Überwelt; the Glitch of L216 read on risse",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "a section heading"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "surface": "Resonanz-Landschaft",
+      "line": 57,
+      "decision": "reading",
+      "why": "W2 as the organic Resonanz-Landschaft, read on resonanz-landschaft"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 216,
+      "decision": "reading",
+      "why": "the Glitch in a time jump, read on risse"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 80,
+      "decision": "reading",
+      "why": "Kairos/Sophia as Wächter of W4, read on sophia"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 216,
+      "decision": "occurrence",
+      "why": "the simulation's version numbers in a Glitch, nothing of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "the four act names and the chapter fields",
+    "W1–W4 — the plan's world numbers",
+    "the alters' epithets — on alters",
+    "Gegentakt, Drall, Sinnbild — the plan's motifs",
+    "the borrowed concepts"
+  ],
+  "internal_tension": "its chapter numbers count a 30-chapter book, not the 40 chapters of other outlines; the field labels count 31, 38, 30 and 31 against 30 chapters",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
