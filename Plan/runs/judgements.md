@@ -1697,3 +1697,59 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** „Kael (Host), Lex (Rationalist, Systemadministrator), Isabella (Daten-Spezialistin)“ (L84) names her among the ANPs of Kael's system; the page's figure is one of the alters, EP in the character bible. `Isabella` stands in 12 landed documents, `Isabelle` in 104 (corpus.py count, 2026-10-05).
 
 **Result.** read on isabelle by the sentence — a named part of Kael's system, its spelling and its ANP camp recorded as this source's; no surface from one read source, and the camp difference goes to `## Where the sources differ`
+
+## J122 — OpenAI / internal OpenAI model / unreleased internal OpenAI model
+
+**judgement** · openai-math-readme · 2026-10-07 · replay: `skipped`
+
+- **rule:** an adjective of status (internal, unreleased) never makes a second referent; an institution named only inside its product's name is an occurrence
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, status-adjective, institution-vs-product
+
+**Question.** one term or several?
+
+**What was done.** „produced by an internal OpenAI model“ (L13) and „using an unreleased internal OpenAI model“ (L50) name one producer; `OpenAI` stands only inside those phrases (2 marks)
+
+**Result.** internal OpenAI model and unreleased internal OpenAI model are one term, a page with the second as alias; OpenAI is the institution, no page from an occurrence inside the model's name
+
+## J123 — catalogue / formalization catalogue
+
+**judgement** · openai-math-readme · 2026-10-07 · replay: `judgement`
+
+- **rule:** a qualifier that names a different file or apparatus makes a second term even when the head noun is shared
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, qualified-compound
+
+**Question.** one term or two?
+
+**What was done.** „The current catalogue contains 722 manuscripts“ (L24) against the „formalization catalogue“ linked to lean/formalization.yaml (L29)
+
+**Result.** two terms — the collection's catalogue reads on mathematics-manuscript-collection, the formalization catalogue on lean-formalization
+
+## J124 — Lean / Lean formalizations / Lean library
+
+**one-term** · openai-math-readme · 2026-10-07 · replay: `skipped`
+
+- **rule:** a tool named only as the qualifier of what it produces is read on the product's page; a surface that folds onto a common word is not an alias
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, tool-and-its-products
+
+**Question.** one term or several?
+
+**What was done.** `Lean` (3 marks) stands only as the qualifier in „Lean formalizations“ (L17, twice) and „Lean library“ (L29)
+
+**Result.** one page, lean-formalization; the bare word is no alias, since lowercase lean is an English adjective and fold() would match it
+
+## J125 — Ordinary two-point correlations of multiplicative functions / multiplicative functions / Ordinary NP-hardness at the basic semidefinite threshold / semidefinite threshold / Quasipolynomial bounds for arithmetic progressions / arithmetic progressions / The Mézard–Parisi formula for diluted spin glasses / diluted spin glasses / Spontaneous magnetization in the quantum Heisenberg ferromagnet / quantum Heisenberg ferromagnet / Isomorphism of free group factors / free group factors
+
+**two-terms** · openai-math-readme · 2026-10-07 · replay: `skipped`
+
+- **rule:** a title naming a result and the mathematical object inside it are two terms; a title in a table is an occurrence, not a reading
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, title-vs-object
+
+**Question.** is a result's title the object it names?
+
+**What was done.** the ten rows L37–L46 are link titles; the readme writes no sentence about any of them
+
+**Result.** two terms each — a result and the object it is about; neither gets a page from this document, which reads none of them (not_promoted)

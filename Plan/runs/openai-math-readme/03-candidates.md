@@ -1,0 +1,55 @@
+written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count
+
+This is a short English readme for a repository of mathematics manuscripts; the novel's world is absent, so the list holds the document's own vocabulary about the work, the tools and the model it names, and the problems it says its results concern. The ten titles in the reasoning-summary table are written as titles, and each is listed as the line writes it. No term is a lens.
+
+- OpenAI
+- internal OpenAI model
+- unreleased internal OpenAI model
+- ChatGPT Pro
+- thinking compute
+- open research problems
+- saturated
+- manuscripts
+- supporting proof artifacts
+- catalogue
+- families
+- family
+- mathematical discipline
+- principal result
+- companion arguments
+- alternative proofs
+- manuscript map
+- overview
+- preprints
+- Lean
+- Lean formalizations
+- Lean library
+- formalization catalogue
+- Comparator instructions
+- unformalized results
+- Reasoning summaries
+- abridged summaries
+- same procedure
+- fixed procedure
+- human edited for readability
+- BibTeX
+- zero-free region
+- Riemann zeta function
+- Hodge Conjecture
+- CM abelian varieties
+- Ordinary two-point correlations of multiplicative functions
+- The irrationality exponent of π
+- Symmetric and general Mahler conjectures
+- Ordinary NP-hardness at the basic semidefinite threshold
+- Quasipolynomial bounds for arithmetic progressions
+- Kaplansky's direct-finiteness conjecture in characteristic two
+- The Mézard–Parisi formula for diluted spin glasses
+- Spontaneous magnetization in the quantum Heisenberg ferromagnet
+- Isomorphism of free group factors
+- The three-dimensional relativistic Vlasov–Maxwell system
+- multiplicative functions
+- diluted spin glasses
+- quantum Heisenberg ferromagnet
+- free group factors
+- arithmetic progressions
+- semidefinite threshold

@@ -1,7 +1,7 @@
 {
   "built": "2026-10-07",
   "by": "scripts/wiki_index.py",
-  "pages": 106,
+  "pages": 110,
   "conflicts": 17,
   "terms": {
     "aegis-metriken": {
@@ -2070,6 +2070,21 @@
       "readings": 32,
       "conflict": "C11"
     },
+    "internal-openai-model": {
+      "title": "internal OpenAI model",
+      "surfaces": [
+        "OpenAI model",
+        "internal OpenAI model",
+        "internal-openai-model",
+        "unreleased internal OpenAI model"
+      ],
+      "ingested": [
+        "openai-math-readme"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
     "isabelle": {
       "title": "Isabelle",
       "surfaces": [
@@ -3470,6 +3485,22 @@
       "readings": 38,
       "conflict": "C11"
     },
+    "lean-formalization": {
+      "title": "Lean formalization",
+      "surfaces": [
+        "Lean formalization",
+        "Lean formalizations",
+        "Lean library",
+        "formalization catalogue",
+        "lean-formalization"
+      ],
+      "ingested": [
+        "openai-math-readme"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
     "lex": {
       "title": "Lex",
       "surfaces": [
@@ -3824,6 +3855,22 @@
       "sources": 103,
       "readings": 103,
       "conflict": "C4, C6"
+    },
+    "mathematics-manuscript-collection": {
+      "title": "Mathematics manuscript collection",
+      "surfaces": [
+        "Mathematics manuscript collection",
+        "manuscript map",
+        "mathematics-manuscript-collection",
+        "result families",
+        "result family"
+      ],
+      "ingested": [
+        "openai-math-readme"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
     },
     "mnemosyne-server-architektur": {
       "title": "Mnemosyne-Server-Architektur",
@@ -5089,6 +5136,21 @@
       "sources": 31,
       "readings": 31,
       "conflict": "none"
+    },
+    "reasoning-summaries": {
+      "title": "Reasoning summaries",
+      "surfaces": [
+        "Reasoning summaries",
+        "abridged summaries",
+        "reasoning summary",
+        "reasoning-summaries"
+      ],
+      "ingested": [
+        "openai-math-readme"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
     },
     "residual-echos": {
       "title": "Residual-Echos",
@@ -6448,6 +6510,9 @@
     "guardians": "guardians",
     "hitzepolaritatsregel": "hitze-polaritaetsregel",
     "hitzepolaritaetsregel": "hitze-polaritaetsregel",
+    "openaimodel": "internal-openai-model",
+    "internalopenaimodel": "internal-openai-model",
+    "unreleasedinternalopenaimodel": "internal-openai-model",
     "isabelle": "isabelle",
     "julia": "juna",
     "juna": "juna",
@@ -6476,9 +6541,17 @@
     "komponente734": "komponente-734",
     "konstruktstadt": "konstrukt-stadt",
     "landauersignatur": "landauer-signatur",
+    "leanformalization": "lean-formalization",
+    "leanformalizations": "lean-formalization",
+    "leanlibrary": "lean-formalization",
+    "formalizationcatalogue": "lean-formalization",
     "lex": "lex",
     "lia": "lia",
     "logos": "logos",
+    "mathematicsmanuscriptcollection": "mathematics-manuscript-collection",
+    "manuscriptmap": "mathematics-manuscript-collection",
+    "resultfamilies": "mathematics-manuscript-collection",
+    "resultfamily": "mathematics-manuscript-collection",
     "mnemosyneserverarchitektur": "mnemosyne-server-architektur",
     "mnemosyne": "mnemosyne",
     "moglichkeitsgarten": "moeglichkeits-garten",
@@ -6511,6 +6584,9 @@
     "realitatsebenen": "realitaetsebenen",
     "sechsrealitatsebenen": "realitaetsebenen",
     "realitaetsebenen": "realitaetsebenen",
+    "reasoningsummaries": "reasoning-summaries",
+    "abridgedsummaries": "reasoning-summaries",
+    "reasoningsummary": "reasoning-summaries",
     "residualechos": "residual-echos",
     "resonanzlandschaft": "resonanz-landschaft",
     "rhys": "rhys",
