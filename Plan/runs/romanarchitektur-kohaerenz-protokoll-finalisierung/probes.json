@@ -1,0 +1,235 @@
+{
+  "document": "romanarchitektur-kohaerenz-protokoll-finalisierung",
+  "drive_id": "16vD_Ac_pW5FwtxCZdkblXWN65Ndvgefx7ax6PpZ0EN0",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 41,
+  "backslash_escapes": 41,
+  "typographic_marks": 152,
+  "ascii_quotes": 8,
+  "inflection_families": {
+    "parad": [
+      "Paradigma",
+      "Paradigmen",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegensätze",
+      "Gegensätzen",
+      "Gegenteils",
+      "Gegenüberstellung"
+    ],
+    "syste": [
+      "System",
+      "Systemdaten",
+      "Systemfehler",
+      "Systems",
+      "Systemverantwortung"
+    ],
+    "analy": [
+      "Analyse",
+      "Analytics",
+      "Analytiker",
+      "Analytischer"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "attra": [
+      "Attractors",
+      "Attraktor",
+      "Attraktoren",
+      "Attraktors"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifestation",
+      "Manifestationen",
+      "Manifestiert"
+    ],
+    "seins": [
+      "Seins",
+      "Seinsweise",
+      "Seinszustand",
+      "Seinszustände"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbsterhaltungstrieb",
+      "Selbstzerstörung"
+    ],
+    "wider": [
+      "Widerlegung",
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenkorruption",
+      "Datenströme"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungen",
+      "Entschlossenheit"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploring",
+      "Explosion"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentierte",
+      "Fragmentierung"
+    ],
+    "gedan": [
+      "Gedanken",
+      "Gedankenpalast",
+      "Gedankenstränge"
+    ],
+    "gefän": [
+      "Gefängnis",
+      "Gefängnisse",
+      "Gefängnissen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsstruktur"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitäten"
+    ],
+    "infor": [
+      "Information",
+      "Informationsquelle",
+      "Informationstheorie"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations",
+      "Integrierte"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikts"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollversuch",
+      "Kontrollversuche"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptuelles"
+    ],
+    "logik": [
+      "Logik",
+      "Logiker",
+      "Logikerin"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eine",
+      "Meilensteine"
+    ],
+    [
+      "Ende",
+      "Renderung"
+    ],
+    [
+      "Ende",
+      "Wissenden"
+    ],
+    [
+      "Ende",
+      "Fluktuierende"
+    ],
+    [
+      "Ende",
+      "Transzendenten"
+    ],
+    [
+      "Fall",
+      "Zufall"
+    ],
+    [
+      "Five",
+      "Fiveable"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsquelle"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Gott",
+      "Gottes"
+    ],
+    [
+      "Gott",
+      "Gottesvorstellung"
+    ]
+  ]
+}

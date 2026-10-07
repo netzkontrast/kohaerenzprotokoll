@@ -66,10 +66,11 @@
         "kohaerenz-protokoll-2",
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 31,
-      "readings": 29,
+      "sources": 32,
+      "readings": 30,
       "conflict": "none"
     },
     "aegis": {
@@ -232,10 +233,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 150,
-      "readings": 150,
+      "sources": 151,
+      "readings": 151,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -396,10 +398,11 @@
         "romanidee-als-interaktiver-prototyp",
         "romanideen-zu-roman-entwickeln",
         "narrativ",
-        "kohaerenz-protokoll-narrative-synthese"
+        "kohaerenz-protokoll-narrative-synthese",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "none"
     },
     "alters": {
@@ -500,10 +503,11 @@
         "kohaerenz-protokoll-2",
         "romanideen-zu-roman-entwickeln",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 92,
-      "readings": 91,
+      "sources": 93,
+      "readings": 92,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1117,10 +1121,11 @@
         "kael-charakterarchitektur-und-konfliktdynamik",
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 47,
-      "readings": 47,
+      "sources": 48,
+      "readings": 48,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1266,10 +1271,11 @@
         "kohaerenz-protokoll-2",
         "kohaerenz-analyse-kapitel-2",
         "narrativ",
-        "kohaerenz-protokoll-narrative-synthese"
+        "kohaerenz-protokoll-narrative-synthese",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 95,
-      "readings": 95,
+      "sources": 96,
+      "readings": 96,
       "conflict": "C2"
     },
     "erason": {
@@ -1604,10 +1610,11 @@
         "project-status-report-kohaerenz-protokoll-canonical-state-st",
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "romanideen-zu-roman-entwickeln",
-        "roman-konzept-und-philosophische-fragen"
+        "roman-konzept-und-philosophische-fragen",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 58,
-      "readings": 56,
+      "sources": 59,
+      "readings": 57,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -1797,10 +1804,11 @@
         "kohaerenz-analyse-kapitel-2",
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 105,
-      "readings": 105,
+      "sources": 106,
+      "readings": 106,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2067,10 +2075,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 139,
-      "readings": 139,
+      "sources": 140,
+      "readings": 140,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2287,10 +2296,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 152,
-      "readings": 153,
+      "sources": 153,
+      "readings": 154,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2528,10 +2538,11 @@
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kohaerenz-analyse-kapitel-2",
         "narrativ",
-        "roman-konzept-und-philosophische-fragen"
+        "roman-konzept-und-philosophische-fragen",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 112,
-      "readings": 111,
+      "sources": 113,
+      "readings": 112,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2641,10 +2652,11 @@
         "kael-charakterarchitektur-und-konfliktdynamik",
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 101,
-      "readings": 101,
+      "sources": 102,
+      "readings": 102,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -2788,10 +2800,11 @@
         "kohaerenz-analyse-kapitel-2",
         "narrativ",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 42,
-      "readings": 42,
+      "sources": 43,
+      "readings": 43,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -2997,10 +3010,11 @@
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kohaerenz-analyse-kapitel-2",
         "narrativ",
-        "roman-konzept-und-philosophische-fragen"
+        "roman-konzept-und-philosophische-fragen",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 84,
-      "readings": 84,
+      "sources": 85,
+      "readings": 85,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -3648,10 +3662,11 @@
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
-        "kohaerenz-protokoll-narrative-synthese"
+        "kohaerenz-protokoll-narrative-synthese",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 87,
-      "readings": 87,
+      "sources": 88,
+      "readings": 88,
       "conflict": "none"
     },
     "moros": {
@@ -3896,10 +3911,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 102,
-      "readings": 102,
+      "sources": 103,
+      "readings": 103,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -4180,10 +4196,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 103,
-      "readings": 103,
+      "sources": 104,
+      "readings": 104,
       "conflict": "C10"
     },
     "oblivion": {
@@ -4425,10 +4442,11 @@
         "kohaerenz-protokoll-master-integration-md",
         "deconstructing-reality-s-architecture",
         "kael-charakterarchitektur-und-konfliktdynamik",
-        "kohaerenz-protokoll-narrative-synthese"
+        "kohaerenz-protokoll-narrative-synthese",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 49,
-      "readings": 50,
+      "sources": 50,
+      "readings": 51,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -4560,10 +4578,11 @@
         "kohaerenz-protokoll-2",
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kohaerenz-analyse-kapitel-2",
-        "roman-konzept-und-philosophische-fragen"
+        "roman-konzept-und-philosophische-fragen",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 45,
-      "readings": 45,
+      "sources": 46,
+      "readings": 46,
       "conflict": "C11"
     },
     "rhys": {
@@ -4931,10 +4950,11 @@
         "kael-charakterarchitektur-und-konfliktdynamik",
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 90,
-      "readings": 90,
+      "sources": 91,
+      "readings": 91,
       "conflict": "none"
     },
     "silas": {
@@ -5400,10 +5420,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "romanarchitektur-kohaerenz-protokoll-finalisierung"
       ],
-      "sources": 101,
-      "readings": 100,
+      "sources": 102,
+      "readings": 101,
       "conflict": "none yet"
     },
     "ueberraum": {
