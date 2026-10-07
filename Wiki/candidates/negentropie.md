@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 12
-readings: 11
+sources: 13
+readings: 12
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions"]
 gathered: "2026-09-16"
 ---
 
@@ -78,6 +78,10 @@ English passages.
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the three-act blueprint) — the Negentropie-Fehlinterpretation named and explained
 
 The three-act blueprint (Act I, the antagonist's gaze) says what the misreading is: AEGIS's blindness makes it „misinterpret any emergent, life-affirming complexity (negentropy)“ ^[ai-assisted-narrative-coherence.md:L855], „such as the emotional resonance of the Juna connection or the first steps of Kael's psychological integration“ ^[ai-assisted-narrative-coherence.md:L855], as chaos (entropy). It names the flaw: „This core logical flaw, the Negentropie-Fehlinterpretation, is the engine of the entire conflict.“ ^[ai-assisted-narrative-coherence.md:L855]
+
+## Reading — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint — the `Negentropie-Fehlinterpretation` as the loop's engine
+
+At L56 the locked blueprint makes AEGIS's reading of healing the loop's trigger: each step of Kael's integration is „registered by AEGIS's sensors as a dangerous increase in systemic entropy and unpredictable complexity“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L56]. It names the flaw `Negentropie-Fehlinterpretation` (negentropy misinterpretation), „the engine that drives the entire conflict“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L56].
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
 
