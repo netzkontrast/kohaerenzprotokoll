@@ -296,3 +296,11 @@ Stands beside both of the record's senses (resisted disorder, creative matrix) a
 „charakterisiert durch informationelles Chaos und maximale Entropie – hier im Sinne maximaler Möglichkeit“ ^[kohaerenz-protokoll-plotideen-generierung.md:L19].
 
 Stands beside the record's senses as entropy meaning possibility, said of the sea and not of AEGIS; recorded, nothing decided.
+
+## 2026-10-07 — `kohaerenz-protokoll-duale-dramatica-storyform-synthese`, 2026-04-28, the dual storyform synthesis
+
+**The dual storyform synthesis reads Entropie as trauma.**
+
+„die Integration von Trauma (Entropie)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L28] is its epistemological centre, and AEGIS tries to erase „traumatische Entropie“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L50]. The report's Entropie-Kernel is the chaos pole of its Dual Kernel Theory (symbol lost in the export).
+
+One more position in the record; it decides nothing about the sense of Entropie.
