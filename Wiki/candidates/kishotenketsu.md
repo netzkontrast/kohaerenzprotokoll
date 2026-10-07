@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "kohaerenz-protokoll-duale-dramatica-storyform-synthese"]
 gathered: "2026-09-25"
 ---
 
@@ -74,6 +74,10 @@ The Dramatica loop analysis says the progression is not structured by the Aristo
 
 An analysis summarising an earlier synthesis, in one table cell: „Kishōtenketsu-Struktur ersetzt das aristotelische 3-Akt-Modell." ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L29]
 A restatement: the row names the synthesis it summarises as its source.
+
+## Reading — `kohaerenz-protokoll-duale-dramatica-storyform-synthese`, 2026-04-28, the dual storyform synthesis — Kishōtenketsu replacing the three acts
+
+The report decanonises linear hero's journeys and the three-act form: „Dies betrifft explizit lineare, monomythische Heldenreisen“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L30], replaced by the Kishōtenketsu structure. It maps the four parts to chapters: „Ki (Einführung — Kap. 1-3)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L140] sets up Logos-Prime, „Shō (Entwicklung — Kap. 4-5)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L141], „Ten (Wendung — Kap. 6-8)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L142] and „Ketsu (Synthese — Kap. 9-13)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L143]. The audit claims its architecture prefers it: „Die Architektur priorisiert funktionale Multiplizität und die Kishōtenketsu-Struktur über klassische Modelle.“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L159]
 
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08
 
