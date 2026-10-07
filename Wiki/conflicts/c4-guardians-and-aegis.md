@@ -430,3 +430,11 @@ This adds a row to the record and decides nothing in it.
 It writes: „AEGIS ist für die Verbindung strukturell blind“ ^[kohaerenz-protokoll-narrative-synthese.md:L99], because its sensors are built for local, causal, protocol-based transmission, and „Es kann nur die sekundären Effekte“ ^[kohaerenz-protokoll-narrative-synthese.md:L99] register. The line says nothing of the Guardians in this passage.
 
 Stands: one more row for the record's bearer of the blind spot (AEGIS, as the compendium has it); it does not settle whether the bearer is one structure or two.
+
+## 2026-10-07 — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint
+
+**The locked blueprint gives the blind spot to AEGIS's whole architecture and also lists blind spots per Guardian.**
+
+On the link it writes that the connection operates „on a physical principle that AEGIS is definitionally incapable of perceiving“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L139], and „AEGIS's blindness to the link is not a simple sensor failure“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L141]. Separately, „The individual failures of AEGIS's Guardians will personify the system's overarching ontological blindness“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L87], with `LogOS` and `Mnemosyne` each given a blind spot (L89, L90).
+
+Stands: one more row for the record; the Guardians' blind spots are given as personifications of AEGIS's, which the record's question of who bears it is not decided by.
