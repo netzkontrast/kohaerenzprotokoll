@@ -652,3 +652,11 @@ Stands with the five-Guardian, four-pair position of the record; recorded, not a
 The glossary rows are „ANP-Logic Proxy,Algorithmic Order.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L211] for `LogOS`, „Memory Keeper,Archive / Fluidity.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L213] for `Mnemosyne`, „Defense System,Zero-Trust / Paranoia.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L215] for `Cerberus` and „Potential,Emergence / Synthesis.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L217] for `Kairos`, each labelled Guardian of the world of that number. The name `Sophia` ^[the-coherence-protocol-a-narrative-design-world-architecture.md:#0] does not stand in the brief (a count). The headings name the worlds „Logos-Prime (The Cage)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L84], „Mnemosyne-Archipel (The Swamp)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L93], „Cerberus-Labyrinth (The Bunker)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L102] and „Kairos-Potentialis (The Garden)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L112].
 
 Stands as a row for four Guardians paired with the four worlds, in the brief's own terms; recorded, not applied, and the record is not decided.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report reports four Guardian headings: LogOS with KW1, Mnemosyne with KW2, Cerberus with KW3, and Kairos & Sophia together with KW4 and the Überwelt.**
+
+Its headings read „LogOS (Konstrukt-Stadt“ ^[kohaerenz-analyse-kapitel-2.md:L65] (L65), „Mnemosyne (Resonanz-Landschaft“ ^[kohaerenz-analyse-kapitel-2.md:L72] (L72), „Cerberus (Grenzfeste“ ^[kohaerenz-analyse-kapitel-2.md:L79] (L79) and „Kairos & Sophia (Möglichkeits-Garten / Überwelt“ ^[kohaerenz-analyse-kapitel-2.md:L85] (L85). The report treats Kairos and Sophia under one heading and gives each its own entry (L87, L88).
+
+This adds a row to the record and decides nothing in it.
