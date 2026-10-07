@@ -1006,3 +1006,13 @@ Where it stands in the record's own terms: four worlds as the domains of parts a
 It reports Kael as split „in elf distinkte Subsysteme“ ^[charaktermodellierung-mit-aieos-schema.md:L17] (L17) and speaks of „der elf Sub-Persönlichkeiten von Kael“ ^[charaktermodellierung-mit-aieos-schema.md:L197] (L197) and „Die elf Anteile existieren nicht unabhängig voneinander“ ^[charaktermodellierung-mit-aieos-schema.md:L69] (L69). The word `elf` stands 6 times (`elf` ^[charaktermodellierung-mit-aieos-schema.md:#6]). Its case studies cover only some of them: `Fallbeispiel:` ^[charaktermodellierung-mit-aieos-schema.md:#5] stands in the headings for Lex (L89), Kiko (L108), Nyx (L126), Selene (L143) and Kael (L160). The report also names Alex, Lia, Rhys, Isabelle, Moros and Juna in passing.
 
 Where it stands in the record's terms: a report of eleven parts from its references, no count of alters or Kern-Welten of its own, and no statement on whether a Kern-Welt corresponds to an alter; the question stays open.
+
+## 2026-10-07 — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis
+
+**The project analysis counts System Kael's parts in two ways and does not reconcile them, and its Kernwelt table has KW1 and KW3 and two assumed worlds, no KW2.**
+
+In its TSDP section it writes „mindestens vier ANPs und fünf klaren EPs“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L141]; a later section speaks of „Die elf identifizierten Anteile von System Kael“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L151], and its table of parts lists eleven rows: Kael, Lex, Alex, Rhys and Selene typed ANP, Nyx, Kiko, Lia, Isabelle and Moros typed EP, and Argus as „ANP/EP-Mix“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L184], with Selene typed „ANP (Integratorin?)“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L183]. The essay does not say how the stated four ANPs and five EPs relate to those rows.
+
+For the worlds, its Kernwelt table pairs `KW1` with Lex and `KW3` with Nyx, and two further rows for Rhys and Kiko whose first cells are marked `Annahme` (L122, L123). `KW2` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#0] does not stand in the document.
+
+Stands: the essay gives two part counts side by side and four Kernwelt rows, two of them marked assumptions; it takes no side on the record's count of Kern-Welten or Alters.
