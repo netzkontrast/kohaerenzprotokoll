@@ -1,0 +1,299 @@
+{
+  "document": "kael-charakterarchitektur-und-konfliktdynamik-3",
+  "drive_id": "1FAryRQeYcRGNeK6OVVXVcSDDMbw9TkcRnSc_Qc5elVg",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 7,
+  "backslash_escapes": 61,
+  "typographic_marks": 138,
+  "ascii_quotes": 18,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systembedrohung",
+      "Systeme",
+      "Systemfehler",
+      "Systemflüsterer",
+      "Systeminstabilität",
+      "Systeminteraktionen",
+      "Systemische",
+      "Systemkontrolle",
+      "Systemlücken",
+      "Systems",
+      "Systemschwachstellen",
+      "Systemstabilität"
+    ],
+    "chara": [
+      "CHARACTERS",
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charakterarchetypen",
+      "Charakterarchitektur",
+      "Charakterbögen",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charakterkonzepte",
+      "Charakterwahl"
+    ],
+    "inter": [
+      "Interagiert",
+      "Interaktion",
+      "Interaktionen",
+      "Interesse",
+      "Intern",
+      "Internal",
+      "InternalFamilySystems",
+      "International",
+      "Interne",
+      "Interpretationen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktdynamik",
+      "Konfliktdynamiken",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktpotenziale",
+      "Konfliktpotenzialen",
+      "Konfliktpunkte",
+      "Konfliktszenarien"
+    ],
+    "arche": [
+      "ARCHETYPES",
+      "Archetyp",
+      "Archetypal",
+      "Archetypen",
+      "Archetypenlehre",
+      "Archetypes",
+      "Archetypische",
+      "Archetyps"
+    ],
+    "disso": [
+      "DISSOCIATION",
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziativer"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmaßnahmen",
+      "Kontrollmechanismen",
+      "Kontrollparadigmas",
+      "Kontrollverlust",
+      "Kontrollversuche"
+    ],
+    "perso": [
+      "PERSONA",
+      "Person",
+      "Persona",
+      "Personality",
+      "Personas",
+      "Personen"
+    ],
+    "poten": [
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzialität",
+      "Potenziell",
+      "Potenzielle"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychedelic",
+      "Psychological",
+      "Psychologische",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstaufgabe",
+      "Selbstausdruck",
+      "Selbsterleben",
+      "Selbstfürsorge",
+      "Selbstverlust"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionalen",
+      "Emotionen"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionsfähigkeit",
+      "Funktionsweise"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsperspektiven",
+      "Heilungspfad",
+      "Heilungspotenzial",
+      "Heilungsprozess"
+    ],
+    "intui": [
+      "Intuition",
+      "Intuitionen",
+      "Intuitive",
+      "Intuitiven",
+      "Intuitiver"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten",
+      "Kernwiderspruch",
+      "Kernwunde",
+      "Kernwunden"
+    ],
+    "kreat": [
+      "Kreativ",
+      "Kreativen",
+      "Kreativer",
+      "Kreativität",
+      "Kreativitätsblockaden"
+    ],
+    "relat": [
+      "Related",
+      "Relationale",
+      "Relationalen",
+      "Relationaler",
+      "Relationship"
+    ],
+    "situa": [
+      "Situation",
+      "Situationen",
+      "Situationsdruck",
+      "Situationswechsel",
+      "Situative"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versuchen",
+      "Versucht",
+      "Versuchung"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploits",
+      "Exploration",
+      "Exploriert"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentierende",
+      "Fragmentierung",
+      "Fragmentierungs"
+    ],
+    "guide": [
+      "GUIDELINES",
+      "Guide",
+      "Guidelines",
+      "Guides"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitätsstörung"
+    ],
+    "indiv": [
+      "Individuation",
+      "Individuationsprozess",
+      "Individuum",
+      "Individuums"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Arch",
+      "Archetyp"
+    ],
+    [
+      "Arch",
+      "Research"
+    ],
+    [
+      "Arch",
+      "Archetyps"
+    ],
+    [
+      "Arch",
+      "ARCHETYPES"
+    ],
+    [
+      "Arch",
+      "Archetypal"
+    ],
+    [
+      "Arch",
+      "Archetypen"
+    ],
+    [
+      "Arch",
+      "Archetypes"
+    ],
+    [
+      "Arch",
+      "Architektur"
+    ],
+    [
+      "Arch",
+      "ResearchGate"
+    ],
+    [
+      "Arch",
+      "Archetypische"
+    ],
+    [
+      "Arch",
+      "Architekturen"
+    ],
+    [
+      "Arch",
+      "Archetypenlehre"
+    ],
+    [
+      "Arch",
+      "Schattenarchetyp"
+    ],
+    [
+      "Arch",
+      "Charakterarchetypen"
+    ],
+    [
+      "Arch",
+      "Charakterarchitektur"
+    ],
+    [
+      "CARL",
+      "Carl"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Down",
+      "Lockdowns"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ]
+  ]
+}
