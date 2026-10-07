@@ -598,3 +598,11 @@ Where it stands in the record's own terms: two AEGIS end states offered side by 
 In the fourth alternative storyform, where Kael refuses Order, it writes: „Die Realität von AEGIS kollabiert vollständig unter der nicht mehr zu bändigenden Entropie“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L163]. In the first alternative storyform the end for AEGIS is also a collapse, as „und die Realität zerreißt in einer Flut unkontrollierbarer Risse“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L121]. The other storyforms are proposals beside these, and the analysis does not choose one of them.
 
 Where it stands in the record's own terms: two of four proposed storyforms end in collapse, as proposals of an analysis whose confirmations rest on data not in the file; recorded, not applied, and the record's author decision stands untouched.
+
+## 2026-10-07 — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint
+
+**The outline plans AEGIS's end as a transformation forced by the Gödel-Satz, then frozen, and names no Vortex.**
+
+Chapter 34 has Kael present his integrated, paradoxical state to the core of AEGIS, „was dessen Transformation erzwingt“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L132]. Chapter 35 plans: „AEGIS erstarrt in einem Zustand der Transformation, geprägt von“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L138] inefficient beauty, under the title „Algorithmische Melancholie: Die unmittelbaren Nachwirkungen.“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L138] Chapter 36 turns to Kael: „Kael erlangt Gnosis durch die Verbindung zum Fundament und nimmt seine neue Rolle als ethischer Hüter der Realität an.“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L140]
+
+Where it stands in the record's own terms: AEGIS transformed and frozen, not collapsed, in a plan that calls itself final; recorded, not applied, and the record's author decision stands untouched.
