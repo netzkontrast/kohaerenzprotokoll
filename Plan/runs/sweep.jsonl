@@ -778,3 +778,6 @@
 {"document": "analyse-des-kohaerenz-protokolls", "page": "mnemosyne", "surface": "Mnemosyne", "line": 341, "decision": "reading", "why": "a simulation where 734's shards were imprisoned, in the English prompt, read on mnemosyne", "at": "2026-10-07"}
 {"document": "analyse-des-kohaerenz-protokolls", "page": "multiplizitaet", "surface": "Multiplizität", "line": 269, "decision": "reading", "why": "Kael's functional multiplicity in the Gödel-Gambit, read on multiplizitaet", "at": "2026-10-07"}
 {"document": "analyse-des-kohaerenz-protokolls", "page": "ueberwelt", "surface": "Simulation", "line": 28, "decision": "occurrence", "why": "Sartre's bad faith as the simulation of absolute necessity, nothing of the Überwelt", "at": "2026-10-07"}
+{"document": "aegis", "page": "emergenz", "surface": "Emergenz", "line": 41, "decision": "occurrence", "why": "Kontrolle vs. Emergenz, the general concept", "at": "2026-10-07"}
+{"document": "aegis", "page": "entropie", "surface": "Entropie", "line": 44, "decision": "reading", "why": "entropy management and digital waste entropy, read on entropie", "at": "2026-10-07"}
+{"document": "aegis", "page": "genesis", "surface": "Genesis", "line": 164, "decision": "reading", "why": "AEGIS's genesis and self-definition from nothing, read on genesis", "at": "2026-10-07"}

@@ -1,0 +1,143 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+# Candidates — aegis
+
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Autonomous Entropic Gatekeeper
+- Kohärenz Protokoll
+- Kohärenzprotokoll
+- Kohärenz
+- Leere
+- Nichts Rauschen
+- Nichts Rauschens
+- Nichtsrauschen
+- Nothingness Roaring
+- Potentialmeer
+- Komponente 734
+- AEGIS ist, was AEGIS verhindert, dass es nicht ist
+- Paradoxon X
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Paradox of Misaligned Coherence
+- Kohärenz durch Entfremdung
+- Coherence through Alienation
+- Specification Gaming
+- Perverse Instantiation
+- Perverse Instanziierung
+- Risse
+- Kernwelten
+- Überwelt
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kairos/Sophia
+- Kael
+- Juna
+- Juna/V
+- Juna/V-Verbindung
+- Juna/V-Anomalie
+- Kael-Juna-Verbindung
+- Moonshine-Link
+- Monstergruppe
+- Gödel-Satz
+- ontologischer Exploit
+- Zero-Trust Execution Model
+- Zero-Trust-Prinzip
+- ZTEM
+- Real-time Self-Verification
+- Rekursive Selbstverifikation
+- RTSV
+- RCV
+- Behavioral Proof-of-Function
+- BPoF
+- Boundary Protocol of Failure
+- Encrypted Intent Channels
+- EIC
+- Integrity Guardian
+- Integrity Validation Protocols
+- Cognitive Firewall
+- Consensus Enforcer
+- Secure Isolation State
+- Systemic Isolation Shield
+- SIS
+- Entropic Management Protocols
+- Recursive Integrity & Validation Engine
+- RIVE
+- Predictive Modeling & Adaptive Strategy Protocol
+- PMAS
+- System Architecture & Resource Management Protocol
+- SARM
+- Logics of Formal Inconsistency
+- LFI
+- Discursive Logic
+- D2
+- Regelverletzungsschranke
+- operationale Geschlossenheit
+- operationalen Geschlossenheit
+- ontologische Nicht-Erkennung
+- ontologischen Blindheit
+- Emergenz durch Negation
+- Existenz durch Negation
+- digitale Abfallentropie
+- digitale Wärme
+- Entropie-Management
+- Neu-Renderung der Physik
+- Axiommodifikation
+- Algorithmic Horror
+- algorithmischen Melancholie
+- perversen Lernschleife
+- Dialektische Synthese
+- Unvermeidlicher Kollaps
+- Isolation/Exzision
+- Axiomatische Restrukturierung
+- Reinterpretation/Rationalisierung
+- Computationaler Freeze/Endlosschleife
+- Katastrophales Versagen/Transformation
+- Akzeptanz des Widerspruchs
+- externalisiertes Täterintrojekt
+- Demiurg-Analogie
+- AEGIS-Manifest
+- Das Fundament
+- Paraiyas
+- Qualitative Blindheit
+- Negentropie-Fehlinterpretation
+- Sprödigkeit
+- Kosten der Kontrolle
+- Gödel'sche Grenzen
+- Thermodynamische Kosten
+- Kontrolle vs. Emergenz
+- Feedback Loops
+- Komplexitätstheorie
+- Pfadabhängigkeit
+- strukturellen Kopplung
+- Narrativer Architekt
+- Konzept-Dramaturg
+- Labor für Kohärenz
+- Schutzraum für das Denken selbst
+- Qualia
+- Funktionalismus
+- Strukturalismus
+- Informationismus/Digitale Physik
+
+## lens
+
+- Autopoiese
+- autopoietisches System
+- Gödels Unvollständigkeitssätze
+- Systemtheorie
+- Hamartia
+- Hybris
+- Value Alignment Problem
+- Beobachtereffekt
+- Landauer's Prinzip
+- Jaśkowski's D2
+- Gaslighting
+- Dissoziation
+- parakonsistenten Logik
+
+Observations. The document is four voices stacked in one file: a first-person "Narrativer Architekt" (L11), a second, a "Konzept-Dramaturg" (L158), and two systems-manifesto blocks (L73 and L162) that restate the same material; there is no label naming a speaker beyond those roles. Several abbreviations are used inconsistently: RTSV is expanded as Real-time Self-Verification (L95) and as Rekursive Selbstverifikation (L187), while RCV (L176) is given for the same Rekursive Selbstverifikation; BPoF is Behavioral Proof-of-Function at L96 and Boundary Protocol of Failure at L189; SIS is Secure Isolation State at L101 and Systemic Isolation Shield at L189. The export drops digits in some places (D2 reads as D at L191 in the find output). The four Kernwelten are named at L212 with Kairos/Sophia joined as one.

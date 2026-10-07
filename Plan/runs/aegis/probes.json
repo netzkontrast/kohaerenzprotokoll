@@ -1,0 +1,277 @@
+{
+  "document": "aegis",
+  "drive_id": "16HUgDSqVI1rI9jJ9U4R0AfU-x3iltLQJ4qm1DQ_21Ak",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 0,
+  "typographic_marks": 22,
+  "ascii_quotes": 210,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systeme",
+      "Systemfehler",
+      "Systemic",
+      "Systeminkonsistenz",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemische",
+      "Systemisches",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemzustand"
+    ],
+    "selbs": [
+      "Selbstbeobachtung",
+      "Selbstbezug",
+      "Selbstdefinition",
+      "Selbstdestruktion",
+      "Selbsterhaltung",
+      "Selbstreferenz",
+      "Selbstsabotage",
+      "Selbstverifikation",
+      "Selbstvernichtung",
+      "Selbstüberprüfung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationismus",
+      "Informationsfluss",
+      "Informationsflüsse",
+      "Informationskonstrukte",
+      "Informationslöschung"
+    ],
+    "kontr": [
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollierbarkeit",
+      "Kontrollkern",
+      "Kontrollkollaps",
+      "Kontrollmethoden",
+      "Kontrollversuche"
+    ],
+    "daten": [
+      "Daten",
+      "Datenarchitektur",
+      "Datenflüsse",
+      "Datenpunkt",
+      "Datenströme",
+      "Datenzerfall"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interne",
+      "Interpretation",
+      "Intervall",
+      "Interventionen"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzformen",
+      "Kohärenzmodellen",
+      "Kohärenzprotokoll",
+      "Kohärenzprotokolls",
+      "Kohärenzwahrung"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls"
+    ],
+    "archi": [
+      "Architecture",
+      "Architekt",
+      "Architektur",
+      "Architekturanalyse",
+      "Architekturen"
+    ],
+    "axiom": [
+      "Axiomatische",
+      "Axiome",
+      "Axiomen",
+      "Axiommodifikation",
+      "Axiommodifikationsversuche"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "poten": [
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzialität"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropiequellen",
+      "Entropiezunahme"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzweise",
+      "Existenzweisen",
+      "Existenzziel"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalismus",
+      "Funktionalität",
+      "Funktionen"
+    ],
+    "insta": [
+      "Instabilität",
+      "Instabilitäten",
+      "Instantiation",
+      "Instanziierung"
+    ],
+    "konst": [
+      "Konstrukt",
+      "Konstrukte",
+      "Konstruktion",
+      "Konstrukts"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifestation",
+      "Manifestationen",
+      "Manifests"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Modelle",
+      "Modellierung"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichtlinearität",
+      "Nichts",
+      "Nichtsrauschen"
+    ],
+    "roman": [
+      "Roman",
+      "Romanprojekt",
+      "Romanprojekts",
+      "Romans"
+    ],
+    "autop": [
+      "Autopoiese",
+      "Autopoietische",
+      "Autopoietisches"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "drama": [
+      "Dramatische",
+      "Dramatisierung",
+      "Dramaturg"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Formalisierung"
+    ],
+    [
+      "Form",
+      "Kohärenzformen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationismus"
+    ],
+    [
+      "Form",
+      "Informationsfluss"
+    ],
+    [
+      "Form",
+      "Informationsflüsse"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Informationskonstrukte"
+    ],
+    [
+      "Gang",
+      "Umgang"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernaxiom"
+    ],
+    [
+      "Kern",
+      "Kernzweck"
+    ]
+  ]
+}
