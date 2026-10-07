@@ -1,0 +1,14 @@
+# charaktermodellierung-mit-aieos-schema
+  lines                222  (frontmatter ends at 9)
+  body words           3573
+  headings             23   bold-only lines 0
+  table rows           42   code fences 0
+  question marks       5
+  backslash escapes    109
+  typographic marks    40   ascii quotes 82
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    35
+  repeated labels      Bewertung x5
+  longest line         899 chars
+

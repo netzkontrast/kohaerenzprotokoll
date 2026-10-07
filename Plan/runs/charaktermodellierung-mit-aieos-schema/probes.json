@@ -1,0 +1,247 @@
+{
+  "document": "charaktermodellierung-mit-aieos-schema",
+  "drive_id": "1uxT4DRBjgRXLu6oLH3gxEUYnncMlNeBS-KQ0moK6fcI",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 35,
+  "backslash_escapes": 109,
+  "typographic_marks": 40,
+  "ascii_quotes": 82,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "SystemDynamics",
+      "Systemarchitektur",
+      "Systemberechtigungen",
+      "Systemen",
+      "Systemerhaltung",
+      "Systemgrenzen",
+      "Systemische",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "daten": [
+      "Datenbank",
+      "Datenexport",
+      "Datenmodells",
+      "Datenpunkt",
+      "Datenpunkten",
+      "Datenstruktur",
+      "Datenströme"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaabbildungen",
+      "Traumabewältigung",
+      "Traumagefühle",
+      "Traumareaktion",
+      "Traumas",
+      "Traumatisierung"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsakte",
+      "Identitätskonstruktion"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheitstheoretische",
+      "Wahrheitstheorie",
+      "Wahrheitstheorien",
+      "Wahrheitswert"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstanten",
+      "Konstrukt",
+      "Konstrukts"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmenwechsel",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantengravitation",
+      "Quantenmechanik",
+      "Quantenverschränkung"
+    ],
+    "relat": [
+      "Relation",
+      "Relationale",
+      "Relationalen",
+      "Relationen"
+    ],
+    "spezi": [
+      "Spezifikation",
+      "Spezifikationen",
+      "Spezifischer",
+      "Spezifität"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturvorschläge"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentialen"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterabbildung",
+      "Charaktere"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbruch",
+      "Durchsetzung"
+    ],
+    "emoti": [
+      "Emotionale",
+      "Emotionalen",
+      "Emotionen"
+    ],
+    "entit": [
+      "Entity",
+      "Entität",
+      "Entitäten"
+    ],
+    "erinn": [
+      "Erinnern",
+      "Erinnerung",
+      "Erinnerungen"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzgrundlage",
+      "Existenzieller"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzsituation"
+    ],
+    "grund": [
+      "Grundform",
+      "Grundlagen",
+      "Grundprämisse"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödels",
+      "Gödelsche"
+    ],
+    "integ": [
+      "Integration",
+      "Integratorin",
+      "Integrity"
+    ],
+    "inter": [
+      "Interaktion",
+      "Internal",
+      "Interpretation"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Abbildung"
+    ],
+    [
+      "Bild",
+      "Traumaabbildungen"
+    ],
+    [
+      "Bild",
+      "Charakterabbildung"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Einerseits"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Folgende"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Umfassende"
+    ],
+    [
+      "Fall",
+      "Fallbeispiel"
+    ],
+    [
+      "Fall",
+      "Fallbeispiele"
+    ],
+    [
+      "GUID",
+      "Guide"
+    ],
+    [
+      "KAEL",
+      "Kael"
+    ],
+    [
+      "KAEL",
+      "Kaels"
+    ],
+    [
+      "KIKO",
+      "Kiko"
+    ],
+    [
+      "KIKO",
+      "Kikos"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kiko",
+      "Kikos"
+    ],
+    [
+      "Lese",
+      "Lesers"
+    ]
+  ]
+}

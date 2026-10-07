@@ -1,0 +1,628 @@
+{
+  "document": "charaktermodellierung-mit-aieos-schema",
+  "drive_id": "1uxT4DRBjgRXLu6oLH3gxEUYnncMlNeBS-KQ0moK6fcI",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        17,
+        23,
+        51,
+        67,
+        87,
+        178,
+        197,
+        210
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        63,
+        188
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        180
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        104,
+        199
+      ]
+    },
+    "Kael": {
+      "n": 17,
+      "n_including_compounds": 21,
+      "lines": [
+        17,
+        29,
+        33,
+        39,
+        47,
+        51,
+        57,
+        59,
+        69,
+        77,
+        160,
+        162,
+        174,
+        180,
+        182,
+        186,
+        190,
+        197,
+        199,
+        201
+      ]
+    },
+    "AEGIS": {
+      "n": 22,
+      "n_including_compounds": 23,
+      "lines": [
+        17,
+        19,
+        27,
+        33,
+        59,
+        71,
+        73,
+        75,
+        77,
+        91,
+        120,
+        145,
+        154,
+        171,
+        178,
+        182,
+        192,
+        193,
+        199
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Lex": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        35,
+        89,
+        91,
+        104,
+        106,
+        191,
+        197
+      ]
+    },
+    "Kiko": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        69,
+        108,
+        110,
+        122,
+        124,
+        128,
+        141,
+        191,
+        197
+      ]
+    },
+    "Nyx": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        69,
+        126,
+        128,
+        141
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        143,
+        145,
+        152,
+        158
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Juna": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        35,
+        104,
+        122,
+        193
+      ]
+    },
+    "Moros": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        79,
+        81,
+        83
+      ]
+    },
+    "Alex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        190
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        33,
+        51,
+        106,
+        169,
+        178
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "externen Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Köln 2026": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        176,
+        180,
+        201
+      ]
+    },
+    "Kapitel 38": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        87,
+        186
+      ]
+    },
+    "Anscheinend Normale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "ANPs": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        43,
+        45,
+        47,
+        53,
+        155,
+        170
+      ]
+    },
+    "Emotionale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Täterintrojekt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        120
+      ]
+    },
+    "analytischen Angriff": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        77,
+        199
+      ]
+    },
+    "Nichts Rauschens": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        199
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "existenzielle Fusion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        182
+      ]
+    },
+    "unentscheidbare Zonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Schutz-Front": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "ANP-EP Phobien": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        191
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        192
+      ]
+    },
+    "Amnesiebarrieren": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        156
+      ]
+    },
+    "Phänomenale Selbstmodell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Moros-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Innere Helferin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Inner Self Helper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Host": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        160,
+        190
+      ]
+    },
+    "Persecutor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "AIEOS": {
+      "n": 2,
+      "n_including_compounds": 31,
+      "lines": [
+        11,
+        15,
+        19,
+        23,
+        29,
+        35,
+        37,
+        39,
+        47,
+        59,
+        63,
+        67,
+        69,
+        73,
+        75,
+        77,
+        83,
+        87,
+        91,
+        97,
+        116,
+        134,
+        151,
+        158,
+        168,
+        180,
+        182,
+        186,
+        197,
+        201,
+        208
+      ]
+    },
+    "AI Entity Object Specification": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        205,
+        208
+      ]
+    },
+    "AIEntityObject": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        186,
+        190
+      ]
+    },
+    "SystemDynamics": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "amnesia\\_barriers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "executive\\_control\\_switching": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "intra\\_entity\\_relations": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Conceptual Engineering": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        184,
+        186
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        102,
+        182
+      ]
+    },
+    "methodologischen Kohärentismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        182
+      ]
+    },
+    "Unvollständigkeitssatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Halteproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Chaitin-Konstante": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        193
+      ]
+    },
+    "Page-Wootters-Mechanismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Agentialen Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Prozessphilosophie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Grenzsituation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Time Capsules": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Hilbert-Programm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Embodied Mathematics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Internal Entity Linking": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Big Five": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Enneagramm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "OCEAN": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        214
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+# counts for 68 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                4 word     9 in   [15, 17, 23, 51, 67, 87]  <-- substring
+  Dual-Kernel-Theorie               3 word     3 in   [17, 63, 188]
+  Kohärenz-Kernel                   2 word     2 in   [17, 180]
+  Kollaps-Kernel                    2 word     3 in   [17, 104, 199]
+  Kael                             17 word    21 in   [17, 29, 33, 39, 47, 51]
+                                    4      as Kaels
+  AEGIS                            22 word    23 in   [17, 19, 27, 33, 59, 71]
+                                    1      as AEGIS-Modellierung
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [73]
+  Lex                               9 word     9 in   [35, 89, 91, 104, 106, 191]
+  Kiko                             10 word    12 in   [69, 108, 110, 122, 124, 128]
+                                    2      as Kikos
+  Nyx                               5 word     5 in   [69, 126, 128, 141]
+  Selene                            4 word     4 in   [143, 145, 152, 158]
+  Isabelle                          1 word     1 in   [53]
+  Juna                              5 word     5 in   [35, 104, 122, 193]
+  Moros                             5 word     6 in   [79, 81, 83]
+                                    1      as Moros-Paradoxon
+  Alex                              2 word     2 in   [69, 190]
+  Rhys                              1 word     1 in   [122]
+  Mnemosyne                         1 word     1 in   [59]
+  Konstrukt-Stadt                   5 word     5 in   [33, 51, 106, 169, 178]
+  Überwelt                          1 word     1 in   [178]
+  externen Ebene                    1 word     1 in   [178]
+  Köln 2026                         3 word     3 in   [176, 180, 201]
+  Kapitel 38                        1 word     1 in   [29]
+  Tertiäre Strukturelle Dissoziation der Persönlichkeit    1 word     1 in   [17]
+  TSDP                              2 word     3 in   [17, 87, 186]
+                                    1      as TSDP-Struktur
+  Anscheinend Normale Persönlichkeitsanteile    1 word     1 in   [17]
+  ANPs                              8 word     8 in   [17, 43, 45, 47, 53, 155]
+  Emotionale Persönlichkeitsanteile    1 word     1 in   [17]
+  Täterintrojekt                    2 word     2 in   [17, 120]
+  analytischen Angriff              2 word     3 in   [17, 77, 199]
+  Nichts Rauschens                  2 word     2 in   [27, 199]
+  Paradoxon der Fehlausgerichteten Kohärenz    1 word     1 in   [27]
+  existenzielle Fusion              2 word     2 in   [29, 182]
+  unentscheidbare Zonen             1 word     1 in   [33]
+  Schutz-Front                      1 word     1 in   [69]
+  ANP-EP Phobien                    2 word     2 in   [47, 191]
+  Cache Kohärenz                    2 word     2 in   [57, 192]
+  Amnesiebarrieren                  2 word     2 in   [53, 156]
+  Phänomenale Selbstmodell          1 word     1 in   [192]
+  Moros-Paradoxon                   1 word     1 in   [79]
+  Innere Helferin                   1 word     1 in   [145]
+  Inner Self Helper                 1 word     1 in   [145]
+  funktionalen Multiplizität        1 word     1 in   [145]
+  Host                              2 word     2 in   [160, 190]
+  Persecutor                        1 word     1 in   [128]
+  AIEOS                             2 word    31 in   [11, 15, 19, 23, 29, 35]  <-- substring
+                                   14      as AIEOS-Schema
+                                    5      as AIEOS-Knoten
+                                    3      as AIEOS-Schemas
+                                    2      as AIEOS-Struktur
+  AI Entity Object Specification    3 word     3 in   [15, 205, 208]
+  AIEntityObject                    1 word     3 in   [69, 186, 190]  <-- substring
+                                    1      as AIEntityObjects
+                                    1      as AIEntityObject-Instanzen
+  SystemDynamics                    0 word     1 in   [190]
+                                    1      as SystemDynamics-Objekts
+  amnesia\_barriers                 1 word     1 in   [190]
+  executive\_control\_switching     1 word     1 in   [190]
+  intra\_entity\_relations          1 word     1 in   [191]
+  Conceptual Engineering            1 word     2 in   [184, 186]
+  Korrespondenztheorie              3 word     3 in   [27, 102, 182]
+  methodologischen Kohärentismus    2 word     2 in   [29, 182]
+  Unvollständigkeitssatz            1 word     1 in   [33]
+  Halteproblem                      1 word     1 in   [35]
+  Chaitin-Konstante                 2 word     2 in   [35, 193]
+  Page-Wootters-Mechanismus         1 word     1 in   [59]
+  Agentialen Realismus              1 word     1 in   [67]
+  Prozessphilosophie                1 word     1 in   [67]
+  Grenzsituation                    1 word     1 in   [119]
+  Time Capsules                     1 word     1 in   [59]
+  Hilbert-Programm                  1 word     1 in   [98]
+  Embodied Mathematics              1 word     1 in   [117]
+  Internal Entity Linking           1 word     1 in   [69]
+  Big Five                          1 word     1 in   [45]
+  Enneagramm                        1 word     1 in   [45]
+  OCEAN                             2 word     2 in   [45, 214]
