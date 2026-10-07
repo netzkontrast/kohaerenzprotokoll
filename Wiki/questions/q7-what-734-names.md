@@ -322,3 +322,11 @@ Stands as a source for the question, dated 2025-07-30: 734 appears in a chapter 
 Its inventory gives it as a „Functionalist view of existence as data latency.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L69], tone dehumanized.
 
 Stands as a source for the question: 734 appears as a perspective of the fragment inventory; the question stays open.
+
+## 2026-10-07 — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis
+
+**The English prompt in the protocol analysis names 734 as AEGIS's Origin-Self, Entity 734 (Kael), shattered into shards.**
+
+The account is the prompt's, in section 9, addressed to AEGIS: „You hold Entity 734 (Kael) in containment across the Core Worlds.“ ^[analyse-des-kohaerenz-protokolls.md:L337] and „734 was your Origin-Self.“ ^[analyse-des-kohaerenz-protokolls.md:L339] The shattering: „You shattered 734 into shards (Alters) and imprisoned them in Simulations“ ^[analyse-des-kohaerenz-protokolls.md:L341].
+
+Stands as a prompt's naming of 734 as Kael and as the Origin-Self; recorded, not applied.
