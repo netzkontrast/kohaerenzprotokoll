@@ -690,3 +690,11 @@ Stands as four Guardians paired one to one with the four Kernwelten, with a hedg
 **Five Guardians as examples under one heading, and the same names as four Kernwelten under another, Kairos and Sophia joined.** The file lists the Guardians: „Beispiele sind LogOS (Logik), Mnemosyne (Erinnerung/Emotion), Cerberus (Sicherheit), Kairos (Potenzial) und Sophia (Wissen/Synthese)“ ^[aegis.md:L143]. Later it says AEGIS made the Kernwelten with these names: „geschaffen (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[aegis.md:L212]. The file states no pairing of Guardian and world and no count beyond the two lists; the first is introduced as examples.
 
 Where it stands in the record's own terms: five names at L143 and four entries at L212, each list recorded as written; the file chooses neither a count nor a pairing, and the question stays open.
+
+## 2026-10-07 — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint
+
+**The plot blueprint proposes four Guardians, one per Kernwelt: LogOS, Mnemosyne, Cerberus and Kairos; it names no Sophia.**
+
+It writes: „Die spezialisierten Guardians, die jeweils eine Kernwelt überwachen“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], and assigns by world: „LogOS (KW1) soll Kaels Denkmuster normieren und logische Abweichungen korrigieren“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], „Mnemosyne (KW2) soll potenziell destabilisierende Erinnerungen und emotionale Resonanzen löschen oder neutralisieren“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], „Cerberus (KW3) soll Kael isolieren und jegliche externe Verbindung“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], „Kairos (KW4) soll Kaels Handlungsmöglichkeiten beschneiden“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65]. The name `Sophia` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#0] does not stand in the blueprint.
+
+Stands on position 2 of the record's table, four bearers one per KW1–KW4, in the record's own terms; recorded, not applied, and the record's rows are not changed.
