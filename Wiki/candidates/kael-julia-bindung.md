@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll", "welten"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll", "welten", "kohaerenz-protokoll-weltkonzept-synthese"]
 gathered: "2026-09-17"
 ---
 
@@ -42,6 +42,14 @@ open question ^[kohaerenzprotokoll-aegis-und-systementropie.md:L239].
 The reply writes the connection as `Kael-Julia-Verbindung` and `K-J-Verbindung`, and once as `K-J-Bindung`, in LogOS's entry (L65). Of AEGIS it says it is „systemisch unfähig“ ^[welten.md:L46] to recognise or process „die Natur und Bedeutung der Kael-Julia-Verbindung“ ^[welten.md:L46]. The connection is, it says, „eine potenziell höhere Form der Kohärenz“ ^[welten.md:L46], which AEGIS misreads as a maximal threat because it escapes its logic of separation.
 
 LogOS „Kann qualitative Zustände, Emotionen oder nicht-logische Verbindungen“ ^[welten.md:L65] such as the K-J-Bindung not process; Mnemosyne cannot grasp its external, a-temporal nature (L66); Cerberus sees its effects as an anomaly but not its origin (L67). In the dynamics section the connection causes system-wide `Echos`, misunderstood by AEGIS: „Die K-J-Verbindung verursacht systemweite, aber von AEGIS missverstandene“ ^[welten.md:L123].
+
+## Reading — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept — the Kael-Juna-Verbindung as the heart of coherence by integration
+
+The final world concept titles its section IV `Die Kael-Juna-Verbindung: Kohärenz durch Integration` and opens it: „Die Verbindung zwischen Kael und Juna ist das Herzstück des alternativen Kohärenzprinzips“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L89]. It gives the strength of the bond a ground: „die Stärke der Kael-Juna-Bindung ergeben sich aus der“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L104] relational complexity, that is the richness and depth of their inner connections. The text uses both `Verbindung` and `Bindung`; which name the page carries is open (J13).
+
+Against AEGIS's coherence by Abgrenzung it sets, in a table, the Kael-Juna coherence by Integration, with Resonanz, Verbindung and Komplexität as mechanism. It says the paradox shows itself in „AEGIS' Unfähigkeit, die Kael-Juna-Verbindung zu begreifen“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L134].
+
+Recorded as the document's own description, not applied.
 
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Julia as one of Juna's names, and a question about Köln
 
