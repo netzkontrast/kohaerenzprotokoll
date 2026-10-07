@@ -1,0 +1,14 @@
+# kohaerenz-analyse-kapitel-2
+  lines                249  (frontmatter ends at 9)
+  body words           2681
+  headings             39   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       3
+  backslash escapes    0
+  typographic marks    10   ascii quotes 182
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    38
+  repeated labels      Funktion x8, Blinder Fleck x3, Charakter x3, Domäne x3
+  longest line         573 chars
+

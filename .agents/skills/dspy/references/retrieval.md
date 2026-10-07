@@ -162,7 +162,7 @@ ranked term-pages, plus precision.
 | method | recall@8, current |
 |---|--:|
 | seeds only | 55 <!--state:graphrag.recall_seeds-->% |
-| personalized PageRank | 69 <!--state:graphrag.recall_ppr-->% |
+| personalized PageRank | 65 <!--state:graphrag.recall_ppr-->% |
 
 over 26 <!--state:graphrag.cases--> cases (`python3 scripts/state.py --get
 graphrag.cases`). `ppr+gloss` scores identically to `ppr` — no bench case is
@@ -633,10 +633,10 @@ P8): an edge to a page that does not exist, a document no manifest row lands.
 Exports: `--json`, `--graphml`, `--triples`, `--around <term> --hops N
 [--mermaid]`.
 
-**Current counts**: 294 <!--state:graph.nodes--> nodes,
-9427 <!--state:graph.edges--> edges; the evidence layer holds
-18461 <!--state:graph.evidence--> quotations, of which
-18458 <!--state:graph.evidence_verified--> verify against their cited line.
+**Current counts**: 295 <!--state:graph.nodes--> nodes,
+9479 <!--state:graph.edges--> edges; the evidence layer holds
+18554 <!--state:graph.evidence--> quotations, of which
+18551 <!--state:graph.evidence_verified--> verify against their cited line.
 
 **The graph is not a third layer** (P20): it is derived on every call, about
 0.4s, exactly like `Wiki/index.json`, and holds no content a page does not
