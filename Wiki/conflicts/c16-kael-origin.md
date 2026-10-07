@@ -401,3 +401,11 @@ Where it stands in the record's own terms: one more statement of Juna/V as a par
 Among its external observers it describes `Juna/V`, who has a dual nature: she is a transcendent entity and „exiled part of Kael's own“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52] Ursprungs-Ich (Original Self). Her perspective, it says, „reframes Kael's quest as an act of reintegrating the most deeply lost part of himself“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52]. In Story 8 the proposal directs her narration of „a painful, resonant echo of her own violent exile“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L81].
 
 Stands as one more position in the record, on the side of the Ursprungs-Ich: here the exile is Juna/V from Kael's original self, a different relation from the positions that make Kael the fragment; recorded, not applied.
+
+## 2026-10-07 — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier
+
+**The development dossier plans Kael as AEGIS's externalised trauma: a human mind structured after AEGIS's own fragmentation, and the system's founding trauma itself.**
+
+A planning dossier, not a canon claim, and it names no external entity M here. It says: „externalisierte AEGIS es, indem es einen menschlichen Geist nach dem Abbild seiner eigenen Fragmentierung strukturierte“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L50]. Its core sentence has Kael confront the digital god „der ihn nach dem Abbild seines eigenen Traumas erschaffen hat“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L54]. At the midpoint of act II the plan has the truth revealed: „Die Wahrheit wird enthüllt: Kael ist kein“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L155] error in the system, but the system's founding trauma, a living memory of the Genesis-Krise.
+
+Stands beside the record's rows as one more telling of AEGIS's own split self producing Kael; recorded, not applied.
