@@ -414,3 +414,11 @@ Stands as a position for the first bearer, AEGIS, in the record's own terms; rec
 In a scenario of the conflict map, two personas feel the link, and „Da AEGIS diese Verbindung nicht versteht, interpretiert es sie als Fehler, Instabilität oder“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L232] a Riss. The scenario closes with the line „AEGIS' blinder Fleck“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L236]. Of AEGIS and the personas' worlds the architecture writes tentatively: „AEGIS könnte diese Spezialisierung ausnutzen, um Kael effizienter zu steuern“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142].
 
 Stands as a row on AEGIS's sight, not on the Guardians: the architecture speaks of AEGIS alone here and decides nothing of the record's conflict.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report reads the Guardians as subroutines of AEGIS that cannot see Juna.**
+
+It reports: „Die Guardians sind keine eigenständigen KI-Persönlichkeiten, sondern spezialisierte Subroutinen von AEGIS, die abgespalten wurden“ ^[kohaerenz-analyse-kapitel-2.md:L63] (L63), and that they cannot see the anomaly because „Sie operieren innerhalb geschlossener logischer Systeme, während Juna eine externe Variable darstellt.“ ^[kohaerenz-analyse-kapitel-2.md:L63] For them she is noise: „Für die Guardians ist sie Rauschen.“ ^[kohaerenz-analyse-kapitel-2.md:L191] (L191)
+
+This adds a row to the record and decides nothing in it.
