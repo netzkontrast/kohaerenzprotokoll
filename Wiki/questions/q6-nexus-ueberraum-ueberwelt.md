@@ -253,3 +253,11 @@ Stands as one more occurrence of the two names, not tied together; nothing is de
 The Nexus: „Michaels erste Versuche mit den Werkzeugen im Nexus oder bei kurzen Ausflügen in die Welten“ ^[kohaerenz-protokoll-2.md:L107]. The Überwelt: „Digital, AEGIS/Guardian-Domäne“ ^[kohaerenz-protokoll-2.md:L82] and „Rein informationsbasierte Realität, regiert vom AEGIS-Protokoll.“ ^[kohaerenz-protokoll-2.md:L82]
 
 Stands: one mention of the Nexus, undefined, and no sentence relating it to the Überwelt; the question stays open in the record's terms.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis places the Überwelt as the third Kernwelt, AEGIS's command center, and relates it to no Nexus or Überraum.**
+
+It writes: „Kael breaches the firewall of the“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L251] Überwelt, then „AEGIS's command center.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L251] The line marks it `KW3`.
+
+Stands as one more row of where the Überwelt is placed; the question stays open.
