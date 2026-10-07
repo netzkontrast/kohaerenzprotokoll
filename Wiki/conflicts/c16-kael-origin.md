@@ -361,3 +361,11 @@ It stands with the first reading of C16, Kael from outside AEGIS with his dissoc
 It introduces Kael as „System Kael, einem Protagonisten mit einer durch Trauma bedingten fragmentierten Identität“ ^[roman-konzept-kael-aegis-simulation.md:L15], and the Alters as a survival strategy; it names no external entity M, no split self and no `Komponente 734`. The question of origin that it does ask concerns Juna/V, not Kael: „Sind sie die ursprünglichen Simulanten“ ^[roman-konzept-kael-aegis-simulation.md:L125]. And for the resolution: „Sind sie Verbündete, die Simulanten selbst, Wächter einer höheren Realitätsebene, oder etwas anderes“ ^[roman-konzept-kael-aegis-simulation.md:L185].
 
 Stands outside the record's two origins: it neither tells Kael as an avatar of M nor as AEGIS's remainder, and adds no row; Kael's source is trauma here, and the question it leaves open is Juna/V's nature.
+
+## 2026-10-07 — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint
+
+**The blueprint names the Kohärenz-Insel, not an entity M or a split self, as the origin of Kael's essence and the K-J connection.**
+
+In its Monstergruppe paragraph it writes: „Die Kohärenz-Insel, der Ursprung von Kaels Essenz und der K-J-Verbindung“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It describes this as a metaphor „kann metaphorisch durch die Eigenschaften der mathematischen Monstergruppe“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119] described, and says Kael „könnte diese Metapher in KW4 entdecken oder intuitiv erfassen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119], which would help him understand „die Natur seiner eigenen Herkunft“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It also asks whether Juna is „ein Aspekt der Kohärenz-Insel selbst“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L180]. The document does not mention an entity M, a Komponente 734 or a split self in these lines.
+
+Where it stands in the record's own terms: a third place for Kael's origin, in the island, from a source of 2025-04-23; stated as a metaphor and a proposal; recorded, not applied, and the record's rows are not changed.
