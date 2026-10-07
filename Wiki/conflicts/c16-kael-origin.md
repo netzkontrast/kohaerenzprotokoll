@@ -291,3 +291,11 @@ Stands as a row for the side that makes AEGIS the cause of Kael's fragmentation,
 It sets: „Michael (The Ghost): This is the original“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L132] Host personality, one „who shattered during the“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L132] Genesis Crisis. Kael, by contrast, is „This is the primary ANP (Apparently Normal Part).“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L131]
 
 Stands as one more row for the origin question, Kael's origin as a system whose original host shattered; the report's proposal, recorded, not applied.
+
+## 2026-10-07 — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis
+
+**The Dual-Kernel analysis reports that a broken original link of consciousness gave rise to AEGIS, and that Kael lives as host in silence about his past.**
+
+It writes „In der Genesis-Krise wurde eine ursprüngliche Bewusstseinsverbindung gewaltsam unterbrochen“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L209], and that a part of the original self gave up its subjectivity to become AEGIS: „opferte ein Teil des ursprünglichen Ichs seine Subjektivität“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L209]. Kael „lebt als“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L215] Host in a state of informational silence about his own past. The analysis gives this as its report of the Protokoll (reference 1).
+
+Stands as one more row for the origin question, in the report's own terms: the origin as a break in an original consciousness link; reported, not applied, and the record is not decided.
