@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 29
-readings: 29
+sources: 30
+readings: 30
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-17"
 ---
 
@@ -94,6 +94,10 @@ The Leitfragen report (an analyst's review) writes the world of Kairos and Sophi
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Nexus in Kap 25, 27, 30 and 33
 
 Kap 25 sets the place „Der Nexus (Das Zentrum von AEGIS).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L317] and plans „Kael durchbricht die letzte Barriere und betritt den Nexus.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L319] Kap 27 is set at „Der Rand des Nexus, das pure Nichts.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L345] Kap 30 at „Der Aufstieg zurück zum Nexus-Kern.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L381] and Kap 33 at „Der Nexus-Core.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L417]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — the Nexus as a place of retreat in Kapitel 33
+
+The DKT synthesis, an analysis of the plot, names the Nexus once, in the narrative bullet of Kapitel 33, `Jenseits des Ereignishorizonts`: „Rückzug in den Nexus; Schutz von Juna vor dem finalen Löschbefehl“ ^[roman-synthese-mit-dual-kernel-theorie.md:L333]. The line does not explain the term; two lines earlier the same chapter has Kael create a `Verschränkungs-Insel` (L331). The document does not say the two are one place.
 
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Kael ascending into the Nexus, glossed as the Überwelt
 
