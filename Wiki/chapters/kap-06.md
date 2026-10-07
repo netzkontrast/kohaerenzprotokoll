@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 41
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
+sources: 44
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -60,6 +60,10 @@ Position: „(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistent
 
 - The subplot catalogue analyses Kapitel 6 under the phase „(Illusionärer) Segen des Erfolgs / Trügerische Stabilität“ ^[subplot-entwicklung-fuer-romanstruktur.md:L154] of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Fragmente der Vergangenheit
+
+- The subplot revision's chapter 6: „Fragmente der Vergangenheit“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L40]. Its content: „Trauma-Erinnerungen & EPs“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L40]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Fragmente der Vergangenheit
 
 Title: the commission titles the chapter „Fragmente der Vergangenheit“ ^[kontext-outline.md:L131], placed in Act 1.
@@ -110,6 +114,10 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 ## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Bedrohungsanalyse: Die Juna-Anomalie
 
 - The chapter overview plans Kapitel 6 as „Bedrohungsanalyse: Die Juna-Anomalie“ ^[detaillierte-kapiteluebersicht.md:L22], in Akt I (Ki). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Bedrohungsanalyse: Die Juna-Anomalie
+
+- The final causal blueprint's chapter 6: „Bedrohungsanalyse: Die Juna-Anomalie“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L44]. Its content: „AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz als unkorrelierte, hoch-entropische Systemfehler und beginnen, die Quelle“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L46]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -177,6 +185,10 @@ Position: Teil I; POV from `Perspektive & Stimme`: „Kael (kämpft um die Kontr
 
 - Story: the matrix plans „Kael bemerkt, dass bestimmte Wörter (Schmerz, Vergangenheit) von der Umgebung buchstäblich nicht gehört oder ausgesprochen werden können“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L87]
 - Question: „Ist Sprache ein Werkzeug der Wahrheit oder der Kontrolle?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L86]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Sprachliche Schatten
+
+- The DKT synthesis's chapter 6: „Sprachliche Schatten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L78]. Its narrative level: „Kael versucht zu kommunizieren, aber Metaphern werden als unlogisch“ ^[roman-synthese-mit-dual-kernel-theorie.md:L82]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

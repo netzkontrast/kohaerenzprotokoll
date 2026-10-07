@@ -83,7 +83,7 @@ term from a sentence by punctuation, so a bulleted sentence without a comma is
 counted as a candidate. A term that carries a comma — a title, `A, B` — is left
 out of the count, and the count's header names it.
 A term with an ordinal is left out the same way — a period and a space make
-`1. Person` a sentence — so count it by hand in `05-verify.txt`. A bullet that
+`1. Person` a sentence — so count it by hand in `05-verify.txt`. An abbreviation does the same: `A vs. B`, `Dr. Thorne`, `Orte etc.` are read as sentences and not counted (eight headings of one list were lost this way, document 205) — list the parts, or count by hand. A bullet that
 wraps is judged by its first line alone.
 
 ## 2 · Questions to carry while reading

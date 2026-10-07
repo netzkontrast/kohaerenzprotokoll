@@ -1,0 +1,14 @@
+# analyse-des-romanprojekts-kohaerenz-protokoll
+  lines                250  (frontmatter ends at 9)
+  body words           4157
+  headings             17   bold-only lines 3
+  table rows           29   code fences 0
+  question marks       1
+  backslash escapes    156
+  typographic marks    138   ascii quotes 6
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    34
+  repeated labels      none
+  longest line         976 chars
+

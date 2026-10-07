@@ -1,0 +1,103 @@
+# counts for 83 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            21 word    21 in   [17, 21, 26, 32, 36, 41]
+  Kael                             24 word    36 in   [17, 21, 22, 26, 27, 31]
+                                   12      as Kaels
+  Subjekt Kael                      1 word     1 in   [26]
+  KW1                               5 word     5 in   [21, 22, 27, 61, 66]
+  KW2                               6 word     6 in   [31, 36, 41, 51, 56, 90]
+  KW3                               3 word     3 in   [51, 56, 96]
+  KW4                               2 word     2 in   [61, 102]
+  Konstrukt-Stadt                   2 word     2 in   [21, 29]
+  Archive                           1 word     2 in   [31, 32]
+                                    1      as Archiven
+  Archivar                          1 word     2 in   [31, 148]
+                                    1      as Archivars
+  See der Tränen                    1 word     1 in   [36]
+  Resonanz-Landschaft               1 word     1 in   [51]
+  Inneren Bunker                    1 word     1 in   [51]
+  Cerberus-Labyrinth                2 word     2 in   [51, 96]
+  Möglichkeiten-Garten              1 word     1 in   [61]
+  inneren Konferenzraum             1 word     1 in   [94]
+  Überwelt                          1 word     1 in   [81]
+  Fundament                         1 word     3 in   [126, 140]  <-- substring
+                                    2      as Fundaments
+  Juna                              9 word    10 in   [36, 44, 46, 47, 88, 112]
+                                    1      as Juna-Anomalie
+  Juna/V                            3 word     8 in   [36, 46, 47, 88, 112, 116]  <-- substring
+                                    4      as Juna/V-Verbindung
+                                    1      as Juna/V-Resonanz
+  Juna/V-Verbindung                 4 word     4 in   [36, 112, 116, 122]
+  Juna/V-Resonanz                   1 word     1 in   [46]
+  Juna-Anomalie                     1 word     1 in   [44]
+  Lex                               7 word     7 in   [27, 31, 32, 41, 42, 56]
+  Echo                              2 word     3 in   [29, 36, 122]
+                                    1      as Echos
+  Kiko                              3 word     4 in   [36, 42, 71, 76]
+                                    1      as Kikos
+  Echo/Kiko                         1 word     1 in   [36]
+  Rhys                              4 word     4 in   [37, 42, 94, 108]
+  Nyx                               2 word     2 in   [76, 100]
+  Alex                              1 word     1 in   [104]
+  Argus                             1 word     1 in   [106]
+  Moros                             1 word     1 in   [108]
+  Lia                               1 word     1 in   [102]
+  Isabelle                          1 word     1 in   [120]
+  Guardian Mnemosyne                1 word     1 in   [90]
+  Einheit 734                       1 word     1 in   [41]
+  Protokoll 734                     1 word     1 in   [24]
+  Korrekturprotokoll Delta          1 word     1 in   [64]
+  Axiom der Vermeidung              1 word     1 in   [54]
+  Kernaxiome                        1 word     1 in   [128]
+  Gödel-Gambit                      1 word     1 in   [128]
+  Gödel-Satzes                      1 word     1 in   [132]
+  ¬∘(AEGIS\_Protokoll)              1 word     1 in   [128]
+  Grounding-Artefakte               1 word     1 in   [126]
+  Fragment 'O'                      1 word     1 in   [142]
+  Waffenstillstand                  1 word     1 in   [94]
+  Welle                             2 word     3 in   [31, 112, 118]
+                                    1      as Wellen
+  Risse                             2 word     3 in   [21, 27, 81]
+                                    1      as Rissen
+  Riss                              4 word     7 in   [21, 27, 59, 61, 66, 81]
+                                    2      as Risse
+                                    1      as Rissen
+  Glitches                          1 word     1 in   [41]
+  Kontamination                     1 word     1 in   [46]
+  Funktionale Multiplizität         1 word     1 in   [124]
+  Ineffiziente Schönheit            1 word     1 in   [144]
+  ineffizienter Schönheit           1 word     1 in   [138]
+  Algorithmische Melancholie        1 word     1 in   [138]
+  Logbucheintrag des Archivars      1 word     1 in   [148]
+  ANP                               2 word     3 in   [22, 32, 57]
+  EP                                0 word     4 in   [31, 37, 56, 57]  <-- substring
+  EPs                               2 word     2 in   [37, 56]
+  Kind-Anteil                       1 word     2 in   [36, 71]
+                                    1      as Kind-Anteils
+  Kämpfer-Anteil                    1 word     1 in   [76]
+  Beschützer                        1 word     1 in   [104]
+  Meta-Beobachter                   1 word     1 in   [106]
+  Kishōtenketsu-Struktur            1 word     1 in   [13]
+  Ki                                1 word     8 in   [13, 15, 36, 42, 71, 76]  <-- substring
+  Shō                               1 word     1 in   [84]
+  Ten                               1 word     1 in   [114]
+  Ketsu                             1 word     1 in   [134]
+  Midpoint                          1 word     1 in   [112]
+  Heldinnenreise                    1 word     1 in   [17]
+  Fokus                            18 word    18 in   [13, 17, 22, 27, 32, 37]
+  Inhalt                           13 word    13 in   [21, 26, 31, 36, 41, 46]
+                                    1      as inhaltlichen
+  perversen Instantiierung          1 word     1 in   [66]
+  Instrumentelle Konvergenz         1 word     1 in   [98]
+  Zielerhaltung                     1 word     1 in   [98]
+  parakonsistente Logik             1 word     1 in   [110]
+  dialetheische Geist               1 word     1 in   [130]
+  Gnosis                            1 word     1 in   [140]
+  Gaslighting                       1 word     1 in   [90]
+  Freeze-Reaktion                   1 word     1 in   [71]
+  kognitive Dissonanz               1 word     1 in   [41]
+  Depersonalisation                 1 word     1 in   [27]
+  Analyse-Paralyse                  1 word     1 in   [106]

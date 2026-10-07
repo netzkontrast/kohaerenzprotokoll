@@ -486,3 +486,27 @@ Where it stands: the `Guardians` as AEGIS's agents, a third voice beside neither
 It calls them „spezialisierte Wächter-Subsysteme wie LogOS (zuständig für logische Konsistenz)“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L30], commissioned in the first phase: „Wächter wie LogOS (Logik) und Mnemosyne (Gedächtnis) werden beauftragt, Daten zu sammeln und Analysen durchzuführen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L70]. Of their limits it says that those closest to Kael's psyche „könnten anfangen, Zweifel zu entwickeln oder unerwartete Verhaltensweisen zu zeigen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L74]. The document writes of AEGIS's own limit as one of formal systems and Gödel, and does not name a blind spot for each Wächter in the lines read.
 
 Where it stands: the Wächter as AEGIS's agents with a possible deviation, a voice beside neither bearer's blind spot; recorded, not applied.
+
+## 2026-10-07 — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision
+
+**The subplot revision makes the Wächter AEGIS's concrete agents and has AEGIS use LogOS and Mnemosyne against Kael; it names no blind spot of AEGIS's whole and no deviation of the Wächter from it.**
+
+Its analysis says the Wächter subplot makes AEGIS' control tangible „durch spezifische, charakterisierte Agenten greifbar“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L22]. In Part 1, Kap 8, `Die Logik des Gaslichts`, AEGIS acts through two of them: „AEGIS (LogOS, Mnemosyne) nutzt Kaels Schwächen für Gaslighting“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L42]. Of the Guardians' limits, Part 2, Kap 16 plans that Kael „Versteht ihre Funktionen/Blindspots“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L55]. Of AEGIS itself, Kap 17 plans the discovery of „AEGIS' Kernparadoxon“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L56], which the document does not call a blind spot.
+
+Where it stands: the Wächter as AEGIS's agents, with blindspots at the level of the Guardians in Kap 16 and a core paradox at the level of AEGIS in Kap 17; recorded, not applied.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic plans Guardians both loyal to AEGIS and turning against it: some become allies through the Guardian's Dilemma, one is loyal, one is a rebel.**
+
+The narrator overview lists the Kernwelt Guardians, „some of whom become allies due to the“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52] Wächter-Zwiespalt, a dilemma „that forces them to question their allegiance“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52]. Story 21 takes „From the perspective of a Guardian loyal to AEGIS, describe its first direct perception of the“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L147] Moonshine-Link. Story 29 is assigned to „A Rebel Guardian“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L202].
+
+Where it stands: the Guardians as loyal, rebel and turning, in story proposals; recorded, not applied.
+
+## 2026-10-07 — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis
+
+**The DKT synthesis places the Guardians under AEGIS as its executing organs and gives them one shared blind spot, beside a separate failure for each.**
+
+Its heading reads „Die Guardians: AEGIS' Ausführungsorgane“ ^[roman-synthese-mit-dual-kernel-theorie.md:L413]. It defines them: „Die Guardians sind spezialisierte Filter-Algorithmen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L415], and names their common `Blinder Fleck`, the inability to process non-logical relationality (the line ends „ist die Unfähigkeit, nicht-logische Relationalität zu verarbeiten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L415]). Each entry then states a failure of its own, for example „Er interpretiert Verletzlichkeit als Angriff“ ^[roman-synthese-mit-dual-kernel-theorie.md:L419] for Cerberus and „Sie begreift Integration als Eliminierung von Abweichung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L421] for Sophia.
+
+Stands on the side of one structure under AEGIS with a blind spot shared by the Guardians and individual failures listed beside it; recorded, not applied.

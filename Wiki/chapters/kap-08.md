@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 42
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
+sources: 45
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -61,6 +61,10 @@ Position: „(Fundamentales Konzept: Internal Family Systems (IFS) – Heilung d
 
 - The subplot catalogue analyses Kapitel 8 under the phase „Abstieg zur Göttin / Konfrontation mit tiefstem Selbst/Trauma/Kernwunde“ ^[subplot-entwicklung-fuer-romanstruktur.md:L204] of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Die Logik des Gaslichts
+
+- The subplot revision's chapter 8: „Die Logik des Gaslichts“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L42]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Logik des Gaslichts
 
 Title: the commission titles the chapter „Die Logik des Gaslichts“ ^[kontext-outline.md:L153], placed in Act 1.
@@ -111,6 +115,10 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 ## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Axiom der Vermeidung
 
 - The chapter overview plans Kapitel 8 as „Axiom der Vermeidung“ ^[detaillierte-kapiteluebersicht.md:L24], in Akt I (Ki). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Axiom der Vermeidung
+
+- The final causal blueprint's chapter 8: „Axiom der Vermeidung“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L54]. Its content: „Aus der Perspektive von Lex wird die Notwendigkeit etabliert, die gefährlichen, irrationalen Zonen“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L56]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -175,6 +183,10 @@ Position: Teil I; POV from `Perspektive & Stimme`: „Kael (dissoziiert, schwebe
 
 - Story: the matrix plans „Auf der Flucht vor einer System-Korrektur fällt Kael durch einen Riss und landet in der Übergangszone“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L111]
 - Question: „Wo endet die Welt und wo beginnt der Geist?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L110]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Russellsche Trümmer
+
+- The DKT synthesis's chapter 8: „Russellsche Trümmer“ ^[roman-synthese-mit-dual-kernel-theorie.md:L96]. Its narrative level: „Reste früherer, kollabierter Simulationszyklen am Rand“ ^[roman-synthese-mit-dual-kernel-theorie.md:L100]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

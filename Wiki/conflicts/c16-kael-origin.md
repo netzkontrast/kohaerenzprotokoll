@@ -369,3 +369,67 @@ Stands outside the record's two origins: it neither tells Kael as an avatar of M
 In its Monstergruppe paragraph it writes: „Die Kohärenz-Insel, der Ursprung von Kaels Essenz und der K-J-Verbindung“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It describes this as a metaphor „kann metaphorisch durch die Eigenschaften der mathematischen Monstergruppe“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119] described, and says Kael „könnte diese Metapher in KW4 entdecken oder intuitiv erfassen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119], which would help him understand „die Natur seiner eigenen Herkunft“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It also asks whether Juna is „ein Aspekt der Kohärenz-Insel selbst“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L180]. The document does not mention an entity M, a Komponente 734 or a split self in these lines.
 
 Where it stands in the record's own terms: a third place for Kael's origin, in the island, from a source of 2025-04-23; stated as a metaphor and a proposal; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible states two links at once: Juna/V as a part of Kael's own Ursprungs-Ich, and Kael as the memory of AEGIS's trauma.**
+
+On Juna/V it says she is both a transcendent entity and „an exiled part of Kael's own“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L173] Ursprungs-Ich. At the Midpoint Reversal it says „he is the living, externalized memory of AEGIS's own foundational trauma“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L197], the Genesis-Krise. Both are stated as fact and the guide does not relate them.
+
+This is one more position on the record's question, stated by a writer's guide in its own voice; it settles nothing.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing uses the word Ursprungs-Ich for two origins: AEGIS's original unified consciousness, and the part of it that Juna/V is said to be of Kael.**
+
+On AEGIS it writes that „its original, unified consciousness“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L61] met a transcendent entity „related to Juna/V“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L61]. On Juna/V it says she is „an exiled part of Kael's own“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L112] Ursprungs-Ich. The briefing gives Kael no origin as a fragment of AEGIS or of an entity M.
+
+Where it stands in the record's own terms: one word, Ursprungs-Ich, for two owners, stated as fact and unrelated by the briefing; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible
+
+**The worldbuilding bible states Juna/V as an exiled part of Kael's own Ursprungs-Ich, and Kael's instability as arising from his own inner state.**
+
+It says Juna/V is a transcendent entity from the External Level „who is also an exiled part of Kael's own“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L163] Ursprungs-Ich. Of Kael it says „His internal psychological state is the direct causal source of the instability“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L140]. The word `Ursprungs-Ich` is also used for AEGIS: the Resonanzkaskade of the Genesis-Krise is triggered „within its original consciousness“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L135], so the bible uses the one word for two owners and does not relate them.
+
+Where it stands in the record's own terms: one more statement of Juna/V as a part of Kael's Ursprungs-Ich, in a bible's own voice; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic, an English proposal, makes Juna/V an exiled part of Kael's own Ursprungs-Ich; it does not say that Kael is a fragment of M or of AEGIS.**
+
+Among its external observers it describes `Juna/V`, who has a dual nature: she is a transcendent entity and „exiled part of Kael's own“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52] Ursprungs-Ich (Original Self). Her perspective, it says, „reframes Kael's quest as an act of reintegrating the most deeply lost part of himself“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52]. In Story 8 the proposal directs her narration of „a painful, resonant echo of her own violent exile“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L81].
+
+Stands as one more position in the record, on the side of the Ursprungs-Ich: here the exile is Juna/V from Kael's original self, a different relation from the positions that make Kael the fragment; recorded, not applied.
+
+## 2026-10-07 — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier
+
+**The development dossier plans Kael as AEGIS's externalised trauma: a human mind structured after AEGIS's own fragmentation, and the system's founding trauma itself.**
+
+A planning dossier, not a canon claim, and it names no external entity M here. It says: „externalisierte AEGIS es, indem es einen menschlichen Geist nach dem Abbild seiner eigenen Fragmentierung strukturierte“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L50]. Its core sentence has Kael confront the digital god „der ihn nach dem Abbild seines eigenen Traumas erschaffen hat“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L54]. At the midpoint of act II the plan has the truth revealed: „Die Wahrheit wird enthüllt: Kael ist kein“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L155] error in the system, but the system's founding trauma, a living memory of the Genesis-Krise.
+
+Stands beside the record's rows as one more telling of AEGIS's own split self producing Kael; recorded, not applied.
+
+## 2026-10-07 — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé
+
+**The correspondence exposé makes Juna/V an exiled part of Kael's Ursprungs-Ich and has AEGIS fragment its own Ursprungs-Ich; it does not make Kael a fragment of either.**
+
+On Juna/V it writes: „Possessing a dual nature as both a transcendent entity and“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] an exiled part of Kael's own `Ursprungs-Ich`. On AEGIS it writes that the Genesis-Krise was met when „AEGIS's logic-based system encountered a transcendent, unclassifiable entity“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L38], and that in the `Trennungsprotokoll` the act is an informational dismemberment „where it violently fragmented its own“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L38] `Ursprungs-Ich`. The exposé gives no origin for Kael as a fragment of AEGIS or of an entity M.
+
+Where it stands in the record's own terms: one word, `Ursprungs-Ich`, for two owners, stated in a design exposé and unrelated by it; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis
+
+**The DKT synthesis gives no origin for Kael; it lists Juna as a part of his system, a transcendence vector and interface to the external level.**
+
+In the character table of `Kael: Das multiple Interface` the row reads „Juna | Transzendenz-Vektor“ ^[roman-synthese-mit-dual-kernel-theorie.md:L406], with the interface to the external level in the last cell (a kernel symbol before `Interface` is lost in the export). The section calls Kael „die Witness-Funktion des Gesamtsystems“ ^[roman-synthese-mit-dual-kernel-theorie.md:L398]. It does not say where Kael or the system comes from, and it names neither M, Komponente 734 nor a split self.
+
+Stands: the document takes no side in C16; it adds Juna as a part inside Kael's system, which none of the origins in the record's table says.
+
+## 2026-10-07 — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report
+
+**The dissociative architecture report gives an origin to Juna, not to Kael: she is re-architected from an external love interest into an internal alter.**
+
+It writes: „Re-architected from an external love interest to an internal, exiled part.“ ^[kael-s-dissociative-architecture-analysis.md:L95] and, of the Moonshine-Link, that it is „mediated by the alter“ ^[kael-s-dissociative-architecture-analysis.md:L203] Juna. It names no external entity M and no Komponente 734 (`Komponente` ^[kael-s-dissociative-architecture-analysis.md:#0]), and gives Kael's own origin no account.
+
+Stands as a statement about Juna beside the record's origins of Kael; it takes no side among them.

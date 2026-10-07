@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 18
-readings: 17
+sources: 20
+readings: 19
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-architecture-synthesis"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-architecture-synthesis", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-25"
 ---
 
@@ -17,6 +17,10 @@ instead; one 2026 source, the Dramatica-Synthese, applies it to Juna and, in one
 Kael's incompressible data as well; and one, the Dual-Storyform background document, drops it from the
 canonical architecture as not referred to in the text. Each source's use is below, attributed and unmerged.
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Juna as the personified Chaitin-Konstante
+
+In its closing section, `Schlussfolgerung: Die Seele als Interface der Relationalität`, the DKT synthesis, an analysis of the plot, applies the concept to Juna: „Juna ist die personifizierte Chaitin-Konstante“ ^[roman-synthese-mit-dual-kernel-theorie.md:L462]. The same sentence goes on to say she is unpredictable, incompressible and absolutely true. Kapitel 19 of the same document is titled `Chaitins Konstante` (L199).
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26
 
 A chapter plan, and here the constant is a metaphor for a pain without a reason, not
@@ -24,6 +28,10 @@ for Juna. Its chapter 19 is titled „Chaitins Rauschen und das innere Kind" ^[r
 „Kiko weint ununterbrochen, scheinbar ohne logische Kausalität." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 „Dies ist die Metapher für Chaitins Konstante" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95] — „irreduzible mathematische Fakten, die einfach wahr sind, ohne dass eine erklärende Theorie dahintersteht." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 „Mancher Schmerz hat im Nachhinein keinen logischen Grund mehr; er ist ein axiomatisch unkomprimierbarer Fakt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
+
+## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — the constant personified by Juna
+
+The AIEOS evaluation says that the logic of the part Lex meets the halting problem and „und die algorithmische Unberechenbarkeit der Chaitin-Konstante, welche durch die Anomalie“ ^[charaktermodellierung-mit-aieos-schema.md:L35] Juna personified (Juna is set in bold in the line); the line ends that she is thus „personifiziert wird“ ^[charaktermodellierung-mit-aieos-schema.md:L35]. The report cites reference 2 for it.
 
 ## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — Juna as Chaitin constant for AEGIS
 

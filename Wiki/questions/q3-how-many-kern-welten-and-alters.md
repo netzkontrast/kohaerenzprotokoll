@@ -948,3 +948,97 @@ Stands: the document gives five alters and four Kernwelten and takes no position
 Its research part lists the alters as „Mnemosyne, Cerberus, Kairos/Sophia, Architekt“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L51], called alters named in a context text the file does not hold. Its blueprint labels each scene with a field for his dominant state, the first scene giving „Host/Kern-Selbst (desorientiert)“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L75]. The Kern-Welt count appears only in the research part, where the Konstrukt-Stadt is tied to „Kern-Welt 1: ein Raum der Rationalität und Ordnung“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L21]; it names no second Kern-Welt and draws no correspondence between worlds and alters.
 
 Stands as a plan that gives four named alters and one Kern-Welt, hedged as a hint list for the chapter; recorded, the question stays open.
+
+## 2026-10-07 — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint
+
+**The final causal blueprint names nine parts by chapter lines and four Kernwelten by chapter, and gives a total for neither.**
+
+Its parts come one per chapter line. Lex is introduced in chapter 3 with „Einführung von Lex als ANP“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L32]; the child part stands as „Echo/Kiko“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L36] in chapter 4 and as `Kiko` from chapter 5; Rhys is the empathic part of chapter 4 („tritt hervor, um die aufkommende Angst zu lindern“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L37]); Nyx is the fighter part of chapter 12 („übernimmt der Kämpfer-Anteil“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L76]); Lia stands in parentheses in chapter 21 („lernt, dass Kreativität (Lia) aus Unsicherheit entsteht“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L102]); Alex is „Der Beschützer Alex“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L104] in chapter 22; Argus is „Der Meta-Beobachter Argus“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L106] in chapter 23; Moros is „den kollabierten Anteil Moros“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L108] in chapter 24; and Isabelle's „Kontrollstrategie von Isabelle“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L120] is unmasked in chapter 28. The plan does not call Lia a part.
+
+The worlds are labelled KW1 to KW4 inside the plot lines: chapter 1 puts Kael in „der sterilen Konstrukt-Stadt“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L21]; chapter 3 sends him to the archives and the Archivar, a manifestation of Lex; chapter 7 names „Inneren Bunker“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L51] and the Cerberus-Labyrinth; chapter 9 glimpses „Möglichkeiten-Garten“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L61]. Chapter 8 places the avoidance of KW2 and KW3 in Lex's perspective. No chapter line assigns a part to one world, and no line states how many parts or worlds there are.
+
+Stands as a plan that names nine parts and four Kernwelten with no total and no one-to-one assignment; recorded, the question stays open.
+
+## 2026-10-07 — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list
+
+**The hundred concepts list names ten parts with roles and four Kernwelten as the domains of parts, a correspondence of worlds to parts that is not one to one.**
+
+Ten parts stand in group I with a type and a theme in parentheses, among them „Kiko (Kind-EP - Angst/Freeze)“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L34], „Nyx (Kampf-EP - Wut/Schutz)“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L35], „Lex (Rationaler ANP - Kontrolle)“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L36], „Moros (Kollaps-EP - Leere)“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L38] and „Argus (Beobachter/Kritiker - Meta-Kognition)“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L42]. The four worlds are given as domains: „Domäne von Lex/Kael-ANP“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L69], „Domäne der EPs; Trauma-Landschaft; Fluidität.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L70], „Domäne von Alex/Nyx; Bunker-Metapher; Zero-Trust.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L71] and „Domäne von Lia/Rhys/Selene; Emergenz; Wachstum.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L72] Nyx appears in a world of its own and, as an EP, also under the EPs; the list asks no count and states no rule.
+
+Stands as a further assignment of parts to four worlds, recorded as a topic with reasons, not as an answer; the record stays open.
+
+## 2026-10-07 — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework
+
+**The critical-methods framework reports, from its reference 1, eleven subsystems of Kael: five ANPs, five EPs and the integrator Selene; it gives no count of Kernwelten.**
+
+It says Kael was „in elf hochspezialisierte Subsysteme fragmentiert wurde“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L111]. Its table lists the ANPs as „Kael, Lex, Argus, Alex, Rhys“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L128], the EPs as „Nyx, Kiko, Lia, Moros, Isabelle“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L129], and the integrator row names Selene alone. The prose list of the EPs gives four names, „Zu dieser Klasse zählen Nyx (Aggression und Kampfinstinkt)“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L119], and leaves out Lia. The handbook does not add the lists up to eleven itself, and it does not say that a Kernwelt corresponds to an alter; its only world named with a number is „Kael erreicht das Cerberus-Labyrinth (KW3)“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L180].
+
+Stands: the handbook reports eleven subsystems and takes no position on whether a Kernwelt corresponds to an alter; the question stays open in the record's own terms.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible lists four Core Worlds and a table of eleven alters, and says its table profiles the key alters.**
+
+It numbers the worlds KW1 to KW4, the third a bunker „shaped by the zero-trust principles of“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L88] Alex and Nyx. Its table, introduced as one that „profiles the key alters“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L154], holds Kael, Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus. Kael, Lex, Alex and Rhys are ANPs, Selene is typed „ANP (Integrator?)“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L168], and Argus is „ANP/EP-Mix“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L169]; Nyx, Kiko, Lia, Isabelle and Moros are EPs.
+
+It gives no total beyond the rows, and calls the table a profile of the key alters, so it does not say whether more exist.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing counts eleven identified parts in a table of eleven rows, and lists no Kernwelten.**
+
+It writes „The eleven identified parts each have distinct roles, motivations, and conflicts“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L89]. It mentions the Kernwelten once: AEGIS uses them as vast Skinner boxes to shape Kael's personality parts; no world is named and no world is tied to a part.
+
+Where it stands in the record's own terms: it answers the alter count at eleven and is silent on the Kernwelt count and the correspondence; the question stays open.
+
+## 2026-10-07 — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible
+
+**The worldbuilding bible lists four Core Worlds and a table of nine key alters, with Selene as Integrator/Self.**
+
+It numbers the worlds KW1 to KW4 and gives each to named parts, for instance „The domain of protectors like Alex and Nyx“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L109]. Its table is introduced as one that „profiles the key alters within System Kael“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L144] and holds nine rows, L149 to L157: Kael, Lex, Rhys, Alex, Selene, Nyx, Kiko, Moros, Isabelle. `Lia` ^[the-coherence-protocol-a-worldbuilding-bible.md:#0] and `Argus` ^[the-coherence-protocol-a-worldbuilding-bible.md:#0] do not stand in the document. Selene is typed „Integrator/Self“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L153].
+
+Where it stands in the record's own terms: four worlds as the domains of parts and nine rows called the key alters, with no total beyond the rows; the question stays open.
+
+## 2026-10-07 — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation
+
+**The AIEOS evaluation, citing its sources, counts the protagonist's parts as eleven and maps five of them; it says nothing of the Kern-Welten.**
+
+It reports Kael as split „in elf distinkte Subsysteme“ ^[charaktermodellierung-mit-aieos-schema.md:L17] (L17) and speaks of „der elf Sub-Persönlichkeiten von Kael“ ^[charaktermodellierung-mit-aieos-schema.md:L197] (L197) and „Die elf Anteile existieren nicht unabhängig voneinander“ ^[charaktermodellierung-mit-aieos-schema.md:L69] (L69). The word `elf` stands 6 times (`elf` ^[charaktermodellierung-mit-aieos-schema.md:#6]). Its case studies cover only some of them: `Fallbeispiel:` ^[charaktermodellierung-mit-aieos-schema.md:#5] stands in the headings for Lex (L89), Kiko (L108), Nyx (L126), Selene (L143) and Kael (L160). The report also names Alex, Lia, Rhys, Isabelle, Moros and Juna in passing.
+
+Where it stands in the record's terms: a report of eleven parts from its references, no count of alters or Kern-Welten of its own, and no statement on whether a Kern-Welt corresponds to an alter; the question stays open.
+
+## 2026-10-07 — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis
+
+**The project analysis counts System Kael's parts in two ways and does not reconcile them, and its Kernwelt table has KW1 and KW3 and two assumed worlds, no KW2.**
+
+In its TSDP section it writes „mindestens vier ANPs und fünf klaren EPs“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L141]; a later section speaks of „Die elf identifizierten Anteile von System Kael“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L151], and its table of parts lists eleven rows: Kael, Lex, Alex, Rhys and Selene typed ANP, Nyx, Kiko, Lia, Isabelle and Moros typed EP, and Argus as „ANP/EP-Mix“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L184], with Selene typed „ANP (Integratorin?)“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L183]. The essay does not say how the stated four ANPs and five EPs relate to those rows.
+
+For the worlds, its Kernwelt table pairs `KW1` with Lex and `KW3` with Nyx, and two further rows for Rhys and Kiko whose first cells are marked `Annahme` (L122, L123). `KW2` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#0] does not stand in the document.
+
+Stands: the essay gives two part counts side by side and four Kernwelt rows, two of them marked assumptions; it takes no side on the record's count of Kern-Welten or Alters.
+
+## 2026-10-07 — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier
+
+**The development dossier gives System Kael as at least eleven parts and itemises its roster after a cited TSDP analysis; it says nothing of Kern-Welten.**
+
+It states the size as a lower bound: „System Kael besteht aus mindestens elf identifizierten Persönlichkeitsanteilen“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L52]. The analysis it cites is reported as identifying „vier ANPs (Kael, Lex, Alex, Rhys)“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L83], five EPs and two parts of mixed function, „zwei Anteile mit Mischfunktionen (Selene, Argus)“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L83]. The line also lists the five EPs by name.
+
+The dossier does not say whether one world corresponds to one part.
+
+Where it stands: a count of alters with a lower bound beside an itemised roster; the question stays open in the record's terms.
+
+## 2026-10-07 — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis
+
+**The DKT synthesis tables five parts of Kael's system, Host, Manager, Nox, Juna and Kind, and names one world, the Grenzfeste, beside the alter Nox; it states no count of alters or of worlds.**
+
+The character table of `Kael: Das multiple Interface` has five rows (L403 to L407), headed „Anteil/Alter“ ^[roman-synthese-mit-dual-kernel-theorie.md:L402] in its first column; its second row gives the Host as „Host (Kael)“ ^[roman-synthese-mit-dual-kernel-theorie.md:L403]. Kapitel 28 puts one alter and one world together: „Kael konfrontiert Nox, den Alter des Traumas, in der Grenzfeste“ ^[roman-synthese-mit-dual-kernel-theorie.md:L288]. The document also says the cache procedures load alters only when needed: „Alters werden nur geladen, wenn sie benötigt werden“ ^[roman-synthese-mit-dual-kernel-theorie.md:L433]. A fifth part, Juna, is listed in the same table, not as an alter of the Host's world.
+
+Stands: the document counts neither alters nor Kern-Welten and states no rule of correspondence between them; the question remains as the record has it.
+
+## 2026-10-07 — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report
+
+**The dissociative architecture report states a roster of 13 entities and names twelve in its tables and four more in section 7, without relating the figure to the names.**
+
+It writes: „The research materials identify 13 distinct entities within the system“ ^[kael-s-dissociative-architecture-analysis.md:L62], citing its own sources. Its tables name five ANPs (Kael, Lex, Isabella, Alex, The Sentinel, L71–L75), five EPs (Nyx, Kiko, Moros, The Shadow, The Martyr, L84–L88) and the hybrid pair Selene and Juna (L94–L95), twelve names. Section 7 adds Silas, Vesper and the Protectors Caspian and Sloane: „With Silas (The Archivist)“ ^[kael-s-dissociative-architecture-analysis.md:L209], „With Vesper (The Executive)“ ^[kael-s-dissociative-architecture-analysis.md:L210] and „With the Protectors (Caspian/Sloane)“ ^[kael-s-dissociative-architecture-analysis.md:L211]. The report does not say how the figure and the names fit.
+
+Stands as a roster whose stated size and listed names differ within one report; it says nothing of the Kern-Welten count or of a correspondence between worlds and alters beyond its Lex row naming KW1.

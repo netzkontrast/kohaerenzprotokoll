@@ -1,0 +1,134 @@
+written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count
+
+Candidates of one document, written while reading L1 to L497. The document is a German chapter-by-chapter synthesis of the novel project through a theory it calls Dual-Kernel-Theorie. The kernel symbols (a K with a subscript) were lost in the export, so the lines show gaps such as „Kohärenz-Kernel ()“; the readable forms K0 and K1 stand in a few chapter lines. Each of the 39 chapters carries four repeated labels (Narrative Ebene, Systemische Ebene, Wissenschaftliche Ebene, DKT-Ebene); they are the template, listed once each. Chapter titles are headings of the plot and only some are listed. The reference list (L466 onward) names other documents and Medium articles, whose titles are left out. Words used only inside the argument are left out.
+
+## world
+- Kael
+- Juna
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- AEGIS v1.4
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Guardians
+- Konstrukt-Stadt
+- Nox
+- Host
+- Manager
+- Kind
+- Alters
+- Grenzfeste
+- Möglichkeiten-Garten
+- Überwelt
+- Lernarchiv Theta-9
+- Kernwelten
+- Nexus
+- Sektor 04
+- Einheit 521-Beta
+- Evaluierungseinheit
+- Universal Reboot
+- Universal Re-Connecting
+- Rekursive Integritätsprüfung
+- RIVE
+- RTSV
+- SIS
+- Secure Isolation State
+- kognitive Firewall
+- Semantische Firewall
+- Nichts-Rauschen
+- Wir-Geflecht
+- Mosaik-Herz
+- Verschränkungs-Insel
+- Netzwerker
+- Risse
+- Externen Level
+- Zielkohärenz
+- Resonanz-Protokolls
+- Holographisches Trauma
+- Pixelierung
+- Cache-Verfahren
+- Cache-Inkohärenz
+- Syntaxfehler
+- Licht scar
+- strukturelle Wunde
+- Messer im Bewusstsein
+- Viren der Unentscheidbarkeit
+- Survival Architecture
+- Receiver of Consciousness
+- Absolute Entropie
+- Absolute Wahrheit
+- Blinder Fleck
+- Köln 2026
+- Phantomschmerz der Identität
+- Der Erwachen-Zyklus
+- Narrative Ebene
+- Systemische Ebene
+- Wissenschaftliche Ebene
+- DKT-Ebene
+
+## words the document uses as its own terms
+- Dual-Kernel-Theorie
+- DKT
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- K0
+- K1
+- Witness-Funktion
+- Slack
+- Ledger
+- Interface
+- Transzendenz-Vektor
+- mutualer Information
+- Phänomenales Selbstmodell (PSM)
+- PSM
+- Dissoziative Identitätsstörung (DID)
+- DID
+- ANP
+- Anscheinend Normaler Anteil
+- EP
+- Emotionaler Anteil
+- Epistemologische Eskalation
+- Architectural Storytelling
+- Biosemantische Kopplung
+- Psychische Negentropie
+- Interferenzmuster
+- Zeitpfeils
+- Explanatory Gap
+- Harten Problem
+
+## lens
+- Landauer-Prinzip
+- Landauer-Limits
+- Bekenstein-Schranke
+- Gödels Unvollständigkeit
+- Halteproblem
+- Turingmaschine
+- Chaitins Konstante
+- Russellsche Antinomie
+- Mengen-Paradoxon
+- Page-Kurve
+- Replica Wormholes
+- Hawking-Strahlung
+- Ereignishorizont
+- Quantenschaum
+- Planck-Barriere
+- Wärmetod
+- Zweite Hauptsatz der Thermodynamik
+- Uncanny-Valley-Ästhetik
+- Tractatus
+- Wittgenstein
+- Kants Kategorien
+- Ding an sich
+- transzendentaler Idealismus
+- Phaenomena
+- Noumena
+- Jaspers
+- Grenzsituationen
+- Heidegger
+- Sartre
+- Wigner
+- Wellenfunktion
+- Prozess-Ontologie

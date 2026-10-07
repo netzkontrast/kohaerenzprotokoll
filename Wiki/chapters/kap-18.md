@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 36
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein"]
+sources: 40
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,10 @@ Position: „AEGIS' Risse / KI-Ethik (Grenzen der Kontrolle)“ ^[kohaerenz-prot
 
 - The subplot catalogue analyses Kapitel 18 under the phase „Versuch, den Zyklus zu durchbrechen/System zu manipulieren/zu verstehen“ ^[subplot-entwicklung-fuer-romanstruktur.md:L510] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Echos der Vergangenheit
+
+- The subplot revision's chapter 18: „Echos der Vergangenheit“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L57]. Its content: „Kael entdeckt Zyklen in AEGIS' Verhalten“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L57]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Beobachter im System: Meta-Reflexion über AEGIS
 
 Title: the commission titles the chapter „Der Beobachter im System: Meta-Reflexion über AEGIS“ ^[kontext-outline.md:L267], placed in Act 2.
@@ -76,6 +80,10 @@ The beat sheet places Kapitel 18 in Beat 2.2; the beat spans Kapitel 18 to 21.
 ## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die Logik der Festung
 
 - The chapter overview plans Kapitel 18 as „Die Logik der Festung“ ^[detaillierte-kapiteluebersicht.md:L39], in Akt II (Shō). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Die Logik der Festung
+
+- The final causal blueprint's chapter 18: „Die Logik der Festung“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L96]. Its content: „Kael betritt das Cerberus-Labyrinth“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L96]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -118,6 +126,10 @@ Position: Teil II, „Die Gleichgültigkeit des Algorithmus“ ^[romanstruktur-u
 - Story: the insight comes hedged: „In einem Moment tiefer Einsicht (vielleicht durch einen Hack in den Kerncode)“ ^[romanstruktur-und-philosophische-einleitung.md:L168]
 - Story: AEGIS is „ein kalter, indifferenter Optimierungsalgorithmus“ ^[romanstruktur-und-philosophische-einleitung.md:L168]
 
+## Reading — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report — The Border Crossing
+
+- The dissociative architecture report places in chapter 18 the second phase of Kael's arc with Nyx: „Nyx physically blocks Kael from entering a“ ^[kael-s-dissociative-architecture-analysis.md:L134]. A report's mapping of a plan onto clinical theory, not the chapter as written.
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Datenernte des Schmerzes
 
 Title: „Datenernte des Schmerzes“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L198]
@@ -141,6 +153,10 @@ Position: Teil II; POV from `Perspektive & Stimme`: „Kael (staunend, aber miss
 
 - Story: the matrix plans „Kael betritt KW4. Hier testet AEGIS Wahrscheinlichkeiten. Kael sieht unzählige Leben, die er hätte führen können“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L235]
 - Question: „Ist grenzenloses Potenzial Befreiung oder Wahnsinn?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L234]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Das Qualia-Informationsparadox
+
+- The DKT synthesis's chapter 18: „Das Qualia-Informationsparadox“ ^[roman-synthese-mit-dual-kernel-theorie.md:L190]. Its narrative level: „Das Gefühl von Schmerz und Wärme kann nicht durch Daten allein erklärt“ ^[roman-synthese-mit-dual-kernel-theorie.md:L194]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

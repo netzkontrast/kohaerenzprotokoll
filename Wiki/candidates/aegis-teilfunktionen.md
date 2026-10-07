@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 35
-readings: 33
+sources: 39
+readings: 37
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "the-coherence-protocol-a-narrative-design-world-architecture", "kohaerenz-analyse-kapitel-2", "narrativ", "romanarchitektur-kohaerenz-protokoll-finalisierung", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "analyse-des-kohaerenz-protokolls", "aegis"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "the-coherence-protocol-a-narrative-design-world-architecture", "kohaerenz-analyse-kapitel-2", "narrativ", "romanarchitektur-kohaerenz-protokoll-finalisierung", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "analyse-des-kohaerenz-protokolls", "aegis", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "ki-roman-architektur-kritische-analyse-methoden", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis"]
 gathered: "2026-09-16"
 ---
 
@@ -76,6 +76,10 @@ Zero-Trust appears twice among the protocols that make the Überwelt: its physic
 
 `Zero-Trust` is named three times as a principle of AEGIS. In KW3 the core is „Verstärkt durch AEGIS' Zero-Trust-Prinzipien.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L65] and the laws include „Zero-Trust zwischen Zonen.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L76] In the Überwelt the laws rest on „AEGIS-Protokollen (Zero-Trust, Entropie-Management)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L120].
 
+## Reading — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list — Zero-Trust as a function principle of AEGIS, given as reason
+
+The hundred concepts list names the `Zero-Trust-Prinzip (AEGIS)` as a topic to deepen and gives as reason „Konkretes Funktionsprinzip von AEGIS; prägt KW und die Überwelt.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L55] (the document writes `KW3`; the quotation leaves out the digit, which the line check cannot match). The list adds nothing about what Zero-Trust does; it is a topic with a reason, not a definition.
+
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — the Guardian-Interface protocols and the Integrity Guardian
 
 The synthesis describes the Digitale Überwelt's interactions as ruled by „strengen Guardian-Interface-Protokollen“ ^[system-kael-konzeptentwicklung-und-analyse.md:L48] and lists three, each as a rule between the Wächter (the glued `1` marks them as reported from its reference 1): `Zero-Trust Execution Model (ZTEM)` with „Never trust, always verify“ ^[system-kael-konzeptentwicklung-und-analyse.md:L50]; `Behavioral Proof-of-Function (BPoF)`, where „Interaktionen werden nicht durch einfache Anfragen initiiert“ ^[system-kael-konzeptentwicklung-und-analyse.md:L51]; and `Encrypted Intent Channels (EIC)`, where „Die Kommunikation zwischen den Wächtern erfolgt nicht über Sprache“ ^[system-kael-konzeptentwicklung-und-analyse.md:L52] The `Integrity Guardian` is named once, inside the Landauer paragraph: „jede Korrektur durch den Integrity Guardian“ ^[system-kael-konzeptentwicklung-und-analyse.md:L82]
@@ -130,9 +134,17 @@ The analysis report says AEGIS „operiert nach einem strikten“ ^[kohaerenz-an
 
 The design brief names `Zero-Trust` twice and ties it to no AEGIS function. Of the third world it describes the atmosphere as „High tension in a“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L106] `Zero-Trust` environment, and the sentence goes on „environment. The world feels like it is holding its breath“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L106]. Its glossary gives `Cerberus` the line „Defense System,Zero-Trust / Paranoia.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L215]
 
+## Reading — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report — Zero-Trust named as AEGIS's security architecture
+
+The dissociative architecture report says that the mutual phobia between ANP and EP makes a Zero-Trust environment, one „within the psyche, mirroring the“ ^[kael-s-dissociative-architecture-analysis.md:L103] Zero-Trust architecture of AEGIS, which it calls „security architecture of the antagonist AEGIS“ ^[kael-s-dissociative-architecture-analysis.md:L103].
+
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — the ZTEM as AEGIS's means against Shannon entropy
 
 The plot analysis reports, with reference 3, the means by which „AEGIS versucht, die Shannon-Entropie (Unvorhersagbarkeit)“ ^[plot-analyse-und-romanentwicklung.md:L27] to eliminate: the `Zero-Trust Execution Model`, abbreviated `ZTEM`. It gives no further function of it; the filtering, collapsing of deviating possibilities and erasure of unauthorised memories are said of AEGIS as a whole.
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — `SIS` expanded as Secure Isolation State at the first collapse
+
+In Kapitel 13 (`Der erste Zusammenbruch`, end of Teil I) the DKT level of the DKT synthesis reads: „K1-Kernel-Failure; Übergang in den SIS-Zustand (Secure Isolation State)“ ^[roman-synthese-mit-dual-kernel-theorie.md:L148]. So the analysis expands `SIS` as a state the system passes into when the first kernel fails; the same chapter's systemic level speaks of a cascading coherence violation.
 
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Zero-Trust principle in the Cerberus row of the table
 
@@ -149,6 +161,10 @@ The architecture report's trace 1 says „AEGIS überwacht den Context Object un
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — a Zero-Trust security paradigm of AEGIS, named in passing
 
 The document names a Zero-Trust function of AEGIS, in a compound, without explaining it: the Moonshine-Link is used „Um die rigorosen algorithmischen Partikelfilter und das Zero-Trust-Sicherheitsparadigma von AEGIS zu umgehen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L105]. The names of the other functions stand nowhere in it: `Cognitive Firewall` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], `Integrity Guardian` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0], `SIS` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#0].
+
+## Reading — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework — a Zero-Trust monitor in Trace 1
+
+In Trace 1 of the critical-methods framework (a methods handbook reporting the novel from its reference 1) AEGIS watches the context object under a named security paradigm: the line sets `Zero-Trust` in italics, as „Zero-Trust“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L172] beside classical logic, and says every contradiction is identified and eliminated at once: „Jeder Widerspruch (A und nicht-A) wird sofort identifiziert und eliminiert“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L172]. The handbook gives this as a precondition to test, not as a described sub-function list.
 
 ## Reading — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept — SIS and the Zero-Trust Environment Mandate as protocols of the Überwelt
 

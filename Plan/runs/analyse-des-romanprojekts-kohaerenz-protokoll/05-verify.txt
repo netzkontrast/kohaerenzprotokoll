@@ -1,0 +1,67 @@
+$ python3 scripts/read.py analyse-des-romanprojekts-kohaerenz-protokoll --count "Annahme"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Annahme` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py analyse-des-romanprojekts-kohaerenz-protokoll --count "Tabelle"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Tabelle` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py analyse-des-romanprojekts-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kapitel` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#11]
+
+$ python3 scripts/read.py analyse-des-romanprojekts-kohaerenz-protokoll --count "KW2"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`KW2` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py analyse-des-romanprojekts-kohaerenz-protokoll --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py analyse-des-romanprojekts-kohaerenz-protokoll --count "Kohärenz Protokoll"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kohärenz Protokoll` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#8]
+
+$ python3 scripts/read.py analyse-des-romanprojekts-kohaerenz-protokoll --count "elf"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            7
+
+`elf` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py analyse-des-romanprojekts-kohaerenz-protokoll --count "Selene"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Selene` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#2]
+
+$ grep -c "KW\\\\\\\\_Rhys" (raw escapes)
+122:| \*\*KW\\\_Rhys (Annahme)\*\* | Rhy
+123:| \*\*KW\\\_Kiko (Annahme)\*\* | Kik
+# eleven Anteile rows of Table 3: L174-L184 = 11 rows (read by eye)
+# stance_marker_count 6 = Annahme 2 + Tabelle 4
+$ grep -c -w Kanon Sources/drive/analyse-des-romanprojekts-kohaerenz-protokoll.md -> 0
+$ grep -c -w canon Sources/drive/analyse-des-romanprojekts-kohaerenz-protokoll.md -> 0
+$ grep -c -w Canon Sources/drive/analyse-des-romanprojekts-kohaerenz-protokoll.md -> 0
+$ grep -c -w lock Sources/drive/analyse-des-romanprojekts-kohaerenz-protokoll.md -> 0
+$ grep -c -w Lock Sources/drive/analyse-des-romanprojekts-kohaerenz-protokoll.md -> 0
+$ grep -c 'November 3, 2025' Sources/drive/analyse-des-romanprojekts-kohaerenz-protokoll.md -> 6  (lines L244-L249: six)

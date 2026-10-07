@@ -1,16 +1,20 @@
 ---
 term: Verschränkungs-Insel
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-refactoring-kohaerenz-und-charakterentwicklung"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-24"
 ---
 
 # Verschränkungs-Insel
 
 **The [[ueberwelt|Überwelt]]'s Kap-33 setting, where [[kael|Kael]] touches the K₁-Reinform.**
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — the Verschränkungs-Insel in Kapitel 33 as causal isolation
+
+The DKT synthesis, an analysis of the plot, writes in Kapitel 33, `Jenseits des Ereignishorizonts`: „Kausale Isolation vom restlichen System“ ^[roman-synthese-mit-dual-kernel-theorie.md:L331], and in the same line says Kael creates a `Verschränkungs-Insel` (the name stands in inner quotation marks, so the quotation stops before them). The chapter's narrative bullet reads „Rückzug in den Nexus; Schutz von Juna vor dem finalen Löschbefehl“ ^[roman-synthese-mit-dual-kernel-theorie.md:L333].
 
 ## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Selene establishing an entanglement island for Kael and Juna
 

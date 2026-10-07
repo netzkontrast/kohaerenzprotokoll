@@ -1,0 +1,14 @@
+# kael-s-dissociative-architecture-analysis
+  lines                273  (frontmatter ends at 9)
+  body words           3812
+  headings             34   bold-only lines 2
+  table rows           37   code fences 0
+  question marks       9
+  backslash escapes    310
+  typographic marks    40   ascii quotes 282
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    26
+  repeated labels      Psychology x3, State x3
+  longest line         776 chars
+

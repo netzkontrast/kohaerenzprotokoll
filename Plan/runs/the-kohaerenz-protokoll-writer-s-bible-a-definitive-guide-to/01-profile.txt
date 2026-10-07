@@ -1,0 +1,14 @@
+# the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to
+  lines                237  (frontmatter ends at 9)
+  body words           3966
+  headings             26   bold-only lines 0
+  table rows           40   code fences 0
+  question marks       1
+  backslash escapes    120
+  typographic marks    22   ascii quotes 132
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         831 chars
+

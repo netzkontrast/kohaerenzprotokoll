@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "charakterkonzepte-fuer-kohaerenz-protokoll", "welten"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "charakterkonzepte-fuer-kohaerenz-protokoll", "welten", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-17"
 ---
 
@@ -58,10 +58,15 @@ The beat sheet gives the Guardians blind spots in Kapitel 18-21, with LogOS, Mne
 
 The Leitfragen report (an analyst's review) says of other documents that for LogOS and Mnemosyne the „Blinde Fleck“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103] toward the Partnerin is „tief in ihrer jeweiligen Erkenntnistheorie verwurzelt“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L103]: LogOS makes a category error, Mnemosyne misreads her presence as a past scar. Its Leitfrage 5 then asks how the blind spots of Cerberus, Kairos and Sophia show in action: „Wie manifestieren sich die“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L109]. The report asks; it gives no answer.
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — one blind spot shared by the Guardians, and what each fails to see
+
+In the Guardians section the DKT synthesis writes of the Guardians as a group: „Die Guardians sind spezialisierte Filter-Algorithmen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L415], and their common `Blinder Fleck` is named in inner quotes as the inability to process non-logical relationality (the line ends „ist die Unfähigkeit, nicht-logische Relationalität zu verarbeiten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L415]). The following entries give each Guardian its own failure: LogOS „scheitert an Gödels Unvollständigkeit“ ^[roman-synthese-mit-dual-kernel-theorie.md:L417], Mnemosyne „erkennt den emotionalen Kontext“ ^[roman-synthese-mit-dual-kernel-theorie.md:L418] not, Cerberus „interpretiert Verletzlichkeit als Angriff“ ^[roman-synthese-mit-dual-kernel-theorie.md:L419], Kairos „kann nur innerhalb AEGIS-definierter Wahrscheinlichkeiten agieren“ ^[roman-synthese-mit-dual-kernel-theorie.md:L420], and Sophia „begreift Integration als Eliminierung von Abweichung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L421]. In Kapitel 12, titled „Der blinde Fleck des Selbst“ ^[roman-synthese-mit-dual-kernel-theorie.md:L132], the summary line says that Kael sees LogOS unable to see Juna, because she lies outside its axiomatic basis.
+
 ## Where the sources differ
 
 - The beat sheet writes blind spots for the Guardians (Kapitel 18-21) and for AEGIS itself (Kapitel 22-24); it does not relate the two.
 - `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, has both AEGIS's blind spot (L128) and each Guardian's (L160–L200) in one paper, and says the Guardians „Sie operieren innerhalb der von AEGIS vorgegebenen Protokolle und teilen dessen“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138] blind spots.
+- The DKT synthesis names one blind spot shared by all Guardians and, in the same list, a separate failure for each of the five.
 
 ## Open
 

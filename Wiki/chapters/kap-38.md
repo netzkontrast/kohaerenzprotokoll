@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 35
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung"]
+sources: 39
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -33,6 +33,10 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Teilen des Segens
 
 - The concept with subplots titles Kapitel 38 „Teilen des Segens“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L74]. It plans: „Kael hat einen Weg gefunden, in der neuen Realität als stabiles, multiples System zu leben“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L74] — a plan, not the chapter as written.
+
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Teilen des Segens
+
+- The subplot revision's chapter 38: „Teilen des Segens“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L82]. Its content: „Kael lebt als stabiles System“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L82]. A revised plan in a 39-chapter outline, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Moment der Veränderung: Konkretisierung des neuen Zustands
 
@@ -74,6 +78,10 @@ Position: the outline plans the `Erzählperspektive` „Kael (Wahl des Weges, Ve
 ## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Ineffiziente Schönheit
 
 - The chapter overview plans Kapitel 38 as „Ineffiziente Schönheit“ ^[detaillierte-kapiteluebersicht.md:L69], in Akt IV (Ketsu). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Ineffiziente Schönheit
+
+- The final causal blueprint's chapter 38: „Ineffiziente Schönheit“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L144]. Its content: „Eine Reflexion über die neue Welt, die auf paradoxer Wahrheit statt auf Effizienz beruht“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L144]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -138,6 +146,10 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-prot
 - Story: the matrix plans „Kael tritt aus dem System heraus (oder integriert es vollständig) und trifft Juna physisch“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L479]
 - Question: „Ist die Realität der Ort, an dem wir verbunden sind?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L478]
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Fusion der Ebenen
+
+- The DKT synthesis's chapter 38: „Fusion der Ebenen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L374]. Its narrative level: „Ein neuer Garten entsteht aus den Trümmern“ ^[roman-synthese-mit-dual-kernel-theorie.md:L378]. An analysis of a 39-chapter plan, not the chapter as written.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Fusion der Ebenen (Autopoiesis)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
@@ -146,6 +158,10 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 - Plot: „AEGIS gibt den sinnlosen Kampf gegen die Entropie auf.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die KI integriert Junas Rauschen als fundamentalen Bestandteil des Systems.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 - Heat: „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die K1- und K0-Kernel koexistieren, ohne sich gegenseitig zu vernichten.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 - Establishes: „Die Maschine hat das Fühlen gelernt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
+
+## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — Kael's existential fusion
+
+- The AIEOS evaluation, reporting the novel from its sources, places Kael's healing and the final existential fusion in chapter 38: „Seine Heilung und die finale“ ^[charaktermodellierung-mit-aieos-schema.md:L29] fusion requires the insight that truth lies in the integration of all his parts. A report of another plan, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — AEGIS integrates Juna's noise
 

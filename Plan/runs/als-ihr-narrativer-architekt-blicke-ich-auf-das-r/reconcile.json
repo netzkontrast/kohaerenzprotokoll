@@ -1,0 +1,373 @@
+{
+  "document": "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
+  "drive_id": "1iZ6yL4GrAOfNYKZa5oF-dENOw8BBGULxo90Mz__sb2o",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-204/brief.md; chapter readings on 40 chapters by the session, from each chapter's title and the first clause of its content, Plan/runs/ingest-204-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 83,
+    "decisions": 94,
+    "decided_by_lookup": 67,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German 40-chapter outline in four Kishōtenketsu acts that calls itself a final causal blueprint: its new surfaces are its chapter titles, the structural-dissociation vocabulary (ANP, EP), Korrekturprotokoll Delta, Fragment 'O', the Axiom der Vermeidung, the See der Tränen, the Innerer Bunker, the D2-Modul and the Fundament's Grounding-Artefakte; what it says of the novel's world went on existing pages, 40 chapter pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        11,
+        21,
+        26,
+        46,
+        47,
+        66,
+        98,
+        110,
+        132,
+        138
+      ],
+      "attribution": "",
+      "note": "AEGIS planned chapter by chapter, from cold assessor to a system that transforms and freezes"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        104
+      ],
+      "attribution": "",
+      "note": "Alex as protector against AEGIS's psychological warfare"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        138,
+        144
+      ],
+      "attribution": "",
+      "note": "chapter 35 carries the name, with AEGIS frozen in transformation"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Argus as the meta-observer inside Kael's system"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "chapter 1 opens with a metaphysical prologue on the Genesis of AEGIS"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        128,
+        130,
+        132
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit planned in chapter 32 and presented as the climax in chapter 34"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        120
+      ],
+      "attribution": "",
+      "note": "Isabelle's control strategy unmasked as trauma response"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        36,
+        47,
+        88,
+        112,
+        116,
+        122,
+        128,
+        132
+      ],
+      "attribution": "",
+      "note": "Juna/V as a connection that grows from sensory trace to channel"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        22,
+        26,
+        81,
+        82,
+        124,
+        140
+      ],
+      "attribution": "",
+      "note": "Kael's arc from amnesia to the Gärtner, chapter by chapter"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        21,
+        51,
+        61,
+        90,
+        96,
+        102
+      ],
+      "attribution": "",
+      "note": "four worlds named by their labels KW1 to KW4 across the chapters"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        36,
+        42,
+        71,
+        76
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part, hinted in chapter 4 and intruding in chapter 11"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        13,
+        15,
+        84,
+        114,
+        134
+      ],
+      "attribution": "",
+      "note": "four acts named Ki, Shō, Ten, Ketsu"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        24,
+        26,
+        41
+      ],
+      "attribution": "",
+      "note": "734 in a chapter title and as AEGIS's agents"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        21,
+        22,
+        29
+      ],
+      "attribution": "",
+      "note": "the sterile first world of Kael's waking, and a chapter title"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        27,
+        31,
+        32,
+        41,
+        42,
+        56,
+        106
+      ],
+      "attribution": "",
+      "note": "Lex as ANP, the Archivar and the avoiding perspective"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        102
+      ],
+      "attribution": "",
+      "note": "Lia named once, as creativity, in chapter 21"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "a Guardian met in KW2 in chapter 15, with manipulated memories"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        61,
+        102
+      ],
+      "attribution": "",
+      "note": "KW4 glimpsed in chapter 9, reached in chapter 21"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        108
+      ],
+      "attribution": "",
+      "note": "Moros as the collapsed part Rhys tries to reach"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        118,
+        124
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität as the title of chapter 30"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        76,
+        100
+      ],
+      "attribution": "",
+      "note": "Nyx as fighter part, from outburst to recognised protection"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        51,
+        90
+      ],
+      "attribution": "",
+      "note": "KW2 re-entered in chapter 7 as the place of his fragmented past"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        37,
+        42,
+        94,
+        108
+      ],
+      "attribution": "",
+      "note": "Rhys as the empathic part and mediator"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        21,
+        27,
+        61,
+        66,
+        81
+      ],
+      "attribution": "",
+      "note": "the Risse planned from first signs to a massive Riss in the first world"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "Kael seeks the Überwelt at the end of act I"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name in the title), J49 (Cerberus-Labyrinth, KW3's name, read on kern-welten), J12 and J48 (compounds with their page's sense: Juna/V, Juna/V-Verbindung, Juna/V-Resonanz and Juna-Anomalie on juna, Subjekt Kael on kael, Riss and Risse one term, Kishōtenketsu-Struktur and Ketsu on kishotenketsu, Guardian Mnemosyne on mnemosyne, ¬∘(AEGIS_Protokoll) a chapter title on aegis); Echo is the child part Echo/Kiko, not the Residual-Echos; Depersonalisation the clinical symptom",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 21,
+      "decision": "reading",
+      "why": "the prologue on the genesis of AEGIS from the void, read on genesis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 90,
+      "decision": "reading",
+      "why": "Guardian Mnemosyne in KW2, read on mnemosyne"
+    }
+  ],
+  "not_promoted": [
+    "ANP and EP — on did",
+    "Korrekturprotokoll Delta, Fragment 'O', the Axiom der Vermeidung, the D2-Modul — chapter furniture",
+    "the See der Tränen and the Innerer Bunker — on kern-welten",
+    "the Fundament and its Grounding-Artefakte",
+    "the Heldinnenreise"
+  ],
+  "internal_tension": "it calls itself final and a fusion of the structural and content outlines (L11, L13), which the file does not hold; Argus is an inner meta-observer here (L106) and a border guard in other documents",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

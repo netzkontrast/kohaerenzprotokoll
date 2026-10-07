@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"]
 gathered: "2026-09-25"
 ---
 
@@ -31,6 +31,10 @@ The concept summary says the narrative is structured by the Dramatica theory and
 ## Reading — `narrativ`, 2025-07-30, the architect's compendium — Kishōtenketsu as the recommended load-bearing frame, in the dramaturg's blueprint
 
 The dramaturg's blueprint (L115–L238) recommends it: „Die Anwendung von Kishōtenketsu wird als zentrales, tragendes Gerüst empfohlen:“ ^[narrativ.md:L197] It then gives four steps: Ki, „Kaels fragmentierter Zustand unter AEGIS' Kontrolle; unbewusster Konflikt der inneren Anteile.“ ^[narrativ.md:L199]; Shō, „Kael beginnt, seine inneren Anteile und seine Gefangenschaft zu verstehen“ ^[narrativ.md:L200]; Ten, „Die Juna/V-Verbindung oder die Entdeckung des Fragments“ ^[narrativ.md:L201] 'O' as the new, irritating element; Ketsu, „Kael harmonisiert die externe Verbindung mit seinem inneren Zustand“ ^[narrativ.md:L202], reaching a coherence that makes AEGIS's logic obsolete.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — four acts named Ki, Shō, Ten, Ketsu
+
+The final causal blueprint says of itself that „Die Erzählung folgt der thematisch passenden“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L13] Kishōtenketsu structure in four acts. The act headings give the chapter ranges: „Die Einführung (Kapitel 1-13)“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L15] for Ki, „Die Entwicklung (Kapitel 14-26)“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L84] for Shō, „Die Wendung (Kapitel 27-34)“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L114] for Ten, and „Die Zusammenführung (Kapitel 35-40)“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L134] for Ketsu. The blueprint presents the structure as given and does not discuss it.
 
 ## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Kishōtenketsu as Kael's plot beside AEGIS's Western dramaturgy, and a Ki/Shō/Ten/Ketsu pass in every planned chapter
 
@@ -172,6 +176,7 @@ sense (its L575).
 **Where the parts fall.** Ki, Shō, Ten and Ketsu are mapped onto different chapters
 by the strukturierter Outline and by the Kapitel-Kompendium, the storyform outline
 and the glossary. The plot overview has the mapping per source.
+- Divides forty chapters into four acts, „Die Zusammenführung (Kapitel 35-40)“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L134] closing the fourth.
 
 ## Open
 

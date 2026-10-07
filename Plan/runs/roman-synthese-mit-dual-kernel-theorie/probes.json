@@ -1,0 +1,250 @@
+{
+  "document": "roman-synthese-mit-dual-kernel-theorie",
+  "drive_id": "1KLOwuxTJcVuJQDJ7bvN16Ygwdxfg6EXJk3abFJ0b_T8",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 81,
+  "backslash_escapes": 48,
+  "typographic_marks": 104,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systembericht",
+      "Systemgrenzen",
+      "Systemik",
+      "Systeminstabilität",
+      "Systemische",
+      "Systemmechaniken",
+      "Systems",
+      "Systemspaltung",
+      "Systemstabilität",
+      "Systemvariablen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenaustausch",
+      "Datenexport",
+      "Datenlöschung",
+      "Datenpaket",
+      "Datenpakete",
+      "Datenströme",
+      "Datenübertragung"
+    ],
+    "archi": [
+      "Architectural",
+      "Architecture",
+      "Architekt",
+      "Architekten",
+      "Architektur",
+      "Archiv"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfeste",
+      "Grenzsituationen",
+      "Grenzüberschreitung"
+    ],
+    "infor": [
+      "Information",
+      "Informationsparadox",
+      "Informationsparadoxon",
+      "Informationsverarbeitung",
+      "Informationsvolumen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstmodell",
+      "Selbstmodells",
+      "Selbstmord",
+      "Selbstreferenzielle"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interface",
+      "Interferenzmuster",
+      "Interpretation"
+    ],
+    "proto": [
+      "Proto",
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessen",
+      "Prozessierung"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenschaum",
+      "Quantenschaums",
+      "Quantentheorie"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitätserfahrung",
+      "Realitätswahrnehmung"
+    ],
+    "stadt": [
+      "Stadt",
+      "Stadtarchitektur",
+      "Stadtstruktur",
+      "Stadtviertel"
+    ],
+    "berec": [
+      "Berechenbarkeit",
+      "Berechnung",
+      "Berechnungen"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakterkonzepte"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropische"
+    ],
+    "ereig": [
+      "Ereignishorizont",
+      "Ereignishorizonts",
+      "Ereignissen"
+    ],
+    "erken": [
+      "Erkenntnis",
+      "Erkenntnisgenese",
+      "Erkenntnisreise"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerkorrekturen",
+      "Fehlermeldungen"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödels",
+      "Gödelsche"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitätsstörung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity",
+      "Integritätsprüfung"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "lösch": [
+      "Löschbefehl",
+      "Löschen",
+      "Löschung"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narratives"
+    ],
+    "natur": [
+      "Natur",
+      "Nature",
+      "Naturereignisse"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Antinomie"
+    ],
+    [
+      "Anti",
+      "Antinomien"
+    ],
+    [
+      "Anti",
+      "Antimaterie"
+    ],
+    [
+      "Anti",
+      "Semantische"
+    ],
+    [
+      "Anti",
+      "Biosemantische"
+    ],
+    [
+      "Anti",
+      "Terminierungsgarantie"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Bildschirm"
+    ],
+    [
+      "Bild",
+      "Weltbildes"
+    ],
+    [
+      "Bild",
+      "Spiegelbild"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Ding",
+      "Bedingung"
+    ],
+    [
+      "Ding",
+      "Understanding"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteinen"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eins",
+      "Einsamkeit"
+    ],
+    [
+      "Eins",
+      "Bewusstseins"
+    ],
+    [
+      "Eins",
+      "Wittgensteins"
+    ]
+  ]
+}

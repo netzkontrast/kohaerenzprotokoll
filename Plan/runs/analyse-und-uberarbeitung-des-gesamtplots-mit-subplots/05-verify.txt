@@ -1,0 +1,154 @@
+$ read.py --count "Fokus"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Fokus` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#5]
+
+$ read.py --count "Subplot"
+whole word, case-sensitive     97
+whole word, case-insensitive   97
+including compounds            105
+
+`Subplot` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#97]
+
+$ read.py --count "Subplot 1"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`Subplot 1` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#26]
+
+$ read.py --count "Subplot 2"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            29
+
+`Subplot 2` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#29]
+
+$ read.py --count "Subplot 3"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Subplot 3` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#11]
+
+$ read.py --count "Subplot 4"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Subplot 4` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#18]
+
+$ read.py --count "Subplot 5"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Subplot 5` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#8]
+
+$ read.py --count "Kapitel"
+whole word, case-sensitive     45
+whole word, case-insensitive   45
+including compounds            46
+
+`Kapitel` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#45]
+
+$ read.py --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#2]
+
+$ read.py --count "EP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`EP` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#0]
+
+$ read.py --count "Kaels"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kaels` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#10]
+
+$ read.py --count "Guardians"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Guardians` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#4]
+
+$ read.py --count "Wächter"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`Wächter` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#3]
+
+$ read.py --count "Phobien"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Phobien` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#3]
+
+$ read.py --count "Glitches"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Glitches` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#1]
+
+$ read.py --count "Juna/Vs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna/Vs` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#1]
+
+$ read.py --count "Fundament?"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fundament?` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#2]
+
+$ read.py --count "Meta-Ebene"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Meta-Ebene` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#4]
+
+$ read.py --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#1]
+
+$ read.py --count "Host"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Host` ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:#1]
+
+$ grep -n ascii quotes
+2:driv
+3:titl
+4:slug
+5:cate
+6:tier
+7:inde
+8:fetc
+11:# *
+13:Die
+20:  -
+22:  -
+59:  -
+stance_marker_count 102 = Fokus 5 + Subplot 97

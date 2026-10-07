@@ -1,0 +1,102 @@
+# counts for 85 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                8 word     8 in   [13, 22, 78, 97, 111, 230]
+  Kohärenz-Protokoll                0 word     0 in   []
+  AEGIS                            40 word    41 in   [44, 48, 58, 60, 62, 64]
+                                    1      as AEGIS-Bewusstseins
+  Autonomous Entropic Gatekeeper    1 word     1 in   [64]
+  System Kael                      11 word    11 in   [60, 74, 99, 111, 131, 139]
+  Kael                             24 word    31 in   [60, 62, 64, 74, 99, 107]
+                                    6      as Kaels
+                                    1      as Kael-Systems
+  Genesis-Krise                     8 word     8 in   [40, 44, 46, 60, 64, 95]
+  Ursprungs-Ich                     2 word     5 in   [44, 46, 48, 77, 97]  <-- substring
+                                    3      as Ursprungs-Ichs
+  Ursprungs-Ichs                    3 word     3 in   [44, 77, 97]
+  Leere                             9 word     9 in   [44, 46, 48, 76, 95, 97]
+  Überwelt                          2 word     2 in   [58, 215]
+  Risse                             3 word     3 in   [60, 215]
+  Kernwelten                        2 word     2 in   [107, 109]
+  KW1 (Logos-Prime)                 1 word     1 in   [120]
+  KW1                               1 word     1 in   [120]
+  Logos-Prime                       1 word     1 in   [120]
+  KW3 (Cerberus-Labyrinth)          1 word     1 in   [121]
+  KW3                               1 word     1 in   [121]
+  Cerberus-Labyrinth                1 word     1 in   [121]
+  KW\_Rhys                          0 word     0 in   []
+  KW\_Kiko                          0 word     0 in   []
+  K₁ (Das Kohärenz-Kernel)          1 word     1 in   [30]
+  K₁                                4 word     6 in   [30, 34, 36, 46, 64]
+  Kohärenz-Kernel                   1 word     1 in   [30]
+  K₀ (Das Kollaps-Kernel)           1 word     1 in   [30]
+  K₀                                7 word    10 in   [30, 32, 34, 36, 46, 64]
+  Kollaps-Kernel                    1 word     2 in   [30, 46]
+  Kohärenz                         22 word    26 in   [13, 22, 26, 30, 32, 36]
+                                    3      as Kohärenztheorie
+                                    1      as Kohärenz-Kernel
+  Kollaps                           9 word    12 in   [26, 30, 32, 36, 46, 64]
+                                    1      as Kollaps-Kernel
+                                    1      as Kollapsdruck
+  Entropie                          7 word     7 in   [30, 46, 64, 75]
+  Coherons                          2 word     2 in   [34, 234]
+  Corrective Wavelets               1 word     1 in   [34]
+  Coheron-Netzwerke                 1 word     1 in   [34]
+  Dual-Kernel-Theorie (DKT)         1 word     1 in   [30]
+  Dual-Kernel-Theorie               1 word     1 in   [30]
+  DKT                               1 word     1 in   [30]
+  Behandlungsprotokoll              1 word     1 in   [111]
+  Krise der Authentizität           1 word     1 in   [113]
+  Isolationseinwandes               1 word     1 in   [60]
+  Lex                              16 word    16 in   [76, 107, 109, 113, 120, 151]
+  Nyx                              11 word    11 in   [76, 107, 113, 121, 151, 163]
+  Kiko                              6 word     7 in   [76, 123, 163, 178, 179, 181]
+  Lia                               3 word     3 in   [178, 180, 181]
+  Alex                              1 word     1 in   [176]
+  Rhys                             10 word    11 in   [78, 122, 164, 167, 174, 175]
+  Isabelle                          1 word     1 in   [181]
+  Moros                             3 word     3 in   [163, 165, 182]
+  Selene                            2 word     2 in   [183, 228]
+  Argus                             1 word     1 in   [184]
+  Anscheinend Normalen Persönlichkeitsanteilen (ANPs)    1 word     1 in   [141]
+  Emotionalen Persönlichkeitsanteilen (EPs)    1 word     1 in   [141]
+  ANPs                             11 word    11 in   [75, 76, 78, 141, 143, 163]
+  EPs                              11 word    11 in   [75, 76, 78, 141, 143, 163]
+  ANP                               7 word    19 in   [75, 76, 78, 141, 143, 163]  <-- substring
+  EP                                6 word    20 in   [75, 76, 78, 141, 143, 163]  <-- substring
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [141]
+  Phobien zwischen den Anteilen     1 word     1 in   [143]
+  Intrusionen                       1 word     1 in   [143]
+  Amnesie                           1 word     1 in   [143]
+  Wechsel (Switching)               1 word     1 in   [143]
+  Ko-Bewusstsein                    1 word     1 in   [143]
+  Spannungspunktanalyse             1 word     1 in   [161]
+  innere Polis                      1 word     1 in   [147]
+  Stabilisierung                    2 word     2 in   [212, 214]
+  Konfrontation                     7 word     7 in   [46, 48, 123, 212, 215, 216]
+  Integration                      13 word    13 in   [62, 75, 77, 78, 79, 111]
+  Variabler Quotenplan              2 word     2 in   [120, 121]
+  heiligen Wissenschaft             1 word     1 in   [109]
+  Kohärenztheorie der Wahrheit      1 word     1 in   [56]
+  Korrespondenztheorie der Wahrheit    1 word     1 in   [56]
+  Quantendekohärenz                 1 word     1 in   [32]
+  Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP)    1 word     1 in   [139]
+  TSDP                              2 word     8 in   [119, 135, 139, 141, 153, 173]  <-- substring
+                                    2      as TSDP-Aktionssystem
+                                    2      as TSDP-Analyse
+                                    1      as TSDP-Framework
+                                    1      as TSDP-basierten
+  operanten Konditionierung         1 word     1 in   [107]
+  Skinner-Boxen                     1 word     1 in   [107]
+  Iatrogenese                       1 word     1 in   [111]
+  Hamartia                          2 word     2 in   [91, 95]
+  Schiffes des Theseus              1 word     1 in   [200]
+  Mathematische-Universum-Hypothese (MUH)    1 word     1 in   [226]
+  MUH                               2 word     2 in   [226]
+  Monstergruppe                     2 word     2 in   [227]
+  Jung'sche Individuation           1 word     1 in   [228]
+  Tegmark                           1 word     1 in   [226]
+  Lifton                            1 word     1 in   [109]
+  Hassan                            1 word     1 in   [109]

@@ -1,0 +1,47 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      68
+  typographic marks      15
+  ascii quotes           106
+
+# inflection families -- one term, several surfaces
+  embod    Embodied, Embodies, Embodiment
+  prote    Protect, Protection, Protector
+  proto    Protocol, Protocols, Protokoll
+  world    World, Worlds, Worldview
+  aegis    AEGIS, Aegis
+  alter    Alter, Alters
+  coher    Coherence, Coherons
+  confr    Confrontation, Confronted
+  corre    Corrective, Correspondence
+  execu    Execution, Executive
+  ident    Identify, Identity
+  integ    Integration, Integrator
+  manag    Manage, Management
+  ratio    Rationalism, Rationalist
+  sexua    Sexualization, Sexualized
+  struc    Structural, Structure
+  syste    System, Systems
+  theor    Theories, Theory
+  these    These, Theseus
+  wavel    Wavelet, Wavelets
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  Rage < Tragedy
+  Riss < Risse
+  AEGIS < Aegis
+  Alter < Alters
+  Logic < Psychological
+  These < Theseus
+  World < Worlds
+  World < Worldview
+  Manage < Management
+  System < Systems
+  Protect < Protector
+  Protect < Protection
+  Wavelet < Wavelets
+  Protocol < Protocols
+  Cognitive < Metacognitive
+  Protokoll < Trennungsprotokoll

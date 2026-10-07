@@ -1,0 +1,14 @@
+# 100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll
+  lines                140  (frontmatter ends at 9)
+  body words           1658
+  headings             1   bold-only lines 8
+  table rows           0   code fences 0
+  question marks       22
+  backslash escapes    0
+  typographic marks    5   ascii quotes 22
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    4
+  repeated labels      none
+  longest line         313 chars
+

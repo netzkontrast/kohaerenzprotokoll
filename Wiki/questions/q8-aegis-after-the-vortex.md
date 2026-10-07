@@ -598,3 +598,79 @@ Where it stands in the record's own terms: two AEGIS end states offered side by 
 In the fourth alternative storyform, where Kael refuses Order, it writes: „Die Realität von AEGIS kollabiert vollständig unter der nicht mehr zu bändigenden Entropie“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L163]. In the first alternative storyform the end for AEGIS is also a collapse, as „und die Realität zerreißt in einer Flut unkontrollierbarer Risse“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L121]. The other storyforms are proposals beside these, and the analysis does not choose one of them.
 
 Where it stands in the record's own terms: two of four proposed storyforms end in collapse, as proposals of an analysis whose confirmations rest on data not in the file; recorded, not applied, and the record's author decision stands untouched.
+
+## 2026-10-07 — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint
+
+**The outline plans AEGIS's end as a transformation forced by the Gödel-Satz, then frozen, and names no Vortex.**
+
+Chapter 34 has Kael present his integrated, paradoxical state to the core of AEGIS, „was dessen Transformation erzwingt“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L132]. Chapter 35 plans: „AEGIS erstarrt in einem Zustand der Transformation, geprägt von“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L138] inefficient beauty, under the title „Algorithmische Melancholie: Die unmittelbaren Nachwirkungen.“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L138] Chapter 36 turns to Kael: „Kael erlangt Gnosis durch die Verbindung zum Fundament und nimmt seine neue Rolle als ethischer Hüter der Realität an.“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L140]
+
+Where it stands in the record's own terms: AEGIS transformed and frozen, not collapsed, in a plan that calls itself final; recorded, not applied, and the record's author decision stands untouched.
+
+## 2026-10-07 — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework
+
+**The handbook, reporting the novel from its reference 1, has AEGIS crash after the Gödel-Gambit and become a Zombie-System that must tolerate paraconsistent logic; it says nothing of what takes over AEGIS's function inside Kael.**
+
+In Trace 1, at the verification loop: „Kael präsentiert sich als lebende Gödel-Aussage“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L174]. AEGIS's attempt to reduce that state fails; the handbook writes „AEGIS stürzt ab und wird architektonisch in ein“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L174] Zombie-System transformed, one that suffers from algorithmic melancholy (both names in its own quotation marks). It asks the analysis to show that the collapse came from the logic limit and not from a hardware memory error (L174).
+
+Stands in the record's own terms: a report of the crash and of a plural-tolerant remainder, with no mention of Oblivion or of the Vortex's fifth beat; the record's decided status (author, 2026-10-05) is untouched.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible gives AEGIS a binary end, evolve or collapse, in its Act III resolution, and names no Vortex.**
+
+It writes: „AEGIS must either evolve its fundamental protocol or suffer a total system collapse“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L204], while „System Kael, now integrated and free“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L204] defines its own identity. Which of the two happens is not stated on that line.
+
+Stands: the guide frames AEGIS's fate as an either-or, not an answer to Q8; recorded, not applied.
+
+## 2026-10-07 — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision
+
+**The subplot revision plans AEGIS's fate in Kap 32 and Kap 36 with the verbs collapse and defeated or changed; it names no Vortex, and no Oblivion.**
+
+In Part 3, Kap 32, `Das System zerfällt`, the line plans that „Kaels/Juna/Vs Aktionen lösen Kollaps AEGIS-Kontrolle aus“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L76]. In Kap 36, `Der Fall des Wächters`, the line reads „AEGIS besiegt/verändert“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L80], followed by „Auflösung Paradoxon“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L80] and „Schicksal Guardians“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L80]. The slash leaves the choice between defeat and change open in the document.
+
+Where it stands: a proposal that AEGIS is defeated or changed in Kap 36, after its control collapses in Kap 32; it answers none of Q8's forms and is recorded, not applied.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing leaves AEGIS's state after the climax as an alternative, collapse or evolution, and does not choose.**
+
+> „forcing its collapse or evolution“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L135]
+
+> „AEGIS's rigid, exclusionary system is forced into a state of collapse or must undergo a fundamental transformation“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L153]
+
+The first sentence stands in its act III, the second in the resolution. It gives no chapter and no name for what takes over AEGIS's function inside Kael.
+
+It stands as one more source offering the disjunction, beside the record's decision of 2026-10-05, which it neither confirms nor contradicts.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic proposes that AEGIS ends in a tragic transformation, not a crash, and that a surviving Guardian observes the changed system.**
+
+Story 34, narrated by AEGIS at the climax, asks for „Instead of a simple crash, detail AEGIS's tragic transformation“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L233]: „Unable to eliminate the contradiction, its paraconsistent logic forces it to contain it“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L233]. Story 35 is assigned to „An External Observer (e.g., a surviving Guardian)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L238].
+
+Where it stands: AEGIS persists in a pathological state after the climax, in story proposals; recorded, not applied.
+
+## 2026-10-07 — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier
+
+**The development dossier plans AEGIS's end as an open choice: accept the truth and evolve, or total system collapse; it has no Vortex.**
+
+The word `Vortex` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#0] does not stand in it (a count). In the act III resolution AEGIS stands „vor einer Wahl“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L166]. The alternatives are „die Wahrheit zu akzeptieren und sich weiterzuentwickeln“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L166] or „einen totalen Systemzusammenbruch zu erleiden“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L166].
+
+Stands as a plan that leaves AEGIS's fate open between two outcomes; recorded, not applied.
+
+## 2026-10-07 — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé
+
+**The correspondence exposé ends AEGIS's story at the climax with a system forced into collapse or transformation, and does not choose between them.**
+
+In its Act III the exposé has Kael confront AEGIS as a living Gödel-Satz, a truth whose nature „cannot be proven or processed“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L98] by AEGIS's logic, „thus forcing the system into collapse or transformation“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L98]. It does not say what AEGIS is afterwards, and it names no successor to its function.
+
+Stands: one more proposal of two outcomes, from an exposé without canon claim; the record's decision of 2026-10-05 is neither applied nor disputed here.
+
+## 2026-10-07 — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report
+
+**The dissociative architecture report has AEGIS crash at the Gödel-Gambit in Chapter 35, and Kael survive it; it names no successor to AEGIS's function.**
+
+In its third act the report writes: „Kael connects to AEGIS. He presents himself as a“ ^[kael-s-dissociative-architecture-analysis.md:L198] living paradox. Its resolution is „AEGIS crashes because it cannot process the paradox“ ^[kael-s-dissociative-architecture-analysis.md:L199], and „Kael survives because his new architecture“ ^[kael-s-dissociative-architecture-analysis.md:L199] of paraconsistent logic allows integrated complexity. Its turning point of Act II prepares this: „Kael realizes that AEGIS’s perfection is a lie“ ^[kael-s-dissociative-architecture-analysis.md:L192].
+
+Stands: the report gives a crash of AEGIS at Chapter 35; it does not speak of the Vortex's fifth beat or of Oblivion, and it settles neither half of the record's question.

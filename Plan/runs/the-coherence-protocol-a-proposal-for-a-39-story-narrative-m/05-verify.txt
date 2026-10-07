@@ -1,0 +1,121 @@
+# every number stated in census or note, with the command that produced it
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Core Concept"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Core Concept` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#39]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Assigned POV"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Assigned POV` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#39]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Narrative Directive"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Narrative Directive` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#39]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Genesis-Krise"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Genesis-Krise` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#2]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Julia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Julia` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Michael"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Michael` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "functional multiplicity"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`functional multiplicity` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#3]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Ursprungs-Ich"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Ursprungs-Ich` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#3]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Wächter-Zwiespalt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wächter-Zwiespalt` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Co₁"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Co₁` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Moonshine-Link"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Link` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#2]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Potentialmeer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Potentialmeer` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Nichts Rauschen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts Rauschen` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "living Gödel-Satz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`living Gödel-Satz` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#2]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "algorithmic melancholy"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`algorithmic melancholy` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#2]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Riss` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Hamartia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hamartia` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Apparently Normal Parts (ANPs)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Apparently Normal Parts (ANPs)` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-proposal-for-a-39-story-narrative-m --count "Emotional Parts (EPs)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Emotional Parts (EPs)` ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:#1]
+$ stance_marker_count 117 = 39 + 39 + 39 (Core Concept, Assigned POV, Narrative Directive above)
+$ census numbers: 91 backslash escapes, 89 candidates, 6 compound rows: from 01-profile.txt and 04-counts.txt
+$ grep -n "?" Sources/drive/the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md | cut -c1-12   (question marks: L39, L89, L237)
+39:| \*\*App
+89:**12. Sto
+237:  - **Co

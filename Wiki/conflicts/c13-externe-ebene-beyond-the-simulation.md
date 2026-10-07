@@ -262,3 +262,63 @@ Stands as a hedged side that uses the Externe Ebene as the site of Juna's act; r
 It writes „Eine hypothetische Ebene oder ein Zustand“ ^[welten.md:L118] lying outside AEGIS's direct control and perception, a „Potenzieller Ursprung oder Aufenthaltsort von Julia“ ^[welten.md:L118], and adds „Ihre Natur bleibt (vorerst) mysteriös“ ^[welten.md:L118]. The conclusion lists it with Julia as „der transzendenten Verbindung (Externe Ebene/Julia)“ ^[welten.md:L127]. It places the level relative to AEGIS's control, and it does not say whether it lies inside or outside the simulation.
 
 Stands outside both rows of the record's table: it neither places the level beyond the simulation nor denies that it is outside it, and the record's rows are not changed.
+
+## 2026-10-07 — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list
+
+**The list gives the Externe Ebene as the unknown outside AEGIS and a source of connection and hope; it does not say whether it lies beyond the simulation.**
+
+The item `Die Externe Ebene (Juna/V)` has the reason „Das Unbekannte außerhalb von AEGIS; Quelle der Verbindung/Hoffnung.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L74]. Among the reasons for the Risse the list names „Grenzen der Simulation.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L75], but it does not connect that to the Externe Ebene.
+
+Stands outside both rows of the record's table: it places the level outside AEGIS, not outside the simulation, and denies nothing; recorded, the record's rows are not changed.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible places the External Level outside AEGIS's control, as a transcendent realm, and does not say whether it lies beyond a simulation.**
+
+It writes: „Two domains exist outside of AEGIS's control and comprehension“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L97], and of the Externe Ebene: „This is a transcendent realm that is the source of the Juna/V connection“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L99]. In the Risse section it calls AEGIS's world a simulated reality: „as tears or glitches in the fabric of AEGIS's simulated reality“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L93].
+
+Stands: the guide gives the External Level as transcendent and uncontrolled by AEGIS; the question of a simulation is not settled by it, recorded, not applied.
+
+## 2026-10-07 — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision
+
+**The subplot revision places the Externe Ebene outside AEGIS's control, without saying whether it is beyond the simulation.**
+
+Its third subplot „führt ein Element außerhalb von AEGIS' Kontrolle ein“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L21] (L21), and Kap 22 plans „Hinweise auf Externe Ebene/Juna/V“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L61] (L61). The document never writes `Köln` or `Basisrealität` and does not say where the level lies relative to the simulation, though Kap 11 speaks of a „Signifikanter Riss in Simulation“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L45] (L45).
+
+In the record's terms the revision stands with a level outside AEGIS's control, a proposal of 2025-05-02 recorded and not applied; the record's rows are not changed.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing puts Juna/V's origin on an `External Level` beyond AEGIS's comprehension, and does not say whether that level lies outside the simulation.**
+
+> „She is simultaneously a transcendent entity from an“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L112] `External Level`, in its words, „beyond AEGIS's comprehension“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L112]
+
+> „encountered a transcendent, unclassifiable entity (related to Juna/V)“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L61]
+
+Its measure is AEGIS's comprehension, not the simulation's edge.
+
+It stands outside both columns of the record's table, as a position the record's own terms do not yet hold.
+
+## 2026-10-07 — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible
+
+**The worldbuilding bible places the External Level outside AEGIS's direct control, as transcendent reality, and does not say whether it lies beyond or inside the simulation.**
+
+It states „Two domains exist outside of AEGIS's direct control“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L118], and of the first: „The source of the Juna/V connection“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120], a realm of transcendent reality that „operates on principles AEGIS cannot model or comprehend“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120], standing for „a reality beyond AEGIS's solipsistic prison“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L120]. The text does not use the name `Basisrealität` and has no mirror image or reader's world.
+
+Stands as: outside AEGIS's control and beyond its solipsism, which is not the same as the record's beyond-the-simulation or not-outside-it columns; recorded, not applied, and the record is not changed.
+
+## 2026-10-07 — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation
+
+**The AIEOS evaluation describes the external level as the reality of the author and reader in Köln 2026, into which Kael overwrites and the data are exported.**
+
+Its section heading is „Meta-Narrative Eskalation: Datenexport und die Externe Ebene“ ^[charaktermodellierung-mit-aieos-schema.md:L176]. It names the level as „der Realität des Autors/Lesers im Köln des Jahres 2026“ ^[charaktermodellierung-mit-aieos-schema.md:L178], and says of the export: „Der Datenexport in die physikalische Realität verdeutlicht, dass das System des Lesers denselben thermodynamischen und logischen Grenzen“ ^[charaktermodellierung-mit-aieos-schema.md:L178] is subject as the construct. Of Kael: „Wenn Kael in die Realität von“ ^[charaktermodellierung-mit-aieos-schema.md:L180] Köln 2026 overwrites, the schema turns into a metadata protocol of the reader's experience. The report cites its reference 6 for these lines and does not say whether the level lies beyond or inside the simulation.
+
+Stands as a physical reality of the reader, reached by overwriting and export, in the report's own words; recorded, not applied, and the record is not changed.
+
+## 2026-10-07 — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé
+
+**The correspondence exposé places Juna/V as a correspondent from the `Externe Ebene`, a reality beyond AEGIS's comprehension; it says nothing of the simulation's boundary.**
+
+It writes that Juna/V functions as a journalistic correspondent „reporting from a reality that lies beyond AEGIS's comprehension“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66], and that she acts as a correspondent from the `Externe Ebene` (External Level). The exposé does not say whether that level lies inside or outside the simulation; its world list names the Überwelt and the Kernwelten only.
+
+Where it stands in the record's own terms: beyond AEGIS's comprehension, not stated as beyond the simulation; recorded, not applied, and the record's rows are not changed.

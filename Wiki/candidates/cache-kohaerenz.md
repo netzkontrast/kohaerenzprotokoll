@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema"]
 gathered: "2026-09-24"
 ---
 
@@ -53,6 +53,10 @@ The analysis report offers cache coherence as a technical comparison for the Ris
 It adds: „Die Handlung des Romans ist im Kern der Kampf gegen dieses Löschen.“ ^[kohaerenz-analyse-kapitel-2.md:L41]
 
 The term appears again as the title of reference 6, „Cache-Kohärenz in hart echtzeitfähigen Mehrkern-Prozessoren“ ^[kohaerenz-analyse-kapitel-2.md:L244], a dissertation of the TU Dortmund the report lists (L244).
+
+## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — Kael's memory inconsistency, set against the schema's history node
+
+In its treatment of the schema's history node the AIEOS evaluation reports that, unlike classical entities, „leidet Kael unter dem“ ^[charaktermodellierung-mit-aieos-schema.md:L57] `Cache Kohärenz` problem (the report writes it in straight quotes), which it describes as „einer massiven Inkonsistenz seiner Erinnerungen und Überzeugungen“ ^[charaktermodellierung-mit-aieos-schema.md:L57].
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Mnemosyne's duty, Moros's failure
 

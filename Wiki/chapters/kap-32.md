@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 31
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,10 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - The concept with subplots titles Kapitel 32 „Das System zerfällt“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L68]. It plans: „Kaels Aktionen und/oder Juna/Vs Intervention lösen einen umfassenden Zusammenbruch in AEGIS' Kontrolle aus“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L68] — a plan, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Das System zerfällt
+
+- The subplot revision's chapter 32: „Das System zerfällt“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L76]. Its content: „Kaels/Juna/Vs Aktionen lösen Kollaps AEGIS-Kontrolle aus“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L76]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Im Auge des Sturms: Konfrontation mit AEGIS' Kern
 
 Title: the commission titles the chapter „Im Auge des Sturms: Konfrontation mit AEGIS' Kern“ ^[kontext-outline.md:L423], placed in Act 3. Position: `Setting` „Kern der Überwelt“ ^[kontext-outline.md:L429]
@@ -69,6 +73,10 @@ Position: the outline plans the `Erzählperspektive` „Kael (Selene als Koordin
 
 - Story: the outline plans, under `Plot`, „lösen einen umfassenden Zusammenbruch in AEGIS' Kontrolle aus“ ^[outline.md:L205]; „Er konfrontiert und untergräbt LogOS“ ^[outline.md:L205]
 - Question: under `Thematische Kernfrage`, „Kann man ein neues Selbst gebären, das Widersprüche umarmt?“ ^[outline.md:L207]
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — ¬∘(AEGIS_Protokoll)
+
+- The final causal blueprint's chapter 32: `¬∘(AEGIS_Protokoll)`. Its content: „Kael und Juna formulieren“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L128]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -132,6 +140,10 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Kael (erleuchtet, Gnosis
 
 - Story: the matrix plans „Kurz vor AEGIS berührt Kael“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L407]
 - Question: „Was liegt unter allem?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L406]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Die Chiffren der Realität
+
+- The DKT synthesis's chapter 32: „Die Chiffren der Realität“ ^[roman-synthese-mit-dual-kernel-theorie.md:L320]. Its narrative level: „Juna kommuniziert über Träume und Kunst; Transformation“ ^[roman-synthese-mit-dual-kernel-theorie.md:L324]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

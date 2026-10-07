@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 16
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht"]
+sources: 17
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,10 @@ Die Coda steht laut der Storyform-Outline außerhalb der Zählung der Heldenreis
 ## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Epilog: Ein Logbucheintrag des Archivars
 
 - The chapter overview plans Kapitel 40 as „Epilog: Ein Logbucheintrag des Archivars“ ^[detaillierte-kapiteluebersicht.md:L71], in Akt IV (Ketsu). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Epilog
+
+- The final causal blueprint's chapter 40: „Epilog“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L148]. Its content: „Ein Logbucheintrag des Archivars: Ein fragmentarisches Dokument aus der Zukunft, das die Unmöglichkeit einer einzigen, objektiven Wahrheit unterstreicht“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L148]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Epilog - Kohärenz
 

@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 29
-readings: 29
+sources: 30
+readings: 30
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "kohaerenz-protokoll-architecture-synthesis"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "kohaerenz-protokoll-architecture-synthesis", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-24"
 ---
 
@@ -50,6 +50,10 @@ At the Denouement of its proposed arc the drafting compendium has the Mosaik-Her
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Mosaik-Herz as the title of Kap 39 and what Kael injects in Kap 34
 
 Kap 39 is titled „Das Mosaik-Herz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L485] with the heading „Die Letzte Instanz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L486] In Kap 34 the plan has Kael inject his „Mosaik-Herz“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431] and glosses it in parentheses: „(seine Qualia, seine unkomprimierbare Existenz)“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L431]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Mosaik-Herz as Juna in Kapitel 26 and as the title of Kapitel 34
+
+The DKT synthesis, an analysis of the plot, uses the name in two chapters. Kapitel 26, `Junas Demaskierung`: Juna as `Mosaik-Herz` of chaos, and the same line adds „Sie ist der Schlüssel zur Integration“ ^[roman-synthese-mit-dual-kernel-theorie.md:L264]. Kapitel 34 is titled `Das Mosaik-Herz` (L338); its opening line says „Fusion von Ordnung und Chaos“ ^[roman-synthese-mit-dual-kernel-theorie.md:L340], and its scientific bullet reads „Das integrierte Mosaik-Herz als Lösung der Kohärenz-Krise“ ^[roman-synthese-mit-dual-kernel-theorie.md:L344].
 
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Mosaik-Herz as Juna unmasked in Akt II
 

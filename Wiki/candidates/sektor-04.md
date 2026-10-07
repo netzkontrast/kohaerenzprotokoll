@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ gathered: "2026-09-24"
 ## Reading — `kohaerenz-protokoll-39-kapitel-matrix`, 2026-02-25, the 39-chapter matrix — Sektor 04 as the place of Kap 1
 
 Kap 1 sets „Kern-Welt 1 (Konstrukt-Stadt) – Sektor 04.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L25]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — a deadlock in the subroutine architecture of Sektor 04
+
+In Kapitel 4 (`Die unentscheidbare Zone`) the systemic level of the DKT synthesis reads „Deadlock in der Subroutinen-Architektur von“ ^[roman-synthese-mit-dual-kernel-theorie.md:L65] Sektor 04 (the number follows the quoted words, and a footnote digit is glued to it in the export). The narrative level of the same chapter has endless stairs and buildings that are mathematically correct but physically impossible.
 
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Sektor 04 in Akt I
 

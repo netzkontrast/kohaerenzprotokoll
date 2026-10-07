@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 34
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein"]
+sources: 37
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C9", "C12"]
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,10 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-pri
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Synthese der Daten
 
 - The concept with subplots titles Kapitel 24 „Synthese der Daten“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L55]. It plans: „Kael konsolidiert sein Wissen über AEGIS, die Simulation und seine eigene Psyche“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L55] — a plan, not the chapter as written.
+
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Synthese der Daten
+
+- The subplot revision's chapter 24: „Synthese der Daten“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L63]. Its content: „Kael entwickelt Strategie gegen AEGIS“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L63]. A revised plan in a 39-chapter outline, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Herz des Paradoxons: Direkte Beobachtung der
 
@@ -65,6 +69,10 @@ The beat sheet places Kapitel 24 in Beat 2.3; the beat spans Kapitel 22 to 24.
 ## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die Last der Empathie
 
 - The chapter overview plans Kapitel 24 as „Die Last der Empathie“ ^[detaillierte-kapiteluebersicht.md:L45], in Akt II (Shō). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Die Last der Empathie
+
+- The final causal blueprint's chapter 24: „Die Last der Empathie“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L108]. Its content: „Rhys' Versuch, den kollabierten Anteil Moros zu erreichen, scheitert fast“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L108]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -127,6 +135,10 @@ Position: Teil II; POV from `Perspektive & Stimme`: „Kael (intim, ruhig inmitt
 
 - Story: the matrix plans „Er begreift, dass sie der Anker zur echten Welt ist“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L307]
 - Question: „Gibt es eine Verbindung, die keine Kausalität braucht?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L306]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Epigenetische Geister
+
+- The DKT synthesis's chapter 24: „Epigenetische Geister“ ^[roman-synthese-mit-dual-kernel-theorie.md:L244]. Its narrative level: „Kaels Denkmuster passen sich den Winkeln der Stadt“ ^[roman-synthese-mit-dual-kernel-theorie.md:L248]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

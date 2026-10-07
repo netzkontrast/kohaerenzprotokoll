@@ -1,0 +1,124 @@
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Narrative Ebene"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Narrative Ebene` ^[roman-synthese-mit-dual-kernel-theorie.md:#39]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Systemische Ebene"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Systemische Ebene` ^[roman-synthese-mit-dual-kernel-theorie.md:#39]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Wissenschaftliche Ebene"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Wissenschaftliche Ebene` ^[roman-synthese-mit-dual-kernel-theorie.md:#39]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "DKT-Ebene"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`DKT-Ebene` ^[roman-synthese-mit-dual-kernel-theorie.md:#39]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "RTSV"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`RTSV` ^[roman-synthese-mit-dual-kernel-theorie.md:#0]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "SIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`SIS` ^[roman-synthese-mit-dual-kernel-theorie.md:#0]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Wärme"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Wärme` ^[roman-synthese-mit-dual-kernel-theorie.md:#6]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "K0"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`K0` ^[roman-synthese-mit-dual-kernel-theorie.md:#2]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "K1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            7
+
+`K1` ^[roman-synthese-mit-dual-kernel-theorie.md:#1]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Nexus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nexus` ^[roman-synthese-mit-dual-kernel-theorie.md:#1]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[roman-synthese-mit-dual-kernel-theorie.md:#1]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[roman-synthese-mit-dual-kernel-theorie.md:#1]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Kael"
+whole word, case-sensitive     56
+whole word, case-insensitive   56
+including compounds            68
+
+`Kael` ^[roman-synthese-mit-dual-kernel-theorie.md:#56]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "DKT"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            42
+
+`DKT` ^[roman-synthese-mit-dual-kernel-theorie.md:#1]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Interface"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Interface` ^[roman-synthese-mit-dual-kernel-theorie.md:#8]
+
+$ python3 scripts/read.py roman-synthese-mit-dual-kernel-theorie --count "Risse"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Risse` ^[roman-synthese-mit-dual-kernel-theorie.md:#4]
+
+stance_marker_count 156 = 4 x 39 (the four labels above)
+$ python3 scripts/profile.py roman-synthese-mit-dual-kernel-theorie   # glued ref numbers 81, question marks 0, table rows 21
+  table rows           21   code fences 0
+  question marks       0
+  glued ref numbers    81
+$ grep -c Wärme in L42-49 and L154-161: 0 and 0
+0
+0
+$ character table rows L403-L407 (Host Manager Nox Juna Kind) = 5; Guardians list L417-L421 = 5; tables at L21 L400 L443 = 3
+5
+5
+3

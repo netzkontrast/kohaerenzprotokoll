@@ -1,0 +1,329 @@
+{
+  "document": "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
+  "drive_id": "1VivD-VLP0SwSKVo_uC0uze2y3GZdm74f20VGOgt84O0",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 83,
+    "decisions": 92,
+    "decided_by_lookup": 67,
+    "needs_judgement": 25
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Zero-Trust as a function principle of AEGIS, given as reason"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        46,
+        47,
+        50,
+        53,
+        57,
+        58,
+        85,
+        87
+      ],
+      "attribution": "",
+      "note": "AEGIS as the subject of a group of topics to deepen, with reasons"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        40,
+        71
+      ],
+      "attribution": "",
+      "note": "Alex as protector, loyalty as strength or weakness"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "Argus as observer and critic"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "control against emergence as a topic with its reason"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "entropy management as a core function of AEGIS, asked as questions"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        74
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as the unknown outside AEGIS"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "Isabelle as a specific trauma reaction"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        30,
+        81
+      ],
+      "attribution": "",
+      "note": "Juna/V as the Moonshine-Link and as the reason for attachment theory"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        23,
+        26,
+        29,
+        30,
+        31,
+        68
+      ],
+      "attribution": "",
+      "note": "the concepts proposed for deepening around Kael"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as psychological architecture"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        34
+      ],
+      "attribution": "",
+      "note": "Kiko as a part to deepen"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        132,
+        133
+      ],
+      "attribution": "",
+      "note": "Kohärenz as the central term, set between AEGIS's definition and Kael's and Selene's"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        36,
+        69
+      ],
+      "attribution": "",
+      "note": "Lex as AEGIS's logic in small"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        41,
+        72
+      ],
+      "attribution": "",
+      "note": "Lia as closeness against fear"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "the link named for Juna/V, its nature asked"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "Moros as the deepest trauma reaction"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        26,
+        33
+      ],
+      "attribution": "",
+      "note": "integration against functional multiplicity as a question"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        24,
+        27,
+        35
+      ],
+      "attribution": "",
+      "note": "Nyx as a conflict driver, and the Shadow"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        47,
+        115
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as part of AEGIS's outside, and as cosmic horror"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        37,
+        72
+      ],
+      "attribution": "",
+      "note": "Rhys as central and vulnerable"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        53,
+        75
+      ],
+      "attribution": "",
+      "note": "the Risse as system instability, with three named causes"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        23,
+        72
+      ],
+      "attribution": "",
+      "note": "Selene as the Selbst"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        68
+      ],
+      "attribution": "",
+      "note": "TSDP as the core model for Kael"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        55,
+        73
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's domain, with its contrast to human perception as reason"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 71,
+      "decision": "reading",
+      "why": "Zero-Trust in KW3, read on aegis-teilfunktionen with L55"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 51,
+      "decision": "reading",
+      "why": "Kontrolle vs. Emergenz as the central conflict, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 56,
+      "decision": "reading",
+      "why": "Entropie-Management as AEGIS's core function, read on entropie"
+    },
+    {
+      "page": "externe-ebene",
+      "surface": "Externe Ebene",
+      "line": 74,
+      "decision": "reading",
+      "why": "the unknown outside AEGIS, read on externe-ebene"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title; L132 read on kohaerenz"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 26,
+      "decision": "reading",
+      "why": "Integration vs. Funktionale Multiplizität, read on multiplizitaet"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Überwelt",
+      "line": 55,
+      "decision": "reading",
+      "why": "Zero-Trust shaping the Überwelt; read on ueberwelt with L73"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

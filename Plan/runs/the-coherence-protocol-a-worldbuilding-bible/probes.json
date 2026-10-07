@@ -1,0 +1,201 @@
+{
+  "document": "the-coherence-protocol-a-worldbuilding-bible",
+  "drive_id": "19Bo8g125vfYivnlYZCGJfDgZqioscmf0nsudFEu9cgg",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 134,
+  "typographic_marks": 14,
+  "ascii_quotes": 136,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "corre": [
+      "Correction",
+      "Corrective",
+      "Correspondence"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrator"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "world": [
+      "World",
+      "Worldbuilding",
+      "Worlds"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "creat": [
+      "Creative",
+      "Creativity"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissolution"
+    ],
+    "domai": [
+      "Domain",
+      "Domains"
+    ],
+    "dynam": [
+      "Dynamic",
+      "Dynamics"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "exter": [
+      "External",
+      "Externe"
+    ],
+    "found": [
+      "Foundation",
+      "Foundational"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmenten"
+    ],
+    "mirro": [
+      "Mirroring",
+      "Mirrors"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontology"
+    ],
+    "origi": [
+      "Origin",
+      "Original"
+    ],
+    "parad": [
+      "Paradoxical",
+      "Paradoxon"
+    ],
+    "phobi": [
+      "Phobia",
+      "Phobic"
+    ],
+    "poten": [
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "prima": [
+      "Primal",
+      "Primary"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols"
+    ],
+    "relat": [
+      "Relational",
+      "Relationship"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Fear",
+      "Fears"
+    ],
+    [
+      "Role",
+      "Roles"
+    ],
+    [
+      "Ship",
+      "Relationship"
+    ],
+    [
+      "Term",
+      "Deterministic"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Pathological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Order",
+      "Disorder"
+    ],
+    [
+      "These",
+      "Theseus"
+    ],
+    [
+      "Thing",
+      "Nothing"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Overworld"
+    ],
+    [
+      "World",
+      "Worldbuilding"
+    ],
+    [
+      "Domain",
+      "Domains"
+    ],
+    [
+      "Origin",
+      "Original"
+    ],
+    [
+      "System",
+      "Systems"
+    ]
+  ]
+}

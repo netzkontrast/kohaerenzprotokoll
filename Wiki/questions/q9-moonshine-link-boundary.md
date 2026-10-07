@@ -460,3 +460,65 @@ Stands: a description of the link as exploit and not as channel; it does not dec
 Of the Moonshine connections it says only that they „könnten die unerklärliche, sub-protokollarische Natur der K-J-Verbindung symbolisieren“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119], linking „scheinbar disparate Realitätsebenen (Kaels Psyche, das Potentialmeer, AEGIS' System)“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It asks no question about what the connection carries or who can feel it; its nearest question is whether the connection might let Kael perceive the Potentialmeer: „Könnte die Verbindung Kael ermöglichen, Aspekte des Potentialmeers direkt wahrzunehmen oder zu beeinflussen?“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L180]
 
 Where it stands in the record's own terms: a metaphor, not a boundary; it bears on the second and third ways of asking only as that one question, and is recorded, not applied.
+
+## 2026-10-07 — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list
+
+**The list names the link `Moonshine-Link` for Juna/V and asks, as a question, what its nature is; it draws no boundary.**
+
+The item reads `Juna/V (Moonshine-Link)`, with the reason „Natur der Verbindung (Resonanz, Nichtlokalität?)“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L81] and the link's „Funktion für Kael und Bedrohung für AEGIS.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L81]. A second item asks how AEGIS, whose boundaries it calls rigid, interacts with the outside: „wie interagiert es mit dem“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L47] Außen, named on the line as the Potentialmeer and Juna/V. The list says nothing of what the link carries across, who in Kael's system can feel it, or whether it is exclusive.
+
+Where it stands in the record's own terms: the question of the link's nature is asked in two candidate words and left open; it bears on the boundary only through AEGIS's outside, and is recorded, not applied.
+
+## 2026-10-07 — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework
+
+**The handbook, reporting the novel from its reference 1, describes the link as an out-of-band channel carrying only non-verbal resonances to receptive EPs, and does not draw a boundary beyond that.**
+
+On what crosses: the link „operiert als asymmetrischer Out-of-Band (OOB) Datenkanal“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L146] and carries „ausschließlich non-verbale Resonanzen“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L146], affective variables rather than classical logic packets. On who feels it: the handbook names the receptive EPs, Kiko or Lia (L146), and not Silas. On whose it is: the player, or the entity Juna, must inject guidance past AEGIS's filters (L144). On the firewall: „Daten passieren die Firewall unbemerkt“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L146].
+
+The handbook states these as its report of the mechanism and as a point to test; it does not call any of it open. Stands in the record's own terms: one more statement on what crosses and who receives it, no answer to where the boundary lies; the question stays open.
+
+## 2026-10-07 — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible
+
+**The writer's bible calls the Moonshine-Link a non-local sub-protocol that AEGIS cannot detect, and says nothing of what it carries or who else can feel it.**
+
+It writes: „The link between Kael and Juna/V is a non-local, sub-protocol“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L174] Moonshine-Link, and „its sensors are built to detect local, protocol-based data“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L174]. The link is named between Kael and Juna/V only on that line; whether it is exclusive to the pair is not stated there.
+
+Stands: adds a description of the link's relation to AEGIS, not an answer to Q9, which stays open.
+
+## 2026-10-07 — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing
+
+**The framework briefing describes the link's kind, not its boundary: non-local, sub-protocol, and invisible to AEGIS.**
+
+> „The connection to Kael is a non-local, sub-protocol phenomenon“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L114]
+
+> „AEGIS is ontologically blind to this link, perceiving its effects only as random system noise“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L114]
+
+> „The link provides Kael with“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L115] gnosis rather than episteme, as the same line has it.
+
+It names the link between Kael and Juna/V only; it names no other bearer of it and says nothing of what crosses.
+
+The question stays open in the record's own terms: this reading adds a description of the link's nature, not a limit.
+
+## 2026-10-07 — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible
+
+**The worldbuilding bible states the link as non-local, a synthesis of entanglement and prehension, between Kael and Juna/V, and does not draw a boundary.**
+
+It gives „a non-local, sub-protocol connection based on a synthesis of“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L164] Quantum Entanglement and Prehension, and says what the link does for Kael: it „acts as a covert synchronization point for his alters“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L165]. The glossary words it as „The non-local, sub-protocol connection between Kael and Juna/V“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L205]. The text names no other bearer and does not say what crosses; whether it is exclusive to the pair it does not state.
+
+Stands as: the link between two named figures, with its synchronising role for the [[alters]]; the three edges of Q9 — what crosses, who feels it, whose it is — are not addressed. Recorded, not applied; the record is not changed.
+
+## 2026-10-07 — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé
+
+**The correspondence exposé draws one edge of the Moonshine-Link: it carries gnosis and not episteme, so AEGIS cannot intercept it; it does not ask where the boundary lies.**
+
+The exposé writes that the link „does not provide him with“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] episteme, the data-based knowledge „which AEGIS could intercept“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66]. „Instead, it provides“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66] gnosis. It names the link only between Juna/V and Kael, and says nothing of who else could feel it or whether it is exclusive.
+
+Stands: a partial answer to what the link carries, in an exposé without canon claim; the question stays open in the record's own terms.
+
+## 2026-10-07 — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report
+
+**The dissociative architecture report has the Moonshine-Link mediated by the alter Juna, working through sensory resonance and bypassing Lex's logic; it draws no boundary.**
+
+In Act II, „Juna (the internal guide) facilitates communication between the warring factions by bypassing Lex’s logic and using sensory resonance“ ^[kael-s-dissociative-architecture-analysis.md:L191]. In section 7 the link is „mediated by the alter“ ^[kael-s-dissociative-architecture-analysis.md:L203] Juna, a systemic exploit „against both the internal rigidity of Lex and the external tyranny of AEGIS“ ^[kael-s-dissociative-architecture-analysis.md:L203]. The one other party the report shows meeting it is Silas: „Silas creates the index; Juna corrupts it with poetry“ ^[kael-s-dissociative-architecture-analysis.md:L209].
+
+Stands: the report names Juna as the mediator and Silas as one party it works on; it does not say what the link carries across from the Externe Ebene or whether it is exclusive, so the record's question stays open on this document.

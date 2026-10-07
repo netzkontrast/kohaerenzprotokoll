@@ -1,0 +1,102 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count
+---
+
+The document is a numbered list of 100 concepts in eight groups, each item a bold heading with a „Begründung“ in parentheses. Names of the novel's world and the document's own terms come first; borrowed theories and craft concepts follow under the lens heading. Group numbering restarts at 1 in each of the eight groups.
+
+## world and own terms
+
+- Kohärenz Protokoll
+- Kael
+- AEGIS
+- Nyx
+- Kiko
+- Lex
+- Rhys
+- Moros
+- Isabelle
+- Alex
+- Lia
+- Argus
+- Selene
+- Juna
+- Juna/V
+- Moonshine-Link
+- Tertiäre Strukturelle Dissoziation (TSDP)
+- TSDP
+- ANP-EP Phobien
+- Emotionale Persönlichkeitsanteile (EPs)
+- Anscheinend Normale Persönlichkeitsanteile (ANPs)
+- EPs
+- ANPs
+- DIS
+- Das Selbst (IFS/Selene)
+- Positive Absicht (IFS)
+- Integration vs. Funktionale Multiplizität
+- Paradoxon X
+- Kontrolle vs. Emergenz
+- Zero-Trust-Prinzip (AEGIS)
+- Entropie-Management (AEGIS)
+- Kernwelten als Psychologische Architektur
+- KW1
+- KW2
+- KW3
+- KW4
+- Co₁
+- McL
+- Ly
+- Die Überwelt (AEGIS-Domäne)
+- Die Externe Ebene (Juna/V)
+- Potentialmeer
+- Risse
+- Post-Reboot-Zustand
+- Symbolische Orte (Bunker, Schrein, Nexus etc.)
+- Bunker
+- Schrein
+- Nexus
+- Das Fundament (Hypothese)
+- Paraiyas
+- Fundamentale Symmetrie
+- P=NP (Symbolische Bedeutung)
+- Das Resonanz-Gefüge (Meta-Dokument)
+- Kohärenz (Begriff & Ziel)
+- Resonanz (Begriff & Ziel)
+- Gaslighting (AEGIS)
+- Autopoiesis (AEGIS)
+- Systemgrenzen (AEGIS vs. P/V)
+- Switching-Mechanismen & Trigger
+- Amnesie & Ko-Bewusstsein
+- Sprachwechsel (Englisch/Deutsch in Alben)
+- Heldinnenreise (Schmidt)
+- Zyklische Struktur (Teil 2)
+- Heldenreise (Campbell/Vogler)
+
+## lens
+
+- Der Schatten (Jung)
+- Anima/Animus (Jung)
+- Individuationsprozess (Jung)
+- Bindungstheorie (Desorganisierte Bindung)
+- Narrative Identität (Ricoeur)
+- Performativität (Butler)
+- Dialogisches Selbst (Hermans)
+- Feedback Loops (Positiv/Negativ)
+- Kybernetik 2. Ordnung (Beobachtereffekt)
+- Ordnung vs. Chaos/Lebendigkeit (Apollinisch/Dionysisch)
+- Gödels Unvollständigkeitssätze (Metaphorisch/Buchstäblich)
+- Parakonsistente Logik
+- Komplexitätstheorie
+- Reduktionismus vs. Holismus
+- Simulationshypothese & Kritiken
+- Informationsontologie (Floridi)
+- Prozessphilosophie (Whitehead)
+- Konstruktivismus
+- Phänomenologie
+- Resonanztheorie (Rosa)
+- Intersubjektivität
+- Macht/Wissen (Foucault)
+- KI-Ethik (Value Alignment)
+- Environmental Storytelling
+- Show, don't tell
+- Deus ex Machina (Vermeidung)
+- Foreshadowing (Besonders für "Das Fundament")
