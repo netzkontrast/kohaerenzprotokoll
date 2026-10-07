@@ -572,3 +572,13 @@ Where it stands in the record's own terms: three AEGIS end states side by side w
 In the climax chapter the plan describes AEGIS's side: „zwingt es in eine unlösbare, logische Schleife, die seine Kernprogrammierung bricht“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L370]. In its last chapter: „AEGIS ist still, transformiert“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L380]. The Ketsu summary names „die Transformation von AEGIS“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L26] as a consequence of Kael's victory. The plan, a chat reply, says nothing of Oblivion taking over a function and does not say whether AEGIS becomes plural; its chapter numbers count 30 chapters.
 
 Where it stands: one more answer to the question in the record's own terms, offered as a proposal in an assistant's outline, not a canon claim; the record's status is not touched.
+
+## 2026-10-07 — `roman-konzept-kael-aegis-simulation`, 2025-05-01, the simulation concept
+
+**The simulation concept proposes five resolution scenarios for AEGIS and Kael, none of them the Vortex's fifth beat, and offers them as conceivable, not decided.**
+
+It introduces them: „Mehrere Auflösungsszenarien sind denkbar“ ^[roman-konzept-kael-aegis-simulation.md:L258]. (1) Integration and transformation: „Kael erreicht eine stabile funktionale Multiplizität“ ^[roman-konzept-kael-aegis-simulation.md:L260] and changes AEGIS rather than destroying it. (2) Liberation and escape: „Kael besiegt oder deaktiviert AEGIS entscheidend“ ^[roman-konzept-kael-aegis-simulation.md:L261]. (3) Pyrrhic victory: „Kael besiegt zwar diese Inkarnation von AEGIS“ ^[roman-konzept-kael-aegis-simulation.md:L262], while the simulation stays unstable. (4) Assimilation and understanding: „Kael besiegt AEGIS nicht im klassischen Sinne“ ^[roman-konzept-kael-aegis-simulation.md:L263], possibly taking a role in the system himself. (5) System collapse: „Kaels Aktionen führen zum irreparablen Zusammenbruch der Simulation“ ^[roman-konzept-kael-aegis-simulation.md:L264], with „Das Ergebnis ist entweder die Auslöschung (Oblivion)“ ^[roman-konzept-kael-aegis-simulation.md:L264] — there `Oblivion` is the word for extinction, not the alter.
+
+For AEGIS's own fate the concept asks, before listing possible fates, „Ist es nur ein fehlerhaftes Werkzeug seiner Schöpfer“ ^[roman-konzept-kael-aegis-simulation.md:L175].
+
+Where it stands in the record's own terms: one more set of proposals beside the others, with no answer chosen; the record's author decision stands untouched.
