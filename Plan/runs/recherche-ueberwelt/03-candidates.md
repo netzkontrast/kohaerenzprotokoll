@@ -1,0 +1,59 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Überwelt
+- AEGIS
+- AEGIS Functional Protocol
+- Autonomous Entity for Gatekeeping, Integration, and Self-Validation
+- System Identity Layer
+- Zero-Trust Execution Model (ZTEM)
+- Zero-Trust Execution Model
+- ZTEM
+- Zero-Trust-Modell
+- Real-time self-verification (RTSV)
+- RTSV
+- Behavioral Proof-of-Function (BPoF)
+- BPoF
+- Encrypted Intent Channels (EIC)
+- EIC
+- Role in System Topology
+- Integrity Guardian
+- Cognitive Firewall
+- Consensus Enforcer
+- Ontologische Positionierung
+- Existenzbegriff durch Wirksamkeit
+- Self-Verification Interface (SVI)
+- SVI
+- Logische Konsistenzanalyse (LCA)
+- LCA
+- Redundanzfreie Informationskapselung (RIK)
+- RIK
+- Dynamic Role Instancing (DRI)
+- DRI
+- Failover & Recovery
+- Secure Isolation State (SIS)
+- SIS
+- External Interface Constraints
+- Autoverifikation
+- Rekursionssperre
+- Nicht-Adressierbarkeit
+- Nullantwortparadigma
+- Regelverletzungsschranke
+- Rekursive Signatur
+- Guardians
+- Guardian-Konstrukte
+- Guardian-Interface-Protokolle
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kern-Welten
+- Externen Ebene
+- Externe Ebene
+- Risse
+- Michael
+- Julia
+- Programm
+- DID
+
+Observations. The document is a research and concept-development commission (Auftrag) addressed to a researcher, not a narrative: it supplies the AEGIS protocol and five guardian descriptions as given context and asks questions in five tasks. Most of its candidates therefore stand inside definitions in context blocks (L19 to L79) or inside questions (L81 to L161); the terms Michael, Julia, Programm and DID appear only in the closing explanatory section. English acronym terms sit in German prose. The export prints "v1.4" so that read.py --find shows "v.4"; the protocol title was therefore listed without the version. Nothing on the list is a lens: the document applies no borrowed framework by name.

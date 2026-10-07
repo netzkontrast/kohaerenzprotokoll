@@ -1,0 +1,66 @@
+$ read.py recherche-ueberwelt --count "Zielsetzung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py recherche-ueberwelt --count "Kontext"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+$ read.py recherche-ueberwelt --count "Aufgabe"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+$ read.py recherche-ueberwelt --count "Überwelt"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            30
+
+$ read.py recherche-ueberwelt --count "AEGIS"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            31
+
+$ read.py recherche-ueberwelt --count "Guardians"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+$ read.py recherche-ueberwelt --count "Risse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+$ read.py recherche-ueberwelt --count "Michael"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            10
+
+$ read.py recherche-ueberwelt --count "Julia"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+$ read.py recherche-ueberwelt --count "implizit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py recherche-ueberwelt --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+$ read.py recherche-ueberwelt --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+$ grep -c "<!-- end list -->"
+20
+stance_marker_count: Zielsetzung 1 + Kontext 3 + Aufgabe 7 = 11
+$ profile: glued ref numbers 15, typographic marks 9 (01-profile.txt)
+  typographic marks    9   ascii quotes 52
+  glued ref numbers    15
