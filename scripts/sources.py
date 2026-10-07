@@ -6,6 +6,7 @@
     scripts/sources.py fetch --category theorie-physik  fetch straight from Drive to disk
     scripts/sources.py next --limit 10                 the next drive_ids, for manual work
     scripts/sources.py land --drive-id <id> [--spill P | --stdin | --base64-file F]
+    scripts/sources.py external --file F --source-id github:o/r@sha/path --title T ...
 
 WHY THIS TOOL EXISTS
 
@@ -421,6 +422,65 @@ def write_document(row: dict, rows: list[dict], raw: str, today: str, force: boo
     return target
 
 
+# --------------------------------------------------------------------------- external
+#
+# provisional — a document from outside Drive, landed from a local file
+# may not: fetch anything itself, or land a file a session has not cloned or
+#          downloaded first; its id is written into `drive_id` because every
+#          later step reads provenance from that field, and it is never a Drive id
+# retire when: the corpus takes no second external source, or a real
+#              `source_id` field replaces `drive_id` everywhere
+
+HTML_ONLY_LINE = re.compile(r"^\s*(?:</?(?:table|thead|tbody|tr|th|td)\b[^>]*>\s*)+$")
+HTML_TAG = re.compile(r"</?(?:i|b|em|strong|sub|sup|span|br)\b[^>]*>")
+
+
+def external_markdown(raw: str) -> str:
+    """Mechanical cleanup of a markdown file that lays itself out with HTML tables.
+
+    Lines holding only table tags are dropped and inline formatting tags are
+    removed, keeping their text; entities are unescaped. Nothing is reworded.
+    """
+    import html
+    lines = [line for line in raw.split("\n") if not HTML_ONLY_LINE.match(line)]
+    text = "\n".join(HTML_TAG.sub("", line) for line in lines)
+    text = html.unescape(text).replace("\u2003", "")
+    return re.sub(r"\n{3,}", "\n\n", text)
+
+
+def cmd_external(args: argparse.Namespace) -> int:
+    """Register and land one document that does not come from Drive.
+
+    The file must already be on disk (a clone or a download). The row gets the
+    external id in `drive_id`, the origin URL in `origin_url`, and lands through
+    `write_document` like every Drive row, so the frontmatter, the checksums and
+    `check` work unchanged.
+    """
+    rows = subject.rows()
+    if any(r.get("drive_id") == args.source_id for r in rows):
+        raise SystemExit(f"{args.source_id!r} is already in the manifest")
+    if any(r.get("slug") == args.slug for r in rows):
+        raise SystemExit(f"slug {args.slug!r} is already in the manifest")
+    path = Path(args.file)
+    if args.format == "md":
+        raw = external_markdown(path.read_text(encoding="utf-8"))
+    elif args.format in FORMAT_SUFFIX:
+        raw = convert_binary(path.read_bytes(), FORMAT_SUFFIX[args.format])
+    else:
+        raise SystemExit(f"format {args.format!r} has no external route")
+    row = {"drive_id": args.source_id, "title": args.title, "title_truncated": False,
+           "slug": args.slug, "index_section": args.index_section, "category": args.category,
+           "tier": args.tier, "format": args.format, "index_date": args.index_date,
+           "byte_equal_copies": 0, "export_path": "", "sha256": "", "exported_at": "",
+           "duplicate_of": "", "superseded_by": "", "truncated": False,
+           "origin_url": args.origin_url}
+    rows.append(row)
+    target = write_document(row, rows, raw, args.today or date.today().isoformat(), False)
+    print(f"landed {target.relative_to(ROOT)}  {target.stat().st_size:,} bytes · "
+          f"{len(normalize(raw).split()):,} words · sha {row['sha256'][:12]}")
+    return 0
+
+
 def cmd_fetch(args: argparse.Namespace) -> int:
     """Fetch documents straight from Drive to disk. No model sees the content."""
     rows = subject.rows()
@@ -498,6 +558,20 @@ def main(argv: list[str] | None = None) -> int:
     land.add_argument("--consume", action="store_true", help="delete the spill after landing")
     land.add_argument("--today", help="override the fetch date (for reproducible runs)")
     land.set_defaults(fn=cmd_land)
+
+    ext = sub.add_parser("external", help="register and land a document from outside Drive")
+    ext.add_argument("--file", required=True, help="the local copy (a clone or a download)")
+    ext.add_argument("--source-id", required=True, help="e.g. github:openai/math@adc7f12/README.md")
+    ext.add_argument("--origin-url", required=True)
+    ext.add_argument("--title", required=True)
+    ext.add_argument("--slug", required=True)
+    ext.add_argument("--format", required=True, choices=["md", *sorted(FORMAT_SUFFIX)])
+    ext.add_argument("--category", required=True)
+    ext.add_argument("--index-section", required=True)
+    ext.add_argument("--tier", required=True)
+    ext.add_argument("--index-date", required=True, help="the document's own date")
+    ext.add_argument("--today", help="override the fetch date (for reproducible runs)")
+    ext.set_defaults(fn=cmd_external)
 
     args = parser.parse_args(argv)
     return args.fn(args)
