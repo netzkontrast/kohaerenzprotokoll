@@ -283,3 +283,11 @@ This adds a row to the record and decides nothing in it.
 In its table of AEGIS's alignment failures it lists „Gewaltsame Fragmentierung von“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L199] `Echo` (Kael), with the chapters it gives: the prologue, 17, 24 and 33. In prose it applies the same origin to the theory of structural dissociation: „Kaels gewaltsame Fragmentierung im Prolog durch AEGIS etabliert diesen traumatischen Ursprung direkt.“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L37] In its Murdock table the origin reads „Kaels fragmentierter Ursprung (Trennung von Ganzheit/Selene)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L115].
 
 Stands as a row for the side that makes AEGIS the cause of Kael's fragmentation, in the report's own terms; recorded, not applied, and the record is not decided.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis decides that Michael is the original host who shattered during the Genesis Crisis, and that Kael is the primary ANP.**
+
+It sets: „Michael (The Ghost): This is the original“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L132] Host personality, one „who shattered during the“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L132] Genesis Crisis. Kael, by contrast, is „This is the primary ANP (Apparently Normal Part).“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L131]
+
+Stands as one more row for the origin question, Kael's origin as a system whose original host shattered; the report's proposal, recorded, not applied.
