@@ -396,3 +396,11 @@ Stands as a statement of where the link lies relative to AEGIS's sight, in the r
 „Als Kael der rätselhaften Juna begegnet, erwacht eine Verbindung, die AEGIS’ Logik nicht erfassen kann“ ^[roman-konzept-reduktion-und-kernfindung.md:L118]. The report does not name the connection or say what else crosses it.
 
 Where it stands in the record's own terms: a boundary toward AEGIS only, stated in a pitch; recorded, the question stays open.
+
+## 2026-10-07 — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report
+
+**The canon status report lists AEGIS's inability to perceive Juna or Kael's healing as a gap whose risk is a premature understanding.**
+
+In its gaps table, under `Autopoietic Closure`, the report gives AEGIS's „inability to“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L30] perceive Juna or Kael's „internal healing“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L30], and names the risk: „If AEGIS understands Kael too early, the conflict loses its logical inevitability“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L30].
+
+Where it stands in the record's own terms: it speaks to what AEGIS cannot see of the link's effects, not to what the link carries, who feels it, or whose it is; the question stays open.
