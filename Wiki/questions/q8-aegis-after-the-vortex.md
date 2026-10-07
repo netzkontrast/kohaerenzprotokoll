@@ -674,3 +674,11 @@ Stands: one more proposal of two outcomes, from an exposé without canon claim; 
 In its third act the report writes: „Kael connects to AEGIS. He presents himself as a“ ^[kael-s-dissociative-architecture-analysis.md:L198] living paradox. Its resolution is „AEGIS crashes because it cannot process the paradox“ ^[kael-s-dissociative-architecture-analysis.md:L199], and „Kael survives because his new architecture“ ^[kael-s-dissociative-architecture-analysis.md:L199] of paraconsistent logic allows integrated complexity. Its turning point of Act II prepares this: „Kael realizes that AEGIS’s perfection is a lie“ ^[kael-s-dissociative-architecture-analysis.md:L192].
 
 Stands: the report gives a crash of AEGIS at Chapter 35; it does not speak of the Vortex's fifth beat or of Oblivion, and it settles neither half of the record's question.
+
+## 2026-10-07 — `plot-outline-for-kohaerenz-protokoll-a-journey-through-syste`, 2025-11-03, the journey outline
+
+**The journey outline plans AEGIS transformed, not destroyed, in a state of algorithmic melancholy under paraconsistent logic (Part III, third turning point, Chapters 38-39).**
+
+„AEGIS is not destroyed but is irrevocably transformed.“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L98] The outline adds „It is forced into a new, less rigid state characterized by“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L98] algorithmic melancholy, and „Now operating on a form of paraconsistent logic, it can process the paradoxical truth of Kael's existence but can never truly understand or experience it.“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L98] The outline names no function that passes to another figure and does not mention Oblivion or the Vortex.
+
+Stands: an outline's plan for the state after the climax, in the record's terms one more answer to what AEGIS is afterwards; the half about who takes over AEGIS's function inside Kael it does not address, and it changes neither the decision of 2026-10-05 nor any reading.
