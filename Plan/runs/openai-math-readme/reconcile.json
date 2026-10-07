@@ -1,0 +1,148 @@
+{
+  "document": "openai-math-readme",
+  "drive_id": "github:openai/math@adc7f12/README.md",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from Plan/runs/ingest-openai-math/task-openai-math-readme.md with no count before the list; rlm_ingest not run; readings and new pages by the session (Plan/runs/ingest-openai-math-readme/readings/), on the author's request of 2026-10-07 (decision 026)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 110,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 51,
+    "decisions": 43,
+    "decided_by_lookup": 31,
+    "needs_judgement": 12
+  },
+  "new_terms": [
+    "internal-openai-model",
+    "lean-formalization",
+    "mathematics-manuscript-collection",
+    "reasoning-summaries"
+  ],
+  "new_readings": [
+    {
+      "page": "internal-openai-model",
+      "lines": [
+        13,
+        15,
+        50,
+        52
+      ],
+      "attribution": "",
+      "note": "the unnamed model that produced the collection, and what a result cost"
+    },
+    {
+      "page": "lean-formalization",
+      "lines": [
+        17,
+        19,
+        29
+      ],
+      "attribution": "",
+      "note": "formal proofs for some results, and a warning about the rest"
+    },
+    {
+      "page": "mathematics-manuscript-collection",
+      "lines": [
+        17,
+        19,
+        20,
+        24,
+        56
+      ],
+      "attribution": "",
+      "note": "722 manuscripts in 372 families, at different stages of verification"
+    },
+    {
+      "page": "reasoning-summaries",
+      "lines": [
+        33,
+        37,
+        46
+      ],
+      "attribution": "",
+      "note": "abridged summaries of the model's reasoning, for ten results"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [
+    "J122",
+    "J123",
+    "J124",
+    "J125"
+  ],
+  "decided_by_existing_rules": "none — every surface was new to the index; J122–J125 were written for this document",
+  "sweep": [],
+  "not_promoted": [
+    {
+      "term": "Riemann zeta function",
+      "lines": [
+        52
+      ],
+      "why": "an exception to the procedure, named; the manuscript map defines the result (family 003) — the page opens there, with this line"
+    },
+    {
+      "term": "Hodge Conjecture",
+      "lines": [
+        52
+      ],
+      "why": "as above; the manuscript map defines the result"
+    },
+    {
+      "term": "OpenAI",
+      "lines": [
+        13,
+        50
+      ],
+      "why": "the institution, only inside the model's name (J122)"
+    },
+    {
+      "term": "the ten reasoning-summary titles",
+      "lines": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "why": "table titles, occurrences (J125); each summary is its own landed document"
+    },
+    {
+      "term": "ChatGPT Pro / thinking compute",
+      "lines": [
+        50
+      ],
+      "why": "the unit of cost, read on internal-openai-model"
+    },
+    {
+      "term": "BibTeX, preprints, overview",
+      "lines": [
+        26,
+        28,
+        58
+      ],
+      "why": "pointers to files, not terms of the work"
+    }
+  ],
+  "internal_tension": "`catalogue` (L24, L29) and `catalog` (L50); the share of formalized results is given only as „Many, but not all“ (L29)",
+  "baseline_moved": "graphrag.py bench after the four pages: seeds recall@8 0.548, ppr 0.654 over 26 cases — unchanged (55 % / 65 %)"
+}

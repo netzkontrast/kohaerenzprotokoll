@@ -1,0 +1,318 @@
+$ python3 scripts/read.py openai-math-readme --count "Reasoning summaries"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Reasoning summaries` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "fixed procedure"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`fixed procedure` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "same procedure"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`same procedure` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "unformalized results"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`unformalized results` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "human edited for readability"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`human edited for readability` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "We"
+whole word, case-sensitive     6
+whole word, case-insensitive   8
+including compounds            6
+
+`We` ^[openai-math-readme.md:#6]
+
+$ python3 scripts/read.py openai-math-readme --count "we"
+whole word, case-sensitive     2
+whole word, case-insensitive   8
+including compounds            6
+
+`we` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "OpenAI"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`OpenAI` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "ChatGPT Pro"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ChatGPT Pro` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "thinking compute"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`thinking compute` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "GPT"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`GPT` ^[openai-math-readme.md:#0]
+
+$ python3 scripts/read.py openai-math-readme --count "ChatGPT"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ChatGPT` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "manuscripts"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`manuscripts` ^[openai-math-readme.md:#4]
+
+$ python3 scripts/read.py openai-math-readme --count "families"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`families` ^[openai-math-readme.md:#3]
+
+$ python3 scripts/read.py openai-math-readme --count "722"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`722` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "372"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`372` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "overview"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`overview` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "manuscript map"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`manuscript map` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "preprints"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`preprints` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "Lean"
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            3
+
+`Lean` ^[openai-math-readme.md:#3]
+
+$ python3 scripts/read.py openai-math-readme --count "Lean library"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lean library` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "formalization catalogue"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`formalization catalogue` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "Comparator instructions"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Comparator instructions` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "catalogue"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`catalogue` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "catalog"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`catalog` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "proved"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`proved` ^[openai-math-readme.md:#0]
+
+$ python3 scripts/read.py openai-math-readme --count "refuted"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`refuted` ^[openai-math-readme.md:#0]
+
+$ python3 scripts/read.py openai-math-readme --count "disproved"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`disproved` ^[openai-math-readme.md:#0]
+
+$ python3 scripts/read.py openai-math-readme --count "peer"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`peer` ^[openai-math-readme.md:#0]
+
+$ python3 scripts/read.py openai-math-readme --count "reviewed"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`reviewed` ^[openai-math-readme.md:#0]
+
+$ python3 scripts/read.py openai-math-readme --count "checked"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`checked` ^[openai-math-readme.md:#0]
+
+$ python3 scripts/read.py openai-math-readme --count "proof"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`proof` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "zero-free region"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`zero-free region` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "Riemann zeta function"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Riemann zeta function` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "Hodge Conjecture"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hodge Conjecture` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "CM abelian varieties"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`CM abelian varieties` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "conjecture"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            3
+
+`conjecture` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "conjectures"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`conjectures` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "Conjecture"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Conjecture` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "family"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`family` ^[openai-math-readme.md:#2]
+
+$ python3 scripts/read.py openai-math-readme --count "Family"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Family` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "4,000"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`4,000` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "three"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`three` ^[openai-math-readme.md:#1]
+
+$ python3 scripts/read.py openai-math-readme --count "hours"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`hours` ^[openai-math-readme.md:#1]
+
+# claims in prose without a count mark
+# "ten rows" (table rows L37 to L46):
+$ grep -c '^| [0-9][0-9][0-9] |' Sources/drive/openai-math-readme.md
+10
+# "two en-dashes" (the profile gives 2 typographic marks):
+$ grep -n '–' Sources/drive/openai-math-readme.md | cut -c1-60
+43:| 221 | [The Mézard–Parisi formula for diluted spin gl
+46:| 362 | [The three-dimensional relativistic Vlasov–Maxw
+# stance_marker_count 4 = Reasoning summaries 1 + fixed procedure 1 + unformalized results 1 + human edited for readability 1 (above)
+# Lean: L17 twice, L29 once; family L24 twice; families L24, L26, L50; see 04-counts.txt

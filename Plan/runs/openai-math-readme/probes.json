@@ -1,0 +1,32 @@
+{
+  "document": "openai-math-readme",
+  "drive_id": "github:openai/math@adc7f12/README.md",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 2,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "compa": [
+      "Comparator",
+      "ComparatorChallenges"
+    ],
+    "readm": [
+      "README",
+      "Readme"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "README",
+      "Readme"
+    ],
+    [
+      "Comparator",
+      "ComparatorChallenges"
+    ]
+  ]
+}

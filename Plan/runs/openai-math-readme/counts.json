@@ -1,0 +1,379 @@
+{
+  "document": "openai-math-readme",
+  "drive_id": "github:openai/math@adc7f12/README.md",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "OpenAI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        50
+      ]
+    },
+    "internal OpenAI model": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        50
+      ]
+    },
+    "unreleased internal OpenAI model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "ChatGPT Pro": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "thinking compute": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "open research problems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "saturated": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "manuscripts": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        24,
+        29,
+        50
+      ]
+    },
+    "supporting proof artifacts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "catalogue": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        29
+      ]
+    },
+    "families": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        26,
+        50
+      ]
+    },
+    "family": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24
+      ]
+    },
+    "mathematical discipline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "principal result": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "companion arguments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "alternative proofs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "manuscript map": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "overview": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26
+      ]
+    },
+    "preprints": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28
+      ]
+    },
+    "Lean": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        29
+      ]
+    },
+    "Lean formalizations": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17
+      ]
+    },
+    "Lean library": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "formalization catalogue": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Comparator instructions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "unformalized results": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Reasoning summaries": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "abridged summaries": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "same procedure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "fixed procedure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "human edited for readability": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "BibTeX": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "zero-free region": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52
+      ]
+    },
+    "Riemann zeta function": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52
+      ]
+    },
+    "Hodge Conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "CM abelian varieties": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Ordinary two-point correlations of multiplicative functions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "The irrationality exponent of π": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Symmetric and general Mahler conjectures": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Ordinary NP-hardness at the basic semidefinite threshold": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Quasipolynomial bounds for arithmetic progressions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Kaplansky's direct-finiteness conjecture in characteristic two": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "The Mézard–Parisi formula for diluted spin glasses": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Spontaneous magnetization in the quantum Heisenberg ferromagnet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Isomorphism of free group factors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "The three-dimensional relativistic Vlasov–Maxwell system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "multiplicative functions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "diluted spin glasses": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "quantum Heisenberg ferromagnet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "free group factors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "arithmetic progressions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "semidefinite threshold": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    }
+  }
+}

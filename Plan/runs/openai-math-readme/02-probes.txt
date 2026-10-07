@@ -1,0 +1,14 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      2
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  compa    Comparator, ComparatorChallenges
+  readm    README, Readme
+
+# substring pairs -- never one term, often merged by accident
+  README < Readme
+  Comparator < ComparatorChallenges
