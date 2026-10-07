@@ -1,0 +1,174 @@
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Forschungsintegration"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Forschungsintegration` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#9]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "\[Query\]"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`\[Query\]` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#4]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "möglicherweise"
+whole word, case-sensitive     15
+whole word, case-insensitive   17
+including compounds            15
+
+`möglicherweise` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#15]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "könnte"
+whole word, case-sensitive     25
+whole word, case-insensitive   30
+including compounds            29
+
+`könnte` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#25]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Zugriff am April 23, 2025"
+whole word, case-sensitive     70
+whole word, case-insensitive   70
+including compounds            70
+
+`Zugriff am April 23, 2025` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#70]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Kernwelten"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Kernwelten` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#20]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Kernwelt-Prüfungen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelt-Prüfungen` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#1]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            21
+
+`Kernwelt` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#0]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Kaels"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            33
+
+`Kaels` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#33]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Bachelards"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            15
+
+`Bachelards` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#14]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Kerndirektive"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kerndirektive` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#1]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Direktive"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Direktive` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#2]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Juna"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            11
+
+`Juna` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#6]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Risse"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Risse` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#7]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "KW1"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`KW1` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#5]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "KW2"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`KW2` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#4]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "KW3"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW3` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#3]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "KW4"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW4` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#6]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Umgebung"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`Umgebung` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#8]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Symbolik"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Symbolik` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#4]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Begegnungen/Ereignisse"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Begegnungen/Ereignisse` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#4]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Protokoll"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            13
+
+`Protokoll` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#5]
+
+$ grep -n "end list" Sources/drive/romanplot-kohaerenz-protokoll-entwickeln.md
+41:<!-- end list -->
+50:<!-- end list -->
+156:<!-- end list -->
+162:<!-- end list -->
+$ grep -n "Query" Sources/drive/romanplot-kohaerenz-protokoll-entwickeln.md | cut -c1-12
+29:  - *
+31:  - *
+74:**C. 
+134:  - 
+stance_marker_count 13 = Forschungsintegration 9 + \[Query\] 4
+$ python3 scripts/profile.py (01-profile.txt): glued ref numbers 140, backslash escapes 46
+7:  backslash escapes    46
+11:  glued ref numbers    140
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwickeln --count "Juna ist"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna ist` ^[romanplot-kohaerenz-protokoll-entwickeln.md:#0]

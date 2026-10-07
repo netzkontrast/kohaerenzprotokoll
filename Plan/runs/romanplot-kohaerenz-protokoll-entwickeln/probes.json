@@ -1,0 +1,307 @@
+{
+  "document": "romanplot-kohaerenz-protokoll-entwickeln",
+  "drive_id": "1xxzAT0RU-cBAjEpCFFnjw15yKb8bw_nr3uDN5xlwATc",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 140,
+  "backslash_escapes": 46,
+  "typographic_marks": 47,
+  "ascii_quotes": 154,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanomalie",
+      "Systembereiche",
+      "Systembereichen",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemintegrität",
+      "Systemische",
+      "Systemisches",
+      "Systemkollapses",
+      "Systemlogiken",
+      "Systems",
+      "Systemsteuerung",
+      "Systemtheorie"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontraste",
+      "Kontrastiert",
+      "Kontrolle",
+      "Kontrolllogik",
+      "Kontrollmaßnahmen",
+      "Kontrollmechanismen",
+      "Kontrollparadoxon",
+      "Kontrollprinzipien",
+      "Kontrollverlust",
+      "Kontrollversuche",
+      "Kontrollversuchen"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfeldern",
+      "Informationskontrolle",
+      "Informationspakete",
+      "Informationsraums",
+      "Informationsstruktur",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationszeitalter"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatrische",
+      "Psychische",
+      "Psycho",
+      "Psychodynamischer",
+      "Psychologie",
+      "Psychology",
+      "Psychotherapie"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstauslegung",
+      "Selbsterhaltung",
+      "Selbsterkenntnis",
+      "Selbstführung",
+      "Selbstreflexion",
+      "Selbstverletzung",
+      "Selbstzuwendung"
+    ],
+    "integ": [
+      "Integrate",
+      "Integration",
+      "Integrationsphase",
+      "Integrationsprozess",
+      "Integrationsschritt",
+      "Integrationsziel",
+      "Integrative"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenanteile",
+      "Schattenanteilen",
+      "Schattenintegration",
+      "Schattenlabyrinth",
+      "Schattenlabyrinths",
+      "Schattens"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabelastung",
+      "Traumaheilung",
+      "Traumas",
+      "Traumata",
+      "Traumaverarbeitung",
+      "Traumdeutung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanomalien",
+      "Datenflüssen",
+      "Datenintegrität",
+      "Datenmustern",
+      "Datenströme"
+    ],
+    "grund": [
+      "Grundfragen",
+      "Grundkonzepte",
+      "Grundlage",
+      "Grundlagen",
+      "Grundpositionen",
+      "Grundstruktur"
+    ],
+    "ident": [
+      "IDENTIT",
+      "Identitaet",
+      "Identität",
+      "Identitäten",
+      "Identitätsstörung",
+      "Identitätstheorien"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interessens",
+      "Internal",
+      "Interpretation",
+      "Intervention",
+      "Interventionen"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenziale",
+      "Potenzialen"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analysewerkzeuge",
+      "Analysis",
+      "Analytical"
+    ],
+    "entwi": [
+      "Entwickelt",
+      "Entwicklung",
+      "Entwicklungen",
+      "Entwicklungsauftrags",
+      "Entwicklungsbögen"
+    ],
+    "organ": [
+      "Organisation",
+      "Organisationsentwicklung",
+      "Organisationsform",
+      "Organismus",
+      "Organization"
+    ],
+    "parad": [
+      "Paradoxen",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls",
+      "Prototyp"
+    ],
+    "roman": [
+      "Roman",
+      "Romanmanuskript",
+      "Romanmanuskripts",
+      "Romanprojekts",
+      "Romans"
+    ],
+    "trans": [
+      "Transformation",
+      "Transformationsprozesse",
+      "Transformationsreise",
+      "Transformierter",
+      "Transzendenz"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltens",
+      "Verhaltensparametern",
+      "Verhaltensweisen",
+      "Verhaltensänderungen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "bache": [
+      "BACHELORARBEIT",
+      "Bachelard",
+      "Bachelards",
+      "Bachelorarbeit"
+    ],
+    "disso": [
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativen",
+      "Dissoziativer"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbruch",
+      "Durchleben",
+      "Durchqueren"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "ARTE",
+      "StudySmarter"
+    ],
+    [
+      "ARTE",
+      "Kohärenzarten"
+    ],
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Akte",
+      "Aktes"
+    ],
+    [
+      "Akte",
+      "Akteur"
+    ],
+    [
+      "Akte",
+      "Hauptakteure"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Arch",
+      "Archetypen"
+    ],
+    [
+      "Arch",
+      "Archetypes"
+    ],
+    [
+      "Arch",
+      "Hierarchie"
+    ],
+    [
+      "Arch",
+      "Architektur"
+    ],
+    [
+      "Arch",
+      "PhilArchive"
+    ],
+    [
+      "Arch",
+      "ResearchGate"
+    ],
+    [
+      "Arch",
+      "Archetypenlehre"
+    ],
+    [
+      "Arch",
+      "Hierarchisierung"
+    ],
+    [
+      "Arch",
+      "Architekturtheorie"
+    ],
+    [
+      "Back",
+      "Feedback"
+    ],
+    [
+      "Back",
+      "Feedbackschleifen"
+    ],
+    [
+      "Berg",
+      "Übergang"
+    ],
+    [
+      "Berg",
+      "Verbergen"
+    ]
+  ]
+}
