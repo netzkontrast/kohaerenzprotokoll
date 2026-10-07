@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2"]
 gathered: "2026-09-24"
 ---
 
@@ -41,6 +41,14 @@ The review reads the plan's state `Cache Kohärenz` as „ist eine treffende nar
 ## Reading — `the-coherence-protocol-a-definitive-guide-to-the-narrative-a`, 2025-11-03, the Coherence Protocol guide — the guide sets `Overhead` as a protocol's cost, drawn from cache coherence protocols
 
 The guide defines `Overhead` in a glossary entry as „the continuous energy expenditure a protocol requires to maintain its coherence“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46], and says it is „Drawing a direct parallel to cache coherence protocols in computer architecture“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46]. It names the cost „the active, ongoing cost of being“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46] and sets that a protocol fails once the cost outruns what it can acquire: „A protocol collapses when the energy cost of its Overhead exceeds the resources it can acquire.“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46] The lexicon table repeats the term, giving its definition as „The continuous energy expenditure a protocol requires to maintain its coherence against the pressure of K₀“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L60] and its source concept as `Cache Coherence Overhead`. Here the metaphor is a physical cost in the story's world (Persistence is „a finite resource, not a given“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L60]), not a memory fault in Kael's psyche. The guide speaks as a binding specification; this is recorded, not applied.
+
+## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — cache coherence as a technical analogy for Risse
+
+The analysis report offers cache coherence as a technical comparison for the Risse: when processor cores hold different information about one memory state, „bricht die Konsistenz zusammen.“ ^[kohaerenz-analyse-kapitel-2.md:L41] The cores stand, it reads, for Kael's alters or the Kernwelten (L41).
+
+It adds: „Die Handlung des Romans ist im Kern der Kampf gegen dieses Löschen.“ ^[kohaerenz-analyse-kapitel-2.md:L41]
+
+The term appears again as the title of reference 6, „Cache-Kohärenz in hart echtzeitfähigen Mehrkern-Prozessoren“ ^[kohaerenz-analyse-kapitel-2.md:L244], a dissertation of the TU Dortmund the report lists (L244).
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Mnemosyne's duty, Moros's failure
 
