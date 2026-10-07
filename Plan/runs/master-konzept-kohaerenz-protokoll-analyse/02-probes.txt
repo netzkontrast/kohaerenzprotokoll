@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      47
+  backslash escapes      261
+  typographic marks      189
+  ascii quotes           6
+
+# inflection families -- one term, several surfaces
+  infor    Information, Informationen, Informationsdichte, Informationserhaltung, Informationslöschung, Informationszustände, Informationsüberlauf, Informed
+  psych    Psyche, Psychodynamik, Psychologie, Psychologisch, Psychologisches, Psychotherapy, Psychotraumatology
+  archi    Archipel, Architekt, Architektonik, Architektur, Archiv, Archive
+  inter    Interaktion, Interface, Internal, Internet, Interpretation, Interrogatories
+  roman    Roman, Romanarchitektur, Romanprojekts, Romans, Romanstruktur, Romanwelt
+  struk    Struktur, Strukturellen, Strukturelles, Strukturen, Strukturierung, Strukturprinzip
+  chara    Character, Charaktere, Charakteren, Charakterkonstruktion, Charakterstudie
+  disso    Dissociation, Dissociative, Dissoziation, Dissoziative, Dissoziativen
+  proje    Projekt, Projektanalyse, Projektgenese, Projektion, Projektplanung
+  syste    System, Systemarchitektur, Systembildung, Systeme, Systems
+  wisse    Wissens, Wissenschaft, Wissenschaftliche, Wissensdatenbank, Wissensinseln
+  antei    Anteil, Anteile, Anteilen, Anteils
+  autor    Autor, Autorendiagnose, Autorenrealität, Autors
+  funkt    Funktion, Funktionale, Funktionalen, Funktionieren
+  handl    Handlung, Handlungen, Handlungsfähigkeit, Handlungsmandat
+  ident    Identifikation, Identity, Identität, Identitätsstörung
+  konze    Konzentrationsstörungen, Konzept, Konzepte, Konzeptionelle
+  model    Modell, Modelle, Modells, Models
+  strat    Strategic, Strategies, Strategiewechsel, Strategische
+  sympt    Symptom, Symptomatik, Symptome, Symptomen
+  traum    Trauma, TraumaPRO, Traumas, Traumatisierter
+  analy    Analyse, Analysis, Analyst
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinszustände
+  bezie    Beziehung, Beziehungen, Beziehungsdynamik
+  daten    Datenbank, Datenbankstruktur, Datenbankstrukturen
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Semantic
+  Bild < Abbildung
+  Bild < Systembildung
+  Bulk < Bulks
+  Dies < Diese
+  Dies < Dieser
+  Dual < Wahrheitsdualität
+  Eine < Reine
+  Feed < Feedback
+  Form < Formal
+  Form < Formalen
+  Form < Informed
+  Form < Kurzform
+  Form < Conformal
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Transformative
+  Form < Informationsdichte
+  Form < Informationslöschung

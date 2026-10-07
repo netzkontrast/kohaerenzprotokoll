@@ -1,0 +1,102 @@
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Operatives Ziel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Operatives Ziel` ^[master-konzept-kohaerenz-protokoll-analyse.md:#3]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Psyche (Autor/Kael)"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Psyche (Autor/Kael)` ^[master-konzept-kohaerenz-protokoll-analyse.md:#3]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Isomorphie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Isomorphie` ^[master-konzept-kohaerenz-protokoll-analyse.md:#2]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Maximal-Plotter"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Maximal-Plotter` ^[master-konzept-kohaerenz-protokoll-analyse.md:#3]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Logos-Prime"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Logos-Prime` ^[master-konzept-kohaerenz-protokoll-analyse.md:#2]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Mnemosyne-Archipel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mnemosyne-Archipel` ^[master-konzept-kohaerenz-protokoll-analyse.md:#1]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Cerberus-Labyrinth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cerberus-Labyrinth` ^[master-konzept-kohaerenz-protokoll-analyse.md:#1]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Kairos-Potentialis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kairos-Potentialis` ^[master-konzept-kohaerenz-protokoll-analyse.md:#1]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Parakonsistente Gambit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Parakonsistente Gambit` ^[master-konzept-kohaerenz-protokoll-analyse.md:#1]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Gödel-Gambit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Gambit` ^[master-konzept-kohaerenz-protokoll-analyse.md:#1]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Moros"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Moros` ^[master-konzept-kohaerenz-protokoll-analyse.md:#1]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Lex"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lex` ^[master-konzept-kohaerenz-protokoll-analyse.md:#3]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "DKT"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`DKT` ^[master-konzept-kohaerenz-protokoll-analyse.md:#3]
+
+$ python3 scripts/read.py master-konzept-kohaerenz-protokoll-analyse --count "Throughlines"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Throughlines` ^[master-konzept-kohaerenz-protokoll-analyse.md:#1]
+
+stance_marker_count 6 = Operatives Ziel 3 + Psyche (Autor/Kael) 3 (above)
+census prose: 47 glued ref numbers, 261 backslash escapes: from 01-profile.txt
+  backslash escapes    261
+  glued ref numbers    47
