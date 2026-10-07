@@ -1,0 +1,92 @@
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Narrative Anleitung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Narrative Anleitung` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Philosophische und Akademische Auseinandersetzung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Philosophische und Akademische Auseinandersetzung` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Kontextreiche Fragen zur Verankerung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kontextreiche Fragen zur Verankerung` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Fundament` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "DIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DIS` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Daoism"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            3
+
+`Daoism` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Protokoll des Lesers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Protokoll des Lesers` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Protokolls des Lesers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Protokolls des Lesers` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`Kernwelt` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Ki"
+whole word, case-sensitive     8
+whole word, case-insensitive   19
+including compounds            15
+
+`Ki` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#8]
+$ python3 -c "print(7+7+2)"   # stance_marker_count: Narrative Anleitung + Philosophische und Akademische Auseinandersetzung + Kontextreiche Fragen zur Verankerung
+16
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "KW₁"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`KW₁` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Canon` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "verbindlich"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`verbindlich` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-architektur-fuer-kohaerenz-protokoll --count "Lock"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Lock` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#0]

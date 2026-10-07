@@ -1,0 +1,107 @@
+# counts for 82 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            46 word    48 in   [43, 59, 67, 69, 77, 93]
+                                    1      as AEGIS-Perspektive
+                                    1      as AEGIS-Kapiteln
+  Kael                             17 word    48 in   [43, 51, 59, 67, 93, 103]  <-- substring
+                                   31      as Kaels
+  Juna/V                            6 word     9 in   [255, 451, 452, 473, 475, 530]
+                                    2      as Juna/V-Verbindung
+                                    1      as Juna/Vs
+  Lex                               1 word     1 in   [245]
+  Kiko                              1 word     1 in   [245]
+  Nyx                               1 word     1 in   [245]
+  TSDP                              4 word     6 in   [47, 51, 376, 520, 522]
+                                    1      as TSDP-basierter
+                                    1      as TSDP-Struktur
+  DIS                               1 word     1 in   [47]
+  Anteile                          14 word    16 in   [51, 112, 181, 245, 356, 384]
+                                    2      as Anteilen
+  ANPs                              1 word     1 in   [384]
+  EPs                               1 word     1 in   [384]
+  funktionale Multiplizität         2 word     2 in   [433, 461]
+  funktionalen Multiplizität        1 word     1 in   [51]
+  Fusion                            1 word     1 in   [51]
+  Gärtner                           5 word     6 in   [59, 67, 113, 432, 460]
+                                    1      as Gärtner-Axiom
+  Gärtner-Axiom                     1 word     1 in   [67]
+  Fragment 'O'                      2 word     2 in   [59, 451]
+  Kernwelten                        4 word     4 in   [181, 368, 395, 562]
+  Kernwelt                          1 word     5 in   [181, 234, 368, 395, 562]  <-- substring
+                                    4      as Kernwelten
+  KW1                               1 word     1 in   [395]
+  KW2                               1 word     1 in   [395]
+  KW3                               1 word     1 in   [395]
+  Logos-Prime                       1 word     1 in   [395]
+  Resonanz-Landschaft               1 word     1 in   [395]
+  Cerberus-Labyrinth                1 word     2 in   [181, 395]
+                                    1      as Cerberus-Labyrinths
+  Guardians                         3 word     3 in   [313, 332, 471]
+  Risse                             2 word     2 in   [162, 166]
+  Protokoll des Lesers              1 word     1 in   [323]
+  Protokolls des Lesers             1 word     1 in   [172]
+  ontologische Blindheit            1 word     1 in   [77]
+  ontologischen Blindheit           1 word     1 in   [93]
+  algorithmische Melancholie        2 word     2 in   [111, 243]
+  ineffiziente Schönheit            1 word     1 in   [180]
+  amnestische Barrieren             1 word     1 in   [244]
+  amnestischen Barrieren            1 word     1 in   [385]
+  Fundament                         1 word     4 in   [22, 254, 546, 554]  <-- substring
+                                    3      as Fundaments
+                                    2      as fundamentalen
+                                    1      as fundamentales
+                                    1      as fundamental
+  Monstergruppe                     2 word     2 in   [461]
+  Nichts Rauschen                   1 word     1 in   [254]
+  Gödel-Satz                        2 word     2 in   [323]
+  Gödel-Gambit                      2 word     2 in   [319, 574]
+  Parakonsistenz                    1 word     1 in   [111]
+  Qualia                            2 word     2 in   [77, 93]
+  Datenanomalie                     1 word     1 in   [522]
+  operative Geschlossenheit         1 word     1 in   [522]
+  Archivars                         2 word     2 in   [315, 333]
+  Deep Point of View                1 word     1 in   [93]
+  Specification Gaming              1 word     1 in   [77]
+  Perverse Instantiation            1 word     1 in   [77]
+  Algorithmic Horror                1 word     1 in   [242]
+  ethische Rückkopplungsschleife    1 word     1 in   [103]
+  philosophische Blick              2 word     2 in   [39, 43]
+  Meta-Erzähler                     1 word     1 in   [99]
+  verantwortetes Offensein          1 word     1 in   [554]
+  kognitiver Vertrag                1 word     1 in   [512]
+  Leitmotive                        1 word     2 in   [526, 530]
+                                    1      as Leitmotiven
+  Novelcrafter                      2 word     2 in   [558, 562]
+  Matrix View                       1 word     1 in   [562]
+  Ki                                8 word    15 in   [245, 412, 416, 418, 419, 421]
+  Shō                               6 word     6 in   [416, 419, 421, 450, 470, 474]
+  Ten                               6 word     6 in   [416, 420, 421, 451, 472, 474]
+  Ketsu                             4 word     4 in   [416, 421, 452, 474]
+  Wu Wei                            3 word     3 in   [432, 460, 632]
+  Levinas                           5 word     6 in   [55, 59, 580, 581]
+                                    1      as levinasianischen
+                                    1      as levinasianischer
+  Antlitz                           1 word     1 in   [59]
+  Paradox der Toleranz              3 word     3 in   [63, 67, 113]
+  Popper                            4 word     4 in   [63, 67, 113, 584]
+                                    1      as popper-paradox-of-tolerance-hitler-trump-and-the-modern-far-right
+  Kybernetik zweiter Ordnung        2 word     2 in   [103, 280]
+  Kishōtenketsu                     5 word     6 in   [412, 445, 467, 603, 628, 629]
+                                    1      as Kishōtenketsu-Struktur
+  Drei-Akt-Struktur                 2 word     2 in   [416, 467]
+  Bewusstseinsstrom                 3 word     3 in   [356, 384]
+  Metafiktion                       5 word     5 in   [290, 294, 366, 393]
+  Intertextualität                  1 word     1 in   [368]
+  Pastiche                          2 word     2 in   [368, 395]
+  unzuverlässigen Erzähler          1 word     2 in   [226, 368]
+  Hyperrealität                     1 word     1 in   [364]
+  ergodische Literatur              1 word     1 in   [134]
+  affektive Stilistik               1 word     1 in   [210]
+  Theorie der kognitiven Last       1 word     1 in   [492]
+  Śūnyatā                           5 word     5 in   [425, 433, 461, 633]
+  Svabhava                          1 word     1 in   [433]
+  Daoismus                          2 word     2 in   [425, 431]
+  Dao                               2 word     5 in   [425, 431, 460, 630]  <-- substring

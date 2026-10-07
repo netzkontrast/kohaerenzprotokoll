@@ -1,0 +1,198 @@
+{
+  "document": "narrative-architektur-fuer-kohaerenz-protokoll",
+  "drive_id": "1Gq3dpVfMGAlobn44OhCFac1ufA5au3zVgG2tfvbUXII",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-199/brief.md; no chapter page — the document names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 82,
+    "decisions": 83,
+    "decided_by_lookup": 75,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German craft handbook in seven parts, each a theory and a set of recommendations for writing the novel: its new surfaces are the theories and their authors (Levinas, Popper, Aarseth, Fish, second-order cybernetics, Daoism, Śūnyatā) and its devices (typography, pastiche, the unreliable meta-narrator, Novelcrafter's codex); what it says of the novel it takes from the existing project, and its readings record ways of writing on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        59,
+        243,
+        393
+      ],
+      "attribution": "",
+      "note": "AEGIS as Levinas's perversion of ethics, and as a voice to be written"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        111,
+        243
+      ],
+      "attribution": "",
+      "note": "how the prose might show it"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        323,
+        574
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit carried to the meta-level of authorship"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        313,
+        332
+      ],
+      "attribution": "",
+      "note": "Guardians as voices of a meta-level"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        255,
+        451,
+        475
+      ],
+      "attribution": "",
+      "note": "Juna/V rendered through synaesthesia and as the Ten of Kael's arc"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        51,
+        67,
+        181,
+        245,
+        451,
+        452,
+        475,
+        522
+      ],
+      "attribution": "",
+      "note": "ways of writing Kael's psyche, perception, integration and healing arc"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        395,
+        562
+      ],
+      "attribution": "",
+      "note": "a pastiche per Kernwelt, rules in a codex"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        445,
+        449,
+        452,
+        471
+      ],
+      "attribution": "",
+      "note": "Kael's healing arc structured as Kishōtenketsu"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        245,
+        461
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as polyphonic prose and as Śūnyatā"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        254
+      ],
+      "attribution": "",
+      "note": "a prose style for the Nichts Rauschen"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        395
+      ],
+      "attribution": "",
+      "note": "the Resonanz-Landschaft as surrealist prose"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        166
+      ],
+      "attribution": "",
+      "note": "the Risse shown typographically"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        51,
+        522
+      ],
+      "attribution": "",
+      "note": "TSDP as an ethical and formal demand on the writing"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (Logos-Prime / LogOS: a world; Cerberus-Labyrinth, a world's name, read on kern-welten), J34 (Juna/V, read on juna), J12 and J48 (inflections with their page's sense: funktionale and funktionalen Multiplizität, read on multiplizitaet, algorithmische Melancholie, read on algorithmische-melancholie)",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "the general word in the report's aim"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 255,
+      "decision": "reading",
+      "why": "synaesthetic language for Juna/V, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 393,
+      "decision": "occurrence",
+      "why": "the simulated world as setting, nothing of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "the theories and their authors",
+    "the typographic and stylistic devices, the meta-narrator, the codex",
+    "the Gärtner-Axiom — on kael"
+  ],
+  "internal_tension": "none found; it takes Fundament, Gödel-Gambit and Protokoll des Lesers as known and defines none",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,89 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- AEGIS
+- Kael
+- Juna/V
+- Lex
+- Kiko
+- Nyx
+- TSDP
+- DIS
+- Anteile
+- ANPs
+- EPs
+- funktionale Multiplizität
+- funktionalen Multiplizität
+- Fusion
+- Gärtner
+- Gärtner-Axiom
+- Fragment 'O'
+- Kernwelten
+- Kernwelt
+- KW1
+- KW2
+- KW3
+- Logos-Prime
+- Resonanz-Landschaft
+- Cerberus-Labyrinth
+- Guardians
+- Risse
+- Protokoll des Lesers
+- Protokolls des Lesers
+- ontologische Blindheit
+- ontologischen Blindheit
+- algorithmische Melancholie
+- ineffiziente Schönheit
+- amnestische Barrieren
+- amnestischen Barrieren
+- Fundament
+- Monstergruppe
+- Nichts Rauschen
+- Gödel-Satz
+- Gödel-Gambit
+- Parakonsistenz
+- Qualia
+- Datenanomalie
+- operative Geschlossenheit
+- Archivars
+- Deep Point of View
+- Specification Gaming
+- Perverse Instantiation
+- Algorithmic Horror
+- ethische Rückkopplungsschleife
+- philosophische Blick
+- Meta-Erzähler
+- verantwortetes Offensein
+- kognitiver Vertrag
+- Leitmotive
+- Novelcrafter
+- Matrix View
+- Ki
+- Shō
+- Ten
+- Ketsu
+- Wu Wei
+
+## lens
+
+- Levinas
+- Antlitz
+- Paradox der Toleranz
+- Popper
+- Kybernetik zweiter Ordnung
+- Kishōtenketsu
+- Drei-Akt-Struktur
+- Bewusstseinsstrom
+- Metafiktion
+- Intertextualität
+- Pastiche
+- unzuverlässigen Erzähler
+- Hyperrealität
+- ergodische Literatur
+- affektive Stilistik
+- Theorie der kognitiven Last
+- Śūnyatā
+- Svabhava
+- Daoismus
+- Dao
+
+The document is a German-language handbook of seven "Teile", each split into a philosophical-academic part and a "Narrative Anleitung". It speaks mostly in the register of recommendation (sollte, kann, könnte) and cites the existing project as footnote number 1, which the export glues to words. Terms such as Gödel-Gambit and Protokoll des Lesers are used as known and are defined nowhere in this text; the reference list names footnote 1 only as „Gödel-Gambit im narrativen Projekt“. KW1 to KW3 may be written with plain digits; the count will say. The 'O' fragment appears as „anderen Fragment 'O'“ and as 'O'-Fragment in questions; both halves are listed as written in the first form only.

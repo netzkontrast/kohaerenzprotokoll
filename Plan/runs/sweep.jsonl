@@ -816,3 +816,7 @@
 {"document": "kohaerenz-protokoll-narrative-architektur", "page": "did", "surface": "DID", "line": 300, "decision": "occurrence", "why": "a reference title", "at": "2026-10-07"}
 {"document": "kohaerenz-protokoll-narrative-architektur", "page": "emergenz", "surface": "Emergenz", "line": 32, "decision": "occurrence", "why": "the general word in the table's summary", "at": "2026-10-07"}
 {"document": "kohaerenz-protokoll-narrative-architektur", "page": "risse", "surface": "Glitches", "line": 104, "decision": "reading", "why": "glitches of the transformed AEGIS, read on risse", "at": "2026-10-07"}
+{"document": "narrative-architektur-fuer-kohaerenz-protokoll", "page": "emergenz", "surface": "Emergenz", "line": 22, "decision": "occurrence", "why": "the general word in the report's aim", "at": "2026-10-07"}
+{"document": "narrative-architektur-fuer-kohaerenz-protokoll", "page": "juna", "surface": "Juna", "line": 255, "decision": "reading", "why": "synaesthetic language for Juna/V, read on juna", "at": "2026-10-07"}
+{"document": "narrative-architektur-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the project's name in the title", "at": "2026-10-07"}
+{"document": "narrative-architektur-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 393, "decision": "occurrence", "why": "the simulated world as setting, nothing of the Überwelt", "at": "2026-10-07"}
