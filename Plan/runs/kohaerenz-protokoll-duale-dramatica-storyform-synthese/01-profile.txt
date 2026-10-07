@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-duale-dramatica-storyform-synthese
+  lines                197  (frontmatter ends at 9)
+  body words           3124
+  headings             17   bold-only lines 2
+  table rows           16   code fences 0
+  question marks       10
+  backslash escapes    120
+  typographic marks    28   ascii quotes 68
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    31
+  repeated labels      none
+  longest line         1123 chars
+

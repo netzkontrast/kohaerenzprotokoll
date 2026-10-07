@@ -1,0 +1,133 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count
+---
+
+# Candidates — written while reading
+
+- Kohärenz-Protokoll
+- Kohärenz Protokoll
+- Narrative Context Protocol
+- NCP
+- Dual Kernel Theory
+- DKT
+- Tertiäre Strukturelle Dissoziation
+- TSDP
+- ANP
+- EP
+- Apparently Normal Part
+- Emotional Parts
+- Kohärenz-Kernel
+- Entropie-Kernel
+- AEGIS
+- Kael
+- System Kael
+- Juna
+- V
+- Juna/V
+- Lex
+- Nyx
+- Kiko
+- Selene
+- Moros
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- KW1
+- KW2
+- KW3
+- KW4
+- Moonshine Resonance
+- K-J Vektor
+- K-J Vector
+- Mosaic Heart
+- Mosaik-Herz
+- Inner Council
+- Z-Fighting
+- ANP-EP Phobie
+- funktionale Multiplizität
+- Funktionalen Multiplizität
+- Functional Multiplicity
+- Zero-Trust Execution Model
+- ZTEM
+- Recursive Integrity & Validation Engine
+- RIVE
+- RTSV
+- Behavioral Proof-of-Function
+- BPoF
+- Paradox of Misaligned Coherence
+- Logics of Formal Inconsistency
+- Landauer-Prinzip
+- Story-first Phase
+- Steinbruch-Notizen
+- Constraint Block 4
+- RAG-Isomorphie-Direktive
+- Story Mind
+- NovelOS
+- GraphRAG
+- ARCHON-Framework
+- TRACE-Framework
+- ReAct-Zyklus
+- Werk-Anker
+- Methoden-Lexikon
+- Pre-Synthesis Integrity Check
+- Storyform A
+- Storyform B
+- 5D-Lift
+- Phönix-Kollaps
+- Vertex-Explosion
+- Kollaps der Formeln
+- Fragment Alpha
+- Demiurg
+- Gärtner-Metapher
+- Failure/Good
+- Steadfast
+- Orthogonale Kontinuum
+- Grand Argument Story
+- Objective Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Throughline
+- Contagonist
+- Universe
+- Mind
+- Psychology
+- Physics
+- Understanding
+- Memories
+- Future
+- Becoming
+- Order
+- Chaos
+- Faith
+- Disbelief
+- Unproven
+- Proven
+- Certainty
+- Potentiality
+- Truth
+- Falsehood
+- Choice
+- Commitment
+- Kishōtenketsu
+- Ki
+- Shō
+- Ten
+- Ketsu
+
+## lens
+
+- Dramatica
+- Hegelsche Dialektik
+- Aufhebung
+- Dialetheismus
+- Internal Family Systems
+- Steelmanning
+- Falsifikation
+- Kohärenztheorie
+- Korrespondenztheorie
+- Syužet
+- Fabula
+
+Observations. The document is a TRACE-Step report (Steps 0 to 7) with two tables whose cells are flattened and bold-escaped, and many symbols lost in export (the kernel symbols appear as empty parentheses, for example „Kohärenz-Kernel ()"). The Dramatica terms (Universe, Mind and so on) are listed because the document sets them in italics or bold as the values of its storyform A and B; their ordinary-word counts will be high. Reference numerals 1 to 3 are glued to the words they annotate. Terms with a period and a space (Kap. 1-3) and numbered list items were left out.

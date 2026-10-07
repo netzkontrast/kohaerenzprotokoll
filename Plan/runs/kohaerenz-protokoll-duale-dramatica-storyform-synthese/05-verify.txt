@@ -1,0 +1,159 @@
+# 05-verify: every number the census and note state, with the command that produced it
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "TRACE-Step"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`TRACE-Step` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "\[Act\]"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`\[Act\]` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "\[Observe\]"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`\[Observe\]` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Prüfung"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Prüfung` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#10]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Kap"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kap` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "K-J"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`K-J` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Inner Council"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Inner Council` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Kohärenz-Protokoll"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Kohärenz-Protokoll` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Kernwelten"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelten` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Core Worlds"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Core Worlds` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "GraphRAG"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`GraphRAG` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "GraphRAG-System"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`GraphRAG-System` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Constraint Blocks 4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Constraint Blocks 4` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "V"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            33
+
+`V` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Ki"
+whole word, case-sensitive     2
+whole word, case-insensitive   6
+including compounds            9
+
+`Ki` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Ten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Ten` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-duale-dramatica-storyform-synthese --count "Ketsu"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Ketsu` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#2]
+
+stance_marker_count 14 = [Act] 2 + [Observe] 2 + Prüfung 10 (counts above)
+$ grep -ow '\bV\b' Sources/drive/kohaerenz-protokoll-duale-dramatica-storyform-synthese.md | wc -l
+2
+
+$ grep -ow '\bKi\b' Sources/drive/kohaerenz-protokoll-duale-dramatica-storyform-synthese.md | wc -l
+3
+
+$ grep -ow '\bTen\b' Sources/drive/kohaerenz-protokoll-duale-dramatica-storyform-synthese.md | wc -l
+3
+
+$ grep -c '?' Sources/drive/kohaerenz-protokoll-duale-dramatica-storyform-synthese.md
+10
+
+$ grep -n '?' Sources/drive/kohaerenz-protokoll-duale-dramatica-storyform-synthese.md | cut -c1-60
+151:1.  \*\* Konstruktion von Storyform A abgeschlossen?\*\*
+153:2.  \*\* Konstruktion von Storyform B abgeschlossen?\*\*
+155:3.  \*\* Isomorphe Triangulation (Psychologie) bestätig
+156:4.  \*\* Isomorphe Triangulation (Physik) bestätigt?\*\
+157:5.  \*\* Isomorphe Triangulation (Narrativ) bestätigt?\
+158:6.  \*\* Kollidierende Vektoren & Dialektik identifizier
+159:7.  \*\* 'Story-first Phase' (ab April 2026) präferiert
+160:8.  \*\* Veraltete 'Steinbruch-Notizen' dekanonisiert?\*
+161:9.  \*\* ReAct-Zyklus und TRACE-Framework befolgt?\*\*
+163:10. \*\* 5D-Synthese-Voraussetzung erfüllt (Hegelsche A
+

@@ -1,0 +1,331 @@
+{
+  "document": "kohaerenz-protokoll-duale-dramatica-storyform-synthese",
+  "drive_id": "1vusf9CYph3mybYLL98EiHsZ-3FPHYJpP_St0DFaXA1U",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-220/brief.md; chapter readings on Kap 1–13 by the session, Plan/runs/ingest-220-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 121,
+    "decisions": 122,
+    "decided_by_lookup": 104,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A synthesis report in eight TRACE steps that assigns Dramatica values to two storyforms of its own lettering (A = AEGIS, B = Kael): its new surfaces are the Dramatica vocabulary, the report's own machinery (NCP, ZTEM's sibling protocols, the 5D-Lift) and borrowed concepts; what it says of the novel's world went on existing pages, thirteen chapter pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        45,
+        76
+      ],
+      "attribution": "",
+      "note": "ZTEM among AEGIS's protocols"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        58,
+        64,
+        66,
+        71,
+        72,
+        76,
+        166,
+        178
+      ],
+      "attribution": "",
+      "note": "AEGIS as Storyform A, falsified and then lifted"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        45,
+        100,
+        106,
+        182,
+        184
+      ],
+      "attribution": "",
+      "note": "Alters in the order row and in the TSDP-Alter table"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        20,
+        156
+      ],
+      "attribution": "",
+      "note": "the DKT as the second Werk-Anker"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        28,
+        50,
+        176
+      ],
+      "attribution": "",
+      "note": "Entropie as trauma"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        120,
+        122,
+        123,
+        124,
+        125,
+        142
+      ],
+      "attribution": "",
+      "note": "Juna/V as the Impact Character of the report's tangential vectors"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        80,
+        82,
+        88,
+        89,
+        90,
+        95,
+        107,
+        140,
+        176,
+        182
+      ],
+      "attribution": "",
+      "note": "Kael as the protagonist of its own Storyform B, a fractal TSDP system"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        89,
+        106,
+        143,
+        182
+      ],
+      "attribution": "",
+      "note": "Four worlds KW1–KW4 as the epistemological landscape of the six alters"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        110,
+        184
+      ],
+      "attribution": "",
+      "note": "Kiko (EP), bearer of emotional sensitivity, role Emotion"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        30,
+        140,
+        141,
+        142,
+        143,
+        159
+      ],
+      "attribution": "",
+      "note": "Kishōtenketsu replacing the three acts"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        45,
+        178
+      ],
+      "attribution": "",
+      "note": "the ordering kernel and its Aufhebung"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        108,
+        184
+      ],
+      "attribution": "",
+      "note": "Lex (ANP), rationalist, role Reason, in Logos-Prime"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        112,
+        114,
+        184
+      ],
+      "attribution": "",
+      "note": "Moros (EP), existential emptiness, internal antagonist, in Cerberus-Labyrinth"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        143,
+        180,
+        184
+      ],
+      "attribution": "",
+      "note": "Das Mosaik-Herz as the heading of the synthesis step"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        28,
+        96,
+        159,
+        172,
+        180
+      ],
+      "attribution": "",
+      "note": "Functional multiplicity as the result the report builds toward"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        109,
+        114,
+        184
+      ],
+      "attribution": "",
+      "note": "Nyx (EP), fight response and Contagonist, in Cerberus-Labyrinth"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        48,
+        50,
+        134,
+        141
+      ],
+      "attribution": "",
+      "note": "Risse as symptom and as flashback equivalent"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        111,
+        184
+      ],
+      "attribution": "",
+      "note": "Selene (ANP), creative integrator, role Guardian, in Kairos-Potentialis"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        21,
+        82,
+        100,
+        106
+      ],
+      "attribution": "",
+      "note": "TSDP as the third Werk-Anker and the source of the alter table"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J11 (Zero-Trust on aegis-teilfunktionen — ZTEM read there), J49 and J118 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis, the world names, read on kern-welten); the Entropie-Kernel is the DKT's kernel, read on dkt; `Truth` is the Dramatica issue Truth vs. Falsehood, not the Truth-Rotation (J90 keeps a beat and the rotation apart)",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 45,
+      "decision": "reading",
+      "why": "the Zero-Trust Execution Model as AEGIS's protocol"
+    },
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 45,
+      "decision": "reading",
+      "why": "functional Alters in the order row; the TSDP-Alter table"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 72,
+      "decision": "occurrence",
+      "why": "emergence in general as the premise Chaos allows, not AEGIS's emergence"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 28,
+      "decision": "reading",
+      "why": "Entropie as trauma, the epistemological centre"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 48,
+      "decision": "reading",
+      "why": "Risse in the fabric of spacetime as digital waste heat"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 141,
+      "decision": "occurrence",
+      "why": "the social simulation's echoes, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "NCP",
+    "ANP/EP",
+    "Z-Fighting",
+    "RIVE, RTSV, BPoF",
+    "the Paradox of Misaligned Coherence",
+    "the Landauer-Prinzip",
+    "Moonshine Resonance and the K-J Vector",
+    "Inner Council",
+    "the 5D-Lift, Phönix-Kollaps, Vertex-Explosion",
+    "the Dramatica values"
+  ],
+  "internal_tension": "it writes Mosaik-Herz and Mosaic Heart, funktionale Multiplizität and Functional Multiplicity, K-J Vektor and K-J Vector; it calls its own audit passed at 100 % (L166)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
