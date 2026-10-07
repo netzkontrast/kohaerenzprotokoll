@@ -709,3 +709,11 @@ Where it stands: a plan that gives the Wächter the Kernwelten as domains and th
 Story 17 is assigned to „The Architect (Guardian of Kernwelt“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L122] followed by the number one, and the directive asks for the perspective of „Guardian of the logic-based world“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L123], written on that line as `Co₁`. Story 21 gives only A Kernwelt Guardian.
 
 Where it stands: one Guardian-to-world pairing in a story proposal, no five and no four; recorded, not applied.
+
+## 2026-10-07 — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation
+
+**The AIEOS evaluation names one Guardian, Mnemosyne, and pairs it with no Kern-Welt.**
+
+It says: „Der Guardian“ ^[charaktermodellierung-mit-aieos-schema.md:L59] Mnemosyne „verwaltet die Datenströme der Erinnerung, erkennt jedoch den emotionalen Kontext nicht“ ^[charaktermodellierung-mit-aieos-schema.md:L59], citing its reference 2. The evaluation speaks of the Konstrukt-Stadt elsewhere, but never in connection with this Guardian.
+
+Stands as one Guardian named for the memory streams, with no pairing and no Erasure-Pol; recorded, not applied, and the record is not changed.
