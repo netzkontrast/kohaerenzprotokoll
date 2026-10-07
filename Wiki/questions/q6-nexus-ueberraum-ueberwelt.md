@@ -269,3 +269,11 @@ Stands as one more row of where the Überwelt is placed; the question stays open
 It says of the Überwelt: „AEGIS' operative Domäne“ ^[welten.md:L54], „rein informationsbasierte, abstrakte Realitätsebene“ ^[welten.md:L54]. Of the Nexus, which it says is mentioned in another project document, it writes: „Möglicherweise ein Begriff für die Schnittstellen oder Übergangszonen“ ^[welten.md:L119] between the Kern-Welten or between them and the Überwelt/AEGIS, and closes: „Die genaue Definition und Funktion muss ggf. noch geschärft werden“ ^[welten.md:L119].
 
 Stands with the Überwelt as AEGIS's domain and the Nexus as an open, hedged possibility; recorded, not applied, and the record is not decided by it.
+
+## 2026-10-07 — `recherche-ueberwelt`, 2025-04-17, the Überwelt commission
+
+**The Überwelt commission gives the Überwelt as the Guardians' primary level of reality and the system's manifestation, set against the Externe Ebene; no Nexus, no Überraum.**
+
+Light pass, closing `Erweiterter Kontext` only. The Überwelt is „die primäre Realitätsebene der Guardians“ ^[recherche-ueberwelt.md:L188], and „die Manifestation des zugrundeliegenden Systems“ ^[recherche-ueberwelt.md:L189]. The commission writes: „Die Überwelt bildet den fundamentalen Gegensatz zur“ ^[recherche-ueberwelt.md:L195] Externe Ebene. The passage does not mention a Nexus or an Überraum.
+
+Stands as the Überwelt placed with the Guardians and the system, against the Externe Ebene; recorded, the question stays open.
