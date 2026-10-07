@@ -1,0 +1,88 @@
+$ read.py analyse-des-kohaerenz-protokolls --count "Forschungsbericht"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Forschungsbericht` ^[analyse-des-kohaerenz-protokolls.md:#1]
+$ read.py analyse-des-kohaerenz-protokolls --count "Die Dokumente"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Die Dokumente` ^[analyse-des-kohaerenz-protokolls.md:#4]
+$ read.py analyse-des-kohaerenz-protokolls --count "System Prompt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`System Prompt` ^[analyse-des-kohaerenz-protokolls.md:#1]
+$ read.py analyse-des-kohaerenz-protokolls --count "SAMPLE RESPONSE PATTERN"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`SAMPLE RESPONSE PATTERN` ^[analyse-des-kohaerenz-protokolls.md:#1]
+$ read.py analyse-des-kohaerenz-protokolls --count "Ende des Berichts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ende des Berichts` ^[analyse-des-kohaerenz-protokolls.md:#1]
+$ read.py analyse-des-kohaerenz-protokolls --count "Heuristik der Negation"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Heuristik der Negation` ^[analyse-des-kohaerenz-protokolls.md:#6]
+$ read.py analyse-des-kohaerenz-protokolls --count "Proto-AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Proto-AEGIS` ^[analyse-des-kohaerenz-protokolls.md:#0]
+$ read.py analyse-des-kohaerenz-protokolls --count "Funktionale Multiplizität"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Funktionale Multiplizität` ^[analyse-des-kohaerenz-protokolls.md:#0]
+$ read.py analyse-des-kohaerenz-protokolls --count "Algorithmische Melancholie"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Algorithmische Melancholie` ^[analyse-des-kohaerenz-protokolls.md:#0]
+$ read.py analyse-des-kohaerenz-protokolls --count "Kernwelten"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kernwelten` ^[analyse-des-kohaerenz-protokolls.md:#4]
+$ read.py analyse-des-kohaerenz-protokolls --count "Risse"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Risse` ^[analyse-des-kohaerenz-protokolls.md:#4]
+$ read.py analyse-des-kohaerenz-protokolls --count "Core Worlds"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Core Worlds` ^[analyse-des-kohaerenz-protokolls.md:#1]
+$ read.py analyse-des-kohaerenz-protokolls --count "Genesis Crisis"
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            0
+
+`Genesis Crisis` ^[analyse-des-kohaerenz-protokolls.md:#0]
+$ read.py analyse-des-kohaerenz-protokolls --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`Riss` ^[analyse-des-kohaerenz-protokolls.md:#1]
+$ stance_marker_count: 1+4+1+1+1 = 8 (the five counts above)
+$ profile.py: backslash escapes 151, glued ref numbers 25, longest line 6673 chars (01-profile.txt)
+$ census-draft facts: zeros 1, standing alone less often than compounds 11
+$ sections count: 7 sections announced L26; 4 Kernwelten L231; 8 stance markers

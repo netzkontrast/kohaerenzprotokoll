@@ -1,0 +1,14 @@
+# analyse-des-kohaerenz-protokolls
+  lines                435  (frontmatter ends at 9)
+  body words           5966
+  headings             29   bold-only lines 0
+  table rows           20   code fences 0
+  question marks       26
+  backslash escapes    151
+  typographic marks    161   ascii quotes 97
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    25
+  repeated labels      none
+  longest line         6673 chars
+
