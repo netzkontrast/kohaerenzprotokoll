@@ -454,3 +454,11 @@ Stands as a text that puts the AEGIS blind spot and the Guardians' blind spots i
 It writes: „Die Guardians sind spezialisierte Subsysteme oder Agenten von AEGIS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43], and that each inherits its Kernwelt's logic, which leads to `blinden Flecken` (L44). It then says that these blind spots „schaffen potenzielle Bruchlinien innerhalb von AEGIS selbst“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L55], with an example of Mnemosyne and LogOS reading Resonanz differently (L55). The document hedges this with `könnte` and `potenziell`.
 
 Stands with the Guardians as components of AEGIS, whose blind spots the document places inside AEGIS; recorded, not applied, and the conflict stays open.
+
+## 2026-10-07 — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint
+
+**The plot blueprint proposes that the Guardians' blind spots, which come from their specialisation, drive AEGIS's escalation; it proposes this, it does not settle it.**
+
+It writes: „Jeder Guardian nimmt nur einen Ausschnitt der Realität wahr“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L67], and the data they report are „inkonsistenten und widersprüchlichen Datenströme“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L67] that overload AEGIS's analysis units. Their blind spots, it adds, are „Limitationen, sondern potenziell auch Ausgangspunkte für eine Art systeminterner Divergenz“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L77].
+
+Stands on the side of the Guardians as failing, specialised instruments of AEGIS, as one proposal addressed to the author; recorded, not applied, and the record's rows are not changed.
