@@ -448,3 +448,9 @@ Stands on the side of components of AEGIS; recorded, not applied, and the record
 L43 reads: „Die Guardians sind spezialisierte Subsysteme oder Agenten von AEGIS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43], and they act as „lokale Vollstrecker der AEGIS-Protokolle“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43]. The document's fault-line passage places their blind spots „innerhalb von AEGIS selbst“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L55] (L55).
 
 Where it stands in the record's own terms: the Guardians as components of AEGIS (subsystems or agents), not peers; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `aegis`, 2025-07-29, the AEGIS concept file
+
+**The Guardians are agents under AEGIS's control, not avatars, but localised processes or fields.** The file says „Dies sind spezialisierte Entitäten oder Agenten, die unter AEGIS' Kontrolle stehen“ ^[aegis.md:L143], then „Sie sind keine Avatare“ ^[aegis.md:L143], and continues „sondern lokalisierte, dynamische Prozesse oder Felder, die sich als reine Informationskonstrukte manifestieren“ ^[aegis.md:L143]. It names no other thing they are or are not, and in the same line says their existence is their function.
+
+Where it stands in the record's own terms: the Guardians are placed under AEGIS and apart from avatars, in a file that also names the same names for the Kernwelten (L212); recorded, not applied, and the question stays open.
