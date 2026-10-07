@@ -68,7 +68,7 @@ erfüllt. Dann gilt:
 
 ## Lean-Beweis
 
-[`lean/AL02.lean`](lean/AL02.lean), Lean-Kern ohne Bibliothek, Version in [`lean/lean-toolchain`](lean/lean-toolchain).
+[lean/AL02.lean](lean/AL02.lean), Lean-Kern ohne Bibliothek, Version in [lean/lean-toolchain](lean/lean-toolchain).
 Satz 1 ist ein Induktionsbeweis über beliebige Pläne, Satz 3 folgt aus ihm mit `omega` für **alle** zulässigen Pläne
 des Fensters. Die Sätze 2 und 4 rechnen die zwei konkreten Pläne aus.
 

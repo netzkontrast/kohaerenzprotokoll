@@ -15,7 +15,7 @@ Kapitelstelle ist entschieden.
 
 Jedes Log hat sechs Teile, in dieser Reihenfolge: die **Lesefassung** (so stünde es im Roman), die **formale
 Behauptung**, die **Definitionen und Voraussetzungen**, den **Lean-Beweis** (ein relativer Verweis auf die Datei in
-[`lean/`](lean/)), die **Reichweite** mit dem, was ausgeblendet bleibt, und den **Bezug** zu Kapitel, Figurenhandlung
+[lean/](lean/)), die **Reichweite** mit dem, was ausgeblendet bleibt, und den **Bezug** zu Kapitel, Figurenhandlung
 und Storyform B. Der Kopf nennt:
 
 ```yaml
@@ -38,6 +38,6 @@ kanon: []            # ids aus kanon.md; leer heißt: nichts entschieden
   ändern, ohne dass die Prüfung verfällt.
 
 Ein Beweis gilt als geprüft, wenn Lean ihn ohne Fehler und ohne `sorry` annimmt, wenn die Datei kein `sorry`,
-`admit`, `axiom`, `native_decide`, `implemented_by` oder `extern` enthält, und wenn jeder Satz höchstens von Leans drei
+`admit`, `axiom`, `native_decide`, `implemented_by`, `extern` oder `unsafe` enthält, und wenn jeder Satz höchstens von Leans drei
 Standardaxiomen abhängt (`propext`, `Quot.sound`, `Classical.choice`). Die Lean-Version steht in
-[`lean/lean-toolchain`](lean/lean-toolchain); `scripts/install.sh lean` installiert genau sie.
+[lean/lean-toolchain](lean/lean-toolchain); `scripts/install.sh lean` installiert genau sie.

@@ -407,6 +407,10 @@ class Component extends DCLogic {
           tips.push((doc ? doc.sig + ' · ' + doc.title : String(d)) + ' — ' + lines);
         });
         out.push({ isR: true, x: labs.join(' · '), title: tips.join('\n') });
+      } else if (t === 'm') {
+        // a link inside the novel's workspace: ['m', label, tab, key]
+        if (flat) out.push({ isT: true, x: r[1] });
+        else out.push({ isL: true, x: r[1], go: () => this.go('manuscript', { mtab: r[2], msel: r[3] }) });
       } else if (t === 'b') out.push({ isB: true, x: r[1] });
       else if (t === 'g') out.push({ isG: true, x: r[1] });
       else if (t === 'i') out.push({ isI: true, x: r[1] });
@@ -428,7 +432,48 @@ class Component extends DCLogic {
         const cell = (c, j) => ({ runs: this.runs(c), ta: al.charAt(j) === 'r' ? 'right' : 'left' });
         out.push({ isTB: true, head: { cols: cols, cells: (b[1] || []).map(cell) }, rows: (b[2] || []).map((row) => ({ cols: cols, cells: row.map(cell) })) });
       } else if (k === 'pre') out.push({ isPre: true, x: b[1] });
+      else if (k === 'tg') {
+        // a switch that shows or hides what follows it: ['tg', label, state key, open]
+        const key = b[2];
+        out.push({ isTg: true, label: (b[3] ? '▾ ' : '▸ ') + b[1], exp: b[3] ? 'true' : 'false',
+          go: () => { const w = Object.assign({}, this.st().wopen || {}); w[key] = !w[key]; this.setState({ wopen: w }); } });
+      }
     });
+    return out;
+  }
+
+  // The AEGIS logs (Manuscript/aegis-logs/): the reading version is always shown; the workshop —
+  // claim, assumptions, Lean proof, reach, relation — opens on a switch. Two statuses, never one:
+  // the editorial one is the log's `redaktion:`, the formal one is measured by scripts/aegis_logs.py.
+  logStatus(x) {
+    return {
+      'geprüft': ['Lean: geprüft', 'blue'], 'geändert seit Prüfung': ['Lean: geändert seit Prüfung', 'rubric'],
+      'ungeprüft': ['Lean: ungeprüft', 'plain'], 'Prüfung fehlgeschlagen': ['Lean: Prüfung fehlgeschlagen', 'rubric'],
+    }[x.status] || [x.status, 'plain'];
+  }
+
+  logSecs(x, withHead) {
+    const N = this.kp().novel;
+    const M = N.logsMeta || {};
+    const open = !!(this.st().wopen || {})[x.id];
+    const used = [];
+    x.axioms.forEach((a) => (a[1] || []).forEach((n) => { if (used.indexOf(n) < 0) used.push(n); }));
+    const formal = x.status === 'geprüft'
+      ? 'geprüft mit ' + (M.toolchain || 'Lean') + (M.date ? ' am ' + M.date.slice(0, 10) : '') + ' · ' + x.theoreme.length + ' Sätze · Axiome: ' + (used.join(', ') || 'keine')
+      : x.status === 'geändert seit Prüfung' ? 'geändert seit Prüfung — ' + x.changed.map((k) => ({ lean: 'die Lean-Datei', toolchain: 'die Lean-Version' }[k] || k)).join(', ') + ' weicht vom geprüften Stand ab; die Prüfung gilt erst wieder nach scripts/aegis_logs.py verify'
+        : x.status === 'ungeprüft' ? 'ungeprüft — kein Lean-Lauf hat diesen Stand geprüft' : x.status;
+    const status = ['ul', [
+      [['b', 'Redaktion: '], x.redaktion + (x.kanon.length ? ' · Kanon ' + x.kanon.join(', ') : ' · kein Kanon')],
+      [['b', 'Verifikation: '], formal],
+      [['b', 'Kapitel: '], ['m', 'Kap ' + x.kap + ' (Vorschlag)', 'chapters', x.id], ' · Figur: ', ['m', 'AEGIS', 'cast', 'aegis']],
+    ]];
+    const head = withHead ? [x.id + ' · ' + x.t + ' · Kap ' + x.kap] : ['Lesefassung'];
+    const out = [[head, -1, '', [status].concat(x.read).concat([['tg', 'Werkstatt: Behauptung, Voraussetzungen, Beweis, Grenzen', x.id, open]])]];
+    if (open) {
+      x.sec.forEach((sc) => out.push([[x.id + ' · '].concat(sc[0]), -1, '', sc[3]]));
+      const ax = ['tb', [['Satz'], ['Axiome laut #print axioms']], x.axioms.map((a) => [[['c', a[0]]], [a[1] == null ? 'nicht geprüft' : a[1].length ? a[1].join(', ') : 'keine']]), 'll', 'minmax(0, 1.6fr) minmax(0, 1.4fr)'];
+      out.push([[x.id + ' · Lean-Quelltext'], -1, '', [['p', [['c', x.leanF], ' — Lean läuft nie in der App; geprüft wird mit ', ['c', 'scripts/aegis_logs.py verify'], '.']], ax, ['pre', x.leanSrc]]]);
+    }
     return out;
   }
 
@@ -478,15 +523,22 @@ class Component extends DCLogic {
     const N = D.novel;
     const out = [];
     const fin = (j) => ({ key: N.findings[j].f, kind: 'finding', ref: j });
+    const logs = (N.logs || []).map((x, i) => ({ x: x, i: i }));
+    const logOf = (o) => ({ key: o.x.id, kind: 'log', ref: o.i });
     if (tab === 'chapters') {
       N.chapters.forEach((c) => {
         out.push({ group: 'Kap ' + c.n });
         if (c.readme >= 0) out.push({ key: D.manuscript[c.readme].f, kind: 'draft', ref: c.readme });
         c.drafts.forEach((i) => out.push({ key: D.manuscript[i].f, kind: 'draft', ref: i }));
+        logs.filter((o) => o.x.kap === c.n).forEach((o) => out.push(logOf(o)));
         if (c.findings.length) {
           out.push({ group: 'Findings on Kap ' + c.n });
           c.findings.forEach((j) => out.push(fin(j)));
         }
+      });
+      logs.filter((o) => !N.chapters.some((c) => c.n === o.x.kap)).sort((a, b) => a.x.kap - b.x.kap).forEach((o) => {
+        out.push({ group: 'Kap ' + o.x.kap + ' · AEGIS log, no draft yet' });
+        out.push(logOf(o));
       });
     } else if (tab === 'cast' || tab === 'world') {
       const kind = tab === 'cast' ? 'figuren' : 'welt';
@@ -499,6 +551,11 @@ class Component extends DCLogic {
           these.forEach((o) => out.push({ key: o.c.s, kind: 'card', ref: o.i }));
         }
       });
+      if (tab === 'cast' && logs.length) {
+        out.push({ group: 'AEGIS — Logs & Beweise' });
+        out.push({ key: 'aegis-logs', kind: 'logs', ref: -1 });
+        logs.forEach((o) => out.push(logOf(o)));
+      }
     } else if (tab === 'plot') {
       D.manuscript.forEach((m, i) => { if (m.part === 'plot') out.push({ key: m.f, kind: 'draft', ref: i }); });
     } else if (tab === 'decisions') {
@@ -980,6 +1037,11 @@ class Component extends DCLogic {
             const n = occOf(c);
             return item(c.kanon.length ? c.kanon.join(' ') : '—', c.t, n ? nOf(n, 'mention', 'mentions') + ' in ' + nOf(c.occ.length, 'draft', 'drafts') : 'in no draft yet', on, sel(x.key), c.kanon.length ? '#1C1B18' : '#B0341E');
           }
+          if (x.kind === 'logs') return item('AL', 'Logs & Beweise', N.logs.length + ' logs · reading versions, Lean proofs', on, sel(x.key), '#1C1B18');
+          if (x.kind === 'log') {
+            const lg = N.logs[x.ref];
+            return item(lg.id, lg.t, 'Kap ' + lg.kap + ' · ' + lg.redaktion + ' · Lean ' + lg.status, on, sel(x.key), lg.status === 'geprüft' ? '#2B4C8C' : '#B0341E');
+          }
           if (x.kind === 'ledger') return item('§', 'The canon ledger', N.kanon.length + ' decisions · ' + N.approved.length + ' chapters approved', on, sel(x.key), '#1C1B18');
           const w = N.weichen[x.ref];
           return item(w.id, w.t.replace(/`/g, ''), (w.rec ? 'recommended ' + w.rec + ' · ' : '') + (this.novelDecided(w) ? 'decided' : 'open'), on, sel(x.key), '#B0341E');
@@ -1005,10 +1067,35 @@ class Component extends DCLogic {
           const occTable = ['tb', [['draft'], ['mentions']], c.occ.map((o) => [[D.manuscript[o[0]].t.replace(/`/g, '')], [String(o[1])]]), 'lr', 'minmax(0, 3fr) minmax(0, 0.6fr)'];
           const extra = [[['In the drafts'], -1, '', [['p', ['How often ' + c.match.map((x) => '„' + x + '“').join(', ') + ' occurs in each draft — counted, not read.']], c.occ.length ? occTable : ['p', ['In no draft yet.']]]]];
           if (c.wiki >= 0) extra.push([['Research'], -1, '', [['p', ['The wiki collects what the sources say. None of it holds here until you decide it: ', ['l', D.pages[c.wiki].t + ' in the wiki', c.wiki], '.']]]]);
+          if (c.s === 'aegis' && (N.logs || []).length) {
+            extra.unshift([['Logs & Beweise'], -1, '', [['p', ['AEGIS legitimiert Handlungen durch Ableitungen, die Lean prüft — ein Pilot, kein Kanon: ', ['m', 'alle Logs mit ihren Beweisen', 'cast', 'aegis-logs'], '.']],
+              ['ul', N.logs.map((x) => [['m', x.id + ' ' + x.t, 'cast', x.id], ' · Kap ' + x.kap + ' · Redaktion ' + x.redaktion + ' · Lean ' + x.status])]]]);
+          }
           rd = {
             kicker: (c.kind === 'figuren' ? 'Cast' : 'World') + ' · ' + c.f, title: c.t, tsz: 40, hasSub: false, sub: '',
             chips: (c.kanon.length ? c.kanon.map((k) => this.chip('canon · ' + k, 'ink')) : [this.chip('nothing decided', 'rubric')]).concat([this.chip(c.wiki >= 0 ? 'in the sources' : 'invented in a draft')]),
             secs: this.secs(c.lede, c.sec.concat(extra), uid + '-c' + cur.ref), maxW: 720, key: 'mc:' + cur.key,
+          };
+        } else if (cur && cur.kind === 'logs') {
+          const M = N.logsMeta || {};
+          const counts = {};
+          N.logs.forEach((x) => { counts[x.status] = (counts[x.status] || 0) + 1; });
+          let secs = this.secs(M.lede, M.sec, uid + '-al');
+          N.logs.forEach((x) => { secs = secs.concat(this.secs(null, this.logSecs(x, true), uid + '-al' + x.id)); });
+          rd = {
+            kicker: 'AEGIS · ' + M.f, title: 'Logs & Beweise', tsz: 40, hasSub: true,
+            sub: 'AEGIS legitimiert Handlungen durch Ableitungen, die Lean prüft. Lesefassung zuerst; die Werkstatt öffnet sich auf Wunsch. Arbeitsentwürfe, kein Kanon.',
+            chips: Object.keys(counts).map((k) => this.chip(counts[k] + ' × Lean ' + k, k === 'geprüft' ? 'blue' : 'rubric')).concat([this.chip(M.toolchain || 'no Lean record'), this.chip('not canon', 'rubric')]),
+            secs: secs, maxW: 760, key: 'ml:all',
+          };
+        } else if (cur && cur.kind === 'log') {
+          const x = N.logs[cur.ref];
+          const st = this.logStatus(x);
+          rd = {
+            kicker: 'AEGIS · Logs & Beweise · ' + x.f, title: x.id + ' — ' + x.t, tsz: 36, hasSub: true,
+            sub: { schutzmassnahme: 'Eine überzeugende Schutzmaßnahme.', 'umverteilte-loeschung': 'Eine umverteilte Löschung mit menschlichem Preis.', 'verweigerte-alternative': 'Eine erkannte, von AEGIS verweigerte Alternative.' }[x.art] || x.art,
+            chips: [this.chip('Redaktion: ' + x.redaktion, x.redaktion === 'freigegeben' ? 'ink' : 'rubric'), this.chip(st[0], st[1]), this.chip('Kap ' + x.kap + ' · Vorschlag'), this.chip(x.kanon.length ? 'canon · ' + x.kanon.join(' ') : 'not canon', x.kanon.length ? 'ink' : 'rubric')],
+            secs: this.secs(x.lede, this.logSecs(x, false), uid + '-l' + x.id), maxW: 760, key: 'ml:' + x.id,
           };
         } else if (cur && cur.kind === 'ledger') {
           rd = {

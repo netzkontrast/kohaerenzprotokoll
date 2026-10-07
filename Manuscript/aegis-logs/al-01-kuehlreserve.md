@@ -70,7 +70,7 @@ Im Modell von Sektor 04 gilt für die lokale Korrektur `korrektur`:
 
 ## Lean-Beweis
 
-[`lean/AL01.lean`](lean/AL01.lean), Lean-Kern ohne Bibliothek, Version in [`lean/lean-toolchain`](lean/lean-toolchain).
+[lean/AL01.lean](lean/AL01.lean), Lean-Kern ohne Bibliothek, Version in [lean/lean-toolchain](lean/lean-toolchain).
 Satz 1 ist ein Induktionsbeweis über beliebige Listen. Die Sätze 2–5 rechnen das konkrete Modell mit `decide` aus.
 Was die Prüfung ergab und von welchen Axiomen jeder Satz abhängt, schreibt `scripts/aegis_logs.py verify` nach
 `Plan/runs/aegis-logs/verifikation.json`.

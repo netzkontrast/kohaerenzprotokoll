@@ -75,7 +75,7 @@ Voraussetzung unter der Regel belegt ist und sie keinen Bewohnerschaden hat. Dan
 
 ## Lean-Beweis
 
-[`lean/AL03.lean`](lean/AL03.lean), Lean-Kern ohne Bibliothek, Version in [`lean/lean-toolchain`](lean/lean-toolchain).
+[lean/AL03.lean](lean/AL03.lean), Lean-Kern ohne Bibliothek, Version in [lean/lean-toolchain](lean/lean-toolchain).
 Satz 1 gilt für alle Vertrauensregeln: Jede Regel ist durch ihre vier Werte bestimmt (`regel_werte`, mit `funext`),
 und die 16 Regeln werden mit `decide` ausgerechnet. Die Sätze 2–6 rechnen das konkrete Modell aus.
 
