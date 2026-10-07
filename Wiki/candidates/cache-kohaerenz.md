@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile"]
 gathered: "2026-09-24"
 ---
 
@@ -21,6 +21,12 @@ The earliest read source, and the one that names the metaphor in so many words r
 The character architecture names the problem as the central narrative challenge: „Die zentrale narrative Herausforderung liegt in der glaubwürdigen Darstellung von Kaels fragmentierter Identität“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L17], naming the fragmentation problem in the same line by the name `Cache Kohärenz`. It gives the problem its own conflict section, headed „Cache Kohärenz als Konflikt (Der Fragmentierungs-Effekt)“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L257].
 
 The report ties it to wrong-persona landings: when Kael lands in an unsuitable world with the wrong persona, it „führt dies unweigerlich zu Konflikten und potenziellen System-“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142] tears. The Pressure-Point matrix carries it as a row, `PP-CCH-01`, with the entry „Fähigkeiten-Fehlanpassung bei Wechsel“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L303].
+
+## Reading — `kael-system-tsdp-analyse-und-profile`, 2025-04-28, the TSDP profile report — Cache Kohärenz as the missing shared memory that makes integration hard
+
+The TSDP profile report (unsigned, hedged throughout) ties the difficulty of integration to the problem in section 1.5. It names the cause: „Der Mangel an geteiltem Gedächtnis und Ko-Bewusstsein“ ^[kael-system-tsdp-analyse-und-profile.md:L129], which, it says, „macht eine koordinierte Bewegung zur Integration extrem schwierig und anfällig für Rückschläge“ ^[kael-system-tsdp-analyse-und-profile.md:L129].
+
+In the plot recommendations it asks for scenes built on the problem: „Konkrete Plotpunkte entwickeln, die aus der mangelnden Ko-Bewusstheit und Amnesie resultieren“ ^[kael-system-tsdp-analyse-und-profile.md:L389], with one example: „Kael trifft eine Entscheidung, die durch eine un erinnerte Handlung von Nyx untergraben wird“ ^[kael-system-tsdp-analyse-und-profile.md:L389]. The example is the report's suggestion, not a canon event.
 
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 
