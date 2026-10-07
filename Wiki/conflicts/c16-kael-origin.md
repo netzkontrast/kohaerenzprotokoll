@@ -393,3 +393,11 @@ Where it stands in the record's own terms: one word, Ursprungs-Ich, for two owne
 It says Juna/V is a transcendent entity from the External Level „who is also an exiled part of Kael's own“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L163] Ursprungs-Ich. Of Kael it says „His internal psychological state is the direct causal source of the instability“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L140]. The word `Ursprungs-Ich` is also used for AEGIS: the Resonanzkaskade of the Genesis-Krise is triggered „within its original consciousness“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L135], so the bible uses the one word for two owners and does not relate them.
 
 Where it stands in the record's own terms: one more statement of Juna/V as a part of Kael's Ursprungs-Ich, in a bible's own voice; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic, an English proposal, makes Juna/V an exiled part of Kael's own Ursprungs-Ich; it does not say that Kael is a fragment of M or of AEGIS.**
+
+Among its external observers it describes `Juna/V`, who has a dual nature: she is a transcendent entity and „exiled part of Kael's own“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52] Ursprungs-Ich (Original Self). Her perspective, it says, „reframes Kael's quest as an act of reintegrating the most deeply lost part of himself“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52]. In Story 8 the proposal directs her narration of „a painful, resonant echo of her own violent exile“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L81].
+
+Stands as one more position in the record, on the side of the Ursprungs-Ich: here the exile is Juna/V from Kael's original self, a different relation from the positions that make Kael the fragment; recorded, not applied.
