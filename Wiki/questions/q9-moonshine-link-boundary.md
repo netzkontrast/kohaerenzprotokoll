@@ -412,3 +412,11 @@ Where it stands in the record's own terms: it speaks to what AEGIS cannot see of
 AEGIS is „systemisch unfähig“ ^[welten.md:L46] to recognise or process „die Natur und Bedeutung der Kael-Julia-Verbindung“ ^[welten.md:L46], which the reply calls „eine potenziell höhere Form der Kohärenz“ ^[welten.md:L46]. In the dynamics section: „Die K-J-Verbindung verursacht systemweite, aber von AEGIS missverstandene“ ^[welten.md:L123] `Echos`. Of the Externe Ebene it says only that it is a possible origin of Julia or of the connection's essence (L118).
 
 Stands as a statement that the connection's effects are system-wide and misread; what the link carries, who feels it, and whether it is exclusive are not addressed, and the record is not changed. The reply does not use the name `Moonshine-Link`.
+
+## 2026-10-07 — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept
+
+**The final world concept does not name the Moonshine-Link; it describes Juna's Resonanz as a sub-protokollarische influence AEGIS cannot measure.**
+
+It writes: „Ihr Einfluss wirkt nicht durch AEGIS-Protokolle, sondern mittels“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L97] Resonanz, a form that bypasses AEGIS's formal systems. Of AEGIS: „AEGIS nimmt Resonanz als Rauschen, Fehler oder Eindringen wahr“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L101]. It draws no boundary of what the connection can carry, who else feels it, or whether it is exclusive to Kael and Juna.
+
+Stands as a neighbouring description of the edge the question asks about, not an answer to it; recorded, not applied.
