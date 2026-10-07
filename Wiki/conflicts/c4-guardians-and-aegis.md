@@ -494,3 +494,11 @@ Where it stands: the Wächter as AEGIS's agents with a possible deviation, a voi
 Its analysis says the Wächter subplot makes AEGIS' control tangible „durch spezifische, charakterisierte Agenten greifbar“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L22]. In Part 1, Kap 8, `Die Logik des Gaslichts`, AEGIS acts through two of them: „AEGIS (LogOS, Mnemosyne) nutzt Kaels Schwächen für Gaslighting“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L42]. Of the Guardians' limits, Part 2, Kap 16 plans that Kael „Versteht ihre Funktionen/Blindspots“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L55]. Of AEGIS itself, Kap 17 plans the discovery of „AEGIS' Kernparadoxon“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L56], which the document does not call a blind spot.
 
 Where it stands: the Wächter as AEGIS's agents, with blindspots at the level of the Guardians in Kap 16 and a core paradox at the level of AEGIS in Kap 17; recorded, not applied.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic plans Guardians both loyal to AEGIS and turning against it: some become allies through the Guardian's Dilemma, one is loyal, one is a rebel.**
+
+The narrator overview lists the Kernwelt Guardians, „some of whom become allies due to the“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52] Wächter-Zwiespalt, a dilemma „that forces them to question their allegiance“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52]. Story 21 takes „From the perspective of a Guardian loyal to AEGIS, describe its first direct perception of the“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L147] Moonshine-Link. Story 29 is assigned to „A Rebel Guardian“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L202].
+
+Where it stands: the Guardians as loyal, rebel and turning, in story proposals; recorded, not applied.
