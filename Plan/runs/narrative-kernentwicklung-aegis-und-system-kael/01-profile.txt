@@ -1,0 +1,14 @@
+# narrative-kernentwicklung-aegis-und-system-kael
+  lines                294  (frontmatter ends at 9)
+  body words           4561
+  headings             21   bold-only lines 1
+  table rows           17   code fences 0
+  question marks       8
+  backslash escapes    90
+  typographic marks    150   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    38
+  repeated labels      none
+  longest line         1188 chars
+

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      38
+  backslash escapes      90
+  typographic marks      150
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  syste    System, Systeme, Systemfehler, Systemische, Systems, Systemstabilität, Systemtheorie, Systemzusammenbruch
+  erzäh    Erzählen, Erzähler, Erzählers, Erzählperspektive, Erzählstimme, Erzähltechnik, Erzählung
+  bewus    Bewusstseins, Bewusstseinsflusses, Bewusstseinsstrom, Bewusstseinsstroms, Bewusstseinszuständen
+  integ    Integration, Integrationsfähigkeit, Integrationsprotokoll, Integratorin, Integrität
+  traum    Trauma, Traumafolgestörungen, Traumanetz, Traumas, Traumatheorie
+  antei    Anteil, Anteile, Anteilen, Anteils
+  chara    Charakter, Charaktere, Charakterentwicklung, Charakterisierung
+  inter    Interaktionen, Interdisziplinäre, Interne, Interner
+  leben    Leben, Lebendige, Lebens, Lebensnarrativ
+  reali    REALISMUS, Realismus, Realität, Realitäten
+  bedro    Bedrohung, Bedrohungen, Bedrohungserkennung
+  daten    Daten, Datenformen, Datenkorruption
+  diese    Diese, Dieser, Dieses
+  duali    Dualismus, Dualität, Dualitätsmatrix
+  entwi    Entwickelt, Entwicklung, Entwicklungsdossier
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfragment
+  fehle    Fehler, Fehlern, Fehlers
+  infor    Informatik, Information, Informationen
+  kohär    Kohärentist, Kohärenz, Kohärenztheorie
+  konfl    Konflikt, Konflikte, Konflikts
+  konze    Konzept, Konzepte, Konzeptioneller
+  korre    Korrespondenz, Korrespondenzfehler, Korrespondenztheorie
+  liter    Literaliesierung, Literatur, Literaturwissenschaftliche
+  narra    Narrative, Narrativer, Narratives
+  persö    Persönlichkeit, Persönlichkeitsanteile, Persönlichkeitsanteilen
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Aktes
+  Akte < Charakter
+  Akte < Abstrakten
+  Akte < Charaktere
+  Akte < Charakterisierung
+  Akte < Charakterentwicklung
+  Code < Codex
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Drei < Dreifaltigkeit
+  Eine < Seine
+  Eine < Bausteine
+  Form < Informatik
+  Form < Datenformen
+  Form < Information
+  Form < Informationen
+  Form < Hintergrundinformationen
+  Kael < Kaels
+  Kern < Kernsatz

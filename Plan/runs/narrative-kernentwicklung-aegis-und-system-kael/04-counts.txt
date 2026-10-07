@@ -1,0 +1,79 @@
+# counts for 61 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            39 word    40 in   [22, 30, 32, 36, 40, 42]
+                                    1      as AEGIS-Bewusstseins
+  System Kael                      11 word    11 in   [22, 46, 50, 52, 73, 83]
+  Kael                             28 word    43 in   [22, 46, 50, 52, 54, 73]
+                                   15      as Kaels
+  Genesis-Krise                    12 word    12 in   [26, 30, 42, 50, 73, 97]
+  Ursprungs-Ich                     2 word     4 in   [30, 42, 100, 117]
+                                    2      as Ursprungs-Ichs
+  Leere                             7 word     7 in   [30, 32, 42, 52, 116, 205]
+  Kohärenz Protokoll                8 word    10 in   [13, 42, 50, 54, 118, 166]
+  Autonomous Entropic Gatekeeper    1 word     1 in   [42]
+  Überwelt                          5 word     5 in   [70, 72, 135, 145, 204]
+  Risse                             9 word    11 in   [73, 145, 146, 151, 182, 183]
+                                    2      as Rissen
+  Juna/V                            4 word     4 in   [73, 75, 136, 145]
+  Guardians                         1 word     1 in   [135]
+  Reinigungswellen                  1 word     1 in   [233]
+  Lex                               9 word    10 in   [83, 86, 116, 137, 164, 182]
+  Alex                              2 word     2 in   [83, 184]
+  Rhys                              7 word     7 in   [83, 86, 118, 137, 156, 184]
+  Nyx                               8 word     8 in   [83, 85, 87, 116, 150, 164]
+  Kiko                              5 word     6 in   [83, 85, 116, 150, 184, 221]
+                                    1      as Kikos
+  Lia                               1 word     1 in   [83]
+  Isabelle                          2 word     2 in   [83, 87]
+  Moros                             1 word     1 in   [83]
+  Selene                            3 word     3 in   [83, 156, 186]
+  Argus                             1 word     1 in   [83]
+  Persönlichkeitsanteile            4 word     5 in   [52, 174, 218]
+                                    1      as Persönlichkeitsanteilen
+  ANPs                             18 word    18 in   [52, 83, 85, 86, 115, 116]
+  EPs                              16 word    16 in   [52, 83, 85, 115, 116, 118]
+  Host-Anteil                       1 word     1 in   [85]
+  Wechsel                           4 word     4 in   [87, 222, 234]
+                                    2      as wechselnden
+                                    1      as wechseln
+  Integrationsprotokoll             1 word     2 in   [123, 164]
+  Fehlausgerichteten Kohärenz       2 word     2 in   [18, 36]
+  Schurken-KI                       1 word     1 in   [42]
+  Narrativer Kernsatz               1 word     1 in   [54]
+  Hamartia                          3 word     3 in   [36, 42, 246]
+  Hybris                            1 word     1 in   [42]
+  Trauma-Erzählung                  2 word     2 in   [127, 248]
+  Drei-Akt-Integrationsprotokoll    1 word     1 in   [123]
+  Fragile Ordnung                   1 word     1 in   [131]
+  Abstieg in den Riss               1 word     1 in   [141]
+  Neue Kohärenz                     1 word     1 in   [160]
+  Thematische Dualitätsmatrix       1 word     1 in   [104]
+  Sensorisches Lexikon              1 word     1 in   [226]
+  Daten-Verwitterung                1 word     1 in   [232]
+  Dissoziative Barrieren            1 word     1 in   [234]
+  Korrespondenzfehler               1 word     1 in   [73]
+  Isolationseinwandes               1 word     1 in   [73]
+  Kohärentist                       1 word     1 in   [75]
+                                    3      as kohärentistische
+  Urknall                           1 word     1 in   [32]
+  Homöostase                        1 word     1 in   [137]
+  Bewusstseinsstrom                 7 word     9 in   [214, 221, 249, 288, 289, 290]
+                                    2      as Bewusstseinsstroms
+                                    1      as bewusstseinsstrom-der
+  unzuverlässiger Erzähler          1 word     1 in   [214]
+  Hard Science-Fiction              1 word     1 in   [204]
+  Kosmischer Horror                 1 word     1 in   [205]
+  Psychologischer Realismus         1 word     1 in   [206]
+  Kohärenztheorie der Wahrheit      1 word     1 in   [70]
+  Korrespondenztheorie der Wahrheit    1 word     1 in   [70]
+  Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [83]
+  TSDP                              2 word     5 in   [50, 79, 83, 100, 260]  <-- substring
+                                    2      as TSDP-Analyse
+                                    1      as TSDP-getriebene
+  Autopoiesis                       1 word     1 in   [97]
+  Dekohärenz                        2 word     2 in   [70, 156]
+  Entropie                          9 word     9 in   [42, 115, 145, 232, 258, 259]
+  Stream of Consciousness           1 word     1 in   [214]
