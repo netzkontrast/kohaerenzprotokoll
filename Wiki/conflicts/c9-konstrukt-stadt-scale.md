@@ -265,3 +265,11 @@ Where it stands: a KW1 title and description only; it takes no side on the scale
 It lists „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-2.md:L75], „Ebene der Ratio, Struktur, Regeln, analytische Anteile“ ^[kohaerenz-protokoll-2.md:L75], beside three other worlds, all four counted as „simulierte Kern-Welten (repräsentieren Michaels Psyche)“ ^[kohaerenz-protokoll-2.md:L25].
 
 Stands with the position that the Konstrukt-Stadt is the world of LogOS, one of four; recorded, not applied, and the record's decision is not touched.
+
+## 2026-10-07 — `narrativ`, 2025-07-30, the architect's compendium
+
+**The file names KW1 Logos-Prime in the compendium and „KW1 (Konstrukt-Stadt / Logik)“ ^[narrativ.md:L177] in the dramaturg's blueprint, as one of four Kernwelten.**
+
+The compendium (L11–L113) lists „KW1 (Logos-Prime)“ ^[narrativ.md:L61] as the first of four worlds. The dramaturg's blueprint (L115–L238) lists the four under „Vier Psychologische Kernwelten (KW1-4)“ ^[narrativ.md:L175] and puts Konstrukt-Stadt as KW1 among them; it later places Part 1 „insbesondere innerhalb von KW1 (Konstrukt-Stadt)“ ^[narrativ.md:L236]. Neither text names Konstrukt-Stadt as the whole simulation.
+
+Stands as a row for the KW1 side of the record's table (the name Konstrukt-Stadt for one of four worlds); the record's decision is not touched.
