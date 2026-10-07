@@ -314,3 +314,11 @@ Stands as: outside AEGIS's control and beyond its solipsism, which is not the sa
 Its section heading is „Meta-Narrative Eskalation: Datenexport und die Externe Ebene“ ^[charaktermodellierung-mit-aieos-schema.md:L176]. It names the level as „der Realität des Autors/Lesers im Köln des Jahres 2026“ ^[charaktermodellierung-mit-aieos-schema.md:L178], and says of the export: „Der Datenexport in die physikalische Realität verdeutlicht, dass das System des Lesers denselben thermodynamischen und logischen Grenzen“ ^[charaktermodellierung-mit-aieos-schema.md:L178] is subject as the construct. Of Kael: „Wenn Kael in die Realität von“ ^[charaktermodellierung-mit-aieos-schema.md:L180] Köln 2026 overwrites, the schema turns into a metadata protocol of the reader's experience. The report cites its reference 6 for these lines and does not say whether the level lies beyond or inside the simulation.
 
 Stands as a physical reality of the reader, reached by overwriting and export, in the report's own words; recorded, not applied, and the record is not changed.
+
+## 2026-10-07 — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé
+
+**The correspondence exposé places Juna/V as a correspondent from the `Externe Ebene`, a reality beyond AEGIS's comprehension; it says nothing of the simulation's boundary.**
+
+It writes that Juna/V functions as a journalistic correspondent „reporting from a reality that lies beyond AEGIS's comprehension“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66], and that she acts as a correspondent from the `Externe Ebene` (External Level). The exposé does not say whether that level lies inside or outside the simulation; its world list names the Überwelt and the Kernwelten only.
+
+Where it stands in the record's own terms: beyond AEGIS's comprehension, not stated as beyond the simulation; recorded, not applied, and the record's rows are not changed.
