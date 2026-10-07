@@ -438,3 +438,11 @@ Stands: one more row for the record's bearer of the blind spot (AEGIS, as the co
 On the link it writes that the connection operates „on a physical principle that AEGIS is definitionally incapable of perceiving“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L139], and „AEGIS's blindness to the link is not a simple sensor failure“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L141]. Separately, „The individual failures of AEGIS's Guardians will personify the system's overarching ontological blindness“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L87], with `LogOS` and `Mnemosyne` each given a blind spot (L89, L90).
 
 Stands: one more row for the record; the Guardians' blind spots are given as personifications of AEGIS's, which the record's question of who bears it is not decided by.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The world-concept reply holds both bearers of the blind spot at once: AEGIS, and each of five Guardians, whose blind spots together mislead AEGIS.**
+
+It gives AEGIS a blind spot: AEGIS is „systemisch unfähig“ ^[welten.md:L46] to recognise the nature and meaning of the Kael-Julia connection. It describes the Guardians as „Spezialisierte Subsysteme von AEGIS“ ^[welten.md:L60], and gives each a `Blinder Fleck`, for example `LogOS`: „sieht nur Struktur, nicht Essenz“ ^[welten.md:L65]. It states how the two levels relate: „Ihre individuellen Blinden Flecken führen“ ^[welten.md:L73] AEGIS to misread the central anomaly and to respond inadequately, and it names a project document for this limitation. It is a proposal and synthesis, so this is its report, not a finding.
+
+Stands as a text that puts the AEGIS blind spot and the Guardians' blind spots in one structure; recorded, not applied, and the record's rows are not changed.
