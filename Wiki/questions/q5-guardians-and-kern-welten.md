@@ -625,3 +625,11 @@ This adds a row to the question and decides nothing in it.
 Its matrix reads Mnemosyne in `KW2`, Cerberus in `KW3`, LogOS in `KW1` and „Kairos/Sophia“ ^[roman-konzept-und-philosophische-fragen.md:L196] in `KW4`. It states the pairing's purpose: „die logischen Grenzen ihres jeweiligen Wächter-Systems und von AEGIS selbst aufzeigt“ ^[roman-konzept-und-philosophische-fragen.md:L188].
 
 Stands as an answer in the form of a table, dated 2025-07-29; recorded, not applied, the question stays open.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The world-concept reply has each of four Guardians watch one Kern-Welt and leaves Sophia without one.**
+
+It writes it as a field of each Guardian's entry: LogOS watches primarily the Konstrukt-Stadt (KW1), Mnemosyne the Resonanz-Nebel (KW2), Cerberus the Schattenlabyrinth (KW3), Kairos the Möglichkeitsstrom (KW4) (`Überwacht primär` ^[welten.md:#4]). Of Sophia it says only that her task is „Zuständig für Wissen, Synthese, Übersicht“ ^[welten.md:L69] and „Ihre Rolle ist möglicherweise übergreifender als die der anderen vier“ ^[welten.md:L69]. The proposed names themselves are justified in part by the Guardian: the Schattenlabyrinth by „die Verbindung zu Cerberus“ ^[welten.md:L17].
+
+Stands on the side of one Guardian per world for four worlds, with Sophia's role open; recorded, not applied, and the record is not decided by it.
