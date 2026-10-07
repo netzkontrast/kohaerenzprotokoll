@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 45
-readings: 45
+sources: 46
+readings: 46
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-narrativer-bauplan", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kohaerenz-protokoll-2", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-narrativer-bauplan", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kohaerenz-protokoll-2", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "roman-konzept-und-philosophische-fragen"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -132,6 +132,10 @@ The system plan designs KW3 as „Grenzfeste (NP-vollständig - Heuristische Sic
 
 The review describes the Grenzfeste as „eine Welt der Abwehr, des Schutzes und der Paranoia“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L126], and says it is represented „wird durch die Metapher des Bunkers perfekt repräsentiert“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L126]. The bunker, in the review's reading, is a psychological defence that becomes a prison for its inmates. The table lists the world for part two (L159).
 
+## Reading — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis — Grenzfeste as KW3, relevance logic and a travelling-salesman puzzle
+
+The philosophical synthesis reads Grenzfeste as the third row (`KW3`) of its Kernwelten matrix, with Guardian Cerberus and „Relevanzlogik“ ^[roman-konzept-und-philosophische-fragen.md:L195], complexity class „NP-vollständig“ ^[roman-konzept-und-philosophische-fragen.md:L195]. Its puzzle is „Problem des Handlungsreisenden“ ^[roman-konzept-und-philosophische-fragen.md:L195], and its Riss shows as „Sicherheitslücke/Heuristischer Fehler“ ^[roman-konzept-und-philosophische-fragen.md:L195].
+
 ## Reading — `outline`, 2025-07-30, the outline — Grenzfeste as KW3's name in Teil 2
 
 Teil 2's section IV names `KW3` `Grenzfeste`, with Cerberus, and describes it: „Die Umgebung ist befestigt, labyrinthisch, klaustrophobisch und dunkel.“ ^[outline.md:L132] (L132).
@@ -199,6 +203,7 @@ KW3, the Cerberus-Labyrinth, is described as the „architectural manifestation 
 ## Where the sources differ
 
 - The plot analysis proposes the Grenzfeste (`Beta-Rho-5`) as the world of Cerberus, where Cerberus and Nox share premises; a proposal, not a chapter's fact.
+- The philosophical synthesis (2025-07-29) makes Grenzfeste one of four Kernwelten, with Guardian Cerberus and „Relevanzlogik“ ^[roman-konzept-und-philosophische-fragen.md:L195].
 
 ## Open
 
