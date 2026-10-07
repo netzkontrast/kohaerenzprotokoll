@@ -278,3 +278,11 @@ Stands outside both rows of the record's table: it places the level outside AEGI
 It writes: „Two domains exist outside of AEGIS's control and comprehension“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L97], and of the Externe Ebene: „This is a transcendent realm that is the source of the Juna/V connection“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L99]. In the Risse section it calls AEGIS's world a simulated reality: „as tears or glitches in the fabric of AEGIS's simulated reality“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L93].
 
 Stands: the guide gives the External Level as transcendent and uncontrolled by AEGIS; the question of a simulation is not settled by it, recorded, not applied.
+
+## 2026-10-07 — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision
+
+**The subplot revision places the Externe Ebene outside AEGIS's control, without saying whether it is beyond the simulation.**
+
+Its third subplot „führt ein Element außerhalb von AEGIS' Kontrolle ein“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L21] (L21), and Kap 22 plans „Hinweise auf Externe Ebene/Juna/V“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L61] (L61). The document never writes `Köln` or `Basisrealität` and does not say where the level lies relative to the simulation, though Kap 11 speaks of a „Signifikanter Riss in Simulation“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L45] (L45).
+
+In the record's terms the revision stands with a level outside AEGIS's control, a proposal of 2025-05-02 recorded and not applied; the record's rows are not changed.
