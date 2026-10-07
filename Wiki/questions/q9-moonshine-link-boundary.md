@@ -444,3 +444,11 @@ Where it stands in the record's own terms: a boundary toward AEGIS only, bypass 
 It writes „Kael-Juna Verbindung“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L31] as a „nicht-lokale Verbindung“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L31]; „Sie umgeht AEGIS' Kontrolle“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L31] and „wirkt integrativ für Kael“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L31]. What it carries, who feels it and whether it is exclusive to the pair are not stated on this line.
 
 It adds a definition of the link's relation to AEGIS, not an answer to Q9, which stays open.
+
+## 2026-10-07 — `kohaerenz-protokoll-narrative-architektur`, 2025-07-29, the System-Mind analysis
+
+**The System-Mind analysis calls the Moonshine-Link not a channel but an ontological exploit, an architectural back door in reality's operating system.**
+
+It writes of the link between Kael and Juna/V that it „ist kein Kommunikationskanal, sondern ein“ ^[kohaerenz-protokoll-narrative-architektur.md:L184] ontological exploit, an „architektonische Hintertür“ ^[kohaerenz-protokoll-narrative-architektur.md:L113]. It argues that AEGIS cannot see it: „Diese Kombination macht AEGIS strukturell blind für die Verbindung“ ^[kohaerenz-protokoll-narrative-architektur.md:L190], and that the link is an unpatchable property of reality's architecture present from the start. It draws no boundary for the link and states no limit on what it carries beyond this.
+
+Stands: a description of the link as exploit and not as channel; it does not decide where the link's boundary lies.
