@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 26
-readings: 26
+sources: 27
+readings: 27
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten"]
 gathered: "2026-09-17"
 ---
 
@@ -52,6 +52,10 @@ A landmark of KW4 is „der als Interface zur Überwelt oder anderen Ebenen dien
 ## Reading — `umfassendes-lokalitaeten-konzept-fuer-roman`, 2025-04-18, the place profiles — profile 25, an Nexus-Knoten as interface to potential in KW4
 
 Profile 25 is a place in KW4 named with `Nexus-Knoten` and „Interface zum Potenzial“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L468]; its level field reads „Interface zum Potenzial - KW4 (Möglichkeits-Garten)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L472]. Its core: „Ein zentraler Punkt oder eine Schnittstelle in KW4, die den direkten Zugriff auf oder die Manipulation des reinen Potenzials ermöglicht“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L473].
+
+## Reading — `welten`, 2025-04-20, the world-concept reply — the Nexus as possible interfaces, definition still to be sharpened
+
+The reply takes the Nexus from another document: „Erwähnt im Guardians und Kern-Welten-Konzept“ ^[welten.md:L119]. It does not define it but guesses: „Möglicherweise ein Begriff für die Schnittstellen oder Übergangszonen“ ^[welten.md:L119] between the Kern-Welten, or between them and the Überwelt and AEGIS. They `Könnten` be places where the rules of the worlds are especially unstable, or where Kael interacts more directly with the system or his own psychic structures. It closes the entry with „Die genaue Definition und Funktion muss ggf. noch geschärft werden“ ^[welten.md:L119].
 
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Nexus once, as a possible world of Sophia
 
