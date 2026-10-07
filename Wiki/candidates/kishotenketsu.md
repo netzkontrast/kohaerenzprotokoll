@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse"]
 gathered: "2026-09-25"
 ---
 
@@ -61,6 +61,10 @@ The master blueprint names the principle in the coda: „Das Kishōtenketsu-Prin
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the end rests on Kishotenketsu, with Ten to Ketsu as the climax
 
 The Leitfragen report says of the ending (Chapter 39 to 40/0) that it rests „explizit auf dem ostasiatischen“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153] model, and defines the climax as the passage from `Ten`, the sudden turn in which Kael's integration forces AEGIS into self-contradiction, to `Ketsu`, „der zirkulären Rekursion, in der das Ende zum Neuanfang wird“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153]. This is its account of the plot documents. It notes that the structure traditionally departs from causal conflict, and asks how a cathartic experience results for the reader.
+
+## Reading — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis — Kishōtenketsu as the structure of the passage through the worlds
+
+The Dramatica loop analysis says the progression is not structured by the Aristotelian three acts but by „Kishōtenketsu-Paradigma, welches vier Phasen umfasst“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L63]: Ki, Shō, Ten, Ketsu, which it matches to Dramatica concerns for the first thirteen chapters. In its alternative storyform on Stop it says the model „würde in dieser Form im“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L149] Ten stage the demolition of the protective walls instead of the collapse of the formulas. A proposal, recorded and not applied.
 
 ## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28
 
