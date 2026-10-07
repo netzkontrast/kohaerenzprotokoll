@@ -110,3 +110,11 @@ Stands as a canonizing claim of this document, recorded and not applied; the rec
 It reports that `Strukturelle Dissoziation: System Kael Analyse` has `Kael (ehem. Michael)`, that „The majority of documents use male pronouns when referring to Kael“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L112], that `AEGIS-Logik und narrative Implikationen` „uses female pronouns“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L112], and that `Dialetheismus im Kohärenz Protokoll` has `Kael/Julia`. It judges this „a major contradiction“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L112]. Its recommendation, not applied: „It is imperative to make a definitive decision regarding Kael's canonical name“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L125], and that „It is recommended that one version be chosen and that all source documents be systematically updated to reflect this single version of truth“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L125].
 
 Stands as a report of 2025-11-03 that names the question and recommends a decision; its own account of other sources, recorded, not applied, and it settles nothing in the record.
+
+## 2026-10-07 — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report
+
+**The strategy report writes Kael with female pronouns and frames the arc with Murdock's Heroine's Journey.**
+
+Its pronouns are kept here in quotation: the aim of its first section is to foster empathy „für ihre dissoziative Erfahrung“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L33]; the vulnerability passage speaks of „Ihr fragmentiertes Selbstgefühl“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L98]; and the chapter on identity says „Ihre existenzielle Krise“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L166]. The strategy report applies to this arc Murdock's model, which it describes as one that addresses „speziell die psycho-spirituelle Reise von Frauen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L106], and it maps the stages to Kael's chapters.
+
+Stands as a new row on the female side of C17, in the report's own words; recorded, not applied, and the record is not decided.
