@@ -356,3 +356,11 @@ Stands: another statement of the boundary from AEGIS's side; the report defines 
 It argues: „Die Verbindung zwischen Kael und Juna ist kein Datenstrom, der abgefangen werden kann“ ^[roman-konzept-und-philosophische-fragen.md:L170]. It names the link as quantum entanglement taken as metaphysical reality, Kael and Juna being two parts of one non-local system. It calls the link an „architektonische Hintertür“ ^[roman-konzept-und-philosophische-fragen.md:L172], which, it argues, passes all of AEGIS's security protocols because it works at a level that AEGIS's local logic cannot perceive.
 
 This adds a row to the record and decides nothing in it: the essay says what the link is for AEGIS, not what it can carry, who else can feel it, or whether it is exclusive to Kael and Juna.
+
+## 2026-10-07 — `romanarchitektur-kohaerenz-protokoll-finalisierung`, 2025-07-29, the final framework
+
+**The final framework defines the Moonshine-Link as quantum entanglement and an architectural backdoor, a fundamental feature of reality that AEGIS cannot patch.**
+
+The section title reads „Die Natur der Verbindung: Quantenverschränkung als metaphysische Realität“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L92], and the link is one in which „Nach diesem Modell sind Kael und Juna zwei Teile eines einzigen, untrennbaren Quantensystems“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L96]. The following section is „Die Zitadelle durchbrechen: Die architektonische Hintertür“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L106]. The framework says the weak point lies „nicht in der Software, den Protokollen oder der Logik, die AEGIS modifizieren oder patchen könnte“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L110].
+
+Stands as a document that places the link below AEGIS's protocols, in the topology of reality; it does not decide the record.
