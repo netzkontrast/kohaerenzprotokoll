@@ -940,3 +940,11 @@ Four worlds, six table rows, and the correspondence handled as inhabitants. Stan
 Its alter table lists five rows: `Kael (Host)` (L162), `Nyx` (L163), `Kiko` (L164), `Lex` (L165) and `Selene` (L166). It does not say the table is complete. For the worlds it writes „Die vier Kernwelten (KW1-4) sind nicht nur Schauplätze“ ^[kohaerenz-protokoll-narrative-architektur.md:L226], and lists KW1 to KW4 as Logos-Prime (OS), Mnemosyne-Archipel (MC), Cerberus-Labyrinth (SS) and Kairos-Potentialis (IC), each with its throughline (L230–L233). It assigns throughlines to worlds, not alters to worlds.
 
 Stands: the document gives five alters and four Kernwelten and takes no position on the count of alters against any other roster; the record's open question is not settled by it.
+
+## 2026-10-07 — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft
+
+**The chapter-1 draft names four alters of Michael (the early name of Kael) besides a Host, and ties the Konstrukt-Stadt to Kern-Welt 1; it gives no total of either.**
+
+Its research part lists the alters as „Mnemosyne, Cerberus, Kairos/Sophia, Architekt“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L51], called alters named in a context text the file does not hold. Its blueprint labels each scene with a field for his dominant state, the first scene giving „Host/Kern-Selbst (desorientiert)“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L75]. The Kern-Welt count appears only in the research part, where the Konstrukt-Stadt is tied to „Kern-Welt 1: ein Raum der Rationalität und Ordnung“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L21]; it names no second Kern-Welt and draws no correspondence between worlds and alters.
+
+Stands as a plan that gives four named alters and one Kern-Welt, hedged as a hint list for the chapter; recorded, the question stays open.
