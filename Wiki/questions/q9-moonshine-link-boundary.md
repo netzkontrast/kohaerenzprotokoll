@@ -348,3 +348,11 @@ This adds a row to the record and decides nothing in it.
 Its table gives „Nicht-lokale, sub-protokollarische Resonanz“ ^[kohaerenz-protokoll-narrative-synthese.md:L112]. On the boundary it writes: „Eine nicht-lokale, akausale, sub-protokollarische Resonanz liegt außerhalb seiner ontologischen Kategorien.“ ^[kohaerenz-protokoll-narrative-synthese.md:L99] AEGIS can register only effects: „Es kann nur die sekundären Effekte“ ^[kohaerenz-protokoll-narrative-synthese.md:L99] as unexplained noise. The link is „eine fundamentale Eigenschaft der Realitätsarchitektur, die AEGIS weder wahrnehmen noch reparieren kann“ ^[kohaerenz-protokoll-narrative-synthese.md:L94].
 
 Stands: another statement of the boundary from AEGIS's side; the report defines and proposes, and does not say where the link ends.
+
+## 2026-10-07 — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis
+
+**The philosophical synthesis reads the Kael–Juna link as entanglement and an architectural backdoor, and draws no boundary for it.**
+
+It argues: „Die Verbindung zwischen Kael und Juna ist kein Datenstrom, der abgefangen werden kann“ ^[roman-konzept-und-philosophische-fragen.md:L170]. It names the link as quantum entanglement taken as metaphysical reality, Kael and Juna being two parts of one non-local system. It calls the link an „architektonische Hintertür“ ^[roman-konzept-und-philosophische-fragen.md:L172], which, it argues, passes all of AEGIS's security protocols because it works at a level that AEGIS's local logic cannot perceive.
+
+This adds a row to the record and decides nothing in it: the essay says what the link is for AEGIS, not what it can carry, who else can feel it, or whether it is exclusive to Kael and Juna.
