@@ -1,0 +1,14 @@
+# roman-outline-kohaerenz-protokoll-uberarbeitung
+  lines                400  (frontmatter ends at 9)
+  body words           8770
+  headings             27   bold-only lines 10
+  table rows           29   code fences 0
+  question marks       29
+  backslash escapes    117
+  typographic marks    108   ascii quotes 8
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    39
+  repeated labels      Ziel x13, Narrative Anwendung x6, Anwendung x4, Schlüsselkonzepte x4
+  longest line         1315 chars
+

@@ -722,3 +722,6 @@
 {"document": "roman-konzept-und-philosophische-fragen", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the project's name in the title", "at": "2026-10-07"}
 {"document": "roman-konzept-und-philosophische-fragen", "page": "multiplizitaet", "surface": "Multiplizität", "line": 42, "decision": "reading", "why": "functional multiplicity, read on multiplizitaet", "at": "2026-10-07"}
 {"document": "roman-konzept-und-philosophische-fragen", "page": "ueberwelt", "surface": "Simulation", "line": 144, "decision": "occurrence", "why": "a heading naming the simulation, not the place", "at": "2026-10-07"}
+{"document": "roman-outline-kohaerenz-protokoll-uberarbeitung", "page": "juna", "surface": "Juna", "line": 51, "decision": "reading", "why": "Juna/V in the strategy report, read on juna", "at": "2026-10-07"}
+{"document": "roman-outline-kohaerenz-protokoll-uberarbeitung", "page": "multiplizitaet", "surface": "Multiplizität", "line": 52, "decision": "reading", "why": "functional multiplicity, read on multiplizitaet", "at": "2026-10-07"}
+{"document": "roman-outline-kohaerenz-protokoll-uberarbeitung", "page": "risse", "surface": "Glitches", "line": 142, "decision": "occurrence", "why": "Lex meets illogical glitches inside Kael's system (Ch 1–2) — cognitive dissonance, not the Risse", "at": "2026-10-07"}
