@@ -364,3 +364,11 @@ This adds a row to the record and decides nothing in it: the essay says what the
 The section title reads „Die Natur der Verbindung: Quantenverschränkung als metaphysische Realität“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L92], and the link is one in which „Nach diesem Modell sind Kael und Juna zwei Teile eines einzigen, untrennbaren Quantensystems“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L96]. The following section is „Die Zitadelle durchbrechen: Die architektonische Hintertür“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L106]. The framework says the weak point lies „nicht in der Software, den Protokollen oder der Logik, die AEGIS modifizieren oder patchen könnte“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L110].
 
 Stands as a document that places the link below AEGIS's protocols, in the topology of reality; it does not decide the record.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis proposes that the Moonshine Link runs below AEGIS's sight, because AEGIS filters out subjective data as noise.**
+
+It writes: „AEGIS cannot see the Moonshine Link because AEGIS filters out“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L120] subjective data. The Link lets Juna pass: „It allows Juna (The Anomaly) to bypass AEGIS's logic.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L120] It names the connection „sub-protocol connection“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L120].
+
+Stands as a row on the edge of the Link, seen from AEGIS's side; the question stays open.
