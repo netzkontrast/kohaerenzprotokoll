@@ -425,3 +425,11 @@ Where it stands in the record's own terms: one word, `Ursprungs-Ich`, for two ow
 In the character table of `Kael: Das multiple Interface` the row reads „Juna | Transzendenz-Vektor“ ^[roman-synthese-mit-dual-kernel-theorie.md:L406], with the interface to the external level in the last cell (a kernel symbol before `Interface` is lost in the export). The section calls Kael „die Witness-Funktion des Gesamtsystems“ ^[roman-synthese-mit-dual-kernel-theorie.md:L398]. It does not say where Kael or the system comes from, and it names neither M, Komponente 734 nor a split self.
 
 Stands: the document takes no side in C16; it adds Juna as a part inside Kael's system, which none of the origins in the record's table says.
+
+## 2026-10-07 — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report
+
+**The dissociative architecture report gives an origin to Juna, not to Kael: she is re-architected from an external love interest into an internal alter.**
+
+It writes: „Re-architected from an external love interest to an internal, exiled part.“ ^[kael-s-dissociative-architecture-analysis.md:L95] and, of the Moonshine-Link, that it is „mediated by the alter“ ^[kael-s-dissociative-architecture-analysis.md:L203] Juna. It names no external entity M and no Komponente 734 (`Komponente` ^[kael-s-dissociative-architecture-analysis.md:#0]), and gives Kael's own origin no account.
+
+Stands as a statement about Juna beside the record's origins of Kael; it takes no side among them.
