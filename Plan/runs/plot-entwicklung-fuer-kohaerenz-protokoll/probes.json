@@ -1,0 +1,277 @@
+{
+  "document": "plot-entwicklung-fuer-kohaerenz-protokoll",
+  "drive_id": "1wU8MUM2PIXPtQ-YPQbEAH5WyZvxWXsYpxTSMwN_m1mQ",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 488,
+  "typographic_marks": 50,
+  "ascii_quotes": 94,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systembereichen",
+      "Systeme",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systeminstabilität",
+      "Systemische",
+      "Systemischer",
+      "Systemkollaps",
+      "Systems",
+      "Systemverhalten"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontroll",
+      "Kontrollanspruch",
+      "Kontrolldomäne",
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollsystem",
+      "Kontrollverlust",
+      "Kontrollversuche",
+      "Kontrollversuchen"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmaßnahmen",
+      "Abwehrmechanismen",
+      "Abwehrreaktion",
+      "Abwehrreaktionen",
+      "Abwehrschritt",
+      "Abwehrstrategien"
+    ],
+    "inter": [
+      "Interaktion",
+      "Internal",
+      "Interne",
+      "Interpretation",
+      "Intervention",
+      "Interventionen"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätsmodell",
+      "Realitätssystem",
+      "Realitätsverlust"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseberichte",
+      "Analyseeinheiten",
+      "Analyseschleifen",
+      "Analysesystemen"
+    ],
+    "besch": [
+      "Beschneidung",
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschränkungen",
+      "Beschützer"
+    ],
+    "chara": [
+      "Charakterbogen",
+      "Charakterbögen",
+      "Charakterentwicklung",
+      "Charakterentwicklungen",
+      "Charakterkonzepten"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzberechtigung",
+      "Existenzebene",
+      "Existenzgrundlage",
+      "Existenzweise"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungselemente",
+      "Handlungsmöglichkeiten",
+      "Handlungsphasen"
+    ],
+    "mögli": [
+      "Mögliche",
+      "Möglicherweise",
+      "Möglichkeit",
+      "Möglichkeiten",
+      "Möglichkeitsstrom"
+    ],
+    "poten": [
+      "Potential",
+      "Potentiale",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potentials"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokollaktivierung",
+      "Protokolle",
+      "Protokollen"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzbedürfnisse",
+      "Schutzmechanismen",
+      "Schutzschild",
+      "Schutzstrategien"
+    ],
+    "seins": [
+      "Seins",
+      "Seinsprinzip",
+      "Seinsprinzipien",
+      "Seinsweise",
+      "Seinsweisen"
+    ],
+    "unter": [
+      "Unterbindung",
+      "Unterdrückung",
+      "Untergruppen",
+      "Unterstützung",
+      "Unterwerfung"
+    ],
+    "ander": [
+      "Andere",
+      "Anderen",
+      "Andererseits",
+      "Andersartigkeit"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungs",
+      "Heilungsprozesse",
+      "Heilungsressource"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktrahmens",
+      "Konflikts"
+    ],
+    "mitte": [
+      "Mitte",
+      "Mitteln",
+      "Mittelpunkt",
+      "Mittelteil"
+    ],
+    "parad": [
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbstwerdung",
+      "Selbstzerstörung"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumata",
+      "Traumatisierter"
+    ],
+    "wider": [
+      "Widerlegung",
+      "Widerspruchs",
+      "Widersprüche",
+      "Widerstand"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Fallende"
+    ],
+    [
+      "Ende",
+      "Steigende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Wendepunkte"
+    ],
+    [
+      "Ende",
+      "Eskalierende"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Erst",
+      "Erste"
+    ],
+    [
+      "Erst",
+      "Widerstand"
+    ],
+    [
+      "Erst",
+      "Zerstörung"
+    ],
+    [
+      "Erst",
+      "Verständnis"
+    ],
+    [
+      "Erst",
+      "Verstärkung"
+    ],
+    [
+      "Erst",
+      "Unterstützung"
+    ],
+    [
+      "Erst",
+      "Missverständnis"
+    ],
+    [
+      "Erst",
+      "Selbstzerstörung"
+    ],
+    [
+      "Erst",
+      "Wiederherstellung"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ]
+  ]
+}

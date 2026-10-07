@@ -248,10 +248,11 @@
         "master-konzept-kohaerenz-protokoll-analyse",
         "analyse-des-kohaerenz-protokolls",
         "aegis",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 162,
-      "readings": 162,
+      "sources": 163,
+      "readings": 163,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -529,10 +530,11 @@
         "kohaerenz-protokoll-weltkonzept-synthese",
         "master-konzept-kohaerenz-protokoll-analyse",
         "analyse-des-kohaerenz-protokolls",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 100,
-      "readings": 100,
+      "sources": 101,
+      "readings": 101,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -848,10 +850,11 @@
         "welten",
         "kohaerenz-protokoll-weltkonzept-synthese",
         "aegis",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 90,
+      "readings": 90,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -1003,10 +1006,11 @@
         "kohaerenz-analyse-kapitel-2",
         "narrativ",
         "welten",
-        "kohaerenz-protokoll-weltkonzept-synthese"
+        "kohaerenz-protokoll-weltkonzept-synthese",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 52,
-      "readings": 52,
+      "sources": 53,
+      "readings": 53,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1313,10 +1317,11 @@
         "kohaerenz-protokoll-weltkonzept-synthese",
         "master-konzept-kohaerenz-protokoll-analyse",
         "analyse-des-kohaerenz-protokolls",
-        "aegis"
+        "aegis",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 102,
-      "readings": 102,
+      "sources": 103,
+      "readings": 103,
       "conflict": "C2"
     },
     "erason": {
@@ -1419,10 +1424,11 @@
         "kohaerenz-protokoll-2",
         "narrativ",
         "welten",
-        "kohaerenz-protokoll-weltkonzept-synthese"
+        "kohaerenz-protokoll-weltkonzept-synthese",
+        "recherche-ueberwelt"
       ],
-      "sources": 48,
-      "readings": 48,
+      "sources": 49,
+      "readings": 49,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1866,10 +1872,12 @@
         "project-coherence-protocol-narrative-blueprint-decisions",
         "welten",
         "kohaerenz-protokoll-weltkonzept-synthese",
-        "aegis"
+        "aegis",
+        "recherche-ueberwelt",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 111,
-      "readings": 111,
+      "sources": 113,
+      "readings": 113,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2149,10 +2157,12 @@
         "master-konzept-kohaerenz-protokoll-analyse",
         "analyse-des-kohaerenz-protokolls",
         "aegis",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "recherche-ueberwelt",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 151,
-      "readings": 151,
+      "sources": 153,
+      "readings": 153,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2206,10 +2216,11 @@
         "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
         "romanprojekt-analyse-kohaerenz-protokoll",
         "welten",
-        "kohaerenz-protokoll-weltkonzept-synthese"
+        "kohaerenz-protokoll-weltkonzept-synthese",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none yet"
     },
     "kael": {
@@ -2383,10 +2394,12 @@
         "master-konzept-kohaerenz-protokoll-analyse",
         "analyse-des-kohaerenz-protokolls",
         "aegis",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "recherche-ueberwelt",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 164,
-      "readings": 165,
+      "sources": 166,
+      "readings": 167,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2504,10 +2517,11 @@
         "welten",
         "kohaerenz-protokoll-weltkonzept-synthese",
         "aegis",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 77,
-      "readings": 77,
+      "sources": 78,
+      "readings": 78,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -2640,10 +2654,11 @@
         "master-konzept-kohaerenz-protokoll-analyse",
         "analyse-des-kohaerenz-protokolls",
         "aegis",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 123,
-      "readings": 122,
+      "sources": 124,
+      "readings": 123,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -3130,10 +3145,11 @@
         "welten",
         "kohaerenz-protokoll-weltkonzept-synthese",
         "analyse-des-kohaerenz-protokolls",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 90,
+      "readings": 90,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -3500,10 +3516,11 @@
         "welten",
         "kohaerenz-protokoll-weltkonzept-synthese",
         "analyse-des-kohaerenz-protokolls",
-        "aegis"
+        "aegis",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 95,
-      "readings": 95,
+      "sources": 96,
+      "readings": 96,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -3638,10 +3655,11 @@
         "kohaerenz-protokoll-weltkonzept-synthese",
         "analyse-des-kohaerenz-protokolls",
         "aegis",
-        "the-psychological-mechanics-from-tertiary-structural-dissoci"
+        "the-psychological-mechanics-from-tertiary-structural-dissoci",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 108,
-      "readings": 108,
+      "sources": 109,
+      "readings": 109,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -4135,10 +4153,11 @@
         "kohaerenz-protokoll-plotideen-extraktion",
         "kohaerenz-protokoll-2",
         "welten",
-        "kohaerenz-protokoll-weltkonzept-synthese"
+        "kohaerenz-protokoll-weltkonzept-synthese",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "none"
     },
     "nichts-rauschen": {
@@ -4624,10 +4643,11 @@
         "welten",
         "kohaerenz-protokoll-weltkonzept-synthese",
         "analyse-des-kohaerenz-protokolls",
-        "aegis"
+        "aegis",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 55,
-      "readings": 56,
+      "sources": 56,
+      "readings": 57,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -4679,10 +4699,11 @@
         "romanidee-als-interaktiver-prototyp",
         "kohaerenz-protokoll-2",
         "narrativ",
-        "welten"
+        "welten",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 26,
-      "readings": 26,
+      "sources": 27,
+      "readings": 27,
       "conflict": "none"
     },
     "residual-echos": {
@@ -4996,10 +5017,12 @@
         "welten",
         "master-konzept-kohaerenz-protokoll-analyse",
         "analyse-des-kohaerenz-protokolls",
-        "aegis"
+        "aegis",
+        "recherche-ueberwelt",
+        "plot-entwicklung-fuer-kohaerenz-protokoll"
       ],
-      "sources": 125,
-      "readings": 125,
+      "sources": 127,
+      "readings": 127,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -5740,10 +5763,11 @@
         "refining-dramatica-storyform-for-kohaerenz-protokoll",
         "welten",
         "kohaerenz-protokoll-weltkonzept-synthese",
-        "aegis"
+        "aegis",
+        "recherche-ueberwelt"
       ],
-      "sources": 82,
-      "readings": 82,
+      "sources": 83,
+      "readings": 83,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
