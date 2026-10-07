@@ -866,3 +866,13 @@ Stands: one more row for the question's alter side — five named parts in one t
 The ANPs stand in the Murdock table under stage 9: „Aussöhnung/Koordination der ANPs (Lex, Alex, Nyx) unter Selene“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L123]. The EPs stand under stage 8: „Integration der EPs (Kiko, Lia, Moros)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L122]. Lex and Alex appear again as „Kael verlässt sich auf Logik (Lex) und Abwehr (Alex) zur Navigation in AEGIS' feindlicher Umgebung.“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L116]. Rhys is named in the dissonance section, „Rhys wünscht Harmonie, während Anteile im Konflikt sind“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L142], and Selene as the coordinator, „Emergenz von Selene als Koordinatorin“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L124].
 
 Stands as one more list of alters for the question's count; recorded, not applied, and the question is not answered.
+
+## 2026-10-07 — `romanarchitektur-kohaerenz-protokoll-finalisierung`, 2025-07-29, the final framework
+
+**The final framework proposes a post-integration table of eight alters, four named and four unnamed, and four transformed Kernwelten.**
+
+Its table has the header „Alter Name | TSDP-Klassifikation (Initial)“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L200], and names Kael, Nyx, Kiko and Selene; the other four rows are placeholders `[Alter 5]` to `[Alter 8]`, which stay unfilled here. Selene is „Das integrierte Selbst; bewusster Kern des Systems, erleichtert die interne Kommunikation und trifft finale Entscheidungen“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L204].
+
+For the Kernwelten it writes „Kernwelt 1 (Logik)“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L218] through „Kernwelt 4 (Potential)“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L221], each transformed into an inner landscape; Kernwelt 4 becomes „kreativen Kern“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L221]. It writes no correspondence between a Kernwelt and an alter.
+
+Stands as a document that gives eight alters in a table and four Kernwelten; it does not decide the record.
