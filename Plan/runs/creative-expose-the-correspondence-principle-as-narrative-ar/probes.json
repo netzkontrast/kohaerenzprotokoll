@@ -1,0 +1,96 @@
+{
+  "document": "creative-expose-the-correspondence-principle-as-narrative-ar",
+  "drive_id": "1EBjjLQavWATvRrWkAki6aTsphAfDi2bOTTfEP23rO1U",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 58,
+  "typographic_marks": 16,
+  "ascii_quotes": 84,
+  "inflection_families": {
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithms"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "archi": [
+      "Architecture",
+      "Architectures"
+    ],
+    "embod": [
+      "Embodied",
+      "Embodies"
+    ],
+    "exter": [
+      "External",
+      "Externe"
+    ],
+    "funct": [
+      "Function",
+      "Functions"
+    ],
+    "philo": [
+      "Philosophical",
+      "Philosophies"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "theor": [
+      "Theories",
+      "Theory"
+    ],
+    "world": [
+      "Worldbuilding",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Thesis",
+      "Synthesis"
+    ],
+    [
+      "Function",
+      "Functions"
+    ],
+    [
+      "Rational",
+      "Operationalizing"
+    ],
+    [
+      "Thematic",
+      "Mathematical"
+    ],
+    [
+      "Protokoll",
+      "Trennungsprotokoll"
+    ],
+    [
+      "Architecture",
+      "Architectures"
+    ]
+  ]
+}

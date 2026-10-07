@@ -1,0 +1,14 @@
+# creative-expose-the-correspondence-principle-as-narrative-ar
+  lines                103  (frontmatter ends at 9)
+  body words           2292
+  headings             16   bold-only lines 0
+  table rows           13   code fences 0
+  question marks       0
+  backslash escapes    58
+  typographic marks    16   ascii quotes 84
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1523 chars
+

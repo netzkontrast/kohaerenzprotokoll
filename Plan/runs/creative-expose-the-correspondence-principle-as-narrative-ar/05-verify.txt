@@ -1,0 +1,15 @@
+# every number the note and census state
+stance_marker_count 3 = Act I: Stabilization (1) + Act II: Confrontation (1) + Act III: Integration (1)
+`Act I: Stabilization` ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:#1]
+`Act II: Confrontation` ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:#1]
+`Act III: Integration` ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:#1]
+`Alex` ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:#1]
+`Selene` ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:#1]
+`Kohärenz Protokoll` ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:#5]
+# census statements: 59 candidates, 0 zeros: from capture.py --count (04-counts.txt header: "counts for 59 candidates"); census.py check holds
+# question marks: 0, profile; grep -c '?' on the file:
+0
+# profile numbers 58 backslash escapes, 84 ascii quotes: from 01-profile.txt
+  backslash escapes    58
+  typographic marks    16   ascii quotes 84
+# absences: 'bunker' alone is not a whole word (hyphenated): read.py --count "bunker" gives 0 whole word, 1 in compounds
