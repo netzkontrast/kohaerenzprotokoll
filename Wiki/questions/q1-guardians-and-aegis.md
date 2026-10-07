@@ -432,3 +432,11 @@ This is the report's summary of the `Guardians und Kern-Welten-Konzept` document
 It writes: „are subsystems of AEGIS. To heighten the drama, we implement the“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L140] `Guardian's Dilemma`. Its Schism: „The Guardians fight each other. Civil war in the OS.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L250] Its framing section: „The Guardians are not monolithic. As AEGIS weakens, they split.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L288]
 
 Stands as one more row in the record, a design proposal that places the Guardians inside AEGIS; the question stays open.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The world-concept reply answers the question in one phrase: the Guardians are „Spezialisierte Subsysteme von AEGIS“ ^[welten.md:L60], components of it.**
+
+It repeats the relation where it describes the Überwelt, whose inhabitants are „Primär die Guardians als funktionale Subsysteme von AEGIS“ ^[welten.md:L56], and where it says that they operate from there. It does not discuss peers or a replaced design, and it gives the relation without a hedge.
+
+Stands on the side of components of AEGIS; recorded, not applied, and the record is not decided by it.
