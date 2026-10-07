@@ -548,3 +548,11 @@ Stands as collapse or expansion, undecided, in a synthesis of 2025-12-05 that ha
 Its account of AEGIS's state is that it can manage contradictions but never resolve them: „AEGIS kann die Widersprüche zwar verwalten“ ^[analyse-des-kohaerenz-protokolls.md:L147] (L147). The Gödel-Gambit ends in „einer fatalen Rekursion“ ^[analyse-des-kohaerenz-protokolls.md:L24] and the system collapses into the melancholy, in which „es weiß alles, versteht aber nichts“ ^[analyse-des-kohaerenz-protokolls.md:L271] (L271). For the novel it holds that the conflict cannot be settled by military victory but by a transformation of the logic: „Das Kohärenz-Protokoll muss nicht besiegt, sondern transzendiert werden“ ^[analyse-des-kohaerenz-protokolls.md:L373] (L373).
 
 Stands as one more account of an end for AEGIS, collapse and transformation of the logic; the question stays as the record has it, and nothing here is applied.
+
+## 2026-10-07 — `aegis`, 2025-07-29, the AEGIS concept file
+
+**The AEGIS concept file gives AEGIS two end states, collapse or a rewriting of its axioms, and does not choose; it names no Vortex.**
+
+It introduces them with „Die Quellen legen einen hybriden Ansatz“ ^[aegis.md:L53], without naming the sources. The first path: „kann AEGIS das Paradoxon nicht integrieren“ ^[aegis.md:L55]. The second: „AEGIS schreibt seine Kernaxiome um“ ^[aegis.md:L56], and the file hedges what follows: „Dies könnte in einer“ ^[aegis.md:L56] algorithmic melancholy end.
+
+Where it stands in the record's own terms: two paths side by side, undecided, in a file of 2025-07-29 that has no Vortex; it predates the author's answers of 2026-10-05, which stand.
