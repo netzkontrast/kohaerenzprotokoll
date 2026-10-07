@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ"]
 gathered: "2026-09-24"
 ---
 
@@ -37,6 +37,10 @@ In Beat 1.2 (Kapitel 3–4) the description speaks of Kael's own „Cache Kohär
 ## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — Cache Kohärenz as a metaphor for dissociative amnesia
 
 The review reads the plan's state `Cache Kohärenz` as „ist eine treffende narrative Metapher für die dissoziative Amnesie“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40], the memory gaps between the identity states. This is the review's clinical application of DIS literature; the plan's own definition of the term is not given here.
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — Kael's Cache Kohärenz problem and the MESI protocol as metaphor, in the dramaturg's blueprint
+
+The dramaturg's blueprint (L115–L238) gives Kael as host the problem `Cache Kohärenz` (in straight quotes, L151, with a pointer further down): „Der primäre ANP (Anscheinend Normaler Persönlichkeitsanteil), Alltagsmanager und Koordinator.“ ^[narrativ.md:L151] The cross-reference lands in the world section, where the fourth Kernwelt entry ends: „Das MESI-Protokoll dient als Metapher für Cache-Kohärenz und die Zustände von Kaels Anteilen/Erinnerungen.“ ^[narrativ.md:L180]
 
 ## Reading — `the-coherence-protocol-a-definitive-guide-to-the-narrative-a`, 2025-11-03, the Coherence Protocol guide — the guide sets `Overhead` as a protocol's cost, drawn from cache coherence protocols
 
