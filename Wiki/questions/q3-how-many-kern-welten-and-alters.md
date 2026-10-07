@@ -1042,3 +1042,13 @@ Stands: the document counts neither alters nor Kern-Welten and states no rule of
 It writes: „The research materials identify 13 distinct entities within the system“ ^[kael-s-dissociative-architecture-analysis.md:L62], citing its own sources. Its tables name five ANPs (Kael, Lex, Isabella, Alex, The Sentinel, L71–L75), five EPs (Nyx, Kiko, Moros, The Shadow, The Martyr, L84–L88) and the hybrid pair Selene and Juna (L94–L95), twelve names. Section 7 adds Silas, Vesper and the Protectors Caspian and Sloane: „With Silas (The Archivist)“ ^[kael-s-dissociative-architecture-analysis.md:L209], „With Vesper (The Executive)“ ^[kael-s-dissociative-architecture-analysis.md:L210] and „With the Protectors (Caspian/Sloane)“ ^[kael-s-dissociative-architecture-analysis.md:L211]. The report does not say how the figure and the names fit.
 
 Stands as a roster whose stated size and listed names differ within one report; it says nothing of the Kern-Welten count or of a correspondence between worlds and alters beyond its Lex row naming KW1.
+
+## 2026-10-07 — `kael-system-tsdp-analyse-und-profile`, 2025-04-28, the TSDP profile report
+
+**The TSDP profile report counts eleven parts and four Kernwelten and proposes which parts resonate with which world, without assigning one world to one part.**
+
+The count of parts stands in the introduction: „elf identifizierten Persönlichkeitsanteilen“ ^[kael-system-tsdp-analyse-und-profile.md:L15], listed there by name (Kael, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Alex, Rhys, Lex, Argus). The four worlds carry their own labels: „Die fiktionalen Kernwelten (Co₁: Ordnung, McL: Netzwerk/Wissen, B: Chaos/Trauma, Ly: Potentialität/Emergenz) fungieren als externalisierte Repräsentationen der inneren Konflikte und Zustände“ ^[kael-system-tsdp-analyse-und-profile.md:L95]. World B is labelled Chaos/Trauma here, and the report calls it „Die direkteste Trigger-Welt“ ^[kael-system-tsdp-analyse-und-profile.md:L99].
+
+The report maps parts onto worlds as triggers and resonances, several at once, hedged: B „Aktiviert wahrscheinlich mehrere EPs“ ^[kael-system-tsdp-analyse-und-profile.md:L99], and of Ly: „Könnte mit Lias Kreativität resonieren“ ^[kael-system-tsdp-analyse-und-profile.md:L100]. So one world touches many parts and one part many worlds in the report's proposal; the profile report does not say one world is one part.
+
+Where it stands in the record's own terms: it gives eleven and four, and a resonance map offered as proposal, not assignment. It leaves the correspondence question open and does not say whether four is all of the worlds.
