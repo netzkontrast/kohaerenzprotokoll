@@ -1026,3 +1026,11 @@ It states the size as a lower bound: „System Kael besteht aus mindestens elf i
 The dossier does not say whether one world corresponds to one part.
 
 Where it stands: a count of alters with a lower bound beside an itemised roster; the question stays open in the record's terms.
+
+## 2026-10-07 — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis
+
+**The DKT synthesis tables five parts of Kael's system, Host, Manager, Nox, Juna and Kind, and names one world, the Grenzfeste, beside the alter Nox; it states no count of alters or of worlds.**
+
+The character table of `Kael: Das multiple Interface` has five rows (L403 to L407), headed „Anteil/Alter“ ^[roman-synthese-mit-dual-kernel-theorie.md:L402] in its first column; its second row gives the Host as „Host (Kael)“ ^[roman-synthese-mit-dual-kernel-theorie.md:L403]. Kapitel 28 puts one alter and one world together: „Kael konfrontiert Nox, den Alter des Traumas, in der Grenzfeste“ ^[roman-synthese-mit-dual-kernel-theorie.md:L288]. The document also says the cache procedures load alters only when needed: „Alters werden nur geladen, wenn sie benötigt werden“ ^[roman-synthese-mit-dual-kernel-theorie.md:L433]. A fifth part, Juna, is listed in the same table, not as an alter of the Host's world.
+
+Stands: the document counts neither alters nor Kern-Welten and states no rule of correspondence between them; the question remains as the record has it.
