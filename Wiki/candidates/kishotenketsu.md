@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ"]
 gathered: "2026-09-25"
 ---
 
@@ -21,6 +21,10 @@ is and does.
 ## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — the plot follows Kishōtenketsu
 
 The concept summary says the narrative is structured by the Dramatica theory and that the action itself follows the Kishōtenketsu structure („Die Handlung selbst folgt der nicht-konfliktbasierten“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L25] Kishōtenketsu-Struktur, with four stages named in the line), to perform the theme of integration on the formal level.
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — Kishōtenketsu as the recommended load-bearing frame, in the dramaturg's blueprint
+
+The dramaturg's blueprint (L115–L238) recommends it: „Die Anwendung von Kishōtenketsu wird als zentrales, tragendes Gerüst empfohlen:“ ^[narrativ.md:L197] It then gives four steps: Ki, „Kaels fragmentierter Zustand unter AEGIS' Kontrolle; unbewusster Konflikt der inneren Anteile.“ ^[narrativ.md:L199]; Shō, „Kael beginnt, seine inneren Anteile und seine Gefangenschaft zu verstehen“ ^[narrativ.md:L200]; Ten, „Die Juna/V-Verbindung oder die Entdeckung des Fragments“ ^[narrativ.md:L201] 'O' as the new, irritating element; Ketsu, „Kael harmonisiert die externe Verbindung mit seinem inneren Zustand“ ^[narrativ.md:L202], reaching a coherence that makes AEGIS's logic obsolete.
 
 ## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Kishōtenketsu as Kael's plot beside AEGIS's Western dramaturgy, and a Ki/Shō/Ten/Ketsu pass in every planned chapter
 
