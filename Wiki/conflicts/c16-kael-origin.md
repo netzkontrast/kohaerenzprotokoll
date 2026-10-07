@@ -307,3 +307,11 @@ Stands as one more row for the origin question, in the report's own terms: the o
 „Juna ist ein Fragment der Wahrheit, die Kael vor Jahren zersplitterte“ ^[roman-konzept-reduktion-und-kernfindung.md:L118]. The line gives Kael as the one who shattered; in the pitch, to save her Kael must tear down „die amnestischen Mauern seines Geistes“ ^[roman-konzept-reduktion-und-kernfindung.md:L118].
 
 Where it stands in the record's own terms: an origin told from Kael's side, in a pitch that a report proposes to the author; recorded, not applied.
+
+## 2026-10-07 — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report
+
+**The canon status report resolves Juna's origin as dialetheic: an external correspondent and an exiled fragment of Kael's original self at once.**
+
+It sets the conflict as „External Correspondent“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L39] against an exiled part of Kael's „Ursprungs-Ich“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L39], citing two other texts, and resolves: Juna is a dual-natured entity, „simultaneously an external correspondent and an exiled fragment of Kael’s original self“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L40]. This concerns Juna's origin, not Kael's.
+
+Stands as one more row for the origin question, in the report's own terms: a declared both-at-once for Juna; recorded, not applied, and the record is not decided.
