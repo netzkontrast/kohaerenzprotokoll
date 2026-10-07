@@ -682,3 +682,11 @@ Stands: the report gives a crash of AEGIS at Chapter 35; it does not speak of th
 „AEGIS is not destroyed but is irrevocably transformed.“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L98] The outline adds „It is forced into a new, less rigid state characterized by“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L98] algorithmic melancholy, and „Now operating on a form of paraconsistent logic, it can process the paradoxical truth of Kael's existence but can never truly understand or experience it.“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L98] The outline names no function that passes to another figure and does not mention Oblivion or the Vortex.
 
 Stands: an outline's plan for the state after the climax, in the record's terms one more answer to what AEGIS is afterwards; the half about who takes over AEGIS's function inside Kael it does not address, and it changes neither the decision of 2026-10-05 nor any reading.
+
+## 2026-10-07 — `kohaerenz-protokoll-duale-dramatica-storyform-synthese`, 2026-04-28, the dual storyform synthesis
+
+**The dual storyform synthesis says AEGIS is not erased but disintegrates into an algorithmic melancholy and an emergent rule set inside the creative chaos.**
+
+„Doch durch den isomorphen 5D-Lift wird AEGIS nicht ausgelöscht“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L178]: „AEGIS desintegriert von einer autokratischen, monolithischen KI in eine paradoxe, algorithmische Melancholie.“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L178] and „Es wird zu einem emergenten Regelwerk“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L178]. The report places this after a Vertex-Explosion in which Logos-Prime collapses (L176).
+
+One more position in the record; it decides nothing about what AEGIS is after the vortex.
