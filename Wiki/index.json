@@ -1,7 +1,7 @@
 {
   "built": "2026-10-07",
   "by": "scripts/wiki_index.py",
-  "pages": 110,
+  "pages": 118,
   "conflicts": 17,
   "terms": {
     "aegis-metriken": {
@@ -718,6 +718,19 @@
       "sources": 13,
       "readings": 12,
       "conflict": "none"
+    },
+    "birch-swinnerton-dyer": {
+      "title": "Birch–Swinnerton-Dyer",
+      "surfaces": [
+        "BSD",
+        "Birch–Swinnerton-Dyer",
+        "Birch–Swinnerton-Dyer formula",
+        "birch-swinnerton-dyer"
+      ],
+      "ingested": [],
+      "sources": 0,
+      "readings": 0,
+      "conflict": "none yet"
     },
     "blinder-fleck": {
       "title": "Ontologischer blinder Fleck",
@@ -1926,6 +1939,18 @@
       "readings": 119,
       "conflict": "C4, C6"
     },
+    "hilberts-tenth-problem": {
+      "title": "Hilbert's tenth problem",
+      "surfaces": [
+        "Hilbert's tenth problem",
+        "Hilbert’s tenth problem",
+        "hilberts-tenth-problem"
+      ],
+      "ingested": [],
+      "sources": 0,
+      "readings": 0,
+      "conflict": "none yet"
+    },
     "hitze-polaritaetsregel": {
       "title": "Hitze-Polaritätsregel",
       "surfaces": [
@@ -1970,6 +1995,19 @@
       "sources": 33,
       "readings": 32,
       "conflict": "C11"
+    },
+    "hodge-conjecture": {
+      "title": "Hodge conjecture",
+      "surfaces": [
+        "Hodge Conjecture",
+        "Hodge conjecture",
+        "hodge-conjecture",
+        "rational Hodge conjecture"
+      ],
+      "ingested": [],
+      "sources": 0,
+      "readings": 0,
+      "conflict": "none yet"
     },
     "internal-openai-model": {
       "title": "internal OpenAI model",
@@ -3308,6 +3346,20 @@
       "readings": 38,
       "conflict": "C11"
     },
+    "langlands": {
+      "title": "Langlands",
+      "surfaces": [
+        "Langlands",
+        "Langlands program",
+        "Langlands programme",
+        "geometric Langlands",
+        "langlands"
+      ],
+      "ingested": [],
+      "sources": 0,
+      "readings": 0,
+      "conflict": "none yet"
+    },
     "lean-formalization": {
       "title": "Lean formalization",
       "surfaces": [
@@ -3668,6 +3720,19 @@
       ],
       "sources": 1,
       "readings": 1,
+      "conflict": "none yet"
+    },
+    "mezard-parisi-formula": {
+      "title": "Mézard–Parisi formula",
+      "surfaces": [
+        "Mezard-Parisi",
+        "Mézard–Parisi",
+        "Mézard–Parisi formula",
+        "mezard-parisi-formula"
+      ],
+      "ingested": [],
+      "sources": 0,
+      "readings": 0,
       "conflict": "none yet"
     },
     "mnemosyne-server-architektur": {
@@ -4251,6 +4316,18 @@
       "readings": 113,
       "conflict": "none yet"
     },
+    "navier-stokes": {
+      "title": "Navier–Stokes",
+      "surfaces": [
+        "Navier-Stokes",
+        "Navier–Stokes",
+        "navier-stokes"
+      ],
+      "ingested": [],
+      "sources": 0,
+      "readings": 0,
+      "conflict": "none yet"
+    },
     "negentropie": {
       "title": "Negentropie",
       "surfaces": [
@@ -4829,6 +4906,19 @@
       ],
       "sources": 3,
       "readings": 3,
+      "conflict": "none yet"
+    },
+    "quasi-riemann-hypothesis": {
+      "title": "quasi-Riemann hypothesis",
+      "surfaces": [
+        "Landau–Siegel zeros",
+        "quasi-Riemann hypothesis",
+        "quasi-riemann-hypothesis",
+        "zero-free half-plane"
+      ],
+      "ingested": [],
+      "sources": 0,
+      "readings": 0,
       "conflict": "none yet"
     },
     "realitaetsebenen": {
@@ -5977,6 +6067,18 @@
       "readings": 85,
       "conflict": "none yet"
     },
+    "unique-games-conjecture": {
+      "title": "Unique Games Conjecture",
+      "surfaces": [
+        "Unique Games Conjecture",
+        "Unique Games Theorem",
+        "unique-games-conjecture"
+      ],
+      "ingested": [],
+      "sources": 0,
+      "readings": 0,
+      "conflict": "none yet"
+    },
     "vergessener-schrein": {
       "title": "Vergessener Schrein",
       "surfaces": [
@@ -6135,6 +6237,9 @@
     "ars": "ars",
     "atemporalitat": "atemporalitaet",
     "atemporalitaet": "atemporalitaet",
+    "bsd": "birch-swinnerton-dyer",
+    "birchswinnertondyer": "birch-swinnerton-dyer",
+    "birchswinnertondyerformula": "birch-swinnerton-dyer",
     "ontologischerblinderfleck": "blinder-fleck",
     "blinderfleck": "blinder-fleck",
     "cachekoharenz": "cache-kohaerenz",
@@ -6178,8 +6283,11 @@
     "systemgrenze": "grosse-mauer",
     "grossemauer": "grosse-mauer",
     "guardians": "guardians",
+    "hilbertstenthproblem": "hilberts-tenth-problem",
     "hitzepolaritatsregel": "hitze-polaritaetsregel",
     "hitzepolaritaetsregel": "hitze-polaritaetsregel",
+    "hodgeconjecture": "hodge-conjecture",
+    "rationalhodgeconjecture": "hodge-conjecture",
     "openaimodel": "internal-openai-model",
     "internalopenaimodel": "internal-openai-model",
     "unreleasedinternalopenaimodel": "internal-openai-model",
@@ -6211,6 +6319,10 @@
     "komponente734": "komponente-734",
     "konstruktstadt": "konstrukt-stadt",
     "landauersignatur": "landauer-signatur",
+    "langlands": "langlands",
+    "langlandsprogram": "langlands",
+    "langlandsprogramme": "langlands",
+    "geometriclanglands": "langlands",
     "leanformalization": "lean-formalization",
     "leanformalizations": "lean-formalization",
     "leanlibrary": "lean-formalization",
@@ -6222,6 +6334,8 @@
     "manuscriptmap": "mathematics-manuscript-collection",
     "resultfamilies": "mathematics-manuscript-collection",
     "resultfamily": "mathematics-manuscript-collection",
+    "mezardparisi": "mezard-parisi-formula",
+    "mezardparisiformula": "mezard-parisi-formula",
     "mnemosyneserverarchitektur": "mnemosyne-server-architektur",
     "mnemosyne": "mnemosyne",
     "moglichkeitsgarten": "moeglichkeits-garten",
@@ -6233,6 +6347,7 @@
     "multiplizitat": "multiplizitaet",
     "funktionalemultiplizitat": "multiplizitaet",
     "multiplizitaet": "multiplizitaet",
+    "navierstokes": "navier-stokes",
     "negentropie": "negentropie",
     "nexus": "nexus",
     "k1reinform": "nichts-rauschen",
@@ -6250,6 +6365,9 @@
     "pms": "pms",
     "potentialmeer": "potentialmeer",
     "protokollv14": "protokoll-v14",
+    "landausiegelzeros": "quasi-riemann-hypothesis",
+    "quasiriemannhypothesis": "quasi-riemann-hypothesis",
+    "zerofreehalfplane": "quasi-riemann-hypothesis",
     "realitatsebene": "realitaetsebenen",
     "realitatsebenen": "realitaetsebenen",
     "sechsrealitatsebenen": "realitaetsebenen",
@@ -6289,6 +6407,8 @@
     "simulation": "ueberwelt",
     "ueberwelt": "ueberwelt",
     "uberwelt": "ueberwelt",
+    "uniquegamesconjecture": "unique-games-conjecture",
+    "uniquegamestheorem": "unique-games-conjecture",
     "traumalokus": "vergessener-schrein",
     "vergessenerschrein": "vergessener-schrein",
     "vergessenerschreintraumalokus": "vergessener-schrein",
