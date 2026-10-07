@@ -490,3 +490,11 @@ Stands: one more row for the first half of the record, AEGIS's state; the compen
 The table cell reads „Kollaps oder erzwungene Transformation durch Konfrontation mit einem unlösbaren logischen Paradoxon“ ^[roman-konzept-und-philosophische-fragen.md:L223]. Before that, the synthesis argues that Kael's healed state „zwingt AEGIS jedoch zu einer fundamentalen Anpassung“ ^[roman-konzept-und-philosophische-fragen.md:L96], and that AEGIS develops „eine rudimentäre, aber pathologische Form der parakonsistenten Logik“ ^[roman-konzept-und-philosophische-fragen.md:L96].
 
 Stands as an open alternative of two outcomes, dated 2025-07-29; recorded, not applied, the question stays open.
+
+## 2026-10-07 — `romanarchitektur-kohaerenz-protokoll-finalisierung`, 2025-07-29, the final framework
+
+**The final framework proposes that AEGIS transforms into a new coherence and does not end in a system-destroying control attempt; it writes no Vortex.**
+
+It defines the choice: „AEGIS steht vor der Wahl: Kollaps oder Transformation.“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L158] It lets AEGIS choose transformation and rules out the final act: „führt dies nicht zu einem finalen, systemzerstörenden Kontrollversuch“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L172]. What remains is an AEGIS that „hört auf, ein Kerkermeister zu sein, und wird zu einem potenziellen Beobachter, vielleicht sogar einem Gärtner“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L174], after the cost of `Algorithmische Melancholie`.
+
+Stands as one more proposal of transformation, from a document of 2025-07-29 that names no Vortex; it predates and does not touch the author's answer of 2026-10-05 recorded on the record.
