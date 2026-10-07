@@ -1,0 +1,581 @@
+{
+  "document": "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt",
+  "step": "reconcile-pre",
+  "at": "2026-10-07",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-07",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 86,
+  "decisions": 90,
+  "same_surface": {},
+  "decided_mechanically": 69,
+  "needs_judgement": 21,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 56
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 162
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 82
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 111
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 95
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 108
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 89
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 77
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 70
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 165
+      },
+      {
+        "candidate": "Julia",
+        "page": "juna",
+        "readings": 151
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 122
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 89
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 100
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 52
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Autogenic Emergent General Intelligence System"
+      },
+      {
+        "candidate": "OBP"
+      },
+      {
+        "candidate": "RIVE"
+      },
+      {
+        "candidate": "PMAS"
+      },
+      {
+        "candidate": "SARM"
+      },
+      {
+        "candidate": "CCPP"
+      },
+      {
+        "candidate": "K-J-Einheit"
+      },
+      {
+        "candidate": "Moonshine-Signatur"
+      },
+      {
+        "candidate": "Resonanz-Nebel"
+      },
+      {
+        "candidate": "Schattenlabyrinth"
+      },
+      {
+        "candidate": "Möglichkeitsstrom"
+      },
+      {
+        "candidate": "Kernkonflikt"
+      },
+      {
+        "candidate": "Zentrales Paradoxon-Cluster"
+      },
+      {
+        "candidate": "Gleichzeitigkeit"
+      },
+      {
+        "candidate": "VOA/CFT-Substrat-Analogie"
+      },
+      {
+        "candidate": "Holographisches Prinzip"
+      },
+      {
+        "candidate": "NZT-Metapher"
+      },
+      {
+        "candidate": "NZT-Ideal"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "parakonsistente Logik"
+      },
+      {
+        "candidate": "Vertrauenslosigkeit"
+      },
+      {
+        "candidate": "Negation und Abgrenzung"
+      },
+      {
+        "candidate": "Symmetrie & Symmetriebrechung"
+      },
+      {
+        "candidate": "Techniken"
+      },
+      {
+        "candidate": "Chinesisches Zimmer"
+      },
+      {
+        "candidate": "Hard Problem of Consciousness"
+      },
+      {
+        "candidate": "Vertex Operator Algebra"
+      },
+      {
+        "candidate": "Konformen Feldtheorie"
+      },
+      {
+        "candidate": "Monstrous Moonshine"
+      },
+      {
+        "candidate": "IFS-Modell"
+      },
+      {
+        "candidate": "Double Bind"
+      },
+      {
+        "candidate": "Gödel'sche Unvollständigkeit"
+      },
+      {
+        "candidate": "Halting Problem"
+      },
+      {
+        "candidate": "Landauer-Prinzip"
+      },
+      {
+        "candidate": "Kolmogorov-Komplexität"
+      },
+      {
+        "candidate": "Ashby's Law"
+      },
+      {
+        "candidate": "Beobachtereffekt"
+      },
+      {
+        "candidate": "Symbol Grounding Problem"
+      },
+      {
+        "candidate": "KI-Alignment-Problem"
+      },
+      {
+        "candidate": "Konstruktivismus"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "Kosmischen Horrors"
+      },
+      {
+        "candidate": "Kosmischer Horror"
+      },
+      {
+        "candidate": "Infosphäre"
+      },
+      {
+        "candidate": "Dunamis"
+      },
+      {
+        "candidate": "Kreativität"
+      },
+      {
+        "candidate": "Śūnyatā"
+      },
+      {
+        "candidate": "Noether-Theorem"
+      },
+      {
+        "candidate": "Higgs-Mechanismus"
+      },
+      {
+        "candidate": "Sorites"
+      },
+      {
+        "candidate": "Maxwell"
+      },
+      {
+        "candidate": "Russell"
+      },
+      {
+        "candidate": "Quantenverschränkung"
+      },
+      {
+        "candidate": "Informationsontologie"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz-Inseln  /  Kohärenz-Insel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Protokolle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Primzahl-Metapher (für AEGIS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Limitationen von AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Monstergruppe (M) als korrigierte Metapher  /  Monstergruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Julia  /  Julia / K-J-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Julia / K-J-Verbindung  /  K-J-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Primzahl-Metapher  /  Primzahl-Metapher (für AEGIS)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Realität als Information/Struktur/Prozess  /  Struktur",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Struktur  /  Strukturelle Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Struktur  /  Ontischer Struktureller Realismus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Inseln",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Insel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Protokolle",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Julia / K-J-Verbindung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "julia",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Rissen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Primzahl-Metapher (für AEGIS)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "integrierter Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Limitationen von AEGIS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Struktur",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "diddissoziativeidentitatsstruktur",
+            "page": "did"
+          },
+          {
+            "surface": "dissoziativeidentitatsstruktur",
+            "page": "did"
+          },
+          {
+            "surface": "integritatvondatenstrukturen",
+            "page": "aegis-metriken"
+          },
+          {
+            "surface": "ouroborosstruktur",
+            "page": "ouroboros-struktur"
+          },
+          {
+            "surface": "snkstrukturiertenichtkontrolle",
+            "page": "snk"
+          }
+        ]
+      },
+      {
+        "candidate": "Stil",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "gartenderstillenpraesenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "gartenderstillenprasenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "telefonstille",
+            "page": "telefon-stille"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 36,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 16,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 15,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

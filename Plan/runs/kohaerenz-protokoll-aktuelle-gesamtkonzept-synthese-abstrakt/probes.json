@@ -1,0 +1,225 @@
+{
+  "document": "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt",
+  "drive_id": "1KaMo8eHgotOrWchfQCOequekOka7NeRRRtOtc4cHX2M",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 0,
+  "typographic_marks": 1,
+  "ascii_quotes": 26,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemisch",
+      "Systemkohärenz",
+      "Systemregeln",
+      "Systemsteuerung",
+      "Systemtheorie"
+    ],
+    "infor": [
+      "Information",
+      "Informationell",
+      "Informationskodierung",
+      "Informationslöschung",
+      "Informationsontologie"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsfundament",
+      "Simulationstheorie",
+      "Simulierte"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzproblemen",
+      "Grenzziehung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbsterzeugung",
+      "Selbstorganisation"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseversuche",
+      "Analytisch"
+    ],
+    "emerg": [
+      "Emergent",
+      "Emergenz",
+      "Emergenztheorie"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollparadox",
+      "Kontrollzentrum"
+    ],
+    "model": [
+      "Modell",
+      "Modellblindheit",
+      "Modellierung"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "poten": [
+      "Potentialität",
+      "Potentialmeer",
+      "Potenzial"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokollsuite"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychologische"
+    ],
+    "reali": [
+      "Realismus",
+      "Realität",
+      "Realitätsebene"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Struktureller"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriebrechung",
+      "Symmetrien"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorie",
+      "Theorien"
+    ],
+    "wider": [
+      "Widersetzt",
+      "Widersprüche",
+      "Widersprüchen"
+    ],
+    "agent": [
+      "Agenten",
+      "Agentenbasierte"
+    ],
+    "chaos": [
+      "Chaos",
+      "Chaostheorie"
+    ],
+    "domän": [
+      "Domäne",
+      "Domänen"
+    ],
+    "funda": [
+      "Fundamentale",
+      "Fundamente"
+    ],
+    "gesam": [
+      "Gesamtkohärenz",
+      "Gesamtkonzept"
+    ],
+    "gleic": [
+      "Gleichgültigkeit",
+      "Gleichzeitigkeit"
+    ],
+    "grupp": [
+      "Gruppen",
+      "Gruppentheorie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Bind",
+      "Verbindung"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Tell",
+      "Darstellung"
+    ],
+    [
+      "Tell",
+      "Intelligenz"
+    ],
+    [
+      "Tell",
+      "Intelligence"
+    ],
+    [
+      "Tell",
+      "Storytelling"
+    ],
+    [
+      "Zeit",
+      "Gleichzeitigkeit"
+    ],
+    [
+      "Ziel",
+      "Primärziel"
+    ],
+    [
+      "Ziel",
+      "Zielzustand"
+    ],
+    [
+      "Chaos",
+      "Chaostheorie"
+    ],
+    [
+      "Insel",
+      "Inseln"
+    ],
+    [
+      "Nicht",
+      "Nichts"
+    ],
+    [
+      "Thema",
+      "Thematik"
+    ],
+    [
+      "Domäne",
+      "Domänen"
+    ],
+    [
+      "Grenze",
+      "Grenzen"
+    ],
+    [
+      "Horror",
+      "Horrors"
+    ]
+  ]
+}

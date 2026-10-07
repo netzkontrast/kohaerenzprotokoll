@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           26
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systeme, Systemisch, Systemkohärenz, Systemregeln, Systemsteuerung, Systemtheorie
+  infor    Information, Informationell, Informationskodierung, Informationslöschung, Informationsontologie
+  simul    Simulation, Simulationen, Simulationsfundament, Simulationstheorie, Simulierte
+  grenz    Grenze, Grenzen, Grenzproblemen, Grenzziehung
+  selbs    Selbst, Selbsterhaltung, Selbsterzeugung, Selbstorganisation
+  analy    Analyse, Analyseversuche, Analytisch
+  emerg    Emergent, Emergenz, Emergenztheorie
+  kontr    Kontrolle, Kontrollparadox, Kontrollzentrum
+  model    Modell, Modellblindheit, Modellierung
+  parad    Paradox, Paradoxien, Paradoxon
+  poten    Potentialität, Potentialmeer, Potenzial
+  proto    Protokoll, Protokolle, Protokollsuite
+  psych    Psyche, Psychologie, Psychologische
+  reali    Realismus, Realität, Realitätsebene
+  struk    Struktur, Strukturelle, Struktureller
+  symme    Symmetrie, Symmetriebrechung, Symmetrien
+  theor    Theorem, Theorie, Theorien
+  wider    Widersetzt, Widersprüche, Widersprüchen
+  agent    Agenten, Agentenbasierte
+  chaos    Chaos, Chaostheorie
+  domän    Domäne, Domänen
+  funda    Fundamentale, Fundamente
+  gesam    Gesamtkohärenz, Gesamtkonzept
+  gleic    Gleichgültigkeit, Gleichzeitigkeit
+  grupp    Gruppen, Gruppentheorie
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charakter
+  Bind < Verbindung
+  Eine < Seine
+  Eine < Bausteine
+  Kael < Kaels
+  Sein < Seine
+  Tell < Darstellung
+  Tell < Intelligenz
+  Tell < Intelligence
+  Tell < Storytelling
+  Zeit < Gleichzeitigkeit
+  Ziel < Primärziel
+  Ziel < Zielzustand
+  Chaos < Chaostheorie
+  Insel < Inseln
+  Nicht < Nichts
+  Thema < Thematik
+  Domäne < Domänen
+  Grenze < Grenzen
+  Horror < Horrors
