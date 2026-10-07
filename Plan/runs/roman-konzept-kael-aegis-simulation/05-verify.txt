@@ -1,0 +1,122 @@
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "User Query"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`User Query` ^[roman-konzept-kael-aegis-simulation.md:#16]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[roman-konzept-kael-aegis-simulation.md:#1]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Zugriff am Mai 1, 2025"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            37
+
+`Zugriff am Mai 1, 2025` ^[roman-konzept-kael-aegis-simulation.md:#37]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Kael-Host"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Kael-Host` ^[roman-konzept-kael-aegis-simulation.md:#5]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Lex"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Lex` ^[roman-konzept-kael-aegis-simulation.md:#11]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Nyx"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Nyx` ^[roman-konzept-kael-aegis-simulation.md:#11]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Kiko"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Kiko` ^[roman-konzept-kael-aegis-simulation.md:#10]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "AEGIS"
+whole word, case-sensitive     113
+whole word, case-insensitive   113
+including compounds            121
+
+`AEGIS` ^[roman-konzept-kael-aegis-simulation.md:#113]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Entropie-Management"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            7
+
+`Entropie-Management` ^[roman-konzept-kael-aegis-simulation.md:#2]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Kernwelten"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`Kernwelten` ^[roman-konzept-kael-aegis-simulation.md:#11]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Risse"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            9
+
+`Risse` ^[roman-konzept-kael-aegis-simulation.md:#6]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Netz"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            10
+
+`Netz` ^[roman-konzept-kael-aegis-simulation.md:#6]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Fundament"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`Fundament` ^[roman-konzept-kael-aegis-simulation.md:#11]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Juna/V"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            13
+
+`Juna/V` ^[roman-konzept-kael-aegis-simulation.md:#11]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Simulanten"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Simulanten` ^[roman-konzept-kael-aegis-simulation.md:#9]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "funktionale Multiplizität"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`funktionale Multiplizität` ^[roman-konzept-kael-aegis-simulation.md:#4]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Simulationshypothese"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Simulationshypothese` ^[roman-konzept-kael-aegis-simulation.md:#4]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[roman-konzept-kael-aegis-simulation.md:#2]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "Wächter"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            12
+
+`Wächter` ^[roman-konzept-kael-aegis-simulation.md:#7]
+$ python3 scripts/read.py roman-konzept-kael-aegis-simulation --count "AEGIS-Überwelt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`AEGIS-Überwelt` ^[roman-konzept-kael-aegis-simulation.md:#3]
+
+stance_marker_count 16 = whole-word count of "User Query" above (the other two stance markers are quoted once each, uncounted).

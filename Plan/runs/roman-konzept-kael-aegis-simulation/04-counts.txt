@@ -1,0 +1,99 @@
+# counts for 52 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  System Kael                      27 word    27 in   [15, 21, 28, 42, 52, 54]
+  Kael                             68 word   111 in   [15, 21, 28, 30, 34, 36]
+                                   37      as Kaels
+                                    5      as Kael-Host
+                                    1      as Kael-Host-Alter
+  Kael-Host                         5 word     6 in   [21, 42, 54, 77, 113]
+                                    1      as Kael-Host-Alter
+  Lex                              11 word    11 in   [21, 49, 55, 66, 77, 89]
+  Nyx                              11 word    11 in   [21, 48, 54, 55, 66, 77]
+  Kiko                             10 word    11 in   [21, 54, 55, 66, 77, 91]
+                                    1      as Kiko-Alter
+  Alters                           27 word    28 in   [21, 28, 34, 42, 44, 49]
+  AEGIS                           113 word   121 in   [15, 21, 22, 29, 30, 34]
+                                    3      as AEGIS-Überwelt
+                                    1      as AEGIS-Wächter
+                                    1      as AEGIS-Konflikte
+                                    1      as AEGIS-Logik
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [22]
+  Gatekeeper                        2 word     2 in   [22, 263]
+  Guardians                         2 word     2 in   [22, 119]
+  Wächter                           7 word    12 in   [22, 48, 50, 60, 66, 106]
+                                    2      as Wächtern
+                                    1      as Wächters
+  Kernwelten                       11 word    12 in   [49, 50, 65, 66, 102, 106]
+                                    1      as Kernwelten-Geheimnisse
+  Kernwelt                          2 word    14 in   [49, 50, 65, 66, 102, 106]  <-- substring
+                                   11      as Kernwelten
+                                    1      as Kernwelten-Geheimnisse
+  Risse                             6 word     9 in   [50, 64, 106, 108, 115, 121]
+                                    3      as Rissen
+  Glitches                          2 word     2 in   [50, 203]
+  Netz                              6 word    10 in   [102, 107, 132, 140, 144, 146]
+                                    3      as Netzes
+                                    1      as Netzwerkstruktur
+  AEGIS-Überwelt                    3 word     3 in   [102, 140, 144]
+  Externe Ebene                     3 word     3 in   [125, 185]
+  Fundament                        11 word    12 in   [17, 128, 140, 146, 187, 195]
+                                    3      as fundamentalen
+                                    2      as fundamentaler
+                                    2      as fundamentale
+                                    1      as fundamentalere
+  Juna/V                           11 word    13 in   [64, 108, 125, 154, 178, 185]
+                                    1      as Juna/V-Mysterium
+                                    1      as Juna/V-Auflösung
+  Juna                             13 word    13 in   [64, 108, 125, 154, 178, 185]
+  Simulanten                        9 word     9 in   [108, 125, 132, 154, 185, 191]
+  Weltgrenzen                       1 word     1 in   [108]
+  Zeitverluste                      2 word     2 in   [21, 42]
+  funktionale Multiplizität         4 word     4 in   [21, 169, 195, 260]
+  Funktionalen Multiplizität        1 word     1 in   [113]
+  Amnesiebarrieren                  3 word     3 in   [49, 79, 113]
+  Ko-Bewusstsein                    1 word     1 in   [77]
+  Switch                            1 word     1 in   [48]
+  Entropie-Management               2 word     7 in   [29, 107, 132, 175, 197, 211]  <-- substring
+                                    5      as Entropie-Managements
+  Entropie-Verwaltung               1 word     1 in   [15]
+  Entropie                         14 word    25 in   [15, 22, 29, 30, 34, 107]
+                                    5      as Entropie-Managements
+                                    2      as Entropie-Management
+                                    1      as Entropie-Verwaltung
+                                    1      as Entropiekonzepte
+  Depersonalisation                 4 word     5 in   [21, 28, 42, 70, 243]
+                                    1      as Depersonalisations-
+  Derealisation                     4 word     6 in   [21, 28, 42, 60, 70, 233]
+                                    1      as Derealisationserleben
+                                    1      as Derealisationsgefühlen
+  Trauma-Trigger                    3 word     3 in   [91, 145, 243]
+  Frühwarnsystem                    1 word     1 in   [91]
+  Simulation                       47 word    60 in   [22, 29, 30, 65, 100, 108]
+                                    4      as Simulationshypothese
+                                    3      as simulation-argument
+                                    2      as Simulationsebene
+                                    2      as Simulationscodes
+  Dissoziativen Identitätsstörung    1 word     1 in   [15]
+  Anderer Spezifizierter Dissoziativer Störungen    1 word     1 in   [15]
+  DIS                               6 word     6 in   [28, 72, 74, 76, 169, 276]
+  ASDS                              4 word     7 in   [28, 72, 74, 76, 77, 169]
+                                    1      as ASDS-Konzepte
+                                    1      as ASDS-1a
+                                    1      as ASDS-1b
+  OSDD                              3 word     6 in   [74, 76, 77, 305, 319]
+                                    2      as osdd_udd
+                                    1      as OSDD-1a
+                                    1      as OSDD-1b
+                                    1      as OSDD-1
+  ASDS-1a                           1 word     1 in   [76]
+  ASDS-1b                           1 word     1 in   [77]
+  OSDD-1a                           1 word     1 in   [76]
+  OSDD-1b                           1 word     1 in   [77]
+  Simulationshypothese              4 word     4 in   [29, 108, 195, 274]
+  Bostroms Trilemma                 1 word     1 in   [233]
+  Ahnen-Simulationen                1 word     1 in   [108]
+  Maximum Entropy                   1 word     1 in   [119]
+  algorithmischen Entropie          1 word     1 in   [119]

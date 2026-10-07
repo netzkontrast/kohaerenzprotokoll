@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      80
+  backslash escapes      68
+  typographic marks      20
+  ascii quotes           56
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systeme, Systeminstabilitäten, Systemintegrität, Systemkollaps, Systemlogik, Systemregeln, Systems, Systemstabilität, Systemverständnis
+  kontr    Kontrollanspruch, Kontrolle, Kontrollinstanz, Kontrollmechanismen, Kontrollmechanismus, Kontrollmethoden, Kontrollsystem, Kontrollverlust, Kontrollverlusts, Kontrollversuche
+  integ    Integration, Integrationskampf, Integrationsprozess, Integrationsstatus, Integrationsverlauf, Integrator, Integriert, Integrity, Integrität
+  ident    Identifizierung, Identit, Identität, Identitätsanteile, Identitätsdiffusion, Identitätsstruktur, Identitätsstörung, Identitätszuständen
+  reali    Reality, Realität, Realitäten, Realitätsebene, Realitätsebenen, Realitätsstörungen, Realitätsverwaltung, Realitätswahrnehmung
+  simul    Simulanten, Simulation, Simulationen, Simulationscodes, Simulationsebene, Simulationshypothese, Simulationsmechanik, Simulationsstruktur
+  erken    Erkennt, Erkenntnis, Erkenntnisgewinn, Erkenntnisse, Erkenntnissen, Erkennung
+  inter    Interaktion, Interaktionen, Interne, Internes, Intervention, Interventionen
+  konze    Konzept, Konzeptdokument, Konzepte, Konzepten, Konzeption, Konzeptionelle
+  disso    Dissociative, Dissoziation, Dissoziative, Dissoziativen, Dissoziativer
+  durch    Durch, Durchbluten, Durchbruch, Durchdringen, Durchlässigkeit
+  funkt    Funktion, Funktional, Funktionale, Funktionalen, Funktionsweise
+  infor    Information, Informationen, Informationsaustausch, Informationsbeschaffung, Informationstheorie
+  kampf    Kampf, Kampfes, Kampffunktionen, Kampffähigkeiten, Kampftrauma
+  philo    Philosophie, Philosophische, Philosophischen, Philosophischer, Philosophy
+  psych    Psychische, Psychologische, Psychologischem, Psychologischen, Psychologischer
+  selbs    Selbstbestimmung, Selbsterkenntnis, Selbstfindung, Selbstwahrnehmung, Selbstwertgefühl
+  ander    Andere, Anderen, Anderer, Anderes
+  entro    Entropic, Entropie, Entropiekonzepte, Entropy
+  entwi    Entwickelt, Entwicklung, Entwicklungen, Entwicklungsbögen
+  gleic    Gleichgewicht, Gleichgewichts, Gleichgültigkeit, Gleichzeitig
+  heilu    Heilung, Heilungs, Heilungsprozess, Heilungsreise
+  konfl    Konflikt, Konflikte, Konflikten, Konflikts
+  kosmi    Kosmische, Kosmischem, Kosmischen, Kosmischer
+  narra    Narrativ, Narrative, Narrativer, Narratives
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Auftauchen
+  Code < Ursprungscode
+  Code < Codefragmenten
+  Code < Simulationscodes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  EINE < Eine
+  EINE < Seine
+  Eine < Seine
+  Ende < Agenden
+  Ende < Wendepunkt
+  Ende < Zunehmende
+  Ende < Auslösendes
+  Ende < Wendepunkte
+  Ende < Transzendenz
+  Ende < Überlebenden
+  Form < Formen
+  Form < Formbarkeit
+  Form < Information
