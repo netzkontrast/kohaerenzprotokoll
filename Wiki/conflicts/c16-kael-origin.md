@@ -345,3 +345,11 @@ Where it stands in the record's own terms: Kael from M (L128) and the original f
 It writes that his integration actualises „die integrative Seinsweise der Kohärenz-Insel“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L54]. Elsewhere it hedges the same origin: his deepest layers are „die möglicherweise mit seiner Herkunft von der Kohärenz-Insel verbunden sind“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129].
 
 Where it stands in the record's own terms: an origin in the `Kohärenz-Insel`, hedged with `möglicherweise` and proposed to the author; it tells neither of the two origins the record holds, and the question stays open.
+
+## 2026-10-07 — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis
+
+**The concept synthesis summarises Kael as an M-avatar embodying the Kohärenz-Insel, and his DID as a consequence of AEGIS's analytic trauma.**
+
+„Kael als M-Avatar/Essenz“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L36] — he „verkörpert oder ist direkt verbunden mit der M-inspirierten Struktur“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L36]. His DID „ist keine inhärente Eigenschaft“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37] but „direkte Folge“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37] of „dem Versuch, seine irreduzible Kernstruktur gewaltsam zu zerlegen“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37]. The `Quellen:` list on L37 names other documents.
+
+It stands with the first reading of C16, Kael from outside AEGIS with his dissociation AEGIS's doing; recorded, not applied.
