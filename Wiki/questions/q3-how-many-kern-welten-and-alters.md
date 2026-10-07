@@ -892,3 +892,11 @@ Stands as one more count, four and six, from a report that sets them as canonica
 Under „Apparently Normal Parts (ANPs):“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L112] it names Lex, `Isabella` and Alex; under „Emotional Parts (EPs):“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L113] Nyx, Kiko and Lia. Oblivion is „ein katatonischer Teil“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L217] holding the worst memories in enforced silence. It counts no alters and no Kern-Welten; this is its report of the Protokoll (reference 1).
 
 Stands as a row for the alters side of the question, a list of six plus one part; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report
+
+**The reduction report notes that the drafts differ on the number of alters, proposes a reduction, tables six entities and walks four Kernwelten.**
+
+„In den Dokumenten finden sich verschiedene Entwürfe zur Anzahl und Rolle der Anteile“ ^[roman-konzept-reduktion-und-kernfindung.md:L70], it writes, and proposes „eine Reduktion auf die funktionalsten Entitäten für den Plot entscheidend ist“ ^[roman-konzept-reduktion-und-kernfindung.md:L70]. Its table keeps „Kael (Host)“ ^[roman-konzept-reduktion-und-kernfindung.md:L79], „Lex (Analyst)“ ^[roman-konzept-reduktion-und-kernfindung.md:L80], „Nyx (Protector)“ ^[roman-konzept-reduktion-und-kernfindung.md:L81], „Kiko (Exile)“ ^[roman-konzept-reduktion-und-kernfindung.md:L82], „Limina (Gatekeeper)“ ^[roman-konzept-reduktion-und-kernfindung.md:L83] and „Juna (The Other)“ ^[roman-konzept-reduktion-und-kernfindung.md:L84]. Its somatic rulebook names four Kernwelten, from Logos-Prime to Kairos-Potentialis: „Mnemosyne-Archipel“ ^[roman-konzept-reduktion-und-kernfindung.md:L90] is the second.
+
+Where it stands in the record's own terms: a proposal of six named alters and four Kernwelten from a report that advises the author; recorded, the question stays open.
