@@ -691,3 +691,13 @@ KW1 is the first world: Kael wakes „gefolgt von Kaels Erwachen in der sterilen
 One Guardian is named, in chapter 15: „Konfrontation mit Guardian Mnemosyne in“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L90] KW2. In chapter 33 Kael uses his new ability „als Waffe gegen einen Guardian“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L130], unnamed and without a world.
 
 Where it stands in the record's own terms: Mnemosyne placed in KW2 by one chapter line, a second Guardian unnamed; the other Guardians and pairings are not in this outline, and the record is untouched.
+
+## 2026-10-07 — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision
+
+**The subplot revision plans the Wächter's domains to be the Kernwelten and spreads named keepers over KW1, KW2 and KW3, then puts the Guardians in the Überwelt; a proposal, not canon.**
+
+Its analysis says of the Wächter subplot: „Ihre Domänen (Kernwelten) strukturieren die Erkundung“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L22]. The chapter lines then place the figures. In Kap 2 (KW1) comes „Konfrontation mit LogOS' Starrheit“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L36]. In Kap 3 the line plans „Andeutung von Cerberus (KW3)“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L37], and in Kap 9 it has Kael explore KW3 with „Abwehr/Angst) & Cerberus“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L43]. In Kap 5 and Kap 6 (KW2) come „Konfrontation mit Mnemosyne“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L39] and „Mnemosyne manipuliert Erinnerungen“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L40]. In Part 2, Kap 15, the line plans „Guardians in Überwelt“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L54].
+
+The document does not write a figure-to-world mapping as a statement; it arises from the chapter lines, and the Guardians' place in the Überwelt stands beside it without being tied to the Kernwelten.
+
+Where it stands: a plan that gives the Wächter the Kernwelten as domains and the Guardians the Überwelt, with no choice between the two in the document; recorded, not applied.
