@@ -617,3 +617,11 @@ Stands with the four-pair position, Kairos and Sophia sharing one world; recorde
 The headings read „LogOS (Konstrukt-Stadt“ ^[kohaerenz-analyse-kapitel-2.md:L65] (L65), „Mnemosyne (Resonanz-Landschaft“ ^[kohaerenz-analyse-kapitel-2.md:L72] (L72), „Cerberus (Grenzfeste“ ^[kohaerenz-analyse-kapitel-2.md:L79] (L79) and „Kairos & Sophia (Möglichkeits-Garten / Überwelt“ ^[kohaerenz-analyse-kapitel-2.md:L85] (L85), with KW1 to KW4 after the slashes. Two Guardians thus stand under KW4, in one heading.
 
 This adds a row to the question and decides nothing in it.
+
+## 2026-10-07 — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis
+
+**The philosophical synthesis pairs each Kernwelt with a Guardian and gives the fourth, Möglichkeits-Garten, a cell of two names.**
+
+Its matrix reads Mnemosyne in `KW2`, Cerberus in `KW3`, LogOS in `KW1` and „Kairos/Sophia“ ^[roman-konzept-und-philosophische-fragen.md:L196] in `KW4`. It states the pairing's purpose: „die logischen Grenzen ihres jeweiligen Wächter-Systems und von AEGIS selbst aufzeigt“ ^[roman-konzept-und-philosophische-fragen.md:L188].
+
+Stands as an answer in the form of a table, dated 2025-07-29; recorded, not applied, the question stays open.
