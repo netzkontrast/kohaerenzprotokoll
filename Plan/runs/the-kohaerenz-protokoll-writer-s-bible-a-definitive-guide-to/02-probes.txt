@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      120
+  typographic marks      22
+  ascii quotes           132
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coheron, Coherons
+  corre    Correction, Corrective, Correspondence
+  duali    Dualism, Dualities, Duality
+  integ    Integrated, Integration, Integrator
+  prote    Protection, Protector, Protects
+  proto    Protocol, Protocols, Protokoll
+  world    World, Worlds, Worldview
+  aegis    AEGIS, Aegis
+  alter    Alter, Alters
+  antei    Anteil, Anteile
+  archi    Architecture, Architectures
+  conce    Conceived, Concept
+  confl    Conflict, Conflicts
+  criti    Criticism, Criticizes
+  defin    Definition, Definitive
+  disso    Dissociation, Dissolution
+  domai    Domain, Domains
+  entro    Entropic, Entropy
+  exter    External, Externe
+  fragm    Fragmentation, Fragmenten
+  inter    Interaction, Internal
+  mecha    Mechanics, Mechanism
+  origi    Origin, Original
+  poten    Potentiality, Potentialmeer
+  prima    Primal, Primary
+
+# substring pairs -- never one term, often merged by accident
+  Care < Caretaker
+  Dual < Dualism
+  Dual < Duality
+  Dual < Dualities
+  Goal < Goals
+  Part < Parts
+  Rift < Rifts
+  Riss < Risse
+  Term < Determinism
+  AEGIS < Aegis
+  Alter < Alters
+  Logic < Psychological
+  Order < Disorder
+  Point < Midpoint
+  These < Theseus
+  World < Worlds
+  World < Overworld
+  World < Worldview
+  Action < Interaction
+  Anteil < Anteile

@@ -1,0 +1,309 @@
+{
+  "document": "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
+  "drive_id": "1CVevYx7KWtTMxq9QrWBegzrKQVkjUwK3BGzKzfPu2WQ",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 102,
+    "decisions": 104,
+    "decided_by_lookup": 79,
+    "needs_judgement": 25
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        145,
+        146,
+        147,
+        148,
+        174,
+        197,
+        204
+      ],
+      "attribution": "",
+      "note": "AEGIS as an autopoietic system with a traumatic origin and an entropy-gatekeeper function"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        88,
+        161
+      ],
+      "attribution": "",
+      "note": "Alex as ANP Protector shaping the bunker-world"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        84,
+        154
+      ],
+      "attribution": "",
+      "note": "alters as the inhabitants of the Core Worlds, in a table of eleven"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Argus as ANP/EP mix, the metacognitive critic"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        36,
+        60
+      ],
+      "attribution": "",
+      "note": "the Coheron as the building block of Protocols"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "DKT as the in-world ground of the central duality"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        97,
+        99
+      ],
+      "attribution": "",
+      "note": "the External Level as a transcendent source of the Juna/V connection"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        147,
+        197
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as AEGIS's foundational epistemological trauma"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        166
+      ],
+      "attribution": "",
+      "note": "Isabelle as EP (Sexualized)"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        93,
+        141,
+        173,
+        174,
+        175
+      ],
+      "attribution": "",
+      "note": "Juna/V as transcendent catalyst and exiled part of Kael"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        84,
+        131,
+        141,
+        152,
+        159,
+        197,
+        204
+      ],
+      "attribution": "",
+      "note": "Kael as System Kael, a TSDP-modelled host and the externalized memory of AEGIS's trauma"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        84,
+        86,
+        88,
+        89
+      ],
+      "attribution": "",
+      "note": "four Core Worlds as psychological architectures"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        164,
+        196
+      ],
+      "attribution": "",
+      "note": "Kiko as EP (Child), intuition for danger"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        86,
+        120,
+        160,
+        191
+      ],
+      "attribution": "",
+      "note": "Lex as ANP Rationalist, resident of KW1, opposed to Nyx and Rhys"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        89,
+        165
+      ],
+      "attribution": "",
+      "note": "Lia as EP (Child) with ambivalent attachment, named with KW4"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        174
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a non-local sub-protocol AEGIS cannot see"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        167
+      ],
+      "attribution": "",
+      "note": "Moros as EP (Collapse)"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        100
+      ],
+      "attribution": "",
+      "note": "Nichts Rauschen as the second name of the Sea of Potentiality"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        88,
+        163,
+        196
+      ],
+      "attribution": "",
+      "note": "Nyx as EP (Fight) who is also named a KW3 protector"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        100,
+        146
+      ],
+      "attribution": "",
+      "note": "the Sea of Potentiality as primordial high-entropy state and AEGIS's origin"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        122,
+        162
+      ],
+      "attribution": "",
+      "note": "Rhys as ANP Caretaker, harmony and acceptance"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        93,
+        195
+      ],
+      "attribution": "",
+      "note": "the Risse as correspondence errors in AEGIS's simulated reality"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        89,
+        168
+      ],
+      "attribution": "",
+      "note": "Selene as a questioned ANP Integrator"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        147
+      ],
+      "attribution": "",
+      "note": "the Trennungsprotokoll as AEGIS's act of logical self-harm"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        152,
+        158
+      ],
+      "attribution": "",
+      "note": "TSDP as the model of Kael's fragmentation"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's control layer and laboratory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 93,
+      "decision": "reading",
+      "why": "the Juna/V connection breaking through in the Risse, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

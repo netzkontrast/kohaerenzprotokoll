@@ -857,3 +857,5 @@
 {"document": "ki-roman-architektur-kritische-analyse-methoden", "page": "personas", "surface": "Persona", "line": 115, "decision": "occurrence", "why": "a prompt parameter, not the Personas", "at": "2026-10-07"}
 {"document": "ki-roman-architektur-kritische-analyse-methoden", "page": "risse", "surface": "Risse", "line": 48, "decision": "reading", "why": "narrative Risse, read on risse", "at": "2026-10-07"}
 {"document": "ki-roman-architektur-kritische-analyse-methoden", "page": "ueberwelt", "surface": "Simulation", "line": 21, "decision": "occurrence", "why": "the handbook's general word", "at": "2026-10-07"}
+{"document": "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "page": "juna", "surface": "Juna", "line": 93, "decision": "reading", "why": "the Juna/V connection breaking through in the Risse, read on juna", "at": "2026-10-07"}
+{"document": "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the Protokoll's name in the title", "at": "2026-10-07"}
