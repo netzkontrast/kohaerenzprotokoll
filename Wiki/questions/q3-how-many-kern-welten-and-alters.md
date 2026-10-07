@@ -884,3 +884,11 @@ Stands as a document that gives eight alters in a table and four Kernwelten; it 
 Its Core World table names Logos-Prime (classical logic, „Order, Control, Analysis (ANPs like Lex)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L101]), Mnemosyne-Archipel (paraconsistent, „Emotion, Memory, Trauma (EPs like Nyx, Kiko)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L102]), Cerberus-Labyrinth (relevance logic) and Kairos-Potentialis (dialetheic) on L101–L104. Its alter table, „Alter Name (Canonical)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L193], has six rows on L194–L199: Kael, Lex, Nyx, Kiko, Rhys, Selene, and the report says it „consolidates the names and profiles from the various source documents“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L189].
 
 Stands as one more count, four and six, from a report that sets them as canonical; it does not decide the record.
+
+## 2026-10-07 — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis
+
+**The Dual-Kernel analysis names six parts by name, three ANPs and three EPs, and Oblivion as a seventh, catatonic part; it gives no total.**
+
+Under „Apparently Normal Parts (ANPs):“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L112] it names Lex, `Isabella` and Alex; under „Emotional Parts (EPs):“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L113] Nyx, Kiko and Lia. Oblivion is „ein katatonischer Teil“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L217] holding the worst memories in enforced silence. It counts no alters and no Kern-Welten; this is its report of the Protokoll (reference 1).
+
+Stands as a row for the alters side of the question, a list of six plus one part; recorded, not applied, and the question stays open.
