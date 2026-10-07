@@ -1,0 +1,308 @@
+{
+  "document": "analyse-des-romanprojekts-kohaerenz-protokoll",
+  "drive_id": "1nIxzkiVrL_eLcpof20hMzWf6ZqBL0bOCl5ucJQL3jGE",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-213/brief.md; no chapter page — the essay's Kapitel are its own sections",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 84,
+    "decisions": 98,
+    "decided_by_lookup": 61,
+    "needs_judgement": 37
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German analytic essay that reads the project through physics, philosophy and clinical psychology from nine reference texts: its new surfaces are its own section titles, the conditioning vocabulary (Skinner boxes, thought reform after Lifton and Hassan), borrowed theories and the anti-fragility argument; what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        44,
+        48,
+        58,
+        62,
+        64,
+        75,
+        99,
+        107,
+        111
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic antagonist of logic and control, formed by the Genesis-Krise"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        176
+      ],
+      "attribution": "",
+      "note": "Alex as the protecting ANP"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        184
+      ],
+      "attribution": "",
+      "note": "Argus as a mix of ANP and EP"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel-Theorie as the frame of the primal duality"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        36
+      ],
+      "attribution": "",
+      "note": "Emergenz as the last step of a cycle of intrusion and correction"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        64,
+        75
+      ],
+      "attribution": "",
+      "note": "Entropie with a double meaning, physical and epistemological"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        44,
+        48
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as an ontological wound and a trauma at the origin"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        181
+      ],
+      "attribution": "",
+      "note": "Isabelle as the sexualised EP"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        139,
+        141,
+        151,
+        163,
+        174,
+        215,
+        228
+      ],
+      "attribution": "",
+      "note": "Kael as the host ANP of a system of parts"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        107,
+        109
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as conditioning environments, each aimed at one part"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        76,
+        123,
+        179
+      ],
+      "attribution": "",
+      "note": "Kiko as the child EP of flight and freeze, his Kernwelt an assumption"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kernel as the domain of reversible computation"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        30,
+        56,
+        58,
+        75,
+        78,
+        97,
+        216
+      ],
+      "attribution": "",
+      "note": "Kohärenz as one side of the primal duality and as the coherence theory of truth"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        30,
+        46
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel as the domain of irreversible computation, matched to the Void"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        76,
+        113,
+        120,
+        167,
+        175
+      ],
+      "attribution": "",
+      "note": "Lex as the logic part, target of the first Kernwelt"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        180
+      ],
+      "attribution": "",
+      "note": "Lia as the child EP of ambivalent attachment"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        165,
+        182
+      ],
+      "attribution": "",
+      "note": "Moros as the collapsing EP"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        77
+      ],
+      "attribution": "",
+      "note": "multiplicity as one pole of the identity duality"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        76,
+        113,
+        121,
+        165,
+        178
+      ],
+      "attribution": "",
+      "note": "Nyx as the fighting EP, target of the third Kernwelt"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        78,
+        122,
+        164,
+        167,
+        177
+      ],
+      "attribution": "",
+      "note": "Rhys as the connecting ANP, his Kernwelt an assumption"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        60,
+        215
+      ],
+      "attribution": "",
+      "note": "the Risse as physical manifestations of the isolation objection"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        183,
+        228
+      ],
+      "attribution": "",
+      "note": "Selene typed with a question mark, hedged as the Jungian centre"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        135,
+        139,
+        141
+      ],
+      "attribution": "",
+      "note": "the TSDP as the rule set of System Kael"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        58,
+        215
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the domain operating on the coherence theory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J49 (Logos-Prime and Cerberus-Labyrinth, KW1's and KW3's names, read on kern-welten), J12 and J48 (Genesis-Krise on genesis, Dual-Kernel-Theorie on dkt; Coherons and Coheron-Netzwerke in the physics frame); Genesis at L238 is a reference title",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 36,
+      "decision": "reading",
+      "why": "the cycle ending in emergence, read on emergenz"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 238,
+      "decision": "occurrence",
+      "why": "a reference title; the Genesis-Krise read on genesis from L44"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 77,
+      "decision": "reading",
+      "why": "decided by the reader on multiplizitaet"
+    }
+  ],
+  "not_promoted": [
+    "the essay's own Kapitel 1–11",
+    "the reference texts",
+    "the conditioning vocabulary — on aegis and kern-welten",
+    "the borrowed theories",
+    "the anti-fragility argument"
+  ],
+  "internal_tension": "„mindestens vier ANPs und fünf klaren EPs“ (L141) against a table of eleven with five ANPs, five EPs and Argus as a mix (L174–L184); two Kernwelten marked `Annahme` (L122, L123); the census lists `Kohärenz-Protokoll` with a hyphen, which the document writes with a space — a zero by the reader's spelling, recorded in the census",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

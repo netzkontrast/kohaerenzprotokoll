@@ -268,10 +268,12 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 180,
-      "readings": 180,
+      "sources": 182,
+      "readings": 182,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -369,10 +371,12 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 91,
+      "readings": 91,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -704,10 +708,11 @@
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 77,
-      "readings": 77,
+      "sources": 78,
+      "readings": 78,
       "conflict": "none"
     },
     "ars": {
@@ -797,10 +802,11 @@
         "kohaerenz-protokoll-narrativer-bauplan",
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kohaerenz-analyse-kapitel-2",
-        "narrativ"
+        "narrativ",
+        "charaktermodellierung-mit-aieos-schema"
       ],
-      "sources": 14,
-      "readings": 14,
+      "sources": 15,
+      "readings": 15,
       "conflict": "none"
     },
     "cerberus": {
@@ -934,10 +940,11 @@
         "romanprojekt-kohaerenz-protokoll-analyse",
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
         "romanprojekt-analyse-synthese",
-        "kohaerenz-protokoll-architecture-synthesis"
+        "kohaerenz-protokoll-architecture-synthesis",
+        "charaktermodellierung-mit-aieos-schema"
       ],
-      "sources": 18,
-      "readings": 17,
+      "sources": 19,
+      "readings": 18,
       "conflict": "none yet"
     },
     "coheron": {
@@ -1136,10 +1143,12 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
-        "the-coherence-protocol-a-worldbuilding-bible"
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 58,
-      "readings": 58,
+      "sources": 60,
+      "readings": 60,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -1229,10 +1238,11 @@
         "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
         "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 52,
-      "readings": 52,
+      "sources": 53,
+      "readings": 53,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1394,10 +1404,12 @@
         "romanplot-kohaerenz-protokoll-entwickeln",
         "romanentwurf-kohaerenz-protokoll-teil-1",
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
-        "ki-roman-architektur-kritische-analyse-methoden"
+        "ki-roman-architektur-kritische-analyse-methoden",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 111,
-      "readings": 111,
+      "sources": 113,
+      "readings": 113,
       "conflict": "C2"
     },
     "erason": {
@@ -1506,10 +1518,11 @@
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "the-coherence-protocol-a-worldbuilding-bible"
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "charaktermodellierung-mit-aieos-schema"
       ],
-      "sources": 54,
-      "readings": 54,
+      "sources": 55,
+      "readings": 55,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1679,10 +1692,11 @@
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 88,
-      "readings": 88,
+      "sources": 89,
+      "readings": 89,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -2100,10 +2114,12 @@
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 69,
-      "readings": 69,
+      "sources": 71,
+      "readings": 71,
       "conflict": "C15"
     },
     "juna": {
@@ -2284,10 +2300,11 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema"
       ],
-      "sources": 171,
-      "readings": 171,
+      "sources": 172,
+      "readings": 172,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2538,10 +2555,12 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 183,
-      "readings": 184,
+      "sources": 185,
+      "readings": 186,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2818,10 +2837,11 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 140,
-      "readings": 139,
+      "sources": 141,
+      "readings": 140,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2949,10 +2969,12 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 119,
-      "readings": 120,
+      "sources": 121,
+      "readings": 122,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -3037,10 +3059,12 @@
         "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
         "roman-konzept-reduktion-und-kernfindung",
         "master-konzept-kohaerenz-protokoll-analyse",
-        "ki-roman-architektur-kritische-analyse-methoden"
+        "ki-roman-architektur-kritische-analyse-methoden",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 42,
+      "readings": 42,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -3110,10 +3134,11 @@
         "aegis",
         "kohaerenz-protokoll-narrative-architektur",
         "romanplot-kohaerenz-protokoll-entwickeln",
-        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll"
+        "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 48,
-      "readings": 48,
+      "sources": 49,
+      "readings": 49,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -3159,10 +3184,12 @@
         "kohaerenz-protokoll-master-integration-md",
         "kohaerenz-protokoll-architecture-synthesis",
         "roman-konzept-reduktion-und-kernfindung",
-        "ki-roman-architektur-kritische-analyse-methoden"
+        "ki-roman-architektur-kritische-analyse-methoden",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 37,
-      "readings": 37,
+      "sources": 39,
+      "readings": 39,
       "conflict": "none"
     },
     "komponente-734": {
@@ -3337,10 +3364,11 @@
         "romanplot-kohaerenz-protokoll-entwickeln",
         "romanentwurf-kohaerenz-protokoll-teil-1",
         "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
-        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots"
+        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
+        "charaktermodellierung-mit-aieos-schema"
       ],
-      "sources": 95,
-      "readings": 95,
+      "sources": 96,
+      "readings": 96,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -3521,10 +3549,12 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 122,
-      "readings": 123,
+      "sources": 124,
+      "readings": 125,
       "conflict": "none"
     },
     "lia": {
@@ -3619,10 +3649,12 @@
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 86,
-      "readings": 86,
+      "sources": 88,
+      "readings": 88,
       "conflict": "C15"
     },
     "logos": {
@@ -3878,10 +3910,11 @@
         "romanplot-kohaerenz-protokoll-entwickeln",
         "romanentwurf-kohaerenz-protokoll-teil-1",
         "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
-        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots"
+        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
+        "charaktermodellierung-mit-aieos-schema"
       ],
-      "sources": 115,
-      "readings": 115,
+      "sources": 116,
+      "readings": 116,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -4163,10 +4196,12 @@
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 90,
-      "readings": 90,
+      "sources": 92,
+      "readings": 92,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -4334,10 +4369,12 @@
         "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
         "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
         "ki-roman-architektur-kritische-analyse-methoden",
-        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots"
+        "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 117,
-      "readings": 117,
+      "sources": 119,
+      "readings": 119,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -4507,10 +4544,11 @@
         "ki-roman-architektur-kritische-analyse-methoden",
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema"
       ],
-      "sources": 92,
-      "readings": 92,
+      "sources": 93,
+      "readings": 93,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -4653,10 +4691,12 @@
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 121,
-      "readings": 122,
+      "sources": 123,
+      "readings": 124,
       "conflict": "C10"
     },
     "oblivion": {
@@ -5165,10 +5205,12 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 91,
+      "readings": 91,
       "conflict": "none"
     },
     "risse": {
@@ -5323,10 +5365,11 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 144,
-      "readings": 144,
+      "sources": 145,
+      "readings": 145,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -5485,10 +5528,12 @@
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 101,
-      "readings": 101,
+      "sources": 103,
+      "readings": 103,
       "conflict": "none"
     },
     "silas": {
@@ -5983,10 +6028,12 @@
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
         "the-coherence-protocol-a-worldbuilding-bible",
-        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m"
+        "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 117,
-      "readings": 117,
+      "sources": 119,
+      "readings": 119,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -6101,10 +6148,12 @@
         "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "briefing-document-the-kohaerenz-protokoll-narrative-framewor",
-        "the-coherence-protocol-a-worldbuilding-bible"
+        "the-coherence-protocol-a-worldbuilding-bible",
+        "charaktermodellierung-mit-aieos-schema",
+        "analyse-des-romanprojekts-kohaerenz-protokoll"
       ],
-      "sources": 91,
-      "readings": 91,
+      "sources": 93,
+      "readings": 93,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
