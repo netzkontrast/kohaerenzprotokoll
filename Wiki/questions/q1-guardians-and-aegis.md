@@ -416,3 +416,11 @@ Stands on the side of components, with an indirect channel to AEGIS; recorded, n
 The Guardians are „Nicht-anthropomorphe, funktionsbasierte Konstrukte in der Überwelt, die dem AEGIS-Protokoll unterstehen“ ^[kohaerenz-protokoll-2.md:L66]; they „unterstützen AEGIS im Entropie-Management“ ^[kohaerenz-protokoll-2.md:L66]. The logline has them „einem rigiden, entropie-regulierenden Kernprotokoll (AEGIS) unterstehen“ ^[kohaerenz-protokoll-2.md:L17]. AEGIS itself is „Der nicht-anthropomorphe, nicht adressierbare Kern der Überwelt“ ^[kohaerenz-protokoll-2.md:L67].
 
 Stands as a statement of subordination (unterstehen) with support in entropy management; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report reads the Guardians as subroutines of AEGIS that were split off.**
+
+It writes: „spezialisierte Subroutinen von AEGIS, die abgespalten wurden“ ^[kohaerenz-analyse-kapitel-2.md:L63] (L63), set apart to manage specific aspects of reality. It also says they are „keine eigenständigen KI-Persönlichkeiten“ ^[kohaerenz-analyse-kapitel-2.md:L63].
+
+This is the report's summary of the `Guardians und Kern-Welten-Konzept` document; it adds a row to the question and decides nothing in it.
