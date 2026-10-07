@@ -420,3 +420,11 @@ Stands as a statement that the connection's effects are system-wide and misread;
 It writes: „Ihr Einfluss wirkt nicht durch AEGIS-Protokolle, sondern mittels“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L97] Resonanz, a form that bypasses AEGIS's formal systems. Of AEGIS: „AEGIS nimmt Resonanz als Rauschen, Fehler oder Eindringen wahr“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L101]. It draws no boundary of what the connection can carry, who else feels it, or whether it is exclusive to Kael and Juna.
 
 Stands as a neighbouring description of the edge the question asks about, not an answer to it; recorded, not applied.
+
+## 2026-10-07 — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis
+
+**The protocol analysis names the link as the Ursprungs-Ich's resonance, which AEGIS detects by bus snooping and cannot control.**
+
+„Diese Verbindung wird im Roman als“ ^[analyse-des-kohaerenz-protokolls.md:L176] `Moonshine-Link` named. In the cache reading the system „detektierte die Abweichung (die Resonanz/den Moonshine-Link).“ ^[analyse-des-kohaerenz-protokolls.md:L203] Relaying its sources (the words `Die Dokumente deuten darauf hin`), the report says the link „operiert auf einer Ebene, die AEGIS nicht kontrollieren kann“ ^[analyse-des-kohaerenz-protokolls.md:L267].
+
+The boundary is drawn toward AEGIS only; the report does not say who in Kael's system can feel the link. Stands as a boundary toward AEGIS, detection and no control; recorded, the question stays open.
