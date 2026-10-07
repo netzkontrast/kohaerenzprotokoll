@@ -262,3 +262,11 @@ Stands as a hedged side that uses the Externe Ebene as the site of Juna's act; r
 It writes „Eine hypothetische Ebene oder ein Zustand“ ^[welten.md:L118] lying outside AEGIS's direct control and perception, a „Potenzieller Ursprung oder Aufenthaltsort von Julia“ ^[welten.md:L118], and adds „Ihre Natur bleibt (vorerst) mysteriös“ ^[welten.md:L118]. The conclusion lists it with Julia as „der transzendenten Verbindung (Externe Ebene/Julia)“ ^[welten.md:L127]. It places the level relative to AEGIS's control, and it does not say whether it lies inside or outside the simulation.
 
 Stands outside both rows of the record's table: it neither places the level beyond the simulation nor denies that it is outside it, and the record's rows are not changed.
+
+## 2026-10-07 — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list
+
+**The list gives the Externe Ebene as the unknown outside AEGIS and a source of connection and hope; it does not say whether it lies beyond the simulation.**
+
+The item `Die Externe Ebene (Juna/V)` has the reason „Das Unbekannte außerhalb von AEGIS; Quelle der Verbindung/Hoffnung.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L74]. Among the reasons for the Risse the list names „Grenzen der Simulation.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L75], but it does not connect that to the Externe Ebene.
+
+Stands outside both rows of the record's table: it places the level outside AEGIS, not outside the simulation, and denies nothing; recorded, the record's rows are not changed.
