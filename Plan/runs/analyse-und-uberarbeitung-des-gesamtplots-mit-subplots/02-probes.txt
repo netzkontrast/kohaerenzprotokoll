@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      138
+  backslash escapes      0
+  typographic marks      0
+  ascii quotes           10
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systems, Systemverständnis
+  fragm    Fragmente, Fragmentierte, Fragmentierung
+  funkt    Funktionale, Funktionalen, Funktionen
+  handl    Handlung, Handlungsfähigkeit, Handlungsstränge
+  versu    Versuche, Versucht, Versuchung
+  wächt    Wächter, Wächtern, Wächters
+  andeu    Andeutung, Andeutungen
+  antei    Anteile, Anteilen
+  besch    Beschreibung, Beschützers
+  bewus    Bewusstsein, Bewusstwerdung
+  blind    Blinden, Blindspots
+  chara    Charaktere, Charakterentwicklung
+  domän    Domäne, Domänen
+  ebene    Ebene, Ebenen
+  entsc    Entscheidung, Entschlüsselung
+  erinn    Erinnerung, Erinnerungen
+  erzäh    Erzähler, Erzählung
+  exter    Externe, Externen
+  frage    Frage, Fragen
+  gasli    Gaslichts, Gaslighting
+  glitc    Glitch, Glitches
+  guard    Guardian, Guardians
+  haupt    Haupthandlung, Hauptplot
+  inter    Interne, Intervention
+  konfl    Konflikt, Konflikte
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charaktere
+  Akte < Charakterentwicklung
+  Code < Quellcode
+  Dies < Dieses
+  Echo < Echos
+  Hero < Heroine
+  Kael < Kaels
+  Kern < Kernthemen
+  Kern < Kernwelten
+  Kern < Kernkonzepten
+  Kern < Kernparadoxon
+  Plot < Plots
+  Plot < Subplot
+  Plot < Subplots
+  Plot < Hauptplot
+  Plot < Gesamtplots
+  Plot < Plotentwurf
+  Plot < Plotereignis
+  Plot < Plotstruktur
+  Sein < Bewusstsein
