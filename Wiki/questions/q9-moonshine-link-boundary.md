@@ -380,3 +380,11 @@ Stands as a row on the edge of the Link, seen from AEGIS's side; the question st
 It writes „The link is not a data transmission but a“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L141] shared state, analogous to quantum entanglement, operating on non-locality, and calls the link one that AEGIS is „definitionally incapable of perceiving“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L139]. Its observable effects are named for Kael and Juna (L145, L146).
 
 Stands as a statement of what the link is from AEGIS's side; whether it reaches beyond Kael and Juna the report does not say.
+
+## 2026-10-07 — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis
+
+**The Dual-Kernel analysis reports the link as invisible to AEGIS because it works below the protocol layer, and without a causal channel AEGIS can detect.**
+
+It writes „Dieser Link ist für AEGIS strukturell unsichtbar“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L127], since it operates below the protocol level AEGIS can monitor, and that the link allows information flow „ohne einen von AEGIS detektierbaren kausalen Kanal“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L199]. It names Kael and Juna as its ends; whether it reaches beyond them it does not say. This is its report of the Protokoll (reference 1).
+
+Stands as a statement of where the link lies relative to AEGIS's sight, in the report's own terms; the question stays open.
