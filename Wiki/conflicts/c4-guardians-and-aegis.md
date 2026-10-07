@@ -502,3 +502,11 @@ Where it stands: the Wächter as AEGIS's agents, with blindspots at the level of
 The narrator overview lists the Kernwelt Guardians, „some of whom become allies due to the“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52] Wächter-Zwiespalt, a dilemma „that forces them to question their allegiance“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L52]. Story 21 takes „From the perspective of a Guardian loyal to AEGIS, describe its first direct perception of the“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L147] Moonshine-Link. Story 29 is assigned to „A Rebel Guardian“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L202].
 
 Where it stands: the Guardians as loyal, rebel and turning, in story proposals; recorded, not applied.
+
+## 2026-10-07 — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis
+
+**The DKT synthesis places the Guardians under AEGIS as its executing organs and gives them one shared blind spot, beside a separate failure for each.**
+
+Its heading reads „Die Guardians: AEGIS' Ausführungsorgane“ ^[roman-synthese-mit-dual-kernel-theorie.md:L413]. It defines them: „Die Guardians sind spezialisierte Filter-Algorithmen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L415], and names their common `Blinder Fleck`, the inability to process non-logical relationality (the line ends „ist die Unfähigkeit, nicht-logische Relationalität zu verarbeiten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L415]). Each entry then states a failure of its own, for example „Er interpretiert Verletzlichkeit als Angriff“ ^[roman-synthese-mit-dual-kernel-theorie.md:L419] for Cerberus and „Sie begreift Integration als Eliminierung von Abweichung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L421] for Sophia.
+
+Stands on the side of one structure under AEGIS with a blind spot shared by the Guardians and individual failures listed beside it; recorded, not applied.
