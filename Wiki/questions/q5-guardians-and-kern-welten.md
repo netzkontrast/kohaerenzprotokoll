@@ -701,3 +701,11 @@ Its analysis says of the Wächter subplot: „Ihre Domänen (Kernwelten) struktu
 The document does not write a figure-to-world mapping as a statement; it arises from the chapter lines, and the Guardians' place in the Überwelt stands beside it without being tied to the Kernwelten.
 
 Where it stands: a plan that gives the Wächter the Kernwelten as domains and the Guardians the Überwelt, with no choice between the two in the document; recorded, not applied.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic pairs one Guardian, The Architect, with one logic-based Kernwelt in Story 17; it gives no count of Guardians or worlds.**
+
+Story 17 is assigned to „The Architect (Guardian of Kernwelt“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L122] followed by the number one, and the directive asks for the perspective of „Guardian of the logic-based world“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L123], written on that line as `Co₁`. Story 21 gives only A Kernwelt Guardian.
+
+Where it stands: one Guardian-to-world pairing in a story proposal, no five and no four; recorded, not applied.
