@@ -1,0 +1,297 @@
+{
+  "document": "ki-roman-architektur-kritische-analyse-methoden",
+  "drive_id": "1YAnY2H3EujI-EL_pbxRraDcO5qCY33NlHwxrmwYo1I8",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 2
+  },
+  "glued_ref_numbers": 28,
+  "backslash_escapes": 154,
+  "typographic_marks": 17,
+  "ascii_quotes": 88,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemarchitekten",
+      "Systemarchitektur",
+      "Systematic",
+      "Systematische",
+      "SystematischeLiteraturrecherche",
+      "Systematischen",
+      "Systematisches",
+      "Systeme",
+      "Systemen",
+      "Systementscheidung",
+      "Systementscheidungen",
+      "Systemgrenze",
+      "Systemimplementierung",
+      "Systemkollaps",
+      "Systemkonflikte",
+      "Systemprüfer",
+      "Systemprüfung",
+      "Systemreaktion",
+      "Systems",
+      "Systemtechnik",
+      "Systemverhalten",
+      "Systemweisheit",
+      "Systemzustand"
+    ],
+    "daten": [
+      "Daten",
+      "Datenaustausch",
+      "Datenaustauschs",
+      "Datenbank",
+      "Datenbanken",
+      "Datenfluss",
+      "Datenkanal",
+      "Datenleckagen",
+      "Datenpakete",
+      "Datenpunkten",
+      "Datensammlung",
+      "Datensätze"
+    ],
+    "metho": [
+      "Methode",
+      "Methoden",
+      "Methodik",
+      "Methodiken",
+      "Methodisch",
+      "Methodische",
+      "Methodischer",
+      "Methodisches"
+    ],
+    "evalu": [
+      "Evaluation",
+      "Evaluations",
+      "Evaluationskriterien",
+      "Evaluationsmethode",
+      "Evaluationsziel",
+      "Evaluierung",
+      "Evaluierungswerkzeuge"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsbögen",
+      "Handlungsfluss",
+      "Handlungsfreiheit",
+      "Handlungsintention",
+      "Handlungspfade",
+      "Handlungssteuerung"
+    ],
+    "forsc": [
+      "Forscher",
+      "Forschung",
+      "Forschungsdesign",
+      "Forschungsfrage",
+      "Forschungsmethoden",
+      "Forschungsmethodik"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmen",
+      "Paradigmenwechsel",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms",
+      "Storypoints",
+      "Storytelling",
+      "Storytellings"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationserhaltung",
+      "Informationslöschungs",
+      "Informationssysteme"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator",
+      "Integrators",
+      "Integrity",
+      "Integrität"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Internal",
+      "Intervention",
+      "Interventionsschritt"
+    ],
+    "narra": [
+      "Narration",
+      "Narrationen",
+      "Narrativ",
+      "Narrative",
+      "Narratologie"
+    ],
+    "algor": [
+      "Algorithmisch",
+      "Algorithmische",
+      "Algorithmischer",
+      "Algorithmus"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analytik",
+      "Analytische"
+    ],
+    "archi": [
+      "Architektonische",
+      "Architektur",
+      "Architekturen",
+      "Architekturfrage"
+    ],
+    "autor": [
+      "Autor",
+      "Autoren",
+      "Autorenschaft",
+      "Autors"
+    ],
+    "bewer": [
+      "Bewertung",
+      "Bewertungsframework",
+      "Bewertungskriterium",
+      "Bewertungsverfahren"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktlösung",
+      "Konflikts"
+    ],
+    "konte": [
+      "Kontext",
+      "Kontexte",
+      "Kontextfenster",
+      "Kontextzusammenfassungen"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrollalgorithmen",
+      "Kontrolle",
+      "Kontrollstudien"
+    ],
+    "korre": [
+      "Korrektheit",
+      "Korrespondenz",
+      "Korrespondenzprüfung",
+      "Korrespondenztheorie"
+    ],
+    "logik": [
+      "Logik",
+      "Logikmodule",
+      "Logikschichten",
+      "Logikschranke"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modells"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho",
+      "Psychologie",
+      "Psychologischer"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Antinomie"
+    ],
+    [
+      "Anti",
+      "Semantischer"
+    ],
+    [
+      "Anti",
+      "Quantifizierung"
+    ],
+    [
+      "Best",
+      "Bestandteil"
+    ],
+    [
+      "Chat",
+      "ChatCompanion"
+    ],
+    [
+      "Chat",
+      "ChatCompanions"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Erst",
+      "Erster"
+    ],
+    [
+      "Erst",
+      "Sicherstellung"
+    ],
+    [
+      "Erst",
+      "Gegenüberstellung"
+    ],
+    [
+      "Fall",
+      "Ausfall"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Fall",
+      "Zufallsprodukt"
+    ],
+    [
+      "Form",
+      "Formale"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ]
+  ]
+}

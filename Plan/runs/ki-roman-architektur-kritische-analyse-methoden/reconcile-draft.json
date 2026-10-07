@@ -1,0 +1,348 @@
+{
+  "document": "ki-roman-architektur-kritische-analyse-methoden",
+  "drive_id": "1YAnY2H3EujI-EL_pbxRraDcO5qCY33NlHwxrmwYo1I8",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 114,
+    "decisions": 115,
+    "decided_by_lookup": 105,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        172
+      ],
+      "attribution": "",
+      "note": "a Zero-Trust monitor in Trace 1"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        40,
+        67,
+        77,
+        119,
+        172
+      ],
+      "attribution": "",
+      "note": "AEGIS as the classical-logic gatekeeper whose collapse a methods handbook tests"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        117,
+        128
+      ],
+      "attribution": "",
+      "note": "Alex as a protector in the ANP class"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        117,
+        128
+      ],
+      "attribution": "",
+      "note": "Argus as the perfectionist observer in the ANP class"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        19,
+        36
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel-Theorie as the foundation the review methods test"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        42,
+        44,
+        46
+      ],
+      "attribution": "",
+      "note": "entropy as the second kernel's equivalent, and as a test category"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        77,
+        168,
+        173,
+        174
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as a reported climax and a trace to test"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        119,
+        129
+      ],
+      "attribution": "",
+      "note": "Isabelle as an EP of sexualisation and control"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        138,
+        144
+      ],
+      "attribution": "",
+      "note": "Juna beside AEGIS as Influence Character, and as an entity that injects guidance"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        111,
+        117,
+        128,
+        173,
+        180,
+        181
+      ],
+      "attribution": "",
+      "note": "Kael as a multi-agent system of eleven subsystems, as a methods handbook reports it"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        28,
+        121,
+        180
+      ],
+      "attribution": "",
+      "note": "Kernwelten as the macro-architecture of the phobic barriers"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        119,
+        121,
+        146
+      ],
+      "attribution": "",
+      "note": "Kiko as an EP of fear and flight, and a receiver of the Moonshine-Link"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        38,
+        40,
+        42
+      ],
+      "attribution": "",
+      "note": "the kernel of reversibility, as a methods handbook reports it"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        44,
+        46,
+        54
+      ],
+      "attribution": "",
+      "note": "the second kernel under two names"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        82,
+        105,
+        117,
+        121,
+        173
+      ],
+      "attribution": "",
+      "note": "Lex as an analytical InstructionDeputy among the ANPs"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        129,
+        146
+      ],
+      "attribution": "",
+      "note": "Lia in the table of EPs and as a receiver of the Moonshine-Link"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        144,
+        146
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as the Player Dilemma's answer and an out-of-band channel"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        119,
+        129,
+        181
+      ],
+      "attribution": "",
+      "note": "Moros as the deepest EP, integrated after the collapse of logic"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        121,
+        173
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the goal of the integrator's data exchange"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the narrated form of entropic pressure"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        119,
+        129,
+        173
+      ],
+      "attribution": "",
+      "note": "Nyx as an EP, aggression and fighting instinct"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        117,
+        128
+      ],
+      "attribution": "",
+      "note": "Rhys as a protector in the ANP class"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "Risse as something a test must trace to orchestrated injection"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        83,
+        121,
+        130,
+        173
+      ],
+      "attribution": "",
+      "note": "Selene as the integrator agent (ISH)"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        109,
+        111
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical theory under the novel's psychological topology"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 36,
+      "decision": "reading",
+      "why": "decided by the reader on dkt, with L19"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 181,
+      "decision": "occurrence",
+      "why": "a step label in Trace 3; the step's content is Moros's integration"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 42,
+      "decision": "reading",
+      "why": "the Kollaps-Kernel as entropy, read on entropie"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 214,
+      "decision": "occurrence",
+      "why": "the general word"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 115,
+      "decision": "occurrence",
+      "why": "a prompt parameter, not the Personas"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 48,
+      "decision": "reading",
+      "why": "narrative Risse, read on risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "the handbook's general word"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

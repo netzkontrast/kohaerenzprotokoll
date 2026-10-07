@@ -1,0 +1,122 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Candidates as the document writes them. The document's lost math symbols (K with subscript, E, S and similar, flattened to nothing) leave gaps in headings such as "Der Kohärenz-Kernel ()"; the kernel names are listed through their words. The document is a methods handbook that applies a critical-thinking skill to the novel's architecture; the lens section holds the borrowed concepts it applies.
+
+- Kohärenz Protokoll
+- Dual-Kernel-Narrativ-Architektur
+- Dual-Kernel-Narrativ-Engine
+- Dual-Kernel-Theorie
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Erasure-Kernel
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Kernwelten
+- Kernwelt
+- KW3
+- Cerberus-Labyrinth
+- Nichts Rauschen
+- Rifts
+- Kael
+- Lex
+- Argus
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Isabelle
+- Moros
+- Lia
+- Selene
+- Juna
+- Integrator
+- Internal Self-Helper
+- ISH
+- ANP
+- ANPs
+- EPs
+- Anscheinend Normale Persönlichkeitsanteile
+- Emotionalen Persönlichkeitsanteile
+- Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- InstructionDeputies
+- ChatCompanions
+- ANP-EP-Phobien
+- Trauma-Zeit
+- Funktionale Multiplizität
+- funktionalen Multiplizität
+- Gödel-Gambit
+- Moonshine-Link
+- Player-Dilemma
+- Player Dilemma
+- Narrative Context Protocol
+- NCP
+- Storyform
+- Throughlines
+- Storypoints
+- Blockchain für Subtext
+- Drama-Engine
+- Context Object
+- World State
+- Collapse Susceptibility Index
+- CSI
+- Coherons
+- Wavelets
+- objektive Reduktion
+- Big Freeze
+- narrative Energie
+- Thermodynamik der Bedeutung
+- Zombie-System
+- Algorithmischer Melancholie
+- Isolation Objection
+- Existential Shattering
+- Ontological Blindness
+- ontologischen Blindheit
+- Harmonisierungs-Bias
+- Dialetheische Verifikations-Schicht
+- Strikte Bifurkation
+- State Precondition
+- Action Sequence
+- Verification Loop
+- Execution Integrity Failure
+- Amnesiebarrieren
+- Cross-Agent-Moderator
+- Ästhetik des Unerklärlichen
+- Anatomie des Rauschens
+- Systemweisheit
+- Mosaik-Herzens
+- Leak
+- Out-of-Band
+- OOB
+
+## lens
+
+- Landauer-Prinzip
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Phaenomena
+- Noumena
+- Unvollständigkeitssatz
+- Russells Antinomie
+- Prinzip der Explosion
+- Principle of Explosion
+- Dialetheie
+- Trivialismus
+- Parakonsistenz
+- Dialetheismus
+- Autopoiesis
+- Hilbert-Raum
+- Zweiten Hauptsatz der Thermodynamik
+- Dunklen Energie
+- Qualia
+- Grenzsituationen
+- Schiffbruch
+- Umgreifende
+- Dasein
+- Zero-Trust
+- Cache Coherence
+- Monstrous-Moonshine-Mathematik
+- PRISMA
+- PICO
+- Risk of Bias Assessment
+- Akka-Framework
