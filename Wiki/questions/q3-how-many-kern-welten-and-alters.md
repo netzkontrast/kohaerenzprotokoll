@@ -1016,3 +1016,13 @@ In its TSDP section it writes „mindestens vier ANPs und fünf klaren EPs“ ^[
 For the worlds, its Kernwelt table pairs `KW1` with Lex and `KW3` with Nyx, and two further rows for Rhys and Kiko whose first cells are marked `Annahme` (L122, L123). `KW2` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#0] does not stand in the document.
 
 Stands: the essay gives two part counts side by side and four Kernwelt rows, two of them marked assumptions; it takes no side on the record's count of Kern-Welten or Alters.
+
+## 2026-10-07 — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier
+
+**The development dossier gives System Kael as at least eleven parts and itemises its roster after a cited TSDP analysis; it says nothing of Kern-Welten.**
+
+It states the size as a lower bound: „System Kael besteht aus mindestens elf identifizierten Persönlichkeitsanteilen“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L52]. The analysis it cites is reported as identifying „vier ANPs (Kael, Lex, Alex, Rhys)“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L83], five EPs and two parts of mixed function, „zwei Anteile mit Mischfunktionen (Selene, Argus)“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L83]. The line also lists the five EPs by name.
+
+The dossier does not say whether one world corresponds to one part.
+
+Where it stands: a count of alters with a lower bound beside an itemised roster; the question stays open in the record's terms.
