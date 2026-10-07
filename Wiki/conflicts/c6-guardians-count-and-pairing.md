@@ -660,3 +660,11 @@ Stands as a row for four Guardians paired with the four worlds, in the brief's o
 Its headings read „LogOS (Konstrukt-Stadt“ ^[kohaerenz-analyse-kapitel-2.md:L65] (L65), „Mnemosyne (Resonanz-Landschaft“ ^[kohaerenz-analyse-kapitel-2.md:L72] (L72), „Cerberus (Grenzfeste“ ^[kohaerenz-analyse-kapitel-2.md:L79] (L79) and „Kairos & Sophia (Möglichkeits-Garten / Überwelt“ ^[kohaerenz-analyse-kapitel-2.md:L85] (L85). The report treats Kairos and Sophia under one heading and gives each its own entry (L87, L88).
 
 This adds a row to the record and decides nothing in it.
+
+## 2026-10-07 — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis
+
+**The philosophical synthesis pairs four Guardians with four Kernwelten: LogOS, Mnemosyne, Cerberus and a shared cell for Kairos and Sophia.**
+
+The matrix has a Guardian column. Its rows read: Konstrukt-Stadt with LogOS (`KW1`), Resonanz-Landschaft with Mnemosyne (`KW2`), Grenzfeste with Cerberus (`KW3`), and Möglichkeits-Garten with „Kairos/Sophia“ ^[roman-konzept-und-philosophische-fragen.md:L196] (`KW4`). The synthesis says each world shows „die logischen Grenzen ihres jeweiligen Wächter-Systems und von AEGIS selbst aufzeigt“ ^[roman-konzept-und-philosophische-fragen.md:L188].
+
+Stands as a position of five names in four cells, dated 2025-07-29; recorded, not applied, the record stays open.
