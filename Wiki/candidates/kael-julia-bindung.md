@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll", "welten"]
 gathered: "2026-09-17"
 ---
 
@@ -36,6 +36,12 @@ onward. One term, two surfaces, **nothing announces the switch.**
 Its mechanism. The source lists resonance, entanglement and ontological anchoring
 as candidates ^[kohaerenzprotokoll-aegis-und-systementropie.md:L110–115] and settles on none, then names the gap as its own
 open question ^[kohaerenzprotokoll-aegis-und-systementropie.md:L239].
+
+## Reading — `welten`, 2025-04-20, the world-concept reply — the connection AEGIS cannot process, and its effects across the system
+
+The reply writes the connection as `Kael-Julia-Verbindung` and `K-J-Verbindung`, and once as `K-J-Bindung`, in LogOS's entry (L65). Of AEGIS it says it is „systemisch unfähig“ ^[welten.md:L46] to recognise or process „die Natur und Bedeutung der Kael-Julia-Verbindung“ ^[welten.md:L46]. The connection is, it says, „eine potenziell höhere Form der Kohärenz“ ^[welten.md:L46], which AEGIS misreads as a maximal threat because it escapes its logic of separation.
+
+LogOS „Kann qualitative Zustände, Emotionen oder nicht-logische Verbindungen“ ^[welten.md:L65] such as the K-J-Bindung not process; Mnemosyne cannot grasp its external, a-temporal nature (L66); Cerberus sees its effects as an anomaly but not its origin (L67). In the dynamics section the connection causes system-wide `Echos`, misunderstood by AEGIS: „Die K-J-Verbindung verursacht systemweite, aber von AEGIS missverstandene“ ^[welten.md:L123].
 
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Julia as one of Juna's names, and a question about Köln
 
