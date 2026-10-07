@@ -1,0 +1,14 @@
+# narrativ
+  lines                239  (frontmatter ends at 9)
+  body words           3947
+  headings             15   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    2
+  typographic marks    21   ascii quotes 134
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         855 chars
+

@@ -1,0 +1,616 @@
+{
+  "document": "narrativ",
+  "step": "reconcile-pre",
+  "at": "2026-10-07",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-07",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 96,
+  "decisions": 99,
+  "same_surface": {},
+  "decided_mechanically": 84,
+  "needs_judgement": 15,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 149
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 146
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 49
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 96
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 98
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 87
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 101
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 99
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 98
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 109
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 82
+      },
+      {
+        "candidate": "Realitätsebenen",
+        "page": "realitaetsebenen",
+        "readings": 24
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 45
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 114
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 93
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 102
+      },
+      {
+        "candidate": "SIS",
+        "page": "aegis-teilfunktionen",
+        "readings": 28
+      },
+      {
+        "candidate": "Cache Kohärenz",
+        "page": "cache-kohaerenz",
+        "readings": 13
+      },
+      {
+        "candidate": "algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 58
+      },
+      {
+        "candidate": "Kishōtenketsu",
+        "page": "kishotenketsu",
+        "readings": 18
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Narrativer Architekt"
+      },
+      {
+        "candidate": "Autonomous Epistemic Guardian for Integrity Systems"
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung"
+      },
+      {
+        "candidate": "Tertiäre Strukturelle Dissoziation"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "Anscheinend Normaler Persönlichkeitsanteil"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Emotionaler Persönlichkeitsanteil"
+      },
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "ISH"
+      },
+      {
+        "candidate": "Innere Helferin"
+      },
+      {
+        "candidate": "Torwächter"
+      },
+      {
+        "candidate": "Fragment 'O'"
+      },
+      {
+        "candidate": "Fundament"
+      },
+      {
+        "candidate": "Paraiyas"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "ZTEM"
+      },
+      {
+        "candidate": "Recursive Trust Signature Verification"
+      },
+      {
+        "candidate": "RTSV"
+      },
+      {
+        "candidate": "Boundary Protocol of Failure"
+      },
+      {
+        "candidate": "BPoF"
+      },
+      {
+        "candidate": "Emergent Information Consensus"
+      },
+      {
+        "candidate": "EIC"
+      },
+      {
+        "candidate": "Integrity Validation"
+      },
+      {
+        "candidate": "Entropic Management"
+      },
+      {
+        "candidate": "Systemic Isolation Shield"
+      },
+      {
+        "candidate": "Kernprotokolle"
+      },
+      {
+        "candidate": "Paradoxon X"
+      },
+      {
+        "candidate": "universal reboot"
+      },
+      {
+        "candidate": "externalisiertes Täterintrojekt"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "Value-Alignment-Versagen"
+      },
+      {
+        "candidate": "MESI-Protokoll"
+      },
+      {
+        "candidate": "Manifest-Säulen"
+      },
+      {
+        "candidate": "Algorithmic Horror"
+      },
+      {
+        "candidate": "epistemologische Landschaften"
+      },
+      {
+        "candidate": "Gärtner"
+      },
+      {
+        "candidate": "Orchestriertes Bewusstsein"
+      },
+      {
+        "candidate": "Meta-Erzähler"
+      },
+      {
+        "candidate": "Ethische Rückkopplungsschleife"
+      },
+      {
+        "candidate": "Vulnerable Narration"
+      },
+      {
+        "candidate": "Prosa der Dissonanz"
+      },
+      {
+        "candidate": "Ki"
+      },
+      {
+        "candidate": "Shō"
+      },
+      {
+        "candidate": "Ten"
+      },
+      {
+        "candidate": "Overall Story"
+      },
+      {
+        "candidate": "Main Character"
+      },
+      {
+        "candidate": "Impact Character"
+      },
+      {
+        "candidate": "Subjective Story"
+      },
+      {
+        "candidate": "Novelcrafter"
+      },
+      {
+        "candidate": "Codex"
+      },
+      {
+        "candidate": "Matrix View"
+      },
+      {
+        "candidate": "Narrative Context Protocol"
+      },
+      {
+        "candidate": "NCP"
+      },
+      {
+        "candidate": "Single Source of Truth"
+      },
+      {
+        "candidate": "Prompt Engineering"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "Dialetheismus"
+      },
+      {
+        "candidate": "parakonsistenten Logik"
+      },
+      {
+        "candidate": "Dialetheia"
+      },
+      {
+        "candidate": "Dramatica"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  System Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropie-Manifestationen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kishōtenketsu  /  Ketsu",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archipel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos-Potentialis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          }
+        ]
+      },
+      {
+        "candidate": "Digitale Überwelt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "uberwelt",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Manifestationen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero Trust Environment Mandate",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Resonanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanz",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "resonanzlandschaft",
+            "page": "resonanz-landschaft"
+          }
+        ]
+      },
+      {
+        "candidate": "Ketsu",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kishotenketsu",
+            "page": "kishotenketsu"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 73,
+      "already_read": false
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 113,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 161,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 117,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Überwelt",
+      "line": 171,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
