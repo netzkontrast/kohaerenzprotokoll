@@ -1,0 +1,43 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Kern-Welten
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Nebel
+- Schattenlabyrinth
+- Möglichkeitsstrom
+- Potentialmeer
+- AEGIS
+- Autogenic Emergent General Intelligence System
+- Überwelt
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Blinder Fleck
+- Blinden Flecken
+- Risse
+- Partnerin-Echos
+- Echos
+- Externe Ebene
+- Nexus
+- Kael
+- Julia
+- Partnerin
+- K-J-Verbindung
+- Kael-Julia-Verbindung
+- DID
+- Gleichzeitigkeit
+- Autopoiesis
+- Sein durch Abgrenzung
+- Kohärenz Protokoll
+- Das Seelen-Kohärenz-Protokoll
+- Kontrollinstanzen
+- Uncanny Valley
+
+The document is a single AI-style reply: it first proposes names for four Kern-Welten, then writes a "Umfassendes Welt-Konzept" in roman-numbered sections with bold field labels (Natur, Eigenschaften, Risse/Echos, Blinder Fleck). It cites other project documents by title; those titles are not listed. Uncanny Valley is a borrowed concept applied to KW1, listed plain. Nexus is flagged by the document itself as possibly a term, definition open.

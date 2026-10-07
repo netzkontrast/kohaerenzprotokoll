@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           30
+
+# inflection families -- one term, several surfaces
+  poten    Potential, Potentiale, Potentialität, Potentialmeer, Potenziell, Potenzieller
+  syste    System, Systementropie, Systemgrenzen, Systeminstabilitäten, Systemische, Systems
+  mögli    Möglicherweise, Möglichkeit, Möglichkeiten, Möglichkeitsstrom
+  daten    Daten, Datenanomalien, Datenströmen
+  erinn    Erinnerung, Erinnerungsfragmente, Erinnerungslandschaften
+  gefüh    Gefühl, Gefühle, Gefühlen
+  grenz    Grenzen, Grenzziehung, Grenzübertretungen
+  infor    Information, Informationen, Informationsgesetze
+  kontr    Kontrolle, Kontrollinstanzen, Kontrollsystem
+  manif    Manifestation, Manifestationen, Manifestieren
+  reali    Realität, Realitäten, Realitätsebene
+  roman    Roman, Romanprojekts, Romans
+  verbi    Verbindung, Verbindungen, Verbindungsebene
+  überw    Überwacht, Überwachung, Überwelt
+  abweh    Abwehr, Abwehrmechanismen
+  bedro    Bedrohung, Bedrohungen
+  blind    Blinden, Blinder
+  chara    Charaktere, Charakterkonzepte
+  diese    Diese, Dieses
+  digit    Digitale, Digitalen
+  dokum    Dokument, Dokumenten
+  domän    Domäne, Domänen
+  ebene    Ebene, Ebenen
+  emoti    Emotion, Emotionen
+  ersch    Erscheinung, Erscheinungsformen
+
+# substring pairs -- never one term, often merged by accident
+  Form < Information
+  Form < Informationen
+  Form < Ausformulierung
+  Form < Erscheinungsformen
+  Form < Informationsgesetze
+  Kael < Kaels
+  Kann < Bekannte
+  Kann < Unbekanntes
+  Kern < Kernprämisse
+  Meer < Potentialmeer
+  Welt < Welten
+  Welt < Überwelt
+  Welt < Weltstruktur
+  Ziel < Potenziell
+  Ziel < Potenzieller
+  Daten < Datenströmen
+  Daten < Datenanomalien
+  Diese < Dieses
+  Ebene < Ebenen
+  Ebene < Realitätsebene

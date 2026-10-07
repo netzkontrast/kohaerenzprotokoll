@@ -1,0 +1,14 @@
+# welten
+  lines                128  (frontmatter ends at 9)
+  body words           1421
+  headings             0   bold-only lines 10
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    1   ascii quotes 30
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      Blinder Fleck x5, Eigenschaften x5, Risse/Echos x4, Natur x3
+  longest line         654 chars
+
