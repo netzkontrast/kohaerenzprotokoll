@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 44
-readings: 44
+sources: 45
+readings: 45
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "roman-outline-fuer-kohaerenz-protokoll", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-plot-entwicklung-und-kohaerenz-analyse", "kohaerenz-protokoll-plotideen-generierung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "kohaerenz-protokoll-master-integration-md", "detaillierte-kapiteluebersicht", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "romanideen-zu-roman-entwickeln", "kael-charakterarchitektur-und-konfliktdynamik"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "roman-outline-fuer-kohaerenz-protokoll", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-plot-entwicklung-und-kohaerenz-analyse", "kohaerenz-protokoll-plotideen-generierung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "kohaerenz-protokoll-master-integration-md", "detaillierte-kapiteluebersicht", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "romanideen-zu-roman-entwickeln", "kael-charakterarchitektur-und-konfliktdynamik", "narrativ"]
 gathered: "2026-09-16"
 ---
 
@@ -116,6 +116,12 @@ The chapter overview plans, in Kapitel 36, Kael's new role: „Er nimmt seine ne
 ## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — emergence in Kael's coherence
 
 The concept summary sets two definitions of coherence against each other and describes Kael's as „dynamische, inklusive Emergenz“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L19], against AEGIS' static, excluding order.
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — control against emergence as a creative field, and the Fundament as a source of its rules
+
+The compendium (L11–L113) closes by naming a tension in the project: „zwischen Kontrolle und Emergenz“ ^[narrativ.md:L113] is one of the contradictions it calls „keine Schwächen, sondern kreative Spannungsfelder“ ^[narrativ.md:L113] (L113).
+
+The dramaturg's blueprint (L115–L238) gives the Fundament a role towards emergence: it serves as a „Rahmen oder Quelle der Regeln für Emergenz, ohne Emergenz selbst zu negieren“ ^[narrativ.md:L165] (L165). The gardener principle aims at the same end: Kael reshapes reality „um Vielfalt und Emergenz zu fördern“ ^[narrativ.md:L229] (L229).
 
 ## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — the conflict between control and emergence, operationalised in the game matrix
 
