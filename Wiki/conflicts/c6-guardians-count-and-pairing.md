@@ -676,3 +676,11 @@ Stands as a position of five names in four cells, dated 2025-07-29; recorded, no
 It lists the „Bekannte Guardians und ihre Domänen/Blinden Flecken“ ^[welten.md:L61]: `LogOS`, `Mnemosyne`, `Cerberus`, `Kairos`, `Sophia`. Each of the first four lines ends with `Überwacht primär` ^[welten.md:#4] and one world, the Konstrukt-Stadt (KW1), Resonanz-Nebel (KW2), Schattenlabyrinth (KW3) and Möglichkeitsstrom (KW4). The line on Sophia names no world, and says „Ihre Rolle ist möglicherweise übergreifender als die der anderen vier“ ^[welten.md:L69]. The pairing recurs in the section on the Kern-Welten, where each world's heading carries one Guardian in brackets, for example „KW1: Konstrukt-Stadt“ ^[welten.md:L15] with `LogOS` after it.
 
 Stands on the side of five named Guardians with four pairs, Sophia unpaired and hedged; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept
+
+**The final world concept pairs four Guardians with four Kernwelten and names Sophia only as a possible coordinating entity.**
+
+L43 lists them: „Beispiele sind LogOS (KW1 - Konstrukt-Stadt), Mnemosyne (KW2 - Resonanz-Nebel), Cerberus (KW3 - Schattenlabyrinth), Kairos (KW4 - Möglichkeitsstrom)“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43] and then „und möglicherweise eine koordinierende Entität wie Sophia“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43]. The world entries repeat the pairing: „Verwaltet von Guardian LogOS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L72], „Verwaltet von Guardian Mnemosyne“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L73], „Verwaltet von Guardian Cerberus“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L74], „Verwaltet von Guardian Kairos“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L75] (L72–L75). Sophia has no world there.
+
+Stands as four Guardians paired one to one with the four Kernwelten, with a hedged fifth; recorded, not applied, and the conflict stays open.
