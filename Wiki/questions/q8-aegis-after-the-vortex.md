@@ -590,3 +590,11 @@ Where it stands in the record's own terms: one more set of proposals beside the 
 Pfad A: „Bleibt AEGIS seiner klassischen, explosiven Logik treu“ ^[kohaerenz-protokoll-narrative-architektur.md:L90] leads to trivialisation. Pfad B: „Um die Trivialisierung zu vermeiden“ ^[kohaerenz-protokoll-narrative-architektur.md:L92] AEGIS takes on a paraconsistent frame, and the analysis calls it „Es ist eine tragische, erzwungene Evolution, keine Erlösung“ ^[kohaerenz-protokoll-narrative-architektur.md:L94]. Of the transformed state: „Seine Guardians, die nun auf parakonsistenter Logik operieren“ ^[kohaerenz-protokoll-narrative-architektur.md:L102].
 
 Where it stands in the record's own terms: two AEGIS end states offered side by side in an analysis that calls itself definitive, without a choice; the record's author decision stands untouched.
+
+## 2026-10-07 — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis
+
+**The Dramatica loop analysis proposes, in one of four alternative storyforms, that AEGIS's reality collapses under entropy, and names no Vortex.**
+
+In the fourth alternative storyform, where Kael refuses Order, it writes: „Die Realität von AEGIS kollabiert vollständig unter der nicht mehr zu bändigenden Entropie“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L163]. In the first alternative storyform the end for AEGIS is also a collapse, as „und die Realität zerreißt in einer Flut unkontrollierbarer Risse“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L121]. The other storyforms are proposals beside these, and the analysis does not choose one of them.
+
+Where it stands in the record's own terms: two of four proposed storyforms end in collapse, as proposals of an analysis whose confirmations rest on data not in the file; recorded, not applied, and the record's author decision stands untouched.
