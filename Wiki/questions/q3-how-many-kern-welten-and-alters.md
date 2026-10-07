@@ -850,3 +850,11 @@ This adds a row to the record and decides nothing in it.
 On the parts (L149–L155): „Elf detaillierte Anteile existieren“ ^[narrativ.md:L149], then „Einige Schlüsselbeispiele sind“ ^[narrativ.md:L149]: Kael (Host), Selene, Lex, Nyx and Kiko. On the worlds (L173–L182): the heading „Die Sechs Realitätsebenen“ ^[narrativ.md:L173], whose first entry is „Vier Psychologische Kernwelten (KW1-4)“ ^[narrativ.md:L175], followed by the Digitale Überwelt (L181) and the Externe Ebene (L182). Only KW1 is tied to a part, and loosely: Lex is its focus (L177). The compendium (L11–L113) gives no count of parts or worlds.
 
 Stands as one more document that writes eleven parts and four worlds and links one world to one part; the question stays open and the record's table does not change.
+
+## 2026-10-07 — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium
+
+**The compendium's alter table has rows for `Kael`, `Nyx`, `Kiko`, `Lex` and `Selene`, and says nothing of Kern-Welten.**
+
+The rows carry the classes „ANP: Host, Alltagsfassade“ ^[kohaerenz-protokoll-narrative-synthese.md:L255], „EP: Beschützer (Kampf-Reaktion)“ ^[kohaerenz-protokoll-narrative-synthese.md:L256], „EP: Kind-Anteil (Freeze)“ ^[kohaerenz-protokoll-narrative-synthese.md:L257], „ANP: Intellektueller Analytiker“ ^[kohaerenz-protokoll-narrative-synthese.md:L258] and „ISH/Torwächter“ ^[kohaerenz-protokoll-narrative-synthese.md:L259]. The table is a proposal of the report; the prose beside it speaks of „Jeder primäre Anteil“ ^[kohaerenz-protokoll-narrative-synthese.md:L203] having a rhythm, without a number. No line of the report maps a part to a world.
+
+Stands: one more row for the question's alter side — five named parts in one table; the count and the correspondence stay open.
