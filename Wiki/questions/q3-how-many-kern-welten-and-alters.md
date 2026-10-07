@@ -900,3 +900,11 @@ Stands as a row for the alters side of the question, a list of six plus one part
 „In den Dokumenten finden sich verschiedene Entwürfe zur Anzahl und Rolle der Anteile“ ^[roman-konzept-reduktion-und-kernfindung.md:L70], it writes, and proposes „eine Reduktion auf die funktionalsten Entitäten für den Plot entscheidend ist“ ^[roman-konzept-reduktion-und-kernfindung.md:L70]. Its table keeps „Kael (Host)“ ^[roman-konzept-reduktion-und-kernfindung.md:L79], „Lex (Analyst)“ ^[roman-konzept-reduktion-und-kernfindung.md:L80], „Nyx (Protector)“ ^[roman-konzept-reduktion-und-kernfindung.md:L81], „Kiko (Exile)“ ^[roman-konzept-reduktion-und-kernfindung.md:L82], „Limina (Gatekeeper)“ ^[roman-konzept-reduktion-und-kernfindung.md:L83] and „Juna (The Other)“ ^[roman-konzept-reduktion-und-kernfindung.md:L84]. Its somatic rulebook names four Kernwelten, from Logos-Prime to Kairos-Potentialis: „Mnemosyne-Archipel“ ^[roman-konzept-reduktion-und-kernfindung.md:L90] is the second.
 
 Where it stands in the record's own terms: a proposal of six named alters and four Kernwelten from a report that advises the author; recorded, the question stays open.
+
+## 2026-10-07 — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report
+
+**The canon status report declares 13 Alters and reduces the naming overlaps; it gives no count of Kern-Welten.**
+
+It writes „The registry is hereby standardized to“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L42] 13 Alters, matching „This aligns with the 39-chapter mosaic“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L42]. Silas is merged into Rhys, Moros becomes the „Collapse EP“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L44], and Oblivion „is downgraded to a passive environmental state/landscape within KW2.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L44].
+
+Stands as a row for the alters side of the question; the report decrees, recorded and not applied, and the question stays open.
