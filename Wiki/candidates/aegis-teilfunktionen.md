@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 33
-readings: 31
+sources: 34
+readings: 32
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "the-coherence-protocol-a-narrative-design-world-architecture", "kohaerenz-analyse-kapitel-2", "narrativ", "romanarchitektur-kohaerenz-protokoll-finalisierung", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "ki-narrative-kollaps-kohaerenz-paradoxie", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "system-kael-konzeptentwicklung-und-analyse", "romanprojekt-kohaerenz-protokoll-leitfragen", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "plot-analyse-und-romanentwicklung", "ki-roman-architektur-kohaerenz-und-kollaps", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "aegis-genesis-crisis-self-definition", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "the-coherence-protocol-a-narrative-design-world-architecture", "kohaerenz-analyse-kapitel-2", "narrativ", "romanarchitektur-kohaerenz-protokoll-finalisierung", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "analyse-des-kohaerenz-protokolls"]
 gathered: "2026-09-16"
 ---
 
@@ -113,6 +113,10 @@ The ontological overview says the system is secured by a Zero Trust Architecture
 ## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — Zero-Trust as the principle of Cerberus's fortress
 
 Story 19, from the perspective of Cerberus, sees „the world is a fortress built on AEGIS's Zero-Trust principles“ ^[plot-generation-framework-for-the-coherence-protocol.md:L122]. Chapter 19 assigns the same to the linear plot: „Introduce Cerberus, the Guardian of Kernwelt“ ^[plot-generation-framework-for-the-coherence-protocol.md:L260] (3), so as to externalize the system's core principle of paranoia. The framework names the principle and no further sub-functions.
+
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — the second expansion of AEGIS, joined by `oder auch`
+
+The protocol analysis writes both expansions of the name in one sentence: the first, then `oder auch` the second, „Autonomous Entropic Gatekeeper for Integrity Systems“ ^[analyse-des-kohaerenz-protokolls.md:L24] (L24). It sets them side by side and does not rank them or say how they relate.
 
 ## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — a Zero-Trust model for AEGIS and for Cerberus
 
