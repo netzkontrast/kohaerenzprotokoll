@@ -932,3 +932,11 @@ Four worlds, a number the report states with „primäre“; the Alters are name
 Its alter table, headed „System Kael: Alter Functions and Contributions“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L39], has six rows: Kael (Primary ANP/Host, L44), Lex (L45), Nyx (L46), Kiko (L47), Rhys (L48) and Selene (L49). It states no total of alters; its section 3 speaks of „each key alter“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L37]. The four worlds are „The Construct City (Logos-Prime)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L57], „The Resonance Landscape (Mnemosyne)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L58], „The Fortress (Cerberus)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L59] and „The Garden of Possibility (Kairos/Sophia)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L60]. Lex and Kael sit in KW1, Rhys in KW2, Nyx in KW3, Selene in KW4 (L57–L60), and several alters appear in more than one world, so the report gives no one world to one alter.
 
 Four worlds, six table rows, and the correspondence handled as inhabitants. Stands as a count on both sides with no claim that six is all; recorded, the question stays open.
+
+## 2026-10-07 — `kohaerenz-protokoll-narrative-architektur`, 2025-07-29, the System-Mind analysis
+
+**The System-Mind analysis tabulates five alters and gives four Kernwelten, each tied to a Dramatica throughline.**
+
+Its alter table lists five rows: `Kael (Host)` (L162), `Nyx` (L163), `Kiko` (L164), `Lex` (L165) and `Selene` (L166). It does not say the table is complete. For the worlds it writes „Die vier Kernwelten (KW1-4) sind nicht nur Schauplätze“ ^[kohaerenz-protokoll-narrative-architektur.md:L226], and lists KW1 to KW4 as Logos-Prime (OS), Mnemosyne-Archipel (MC), Cerberus-Labyrinth (SS) and Kairos-Potentialis (IC), each with its throughline (L230–L233). It assigns throughlines to worlds, not alters to worlds.
+
+Stands: the document gives five alters and four Kernwelten and takes no position on the count of alters against any other roster; the record's open question is not settled by it.
