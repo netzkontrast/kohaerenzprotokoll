@@ -462,3 +462,11 @@ Stands with the Guardians as components of AEGIS, whose blind spots the document
 It writes: „Jeder Guardian nimmt nur einen Ausschnitt der Realität wahr“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L67], and the data they report are „inkonsistenten und widersprüchlichen Datenströme“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L67] that overload AEGIS's analysis units. Their blind spots, it adds, are „Limitationen, sondern potenziell auch Ausgangspunkte für eine Art systeminterner Divergenz“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L77].
 
 Stands on the side of the Guardians as failing, specialised instruments of AEGIS, as one proposal addressed to the author; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis
+
+**The concept synthesis puts the Guardians' blind spots collectively between AEGIS and the K-J connection, and lets them change loyalty.**
+
+The statement reads: „Spezialisierte AEGIS-Agenten“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24] with blind spots „die kollektiv verhindern, dass AEGIS die K-J-Verbindung korrekt interpretiert“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. It adds „Sie können Zweifel entwickeln und potenziell ihre Loyalität ändern“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. The blind spots are the Guardians' own, set under AEGIS as its agents; the line does not place a blind spot in AEGIS itself.
+
+Stands as an account of one bearer-position, the Guardians', recorded, not applied; no relation is decided here.
