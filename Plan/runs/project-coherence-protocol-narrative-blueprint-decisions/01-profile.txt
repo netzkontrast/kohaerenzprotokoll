@@ -1,0 +1,14 @@
+# project-coherence-protocol-narrative-blueprint-decisions
+  lines                266  (frontmatter ends at 9)
+  body words           4384
+  headings             17   bold-only lines 3
+  table rows           16   code fences 0
+  question marks       1
+  backslash escapes    88
+  typographic marks    20   ascii quotes 156
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      none
+  longest line         879 chars
+

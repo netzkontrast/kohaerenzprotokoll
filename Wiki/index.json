@@ -235,10 +235,11 @@
         "roman-konzept-und-philosophische-fragen",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 152,
-      "readings": 152,
+      "sources": 153,
+      "readings": 153,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -505,10 +506,11 @@
         "romanideen-zu-roman-entwickeln",
         "kohaerenz-analyse-kapitel-2",
         "narrativ",
-        "romanarchitektur-kohaerenz-protokoll-finalisierung"
+        "romanarchitektur-kohaerenz-protokoll-finalisierung",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 93,
-      "readings": 93,
+      "sources": 94,
+      "readings": 94,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1613,10 +1615,11 @@
         "romanideen-zu-roman-entwickeln",
         "roman-konzept-und-philosophische-fragen",
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 60,
-      "readings": 58,
+      "sources": 61,
+      "readings": 59,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -1808,10 +1811,11 @@
         "kohaerenz-protokoll-narrative-synthese",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 107,
-      "readings": 107,
+      "sources": 108,
+      "readings": 108,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2080,10 +2084,11 @@
         "roman-konzept-und-philosophische-fragen",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 141,
-      "readings": 141,
+      "sources": 142,
+      "readings": 142,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2302,10 +2307,11 @@
         "roman-konzept-und-philosophische-fragen",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 154,
-      "readings": 155,
+      "sources": 155,
+      "readings": 156,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -2546,10 +2552,11 @@
         "narrativ",
         "roman-konzept-und-philosophische-fragen",
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 114,
-      "readings": 113,
+      "sources": 115,
+      "readings": 114,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -2660,10 +2667,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
-        "romanarchitektur-kohaerenz-protokoll-finalisierung"
+        "romanarchitektur-kohaerenz-protokoll-finalisierung",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 102,
-      "readings": 103,
+      "sources": 103,
+      "readings": 104,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -3184,10 +3192,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 105,
-      "readings": 106,
+      "sources": 106,
+      "readings": 107,
       "conflict": "none"
     },
     "lia": {
@@ -3376,10 +3385,11 @@
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "kohaerenz-analyse-kapitel-2",
         "roman-konzept-und-philosophische-fragen",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 90,
-      "readings": 90,
+      "sources": 91,
+      "readings": 91,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -3507,10 +3517,11 @@
         "the-coherence-protocol-a-narrative-design-world-architecture",
         "kohaerenz-analyse-kapitel-2",
         "roman-konzept-und-philosophische-fragen",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 101,
-      "readings": 101,
+      "sources": 102,
+      "readings": 102,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -3673,10 +3684,11 @@
         "kael-charakterarchitektur-und-konfliktdynamik",
         "kohaerenz-protokoll-narrative-synthese",
         "romanarchitektur-kohaerenz-protokoll-finalisierung",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 90,
+      "readings": 90,
       "conflict": "none"
     },
     "moros": {
@@ -3946,10 +3958,11 @@
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
         "finales-kausales-plot-geruest",
         "romanprojekt-analyse-synthese",
-        "kohaerenz-protokoll-konzeptionelle-themen-struktur"
+        "kohaerenz-protokoll-konzeptionelle-themen-struktur",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 12,
-      "readings": 11,
+      "sources": 13,
+      "readings": 12,
       "conflict": "none yet"
     },
     "nexus": {
@@ -4078,10 +4091,11 @@
         "kohaerenz-analyse-kapitel-2",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 81,
-      "readings": 81,
+      "sources": 82,
+      "readings": 82,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -4207,10 +4221,11 @@
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
-        "romanarchitektur-kohaerenz-protokoll-finalisierung"
+        "romanarchitektur-kohaerenz-protokoll-finalisierung",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 104,
-      "readings": 105,
+      "sources": 105,
+      "readings": 106,
       "conflict": "C10"
     },
     "oblivion": {
@@ -4679,10 +4694,11 @@
         "project-status-report-kohaerenz-protokoll-canonical-state-st",
         "romanideen-zu-roman-entwickeln",
         "kael-charakterarchitektur-und-konfliktdynamik",
-        "roman-outline-kohaerenz-protokoll-uberarbeitung"
+        "roman-outline-kohaerenz-protokoll-uberarbeitung",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 78,
-      "readings": 78,
+      "sources": 79,
+      "readings": 79,
       "conflict": "none"
     },
     "risse": {
@@ -4810,10 +4826,11 @@
         "kohaerenz-analyse-kapitel-2",
         "narrativ",
         "roman-konzept-und-philosophische-fragen",
-        "refining-dramatica-storyform-for-kohaerenz-protokoll"
+        "refining-dramatica-storyform-for-kohaerenz-protokoll",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 117,
-      "readings": 117,
+      "sources": 118,
+      "readings": 118,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -4962,10 +4979,11 @@
         "narrativ",
         "kohaerenz-protokoll-narrative-synthese",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
-        "romanarchitektur-kohaerenz-protokoll-finalisierung"
+        "romanarchitektur-kohaerenz-protokoll-finalisierung",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 91,
-      "readings": 91,
+      "sources": 92,
+      "readings": 92,
       "conflict": "none"
     },
     "silas": {
@@ -5432,10 +5450,11 @@
         "kohaerenz-protokoll-narrative-synthese",
         "roman-konzept-und-philosophische-fragen",
         "roman-outline-kohaerenz-protokoll-uberarbeitung",
-        "romanarchitektur-kohaerenz-protokoll-finalisierung"
+        "romanarchitektur-kohaerenz-protokoll-finalisierung",
+        "project-coherence-protocol-narrative-blueprint-decisions"
       ],
-      "sources": 102,
-      "readings": 102,
+      "sources": 103,
+      "readings": 103,
       "conflict": "none yet"
     },
     "ueberraum": {

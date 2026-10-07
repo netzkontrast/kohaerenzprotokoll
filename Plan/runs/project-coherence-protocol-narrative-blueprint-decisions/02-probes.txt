@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      88
+  typographic marks      20
+  ascii quotes           156
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architectural, Architecture
+  explo    Exploit, Exploiting, Explosion
+  alter    Alter, Alters
+  analy    Analysis, Analyst
+  avoid    Avoidant, Avoided
+  class    Classical, Classification
+  cogni    Cognition, Cognitive
+  coher    Coherence, Coherent
+  contr    Contradiction, Control
+  criti    Critical, Critique
+  defin    Defining, Definitive
+  disor    Disorder, Disorientation
+  effec    Effect, Effects
+  emoti    Emotion, Emotional
+  final    Final, Finalizing
+  found    Found, Foundation
+  fragm    Fragment, Fragmented
+  garde    Garden, Gardener
+  guard    Guardian, Guardians
+  integ    Integration, Integrator
+  inter    Interspersed, Intervention
+  learn    Learner, Learning
+  logic    Logic, Logics
+  logos    LogOS, Logos
+  manif    Manifestation, Manifestations
+
+# substring pairs -- never one term, often merged by accident
+  Fear < Fears
+  Note < Footnotes
+  Void < Avoided
+  Void < Avoidant
+  Alter < Alters
+  Final < Finalizing
+  Found < Foundation
+  LogOS < Logos
+  Logic < Logics
+  Logic < Ontological
+  Logic < Pathological
+  Logic < Psychological
+  Logic < Epistemological
+  Order < Disorder
+  Roman < Romanideen
+  Effect < Effects
+  Garden < Gardener
+  System < Systemic
+  Emotion < Emotional
+  Exploit < Exploiting

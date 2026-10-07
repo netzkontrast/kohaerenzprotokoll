@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 179 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 179 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 180 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 180 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -546,7 +546,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz Protokoll: Scene-by-Scene Outline](drive/kohaerenz-protokoll-scene-by-scene-outline.md) | 2025-10-15 | 9,842 | **read** | Isabelle 8, Gödel-Gambit 6, Rhys 18, Selene 19, Argus 7, Lia 8, Mnemosyne 11, Alex 7 | Thorne 6, Child Alter 3, Oracle 2, Archipelago 3, Paradox of Misaligned Coherence 4 |
 | [Kohärenz Protokoll: The Official Master Story Guide](drive/kohaerenz-protokoll-the-official-master-story-guide-2.md) | 2025-10-15 | 3,874 |  | Rhys 6, Lia 4, Genesis 3, Isabelle 2, Alex 3, Alters 9, Lex 9, Algorithmische Melancholie† 2 | Action Systems 2, Antagonist-System 2, SystemTheory 2, functional multiplicity 6, Operational Closure 2 |
 | [Narrative Blueprint: The Coherence Protocol](drive/narrative-blueprint-the-coherence-protocol.md) | 2025-10-15 | 11,084 | **read** | Gödel-Gambit 7, Argus 5, Rhys 8, Alex 5, Moros 5, Moonshine-Link 6, Algorithmische Melancholie† 3, Alters 15 | THE GUARDIANS 7, Living Paradox 6, Internal Self-Helper 4, Corrupted 4, D2 3 |
-| [Project Coherence Protocol: Narrative Blueprint Decisions](drive/project-coherence-protocol-narrative-blueprint-decisions.md) | 2025-10-15 | 4,384 |  | Algorithmische Melancholie† 4, Cache-Kohärenz† 2, Gödel-Gambit 2, Rhys 3, Alters 7, Lex 7, Nyx 6, Kiko 4 | Paraconsistent 8, Gödel-sentence 3, The_Void_ 4, Tragedy 3, Classical Logic 4 |
+| [Project Coherence Protocol: Narrative Blueprint Decisions](drive/project-coherence-protocol-narrative-blueprint-decisions.md) | 2025-10-15 | 4,384 | **read** | Algorithmische Melancholie† 4, Cache-Kohärenz† 2, Gödel-Gambit 2, Rhys 3, Alters 7, Lex 7, Nyx 6, Kiko 4 | Paraconsistent 8, Gödel-sentence 3, The_Void_ 4, Tragedy 3, Classical Logic 4 |
 | [Report: Narrative Methodology for "Kohärenz Protokoll"](drive/report-narrative-methodology-for-kohaerenz-protokoll.md) | 2025-10-15 | 2,372 |  | Lex 3, Emergenz† 2, Risse† 5, Kael 21, AEGIS 19 | THE GUARDIANS 4, Observer 3, Co-consciousness 2, Embodiment 2, Agency 3 |
 | [Roman-Plot: Kohärenz-Protokoll-Glitch](drive/roman-plot-kohaerenz-protokoll-glitch.md) | 2025-10-15 | 3,391 |  | Überwelt 10, Risse 9, Emergenz† 2, Kohärenz 4 | Silus 16, Aris 19, Elara 10, Aethelred 2, Archibald 3 |
 | [Romanideen zu Roman entwickeln](drive/romanideen-zu-roman-entwickeln.md) | 2025-10-15 | 2,788 | **read** | Lex 11, Rhys 3, Nyx 8, Alters 8, Kiko 5, Moonshine-Link 2, Multiplizität 2, TSDP 3 | NP 3, Zombie-System 2, Coherence Protocol 5, IIT 2, Kikos 3 |
