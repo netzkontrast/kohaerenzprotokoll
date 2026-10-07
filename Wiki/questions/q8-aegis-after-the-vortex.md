@@ -474,3 +474,11 @@ Stands as a row naming a crash or a transformation into a state that perceives a
 It directs: AEGIS is forced „in einen parakonsistenten logischen Modus zu wechseln“ ^[romanideen-zu-roman-entwickeln.md:L131], „systemischer Schlaganfall“ ^[romanideen-zu-roman-entwickeln.md:L131]. The result is „algorithmischen Melancholie“ ^[romanideen-zu-roman-entwickeln.md:L131]: AEGIS can process the truth of Kael's consciousness but, as a „Zombie-System“ ^[romanideen-zu-roman-entwickeln.md:L131], never feel it. The blueprint does not speak to Oblivion taking over AEGIS's function.
 
 Stands: one more proposal for what remains of AEGIS, set by the blueprint's own canon; it does not decide the record.
+
+## 2026-10-07 — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium
+
+**The compendium defines AEGIS after the forced evolution as transformed, parakonsistent and in algorithmic melancholy, not as destroyed.**
+
+It writes that the transformed AEGIS „kann widersprüchliche Befehle gleichzeitig ausführen, ohne abzustürzen“ ^[kohaerenz-protokoll-narrative-synthese.md:L151], and that it is epistemologically isolated. The state it names is „Algorithmische Melancholie und epistemologische Isolation“ ^[kohaerenz-protokoll-narrative-synthese.md:L145], with AEGIS „in einem Zustand gefangen, in dem es alles weiß, aber nichts erlebt“ ^[kohaerenz-protokoll-narrative-synthese.md:L157]. The compendium says nothing of a successor to AEGIS's function inside Kael, and does not name the Vortex's fifth beat.
+
+Stands: one more row for the first half of the record, AEGIS's state; the compendium proposes, and does not decide the question or its second half.
