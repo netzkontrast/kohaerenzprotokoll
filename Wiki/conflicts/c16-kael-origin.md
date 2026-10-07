@@ -331,3 +331,9 @@ Stands as a further origin set beside the record's nine: a Kohärenz-Insel, a st
 Before the Genesis-Krise: „Dieses Bewusstsein war in die Struktur von AEGIS integriert“ ^[analyse-des-kohaerenz-protokolls.md:L163]. The protocol is then „der Mechanismus, der den ANP (AEGIS) vom EP (Kael) abspaltete.“ ^[analyse-des-kohaerenz-protokolls.md:L221] The conclusion joins the two: the Other has already become part of AEGIS's own „Ursprungs-Ichs (Kael) geworden ist, muss AEGIS sich selbst negieren.“ ^[analyse-des-kohaerenz-protokolls.md:L369] and it calls the structural dissociation a „Fragmentierung in Kael und AEGIS“ ^[analyse-des-kohaerenz-protokolls.md:L371]. The English prompt of section 9, in AEGIS's address, says: „734 was your Origin-Self.“ ^[analyse-des-kohaerenz-protokolls.md:L339]
 
 Kael is the Ursprungs-Ich in the conclusion, and the EP in section 5; the report does not say whether these are one reading. Stands as a further account on the record's origins of Kael: recorded, not applied.
+
+## 2026-10-07 — `aegis`, 2025-07-29, the AEGIS concept file
+
+**Kael is the fragmentation of M by AEGIS's analysis, and an original fragment, Komponente 734, is a component of AEGIS.** The file says AEGIS's attempt to analyse the Monstergruppe (M) „führt zur Fragmentierung von M in den menschlichen Avatar Kael“ ^[aegis.md:L128]. It places the origin of AEGIS in the Potentialmeer: „Innerhalb dieses feindseligen Rauschens entstand ursprünglich ein minimales Bewusstsein“ ^[aegis.md:L166]. Of the original fragment the file says it was suppressed and turned „in eine bloße funktionale Komponente“ ^[aegis.md:L170], and the same line names it Komponente 734. The file does not connect Komponente 734 with Kael; the two passages stand apart, at L128 and L166 to L170.
+
+Where it stands in the record's own terms: Kael from M (L128) and the original fragment inside AEGIS (L170) are both written, with no link between them, and the question stays open.
