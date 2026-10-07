@@ -1,0 +1,31 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      28
+  typographic marks      20
+  ascii quotes           80
+
+# inflection families -- one term, several surfaces
+  diale    Dialectic, Dialetheical
+  disor    Disorder, Disorientation
+  disso    Dissociation, Dissociative
+  emerg    Emergence, Emergent
+  funct    Functional, Functionally
+  glitc    Glitch, Glitches
+  guard    Guardian, Guardians
+  gödel    Gödel, Gödelian
+  integ    Integrated, Integration
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Here < Coherence
+  Gödel < Gödelian
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Epistemological
+  Order < Border
+  Order < Disorder
+  Point < Midpoint
+  Glitch < Glitches
+  Guardian < Guardians
+  Functional < Functionally

@@ -1,0 +1,100 @@
+{
+  "document": "coherence-protocol-a-three-act-narrative-blueprint",
+  "drive_id": "1o9E_fXg1zdQ7zXceMAG5a2sUKraO39WXKqrk_iDrOGw",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 28,
+  "typographic_marks": 20,
+  "ascii_quotes": 80,
+  "inflection_families": {
+    "diale": [
+      "Dialectic",
+      "Dialetheical"
+    ],
+    "disor": [
+      "Disorder",
+      "Disorientation"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "funct": [
+      "Functional",
+      "Functionally"
+    ],
+    "glitc": [
+      "Glitch",
+      "Glitches"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelian"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Gödel",
+      "Gödelian"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Order",
+      "Border"
+    ],
+    [
+      "Order",
+      "Disorder"
+    ],
+    [
+      "Point",
+      "Midpoint"
+    ],
+    [
+      "Glitch",
+      "Glitches"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Functional",
+      "Functionally"
+    ]
+  ]
+}

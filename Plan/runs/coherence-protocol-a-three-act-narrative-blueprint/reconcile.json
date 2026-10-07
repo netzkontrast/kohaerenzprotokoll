@@ -1,0 +1,71 @@
+{
+  "document": "coherence-protocol-a-three-act-narrative-blueprint",
+  "drive_id": "1o9E_fXg1zdQ7zXceMAG5a2sUKraO39WXKqrk_iDrOGw",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; light pass — no readings, as an extract of documents 84 and 169; rlm_ingest not run",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 77,
+    "decided_by_lookup": 61,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: an English three-act blueprint whose every body line stands word for word in document 84, ai-assisted-narrative-coherence, which carries it as a part, and in document 169, the-coherence-protocol-a-narrative-distillation (L257–L355); document 84's readings on these pages hold the same, and its new surfaces were decided there.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the project's name), J34 (Juna/V, Juna Echo, read on juna), J49 (LogOS-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth — world names), J5 (negentropy / entropy; the Negentropie-Fehlinterpretation, on negentropie), J12 and J16 (compounds and qualified labels with their own sense: Guardian Mnemosyne, Guardian Cerberus, the TSDP's full name), as document 84 decided them; ontological exploit is not Alex, depersonalization and the TSDP's full name are not Personas, and emergent agency that AEGIS cannot model is a phrase, not a surface of AEGIS",
+  "sweep": [
+    {
+      "page": "cerberus",
+      "surface": "Cerberus",
+      "line": 54,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence (and in document 169), whose reading on this page holds the same"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 27,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence (and in document 169), whose reading on this page holds the same"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 53,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence (and in document 169), whose reading on this page holds the same"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 51,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence (and in document 169), whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "everything document 84 did not promote — the blueprint's act labels, its sample paragraph and its thematic summary"
+  ],
+  "internal_tension": "none beyond document 84's",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
