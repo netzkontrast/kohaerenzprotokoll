@@ -673,3 +673,11 @@ Where it stands: on the side of four pairs with Kairos and Sophia sharing one wo
 It writes of the first: „KW1 (Logos-Prime) wird von der Entität LogOS bewohnt“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61], and of the second, „KW2 (Mnemosyne-Archipel) ist das Reich der Emotionen“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61]. The third is „KW3 (Cerberus-Labyrinth) visualisiert Hypervigilanz“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61] and the fourth „KW4 (Kairos-Potentialis) verkörpert schließlich Potenzial und Kreativität“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61]. Only the first world has an inhabitant named in the line; the others are described by what they stand for. The analysis maps these worlds onto the psyche in its second loop, whose confirmation rests on data not in the file.
 
 Where it stands in the record's own terms: four worlds, one inhabitant named and no Guardian, in an analysis that proposes a mapping; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint
+
+**The detailed plot blueprint places Wächter in the four Kernwelten by possibility and by AEGIS's side, without a one-to-one table.**
+
+In KW1 it writes „AEGIS und sein Wächter LogOS intervenieren hier am deutlichsten“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L43]. For KW3 it proposes „Der Wächter Cerberus könnte hier als Hüter der Grenzen oder Verkörperung der Angst auftreten.“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L45] For KW4 it writes „Der Wächter Kairos, verbunden mit dem rechten Zeitpunkt und der Gelegenheit, könnte hier eine Rolle spielen.“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L46] Mnemosyne is named as a Wächter charged with data collection in the first intervention phase: „Wächter wie LogOS (Logik) und Mnemosyne (Gedächtnis) werden beauftragt, Daten zu sammeln und Analysen durchzuführen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L70]. The document names no Wächter for KW2 in the lines read, and no Sophia.
+
+Where it stands: LogOS, Cerberus and Kairos are tied to worlds, two of them in the modal mood; Mnemosyne is tied to a task, not a world; recorded, not applied, and the record's rows are not changed.
