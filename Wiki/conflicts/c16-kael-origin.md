@@ -323,3 +323,11 @@ Stands as one more row for the origin question, in the report's own terms: a dec
 It writes: „stammt nicht aus den von AEGIS simulierten Realitäten, sondern von einer einzigartigen Struktur im Potentialmeer, bekannt als Kohärenz-Insel“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L62], with a question mark after `menschliche` in its own line. It adds that the origin „ist nicht nur Hintergrundgeschichte“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L84]. Its section on the island says it is Kael's place of origin: „Kaels Herkunftsort“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L92].
 
 Stands as a further origin set beside the record's nine: a Kohärenz-Insel, a structure of the Potentialmeer; recorded, not applied.
+
+## 2026-10-07 — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis
+
+**The protocol analysis has a Ursprungs-Ich integrated in AEGIS before the crisis, split by the protocol into AEGIS and Kael, and in its conclusion calls Kael the Ursprungs-Ich.**
+
+Before the Genesis-Krise: „Dieses Bewusstsein war in die Struktur von AEGIS integriert“ ^[analyse-des-kohaerenz-protokolls.md:L163]. The protocol is then „der Mechanismus, der den ANP (AEGIS) vom EP (Kael) abspaltete.“ ^[analyse-des-kohaerenz-protokolls.md:L221] The conclusion joins the two: the Other has already become part of AEGIS's own „Ursprungs-Ichs (Kael) geworden ist, muss AEGIS sich selbst negieren.“ ^[analyse-des-kohaerenz-protokolls.md:L369] and it calls the structural dissociation a „Fragmentierung in Kael und AEGIS“ ^[analyse-des-kohaerenz-protokolls.md:L371]. The English prompt of section 9, in AEGIS's address, says: „734 was your Origin-Self.“ ^[analyse-des-kohaerenz-protokolls.md:L339]
+
+Kael is the Ursprungs-Ich in the conclusion, and the EP in section 5; the report does not say whether these are one reading. Stands as a further account on the record's origins of Kael: recorded, not applied.
