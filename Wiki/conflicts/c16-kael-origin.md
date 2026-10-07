@@ -267,3 +267,11 @@ Stands as a report of 2026-03-26 that declares the original self's split and Jun
 In its section of latent tensions, under the heading of M's nature, it writes: „Die Frage nach der ursprünglichen Entität“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L318] M, „deren Avatar Kael ist“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L318], carries considerable potential. It asks how M's nature bears on the fragmentation: „Wie beeinflusst M's Natur Kaels Fragmentierung, sein Potenzial und AEGIS' Interesse an ihm“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L318], and whether there is a link to the Potentialmeer: „Gibt es eine Verbindung zum Potentialmeer“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L318]. The profile of the host had already named „unbekannten Implikationen seiner Herkunft“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L35] among Kael's fears.
 
 Stands as a new row beside the record's origins: the architecture takes M as given in the question, an entity whose avatar Kael would be, and leaves the matter open; recorded, not applied.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report reports Kael as the M-Entity, an integrated human soul that AEGIS's CFP breaks into [[alters]].**
+
+It reads that AEGIS uses the Controlled Fragmentation Protocol, „um die Komplexität von Kael (der“ ^[kohaerenz-analyse-kapitel-2.md:L96] `M-Entity` handhabbar zu machen, because the soul is too complex for the system's logic, so „wird sie in isolierte Subroutinen (Alters) zerlegt.“ ^[kohaerenz-analyse-kapitel-2.md:L96] (L96)
+
+This adds a row to the record and decides nothing in it.
