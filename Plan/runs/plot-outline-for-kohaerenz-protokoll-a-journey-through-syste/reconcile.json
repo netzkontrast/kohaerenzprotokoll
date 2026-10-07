@@ -1,0 +1,240 @@
+{
+  "document": "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste",
+  "drive_id": "1EwQA8424J5zPD4hoyIZNUZUevryG3tCv2tORTzkdR_Q",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-219/brief.md; chapter readings on Kap 13, 17, 38, 39 by the session, Plan/runs/ingest-219-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 56,
+    "decisions": 55,
+    "decided_by_lookup": 48,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English plot outline in three parts with three turning points: its new surfaces are the journey structures, Paradoxon X, the Entropie-Knotenpunkt, Das Fundament, The Open Protocol and the meta-narrative devices; what it says of the novel's world went on existing pages, four chapter pages and three records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        59,
+        63,
+        86,
+        89,
+        98
+      ],
+      "attribution": "",
+      "note": "AEGIS as the opposed definition of coherence, and its planned fate"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "the Alters forced into cooperation at the end of Chapter 13"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "Argus as one of Kael's analytical parts in Part II"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "the Cache Kohärenz problem as a name for Kael's memory and identity inconsistencies"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        86,
+        88,
+        92
+      ],
+      "attribution": "",
+      "note": "the Gödel Gambit as the climax of Chapters 33-35"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        59,
+        69
+      ],
+      "attribution": "",
+      "note": "Guardians as specialized system agents AEGIS deploys in Part II"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        32,
+        70,
+        89
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external influence that grows"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        25,
+        36,
+        47,
+        63,
+        82,
+        99
+      ],
+      "attribution": "",
+      "note": "Kael's arc across three parts and three turning points"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        36,
+        38,
+        39
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as externalized psyche, with two named worlds"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "Kiko as an Emotional Part of the second Kernwelt"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as Kael's starting world in Part I"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "Lex as one of Kael's analytical parts in Part II"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link provided by Juna/V in the Gödel Gambit"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the chaos AEGIS's order defends against"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "Nyx as a protective part of the third Kernwelt"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "the Risse as glitches that are manifestations of Kael's suppressed trauma"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        82
+      ],
+      "attribution": "",
+      "note": "Selene as the integrative self guiding functional multiplicity"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "Kael probing the Überwelt in Part II"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      13,
+      17,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4"
+  ],
+  "questions_changed": [
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J34 (Juna/V on juna), J49 (Mnemosyne-Archipel and Cerberus-Labyrinth, KW2's and KW3's names, read on kern-welten); Entropie-Knotenpunkt and its gloss Entropy Nexus are the crisis of chapter 13, neither entropy nor the Nexus",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 32,
+      "decision": "reading",
+      "why": "the Juna/V connection, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 45,
+      "decision": "occurrence",
+      "why": "the gloss Entropy Nexus"
+    }
+  ],
+  "not_promoted": [
+    "the journey structures",
+    "Paradoxon X",
+    "the Entropie-Knotenpunkt",
+    "Das Fundament",
+    "The Open Protocol and the meta-narrative devices"
+  ],
+  "internal_tension": "it writes Gödel-Gambit and Gödel Gambit; its chapter ranges are approximate (Approx. Chapters 1-13, 14-26, 27-39)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

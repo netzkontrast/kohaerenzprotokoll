@@ -1,0 +1,14 @@
+# plot-outline-for-kohaerenz-protokoll-a-journey-through-syste
+  lines                103  (frontmatter ends at 9)
+  body words           1937
+  headings             15   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    13   ascii quotes 62
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    9
+  repeated labels      none
+  longest line         1069 chars
+

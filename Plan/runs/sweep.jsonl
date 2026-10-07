@@ -901,3 +901,6 @@
 {"document": "kael-system-tsdp-analyse-und-profile", "page": "juna", "surface": "Juna", "line": 15, "decision": "reading", "why": "Juna/V among the report's subjects, read on juna", "at": "2026-10-07"}
 {"document": "kael-system-tsdp-analyse-und-profile", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the Protokoll's name in the title", "at": "2026-10-07"}
 {"document": "kael-system-tsdp-analyse-und-profile", "page": "personas", "surface": "Persona", "line": 90, "decision": "occurrence", "why": "Isabelle's persona of control", "at": "2026-10-07"}
+{"document": "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "page": "juna", "surface": "Juna", "line": 32, "decision": "reading", "why": "the Juna/V connection, read on juna", "at": "2026-10-07"}
+{"document": "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the Protokoll's name in the title", "at": "2026-10-07"}
+{"document": "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "page": "nexus", "surface": "Nexus", "line": 45, "decision": "occurrence", "why": "the gloss Entropy Nexus", "at": "2026-10-07"}

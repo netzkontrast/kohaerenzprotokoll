@@ -1,0 +1,84 @@
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "architected"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`architected` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#3]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "engineered"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`engineered` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#3]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "Turning Point"
+whole word, case-sensitive     3
+whole word, case-insensitive   5
+including compounds            4
+
+`Turning Point` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#3]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "Approx."
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Approx.` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#3]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#0]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "ANP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`ANP` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#1]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#1]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "Juna/V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#4]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "Gödel-Gambit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Gambit` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#1]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "Gödel Gambit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gödel Gambit` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#2]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "Emotionalen Teile"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Emotionalen Teile` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#1]
+
+$ read.py plot-outline-for-kohaerenz-protokoll-a-journey-through-syste --count "Emotional Parts"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Emotional Parts` ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:#3]
+
