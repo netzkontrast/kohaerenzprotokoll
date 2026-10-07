@@ -1,0 +1,304 @@
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count vielleicht
+whole word, case-insensitive   47
+including compounds            43
+
+`vielleicht` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#43]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count möglicherweise
+whole word, case-insensitive   30
+including compounds            28
+
+`möglicherweise` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#28]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count könnte
+whole word, case-insensitive   31
+including compounds            39
+
+`könnte` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#29]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Dr. Thorne
+whole word, case-insensitive   19
+including compounds            20
+
+`Dr. Thorne` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#19]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Einheit 734
+whole word, case-insensitive   18
+including compounds            19
+
+`Einheit 734` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#18]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Reboot
+whole word, case-insensitive   7
+including compounds            10
+
+`Reboot` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#7]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Risse
+whole word, case-insensitive   49
+including compounds            58
+
+`Risse` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#49]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Riss
+whole word, case-insensitive   21
+including compounds            80
+
+`Riss` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#21]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Alters
+whole word, case-insensitive   31
+including compounds            37
+
+`Alters` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#31]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Alter
+whole word, case-insensitive   14
+including compounds            51
+
+`Alter` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#13]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Guardians
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#2]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Entropic Gatekeeper
+whole word, case-insensitive   2
+including compounds            3
+
+`Entropic Gatekeeper` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#2]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Entropic Gatekeepers
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropic Gatekeepers` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Heldereise
+whole word, case-insensitive   1
+including compounds            1
+
+`Heldereise` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Heldenreise
+whole word, case-insensitive   0
+including compounds            0
+
+`Heldenreise` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#0]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Sektor Gamma
+whole word, case-insensitive   12
+including compounds            12
+
+`Sektor Gamma` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#12]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Ebene 0
+whole word, case-insensitive   6
+including compounds            6
+
+`Ebene 0` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#6]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Ebene 6
+whole word, case-insensitive   3
+including compounds            3
+
+`Ebene 6` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#3]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count AEGIS Hub
+whole word, case-insensitive   2
+including compounds            2
+
+`AEGIS Hub` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#2]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count AEGIS-Hub
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Hub` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count 1-542
+whole word, case-insensitive   58
+including compounds            58
+
+`1-542` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#58]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count 565-1183
+whole word, case-insensitive   46
+including compounds            46
+
+`565-1183` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#46]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count 1207-1540
+whole word, case-insensitive   14
+including compounds            14
+
+`1207-1540` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#14]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Schattenkind
+whole word, case-insensitive   23
+including compounds            24
+
+`Schattenkind` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#23]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Spiegel
+whole word, case-insensitive   10
+including compounds            19
+
+`Spiegel` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#10]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count DID
+whole word, case-insensitive   12
+including compounds            27
+
+`DID` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#12]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count HJ-Stufe
+whole word, case-insensitive   13
+including compounds            13
+
+`HJ-Stufe` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#13]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Überarbeitete Plot-Zusammenfassung
+whole word, case-insensitive   13
+including compounds            13
+
+`Überarbeitete Plot-Zusammenfassung` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#13]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Plot-Fortschritt
+whole word, case-insensitive   25
+including compounds            25
+
+`Plot-Fortschritt` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#25]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Sensorische Palette
+whole word, case-insensitive   5
+including compounds            5
+
+`Sensorische Palette` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#5]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Dialog-Fokus
+whole word, case-insensitive   5
+including compounds            5
+
+`Dialog-Fokus` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#5]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Metaphern-Einsatz
+whole word, case-insensitive   5
+including compounds            5
+
+`Metaphern-Einsatz` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#5]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Character Integration Matrix
+whole word, case-insensitive   1
+including compounds            1
+
+`Character Integration Matrix` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Location Activation Summary
+whole word, case-insensitive   1
+including compounds            1
+
+`Location Activation Summary` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Primäre Kern-Welt(en)
+whole word, case-insensitive   13
+including compounds            13
+
+`Primäre Kern-Welt(en)` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#13]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Basisrealität
+whole word, case-insensitive   10
+including compounds            11
+
+`Basisrealität` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#10]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Mentale Ebene
+whole word, case-insensitive   5
+including compounds            4
+
+`Mentale Ebene` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#4]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Informations-Ebene
+whole word, case-insensitive   2
+including compounds            2
+
+`Informations-Ebene` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#2]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Unterbewusste Ebene
+whole word, case-insensitive   3
+including compounds            2
+
+`Unterbewusste Ebene` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#2]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Kreativ-Konstruktive Ebene
+whole word, case-insensitive   1
+including compounds            1
+
+`Kreativ-Konstruktive Ebene` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count AEGIS-Kontrollebene
+whole word, case-insensitive   5
+including compounds            5
+
+`AEGIS-Kontrollebene` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#5]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Verlorenes Kind
+whole word, case-insensitive   1
+including compounds            1
+
+`Verlorenes Kind` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Verlorenen Kind
+whole word, case-insensitive   1
+including compounds            1
+
+`Verlorenen Kind` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Kaels
+whole word, case-insensitive   59
+including compounds            59
+
+`Kaels` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#59]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Reboot .
+whole word, case-insensitive   1
+including compounds            1
+
+`Reboot .` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]
+
+stance_marker_count 100 = 43 + 28 + 29: 100
+$ python3 scripts/capture.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count
+1 `- ` line(s) read as prose, not counted: Dr. Thorne
+wrote /home/user/kohaerenzprotokoll/Plan/runs/romanplot-uberarbeitung-kohaerenz-protokoll-teil-1/04-counts.txt
+
+98
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count könnte (full)
+whole word, case-sensitive     29
+whole word, case-insensitive   31
+including compounds            39
+
+`könnte` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#29]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Heldenreise (full)
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Heldenreise` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#0]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Riss (full)
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            80
+
+`Riss` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#21]
+
+$ python3 scripts/read.py romanplot-uberarbeitung-kohaerenz-protokoll-teil-1 --count Alter (full)
+whole word, case-sensitive     13
+whole word, case-insensitive   14
+including compounds            51
+
+`Alter` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#13]
+
