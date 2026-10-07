@@ -725,3 +725,11 @@ Stands as one Guardian named for the memory streams, with no pairing and no Eras
 Its Kapitel 5 (the essay's own section) says the Kernwelten „fungieren als riesige, umgebungsbasierte“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L107] Skinner boxes, and that they are built as totalitarian environments: „werden die Kernwelten als totalitäre Umgebungen gestaltet“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L109]. Its table 2 pairs worlds with parts, one per row: `KW1 (Logos-Prime)` with Lex (L120), `KW3 (Cerberus-Labyrinth)` with Nyx (L121), and two worlds marked `Annahme`, one for Rhys and one for Kiko (L122, L123). The table has no KW2 and no column for a bearer or Guardian; the count of `Guardian` in the essay is `Guardian` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#0].
 
 The essay pairs worlds with parts, and says nothing of a Guardian per world; the record's question of which Guardian goes with which world therefore stays open in the record's own terms.
+
+## 2026-10-07 — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis
+
+**The DKT synthesis lists five Guardians, each with one named domain, and does not call any of the domains a Kern-Welt.**
+
+In its Guardians section the analysis gives each Guardian a domain: LogOS „Er scheitert an Gödels Unvollständigkeit“ ^[roman-synthese-mit-dual-kernel-theorie.md:L417] after guarding the logic of the Konstrukt-Stadt; Mnemosyne „Verwaltet die Datenströme der Erinnerung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L418]; Cerberus „Implementiert Sicherheitsprotokolle in der Grenzfeste“ ^[roman-synthese-mit-dual-kernel-theorie.md:L419]; Kairos „Steuert die kreativen Prozesse im Möglichkeiten-Garten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L420]; Sophia „Repräsentiert die systemimmanente Weisheit der Überwelt“ ^[roman-synthese-mit-dual-kernel-theorie.md:L421]. The word `Kernwelten` ^[roman-synthese-mit-dual-kernel-theorie.md:#1] stands once, in Kapitel 29: „Kollaps der Schutzzonen zwischen den Kernwelten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L298]. The analysis does not pair a Guardian with a Kern-Welt and writes `Erasure-Pol` ^[roman-synthese-mit-dual-kernel-theorie.md:#0] nowhere.
+
+Stands as a list of five Guardians with five separate domains and no pairing with worlds; recorded, not applied to the question of four worlds.
