@@ -1,0 +1,29 @@
+<!-- 2026-10-07 ingest of github.com/openai/math (the author's request of 2026-10-07): steps 1–4, on Sonnet, at most two readers at once. -->
+Work in /home/user/kohaerenzprotokoll. Today is 2026-10-07. **You run on Sonnet.** Name it wherever your definition asks for the model: `written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count` and in the note's `read:` „… by a document-reader subagent (Sonnet)“.
+
+Your document: slug `openai-math-trace-quasipolynomial-arithmetic-progressions` (OpenAI math — Reasoning summary: Quasipolynomial bounds for arithmetic progressions, pdf, theorie-mathematik, T2-theory). Nobody has read it; there is no run folder yet.
+
+**Your rulebook is `Plan/runs/reader-lab-2026-09-30/card.md`** plus steps 1–3 of `.agents/skills/ingest/SKILL.md` (sections *1 · Open the run* to *3 · Count, then write the census*) for the candidate list. Read, in this order: the card, `.agents/skills/reader-tools/references/failures.md`, the two ingest sections, `Plan/briefings/extract.md`; then open the run and read the document. Never read a script's source, `Wiki/`, `NOW.md`, or another document's files.
+
+Your job:
+1. `python3 scripts/capture.py openai-math-trace-quasipolynomial-arithmetic-progressions` and read `Plan/runs/openai-math-trace-quasipolynomial-arithmetic-progressions/01-profile.txt` before the document.
+2. **No `--count` of any kind before the list exists** — not `capture.py --count`, not `read.py --count`; `--find` to check a spelling is fine. Read the whole document with `python3 scripts/read.py openai-math-trace-quasipolynomial-arithmetic-progressions` (in ranges with `--from/--to` if it is long). **Write `Plan/runs/openai-math-trace-quasipolynomial-arithmetic-progressions/03-candidates.md` while you read**, before any count: a `written_by:` line, then one `- term` per line, each written as the document writes it (ask `read.py --find` when unsure); observations as paragraphs, never as `- ` bullets. The rule for what is a candidate is the briefing's: what the document names in the novel's world, the words it uses as its own terms, the borrowed concepts it applies.
+3. `python3 scripts/capture.py openai-math-trace-quasipolynomial-arithmetic-progressions --count`.
+4. `python3 scripts/census.py draft openai-math-trace-quasipolynomial-arithmetic-progressions`. Fill its two `<!-- reader: … -->` sections, delete the marks, save it as `Sources/terms/openai-math-trace-quasipolynomial-arithmetic-progressions.md`; `python3 scripts/census.py check openai-math-trace-quasipolynomial-arithmetic-progressions` must say „holds".
+5. The note, `Sources/notes/openai-math-trace-quasipolynomial-arithmetic-progressions.md`, in the card's skeleton. Every quotation copied from `read.py --find` output, every number from `read.py --count`.
+6. `Plan/runs/openai-math-trace-quasipolynomial-arithmetic-progressions/05-verify.txt`: every number your prose states, with the command that produced it.
+7. `python3 scripts/claims.py draft openai-math-trace-quasipolynomial-arithmetic-progressions`; copy `claims-draft.md` to `claims.md` and fill the last two cells of every row — **who says it** (`document`, or `source: <who>` when the line reports another text, a narrative, a theory or a person; then your sentence must say so too) and **holds?** (`yes`, or `fixed` after you changed the sentence). `python3 scripts/claims.py check openai-math-trace-quasipolynomial-arithmetic-progressions` must say „holds".
+
+Do not log runlog phases. Ask several quotations in one Bash call. Never run git.
+
+**Lessons from earlier documents in this run.** (1) When the document quotes another text, a name or phrase inside that quotation is that text's, not the document's own — say whose words they are. (2) Put the citation directly after the closing „“ mark; a count mark directly after its backticked term. (3) `quotes.py --unchecked <file>` names an uncited line exactly. (4) `--find` drops digits glued to words; quote around them.
+
+Before you finish: `census.py check` holds, `claims.py check` holds, and `python3 scripts/quotes.py --strict` on both files ends `strict: PASS` — paste that line for each file into your report; if either says FAIL, fix it and run it again.
+
+Report:
+- the document in two sentences;
+- how many candidates you listed, and the zeros and what each is;
+- anything the card or the failures page did not tell you that you needed;
+- any tool that behaved wrongly.
+
+**What is different about this document.** It is not from Drive and not about the novel: it comes from the public GitHub repository `openai/math` (commit `adc7f12`, released 2026-10-06), a collection of mathematics manuscripts that OpenAI says an internal model produced. It is in **English**, and quotations stay English, exactly as written. Read the candidate rule with that in mind: the novel's world is absent, so the candidates are the words the document uses as its own terms and the concepts it names. That means the named problems, conjectures and theorems it says were proved, refuted or attacked; the mathematical objects and methods it leans on; the people, institutions, models and tools it names (for example a proof assistant or a product); and its own vocabulary about the work, such as how it describes producing, checking or summarising a result. Be selective by that rule, not exhaustive. A term the document only mentions once in passing inside a formula is not a candidate. Formulas are written in LaTeX; never quote across a `$…$` span when a plain-text phrase says the same thing. This is one of the collection's ten „reasoning summaries“, an abridged summary of the model's reasoning on one result, converted from PDF by markitdown: expect words glued together where the PDF had no space (`--find` tells you how the file writes them), page headers repeated, and formulas as LaTeX.
