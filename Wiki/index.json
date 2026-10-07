@@ -727,9 +727,11 @@
         "Birch–Swinnerton-Dyer formula",
         "birch-swinnerton-dyer"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-contents"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "blinder-fleck": {
@@ -1946,9 +1948,11 @@
         "Hilbert’s tenth problem",
         "hilberts-tenth-problem"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-contents"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "hitze-polaritaetsregel": {
@@ -2004,9 +2008,12 @@
         "hodge-conjecture",
         "rational Hodge conjecture"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-contents",
+        "openai-math-readme"
+      ],
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "internal-openai-model": {
@@ -3355,9 +3362,11 @@
         "geometric Langlands",
         "langlands"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-contents"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "lean-formalization": {
@@ -3370,10 +3379,11 @@
         "lean-formalization"
       ],
       "ingested": [
-        "openai-math-readme"
+        "openai-math-readme",
+        "openai-math-contents"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "lex": {
@@ -3716,10 +3726,11 @@
         "result family"
       ],
       "ingested": [
-        "openai-math-readme"
+        "openai-math-readme",
+        "openai-math-contents"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "mezard-parisi-formula": {
@@ -3730,9 +3741,11 @@
         "Mézard–Parisi formula",
         "mezard-parisi-formula"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-contents"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "mnemosyne-server-architektur": {
@@ -4323,9 +4336,11 @@
         "Navier–Stokes",
         "navier-stokes"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-contents"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -4916,9 +4931,12 @@
         "quasi-riemann-hypothesis",
         "zero-free half-plane"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-contents",
+        "openai-math-readme"
+      ],
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "realitaetsebenen": {
@@ -6074,9 +6092,11 @@
         "Unique Games Theorem",
         "unique-games-conjecture"
       ],
-      "ingested": [],
-      "sources": 0,
-      "readings": 0,
+      "ingested": [
+        "openai-math-contents"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
