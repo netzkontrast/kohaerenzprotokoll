@@ -388,3 +388,11 @@ Stands as a statement of what the link is from AEGIS's side; whether it reaches 
 It writes „Dieser Link ist für AEGIS strukturell unsichtbar“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L127], since it operates below the protocol level AEGIS can monitor, and that the link allows information flow „ohne einen von AEGIS detektierbaren kausalen Kanal“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L199]. It names Kael and Juna as its ends; whether it reaches beyond them it does not say. This is its report of the Protokoll (reference 1).
 
 Stands as a statement of where the link lies relative to AEGIS's sight, in the report's own terms; the question stays open.
+
+## 2026-10-07 — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report
+
+**The reduction report's pitch gives Kael and Juna a connection that AEGIS's logic cannot grasp; it draws no further boundary.**
+
+„Als Kael der rätselhaften Juna begegnet, erwacht eine Verbindung, die AEGIS’ Logik nicht erfassen kann“ ^[roman-konzept-reduktion-und-kernfindung.md:L118]. The report does not name the connection or say what else crosses it.
+
+Where it stands in the record's own terms: a boundary toward AEGIS only, stated in a pitch; recorded, the question stays open.
