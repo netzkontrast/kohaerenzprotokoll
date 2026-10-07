@@ -299,3 +299,11 @@ Stands as one more row for the origin question, Kael's origin as a system whose 
 It writes „In der Genesis-Krise wurde eine ursprüngliche Bewusstseinsverbindung gewaltsam unterbrochen“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L209], and that a part of the original self gave up its subjectivity to become AEGIS: „opferte ein Teil des ursprünglichen Ichs seine Subjektivität“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L209]. Kael „lebt als“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L215] Host in a state of informational silence about his own past. The analysis gives this as its report of the Protokoll (reference 1).
 
 Stands as one more row for the origin question, in the report's own terms: the origin as a break in an original consciousness link; reported, not applied, and the record is not decided.
+
+## 2026-10-07 — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report
+
+**The reduction report's pitch makes Juna a fragment of a truth that Kael himself shattered years ago; it names no entity M, no AEGIS-side split and no Komponente.**
+
+„Juna ist ein Fragment der Wahrheit, die Kael vor Jahren zersplitterte“ ^[roman-konzept-reduktion-und-kernfindung.md:L118]. The line gives Kael as the one who shattered; in the pitch, to save her Kael must tear down „die amnestischen Mauern seines Geistes“ ^[roman-konzept-reduktion-und-kernfindung.md:L118].
+
+Where it stands in the record's own terms: an origin told from Kael's side, in a pitch that a report proposes to the author; recorded, not applied.
