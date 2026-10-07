@@ -1,0 +1,230 @@
+{
+  "document": "kohaerenz-protokoll-narrative-architektur",
+  "drive_id": "1_TeVJ_awkCuLjtkt1RoXTLrDlYVk_Fp91CELx5_n478",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 104,
+    "decisions": 104,
+    "decided_by_lookup": 93,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        24,
+        42,
+        52,
+        54,
+        58,
+        66,
+        74,
+        90,
+        92,
+        94
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Objective Story, a tragic system with two ways out"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        84,
+        90,
+        94
+      ],
+      "attribution": "",
+      "note": "the gambit as the climax of the Objective Story"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        102
+      ],
+      "attribution": "",
+      "note": "the Guardians of the transformed AEGIS"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        86,
+        174,
+        194
+      ],
+      "attribution": "",
+      "note": "Juna/V as the IC and catalyst, her nature left ambiguous"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        22,
+        121,
+        129,
+        139,
+        210,
+        241,
+        266
+      ],
+      "attribution": "",
+      "note": "Kael as the MC, built on the TSDP, healing as functional multiplicity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        226
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as resonance spaces, one per throughline"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        129,
+        164
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part in the alter table"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        74,
+        278
+      ],
+      "attribution": "",
+      "note": "coherence as an activity, against AEGIS's definition"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        76,
+        165
+      ],
+      "attribution": "",
+      "note": "Lex as analyst part, and a speaker for D2"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        86,
+        113,
+        184,
+        190
+      ],
+      "attribution": "",
+      "note": "the link as an ontological exploit"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        76,
+        135,
+        139,
+        206
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as healing's aim"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        52,
+        90
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as what AEGIS defends against and dissolves into"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        76,
+        163
+      ],
+      "attribution": "",
+      "note": "Nyx as the fighting protector"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        104
+      ],
+      "attribution": "",
+      "note": "the Glitches of the transformed AEGIS as paraconsistent logic"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        166,
+        278
+      ],
+      "attribution": "",
+      "note": "Selene as integrating self, and the reader's role"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        129,
+        131,
+        163
+      ],
+      "attribution": "",
+      "note": "TSDP as the model of Kael's inner structure"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 300,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 32,
+      "decision": "occurrence",
+      "why": "the general word in the table's summary"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 104,
+      "decision": "reading",
+      "why": "glitches of the transformed AEGIS, read on risse"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
