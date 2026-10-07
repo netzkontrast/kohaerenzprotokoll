@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      11
+  backslash escapes      0
+  typographic marks      3
+  ascii quotes           56
+
+# inflection families -- one term, several surfaces
+  syste    System, Systembedrohung, Systeme, Systemfehler, Systemgenesis, Systeminstabilität, Systemintegrität, Systems, Systemschöpfer, Systemweite
+  inter    Interaktion, Interaktionen, Interface, Interferenz, Interventionen
+  simul    Simulation, Simulationen, Simulationsstruktur, Simulationstheorie, Simuliert
+  funkt    Funktion, Funktional, Funktionale, Funktionsweise
+  reali    Realität, Realitätsebene, Realitätsebenen, Realitätsverzerrungen
+  alter    Alter, Alternative, Alters
+  daten    Daten, Datenanalyse, Datenströme
+  emoti    Emotion, Emotionale, Emotionen
+  fragm    Fragmenten, Fragmentiertes, Fragmentierung
+  integ    Integration, Integrations, Integrity
+  konst    Konstrukt, Konstrukte, Konstrukten
+  siche    Sicherheit, Sicherheits, Sicherheitslücken
+  thera    Therapie, Therapiesuche, Therapieversuche
+  welte    Welten, Weltenlogik, Weltenwechsel
+  überw    Überwelt, Überwindung, Überwältigung
+  abstr    Abstrakt, Abstrakte
+  antei    Anteile, Anteilen
+  arbei    Arbeit, Arbeitstitel
+  archi    Architekt, Architektur
+  auton    Autonomie, Autonomous
+  bewus    Bewusstsein, Bewusstwerdung
+  chara    Charakter, Charakterentwicklungen
+  diese    Diese, Dieses
+  digit    Digital, Digitale
+  disso    Dissoziation, Dissoziativen
+
+# substring pairs -- never one term, often merged by accident
+  Eine < Keine
+  Eine < Seine
+  Ende < Endet
+  Ende < Zunehmende
+  Ende < Umfassendes
+  Ende < Transzendenz
+  Ende < Grundlegendes
+  Form < Formen
+  Form < Transformation
+  Form < Ausformulierung
+  Form < Informationsarmut
+  Form < Informationsüberflutung
+  Gelb < Regelbrüche
+  Info < Informationsarmut
+  Info < Informationsüberflutung
+  Kern < Kernthemen
+  Kern < Kernkonzept
+  Kern < Kernprotokoll
+  Leid < Leidet
+  Meta < Metapher

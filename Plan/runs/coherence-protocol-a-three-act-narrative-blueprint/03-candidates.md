@@ -1,0 +1,81 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Candidates in the exact form the document writes them. The document is English prose about a German-named novel world; German names (Überwelt, Risse, Negentropie-Fehlinterpretation, Gödel-Satz, The Gärtner) are listed as written. Subscripted symbols are plain digits (KW1, KW2, KW3). Short names (Lex, Nyx, ANP, EPs, IIT) are too short for --find alone but stand in the lines.
+
+- Coherence Protocol
+- Aris Thorne
+- ANP
+- Lex
+- Kael
+- Nyx
+- Kiko
+- Juna
+- Juna/V
+- Juna Echo
+- Moonshine-Link
+- AEGIS
+- Construct City
+- LogOS-Prime
+- KW1
+- KW2
+- KW3
+- Core Worlds
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Guardian Mnemosyne
+- Guardian Cerberus
+- Guardians
+- Überwelt
+- Glitches
+- Risse
+- Algorithmic Horror
+- Predictive Model Collapse
+- Negentropie-Fehlinterpretation
+- coherence through negation
+- Maintain Coherence
+- perverse learning loop
+- preventive attacks
+- Specification Gaming
+- Perverse Instantiation
+- Resonance Landscape
+- Border Fortress
+- functional multiplicity
+- emergent agency that AEGIS cannot model
+- Gödel-Gambit
+- Gödel-Satz
+- Epistemological Checkmate
+- Coherence Gambit
+- dialetheic mind
+- Principle of Explosion
+- ontological exploit
+- algorithmic melancholy
+- inefficient beauty
+- Zombie-System
+- The Gärtner
+- polyphonic prose
+- Emotional Parts
+- EPs
+- Alters
+- amnesic barriers
+- co-fronting
+- co-consciousness
+- Dissociative Identity Disorder
+- depersonalization
+- derealization
+- system interference
+- post-reboot fatigue
+
+## lens
+- Theory of Structural Dissociation of the Personality
+- autopoietic
+- negentropy
+- entropy
+- qualia
+- paraconsistent
+- Gödelian Incompleteness
+- IIT
+- Low Integrated Information
+- Low Φ
+- High Φ
+- Dialetheical
+- gaslighting

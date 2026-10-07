@@ -1,0 +1,14 @@
+# romanplot-kohaerenz-protokoll-entwickeln
+  lines                265  (frontmatter ends at 9)
+  body words           7938
+  headings             10   bold-only lines 14
+  table rows           9   code fences 0
+  question marks       34
+  backslash escapes    46
+  typographic marks    47   ascii quotes 154
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    140
+  repeated labels      none
+  longest line         2122 chars
+

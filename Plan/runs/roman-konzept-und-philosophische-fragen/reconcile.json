@@ -1,0 +1,293 @@
+{
+  "document": "roman-konzept-und-philosophische-fragen",
+  "drive_id": "17nBuqfn3yhFUFv1v7YPL2vXi6wEjGULa0BBY-tSZnRI",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-177/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 73,
+    "decisions": 76,
+    "decided_by_lookup": 64,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German concept essay that reads the novel as a dialectic: its 46 new surfaces are its argument (These, Antithese, Synthese, Kohärenz durch Negation/Integration), borrowed theory (autopoiesis, specification gaming, perverse instantiation, the frame problem, LFI, Gödel, IIT and Φ, Whitehead, Hegel, Wuji) and the complexity classes and puzzles of its world table; what it says of the novel's world went on 22 existing pages and six records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        26,
+        30,
+        32,
+        72,
+        74,
+        82,
+        88,
+        96,
+        102,
+        219,
+        223
+      ],
+      "attribution": "",
+      "note": "AEGIS as thesis: coherence through negation, an autopoietic system that is forced into LFI"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        195
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of KW3"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        132,
+        138,
+        140
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as the embodiment of the paradox"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        195
+      ],
+      "attribution": "",
+      "note": "Grenzfeste as KW3, relevance logic and a travelling-salesman puzzle"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        170,
+        172,
+        180
+      ],
+      "attribution": "",
+      "note": "Juna as the link's other pole and an active agent"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        36,
+        42,
+        50,
+        52,
+        118,
+        126,
+        140
+      ],
+      "attribution": "",
+      "note": "Kael as the antithesis, and his journey as the true protocol"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        196
+      ],
+      "attribution": "",
+      "note": "Kairos in one Guardian cell with Sophia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        188,
+        193,
+        194,
+        195,
+        196
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as thematic puzzles on complexity theory"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        26,
+        36,
+        212
+      ],
+      "attribution": "",
+      "note": "two definitions of coherence, and a redefinition"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        193
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as KW1, a SAT puzzle"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        118
+      ],
+      "attribution": "",
+      "note": "Lex named once, as an example of the ANPs"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        193
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        194
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the Guardian of KW2"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        196
+      ],
+      "attribution": "",
+      "note": "Möglichkeits-Garten as KW4, one of four Kernwelten"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as a higher-order complexity"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        160,
+        162
+      ],
+      "attribution": "",
+      "note": "the Leere as a felt `Nichts Rauschen`"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        118
+      ],
+      "attribution": "",
+      "note": "Nyx named once, as an example of the EPs"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        194
+      ],
+      "attribution": "",
+      "note": "Resonanz-Landschaft as KW2, emotional navigation"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        162,
+        193,
+        194,
+        195,
+        196
+      ],
+      "attribution": "",
+      "note": "the Risse as incursions of the Leere, and each world's Riss"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        196
+      ],
+      "attribution": "",
+      "note": "Sophia in one Guardian cell with Kairos"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        118,
+        126
+      ],
+      "attribution": "",
+      "note": "TSDP as the blueprint of Kael's character"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C5",
+    "C6",
+    "C9"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title: Kohärenz Protokoll), J34 (Juna/V-Links, read on juna), J14 (a slash in a label is an apposition: Kairos/Sophia, read on both pages), J23 and J56 (number and inflection: Kernwelt/Kernwelten, funktionalen Multiplizität), J12 and J16 (compounds with their own sense: Nichts Rauschen and Rauschen, read on nichts-rauschen, Kohärenz durch Negation and Kohärenz durch Integration, the essay's thesis and antithesis, read on kohaerenz, Inkohärenz and Systemkohärenz)",
+  "sweep": [
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 196,
+      "decision": "reading",
+      "why": "KW4's Guardian cell Kairos/Sophia, read on kairos"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 196,
+      "decision": "reading",
+      "why": "KW4's Guardian cell Kairos/Sophia, read on sophia"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 42,
+      "decision": "reading",
+      "why": "functional multiplicity, read on multiplizitaet"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 144,
+      "decision": "occurrence",
+      "why": "a heading naming the simulation, not the place"
+    }
+  ],
+  "not_promoted": [
+    "These, Antithese, Synthese — the essay's argument, on kohaerenz",
+    "Das Fundament, Die Leere as terms — on nichts-rauschen",
+    "LFI, specification gaming, the frame problem, ontological blindness — on aegis",
+    "Gnosis/episteme — on kael",
+    "the complexity classes and puzzles of each world — on the world pages",
+    "IIT, Φ, Hegel, Whitehead, Wuji — borrowed",
+    "the closing philosophical questions — questions"
+  ],
+  "internal_tension": "none; it calls the novel's journey the true protocol (L52, L212), its own reading",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 82
-readings: 82
+sources: 111
+readings: 112
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-the-official-master-story-guide", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-outline-1-13-fuer-kohaerenz-protokoll", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-the-official-master-story-guide", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-outline-1-13-fuer-kohaerenz-protokoll", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-narrativer-bauplan", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "detaillierte-kapiteluebersicht", "kuerze-rechercheauftrag-die-architektur-der-seel", "deconstructing-reality-s-architecture", "kohaerenz-protokoll-architecture-synthesis", "romanidee-als-interaktiver-prototyp", "project-status-report-kohaerenz-protokoll-canonical-state-st", "the-coherence-protocol-a-narrative-design-world-architecture", "romanideen-zu-roman-entwickeln", "kael-charakterarchitektur-und-konfliktdynamik", "narrativ", "kohaerenz-protokoll-narrative-synthese", "roman-outline-kohaerenz-protokoll-uberarbeitung", "romanarchitektur-kohaerenz-protokoll-finalisierung", "project-coherence-protocol-narrative-blueprint-decisions", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "roman-konzept-reduktion-und-kernfindung", "project-status-report-kohaerenz-protokoll-canon-systemic-sta", "analyse-des-kohaerenz-protokolls", "the-psychological-mechanics-from-tertiary-structural-dissoci", "roman-konzept-kael-aegis-simulation", "kohaerenz-protokoll-narrative-architektur", "dramatica-und-kohaerenz-protokoll-analyse"]
 gathered: "2026-09-24"
 ---
 
@@ -18,6 +18,12 @@ Profile 3.4 is headed „3.4. Kiko (ehem. Der Kleine)“ ^[strukturelle-dissozia
 
 AEGIS lever: „Kikos Ängste, Scham und Selbstbeschuldigungen sind leichte Angriffsziele.“ ^[strukturelle-dissoziation-system-kael-analyse.md:L109] In conflict pair Kiko vs. Lex (L43) he is the EP suppressed by the rational ANP.
 
+## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Kiko as the Kind, an IFS exile
+
+The character architecture gives Kiko the role name `Das Kind`, quoted as „Das Kind“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L64]. Its function is that of an exile: „Als IFS-Exile hält es diese Bürden“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L65], the feelings of the traumatising event. Of its place among the parts it says: „Wird vom Logiker (Manager) oft unterdrückt oder kontrolliert“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L71].
+
+Its worlds are the Resonanz-Landschaft and the Möglichkeiten-Garten; elsewhere „In bedrohlichen Welten wie der Grenzfeste oder der starren Konstrukt-Stadt ist es extrem deplatziert und vulnerabel“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L67]. Externally the profile hedges: „Fühlt sich möglicherweise stark zu Juna/V hingezogen“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L72].
+
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Kiko as an EP, fear in KW2, aversion in KW1 and KW3
 
 The world concept lists Kiko with the EPs. KW1 is „Hochgradig aversiv für EPs wie Kiko und Lia (deren Bedürfnisse ignoriert werden)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L39]. KW2 is the primary domain: „Kiko (Angst)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L60]. KW3 is „Hochgradig bedrohlich für verletzliche EPs: Kiko und Lia (Angst, Enge)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L83]. In KW4 the concept hedges: „Kiko könnte von der Unvorhersehbarkeit überfordert sein“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L105]. For the Externe Ebene: „Kiko/Lia (Suche nach Sicherheit/Annahme)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L151].
@@ -25,6 +31,10 @@ The world concept lists Kiko with the EPs. KW1 is „Hochgradig aversiv für EPs
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — the frightened child EP and its KW3 overlay
 
 The concept heads Kiko „EP - Kind, Flucht/Einfrieren“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L60] and describes „Eine kleine, dunkle, oft bedrohliche Welt, dominiert von Angst, Scham und der Sehnsucht nach Sicherheit“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L62]. On KW3 (B) it says the world is „Extrem bedrohlich“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L69] and „Löst Flucht- oder Freeze-Reaktionen aus“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L69].
+
+## Reading — `roman-konzept-kael-aegis-simulation`, 2025-05-01, the simulation concept — Kiko as the frightened, freezing Alter
+
+The simulation concept names Kiko as „der ängstliche/erstarrte Kiko“ ^[roman-konzept-kael-aegis-simulation.md:L21] and proposes him as prominent at the start: „Der Kiko-Alter (Angst/Freeze“ ^[roman-konzept-kael-aegis-simulation.md:L54] could lead to paralysis or avoidance. On his emergence it describes him as „Kiko (Träger spezifischer Ängste und traumatischer Erinnerungen, die Erstarrungsreaktionen auslösen“ ^[roman-konzept-kael-aegis-simulation.md:L55]. His own goal in part 2 is proposed as: „Kiko könnte primär nach sicheren Orten innerhalb der Kernwelten suchen, um Trigger zu vermeiden“ ^[roman-konzept-kael-aegis-simulation.md:L66].
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Kiko as the underlying fear and an EP holding fragments
 
@@ -64,6 +74,10 @@ The detailed outline names Kiko among the EPs, the emotional parts, that Kael me
 
 The final outline gives Kiko an emotional role: the EPs that hold long-avoided emotions are „Kiko (Angst/Kind)“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L340] and Moros. The introduction of both is marked with a question mark: „Konkrete Einführung von EPs (Kiko, Moros?) und ihrer emotionalen Ladung“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L380]. In Chapter 9 Kiko is again the possible holder of fear, „möglicherweise von **Kiko (Kind/Angst-EP)** gehalten“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L597].
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Kiko among the EPs integrated at Murdock's stage 8
+
+The strategy report places Kiko among the emotional parts in the Murdock table, stage 8: „Integration der EPs (Kiko, Lia, Moros)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L122].
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the child part paired with Nyx; among the EPs of KW2
 
 The report gives the plot document's pair: „Dieses Duo personifiziert den Kernkonflikt zwischen der nach außen gerichteten Wut als Abwehrmechanismus (Nyx) und der darunter liegenden, unerträglichen Verletzlichkeit und Angst (Kiko)“ ^[scifi-roman-mit-ki-schreiben.md:L145] For KW2 it writes the EPs „die direkte Manifestation der Emotionalen Persönlichkeitsanteile (EPs) wie Echo/Kiko und Moros“ ^[scifi-roman-mit-ki-schreiben.md:L89] — the slash is the report's own.
@@ -84,13 +98,57 @@ Beat 1.5 (Kapitel 10–12) has Kael confront specific EPs: „Kiko (Angst/Erstar
 
 The system plan lists Kiko among the EPs and assigns the freeze system: „Einfrieren (Freeze - Kiko)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L97] with „Tonische Immobilität, Hypervigilanz“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L97]. In the polyphonic example Kiko feels „die kalte Furcht vor dem spürte, was dahinter lag“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L134]. In KW2 the plan proposes that the freeze reaction would show itself „als Stillstand der gesamten Welt manifestieren“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L276].
 
+## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — Kiko as Herz
+
+In the review's reading of the climax of part one, Kael needs „Herz“ as well as Verstand, and the review gives it as „repräsentiert durch Kiko, Rhys“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L173]; the pairing is drawn through Schmidt's model, the review's own application.
+
+## Reading — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter — Kiko as the empathy agent
+
+The research letter, applying Minsky's `Society of Mind` to Kael, writes: „Lex ist der Logik-Agent, Nyx der Bedrohungsabwehr-Agent, Kiko der Empathie-Agent“ ^[aegis-logik-und-erzaehlstruktur.md:L227].
+
+## Reading — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium — Kiko as the child part (EP, Freeze)
+
+In the alter table the compendium classes Kiko as „EP: Kind-Anteil (Freeze)“ ^[kohaerenz-protokoll-narrative-synthese.md:L257], with the motivation „Sicherheit suchen; Angst vor Verlassenwerden“ ^[kohaerenz-protokoll-narrative-synthese.md:L257].
+
+In its proposal for polyphonic prose it gives each part a rhythm: „Kiko (das Kind) könnte einfache, repetitive Satzstrukturen verwenden“ ^[kohaerenz-protokoll-narrative-synthese.md:L203] — kept as a proposal („könnte“), not a description of any text.
+
+## Reading — `romanarchitektur-kohaerenz-protokoll-finalisierung`, 2025-07-29, the final framework — Kiko as child part and source of play
+
+The final framework's post-integration table classifies `Kiko` as „EP (Kind-Anteil, Little)“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L203] and defines the integrated role as „Quelle von Kreativität, Spontaneität, Freude und der Fähigkeit zum Spiel“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L203].
+
+## Reading — `kohaerenz-protokoll-narrative-architektur`, 2025-07-29, the System-Mind analysis — Kiko as the child part in the alter table
+
+In the alter table the System-Mind analysis classifies Kiko as „EP (Kind-Anteil/Freeze): Hält frühes Trauma, Angst“ ^[kohaerenz-protokoll-narrative-architektur.md:L164]. Its text names Kiko among the emotional parts: „Die EPs, wie die Beschützerin Nyx oder das Kind Kiko“ ^[kohaerenz-protokoll-narrative-architektur.md:L129], fixed in trauma time.
+
 ## Reading — `outline`, 2025-07-30, the outline — Kiko as the anxiety felt in Kap 5 and the child's voice in Teil 2
 
 In Kap 5 the Fokus line has Rhys „um interne Harmonie zu bewahren und unterschwellige Angst (Kiko) zu lindern“ ^[outline.md:L42] (L42). Kiko is also listed among the EPs: „Kaels Anteile (ANPs wie Lex, Rhys, Alex und EPs wie Nyx, Kiko, Moros, Isabelle, Lia, Argus) entwickeln ihre Kooperation weiter“ ^[outline.md:L116] (L116). Teil 2's stylistic signature gives „Kiko (Kind/Angst)“ ^[outline.md:L121] (L121) „Kurze, fragmentierte Sätze, einfache, repetitive Satzstrukturen, emotional aufgeladenes Vokabular.“ ^[outline.md:L121] (L121).
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Kapitel 11: the child part
+
+The chapter overview plans, in Kapitel 11, titled „Die Angst hat einen Namen“ ^[detaillierte-kapiteluebersicht.md:L27], that „Kael erlebt eine vollständige Intrusion des Kind-Anteils“ ^[detaillierte-kapiteluebersicht.md:L27] Kiko, driven into a freeze reaction by the logic of the world. Kapitel 12 answers it: „Als Reaktion auf Kikos Angst“ ^[detaillierte-kapiteluebersicht.md:L28] Nyx takes control.
+
+## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — Kiko and Lia as the inner child
+
+The concept summary lists Kiko together with Lia as one part: „Kiko & Lia“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L55], „Der verletzliche, ängstliche, aber auch kreative Kern.“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L55]
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — Kiko, a childlike EP, source of creativity once integrated
+
+The dramaturg's blueprint (L115–L238) lists Kiko: „Ein kindlicher EP, der frühes Trauma und Angst hält und Sicherheit sucht“ ^[narrativ.md:L155]. As an integrated part „wird Kiko zur Quelle von Kreativität und emotionaler Authentizität“ ^[narrativ.md:L155] (L155).
+
+The compendium (L11–L113) mentions Kiko in a writing rule: the late-phase voice joins Lex' complex syntax with Kiko's fragmented sentences (L36), and Kiko feels the cold fear of what lies behind the door in the sample sentence (L35).
+
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — an emotional part named with its function
 
 In Kapitel 6 (Fragmente der Vergangenheit) the architecture plan names the part among the Emotional Parts that hold the trauma: „Kiko [Angst/Freeze]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L137]. Kapitel 4 proposes that Rhys spürt its suffering (L110), and Kapitel 6 proposes that Rhys tries to reach it and ease its fear (L142). For Kapitel 10 it proposes vielleicht a short moment of understanding between Lex and Kiko (L198).
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — the frightened child in the game's inner council
+
+The proposal's portrayals of Kiko are examples for the game. In the worked example: „Kiko (das verängstigte Kind) wünscht sich einen sofortigen Rückzug“ ^[romanidee-als-interaktiver-prototyp.md:L144]. In the Kap 7 scene: „Kikos Stimme flüstert panisch von Flucht“ ^[romanidee-als-interaktiver-prototyp.md:L224].
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Kiko as the child EP of fear
+
+The dual structure is an outline. In Kapitel 1 the Ten pass has a flashback that stems from an EP, „vermutlich dem kindlichen Anteil Kiko“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L66]. The table of the Anteile gives him the role `EP-Kind (Angst)` and in Akt I „Verborgen“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L309], and for Akt IV „Findet durch Rhys und Alex Sicherheit“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L309].
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the simple guide, the blueprint, the scene outline and the architecture analysis of the English compilation — Kiko as the child part, typed Freeze Response in one table and Freeze/Flight in another
 
@@ -107,6 +165,18 @@ The architecture analysis's table types her „EP (Freeze/Flight)“ ^[kohaerenz
 ## Reading — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing — Kiko as an Emotional Part holding early trauma
 
 In the alter table Kiko is „EP: Child/Fear, holds memories of early trauma and the freeze response.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L87] (L87).
+
+## Reading — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint — Kiko as the child part
+
+The blueprint's first part lists „Kiko (Child/Fear)“ ^[narrative-blueprint-the-coherence-protocol.md:L44], an EP holding memories of early trauma, fear and abandonment. Its thematic foundation's roster table types him „EP (Freeze/Flight-Response)“ ^[narrative-blueprint-the-coherence-protocol.md:L257] (L257), where the first part says only that he manifests in flight or freeze responses.
+
+## Reading — `romanideen-zu-roman-entwickeln`, 2025-10-15, the master blueprint — Kiko as the child EP who holds early trauma memories, and the World Bible's name for it
+
+The master blueprint's table classes Kiko as „EP (Kind/Erstarrungs-Reaktion) - Hält frühe Trauma-Erinnerungen“ ^[romanideen-zu-roman-entwickeln.md:L74]. His relations: „Fürchtet Nyx' Aggression, fühlt aber auch seinen Schutz“ ^[romanideen-zu-roman-entwickeln.md:L74]. The blueprint reports that the `World Bible` uses `Echo` where other drafts use `Kiko` (L60) and consolidates them (L62). For Act I it proposes that the first breakthrough of an EP be „Kikos Sehnsucht“ ^[romanideen-zu-roman-entwickeln.md:L97] (L97).
+
+## Reading — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint — Kiko as the child/freeze EP
+
+In the locked blueprint's alter table Kiko is „EP (Child/Freeze) - Holds early trauma.“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L197] Its Core World table places KW2's domain at „Emotion, Memory, Trauma (EPs like Nyx, Kiko)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L102].
 
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — its row in the Master Profile of Alters
 
@@ -134,6 +204,14 @@ The outline names Kiko once, in Story 23 (The Polyphonic Voice), where the prose
 
 Recorded as one outline's proposal.
 
+## Reading — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report — Kiko as the child part among the Emotional Parts
+
+The contradiction report names kiko among the EPs who hold the trauma, „Nyx the fight response, Kiko the child part, and Moros the collapse/shutdown response“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L55]. It says nothing more of the part.
+
+## Reading — `the-psychological-mechanics-from-tertiary-structural-dissoci`, 2025-11-03, the TSDP mechanics report — Kiko as the child/freeze EP
+
+The TSDP mechanics report types Kiko „EP - Child/Freeze“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L47]: the alter who „Holds the core vulnerability, fear, and shame of early trauma“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L47]. His integrated role is „Source of creativity, play, and emotional authenticity“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L47].
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — Kiko as an EP, the fact of pain
 
 In Table 1 of the truth-duality paper, Kiko is an EP with the function „Angst, Flucht, Freeze, Bindungsruf“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L68] and the philosophical correspondence „Rohe Korrespondenz-Wahrheit (Der Fakt des Schmerzes)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L68]. The proposed inciting incident is an emotional glitch: „unermessliche Angst (Kiko-EP)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L195]. In Act 2 Kael must communicate with „der ängstlichen Kiko“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L205].
@@ -141,6 +219,10 @@ In Table 1 of the truth-duality paper, Kiko is an EP with the function „Angst,
 ## Reading — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis — Kiko as an EP of fear
 
 The themes exegesis names Kiko with Nyx as EPs: „Anteile wie Kiko (Angst) oder Nyx (Wut)“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L75]. Theme 4 has an EP, „Kiko/Angst“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L154], intrude after a trigger.
+
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — Kiko named once, among the fragments of the EP
+
+The protocol analysis names `Kiko` once, in a list of examples: the EP was shattered „bei dem der EP weiter in Fragmente (Alters wie Nyx, Kiko, Moros) zerschlagen wurde“ ^[analyse-des-kohaerenz-protokolls.md:L221]. It says nothing further about Kiko.
 
 ## Reading — `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, the planning report — Kiko as the bearer of the trauma, in a proposed workflow
 
@@ -155,6 +237,12 @@ The three-part analysis names Kiko among the Exilanten, „der verletzten Kind-A
 ## Reading — `kohaerenz-protokoll-the-official-master-story-guide`, 2026-01-02, the Master Story Guide — Kiko as the Exile
 
 The Master Story Guide lists `Kiko (The Exile)` in its System Roster with the role „The Wounded Child“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11], an EP. The row calls him „An exiled part who holds the core pain“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11] and says that the system is organised around „preventing his pain from surfacing“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11]; it names `attachment trauma`. Recorded as the guide's own roster, not applied.
+
+## Reading — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief — Kiko as the EP Child, unburdened into playfulness and intuition
+
+The design brief describes `Kiko` as one who „Holds the earliest memories of abandonment and terror, representing the“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L61] freeze response, and as the system's core vulnerability: „Kiko embodies the system's core vulnerability; his safety is paramount“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L61]. Its unburdening example has him „is unburdened of his terror and transforms into a vital source of“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L78] playfulness and intuition. The glossary row reads „Vulnerability, Freeze. Holds terror.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L205]
+
+## Reading — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis — Kiko as an Emotional Part
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the child Alter, in Kap 2, Kap 16 and Kap 35
 
@@ -180,6 +268,10 @@ The research report (5.2) describes `Kiko` as „Der Träger früher Verlassenhe
 
 The matrix types Kiko as „(EP Freeze/Angst)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L57] and says he „Trägt frühe Gefühle von Terror und Verlassenheit.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L57] The plan proposes: „Wenn Kiko getriggert wird, verliert die Umgebung ihre makroskopische Kontinuität.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L57]
 
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — Kiko as the Child
+
+The learner's guide lists Kiko among the Emotional Parts as The Child: „Holds the earliest memories of abandonment and terror.“ ^[deconstructing-reality-s-architecture.md:L116] The same line writes „His safety is the primary motivation for the protectors (Nyx/Alex).“ ^[deconstructing-reality-s-architecture.md:L116] The appendix gives „Vulnerability, Freeze.“ ^[deconstructing-reality-s-architecture.md:L309]
+
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — Kiko as a child EP
 
 The architecture report writes Kiko, headed `Das Kind/Freeze`, together with Lia in one line: both „Repräsentieren die verletzlichsten Kerne des Systems“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L99], marked by fear, flight impulses and ambivalent attachment.
@@ -187,6 +279,21 @@ The architecture report writes Kiko, headed `Das Kind/Freeze`, together with Lia
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — one of the receptive Emotional parts the qualia reach, and an executor type
 
 The Moonshine-Link carries qualia, the document says, to the receptive Emotional parts: „die empfänglichen Emotionalen Anteile (wie Kiko oder Lia)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L105]. The axis table sorts `Kiko` among the EPs: „Executor-Typen (Nyx, Moros, Kiko, Lyra)“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L132].
+
+## Reading — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept — Kiko's glitches as stuttering time
+
+The Überwelt concept lists Kiko second, under „Glitches des Erstarrungs-Systems“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L107]: when Kiko takes control, „stottert die lokale Zeit“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L107], runs in loops or freezes altogether (L107). It names no role or origin for Kiko; description.
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — the child EP
+
+In the master integration's EP table, `Kiko` (Child) has the function „Freeze/Flight, hält Kerntremor“ ^[kohaerenz-protokoll-master-integration-md.md:L186] and the vector „β ≈ 0 (keinerlei Puffer), maximale Fragilität“ ^[kohaerenz-protokoll-master-integration-md.md:L186]. The style rule: „Kiko sieht Monster.“ ^[kohaerenz-protokoll-master-integration-md.md:L330]
+
+## Reading — `project-status-report-kohaerenz-protokoll-canonical-state-st`, 2026-03-26, the status report — the report lists Kiko as Freeze/Child EP with a Temporal/Stutter Glitch
+
+The status report (2026-03-26) lists „Kiko (Freeze/Child EP)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L11] in its Confirmed Core (L11). In its trigger matrix, „Kiko (Freeze)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L70] triggers a Temporal/Stutter Glitch: „local time loops, stasis“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L70].
+
+## Reading — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report — Kiko's prose mandated as parataxis
+The canon status report pairs `Nyx/Kiko` under one tone mandate, parataxis: „Staccato, sensory-heavy, and immediate bursts to reflect“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L76] K0 `trauma-time` and „raw sensory intrusions.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L76]. It says nothing else of Kiko. Recorded, not applied.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Kiko among the EPs
 
@@ -198,9 +305,25 @@ The document is a generated report about other texts that it names only by numbe
 
 Row F-04: „Das System Kael besteht aus Lex (Logik), Nyx (Kampf), Kiko (Freeze), Alex (Schutz), Rhys (Pflege), Selene (Integration), Argus (Kritiker), Lia, Isabelle und Moros.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L69] Open question 2 asks which triggers „zwingen die EPs (Nyx, Kiko, Lia), die Kontrolle zu übernehmen“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L121].
 
+## Reading — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report — Kiko as Exile
+
+In the reduction report's table of the parts the entity is „Kiko (Exile)“ ^[roman-konzept-reduktion-und-kernfindung.md:L82], psychological role „Primärer Schmerz“ ^[roman-konzept-reduktion-und-kernfindung.md:L82], plot function „Träger des Geheimnisses, wird gejagt.“ ^[roman-konzept-reduktion-und-kernfindung.md:L82]; her sphere is given as Mnemosyne, with a kernel symbol lost beside it.
+
 ## Reading — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto — Kiko as an EP fragment in KW2
 
 In KW2 the manifesto names „the vulnerability patterns of Kiko“ ^[aegis-manifest-genesis-krise-reboot.md:L81] as an example of the Emotional Parts it targets (L81); the table row reads „EP Fragments (Kiko, Moros)“ ^[aegis-manifest-genesis-krise-reboot.md:L101]. Kiko is also in the list of shattered elements at L67, which AEGIS classes as corrupted data fragments, its own verdict.
+
+## Reading — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis — Kiko as emotional sensitivity
+
+The Dramatica loop analysis gives Kiko one line among Kael's alters: „Kiko trägt die geballte emotionale Sensibilität und Verwundbarkeit.“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L99] In the integrated state Kiko supplies emotional bonding data (L102).
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — an EP among the 11 entities, erased by AEGIS in the inversion
+
+The architecture synthesis lists Kiko among the EPs. In Appendix A it says AEGIS must erase Kael's traumatic data: „the EPs like Nyx, Kiko, and Moros“ ^[kohaerenz-protokoll-architecture-synthesis.md:L137]. Beat 1 of the handoff names the same group: „the ANPs like Lex and Vesper, and the EPs like Nyx, Kiko, and Moros“ ^[kohaerenz-protokoll-architecture-synthesis.md:L187].
+
+## Reading — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis — the wounded child guarding the core pain
+
+The Dual-Kernel analysis lists Kiko among the Emotional Parts and says Kiko „ist das verletzte Kind, das den Kernschmerz hütet“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L113]. It reports this of the Protokoll (reference 1).
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — one of four modules
 
@@ -402,3 +525,5 @@ Her dread is felt system-wide, in the Exposé's polyphonic excerpt: „Kiko's dr
 - The blueprint types Kiko as a Freeze response, the architecture analysis as Freeze/Flight: „EP - Child/Freeze Response. Holds memories of early trauma.“ ^[ai-assisted-narrative-coherence.md:L443] against „EP (Freeze/Flight)“ ^[ai-assisted-narrative-coherence.md:L1757].
 - The Roman-Konzept gives Kiko the EP function „EP Funktion (Angst/Flucht)“ ^[roman-konzept-kohaerenz-protokoll.md:L69]; see C15.
 - `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, a planning report: Kiko as bearer of the trauma, „Kiko ist der Träger des Traumas, das alle anderen vermeiden wollen.“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L156]
+- The learner's guide gives Kiko as the Child and the Freeze response, the core vulnerability the protectors serve.
+- The master blueprint reports `Echo` as the World Bible's name and consolidates it with `Kiko` (L60, L62); recorded, not applied.

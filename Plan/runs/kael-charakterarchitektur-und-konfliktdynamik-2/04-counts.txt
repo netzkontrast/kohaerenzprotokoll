@@ -1,0 +1,130 @@
+# counts for 95 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             68 word   101 in   [11, 15, 17, 21, 23, 24]
+                                   33      as Kaels
+  AEGIS                            80 word    82 in   [15, 17, 31, 35, 38, 39]
+                                    1      as AEGIS-Reaktion
+                                    1      as AEGIS-Überreaktion
+  Juna/V                           20 word    20 in   [34, 38, 56, 72, 88, 104]
+  Juna                             25 word    26 in   [34, 38, 56, 72, 88, 104]
+                                    1      as Junas
+  Guardians                        14 word    14 in   [38, 56, 72, 88, 104, 120]
+  Guardian                          7 word    22 in   [38, 51, 56, 72, 83, 88]  <-- substring
+                                   14      as Guardians
+                                    1      as Guardian-Einsatz
+  Kernwelten                        8 word     8 in   [22, 32, 33, 38, 142, 319]
+  Konstrukt-Stadt                  18 word    18 in   [32, 51, 56, 67, 72, 83]
+  Resonanz-Landschaft               8 word     8 in   [51, 56, 67, 83, 99, 104]
+  Möglichkeiten-Garten              4 word     4 in   [67, 115, 120, 221]
+  Grenzfeste                       12 word    12 in   [67, 72, 83, 99, 104, 203]
+  Potentialmeer                     2 word     3 in   [318, 319, 354]
+                                    1      as Potentialmeers
+  Cache Kohärenz                    8 word     8 in   [17, 33, 38, 142, 257, 303]
+  Paradoxon X                      14 word    14 in   [38, 56, 88, 136, 228, 230]
+  Moonshine-Link                    2 word     2 in   [232, 316]
+  Risse                             4 word     6 in   [33, 72, 120, 142, 212, 286]
+                                    2      as Rissen
+  Rissen                            2 word     2 in   [142, 212]
+  Lex                              20 word    20 in   [48, 49, 51, 156, 165, 183]
+  Kiko                             11 word    11 in   [64, 165, 212, 261, 294, 299]
+  Nyx                              20 word    20 in   [80, 146, 156, 174, 221, 241]
+  Rhys                             14 word    14 in   [96, 146, 174, 203, 232, 261]
+  Kai                              13 word    13 in   [112, 146, 183, 194, 232, 296]
+  Selene                            4 word     4 in   [128, 250, 302]
+  Der Logiker                       2 word     2 in   [48, 142]
+  Logiker                          21 word    22 in   [32, 48, 56, 68, 71, 87]
+                                    1      as Logikers
+  Das Kind                          1 word     1 in   [64]
+  Der Schatten                      2 word     2 in   [80, 146]
+  Der Relationale Anteil            2 word     2 in   [96, 146]
+  Relationaler Anteil               3 word     3 in   [174, 203, 232]
+  Relationalen Anteil               3 word     3 in   [55, 71, 341]
+  Der Kreativ-Intuitive             1 word     1 in   [112]
+  Kreativ-Intuitiver                2 word     2 in   [183, 194]
+  Die Wächterin                     1 word     1 in   [128]
+  Wächterin                        15 word    15 in   [58, 71, 74, 87, 90, 103]
+  Der Systemflüsterer               1 word     1 in   [325]
+  Die Weltenweberin                 1 word     1 in   [336]
+  Der Glitch im System              1 word     1 in   [347]
+  Das Innere Pantheon               1 word     1 in   [42]
+  Kern-Personas                     3 word     3 in   [26, 44, 360]
+  System-Host                       1 word     2 in   [26, 28]
+                                    1      as System-Hosts
+  Der gebrochene Kern               1 word     1 in   [28]
+  Kern-Selbst                       2 word     2 in   [21, 129]
+  Pressure Points                   7 word     7 in   [26, 148, 150, 286, 360, 362]
+  Pressure Point                   13 word    20 in   [26, 56, 72, 88, 104, 120]
+  Pressure Point Matrix             1 word     1 in   [288]
+  Konflikt-Kartographie             1 word     1 in   [148]
+  PP-INT-01                         1 word     1 in   [293]
+  PP-INT-02                         1 word     1 in   [294]
+  PP-INT-03                         1 word     1 in   [295]
+  PP-INT-04                         1 word     1 in   [296]
+  PP-WRD-01                         1 word     1 in   [297]
+  PP-WRD-02                         1 word     1 in   [298]
+  PP-WRD-03                         1 word     1 in   [299]
+  PP-SYS-01                         1 word     1 in   [300]
+  PP-SYS-02                         1 word     1 in   [301]
+  PP-SYS-03                         1 word     1 in   [302]
+  PP-CCH-01                         1 word     1 in   [303]
+  PP-CCH-02                         1 word     1 in   [304]
+  PP-CCH-03                         1 word     1 in   [305]
+  Fähigkeiten-Fehlanpassung         2 word     2 in   [261, 303]
+  Skill Mismatch                    1 word     1 in   [261]
+  positive Absicht                 11 word    11 in   [49, 58, 65, 81, 90, 97]
+  Novelcrafter                      3 word     4 in   [11, 15, 42, 364]
+                                    1      as Novelcrafter-Vorlage
+  Internal Family Systems          10 word    10 in   [21, 370, 371, 372, 374, 375]
+  IFS                              14 word    25 in   [21, 32, 35, 49, 50, 65]
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [22, 32]
+  TSDP                              9 word    15 in   [22, 28, 32, 34, 35, 37]
+                                    2      as TSDP-EP
+                                    1      as TSDP-Sicht
+                                    1      as TSDP-Dynamik
+                                    1      as TSDP-ANP
+  ANPs                              7 word     7 in   [32, 34, 35, 36, 37, 65]
+  ANP                               5 word    13 in   [22, 32, 33, 34, 35, 36]  <-- substring
+  tertiären strukturellen Dissoziation    1 word     1 in   [32]
+  funktionale Multiplizität         1 word     1 in   [40]
+  Dissoziative Identitätsstörung    1 word     1 in   [32]
+  Exiles                           13 word    13 in   [21, 49, 81, 84, 85, 90]
+  Firefighter                       8 word    13 in   [21, 71, 81, 82, 144, 146]
+                                    2      as Firefighters
+                                    1      as Firefighter-Reaktion
+                                    1      as firefighters
+  Manager                           8 word    14 in   [21, 49, 50, 65, 71, 87]
+                                    3      as Managers
+                                    1      as Managern
+                                    1      as managers-exiles-and-firefighters-how-internal-family-systems-therapy-works
+                                    1      as managers
+  Self                              8 word     9 in   [21, 71, 87, 90, 103, 128]
+                                    1      as Self-leadership
+  Unburdening                       2 word     2 in   [58, 74]
+  Polarisation                      1 word     2 in   [21, 362]
+                                    1      as Polarisationen
+  Selbst-Führung                    3 word     3 in   [21, 32, 266]
+  Switches                          1 word     1 in   [33]
+  Synthese                          3 word     3 in   [36, 40, 113]
+  Realisation                       2 word     2 in   [36, 40]
+  Personifikation                   2 word     2 in   [36, 40]
+  Presentifikation                  2 word     2 in   [36, 40]
+  Jungianische Archetypenlehre      1 word     1 in   [23]
+  Anima                             9 word    11 in   [23, 50, 98, 106, 114, 146]
+                                    1      as Anima-Aspekten
+                                    1      as Anima-Konzept
+                                    1      as anima-and-animus
+                                    1      as anima-and-animus-2
+  Animus                            6 word     6 in   [23, 50, 114, 146, 393, 394]
+  Eros                              4 word     4 in   [50, 98, 146, 356]
+  Logos                             3 word     3 in   [50, 146, 356]
+  Individuationsprozess             3 word     3 in   [23, 106, 146]
+  Heldenreise                       4 word     4 in   [24, 329, 351, 356]
+  Heldinnenreise                    5 word     5 in   [24, 323, 340, 356]
+  Trickster                         1 word     3 in   [114, 347, 351]  <-- substring
+                                    1      as Tricksters
+                                    1      as Trickster-Archetyp
+  Gestaltwandler                    2 word     2 in   [347, 351]
+  Mentor                            2 word     2 in   [325, 329]

@@ -1,0 +1,724 @@
+{
+  "document": "romanentwurf-kohaerenz-protokoll-teil-1",
+  "drive_id": "1tlB-CTC0g2xcMm08Q_IDy47AHEGhAZ2WjNxEUXXeUf8",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Show, don't tell"
+  ],
+  "counts": {
+    "Michael": {
+      "n": 58,
+      "n_including_compounds": 114,
+      "lines": [
+        20,
+        21,
+        26,
+        27,
+        33,
+        38,
+        39,
+        44,
+        45,
+        50,
+        51,
+        59,
+        60,
+        61,
+        64,
+        69,
+        73,
+        74,
+        75,
+        76,
+        79,
+        84,
+        85,
+        94,
+        95,
+        96,
+        103,
+        104,
+        105,
+        106,
+        109,
+        113,
+        114,
+        115,
+        116,
+        119,
+        124,
+        125,
+        134,
+        135,
+        136,
+        139,
+        144,
+        145,
+        146,
+        148,
+        149,
+        154,
+        155,
+        156,
+        158,
+        159,
+        164,
+        165,
+        166,
+        169,
+        174,
+        175,
+        176,
+        178,
+        179,
+        184,
+        185,
+        186,
+        188,
+        189,
+        194,
+        195,
+        196,
+        198,
+        199,
+        204,
+        205,
+        206,
+        209,
+        214,
+        215,
+        229,
+        235,
+        243,
+        251,
+        255,
+        257,
+        261,
+        263,
+        265,
+        273,
+        277,
+        279,
+        281,
+        285,
+        291,
+        309,
+        313,
+        317,
+        325,
+        329
+      ]
+    },
+    "Julia": {
+      "n": 21,
+      "n_including_compounds": 36,
+      "lines": [
+        27,
+        32,
+        44,
+        45,
+        64,
+        81,
+        84,
+        86,
+        87,
+        88,
+        89,
+        151,
+        154,
+        156,
+        158,
+        159,
+        171,
+        174,
+        176,
+        178,
+        206,
+        231,
+        233,
+        237,
+        241,
+        245,
+        287,
+        289,
+        311,
+        313,
+        325
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        21,
+        26,
+        27,
+        33,
+        39,
+        45,
+        51,
+        59,
+        65,
+        73,
+        99,
+        193,
+        321
+      ]
+    },
+    "LogOS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        27,
+        60
+      ]
+    },
+    "AEGIS": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        27,
+        33,
+        39,
+        45,
+        61,
+        261
+      ]
+    },
+    "Kern-Welt 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Alters": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        49,
+        50,
+        51,
+        65,
+        216
+      ]
+    },
+    "Mnemosyne": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        51,
+        65,
+        97,
+        127,
+        177,
+        187
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        51,
+        97,
+        147,
+        197
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        187,
+        207
+      ]
+    },
+    "Architekt": {
+      "n": 9,
+      "n_including_compounds": 15,
+      "lines": [
+        51,
+        95,
+        96,
+        97,
+        103,
+        105,
+        115,
+        119,
+        125,
+        145,
+        147,
+        251,
+        269,
+        285
+      ]
+    },
+    "Host/Kern-Selbst": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        85,
+        195
+      ]
+    },
+    "Host": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        75,
+        85,
+        95,
+        105,
+        135,
+        145,
+        155,
+        165,
+        175,
+        185,
+        195,
+        205,
+        215
+      ]
+    },
+    "DID": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        33,
+        39,
+        47,
+        49,
+        62,
+        63,
+        65,
+        351
+      ]
+    },
+    "Einheit 734": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        257,
+        261,
+        281
+      ]
+    },
+    "Einheit 451": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        277,
+        279,
+        281
+      ]
+    },
+    "Supervisor Einheit 12": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Datenknotenpunkt": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        101,
+        113,
+        133,
+        253,
+        255
+      ]
+    },
+    "Datenknotenpunkt Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        255
+      ]
+    },
+    "Sektor Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Sektor Delta-9": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Transitkorridor": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        91,
+        93,
+        163,
+        249,
+        251,
+        309
+      ]
+    },
+    "Wohneinheit": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        73,
+        83,
+        173,
+        183,
+        193,
+        203,
+        229,
+        289,
+        313,
+        321
+      ]
+    },
+    "Nährstoffkonzentrat 7B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Nährpaste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Kohärenzalgorithmen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        261,
+        269
+      ]
+    },
+    "Kernalgorithmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        279
+      ]
+    },
+    "Harmonische Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        317
+      ]
+    },
+    "Finde die Naht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        207,
+        325
+      ]
+    },
+    "Es erinnert sich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        207
+      ]
+    },
+    "Morgenprotokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        231
+      ]
+    },
+    "Abendprotokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        311
+      ]
+    },
+    "Flow-Zustand": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        111,
+        117,
+        146,
+        267,
+        285
+      ]
+    },
+    "Gewohnte Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Mindscape": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        213
+      ]
+    },
+    "Reboot": {
+      "n": 1,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        21,
+        39,
+        60,
+        63
+      ]
+    },
+    "Anomalie": {
+      "n": 16,
+      "n_including_compounds": 19,
+      "lines": [
+        31,
+        51,
+        62,
+        121,
+        126,
+        127,
+        128,
+        135,
+        136,
+        137,
+        146,
+        149,
+        156,
+        206,
+        271,
+        277,
+        285,
+        299
+      ]
+    },
+    "Glitch": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        32,
+        33,
+        62,
+        98,
+        273,
+        285
+      ]
+    },
+    "Systemschwankungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        136,
+        277
+      ]
+    },
+    "Intrusionen": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        49,
+        50,
+        51,
+        65,
+        77,
+        87,
+        97,
+        107,
+        117,
+        127,
+        137,
+        147,
+        157,
+        167,
+        177,
+        187,
+        197,
+        205,
+        207,
+        217
+      ]
+    },
+    "Amnesie": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        21,
+        35,
+        37,
+        39,
+        60,
+        63,
+        77
+      ]
+    },
+    "Kanal 7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        281
+      ]
+    },
+    "Ruheperiode": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        176,
+        313,
+        317
+      ]
+    },
+    "Kernkonzept": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        25,
+        31,
+        37,
+        43,
+        49
+      ]
+    },
+    "Narrative Techniken": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        13,
+        20,
+        26,
+        32,
+        38,
+        44,
+        50,
+        59
+      ]
+    },
+    "Einleitungstext": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        223
+      ]
+    },
+    "Uncanny Valley": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        19,
+        32,
+        60,
+        62,
+        98,
+        333,
+        345
+      ]
+    },
+    "Foreshadowing": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        29,
+        31,
+        33,
+        51,
+        62,
+        209,
+        342,
+        344
+      ]
+    },
+    "Chekhov's Gun": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        32,
+        62
+      ]
+    },
+    "Echo-Effekt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        32,
+        62
+      ]
+    },
+    "Dissoziative Amnesie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        63
+      ]
+    },
+    "Depersonalisation": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        63,
+        166
+      ]
+    },
+    "Derealisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        63
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Juxtaposition": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        61,
+        337
+      ]
+    },
+    "Subtext": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        43,
+        44,
+        64,
+        362,
+        363
+      ]
+    }
+  }
+}

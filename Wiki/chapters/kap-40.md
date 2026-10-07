@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 14
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen"]
+sources: 16
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -21,6 +21,14 @@ novel follows is the author's call. All chapters side by side:
 Navigation, not a reading: what the readings on this page say the chapter is about, summarised, naming each source where they differ and deciding nothing between them (`Plan/runs/qmd-chapters-2026-09-26/`). Every statement it summarises stands below, quoted and cited.
 
 Die Coda steht laut der Storyform-Outline außerhalb der Zählung der Heldenreise, ist laut strukturierter Outline und Kapitel-Kompendium das Ketsu und schließt die Genesis-Klammer, die das Kapitel-Kompendium die Außen-Klammer des Erzählers zum Anfang nennt; in Dramatica sind laut Kapitel-Kompendium und Storyform-Outline A-Outcome Success und B-Dividend zugleich wahr, die Doppel-Klammer Abhandlung akzentuiert Driver Decision und Approach Be-er, und die Spec kennt dieses Kapitel nicht. Sie erzählt dieselben Ereignisse wie die Genesis am Anfang des Romans, aber aus der Position der vollzogenen pluralen Heilung, mit Wir-AEGIS-plural als bezeugender, nicht handelnder Erzählstimme, deutlich kürzer als der Anfang und ruhig, akzeptierend. In Bewegungen, die die Genesis spiegeln, kehrt der Erzähler bezeugend zurück, Junas Resonanz wird als Geburt erkannt statt als Angriff, und der Schmerz des Trennungsprotokolls bleibt als Preis statt als Tragödie; die Erstfassung zeigt Kael als das Cluster, das aus Komponente 734 herausgetrennt wurde. Das letzte Bild ist laut Konzept-Iteration und konsolidiertem Konzept, dass Wir die Welt tragen, laut strukturierter Outline, Storyform-Outline und Doppel-Klammer Abhandlung, dass Wir die Scherben tragen, die das Mosaik sind, das die Welt hält, und die Erstfassung hat die Scherben und das Universum, das hält, ohne diesen Satz. Kapitel-Kompendium und Storyform-Outline verlangen, dass die Coda Reset und Transfiguration als Lesarten zulässt und keine bestätigt, laut der Plot-Konkretisierung kehrt der Klick genau einmal wieder, ohne Ozon, und laut Kernwelten vollständig wirft sie den Leser in die Genesis zurück, während der annotierte Entwurf fragt, ob sie sich ändern muss, wenn die Erzählstimme schon am Anfang wiederkehrt.
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Epilog: Ein Logbucheintrag des Archivars
+
+- The chapter overview plans Kapitel 40 as „Epilog: Ein Logbucheintrag des Archivars“ ^[detaillierte-kapiteluebersicht.md:L71], in Akt IV (Ketsu). A plan, not the chapter as written.
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Epilog - Kohärenz
+
+- The dual structure plans Kapitel 40 as „Epilog - Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L279], in „Akt IV: Ketsu (Schluss) - Eine Neue Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L245]. Perspective: `Eine duale Perspektive, die zwischen Kael und AEGIS wechselt` (L283). Its Ki: „Kael wird in einem einfachen, alltäglichen Moment gezeigt – vielleicht bei einem ruhigen Morgen mit Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L290]. A plan, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Kapitel 40/0 as epilogue and prologue (Kap 40 and Kap 0 are one chapter)
 

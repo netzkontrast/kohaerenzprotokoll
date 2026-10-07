@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 38
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 42
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
 records: ["C14", "Q4", "C11"]
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,10 @@ Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Murdock-Stufe Wi
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the ordeal, the lowest point
 
 - The Teil-1 plot proposes Kapitel 8, `All is Lost` (L183), as the ordeal, the lowest point: „ist am Tiefpunkt, möglicherweise gefangen oder gejagt“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L188]. It hedges, and adds rampant Risse, Silas's possible end, Juna's absence and a Cerberus escalation (L194–L198).
+
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — Der Ruf der Muse und die verborgene Oase
+
+- The part-1 plot concept's revised chapter 8: „Der Ruf der Muse und die verborgene Oase“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L351]. Its summary: „Verwirrt und misstrauisch nach der Begegnung mit Silas, folgt Kael einem anderen Impuls oder Hinweis“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L355]. A revised plan for part 1, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.8, Spiegel der Vergangenheit
 
@@ -76,6 +80,10 @@ Focus: `Wahrnehmungsmanipulation`, „AEGIS' gezielter Einsatz von Gaslighting�
 
 - The detailed outline plans Chapter 8 as „Die Logik des Gaslichts“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L543] with the Core Theme „AEGIS' subtile Manipulation der Wahrnehmung und Realitätskonstruktion“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L545] — a plan, not the chapter as written.
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — the alignment concept
+
+- The strategy report keys this chapter to the alignment concept „Operationale Geschlossenheit (Luhmann)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L198]; to the alignment concept „Potenzielle Deceptive Alignment“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L200]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Mauern der Logik
 
 Title: „Die Mauern der Logik“ ^[roman-outline-system-kael.md:L147]
@@ -100,6 +108,10 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 - Story: the outline plans, under `Inhalt`, „um seine Realitätswahrnehmung zu untergraben“ ^[outline.md:L61]
 - Focus: under `Fokus`, „die thematische Auseinandersetzung mit Realität vs. Simulation“ ^[outline.md:L62]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Axiom der Vermeidung
+
+- The chapter overview plans Kapitel 8 as „Axiom der Vermeidung“ ^[detaillierte-kapiteluebersicht.md:L24], in Akt I (Ki). A plan, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -113,6 +125,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Die Logik des Gaslichts
 
 - The architecture plan sets Kapitel 8 in Teil 1 as the archetypal phase „Die Logik des Gaslichts“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L24], with the core theme „AEGIS' subtile Manipulation der Wahrnehmung“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L24] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L159.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Loslassen lernen
+
+- The Kishōtenketsu plan's chapter 8 of 30, in act Shō: „Loslassen lernen“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L123]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Gaslighting Protocol`
 

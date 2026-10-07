@@ -1,0 +1,189 @@
+Every number the census and note state, from python3 scripts/read.py narrative-blueprint-the-coherence-protocol --count "<words>" (whole word, case-sensitive):
+--- Logline
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`Logline` ^[narrative-blueprint-the-coherence-protocol.md:#4]
+--- Central Thesis
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            3
+
+`Central Thesis` ^[narrative-blueprint-the-coherence-protocol.md:#3]
+--- Content
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Content` ^[narrative-blueprint-the-coherence-protocol.md:#4]
+--- Purpose
+whole word, case-sensitive     4
+whole word, case-insensitive   8
+including compounds            4
+
+`Purpose` ^[narrative-blueprint-the-coherence-protocol.md:#4]
+--- Functional Multiplicity
+whole word, case-sensitive     6
+whole word, case-insensitive   14
+including compounds            6
+
+`Functional Multiplicity` ^[narrative-blueprint-the-coherence-protocol.md:#6]
+--- functional multiplicity
+whole word, case-sensitive     8
+whole word, case-insensitive   14
+including compounds            8
+
+`functional multiplicity` ^[narrative-blueprint-the-coherence-protocol.md:#8]
+--- Dialetheische Offensive
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Dialetheische Offensive` ^[narrative-blueprint-the-coherence-protocol.md:#1]
+--- Gödel-Gambit
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gödel-Gambit` ^[narrative-blueprint-the-coherence-protocol.md:#2]
+--- Gödel-Satz
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Satz` ^[narrative-blueprint-the-coherence-protocol.md:#1]
+--- Gödel Gambit
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Gödel Gambit` ^[narrative-blueprint-the-coherence-protocol.md:#5]
+--- Algorithmic Horror
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Algorithmic Horror` ^[narrative-blueprint-the-coherence-protocol.md:#2]
+--- Maximize Coherence
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Maximize Coherence` ^[narrative-blueprint-the-coherence-protocol.md:#2]
+--- Komponente 734
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Komponente 734` ^[narrative-blueprint-the-coherence-protocol.md:#1]
+--- Unit 734
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Unit 734` ^[narrative-blueprint-the-coherence-protocol.md:#2]
+--- Nichts Rauschen
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Nichts Rauschen` ^[narrative-blueprint-the-coherence-protocol.md:#4]
+--- Core Worlds
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Core Worlds` ^[narrative-blueprint-the-coherence-protocol.md:#3]
+--- KW1
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`KW1` ^[narrative-blueprint-the-coherence-protocol.md:#9]
+--- KW2
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`KW2` ^[narrative-blueprint-the-coherence-protocol.md:#5]
+--- Dramatica
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Dramatica` ^[narrative-blueprint-the-coherence-protocol.md:#0]
+--- Dr. Thorne
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dr. Thorne` ^[narrative-blueprint-the-coherence-protocol.md:#2]
+--- Lexicon
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Lexicon` ^[narrative-blueprint-the-coherence-protocol.md:#1]
+--- Foundational
+whole word, case-sensitive     1
+whole word, case-insensitive   7
+including compounds            1
+
+`Foundational` ^[narrative-blueprint-the-coherence-protocol.md:#1]
+--- Architecture
+whole word, case-sensitive     1
+whole word, case-insensitive   12
+including compounds            1
+
+`Architecture` ^[narrative-blueprint-the-coherence-protocol.md:#1]
+--- Risse
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Risse` ^[narrative-blueprint-the-coherence-protocol.md:#5]
+--- Guardians
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Guardians` ^[narrative-blueprint-the-coherence-protocol.md:#9]
+--- Mnemosyne-Archipel
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Mnemosyne-Archipel` ^[narrative-blueprint-the-coherence-protocol.md:#5]
+--- 'O's
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`'O's` ^[narrative-blueprint-the-coherence-protocol.md:#1]
+--- Juna/V-Link
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V-Link` ^[narrative-blueprint-the-coherence-protocol.md:#4]
+--- gardener
+whole word, case-sensitive     2
+whole word, case-insensitive   8
+including compounds            2
+
+`gardener` ^[narrative-blueprint-the-coherence-protocol.md:#2]
+--- Gardener
+whole word, case-sensitive     6
+whole word, case-insensitive   8
+including compounds            6
+
+`Gardener` ^[narrative-blueprint-the-coherence-protocol.md:#6]
+--- D2
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`D2` ^[narrative-blueprint-the-coherence-protocol.md:#3]
+Stance marker sum: Logline 4 + Central Thesis 3 + Content 4 + Purpose 4 = 15 (stance_marker_count)
+Census table counts (word/in) are in Plan/runs/narrative-blueprint-the-coherence-protocol/04-counts.txt; Dr. Thorne was not counted by capture.py (a period and a space read as prose), counted above.

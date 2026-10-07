@@ -1,0 +1,148 @@
+# counts for 120 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz-Protokoll                4 word    10 in   [11, 15, 17, 23, 37, 49]  <-- substring
+                                    6      as Kohärenz-Protokolls
+  Kohärenz-Protokolls               6 word     6 in   [11, 15, 37, 49, 106, 167]
+  AEGIS                            40 word    41 in   [23, 37, 39, 44, 49, 51]
+                                    1      as AEGIS-Simulation
+  Kael                             45 word    51 in   [23, 37, 39, 45, 47, 49]
+                                    6      as Kaels
+  Juna                             21 word    22 in   [37, 39, 46, 47, 51, 59]
+                                    1      as Junas
+  Juna/V                            3 word     3 in   [39, 123, 133]
+  Lex                               3 word     3 in   [97, 102, 163]
+  Nyx                               5 word     5 in   [98, 102, 149, 163]
+  Kiko                              3 word     3 in   [99, 102, 163]
+  Selene                            3 word     3 in   [100, 102, 163]
+  Dual Kernel Theory                4 word     4 in   [17, 21, 49, 171]
+  DKT                               2 word     2 in   [21, 49]
+  Tertiären Strukturellen Dissoziation    2 word     2 in   [21, 83]
+  TSDP                              3 word     6 in   [21, 83, 95, 119, 149, 171]
+                                    1      as TSDP-Arc
+                                    1      as TSDP-Flashbacks
+                                    1      as TSDP-Dynamik
+  Landauer-Prinzip                  1 word     2 in   [51]
+                                    1      as Landauer-Prinzips
+  Landauer-Abwärme                  1 word     1 in   [121]
+  Risse                             5 word     6 in   [23, 51, 121, 149]
+                                    1      as Rissen
+  digitale Abwärme                  2 word     2 in   [23, 51]
+  Core Worlds                       1 word     1 in   [61]
+  KW1                               3 word     3 in   [61, 161]
+  KW2                               2 word     2 in   [61, 149]
+  KW3                               2 word     2 in   [61, 149]
+  KW4                               3 word     3 in   [61, 163]
+  Logos-Prime                       3 word     3 in   [61, 63, 161]
+  LogOS                             1 word     1 in   [61]
+                                    3      as Logos-Prime
+  Mnemosyne-Archipel                2 word     2 in   [61, 149]
+  Cerberus-Labyrinth                3 word     3 in   [61, 98, 149]
+  Kairos-Potentialis                3 word     3 in   [61, 102, 163]
+  Fortress of Logic                 2 word     2 in   [95, 147]
+  Inner Council                     1 word     1 in   [102]
+  Mosaic Heart                      1 word     1 in   [63]
+  Dance in the Garden               1 word     1 in   [63]
+  Collapse of the Formulas          1 word     1 in   [63]
+  Resonance of the Depth            1 word     1 in   [63]
+  K-J Vector                        1 word     1 in   [63]
+  Moonshine resonance               1 word     1 in   [63]
+  Fragment Alpha                    1 word     1 in   [63]
+  McL                               1 word     1 in   [63]
+  Apparently Normal Part            2 word     3 in   [51, 61, 95]
+  Emotional Parts                   3 word     3 in   [51, 95, 163]
+  ANP                               3 word     4 in   [51, 61, 95]
+  ANPs                              1 word     1 in   [61]
+  Functional Multiplicity           6 word     6 in   [51, 63, 102, 147, 159, 163]
+  amnestischen Barrieren            2 word     2 in   [51, 75]
+  Monster Group                     1 word     1 in   [163]
+  Foundation                        1 word     1 in   [59]
+  NovelOS                           1 word     2 in   [23, 71]
+                                    1      as NovelOS-Datenstruktur
+  Narrative Context Protocol        3 word     3 in   [21, 77, 169]
+  NCP                               4 word     4 in   [21, 77, 169]
+  ARCHON-Framework                  2 word     2 in   [106, 169]
+  Fabula                            2 word     2 in   [106, 169]
+  Syuzhet                           2 word     2 in   [106, 169]
+  narrative Entropie                2 word     2 in   [15, 77]
+  Reflexions-Baseline-Mechanismus    1 word     1 in   [19]
+  Restatement-Mechanismus           1 word     1 in   [19]
+  Integritätsprüfungsmechanismus    1 word     1 in   [19]
+  adversarielle Abfragemechanismus    1 word     1 in   [19]
+  Local-Minimum Lock-in             1 word     1 in   [17]
+  Self-Containment                  1 word     1 in   [15]
+  RISEN-Framework                   1 word     1 in   [17]
+  ReAct-Paradigma                   1 word     1 in   [17]
+  Story Mind                        3 word     3 in   [27, 106, 171]
+  Physik-Engine                     1 word     1 in   [31]
+  Orphan Events                     1 word     1 in   [31]
+  Dead Ends                         1 word     1 in   [31]
+  Alternative Storyform I           1 word     4 in   [108, 123, 137, 151]  <-- substring
+  Alternative Storyform II          1 word     2 in   [123, 137]
+  Alternative Storyform III         1 word     1 in   [137]
+  Alternative Storyform IV          1 word     1 in   [151]
+  Personal Triumph                  1 word     1 in   [161]
+  Dramatica                        10 word    23 in   [21, 25, 27, 31, 35, 37]  <-- substring
+                                    4      as Dramatica-Theorie
+                                    2      as Dramatica-Matrix
+                                    1      as Dramatica-Hierarchie
+                                    1      as Dramatica-Klassen
+  Dramatica-Matrix                  2 word     2 in   [25, 67]
+  Quad                              2 word     5 in   [21, 27, 29]  <-- substring
+                                    2      as Quads
+                                    1      as Quadrat
+                                    1      as quadratische
+  Dynamic Pairs                     2 word     2 in   [29, 67]
+  Companion Pair                    2 word     3 in   [29, 135, 149]
+  Dependent Pairs                   1 word     1 in   [29]
+  Objective Story                   7 word     7 in   [39, 44, 51, 59, 71, 90]
+  Main Character                   13 word    15 in   [39, 45, 59, 71, 81, 91]
+  Impact Character                  7 word     9 in   [39, 46, 59, 71, 92, 114]
+  Subjective Story                  6 word     6 in   [39, 47, 51, 59, 71, 93]
+  Crucial Element                   1 word     1 in   [81]
+  Grand Argument Story              1 word     1 in   [35]
+  MC Resolve                        4 word     4 in   [106, 115, 121, 157]
+  MC Growth                         3 word     3 in   [130, 135, 143]
+  MC Approach                       1 word     1 in   [131]
+  OS Problem                        1 word     1 in   [144]
+  OS Solution                       1 word     1 in   [145]
+  Steadfast                         5 word     5 in   [81, 115, 121, 157, 161]
+  Kishōtenketsu                     1 word     3 in   [57, 63, 149]  <-- substring
+                                    1      as Kishōtenketsu-Struktur
+                                    1      as Kishōtenketsu-Paradigma
+  Dialetheismus                     2 word     2 in   [23, 75]
+  parakonsistente Logik             1 word     2 in   [17, 23]
+  Logics of Formal Inconsistency    1 word     1 in   [73]
+  Kohärenztheorie                   2 word     2 in   [69, 73]
+  Korrespondenztheorie              3 word     3 in   [69, 75, 163]
+  Z-Buffer                          0 word     1 in   [75]
+                                    1      as Z-Buffer-Struktur
+  Z-Fighting                        1 word     1 in   [75]
+  Grenzsituationen                  2 word     2 in   [23, 77]
+  Sein zum Tode                     1 word     1 in   [23]
+  Jaspers                           4 word     4 in   [21, 23, 77, 163]
+  Heidegger                         2 word     3 in   [21, 23, 77]
+                                    1      as Heideggers
+  holografische Prinzip             2 word     2 in   [27, 163]
+  Hyperkohärenz                     1 word     1 in   [19]
+  Universe                          9 word     9 in   [35, 37, 39, 44, 49, 55]
+                                    1      as universelle
+  Mind                             12 word    12 in   [27, 35, 37, 39, 45, 49]
+  Psychology                        8 word     8 in   [35, 37, 39, 46, 51, 55]
+  Physics                           8 word     8 in   [35, 37, 39, 47, 51, 55]
+  Understanding                     4 word     4 in   [57, 59, 63, 90]
+  Memories                          5 word     5 in   [57, 59, 61, 63, 91]
+  Future                            3 word     3 in   [59, 63, 92]
+  Becoming                          4 word     4 in   [59, 61, 63, 93]
+  Certainty                         6 word     6 in   [69, 71, 73, 77, 90]
+  Truth                             6 word     6 in   [69, 71, 75, 77, 91]
+  Choice                            3 word     3 in   [71, 92, 135]
+  Commitment                        2 word     2 in   [71, 93]
+  Order                             6 word     6 in   [83, 85, 90, 95, 102, 163]
+  Faith                             4 word     4 in   [83, 85, 90, 102]
+  Unproven                          5 word     5 in   [83, 85, 91, 95, 102]
+  Proven                            4 word     4 in   [85, 91, 102]
+  Protection                        3 word     3 in   [144, 149]
+  Proaction                         2 word     2 in   [145, 149]

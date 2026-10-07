@@ -1,0 +1,70 @@
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Kernkonzept"
+`Kernkonzept` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#6]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Narrative Techniken"
+`Narrative Techniken` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#7]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Implikationen für Konstrukt-Stadt & Michael"
+`Implikationen für Konstrukt-Stadt & Michael` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#6]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Plot-Fortschritt (Stichwort)"
+`Plot-Fortschritt (Stichwort)` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#15]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Szene 15"
+`Szene 15` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#2]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Zugriff am April 17, 2025"
+`Zugriff am April 17, 2025` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#43]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Kontext"
+`Kontext` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#5]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "LogOS"
+`LogOS` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#3]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Kern-Welt 1"
+`Kern-Welt 1` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#1]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Kern-Welt"
+`Kern-Welt` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#1]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Alters"
+`Alters` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#7]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Mnemosyne"
+`Mnemosyne` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#4]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Cerberus"
+`Cerberus` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#2]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Kairos"
+`Kairos` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#4]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Sophia"
+`Sophia` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#4]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Es erinnert sich"
+`Es erinnert sich` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#1]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Dissoziative Identitätsstörung"
+`Dissoziative Identitätsstörung` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#0]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Dissoziative Amnesie"
+`Dissoziative Amnesie` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#2]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Amnesie"
+`Amnesie` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#10]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Einheit 451"
+`Einheit 451` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#3]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Kanal 7"
+`Kanal 7` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#1]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Supervisor Einheit 12"
+`Supervisor Einheit 12` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#1]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Einheit 734"
+`Einheit 734` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#3]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Harmonische Kohärenz"
+`Harmonische Kohärenz` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#2]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Opus 7"
+`Opus 7` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#1]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Alter"
+`Alter` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#16]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Setting"
+`Setting` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#16]
+$ python3 scripts/read.py romanentwurf-kohaerenz-protokoll-teil-1 --count "Charaktere"
+`Charaktere` ^[romanentwurf-kohaerenz-protokoll-teil-1.md:#16]
+$ grep -o "\\\[Kontext" Sources/drive/romanentwurf-kohaerenz-protokoll-teil-1.md | wc -l
+3
+$ grep -c "^\*\*Szene [0-9]*:" (blueprint) / grep -c "^\*\*(Szene" (prose)
+15
+15
+$ sed -n 225,330p Sources/drive/romanentwurf-kohaerenz-protokoll-teil-1.md | grep -n -E "Mnemosyne|Cerberus|Kairos|Sophia|LogOS|Kern-Welt|AEGIS" | cut -c1-12  (prose range; AEGIS only)
+37:"Einheit 
+$ sed -n 225,330p Sources/drive/romanentwurf-kohaerenz-protokoll-teil-1.md | grep -c -w -E "Amnesie|DID|Intrusionen"  (prose range)
+0
+$ grep -n -w Amnesie (file lines)
+21 35 37 39 60 63 77 
+$ grep -n "Szene 15"
+211 327 
+stance_marker_count: 6+7+6+15 = 34 (word counts above; the four markers)

@@ -1,0 +1,272 @@
+{
+  "document": "project-coherence-protocol-narrative-blueprint-decisions",
+  "drive_id": "17wuHqa_SIg4o7T-UPbdTbh3mDnJtHWFqzcE2RID8uw0",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-181/brief.md; no chapter page — the document names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 92,
+    "decisions": 98,
+    "decided_by_lookup": 77,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English report that locks a narrative blueprint: its 61 new surfaces are its own decision vocabulary (the Hybrid/Adaptive model, the perverse learning loop, algorithmic melancholy and its three costs, The Foundation, Synesthetic Resonance, Shared Qualia, the 'Differently Fragmented Other'), the Core World numbers KW1–KW4, the TSDP letters (ANP, EP, ISH), the four logics, the novel's form devices and borrowed concepts (Popper's paradox, quantum entanglement, strange attractor); what it says of the novel's world went on existing pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        30,
+        38,
+        40,
+        44,
+        45,
+        46,
+        56,
+        64,
+        68,
+        141,
+        148,
+        168
+      ],
+      "attribution": "",
+      "note": "AEGIS as a Hybrid/Adaptive system whose forced paraconsistency is decay"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        189,
+        193
+      ],
+      "attribution": "",
+      "note": "a six-part canonical alter table"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        56,
+        148,
+        168
+      ],
+      "attribution": "",
+      "note": "the Gambit as a climax, not the loop's start"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        58,
+        87
+      ],
+      "attribution": "",
+      "note": "the Guardians as AEGIS's subordinate agents whose failures are Kael's openings"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        139,
+        141,
+        148
+      ],
+      "attribution": "",
+      "note": "Juna in the ontological exploit and as resonance guide"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        164,
+        166,
+        168,
+        176,
+        183,
+        194
+      ],
+      "attribution": "",
+      "note": "Kael's healed mind as an offensive tool, then the Gärtner"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        83,
+        85,
+        94,
+        101,
+        102,
+        103,
+        104
+      ],
+      "attribution": "",
+      "note": "a table of four Core Worlds, each with a governing logic"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        102,
+        197
+      ],
+      "attribution": "",
+      "note": "Kiko as the child/freeze EP"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        101,
+        166,
+        195
+      ],
+      "attribution": "",
+      "note": "Lex as the analyst alter of the table"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "LogOS and its category error"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Mnemosyne's blind spot is memory as objective data"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        135,
+        139,
+        141,
+        145,
+        146
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a shared state"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "the `Negentropie-Fehlinterpretation` as the loop's engine"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        80,
+        122,
+        124,
+        125,
+        126
+      ],
+      "attribution": "",
+      "note": "the Void given sensory signatures, and felt by AEGIS as an incursion"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        89,
+        166,
+        196
+      ],
+      "attribution": "",
+      "note": "Nyx as the aggressive protector"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        198
+      ],
+      "attribution": "",
+      "note": "Rhys as carer and mediator"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        221,
+        225
+      ],
+      "attribution": "",
+      "note": "`Risse` as environmental clues, Cache Coherence Glitches as structure"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        199
+      ],
+      "attribution": "",
+      "note": "Selene as the Inner Self Helper"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        189,
+        193
+      ],
+      "attribution": "",
+      "note": "the TSDP column of the canonical alter table"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J34 (a slashed name: Juna/V and the Juna/V Moonshine-Link, read on juna and moonshine-link), J49 (Logos-Prime / LogOS: a world and its Guardian), J51 (Das Nichts Rauschen / Rauschen), J5 (Negentropie-Fehlinterpretation, read on negentropie, not entropie), J12 and J48 (compounds with their own sense: Kael-paradox, read on kael, Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis, the Core Worlds' names, read on kern-welten, Cache Coherence Glitches, read on risse, The Gärtner and Gärtner), J9 (the project's name); Combinatorial Explosion and ontological exploit are not Alex",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 193,
+      "decision": "reading",
+      "why": "the canonical alter table, read on alters"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "the project's name"
+    },
+    {
+      "page": "moonshine-link",
+      "surface": "Moonshine-Link",
+      "line": 135,
+      "decision": "reading",
+      "why": "the Juna/V Moonshine-Link as ontological exploit, read on moonshine-link"
+    }
+  ],
+  "not_promoted": [
+    "the Hybrid/Adaptive model, the perverse learning loop and algorithmic melancholy — on aegis and Q8",
+    "KW1–KW4 and the four logics — on kern-welten",
+    "The Foundation (Das Fundament), Synesthetic Resonance, Shared Qualia — on moonshine-link and juna",
+    "the Gärtner's non-intervention, Popper's paradox, the 'Differently Fragmented Other' — on kael",
+    "ANP, EP, ISH — the table's letters, on tsdp and the alters",
+    "the form devices (Found Logfiles, Mutually Exclusive Epilogues, Blank Glossary Entries) — the document's plan for the book",
+    "the strategic brief and the Dramaturg's Note — reported, never reproduced"
+  ],
+  "internal_tension": "the Gödel move is written „Gödel Gambit“ (L56), where the loop is not started by one, and „Gödel-Gambit“ (L148); Paraconsistent Logic is KW2's principle (L102) and the name of AEGIS's decayed state (L62), unrelated by the document",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

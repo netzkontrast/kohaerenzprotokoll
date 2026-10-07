@@ -290,3 +290,67 @@ Where it stands in the record's own terms: a component, not an address; it does 
 > „designated internally as Component 734 (known externally as Kael)“ ^[aegis-genesis-crisis-self-definition.md:L177]
 
 Where it stands: the log gives the Komponente sense (Kael's designation) in AEGIS's voice; it is a reading for Q7's first sense and settles nothing, the question stays as recorded.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review
+
+**The Bauplan review names Komponente 734 as Kael's state, as a depersonalisation and as his initial state in the [[konstrukt-stadt|Konstrukt-Stadt]], and says nothing of what the number labels.**
+
+At L40 it reads the phenomenon of depersonalisation „das Kael als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40] Komponente 734 experiences; at L170 „Kaels anfänglicher Zustand als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L170] Komponente 734 within the order of AEGIS and the Konstrukt-Stadt (KW1). `Wohneinheit 734` does not appear in the review.
+
+Stands: the review adds a use of Komponente 734 as Kael's designation and as a state, and does not answer the question; it stays open.
+
+## 2026-10-06 — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint
+
+**The blueprint writes `Komponente 734` once, as what emerges from the `Nichts Rauschen` in its opening set-piece, and gives AEGIS an agent `Unit 734` in two other places; it names no dwelling and does not connect the two.**
+
+In the Writer's Room set-piece list: „We experience the emergence of“ ^[narrative-blueprint-the-coherence-protocol.md:L419] `Komponente 734`, whose first moment is „a pure act of resistance“ ^[narrative-blueprint-the-coherence-protocol.md:L419]. In the AEGIS timeline AEGIS „deploys agents like Unit 734 to monitor and increase its direct, oppressive presence.“ ^[narrative-blueprint-the-coherence-protocol.md:L345] and in beat 4 of the beat sheet „AEGIS's Unit 734 begins actively pursuing him, shifting the threat from an abstract feeling of paranoia to a tangible pursuer.“ ^[narrative-blueprint-the-coherence-protocol.md:L364] The blueprint does not say that the component and the unit are one, or that either is Kael's designation.
+
+Stands: the blueprint offers two uses of the number in two parts and decides nothing; the question of what the number labels in the world stays open.
+
+## 2026-10-06 — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview
+
+**The chapter overview gives Kapitel 2 the title `Protokoll 734: Kohärenz-Initialisierung` and says no more of what 734 names.**
+
+The title of Kapitel 2 pairs the number with the initialisation: „Protokoll 734: Kohärenz-Initialisierung“ ^[detaillierte-kapiteluebersicht.md:L18] The line goes on, „Aus der kalten, analytischen Perspektive von AEGIS wird der Zustand von“ ^[detaillierte-kapiteluebersicht.md:L18] Kael assessed after the reboot. The title stands as a Protokoll; the line names no Komponente and no Wohneinheit.
+
+Stands as a source for the question, dated 2025-07-30: 734 appears in a chapter title as a Protokoll; the question stays open.
+
+## 2026-10-07 — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report
+
+**The canon status report lists a „Component 734 Perspective“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L69] as a fragment for Act II and does not say what 734 names.**
+
+Its inventory gives it as a „Functionalist view of existence as data latency.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L69], tone dehumanized.
+
+Stands as a source for the question: 734 appears as a perspective of the fragment inventory; the question stays open.
+
+## 2026-10-07 — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis
+
+**The English prompt in the protocol analysis names 734 as AEGIS's Origin-Self, Entity 734 (Kael), shattered into shards.**
+
+The account is the prompt's, in section 9, addressed to AEGIS: „You hold Entity 734 (Kael) in containment across the Core Worlds.“ ^[analyse-des-kohaerenz-protokolls.md:L337] and „734 was your Origin-Self.“ ^[analyse-des-kohaerenz-protokolls.md:L339] The shattering: „You shattered 734 into shards (Alters) and imprisoned them in Simulations“ ^[analyse-des-kohaerenz-protokolls.md:L341].
+
+Stands as a prompt's naming of 734 as Kael and as the Origin-Self; recorded, not applied.
+
+## 2026-10-07 — `aegis`, 2025-07-29, the AEGIS concept file
+
+**The AEGIS concept file calls Komponente 734 the original Ich of the Nichts Rauschen, later suppressed into a functional component; it does not name Kael with it.**
+
+At L166 a minimal consciousness arises, called „Komponente 734“ ^[aegis.md:L166], named beside a „Ich“. At L170 the original fragment was suppressed and turned into „bloße funktionale Komponente“ ^[aegis.md:L170], with the number in brackets.
+
+Where it stands in the record's own terms: one more answer on what 734 names, an original Ich turned functional, with the link to Kael not made in these lines; nothing here is applied.
+
+## 2026-10-07 — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept
+
+**The part-1 plot concept proposes `Einheit 734` as a specific AEGIS unit, a recurring antagonist; it does not say what the number names.**
+
+The critique lists „die AEGIS-Einheit 734 sowie die nuancierte Rolle von Juna aus der externen Realität“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L27] among the figures left unused. Its character strategy says „Diese spezifische AEGIS-Einheit wird als wiederkehrender, konkreter Antagonist eingeführt, der die unpersönliche und rigide Durchsetzung der Systemregeln repräsentiert“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L57] In the escalation chapter the unit joins the pursuit of Kael: „AEGIS reagiert sofort und brutal: Energiebarrieren werden errichtet, Drohnen schwärmen aus, Einheit 734“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L481] The document connects the number neither to Kael's designation nor to a dwelling.
+
+Where it stands: a further bearer of 734, an AEGIS unit, in a proposal; it changes neither the question nor its status.
+
+## 2026-10-07 — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft
+
+**The chapter-1 draft's prose sketch gives 734 as the protagonist's own unit number in the system; it is not an AEGIS unit, and the draft does not say why the number is 734.**
+
+In scene 4 of the prose sketch the entrance scanner answers Michael (the draft's early name of Kael): „Identität bestätigt. Michael Einheit 734. Zugriff gewährt.“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L257]. The supervisor, `Supervisor Einheit 12`, addresses him by the same number in straight-quoted dialogue. The draft writes no `Komponente 734` and no `Wohneinheit 734`: his dwelling is „Seine Wohneinheit“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L229] with no number.
+
+Where it stands: a further document in which 734 is Kael's own designation, in a working draft that hedges and claims no canon; it changes neither the question nor its status.

@@ -1,0 +1,403 @@
+{
+  "document": "welten",
+  "drive_id": "1DahlLJfDg4QX1SHD6upLZM8FKhDomDQt8_9e-FXKX60",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kern-Welten": {
+      "n": 13,
+      "n_including_compounds": 19,
+      "lines": [
+        11,
+        13,
+        28,
+        30,
+        46,
+        54,
+        60,
+        73,
+        75,
+        78,
+        119,
+        123,
+        127
+      ]
+    },
+    "KW1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        65,
+        82
+      ]
+    },
+    "KW2": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        16,
+        66,
+        91,
+        123
+      ]
+    },
+    "KW3": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        67,
+        100
+      ]
+    },
+    "KW4": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        18,
+        68,
+        109
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        65,
+        82
+      ]
+    },
+    "Resonanz-Nebel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        16,
+        66,
+        91
+      ]
+    },
+    "Schattenlabyrinth": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        67,
+        100
+      ]
+    },
+    "Möglichkeitsstrom": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        18,
+        68,
+        109
+      ]
+    },
+    "Potentialmeer": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        32,
+        43,
+        114,
+        118,
+        127
+      ]
+    },
+    "AEGIS": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        29,
+        34,
+        37,
+        39,
+        46,
+        54,
+        55,
+        56,
+        60,
+        73,
+        77,
+        118,
+        119,
+        123,
+        127
+      ]
+    },
+    "Autogenic Emergent General Intelligence System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Überwelt": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        28,
+        37,
+        50,
+        56,
+        60,
+        119,
+        127
+      ]
+    },
+    "Guardians": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        28,
+        30,
+        46,
+        56,
+        58,
+        61,
+        69,
+        73,
+        77,
+        119,
+        123,
+        127
+      ]
+    },
+    "LogOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        82
+      ]
+    },
+    "Mnemosyne": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        16,
+        66,
+        68,
+        91
+      ]
+    },
+    "Cerberus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        67,
+        100
+      ]
+    },
+    "Kairos": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        18,
+        68,
+        109
+      ]
+    },
+    "Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Blinder Fleck": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        46,
+        65,
+        66,
+        67,
+        68,
+        69
+      ]
+    },
+    "Blinden Flecken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        73
+      ]
+    },
+    "Risse": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        77,
+        87,
+        96,
+        105,
+        114
+      ]
+    },
+    "Partnerin-Echos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Echos": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        77,
+        87,
+        96,
+        105,
+        114,
+        123
+      ]
+    },
+    "Externe Ebene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        116,
+        118,
+        127
+      ]
+    },
+    "Nexus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        116,
+        119
+      ]
+    },
+    "Kael": {
+      "n": 2,
+      "n_including_compounds": 12,
+      "lines": [
+        29,
+        46,
+        77,
+        86,
+        95,
+        105,
+        119,
+        123
+      ]
+    },
+    "Julia": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        46,
+        77,
+        118,
+        127
+      ]
+    },
+    "Partnerin": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        46,
+        69,
+        77
+      ]
+    },
+    "K-J-Verbindung": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        66,
+        67,
+        68,
+        69,
+        77,
+        118,
+        123
+      ]
+    },
+    "Kael-Julia-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "DID": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        46
+      ]
+    },
+    "Gleichzeitigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        118
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Sein durch Abgrenzung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        24,
+        28,
+        30,
+        34,
+        127
+      ]
+    },
+    "Das Seelen-Kohärenz-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Kontrollinstanzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Uncanny Valley": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    }
+  }
+}

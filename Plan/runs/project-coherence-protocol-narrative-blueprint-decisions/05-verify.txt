@@ -1,0 +1,146 @@
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Decision Point"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Decision Point` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#2]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "hereby"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`hereby` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#2]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "mandated"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`mandated` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#2]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "ratified"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ratified` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#1]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "will be"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            22
+
+`will be` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#19]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "must"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`must` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#14]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "definitive"
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            4
+
+`definitive` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#3]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "algorithmic melancholy"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`algorithmic melancholy` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#4]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Dramaturg's Note"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Dramaturg's Note` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#3]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#2]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Juna/V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#4]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Moonshine"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Moonshine` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#0]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#1]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "ANP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`ANP` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#3]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Apparently Normal"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Apparently Normal` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#0]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Structural Dissociation"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Structural Dissociation` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#0]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Karl Popper"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Karl Popper` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#0]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Popper"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Popper` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#2]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Gärtner"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gärtner` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#2]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#1]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Gödel Gambit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel Gambit` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#1]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions --count "Gödel-Gambit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Gambit` ^[project-coherence-protocol-narrative-blueprint-decisions.md:#1]
+$ python3 scripts/read.py project-coherence-protocol-narrative-blueprint-decisions | sed -n "/^256|/,\$p"  # ten titles L256-L265
+256| 1.  AI-Assisted Narrative Coherence
+257| 2.  Character Dossier: The Opposing Logics of Kael and AEGIS
+258| 3.  The Coherence Protocol: A World Bible
+259| 4.  The Coherence Protocol: A Narrative Distillation
+260| 5.  A Learner's Glossary for the World of 'Kohärenz Protokoll'
+261| 6.  An Architecture of the Self: A Critical Review of 'Kohärenz Protokoll'
+262| 7.  The Architecture of a Fractured Soul: A Critique of "Kohärenz Protokoll"
+263| 8.  Romanideen zu Roman entwickeln
+264| 9.  Pitch Deck: Coherence Protocol
+265| 10. Report: Narrative Methodology for "Kohärenz Protokoll"
+266| 
+stance_marker_count: Decision Point 2 + hereby 2 + mandated 2 + ratified 1 = 7
+candidates: 94 (04-counts.txt header: counts for 94 candidates); profile: 88 backslash escapes, 5 glued ref numbers, 1 question mark

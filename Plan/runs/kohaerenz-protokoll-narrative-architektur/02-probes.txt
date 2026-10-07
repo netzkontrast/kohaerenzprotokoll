@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      59
+  backslash escapes      89
+  typographic marks      234
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, System, Systemanalytiker, Systeme, Systemfehler, Systemkollaps, Systemleistung, Systemlogik, Systems, Systemstabilität, Systemtheorie, Systemverantwortung, Systemzustand
+  selbs    Selbst, Selbstauslöschung, Selbstbestimmung, Selbstbezüglichkeit, Selbsterhaltung, Selbsterhaltungstrieb, Selbstproduktion
+  integ    Integrated, Integration, Integriert, Integrierte, Integrität
+  multi    Multi, Multiple, Multiplicity, Multiplizität, Multiplizitäten
+  philo    Philosophical, Philosophie, Philosophische, Philosophischer, Philosophy
+  archi    Archipel, Architectures, Architektenfragen, Architektur
+  chara    Character, Charakter, Charaktere, Charakterisierung
+  disso    Dissociation, Dissociative, Dissonanz, Dissoziation
+  fragm    Fragment, Fragmentiert, Fragmentierte, Fragmentierung
+  rhizo    Rhizom, Rhizomatic, Rhizomatische, Rhizome
+  theor    Theorems, Theoretical, Theorie, Theory
+  unter    Unterdrückung, Unterscheidung, Unterschied, Untersuchung
+  analy    Analyse, Analytics, Analytiker
+  ander    Andere, Anderen, Andersartigkeit
+  antei    Anteil, Anteile, Anteilen
+  argum    Argument, Argumenten, Arguments
+  diale    Dialektik, Dialetheism, Dialetheismus
+  diese    Diese, Dieser, Dieses
+  disku    Diskurs, Diskursive, Diskursprozessor
+  gegen    Gegensatz, Gegensätze, Gegensätzen
+  heilu    Heilung, Heilungsmodell, Heilungsprozess
+  infor    Information, Informationen, Informationstheorie
+  katal    Katalysator, Katalysatorin, Katalysators
+  kernw    Kernwelt, Kernwelten, Kernwiderspruch
+  konfl    Konflikt, Konflikte, Konflikts
+
+# substring pairs -- never one term, often merged by accident
+  Best < Selbstbestimmung
+  Code < Codes
+  Dame < Fundament
+  Dame < Fundaments
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Anscheinend
+  Ende < Endes
+  Ende < Romanende
+  Ende < Transzendenz
+  Ende < Übergreifende
+  Form < Formen
+  Form < Formalen
+  Form < Storyform
+  Form < Information
+  Form < Informationen
+  Form < Formalisierung
+  Form < Transformation

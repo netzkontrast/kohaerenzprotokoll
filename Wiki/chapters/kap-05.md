@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 36
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 40
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,10 @@ Im Auge des Sturms erzielt Kael, lex-dominant, einen falschen Erfolg, eine trüg
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — crossing the threshold in KW2
 
 - The Teil-1 plot proposes Kapitel 5, `Gates of Judgement` (L127), as crossing the threshold in KW2: „Kael steht vor direkten Herausforderungen in KW2“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L132]. It hedges, and adds a trauma zone, a DID intrusion and a conscious decision to seek answers (L137–L139), the edge of KW2 towards KW3 (L142).
+
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — Die Flucht und der Grenzwärter
+
+- The part-1 plot concept's revised chapter 5: „Die Flucht und der Grenzwärter“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L238]. Its summary: „Aufgeschreckt durch Junas Warnung und die nahende AEGIS-Präsenz, entscheidet sich Kael zur Flucht“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L242]. A revised plan for part 1, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.5, Die Juna-Spur
 
@@ -75,6 +79,10 @@ Focus: `Konfrontation mit Emotionalität`, „die erste direkte, schmerzhafte Be
 
 - The detailed outline plans Chapter 5 with the Core Theme „Die unvermeidliche Konfrontation mit unterdrückter Emotionalität und fragmentierter Erinnerung“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L341] — a plan, not the chapter as written.
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — the TSDP phobia
+
+- The strategy report keys this chapter to the TSDP phobia „Phobie vor traumatischen Erinnerungen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L48]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Schwelle und der Wächter
 
 Title: „Die Schwelle und der Wächter“ ^[roman-outline-system-kael.md:L102]
@@ -99,6 +107,10 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 - Story: the outline plans, under `Inhalt`, „beginnen eine subtile Verfolgung“ ^[outline.md:L46]
 - Focus: under `Fokus`, „Das Gefühl von Isolation und Klaustrophobie für Kael verstärkt sich“ ^[outline.md:L47]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Logische Fehlschlüsse und die Farbe Blau
+
+- The chapter overview plans Kapitel 5 as „Logische Fehlschlüsse und die Farbe Blau“ ^[detaillierte-kapiteluebersicht.md:L21], in Akt I (Ki). A plan, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -112,6 +124,10 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Der Ruf der Resonanz-Landschaft
 
 - The architecture plan sets Kapitel 5 in Teil 1 as the archetypal phase „Der Ruf der Resonanz-Landschaft“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L21], with the core theme „Konfrontation mit unterdrückter Emotionalität“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L21] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L117.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Die bewusste Abweichung
+
+- The Kishōtenketsu plan's chapter 5 of 30, in act Ki: „Die bewusste Abweichung“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L85]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The First Journey into Memory`, one entry shared with Kap 04–05
 

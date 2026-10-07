@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 36
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 41
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "romanidee-als-interaktiver-prototyp", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,10 @@ In der Stimme im Rauschen wird die Verbindung zwischen Kael und Juna stärker: K
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the inmost cave in KW3
 
 - The Teil-1 plot proposes Kapitel 7, `Death` (L165), as the inmost cave in KW3: „Kael fühlt sich in den Grenzen von KW3 gefangen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L170]. It hedges, and adds a moment of ego death, a `Sicherheitslücken-Riss` and the `Wächter`-Anteil coming forward (L177–L179).
+
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — Der Skeptiker im Glitching Market
+
+- The part-1 plot concept's revised chapter 7: „Der Skeptiker im Glitching Market“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L313]. A revised plan for part 1, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.7, Flucht in die Resonanz
 
@@ -76,6 +80,10 @@ Focus: `Interne Barrieren`, „Die Manifestation massiver Phobien zwischen ANPs 
 
 - The detailed outline plans Chapter 7 with the Core Theme „Interne Barrieren und die lähmende Angst voreinander“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L478] — a plan, not the chapter as written.
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — the TSDP phobia
+
+- The strategy report keys this chapter to the TSDP phobia „Phobie vor mentalen Inhalten“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L49]; to the TSDP phobia „Phobie vor dissoziativen Anteilen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L50]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Glitching Market
 
 Title: „Der Glitching Market“ ^[roman-outline-system-kael.md:L145]
@@ -100,6 +108,10 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 - Story: the outline plans, under `Inhalt`, „Funktionale Multiplizität ist noch nicht erreicht“ ^[outline.md:L56]
 - Focus: under `Fokus`, „Das Pacing ist dialoggetrieben“ ^[outline.md:L57]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die Landkarte der Erinnerung
+
+- The chapter overview plans Kapitel 7 as „Die Landkarte der Erinnerung“ ^[detaillierte-kapiteluebersicht.md:L23], in Akt I (Ki). A plan, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -114,6 +126,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Phobien im System
 
 - The architecture plan sets Kapitel 7 in Teil 1 as the archetypal phase „Phobien im System“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L23], with the core theme „Interne Barrieren und die Angst voreinander“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L23] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L145.
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — Der erste innere Rat
+
+- The CAVE prototype proposal titles Kap 7 „Der erste innere Rat“ ^[romanidee-als-interaktiver-prototyp.md:L219]: the player is moved into the metaphorical inner conference room, where the dominant parts — [[lex|Lex]], [[nyx|Nyx]], [[kiko|Kiko]] — appear as presences or voices (L223), and a dialogue puzzle seeks a compromise (L224). A scenario planned for an interactive game of Act I, not the chapter as written.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Das Körper-Ja
+
+- The Kishōtenketsu plan's chapter 7 of 30, in act Ki: „Das Körper-Ja“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L107]. Its Handlung: „Unter dem psychologischen Druck“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L112]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Fortress of Fear`, one entry shared with Kap 06–07
 

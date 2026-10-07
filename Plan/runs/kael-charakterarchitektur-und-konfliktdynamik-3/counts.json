@@ -1,0 +1,1130 @@
+{
+  "document": "kael-charakterarchitektur-und-konfliktdynamik-3",
+  "drive_id": "1FAryRQeYcRGNeK6OVVXVcSDDMbw9TkcRnSc_Qc5elVg",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Heilung vs. Kohärenz"
+  ],
+  "counts": {
+    "Kael": {
+      "n": 71,
+      "n_including_compounds": 105,
+      "lines": [
+        11,
+        15,
+        17,
+        21,
+        23,
+        24,
+        26,
+        28,
+        30,
+        31,
+        32,
+        33,
+        36,
+        37,
+        38,
+        39,
+        40,
+        44,
+        47,
+        52,
+        61,
+        66,
+        75,
+        80,
+        90,
+        94,
+        108,
+        117,
+        122,
+        126,
+        128,
+        130,
+        132,
+        134,
+        136,
+        147,
+        156,
+        165,
+        218,
+        223,
+        227,
+        232,
+        236,
+        241,
+        245,
+        247,
+        256,
+        261,
+        265,
+        272,
+        288,
+        291,
+        295,
+        301,
+        302,
+        303,
+        304,
+        305,
+        309,
+        316,
+        317,
+        318,
+        327,
+        328,
+        329,
+        338,
+        339,
+        340,
+        342,
+        346,
+        350,
+        352
+      ]
+    },
+    "AEGIS": {
+      "n": 81,
+      "n_including_compounds": 83,
+      "lines": [
+        15,
+        17,
+        31,
+        34,
+        35,
+        38,
+        50,
+        54,
+        68,
+        82,
+        96,
+        110,
+        119,
+        124,
+        126,
+        128,
+        130,
+        174,
+        214,
+        216,
+        218,
+        222,
+        227,
+        232,
+        236,
+        241,
+        272,
+        286,
+        287,
+        288,
+        291,
+        301,
+        302,
+        303,
+        304,
+        316,
+        317,
+        318,
+        327,
+        328,
+        329,
+        339,
+        340,
+        342,
+        348,
+        352
+      ]
+    },
+    "Juna/V": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        34,
+        35,
+        38,
+        54,
+        68,
+        82,
+        96,
+        110,
+        124,
+        130,
+        132,
+        218,
+        223,
+        286,
+        301,
+        302,
+        317,
+        327,
+        348
+      ]
+    },
+    "Juna": {
+      "n": 26,
+      "n_including_compounds": 27,
+      "lines": [
+        34,
+        35,
+        38,
+        54,
+        68,
+        82,
+        96,
+        110,
+        124,
+        130,
+        132,
+        218,
+        223,
+        286,
+        301,
+        302,
+        317,
+        318,
+        327,
+        328,
+        329,
+        340,
+        348
+      ]
+    },
+    "Guardians": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        38,
+        54,
+        68,
+        82,
+        96,
+        110,
+        119,
+        124,
+        180,
+        189,
+        207,
+        287,
+        291,
+        348
+      ]
+    },
+    "Guardian": {
+      "n": 7,
+      "n_including_compounds": 22,
+      "lines": [
+        38,
+        49,
+        54,
+        68,
+        77,
+        82,
+        96,
+        110,
+        119,
+        124,
+        178,
+        180,
+        189,
+        207,
+        227,
+        265,
+        283,
+        284,
+        287,
+        291,
+        316,
+        348
+      ]
+    },
+    "Kernwelten": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        22,
+        32,
+        33,
+        38,
+        128,
+        305,
+        348
+      ]
+    },
+    "Kernwelt(en)": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        33,
+        49,
+        63,
+        77,
+        91,
+        105,
+        119
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        49,
+        54,
+        63,
+        68,
+        77,
+        91,
+        96,
+        105,
+        110,
+        128,
+        180,
+        198,
+        283,
+        285
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        49,
+        54,
+        63,
+        77,
+        91,
+        96,
+        128,
+        327
+      ]
+    },
+    "Möglichkeiten-Garten": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        63,
+        105,
+        110,
+        207
+      ]
+    },
+    "Grenzfeste": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        63,
+        68,
+        77,
+        91,
+        96,
+        189,
+        198,
+        284,
+        285
+      ]
+    },
+    "Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        304,
+        305,
+        340
+      ]
+    },
+    "Paradoxon X": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        38,
+        54,
+        82,
+        124,
+        214,
+        216,
+        218,
+        223,
+        227,
+        272,
+        286,
+        287,
+        301,
+        348
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        33,
+        38,
+        128,
+        243,
+        289,
+        290,
+        291
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        218,
+        302
+      ]
+    },
+    "Risse": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        33,
+        68,
+        110,
+        128,
+        198,
+        272
+      ]
+    },
+    "System-Host": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        28
+      ]
+    },
+    "Der Logiker": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        128
+      ]
+    },
+    "Das Kind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Der Schatten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        132
+      ]
+    },
+    "Der Relationale Anteil": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        88,
+        132
+      ]
+    },
+    "Relationalen Anteil": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        67,
+        327
+      ]
+    },
+    "Der Kreativ-Intuitive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Kreativ-Intuitiver": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        169,
+        180
+      ]
+    },
+    "Die Wächterin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Wächterin": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        40,
+        56,
+        67,
+        70,
+        81,
+        84,
+        95,
+        116,
+        122,
+        126,
+        130,
+        147,
+        236,
+        288,
+        352
+      ]
+    },
+    "Logiker": {
+      "n": 20,
+      "n_including_compounds": 21,
+      "lines": [
+        46,
+        54,
+        64,
+        67,
+        81,
+        95,
+        109,
+        112,
+        123,
+        128,
+        142,
+        169,
+        279,
+        280,
+        282,
+        303,
+        317,
+        328,
+        340
+      ]
+    },
+    "Schatten": {
+      "n": 24,
+      "n_including_compounds": 30,
+      "lines": [
+        23,
+        51,
+        53,
+        64,
+        67,
+        74,
+        76,
+        82,
+        84,
+        95,
+        109,
+        123,
+        130,
+        132,
+        142,
+        147,
+        160,
+        198,
+        203,
+        207,
+        212,
+        227,
+        279,
+        281,
+        287,
+        301,
+        303,
+        328,
+        339
+      ]
+    },
+    "Lex": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        46,
+        47,
+        49,
+        142,
+        151,
+        169,
+        218,
+        247,
+        256,
+        265,
+        279,
+        280,
+        282
+      ]
+    },
+    "Kiko": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        60,
+        151,
+        198,
+        247,
+        280,
+        285,
+        287
+      ]
+    },
+    "Nyx": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        74,
+        132,
+        142,
+        160,
+        207,
+        227,
+        247,
+        256,
+        265,
+        279,
+        281,
+        285,
+        287
+      ]
+    },
+    "Rhys": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        88,
+        132,
+        160,
+        189,
+        218,
+        247,
+        281,
+        284,
+        286
+      ]
+    },
+    "Kai": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        102,
+        132,
+        169,
+        180,
+        218,
+        282,
+        283,
+        286
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        116,
+        236,
+        288
+      ]
+    },
+    "Das Innere Pantheon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Pressure Points": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        26,
+        134,
+        136,
+        272,
+        346,
+        348
+      ]
+    },
+    "Pressure Point Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "Konflikt-Kartographie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Fähigkeiten-Fehlanpassung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        247,
+        289
+      ]
+    },
+    "Skill Mismatch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "Der Systemflüsterer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "Die Weltenweberin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        322
+      ]
+    },
+    "Der Glitch im System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        333
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Novelcrafter": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        28,
+        42,
+        350
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        13,
+        15,
+        299,
+        346
+      ]
+    },
+    "Lockdowns": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Exploits": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        110,
+        185
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        21,
+        356
+      ]
+    },
+    "IFS": {
+      "n": 15,
+      "n_including_compounds": 25,
+      "lines": [
+        21,
+        32,
+        34,
+        47,
+        48,
+        61,
+        62,
+        75,
+        76,
+        90,
+        104,
+        116,
+        118,
+        301,
+        303,
+        346,
+        356
+      ]
+    },
+    "Theorie der Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "TSDP": {
+      "n": 5,
+      "n_including_compounds": 10,
+      "lines": [
+        22,
+        32,
+        40,
+        48,
+        62,
+        76,
+        118,
+        265,
+        346
+      ]
+    },
+    "Anscheinend Normalen Teilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Emotionalen Teilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Jungianische Archetypenlehre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Exiles": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        21,
+        35,
+        47,
+        75,
+        78,
+        79,
+        84,
+        120,
+        126,
+        130,
+        227,
+        303,
+        342,
+        356
+      ]
+    },
+    "Exile": {
+      "n": 4,
+      "n_including_compounds": 21,
+      "lines": [
+        21,
+        35,
+        47,
+        53,
+        61,
+        62,
+        75,
+        78,
+        79,
+        84,
+        120,
+        126,
+        130,
+        151,
+        227,
+        287,
+        303,
+        342,
+        356
+      ]
+    },
+    "Manager": {
+      "n": 8,
+      "n_including_compounds": 14,
+      "lines": [
+        21,
+        47,
+        48,
+        61,
+        67,
+        81,
+        90,
+        109,
+        151,
+        156,
+        356
+      ]
+    },
+    "Firefighter": {
+      "n": 8,
+      "n_including_compounds": 13,
+      "lines": [
+        21,
+        67,
+        75,
+        76,
+        130,
+        132,
+        142,
+        203,
+        285,
+        356
+      ]
+    },
+    "Protektoren": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        64,
+        120,
+        123,
+        126,
+        303
+      ]
+    },
+    "Self-leadership": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        32,
+        34
+      ]
+    },
+    "Selbst-Führung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        32,
+        37,
+        252
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        117
+      ]
+    },
+    "Unburdening": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        70
+      ]
+    },
+    "Polarisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Differenzierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Individuationsprozess": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        98,
+        132
+      ]
+    },
+    "Anima/Animus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        132,
+        356
+      ]
+    },
+    "Anima": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        23,
+        48,
+        90,
+        98,
+        104,
+        132,
+        326,
+        356
+      ]
+    },
+    "Animus": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        48,
+        104,
+        132,
+        356
+      ]
+    },
+    "Logos": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        132,
+        342
+      ]
+    },
+    "Eros": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        48,
+        90,
+        132,
+        342
+      ]
+    },
+    "Heldenreise": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        315,
+        337,
+        342
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        24,
+        40,
+        309,
+        326,
+        342
+      ]
+    },
+    "Trickster": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        104,
+        333,
+        337
+      ]
+    },
+    "Gestaltwandler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        333,
+        337
+      ]
+    },
+    "Mentor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        311,
+        315
+      ]
+    },
+    "Murdock": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        342,
+        356
+      ]
+    },
+    "Mutter/Tochter-Spaltung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        342
+      ]
+    },
+    "Hosts": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        26,
+        31,
+        32,
+        36
+      ]
+    },
+    "positive Absicht": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        31,
+        47,
+        56,
+        61,
+        75,
+        84,
+        89,
+        103,
+        117,
+        130
+      ]
+    },
+    "dissoziativer Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Göttlichen Kindes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Apparently Normal Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    }
+  }
+}

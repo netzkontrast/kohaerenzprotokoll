@@ -1,0 +1,92 @@
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Source A Evidence"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Source A Evidence` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#1]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Source B Evidence"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Source B Evidence` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#1]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Analysis of Discrepancy"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Analysis of Discrepancy` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#1]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "It is recommended"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`It is recommended` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#3]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "algorithmic melancholy"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`algorithmic melancholy` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#3]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Dialetheismus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dialetheismus` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#2]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Wächter-Zwiespalt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Wächter-Zwiespalt` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#2]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Dilemma"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dilemma` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#2]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Guardians"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Guardians` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#8]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Kohärenz Protokoll"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Kohärenz Protokoll` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#9]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "AEGIS-Logik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Logik` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#1]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Kael-Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Juna` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#1]
+
+$ python3 scripts/read.py analysis-of-the-kohaerenz-protokoll-narrative-project-develo --count "Mnemosyne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Mnemosyne` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#1]
+
+stance_marker_count 6 = 1 + 1 + 1 + 3 (Source A Evidence, Source B Evidence, Analysis of Discrepancy, It is recommended)

@@ -1,0 +1,109 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is German, a synthesis report ("Master-Konzept") over twenty source documents, with a reference list of 49 numbered entries at the end. Reference numbers are glued to words in the body. Formulas are written with escaped underscores (K\_1, K\_0) in the body and in the table cells; one passage writes K1 and K0 without them. Names of cited works and the reference list's titles are left out. The Maximal-Plotter, Mosaik and the three phases are the document's own terms; the theories in the lens section are borrowed and applied to the novel's world or to the author.
+
+- Das Kohärenz-Protokoll
+- Kohärenz Protokoll
+- Master-Konzept
+- Golden Sources
+- System Kael
+- AEGIS
+- AEGIS-Falle
+- Kael
+- Juna
+- Juna/V
+- Michael
+- Lex
+- Nyx
+- Kiko
+- Moros
+- Moros-Implosion
+- Moros-Kollaps
+- ANP
+- EP
+- Apparently Normal Part
+- Emotional Part
+- Funktionale Multiplizität
+- Funktionalen Multiplizität
+- Dual Kernel Theory
+- DKT
+- K\_1
+- K\_0
+- K1
+- K0
+- Kohärenz-Kern
+- Erasure-Kern
+- Erasure Field
+- Fundament
+- Risse
+- Interface
+- Protokoll-Erhaltung
+- Isomorphie
+- Maximal-Plotter
+- Mosaik-Struktur
+- Mosaik-System
+- Mosaik
+- Slots
+- Gravitationsarchitektur
+- Zeitgeber
+- Agentive Narrative
+- System-Dirigenten
+- Meta-Prompting
+- Resonanz-Partner
+- LeanRAG
+- Ontologisches Tagging
+- Writer's Bible
+- Low Stakes Writing
+- Container-Struktur
+- Hyper-Kohärenz
+- Vier Kernwelten
+- Kernwelten
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Parakonsistente Gambit
+- Gödel-Gambit
+- Parakonsistente Transformation
+- Embrace the Glitch
+- Ergosphäre
+- Photonensphäre
+- Ereignishorizont
+- Operatives Ziel
+- Korrespondenz
+- Kohärenz
+- Bleed-through
+- Landauer-Kosten
+- Pixelierungsfehler
+- Boundary
+- Bulk
+- Monster-Gruppe
+
+## lens
+
+- Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Dissoziative Identitätsstörung
+- Sicherheitsverhalten
+- Titration
+- Internal Family Systems
+- Polyphonie
+- Landauer-Prinzip
+- Maxwells Dämon
+- Dramatica-Modells
+- Throughlines
+- Parakonsistenz
+- Logiken der Formalen Inkonsistenz
+- LFI
+- Holografische Prinzip
+- AdS/CFT-Korrespondenz
+- Integrated Information Theory
+- IIT
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Kerr-Metrik
+- Penrose-Prozess
+- Frame-Dragging
+- philosophischer Zombie
+- Hypoarousal
+- trauma-informierten Narratologie

@@ -1,0 +1,105 @@
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Section Introduction"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Section Introduction` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#3]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Thematic Summary"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Thematic Summary` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#1]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Kael"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+
+`Kael` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#32]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Lex"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lex` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#3]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Nyx"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nyx` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#2]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Juna"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#4]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Gärtner"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gärtner` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#1]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Gardener"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gardener` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#2]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Guardian"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Guardian` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#2]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#1]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#1]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "KW2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW2` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#1]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "KW3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW3` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#1]
+
+$ python3 scripts/read.py coherence-protocol-a-three-act-narrative-blueprint --count "KW1"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW1` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#2]
+
+stance_marker_count 4 = Section Introduction 3 + Thematic Summary 1
+$ census: no zeros; entropy 2 alone / 3 in (negentropy L35)
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`entropy` ^[coherence-protocol-a-three-act-narrative-blueprint.md:#2]

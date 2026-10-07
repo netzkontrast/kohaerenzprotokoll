@@ -1,0 +1,20 @@
+`cite` ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:#19]
+$ read.py --count "functional multiplicity"
+whole word, case-sensitive     6
+whole word, case-insensitive   9
+including compounds            6
+
+`functional multiplicity` ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:#6]
+$ read.py --count "Juna/V"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna/V` ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:#1]
+$ read.py --count "ANP-EP Phobias"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANP-EP Phobias` ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:#1]
+$ capture.py --count: 46 candidates, 0 zeros (04-counts.txt); backslash escapes 90, glued ref numbers 2 from 01-profile.txt; 6 alters in table L44-L49; 19 cite from read.py --count "cite"

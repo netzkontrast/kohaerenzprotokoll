@@ -1,0 +1,14 @@
+# romanstruktur-duale-erzaehlung-und-kishotenketsu
+  lines                316  (frontmatter ends at 9)
+  body words           3697
+  headings             22   bold-only lines 2
+  table rows           16   code fences 0
+  question marks       0
+  backslash escapes    72
+  typographic marks    101   ascii quotes 6
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    21
+  repeated labels      AEGIS-Plot x10, Kapitel-Kishōtenketsu x10, Ketsu x10, Perspektive x10, Shō x10, Ten x10, Aktübersicht x4, Kaels Reise (Ki) x3, Kaels Reise (Shō) x3
+  longest line         1191 chars
+

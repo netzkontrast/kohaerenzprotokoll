@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 31
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,10 @@ Focus: `Externe Intervention/Wahl`, „Die Intensivierung des Kontakts zu Juna�
 - Story: „Kael erhält möglicherweise spezifische Informationen“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L222]
 - Concept: „Juna/V fungiert als externer Agent“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L223] (concept tag: `Simulation Hypothesis` or `Cosmic Horror`)
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — the alignment concept
+
+- The strategy report keys this chapter to the alignment concept „Instrumentelle Konvergenz (Machtstreben/Selbsterhaltung)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L197]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.4, „Destruktive Suche & Twist“ ^[finales-kausales-plot-geruest.md:L145] (Kapitel 25–26)
 
 The beat sheet places Kapitel 25 in Beat 2.4; the beat spans Kapitel 25 to 26.
@@ -57,6 +61,10 @@ The beat sheet places Kapitel 25 in Beat 2.4; the beat spans Kapitel 25 to 26.
 - Event: the beat sheet's `Beschreibung` says „fehlgeleiteter Reparaturversuch“ ^[finales-kausales-plot-geruest.md:L147]
 - Cause: the `Kausale Verknüpfung` says „erreicht eine kritische Masse“ ^[finales-kausales-plot-geruest.md:L148]
 - Throughlines: the OS or MC line says „Kael erlebt einen tiefen“ ^[finales-kausales-plot-geruest.md:L154]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Pathologische Anpassung
+
+- The chapter overview plans Kapitel 25 as „Pathologische Anpassung“ ^[detaillierte-kapiteluebersicht.md:L46], in Akt II (Shō). A plan, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -70,6 +78,10 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Der Beobachter wird zum Analysten
 
 - The architecture plan sets Kapitel 25 in Teil 2 as the archetypal phase „Der Beobachter wird zum Analysten“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L41], with the core theme „Argus' Rolle im Wandel“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L41] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L401.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Rollenwechsel on the fly
+
+- The Kishōtenketsu plan's chapter 25 of 30, in act Ketsu: `Rollenwechsel "on the fly"`. Its Handlung: „In einem sich schnell verändernden Labyrinth“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L325]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Inner Council: Consolidation of Forces`
 

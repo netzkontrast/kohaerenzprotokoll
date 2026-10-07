@@ -1,0 +1,85 @@
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Glitch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Glitch` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#1]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Riss` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#1]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Bruchpunkt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Bruchpunkt` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#2]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Algorithmic Horror"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Algorithmic Horror` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#2]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#1]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Core Worlds"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Core Worlds` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#2]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "ergodic literature"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ergodic literature` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#2]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Gärtner"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gärtner` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#1]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Gardener"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gardener` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#1]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "EP Intrusion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EP Intrusion` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#1]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Kernwelt"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Kernwelt` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#7]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "Emotional Part"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Emotional Part` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#3]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "ANP"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`ANP` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#5]
+$ read.py the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz --count "EP"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`EP` ^[the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz.md:#4]
+stance_marker_count = Glitch 1 + Riss 1 + Bruchpunkt 2 + Algorithmic Horror 2 = 6

@@ -1,0 +1,56 @@
+{
+  "document": "the-architecture-of-a-fractured-soul-a-critique-of-kohaerenz",
+  "drive_id": "13LCbnKny53DqVlAgXQP61koeOXwnpvIe-qqyZUwLH04",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 7,
+  "backslash_escapes": 0,
+  "typographic_marks": 26,
+  "ascii_quotes": 76,
+  "inflection_families": {
+    "garde": [
+      "Garden",
+      "Gardener"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Garden",
+      "Gardener"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ]
+  ]
+}

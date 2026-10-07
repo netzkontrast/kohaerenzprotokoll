@@ -1,0 +1,279 @@
+{
+  "document": "project-status-report-kohaerenz-protokoll-canonical-state-st",
+  "drive_id": "1t9DBsiC5QDp0xfQ6YLmo_n0uKGHWc9PowtSwDs26FLs",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 79,
+    "decisions": 80,
+    "decided_by_lookup": 66,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        16,
+        31,
+        53,
+        93
+      ],
+      "attribution": "",
+      "note": "AEGIS as the coherence side, and the terminal state the report declares"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "the report lists Alex as Protector ANP"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        45,
+        47,
+        48,
+        49,
+        101
+      ],
+      "attribution": "",
+      "note": "the report declares a Confirmed Core of eleven and marks the 11 vs. 13 discrepancy UNKLAR"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "the report lists Argus as Observer"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        22
+      ],
+      "attribution": "",
+      "note": "Coherons in its Protocol Ontology"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        37,
+        63,
+        102
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise defined for AEGIS, Kael's Genesis-Event open"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        31,
+        88
+      ],
+      "attribution": "",
+      "note": "the climax as a Hard Canon pillar"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "the report lists Isabelle as Sexualized EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        41,
+        93
+      ],
+      "attribution": "",
+      "note": "the report plans Juna/V as a dual-state: External-Level entity and Kael's exiled original self"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        9,
+        11,
+        16,
+        31,
+        41,
+        63,
+        102
+      ],
+      "attribution": "",
+      "note": "the report declares him the host and primary ANP of a system of eleven"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        11,
+        70
+      ],
+      "attribution": "",
+      "note": "the report lists Kiko as Freeze/Child EP with a Temporal/Stutter Glitch"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        11,
+        87
+      ],
+      "attribution": "",
+      "note": "the report lists Lex as Rationalist ANP and names him in the Act II suppression"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        11,
+        71
+      ],
+      "attribution": "",
+      "note": "the report lists Lia as Ambivalent/Child EP and asks for an attachment-based trigger"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "the transcripts as Gnostic Injections"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        11,
+        49
+      ],
+      "attribution": "",
+      "note": "the report lists Moros as Collapse EP and Oblivion as its likely prototype"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        11,
+        69,
+        72
+      ],
+      "attribution": "",
+      "note": "the report lists Nyx as Fight EP and assigns a Kinetic Glitch as trigger"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        48,
+        49,
+        101
+      ],
+      "attribution": "",
+      "note": "the report names Oblivion a Redundancy Candidate, likely a prototype for Moros"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        11,
+        49
+      ],
+      "attribution": "",
+      "note": "the report lists Rhys as Caretaker ANP and marks Silas his likely prototype"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        59,
+        67
+      ],
+      "attribution": "",
+      "note": "a Mandate of Open Coherence and a 1:1 trigger link"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "the report lists Selene as Integrator ANP"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        48,
+        49,
+        101
+      ],
+      "attribution": "",
+      "note": "the report names Silas a Redundancy Candidate, likely an alias for Rhys"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        9,
+        12,
+        63,
+        102
+      ],
+      "attribution": "",
+      "note": "the report names TSDP as the structural diagnosis and IFS as the pathway"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 78,
+      "decision": "occurrence",
+      "why": "Threshold Guardians, the report's metaphor for its open gaps"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 39,
+      "decision": "reading",
+      "why": "the Juna/V paradox, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,357 @@
+{
+  "document": "kohaerenz-protokoll-architecture-synthesis",
+  "drive_id": "1EuUBRjO7rYeEEJ-6Jsxil5ZqV4eRqUqP_h0Pj0TmOHE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 115,
+    "decisions": 118,
+    "decided_by_lookup": 104,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        27,
+        31,
+        61,
+        137,
+        155,
+        188,
+        376
+      ],
+      "attribution": "",
+      "note": "AEGIS moved from K₁ to K₀ by its inversion test"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        61,
+        69,
+        376
+      ],
+      "attribution": "",
+      "note": "the Good judgment of Storyform B"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "the Relationship Story of Storyform A"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        81,
+        202,
+        212
+      ],
+      "attribution": "",
+      "note": "Juna as Chaitin constant for AEGIS"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        131,
+        133,
+        288
+      ],
+      "attribution": "",
+      "note": "DKT as axis 1, graded Inversion Superior"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        131
+      ],
+      "attribution": "",
+      "note": "Entropie in its thermodynamic sense"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        23,
+        79,
+        81,
+        177,
+        212
+      ],
+      "attribution": "",
+      "note": "a composite of Gödel-sentence and Chaitin constant, the Moonshine-Link's provider, kept outside the simulation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        27,
+        40,
+        73,
+        99,
+        157,
+        178,
+        187,
+        373
+      ],
+      "attribution": "",
+      "note": "Kael's reality as the true K₁, by its inversion, with his role in Storyform A and the climax"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        137,
+        187
+      ],
+      "attribution": "",
+      "note": "an EP among the 11 entities, erased by AEGIS in the inversion"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        23,
+        27,
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kern (K₁) moved from AEGIS to Kael by the brief's inversion"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        27,
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kern (K₀) moved from Kael to AEGIS by the brief's inversion"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        57,
+        65
+      ],
+      "attribution": "",
+      "note": "its collapse as Storyform B's Objective Story"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        73,
+        187
+      ],
+      "attribution": "",
+      "note": "an ANP among Kael's 11 entities"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        79,
+        163,
+        169
+      ],
+      "attribution": "",
+      "note": "validated on Vertex Operator Algebra; AEGIS blind to it"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        137,
+        187
+      ],
+      "attribution": "",
+      "note": "an EP among the 11 entities, erased by AEGIS in the inversion"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        73,
+        75,
+        375
+      ],
+      "attribution": "",
+      "note": "the rendering boundary resolving into a Mosaik-Herz at the Vortex Inversion"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        27,
+        75,
+        177
+      ],
+      "attribution": "",
+      "note": "Functional Multiplicity as what Kael presents to AEGIS"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "a metaphor for AEGIS's consistency"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        137,
+        187
+      ],
+      "attribution": "",
+      "note": "an EP among the 11 entities, erased by AEGIS in the inversion"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        27,
+        43,
+        51
+      ],
+      "attribution": "",
+      "note": "Risse as Storyform A's driver, and what Kael's loops preserve across them"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        41,
+        49
+      ],
+      "attribution": "",
+      "note": "Storyform A's Influence Character"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        221
+      ],
+      "attribution": "",
+      "note": "the Archivist, named only in the audit log"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        188
+      ],
+      "attribution": "",
+      "note": "AEGIS's separation protocol in Vortex beat 2"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        31,
+        157,
+        290
+      ],
+      "attribution": "",
+      "note": "the rotation confirmed as consequence of its DKT inversion"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        139,
+        294
+      ],
+      "attribution": "",
+      "note": "Kael's dissociative loops as holographic boundaries"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        73,
+        75,
+        185,
+        189,
+        190,
+        375
+      ],
+      "attribution": "",
+      "note": "the Vortex Inversion as the plot mechanism that inverts the storyforms"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 42,
+      "decision": "reading",
+      "why": "Relationship Story — Kael & The Alters, read on alters"
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 131,
+      "decision": "reading",
+      "why": "the DE abstract on the physics of the DKT, read on dkt"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 131,
+      "decision": "reading",
+      "why": "thermodynamic entropy in the DE abstract, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    },
+    {
+      "page": "nichts-rauschen",
+      "surface": "Nichts-Rauschen",
+      "line": 27,
+      "decision": "reading",
+      "why": "AEGIS's consistency unmasked as self-referential Nichts-Rauschen, read on nichts-rauschen"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "AEGIS's exclusionary simulation — its claimed coherence, not the place"
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 23,
+      "decision": "reading",
+      "why": "the Vortex Inversion, read on vortex"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

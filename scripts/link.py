@@ -28,7 +28,7 @@ in **linkable prose**, and everything else is masked out first:
 
 That mask governs the prose stage. The backtick-slug stage below deliberately
 runs outside it — it rewrites a cross-reference and never the words of a
-quotation — with one guard kept: it will not fire inside „…" either.
+quotation — with two guards kept: it will not fire inside „…" either, nor on a heading line.
 
 One link per page per target, at the first unmasked occurrence — a wiki links a
 term once, not every time it appears. A target the page already links is skipped:
@@ -128,6 +128,10 @@ def ticked_slugs(text: str, known: set[str], own: str) -> list[tuple[int, str, s
             continue
         if any(start <= match.start() < end for start, end in quotes):
             continue
+        # A heading names a reading's document by its slug; that is a title, not a
+        # cross-reference (komponente-734 lost its heading this way three times).
+        if text[text.rfind("\n", 0, match.start()) + 1:].startswith("#"):
+            continue
         seen.add(slug)
         found.append((match.start(), slug, match.group(0)))
     return found
@@ -203,6 +207,7 @@ def selftest() -> int:
         "linked already: not again": ("[[aegis|AEGIS]] ist hier. AEGIS dort. Juna.\n", {"juna"}),
         "a citation line is evidence": ("„AEGIS ist die Entropie.“ ^[x.md:L1]\n", set()),
         "a bare [[slug]] counts as linked": ("[[juna]] und Juna, AEGIS.\n", {"aegis"}),
+        "a slug in a heading is a title": ("## Reading — `aegis`, 2025\n\nKomponente.\n", set()),
     }
     failures = []
     with tempfile.TemporaryDirectory() as tmp:

@@ -1,0 +1,14 @@
+# coherence-protocol-a-three-act-narrative-blueprint
+  lines                110  (frontmatter ends at 9)
+  body words           2161
+  headings             20   bold-only lines 0
+  table rows           8   code fences 0
+  question marks       0
+  backslash escapes    28
+  typographic marks    20   ascii quotes 80
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1027 chars
+

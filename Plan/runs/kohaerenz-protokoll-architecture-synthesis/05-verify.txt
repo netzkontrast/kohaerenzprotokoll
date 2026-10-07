@@ -1,0 +1,68 @@
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Verdict"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            15
+
+`Verdict` ^[kohaerenz-protokoll-architecture-synthesis.md:#14]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "DE Abstract"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`DE Abstract` ^[kohaerenz-protokoll-architecture-synthesis.md:#8]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Why it remains open"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Why it remains open` ^[kohaerenz-protokoll-architecture-synthesis.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Resolution path"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Resolution path` ^[kohaerenz-protokoll-architecture-synthesis.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Wahrheits-Vortex"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Wahrheits-Vortex` ^[kohaerenz-protokoll-architecture-synthesis.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Erasure Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Erasure Kernel` ^[kohaerenz-protokoll-architecture-synthesis.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Collapse Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Collapse Kernel` ^[kohaerenz-protokoll-architecture-synthesis.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Kollaps-Kern"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kollaps-Kern` ^[kohaerenz-protokoll-architecture-synthesis.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Phönix-Modus"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Phönix-Modus` ^[kohaerenz-protokoll-architecture-synthesis.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Phönix-Mode"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Phönix-Mode` ^[kohaerenz-protokoll-architecture-synthesis.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-architecture-synthesis --count "Paraiyas/Entropy"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas/Entropy` ^[kohaerenz-protokoll-architecture-synthesis.md:#1]
+stance_marker_count: 14 + 8 + 2 + 2 = 26
+census prose numbers (K₁ 26/31, K₀ 26/30, 81 glued refs, 230 escapes) come from 04-counts.txt and 01-profile.txt; empty-header tables counted by eye at L268 L285 L318 L343 L362 = 5

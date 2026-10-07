@@ -1,0 +1,78 @@
+{
+  "document": "arbeitshilfe-kapitel-2-kohaerenz-protokoll",
+  "drive_id": "1sZtSL-DqGXoCDS3hXxsnAvktVsck7b7hUrJcCoeAksI",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 62,
+    "decisions": 65,
+    "decided_by_lookup": 44,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 42,
+      "decision": "occurrence",
+      "why": "the emergence of specific alters, not the concept"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 84,
+      "decision": "reading",
+      "why": "light pass: a writing aid for Kapitel 2 whose beats are placeholders it calls exemplary; it adds nothing the page does not hold"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 78,
+      "decision": "reading",
+      "why": "light pass: a writing aid for Kapitel 2 whose beats are placeholders it calls exemplary; a question to the writer, adding nothing the page does not hold"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 51,
+      "decision": "occurrence",
+      "why": "the nature of the simulation as a theme of the chapter"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

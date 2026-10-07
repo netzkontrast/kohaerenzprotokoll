@@ -1,0 +1,221 @@
+{
+  "document": "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
+  "drive_id": "1vc9MslRv_n9Jt5-AcOrhYEz9Jxcz-keY6iT0i6CzJNA",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 37,
+  "backslash_escapes": 0,
+  "typographic_marks": 11,
+  "ascii_quotes": 140,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systeme",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemkollaps",
+      "Systemreaktion",
+      "Systems",
+      "Systemstörung",
+      "Systemtakt"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterkenntnis",
+      "Selbstfürsorge",
+      "Selbstschöpfung",
+      "Selbstvertrauens"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsfähigkeit",
+      "Handlungsimpuls",
+      "Handlungsschleife"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokolls",
+      "Protokollverletzung"
+    ],
+    "wider": [
+      "Widerlegung",
+      "Widersprüchen",
+      "Widerstand",
+      "Widerstands"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysezyklen",
+      "Analysiert"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interpretiert",
+      "Intervention"
+    ],
+    "präzi": [
+      "Präzise",
+      "Präzisen",
+      "Präzision"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattens",
+      "Schatz"
+    ],
+    "still": [
+      "Stille",
+      "Stillstand",
+      "Stillstands"
+    ],
+    "strat": [
+      "Strategie",
+      "Strategien",
+      "Strategische"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabindung",
+      "Traumas"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschnitt"
+    ],
+    "abwei": [
+      "Abweichler",
+      "Abweichung"
+    ],
+    "aktiv": [
+      "Aktivierung",
+      "Aktivität"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "angst": [
+      "Angst",
+      "Angstregulation"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteilen"
+    ],
+    "antif": [
+      "Antifragile",
+      "Antifragilität"
+    ],
+    "aussa": [
+      "Aussage",
+      "Aussagen"
+    ],
+    "avata": [
+      "Avatar",
+      "Avataren"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungsindex"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins"
+    ],
+    "bindu": [
+      "Bindungsfähigkeit",
+      "Bindungstheorie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alte",
+      "Alter"
+    ],
+    [
+      "Alte",
+      "Alters"
+    ],
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Alte",
+      "Innehalten"
+    ],
+    [
+      "Alte",
+      "Verhaltens"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Erde",
+      "Erden"
+    ],
+    [
+      "Erde",
+      "Begierden"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Konformität"
+    ],
+    [
+      "Form",
+      "Informations"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Organisationsform"
+    ],
+    [
+      "Gang",
+      "Übergang"
+    ],
+    [
+      "Gang",
+      "Vergangenheit"
+    ],
+    [
+      "Gang",
+      "Phasenübergang"
+    ]
+  ]
+}

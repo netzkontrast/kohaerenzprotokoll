@@ -1,0 +1,135 @@
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "shall"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`shall` ^[the-coherence-protocol-a-narrative-distillation.md:#10]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "must"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`must` ^[the-coherence-protocol-a-narrative-distillation.md:#15]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "functional multiplicity"
+whole word, case-sensitive     12
+whole word, case-insensitive   14
+including compounds            12
+
+`functional multiplicity` ^[the-coherence-protocol-a-narrative-distillation.md:#12]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Selene"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Selene` ^[the-coherence-protocol-a-narrative-distillation.md:#2]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Dr. Aris Thorne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dr. Aris Thorne` ^[the-coherence-protocol-a-narrative-distillation.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Überwelt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Überwelt` ^[the-coherence-protocol-a-narrative-distillation.md:#3]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Risse"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Risse` ^[the-coherence-protocol-a-narrative-distillation.md:#6]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschen` ^[the-coherence-protocol-a-narrative-distillation.md:#2]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Moonshine-Link"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Moonshine-Link` ^[the-coherence-protocol-a-narrative-distillation.md:#4]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Gödel-Gambit"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Gödel-Gambit` ^[the-coherence-protocol-a-narrative-distillation.md:#6]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Algorithmic Melancholy"
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            3
+
+`Algorithmic Melancholy` ^[the-coherence-protocol-a-narrative-distillation.md:#3]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Logos-Prime"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Logos-Prime` ^[the-coherence-protocol-a-narrative-distillation.md:#2]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "LogOS-Prime"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`LogOS-Prime` ^[the-coherence-protocol-a-narrative-distillation.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[the-coherence-protocol-a-narrative-distillation.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Guardian"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Guardian` ^[the-coherence-protocol-a-narrative-distillation.md:#2]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fundament` ^[the-coherence-protocol-a-narrative-distillation.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-distillation --count "Das Nichts Rauschen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Nichts Rauschen` ^[the-coherence-protocol-a-narrative-distillation.md:#1]
+
+$ stance_marker_count 25 = shall 10 + must 15 (above)
+$ sed -n 1,20p 01-profile.txt: question marks 0, backslash escapes 134, glued ref numbers 5
+# the-coherence-protocol-a-narrative-distillation
+  lines                356  (frontmatter ends at 9)
+  body words           7856
+  headings             54   bold-only lines 0
+  table rows           22   code fences 0
+  question marks       0
+  backslash escapes    134
+  typographic marks    66   ascii quotes 272
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      none
+  longest line         1027 chars
+

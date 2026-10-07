@@ -1,0 +1,231 @@
+{
+  "document": "dramatica-und-kohaerenz-protokoll-analyse",
+  "drive_id": "1mU8wERYSrPNNcec_3jzgYrcYVylk0Y7mULnUmhVfPJM",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 120,
+    "decisions": 120,
+    "decided_by_lookup": 98,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        37,
+        51,
+        59,
+        121,
+        163
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Universe class, its Understanding concern, and an alternative storyform in which its reality collapses"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        102
+      ],
+      "attribution": "",
+      "note": "the integrated alters as a functional democracy"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        21,
+        49
+      ],
+      "attribution": "",
+      "note": "the DKT as a primary source and as the law of the simulated reality"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        15,
+        163,
+        167
+      ],
+      "attribution": "",
+      "note": "narrative entropy as the method's problem, entropy as the collapse of AEGIS's reality in one storyform"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        37,
+        46,
+        47,
+        59
+      ],
+      "attribution": "",
+      "note": "Juna as Impact Character, and the Subjective Story placed two ways"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        49,
+        63,
+        147,
+        163
+      ],
+      "attribution": "",
+      "note": "Kael as Mind and carrier of the entropic kernel"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "Kiko as emotional sensitivity"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        63,
+        149
+      ],
+      "attribution": "",
+      "note": "Kishōtenketsu as the structure of the passage through the worlds"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "Lex as avoidance by analysis"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        61,
+        63
+      ],
+      "attribution": "",
+      "note": "LogOS as the inhabitant of the first core world"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "Multiplizität as what trauma makes possible"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        98,
+        149
+      ],
+      "attribution": "",
+      "note": "Nyx as protector, and the focus of the fourth storyform"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        51,
+        121,
+        149
+      ],
+      "attribution": "",
+      "note": "the Risse as AEGIS's own product, after the Landauer principle"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        100
+      ],
+      "attribution": "",
+      "note": "Selene as creative intelligence"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        21,
+        95,
+        149
+      ],
+      "attribution": "",
+      "note": "the TSDP as a primary source and as the fourth storyform's focus"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 102,
+      "decision": "reading",
+      "why": "the alters' integrated state, read on alters"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "the general word in the method"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "narrative entropy in the method"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "the method's integrity check"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 23,
+      "decision": "reading",
+      "why": "Kael's multiplicity in the method, read on multiplizitaet"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 63,
+      "decision": "occurrence",
+      "why": "the simulation as setting, nothing of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

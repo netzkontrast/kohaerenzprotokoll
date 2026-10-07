@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 42
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 47
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "romanidee-als-interaktiver-prototyp", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,10 @@ Mit diesem Kapitel schließen Akt I und die Heldinnenreise innen auf der Murdock
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — master of two worlds, the passage into the unstable Überwelt
 
 - The Teil-1 plot proposes Kapitel 13, `Freedom to live` (L276), as master of two worlds, the passage into the unstable Überwelt: „Die eskalierende Instabilität gipfelt im Zusammenbruch der Grenzen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L281]. It hedges, and adds Part 1 ends on a cliffhanger with Kael in the Überwelt (L281, L358).
+
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — Konfrontation am Entropie-Knotenpunkt
+
+- The part-1 plot concept's revised chapter 13: „Konfrontation am Entropie-Knotenpunkt“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L541]. Its summary: „Kael und seine Verbündeten“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L545]. A revised plan for part 1, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.13, Der Abgrund und der Ruf
 
@@ -67,6 +71,10 @@ Focus: `Wendepunkt zur Agency`, „Der Übergang von einer primär reaktiven Hal
 
 - The detailed outline plans Chapter 13 with the Core Theme „Der Übergang von einer passiven Opferrolle zu einer aktiven Akteursposition durch die bewusste Entscheidung, die Realität (als Problem) zu akzeptieren und aktiv nach Antworten und Veränderung zu suchen“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L884] — a plan, not the chapter as written.
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage
+
+- The strategy report keys this chapter to Murdock's stage „Erwachen zur spirituellen Leere/Tod“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L119]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Kontakt
 
 Title: „Kapitel 13: Kontakt“ ^[roman-outline-system-kael.md:L191]
@@ -91,6 +99,10 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 - Story: the outline plans, under `Inhalt`, „sucht Kael bewusst die Überwelt, AEGIS' direkte Domäne, auf und erhält initialen Zugang“ ^[outline.md:L86]
 - Focus: under `Fokus`, „Die Überwelt wird als abstrakt, steril und datengesteuert eingeführt“ ^[outline.md:L87]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die erste Schwelle
+
+- The chapter overview plans Kapitel 13 as „Die erste Schwelle“ ^[detaillierte-kapiteluebersicht.md:L29], in Akt I (Ki). A plan, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -105,6 +117,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Am Abgrund der Kontrolle
 
 - The architecture plan sets Kapitel 13 in Teil 1 as the archetypal phase „Am Abgrund der Kontrolle“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L29], with the core theme „Interne Krise und erzwungene Kooperation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L29] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L229.
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — Der Einstieg in die Überwelt
+
+- The CAVE prototype proposal titles Kap 13 „Der Einstieg in die Überwelt“ ^[romanidee-als-interaktiver-prototyp.md:L228]: „Dies ist der Höhepunkt und das Finale des ersten Aktes“ ^[romanidee-als-interaktiver-prototyp.md:L232]; a threshold to AEGIS's Überwelt guarded by a warden program, crossed by a cooperative puzzle of several parts (L232, L233). A scenario planned for an interactive game of Act I, not the chapter as written.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Ich bin das.
+
+- The Kishōtenketsu plan's chapter 13 of 30, in act Shō: `"Ich bin das."`. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Decision to Act`, one entry shared with Kap 11–13
 

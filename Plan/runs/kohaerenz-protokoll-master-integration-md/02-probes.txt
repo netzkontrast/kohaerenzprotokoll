@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      18
+  backslash escapes      393
+  typographic marks      111
+  ascii quotes           38
+
+# inflection families -- one term, several surfaces
+  archi    ARCHITEKTUR, Archipel, Architect, Architecture, Architekt, Architektur, Architekturen, Archiv
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentiert, Fragmentierte, Fragmentierung, Fragments
+  syste    System, Systemanalyse, Systeme, Systemhum, Systemisches, Systems
+  funkt    Funktion, Funktionelle, Funktioneller, Funktionen, Funktioniert
+  physi    Physics, Physik, Physikalisch, Physikalisierung, Physische
+  emerg    Emergence, Emergente, Emergenz, Emergiert
+  gravi    Gravitation, Gravitationsarchitektur, Gravitationsermüdung, Gravitationsfeld
+  integ    INTEGRITY, Integration, Integrator, Integrität
+  korre    Korrelation, Korreliert, Korrespondenz, Korrespondenztheorie
+  parad    Paradox, Paradoxe, Paradoxien, Paradoxon
+  psych    Psycho, Psychologischer, Psychologisches, Psychology
+  quant    Quantenkohärenz, Quantenwellen, Quantisiert, Quantum
+  alter    Alter, Altern, Alters
+  coher    Coherence, Coheron, Coherons
+  daten    Daten, Datentransfers, Datenverarbeitung
+  drama    DRAMATICA, Dramatica, Dramatisierung
+  frage    FRAGEN, Frage, Fragen
+  kohär    Kohärenz, Kohärenztheorie, Kohärenzversagen
+  lösch    Löschung, Löschungen, Löschungsereignisse
+  narbe    Narbe, Narben, Narbenbildung
+  narra    NARRATIVE, Narrativ, Narrative
+  netzw    Netzwerk, Netzwerke, Netzwerks
+  nicht    NICHT, Nicht, Nichts
+  optio    Option, Optionen, Optionlock
+  phase    Phase, Phasensymmetrie, Phasenzyklen
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Fakten
+  Atem < Atemzählung
+  Core < Score
+  Dies < Diese
+  Dies < Dieses
+  Ende < Abweichende
+  Ende < Schweigende
+  Ende < Transzendente
+  Form < STORYFORM
+  Form < Storyform
+  Form < Information
+  Form < Informationelles
+  Gott < Gottessystems
+  Grat < Integrator
+  Grat < Integration
+  Jede < Jeder
+  Jede < Jedes
+  Kael < Kaels
+  Kern < Kernel
+  Kern < Kernwelt

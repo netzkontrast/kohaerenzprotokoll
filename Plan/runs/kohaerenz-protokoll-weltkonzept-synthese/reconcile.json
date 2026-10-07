@@ -1,0 +1,265 @@
+{
+  "document": "kohaerenz-protokoll-weltkonzept-synthese",
+  "drive_id": "1cXoq_XE_ihtVqKrWH3jP0A3aoej0hUX69Uxwze3G1A8",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-187/brief.md; no chapter page — the document names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 69,
+    "decisions": 81,
+    "decided_by_lookup": 50,
+    "needs_judgement": 31
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German world-concept synthesis: its new surfaces are its own constructs (the Kohärenz-Insel, Resonanz as Juna's mode, Sein durch Abgrenzung and Sein durch Integration, integrative Kohärenz, relationale Komplexität, the Monstergruppen-Metapher), the KW numbers, guessed protocol names and borrowed concepts; what it says of the novel's world went on existing pages and six records. The Kohärenz-Insel is the one construct that may want a page of its own: 16 landed documents write it 119 times (`corpus.py count`), and no page holds it — left for the author.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        26,
+        34,
+        36,
+        46,
+        48,
+        50,
+        53
+      ],
+      "attribution": "",
+      "note": "AEGIS as an entity that arose by drawing a boundary against the Potentialmeer, and whose strength is its weakness"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        64,
+        85
+      ],
+      "attribution": "",
+      "note": "Kael's psyche in `Alters`, as a narrative mechanic"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        74
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Guardian of KW3, the Schattenlabyrinth"
+    },
+    {
+      "page": "did",
+      "lines": [
+        64,
+        85
+      ],
+      "attribution": "",
+      "note": "DID by analogy, or possibly IFS"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        21,
+        46,
+        48,
+        81
+      ],
+      "attribution": "",
+      "note": "entropy as the Potentialmeer's property and AEGIS's name for what it cannot hold"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        97,
+        107
+      ],
+      "attribution": "",
+      "note": "Externe Ebene/Nexus, Juna's domain and a possible endpoint"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        43,
+        44,
+        55
+      ],
+      "attribution": "",
+      "note": "the Guardians as subsystems or agents of AEGIS, each managing one Kernwelt"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        96,
+        97,
+        119,
+        126
+      ],
+      "attribution": "",
+      "note": "Juna as anchor and guide, influence by Resonanz"
+    },
+    {
+      "page": "kael-julia-bindung",
+      "lines": [
+        89,
+        104,
+        134
+      ],
+      "attribution": "",
+      "note": "the Kael-Juna-Verbindung as the heart of coherence by integration"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        62,
+        64,
+        66,
+        80,
+        84,
+        165
+      ],
+      "attribution": "",
+      "note": "Kael from a Kohärenz-Insel, fragmented after DID, the living interface"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        75
+      ],
+      "attribution": "",
+      "note": "Kairos as the Guardian of KW4, the Möglichkeitsstrom"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        68,
+        72,
+        73,
+        74,
+        75,
+        83
+      ],
+      "attribution": "",
+      "note": "Kernwelten as externalisations of Kael's psyche"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "KW1"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of KW1, the Konstrukt-Stadt"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        73
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the Guardian of KW2, the Resonanz-Nebel"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        93,
+        97
+      ],
+      "attribution": "",
+      "note": "`Nexus` only inside `Externe Ebene/Nexus`"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        20,
+        21,
+        25,
+        26,
+        27
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as the absolute base, whose self-erasure drives AEGIS"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "Sophia as a possible coordinating entity beside the four Guardians"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        35,
+        38
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's abstract operating domain"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C6",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q5",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J13 (Kael-Juna-Verbindung and Kael-Juna-Bindung, read on kael-julia-bindung, whose name stays open; Juna/Julia, read on juna), J14 (a heading's slash as the document's own alias: Externe Ebene/Nexus, read on externe-ebene and nexus; Kohärenz-Insel / Kael-Juna-Verbindung), J23 and J25 (number: Guardians / Guardian, Kernwelten / Kernwelt, Kohärenz-Insel / Kohärenz-Inseln), J9 (the Protokoll's name); Protokolle and Resonanz are AEGIS's protocols and Juna's mode of influence, not the Entropie-Resonanz-Protokolle or the Resonanz-Landschaft; Guardian is the Guardians' title, not the Integrity Guardian",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 33,
+      "decision": "occurrence",
+      "why": "AEGIS's arising in a heading, read on aegis"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 21,
+      "decision": "reading",
+      "why": "the Potentialmeer's very high entropy, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    }
+  ],
+  "not_promoted": [
+    "the Kohärenz-Insel — on kael, juna, kael-julia-bindung and C16; a candidate for a page of its own, left for the author",
+    "Resonanz as Juna's mode of influence, Sein durch Abgrenzung, integrative Kohärenz, relationale Komplexität — on aegis, juna and kael-julia-bindung",
+    "the Monstergruppen-Metapher",
+    "the protocol names OBP, PMAS, SARM, RIVE, CCPP — guessed with question marks",
+    "the Finaler Plot-Blueprint — cited, never reproduced"
+  ],
+  "internal_tension": "it calls itself „definitive Referenz“ (L13) and „verbindliche Referenz“ (L169) and hedges throughout (`wahrscheinlich` 19 times)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,14 @@
+# the-psychological-mechanics-from-tertiary-structural-dissoci
+  lines                85  (frontmatter ends at 9)
+  body words           2163
+  headings             10   bold-only lines 0
+  table rows           9   code fences 0
+  question marks       0
+  backslash escapes    90
+  typographic marks    9   ascii quotes 54
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      none
+  longest line         972 chars
+

@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "romanentwurf-kohaerenz-protokoll-teil-1"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -56,6 +56,10 @@ The concept's first key place is „Kaels Initiale Wohneinheit (KW1)“ ^[roman-
 Profile 1 of Teil II is titled „Kaels Initiale Wohneinheit“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L112] and placed in KW1 (L112). Its core field says what it is for: „Repräsentiert Kaels anfänglichen Zustand der (unbewussten) Konformität und Isolation innerhalb des Systems“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L113], and „Symbolisiert die vom System zugewiesene, minimale Identität“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L113]. The plot field makes it „Kaels primärer Rückzugsort zu Beginn“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L119].
 
 The exact spelling `Kaels Wohneinheit` stands once, on L172, in the name line of the profile of the mirroring wall, which sits „in Kaels Wohneinheit“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L172]; that wall is described as the „primäre Schnittstelle zur Außenwelt/zum System innerhalb von Kaels privatem Raum“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L173].
+
+## Reading — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft — Michael's minimalist unit and a room without a light source
+
+The chapter-1 draft, an unsigned working draft, gives Michael (its early name of Kael) a dwelling. The blueprint sets scene 1 in „Michaels minimalistische, geometrische Wohneinheit in der Konstrukt-Stadt“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L73], and scene 13 in a unit with a view onto the city. The prose sketch makes the room itself: „Das Licht im Raum war indirekt, gleichmäßig, ohne Quelle und ohne Schatten“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L229]. Michael recognises it as his own: „Seine Wohneinheit.“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L229]. The draft gives the unit no number; the number 734 stands in it as Michael's own designation (scene 4).
 
 ## Open
 

@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-plotideen-extraktion
+  lines                701  (frontmatter ends at 9)
+  body words           12519
+  headings             35   bold-only lines 6
+  table rows           24   code fences 0
+  question marks       19
+  backslash escapes    112
+  typographic marks    35   ascii quotes 208
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    158
+  repeated labels      Konzepte x21, Szenario x19, Implikation für AEGIS x6, Auswirkung x5, Eskalation x4, Konsequenz x3, Manifestation x3, Problem x3, Prozess x3, Relevanz im Kohärenz Protokoll x3
+  longest line         1404 chars
+

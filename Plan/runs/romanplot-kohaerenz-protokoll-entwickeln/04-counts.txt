@@ -1,0 +1,100 @@
+# counts for 67 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             58 word    93 in   [17, 23, 25, 29, 30, 31]
+                                   33      as Kaels
+                                    1      as Kael-Juna
+                                    1      as Kael-Juna-Verbindung
+  AEGIS                            99 word   102 in   [17, 29, 30, 31, 32, 33]
+                                    1      as AEGIS-kontrollierten
+                                    1      as AEGIS-Sonden
+                                    1      as AEGIS-System
+  Juna                              6 word    11 in   [17, 30, 32, 68, 118, 145]
+                                    3      as Junas
+  Kael-Juna (K-J) Verbindung        1 word     1 in   [17]
+  Kael-Juna                         1 word     2 in   [17, 30]
+                                    1      as Kael-Juna-Verbindung
+  K-J-Verbindung                   29 word    29 in   [31, 32, 33, 44, 47, 52]
+  K-J-Schimmer                      1 word     1 in   [32]
+  Kohärenz-Insel                   16 word    16 in   [17, 30, 46, 52, 57, 58]
+  Potentialmeer                     8 word    10 in   [17, 119, 127, 138, 145, 169]
+                                    2      as Potentialmeers
+  Kernwelten                       20 word    20 in   [29, 30, 31, 33, 39, 48]
+  KW1                               5 word     5 in   [33, 43, 44, 82, 173]
+  KW2                               4 word     4 in   [33, 44, 89, 173]
+  KW3                               3 word     3 in   [45, 96, 173]
+  KW4                               6 word     6 in   [46, 52, 71, 103, 119, 173]
+  Konstrukt-Stadt                   4 word     4 in   [33, 43, 48, 82]
+  Resonanz-Nebel                    3 word     3 in   [33, 44, 89]
+  Schattenlabyrinth                 2 word     3 in   [45, 48, 96]
+                                    1      as Schattenlabyrinths
+  Möglichkeitsstrom                 3 word     3 in   [46, 48, 103]
+  LogOS                             5 word     5 in   [30, 43, 70, 84, 179]
+  Mnemosyne                         6 word     6 in   [30, 44, 70, 74, 91, 179]
+  Cerberus                          4 word     4 in   [45, 71, 74, 98]
+  Kairos                            2 word     2 in   [46, 105]
+  Wächter                          21 word    25 in   [30, 31, 39, 43, 44, 45]
+                                    2      as Wächtern
+                                    1      as Wächter-Subsysteme
+                                    1      as Wächter-Begegnungen
+  Risse                             7 word     7 in   [52, 53, 57, 60, 72, 159]
+  Alters                            4 word     4 in   [29, 31, 118, 159]
+  strukturelle Kopplung             3 word     3 in   [59, 74, 179]
+  Exkludierende Kohärenz            1 word     1 in   [126]
+  Integrative Kohärenz              1 word     1 in   [126]
+  Kernwelt                          0 word    21 in   [29, 30, 31, 33, 39, 48]  <-- substring
+                                   20      as Kernwelten
+                                    1      as Kernwelt-Prüfungen
+  Selbst-Energie                    5 word     5 in   [32, 92, 108]
+  Kontrollparadoxon                 1 word     1 in   [68]
+  Paradoxon der Kontrolle           1 word     1 in   [72]
+  Black Box                         1 word     1 in   [70]
+  Ticking Clock                     2 word     2 in   [170, 171]
+  Systemanomalie                    1 word     1 in   [30]
+  AEGIS-Sonden                      1 word     1 in   [31]
+  Dissoziativer Identitätsstörung (DIS)    1 word     1 in   [17]
+  DIS                               5 word     5 in   [17, 21, 25, 60, 189]
+  Internal Family Systems (IFS)     1 word     1 in   [21]
+  IFS                               9 word    20 in   [21, 25, 29, 31, 32, 44]  <-- substring
+  Manager                           3 word     7 in   [29, 31, 43, 85, 87]  <-- substring
+                                    2      as Manager-Anteil
+                                    1      as Manager-Anteile
+  Exiles                            6 word     6 in   [31, 44, 47, 53, 92, 94]
+  Firefighters                      1 word     1 in   [47]
+  Feuerwehr                         3 word     4 in   [31, 45, 99, 101]
+                                    1      as Feuerwehr-Anteile
+  Unburdening                       3 word     3 in   [53, 57, 94]
+  Persona                           4 word     4 in   [29, 43, 86, 87]
+  Schatten                          8 word    18 in   [45, 47, 48, 53, 96, 98]  <-- substring
+                                    3      as Schattens
+                                    2      as Schattenlabyrinth
+                                    2      as Schattenanteile
+                                    1      as Schattenlabyrinths
+  Individuation                     5 word     5 in   [46, 57, 59, 107, 108]
+  Autopoiesis                       6 word     6 in   [21, 66, 189, 207, 208]
+  Kybernetik                        4 word     4 in   [21, 87, 189, 206]
+  Monstergruppe                     9 word     9 in   [21, 52, 57, 119, 132, 134]
+  Happy Family                      1 word     1 in   [119]
+  Monstrous Moonshine               1 word     1 in   [119]
+  Unvollständigkeitssätze           3 word     4 in   [59, 74, 146, 241]
+                                    1      as Unvollständigkeitssätzen
+  Heldenreise                      11 word    11 in   [25, 33, 37, 52, 152, 154]
+  Drei-Akt-Struktur                 3 word     3 in   [25, 154, 165]
+  Panoptikum                        1 word     2 in   [43, 84]
+                                    1      as Panoptikums
+  Rand des Chaos                    2 word     2 in   [58, 72]
+  Emergenz                          7 word     7 in   [21, 46, 105, 107, 108, 128]
+  Quanten-Idealismus                2 word     3 in   [146, 180, 250]
+                                    1      as Quanten-Idealismus-Konzepte
+  Non-Dualität                      2 word     2 in   [145, 146]
+  kollektiven Unbewussten           1 word     1 in   [107]
+  Informationstheorie               3 word     3 in   [66, 189, 246]
+  Entropie                          5 word     5 in   [66, 129, 247]
+  Bachelard                         3 word    18 in   [39, 44, 45, 46, 80, 91]  <-- substring
+                                   14      as Bachelards
+                                    1      as bachelard-gaston-1957-poetik-des-raumes
+  Vogler                            3 word     5 in   [25, 154, 197, 198, 244]
+                                    2      as Voglers
+  dunkle Nacht der Seele            1 word     1 in   [53]

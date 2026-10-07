@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      37
+  backslash escapes      0
+  typographic marks      11
+  ascii quotes           140
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systeme, Systeminstabilität, Systemintegrität, Systemkollaps, Systemreaktion, Systems, Systemstörung, Systemtakt
+  selbs    Selbst, Selbsterkenntnis, Selbstfürsorge, Selbstschöpfung, Selbstvertrauens
+  handl    Handlung, Handlungsfähigkeit, Handlungsimpuls, Handlungsschleife
+  proto    Protokoll, Protokolle, Protokolls, Protokollverletzung
+  wider    Widerlegung, Widersprüchen, Widerstand, Widerstands
+  analy    Analyse, Analysezyklen, Analysiert
+  diese    Diese, Dieser, Dieses
+  inter    Interaktion, Interpretiert, Intervention
+  präzi    Präzise, Präzisen, Präzision
+  schat    Schatten, Schattens, Schatz
+  still    Stille, Stillstand, Stillstands
+  strat    Strategie, Strategien, Strategische
+  traum    Trauma, Traumabindung, Traumas
+  absch    Abschluss, Abschnitt
+  abwei    Abweichler, Abweichung
+  aktiv    Aktivierung, Aktivität
+  alter    Alter, Alters
+  angst    Angst, Angstregulation
+  antei    Anteile, Anteilen
+  antif    Antifragile, Antifragilität
+  aussa    Aussage, Aussagen
+  avata    Avatar, Avataren
+  bedro    Bedrohung, Bedrohungsindex
+  bewus    Bewusstsein, Bewusstseins
+  bindu    Bindungsfähigkeit, Bindungstheorie
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Alter
+  Alte < Alters
+  Alte < Verhalten
+  Alte < Innehalten
+  Alte < Verhaltens
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Ende < Wendepunkt
+  Erde < Erden
+  Erde < Begierden
+  Form < Information
+  Form < Konformität
+  Form < Informations
+  Form < Transformation
+  Form < Organisationsform
+  Gang < Übergang
+  Gang < Vergangenheit
+  Gang < Phasenübergang

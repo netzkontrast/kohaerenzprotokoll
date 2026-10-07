@@ -1,0 +1,25 @@
+Every number the census and note state. Command: python3 scripts/read.py kishotenketsu-fuer-meinen-roman-bitte-plane-ein --count "<words>"  (whole word / including compounds)
+
+Fokus                31 / 31      note: field label count mark #31
+Handlung             38 / 42      note: #38
+AEGIS' Perspektive   30 / 30      note: #30
+Konzept & Recherche  31 / 31      note: #31
+sum of the four labels: 31 + 38 + 30 + 31 = 130   (stance_marker_count: 130)
+Möglichkeits-Garten   2 / 2
+Die Ruhige 1/1, Die Mutige 1/1, Die Präzise 2/2, Die Leichte 1/1, Die Wachsame 1/1
+Gegentakt 3 / 4 ; Gegentakt-Lücke 1 / 1
+Zeitsprung 0 / 1  (the one line, L216, writes „Zeitsprungs“)
+Mnemosyne 2/2, Cerberus 1/1, Kairos/Sophia 1/1, LogOS 1/1, Wächter 4/4   (lines 58, 69, 80, 91)
+Kael 62 / 84 ; Ki 2 / 4 (lines 11, 17, 23, 36) ; Schatten 4 / 6 ; Ruhigen 1/1 ; Mutigen 1/1 ; W1 10/10 ; W4 8/8
+
+Why Fokus and Konzept & Recherche are 31 and not 30:
+$ grep -n -w "Fokus" Sources/drive/<slug>.md  outside the field lines: L11 (the opening paragraph) -> 30 fields + 1
+$ grep -n -w "Konzept & Recherche" outside the field lines: L13 -> 30 fields + 1
+$ grep -c '^#### \*\*Kapitel' Sources/drive/<slug>.md
+30
+$ grep -c -E '^  - \*\*Handlung:\*\*' Sources/drive/<slug>.md
+30
+$ grep -n -w "Handlung" ... outside those 30 field lines: L58, L91, L92, L129, L149, L152, L195 (the word also stands inside sentences; the whole-word count of read.py is 38)
+
+Profile (python3 scripts/profile.py, 01-profile.txt): typographic marks 11, ascii quotes 140, glued ref numbers 37, question marks 1, lines 383.
+Candidates: 74 (census frontmatter, capture.py --count).

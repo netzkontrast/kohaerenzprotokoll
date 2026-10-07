@@ -1,0 +1,54 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      42
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  wider    Widersprüche, Widerstand, Widerstands, Widerstandskraft
+  archi    Architektur, Architekturen, Archiv
+  integ    Integration, Integrator, Integrity
+  psych    Psyche, Psycho, Psychology
+  syste    System, Systeme, Systems
+  antei    Anteil, Anteile
+  disso    Dissonanz, Dissoziation
+  exter    Externalisierung, Externalisierungen
+  final    Finalisierung, Finalisierungsplan
+  große    Große, Großes
+  grund    Grundprinzipien, Grundverletzung
+  heilu    Heilung, Heilungsziel
+  insta    Instabilität, Instanz
+  leser    Leser, Lesers
+  missb    Missbrauch, Missbrauchs
+  ordnu    Ordnung, Ordnungswächter
+  philo    Philosophie, Philosophische
+  reali    Realität, Realitätsebene
+  reson    Resonanz, Resonanzsystem
+  schöp    Schöpfers, Schöpfung
+  story    Storyform, Storytelling
+  struk    Struktur, Struktureller
+  traum    Trauma, Traumas
+  täter    Täterintrojekt, Täters
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Fall < Verfall
+  Fall < Zerfall
+  Form < Storyform
+  Form < Transformation
+  Jede < Jeder
+  Kael < Kaels
+  Kein < Keine
+  Kern < Kernwelten
+  Meta < Metaphysische
+  Plan < Finalisierungsplan
+  Sein < Seine
+  Sein < Bewusstsein
+  Teil < Teile
+  Teil < Anteil
+  Teil < Anteile
+  Ziel < Heilungsziel
+  Ebene < Realitätsebene
+  Große < Großes
+  Leser < Lesers

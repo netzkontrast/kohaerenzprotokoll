@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 40
-readings: 40
+sources: 49
+readings: 49
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "systemic-architecture-specification-the-coherence-protocol-w", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-projekt-rekonstruktion", "ai-assisted-narrative-coherence", "outline", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-narrativer-bauplan", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kohaerenz-protokoll-2", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "roman-konzept-und-philosophische-fragen", "roman-konzept-reduktion-und-kernfindung", "analyse-des-kohaerenz-protokolls", "the-psychological-mechanics-from-tertiary-structural-dissoci"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -48,6 +48,10 @@ by effect, never by identity. See [[partnerin|Partnerin]].
 `Cerberus` — see [[cerberus|Cerberus]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
 
+## Reading — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept — Grenzfeste as Cerberus's world of protection
+
+„Grenzfeste (Cerberus)“ ^[kohaerenz-protokoll-2.md:L77]: „Ebene der Schutzmechanismen, protektive Anteile, Paranoia, Kontrolle, Vermeidung (Bunker)“ ^[kohaerenz-protokoll-2.md:L77]. The hypothetical alter tied to it: „Protektiv, paranoid, kontrollierend, misstrauisch (verbunden mit Grenzfeste)“ ^[kohaerenz-protokoll-2.md:L59].
+
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — KW3 as an oppressive world of distrust, externalising Kael's defences, under Cerberus
 
 The Teil-1 plot proposes that Kael „betritt die beklemmende Grenzfeste, sucht Sicherheit oder Antworten, findet aber nur Misstrauen und Kontrolle“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L151]. It says of the world: „KW3 externalisiert Kaels innere Abwehrmechanismen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L156]. The matrix gives it the part „Wächter-Anteil / Abwehr / Paranoia / Isolation“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L301] and the Guardian's blind spot „Sieht Verbindung/Unterschied als Bedrohung“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L301]. Late in Part 1 it proposes the world turning on itself: „KW3 wird chaotisch – Mauern verschieben sich, Schwerkraft schwankt“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L194].
@@ -73,6 +77,10 @@ The character concepts name the Grenzfeste third among the four worlds (L30, L66
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — KW3 as world of defence and fear
 
 The plot blueprint plans step 1.11 so that Kael reaches KW3: „KW3 ist eine Welt der Verteidigung, der Angst und der Paranoia“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L286]. Its setting line for the step reads „Setting: Übergang und KW3 (Grenzfeste).“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L289]; step 1.12 is titled „Im Labyrinth der Angst“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L295].
+
+## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — the Grenzfeste as the dominant world of the shadow persona
+
+The character architecture assigns the Grenzfeste to the shadow part: „Die chaotische, bedrohliche Atmosphäre dieser Welt passt zu seiner reaktiven, misstrauischen Natur“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L83]. For the child and the relational part it is a hostile place: the child is „extrem deplatziert und vulnerabel“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L67] there, and the relational part is „Extrem gefährdet durch seine Offenheit“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L104], in a world „die auf Paranoia und Isolation ausgelegt ist“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L203].
 
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — section 3: KW3 with Guardian Cerberus
 
@@ -120,6 +128,14 @@ The Welt blueprint profiles `Cerberus-Labyrinth / Grenzfeste` as the third Kernw
 
 The system plan designs KW3 as „Grenzfeste (NP-vollständig - Heuristische Sicherheit)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L280], with Cerberus as Guardian, about „Ressourcenmanagement, Bedrohungsanalyse und Optimierung unter Zwang“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L285]. Its core puzzle is „eine Variante des“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L286] travelling-salesman problem. A virus that stands for a repressed trauma attacks several entry points; Cerberus must plan a patrol route and settle for a heuristic that may hide a fatal flaw, the „Sicherheitslücke“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L287] Kael can exploit or help close.
 
+## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — the Grenzfeste as bunker
+
+The review describes the Grenzfeste as „eine Welt der Abwehr, des Schutzes und der Paranoia“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L126], and says it is represented „wird durch die Metapher des Bunkers perfekt repräsentiert“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L126]. The bunker, in the review's reading, is a psychological defence that becomes a prison for its inmates. The table lists the world for part two (L159).
+
+## Reading — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis — Grenzfeste as KW3, relevance logic and a travelling-salesman puzzle
+
+The philosophical synthesis reads Grenzfeste as the third row (`KW3`) of its Kernwelten matrix, with Guardian Cerberus and „Relevanzlogik“ ^[roman-konzept-und-philosophische-fragen.md:L195], complexity class „NP-vollständig“ ^[roman-konzept-und-philosophische-fragen.md:L195]. Its puzzle is „Problem des Handlungsreisenden“ ^[roman-konzept-und-philosophische-fragen.md:L195], and its Riss shows as „Sicherheitslücke/Heuristischer Fehler“ ^[roman-konzept-und-philosophische-fragen.md:L195].
+
 ## Reading — `outline`, 2025-07-30, the outline — Grenzfeste as KW3's name in Teil 2
 
 Teil 2's section IV names `KW3` `Grenzfeste`, with Cerberus, and describes it: „Die Umgebung ist befestigt, labyrinthisch, klaustrophobisch und dunkel.“ ^[outline.md:L132] (L132).
@@ -140,9 +156,25 @@ The architecture analysis's table writes the third world as „Grenzfeste/Cerber
 
 The third Core World is written „KW3: Cerberus-Labyrinth / Grenzfeste“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]. Its principle is „Defense & Hypervigilance (Protectors)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], its sensory signature „Oppressive, militaristic, jarring, monitored“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98], and its somatic truth is bracing for impact: „The body as armor, revealing that physical security does not equal psychological safety.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L98]
 
+## Reading — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report — the Grenzfeste as the third world
+
+The contradiction report counts „the Grenzfeste (KW3)“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L61] among the four worlds of the deepened model, governed by `Cerberus` and representing defense and paranoia.
+
+## Reading — `the-psychological-mechanics-from-tertiary-structural-dissoci`, 2025-11-03, the TSDP mechanics report — the Fortress as Kael's defence mechanisms
+
+The TSDP mechanics report names the third Core World „The Fortress (Cerberus)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L59]. It says the world „reflects Kael's defense mechanisms“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L59], and that its core puzzle is a variant of the Traveling Salesperson Problem, which it calls NP-hard.
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — KW3 as the world of defence against the truth, Act 2
 
 The truth-duality paper places the proposed Act 2 in „KW2 (Das Mnemosyne-Archipel) und KW3 (Die Grenzfeste)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L204], the externalised trauma landscapes of the EPs. In its list of worlds KW3 is the world of defence „gegen die Wahrheit (Phobien, Paranoia).“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L239], with the Wächter Cerberus, in Act 2.
+
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — KW3 as an endless bunker complex
+
+The protocol analysis's table names KW3 `Cerberus-Labyrinth`, with „Die Grenzfestung“ ^[analyse-des-kohaerenz-protokolls.md:L238] in brackets (the report's spelling), and describes it as „Ein unendlicher Bunkerkomplex“ ^[analyse-des-kohaerenz-protokolls.md:L238] with Praetor and Nox as its inhabitants; its themes are defence, paranoia and borders (L238).
+
+## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — Grenzfeste as Cerberus's world and Nox's dwelling
+
+The analysis report names Grenzfeste as Cerberus's world, KW3 (L79). It also gives it as the dwelling of the alter Nox: „Wohnort: Die Grenzfeste“ ^[kohaerenz-analyse-kapitel-2.md:L114], adding that Nox often cooperates unconsciously with Cerberus, since both rely on defence and hardness (L114).
 
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — row 3, Cerberus and Nox on the same premises
 
@@ -168,6 +200,10 @@ KW3 is named „Die Grenzfeste / Cerberus-Labyrinth“ ^[kohaerenz-protokoll-pro
 
 The pitch writes the third world only as `KW3: Cerberus-Labyrinth`, never as Grenzfeste; the pairing by KW number is the coordinator's judgement (J118), nothing is merged. Its logic: „Hypervigilanz, eingeschränkte Relevanzlogik mit Fokus auf pure Angst und Sicherheit.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L98]; its somatic motif: „Anspannen der Muskeln, ständiges Wappnen für einen Aufprall, Zusammenbeißen der Kiefer.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L98]
 
+## Reading — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report — the Grenzfeste as Nyx's sphere in a table
+
+The reduction report's table of the parts gives the sphere of „Nyx (Protector)“ ^[roman-konzept-reduktion-und-kernfindung.md:L81] as „Grenzfeste“ ^[roman-konzept-reduktion-und-kernfindung.md:L81] in brackets, after a kernel symbol the export lost. The report says no more of it than that cell.
+
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the English name of Core World 3
 
 The manifest writes only the English name: „The third Core World is designated as the Boundary Fortress.“ ^[aegis-persona-and-manifest-generation.md:L89] It is „a secure quarantine zone, a control center, and a maximum-security containment facility“ ^[aegis-persona-and-manifest-generation.md:L89].
@@ -179,6 +215,7 @@ KW3, the Cerberus-Labyrinth, is described as the „architectural manifestation 
 ## Where the sources differ
 
 - The plot analysis proposes the Grenzfeste (`Beta-Rho-5`) as the world of Cerberus, where Cerberus and Nox share premises; a proposal, not a chapter's fact.
+- The philosophical synthesis (2025-07-29) makes Grenzfeste one of four Kernwelten, with Guardian Cerberus and „Relevanzlogik“ ^[roman-konzept-und-philosophische-fragen.md:L195].
 
 ## Open
 

@@ -1,0 +1,95 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+World terms, figures, places and the document's own terms:
+
+- Kael
+- Kohärenz Protokoll
+- Cache Kohärenz
+- AEGIS
+- Paradoxon X
+- Juna/V
+- Moonshine-Link
+- Potentialmeer
+- Kernwelten
+- Guardian
+- Guardians
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Möglichkeiten-Garten
+- Grenzfeste
+- System-Host
+- System Host
+- Der Logiker
+- Lex
+- Das Kind
+- Kiko
+- Der Schatten
+- Nyx
+- Der Relationale Anteil
+- Relationaler Anteil
+- Rhys
+- Der Kreativ-Intuitive
+- Kreativ-Intuitiver
+- Kai
+- Die Wächterin
+- Wächterin
+- Selene
+- Das Innere Pantheon
+- Pressure Points
+- Pressure Point
+- Pressure Point Matrix
+- Konflikt-Kartographie
+- Fähigkeiten-Fehlanpassung
+- Skill Mismatch
+- Kernkonflikt
+- Narrativer Nutzen
+- Positive Absicht
+- Name/Bezeichnung
+- Kernfunktion & Positive Absicht
+- Psychologische Basis/Analogie
+- Dominante Kernwelt(en) & Interaktion
+- Kernmotivationen & Ziele
+- Typisches Verhalten & Manifestation
+- Beziehungen & Konflikte (Intern)
+- Beziehungen & Konflikte (Extern)
+- Verbindung zu Kernthemen
+- Entwicklungspotenzial/Integrationspfad
+- Novelcrafter
+- Novelcrafter Codex Format
+- Der Systemflüsterer
+- Die Weltenweberin
+- Der Glitch im System
+- Heilung vs. Kohärenz
+- Ambivalenz von Juna/V
+- Kosten der Integration
+- Natur von „M“
+- Simulation vs. Realität
+- Gedächtnislücken & Missverständnisse
+- Widersprüchliche externe Wahrnehmungen
+- funktionale Multiplizität
+
+## lens
+
+- Internal Family Systems
+- IFS
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Anscheinend Normalen Teilen
+- Emotionalen Teilen
+- Exiles
+- Firefighter
+- Manager
+- Self-leadership
+- Unburdening
+- Jungianische Archetypenlehre
+- Schatten
+- Anima
+- Animus
+- Individuationsprozess
+- Heldenreise
+- Heldinnenreise
+- Trickster
+- Gestaltwandler
+- Mentor
+
+The document is a report that builds a character architecture for the protagonist Kael out of three psychological models and a narrative framework, then maps conflict points between the personas. Persona names are written twice, as role and as quoted name (`Der Logiker / „Lex“`), and each list entry follows the form the document gives. The profile fields (`Name/Bezeichnung` and the other eleven) repeat under every profile as a template and are listed once each as the document's own labels, not as world terms. Reference list entries (L370 to L422) are titles of cited works and are left out. The bracket marks `\[Query Context\]` (L33, L232) and `\[Paradoxon X\]` (L136) are not candidates. The matrix at L290 to L305 uses ids `PP-INT-01` and so on, which are not listed as terms because each stands in one row only. `ANP` and `EP` appear only inside parentheses of the TSDP passages and were not asked of the document.

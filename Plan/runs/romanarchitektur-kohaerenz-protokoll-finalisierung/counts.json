@@ -1,0 +1,684 @@
+{
+  "document": "romanarchitektur-kohaerenz-protokoll-finalisierung",
+  "drive_id": "16vD_Ac_pW5FwtxCZdkblXWN65Ndvgefx7ax6PpZ0EN0",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Das Fundament": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        32,
+        40,
+        44,
+        50
+      ]
+    },
+    "Kael": {
+      "n": 33,
+      "n_including_compounds": 57,
+      "lines": [
+        46,
+        50,
+        58,
+        62,
+        64,
+        68,
+        76,
+        78,
+        79,
+        80,
+        96,
+        102,
+        114,
+        115,
+        123,
+        127,
+        128,
+        144,
+        146,
+        148,
+        163,
+        172,
+        174,
+        178,
+        182,
+        190,
+        194,
+        201,
+        216,
+        218,
+        219,
+        237,
+        239,
+        241,
+        242,
+        243,
+        244,
+        252,
+        256,
+        266,
+        267,
+        268,
+        278
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        84,
+        88,
+        96,
+        98
+      ]
+    },
+    "Juna": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        84,
+        88,
+        96,
+        98,
+        114,
+        115,
+        119,
+        123,
+        127,
+        128,
+        144
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        96,
+        128
+      ]
+    },
+    "AEGIS": {
+      "n": 57,
+      "n_including_compounds": 59,
+      "lines": [
+        42,
+        50,
+        60,
+        76,
+        78,
+        79,
+        80,
+        88,
+        96,
+        100,
+        110,
+        112,
+        114,
+        115,
+        123,
+        127,
+        128,
+        132,
+        136,
+        144,
+        146,
+        148,
+        158,
+        162,
+        163,
+        164,
+        172,
+        174,
+        216,
+        237,
+        241,
+        242,
+        243,
+        244,
+        252,
+        267,
+        276,
+        282
+      ]
+    },
+    "Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Potentialmeer": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        218
+      ]
+    },
+    "Kernwelt 2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        219
+      ]
+    },
+    "Kernwelt 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        220
+      ]
+    },
+    "Kernwelt 4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        216
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        256
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        190,
+        204,
+        243,
+        268
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        202,
+        268
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        203,
+        268
+      ]
+    },
+    "Alter 5": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        144,
+        190,
+        194
+      ]
+    },
+    "Gedankenpalast": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        218
+      ]
+    },
+    "Paradoxon X": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        174,
+        242
+      ]
+    },
+    "Kael-Paradoxon": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        264
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        22,
+        272,
+        276,
+        278
+      ]
+    },
+    "wahre Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "Logic of Formal Inconsistency": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        146
+      ]
+    },
+    "LFI": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        128,
+        146,
+        148,
+        254
+      ]
+    },
+    "Boundary Protocols": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "OBP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Zero-Trust-Architektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Discursive Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Systemverantwortung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        192
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        50,
+        127,
+        178
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        64,
+        190,
+        192,
+        268
+      ]
+    },
+    "innere Gemeinschaft": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        186,
+        190
+      ]
+    },
+    "Daten-Attraktoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Flüchtige Nicht-Euklidische Geometrien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Momente wahrer Synchronizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Gnostische Injektion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Koordinierte Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "architektonische Hintertür": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        106,
+        110
+      ]
+    },
+    "neue Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        168,
+        174
+      ]
+    },
+    "Kohärenz durch Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Kohärenz durch Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Ineffiziente Schönheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Neu-Renderung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        255
+      ]
+    },
+    "Kohärenzmetrik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    },
+    "amnestischen Barrieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Kerkermeister": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        174,
+        237
+      ]
+    },
+    "Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Anziehungsbecken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "TSDP": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "ANP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        201,
+        204,
+        207
+      ]
+    },
+    "Anscheinend Normaler Teil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Innere Helferin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "ISH": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "Whitehead": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        42,
+        98,
+        283,
+        284
+      ]
+    },
+    "Prähension": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        98
+      ]
+    },
+    "Yin und Yang": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Dao": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Taijitu-Symbol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "seltsamer Attraktor": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        78
+      ]
+    },
+    "Lorenz-Attraktor": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        78
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        92,
+        96
+      ]
+    },
+    "Prinzip der Lokalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Gnosis": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        28,
+        54,
+        58,
+        66,
+        114,
+        127,
+        164,
+        244
+      ]
+    },
+    "Episteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        127,
+        128
+      ]
+    },
+    "Prinzip der sanften Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "gentle explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Specification Gaming": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "algorithmischen Horrors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        255
+      ]
+    },
+    "IIT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        48,
+        64
+      ]
+    }
+  }
+}

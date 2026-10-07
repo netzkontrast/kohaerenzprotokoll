@@ -1,0 +1,259 @@
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Szenario:
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Szenario:` ^[kohaerenz-protokoll-plotideen-extraktion.md:#19]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Eskalation:
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Eskalation:` ^[kohaerenz-protokoll-plotideen-extraktion.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Auswirkung:
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Auswirkung:` ^[kohaerenz-protokoll-plotideen-extraktion.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Konzepte:
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Konzepte:` ^[kohaerenz-protokoll-plotideen-extraktion.md:#21]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Implikation für AEGIS:
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Implikation für AEGIS:` ^[kohaerenz-protokoll-plotideen-extraktion.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Plot Idee
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Plot Idee` ^[kohaerenz-protokoll-plotideen-extraktion.md:#25]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count end list
+whole word, case-sensitive     60
+whole word, case-insensitive   60
+including compounds            60
+
+`end list` ^[kohaerenz-protokoll-plotideen-extraktion.md:#60]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Paradoxon-Cluster
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Paradoxon-Cluster` ^[kohaerenz-protokoll-plotideen-extraktion.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kael-Julia-Verbindung
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kael-Julia-Verbindung` ^[kohaerenz-protokoll-plotideen-extraktion.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count K-J-Verbindung
+whole word, case-sensitive     58
+whole word, case-insensitive   58
+including compounds            58
+
+`K-J-Verbindung` ^[kohaerenz-protokoll-plotideen-extraktion.md:#58]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count K-J-Einheit
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`K-J-Einheit` ^[kohaerenz-protokoll-plotideen-extraktion.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kael-Julia-Einheit
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Julia-Einheit` ^[kohaerenz-protokoll-plotideen-extraktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Nexus
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nexus` ^[kohaerenz-protokoll-plotideen-extraktion.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kap
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            10
+
+`Kap` ^[kohaerenz-protokoll-plotideen-extraktion.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kapitel
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kapitel` ^[kohaerenz-protokoll-plotideen-extraktion.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kernwelt Nexus
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt Nexus` ^[kohaerenz-protokoll-plotideen-extraktion.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count ZTV
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ZTV` ^[kohaerenz-protokoll-plotideen-extraktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count ANI
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANI` ^[kohaerenz-protokoll-plotideen-extraktion.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kael
+whole word, case-sensitive     49
+whole word, case-insensitive   49
+including compounds            111
+
+`Kael` ^[kohaerenz-protokoll-plotideen-extraktion.md:#49]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kaels
+whole word, case-sensitive     53
+whole word, case-insensitive   53
+including compounds            53
+
+`Kaels` ^[kohaerenz-protokoll-plotideen-extraktion.md:#53]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kernwelt
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            43
+
+`Kernwelt` ^[kohaerenz-protokoll-plotideen-extraktion.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kernwelten
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Kernwelten` ^[kohaerenz-protokoll-plotideen-extraktion.md:#39]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count K-J
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            105
+
+`K-J` ^[kohaerenz-protokoll-plotideen-extraktion.md:#31]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Kybernetik 2. Ordnung
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kybernetik 2. Ordnung` ^[kohaerenz-protokoll-plotideen-extraktion.md:#7]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Landauers Prinzip
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Landauers Prinzip` ^[kohaerenz-protokoll-plotideen-extraktion.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Landauer-Prinzip
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Landauer-Prinzip` ^[kohaerenz-protokoll-plotideen-extraktion.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Nox
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nox` ^[kohaerenz-protokoll-plotideen-extraktion.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Managern
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Managern` ^[kohaerenz-protokoll-plotideen-extraktion.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Managers
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Managers` ^[kohaerenz-protokoll-plotideen-extraktion.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count blinden Flecken
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`blinden Flecken` ^[kohaerenz-protokoll-plotideen-extraktion.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-plotideen-extraktion --count Manager
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            7
+
+`Manager` ^[kohaerenz-protokoll-plotideen-extraktion.md:#3]
+
+$ sum of stance markers 19+4+5+21+6 = 55
+55
+$ sed -n 614,700p Sources/drive/kohaerenz-protokoll-plotideen-extraktion.md | grep -c .   (reference lines)
+87
+$ grep -c "^  - \*\*Plot Idee [0-9]*:" (plot idea headings)
+19
+$ plot idea headings by line
+396 406 416 426 438 449 459 469 483 493 503 513 523 533 543 553 563 573 583 
+$ Plot Idee lines outside headings (table 2 L162-167)
+162:| \*\*G�
+163:| \*\*As
+164:| \*\*La
+165:| \*\*KI
+166:| \*\*Ch
+167:| \*\*Ky
+$ grep -c for end list
+60
+$ U+200B lines
+32
+115
+$ OSR-objects
+633
+$ Table 3 Alters roles: Manager 4 (Architekt, Wächter, Praetor, Index), Feuerlöscher 3 (Echo, Nox, Silas), Exilanten 2 (Funke, Limina) = 9 of the 10 named at L233 (Sucher not assigned)
+233:**Kaels Al
+$ read.py --count Canon
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Canon` ^[kohaerenz-protokoll-plotideen-extraktion.md:#0]
+$ read.py --count Kanon
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[kohaerenz-protokoll-plotideen-extraktion.md:#0]
+$ read.py --count kanon
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`kanon` ^[kohaerenz-protokoll-plotideen-extraktion.md:#0]

@@ -1,0 +1,174 @@
+{
+  "document": "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
+  "drive_id": "1Wx02lTSBQaLOnud-Br7YnN06hR8ZKbXV5QG9lqkzVTA",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 35,
+  "typographic_marks": 16,
+  "ascii_quotes": 110,
+  "inflection_families": {
+    "canon": [
+      "CANON",
+      "Canon",
+      "Canonical"
+    ],
+    "final": [
+      "Final",
+      "Finale",
+      "Finalized"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "analy": [
+      "Analyse",
+      "Analytical"
+    ],
+    "archi": [
+      "Architectural",
+      "Architecture"
+    ],
+    "axiom": [
+      "Axiom",
+      "Axioms"
+    ],
+    "exist": [
+      "Existenz",
+      "Existing"
+    ],
+    "funct": [
+      "Functional",
+      "Functionalist"
+    ],
+    "hard": [
+      "HARD",
+      "Hard"
+    ],
+    "ident": [
+      "Identified",
+      "Identifying"
+    ],
+    "imple": [
+      "Implement",
+      "Implementation"
+    ],
+    "inter": [
+      "Interaction",
+      "Internal"
+    ],
+    "opera": [
+      "Operationalize",
+      "Operationalizing"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "resol": [
+      "Resolution",
+      "Resolutions"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonanz"
+    ],
+    "sourc": [
+      "Source",
+      "Sources"
+    ],
+    "symme": [
+      "Symmetries",
+      "Symmetry"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Find",
+      "Finde"
+    ],
+    [
+      "HARD",
+      "Hard"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Risk",
+      "Risks"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Axiom",
+      "Axioms"
+    ],
+    [
+      "CANON",
+      "Canon"
+    ],
+    [
+      "CANON",
+      "Canonical"
+    ],
+    [
+      "Canon",
+      "Canonical"
+    ],
+    [
+      "Final",
+      "Finale"
+    ],
+    [
+      "Final",
+      "Finalized"
+    ],
+    [
+      "Source",
+      "Sources"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Fragment",
+      "TEXTFRAGMENTE"
+    ],
+    [
+      "Solution",
+      "Resolution"
+    ],
+    [
+      "Solution",
+      "Resolutions"
+    ],
+    [
+      "Implement",
+      "Implementation"
+    ],
+    [
+      "Protokoll",
+      "Trennungsprotokoll"
+    ],
+    [
+      "Functional",
+      "Functionalist"
+    ],
+    [
+      "Resolution",
+      "Resolutions"
+    ]
+  ]
+}

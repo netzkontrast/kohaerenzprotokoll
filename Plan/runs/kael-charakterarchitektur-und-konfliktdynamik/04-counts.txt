@@ -1,0 +1,119 @@
+# counts for 84 candidates
+# line numbers are FILE lines, as a citation writes them
+# 2 `- ` line(s) read as prose and not counted: Heilung vs. Kohärenz · Simulation vs. Realität
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             71 word   105 in   [11, 15, 17, 21, 23, 24]
+                                   34      as Kaels
+  Kohärenz Protokoll                5 word     5 in   [11, 13, 15, 313, 360]
+  Cache Kohärenz                    8 word     8 in   [17, 33, 38, 142, 257, 303]
+  AEGIS                            81 word    83 in   [15, 17, 31, 34, 35, 38]
+                                    1      as AEGIS-Reaktion
+                                    1      as AEGIS-Überreaktion
+  Paradoxon X                      14 word    14 in   [38, 56, 88, 136, 228, 230]
+  Juna/V                           21 word    21 in   [34, 35, 38, 56, 72, 88]
+  Moonshine-Link                    2 word     2 in   [232, 316]
+  Potentialmeer                     2 word     3 in   [318, 319, 354]
+                                    1      as Potentialmeers
+  Kernwelten                        7 word     7 in   [22, 32, 33, 38, 142, 319]
+  Guardian                          7 word    22 in   [38, 51, 56, 72, 83, 88]  <-- substring
+                                   14      as Guardians
+                                    1      as Guardian-Einsatz
+  Guardians                        14 word    14 in   [38, 56, 72, 88, 104, 120]
+  Konstrukt-Stadt                  17 word    17 in   [51, 56, 67, 72, 83, 99]
+  Resonanz-Landschaft               8 word     8 in   [51, 56, 67, 83, 99, 104]
+  Möglichkeiten-Garten              4 word     4 in   [67, 115, 120, 221]
+  Grenzfeste                       12 word    12 in   [67, 72, 83, 99, 104, 203]
+  System-Host                       1 word     2 in   [26, 28]
+                                    1      as System-Hosts
+  System Host                       1 word     1 in   [30]
+  Der Logiker                       2 word     2 in   [48, 142]
+  Lex                              20 word    20 in   [48, 49, 51, 156, 165, 183]
+  Das Kind                          1 word     1 in   [64]
+  Kiko                             11 word    11 in   [64, 165, 212, 261, 294, 299]
+  Der Schatten                      2 word     2 in   [80, 146]
+  Nyx                              20 word    20 in   [80, 146, 156, 174, 221, 241]
+  Der Relationale Anteil            2 word     2 in   [96, 146]
+  Relationaler Anteil               3 word     3 in   [174, 203, 232]
+  Rhys                             14 word    14 in   [96, 146, 174, 203, 232, 261]
+  Der Kreativ-Intuitive             1 word     1 in   [112]
+  Kreativ-Intuitiver                2 word     2 in   [183, 194]
+  Kai                              13 word    13 in   [112, 146, 183, 194, 232, 296]
+  Die Wächterin                     1 word     1 in   [128]
+  Wächterin                        16 word    16 in   [40, 58, 71, 74, 87, 90]
+  Selene                            4 word     4 in   [128, 250, 302]
+  Das Innere Pantheon               1 word     1 in   [42]
+  Pressure Points                   7 word     7 in   [26, 148, 150, 286, 360, 362]
+  Pressure Point                   13 word    20 in   [26, 56, 72, 88, 104, 120]
+  Pressure Point Matrix             1 word     1 in   [288]
+  Konflikt-Kartographie             1 word     1 in   [148]
+  Fähigkeiten-Fehlanpassung         2 word     2 in   [261, 303]
+  Skill Mismatch                    1 word     1 in   [261]
+  Kernkonflikt                     15 word    16 in   [160, 169, 178, 187, 198, 207]
+                                    1      as Kernkonflikt-Dynamik
+  Narrativer Nutzen                15 word    15 in   [161, 170, 179, 188, 199, 208]
+  Positive Absicht                  7 word     7 in   [31, 49, 65, 81, 97, 113]
+  Name/Bezeichnung                  7 word     7 in   [30, 48, 64, 80, 96, 112]
+  Kernfunktion & Positive Absicht    7 word     7 in   [31, 49, 65, 81, 97, 113]
+  Psychologische Basis/Analogie     7 word     7 in   [32, 50, 66, 82, 98, 114]
+  Dominante Kernwelt(en) & Interaktion    7 word     7 in   [33, 51, 67, 83, 99, 115]
+  Kernmotivationen & Ziele          7 word     7 in   [34, 52, 68, 84, 100, 116]
+  Typisches Verhalten & Manifestation    7 word     7 in   [36, 54, 70, 86, 102, 118]
+  Beziehungen & Konflikte (Intern)    7 word     7 in   [37, 55, 71, 87, 103, 119]
+  Beziehungen & Konflikte (Extern)    7 word     7 in   [38, 56, 72, 88, 104, 120]
+  Verbindung zu Kernthemen          7 word     7 in   [39, 57, 73, 89, 105, 121]
+  Entwicklungspotenzial/Integrationspfad    7 word     7 in   [40, 58, 74, 90, 106, 122]
+  Novelcrafter                      4 word     5 in   [11, 15, 28, 42, 364]
+                                    1      as Novelcrafter-Vorlage
+  Novelcrafter Codex Format         2 word     2 in   [28, 42]
+  Der Systemflüsterer               1 word     1 in   [325]
+  Die Weltenweberin                 1 word     1 in   [336]
+  Der Glitch im System              1 word     1 in   [347]
+  Ambivalenz von Juna/V             1 word     1 in   [316]
+  Kosten der Integration            1 word     1 in   [317]
+  Natur von „M“                     1 word     1 in   [318]
+  Gedächtnislücken & Missverständnisse    1 word     1 in   [270]
+  Widersprüchliche externe Wahrnehmungen    1 word     1 in   [279]
+  funktionale Multiplizität         1 word     1 in   [40]
+  Internal Family Systems          10 word    10 in   [21, 370, 371, 372, 374, 375]
+  IFS                              15 word    25 in   [21, 32, 34, 49, 50, 65]
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [22]
+  TSDP                              5 word    10 in   [22, 32, 40, 50, 66, 82]
+                                    2      as TSDP-EP
+                                    1      as TSDP-Integration
+                                    1      as TSDP-ANP
+                                    1      as TSDP-System
+  Anscheinend Normalen Teilen       1 word     1 in   [22]
+  Emotionalen Teilen                1 word     1 in   [22]
+  Exiles                           14 word    14 in   [21, 35, 49, 81, 84, 85]
+  Firefighter                       8 word    13 in   [21, 71, 81, 82, 144, 146]
+                                    2      as Firefighters
+                                    1      as Firefighter-Reaktion
+                                    1      as firefighters
+  Manager                           8 word    14 in   [21, 49, 50, 65, 71, 87]
+                                    3      as Managers
+                                    1      as Managern
+                                    1      as managers-exiles-and-firefighters-how-internal-family-systems-therapy-works
+                                    1      as managers
+  Self-leadership                   3 word     3 in   [21, 32, 34]
+  Unburdening                       2 word     2 in   [58, 74]
+  Jungianische Archetypenlehre      1 word     1 in   [23]
+  Schatten                         24 word    30 in   [23, 53, 55, 68, 71, 80]
+                                    4      as Schattens
+                                    1      as Schattenarchetyp
+                                    1      as Schattenanteile
+  Anima                             9 word    11 in   [23, 50, 98, 106, 114, 146]
+                                    1      as Anima-Aspekten
+                                    1      as Anima-Konzept
+                                    1      as anima-and-animus
+                                    1      as anima-and-animus-2
+  Animus                            6 word     6 in   [23, 50, 114, 146, 397, 398]
+  Individuationsprozess             3 word     3 in   [23, 106, 146]
+  Heldenreise                       4 word     4 in   [24, 329, 351, 356]
+  Heldinnenreise                    6 word     6 in   [24, 40, 323, 340, 356]
+  Trickster                         1 word     3 in   [114, 347, 351]  <-- substring
+                                    1      as Tricksters
+                                    1      as Trickster-Archetyp
+  Gestaltwandler                    2 word     2 in   [347, 351]
+  Mentor                            2 word     2 in   [325, 329]

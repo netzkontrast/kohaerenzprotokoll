@@ -1,0 +1,157 @@
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Schlussstein"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schlussstein` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "definitive"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`definitive` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#4]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "wasserdichten Rahmen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`wasserdichten Rahmen` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Zugriff am Juli 29, 2025"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Zugriff am Juli 29, 2025` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#21]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Potentialmeer"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Potentialmeer` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#0]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Potentialmeers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Potentialmeers` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Kael-Paradoxon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kael-Paradoxon` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#0]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Kael-Paradoxons"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Paradoxons` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "TSDP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`TSDP` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#0]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "TSDP-Klassifikation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP-Klassifikation` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Alter 5"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alter 5` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Alter 6"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alter 6` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Alter 7"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alter 7` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Alter 8"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alter 8` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "seltsamer Attraktor"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`seltsamer Attraktor` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#2]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "seltsamer Attraktoren"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`seltsamer Attraktoren` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "System Kael"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`System Kael` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#2]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "System Kaels"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`System Kaels` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Das Fundament"
+whole word, case-sensitive     5
+whole word, case-insensitive   7
+including compounds            5
+
+`Das Fundament` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#5]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Episteme"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Episteme` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Kernwelt 1"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelt 1` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#2]
+
+$ python3 scripts/read.py romanarchitektur-kohaerenz-protokoll-finalisierung --count "Kernwelt 4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelt 4` ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:#1]
+
+stance_marker_count: Schlussstein 1 + definitive 4 + wasserdichten Rahmen 1 = 6
+profile: backslash escapes 41, glued ref numbers 41 (01-profile.txt)
+table: Kael (Host), Nyx, Kiko, Selene, Alter 5-8 = 8 alters (L201-L208)

@@ -1,0 +1,243 @@
+{
+  "document": "roman-konzept-kael-aegis-simulation",
+  "drive_id": "18aLT5RDb-ifl9W8znqd4pj8Jbe0Q75bdO3lj_p3MMwg",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-197/brief.md; no chapter page — the document names parts, no chapters",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 52,
+    "decisions": 61,
+    "decided_by_lookup": 32,
+    "needs_judgement": 29
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German concept paper on a novel in three parts: its new surfaces are its plot elements (the Fundament, the Simulanten, the Netz), clinical terms (DIS, ASDS, OSDD) and borrowed concepts (the simulation hypothesis, Bostrom's trilemma, ancestor simulations, maximum entropy); what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        29,
+        119,
+        175,
+        197
+      ],
+      "attribution": "",
+      "note": "AEGIS as an entropy manager with a systemic logic, and a set of open questions about its nature and fate"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        21,
+        34,
+        66,
+        169
+      ],
+      "attribution": "",
+      "note": "the Alters as survival strategy, with goals of their own and an open question of integration"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        22,
+        29,
+        121,
+        197
+      ],
+      "attribution": "",
+      "note": "entropy as information-theoretic uncertainty, managed by AEGIS and a source of its central paradox"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        64,
+        125,
+        185
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as a place Kael tries to reach"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        22,
+        106,
+        119
+      ],
+      "attribution": "",
+      "note": "the Guardians as AEGIS's enforcers, to be shown in more detail later"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        64,
+        125,
+        185,
+        261
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external entity whose nature is asked, not answered"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        21,
+        34,
+        36,
+        115,
+        260,
+        263,
+        264
+      ],
+      "attribution": "",
+      "note": "Kael as fragmented survivor whose integration may be the key to the system"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        49,
+        65,
+        102
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as inner landscapes coded by theme, hiding secrets about trauma and the simulation"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        21,
+        54,
+        55,
+        66
+      ],
+      "attribution": "",
+      "note": "Kiko as the frightened, freezing Alter"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        55,
+        66,
+        106
+      ],
+      "attribution": "",
+      "note": "Lex as the logic Alter who maps AEGIS"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        36,
+        169,
+        260
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the aim, and as the healthier alternative to fusion"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        48,
+        55,
+        66
+      ],
+      "attribution": "",
+      "note": "Nyx as protective rage, a possible trigger of the inciting incident"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        128,
+        185,
+        261
+      ],
+      "attribution": "",
+      "note": "the Fundament as a deeper level of reality, posed as a question"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        50,
+        106,
+        108,
+        115,
+        121
+      ],
+      "attribution": "",
+      "note": "the Risse as glitches that first signal an external force, then a tool, and an effect of AEGIS's over-control"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        15,
+        100,
+        102,
+        108
+      ],
+      "attribution": "",
+      "note": "the AEGIS-Überwelt as the Netz, explored in part 2 within a probably simulated reality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (Autonomous Entropic Gatekeeper for Integrity Systems / AEGIS), J34 (Juna/V, read on juna), J12 and J48 (compounds with their page's sense: Kael-Host and Kiko-Alter, read on kael and kiko, AEGIS-Überwelt, read on ueberwelt, Entropie-Management, read on entropie); Depersonalisation is a clinical symptom, not the Personas",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 305,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 36,
+      "decision": "occurrence",
+      "why": "the general word in the integration sentence"
+    },
+    {
+      "page": "oblivion",
+      "surface": "Oblivion",
+      "line": 264,
+      "decision": "occurrence",
+      "why": "extinction in the fifth ending, not the alter"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 128,
+      "decision": "reading",
+      "why": "the Fundament as a deeper level of reality, read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "the Fundament — on realitaetsebenen",
+    "the Simulanten and the Netz — on juna and ueberwelt",
+    "DIS, ASDS, OSDD — clinical terms",
+    "the simulation hypothesis and Bostrom's trilemma"
+  ],
+  "internal_tension": "16 `[User Query]` markers stand after sentences, export residue the document does not explain",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

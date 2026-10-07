@@ -1,0 +1,14 @@
+# aegis-logik-und-erzaehlstruktur
+  lines                384  (frontmatter ends at 9)
+  body words           6101
+  headings             22   bold-only lines 1
+  table rows           8   code fences 0
+  question marks       6
+  backslash escapes    31
+  typographic marks    232   ascii quotes 2
+  invisible characters U+200Bx1
+  math symbol lines    4
+  glued ref numbers    62
+  repeated labels      none
+  longest line         992 chars
+

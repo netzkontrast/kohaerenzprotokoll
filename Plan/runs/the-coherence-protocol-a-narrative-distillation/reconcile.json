@@ -1,0 +1,85 @@
+{
+  "document": "the-coherence-protocol-a-narrative-distillation",
+  "drive_id": "1ZlR-j_jM4syo_rpEsqsJ7Le_oa8pErVVhyO8MW5fUNo",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; light pass — no readings, as an extract of document 84; rlm_ingest not run",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 116,
+    "decisions": 117,
+    "decided_by_lookup": 97,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: three English texts in one file — a narrative distillation, a canonical blueprint and a three-act blueprint — whose every body line stands word for word in document 84, ai-assisted-narrative-coherence (1835 lines), which carries them as parts; document 84's readings on these pages hold the same, and its 80 new surfaces were decided there.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the project's name), J34 (Juna/V), J49 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis — world names), J12 and J16 (compounds and qualified labels with their own sense: System Kael, Kael (Host), Kael-Paradoxon, Guardian Mnemosyne, Guardian Cerberus, Negentropie-Fehlinterpretation, Shared Qualia, the living Gödel sentence, the TSDP's full name), as document 84 decided them; logical explosion and ontological exploit are not Alex",
+  "sweep": [
+    {
+      "page": "cerberus",
+      "surface": "Cerberus",
+      "line": 300,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence, whose reading on this page holds the same"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 273,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence, whose reading on this page holds the same"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 121,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence, whose reading on this page holds the same"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 29,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence, whose reading on this page holds the same"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 299,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 84, ai-assisted-narrative-coherence, whose reading on this page holds the same"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 75,
+      "decision": "occurrence",
+      "why": "the project's name in the blueprint's opening"
+    }
+  ],
+  "not_promoted": [
+    "everything document 84 did not promote — Dr. Aris Thorne, the blueprint's directives, the multiple epilogues and footnotes"
+  ],
+  "internal_tension": "none beyond document 84's; the three texts spell Logos-Prime and the Gödel sentence differently and place the Juna link differently (L273, L295–L300), as document 84 does",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

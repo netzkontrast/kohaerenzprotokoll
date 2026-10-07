@@ -1,0 +1,261 @@
+{
+  "document": "aegis-logik-und-erzaehlstruktur",
+  "drive_id": "1SVSfKb3B_sBm0vbxFg1kkSzeNC3bZqIiCWs1VxaPg5Y",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 1
+  },
+  "glued_ref_numbers": 62,
+  "backslash_escapes": 31,
+  "typographic_marks": 232,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemabweichung",
+      "Systemberichte",
+      "Systemen",
+      "Systemfehler",
+      "Systemische",
+      "Systemrauschen",
+      "Systems",
+      "Systemzusammenbruch"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktlösung",
+      "Konfliktnetzwerk",
+      "Konfliktnetzwerks",
+      "Konflikts"
+    ],
+    "axiom": [
+      "AXIOM",
+      "AXIOMS",
+      "Axiome",
+      "Axiomen",
+      "Axiommodifikation",
+      "Axiommodifikationen"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterbogen",
+      "Charaktere",
+      "Charakteren",
+      "Charakterisierung"
+    ],
+    "insta": [
+      "Instabilität",
+      "Instantiation",
+      "Instantiierung",
+      "Instantiierungen",
+      "Instanz"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxa",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstakzeptanz",
+      "Selbstaufopferung",
+      "Selbstkorrektur",
+      "Selbstzerfall"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "archi": [
+      "Architekten",
+      "Architektonische",
+      "Architektur",
+      "Architekturen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpunkt",
+      "Datenverarbeitung",
+      "Datenvisualisierung"
+    ],
+    "diale": [
+      "Dialetheia",
+      "Dialetheisches",
+      "Dialetheism",
+      "Dialetheismus"
+    ],
+    "expla": [
+      "Explain",
+      "Explained",
+      "Explanation",
+      "Explanations"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerbericht",
+      "Fehlerberichte",
+      "Fehlern"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitätsstruktur",
+      "Identitätsstörung"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzepts"
+    ],
+    "mecha": [
+      "Mechanik",
+      "Mechaniken",
+      "Mechanismen",
+      "Mechanismus"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphysical",
+      "Metaphysics",
+      "Metaphysik"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellierung"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichtigkeit",
+      "Nichtlokalität",
+      "Nichts"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessen",
+      "Prozessprotokolle"
+    ],
+    "wider": [
+      "Widerlegung",
+      "Widerspruch",
+      "Widerspruchs",
+      "Widersprüche"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentin"
+    ],
+    "anoma": [
+      "ANOMALY",
+      "Anomalie",
+      "Anomalien"
+    ],
+    "arche": [
+      "Archetyp",
+      "Archetype",
+      "Archetypes"
+    ],
+    "contr": [
+      "CONTRADICTS",
+      "Control",
+      "ControlProblem"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Antichamber"
+    ],
+    [
+      "Anti",
+      "Instantiation"
+    ],
+    [
+      "Anti",
+      "Instantiierung"
+    ],
+    [
+      "Anti",
+      "Instantiierungen"
+    ],
+    [
+      "Dame",
+      "Fundament"
+    ],
+    [
+      "Dame",
+      "Fundaments"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ding",
+      "Dinge"
+    ],
+    [
+      "Ding",
+      "Dingen"
+    ],
+    [
+      "Ding",
+      "Building"
+    ],
+    [
+      "Ding",
+      "Grounding"
+    ],
+    [
+      "Ding",
+      "Schrödingers"
+    ],
+    [
+      "Ding",
+      "Understanding"
+    ],
+    [
+      "Ding",
+      "Misunderstanding"
+    ],
+    [
+      "Ding",
+      "Rahmenbedingungen"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Meilensteinen"
+    ],
+    [
+      "Ende",
+      "Transzendente"
+    ]
+  ]
+}

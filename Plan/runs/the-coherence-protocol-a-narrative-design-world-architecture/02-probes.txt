@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      3
+  backslash escapes      17
+  typographic marks      21
+  ascii quotes           152
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architect, Architecture, Architectures, Archive
+  coher    Coherence, Coheron, Coherons
+  contr    Contradictione, Contradictions, Controls
+  integ    Integration, Integrator, Integrity
+  mecha    Mechanic, Mechanics, Mechanism
+  poten    Potential, Potentialis, Potentiality
+  psych    Psycho, Psychological, Psychology
+  class    Classical, Classification
+  corre    Corrective, Correspondence
+  creat    Creation, Creative
+  diale    Dialetheic, Dialetheism
+  direc    Directive, Directives
+  disso    Dissociation, Dissociative
+  emerg    Emergence, Emergent
+  entit    Entities, Entity
+  entro    Entropic, Entropy
+  exter    External, Externalized
+  fight    Fight, Fighter
+  flash    Flashback, Flashbacks
+  fluid    Fluid, Fluidity
+  focus    Focus, Focuses
+  fragm    Fragmentation, Fragmented
+  funct    Function, Functional
+  garde    Garden, Gardener
+  intro    Introduction, Introject
+
+# substring pairs -- never one term, often merged by accident
+  Aris < Militaristic
+  Real < Realism
+  Real < Reality
+  Rift < Rifts
+  Riss < Risse
+  Used < Caused
+  Void < Avoidance
+  Fight < Fighter
+  Fluid < Fluidity
+  Focus < Focuses
+  LogOS < Logos
+  Logic < Logics
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Methodological
+  Story < Storytelling
+  World < Worlds
+  Garden < Gardener
+  Keeper < Gatekeeper
+  Normal < Normalcy

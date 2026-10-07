@@ -1,0 +1,312 @@
+{
+  "document": "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
+  "drive_id": "1Z_kiKgtEPtgM0bfy_CJldO2FmoeEiS20lQa-60L-7zo",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-182/brief.md; no chapter page — the document names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 108,
+    "decisions": 112,
+    "decided_by_lookup": 93,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German research report that reads Dramatica, the Dual Kernel Theory and the hard problem of consciousness together: its 77 new surfaces are the DKT's vocabulary (Erasure-Kernel, Witness-Funktion, K0 and K1), Dramatica's (Story Mind, quad, throughlines), its own analytic labels (Exkludierende and Emergente Ordnung, ontologische Blindheit, Ouroboros-Shift, Gnosis and Episteme) and borrowed theories; what it says of the novel's world went on existing pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        211
+      ],
+      "attribution": "",
+      "note": "the Zero-Trust architecture around the silence"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        106,
+        119,
+        121,
+        138,
+        162,
+        164,
+        209,
+        225,
+        269
+      ],
+      "attribution": "",
+      "note": "AEGIS as closed system, read through Dramatica and the Dual Kernel Theory"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        112
+      ],
+      "attribution": "",
+      "note": "an ANP acting as a shield"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        164,
+        269
+      ],
+      "attribution": "",
+      "note": "the state AEGIS is left in"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "the theory as the lens of the report"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        49,
+        121
+      ],
+      "attribution": "",
+      "note": "entropy in the Dual Kernel Theory and in AEGIS' misreading"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        205,
+        209
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise and the birth of AEGIS"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        154,
+        158,
+        201
+      ],
+      "attribution": "",
+      "note": "the climactic turn and Kael as Gödel sentence"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        112
+      ],
+      "attribution": "",
+      "note": "`Isabella` as the ANP who processes data"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        125,
+        127,
+        201,
+        227
+      ],
+      "attribution": "",
+      "note": "Juna as narrative and ontological engine, holistic logic"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        106,
+        110,
+        112,
+        113,
+        115,
+        137,
+        158,
+        215,
+        269
+      ],
+      "attribution": "",
+      "note": "Kael as emergent order, a system with TSDP, a living Gödel sentence"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "the wounded child guarding the core pain"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        39,
+        43,
+        61
+      ],
+      "attribution": "",
+      "note": "the reversible domain of the Dual Kernel Theory"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        170,
+        172,
+        264
+      ],
+      "attribution": "",
+      "note": "Landauer heat as the signature of decision"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        112
+      ],
+      "attribution": "",
+      "note": "an ANP who stabilises by control"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "the Emotional Part of flight"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        127,
+        139,
+        197,
+        199,
+        201,
+        267
+      ],
+      "attribution": "",
+      "note": "the link as ontological exploit, invisible to AEGIS"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        108,
+        115,
+        158
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's goal and what AEGIS cannot grasp"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "an Emotional Part of anger and fight reflex"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        217
+      ],
+      "attribution": "",
+      "note": "a catatonic part holding the worst memories in enforced silence"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        199,
+        269
+      ],
+      "attribution": "",
+      "note": "Kael as gardener of the Potentialmeer"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        181,
+        183,
+        185
+      ],
+      "attribution": "",
+      "note": "Risse as holographic pixelation errors"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "Kael as a complex adaptive system with TSDP"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J24 and J45 (Systemrisse / Risse, read on risse), J34 (a slashed or joined name: Juna/V and Juna-Vektor, read on juna), J9 and J57 (the Protokoll's name; Kohärenz statt Wahrheit and Kohärenz durch Negation, AEGIS's principles, read on aegis; the Paradoxon der fehlausgerichteten Kohärenz, read on risse; the Kohärenz-Prime Storyform's name), J51 (Rauschen: here AEGIS's word for subjective experience, an occurrence), J11 (Zero-Trust-Architektur, read on aegis-teilfunktionen), J121 (Isabella, read on isabelle), J12 and J48 (compounds and inflections with their page's sense: Dual-Kernel-Theorie, read on dkt, funktionalen Multiplizität, read on multiplizitaet, Genesis-Krise, read on genesis, Potentialmeeres, read on potentialmeer); Kontrolle is the storyform's Problem, not the SNK",
+  "sweep": [
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 13,
+      "decision": "reading",
+      "why": "the DKT as the report's frame, read on dkt"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 150,
+      "decision": "occurrence",
+      "why": "the general word in the storyform's Solution"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 49,
+      "decision": "reading",
+      "why": "the Erasure-Kernel as the computational equivalent of entropy, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the report's title and the project's name"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 138,
+      "decision": "occurrence",
+      "why": "AEGIS as the status quo of the simulation, a storyform cell, nothing of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "the Erasure-Kernel and the Witness-Funktion — on dkt and kohaerenz-kernel",
+    "Dramatica's vocabulary and the Kohärenz-Prime mapping — the author's storyforms are in Plan/storyform/ (decision 025)",
+    "the Exkludierende and Emergente Ordnung, ontologische Blindheit, Gnosis and Episteme — on aegis, kael and juna",
+    "the Telefonat vor 20 Jahren — on genesis",
+    "Das Fundament and the Monstergruppe, the Moonshine-Vektor — on moonshine-link",
+    "the borrowed theories (IFS, GWT, Orch-OR, the holographic principle, Monstrous Moonshine, the Landauer principle)"
+  ],
+  "internal_tension": "the conclusion's „Moonshine-Vektor“ (L267) where the section has the Moonshine-Link (L197–L201), unequated; `Landauer-Wärme` (L170) and `Landauer-Hitze` (L264)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

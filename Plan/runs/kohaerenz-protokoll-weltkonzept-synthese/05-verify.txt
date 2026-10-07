@@ -1,0 +1,52 @@
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "wahrscheinlich"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            20
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "möglicherweise"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "scheint"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "Plot-Blueprint"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "Sein durch Abgrenzung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "Sein durch Integration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "Julia"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "Kael-Juna-Verbindung"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "Kael-Juna-Bindung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ python3 scripts/read.py kohaerenz-protokoll-weltkonzept-synthese --count "Juna/Julia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ grep -c "?" (question marks per line)
+      1 27
+      5 40
+      1 62
+      1 117
+      2 118
+      1 153
+stance_marker_count 25 = 19 + 4 + 2 (wahrscheinlich, möglicherweise, scheint)

@@ -1,0 +1,678 @@
+{
+  "document": "arbeitshilfe-kapitel-2-kohaerenz-protokoll",
+  "drive_id": "1sZtSL-DqGXoCDS3hXxsnAvktVsck7b7hUrJcCoeAksI",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 19,
+      "n_including_compounds": 48,
+      "lines": [
+        31,
+        40,
+        41,
+        43,
+        56,
+        60,
+        78,
+        80,
+        84,
+        86,
+        88,
+        96,
+        116,
+        120,
+        121,
+        122,
+        123,
+        133,
+        139,
+        147,
+        174,
+        180,
+        184,
+        188,
+        204,
+        209,
+        215,
+        221,
+        223,
+        229,
+        250,
+        258,
+        260,
+        269,
+        275,
+        276,
+        277,
+        278,
+        280,
+        284
+      ]
+    },
+    "Juna": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        121,
+        284
+      ]
+    },
+    "Julia": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        108
+      ]
+    },
+    "Limina": {
+      "n": 6,
+      "n_including_compounds": 19,
+      "lines": [
+        42,
+        68,
+        70,
+        105,
+        143,
+        184,
+        194,
+        223,
+        225,
+        235,
+        259,
+        261,
+        279,
+        294,
+        295,
+        300,
+        302,
+        305
+      ]
+    },
+    "Nox": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        42,
+        106,
+        114,
+        153,
+        182,
+        260
+      ]
+    },
+    "Praetor": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        42,
+        107,
+        114,
+        153,
+        182,
+        194,
+        235,
+        260
+      ]
+    },
+    "Echo": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        69,
+        108,
+        114,
+        194,
+        223,
+        235,
+        261
+      ]
+    },
+    "Silas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        108,
+        114,
+        235
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "AEGIS": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        80,
+        120,
+        204,
+        284
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        120
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "KW1": {
+      "n": 15,
+      "n_including_compounds": 16,
+      "lines": [
+        21,
+        29,
+        40,
+        68,
+        79,
+        84,
+        88,
+        116,
+        133,
+        163,
+        168,
+        182,
+        184,
+        259,
+        269
+      ]
+    },
+    "KW2": {
+      "n": 18,
+      "n_including_compounds": 19,
+      "lines": [
+        11,
+        21,
+        30,
+        62,
+        64,
+        79,
+        80,
+        184,
+        215,
+        221,
+        222,
+        225,
+        244,
+        245,
+        246,
+        261
+      ]
+    },
+    "Kern-Welt": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        43,
+        116,
+        215,
+        269,
+        284
+      ]
+    },
+    "Kern-Welten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        116,
+        284
+      ]
+    },
+    "Übergangsraum": {
+      "n": 5,
+      "n_including_compounds": 10,
+      "lines": [
+        30,
+        84,
+        116,
+        122,
+        174,
+        209,
+        222,
+        244,
+        260
+      ]
+    },
+    "Potentialmeers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Systementropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Datenstaub": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Finde die Naht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        182
+      ]
+    },
+    "Spiegelbruch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Kael-Julia-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "K-J-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        284
+      ]
+    },
+    "Alters": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        42,
+        95,
+        101,
+        109,
+        110,
+        269,
+        284
+      ]
+    },
+    "Alter": {
+      "n": 9,
+      "n_including_compounds": 20,
+      "lines": [
+        42,
+        95,
+        97,
+        101,
+        109,
+        110,
+        153,
+        182,
+        194,
+        223,
+        235,
+        259,
+        260,
+        261,
+        269,
+        280,
+        284
+      ]
+    },
+    "Plot-Blueprint": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        19,
+        21,
+        101,
+        121,
+        127,
+        258,
+        263,
+        269
+      ]
+    },
+    "Plot-Blueprint Steps": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        21,
+        263
+      ]
+    },
+    "Lokalitäten-Konzepten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Kernaufgabe": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        133,
+        174,
+        215,
+        258
+      ]
+    },
+    "Kerninformation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        168,
+        209,
+        250,
+        258
+      ]
+    },
+    "Zu vermittelnde Kerninformation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        168,
+        209,
+        250
+      ]
+    },
+    "Narrativer Fokus / Techniken": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        134,
+        175,
+        216
+      ]
+    },
+    "Psychologischer Zustand (Kael)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        147,
+        188,
+        229,
+        258
+      ]
+    },
+    "Atmosphäre / Setting": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        158,
+        199,
+        240,
+        258
+      ]
+    },
+    "Vertiefende Betrachtung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        84,
+        116,
+        123
+      ]
+    },
+    "Pacing": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        56,
+        138,
+        179,
+        220,
+        259,
+        260,
+        261
+      ]
+    },
+    "Sensorischer Fokus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        140,
+        181,
+        222
+      ]
+    },
+    "Internal Monologue": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        141,
+        182,
+        223,
+        309
+      ]
+    },
+    "Metaphor/Simile": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        142,
+        183,
+        224
+      ]
+    },
+    "Liminality Techniques": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        143,
+        184,
+        225
+      ]
+    },
+    "Dominant Emotion(s)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        151,
+        192,
+        233
+      ]
+    },
+    "Cognitive State": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        152,
+        193,
+        234
+      ]
+    },
+    "Alter Influence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        153,
+        194,
+        235
+      ]
+    },
+    "Somatic Experience": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        154,
+        195,
+        236
+      ]
+    },
+    "Mood": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        162,
+        203,
+        244,
+        259,
+        260,
+        261
+      ]
+    },
+    "Sensory Palette": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        164,
+        205,
+        246
+      ]
+    },
+    "Liminale Motive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Alter-Dynamik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Liminalität": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        279
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        78,
+        163,
+        204,
+        245,
+        269,
+        278,
+        288,
+        306,
+        308
+      ]
+    },
+    "EST": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        78,
+        163,
+        204,
+        245,
+        259,
+        260,
+        261,
+        278
+      ]
+    },
+    "Depersonalisation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        40,
+        94,
+        193,
+        276
+      ]
+    },
+    "Derealisation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        94,
+        152,
+        193,
+        260
+      ]
+    },
+    "Dissoziativen Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "DID": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        89,
+        115,
+        280
+      ]
+    },
+    "Security Blanket": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Betwixt and Between": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Inciting Incident": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Liminalitäts-Konzepten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        279
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      41
+  backslash escapes      41
+  typographic marks      152
+  ascii quotes           8
+
+# inflection families -- one term, several surfaces
+  parad    Paradigma, Paradigmen, Paradox, Paradoxien, Paradoxon, Paradoxons
+  gegen    Gegensatz, Gegensätze, Gegensätzen, Gegenteils, Gegenüberstellung
+  syste    System, Systemdaten, Systemfehler, Systems, Systemverantwortung
+  analy    Analyse, Analytics, Analytiker, Analytischer
+  antei    Anteil, Anteile, Anteilen, Anteils
+  attra    Attractors, Attraktor, Attraktoren, Attraktors
+  manif    Manifest, Manifestation, Manifestationen, Manifestiert
+  seins    Seins, Seinsweise, Seinszustand, Seinszustände
+  selbs    Selbst, Selbsterhaltung, Selbsterhaltungstrieb, Selbstzerstörung
+  wider    Widerlegung, Widerspruch, Widersprüche, Widersprüchen
+  daten    Daten, Datenkorruption, Datenströme
+  diese    Diese, Dieser, Dieses
+  entsc    Entscheidung, Entscheidungen, Entschlossenheit
+  explo    Exploit, Exploring, Explosion
+  fragm    Fragmente, Fragmentierte, Fragmentierung
+  gedan    Gedanken, Gedankenpalast, Gedankenstränge
+  gefän    Gefängnis, Gefängnisse, Gefängnissen
+  handl    Handlung, Handlungen, Handlungsstruktur
+  ident    Identity, Identität, Identitäten
+  infor    Information, Informationsquelle, Informationstheorie
+  integ    Integration, Integrations, Integrierte
+  konfl    Konflikt, Konflikte, Konflikts
+  kontr    Kontrolle, Kontrollversuch, Kontrollversuche
+  konze    Konzept, Konzepte, Konzeptuelles
+  logik    Logik, Logiker, Logikerin
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Anscheinend
+  Eine < Meilensteine
+  Ende < Renderung
+  Ende < Wissenden
+  Ende < Fluktuierende
+  Ende < Transzendenten
+  Fall < Zufall
+  Five < Fiveable
+  Form < Formal
+  Form < Information
+  Form < Formulierung
+  Form < Transformation
+  Form < Informationsquelle
+  Form < Informationstheorie
+  Gott < Gottes
+  Gott < Gottesvorstellung

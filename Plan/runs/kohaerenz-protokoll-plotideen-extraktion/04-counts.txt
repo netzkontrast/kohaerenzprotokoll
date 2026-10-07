@@ -1,0 +1,150 @@
+# counts for 118 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               10 word    13 in   [11, 15, 40, 161, 205, 221]
+  Potentialmeer                    34 word    45 in   [15, 17, 19, 21, 23, 24]
+                                   11      as Potentialmeers
+  Kohärenz-Inseln                   2 word     2 in   [19, 28]
+  AEGIS                           229 word   236 in   [15, 24, 30, 32, 41, 42]
+                                    2      as AEGIS-Systems
+                                    2      as AEGIS-Analyse
+                                    1      as AEGIS-induzierte
+                                    1      as AEGIS-Instanz
+  Überwelt                         16 word    17 in   [73, 79, 81, 83, 89, 91]
+                                    1      as Überwelt-Hardware
+  Kernwelten                       39 word    39 in   [43, 55, 61, 71, 73, 83]
+  Kernwelt                          4 word    43 in   [43, 55, 61, 71, 73, 83]  <-- substring
+                                   39      as Kernwelten
+  Konstrukt-Stadt                   2 word     2 in   [241, 265]
+  Resonanz-Nebel                    3 word     3 in   [241, 266, 487]
+  Schattenlabyrinth                 2 word     2 in   [241, 267]
+  Möglichkeitsstrom                 2 word     2 in   [241, 268]
+  Guardians                        20 word    20 in   [255, 257, 261, 263, 269, 400]
+  LogOS                             3 word     3 in   [257, 265, 498]
+  Mnemosyne                         4 word     4 in   [257, 266, 487, 498]
+  Cerberus                          3 word     3 in   [257, 267, 498]
+  Kairos                            3 word     3 in   [257, 268, 498]
+  Sophia                            3 word     3 in   [257, 269, 498]
+  Nexus                             2 word     2 in   [269, 474]
+  Kael                             49 word   111 in   [19, 28, 41, 59, 61, 72]  <-- substring
+                                   53      as Kaels
+                                    6      as Kael-Julia-Verbindung
+                                    2      as Kael-Julia
+                                    1      as Kael-Julia-Einheit
+  Julia                             9 word    19 in   [19, 28, 41, 59, 75, 79]  <-- substring
+                                    1      as Julia-Signatur
+  Kael-Julia-Verbindung             6 word     6 in   [59, 75, 79, 153, 171, 259]
+  K-J-Verbindung                   58 word    58 in   [90, 103, 111, 127, 135, 151]
+  K-J-Signatur                      3 word     3 in   [400, 442, 454]
+  Julia-Signatur                    1 word     1 in   [431]
+  K-J-Einheit                       8 word     8 in   [188, 298, 304, 314, 322, 331]
+  M-Avatar                          1 word     2 in   [221, 278]
+                                    1      as M-Avatar-Natur
+  M-Substrat                        1 word     1 in   [197]
+  Risse                            16 word    17 in   [32, 90, 119, 164, 211, 248]
+                                    1      as Rissen
+  Der Architekt                     2 word     2 in   [233, 279]
+  Das Echo                          2 word     2 in   [233, 280]
+  Der Wächter                       2 word     2 in   [233, 279]
+  Der Sucher                        1 word     1 in   [233]
+  Der Funke                         2 word     2 in   [233, 281]
+  Limina                            2 word     2 in   [233, 281]
+  Nox                               2 word     2 in   [233, 280]
+  Praetor                           2 word     2 in   [233, 279]
+  Index                             2 word     2 in   [233, 279]
+  Silas                             2 word     2 in   [233, 280]
+  Alters                            9 word     9 in   [219, 221, 225, 233, 411, 438]
+  Kerndirektive                     2 word     2 in   [127, 331]
+  Gleichzeitigkeit                  2 word     2 in   [583, 588]
+  Sub-protokollarisch               1 word     1 in   [177]
+                                    1      as sub-protokollarischen
+                                    1      as sub-protokollarische
+  Nicht-lokal                       1 word     1 in   [178]
+                                    4      as nicht-lokale
+                                    2      as nicht-lokalen
+                                    1      as Nicht-Lokalität
+  OBP                              14 word    17 in   [30, 57, 89, 267, 291, 304]
+  Ontological Boundary Protocol     1 word     1 in   [89]
+  RIVE                             12 word    13 in   [57, 90, 151, 162, 189, 291]
+                                    1      as RIVE-Rückkopplungsschleife
+  Recursive Integrity Validation Engine    1 word     1 in   [90]
+  PMAS                             10 word    11 in   [57, 91, 189, 291, 400, 402]
+                                    1      as PMAS-Fehlprognose
+  Predictive Modeling & Adaptation Subsystem    1 word     1 in   [91]
+  SARM                              4 word     4 in   [92, 400, 402]
+  Systemic Architecture & Resource Management    1 word     1 in   [92]
+  CCPP                              5 word     6 in   [93, 426, 430, 431, 432]
+                                    1      as CCPP-Aktivierung
+  Core Command & Preservation Protocol    1 word     1 in   [93]
+  Zero Trust Verification           1 word     1 in   [57]
+  Assume Non-Intentionality         1 word     1 in   [57]
+  ZTV                               1 word     1 in   [57]
+  ANI                               1 word     1 in   [57]
+  Paradoxon-Cluster                 8 word     8 in   [296, 336, 402, 412, 422, 432]
+  Primzahl-Metapher                 2 word     2 in   [188, 334]
+  Monstergruppe                    13 word    13 in   [171, 183, 185, 188, 196, 197]
+  Monstrous Moonshine               3 word     4 in   [171, 196, 568, 599]
+  Moonshine-Modul                   2 word     2 in   [196, 197]
+  Kernkonflikt                      6 word     8 in   [75, 283, 287, 336, 352, 388]
+                                    2      as Kernkonflikts
+  Plot Idee                        25 word    25 in   [162, 163, 164, 165, 166, 167]
+  Autopoiesis                       9 word     9 in   [49, 51, 59, 422, 432, 625]
+  DID                              13 word    13 in   [143, 167, 215, 217, 219, 221]
+  Dissoziative Identitätsstörung    2 word     2 in   [215, 219]
+  Internal Family Systems           8 word     8 in   [215, 225, 442, 683, 684, 685]
+  IFS                              18 word    33 in   [166, 215, 225, 227, 231, 233]
+  Selbst-Führung                    4 word     4 in   [231, 443, 445, 464]
+  Kern-Selbst                       1 word     1 in   [235]
+  Manager                           3 word     7 in   [229, 230, 233, 279, 443, 463]  <-- substring
+                                    2      as Managern
+                                    2      as Managers
+  Exilanten                         8 word     8 in   [230, 231, 233, 279, 281, 382]
+  Feuerlöscher                      3 word     4 in   [231, 233, 280, 443]
+                                    1      as Feuerlöschern
+  Holographisches Prinzip           2 word     2 in   [200, 579]
+  Holographische Prinzip            3 word     3 in   [202, 205, 607]
+  blinde Flecken                    1 word     1 in   [255]
+  blinden Fleck                     1 word     7 in   [127, 259, 263, 269, 493]  <-- substring
+  Ontologische Unsicherheit         2 word     2 in   [386, 422]
+  Symmetriebrechung                 4 word     5 in   [342, 344, 349, 351, 356]
+                                    1      as Symmetriebrechungen
+  Philosophie des Nichts            1 word     1 in   [373]
+  Physik der Simulation             2 word     2 in   [358, 558]
+  Infosphäre                        5 word     5 in   [23, 42]
+  Dunamis                           6 word     6 in   [24, 43, 75]
+  Kreativität                       7 word     7 in   [25, 44, 235, 243, 268]
+  Śūnyatā                           7 word     7 in   [26, 45, 622, 623]
+  Ontischer Struktureller Realismus    1 word     1 in   [70]
+  OSR                               3 word     4 in   [70, 75, 633]
+  Prozessphilosophie                6 word     6 in   [25, 44, 71, 75, 268]
+  Simulationshypothese              1 word     1 in   [73]
+  Radikaler Konstruktivismus        1 word     1 in   [72]
+  Konstruktivismus                  5 word     5 in   [72, 139, 474, 475]
+  Digitale Physik                   5 word     5 in   [69, 75, 365, 578, 579]
+  It from Bit                       1 word     1 in   [69]
+  Gödelsche Unvollständigkeitssätze    2 word     2 in   [99, 519]
+  Ashbys Gesetz                     6 word     6 in   [107, 163, 267, 331, 527, 529]
+  Law of Requisite Variety          1 word     1 in   [107]
+  Landauers Prinzip                 4 word     4 in   [32, 115, 164, 539]
+  Landauer-Prinzip                  6 word     6 in   [92, 252, 322, 401, 402, 537]
+  KI-Alignment-Problem              3 word     3 in   [123, 153, 165]
+  Specification Gaming              2 word     2 in   [123, 127]
+  Goal Misgeneralization            5 word     5 in   [123, 127, 412, 547, 549]
+  Modellblindheit                   4 word     4 in   [123, 259, 410, 412]
+  Chinesisches Zimmer               9 word     9 in   [153, 166, 266, 318, 322, 410]
+  Kybernetik zweiter Ordnung        2 word     2 in   [139, 153]
+  Parakonsistente Logik             1 word     1 in   [147]
+  Sorites-Paradoxon                 1 word     1 in   [310]
+  Maxwells Dämon                    1 word     1 in   [322]
+  Double Bind                       2 word     2 in   [327, 331]
+  Hard Problem of Consciousness     2 word     2 in   [269, 322]
+  Instrumentelle Konvergenz         2 word     2 in   [431, 432]
+  Vertexoperatoralgebren            2 word     2 in   [171, 195]
+  Konformen Feldtheorien            1 word     1 in   [171]
+  Bekenstein-Grenze                 2 word     2 in   [204, 211]
+  Environmental Storytelling        1 word     1 in   [246]
+  Sein-für-sich                     2 word     2 in   [375, 382]
+  Sein-an-sich                      1 word     1 in   [375]
+  Happy Family                      1 word     1 in   [187]

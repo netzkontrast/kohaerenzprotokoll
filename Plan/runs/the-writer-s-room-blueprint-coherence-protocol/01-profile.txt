@@ -1,0 +1,14 @@
+# the-writer-s-room-blueprint-coherence-protocol
+  lines                139  (frontmatter ends at 9)
+  body words           4463
+  headings             12   bold-only lines 0
+  table rows           56   code fences 0
+  question marks       0
+  backslash escapes    184
+  typographic marks    27   ascii quotes 84
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    16
+  repeated labels      none
+  longest line         1234 chars
+

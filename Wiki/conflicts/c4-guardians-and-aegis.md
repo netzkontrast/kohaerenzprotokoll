@@ -382,3 +382,107 @@ Stands with both bearers of the record in one beat sheet, the Guardians' and AEG
 AEGIS's: „AEGIS' fundamentale Schwäche liegt in seiner Unfähigkeit, nicht-lineare, nicht-quantifizierbare, emergente und hochkomplexe Phänomene adäquat zu verstehen oder zu managen“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L128] (L128). The Guardians': LogOS „Er ist unfähig, die illogische Natur von Traumata“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L160], Mnemosyne „Sie behandelt Erinnerungen rein als Datenpunkte“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L170], Cerberus „was zu Paranoia und übermäßiger Aggressivität führt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L180], Kairos „Seine Fähigkeit zur Vorhersage und Steuerung ist durch AEGIS' lineare, algorithmische Modelle begrenzt“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L190], Sophia „Sie sieht Integration als Eliminierung von Abweichung, nicht als Synthese“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L200]. The link between them is written in the AEGIS section: the Guardians „Sie operieren innerhalb der von AEGIS vorgegebenen Protokolle und teilen dessen“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138] blind spots (L138). The Guardian section adds that their acts rest on theirs, „Ihre Aktionen, die oft auf ihren spezifischen“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L209] (L209).
 
 Stands as one document with both bearers, the Guardians placed under AEGIS and sharing its blind spots; recorded, not applied, and the record's question of two scales is its own to hold.
+
+## 2026-10-06 — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report
+
+**The contradiction report lists the Guardians' nature as its fourth contradiction and recommends the `Wächter-Zwiespalt`.**
+
+It reports that two sources „primarily describe the Guardians as monolithic“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L115] enforcers, and two others introduce the `Wächter-Zwiespalt` with rebels who ally with Kael. Its verdict: „A decision must be made whether they are unthinking extensions of AEGIS“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L115] or have agency. It recommends: „It is recommended to officially incorporate the“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L128] `Wächter-Zwiespalt`.
+
+Stands as a report of other documents plus a recommendation, recorded, not applied; the record's own question stays open.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept gives Julia's link and the Externe Ebene as invisible to AEGIS and the Guardians together, naming no separate bearers of the blind spot.**
+
+On Julia: her link to Michael is „für das AEGIS-System und die Guardians unsichtbar/unverständlich“ ^[kohaerenz-protokoll-2.md:L65]. On the Externe Ebene: „Sie ist für AEGIS/Guardians unzugänglich und unverständlich.“ ^[kohaerenz-protokoll-2.md:L83] The Teil 3 sketch says „Erkenntnis: Julia/Externe Ebene ist der Schlüssel, unsichtbar für AEGIS.“ ^[kohaerenz-protokoll-2.md:L122]
+
+Stands: a row for the record's positions (AEGIS and the Guardians named together); it neither composes nor separates the two bearers.
+
+## 2026-10-06 — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief
+
+**The design brief directs that the [[moonshine-link|Moonshine-Link]] be a blind spot in AEGIS's panopticon; it names the Guardians only in its glossary and gives them no blind spot.**
+
+On the AEGIS side the brief codifies: „the Moonshine-Link is a fundamental blind spot in AEGIS's panopticon, invisible to its sensors until it is too late“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L166]. The glossary lists four Guardians, for example „Cerberus,Guardian KW3,Defense System,Zero-Trust / Paranoia.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L215], with no word on what any of them cannot perceive.
+
+Stands as a position for the first bearer, AEGIS, in the record's own terms; recorded, not applied, and nothing is decided here.
+
+## 2026-10-06 — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture
+
+**The character architecture names the Moonshine-Link as AEGIS's blind spot, and proposes it, hedged, as a place where AEGIS misreads Kael.**
+
+In a scenario of the conflict map, two personas feel the link, and „Da AEGIS diese Verbindung nicht versteht, interpretiert es sie als Fehler, Instabilität oder“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L232] a Riss. The scenario closes with the line „AEGIS' blinder Fleck“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L236]. Of AEGIS and the personas' worlds the architecture writes tentatively: „AEGIS könnte diese Spezialisierung ausnutzen, um Kael effizienter zu steuern“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142].
+
+Stands as a row on AEGIS's sight, not on the Guardians: the architecture speaks of AEGIS alone here and decides nothing of the record's conflict.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report reads the Guardians as subroutines of AEGIS that cannot see Juna.**
+
+It reports: „Die Guardians sind keine eigenständigen KI-Persönlichkeiten, sondern spezialisierte Subroutinen von AEGIS, die abgespalten wurden“ ^[kohaerenz-analyse-kapitel-2.md:L63] (L63), and that they cannot see the anomaly because „Sie operieren innerhalb geschlossener logischer Systeme, während Juna eine externe Variable darstellt.“ ^[kohaerenz-analyse-kapitel-2.md:L63] For them she is noise: „Für die Guardians ist sie Rauschen.“ ^[kohaerenz-analyse-kapitel-2.md:L191] (L191)
+
+This adds a row to the record and decides nothing in it.
+
+## 2026-10-07 — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium
+
+**The compendium gives AEGIS itself a structural blind spot, to the link, and does not name the Guardians as its bearers.**
+
+It writes: „AEGIS ist für die Verbindung strukturell blind“ ^[kohaerenz-protokoll-narrative-synthese.md:L99], because its sensors are built for local, causal, protocol-based transmission, and „Es kann nur die sekundären Effekte“ ^[kohaerenz-protokoll-narrative-synthese.md:L99] register. The line says nothing of the Guardians in this passage.
+
+Stands: one more row for the record's bearer of the blind spot (AEGIS, as the compendium has it); it does not settle whether the bearer is one structure or two.
+
+## 2026-10-07 — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint
+
+**The locked blueprint gives the blind spot to AEGIS's whole architecture and also lists blind spots per Guardian.**
+
+On the link it writes that the connection operates „on a physical principle that AEGIS is definitionally incapable of perceiving“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L139], and „AEGIS's blindness to the link is not a simple sensor failure“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L141]. Separately, „The individual failures of AEGIS's Guardians will personify the system's overarching ontological blindness“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L87], with `LogOS` and `Mnemosyne` each given a blind spot (L89, L90).
+
+Stands: one more row for the record; the Guardians' blind spots are given as personifications of AEGIS's, which the record's question of who bears it is not decided by.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The world-concept reply holds both bearers of the blind spot at once: AEGIS, and each of five Guardians, whose blind spots together mislead AEGIS.**
+
+It gives AEGIS a blind spot: AEGIS is „systemisch unfähig“ ^[welten.md:L46] to recognise the nature and meaning of the Kael-Julia connection. It describes the Guardians as „Spezialisierte Subsysteme von AEGIS“ ^[welten.md:L60], and gives each a `Blinder Fleck`, for example `LogOS`: „sieht nur Struktur, nicht Essenz“ ^[welten.md:L65]. It states how the two levels relate: „Ihre individuellen Blinden Flecken führen“ ^[welten.md:L73] AEGIS to misread the central anomaly and to respond inadequately, and it names a project document for this limitation. It is a proposal and synthesis, so this is its report, not a finding.
+
+Stands as a text that puts the AEGIS blind spot and the Guardians' blind spots in one structure; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept
+
+**The final world concept writes the Guardians as subsystems or agents of AEGIS whose blind spots are fault lines within AEGIS.**
+
+It writes: „Die Guardians sind spezialisierte Subsysteme oder Agenten von AEGIS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43], and that each inherits its Kernwelt's logic, which leads to `blinden Flecken` (L44). It then says that these blind spots „schaffen potenzielle Bruchlinien innerhalb von AEGIS selbst“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L55], with an example of Mnemosyne and LogOS reading Resonanz differently (L55). The document hedges this with `könnte` and `potenziell`.
+
+Stands with the Guardians as components of AEGIS, whose blind spots the document places inside AEGIS; recorded, not applied, and the conflict stays open.
+
+## 2026-10-07 — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint
+
+**The plot blueprint proposes that the Guardians' blind spots, which come from their specialisation, drive AEGIS's escalation; it proposes this, it does not settle it.**
+
+It writes: „Jeder Guardian nimmt nur einen Ausschnitt der Realität wahr“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L67], and the data they report are „inkonsistenten und widersprüchlichen Datenströme“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L67] that overload AEGIS's analysis units. Their blind spots, it adds, are „Limitationen, sondern potenziell auch Ausgangspunkte für eine Art systeminterner Divergenz“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L77].
+
+Stands on the side of the Guardians as failing, specialised instruments of AEGIS, as one proposal addressed to the author; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis
+
+**The concept synthesis puts the Guardians' blind spots collectively between AEGIS and the K-J connection, and lets them change loyalty.**
+
+The statement reads: „Spezialisierte AEGIS-Agenten“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24] with blind spots „die kollektiv verhindern, dass AEGIS die K-J-Verbindung korrekt interpretiert“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. It adds „Sie können Zweifel entwickeln und potenziell ihre Loyalität ändern“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. The blind spots are the Guardians' own, set under AEGIS as its agents; the line does not place a blind spot in AEGIS itself.
+
+Stands as an account of one bearer-position, the Guardians', recorded, not applied; no relation is decided here.
+
+## 2026-10-07 — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept
+
+**The part-1 plot concept treats the `Guardians` as AEGIS's units, in the earlier draft and in its own escalation chapter.**
+
+It says the earlier draft introduces the Risse „und führt zentrale Konzepte wie die“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L21] interventions of the `Guardians` (AEGIS) „nachvollziehbar ein. Die Ereignissequenz ist klar definiert.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L21] In its escalation chapter `Einheit 734` is named with others: „und andere Guardians versuchen, die Kontrolle zurückzugewinnen, identifizieren Kael als Störfaktor und nehmen die Verfolgung auf.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L481] The document says nothing of a blind spot, of a domain or of one Guardian per level.
+
+Where it stands: the `Guardians` as AEGIS's agents, a third voice beside neither bearer's blind spot; recorded, not applied.
+
+## 2026-10-07 — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint
+
+**The detailed plot blueprint treats the Wächter as AEGIS's subsystems, and locates the doubt in them, not in AEGIS's whole.**
+
+It calls them „spezialisierte Wächter-Subsysteme wie LogOS (zuständig für logische Konsistenz)“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L30], commissioned in the first phase: „Wächter wie LogOS (Logik) und Mnemosyne (Gedächtnis) werden beauftragt, Daten zu sammeln und Analysen durchzuführen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L70]. Of their limits it says that those closest to Kael's psyche „könnten anfangen, Zweifel zu entwickeln oder unerwartete Verhaltensweisen zu zeigen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L74]. The document writes of AEGIS's own limit as one of formal systems and Gödel, and does not name a blind spot for each Wächter in the lines read.
+
+Where it stands: the Wächter as AEGIS's agents with a possible deviation, a voice beside neither bearer's blind spot; recorded, not applied.

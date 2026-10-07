@@ -1,0 +1,298 @@
+{
+  "document": "roman-outline-kohaerenz-protokoll-uberarbeitung",
+  "drive_id": "12hA4-J_RYymH6KtEzTGbPx8Q_gH5b9QVZCWowHh9Eac",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 39,
+  "backslash_escapes": 117,
+  "typographic_marks": 108,
+  "ascii_quotes": 8,
+  "inflection_families": {
+    "syste": [
+      "SYSTEMIC",
+      "System",
+      "Systemdenken",
+      "Systemdenkens",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemevolution",
+      "Systemic",
+      "Systemische",
+      "Systemregeln",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmustern",
+      "Interesse",
+      "International",
+      "Interne",
+      "Internet",
+      "Intervention",
+      "Interventionen",
+      "Interventionskonzepte",
+      "Interventionstechniken"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen",
+      "Handlungsfähigkeit",
+      "Handlungsmacht",
+      "Handlungsreise",
+      "Handlungssysteme",
+      "Handlungsunfähigkeit"
+    ],
+    "simul": [
+      "Simulated",
+      "Simulation",
+      "Simulationen",
+      "Simulationserzählungen",
+      "Simulationsfähigkeit",
+      "Simulationsgeschichten",
+      "Simulationshypothese",
+      "Simulationstheorie"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterbogen",
+      "Charakterdynamik",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakterkonflikte",
+      "Charakterveränderungen"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzeptionelle",
+      "Konzeptionellen",
+      "Konzepts"
+    ],
+    "poten": [
+      "Potential",
+      "Potentiality",
+      "Potentialität",
+      "Potenzial",
+      "Potenzialität",
+      "Potenzials",
+      "Potenzielle"
+    ],
+    "strat": [
+      "STRATEGIC",
+      "Strategic",
+      "Strategie",
+      "Strategiebericht",
+      "Strategien",
+      "Strategies",
+      "Strategische"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaarbeit",
+      "Traumaheilung",
+      "Traumas",
+      "Traumata",
+      "Traumatization",
+      "Traumaverarbeitung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsarbeit",
+      "Integrationsphase",
+      "Integrationsprozess",
+      "Integrationsreise",
+      "Integrationsweg"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrolllogik",
+      "Kontrollmechanismen",
+      "Kontrollmechanismus",
+      "Kontrollversuchen"
+    ],
+    "psych": [
+      "Psych",
+      "Psychedelic",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychology"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbsterschaffung",
+      "Selbstgefühl",
+      "Selbstorganisation",
+      "Selbstzweifeln"
+    ],
+    "argum": [
+      "Argument",
+      "Argumentation",
+      "Argumente",
+      "Argumentiert",
+      "Arguments"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählerin",
+      "Erzählers",
+      "Erzähltheorie",
+      "Erzählung"
+    ],
+    "leser": [
+      "Leser",
+      "Lesererfahrung",
+      "Leserführung",
+      "Leserpsychologie",
+      "Lesers"
+    ],
+    "philo": [
+      "Philosopher",
+      "Philosophical",
+      "Philosophie",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "rahme": [
+      "Rahmen",
+      "Rahmenbedingungen",
+      "Rahmens",
+      "Rahmenwerke",
+      "Rahmenwerken"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonance",
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifizierung",
+      "Identität",
+      "Identitätsmodell"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsflusses",
+      "Informationskontrolle"
+    ],
+    "kernp": [
+      "Kernparadoxon",
+      "Kernpfeiler",
+      "Kernphobie",
+      "Kernproblem"
+    ],
+    "kernt": [
+      "Kerntechniken",
+      "Kerntheorie",
+      "Kerntrauma",
+      "Kerntraumas"
+    ],
+    "order": [
+      "ORDER",
+      "Order",
+      "Ordered",
+      "Orderings"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bias",
+      "Phobias"
+    ],
+    [
+      "Comp",
+      "Complex"
+    ],
+    [
+      "Comp",
+      "CompFobe"
+    ],
+    [
+      "Comp",
+      "COMPLEXITY"
+    ],
+    [
+      "Comp",
+      "Complexity"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Ende",
+      "Fehlendes"
+    ],
+    [
+      "Ende",
+      "Tendenzen"
+    ],
+    [
+      "Ende",
+      "Anhaltende"
+    ],
+    [
+      "Ende",
+      "Drängendes"
+    ],
+    [
+      "Ende",
+      "Wendepunkte"
+    ],
+    [
+      "Ende",
+      "Abschließende"
+    ],
+    [
+      "FROM",
+      "From"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Information"
+    ]
+  ]
+}

@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 25
-readings: 25
+sources: 28
+readings: 28
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "kohaerenz-protokoll-master-integration-md", "project-status-report-kohaerenz-protokoll-canonical-state-st", "the-coherence-protocol-a-narrative-design-world-architecture"]
 gathered: "2026-09-24"
 ---
 
@@ -21,9 +21,23 @@ its own central question:
 
 The Definitive Guide writes the English plural `Coherons` once, as the fundamental building blocks of the Coherence Kernel: „atoms of persistence“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L62], „minimal, self-correcting units of mutual information“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L62]. It writes no singular and no German form.
 
+## Reading — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief — Coherons as atoms of persistence
+
+The design brief codifies the `Coherons` in its table of the physics of information (the table is flattened onto one line). It defines them: „Minimal units of mutual information that allow a structure to hold its shape against entropy.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L39] Their narrative function is given as „They constitute the physical matter of the simulated“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L39] `Kernwelten`, and it directs: „High-Coheron environments are rigid and stable; low-Coheron environments are fluid and dreamlike.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L39]
+
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the plural `Coherons` as what represents the Kohärenz-Kernel
 
 The document writes the plural `Coherons` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#1] in the axis table's kernel row, as the representatives of the reversible kernel: „Generiert und erhält wechselseitige Information in Superposition. Repräsentiert durch Coherons“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L129].
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — Coherons as K1 units, self-correcting loops of mutual information
+
+In its section on Coherons and Erasonen the master integration defines Coherons as „fundamentale“ ^[kohaerenz-protokoll-master-integration-md.md:L52] `K₁` units: „Minimale, selbstkorrigierende Schleifen mutualer Information“ ^[kohaerenz-protokoll-master-integration-md.md:L53], and, in the next line, not particles with spatial extension (L53). Dense networks matter for space: „Dichte Coheron-Netzwerke erzeugen die emergente Metrik“ ^[kohaerenz-protokoll-master-integration-md.md:L56]. It describes `K₁` as one that „Erzeugt und erhält Struktur durch Phasensymmetrie, rekursive Selbstverschachtelung und Coheron-Netzwerke“ ^[kohaerenz-protokoll-master-integration-md.md:L33]. Time arises, it says, through the Phase Alignment Lock, „das periodische Schließen von Coheron-Phasenzyklen“ ^[kohaerenz-protokoll-master-integration-md.md:L82].
+
+For the figures it applies the term: Kael's fragments are isolated Coheron islands (L160), and in Option B Juna „hat keine eigene Coheron-Struktur“ ^[kohaerenz-protokoll-master-integration-md.md:L203]. Only one Kernwelt is said to generate new ones: „Einzige Zone, in der neue Coherons entstehen können“ ^[kohaerenz-protokoll-master-integration-md.md:L245] (KW4). A Riss destroys AEGIS's network locally (L259).
+
+## Reading — `project-status-report-kohaerenz-protokoll-canonical-state-st`, 2026-03-26, the status report — Coherons in its Protocol Ontology
+
+In its Protocol Ontology list the status report defines Coherons (L22) as the atoms of persistence: „minimal, self-correcting units of mutual information that form stable structures.“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L22] It sets them beside the K₁ Kernel (Coherence) and K₀ Kernel (Collapse), on the next lines.
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — K1 as Coherons
 

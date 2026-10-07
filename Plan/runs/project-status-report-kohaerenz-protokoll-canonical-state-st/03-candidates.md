@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is English prose with German names (Gödel-Satz, Riss, Genesis-Krise, UNKLAR). It is a status report in five numbered sections. Borrowed concepts (TSDP, IFS, Strange Attractor, Quantum Decoherence, Integrated Information) are applied to the novel's world and are listed as the document writes them.
+
+- Hard Canon
+- Kohärenz Protokoll
+- Kael
+- Tertiary Structural Dissociation of the Personality
+- TSDP
+- Apparently Normal Part
+- ANP
+- EP
+- Internal Family Systems
+- IFS
+- functional multiplicity
+- positive intent
+- Lex
+- Rhys
+- Alex
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Silas
+- Oblivion
+- AEGIS
+- Coherence Theory
+- Correspondence Theory
+- Operational Closure
+- Integrative Logic
+- Protocol Ontology
+- Coherons
+- K₁ Kernel
+- K₀ Kernel
+- Overhead
+- Corrective Wavelets
+- The Foundation
+- Strange Attractor
+- Quantum Decoherence
+- Gödel Gambit
+- living Gödel-Satz
+- algorithmic melancholy
+- Genesis-Krise
+- Genesis-Event
+- Juna/V
+- Ursprungs-Ich
+- Paraiyas
+- Alter-Sync
+- Alter Registry
+- Canonical Narrative Architecture
+- Mandate of Open Coherence
+- Riss
+- Risse
+- ANP-EP Phobia
+- Original Trauma
+- Trigger Matrix
+- Kinetic Glitch
+- Temporal/Stutter Glitch
+- Relational/Sensory Drift
+- Threshold Guardians
+- Integrated Information
+- Polyphonic Prose
+- KW1
+- Logos-Prime
+- Bruchpunkt
+- Moonshine-Link
+- Gnostic Injections
+- Gardener
+- Gatekeeper
+- living theorem
+- Paradox of Misaligned Coherence
+- narrative drift
+- invariant elements
+- correspondence check
+- Heroine’s Journey
+- Hero’s Journey
+- Cyclical Deconstruction
+- Operationalizing
+- vorahnende Passagen
+- UNKLAR

@@ -1,10 +1,10 @@
 ---
 term: Kishōtenketsu
 status: candidate
-sources: 16
-readings: 16
+sources: 22
+readings: 22
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse"]
 gathered: "2026-09-25"
 ---
 
@@ -17,6 +17,30 @@ the ending is a synthesis rather than a victory.** Where each part falls in the
 chapters is laid out per source in the plot overview
 ([plot.md](../overview/plot.md)); this page holds what the sources say the structure
 is and does.
+
+## Reading — `narrative-architektur-fuer-kohaerenz-protokoll`, 2025-07-29, the craft handbook — Kael's healing arc structured as Kishōtenketsu
+
+The craft handbook devotes a section to „Strukturierung von Kaels Heilungsbogen als Kishōtenketsu“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L445]; the term stands in the document as `Kishōtenketsu` ^[narrative-architektur-fuer-kohaerenz-protokoll.md:#5]. This is a recommendation of form, not a claim about the novel as it stands.
+
+Its Ki is „Einführung in Kaels fragmentierten Zustand unter der totalen Kontrolle von AEGIS.“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L449] The Ten brings an outside element, and the Ketsu has Kael „Er besiegt AEGIS nicht durch einen Kampf, sondern indem er einen Zustand der inneren und äußeren Kohärenz“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L452] reach. A table sets this synthesis-based structure beside the conflict-based three acts, with the Shō applied as „Kael lernt seine Anteile kennen; die Dynamik der Unterdrückung und Vermeidung wird detailliert gezeigt.“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L471]
+
+## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — the plot follows Kishōtenketsu
+
+The concept summary says the narrative is structured by the Dramatica theory and that the action itself follows the Kishōtenketsu structure („Die Handlung selbst folgt der nicht-konfliktbasierten“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L25] Kishōtenketsu-Struktur, with four stages named in the line), to perform the theme of integration on the formal level.
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — Kishōtenketsu as the recommended load-bearing frame, in the dramaturg's blueprint
+
+The dramaturg's blueprint (L115–L238) recommends it: „Die Anwendung von Kishōtenketsu wird als zentrales, tragendes Gerüst empfohlen:“ ^[narrativ.md:L197] It then gives four steps: Ki, „Kaels fragmentierter Zustand unter AEGIS' Kontrolle; unbewusster Konflikt der inneren Anteile.“ ^[narrativ.md:L199]; Shō, „Kael beginnt, seine inneren Anteile und seine Gefangenschaft zu verstehen“ ^[narrativ.md:L200]; Ten, „Die Juna/V-Verbindung oder die Entdeckung des Fragments“ ^[narrativ.md:L201] 'O' as the new, irritating element; Ketsu, „Kael harmonisiert die externe Verbindung mit seinem inneren Zustand“ ^[narrativ.md:L202], reaching a coherence that makes AEGIS's logic obsolete.
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Kishōtenketsu as Kael's plot beside AEGIS's Western dramaturgy, and a Ki/Shō/Ten/Ketsu pass in every planned chapter
+
+The outline designs Kael's strand on this structure: „Kaels Heilungsreise auf der transformativen Kishōtenketsu-Struktur“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L22] stands against AEGIS's conflict dramaturgy. It claims for the form a meaning of its own: „Die Form des Romans wird so zu einem Meta-Kommentar“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L41], a commentary on „den Zusammenprall zweier unvereinbarer Paradigmen des Seins und des Verstehens“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L41].
+
+The four phases are the four acts of the plan: „Ki (Einleitung) - Das Instabile Gleichgewicht“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L45] for Kapitel 1–9, „Shō (Entwicklung) - Die Eskalierende Paradoxie“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L119] for 10–21, „Ten (Wendung) - Katastrophales Versagen & Emergentes Selbst“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L191] for 22–31 and „Ketsu (Schluss) - Eine Neue Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L245] for 32–40. Each full chapter block also carries a `Kapitel-Kishōtenketsu` list of four lines; in the planned Kapitel 3 the Ten line reads „Juna macht eine unerwartete, authentische emotionale Geste“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L102], the turn that sets off the chapter's Ketsu.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — the structure applied to a 30-chapter outline
+
+The Kishōtenketsu plan is a chat reply that applies the structure to the novel: its concept „der japanischen Erzählstruktur des“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L11] Kishōtenketsu follows, and the reply says why it suits the story: weight falls less on direct conflict than on introduction, development, an unexpected turn and its consequence. It divides the book into four acts: „Ki (起) - Einführung (Kapitel“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L23] 1–7 with the title `Das Gitter`; Shō, development, chapters 8–16, `Das Training`; Ten, the turn, chapters 17–23, `Der Gegentakt`, of which the plan says „Dies ist der entscheidende Wendepunkt“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L25]; and Ketsu, the conclusion, chapters 24–30, `Die Synthese`. The act names and chapter numbers are the plan's proposal for a 30-chapter book and are not promoted.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the architecture analysis) — a non-Western structure for Kael's integration
 
@@ -37,6 +61,10 @@ The master blueprint names the principle in the coda: „Das Kishōtenketsu-Prin
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the end rests on Kishotenketsu, with Ten to Ketsu as the climax
 
 The Leitfragen report says of the ending (Chapter 39 to 40/0) that it rests „explizit auf dem ostasiatischen“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153] model, and defines the climax as the passage from `Ten`, the sudden turn in which Kael's integration forces AEGIS into self-contradiction, to `Ketsu`, „der zirkulären Rekursion, in der das Ende zum Neuanfang wird“ ^[roman-entwicklung-kohaerenz-und-leitfragen.md:L153]. This is its account of the plot documents. It notes that the structure traditionally departs from causal conflict, and asks how a cathartic experience results for the reader.
+
+## Reading — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis — Kishōtenketsu as the structure of the passage through the worlds
+
+The Dramatica loop analysis says the progression is not structured by the Aristotelian three acts but by „Kishōtenketsu-Paradigma, welches vier Phasen umfasst“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L63]: Ki, Shō, Ten, Ketsu, which it matches to Dramatica concerns for the first thirteen chapters. In its alternative storyform on Stop it says the model „würde in dieser Form im“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L149] Ten stage the demolition of the protective walls instead of the collapse of the formulas. A proposal, recorded and not applied.
 
 ## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28
 

@@ -1,0 +1,509 @@
+{
+  "document": "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
+  "step": "reconcile-pre",
+  "at": "2026-10-07",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-07",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 74,
+  "decisions": 76,
+  "same_surface": {},
+  "decided_mechanically": 56,
+  "needs_judgement": 20,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 165
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 151
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 162
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 108
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 89
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 95
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 100
+      },
+      {
+        "candidate": "Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 108
+      },
+      {
+        "candidate": "Gödel-Gambit",
+        "page": "goedel-gambit",
+        "readings": 63
+      },
+      {
+        "candidate": "Möglichkeits-Garten",
+        "page": "moeglichkeits-garten",
+        "readings": 53
+      },
+      {
+        "candidate": "Kishōtenketsu",
+        "page": "kishotenketsu",
+        "readings": 19
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 77
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 48
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "W1"
+      },
+      {
+        "candidate": "W2"
+      },
+      {
+        "candidate": "W3"
+      },
+      {
+        "candidate": "W4"
+      },
+      {
+        "candidate": "Die Leichte"
+      },
+      {
+        "candidate": "Die Wachsame"
+      },
+      {
+        "candidate": "Vergessers"
+      },
+      {
+        "candidate": "Drall"
+      },
+      {
+        "candidate": "Das Gitter"
+      },
+      {
+        "candidate": "Das Körper-Ja"
+      },
+      {
+        "candidate": "Sinnbild"
+      },
+      {
+        "candidate": "Gödel-Satz"
+      },
+      {
+        "candidate": "Gärtner"
+      },
+      {
+        "candidate": "Gewicht Rausnehmen"
+      },
+      {
+        "candidate": "Konvergenzpunkt"
+      },
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "Zeitsprung"
+      },
+      {
+        "candidate": "weichen Grenze"
+      },
+      {
+        "candidate": "gnostische Injektion"
+      },
+      {
+        "candidate": "Specification Gaming"
+      },
+      {
+        "candidate": "Ki"
+      },
+      {
+        "candidate": "Shō"
+      },
+      {
+        "candidate": "Ten"
+      },
+      {
+        "candidate": "Phänomenologie & Achtsamkeit"
+      },
+      {
+        "candidate": "Epoché"
+      },
+      {
+        "candidate": "Neuroplastizität"
+      },
+      {
+        "candidate": "Flow-Zustand"
+      },
+      {
+        "candidate": "Chronos"
+      },
+      {
+        "candidate": "Der Rubikon"
+      },
+      {
+        "candidate": "Traumabindung"
+      },
+      {
+        "candidate": "Integrierte Informations-Theorie"
+      },
+      {
+        "candidate": "Radikale Akzeptanz"
+      },
+      {
+        "candidate": "Antifragilität"
+      },
+      {
+        "candidate": "Wu Wei"
+      },
+      {
+        "candidate": "Samadhi"
+      },
+      {
+        "candidate": "Śūnyatā"
+      },
+      {
+        "candidate": "Verteilte Kognition"
+      },
+      {
+        "candidate": "Posttraumatisches Wachstum"
+      },
+      {
+        "candidate": "Gödelscher Unvollständigkeitssatz"
+      },
+      {
+        "candidate": "Die dunkle Nacht der Seele"
+      },
+      {
+        "candidate": "Existenzialismus"
+      },
+      {
+        "candidate": "Embodiment"
+      },
+      {
+        "candidate": "Bindungstheorie"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  Einheit Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos/Sophia  /  Kairos",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gegentakt  /  Gegentakt-Lücke",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alters  /  Alter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Die Ruhige  /  Ruhigen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Die Mutige  /  Mutigen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Die Präzise  /  Präzisen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schatten  /  Schatten-Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Multiplizität  /  funktionalen Multiplizität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kishōtenketsu  /  Kishōtenketsu-Konzept",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kishōtenketsu  /  Ketsu",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kishōtenketsu-Konzept  /  Ketsu",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos/Sophia",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          },
+          {
+            "surface": "sophia",
+            "page": "sophia"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Einheit Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "funktionalen Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Kishōtenketsu-Konzept",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kishotenketsu",
+            "page": "kishotenketsu"
+          }
+        ]
+      },
+      {
+        "candidate": "Ketsu",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kishotenketsu",
+            "page": "kishotenketsu"
+          }
+        ]
+      },
+      {
+        "candidate": "Die Simulationstheorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "resonanz-landschaft",
+      "surface": "Resonanz-Landschaft",
+      "line": 57,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 216,
+      "already_read": false
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 80,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 216,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

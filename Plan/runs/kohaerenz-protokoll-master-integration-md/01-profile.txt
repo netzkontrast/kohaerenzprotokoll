@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-master-integration-md
+  lines                414  (frontmatter ends at 9)
+  body words           3451
+  headings             0   bold-only lines 0
+  table rows           39   code fences 0
+  question marks       9
+  backslash escapes    393
+  typographic marks    111   ascii quotes 38
+  invisible characters none
+  math symbol lines    38
+  glued ref numbers    18
+  repeated labels      none
+  longest line         376 chars
+

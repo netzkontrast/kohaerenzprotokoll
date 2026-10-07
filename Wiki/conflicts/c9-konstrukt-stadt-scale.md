@@ -257,3 +257,27 @@ Stands with position 1 of the record's table, the KW1 reading, as a concept of 2
 Of KW1 it says „This world is the domain of the Guardian“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] LogOS and describes it as „a hyper-logical, orderly realm“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98], with a „sterile, hyper-geometric, functional“ ^[dual-plot-architecture-a-narrative-foundation-for-kohaerenz.md:L98] aesthetic. It states no size or scale for the Construct-City.
 
 Where it stands: a KW1 title and description only; it takes no side on the scale of the Konstrukt-Stadt.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept makes the Konstrukt-Stadt one of four worlds, LogOS's, not the whole simulation.**
+
+It lists „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-2.md:L75], „Ebene der Ratio, Struktur, Regeln, analytische Anteile“ ^[kohaerenz-protokoll-2.md:L75], beside three other worlds, all four counted as „simulierte Kern-Welten (repräsentieren Michaels Psyche)“ ^[kohaerenz-protokoll-2.md:L25].
+
+Stands with the position that the Konstrukt-Stadt is the world of LogOS, one of four; recorded, not applied, and the record's decision is not touched.
+
+## 2026-10-07 — `narrativ`, 2025-07-30, the architect's compendium
+
+**The file names KW1 Logos-Prime in the compendium and „KW1 (Konstrukt-Stadt / Logik)“ ^[narrativ.md:L177] in the dramaturg's blueprint, as one of four Kernwelten.**
+
+The compendium (L11–L113) lists „KW1 (Logos-Prime)“ ^[narrativ.md:L61] as the first of four worlds. The dramaturg's blueprint (L115–L238) lists the four under „Vier Psychologische Kernwelten (KW1-4)“ ^[narrativ.md:L175] and puts Konstrukt-Stadt as KW1 among them; it later places Part 1 „insbesondere innerhalb von KW1 (Konstrukt-Stadt)“ ^[narrativ.md:L236]. Neither text names Konstrukt-Stadt as the whole simulation.
+
+Stands as a row for the KW1 side of the record's table (the name Konstrukt-Stadt for one of four worlds); the record's decision is not touched.
+
+## 2026-10-07 — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis
+
+**The philosophical synthesis tables Konstrukt-Stadt as `KW1`, the first of four Kernwelten, with Guardian LogOS.**
+
+Its row gives the world „Rigide klassische Logik“ ^[roman-konzept-und-philosophische-fragen.md:L193], the complexity class „P (versagt bei NP-schwer)“ ^[roman-konzept-und-philosophische-fragen.md:L193] and the puzzle „Boolesche Erfüllbarkeit (SAT)“ ^[roman-konzept-und-philosophische-fragen.md:L193]. It treats Konstrukt-Stadt as a world with its own Guardian, not as a district.
+
+Stands as a further position at the world scale, dated 2025-07-29; recorded, not applied, the record stays open.

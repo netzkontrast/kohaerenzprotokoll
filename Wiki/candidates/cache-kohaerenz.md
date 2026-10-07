@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 10
-readings: 10
+sources: 14
+readings: 14
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,12 @@ gathered: "2026-09-24"
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the metaphor named directly, for the gaps in Kael's own memory
 
 The earliest read source, and the one that names the metaphor in so many words rather than only using its vocabulary. Kael notices pieces of his own timeline missing and reaches for the image himself: „Die Cache-Kohärenz-Metapher drängte sich auf, auch wenn er sie nicht bewusst formulieren konnte. Seine inneren "Caches" waren inkonsistent." ^[kohaerenz-protokoll.md:L304] The same sentence ties the failure to the partitioning that caused it: „Die Partitionierung hatte nicht nur einen Teil seines Fühlens und seiner Intuition abgetrennt, sondern auch die Verbindung zwischen seinen Erinnerungen gestört." ^[kohaerenz-protokoll.md:L304] (see [[trennungsprotokoll|Trennungsprotokoll]]). It states no ANP or EP by name (`ANP`, `EP` 0; `grep -cw`), so the metaphor here is Kael's own, felt as amnesia and inconsistent inner „Caches", before the later canon-era sources give it the multi-processor architecture and the two-part model.
+
+## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — the Cache Kohärenz problem as a source of persona conflict
+
+The character architecture names the problem as the central narrative challenge: „Die zentrale narrative Herausforderung liegt in der glaubwürdigen Darstellung von Kaels fragmentierter Identität“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L17], naming the fragmentation problem in the same line by the name `Cache Kohärenz`. It gives the problem its own conflict section, headed „Cache Kohärenz als Konflikt (Der Fragmentierungs-Effekt)“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L257].
+
+The report ties it to wrong-persona landings: when Kael lands in an unsuitable world with the wrong persona, it „führt dies unweigerlich zu Konflikten und potenziellen System-“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142] tears. The Pressure-Point matrix carries it as a row, `PP-CCH-01`, with the entry „Fähigkeiten-Fehlanpassung bei Wechsel“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L303].
 
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 
@@ -28,9 +34,25 @@ First answer (L33), in the entry of the part named Kael: a `Cache Kohärenz` pro
 
 In Beat 1.2 (Kapitel 3–4) the description speaks of Kael's own „Cache Kohärenz“ ^[finales-kausales-plot-geruest.md:L39], glossed „dissoziative Amnesie“ ^[finales-kausales-plot-geruest.md:L39], which „behindert aktiv sein Verständnis“ ^[finales-kausales-plot-geruest.md:L39].
 
+## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — Cache Kohärenz as a metaphor for dissociative amnesia
+
+The review reads the plan's state `Cache Kohärenz` as „ist eine treffende narrative Metapher für die dissoziative Amnesie“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40], the memory gaps between the identity states. This is the review's clinical application of DIS literature; the plan's own definition of the term is not given here.
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — Kael's Cache Kohärenz problem and the MESI protocol as metaphor, in the dramaturg's blueprint
+
+The dramaturg's blueprint (L115–L238) gives Kael as host the problem `Cache Kohärenz` (in straight quotes, L151, with a pointer further down): „Der primäre ANP (Anscheinend Normaler Persönlichkeitsanteil), Alltagsmanager und Koordinator.“ ^[narrativ.md:L151] The cross-reference lands in the world section, where the fourth Kernwelt entry ends: „Das MESI-Protokoll dient als Metapher für Cache-Kohärenz und die Zustände von Kaels Anteilen/Erinnerungen.“ ^[narrativ.md:L180]
+
 ## Reading — `the-coherence-protocol-a-definitive-guide-to-the-narrative-a`, 2025-11-03, the Coherence Protocol guide — the guide sets `Overhead` as a protocol's cost, drawn from cache coherence protocols
 
 The guide defines `Overhead` in a glossary entry as „the continuous energy expenditure a protocol requires to maintain its coherence“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46], and says it is „Drawing a direct parallel to cache coherence protocols in computer architecture“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46]. It names the cost „the active, ongoing cost of being“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46] and sets that a protocol fails once the cost outruns what it can acquire: „A protocol collapses when the energy cost of its Overhead exceeds the resources it can acquire.“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46] The lexicon table repeats the term, giving its definition as „The continuous energy expenditure a protocol requires to maintain its coherence against the pressure of K₀“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L60] and its source concept as `Cache Coherence Overhead`. Here the metaphor is a physical cost in the story's world (Persistence is „a finite resource, not a given“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L60]), not a memory fault in Kael's psyche. The guide speaks as a binding specification; this is recorded, not applied.
+
+## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — cache coherence as a technical analogy for Risse
+
+The analysis report offers cache coherence as a technical comparison for the Risse: when processor cores hold different information about one memory state, „bricht die Konsistenz zusammen.“ ^[kohaerenz-analyse-kapitel-2.md:L41] The cores stand, it reads, for Kael's alters or the Kernwelten (L41).
+
+It adds: „Die Handlung des Romans ist im Kern der Kampf gegen dieses Löschen.“ ^[kohaerenz-analyse-kapitel-2.md:L41]
+
+The term appears again as the title of reference 6, „Cache-Kohärenz in hart echtzeitfähigen Mehrkern-Prozessoren“ ^[kohaerenz-analyse-kapitel-2.md:L244], a dissertation of the TU Dortmund the report lists (L244).
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Mnemosyne's duty, Moros's failure
 

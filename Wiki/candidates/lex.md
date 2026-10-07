@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 86
-readings: 86
+sources: 114
+readings: 115
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt", "kohaerenz-protokoll-the-official-master-story-guide", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt", "kohaerenz-protokoll-the-official-master-story-guide", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-narrativer-bauplan", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "detaillierte-kapiteluebersicht", "kuerze-rechercheauftrag-die-architektur-der-seel", "deconstructing-reality-s-architecture", "kohaerenz-protokoll-architecture-synthesis", "romanidee-als-interaktiver-prototyp", "project-status-report-kohaerenz-protokoll-canonical-state-st", "the-coherence-protocol-a-narrative-design-world-architecture", "romanideen-zu-roman-entwickeln", "kael-charakterarchitektur-und-konfliktdynamik", "narrativ", "kohaerenz-protokoll-narrative-synthese", "roman-konzept-und-philosophische-fragen", "roman-outline-kohaerenz-protokoll-uberarbeitung", "project-coherence-protocol-narrative-blueprint-decisions", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "roman-konzept-reduktion-und-kernfindung", "project-status-report-kohaerenz-protokoll-canon-systemic-sta", "the-psychological-mechanics-from-tertiary-structural-dissoci", "roman-konzept-kael-aegis-simulation", "kohaerenz-protokoll-narrative-architektur", "dramatica-und-kohaerenz-protokoll-analyse", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
 gathered: "2026-09-24"
 ---
 
@@ -18,11 +18,25 @@ The Teil-1 plot proposes Lex as a side character, not as an alter of Kael. Its p
 
 Its plot role is an information source limited by LogOS's logic: „Kaels anfängliche Versuche, Hilfe von Lex zu erhalten, scheitern“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L22], and he serves as a „Spiegel für die Systembeschränkungen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L22]. In Kap 1, „Lex gibt eine technisch korrekte, aber unpersönliche, regelbasierte Antwort“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L67]. The plot also floats that his strict rule-keeping „könnte er unbeabsichtigt auf Systeminkonsistenzen hinweisen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L22].
 
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — Lex as the dutiful archivist who meets Kael in the city and the archive
+
+The part-1 plot concept counts Lex among the side characters the earlier draft already integrates: „Die bewusste Integration von vier spezifischen Nebencharakteren (Lex/Archivar, Verlorenes Kind/Echo, Silas/Skeptiker, Anya/Muse)“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L22]
+
+In its revised chapter 2 it plans: „Er begegnet kurz Lex (Archivar)“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L142] and describes him: „Kael (bemüht sich um Normalität, wachsende Angst), Lex (pflichtbewusst, leicht distanziert)“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L152] Lex gives Kael advice, and the plan words it so: „Lex erkennt ihn (oder scheint es zu tun) und gibt ihm einen standardisierten, aber im Kontext beunruhigenden Rat.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L153] The plan puts a warning into his mouth that deviations are logged; that sentence stands in inner quotation marks in the document and is not quoted here.
+
+In the next chapter Kael meets him in the Mnemosyne archive: „Dort trifft er erneut auf Lex, den Archivar“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L166] with „Lex gewährt ihm begrenzten Zugang, aber die gesuchten Informationen scheinen zensiert oder fragmentiert.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L166]
+
 ## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28, the TSDP analysis — Lex ehem. Data, a second Primärer ANP
 
 Profile 3.10 is headed „3.10. Lex (ehem. Data)“ ^[strukturelle-dissoziation-system-kael-analyse.md:L473]: the earlier name is `Data`. The TSDP analysis classifies him „Primärer ANP (Anscheinend Normaler Persönlichkeitsanteil) – Rationalist/Analytiker.“ ^[strukturelle-dissoziation-system-kael-analyse.md:L475] and Kael „Primärer ANP (Anscheinend Normaler Persönlichkeitsanteil) – Host.“ ^[strukturelle-dissoziation-system-kael-analyse.md:L248]; it records both as primary and decides nothing between them. Action systems: „Exploration (durch Analyse und Datensammlung), (versuchte) Emotionskontrolle, logische Problemlösung, Strukturierung, Ordnung.“ ^[strukturelle-dissoziation-system-kael-analyse.md:L476] Core phobias, named in the profile: „Phobie vor Emotionen (als unlogisch und gefährlich)“ ^[strukturelle-dissoziation-system-kael-analyse.md:L477] and „Phobie vor Chaos und Kontrollverlust“ ^[strukturelle-dissoziation-system-kael-analyse.md:L477].
 
 Two of the five conflict pairs of Teil 1 carry him. „Lex (ANP) vs. Nyx (EP):“ ^[strukturelle-dissoziation-system-kael-analyse.md:L40] — the report reads it as the clash of rational control against affect-laden defence, with „Lex' Aktionssysteme (Analyse, Strukturierung, Emotionskontrolle)“ ^[strukturelle-dissoziation-system-kael-analyse.md:L40] set against Nyx. And „Kiko (EP) vs. Lex (ANP):“ ^[strukturelle-dissoziation-system-kael-analyse.md:L43] — „Lex' Phobie vor überwältigenden Emotionen und Verletzlichkeit“ ^[strukturelle-dissoziation-system-kael-analyse.md:L43] leads him to ward off Kiko's needs, as the report puts it.
+
+## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Lex as the Logiker, an IFS manager at home in the Konstrukt-Stadt
+
+The character architecture opens Lex's profile with the name line `Der Logiker`, quoted as „Der Logiker“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L48]. Its function: „Lex agiert als klassischer IFS-Manager“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L49], the part that keeps control and order. Its world is the Konstrukt-Stadt: „Lex fühlt sich in dieser logikbasierten Welt zu Hause“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L51]. In the passage on the pairing of personas and worlds the architecture adds „Der Logiker brilliert in der Konstrukt-Stadt“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142].
+
+Internally the profile has him „Häufig in Konflikt (polarisiert) mit dem Schatten (Chaos vs. Ordnung)“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L55]. The first Pressure Point sets the two against each other: „Lex fordert rationale Analyse und Kontrolle, um Sicherheit zu gewährleisten“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L156]. Externally he is shown distrusting the link to Juna/V: „Misstraut Juna/V zutiefst, sieht die Verbindung als irrationale Gefahr“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L56].
 
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Lex across the six realities, as proposed reactions
 
@@ -31,6 +45,10 @@ The world concept places Lex in each world's `Beziehung zu Anteilen`. In KW1 (Ko
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — the rationalist and its KW1 overlay
 
 The concept heads Lex „Primärer ANP - Rationalist“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L132] and describes „Eine Welt der Logik, Analyse, Struktur und Kontrolle“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L134]. On KW1 (Co₁): „Fühlt sich hier kompetent und bestätigt“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L139].
+
+## Reading — `roman-konzept-kael-aegis-simulation`, 2025-05-01, the simulation concept — Lex as the logic Alter who maps AEGIS
+
+The simulation concept describes Lex as an Alter who emerges in part 1: „Lex (kühl, logisch, analytisch, aber emotional distanziert“ ^[roman-konzept-kael-aegis-simulation.md:L55]. As the paper proposes the middle of the book, Lex takes on a task of his own: „Lex könnte besessen davon sein, die Logik des Systems AEGIS zu entschlüsseln“ ^[roman-konzept-kael-aegis-simulation.md:L66]. In part 2 the system's mapping is done „durch den logikorientierten Alter Lex, versucht aktiv, die Funktionsweise von AEGIS zu kartieren“ ^[roman-konzept-kael-aegis-simulation.md:L106]. The wording is conditional (`könnte`) in the first and active in the second; both are proposals of a concept paper.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Lex as the analyst ANP and the subplot of system analysis
 
@@ -64,6 +82,10 @@ The detailed outline lets Lex appear early and hidden: in Chapter 1 „Eine unbe
 
 Chapter 3 is planned to show the first open conflict between parts: „Der erste signifikante ANP-Konflikt (Lex vs. Alex) wird dargestellt.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L226] In Chapter 13 the outline lists „logische Analyse (Lex), blinde Abwehr (Alex), reine Fürsorge (Rhys), Vermeidung“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L885] as strategies that have proved insufficient.
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Lex as the logical ANP, avoiding emotion and set against Alex
+
+The strategy report places Lex in its phobia table as an emotion-avoiding part: „Lex' Vermeidung von Emotionen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L49]. It places the conflict with Alex under the phobia of dissociative parts, „Konflikt Lex vs. Alex“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L50], and in prose reads it as „dem logischen Lex und dem beschützenden Alex in Kapitel 3“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L61]. In the Murdock table it maps „Kael verlässt sich auf Logik (Lex)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L116], and in its dissonance section it applies: „Lex strebt nach logischer Konsistenz, erlebt aber illogische Glitches“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L142].
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — an ANP and internal antagonist; also the archivist of Kap 1–3
 
 The report gives, in a reference-1 sentence, that Lex „Dient als interner Antagonist und Repräsentant der kalten, emotionsvermeidenden Logik von AEGIS“ ^[scifi-roman-mit-ki-schreiben.md:L136] On how the parts read an event: „Rhys mag eine Chance zur Verbindung sehen, wo Lex eine logische Anomalie und Nyx eine existenzielle Bedrohung wahrnimmt“ ^[scifi-roman-mit-ki-schreiben.md:L156] In its chapter assessment of Kap 1–3 the report names „die frustrierende Begegnung mit dem Archivar Lex im Informationsarchiv“ ^[scifi-roman-mit-ki-schreiben.md:L219] (reference 1 follows), and in its advice says the plot draft „integriert bereits Lex, Echo, Silas und Anya“ ^[scifi-roman-mit-ki-schreiben.md:L244] The KW1 sentence ties Lex to the ANPs of the Konstrukt-Stadt (L88). Tables 1 and 3 are the plot document's, reproduced.
@@ -90,15 +112,61 @@ The Welt blueprint places Lex in KW1: first pass (L40), the world is „die Dom�
 
 The system plan lists Lex among the ANPs, of whom it says „Diese Anteile sind für das Funktionieren im Alltag zuständig“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L90] and calls the mentality of Lex a „Bewältigungsmechanismus“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L90]. In the polyphonic example of the late phases „Lex berechnete den Mechanismus des Schlosses“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L134]. In KW1 the plan proposes „Die zentrale Herausforderung für LogOS und Lex wird ein“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L265] NP-hard puzzle disguised as a P puzzle.
 
+## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — Lex as Verstand
+
+At the end of part one the review says Kael recognises that he needs `Verstand` (the review writes: „repräsentiert durch Lex“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L173]) and Herz to survive; the pairing of masculine and feminine principles is the review's reading through Schmidt's model.
+
+## Reading — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter — Lex as the logic agent
+
+The research letter, applying Minsky's `Society of Mind` to Kael, writes his alters as specialised agents: „Lex ist der Logik-Agent, Nyx der Bedrohungsabwehr-Agent, Kiko der Empathie-Agent“ ^[aegis-logik-und-erzaehlstruktur.md:L227].
+
+## Reading — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium — Lex as the intellectual analyst with a hypotactic prose rhythm
+
+The compendium's alter table classes Lex „ANP: Intellektueller Analytiker“ ^[kohaerenz-protokoll-narrative-synthese.md:L258], with the motivation „Kontrolle durch Verstehen; Angst vor Chaos“ ^[kohaerenz-protokoll-narrative-synthese.md:L258].
+
+In its proposal for polyphonic prose it ties him to a style, in the hedged form of a proposal: „Lex (der Analytiker) könnte einen präzisen, hypotaktischen Rhythmus mit langen, logisch verbundenen Sätzen haben“ ^[kohaerenz-protokoll-narrative-synthese.md:L203]. On vocabulary it adds: „Lex verwendet technische oder analytische Sprache“ ^[kohaerenz-protokoll-narrative-synthese.md:L204].
+
+## Reading — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis — Lex named once, as an example of the ANPs
+
+The philosophical synthesis names `Lex` once, at L118, as the example of the ANPs, the dissociative parts that carry everyday life and avoid traumatic memories (the other example there is `Nyx`, for the EPs). The sentence around it: „Seine Psyche ist in mindestens zwei Arten von dissoziativen Anteilen aufgeteilt“ ^[roman-konzept-und-philosophische-fragen.md:L118]. The essay gives no profile of Lex beyond this role; it reads TSDP as the blueprint of Kael's character architecture.
+
+## Reading — `kohaerenz-protokoll-narrative-architektur`, 2025-07-29, the System-Mind analysis — Lex as analyst part, and a speaker for D2
+
+The alter table classes Lex as „ANP (Intellektueller): Analytiker, versucht Kontrolle durch Logik“ ^[kohaerenz-protokoll-narrative-architektur.md:L165]. The analysis also uses Lex in its logic argument: AEGIS treats each of Kael's parts as a separate speaker and can register that `Lex` asserts P while `Nyx` asserts not-P (L70-L72). For the D2 module, it argues, „Die Stärke der D2-Logik“ ^[kohaerenz-protokoll-narrative-architektur.md:L76] is also its weakness, since it cannot grasp synthesis.
+
 ## Reading — `outline`, 2025-07-30, the outline — Lex as the logical part and analyst, and his subplot's climax
 
 The outline plans Lex first as an influence: in Kap 2, „der Einfluss seines logischen Anteils Lex spürbar wird“ ^[outline.md:L29] (L29), and in Kap 3 Kael „trifft auf Lex (den Archivar)“ ^[outline.md:L35] in the Mnemosyne archives (L35). Teil 2's stylistic signature for him is „Präziser, hypotaktischer Rhythmus mit langen, logisch verbundenen Sätzen.“ ^[outline.md:L120] (L120).
 
 In Teil 3 a Subplot-Integration strand is named „Lex' Systemanalyse & AEGIS' Paradoxon“ ^[outline.md:L164] (L164); in Kap 28 „Lex, mit Beiträgen anderer Anteile, entwickelt eine Methode“ ^[outline.md:L169] (L169), and the Fokus says „Lex' Subplot erreicht seinen Höhepunkt.“ ^[outline.md:L172] (L172).
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Lex in Kapitel 5, 8 and 23
+
+The chapter overview plans, in Kapitel 5, that „Kael begegnet dem rationalen Anteil“ ^[detaillierte-kapiteluebersicht.md:L21] Lex, who tries to explain the glitches by rigid logic. Kapitel 8 is „Aus der Perspektive von Lex wird die Notwendigkeit etabliert“ ^[detaillierte-kapiteluebersicht.md:L24] to avoid KW2. In Kapitel 23 Argus puts Lex into „Lex in einen Zustand logischer Lähmung versetzt“ ^[detaillierte-kapiteluebersicht.md:L44] and in Kapitel 17 Rhys „Rhys vermittelt zwischen Lex und Nyx“ ^[detaillierte-kapiteluebersicht.md:L38]
+
+## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — Lex as the inner order guardian
+
+The concept summary lists Lex as „Der Innere Ordnungswächter“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L52], described as „Die rational-analytische Instanz, die Komplexität bändigt.“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L52]
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — Lex, analytic ANP, integrated as the system's analyst
+
+The dramaturg's blueprint (L115–L238) lists Lex among the key parts: „Ein ANP, der analytisch ist und Kontrolle durch Logik sucht, mit Angst vor Chaos“ ^[narrativ.md:L153]. Integrated, „wird er zum internen Systemanalytiker, der Logik zur Problemlösung nutzt, nicht zur Verdrängung“ ^[narrativ.md:L153] (L153). The blueprint also puts him in focus in the first Kernwelt, called there „Logiker-Manager-Anteil“ ^[narrativ.md:L177] (L177).
+
+The compendium (L11–L113) uses Lex in a style rule, not as a world fact: in the late phase Lex' complex syntax is fused with the other parts' signatures (L36).
+
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — the logic-oriented part, tied to KW1 and LogOS
 
 In Kapitel 1 the architecture plan introduces „Der logikorientierte Anteil Lex“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L68], who könnte try to explain the glitches rationally. Kapitel 2 (Echos in der Konstrukt-Stadt) puts its focus on him: „Der Fokus liegt auf dem logik- und analyseorientierten Anteil Lex“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L81]. It proposes there that he „fühlt sich in KW1 zunächst zu Hause“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L82], while Kael and more emotional parts feel alienated. Kapitel 5 proposes that he is überfordert by the irrationality of the second world (L124), and Kapitel 11 gives him curiosity at the Riss (L208).
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — the Logiker in the game's inner council
+
+The proposal's portrayals of Lex are examples for the game, not outline reports. In the worked example of the feedback loop: „Lex (der Logiker) plädiert für eine distanzierte Analyse“ ^[romanidee-als-interaktiver-prototyp.md:L144]. In the Kap 7 scene: „Lex' Stimme schlägt kühl eine Analyse vor“ ^[romanidee-als-interaktiver-prototyp.md:L224]. In the Kap 13 puzzle: „Lex muss ein logisches Schloss analysieren“ ^[romanidee-als-interaktiver-prototyp.md:L233].
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Lex as the rational ANP that AEGIS strengthens, planned across four acts
+
+The dual structure is an outline; Lex is a planned figure in it. In Kapitel 3 he warns: „Lex (der rationale ANP) vor den emotionalen Risiken warnt“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L101]. In Kapitel 10 AEGIS decides „den logischen ANP, Lex, zu stärken“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L132], and in Kapitel 11 the Ki pass has „Die Stimme von Lex ist in seinem Kopf stärker und überzeugender“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L156].
+
+The table of the Anteile follows him: in Akt I he is „Dominanter interner Kritiker“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L307], in Akt II „Von AEGIS gestärkt“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L307] and the internal tyrant who locks up the EPs. In Akt IV, Kapitel 32, he „bietet seine logischen Fähigkeiten für die Planung an“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L265], no longer as a tyrant but, in the plan's words, tempered by an understanding of emotional needs.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the blueprint, the three-act blueprint, the critique, the Kael biography and the scene outline of the English compilation — Lex as the analyst ANP, and two incompatible placements of Dr. Aris Thorne
 
@@ -115,6 +183,18 @@ The architecture analysis's table types him „Primary ANP“ ^[kohaerenz-protok
 ## Reading — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing — Lex as a rationalist ANP
 
 The alter table classifies Lex as „ANP: Rationalist, embodies cold, emotion-avoiding logic.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L85] (L85).
+
+## Reading — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint — Lex typed two ways, as ANP in the list and Primary ANP in the table
+
+The blueprint's first part lists „Lex (Rationalist)“ ^[narrative-blueprint-the-coherence-protocol.md:L40] as „An ANP embodying cold, emotion-avoiding logic“ ^[narrative-blueprint-the-coherence-protocol.md:L40], who is, in its words, crucial for deconstructing AEGIS's systems. The thematic foundation's roster table, a different part of the same document, writes his type as „Primary ANP (Rationalist)“ ^[narrative-blueprint-the-coherence-protocol.md:L263] (L263) and gives Kael the same label „Primary ANP“ ^[narrative-blueprint-the-coherence-protocol.md:L254] (L254). The first part's list says only ANP; the document does not say how the two Primary ANPs relate.
+
+## Reading — `romanideen-zu-roman-entwickeln`, 2025-10-15, the master blueprint — Lex as the analyst ANP, and the World Bible's name for it
+
+In the table it consolidates, the master blueprint gives Lex: „ANP (Analyst) - Logik, Information, Kontrolle“ ^[romanideen-zu-roman-entwickeln.md:L72]. His relations are „Phobisch gegenüber Nyx' Wut und Kikos Verletzlichkeit“ ^[romanideen-zu-roman-entwickeln.md:L72]. The blueprint reports that other drafts use `Lex` while the `World Bible` uses `Index` for the part (L60); it joins the World Bible's profiles to the names from the other drafts (L62). For the technique section it proposes „Der Alter Lex sollte diese Konzepte nicht als Dozent vortragen“ ^[romanideen-zu-roman-entwickeln.md:L150], but use them as desperate tools; the dialogue line it gives (L150) is a sample, not the world.
+
+## Reading — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint — Lex as the analyst alter of the table
+
+The locked blueprint's canonical alter table gives Lex the classification „ANP (Analyst) - Logic, information, control.“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L195] Its Core World table sets KW1's psychological domain as „Order, Control, Analysis (ANPs like Lex)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L101], and in the Cerberus-Labyrinth scene „The analytical alter Lex can process the formal structure“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L166] of a logical paradox while Nyx acts.
 
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — its row in the Master Profile of Alters
 
@@ -142,6 +222,14 @@ In Story 14 (System Analysis) the outline has Kael „guided by his logical ANP 
 
 Recorded as one outline's proposal; the outline names stories, never chapters.
 
+## Reading — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report — Lex among the Apparently Normal Parts
+
+The contradiction report names Lex in its account of the TSDP among the ANPs, „such as Kael the host, Lex the rationalist, and Rhys the nurturer“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L55]. It says nothing more of him.
+
+## Reading — `the-psychological-mechanics-from-tertiary-structural-dissoci`, 2025-11-03, the TSDP mechanics report — Lex as a primary ANP of logic and control
+
+In the TSDP mechanics report's table Lex is typed Primary ANP and „Embodies logic, analysis, and control“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L45]; he „Believes emotions are dangerous and chaotic“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L45]. Its integrated role for him is „Internal system analyst“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L45]. In the Core Worlds section the report places „rational ANPs like“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L57] Lex and Kael in KW1, the Construct City.
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — Lex in Table 1 and as the midpoint's turning logic
 
 The truth-duality paper's Table 1 gives Lex as an ANP with the function „Logik, Analyse, Intellektualisierung“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L64] and the motivation „Motivation: Logische Ordnung, Vorhersagbarkeit.“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L64]; its philosophical correspondence there is the rigid coherence theory. In the proposed plot, Lex's logic carries the midpoint: „In diesem Moment erkennt Lex (der ANP der Logik)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L206] that AEGIS's logic is illogical. Its plausibility checklist asks the matching question: „Warum hilft Lex (logischer ANP) bei einer“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L305] integration with EPs, and answers that the midpoint supplies the motive.
@@ -163,6 +251,12 @@ In the three-part analysis Lex appears in Kap 2 as a threat, „und *Lex* (dem r
 ## Reading — `kohaerenz-protokoll-the-official-master-story-guide`, 2026-01-02, the Master Story Guide — Lex as the System Administrator
 
 The Master Story Guide lists `Lex (The Rationalist)` in its System Roster with the role „The System Administrator“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11], an ANP. The roster row says he „Mirrors AEGIS's logic.“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11] and that he „fears EPs as chaotic variables“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11]. The guide calls its roster canonical; its own claim, recorded, not applied.
+
+## Reading — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief — Lex as the Rationalist who mirrors AEGIS
+
+In the ANP table the design brief describes `Lex` as one who „Embodies cold, emotion-avoiding logic and strategy“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L57] and who „Lex mirrors AEGIS's logic on a micro-scale, viewing emotional alters as inefficient or dangerous system errors“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L57]. It puts KW1 in his domain: „The domain of Kael and Lex; the rigid, emotionless state of suppressing pain to function“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L86]. The glossary compresses him: „Logic, Strategy. Mirrors AEGIS.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L201]
+
+## Reading — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis — Lex as the logic alter in two plot steps
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the analyst Alter and where he acts in the plan
 
@@ -192,6 +286,10 @@ The research report (5.1) describes `Lex` as „Der Analytiker und intellektuell
 
 In the plan's matrix Lex is typed „(Rationaler ANP)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L55] and described as „Analytiker und Stratege.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L55] The plan assigns him the metaphor „Der Gödelsche Unvollständigkeitssatz & das Halteproblem.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L55] (its proposal, with a footnoted reference behind it) and a narrative risk: „Lex ist der Anteil, der am meisten gefährdet ist, von AEGIS assimiliert zu werden.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L55]
 
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — Lex as the Rationalist who mirrors AEGIS
+
+The learner's guide lists Lex among the Apparently Normal Parts as the Rationalist: he „Embodies cold, emotion-avoiding logic.“ ^[deconstructing-reality-s-architecture.md:L102] and „Lex excels at analysis, strategy, and system architecture.“ ^[deconstructing-reality-s-architecture.md:L102] It writes that he mirrors AEGIS's logic on a micro-scale, „often viewing the emotional alters as“ ^[deconstructing-reality-s-architecture.md:L102] inefficient or dangerous. In the second act it reports Lex and Nyx beginning to cooperate (L275), and the appendix gives „Logic, Strategy.“ ^[deconstructing-reality-s-architecture.md:L307]
+
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — Lex as the cold rationalist ANP
 
 The architecture report lists Lex among the ANPs: „Ein kalter, logischer Stratege“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L90]. It says he „spiegelt die algorithmische Ordnung von AEGIS auf der Mikroebene wider“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L90] and, striving to eliminate emotion and chaos, is open to the antagonist's ideology. In trace 3 of its design „Die instrumentelle Logik von Lex versagt vollständig“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L159].
@@ -208,6 +306,17 @@ The PICO's population parameter asks whether the system is steered by an apparen
 
 The fifth primary alter is „Der Analytiker (Lex / ANP)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L84], specialised in decoding abstract theories such as the Dual-Kernel-Theorie and inclined to rationalise feelings away.
 
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — the rationalist ANP
+
+In the master integration's ANP table the entry is `Lex` (Rationalist) with the function „Logik, Analyse, Strategie“ ^[kohaerenz-protokoll-master-integration-md.md:L175], the vector „Maximale α, minimale β (brüchig bei Emotion)“ ^[kohaerenz-protokoll-master-integration-md.md:L175] and the core phobia „Irrationalität, Chaos, unkontrollierte Emotion“ ^[kohaerenz-protokoll-master-integration-md.md:L175]. The style rule gives him the sensory colouring: „Lex sieht Geometrie.“ ^[kohaerenz-protokoll-master-integration-md.md:L330]
+
+## Reading — `project-status-report-kohaerenz-protokoll-canonical-state-st`, 2026-03-26, the status report — the report lists Lex as Rationalist ANP and names him in the Act II suppression
+
+The status report (2026-03-26) lists „Lex (Rationalist ANP)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L11] in its Confirmed Core of eleven (L11, L47). In its Act II inventory it writes: „Suppression of EPs by Lex/Kael leads to escalating cycles of world decay and relational erosion.“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L87]
+
+## Reading — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report — Lex as hypotaxis, as the planning state
+The canon status report's tone mandate gives `Lex/AEGIS` hypotaxis: „Complex, subordinate, and rationalizing sentence structures to reflect the“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L75] K1 „drive for order and causation.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L75]. In the Resonanz-Kodex item the system is to detect the author's state, K1 „for planning/Lex or“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L84] K0 for emotional writing. These are the report's mandates, recorded and not applied.
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Lex as the ANP rationalist and system administrator
 
 The pitch places Lex in the ANP row as „Lex (Rationalist, Systemadministrator)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L84]; in the kernel section he is an example of the ANPs, „wie etwa dem Rationalisten Lex“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L25]; and it describes his function: „Lex fungiert als kühler Systemadministrator der Psyche, der Emotionen als fehlerhaften Code betrachtet“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L87].
@@ -218,9 +327,25 @@ The document is a generated report about other texts that it names only by numbe
 
 Row F-04: „Das System Kael besteht aus Lex (Logik), Nyx (Kampf), Kiko (Freeze), Alex (Schutz), Rhys (Pflege), Selene (Integration), Argus (Kritiker), Lia, Isabelle und Moros.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L69] Open question 4, which the report attributes to the archivist, asks about the body: „Wie äußern sich Anteile wie Lex, Rhys und Lia“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L123] — the question says such descriptions are missing.
 
+## Reading — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report — Lex as the Analyst, allied with AEGIS
+
+In the reduction report's table of the parts the entity is „Lex (Analyst)“ ^[roman-konzept-reduktion-und-kernfindung.md:L80], with the psychological role „Rationalisierung“ ^[roman-konzept-reduktion-und-kernfindung.md:L80] and the plot function „System-Administrator, verbündet mit AEGIS.“ ^[roman-konzept-reduktion-und-kernfindung.md:L80]; the sphere column reads „Innere Logik“ ^[roman-konzept-reduktion-und-kernfindung.md:L80], with the kernel symbol lost in the export.
+
 ## Reading — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto — Lex as an ANP fragment processed in KW1
 
 Lex is named among the shattered elements at L67 and, as AEGIS classifies it, an ANP fragment of KW1: „fragments such as Lex or the logical facets of Kael“ ^[aegis-manifest-genesis-krise-reboot.md:L75], which „prioritize strategy and analytical coherence“ ^[aegis-manifest-genesis-krise-reboot.md:L75]. The table lists „ANP Fragments (Lex, Kael-Logic)“ ^[aegis-manifest-genesis-krise-reboot.md:L100]. This is the manifesto's classification in AEGIS's voice.
+
+## Reading — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis — Lex as avoidance by analysis
+
+In its list of Kael's alters the Dramatica loop analysis says Lex „nutzt analytische Fähigkeiten zur strikten Problemvermeidung und Verdrängung“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L97]. In the integrated state, it adds, Lex analyses solution-oriented (L102).
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — an ANP among Kael's 11 entities
+
+The architecture synthesis names Lex among the 11 entities Kael has integrated at the Vortex Inversion: „Kael, having integrated his 11 entities (including Lex, Nyx, Kiko, and Moros)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L73]. Its Beat 1 classes him as an ANP: „the ANPs like Lex and Vesper, and the EPs like Nyx, Kiko, and Moros“ ^[kohaerenz-protokoll-architecture-synthesis.md:L187].
+
+## Reading — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis — an ANP who stabilises by control
+
+The Dual-Kernel analysis lists Lex among the Apparently Normal Parts of Kael's system, which it says „verwalten das tägliche Leben und vermeiden traumatische Inhalte“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L112]. Of Lex it says he „fungiert als rationalistischer Administrator“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L112], one who intellectualises emotions and wants to stabilise the system through control. The analysis reports this as what the Protokoll says (its reference 1), not as its own claim.
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — one of four modules
 
@@ -445,3 +570,6 @@ The Guide gives him a line of dialogue: „The Alter Lex uses these concepts not
 - the Teil-1 plot proposes Lex as a construct of KW1 designated `Einheit 734`, a subroutine under [[logos|LogOS]], not an alter of Kael
 - the themes exegesis, 2025-11-25, reads Lex as ANP of logic and manager in theme 2, whose logic fails in theme 7
 - `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, a planning report: renders Lex as the natural ally of AEGIS and an antagonist to the EPs, a conflict it proposes to escalate in Phase II, „Dieser Konflikt muss in Phase II eskalieren.“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L138]
+- `narrative-blueprint-the-coherence-protocol`, 2025-10-15: the list (first blueprint) calls Lex an ANP, the roster table (thematic foundation) a Primary ANP; the plan does not reconcile them.
+- The learner's guide gives Lex as an ANP who mirrors [[aegis|AEGIS]]'s logic in miniature.
+- The master blueprint reports `Index` as the World Bible's name and consolidates it with `Lex` (L60, L62); recorded, not applied.

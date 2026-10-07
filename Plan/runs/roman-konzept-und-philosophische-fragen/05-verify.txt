@@ -1,0 +1,75 @@
+# verify, 2026-10-07
+$ read.py roman-konzept-und-philosophische-fragen --count "Die These"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die These` ^[roman-konzept-und-philosophische-fragen.md:#1]
+$ read.py roman-konzept-und-philosophische-fragen --count "Die Antithese"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Antithese` ^[roman-konzept-und-philosophische-fragen.md:#1]
+$ read.py roman-konzept-und-philosophische-fragen --count "Die Synthese"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Die Synthese` ^[roman-konzept-und-philosophische-fragen.md:#2]
+$ read.py roman-konzept-und-philosophische-fragen --count "funktionalen Multiplizität"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`funktionalen Multiplizität` ^[roman-konzept-und-philosophische-fragen.md:#4]
+$ read.py roman-konzept-und-philosophische-fragen --count "Gödel-Satz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gödel-Satz` ^[roman-konzept-und-philosophische-fragen.md:#2]
+$ read.py roman-konzept-und-philosophische-fragen --count "Gödels Unvollständigkeitssätzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödels Unvollständigkeitssätzen` ^[roman-konzept-und-philosophische-fragen.md:#1]
+$ read.py roman-konzept-und-philosophische-fragen --count "Gödels Unvollständigkeitssätze"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Gödels Unvollständigkeitssätze` ^[roman-konzept-und-philosophische-fragen.md:#0]
+$ read.py roman-konzept-und-philosophische-fragen --count "Wächter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Wächter` ^[roman-konzept-und-philosophische-fragen.md:#0]
+$ read.py roman-konzept-und-philosophische-fragen --count "Zugriff am Juli"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Zugriff am Juli` ^[roman-konzept-und-philosophische-fragen.md:#17]
+$ read.py roman-konzept-und-philosophische-fragen --count "Kael"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            30
+
+`Kael` ^[roman-konzept-und-philosophische-fragen.md:#13]
+$ read.py roman-konzept-und-philosophische-fragen --count "Gnosis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gnosis` ^[roman-konzept-und-philosophische-fragen.md:#2]
+$ grep -cE "^  - " Sources/drive/roman-konzept-und-philosophische-fragen.md (question bullets)
+8
+$ grep -nE "^[0-9]\.  \*\*" (group headings)
+233:1.  **Zur Natur der Identität und des Selbst:**
+242:1.  **Zu den Grenzen von Rationalität und Wissen:**
+251:1.  **Zur Natur von Kohärenz und Ordnung:**
+260:1.  **Zu Bewusstsein und Sinn in einer konstruierten Wel
+stance_marker_count 4 = 1 + 1 + 2 (Die These, Die Antithese, Die Synthese above)

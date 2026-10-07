@@ -1,0 +1,94 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is an English status report with German headings and a few German names; it speaks in a mandating voice. Lens terms are listed under the heading below. Formulas are exported as K\_1 and K\_0 with an escaped underscore, so they are listed as written.
+
+- Kohärenz Protokoll
+- Triple Helix Methodology
+- Triple Helix
+- Stabilization
+- Confrontation
+- Integration
+- Unerkennbarkeit
+- Hard Canon
+- Tertiary Structural Dissociation
+- System Kael
+- Apparently Normal Parts
+- Emotional Parts
+- trauma-time
+- AEGIS
+- Trennungsprotokoll
+- Separation Protocol
+- Qualia
+- Dual Kernel Theory
+- K\_1
+- K\_0
+- Reversible Computation and Symmetry
+- Irreversible Erasure and the Landauer Principle
+- Narrative Mosaic
+- Gärtner Axiom
+- The Gardener
+- Living Gödel-Sentence
+- Kael
+- Juna
+- Ursprungs-Ich
+- Dialetheic Solution
+- Alters
+- Silas
+- Rhys
+- Moros
+- Collapse EP
+- Oblivion
+- KW2
+- Algorithmic Melancholy/Paraconsistency
+- Biography of AEGIS
+- narrative entropy
+- Buffering Capacity
+- Genesis Trauma
+- Genesis-Krise
+- Trigger Objects
+- K-Signature
+- Trigger-Items
+- ozone
+- Nothingness Noise
+- anti-light
+- subtle symmetries
+- Other Fragment 'O'
+- Kael-'O' Symbiose
+- Permeable Fourth Wall
+- Golden Sources
+- Genesis Log
+- Component 734 Perspective
+- Finde die Naht
+- Moonshine-Link Descriptions
+- Synesthetic Resonance
+- Hypotaxis
+- Parataxis
+- Lex/AEGIS
+- Nyx/Kiko
+- Lex
+- Nyx
+- Kiko
+- Maximal-Plotting
+- Functional Multiplicity
+- Final Fusion
+- Risse
+- Kernwelten
+- Autopoietic Closure
+- Resonanz-Kodex
+- Cybernetic Feedback Loop
+- Juna-Paradox
+- Alter-Registry
+- dethroned god
+
+## lens
+
+- Heroine’s Journey
+- Hero’s Journey
+- Cyclical Deconstruction
+- autopoietic
+- Dialetheic
+- Paraconsistency
+- Landauer Principle
+- Apparently Normal Parts (ANPs)
+- ANPs
+- EPs

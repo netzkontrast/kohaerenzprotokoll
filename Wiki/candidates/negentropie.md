@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 12
-readings: 11
+sources: 15
+readings: 14
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis"]
 gathered: "2026-09-16"
 ---
 
@@ -59,6 +59,10 @@ research reasoned from it rather than concluding it.
 
 The beat sheet writes `Negentropie` only in a compound, once. In the causal link of Kapitel 10-12, AEGIS' reading of Kael's adaptive behaviour as `Entropie` is „eine Schlüsselmanifestation seiner“ ^[finales-kausales-plot-geruest.md:L79] „Negentropie-Fehlinterpretation“ ^[finales-kausales-plot-geruest.md:L79]. The beat sheet does not say what the correct reading would be.
 
+## Reading — `aegis`, 2025-07-29, the AEGIS concept file — the Negentropie-Fehlinterpretation: integration taken for entropy
+
+The AEGIS concept file names a misreading under its own heading, `Negentropie-Fehlinterpretation` (L115). Integration, emotional connection or creative expression, it says, „werden von AEGIS als gefährliche Inkohärenz oder Entropie eingestuft“ ^[aegis.md:L115] and actively fought; the file adds that this makes AEGIS an obstacle to healing and growth. The word `Negentropie` is the file's label for what AEGIS wrongly classes as entropy; it gives no definition of the term.
+
 ## Reading — `an-inquiry-into-the-unresolved-questions-and-thematic-tensio`, 2025-10-15, the Psychological Exposé — the misreading named as AEGIS' central flaw
 
 The Exposé names the misreading as the flaw that drives the plot:
@@ -79,6 +83,10 @@ English passages.
 
 The three-act blueprint (Act I, the antagonist's gaze) says what the misreading is: AEGIS's blindness makes it „misinterpret any emergent, life-affirming complexity (negentropy)“ ^[ai-assisted-narrative-coherence.md:L855], „such as the emotional resonance of the Juna connection or the first steps of Kael's psychological integration“ ^[ai-assisted-narrative-coherence.md:L855], as chaos (entropy). It names the flaw: „This core logical flaw, the Negentropie-Fehlinterpretation, is the engine of the entire conflict.“ ^[ai-assisted-narrative-coherence.md:L855]
 
+## Reading — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint — the `Negentropie-Fehlinterpretation` as the loop's engine
+
+At L56 the locked blueprint makes AEGIS's reading of healing the loop's trigger: each step of Kael's integration is „registered by AEGIS's sensors as a dangerous increase in systemic entropy and unpredictable complexity“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L56]. It names the flaw `Negentropie-Fehlinterpretation` (negentropy misinterpretation), „the engine that drives the entire conflict“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L56].
+
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
 
 The Textanalyse, a commentary on one narrative, reads the narrative's „minimale Sein“ ^[textanalyse-existenz-system-und-leid.md:L52] as an attempt „lokale Negentropie (Ordnung) gegen die universelle Entropie (Rauschen) aufrechtzuerhalten“ ^[textanalyse-existenz-system-und-leid.md:L52], and adds that this is a struggle „das Wesen des Lebens selbst beschreibt“ ^[textanalyse-existenz-system-und-leid.md:L52], naming Schrödinger. The reading is the commentary's own and borrows a physical sense; the narrative is quoted only for the „Widerstand gegen diesen Druck“ ^[textanalyse-existenz-system-und-leid.md:L52].
@@ -86,6 +94,10 @@ The Textanalyse, a commentary on one narrative, reads the narrative's „minimal
 ## Reading — `kohaerenz-protokoll-konzeptionelle-themen-struktur`, 2025-11-25, the themes exegesis — negentropy as the counter to the pull of the black hole, and anger as energy
 
 The exegesis writes that the system (Kael/AEGIS) must, against the `Schwarzen Loch` of trauma, create „eine Zone negativer Entropie (Negentropie)“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L119] — a hectic order of information; the sentence is the project's integration of Verlinde's entropic gravitation (L119). In theme 11 it reads anger so: „Wut wird als Energie (Negentropie) erkannt“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L190], needed to prevent total collapse of K0 in the past (L190).
+
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — ordered structure as `Negentropie` against the gradient
+
+In a passage that opens `Die Dokumente`, the protocol analysis writes: „Jede geordnete Struktur (Negentropie)“ ^[analyse-des-kohaerenz-protokolls.md:L68] that arises in the Potentialmeer is exposed to a massive energetic gradient (L68). It uses the word once, in brackets, as a gloss on ordered structure.
 
 ## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — Storyform A's outcome, new order patterns replacing AEGIS' toxic structure
 

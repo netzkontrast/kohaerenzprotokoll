@@ -1,0 +1,127 @@
+$ read.py detaillierte-kapiteluebersicht --count "Fokus"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Fokus` ^[detaillierte-kapiteluebersicht.md:#4]
+
+$ read.py detaillierte-kapiteluebersicht --count "Akt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Akt` ^[detaillierte-kapiteluebersicht.md:#4]
+
+$ read.py detaillierte-kapiteluebersicht --count "KW1"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW1` ^[detaillierte-kapiteluebersicht.md:#3]
+
+$ read.py detaillierte-kapiteluebersicht --count "KW2"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW2` ^[detaillierte-kapiteluebersicht.md:#3]
+
+$ read.py detaillierte-kapiteluebersicht --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[detaillierte-kapiteluebersicht.md:#0]
+
+$ read.py detaillierte-kapiteluebersicht --count "Riss"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Riss` ^[detaillierte-kapiteluebersicht.md:#4]
+
+$ read.py detaillierte-kapiteluebersicht --count "Risse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Risse` ^[detaillierte-kapiteluebersicht.md:#1]
+
+$ read.py detaillierte-kapiteluebersicht --count "Rissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[detaillierte-kapiteluebersicht.md:#1]
+
+$ read.py detaillierte-kapiteluebersicht --count "Welle"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Welle` ^[detaillierte-kapiteluebersicht.md:#2]
+
+$ read.py detaillierte-kapiteluebersicht --count "EPs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EPs` ^[detaillierte-kapiteluebersicht.md:#1]
+
+$ read.py detaillierte-kapiteluebersicht --count "EP-Intrusionen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EP-Intrusionen` ^[detaillierte-kapiteluebersicht.md:#1]
+
+$ read.py detaillierte-kapiteluebersicht --count "Fragment 'O'"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fragment 'O'` ^[detaillierte-kapiteluebersicht.md:#1]
+
+$ read.py detaillierte-kapiteluebersicht --count "Kind-Anteil"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kind-Anteil` ^[detaillierte-kapiteluebersicht.md:#0]
+
+$ read.py detaillierte-kapiteluebersicht --count "Kind-Anteils"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kind-Anteils` ^[detaillierte-kapiteluebersicht.md:#1]
+
+$ read.py detaillierte-kapiteluebersicht --count "Gödel-Satz"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Gödel-Satz` ^[detaillierte-kapiteluebersicht.md:#0]
+
+$ read.py detaillierte-kapiteluebersicht --count "Gödel-Gambit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Gambit` ^[detaillierte-kapiteluebersicht.md:#1]
+
+$ read.py detaillierte-kapiteluebersicht --count "Lex"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Lex` ^[detaillierte-kapiteluebersicht.md:#4]
+
+$ read.py detaillierte-kapiteluebersicht --count "Nyx"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nyx` ^[detaillierte-kapiteluebersicht.md:#3]
+
+stance_marker_count 8 = Fokus 4 + Akt 4 (counts above)

@@ -1,0 +1,93 @@
+# every number the census and note state; commands and outputs pasted
+$ read.py aegis-logik-und-erzaehlstruktur --count "Einleitung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Einleitung` ^[aegis-logik-und-erzaehlstruktur.md:#1]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Tabelle 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tabelle 1` ^[aegis-logik-und-erzaehlstruktur.md:#1]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Schlussfolgerung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schlussfolgerung` ^[aegis-logik-und-erzaehlstruktur.md:#1]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[aegis-logik-und-erzaehlstruktur.md:#1]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Zugriff am Juli 29, 2025"
+whole word, case-sensitive     57
+whole word, case-insensitive   57
+including compounds            57
+
+`Zugriff am Juli 29, 2025` ^[aegis-logik-und-erzaehlstruktur.md:#57]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Gödel-Satz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gödel-Satz` ^[aegis-logik-und-erzaehlstruktur.md:#3]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Moonshine-Link"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Moonshine-Link` ^[aegis-logik-und-erzaehlstruktur.md:#0]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Moonshine-Links"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Links` ^[aegis-logik-und-erzaehlstruktur.md:#2]
+$ read.py aegis-logik-und-erzaehlstruktur --count "lebendigen Gödel-Satz"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`lebendigen Gödel-Satz` ^[aegis-logik-und-erzaehlstruktur.md:#0]
+$ read.py aegis-logik-und-erzaehlstruktur --count "perversen Instantiierungen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`perversen Instantiierungen` ^[aegis-logik-und-erzaehlstruktur.md:#2]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Grounding_"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Grounding_` ^[aegis-logik-und-erzaehlstruktur.md:#1]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Kaels"
+whole word, case-sensitive     27
+whole word, case-insensitive   27
+including compounds            27
+
+`Kaels` ^[aegis-logik-und-erzaehlstruktur.md:#27]
+$ read.py aegis-logik-und-erzaehlstruktur --count "ZTEM"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ZTEM` ^[aegis-logik-und-erzaehlstruktur.md:#1]
+$ read.py aegis-logik-und-erzaehlstruktur --count "EIC"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EIC` ^[aegis-logik-und-erzaehlstruktur.md:#2]
+$ read.py aegis-logik-und-erzaehlstruktur --count "Potentialmeer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Potentialmeer` ^[aegis-logik-und-erzaehlstruktur.md:#1]
+stance_marker_count: 1+1+1+1 = 4 (Einleitung, Tabelle 1, Schlussfolgerung, Referenzen)
+reference entries L327-L383 = 57 (matches Zugriff am Juli 29, 2025 count); backslash escapes 31, glued ref numbers 62, three endings, five questions: from 01-profile.txt and L261-263, L315

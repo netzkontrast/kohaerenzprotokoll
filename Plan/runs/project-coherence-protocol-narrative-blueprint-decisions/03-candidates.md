@@ -1,0 +1,103 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+The document is English prose with German names in quotation marks. Terms the document defines or sets in bold or as headings are listed; the lens section holds borrowed concepts it applies to the world.
+
+- AEGIS
+- Kael
+- Juna
+- Juna/V
+- Juna/V Moonshine-Link
+- Guardians
+- LogOS
+- Mnemosyne
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Lex
+- Nyx
+- Kiko
+- Rhys
+- Selene
+- The Void
+- Das Nichts Rauschen
+- Nichts Rauschen
+- Nothingness Noise
+- The Foundation
+- Das Fundament
+- The Gärtner
+- Gärtner
+- Differently Fragmented Other
+- Other Fragment
+- Dramaturg's Note
+- Hybrid/Adaptive model
+- Principle of Explosion
+- perverse learning loop
+- pathological learning
+- Gödel Gambit
+- Gödel-Gambit
+- living Gödel sentence
+- algorithmic melancholy
+- Negentropie-Fehlinterpretation
+- Digital Waste Entropy
+- Computational Slowdown
+- Sterile Gnosis
+- ontological vertigo
+- akusmatischer Harmonie
+- Rauschen
+- subjektiver Fehler
+- Kael-paradox
+- informational trauma
+- Combinatorial Explosion
+- inefficient beauty
+- Algorithmic Horror
+- Resonance Landscape
+- Fortress of Defense
+- Garden of Possibilities
+- ontological exploit
+- Synesthetic Resonance
+- Shared Qualia
+- resonance guide
+- dialetheic mind
+- nature preserves of chaos
+- sandboxes of potentiality
+- Found Logfiles
+- Fragmented Dialogues
+- Environmental Anomalies
+- Risse
+- Cache Coherence Glitches
+- Polyphonic Consciousness
+- Tangible Paraconsistency
+- Mutually Exclusive Epilogues
+- Blank Glossary Entries
+- Unreliable Footnotes
+- responsible openness
+- ANP
+- EP
+- ISH
+- TSDP
+- Emotional Part
+- Inner Self Helper
+- Paraconsistent Logic
+- Classical Logic
+- Relevance Logic
+- Dialetheic Logic
+
+## lens
+
+- strange attractor
+- basin of attraction
+- quantum entanglement
+- non-locality
+- Cache Coherence
+- Paradox of Tolerance
+- Dissociative Identity Disorder
+- Deus ex Machina
+- cognitive dissonance

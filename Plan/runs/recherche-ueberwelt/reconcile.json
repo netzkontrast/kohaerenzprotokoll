@@ -1,0 +1,125 @@
+{
+  "document": "recherche-ueberwelt",
+  "drive_id": "1_WYlyEJNXd7MOF3-IejoLvKP6-VVfjo1gMCB1nGdDXk",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; light pass — a prompt, readings only from its closing passage (L184–L197) by one wiki-reader subagent (Sonnet), from Plan/runs/ingest-192/brief.md; rlm_ingest not run",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 54,
+    "decisions": 54,
+    "decided_by_lookup": 44,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: a German research commission, a prompt — the AEGIS Functional Protocol v1.4 and five Guardian descriptions it gives as context stand in earlier read documents, and its five tasks are questions it does not answer; its new surfaces are the protocol's labels and the tasks' headings. Only the closing passage on the Überwelt's narrative role was read, onto six pages and one record.",
+  "new_readings": [
+    {
+      "page": "externe-ebene",
+      "lines": [
+        195
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as the Überwelt's counterpart"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        188,
+        194
+      ],
+      "attribution": "",
+      "note": "the Guardians' level and their part-3 reactions"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        195
+      ],
+      "attribution": "",
+      "note": "`Julia` and the Externe Ebene"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        192,
+        193,
+        194
+      ],
+      "attribution": "",
+      "note": "Michael's path through the Überwelt"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        192
+      ],
+      "attribution": "",
+      "note": "Risse in the Überwelt at the end of part 1"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        186,
+        188,
+        189,
+        192,
+        193,
+        194,
+        195
+      ],
+      "attribution": "",
+      "note": "the Überwelt's four narrative roles in the novel"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "as the read documents carrying the AEGIS Functional Protocol decided them (111, 141, 148, 154, 190): J22 and J10 (Integrity Guardian), J60 (an AEGIS expansion); Programm is a generic word, not the Kohärenz-Programm",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 78,
+      "decision": "occurrence",
+      "why": "light pass: a prompt; the line is given context or a question (Kairos's description)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 53,
+      "decision": "occurrence",
+      "why": "light pass: a prompt; the line is given context or a question (the SIS in the protocol text)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 188,
+      "decision": "reading",
+      "why": "the Überwelt as the Guardians' primary level of reality, read on ueberwelt"
+    }
+  ],
+  "not_promoted": [
+    "the protocol's labels — ZTEM, RTSV, BPoF, EIC, SVI, LCA, RIK, DRI",
+    "the tasks and the requested output structure"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

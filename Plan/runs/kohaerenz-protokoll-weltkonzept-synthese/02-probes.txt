@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      32
+  typographic marks      73
+  ascii quotes           10
+
+# inflection families -- one term, several surfaces
+  integ    Integration, Integrationsbemühungen, Integrationskampfes, Integrationsprozess, Integrationsreise, Integrationsversuche, Integrationsversuchen, Integratoren
+  inter    Interaktion, Interaktionen, Interaktionsdynamiken, Interaktionsmodus, Interaktionsregeln, Interface, Interkonnektivität, Internal
+  kontr    Kontrast, Kontrolle, Kontrolleuren, Kontrollieren, Kontrollmechanismen, Kontrollsystem, Kontrollversuche
+  defin    Definieren, Definierte, Definiertes, Definition, Definitionen, Definitive
+  poten    Potential, Potentialen, Potentialität, Potentialmeer, Potentialmeers, Potentials
+  selbs    Selbst, Selbstauflösung, Selbstauslöschung, Selbstauslöschungstendenz, Selbsterhaltung, Selbstproduktion
+  syste    System, Systembruch, Systeme, Systemkomponente, Systems, Systemzusammenbruch
+  unter    Unterdrückung, Unterscheidung, Unterscheidungen, Unterschied, Unterschiede, Unterschieden
+  kohär    Kohärenz, Kohärenzformen, Kohärenzprinzipien, Kohärenzprinzips, Kohärenzprotokolle
+  konfl    Konflikt, Konfliktdynamik, Konflikte, Konflikts, Konflikttreiber
+  proto    Protocol, Protokoll, Protokolle, Protokollen, Protokolls
+  reali    Reality, Realität, Realitäten, Realitätsmodell, Realitätsschicht
+  final    Finalem, Finalen, Finales, Finalisierte
+  fragm    Fragment, Fragmente, Fragmentierung, Fragments
+  funkt    Funktion, Funktionen, Funktionsprinzip, Funktionsweise
+  grenz    Grenze, Grenzen, Grenzerhaltung, Grenzziehung
+  kernw    Kernwelt, Kernwelten, Kernweltenstruktur, Kernweltenumgebungen
+  ontol    Ontological, Ontologie, Ontologisch, Ontologische
+  parad    Paradigma, Paradoxien, Paradoxon, Paradoxons
+  schlü    Schlüssel, Schlüsselelemente, Schlüsselelementen, Schlüsselereignisse
+  stabi    Stabile, Stabilität, Stabilitätsmechanismus, Stabilitätsquelle
+  verbi    Verbinden, Verbindet, Verbindung, Verbindungen
+  ander    Anderem, Anderen, Anderes
+  chara    Charakterbögen, Charakterentwicklung, Charakteristika
+  diese    Diese, Dieser, Dieses
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Form < Formen
+  Form < Konformen
+  Form < Information
+  Form < Informationen
+  Form < Kohärenzformen
+  Form < Ordnungsformen
+  Form < Transformation
+  Form < Ausformulierung
+  Form < Informationsverarbeitung
+  Hier < Hierarchie
+  Inkl < Einklang
+  Jede < Jeder
+  Juna < Junas
+  Kael < Kaels
+  Kern < Kerne
+  Kern < Kernwelt

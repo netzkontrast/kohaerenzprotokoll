@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- AEGIS
+- Kael
+- Juna/V
+- Juna
+- Nyx
+- Kiko
+- Lex
+- Selene
+- Guardians
+- Guardian
+- Das Fundament
+- Das Nichts Rauschen
+- Die Leere
+- Die Verbindung
+- Moonshine-Link
+- seltsamer Attraktor
+- Seltsamer Attraktor
+- Anziehungsbecken
+- Potentialmeer
+- informationale Leere
+- peripherer Entropie
+- akusmatischer Harmonie
+- Gnosis
+- episteme
+- synästhetische Resonanz
+- Synästhetische Resonanz
+- Geteilte Qualia
+- ontologischer Exploit
+- architektonische Hintertür
+- Kernkonzept
+- funktionalen Multiplizität
+- Polyphone Prosa
+- polyphone Prosa
+- positive Absicht
+- lebender Gödel-Satz
+- Algorithmische Melancholie
+- algorithmischer Melancholie
+- Algorithmic Horror
+- Epistemologische Isolation
+- Ineffiziente Schönheit
+- Zombie-System
+- Konsistenzmetriken
+- Axiommodifikationen
+- dialetheischer Geist
+- Paraiyas
+- Anscheinend Normalen Anteils
+- Emotionalen Anteil
+- ANP
+- EP
+- ISH/Torwächter
+- Torwächter
+- Verfolger
+- Verfolgers
+- Host
+- Kohärenz Protokoll
+- Kohärenz-Philosophie
+- TSDP
+- Depersonalisation
+- Derealisation
+
+## lens
+
+- Strukturellen Dissoziation der Persönlichkeit
+- Internal Family Systems
+- Logik der Formalen Inkonsistenz
+- parakonsistenter Logik
+- Autopoiesis
+- Gödels Erster Unvollständigkeitssatz
+- Quantenverschränkung
+- Prehension
+- Environmental Storytelling
+- Deus ex Machina
+- Whitehead
+- Deleuze
+- Bachtin
+- Polyphonie
+- Unheimlichen Tal
+- Glitch Art
+- Analog Horror
+
+The document is a German research report in the first person plural of a synthesis (no speaker named) with a TL;DR, a discussion section, three theme clusters and a source list with 53 numbered entries. Quotation marks around a term in the body mark the document's own coined names; the Quellen and Referenzen lists carry other texts' titles and are not candidates. The abbreviations IFS and EP stand only as written; Nyx and Lex are too short for --find but stand on lines 199 to 216.

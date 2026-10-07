@@ -1,0 +1,310 @@
+{
+  "document": "kohaerenz-protokoll-plotideen-extraktion",
+  "drive_id": "10oDo7h4F4XDItRcyARLG-qa02BU8Cgvk3NHzsQertt4",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 118,
+    "decisions": 121,
+    "decided_by_lookup": 106,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        30,
+        49,
+        57,
+        153,
+        180
+      ],
+      "attribution": "",
+      "note": "emergence by self-organisation, defined by negation, aimed at coherence, failing by convergence"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        233,
+        271,
+        279
+      ],
+      "attribution": "",
+      "note": "the ten Alters as IFS parts, hypothetically"
+    },
+    {
+      "page": "ani",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "one name inside AEGIS's philosophy of trustlessness"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        267
+      ],
+      "attribution": "",
+      "note": "the failure of boundary-drawing"
+    },
+    {
+      "page": "did",
+      "lines": [
+        219,
+        221,
+        223,
+        227,
+        235
+      ],
+      "attribution": "",
+      "note": "DID as the consequence of AEGIS's analysis, read through IFS"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        24,
+        49
+      ],
+      "attribution": "",
+      "note": "AEGIS emerges from the sea by self-organisation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        28,
+        180
+      ],
+      "attribution": "",
+      "note": "entropy as possibility in the sea, as incoherence in AEGIS's eyes"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        257,
+        259,
+        263
+      ],
+      "attribution": "",
+      "note": "five Guardians as subsystems of AEGIS, each a blind spot, together embodied limits"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        177,
+        179,
+        180,
+        181,
+        431,
+        588
+      ],
+      "attribution": "",
+      "note": "Julia (read on juna): the K-J connection below AEGIS's protocols"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        179,
+        221,
+        235,
+        463,
+        464,
+        587,
+        588,
+        610
+      ],
+      "attribution": "",
+      "note": "Kael's DID as AEGIS's doing, and the plot ideas that proceed from it"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        268
+      ],
+      "attribution": "",
+      "note": "the failure to understand emergence and true novelty"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        73,
+        241
+      ],
+      "attribution": "",
+      "note": "simulation environments of AEGIS with a double purpose"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        57,
+        289
+      ],
+      "attribution": "",
+      "note": "AEGIS's aim of coherence, and a conflict of two principles of it"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        265
+      ],
+      "attribution": "",
+      "note": "first of four worlds, the world of LogOS"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        265
+      ],
+      "attribution": "",
+      "note": "the limits of formal logic"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        266
+      ],
+      "attribution": "",
+      "note": "the limits of pure data processing"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        269
+      ],
+      "attribution": "",
+      "note": "a name with a question mark in Sophia's line, and a central connecting point in a plot idea"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        19,
+        23,
+        557,
+        588
+      ],
+      "attribution": "",
+      "note": "the sea as the most fundamental level, below Floridi's Infosphäre"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        41,
+        181
+      ],
+      "attribution": "",
+      "note": "the sea as the most fundamental level"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        32,
+        248,
+        250,
+        251,
+        252,
+        253
+      ],
+      "attribution": "",
+      "note": "possible causes of the Risse"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        280
+      ],
+      "attribution": "",
+      "note": "Silas, an Alter among ten, a Firefighter by hypothesis"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        269
+      ],
+      "attribution": "",
+      "note": "the fifth Guardian with a question mark on its world"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        73,
+        83
+      ],
+      "attribution": "",
+      "note": "the operative domain of AEGIS, and an open question whether it is a simulation too"
+    },
+    {
+      "page": "ztv",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "one name inside AEGIS's philosophy of trustlessness"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C3",
+    "C6",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 24,
+      "decision": "reading",
+      "why": "the emergence of AEGIS from the sea, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "decision": "reading",
+      "why": "the sea's maximal entropy in the sense of possibility, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 41,
+      "decision": "reading",
+      "why": "the Potentialmeer as the most fundamental Realitätsebene in the table, read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

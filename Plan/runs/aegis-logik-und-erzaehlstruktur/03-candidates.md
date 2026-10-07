@@ -1,0 +1,88 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- AEGIS
+- Kael
+- Juna
+- Guardians
+- Guardian LogOS
+- LogOS
+- Mnemosyne
+- Lex
+- Nyx
+- Rhys
+- Kiko
+- Alter
+- Kern-Welt
+- Kern-Welten
+- Logos-Prime
+- Überwelt
+- Leere
+- Leere/das Potentialmeer
+- Leere/des Potentialmeers
+- Potentialmeer
+- Fundament
+- Risse
+- Grounding-Artefakte
+- Psycho-Architekturen
+- Moonshine-Link
+- Moonshine-Links
+- Kael-Juna-Verbindung
+- Kael/Juna-Phänomen
+- Juna/V-Verbindung
+- Juna/V-Vektor
+- Zero-Trust Execution Model (ZTEM)
+- ZTEM
+- Encrypted Intent Channels (EIC)
+- EIC
+- Externen Ebene
+- ontologische Exploit
+- funktionale Multiplizität
+- funktionalen Multiplizität
+- Kohärenz durch Empathie
+- lebendigen Gödel-Satz
+- Gödel-Gambit
+- Kael-Paradoxon
+- Konsistenzmetrik
+- Axiommodifikationen
+- Kernaxiom
+- Kern-Definition
+- Anti-Dialetheisches AEGIS
+- Hybrides AEGIS
+- Der rekursive Absturz
+- erzwungene Transformation
+- logische Paralyse
+- Der ertrinkende Gott
+- Anti-Licht
+- Klang des Anti-Klangs
+- Nichts-Rauschen
+- Integration
+- Fehlerberichte
+- ANOMALY DETECTED
+
+## lens
+
+- Dialetheismus
+- Dialetheia
+- psychologischen Dialetheia
+- Parakonsistenz
+- C1
+- FLP-Unmöglichkeitstheorem
+- Edge Instantiation
+- perversen Instantiierung
+- Society of Mind
+- Gesellschaft des Geistes
+- Gödels Erster Unvollständigkeitssatz
+- Gödel-Satz
+- Trauma-Modell der Dissoziativen Identitätsstörung (DID)
+- DID
+- Katalysator- oder Magier-Archetyp
+- Katalysator-Archetyp
+- Quanten-Nichtlokalität
+- Environmental Storytelling
+- Deus ex Machina
+- Grounding
+- Wuji
+- Kyoto-Schule
+- Steering
+
+The list was written after one pass through all 384 lines. Names of Kael's alters (Lex, Rhys, Nyx, Kiko) and of Guardians stand once or twice in running prose with a role beside them. The document is a report written as an answer to a letter („Sehr geehrter Herr Kollege“) and addresses a concept draft; quotations inside it of AEGIS's core axiom stand in table and prose and are listed as written. Terms that stand only in the reference list (the titles of web pages) were left out. The formula glyphs of the export are damaged (negation signs lost, a subscript flattened to "GF" with an invisible character), so no formula is listed.

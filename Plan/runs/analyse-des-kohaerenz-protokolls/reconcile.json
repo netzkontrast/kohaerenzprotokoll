@@ -1,0 +1,353 @@
+{
+  "document": "analyse-des-kohaerenz-protokolls",
+  "drive_id": "1vNz-K1TNB2EZt4tryDXbJwJtGJgN7X6affbWX59ehW8",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-189/brief.md; no chapter page — the document names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 103,
+    "decisions": 107,
+    "decided_by_lookup": 84,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German research report that reads the protocol as cache invalidation and as structural dissociation: its new surfaces are its analytic labels (MESI, Bus Snooping, Agnotologie, the Heuristik der Negation, Mauvaise foi, the Monster-Symmetrie), the Ursprungs-Ich and Entität M, the inhabitants Index, Praetor, Nox and Limina, the English prompt's labels and borrowed theories; what it says of the novel's world went on existing pages and five records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "the second expansion of AEGIS, joined by `oder auch`"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        24,
+        108,
+        132,
+        163,
+        221,
+        369,
+        373
+      ],
+      "attribution": "",
+      "note": "AEGIS as a hyper-rational system caught in a recursion, not an antagonist"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        147,
+        271
+      ],
+      "attribution": "",
+      "note": "containment without resolution, then collapse into it"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        221,
+        229,
+        235,
+        341
+      ],
+      "attribution": "",
+      "note": "the Alters as fragments of the EP, held in the Kernwelten"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        52,
+        68
+      ],
+      "attribution": "",
+      "note": "entropy as Shannon measure and as the pull AEGIS exists against"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        155,
+        371
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as the event that put the protocol into practice"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        269,
+        271
+      ],
+      "attribution": "",
+      "note": "Kael as a living Gödel statement and AEGIS's fatal recursion"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        238
+      ],
+      "attribution": "",
+      "note": "KW3 as an endless bunker complex"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        163,
+        267,
+        369
+      ],
+      "attribution": "",
+      "note": "Juna as the external entity AEGIS must negate"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        145,
+        221,
+        236,
+        269,
+        369,
+        371
+      ],
+      "attribution": "",
+      "note": "Kael as the EP split from AEGIS, and the one who reaches functional multiplicity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        229,
+        231,
+        236,
+        237,
+        238,
+        239
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as logical containers for Kael's fragments"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        221
+      ],
+      "attribution": "",
+      "note": "Kiko named once, among the fragments of the EP"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        337,
+        339,
+        341
+      ],
+      "attribution": "",
+      "note": "734 in the English prompt, addressed to AEGIS"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        236
+      ],
+      "attribution": "",
+      "note": "KW1 `Logos-Prime`, a sterile world of perfect geometry"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        218
+      ],
+      "attribution": "",
+      "note": "`Logos` in the ANP row and in `Logos-Prime`"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        237,
+        341
+      ],
+      "attribution": "",
+      "note": "KW2 `Mnemosyne-Archipel`, trauma and memory"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        239
+      ],
+      "attribution": "",
+      "note": "KW4 where contradictions coexist"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        176,
+        180,
+        183,
+        203,
+        267,
+        373
+      ],
+      "attribution": "",
+      "note": "the link as the Ursprungs-Ich's resonance, detected as a deviation"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        221
+      ],
+      "attribution": "",
+      "note": "Moros named once, among the fragments of the EP"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        269
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as integration without fusion"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        68
+      ],
+      "attribution": "",
+      "note": "ordered structure as `Negentropie` against the gradient"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "`Nichts Rauschen` as the acoustic name of the substrate, reported from the sources"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        221
+      ],
+      "attribution": "",
+      "note": "Nyx named once, among the fragments of the EP"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        44,
+        52,
+        60,
+        68
+      ],
+      "attribution": "",
+      "note": "the substrate as maximal Shannon entropy and a heat bath"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        237
+      ],
+      "attribution": "",
+      "note": "KW2 as a fluid world shaped by emotion"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        237,
+        241
+      ],
+      "attribution": "",
+      "note": "the Risse as ontological leaks"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        213,
+        218,
+        221
+      ],
+      "attribution": "",
+      "note": "the protocol read as structural dissociation, ANP and EP"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (Autonomous Entropic Gatekeeper for Integrity Systems / AEGIS, read on aegis-teilfunktionen), J61 (Garten der Möglichkeiten / Möglichkeits-Garten, read on moeglichkeits-garten), J49 (Logos-Prime / LogOS: a world; Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis, the worlds' names, read on kern-welten), J1 and J2 (Die Konstruktstadt and Die Resonanzlandschaft with their article, read on konstrukt-stadt and resonanz-landschaft), J41 (Die Grenzfestung, read on grenzfeste), J5 (Negentropie / Entropie), J9 (the Protokoll's name; Fehlausgerichtete Kohärenz, AEGIS's diagnosis, read on moonshine-link), J12 and J48 (compounds and inflections with their page's sense: Genesis-Krise, read on genesis, Funktionalen Multiplizität, read on multiplizitaet, Algorithmischen Melancholie, read on algorithmische-melancholie); Resonanz is the Ursprungs-Ich's response, not the Entropie-Resonanz-Protokolle, and Mauer is a figure for AEGIS's firewall, not the Große Mauer",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 88,
+      "decision": "occurrence",
+      "why": "the general word in a phrase of the sources"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 24,
+      "decision": "reading",
+      "why": "AEGIS's existence against the entropic pull, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "the project's name in the report's opening"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 341,
+      "decision": "reading",
+      "why": "a simulation where 734's shards were imprisoned, in the English prompt, read on mnemosyne"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 269,
+      "decision": "reading",
+      "why": "Kael's functional multiplicity in the Gödel-Gambit, read on multiplizitaet"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 28,
+      "decision": "occurrence",
+      "why": "Sartre's bad faith as the simulation of absolute necessity, nothing of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "MESI, Bus Snooping and cache invalidation — the report's reading of the protocol",
+    "Agnotologie, the Heuristik der Negation, Mauvaise foi",
+    "the Ursprungs-Ich and Entität M — on C16, juna and moonshine-link",
+    "Index, Praetor, Nox and Limina — no pages; on Q3",
+    "the English prompt's labels (Origin-Self, Void Entity, Entity 734, Component 734) — on komponente-734 and Q7",
+    "the borrowed theories (Shannon entropy, Landauer, Gödel, Monstrous Moonshine)"
+  ],
+  "internal_tension": "Kael is the EP split from the ANP (AEGIS) in section 5 (L221) and the Ursprungs-Ich in the conclusion (L369); the report does not say whether these are one reading",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,264 @@
+{
+  "document": "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+  "drive_id": "1Eeb1NYOwXf3ambF8EiKH26rADllPNH-NELnv05th2t8",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-201/brief.md; chapter readings on 13 chapters by the session, from each chapter's heading and the first sentence of its revised plot summary, Plan/runs/ingest-201-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 97,
+    "decisions": 101,
+    "decided_by_lookup": 78,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German revision plan for part 1 that critiques an earlier plot draft and revises chapters 1–13 scene by scene: its new surfaces are its cast without pages (Sibyl, Dr. Thorne, Anya, Limina, Nox, Chronos, Schattenkind), its 38 places and Threshold Zones, its revision fields and borrowed craft terms (Environmental Storytelling, the Heldenreise stages); what it says of the novel's world went on existing pages, 13 chapter pages and three records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        57,
+        89,
+        91,
+        92,
+        118,
+        142,
+        460,
+        481,
+        484,
+        559,
+        571
+      ],
+      "attribution": "",
+      "note": "a plan to make AEGIS's opposition specific, with its nature left a question"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        27,
+        59,
+        280,
+        508
+      ],
+      "attribution": "",
+      "note": "the alters as an unused ensemble that every scene should show"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        56,
+        82,
+        242,
+        266
+      ],
+      "attribution": "",
+      "note": "Argus as the border warden whose state mirrors the stability of the threshold"
+    },
+    {
+      "page": "did",
+      "lines": [
+        39,
+        44,
+        91,
+        132,
+        134,
+        308
+      ],
+      "attribution": "",
+      "note": "the DID to be externalised through the places and written into every scene"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        39,
+        484,
+        559
+      ],
+      "attribution": "",
+      "note": "entropy as something the places should show, and AEGIS's brutal containment of it"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        21,
+        43,
+        481
+      ],
+      "attribution": "",
+      "note": "`Guardians` as AEGIS's units in the earlier draft and the escalation chapter"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        27,
+        60,
+        90,
+        104,
+        118,
+        242
+      ],
+      "attribution": "",
+      "note": "Juna as an external voice whose contact the plan wants defined"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        92,
+        104,
+        481
+      ],
+      "attribution": "",
+      "note": "Kael as the figure the revised plot of part 1 is built around"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        56,
+        82
+      ],
+      "attribution": "",
+      "note": "transitions between the Kern-Welten as planned events"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        27,
+        31,
+        57,
+        481
+      ],
+      "attribution": "",
+      "note": "`Einheit 734` as an AEGIS unit and recurring antagonist"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        22,
+        142,
+        152,
+        153,
+        166
+      ],
+      "attribution": "",
+      "note": "Lex as the dutiful archivist who meets Kael in the city and the archive"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "the six Realitätsebenen as scenery the earlier draft leaves passive"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        21,
+        39,
+        81,
+        91,
+        118,
+        133,
+        142,
+        156,
+        180,
+        270,
+        470,
+        481,
+        484
+      ],
+      "attribution": "",
+      "note": "a plan to show the Risse through the places, escalating to a systemwide wave"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        22,
+        317,
+        330,
+        341,
+        508
+      ],
+      "attribution": "",
+      "note": "Silas as the skeptic and information trader of the Glitching Market, motives left open"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C7"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J49 (Mnemosyne-Archive, a place's name); Echo is the alter (Verlorenes Kind/Echo), not the Residual-Echos; Depersonalisation is the clinical symptom, not the Personas; Simulation is the setting's general word, not the Überwelt",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 58,
+      "decision": "occurrence",
+      "why": "Nexus of Whispers is an oracle place on the information level, not the meta-space"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 35,
+      "decision": "reading",
+      "why": "the six reality levels as passive scenery, read on realitaetsebenen"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "the setting's general word"
+    }
+  ],
+  "not_promoted": [
+    "Sibyl, Dr. Thorne, Anya — no pages; Einheit 734 went on komponente-734",
+    "Limina, Nox, Chronos, Schattenkind — named on alters",
+    "the places, the Glitching Market, Sektor Beta, the Threshold Zones",
+    "the revision fields and the Heldenreise stages"
+  ],
+  "internal_tension": "it calls itself a final concept that replaces and extends an earlier draft the reader does not have (L11, L96); its chapter numbers count part 1 of its own plan, not the 40 chapters of other outlines",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

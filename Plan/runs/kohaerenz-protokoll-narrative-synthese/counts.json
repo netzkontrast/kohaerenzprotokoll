@@ -1,0 +1,688 @@
+{
+  "document": "kohaerenz-protokoll-narrative-synthese",
+  "drive_id": "145X0jEBddH5byfNjuvOSImtu6gh4imfqOYyCnT1CP2k",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 40,
+      "n_including_compounds": 40,
+      "lines": [
+        24,
+        26,
+        38,
+        42,
+        60,
+        66,
+        70,
+        79,
+        94,
+        99,
+        103,
+        105,
+        120,
+        128,
+        133,
+        134,
+        135,
+        137,
+        139,
+        141,
+        151,
+        153,
+        155,
+        165,
+        170,
+        171,
+        172,
+        180,
+        218
+      ]
+    },
+    "Kael": {
+      "n": 11,
+      "n_including_compounds": 23,
+      "lines": [
+        26,
+        40,
+        42,
+        60,
+        62,
+        71,
+        94,
+        96,
+        99,
+        103,
+        104,
+        120,
+        128,
+        134,
+        135,
+        155,
+        180,
+        216,
+        217,
+        255
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        94,
+        96,
+        137,
+        216
+      ]
+    },
+    "Juna": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        94,
+        96,
+        103,
+        104,
+        137,
+        216
+      ]
+    },
+    "Nyx": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        203,
+        204,
+        214,
+        216,
+        217,
+        218,
+        256
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        199,
+        203,
+        257
+      ]
+    },
+    "Lex": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        199,
+        203,
+        204,
+        258
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        217,
+        259
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        172
+      ]
+    },
+    "Guardian": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        151,
+        172
+      ]
+    },
+    "Das Fundament": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        24,
+        60,
+        62,
+        71,
+        110,
+        180
+      ]
+    },
+    "Das Nichts Rauschen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        79,
+        111,
+        180
+      ]
+    },
+    "Die Leere": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        111
+      ]
+    },
+    "Die Verbindung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        112
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        90,
+        112,
+        137
+      ]
+    },
+    "seltsamer Attraktor": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        56,
+        62
+      ]
+    },
+    "Seltsamer Attraktor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Anziehungsbecken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "informationale Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "peripherer Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "akusmatischer Harmonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Gnosis": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        70,
+        105,
+        149,
+        155
+      ]
+    },
+    "episteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "synästhetische Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Synästhetische Resonanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        112
+      ]
+    },
+    "Geteilte Qualia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104,
+        112
+      ]
+    },
+    "ontologischer Exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "architektonische Hintertür": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Kernkonzept": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        60,
+        79,
+        94,
+        128,
+        149,
+        165,
+        188,
+        212,
+        226
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        28,
+        62,
+        64,
+        128,
+        188
+      ]
+    },
+    "Polyphone Prosa": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "polyphone Prosa": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "positive Absicht": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        40,
+        208,
+        212,
+        216
+      ]
+    },
+    "lebender Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        128
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        145,
+        155
+      ]
+    },
+    "algorithmischer Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        161,
+        165
+      ]
+    },
+    "Epistemologische Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Ineffiziente Schönheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Zombie-System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Konsistenzmetriken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Axiommodifikationen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "dialetheischer Geist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Anscheinend Normalen Anteils": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Emotionalen Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "ANP": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        180,
+        255,
+        258
+      ]
+    },
+    "EP": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        180,
+        256,
+        257
+      ]
+    },
+    "ISH/Torwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Torwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Verfolger": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        208,
+        212,
+        216
+      ]
+    },
+    "Verfolgers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        208,
+        212
+      ]
+    },
+    "Host": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        198,
+        216,
+        255
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        13,
+        22,
+        267,
+        273,
+        277,
+        279,
+        281,
+        285,
+        415
+      ]
+    },
+    "Kohärenz-Philosophie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        40,
+        254
+      ]
+    },
+    "Depersonalisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        230
+      ]
+    },
+    "Derealisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        238
+      ]
+    },
+    "Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        40
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Logik der Formalen Inkonsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "parakonsistenter Logik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        151
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Gödels Erster Unvollständigkeitssatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        96
+      ]
+    },
+    "Prehension": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        97
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        62
+      ]
+    },
+    "Whitehead": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        24,
+        40,
+        97,
+        359,
+        432,
+        433
+      ]
+    },
+    "Deleuze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Bachtin": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        192
+      ]
+    },
+    "Polyphonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Unheimlichen Tal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Glitch Art": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Analog Horror": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        165,
+        387,
+        389,
+        409,
+        447
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "document": "the-writer-s-room-blueprint-coherence-protocol",
+  "drive_id": "1rnls56AQbfKp0phV6bLTRo1kZjOm1HMalGg_SRNfW2Y",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; light pass — no readings, as an extract of document 157; rlm_ingest not run",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 70,
+    "decisions": 74,
+    "decided_by_lookup": 63,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Light pass: an English writer's blueprint whose every body line stands word for word in document 157, narrative-blueprint-the-coherence-protocol (423 lines), which carries it as one of its parts; document 157's readings on these pages hold the same, and its 42 new surfaces were decided there.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (the AEGIS expansion and Gatekeeper, read on aegis by document 157), J34 (Juna/V), J49 (Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis — world names, read on kern-welten), J12 and J16 (compounds with their own sense: The Gödel Gambit, on goedel-gambit), J23 and J56 (number: Guardian/Guardians)",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 134,
+      "decision": "reading",
+      "why": "light pass: every body line stands in document 157, narrative-blueprint-the-coherence-protocol, whose reading on this page holds the same"
+    }
+  ],
+  "not_promoted": [
+    "everything document 157 did not promote — Dr. Thorne, the set-pieces, the lexicon's labels"
+  ],
+  "internal_tension": "none beyond document 157's",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

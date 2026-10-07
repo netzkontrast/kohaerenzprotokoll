@@ -1,0 +1,285 @@
+{
+  "document": "project-status-report-kohaerenz-protokoll-canonical-state-st",
+  "drive_id": "1t9DBsiC5QDp0xfQ6YLmo_n0uKGHWc9PowtSwDs26FLs",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-166/brief.md; no chapter page — the report names acts, not chapters",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 79,
+    "decisions": 80,
+    "decided_by_lookup": 66,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English status report of 2026-03-26 that declares a Hard Canon and lists contradictions, gaps and tasks: its 48 new surfaces are its labels (Hard Canon, Protocol Ontology, Overhead, Corrective Wavelets, the K₁ and K₀ Kernel, Mandate of Open Coherence, Trigger Matrix, Gnostic Injections, the Gardener mandate), its English names for the novel's machinery and borrowed theory (IFS, Quantum Decoherence, Strange Attractor, Integrated Information); what it says of the novel's world went on 24 existing pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        16,
+        31,
+        53,
+        93
+      ],
+      "attribution": "",
+      "note": "AEGIS as the coherence side, and the terminal state the report declares"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "the report lists Alex as Protector ANP"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        45,
+        47,
+        48,
+        49,
+        101
+      ],
+      "attribution": "",
+      "note": "the report declares a Confirmed Core of eleven and marks the 11 vs. 13 discrepancy UNKLAR"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "the report lists Argus as Observer"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        22
+      ],
+      "attribution": "",
+      "note": "Coherons in its Protocol Ontology"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        37,
+        63,
+        102
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise defined for AEGIS, Kael's Genesis-Event open"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        31,
+        88
+      ],
+      "attribution": "",
+      "note": "the climax as a Hard Canon pillar"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "the report lists Isabelle as Sexualized EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        41,
+        93
+      ],
+      "attribution": "",
+      "note": "the report plans Juna/V as a dual-state: External-Level entity and Kael's exiled original self"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        9,
+        11,
+        16,
+        31,
+        41,
+        63,
+        102
+      ],
+      "attribution": "",
+      "note": "the report declares him the host and primary ANP of a system of eleven"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        11,
+        70
+      ],
+      "attribution": "",
+      "note": "the report lists Kiko as Freeze/Child EP with a Temporal/Stutter Glitch"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        11,
+        87
+      ],
+      "attribution": "",
+      "note": "the report lists Lex as Rationalist ANP and names him in the Act II suppression"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        11,
+        71
+      ],
+      "attribution": "",
+      "note": "the report lists Lia as Ambivalent/Child EP and asks for an attachment-based trigger"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "the transcripts as Gnostic Injections"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        11,
+        49
+      ],
+      "attribution": "",
+      "note": "the report lists Moros as Collapse EP and Oblivion as its likely prototype"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        11,
+        69,
+        72
+      ],
+      "attribution": "",
+      "note": "the report lists Nyx as Fight EP and assigns a Kinetic Glitch as trigger"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        48,
+        49,
+        101
+      ],
+      "attribution": "",
+      "note": "the report names Oblivion a Redundancy Candidate, likely a prototype for Moros"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        11,
+        49
+      ],
+      "attribution": "",
+      "note": "the report lists Rhys as Caretaker ANP and marks Silas his likely prototype"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        59,
+        67
+      ],
+      "attribution": "",
+      "note": "a Mandate of Open Coherence and a 1:1 trigger link"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        11
+      ],
+      "attribution": "",
+      "note": "the report lists Selene as Integrator ANP"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        48,
+        49,
+        101
+      ],
+      "attribution": "",
+      "note": "the report names Silas a Redundancy Candidate, likely an alias for Rhys"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        9,
+        12,
+        63,
+        102
+      ],
+      "attribution": "",
+      "note": "the report names TSDP as the structural diagnosis and IFS as the pathway"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title: Kohärenz Protokoll), J34 (Juna/V, read on juna), J49 (Logos-Prime — a world name), J60 (Gatekeeper — here the report's own metaphor for fragmented notes, an occurrence), J23 and J56 (number: Riss/Risse), J12 and J16 (compounds and qualified labels with their own sense: Alter-Sync, read on alters, Genesis-Krise and Genesis-Event, read on genesis, Coherons, read on coheron, Kinetic Glitch and Temporal/Stutter Glitch, on risse, Threshold Guardians, a metaphor, the TSDP's full name)",
+  "sweep": [
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 78,
+      "decision": "occurrence",
+      "why": "Threshold Guardians, the report's metaphor for its open gaps"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 39,
+      "decision": "reading",
+      "why": "the Juna/V paradox, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    }
+  ],
+  "not_promoted": [
+    "the K₁ and K₀ Kernel — new surfaces here (L23, L24)",
+    "Protocol Ontology, Overhead, Corrective Wavelets — on coheron",
+    "The Foundation, the 6 Paraiyas — on juna",
+    "the Trigger Matrix, Kinetic and Temporal/Stutter Glitch, Relational/Sensory Drift — on risse, nyx, kiko, lia",
+    "Gnostic Injections — on moonshine-link",
+    "Hypothesis A/B — on aegis and Q8",
+    "IFS, Polyphonic Prose, the collective We, Hard Canon, the Gardener mandate — craft and method"
+  ],
+  "internal_tension": "its heading names „11 vs. 13“ (L43) but the report lists only eleven and gives no source for thirteen; Silas and Oblivion are named in its registry's margin and purged in its roadmap (L48, L101)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

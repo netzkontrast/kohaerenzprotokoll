@@ -1,0 +1,14 @@
+# project-status-report-kohaerenz-protokoll-canon-systemic-sta
+  lines                86  (frontmatter ends at 0)
+  body words           1277
+  headings             13   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    35
+  typographic marks    16   ascii quotes 110
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         1134 chars
+

@@ -1,0 +1,244 @@
+{
+  "document": "kohaerenz-protokoll-master-integration-md",
+  "drive_id": "1YDYuTblPZjLMelZwD_O0nlzfku2wQ9Bg",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 18,
+  "backslash_escapes": 393,
+  "typographic_marks": 111,
+  "ascii_quotes": 38,
+  "inflection_families": {
+    "archi": [
+      "ARCHITEKTUR",
+      "Archipel",
+      "Architect",
+      "Architecture",
+      "Architekt",
+      "Architektur",
+      "Architekturen",
+      "Archiv"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentiert",
+      "Fragmentierte",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systeme",
+      "Systemhum",
+      "Systemisches",
+      "Systems"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionelle",
+      "Funktioneller",
+      "Funktionen",
+      "Funktioniert"
+    ],
+    "physi": [
+      "Physics",
+      "Physik",
+      "Physikalisch",
+      "Physikalisierung",
+      "Physische"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergente",
+      "Emergenz",
+      "Emergiert"
+    ],
+    "gravi": [
+      "Gravitation",
+      "Gravitationsarchitektur",
+      "Gravitationsermüdung",
+      "Gravitationsfeld"
+    ],
+    "integ": [
+      "INTEGRITY",
+      "Integration",
+      "Integrator",
+      "Integrität"
+    ],
+    "korre": [
+      "Korrelation",
+      "Korreliert",
+      "Korrespondenz",
+      "Korrespondenztheorie"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxe",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychologischer",
+      "Psychologisches",
+      "Psychology"
+    ],
+    "quant": [
+      "Quantenkohärenz",
+      "Quantenwellen",
+      "Quantisiert",
+      "Quantum"
+    ],
+    "alter": [
+      "Alter",
+      "Altern",
+      "Alters"
+    ],
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "daten": [
+      "Daten",
+      "Datentransfers",
+      "Datenverarbeitung"
+    ],
+    "drama": [
+      "DRAMATICA",
+      "Dramatica",
+      "Dramatisierung"
+    ],
+    "frage": [
+      "FRAGEN",
+      "Frage",
+      "Fragen"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenztheorie",
+      "Kohärenzversagen"
+    ],
+    "lösch": [
+      "Löschung",
+      "Löschungen",
+      "Löschungsereignisse"
+    ],
+    "narbe": [
+      "Narbe",
+      "Narben",
+      "Narbenbildung"
+    ],
+    "narra": [
+      "NARRATIVE",
+      "Narrativ",
+      "Narrative"
+    ],
+    "netzw": [
+      "Netzwerk",
+      "Netzwerke",
+      "Netzwerks"
+    ],
+    "nicht": [
+      "NICHT",
+      "Nicht",
+      "Nichts"
+    ],
+    "optio": [
+      "Option",
+      "Optionen",
+      "Optionlock"
+    ],
+    "phase": [
+      "Phase",
+      "Phasensymmetrie",
+      "Phasenzyklen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Atem",
+      "Atemzählung"
+    ],
+    [
+      "Core",
+      "Score"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ende",
+      "Abweichende"
+    ],
+    [
+      "Ende",
+      "Schweigende"
+    ],
+    [
+      "Ende",
+      "Transzendente"
+    ],
+    [
+      "Form",
+      "STORYFORM"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationelles"
+    ],
+    [
+      "Gott",
+      "Gottessystems"
+    ],
+    [
+      "Grat",
+      "Integrator"
+    ],
+    [
+      "Grat",
+      "Integration"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Jede",
+      "Jedes"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ]
+  ]
+}

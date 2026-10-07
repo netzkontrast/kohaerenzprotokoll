@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese
+  lines                56  (frontmatter ends at 9)
+  body words           1134
+  headings             0   bold-only lines 7
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    1   ascii quotes 30
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    9
+  repeated labels      none
+  longest line         1079 chars
+

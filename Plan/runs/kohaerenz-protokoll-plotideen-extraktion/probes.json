@@ -1,0 +1,360 @@
+{
+  "document": "kohaerenz-protokoll-plotideen-extraktion",
+  "drive_id": "10oDo7h4F4XDItRcyARLG-qa02BU8Cgvk3NHzsQertt4",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 2
+  },
+  "glued_ref_numbers": 158,
+  "backslash_escapes": 112,
+  "typographic_marks": 35,
+  "ascii_quotes": 208,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemarchitektur",
+      "Systembereichen",
+      "Systemdynamiken",
+      "Systeme",
+      "Systemen",
+      "Systemereignis",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systemgrenzen",
+      "Systemic",
+      "Systeminstabilität",
+      "Systeminstabilitäten",
+      "Systemisch",
+      "Systemische",
+      "Systemisches",
+      "Systemkollaps",
+      "Systemkomplexität",
+      "Systemkomponenten",
+      "Systemkrise",
+      "Systemlähmung",
+      "Systemoperationen",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemverhaltens",
+      "Systemüberlastung"
+    ],
+    "infor": [
+      "Information",
+      "Informationell",
+      "Informationelle",
+      "Informationen",
+      "Informationsbits",
+      "Informationsdichte",
+      "Informationsdichtegrenzen",
+      "Informationsentropie",
+      "Informationskodierung",
+      "Informationskosten",
+      "Informationslöschung",
+      "Informationsmenge",
+      "Informationsquelle",
+      "Informationsräume",
+      "Informationsverarbeitung",
+      "Informationsverarbeitungsgrenzen"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrolleur",
+      "Kontrolleurs",
+      "Kontrollgrenzen",
+      "Kontrollinstrument",
+      "Kontrollkapazität",
+      "Kontrollmechanismen",
+      "Kontrollregime",
+      "Kontrollverlust",
+      "Kontrollversuche",
+      "Kontrollversuchen",
+      "Kontrollvielfalt",
+      "Kontrollzentrum"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbezug",
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbsterhaltungsprotokoll",
+      "Selbsterhaltungstriebs",
+      "Selbstfindung",
+      "Selbstgefühl",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstverletzung",
+      "Selbstvertrauen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmöglichkeiten",
+      "Interdependenz",
+      "Interferenz",
+      "Internal",
+      "Interne",
+      "Interpretation",
+      "Interpretationen",
+      "Intervention",
+      "Interventionen"
+    ],
+    "poten": [
+      "Potential",
+      "Potentiale",
+      "Potentiality",
+      "Potentialität",
+      "Potentialitäts",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potentielle",
+      "Potenzial",
+      "Potenziell"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriealgebra",
+      "Symmetriebrecher",
+      "Symmetriebrechung",
+      "Symmetriebrechungen",
+      "Symmetriekonflikt",
+      "Symmetrien",
+      "Symmetriestruktur",
+      "Symmetry"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückung",
+      "Unterscheidung",
+      "Unterschied",
+      "Unterstrukturen",
+      "Unterstützende",
+      "Untersuchung",
+      "Untersuchungen",
+      "Unterziele"
+    ],
+    "reali": [
+      "Realismus",
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsschicht",
+      "Realitätsstruktur"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationskaskade",
+      "Integrationsprozess",
+      "Integrativ",
+      "Integrative",
+      "Integrity",
+      "Integrität"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Modell",
+      "Modellblindheit",
+      "Modelle",
+      "Modellen",
+      "Modells"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontologie",
+      "Ontologien",
+      "Ontologisch",
+      "Ontologische",
+      "Ontologischer",
+      "Ontologisches"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatry",
+      "Psychological",
+      "Psychologie",
+      "Psychologisches",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analyseversuche",
+      "Analysezwecken",
+      "Analysiert",
+      "Analytische"
+    ],
+    "ident": [
+      "Identifizierung",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsstörung",
+      "Identitätszuständen"
+    ],
+    "opera": [
+      "Operation",
+      "Operationen",
+      "Operationsregeln",
+      "Operationsweise",
+      "Operator",
+      "Operatorproduktentwicklungen"
+    ],
+    "parad": [
+      "Paradigm",
+      "Paradox",
+      "Paradoxerweise",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenen",
+      "Phänomenologie",
+      "Phänomenologisch",
+      "Phänomenologisches"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokollarität",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozessdenken",
+      "Prozesse",
+      "Prozessen",
+      "Prozesses",
+      "Prozessphilosophie"
+    ],
+    "archi": [
+      "Architect",
+      "Architecture",
+      "Architekt",
+      "Architektur",
+      "Archive"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtereffekt",
+      "Beobachters",
+      "Beobachtung",
+      "Beobachtungen"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziative"
+    ],
+    "energ": [
+      "Energeia",
+      "Energie",
+      "Energiedissipation",
+      "Energieentladungen",
+      "Energiekosten"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzerfahrung",
+      "Grenzziehung",
+      "Grenzüberschreitung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Bild",
+      "Fraktionsbildung"
+    ],
+    [
+      "Bind",
+      "Verbindung"
+    ],
+    [
+      "Bind",
+      "Verbindungen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Fact",
+      "Factors"
+    ],
+    [
+      "Fall",
+      "Falle"
+    ],
+    [
+      "Feld",
+      "Felder"
+    ],
+    [
+      "Feld",
+      "Feldern"
+    ],
+    [
+      "Feld",
+      "Feldtheorie"
+    ],
+    [
+      "Feld",
+      "Feldtheorien"
+    ],
+    [
+      "Feld",
+      "Schlachtfeld"
+    ],
+    [
+      "Feld",
+      "Quantenfeldtheorien"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formale"
+    ],
+    [
+      "Form",
+      "Conformal"
+    ],
+    [
+      "Form",
+      "Konformen"
+    ]
+  ]
+}

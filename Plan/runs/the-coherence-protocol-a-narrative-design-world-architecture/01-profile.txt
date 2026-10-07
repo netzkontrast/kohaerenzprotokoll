@@ -1,0 +1,14 @@
+# the-coherence-protocol-a-narrative-design-world-architecture
+  lines                218  (frontmatter ends at 9)
+  body words           3772
+  headings             33   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    17
+  typographic marks    21   ascii quotes 152
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    3
+  repeated labels      Psychological State x7, Atmosphere & Physics x4, Auditory x4, Olfactory x4, Sensory Signature x4, Visual x4, Focus x3, Key Events x3, Narrative Goal x3
+  longest line         1865 chars
+

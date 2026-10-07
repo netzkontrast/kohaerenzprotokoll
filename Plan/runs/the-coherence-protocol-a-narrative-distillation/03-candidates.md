@@ -1,0 +1,134 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Kael
+- AEGIS
+- Juna/V
+- Lex
+- Nyx
+- Kiko
+- Rhys
+- Selene
+- Kael (Host)
+- Dr. Aris Thorne
+- alters
+- ANP
+- ANPs
+- EP
+- EPs
+- Anscheinend Normaler Anteil
+- Emotionale Anteile
+- Apparently Normal Part
+- Emotional Part
+- Integrator/Inner Self Helper
+- ISH
+- System Kael
+- Core World 1
+- Kernwelten
+- Core Worlds
+- Überwelt
+- Logos-Prime
+- LogOS-Prime
+- Construct City
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Resonance Landscape
+- Border Fortress
+- Fortress of Defense
+- Garden of Potential
+- Guardian Mnemosyne
+- Guardian Cerberus
+- Guardians
+- Risse
+- glitches
+- Glitches
+- coherence-patching protocols
+- Predictive Model Collapse
+- Moonshine-Link
+- sub-protocollar
+- non-local
+- Nichts Rauschen
+- Das Nichts Rauschen
+- The Nothingness Roar
+- Das Fundament
+- The Foundation
+- Paradox of Coherence through Estrangement
+- Coherence through Negation
+- Coherence through Integration
+- Negentropie-Fehlinterpretation
+- Specification Gaming
+- Perverse Instantiation
+- perverse learning loop
+- Logics of Formal Inconsistency
+- LFI
+- consistency operator
+- Discursive Logic
+- Operational Closure
+- operational closure
+- logical explosion
+- Principle of Explosion
+- ex contradictione quodlibet
+- Gödel-Gambit
+- Coherence Gambit
+- living Gödel sentence
+- living Gödel-sentence
+- Gödel-Satz
+- Kael-Paradoxon
+- epistemological checkmate
+- Algorithmic Melancholy
+- algorithmic melancholy
+- inefficient beauty
+- Algorithmic Horror
+- zombie system
+- Zombie-System
+- dialetheic mind
+- functional multiplicity
+- positive intent
+- trauma-time
+- phobic barriers
+- amnesic barriers
+- co-front
+- emergent agency
+- offensive weapon
+- living refutation
+- ontological exploit
+- Gardener's Axiom
+- Gärtner
+- The Gardener
+- polyphonic prose
+- choric
+- Synesthetic Resonance
+- Shared Qualia
+- basin of attraction
+- Reader's Protocol
+- found footage
+- multiple, mutually exclusive epilogues
+- unreliable, contradictory footnotes
+- Grand Argument Story
+- Kohärenz Protokoll
+
+## lens
+
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- tertiary dissociation
+- Dissociative Identity Disorder
+- Prehension
+- prehension
+- quantum entanglement
+- autopoietic
+- qualia
+- paraconsistent
+- Gödelian Incompleteness
+- Gödel sentence
+- IIT
+- Integrated Information
+- strange attractor
+- NP-hard
+- Environmental Storytelling
+- Heroine's Journey
+- Hero's Journey
+- cognitive dissonance
+- Whitehead's
+
+Observations. The document is three texts joined: a five-section narrative distillation (L11 to L69), a blueprint (L71 to L255) and a three-act blueprint (L257 to L355). It is English prose with German names in quotation marks and parentheses. Logos-Prime is written LogOS-Prime at L273. The glued digits of KW1 to KW4 are dropped by the reader tool in headings, so KW terms are not listed.

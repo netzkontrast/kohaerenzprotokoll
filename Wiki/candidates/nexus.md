@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 24
-readings: 24
+sources: 29
+readings: 29
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -37,6 +37,10 @@ The pattern is too regular to be accident — a field name in one vocabulary,
 filled in another. **The document never states they are one space.** Kept as two
 pages and cross-referenced rather than merged: J18.
 
+## Reading — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept — the Nexus named once, in the Teil 2 sketch
+
+The April 2025 concept mentions the Nexus once, in its sketch (marked „Skizze“) of Teil 2: „Michaels erste Versuche mit den Werkzeugen im Nexus oder bei kurzen Ausflügen in die Welten“ ^[kohaerenz-protokoll-2.md:L107]. The line sets the Nexus beside the worlds and does not define it; the six levels of section V do not list it.
+
 ## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — the Nexus as an interface place in KW4; a Firewall-Nexus in the Überwelt
 
 As a whole word `Nexus` ^[lokalitaeten-konzept-fuer-roman-simulation.md:#1] stands in the document; the compounds below are its other uses. Two senses. In the fourth world, the Nexus is a place: „Die Nexus-Schnittstelle (ein zentraler Ort des Zugangs zu Wissen/Verbindungen)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L233], and a key location is headed „Nexus-Interface Garten (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L296], described as „Ein spezifischer Ort innerhalb des Möglichkeits-Gartens (KW4)“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L298]. In the Überwelt, the name belongs to a hub of Cerberus: „Cerberus' Firewall-Nexus“ ^[lokalitaeten-konzept-fuer-roman-simulation.md:L244]. The concept does not relate the two, and does not equate the Nexus with the Überwelt.
@@ -49,9 +53,27 @@ A landmark of KW4 is „der als Interface zur Überwelt oder anderen Ebenen dien
 
 Profile 25 is a place in KW4 named with `Nexus-Knoten` and „Interface zum Potenzial“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L468]; its level field reads „Interface zum Potenzial - KW4 (Möglichkeits-Garten)“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L472]. Its core: „Ein zentraler Punkt oder eine Schnittstelle in KW4, die den direkten Zugriff auf oder die Manipulation des reinen Potenzials ermöglicht“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L473].
 
+## Reading — `welten`, 2025-04-20, the world-concept reply — the Nexus as possible interfaces, definition still to be sharpened
+
+The reply takes the Nexus from another document: „Erwähnt im Guardians und Kern-Welten-Konzept“ ^[welten.md:L119]. It does not define it but guesses: „Möglicherweise ein Begriff für die Schnittstellen oder Übergangszonen“ ^[welten.md:L119] between the Kern-Welten, or between them and the Überwelt and AEGIS. They `Könnten` be places where the rules of the worlds are especially unstable, or where Kael interacts more directly with the system or his own psychic structures. It closes the entry with „Die genaue Definition und Funktion muss ggf. noch geschärft werden“ ^[welten.md:L119].
+
+## Reading — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept — `Nexus` only inside `Externe Ebene/Nexus`
+
+The final world concept uses `Nexus` only as the second half of one name. It says the Kohärenz-Insel „Sie ist mit der“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L93] Externe Ebene/Nexus connected, and that this plane „scheint die Quelle oder Domäne zu sein“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L97] associated with Juna and the Kohärenz-Insel. It says nothing else of a Nexus.
+
+Recorded as the document's own description, not applied.
+
+## Reading — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint — a Nexus named once, as a possible origin of the bond
+
+The word stands once, in a hedge on where the Kael-Juna connection comes from: it has its origin outside AEGIS's system, in the `Kohärenz-Insel` „oder einem damit verbundenen Nexus“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L163]. The blueprint says nothing more of what this Nexus is.
+
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Nexus once, as a possible world of Sophia
 
 `Nexus` ^[kohaerenz-protokoll-plotideen-generierung.md:#1] stands once, in Sophia's row of the table the document marks „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147]: the world cell reads „(Potenziell) Übergeordnet/Nexus“ ^[kohaerenz-protokoll-plotideen-generierung.md:L156]. The document does not define it further on that line.
+
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — a name with a question mark in Sophia's line, and a central connecting point in a plot idea
+
+The concept extraction writes `Nexus` in the line on the fifth Guardian: „Sophia (Nexus/Übergreifende Weisheit?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L269], with a question mark. In a plot idea Kael searches for the seams of the simulation, for the underlying code or a central `Nexus` linking the worlds (L474).
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — the search for the Nexus, and its place beside AEGIS' Überwelt
 

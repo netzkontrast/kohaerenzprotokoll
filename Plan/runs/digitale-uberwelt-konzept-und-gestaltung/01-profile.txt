@@ -1,0 +1,14 @@
+# digitale-uberwelt-konzept-und-gestaltung
+  lines                169  (frontmatter ends at 9)
+  body words           2738
+  headings             25   bold-only lines 0
+  table rows           23   code fences 0
+  question marks       4
+  backslash escapes    92
+  typographic marks    6   ascii quotes 96
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    13
+  repeated labels      none
+  longest line         888 chars
+

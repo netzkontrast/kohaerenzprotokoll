@@ -1,0 +1,261 @@
+{
+  "document": "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+  "drive_id": "1Eeb1NYOwXf3ambF8EiKH26rADllPNH-NELnv05th2t8",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 97,
+    "decisions": 101,
+    "decided_by_lookup": 78,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        57,
+        89,
+        91,
+        92,
+        118,
+        142,
+        460,
+        481,
+        484,
+        559,
+        571
+      ],
+      "attribution": "",
+      "note": "a plan to make AEGIS's opposition specific, with its nature left a question"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        27,
+        59,
+        280,
+        508
+      ],
+      "attribution": "",
+      "note": "the alters as an unused ensemble that every scene should show"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        56,
+        82,
+        242,
+        266
+      ],
+      "attribution": "",
+      "note": "Argus as the border warden whose state mirrors the stability of the threshold"
+    },
+    {
+      "page": "did",
+      "lines": [
+        39,
+        44,
+        91,
+        132,
+        134,
+        308
+      ],
+      "attribution": "",
+      "note": "the DID to be externalised through the places and written into every scene"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        39,
+        484,
+        559
+      ],
+      "attribution": "",
+      "note": "entropy as something the places should show, and AEGIS's brutal containment of it"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        21,
+        43,
+        481
+      ],
+      "attribution": "",
+      "note": "`Guardians` as AEGIS's units in the earlier draft and the escalation chapter"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        27,
+        60,
+        90,
+        104,
+        118,
+        242
+      ],
+      "attribution": "",
+      "note": "Juna as an external voice whose contact the plan wants defined"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        92,
+        104,
+        481
+      ],
+      "attribution": "",
+      "note": "Kael as the figure the revised plot of part 1 is built around"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        56,
+        82
+      ],
+      "attribution": "",
+      "note": "transitions between the Kern-Welten as planned events"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        27,
+        31,
+        57,
+        481
+      ],
+      "attribution": "",
+      "note": "`Einheit 734` as an AEGIS unit and recurring antagonist"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        22,
+        142,
+        152,
+        153,
+        166
+      ],
+      "attribution": "",
+      "note": "Lex as the dutiful archivist who meets Kael in the city and the archive"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "the six Realitätsebenen as scenery the earlier draft leaves passive"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        21,
+        39,
+        81,
+        91,
+        118,
+        133,
+        142,
+        156,
+        180,
+        270,
+        470,
+        481,
+        484
+      ],
+      "attribution": "",
+      "note": "a plan to show the Risse through the places, escalating to a systemwide wave"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        22,
+        317,
+        330,
+        341,
+        508
+      ],
+      "attribution": "",
+      "note": "Silas as the skeptic and information trader of the Glitching Market, motives left open"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C7"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 58,
+      "decision": "occurrence",
+      "why": "Nexus of Whispers is an oracle place on the information level, not the meta-space"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 35,
+      "decision": "reading",
+      "why": "the six reality levels as passive scenery, read on realitaetsebenen"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "the setting's general word"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

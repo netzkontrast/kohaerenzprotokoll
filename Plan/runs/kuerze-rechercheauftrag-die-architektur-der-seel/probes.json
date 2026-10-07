@@ -1,0 +1,198 @@
+{
+  "document": "kuerze-rechercheauftrag-die-architektur-der-seel",
+  "drive_id": "1g3D_SzCvZElAwtzXKahkW0YnITvSI7UkVX-2IjEkM5M",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 42,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "wider": [
+      "Widersprüche",
+      "Widerstand",
+      "Widerstands",
+      "Widerstandskraft"
+    ],
+    "archi": [
+      "Architektur",
+      "Architekturen",
+      "Archiv"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator",
+      "Integrity"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho",
+      "Psychology"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systems"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile"
+    ],
+    "disso": [
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "exter": [
+      "Externalisierung",
+      "Externalisierungen"
+    ],
+    "final": [
+      "Finalisierung",
+      "Finalisierungsplan"
+    ],
+    "große": [
+      "Große",
+      "Großes"
+    ],
+    "grund": [
+      "Grundprinzipien",
+      "Grundverletzung"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsziel"
+    ],
+    "insta": [
+      "Instabilität",
+      "Instanz"
+    ],
+    "leser": [
+      "Leser",
+      "Lesers"
+    ],
+    "missb": [
+      "Missbrauch",
+      "Missbrauchs"
+    ],
+    "ordnu": [
+      "Ordnung",
+      "Ordnungswächter"
+    ],
+    "philo": [
+      "Philosophie",
+      "Philosophische"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebene"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzsystem"
+    ],
+    "schöp": [
+      "Schöpfers",
+      "Schöpfung"
+    ],
+    "story": [
+      "Storyform",
+      "Storytelling"
+    ],
+    "struk": [
+      "Struktur",
+      "Struktureller"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas"
+    ],
+    "täter": [
+      "Täterintrojekt",
+      "Täters"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Fall",
+      "Verfall"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kein",
+      "Keine"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Meta",
+      "Metaphysische"
+    ],
+    [
+      "Plan",
+      "Finalisierungsplan"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Anteil"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Ziel",
+      "Heilungsziel"
+    ],
+    [
+      "Ebene",
+      "Realitätsebene"
+    ],
+    [
+      "Große",
+      "Großes"
+    ],
+    [
+      "Leser",
+      "Lesers"
+    ]
+  ]
+}

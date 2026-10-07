@@ -1,0 +1,14 @@
+# arbeitshilfe-kapitel-2-kohaerenz-protokoll
+  lines                315  (frontmatter ends at 9)
+  body words           4434
+  headings             6   bold-only lines 8
+  table rows           6   code fences 0
+  question marks       59
+  backslash escapes    44
+  typographic marks    10   ascii quotes 76
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    48
+  repeated labels      Environmental Storytelling (EST) x4, Alter Influence x3, Atmosphäre / Setting x3, Cognitive State x3, Dominant Emotion(s) x3, Internal Monologue x3, Kernaufgabe x3, Liminality Techniques x3, Metaphor/Simile x3, Mood x3, Narrativer Fokus / Techniken x3, Pacing x3, Psychologischer Zustand (Kael) x3, Sensorischer Fokus x3, Sensory Palette x3, Show, Don't Tell x3, Somatic Experience x3, Vertiefende Betrachtung x3, Zu vermittelnde Kerninformation x3
+  longest line         727 chars
+

@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -36,6 +36,10 @@ Each Kern-Welt names the Persona that primarily experiences it:
 are referenced as an external framework already known, and are used to describe
 a Guardian's *epistemology*, not a Persona. Seven occurrences, never defined
 here.
+
+## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
+
+In this document the `Personas` are Kael's inner parts, not instances watched over by Guardians: the report is about the protagonist „internen Anteile (Personas)“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L15]. The profiles treat each one as a distinct entity: „Jede Persona wird als eigenständige Entität innerhalb des Gesamtsystems betrachtet“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L44]. The six profiled are Lex, Kiko, Nyx, Rhys, Kai and Selene.
 
 ## Reading — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan — the Personas as AEGIS's isolated data caches
 

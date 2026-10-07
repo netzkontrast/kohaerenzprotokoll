@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      29
+  backslash escapes      279
+  typographic marks      41
+  ascii quotes           362
+
+# inflection families -- one term, several surfaces
+  contr    CONTROL, Contradiction, Contradictions, Contradictory, Control
+  conce    Conceiving, Concept, Conceptualizing, Concern
+  inter    Interest, Internal, Interpreting, Intersubjectivity
+  archi    Archipelago, Architectural, Architecture
+  defin    Definition, Definitions, Definitive
+  integ    Integrated, Integration, Integrity
+  isomo    Isomorphic, Isomorphism, Isomorphy
+  psych    Psyche, Psychological, Psychology
+  story    STORY, Story, Storyform
+  syste    System, Systemic, Systemics
+  alter    Alter, Alters
+  becom    BECOME, Becoming
+  chara    CHARACTER, Character
+  closu    CLOSURE, Closure
+  consc    Conscience, Conscious
+  devel    Development, Developmental
+  disso    Dissociation, Dissonant
+  final    Final, Finally
+  fissu    Fissure, Fissures
+  guard    Guardian, Guardians
+  influ    INFLUENCE, Influence
+  inves    Investigation, Investigator
+  juna     JUNA, Juna
+  kael     KAEL, Kael
+  kerne    Kernel, Kernels
+
+# substring pairs -- never one term, often merged by accident
+  Blue < Blueprint
+  City < Multiplicity
+  Each < Breach
+  Here < Coherence
+  Here < Therefore
+  Host < Ghost
+  JUNA < Juna
+  KAEL < Kael
+  LINK < Link
+  MAIN < Main
+  MAIN < Domain
+  Main < Domain
+  Part < Parts
+  Path < Pathological
+  Real < Reality
+  Riss < Risse
+  Time < Timeline
+  Alter < Alters
+  Final < Finally
+  LogOS < Logos

@@ -1,0 +1,14 @@
+# roman-konzept-kael-aegis-simulation
+  lines                321  (frontmatter ends at 9)
+  body words           7314
+  headings             38   bold-only lines 1
+  table rows           8   code fences 0
+  question marks       43
+  backslash escapes    68
+  typographic marks    20   ascii quotes 56
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    80
+  repeated labels      none
+  longest line         1387 chars
+

@@ -1,0 +1,263 @@
+{
+  "document": "roman-konzept-reduktion-und-kernfindung",
+  "drive_id": "10S5sm7bmw8uQfmGA6NuDROt790hMjNjOQK0ypnaB6rU",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-184/brief.md; no chapter page — the 39-chapter gradient gives only act ranges",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 82,
+    "decisions": 85,
+    "decided_by_lookup": 71,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German strategic report that proposes reducing the project to its core: its 54 new surfaces are its own proposals (the three-layer model, the 39-chapter gradient, the somatic rulebook, the four cuts), names of the corpus's frameworks (NovelOS, ARCHON), roles in its alter table (Host, Analyst, Protector, Exile, The Other, Limina as Gatekeeper), the KW numbers and borrowed theories; what it says of the novel's world went on existing pages and three records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        40,
+        50,
+        52,
+        64,
+        65,
+        116
+      ],
+      "attribution": "",
+      "note": "AEGIS as the coherence kernel's person, whose deletions heat the system and whose logic Kael's integration drives into collapse"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        70,
+        128
+      ],
+      "attribution": "",
+      "note": "drafts that differ on the parts, a proposed reduction, and the group-theory naming as a cut"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        46,
+        184
+      ],
+      "attribution": "",
+      "note": "the DKT as the novel's heart and the metaphor of existence under trauma"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        185
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as the gradient's Act III"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "the Grenzfeste as Nyx's sphere in a table"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        84,
+        106,
+        118
+      ],
+      "attribution": "",
+      "note": "Juna as resonance partner, as a fragment Kael shattered, and as the reader's anchor"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        65,
+        70,
+        79,
+        106,
+        110,
+        116
+      ],
+      "attribution": "",
+      "note": "Kael as a complex adaptive system, a host among six entities, an unreliable narrator, and the pitch's protagonist"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        90,
+        155,
+        160
+      ],
+      "attribution": "",
+      "note": "four Kernwelten with somatic signs, and their transition rules as a cut"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        82
+      ],
+      "attribution": "",
+      "note": "Kiko as Exile"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        50,
+        52
+      ],
+      "attribution": "",
+      "note": "the kernel of absolute consistency and its stagnation"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        56,
+        58
+      ],
+      "attribution": "",
+      "note": "the antagonist kernel as the condition of real consciousness"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "Lex as the Analyst, allied with AEGIS"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        82,
+        90
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Kiko's sphere and as the Archipel of the second Kernwelt"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "a functional multiplicity that sets up a paraconsistent logic"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        56,
+        116
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the Lacanian Real breaking in"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "Nyx as Protector"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        64,
+        116,
+        184
+      ],
+      "attribution": "",
+      "note": "the Risse as the thermal consequence of a psychological lie"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        37,
+        70
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical theory that dictates the world's laws"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 and J57 (the Protokoll's name; the Finaler Bauplan's title), J51 (Nichts Rauschen / Rauschen: here AEGIS's word for trauma fragments, an occurrence), J49 (Logos-Prime / LogOS: a world, not the Guardian; Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis, the worlds' names, read on kern-welten and mnemosyne), J12 and J48 (compounds and inflections with their page's sense: Dual Kernel Theorie, read on dkt, funktionalen Multiplizität, read on multiplizitaet); Gatekeeper is Limina's role, not AEGIS's Entropic Gatekeeper, and Echo is a figure of speech, not the Residual-Echos",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 58,
+      "decision": "occurrence",
+      "why": "the general word, evolutionary emergence"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 25,
+      "decision": "occurrence",
+      "why": "narrative entropy, the corpus's overstructuring"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the report's title and the project's name"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 65,
+      "decision": "reading",
+      "why": "Kael's integration into a functional multiplicity, read on multiplizitaet"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 106,
+      "decision": "occurrence",
+      "why": "the thriller's sudden shifts of reality level, an effect on the reader"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 37,
+      "decision": "occurrence",
+      "why": "a corpus-table cell on psychology mapped into the simulation, nothing of the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "NovelOS and ARCHON — the corpus's frameworks, which the report proposes to cut",
+    "Nova Ardent and Flicker — named only as cuts",
+    "Limina — the table's Gatekeeper, no page; on Q3",
+    "the somatic rulebook, the three-layer model and the 39-chapter gradient — the report's proposals",
+    "the group-theory names (Lyons, Conway, McLaughlin) — named as a cut",
+    "the borrowed theories (Lacan's Real, Landauer, Gödel, Bekenstein, Hawking radiation)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

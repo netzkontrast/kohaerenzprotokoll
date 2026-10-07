@@ -1,0 +1,100 @@
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Kernkonflikt"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            16
+
+`Kernkonflikt` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#15]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Narrativer Nutzen"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Narrativer Nutzen` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#15]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Pressure Point:"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Pressure Point:` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#12]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Pressure Point"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            20
+
+`Pressure Point` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#13]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Zweck"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zweck` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#1]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Query Context"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Query Context` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#1]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "end list"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            34
+
+`end list` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#34]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Moonshine-Link"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Link` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#2]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Juna/V"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Juna/V` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#20]
+
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-2 --count "Kernwelten"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kernwelten` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#8]
+
+stance_marker_count 42 = Kernkonflikt 15 + Narrativer Nutzen 15 + Pressure Point: 12 (counts above)
+
+$ grep -c '^[0-9]*\.  ' Sources/drive/kael-charakterarchitektur-und-konfliktdynamik-2.md   # reference entries
+9
+$ grep -c '^| PP-' Sources/drive/kael-charakterarchitektur-und-konfliktdynamik-2.md   # matrix rows
+13
+PP-INT: 4
+PP-WRD: 3
+PP-SYS: 3
+PP-CCH: 3
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Cache Kohärenz` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#8]
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Paradoxon X` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#14]
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            22
+
+`Guardian` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#7]
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Guardians` ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:#14]

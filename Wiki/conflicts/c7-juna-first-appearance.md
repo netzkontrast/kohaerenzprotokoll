@@ -447,3 +447,27 @@ Stands as a plan for a first contact in Kap 9, dated 2026-02-23; recorded, not a
 Story 4 (The Resonant Intrusion): „Kael experiences his first encounter with Juna“ ^[coherence-protocol-a-39-part-narrative-arc.md:L24], and „This is not a physical meeting but a subtle, unexplained wave of emotion“ ^[coherence-protocol-a-39-part-narrative-arc.md:L24]. The outline numbers stories, not chapters, and gives no Kap for it.
 
 Stands as an outline's first encounter by emotion, dated 2025-11-03; recorded, not applied, and it does not touch the decision of 2026-10-05.
+
+## 2026-10-06 — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure
+
+**The dual structure plans Juna as an external human person in Kapitel 3, with a meeting arranged in the same chapter, not in Akt III.**
+
+The outline gives Kapitel 3 the title `Juna`. In it AEGIS „überwacht Kaels Interaktion mit einer externen menschlichen Person, Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L94], and the Ki pass of the chapter has „ein geplantes, strukturiertes Treffen mit Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L100]. It is a design, and the planned chapter is not one as written; the document plans a meeting in the first act.
+
+Stands, in the record's own terms, as a planned meeting with Juna in Kapitel 3: recorded, not applied, and no resolution is made here.
+
+## 2026-10-06 — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview
+
+**The chapter overview plans the first manifestation of the Juna/V-Verbindung in Kapitel 4, as a sensory detail.**
+
+Kapitel 4, titled „Der Duft von Regen auf trockenem Grund“ ^[detaillierte-kapiteluebersicht.md:L20], is planned as „Die erste, subtile Manifestation der Juna/V-Verbindung“ ^[detaillierte-kapiteluebersicht.md:L20] and the line adds „ein sensorisches Detail, das für AEGIS nicht existiert“ ^[detaillierte-kapiteluebersicht.md:L20] In Kapitel 29 the connection becomes „Die Juna/V-Verbindung wird von einer subtilen Resonanz zu einem klaren, bewussten Kanal“ ^[detaillierte-kapiteluebersicht.md:L55]
+
+Stands as a further placement in the record's terms, dated 2025-07-30: a first subtle manifestation in Kapitel 4, a clear conscious channel in Kapitel 29; recorded, not applied.
+
+## 2026-10-07 — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept
+
+**The part-1 plot concept proposes, hedged, a first trace of Juna in Kap 1 as a failed communication attempt, shown as static.**
+
+For Kap 1 the field reads „Möglicherweise ein fehlgeschlagener Kommunikationsversuch Junas, der sich als statisches Rauschen oder Bildstörung äußert.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L118] The revision principles say that „Junas Interventionen und Kommunikationsversuche werden strategischer an kritischen Plotpunkten platziert“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L90]. The plan places no direct encounter with her in the lines read here; the Kap 1 trace is a possibility, marked by `Möglicherweise`.
+
+Where it stands: a hedged proposal of an early indirect trace, recorded, not applied, and not a direct appearance in the record's terms.

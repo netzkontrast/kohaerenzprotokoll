@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 36
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 41
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,10 @@ Das Kapitel steht in Akt I, in der Heldinnenreise innen auf der Erweiterungsstuf
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — return with the elixir, KW4 at the threshold of the Überwelt
 
 - The Teil-1 plot proposes Kapitel 12, `Our World` (L258), as return with the elixir, KW4 at the threshold of the Überwelt: „Kael erlebt einen Moment relativen inneren Friedens und Kohärenz“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L263]. It hedges, and adds inner peace while the Risse become system-wide and AEGIS reads his integration as a rise in entropy (L263).
+
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — Die Zuflucht und der innere Rat
+
+- The part-1 plot concept's revised chapter 12: „Die Zuflucht und der innere Rat“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L504]. Its summary: „Nach der Eskalation und der Flucht vor AEGIS findet Kael“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L508]. A revised plan for part 1, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.12, Im Labyrinth der Angst
 
@@ -78,6 +82,10 @@ Focus: `Existenzielle Identitätskrise`, „fundamentale Infragestellung der eig
 
 - The detailed outline plans Chapter 12 with the Core Theme „Philosophische Zweifel an Identität, Realität und Sinn als Konsequenz der erlebten Fragmentierung und der Entdeckung der Systeminstabilität“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L815] — a plan, not the chapter as written.
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage
+
+- The strategy report keys this chapter to Murdock's stage „Erwachen zur spirituellen Leere/Tod“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L119]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Der Innere Rat
 
 Title: „Der Innere Rat“ ^[roman-outline-system-kael.md:L190]
@@ -102,6 +110,10 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 - Story: the outline plans, under `Inhalt`, „einen Schritt zur funktionalen Multiplizität“ ^[outline.md:L81]
 - Focus: under `Fokus`, „Kaels wachsende Handlungsfähigkeit“ ^[outline.md:L82]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Der Geschmack von Wut
+
+- The chapter overview plans Kapitel 12 as „Der Geschmack von Wut“ ^[detaillierte-kapiteluebersicht.md:L28], in Akt I (Ki). A plan, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -115,6 +127,14 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Die Frage nach dem Selbst
 
 - The architecture plan sets Kapitel 12 in Teil 1 as the archetypal phase „Die Frage nach dem Selbst“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L28], with the core theme „Philosophische Zweifel an Identität und Realität“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L28] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L215.
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Der Käfig
+
+- The dual structure plans Kapitel 12 as „Der Käfig“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L163], in „Akt II: Shō (Entwicklung) - Die Eskalierende Paradoxie“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L119]. Perspective: `Kael (Fokus auf Nyx' Ko-Bewusstsein)` (L167). Its Ki: „Nyx, der aggressive Beschützer-EP, empfindet den erhöhten Druck durch Lex' Dominanz als einen Käfig, der um ihn herum errichtet wird.“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L174]. A plan, not the chapter as written.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Die Ahnung der Einheit
+
+- The Kishōtenketsu plan's chapter 12 of 30, in act Shō: „Die Ahnung der Einheit“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L167]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Decision to Act`, one entry shared with Kap 11–13
 

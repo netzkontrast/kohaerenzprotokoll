@@ -1,0 +1,117 @@
+$ read.py aegis --count "Status"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Status` ^[aegis.md:#1]
+$ read.py aegis --count "Zweckbestimmung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zweckbestimmung` ^[aegis.md:#1]
+$ read.py aegis --count "Definition des Paradoxons"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Definition des Paradoxons` ^[aegis.md:#1]
+$ read.py aegis --count "AEGIS-Manifest"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`AEGIS-Manifest` ^[aegis.md:#0]
+$ read.py aegis --count "Manifest"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Manifest` ^[aegis.md:#1]
+$ grep -c "?" (profile: question marks 1)
+69:Ah, mein geschät
+stance_marker_count 3 = Status 1 + Zweckbestimmung 1 + Definition des Paradoxons 1
+$ read.py aegis --count "Nichts Rauschen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Nichts Rauschen` ^[aegis.md:#3]
+$ read.py aegis --count "Potentialmeer"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Potentialmeer` ^[aegis.md:#2]
+$ read.py aegis --count "Zero-Trust Execution Model"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zero-Trust Execution Model` ^[aegis.md:#1]
+$ read.py aegis --count "Real-time Self-Verification"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Real-time Self-Verification` ^[aegis.md:#2]
+$ read.py aegis --count "Rekursive Selbstverifikation"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Rekursive Selbstverifikation` ^[aegis.md:#2]
+$ read.py aegis --count "SIS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`SIS` ^[aegis.md:#3]
+$ read.py aegis --count "Cognitive Firewall"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cognitive Firewall` ^[aegis.md:#1]
+$ read.py aegis --count "Überwelt"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Überwelt` ^[aegis.md:#8]
+$ read.py aegis --count "Juna/V-Anomalie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V-Anomalie` ^[aegis.md:#2]
+$ read.py aegis --count "Moonshine-Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Link` ^[aegis.md:#1]
+$ read.py aegis --count "Monstergruppe"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Monstergruppe` ^[aegis.md:#3]
+$ read.py aegis --count "Hamartia"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hamartia` ^[aegis.md:#3]
+$ read.py aegis --count "Hybris"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hybris` ^[aegis.md:#3]
+$ read.py aegis --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[aegis.md:#1]

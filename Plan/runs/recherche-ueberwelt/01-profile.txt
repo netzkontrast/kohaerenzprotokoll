@@ -1,0 +1,14 @@
+# recherche-ueberwelt
+  lines                198  (frontmatter ends at 9)
+  body words           2058
+  headings             0   bold-only lines 11
+  table rows           0   code fences 0
+  question marks       41
+  backslash escapes    0
+  typographic marks    9   ascii quotes 52
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    15
+  repeated labels      none
+  longest line         904 chars
+

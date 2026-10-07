@@ -1,0 +1,495 @@
+{
+  "document": "recherche-ueberwelt",
+  "drive_id": "1_WYlyEJNXd7MOF3-IejoLvKP6-VVfjo1gMCB1nGdDXk",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Autonomous Entity for Gatekeeping, Integration, and Self-Validation"
+  ],
+  "counts": {
+    "Überwelt": {
+      "n": 29,
+      "n_including_compounds": 30,
+      "lines": [
+        11,
+        13,
+        17,
+        73,
+        97,
+        99,
+        117,
+        134,
+        135,
+        152,
+        161,
+        170,
+        180,
+        184,
+        186,
+        188,
+        189,
+        192,
+        193,
+        194,
+        195,
+        197
+      ]
+    },
+    "AEGIS": {
+      "n": 23,
+      "n_including_compounds": 31,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        22,
+        32,
+        42,
+        43,
+        53,
+        62,
+        64,
+        65,
+        69,
+        83,
+        86,
+        94,
+        105,
+        121,
+        125,
+        126,
+        143,
+        144,
+        161,
+        168,
+        170,
+        188,
+        189,
+        195
+      ]
+    },
+    "AEGIS Functional Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "System Identity Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Zero-Trust Execution Model (ZTEM)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Zero-Trust Execution Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "ZTEM": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        83,
+        94
+      ]
+    },
+    "Zero-Trust-Modell": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        135
+      ]
+    },
+    "Real-time self-verification (RTSV)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "RTSV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Behavioral Proof-of-Function (BPoF)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "BPoF": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Encrypted Intent Channels (EIC)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "EIC": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        83
+      ]
+    },
+    "Role in System Topology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Integrity Guardian": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        86
+      ]
+    },
+    "Cognitive Firewall": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        86,
+        125
+      ]
+    },
+    "Consensus Enforcer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        86
+      ]
+    },
+    "Ontologische Positionierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Existenzbegriff durch Wirksamkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Self-Verification Interface (SVI)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "SVI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Logische Konsistenzanalyse (LCA)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "LCA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Redundanzfreie Informationskapselung (RIK)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "RIK": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Dynamic Role Instancing (DRI)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "DRI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Failover & Recovery": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Secure Isolation State (SIS)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        125
+      ]
+    },
+    "SIS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        125,
+        143
+      ]
+    },
+    "External Interface Constraints": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Autoverifikation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Rekursionssperre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Nicht-Adressierbarkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        83
+      ]
+    },
+    "Nullantwortparadigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Regelverletzungsschranke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Rekursive Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Guardians": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        13,
+        71,
+        85,
+        86,
+        107,
+        115,
+        117,
+        153,
+        168,
+        170,
+        188,
+        192,
+        193,
+        194
+      ]
+    },
+    "Guardian-Konstrukte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Guardian-Interface-Protokolle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        168
+      ]
+    },
+    "LogOS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        75,
+        85,
+        115,
+        134,
+        188
+      ]
+    },
+    "Mnemosyne": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        76,
+        115,
+        134,
+        188
+      ]
+    },
+    "Cerberus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        77,
+        85,
+        134,
+        188
+      ]
+    },
+    "Kairos": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        78,
+        134,
+        188
+      ]
+    },
+    "Sophia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        134,
+        188
+      ]
+    },
+    "Kern-Welten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        152,
+        188,
+        194
+      ]
+    },
+    "Externen Ebene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        157,
+        161,
+        195
+      ]
+    },
+    "Externe Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        139,
+        143,
+        170,
+        192
+      ]
+    },
+    "Michael": {
+      "n": 4,
+      "n_including_compounds": 10,
+      "lines": [
+        188,
+        192,
+        193,
+        194,
+        197
+      ]
+    },
+    "Julia": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        188,
+        194,
+        195,
+        197
+      ]
+    },
+    "Programm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "DID": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    }
+  }
+}

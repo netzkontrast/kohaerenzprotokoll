@@ -1,0 +1,113 @@
+# counts for 82 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                5 word     5 in   [11, 17, 147, 237, 247]
+  Kael                             81 word   162 in   [17, 19, 20, 21, 25, 26]
+                                   51      as Kaels
+                                   27      as Kael-Juna-Verbindung
+                                    3      as Kael-Juna-Resonanz
+  Juna                             19 word    51 in   [19, 20, 21, 25, 26, 27]  <-- substring
+                                    2      as Juna-Resonanz
+  AEGIS                           140 word   143 in   [17, 19, 20, 21, 25, 26]
+                                    1      as AEGIS-Systems
+                                    1      as AEGIS-Guardians
+                                    1      as AEGIS-Hierarchie
+  Guardians                        14 word    15 in   [26, 41, 56, 65, 67, 73]
+  Guardian                          7 word    26 in   [26, 41, 43, 44, 45, 46]  <-- substring
+                                   14      as Guardians
+                                    4      as Guardian-Intervention
+  LogOS                             7 word     7 in   [26, 43, 65, 66, 67, 86]
+  Mnemosyne                         7 word     8 in   [26, 44, 65, 66, 67, 77]
+                                    1      as Mnemosynes
+  Cerberus                         11 word    11 in   [26, 45, 65, 66, 67, 77]
+  Kairos                            7 word     7 in   [26, 46, 65, 66, 67, 107]
+  Kernwelten                       27 word    29 in   [17, 19, 20, 21, 25, 26]
+                                    2      as Kernwelten-Odyssee
+  KW1                               8 word     8 in   [20, 43, 65, 83, 116, 133]
+  KW2                               8 word     8 in   [20, 44, 65, 90, 117, 129]
+  KW3                               9 word     9 in   [20, 45, 65, 97, 118, 133]
+  KW4                               8 word     8 in   [20, 46, 65, 104, 119, 129]
+  Konstrukt-Stadt                   6 word     6 in   [20, 43, 83, 85, 116, 168]
+  Resonanz-Nebel                    5 word     5 in   [20, 44, 90, 92, 117]
+  Schattenlabyrinth                 7 word     7 in   [20, 45, 97, 99, 118, 175]
+  Möglichkeitsstrom                 6 word     6 in   [20, 46, 104, 106, 107, 119]
+  Kohärenz-Insel                   23 word    23 in   [36, 44, 46, 50, 52, 54]
+  Potentialmeer                     6 word     8 in   [25, 54, 163, 174, 192, 204]
+                                    2      as Potentialmeers
+  Kael-Juna-Verbindung             27 word    27 in   [19, 20, 21, 25, 26, 27]
+  K-J-Verbindung                   18 word    18 in   [67, 72, 87, 94, 101, 108]
+  Kael-Juna-Resonanz                3 word     3 in   [65, 123, 139]
+  sub-protokollarische Resonanz     2 word     2 in   [26, 127]
+  sub-protokollarisch               2 word    12 in   [26, 45, 54, 61, 66, 75]  <-- substring
+                                    6      as sub-protokollarische
+                                    3      as sub-protokollarischer
+                                    1      as sub-protokollarischen
+  integrative Kohärenz              2 word     2 in   [28, 135]
+  Kohärenz durch Abgrenzung         6 word     6 in   [50, 72, 139, 151, 192, 243]
+  Kohärenz durch Integration        6 word     6 in   [21, 51, 72, 152, 192, 243]
+  Risse                             6 word     8 in   [20, 26, 30, 68, 118, 151]
+                                    2      as Rissen
+  Initialzündung                    5 word     5 in   [19, 25, 34, 37]
+  Alters                            9 word    11 in   [20, 36, 37, 44, 45, 46]
+  Alter                             3 word    14 in   [20, 36, 37, 43, 44, 45]  <-- substring
+                                    9      as Alters
+                                    3      as alternativen
+                                    3      as alternative
+  Dissoziative Identitätsstörung    2 word     2 in   [36, 60]
+  Dissoziativen Identitätsstörung    1 word     1 in   [25]
+  DID                               4 word     4 in   [25, 36, 60, 157]
+  Psyche Management Assessment Subsystem    1 word     1 in   [60]
+  PMAS                              3 word     3 in   [26, 36, 60]
+  System Anomaly Response Mechanism    1 word     1 in   [60]
+  SARM                              3 word     3 in   [26, 36, 60]
+  Ontological Boundary Protocol     1 word     1 in   [72]
+  OBP                               1 word     1 in   [72]
+  maximale Bedrohung                4 word     4 in   [26, 72, 141, 151]
+  Point of No Return                1 word     1 in   [27]
+  Kernparadoxon                     1 word     1 in   [179]
+  zentralen Paradoxon               0 word     1 in   [211]
+  Transzendenz                     10 word    10 in   [21, 198, 199, 205, 211, 245]
+  Kernwelten-Odyssee                2 word     2 in   [20, 237]
+  Drei-Akt-Struktur                 2 word     2 in   [17, 237]
+  Akt 1                             4 word     4 in   [19, 25, 30, 34]
+  Akt 2                             7 word     7 in   [17, 20, 26, 27, 30, 39]
+  Akt 3                             6 word     6 in   [21, 27, 28, 30, 48, 187]
+  Setup                             3 word     3 in   [17, 25, 185]
+  Höhepunkt                         5 word     6 in   [21, 27, 28, 77, 183, 192]
+                                    1      as Höhepunkts
+  Steigende Handlung                1 word     1 in   [26]
+  Fallende Handlung                 1 word     1 in   [28]
+  Herausforderung                  16 word    20 in   [20, 26, 28, 43, 44, 45]
+                                    4      as Herausforderungen
+  Guardian-Intervention             4 word     4 in   [86, 93, 100, 107]
+  Erkenntnis                        7 word     7 in   [43, 72, 88, 95, 102, 109]
+  Monstergruppe                     8 word    11 in   [46, 50, 51, 169, 193, 213]
+                                    2      as Monstergruppen-Metapher
+                                    1      as Monstergruppe-Metapher
+  Monstergruppen-Metapher           2 word     2 in   [213, 243]
+  Monstergruppe Metapher            1 word     1 in   [169]
+  Moonshine                         4 word     4 in   [46, 108, 119, 223]
+  Parias                            3 word     3 in   [50, 152, 227]
+  Happy Family                      1 word     1 in   [227]
+  Internal Family Systems           1 word     1 in   [50]
+  IFS                               1 word     1 in   [50]
+  Self-Leadership                   1 word     1 in   [50]
+  Gödel'schen Unvollständigkeitssätzen    1 word     1 in   [73]
+  Gödel'schen Schranken             1 word     1 in   [167]
+  autopoietische                    1 word     4 in   [28, 60, 73, 198]  <-- substring
+                                    3      as autopoietischen
+  Ripple Effekt                     1 word     1 in   [68]
+  Jamming                           1 word     1 in   [141]
+  Enklave                           3 word     3 in   [205, 211]
+  Systemkollaps                     2 word     2 in   [204, 211]
+  Abgrenzung                       25 word    25 in   [21, 25, 26, 30, 45, 50]
+  Integration                      45 word    47 in   [21, 27, 28, 30, 32, 37]
+                                    2      as Integrationsprozess
+  Fragmentierung                   16 word    16 in   [19, 34, 36, 52, 60, 135]
+  blinden Flecken                   3 word     3 in   [67, 77, 158]
+  Grenzen der Logik                 5 word     5 in   [116, 165, 168, 231, 243]
+  Plot-Blueprint                    2 word     2 in   [11, 237]
+  Urvertrauen                       4 word     5 in   [44, 94, 117, 127, 133]
+                                    1      as Urvertrauens

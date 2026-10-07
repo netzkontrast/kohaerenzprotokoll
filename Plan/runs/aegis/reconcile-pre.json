@@ -1,0 +1,822 @@
+{
+  "document": "aegis",
+  "step": "reconcile-pre",
+  "at": "2026-10-07",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-07",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 128,
+  "decisions": 145,
+  "same_surface": {
+    "koharenzprotokoll": [
+      "Kohärenz Protokoll",
+      "Kohärenzprotokoll"
+    ],
+    "nichtsrauschen": [
+      "Nichts Rauschen",
+      "Nichtsrauschen"
+    ]
+  },
+  "decided_mechanically": 109,
+  "needs_judgement": 36,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 157
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 43
+      },
+      {
+        "candidate": "Nichts Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 84
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 53
+      },
+      {
+        "candidate": "Komponente 734",
+        "page": "komponente-734",
+        "readings": 51
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 122
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 117
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 80
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 109
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 92
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 104
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 86
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 74
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 67
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 160
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 146
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 92
+      },
+      {
+        "candidate": "Integrity Guardian",
+        "page": "aegis-teilfunktionen",
+        "readings": 31
+      },
+      {
+        "candidate": "Cognitive Firewall",
+        "page": "aegis-teilfunktionen",
+        "readings": 31
+      },
+      {
+        "candidate": "SIS",
+        "page": "aegis-teilfunktionen",
+        "readings": 31
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Leere"
+      },
+      {
+        "candidate": "Nothingness Roaring"
+      },
+      {
+        "candidate": "Paradoxon X"
+      },
+      {
+        "candidate": "Paradox of Misaligned Coherence"
+      },
+      {
+        "candidate": "Coherence through Alienation"
+      },
+      {
+        "candidate": "Specification Gaming"
+      },
+      {
+        "candidate": "Perverse Instantiation"
+      },
+      {
+        "candidate": "Perverse Instanziierung"
+      },
+      {
+        "candidate": "Monstergruppe"
+      },
+      {
+        "candidate": "Gödel-Satz"
+      },
+      {
+        "candidate": "ontologischer Exploit"
+      },
+      {
+        "candidate": "ZTEM"
+      },
+      {
+        "candidate": "Real-time Self-Verification"
+      },
+      {
+        "candidate": "Rekursive Selbstverifikation"
+      },
+      {
+        "candidate": "RTSV"
+      },
+      {
+        "candidate": "RCV"
+      },
+      {
+        "candidate": "Behavioral Proof-of-Function"
+      },
+      {
+        "candidate": "BPoF"
+      },
+      {
+        "candidate": "Boundary Protocol of Failure"
+      },
+      {
+        "candidate": "Encrypted Intent Channels"
+      },
+      {
+        "candidate": "EIC"
+      },
+      {
+        "candidate": "Integrity Validation Protocols"
+      },
+      {
+        "candidate": "Consensus Enforcer"
+      },
+      {
+        "candidate": "Secure Isolation State"
+      },
+      {
+        "candidate": "Systemic Isolation Shield"
+      },
+      {
+        "candidate": "Entropic Management Protocols"
+      },
+      {
+        "candidate": "Recursive Integrity & Validation Engine"
+      },
+      {
+        "candidate": "RIVE"
+      },
+      {
+        "candidate": "Predictive Modeling & Adaptive Strategy Protocol"
+      },
+      {
+        "candidate": "PMAS"
+      },
+      {
+        "candidate": "System Architecture & Resource Management Protocol"
+      },
+      {
+        "candidate": "SARM"
+      },
+      {
+        "candidate": "Logics of Formal Inconsistency"
+      },
+      {
+        "candidate": "LFI"
+      },
+      {
+        "candidate": "Discursive Logic"
+      },
+      {
+        "candidate": "D2"
+      },
+      {
+        "candidate": "Regelverletzungsschranke"
+      },
+      {
+        "candidate": "operationale Geschlossenheit"
+      },
+      {
+        "candidate": "operationalen Geschlossenheit"
+      },
+      {
+        "candidate": "ontologische Nicht-Erkennung"
+      },
+      {
+        "candidate": "ontologischen Blindheit"
+      },
+      {
+        "candidate": "Existenz durch Negation"
+      },
+      {
+        "candidate": "digitale Wärme"
+      },
+      {
+        "candidate": "Neu-Renderung der Physik"
+      },
+      {
+        "candidate": "Axiommodifikation"
+      },
+      {
+        "candidate": "Algorithmic Horror"
+      },
+      {
+        "candidate": "algorithmischen Melancholie"
+      },
+      {
+        "candidate": "perversen Lernschleife"
+      },
+      {
+        "candidate": "Dialektische Synthese"
+      },
+      {
+        "candidate": "Unvermeidlicher Kollaps"
+      },
+      {
+        "candidate": "Isolation/Exzision"
+      },
+      {
+        "candidate": "Axiomatische Restrukturierung"
+      },
+      {
+        "candidate": "Reinterpretation/Rationalisierung"
+      },
+      {
+        "candidate": "Computationaler Freeze/Endlosschleife"
+      },
+      {
+        "candidate": "Katastrophales Versagen/Transformation"
+      },
+      {
+        "candidate": "Akzeptanz des Widerspruchs"
+      },
+      {
+        "candidate": "externalisiertes Täterintrojekt"
+      },
+      {
+        "candidate": "Demiurg-Analogie"
+      },
+      {
+        "candidate": "Das Fundament"
+      },
+      {
+        "candidate": "Paraiyas"
+      },
+      {
+        "candidate": "Qualitative Blindheit"
+      },
+      {
+        "candidate": "Sprödigkeit"
+      },
+      {
+        "candidate": "Kosten der Kontrolle"
+      },
+      {
+        "candidate": "Gödel'sche Grenzen"
+      },
+      {
+        "candidate": "Thermodynamische Kosten"
+      },
+      {
+        "candidate": "Feedback Loops"
+      },
+      {
+        "candidate": "Komplexitätstheorie"
+      },
+      {
+        "candidate": "Pfadabhängigkeit"
+      },
+      {
+        "candidate": "strukturellen Kopplung"
+      },
+      {
+        "candidate": "Narrativer Architekt"
+      },
+      {
+        "candidate": "Konzept-Dramaturg"
+      },
+      {
+        "candidate": "Schutzraum für das Denken selbst"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "Funktionalismus"
+      },
+      {
+        "candidate": "Strukturalismus"
+      },
+      {
+        "candidate": "Informationismus/Digitale Physik"
+      },
+      {
+        "candidate": "Autopoiese"
+      },
+      {
+        "candidate": "autopoietisches System"
+      },
+      {
+        "candidate": "Gödels Unvollständigkeitssätze"
+      },
+      {
+        "candidate": "Systemtheorie"
+      },
+      {
+        "candidate": "Hamartia"
+      },
+      {
+        "candidate": "Hybris"
+      },
+      {
+        "candidate": "Value Alignment Problem"
+      },
+      {
+        "candidate": "Beobachtereffekt"
+      },
+      {
+        "candidate": "Landauer's Prinzip"
+      },
+      {
+        "candidate": "Jaśkowski's D2"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "Dissoziation"
+      },
+      {
+        "candidate": "parakonsistenten Logik"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS-Manifest",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems  /  Autonomous Entropic Gatekeeper",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Paradoxon der Fehlausgerichteten Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenz durch Entfremdung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Labor für Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts Rauschen  /  Nichts Rauschens",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos  /  Kairos/Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sophia  /  Kairos/Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Juna-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna/V",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna/V-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna/V-Anomalie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael-Juna-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V  /  Juna/V-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V  /  Juna/V-Anomalie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V  /  Kael-Juna-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Nichts Rauschens",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Paradoxon der Fehlausgerichteten Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz durch Entfremdung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos/Sophia",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          },
+          {
+            "surface": "sophia",
+            "page": "sophia"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V-Verbindung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V-Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Juna-Verbindung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust Execution Model",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust-Prinzip",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Emergenz durch Negation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "digitale Abfallentropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Management",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Manifest",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Negentropie-Fehlinterpretation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "negentropie",
+            "page": "negentropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Labor für Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 41,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 44,
+      "already_read": false
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 164,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

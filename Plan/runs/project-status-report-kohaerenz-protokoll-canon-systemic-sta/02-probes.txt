@@ -1,0 +1,49 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      35
+  typographic marks      16
+  ascii quotes           110
+
+# inflection families -- one term, several surfaces
+  canon    CANON, Canon, Canonical
+  final    Final, Finale, Finalized
+  alter    Alter, Alters
+  analy    Analyse, Analytical
+  archi    Architectural, Architecture
+  axiom    Axiom, Axioms
+  exist    Existenz, Existing
+  funct    Functional, Functionalist
+  hard     HARD, Hard
+  ident    Identified, Identifying
+  imple    Implement, Implementation
+  inter    Interaction, Internal
+  opera    Operationalize, Operationalizing
+  proto    Protocol, Protokoll
+  resol    Resolution, Resolutions
+  reson    Resonance, Resonanz
+  sourc    Source, Sources
+  symme    Symmetries, Symmetry
+  syste    System, Systemic
+
+# substring pairs -- never one term, often merged by accident
+  Find < Finde
+  HARD < Hard
+  Hero < Heroine
+  Risk < Risks
+  Alter < Alters
+  Axiom < Axioms
+  CANON < Canon
+  CANON < Canonical
+  Canon < Canonical
+  Final < Finale
+  Final < Finalized
+  Source < Sources
+  System < Systemic
+  Fragment < TEXTFRAGMENTE
+  Solution < Resolution
+  Solution < Resolutions
+  Implement < Implementation
+  Protokoll < Trennungsprotokoll
+  Functional < Functionalist
+  Resolution < Resolutions

@@ -246,3 +246,19 @@ Stands as a position that the Externe Ebene lies beyond the simulation's control
 Its answer: „Julia (Juna) ist keine aktive Agentin“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42] inside the simulation, her influence the „passive Konsequenz ihrer ontologischen Verbindung zu Kael“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42]. The K-J-Essenz is „potenziell im Potentialmeer angesiedelt, jenseits der linearen Logik von AEGIS“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L34]. Another answer says coherence needs „Verbindung nach außen (Juna/Externe Ebene) erfordert“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L101].
 
 Stands: a plan that keeps Juna outside AEGIS's logic, as one document's planning; nothing decided for the record.
+
+## 2026-10-06 — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter
+
+**The research letter has Juna act on the Externe Ebene and calls it the place where her side of the link is integrated with Kael, hedged with „könnte“.**
+
+Juna's decisive act: „Junas entscheidende Handlung besteht nicht darin, AEGIS anzugreifen“ ^[aegis-logik-und-erzaehlstruktur.md:L205]; instead she acts there, and „Diese Handlung könnte eine Form der Selbstaufopferung“ ^[aegis-logik-und-erzaehlstruktur.md:L205] be. The letter does not say whether the Externe Ebene is an outside or an inner world.
+
+Stands as a hedged side that uses the Externe Ebene as the site of Juna's act; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The reply calls the Externe Ebene a hypothetical level outside AEGIS's control and perception, a possible origin of Julia, and says its nature stays mysterious.**
+
+It writes „Eine hypothetische Ebene oder ein Zustand“ ^[welten.md:L118] lying outside AEGIS's direct control and perception, a „Potenzieller Ursprung oder Aufenthaltsort von Julia“ ^[welten.md:L118], and adds „Ihre Natur bleibt (vorerst) mysteriös“ ^[welten.md:L118]. The conclusion lists it with Julia as „der transzendenten Verbindung (Externe Ebene/Julia)“ ^[welten.md:L127]. It places the level relative to AEGIS's control, and it does not say whether it lies inside or outside the simulation.
+
+Stands outside both rows of the record's table: it neither places the level beyond the simulation nor denies that it is outside it, and the record's rows are not changed.

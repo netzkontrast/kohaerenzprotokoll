@@ -1,0 +1,272 @@
+{
+  "document": "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
+  "drive_id": "1nWVeCZgRIiLS8OmE5MraBxbn2IDBJDhlwxqgE5pV4aA",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-195/brief.md; the chapter readings on Kap 1 and Kap 2 by the session, Plan/runs/ingest-195-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 74,
+    "decisions": 77,
+    "decided_by_lookup": 70,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German abstract of numbered statements in six sections, each naming its sources: its new surfaces are its constructs and metaphors (the M-structure, the VOA/CFT analogy, the Moonshine-Signatur, the Primzahl-Metapher, Gleichzeitigkeit), AEGIS's protocols, the narrative techniques and borrowed theories; what it says of the novel's world went on existing pages, two chapter pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        16,
+        23,
+        43,
+        55
+      ],
+      "attribution": "",
+      "note": "AEGIS as a boundary-making entity, limited by its own protocols"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "Kael's parts as IFS parts around a core self"
+    },
+    {
+      "page": "ani",
+      "lines": [
+        16
+      ],
+      "attribution": "",
+      "note": "`ANI` named, not expanded"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "named among the Guardians"
+    },
+    {
+      "page": "did",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "DID as consequence, not trait"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        15,
+        25
+      ],
+      "attribution": "",
+      "note": "emergent structures from the Potentialmeer, emergent behaviour in the managed systems"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        16,
+        46
+      ],
+      "attribution": "",
+      "note": "entropy inside AEGIS's definition of coherence"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "AEGIS's agents with blind spots"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        15,
+        31
+      ],
+      "attribution": "",
+      "note": "two names for the Kael pair, never equated"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        36,
+        37,
+        38
+      ],
+      "attribution": "",
+      "note": "Kael as M-avatar, DID as AEGIS's doing, his journey as integration of his parts"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "named among the Guardians"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        25,
+        32
+      ],
+      "attribution": "",
+      "note": "Kernwelten as complex adaptive systems, a projection"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "chapter 1 on Kael's perception of the Konstrukt-Stadt"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "named among the Guardians"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "named among the Guardians"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        15,
+        16,
+        29,
+        47
+      ],
+      "attribution": "",
+      "note": "the basic level of reality, source of AEGIS and the goal state"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "one level named, the lowest"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Risse in the holographic principle and in Kael's experience"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "named among the Guardians"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        22
+      ],
+      "attribution": "",
+      "note": "AEGIS's operative domain"
+    },
+    {
+      "page": "ztv",
+      "lines": [
+        16
+      ],
+      "attribution": "",
+      "note": "`ZTV` named, not expanded"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (Autogenic Emergent General Intelligence System, an AEGIS expansion), J9 (the Protokoll's name; the Kohärenz-Insel(n), the abstract's construct), J13 (Kael-Juna Verbindung; the abstract writes Julia and Juna and never equates them), J23 (Guardian / Guardians); Landauer is a cost among AEGIS's limits, read on aegis, not the Landauer-Signatur",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 15,
+      "decision": "reading",
+      "why": "the Potentialmeer as source of emergent structures, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 16,
+      "decision": "reading",
+      "why": "AEGIS's coherence as low informational entropy, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 15,
+      "decision": "reading",
+      "why": "the Potentialmeer as the most fundamental level of reality, read on realitaetsebenen"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 32,
+      "decision": "reading",
+      "why": "the holographic principle as explanation of Risse, read on risse"
+    }
+  ],
+  "not_promoted": [
+    "the Kohärenz-Insel — on kael and C16; left for the author",
+    "the M-structure, the VOA/CFT analogy, the Moonshine-Signatur, the Primzahl-Metapher, Gleichzeitigkeit",
+    "the protocols OBP, RIVE, PMAS, SARM, CCPP",
+    "the borrowed theories and narrative techniques"
+  ],
+  "internal_tension": "it writes both `Julia` (L15) and `Juna` (L31) and never says they are one",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

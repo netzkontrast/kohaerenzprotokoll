@@ -1,0 +1,14 @@
+# roman-konzept-reduktion-und-kernfindung
+  lines                212  (frontmatter ends at 9)
+  body words           2899
+  headings             23   bold-only lines 0
+  table rows           23   code fences 0
+  question marks       9
+  backslash escapes    100
+  typographic marks    25   ascii quotes 24
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    19
+  repeated labels      Reduktion x4, Warum x4
+  longest line         711 chars
+

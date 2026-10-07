@@ -1,0 +1,61 @@
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "Status:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Status:` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#2]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "UNKLAR"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`UNKLAR` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#2]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "ANPs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANPs` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#1]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#2]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Risse` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#2]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "Riss"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Riss` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#2]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "correspondence checks"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`correspondence checks` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#1]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "Hypothesis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hypothesis` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#2]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "Genesis-Event"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Genesis-Event` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#2]
+$ read.py project-status-report-kohaerenz-protokoll-canonical-state-st --count "13"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`13` ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:#1]
+stance_marker_count 4 = Status: 2 + UNKLAR 2 (above)

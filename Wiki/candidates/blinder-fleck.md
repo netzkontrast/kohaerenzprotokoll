@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "charakterkonzepte-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "charakterkonzepte-fuer-kohaerenz-protokoll", "welten"]
 gathered: "2026-09-17"
 ---
 
@@ -41,6 +41,14 @@ The last is load-bearing:
 
 AEGIS reacts to symptoms it can see and misdiagnoses their cause ^[L82, L177],
 which makes its escalation — see [[protokoll-v14|Protokoll v1.4]] — actively destructive.
+
+## Reading — `welten`, 2025-04-20, the world-concept reply — one blind spot for AEGIS and one for each of five Guardians
+
+The world-concept reply gives AEGIS its own entry, headed `Zentrales Paradoxon & Blinder Fleck`: AEGIS is „systemisch unfähig“ ^[welten.md:L46] to recognise or process the nature and meaning of the Kael-Julia connection, which it misreads as a threat.
+
+It then gives each of the five Guardians a `Blinder Fleck` of its own. `LogOS`: „sieht nur Struktur, nicht Essenz“ ^[welten.md:L65]. `Mnemosyne`: „interpretiert zugehörige Emotionen falsch“ ^[welten.md:L66]. `Cerberus`: „neigt dazu, Unbekanntes als feindlich zu klassifizieren“ ^[welten.md:L67]. `Kairos`: „übersieht die qualitative Essenz der Möglichkeiten“ ^[welten.md:L68]. `Sophia`: „kommt sie dennoch zu einem unvollständigen oder falschen Gesamtbild“ ^[welten.md:L69].
+
+Together they act as a limit: „Ihre individuellen Blinden Flecken führen“ ^[welten.md:L73] AEGIS to misread the central anomaly. The reply reports this as drawn from another project document.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — the Guardians' blind spots, and AEGIS' own
 

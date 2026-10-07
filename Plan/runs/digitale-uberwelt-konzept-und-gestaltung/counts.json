@@ -1,0 +1,659 @@
+{
+  "document": "digitale-uberwelt-konzept-und-gestaltung",
+  "drive_id": "1A0jhNWYe8ATF4OK-71tPw2hwUGQZ1-EhY3etkuvGNVQ",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Ich bin, weil ich funktioniere"
+  ],
+  "counts": {
+    "Überwelt": {
+      "n": 33,
+      "n_including_compounds": 33,
+      "lines": [
+        11,
+        13,
+        17,
+        21,
+        31,
+        35,
+        50,
+        58,
+        66,
+        70,
+        82,
+        86,
+        100,
+        104,
+        108,
+        112,
+        114,
+        118,
+        122,
+        126,
+        141,
+        143,
+        147,
+        149,
+        151,
+        156,
+        164
+      ]
+    },
+    "Digitalen Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        151
+      ]
+    },
+    "AEGIS": {
+      "n": 18,
+      "n_including_compounds": 22,
+      "lines": [
+        13,
+        15,
+        17,
+        21,
+        25,
+        50,
+        62,
+        70,
+        74,
+        94,
+        100,
+        110,
+        141,
+        143,
+        149,
+        157,
+        158
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "AEGIS-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "No-Trust-Prinzips": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Behavioral Proof-of-Function": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        80
+      ]
+    },
+    "BPoF": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        44,
+        80,
+        82,
+        151
+      ]
+    },
+    "Recursive Trust Signature Verification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "RTSV": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        43,
+        96
+      ]
+    },
+    "Real-time Self-Verification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Zero-Trust Environment Mandate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "ZTEM": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        78,
+        151
+      ]
+    },
+    "Systemic Isolation Shield": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "SIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        66
+      ]
+    },
+    "Encrypted Intent Channels": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        84,
+        86,
+        93
+      ]
+    },
+    "EIC": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        46,
+        84,
+        93
+      ]
+    },
+    "Consensus Enforcer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        50
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Logos-Prime": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        50
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Guardians": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        52,
+        54,
+        74,
+        86,
+        126
+      ]
+    },
+    "Guardian": {
+      "n": 5,
+      "n_including_compounds": 11,
+      "lines": [
+        35,
+        52,
+        54,
+        74,
+        82,
+        86,
+        93,
+        94,
+        126
+      ]
+    },
+    "LogOS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        56,
+        58,
+        66,
+        70,
+        86
+      ]
+    },
+    "Mnemosyne": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        62
+      ]
+    },
+    "Cerberus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        64,
+        66,
+        86
+      ]
+    },
+    "Kairos": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        68,
+        70
+      ]
+    },
+    "Sophia": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        72,
+        74
+      ]
+    },
+    "Kael": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        100,
+        104,
+        126,
+        141,
+        143
+      ]
+    },
+    "Juna": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        139,
+        141,
+        143
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        98,
+        100
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        104,
+        110
+      ]
+    },
+    "Correspondence Errors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Cache-Inkoherenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        104
+      ]
+    },
+    "Selbst-Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Systemkohärenz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        23,
+        25,
+        82
+      ]
+    },
+    "Nichts-Rauschens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Algorithmus-Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kohärenz statt Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "korruptes Datum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "funktionales Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "funktionalen Intent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "epistemologischen Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "paternalistischen Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "regulierte Atemzählen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Algorithmischen Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Zombie-System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Broken God": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Entropie-Jäger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Systembiografie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Kohärenzprognose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Selbstverweisungskette": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "passive Exklusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "aktive Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "ER=EPR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Wächter-Konstrukte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Hybridarchitektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        118,
+        149
+      ]
+    },
+    "topologischen Datenanalyse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "TDA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "RTD-AE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Zero-Trust-Architekturen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "autopoietischen Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "parakonsistenten Entität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Phasenraum-Diagrammen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Matrix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        147
+      ]
+    },
+    "Tron": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Diaspora": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        147,
+        168
+      ]
+    },
+    "Blindsight": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        54,
+        147,
+        162
+      ]
+    },
+    "Minds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Scramblern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    }
+  }
+}

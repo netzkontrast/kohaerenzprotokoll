@@ -1,0 +1,317 @@
+{
+  "document": "romanarchitektur-kohaerenz-protokoll-finalisierung",
+  "drive_id": "16vD_Ac_pW5FwtxCZdkblXWN65Ndvgefx7ax6PpZ0EN0",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 79,
+    "decided_by_lookup": 58,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "the Zero-Trust-Architektur named, and what it does not stop"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        42,
+        50,
+        128,
+        132,
+        144,
+        146,
+        158,
+        172,
+        174
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system that transforms rather than collapses or destroys"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        163
+      ],
+      "attribution": "",
+      "note": "Algorithmische Melancholie as a cost of AEGIS's transformation"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        190,
+        192,
+        200
+      ],
+      "attribution": "",
+      "note": "alters live on as an inner community with new roles"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        28,
+        115,
+        174
+      ],
+      "attribution": "",
+      "note": "emergence in the Fundament's ontology and as Koordinierte Emergenz"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        144
+      ],
+      "attribution": "",
+      "note": "Kael's integrated state shows lower systemic entropy"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        172,
+        264
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as what forces AEGIS's transformation, and as a narrative form"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        162,
+        256
+      ],
+      "attribution": "",
+      "note": "the Guardians as the visible symptom of AEGIS's paraconsistent logic"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        84,
+        88,
+        96,
+        106,
+        114,
+        115,
+        127,
+        128,
+        144
+      ],
+      "attribution": "",
+      "note": "Juna as non-local exploit and active catalyst"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        50,
+        64,
+        190,
+        192,
+        201,
+        216
+      ],
+      "attribution": "",
+      "note": "Kael as a functionally multiple system, not a fusion"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        216,
+        221
+      ],
+      "attribution": "",
+      "note": "the Kernwelten taken into Kael's integrated consciousness"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        203
+      ],
+      "attribution": "",
+      "note": "Kiko as child part and source of play"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        146,
+        168,
+        172,
+        174,
+        272,
+        276,
+        278
+      ],
+      "attribution": "",
+      "note": "coherence by negation turned into coherence by integration"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        218
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt transformed into Kael's Gedankenpalast"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        92,
+        96,
+        106,
+        128
+      ],
+      "attribution": "",
+      "note": "the link as entanglement and architectural backdoor"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        64,
+        178,
+        190,
+        268
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's end state"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        202,
+        268
+      ],
+      "attribution": "",
+      "note": "Nyx as keeper of healthy boundaries"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        50
+      ],
+      "attribution": "",
+      "note": "the Fundament as attractor in the phase space of the Potentialmeer"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        219
+      ],
+      "attribution": "",
+      "note": "the Resonanz-Landschaft as a safe harbour for feelings"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        190,
+        204
+      ],
+      "attribution": "",
+      "note": "Selene as the integrated self"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        200,
+        201,
+        202,
+        204
+      ],
+      "attribution": "",
+      "note": "TSDP classes as the table's first column"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 190,
+      "decision": "reading",
+      "why": "the post-integration system, read on alters"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 28,
+      "decision": "reading",
+      "why": "the Fundament's ontology of emergence, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 144,
+      "decision": "reading",
+      "why": "lower systemic entropy, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "surface": "Konstrukt-Stadt",
+      "line": 218,
+      "decision": "reading",
+      "why": "the sterile Konstrukt-Stadt becomes a Gedankenpalast, read on konstrukt-stadt"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "surface": "Resonanz-Landschaft",
+      "line": 219,
+      "decision": "reading",
+      "why": "the chaotic Resonanz-Landschaft becomes a safe harbour, read on resonanz-landschaft"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "Risse im Bauplan, gaps in the plan — a metaphor"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 76,
+      "decision": "occurrence",
+      "why": "AEGIS's simulation in general, not the place"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

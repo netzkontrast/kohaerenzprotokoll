@@ -1,0 +1,258 @@
+{
+  "document": "recherche-ueberwelt",
+  "drive_id": "1_WYlyEJNXd7MOF3-IejoLvKP6-VVfjo1gMCB1nGdDXk",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 15,
+  "backslash_escapes": 0,
+  "typographic_marks": 9,
+  "ascii_quotes": 52,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemhüter",
+      "Systeminkonsistenz",
+      "Systeminstabilität",
+      "Systemkohärenz",
+      "Systemkonsistenz",
+      "Systemnützlichkeit",
+      "Systemphasen",
+      "Systemregeln",
+      "Systems",
+      "Systemsicherheit",
+      "Systemzustand"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informations",
+      "Informationsdurchfluss",
+      "Informationsfluss",
+      "Informationsfreigabe",
+      "Informationskapselung",
+      "Informationsräumen",
+      "Informationsstruktur",
+      "Informationsverarbeitung"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionsaussagen",
+      "Funktionsbasierte",
+      "Funktionsstörungen",
+      "Funktionsweise"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktions",
+      "Interaktionsmechanismen",
+      "Interface",
+      "Intern",
+      "Intervall"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolliert",
+      "Protokollverletzungen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenarchive",
+      "Datenkorruption",
+      "Datenpakete",
+      "Datenströme"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepten",
+      "Konzeptentwicklungsauftrag",
+      "Konzepts",
+      "Konzeptvervollständigung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungskoherenz",
+      "Handlungsträger"
+    ],
+    "insta": [
+      "Instabilität",
+      "Instancing",
+      "Instanz",
+      "Instanzen"
+    ],
+    "kontr": [
+      "Kontrapunkt",
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollkern"
+    ],
+    "reche": [
+      "Recherche",
+      "Rechercheergebnisse",
+      "Recherchefragen",
+      "Recherchieren"
+    ],
+    "absch": [
+      "Abschnitt",
+      "Abschnitte",
+      "Abschottung"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeit",
+      "Analysezentren"
+    ],
+    "auftr": [
+      "Auftrag",
+      "Auftrags",
+      "Auftreten"
+    ],
+    "defin": [
+      "Definieren",
+      "Definition",
+      "Definitionen"
+    ],
+    "exter": [
+      "External",
+      "Externe",
+      "Externen"
+    ],
+    "ident": [
+      "Identity",
+      "Identitäts",
+      "Identitätssystems"
+    ],
+    "kommu": [
+      "Kommunikation",
+      "Kommunikationsprotokoll",
+      "Kommunikationsprotokolle"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsebene"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstdefinition",
+      "Selbsterhalt"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheitsknotenpunkte",
+      "Sicherung"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulierten"
+    ],
+    "zugri": [
+      "Zugriff",
+      "Zugriffs",
+      "Zugriffsrechte"
+    ],
+    "aktiv": [
+      "Aktivierung",
+      "Aktivität"
+    ],
+    "ausfü": [
+      "Ausführliche",
+      "Ausführung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Abweichende"
+    ],
+    [
+      "Ende",
+      "Wendepunkte"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Hier",
+      "Recherchieren"
+    ],
+    [
+      "Ihre",
+      "Ihrer"
+    ],
+    [
+      "Kern",
+      "Kontrollkern"
+    ],
+    [
+      "Kern",
+      "Kernfunktionen"
+    ],
+    [
+      "Real",
+      "Realität"
+    ],
+    [
+      "Real",
+      "Realitäten"
+    ],
+    [
+      "Real",
+      "Realitätsebene"
+    ],
+    [
+      "Sinn",
+      "Sinne"
+    ],
+    [
+      "Sinn",
+      "Sinneseindrücke"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Weltsicht"
+    ],
+    [
+      "Welt",
+      "Weltbildes"
+    ],
+    [
+      "Ziel",
+      "Zielmenge"
+    ],
+    [
+      "Ziel",
+      "Zielsetzung"
+    ],
+    [
+      "Daten",
+      "Datenpakete"
+    ]
+  ]
+}

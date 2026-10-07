@@ -1,0 +1,120 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+# Candidates — narrative-blueprint-the-coherence-protocol
+
+The document is English prose with a few German names in quotation marks and in parentheses; each name is listed as the document writes it, the English one too. It holds three blueprints one after the other (L11, L184, L296). Kael's alters stand in a bulleted roster at L39 to L49 and in a table at L254 to L264.
+
+## world
+
+- Kael
+- AEGIS
+- Juna
+- Juna/V
+- Juna/V-Link
+- Moonshine-Link
+- The Juna/V-Link (Moonshine-Link)
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Moros
+- Selene
+- Lia
+- Isabelle
+- Argus
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Kernwelten
+- Core Worlds
+- Kernwelten (Core Worlds)
+- Überwelt
+- Overworld
+- Overworld (Überwelt)
+- The Foundation
+- Die Grundlage
+- The Void
+- Das Nichts
+- Nichts Rauschen
+- Roaring Nothingness
+- Riss
+- Risse
+- Guardian
+- Guardians
+- Mnemosyne
+- Gärtner
+- The Gardener
+- Architect
+- 'O'
+- Unit 734
+- Komponente 734
+- Dr. Thorne
+- Construct City
+- Lake of Tears
+- Potentialmeer
+- Sea of Possibilities
+- Wave of Impossibility
+- Paradox of Misaligned Coherence
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Gödel Gambit
+- Gödel-Gambit
+- living Gödel sentence
+- Gödel-Satz
+- Functional Multiplicity
+- algorithmic melancholy
+- Algorithmic Horror
+- logic tumor
+- Logische Tumore
+- Maximize Coherence
+- Coherence through Alienation
+- Emergence by Negation
+- Coherence instead of Truth
+- Autonomous Entropic Gatekeeper
+- fürsorglicher Tyrannei
+- externalized perpetrator introject
+- Dialetheische Offensive
+- Echo-Intrusion
+- polyphone prose
+- flackerndes Licht
+- Bizarre Architektur
+- Unberechenbare Wächter
+- Visuelle Korruption
+- Pathological Learning Loop
+- Logic Cage
+- Inefficient Beauty
+- Seam in the Self
+- Positive Intent
+
+## lens
+
+- TSDP
+- Theory of Structural Dissociation
+- Tertiary Structural Dissociation
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- Internal Self Helper
+- ISH
+- Logics of Formal Inconsistency
+- LFI
+- Discursive Logic
+- Gödel's Incompleteness Theorems
+- undecidable proposition
+- Popper's Paradox of Tolerance
+- trivialization
+- paraconsistent
+- co-consciousness
+- Main Character
+- Objective Story
+- Subjective Story
+- Impact Character
+- Grand Argument

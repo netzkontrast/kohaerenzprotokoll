@@ -1,10 +1,10 @@
 ---
 term: Vortex
 status: candidate
-sources: 36
-readings: 36
+sources: 37
+readings: 37
 conflict: C7, C11, C14
-ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung"]
+ingested: ["dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "2026-09-14-kap25-vertiefung-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung", "kohaerenz-protokoll-architecture-synthesis"]
 gathered: "2026-09-25"
 ---
 
@@ -23,6 +23,12 @@ the Konzept-Iteration Genesis on, the plans have two: Vortex 1 in Kap 35–36 an
 Vortex 2 in Kap 38–39, with a false victory in Kap 37 between them. What each
 source says is below, attributed and unmerged. The plan's macro structure,
 source by source, is in `Wiki/overview/plot.md`.
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — the Vortex Inversion as the plot mechanism that inverts the storyforms
+
+The architecture synthesis places the Vortex at the climax: „The Vortex Inversion occurs at the exact climax of the narrative“ ^[kohaerenz-protokoll-architecture-synthesis.md:L73], in German „Der Wahrheits-Vortex ereignet sich am exakten Höhepunkt“ ^[kohaerenz-protokoll-architecture-synthesis.md:L75]. It calls it „The Vortex Inversion is the singular plot mechanism that forces the inversion of the two storyforms“ ^[kohaerenz-protokoll-architecture-synthesis.md:L185]. Its effect is stated on L73: „Kael's chaos is revealed as the preserving K₁, and AEGIS's order is revealed as the destructive K₀“ ^[kohaerenz-protokoll-architecture-synthesis.md:L73] — this is the brief's own kernel inversion, not the canonical placement.
+
+Its Part IV beats: „Beat 3 (The Inversion / The Silence)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L189] and „Beat 4 (The Meta-Collapse)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L190]; the handoff image ends „The system fails“ ^[kohaerenz-protokoll-architecture-synthesis.md:L375]. These are proposals of the brief.
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — Vortex Inversion Mechanics and an ontological rotation
 
@@ -533,6 +539,7 @@ third person without the storyform (L507). That touches **C14**.
 - The research prompt gives the Vortex as Kapitel 35–36 with five beats (Constraint Block 4) and lists a „Vortex-Korridor: 33, 34, 35, 36, 37“ ^[research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out.md:L561] among its pivot chapters.
 - The outline fixes the Vortex as a mechanical Action-to-Decision pivot coupled to the hardware in Kap 35 and 36, and reports the resonance-event version as legacy it did not use (Anhang C and F).
 - `kohaerenz-protokoll-kapitel-outline-generierung` (2026-04-30, the 39-chapter outline) puts the Vortex in Kapitel 35–36 with five beats split across two chapters, and prepares its Heat-Spike in Kapitel 6.
+- the architecture synthesis proposes the Vortex Inversion as the mechanism that inverts the storyforms and the kernels at the climax: „The Vortex Inversion occurs at the exact climax of the narrative“ ^[kohaerenz-protokoll-architecture-synthesis.md:L73].
 
 ## Open
 

@@ -1,0 +1,14 @@
+# romanplot-uberarbeitung-kohaerenz-protokoll-teil-1
+  lines                870  (frontmatter ends at 9)
+  body words           13823
+  headings             8   bold-only lines 17
+  table rows           32   code fences 0
+  question marks       55
+  backslash escapes    316
+  typographic marks    33   ascii quotes 166
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    142
+  repeated labels      Charaktere x25, Ereignis/Aktion x25, Inneres Erleben (Kael) & Wahrnehmung x25, Lokalitätsnutzung (Aktiv) x25, Plot-Fortschritt x25, Setting x25, Risse/Entropie/AEGIS x19, Detaillierte Szenen/Schlüsselereignisse x13, HJ-Stufe & A1-Thema x13, Primäre Kern-Welt(en) x13, Überarbeitete Plot-Zusammenfassung x13, Therapie-Subplot Integration x12, DID-Darstellung x8, DID-Darstellung (Konkret) x5, Dialog-Fokus x5, Fokus x5, Metaphern-Einsatz x5, Pacing & Spannung x5
+  longest line         1053 chars
+
