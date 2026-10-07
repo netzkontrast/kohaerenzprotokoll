@@ -385,3 +385,11 @@ This is one more position on the record's question, stated by a writer's guide i
 On AEGIS it writes that „its original, unified consciousness“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L61] met a transcendent entity „related to Juna/V“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L61]. On Juna/V it says she is „an exiled part of Kael's own“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L112] Ursprungs-Ich. The briefing gives Kael no origin as a fragment of AEGIS or of an entity M.
 
 Where it stands in the record's own terms: one word, Ursprungs-Ich, for two owners, stated as fact and unrelated by the briefing; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible
+
+**The worldbuilding bible states Juna/V as an exiled part of Kael's own Ursprungs-Ich, and Kael's instability as arising from his own inner state.**
+
+It says Juna/V is a transcendent entity from the External Level „who is also an exiled part of Kael's own“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L163] Ursprungs-Ich. Of Kael it says „His internal psychological state is the direct causal source of the instability“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L140]. The word `Ursprungs-Ich` is also used for AEGIS: the Resonanzkaskade of the Genesis-Krise is triggered „within its original consciousness“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L135], so the bible uses the one word for two owners and does not relate them.
+
+Where it stands in the record's own terms: one more statement of Juna/V as a part of Kael's Ursprungs-Ich, in a bible's own voice; recorded, not applied, and the record's rows are not changed.
