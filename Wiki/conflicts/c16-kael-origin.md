@@ -353,3 +353,11 @@ Where it stands in the record's own terms: an origin in the `Kohärenz-Insel`, h
 „Kael als M-Avatar/Essenz“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L36] — he „verkörpert oder ist direkt verbunden mit der M-inspirierten Struktur“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L36]. His DID „ist keine inhärente Eigenschaft“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37] but „direkte Folge“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37] of „dem Versuch, seine irreduzible Kernstruktur gewaltsam zu zerlegen“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37]. The `Quellen:` list on L37 names other documents.
 
 It stands with the first reading of C16, Kael from outside AEGIS with his dissociation AEGIS's doing; recorded, not applied.
+
+## 2026-10-07 — `roman-konzept-kael-aegis-simulation`, 2025-05-01, the simulation concept
+
+**The simulation concept gives no origin for Kael: he is a trauma-fragmented protagonist, and it asks whether Juna/V are the original simulators.**
+
+It introduces Kael as „System Kael, einem Protagonisten mit einer durch Trauma bedingten fragmentierten Identität“ ^[roman-konzept-kael-aegis-simulation.md:L15], and the Alters as a survival strategy; it names no external entity M, no split self and no `Komponente 734`. The question of origin that it does ask concerns Juna/V, not Kael: „Sind sie die ursprünglichen Simulanten“ ^[roman-konzept-kael-aegis-simulation.md:L125]. And for the resolution: „Sind sie Verbündete, die Simulanten selbst, Wächter einer höheren Realitätsebene, oder etwas anderes“ ^[roman-konzept-kael-aegis-simulation.md:L185].
+
+Stands outside the record's two origins: it neither tells Kael as an avatar of M nor as AEGIS's remainder, and adds no row; Kael's source is trauma here, and the question it leaves open is Juna/V's nature.
