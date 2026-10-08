@@ -1,6 +1,7 @@
 ---
 term: Kishōtenketsu
-status: candidate
+status: reviewed
+reviewed: 2026-10-08
 sources: 24
 readings: 24
 conflict: none yet
