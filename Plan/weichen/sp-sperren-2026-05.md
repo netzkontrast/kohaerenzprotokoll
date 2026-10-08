@@ -53,3 +53,23 @@ Gegenposition, und eine Empfehlung. Jede Empfehlung ist ein Vorschlag dieser Sit
 Je Zeile: **ja** (bestätigt, gilt ab jetzt als dein Wort, datiert), **nein** (gestrichen) oder
 ein Wort zur Änderung. Eine Zeile ohne Antwort bleibt, was sie ist: eine berichtete Sperre, die
 nichts festlegt.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+Spätere Entscheidungen haben einige Sperren überholt. Die Tabelle oben bleibt, wie sie ist; hier steht, was sich
+geändert hat.
+
+| # | heute | warum |
+|---|---|---|
+| L3 | hält in Entwurf G und J | — |
+| L5 | hält in J (keine AEGIS-Stimme in Kap 1) | AEGIS spricht erst in Kap 0 und 6 (C14) |
+| L6 | **teilweise überholt** | „Einheit 734 genau einmal“: J nennt 734 gar nicht, weil Q7 offen lässt, was die Zahl im Alltag bezeichnet |
+| L9 | **Konflikt im Treatment** | Kap 35 erfüllt „Landauer-Hitze in Beat 4“ (Schritt 48), Kap 31 lässt sie schon steigen; siehe W5 |
+| L10 | **überholt** | AEGIS spricht als Ich in Kap 0, 6, 16, 22, 28 (C14), nicht in einem Kapitel 5–8 |
+| L11 | **überholt** | Juna ist Subjekt (W0), ihre erste Begegnung in der Gegenwart ist Kap 32 (C7) |
+| L13 | **teilweise überholt** | Kap 18 zeigt die Nacht ohne Ursache (Schritt 39), W12 ist entschieden |
+| L14 | **teilweise überholt** | vier Kernwelten (Kanonzeile Kernwelten), Überwelt und externe Ebene offen (W14) |
+
+**Was offen bleibt:** L1, L2, L4, L7, L8, L12, L15, deine ja/nein-Antworten.
+
+**Empfehlung:** die überholten Zeilen streichen, L9 mit W5 entscheiden, den Rest bestätigen.

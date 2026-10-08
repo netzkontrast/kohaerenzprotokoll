@@ -71,3 +71,24 @@ Noch offen. Antwortformat: W5 A/B/C oder frei; zusätzlich **Wärme exklusiv Jun
 ja/nein** und **physische Kosten oder gerenderte Anzeige**. Diese Antworten
 dürfen unterschiedlich ausfallen. Abhängigkeiten: W2, W6, W9, W15; der Ort einer
 Spur folgt W8. C11 bleibt bis zur Autorenentscheidung offen.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was festliegt:**
+- **Die Uhr von B:** Löschen kostet Wärme. Das Abwärmebudget ist B's Uhr (Schritt 43), Beat 4 ist die Landauer-Hitze in
+  Kap 35 (Schritt 48).
+- **In den Entwürfen:** G und J lassen die Stadt vor einer Löschung vorkühlen. Kälte ist der Vorschuss, und nach dem
+  Fenster riecht es kurz „scharf, kalt und elektrisch“.
+
+**Was offen bleibt:**
+- **Ist Wärme Junas Zeichen allein?** Treatment Kap 3 („eine Wärme, die nicht in die Stadt passt“) und Kap 24 (Wärme
+  eines Kontakts) behandeln sie so. Kap 31 dagegen lässt die Landauer-Hitze schon steigen, als Oblivion und Silas
+  gegeneinander arbeiten.
+- **Konflikt:** Die berichtete Sperre L9 (SP) lässt Landauer-Hitze nur im Beat 4 zu. Kap 31 bricht das, Kap 35 erfüllt
+  es.
+
+**Empfehlung:** zwei Register trennen. **Löschwärme** ist messbar, technisch und im Budget gezählt (Kap 1, 6, 16, 22,
+28, 31, 35). **Junas Wärme** ist körperlich, ohne Zahl und ohne Quelle (Kap 3, 7, 10, 24). Kap 31 darf Löschwärme
+zeigen, Beat 4 bleibt der Höhepunkt.
+
+**Frage an dich:** Zwei Register, Löschwärme mit Zahl und Junas Wärme ohne?

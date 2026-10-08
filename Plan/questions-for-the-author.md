@@ -12,6 +12,14 @@ are listed on `NOW.md` itself.
 
 ## Part 1 — the novel and its sources
 
+### The plot's Weichen — the decision sheet of 2026-10-06
+
+The open plot and storyform questions are not repeated here: each is a sheet in `Plan/weichen/` with options, a
+recommendation and its dependencies, and `Plan/runs/storyform-2026-10-06/entscheidungsvorlage.md` orders all of them
+in five rounds for the joint session (confirmations; the pairs W22+W15, W23+W18, W17+W11, W24+W5 and the end
+W25+W13+W14+W31; Akt I in detail; switches of reading; deferred). The queries to the drafts of Kap 1 and 2 (M2, M3, M5,
+M6 of the independent review) stand at its end. Only the author sets a Weiche to „beantwortet“.
+
 Conflicts C1–C16 are records in `Wiki/conflicts/`, questions Q1–Q9 pages in `Wiki/questions/`; `python3 scripts/relations.py` prints the
 open ones. What follows is what the readings found beside them: differences with no record yet, and questions put to the author.
 

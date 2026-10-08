@@ -70,3 +70,39 @@ Noch offen. Antwortformat: W7 A/B/C oder frei, danach getrennt:
 **Pluralität: Vermutung/Benennung/Selbstwissen; Kael-Name; AEGIS-Name; DKT-Wortgebrauch**.
 Die Kapitelposition wird an einem Ereignis verankert und erst dann nummeriert.
 W3/W6 begrenzen den Zugang, W9/W12 die Herkunftswahrheit, W10 die Stimmen.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was festliegt oder als Arbeitsgrundlage gilt:**
+- **Anteile:** Bis Kap 13 haben sie keinen Namen (`anteile.json`, Schritt 32; Arbeitsgrundlage).
+- **AEGIS:** AEGIS nennt sich ab Kap 0 selbst (C14).
+- **Kael:** Sein Name fällt in Kap 1, weil die alte Frau fragt (Entwürfe G, J).
+- **734:** Q7 ist entschieden: Kael ist der aus 734 herausgetrennte Teil. Die Zahl taucht im Treatment erst in Kap 6
+  auf, im AEGIS-Kapitel und nur für den Leser, und als „Komp 734“ in Kap 22.
+
+**Was offen bleibt:**
+- **Die Verbindung zu Juna:** Wann erfährt der Leser, dass das Gewicht am anderen Ende die Verbindung zu Juna ist?
+  Das Leserpanel zu J las „sieben Milliarden Bänke“ teils als Menschheit (siehe W21).
+- **Die Amnesie:** Wann heißt sie so? Die berichtete Sperre L4 verbietet das Wort bis Kap 13.
+- **DKT-Wörter:** Ob ein Fachwort der Dissoziation je fällt, ist offen.
+
+**Empfehlung:**
+- Leserwissen vor Kaels Wissen nur über die AEGIS-Kapitel (Kap 6: 734).
+- Kael erfährt in Kap 12, dass der Anschluss unter seiner Zeile steht.
+- Junas Name fällt erst in der zweiten erinnerten Szene (Kap 11).
+- Kein DKT-Fachwort im Text.
+
+**Frage an dich:** Wann fällt Junas Name zum ersten Mal: Kap 4, Kap 11 oder erst Kap 17?
+
+## Nachtrag 2026-10-06: aus der Wissenstabelle
+
+`Plan/runs/storyform-2026-10-06/wissenstabelle.md` hat drei Lücken gefunden, die hierher gehören.
+
+- **Junas Name auf Kaels Seite (Lücke 3).** Kap 10 nennt die Präsenz noch „ohne Namen Juna“. Kap 15 setzt aber voraus,
+  dass Kael weiß, wie Juna klingt. Dazwischen nennt kein Kapitel ihm den Namen. Die Empfehlung oben, Kap 11, schließt
+  diese Lücke. Kap 4 käme zu früh, Kap 17 zu spät für Kap 15.
+- **734 (Lücken 1 und 2):** Das steht jetzt in W30.
+- **Das Wort „Trennungsprotokoll“ (Lücke 5).** Das Wort gehört AEGIS und der Genesis. Kap 21 ist nach
+  `development.json` der Genesis-Flashback, und nach W12 ist die Nacht dasselbe Ereignis. Offen ist, ob Kael oder Silas
+  im Text je dieses Wort haben oder nur die Nacht. **Empfehlung:** Auf Kaels Seite fällt das Wort nie. Nur AEGIS'
+  Kapitel und Kap 40 benutzen es.
