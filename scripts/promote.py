@@ -210,9 +210,13 @@ _RECONCILED: set[str] = set()
 
 
 def reconciled(slug: str) -> bool:
+    """A run directory holding a reconcile.json — what `state.py`'s `documents.reconciled` counts.
+
+    The record's name is no test: the first document's reconciliation is one of the three full
+    re-comparisons in `Wiki/compare/`, not a `reconcile-NN-<slug>.md`.
+    """
     if not _RECONCILED:
-        _RECONCILED.update(m.group(1) for p in (ROOT / "Wiki" / "compare").glob("reconcile-*.md")
-                           if (m := re.fullmatch(r"reconcile-\d+-(.+)\.md", p.name)))
+        _RECONCILED.update(p.parent.name for p in (ROOT / "Plan" / "runs").glob("*/reconcile.json"))
     return slug in _RECONCILED
 
 
@@ -234,10 +238,13 @@ def surfaces(slug: str) -> list[str]:
 
 def coverage(slug: str, ingested: list[str]) -> dict:
     """Landed documents that write one of the page's surfaces, read or not — the macron, case and accents folded."""
-    pats = [re.compile(r"(?<!\w)" + re.escape(f) + r"(?!\w)") for f in sorted({fold(s) for s in surfaces(slug)})]
+    folded = sorted({fold(s) for s in surfaces(slug)}, key=len, reverse=True)
+    if not folded:
+        return {"naming": 0, "on_page": 0, "read_not_on_page": [], "unread": {}}
+    pat = re.compile(r"(?<!\w)(?:" + "|".join(map(re.escape, folded)) + r")(?!\w)")
     naming = {}
     for doc, text in corpus().items():
-        n = sum(len(p.findall(text)) for p in pats)
+        n = len(pat.findall(text))
         if n:
             naming[doc] = n
     unread = {d: n for d, n in naming.items() if not reconciled(d)}
