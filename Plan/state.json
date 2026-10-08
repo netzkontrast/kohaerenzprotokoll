@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07",
+  "generated": "2026-10-08",
   "by": "scripts/state.py",
   "measurements": {
     "chapters.missing": {
@@ -43,11 +43,11 @@
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 21905,
+      "value": 21904,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 21902,
+      "value": 21901,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
@@ -107,7 +107,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 49306,
+      "value": 49305,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -215,7 +215,7 @@
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
-      "value": 418,
+      "value": 420,
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
@@ -233,6 +233,10 @@
     "wiki.relations": {
       "value": 729,
       "how": "a page naming another page as `slug`, scripts/relations.py"
+    },
+    "wiki.reviewed": {
+      "value": 1,
+      "how": "term pages the author reviewed \u2014 status: reviewed, pinned in Plan/runs/promotions.jsonl"
     },
     "wiki.unmarked": {
       "value": 818,
