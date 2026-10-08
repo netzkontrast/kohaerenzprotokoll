@@ -181,7 +181,8 @@ def latest(rows: list[dict]) -> dict[str, dict]:
 def check(pages: Path | None = None, ledger_path: Path | None = None) -> list[str]:
     """Every disagreement between pages and ledger, as a sentence each."""
     pages = pages or PAGES
-    last = latest(ledger(ledger_path))
+    # Rows with a `layer` other than candidates are another page type's (terms.py's approvals).
+    last = latest([r for r in ledger(ledger_path) if r.get("layer", "candidates") == "candidates"])
     problems = []
     for path in sorted(pages.glob("*.md")):
         text = path.read_text(encoding="utf-8")

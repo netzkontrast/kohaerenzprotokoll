@@ -62,6 +62,9 @@ jobs:
       - name: reviewed pages (promote.py check)
         if: always()
         run: python3 scripts/promote.py check
+      - name: term pages (terms.py check)
+        if: always()
+        run: python3 scripts/terms.py check
       - name: judgement replay (judgements.py)
         if: always()
         run: python3 scripts/judgements.py --open

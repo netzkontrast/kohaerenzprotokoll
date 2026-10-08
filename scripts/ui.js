@@ -824,10 +824,12 @@ class Component extends DCLogic {
 
       const p = D.pages[sel];
       const chips = [this.chip(p.st || 'candidate', 'ink'), this.chip(p.src + ' sources'), this.chip(p.rd + (p.rd === 1 ? ' reading' : ' readings'))];
+      if (p.tp) chips.unshift(this.chip('Begriffsseite · ' + p.tp, 'blue'));
       if (p.cx.length) chips.push(this.chip('contested · ' + p.cx.map((c) => D.conflicts[c].id).join(', '), 'rubric'));
       if (p.g) chips.push(this.chip('gathered ' + p.g));
       rd = {
-        kicker: (p.st === 'reviewed' ? 'Reviewed page' : 'Candidate page') + ' · Wiki/candidates/' + p.s + '.md', title: p.t, tsz: p.t.length > 30 ? 34 : 46,
+        kicker: p.tp ? 'Term page (' + p.tp + ') · Wiki/terms/' + p.s + '.md, then its reviewed candidate'
+          : (p.st === 'reviewed' ? 'Reviewed page' : 'Candidate page') + ' · Wiki/candidates/' + p.s + '.md', title: p.t, tsz: p.t.length > 30 ? 34 : 46,
         hasSub: false, sub: '', chips: chips, secs: this.secs(p.lede, p.sec, uid + '-p' + sel), maxW: 700, key: 'wiki:' + sel,
       };
       wr.toc = rd.secs.filter((x) => x.hasHead).map((x) => {

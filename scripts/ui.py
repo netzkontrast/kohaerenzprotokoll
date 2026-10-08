@@ -110,6 +110,7 @@ TEMPLATE = HERE / "ui.html"
 COMPONENT = HERE / "ui.js"
 OUT = ROOT / "Plan" / "derived" / "ui"
 PAGES, CONFLICTS, QUESTIONS = subject.PAGES, subject.CONFLICTS, subject.QUESTIONS
+TERMS = ROOT / "Wiki" / "terms"  # term pages (terms.py), shown before their candidate
 COMPARE = ROOT / "Wiki" / "compare"
 RUNS_DIR = ROOT / "Plan" / "runs"
 DECISIONS = ROOT / "Plan" / "decisions"
@@ -656,10 +657,22 @@ def export(checks: bool = True) -> dict:
         body, _ = subject._split(text)
         ingested = meta.get("ingested") or []
         title, lede, secs = md.sections(body, ingested[0] if len(ingested) == 1 else None)
+        # A term page (Wiki/terms/, terms.py) goes first, under the same address; the candidate's readings follow it.
+        tpath = TERMS / f"{slug}.md"
+        tstatus = ""
+        if tpath.exists():
+            ttext = tpath.read_text(encoding="utf-8")
+            tstatus = wiki_index.frontmatter(ttext).get("status", "") or "draft"
+            tbody, _ = subject._split(ttext)
+            tbody = re.sub(r"^<!--.*?-->\s*$", "", tbody, flags=re.M)
+            tbody = re.sub(r"^## ", "## Begriffsseite · ", tbody, flags=re.M)
+            _, tlede, tsecs = md.sections(tbody)
+            sep = [md.runs(f"Kandidatenseite · die Lesarten der Quellen, Wiki/candidates/{slug}.md"), -1, "", lede]
+            secs, lede = tsecs + [sep] + secs, tlede
         node = g["nodes"].get(f"term:{slug}", {})
         ev = Counter(e["status"] for e in g["evidence"].get(slug, []))
         num = lambda v: int(v) if str(v).isdigit() else 0  # noqa: E731
-        pages.append({"s": slug, "t": meta.get("term") or title or slug, "st": meta.get("status", ""),
+        pages.append({"s": slug, "t": meta.get("term") or title or slug, "st": meta.get("status", ""), "tp": tstatus,
                       "src": num(meta.get("sources")), "rd": num(meta.get("readings")), "cf": meta.get("conflict", ""),
                       "g": meta.get("gathered", ""), "sf": [x for x in node.get("surfaces", []) if x != slug][:24],
                       "lede": lede, "sec": secs,
