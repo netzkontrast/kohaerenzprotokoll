@@ -332,3 +332,20 @@ Together they take about 800 MB and half a minute. The installer writes **no `.e
 so every cloud provider stays off until a key is set in the environment. Decision 026 says which providers may receive
 what. The skill `openmontage` has how to run it, what works here, and why Remotion does not render in this container.
 
+## HyperFrames — the fork OpenMontage renders with (2026-10-08)
+
+`scripts/install.sh hyperframes` puts `netzkontrast/hyperframes` at commit `072de48` into `.hyperframes/`, git-ignored, and
+builds it with bun: `bun install --frozen-lockfile`, then `bun run build`, about two minutes. The licence is Apache 2.0.
+The fork is 25 commits past the npm release 0.8.142, all of them fixes.
+
+- **A shim `hyperframes` in npm's global bin** (`$(npm prefix -g)/bin`) runs the fork's CLI. `npx hyperframes`, which
+  OpenMontage calls, runs a global bin of that name before it fetches the npm package. That was measured: npm's
+  log shows no fetch with the shim and a fetch without it. A project whose own `package.json` pins
+  `npx hyperframes@<version>` still gets that npm version.
+- **Thirteen of its skills**, copied unchanged from the same commit into `.claude/skills/` and git-ignored: the
+  core set its CLI names (`hyperframes`, `-animation`, `-audio`, `-cli`, `-core`, `-creative`, `-keyframes`,
+  `-registry`, `-studio`, `media-use`) and three workflows (`general-video`, `motion-graphics`, `music-to-video`).
+  `check_skills.py` reports them as vendored. `hyperframes skills update` would replace them with upstream's `main`,
+  not the fork, so it is not run.
+- Its headless Chrome is installed by `hyperframes browser ensure` into `~/.cache/hyperframes/`.
+

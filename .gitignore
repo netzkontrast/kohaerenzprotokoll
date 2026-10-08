@@ -71,3 +71,13 @@ Index/**/*.tmp
 # OpenMontage (scripts/install.sh openmontage): the pinned clone, its .venv,
 # node_modules and every project it renders under .openmontage/projects/
 .openmontage/
+
+# HyperFrames (scripts/install.sh hyperframes): the pinned, built clone, and its
+# skills copied unchanged into .claude/skills
+.hyperframes/
+.claude/skills/hyperframes/
+.claude/skills/hyperframes-*/
+.claude/skills/media-use/
+.claude/skills/general-video/
+.claude/skills/motion-graphics/
+.claude/skills/music-to-video/

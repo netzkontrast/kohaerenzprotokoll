@@ -1,6 +1,6 @@
 ---
 name: openmontage
-description: Produce a video for Kohärenz Protokoll — the book teaser first — with OpenMontage, the agentic video studio installed in .openmontage/ (netzkontrast/OpenMontage, pinned). Covers starting it in this container, which of its tools work here without a key, the German voice, rendering 9:16 with HyperFrames, which providers may receive the teaser's text (decision 026), and where a production's files go. Use when asked for a video, teaser, trailer, Reel, voice-over, soundtrack or storyboard for the novel.
+description: Produce a video for Kohärenz Protokoll — the book teaser first — with OpenMontage, the agentic video studio installed in .openmontage/ (netzkontrast/OpenMontage, pinned), rendering with the HyperFrames fork in .hyperframes/. Covers starting it in this container, which of its tools work here without a key, the German voice, rendering 9:16 with HyperFrames, which providers may receive the teaser's text (decision 026), and where a production's files go. Use when asked for a video, teaser, trailer, Reel, voice-over, soundtrack or storyboard for the novel.
 ---
 
 # OpenMontage, in this repository
@@ -10,13 +10,20 @@ OpenMontage turns the session into a video studio. It is **instruction-driven**:
 Python only supplies tools and checkpoints. This skill adds what holds in *this* repository: how to start it here, what
 was measured to work, and the rules that are ours, not OpenMontage's.
 
+It renders with **HyperFrames from `netzkontrast/hyperframes`**, built in `.hyperframes/`. Thirteen of HyperFrames' own skills
+are installed beside it in `.claude/skills/`, with `hyperframes` as their entry point. OpenMontage decides the
+production: the pipeline, the stages and the checkpoints. HyperFrames' skills decide how a composition is written:
+the `data-*` contract, GSAP, the registry's blocks and audio mixing.
+
 **Read `.openmontage/AGENT_GUIDE.md` before the first production step.** Its Rule Zero holds: every production goes
 through a pipeline, stage by stage, each stage's director skill read first.
 
 ## Starting it
 
 ```bash
-bash scripts/install.sh openmontage    # pinned clone, .venv, Remotion's node_modules, the German voice, HyperFrames' Chrome
+bash scripts/install.sh hyperframes openmontage
+# hyperframes: the fork built in .hyperframes/, the `hyperframes` shim, 13 skills, its Chrome
+# openmontage: pinned clone, .venv, Remotion's node_modules, the German voice
 cd .openmontage
 export PATH="$PWD/.venv/bin:$PATH" DO_NOT_TRACK=1 HYPERFRAMES_SKIP_SKILLS=1
 python -c "from tools.tool_registry import registry; import json; registry.discover(); print(json.dumps(registry.provider_menu(), indent=2))"
@@ -25,6 +32,11 @@ python -c "from tools.tool_registry import registry; import json; registry.disco
 - **`PATH` carries `.venv/bin`.** Without it `piper_tts` reports itself unavailable, because it looks for the `piper`
   command on `PATH`.
 - **`DO_NOT_TRACK=1`.** HyperFrames sends anonymous telemetry unless told not to.
+- **`npx hyperframes` is the fork.** The shim in npm's global bin wins over the npm package. `hyperframes --version`
+  prints 0.8.142 either way, because the fork is 25 fixes past that release without a new number. Check that
+  `cat "$(npm prefix -g)/bin/hyperframes"` names `.hyperframes/`.
+- **Never run `hyperframes skills update`.** It replaces the fork's skills with upstream's `main`. A further
+  HyperFrames workflow comes from the fork: add its name to `HYPERFRAMES_SKILLS` in `scripts/install.sh`.
 - **The working directory is `.openmontage/`.** Its tools, its `projects/` workspaces and the Piper voice resolve from
   there.
 - The whole of `.openmontage/` is git-ignored and disappears with the container (`CLAUDE.md`, *A fresh container*).
@@ -35,7 +47,7 @@ The container has 4 CPUs, 15 GB RAM, no GPU, and no provider key set.
 
 | capability | state |
 |---|---|
-| Composing and rendering with **HyperFrames** (HTML + GSAP) | works: 1080×1920 with audio, a 4.2 s clip rendered in 12.4 s, so about 3× real time on CPU |
+| Composing and rendering with **HyperFrames** (HTML + GSAP) | works: 1080×1920 with audio, a 4.2 s clip rendered in 12.4 s with npm's 0.8.142 and in 13.6 s with the fork, so about 3× real time on CPU |
 | **German voice, local**: `piper_tts` with `model: de_DE-thorsten-high` | works, writes a WAV, sends nothing |
 | Subtitles (`subtitle_gen`), audio mixing (`audio_mixer`, `audio_enhance`), analysis (`video_analyzer`, `scene_detect`, `frame_sampler`, `visual_qa`), `color_grade`, `video_stitch`, `video_trimmer`, `auto_reframe`, `threejs_world`, `diagram_gen`, `pixabay_music` | listed as available by the registry; not yet exercised |
 | **Remotion** (`render_demo.py`, `video_compose` with `render_runtime: remotion`) | **fails here**: Remotion starts its browser with `--no-proxy-server`, the only way out of this container is the agent proxy, and every Google Font then fails with `ERR_CERT_AUTHORITY_INVALID`. A composition that loads no remote font may render; none was tried. On the author's machine Remotion is unaffected. |
