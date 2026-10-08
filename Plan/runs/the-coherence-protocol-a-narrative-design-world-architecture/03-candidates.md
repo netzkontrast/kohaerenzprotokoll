@@ -1,0 +1,121 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is English prose with a few German names (Kohärenz Protokoll, Kernwelten, Risse, Nichts Rauschen, Genesis-Krise). Kernel symbols are written with an escaped underscore in the export, so they are listed as the line writes them. Terms in the bold-heading style are the document's own; the lens section holds the borrowed concepts it applies. The repeated field labels (Psychological State, Sensory Signature and so on) are template labels and are left off, but the four sensory signatures themselves are listed.
+
+- Kohärenz Protokoll
+- Dual Kernel Theory (DKT)
+- DKT
+- Coherence Theory
+- Correspondence Theory
+- Coherence Kernel
+- Collapse Kernel
+- K\_1
+- K\_0
+- AEGIS
+- AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)
+- Operational Closure
+- Ontological Blindness
+- Noise
+- Rauschen
+- Nichts Rauschen
+- Sea of Potentiality
+- Correspondence-Check
+- Riss
+- Risse
+- Rifts
+- Isolation Objection
+- Principle of Explosion
+- Ex Contradictione Quodlibet
+- Dialetheism
+- Dialetheic Mind
+- Functional Multiplicity
+- Coherons
+- Wavelets
+- Corrective Wavelets
+- Protocol Ontology
+- Kernwelten
+- Core Worlds
+- Psycho-Architectures
+- Moonshine-Link
+- Non-Local Resonance
+- System Kael
+- Society of Self
+- Host
+- Dissociative Barriers
+- Positive Intent
+- Apparently Normal Parts (ANPs)
+- ANPs
+- Emotional Parts (EPs)
+- EPs
+- Trauma-Time
+- Internal Self-Helper
+- Internal Self-Helper (ISH)
+- Externalized Perpetrator Introject
+- Trauma Loop
+- Firewalls
+- Dissociative Phobias
+- Unburdening
+- Guardian
+- Switch
+- Flashback
+- Kael
+- Lex
+- Alex
+- Aris
+- Elara
+- Mina
+- Nyx
+- Kiko
+- Moros
+- Lyra
+- Soren
+- Selene
+- Juna/V
+- Juna
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- KW1
+- KW2
+- KW3
+- KW4
+- KW1: Logos-Prime (The Cage)
+- KW2: Mnemosyne-Archipel (The Swamp)
+- KW3: Cerberus-Labyrinth (The Bunker)
+- KW4: Kairos-Potentialis (The Garden)
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Algorithmic Horror
+- Miasma of Memory
+- Fortress of Fear
+- Synesthesia of Creation
+- Genesis Crisis
+- Genesis-Krise
+- Validation War
+- Paradox of Misaligned Coherence
+- Gödel-Gambit
+- Living Gödel Sentence
+- Algorithmic Melancholy
+- epistemological checkmate
+- Zero-Trust
+- Polyphonic Prose
+- Dual-Voice Strategy
+- Gardener's Mandate
+- Grand Argument Story
+- isomorphism
+- fractal resonance
+
+## lens
+
+- Theory of Structural Dissociation of the Personality (TSDP)
+- TSDP
+- Internal Family Systems (IFS)
+- IFS
+- Paraconsistent Logic
+- Classical Logic
+- Gödel's Incompleteness Theorems
+- Monstrous Moonshine
+- Monster Group

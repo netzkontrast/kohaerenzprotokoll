@@ -1,0 +1,105 @@
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "Inhalt"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Inhalt` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#13]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "Fokus"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Fokus` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#18]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "EP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`EP` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#0]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#2]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "EP-Intrusionen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EP-Intrusionen` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#1]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "KW1"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`KW1` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#5]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#1]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "ANP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`ANP` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#2]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "Kael"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            36
+
+`Kael` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#24]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "Kaels"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Kaels` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#12]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "Riss"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`Riss` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#4]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Risse` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#2]
+$ python3 scripts/read.py als-ihr-narrativer-architekt-blicke-ich-auf-das-r --count "Rissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:#1]
+stance_marker_count 31 = Fokus 18 + Inhalt 13
+$ grep -o per glyph on Sources/drive file
+„ 19
+“ 19
+– 8
+46 = 19+19+8
+chapters 1-13 written out, 14-40 one line each: 13+27=40 (L15 Kapitel 1-13 to L134 Kapitel 35-40)
+$ read.py --count "Axiom der Vermeidung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py --count "Korrekturprotokoll Delta"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py --count "Fragment 'O'"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py --count "Algorithmische Melancholie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+

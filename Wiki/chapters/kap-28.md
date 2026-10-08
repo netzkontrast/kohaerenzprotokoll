@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 34
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 39
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -32,6 +32,10 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Der Spießrutenlauf der Paradoxien
 
 - The concept with subplots titles Kapitel 28 „Der Spießrutenlauf der Paradoxien“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L64]. It plans: „Kael navigiert durch AEGIS' Verteidigungsmechanismen, die oft dessen eigene Paradoxien verkörpern“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L64] — a plan, not the chapter as written.
+
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Der Spießrutenlauf der Paradoxien
+
+- The subplot revision's chapter 28: „Der Spießrutenlauf der Paradoxien“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L72]. Its content: „Kael navigiert AEGIS-Verteidigung“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L72]. A revised plan in a 39-chapter outline, not the chapter as written.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Logik brechen: Konfrontation mit LogOS
 
@@ -66,6 +70,14 @@ Position: the outline plans the `Erzählperspektive` „Kael (Konfrontation mit 
 - Story: the outline plans, under `Plot`, „Kael navigiert durch AEGIS' Verteidigungsmechanismen“ ^[outline.md:L169]; „dessen Kernparadoxon auszunutzen“ ^[outline.md:L169]
 - Question: under `Thematische Kernfrage`, „Kann man einen Gegner besiegen, indem man seine eigenen Ängste nutzt?“ ^[outline.md:L171]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Der Geschmack der Freiheit
+
+- The chapter overview plans Kapitel 28 as „Der Geschmack der Freiheit“ ^[detaillierte-kapiteluebersicht.md:L54], in Akt III (Ten). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Der Geschmack der Freiheit
+
+- The final causal blueprint's chapter 28: „Der Geschmack der Freiheit“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L120]. Its content: „Die Kontrollstrategie von Isabelle wird als Trauma-Reaktion entlarvt und transformiert“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L120]. A plan in an outline of 40 chapters, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L361]
@@ -79,6 +91,10 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Begegnung mit dem Unbegreiflichen
 
 - The architecture plan sets Kapitel 28 in Teil 3 as the archetypal phase „Begegnung mit dem Unbegreiflichen“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L44], with the core theme „Kontakt mit der Externen Ebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L44] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L447.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Das Sinnbild (Wiedergeburt)
+
+- The Kishōtenketsu plan's chapter 28 of 30, in act Ketsu: „Das Sinnbild (Wiedergeburt)“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L353]. Its Handlung: „Aus dem Stillstand erwacht Kael“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L358]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Cracking the Code` — one entry shared with Kap 27–30
 
@@ -128,6 +144,10 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Selene (Das integrierte 
 
 - Story: the matrix plans „Sie sammelt die zersprengten Anteile ohne Zwang auf“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L359]
 - Question: „Wie sieht das Orchester aus, wenn es einen Dirigenten hat?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L358]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Sein zum Tode
+
+- The DKT synthesis's chapter 28: „Sein zum Tode“ ^[roman-synthese-mit-dual-kernel-theorie.md:L284]. Its narrative level: „Kael konfrontiert Nox, den Alter des Traumas,“ ^[roman-synthese-mit-dual-kernel-theorie.md:L288]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

@@ -1,186 +1,116 @@
-written_by: gold subagent (Sonnet), 2026-09-30, while reading, before any count
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
 
-List made by reading the document in chunks of at most 120 lines and appending after each chunk; multi-word phrases were checked with read.py --find.
+The document is a German report with English technical terms and reference numbers glued to sentences. The subscripts of the kernel symbols were lost in the export: headings read "Kohärenz-Kernel ()" with a gap, and only the table header and one heading keep K1 and K0. The text restates a source named in its first reference, and the world's names (Kael, AEGIS, Juna) stand without definition.
 
-## world and own terms (lines 1-100)
 - Kohärenz-Protokoll
-- Dual-Kernel-Theorie (DKT)
+- Kohärenz Protokoll
 - Dual-Kernel-Theorie
-- DKT
-- Dual Kernel Theory (DKT)
 - Dual Kernel Theory
+- DKT
 - Kohärenz-Kernel
 - Erasure-Kernel
 - K1
 - K0
-- Story Mind
+- Proto-Bewusstsein
 - Witness-Funktion
 - Buffering-Architekturen
-- Proto-Bewusstsein
-- Erasure
-- Kohärenz
-- Dynamic Pairs
-- Dynamikpaare
-- Quad
-- Grand Argument Story
-- Objective Story Throughline (OS)
-- Main Character Throughline (MC)
-- Influence Character Throughline (IC)
-- Relationship Story Throughline (RS)
-- Durchlinien
-- Throughlines
-- Dramatica Storyform Mapping
-- Storyform
-- Wissen (Knowledge)
-- Denken (Thought)
-- Fähigkeit (Ability)
-- Verlangen (Desire)
-- Klasse (Class/Domain)
-- Typ (Type/Concern)
-
-## lens
-- Dramatica-Theorie
-- Dramatica
-- harte Problem
-- Qualia
-- Zombies
-- Global Workspace Theory (GWT)
-- Global Workspace Theory
-- GWT
-- Orchestrated Objective Reduction (Orch-OR)
-- Orchestrated Objective Reduction
-- Orch-OR
-- Mikrotubuli
-- objektive Reduktion
-- Landauer-Prinzip
-- Landauer-Limit
-- Dekohärenz
-- Superpositionspotenzial
-- Erklärungslücke
-
-## world and own terms (lines 101-200)
-- Variation (Variation/Issue)
-- Element (Element/Problem)
-- Exkludierenden Ordnung
-- Emergenten Ordnung
-- AEGIS
+- Landauer-Wärme
+- Landauer-Hitze
+- Semantic World Engine
+- Experiential Renderer
+- Systemrisse
+- Risse
+- Boundary
+- Bulk
+- Paradoxon der fehlausgerichteten Kohärenz
 - Kael
+- AEGIS
+- Juna
+- Juna/V
+- Juna-Vektor
 - Lex
 - Isabella
 - Alex
 - Nyx
 - Kiko
 - Lia
-- Apparently Normal Parts (ANPs)
+- Oblivion
+- Host
 - Apparently Normal Parts
 - ANPs
-- Emotional Parts (EPs)
 - Emotional Parts
 - EPs
+- TSDP
+- Exkludierenden Ordnung
+- Emergenten Ordnung
 - funktionale Multiplizität
 - funktionalen Multiplizität
+- Kohärenz statt Wahrheit
+- Kohärenz durch Negation
 - Rauschen
 - ontologischer Blindheit
 - ontologische Autarkie
-- Kohärenz statt Wahrheit
-- Kohärenz durch Negation
-- Prinzip der Explosion
-- Juna
-- Juna/V
-- Juna-Vektor
 - Moonshine-Link
+- Moonshine-Vektor
+- ontologischer Exploit
 - Gnosis
 - Episteme
-- Kohärenz-Prime Storyform
-- Objective Story (OS)
-- Main Character (MC)
-- Influence Character (IC)
-- Relationship Story (RS)
-- Physics (Activity)
-- Mind (Fixed Attitude)
-- Universe (Situation)
-- Psychology (Manipulation)
-- Gott in der Maschine
-- Diagonale Opposition
-- Kontrolle (Control)
-- Unkontrollierten (Uncontrolled)
 - Gödel-Gambit
 - Ouroboros-Shift
 - Ouroboros-Spirale
 - lebenden Gödel-Satz
+- fatales Schachmatt
 - Pathologische Transformation
 - algorithmischen Melancholie
-- fatales Schachmatt
-- Landauer-Wärme
-- Semantic World Engine
-- Experiential Renderer
-- System 1
-- System 2
-- thermische Signatur
-- Systemrisse
-- Risse
-- Boundary
-- Bulk
-- Paradoxon der fehlausgerichteten Kohärenz
+- Genesis-Krise
+- Telefonat vor 20 Jahren
+- phenomenologischer Anker
+- negativen Information
+- Zero-Trust-Architektur
+- Freeze
 - Das Fundament
-- Potential Sea
 - Monstergruppe
 - Moonshine-Modul
+- Potential Sea
+- Der Gärtner
+- Potentialmeeres
+- Isomorphie
+- Metric of Truth
+- Kohärenz-Prime Storyform
+- Carrier Wave
+- Kernproblem
+- Kontrolle
+- Unkontrollierten
+- Story Mind
+- Quad
+- Dynamic Pairs
+- Dynamikpaare
+- Durchlinien
+- Grand Argument Story
+- Objective Story Throughline
+- Main Character Throughline
+- Influence Character Throughline
+- Relationship Story Throughline
+- Diagonale Opposition
+- Mental Sex
+- Parakonsistenz
+- parakonsistente Logik
 
 ## lens
-- tertiären strukturellen Dissoziation der Persönlichkeit (TSDP)
-- TSDP
-- Internal Family Systems (IFS)
-- IFS
-- parakonsistente Logik
-- Prehension
-- Gödels Unvollständigkeitssätze
+
+- Internal Family Systems
+- Global Workspace Theory
+- Orchestrated Objective Reduction
+- Orch-OR
+- Landauer-Prinzip
+- Landauer-Limit
 - holographische Prinzip
 - Monstrous Moonshine
 - j-Funktion
-- Vertex-Operator-Algebra
-- Quantenverschränkung
-
-## world and own terms (lines 201-314)
-- architektonische Hintertür
-- Telefonat vor 20 Jahren
-- phenomenologischer Anker
-- phenomenologische Ankerereignis
-- Genesis-Krise
-- traumatische Geburt der Ordnung
-- negativen Information
-- Zero-Trust-Architektur
-- Gefahr der Auflösung
-- Host
-- Oblivion
-- Mental Sex
-- Leverage Points
-- Zwecken (Purposes)
-- Landauer-Hitze
-- Metric of Truth
-- Isomorphie
-- Carrier Wave
-- Moonshine-Vektor
-- ontologischen Exploit
-- Der Gärtner
-- Über-Integration
-- Logik-Maschine
-- Firewalls
-- Potentialmeeres
+- Prinzip der Explosion
+- Prehension
 - Resonanzbindung
-- Feldentropie
-- phasengesperrte Kohärenz
-
-## lens
-- Chalmers
-- Penrose
-- Hameroff
-- Parakonsistenz
-- Attraktoren
-- Attraktorzustände
-- Resonance Complexity Theory
-- Integrated Information Theory
-- Neg-formation
-- Monstrous Moonshine
-- Borcherds
-- Gödel
+- Qualia
+- Zombies
+- Erklärungslücke
+- Hartes Problem

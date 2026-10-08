@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 39
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 48
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "romanidee-als-interaktiver-prototyp", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -25,6 +25,10 @@ Im Bunker-Bau verdoppelt Kael, nun lex-dominant, Kontrolle und Ordnung und baut 
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — refusal of the call, the move from KW1 to KW2
 
 - The Teil-1 plot proposes Kapitel 3, `Awakened` (L91), as refusal of the call, the move from KW1 to KW2: „Kael versucht aktiv, die Seltsamkeiten zu leugnen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L96]. It hedges, and adds a large Riss event and a forced passage into the Resonanz-Landschaft (L103–L105).
+
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — Der Archivar und die flüsternden Daten
+
+- The part-1 plot concept's revised chapter 3: „Der Archivar und die flüsternden Daten“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L162]. Its summary: „Verunsichert durch die Glitches sucht Kael nach Informationen über seine Welt und die beobachteten Anomalien“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L166]. A revised plan for part 1, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.3, Die Architektur der Regeln
 
@@ -57,6 +61,10 @@ Position: „(Fundamentales Konzept: Autopoiesis)“ ^[kohaerenz-protokoll.md:L3
 
 - The subplot catalogue analyses Kapitel 3 under the phase „Weg der Prüfungen: Erste Hürden / Konfrontation mit Regeln“ ^[subplot-entwicklung-fuer-romanstruktur.md:L79] of Murdock's Heroine's Journey, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Der Schatten des Beschützers
+
+- The subplot revision's chapter 3: „Der Schatten des Beschützers“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L37]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Schatten des Beschützers
 
 Title: the commission titles the chapter „Der Schatten des Beschützers“ ^[kontext-outline.md:L98], placed in Act 1.
@@ -75,6 +83,10 @@ Focus: `Notwendigkeit der Abwehr`, „Die Aktivierung des Beschützer-Anteils (A
 ## Reading — `roman-outline-fuer-kohaerenz-protokoll`, 2025-05-03, the detailed outline — Chapter 3
 
 - The detailed outline plans Chapter 3 with the Core Theme „Die Notwendigkeit der Abwehr und des Misstrauens als Reaktion auf eine als feindlich wahrgenommene Umgebung“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L214] — a plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage, the TSDP phobia, the alignment concept
+
+- The strategy report keys this chapter to the TSDP phobia „Phobie vor dissoziativen Anteilen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L50]; to Murdock's stage „Identifikation mit dem Männlichen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L116]; to the alignment concept „Instrumentelle Konvergenz (Machtstreben/Selbsterhaltung)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L197]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Illusion der Therapie
 
@@ -100,6 +112,14 @@ Position: the outline gives no `Erzählperspektive` for this chapter; its fields
 - Story: the outline plans, under `Inhalt`, „der jedoch nur zensierte oder fragmentierte Informationen bereitstellt“ ^[outline.md:L35]
 - Focus: under `Fokus`, „die erste direkte Informationsblockade durch AEGIS“ ^[outline.md:L36]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Echos in der Konstrukt-Stadt
+
+- The chapter overview plans Kapitel 3 as „Echos in der Konstrukt-Stadt“ ^[detaillierte-kapiteluebersicht.md:L19], in Akt I (Ki). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Echos in der Konstrukt-Stadt
+
+- The final causal blueprint's chapter 3: „Echos in der Konstrukt-Stadt“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L29]. Its content: „Kael erlebt die ersten klaren EP-Intrusionen“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L31]. A plan in an outline of 40 chapters, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L15]
@@ -113,6 +133,18 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Der Schatten des Beschützers
 
 - The architecture plan sets Kapitel 3 in Teil 1 as the archetypal phase „Der Schatten des Beschützers“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L19], with the core theme „Die Notwendigkeit der Abwehr“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L19] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L89.
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — Der Archivar und die flüsternden Daten
+
+- The CAVE prototype proposal titles Kap 3 „Der Archivar und die flüsternden Daten“ ^[romanidee-als-interaktiver-prototyp.md:L210]. The player meets the Archivar, „einer humanoiden, emotionslosen Repräsentation von AEGIS' Kontrolllogik“ ^[romanidee-als-interaktiver-prototyp.md:L214], and a large `Datenriss` floods the space (L215). A scenario planned for an interactive game of Act I, not the chapter as written.
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Juna
+
+- The dual structure plans Kapitel 3 as „Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L89], in „Akt I: Ki (Einleitung) - Das Instabile Gleichgewicht“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L45]. Perspective: `Kael` (L93). Its Ki: „Kael hat ein geplantes, strukturiertes Treffen mit Juna, das von seinem Host-ANP gesteuert wird“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L100]. A plan, not the chapter as written.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Die präzise Hand
+
+- The Kishōtenketsu plan's chapter 3 of 30, in act Ki: „Die präzise Hand“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L63]. Its Handlung: „Im beklemmenden Labyrinth“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L68]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `kohaerenz-protokoll-scene-by-scene-outline`, 2025-10-15, the scene outline — within Act I, its opening scenes unnumbered
 
@@ -157,6 +189,10 @@ Position: Teil I; POV from `Perspektive & Stimme`: „Kael (plötzlich emotional
 
 - Story: the matrix plans „Kael sieht Juna. Die Stadtgesetze brechen um sie herum zusammen. Sie verschwindet, bevor er sie erreicht“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L51]
 - Question: „Kann ein Fehler im System etwas Schönes sein?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L50]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Juna – Das flüchtige Echo
+
+- The DKT synthesis's chapter 3: „Juna – Das flüchtige Echo“ ^[roman-synthese-mit-dual-kernel-theorie.md:L51]. Its narrative level: „Eine Welle von Sehnsucht durchbricht den sterilen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L55]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

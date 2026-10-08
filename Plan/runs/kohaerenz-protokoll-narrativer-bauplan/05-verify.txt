@@ -1,0 +1,155 @@
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Einführung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Einführung` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Schlussfolgerung und strategische Empfehlungen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schlussfolgerung und strategische Empfehlungen` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Strategische Empfehlungen für den Narrativen Architekten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Strategische Empfehlungen für den Narrativen Architekten` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "funktionalen Multiplizität"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`funktionalen Multiplizität` ^[kohaerenz-protokoll-narrativer-bauplan.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Alters"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Alters` ^[kohaerenz-protokoll-narrativer-bauplan.md:#12]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Innenpersonen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Innenpersonen` ^[kohaerenz-protokoll-narrativer-bauplan.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Entropic Gatekeeper"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Entropic Gatekeeper` ^[kohaerenz-protokoll-narrativer-bauplan.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "dreifache Helix"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`dreifache Helix` ^[kohaerenz-protokoll-narrativer-bauplan.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "zyklische Struktur"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`zyklische Struktur` ^[kohaerenz-protokoll-narrativer-bauplan.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Das Fundament"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Das Fundament` ^[kohaerenz-protokoll-narrativer-bauplan.md:#13]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Primäre Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Primäre Kernwelt` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Nox"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nox` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Cerberus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cerberus` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Kiko"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kiko` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Rhys"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rhys` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sophia` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Kernprogrammierung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernprogrammierung` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Zugriff am Juli"
+whole word, case-sensitive     91
+whole word, case-insensitive   91
+including compounds            91
+
+`Zugriff am Juli` ^[kohaerenz-protokoll-narrativer-bauplan.md:#91]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Kaels"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            31
+
+`Kaels` ^[kohaerenz-protokoll-narrativer-bauplan.md:#31]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Kael-Systems"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Systems` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "AEGIS-Abschnitte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Abschnitte` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Lexikon"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Lexikon` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "Echos"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Echos` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrativer-bauplan --count "KW1-KW4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1-KW4` ^[kohaerenz-protokoll-narrativer-bauplan.md:#1]
+$ grep -c "?" Sources/drive/kohaerenz-protokoll-narrativer-bauplan.md  # lines with a question mark
+10
+$ grep -n "?" ... | grep -vc "Zugriff am Juli"  # question-mark lines without an access date
+0
+stance_marker_count 4 = 1+1+1+1 of the first four counts

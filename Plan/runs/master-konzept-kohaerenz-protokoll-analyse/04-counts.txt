@@ -1,0 +1,128 @@
+# counts for 102 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Das Kohärenz-Protokoll            2 word     2 in   [11, 15]
+  Kohärenz Protokoll               18 word    19 in   [17, 19, 25, 34, 42, 86]
+  Master-Konzept                    8 word     8 in   [15, 21, 42, 149, 158, 180]
+  Golden Sources                    1 word     1 in   [15]
+  System Kael                       7 word     7 in   [15, 17, 19, 23, 56, 68]
+  AEGIS                            26 word    31 in   [17, 36, 38, 42, 70, 92]
+                                    4      as AEGIS-Falle
+                                    1      as AEGIS-Fehler
+  AEGIS-Falle                       4 word     4 in   [36, 38, 180, 208]
+  Kael                             29 word    33 in   [15, 17, 19, 23, 46, 56]
+                                    3      as Kaels
+  Juna                              6 word     7 in   [113, 114, 116, 118, 168, 171]
+                                    1      as Juna-Kael-System
+  Juna/V                            3 word     3 in   [114, 171, 240]
+  Michael                           4 word     4 in   [15, 31, 42, 203]
+  Lex                               3 word     3 in   [31, 42, 203]
+  Nyx                               3 word     3 in   [32, 70, 218]
+  Kiko                              2 word     2 in   [32, 218]
+  Moros                             1 word     3 in   [32, 118, 180]  <-- substring
+                                    1      as Moros-Implosion
+                                    1      as Moros-Kollaps
+  Moros-Implosion                   1 word     1 in   [118]
+  Moros-Kollaps                     1 word     1 in   [180]
+  ANP                               9 word    13 in   [31, 34, 42, 80, 92, 120]
+  EP                                3 word    10 in   [32, 34, 40, 42, 81, 93]  <-- substring
+  Apparently Normal Part            1 word     1 in   [31]
+  Emotional Part                    1 word     1 in   [32]
+  Funktionale Multiplizität         3 word     3 in   [19, 120, 255]
+  Funktionalen Multiplizität        2 word     2 in   [188, 241]
+  Dual Kernel Theory                8 word     8 in   [19, 76, 88, 90, 253, 283]
+  DKT                               3 word     4 in   [88, 90, 149, 159]
+  K\_1                             12 word    12 in   [40, 76, 80, 92, 95, 99]
+  K\_0                             14 word    14 in   [40, 76, 81, 93, 95, 99]
+  K1                                1 word     1 in   [194]
+  K0                                1 word     1 in   [194]
+  Kohärenz-Kern                     1 word     1 in   [92]
+  Erasure-Kern                      1 word     1 in   [93]
+  Erasure Field                     1 word     1 in   [93]
+  Fundament                         3 word     4 in   [93, 132, 245, 282]
+                                    2      as fundamentale
+                                    1      as fundamental
+                                    1      as fundamentalen
+                                    1      as fundamentaler
+  Risse                             5 word     5 in   [95, 102, 132, 226, 227]
+  Interface                         2 word     2 in   [95, 165]
+  Protokoll-Erhaltung               1 word     1 in   [95]
+  Isomorphie                        2 word     2 in   [19, 54]
+  Maximal-Plotter                   3 word     3 in   [50, 52, 253]
+  Mosaik-Struktur                   3 word     3 in   [58, 160, 247]
+  Mosaik-System                     1 word     1 in   [54]
+  Mosaik                            2 word     7 in   [19, 54, 58, 160, 188, 222]  <-- substring
+                                    3      as Mosaik-Struktur
+                                    1      as Mosaik-Narrative
+                                    1      as Mosaik-System
+  Slots                             4 word     4 in   [61, 62, 162, 222]
+  Gravitationsarchitektur           1 word     1 in   [62]
+  Zeitgeber                         2 word     2 in   [62, 162]
+  Agentive Narrative                4 word     4 in   [64, 66, 163, 222]
+  System-Dirigenten                 2 word     2 in   [66, 213]
+  Meta-Prompting                    4 word     4 in   [68, 70, 174, 236]
+  Resonanz-Partner                  1 word     1 in   [70]
+  LeanRAG                           8 word     9 in   [72, 74, 170, 213, 279, 280]
+  Ontologisches Tagging             2 word     2 in   [72, 76]
+  Writer's Bible                    2 word     3 in   [40, 159, 207]
+  Low Stakes Writing                1 word     1 in   [222]
+  Container-Struktur                1 word     1 in   [34]
+  Hyper-Kohärenz                    1 word     1 in   [42]
+  Vier Kernwelten                   1 word     1 in   [104]
+  Kernwelten                        2 word     2 in   [104, 226]
+  Logos-Prime                       2 word     2 in   [111, 212]
+  Mnemosyne-Archipel                1 word     1 in   [112]
+  Cerberus-Labyrinth                1 word     1 in   [113]
+  Kairos-Potentialis                1 word     1 in   [114]
+  Parakonsistente Gambit            1 word     1 in   [136]
+  Gödel-Gambit                      1 word     1 in   [240]
+  Parakonsistente Transformation    1 word     1 in   [240]
+  Embrace the Glitch                1 word     1 in   [243]
+  Ergosphäre                        2 word     2 in   [62, 200]
+  Photonensphäre                    1 word     1 in   [215]
+  Ereignishorizont                  3 word     3 in   [62, 202, 229]
+  Operatives Ziel                   3 word     3 in   [213, 227, 241]
+  Korrespondenz                     4 word     6 in   [21, 93, 128, 167, 227, 247]
+                                    1      as Korrespondenztheorie
+  Kohärenz                         27 word    33 in   [11, 15, 17, 19, 21, 25]
+                                    3      as Kohärenz-Protokoll
+                                    1      as Kohärenz-Kern
+                                    1      as Kohärenztheorie
+  Bleed-through                     1 word     1 in   [207]
+  Landauer-Kosten                   1 word     1 in   [226]
+  Pixelierungsfehler                1 word     1 in   [132]
+  Boundary                          3 word     3 in   [131, 132, 298]
+  Bulk                              1 word     2 in   [130, 132]
+                                    1      as Bulks
+  Monster-Gruppe                    3 word     4 in   [44, 46, 48]
+                                    1      as Monster-Gruppen
+  Strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [17, 29]
+  TSDP                              5 word     7 in   [17, 23, 27, 29, 164, 198]
+                                    1      as TSDP-Architektur
+                                    1      as TSDP-Therapie
+  Dissoziative Identitätsstörung    1 word     1 in   [17]
+  Sicherheitsverhalten              4 word     4 in   [36, 40, 208]
+  Titration                         2 word     2 in   [61]
+  Internal Family Systems           1 word     1 in   [70]
+  Polyphonie                        3 word     3 in   [66, 163, 188]
+  Landauer-Prinzip                  1 word     1 in   [99]
+  Maxwells Dämon                    1 word     1 in   [99]
+  Dramatica-Modells                 1 word     1 in   [106]
+  Throughlines                      1 word     1 in   [106]
+  Parakonsistenz                    3 word     3 in   [116, 118, 229]
+  Logiken der Formalen Inkonsistenz    2 word     2 in   [134, 138]
+  LFI                               2 word     4 in   [134, 138, 302]
+  Holografische Prinzip             1 word     1 in   [128]
+  AdS/CFT-Korrespondenz             1 word     1 in   [128]
+  Integrated Information Theory     2 word     2 in   [142, 253]
+  IIT                               2 word     2 in   [140, 142]
+  Kohärenztheorie der Wahrheit      1 word     1 in   [92]
+  Korrespondenztheorie der Wahrheit    1 word     1 in   [93]
+  Kerr-Metrik                       1 word     1 in   [202]
+  Penrose-Prozess                   1 word     1 in   [202]
+  Frame-Dragging                    1 word     1 in   [202]
+  philosophischer Zombie            1 word     1 in   [144]
+  Hypoarousal                       1 word     1 in   [31]
+  trauma-informierten Narratologie    1 word     1 in   [251]

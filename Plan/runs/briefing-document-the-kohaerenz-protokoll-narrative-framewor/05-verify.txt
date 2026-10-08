@@ -1,0 +1,39 @@
+$ python3 scripts/read.py briefing-document-the-kohaerenz-protokoll-narrative-framewor --count "in-world"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`in-world` ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:#3]
+$ python3 scripts/read.py briefing-document-the-kohaerenz-protokoll-narrative-framewor --count "Narrative Function"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Narrative Function` ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:#2]
+$ python3 scripts/read.py briefing-document-the-kohaerenz-protokoll-narrative-framewor --count "K1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K1` ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:#0]
+$ python3 scripts/read.py briefing-document-the-kohaerenz-protokoll-narrative-framewor --count "K0"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K0` ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:#0]
+$ python3 scripts/read.py briefing-document-the-kohaerenz-protokoll-narrative-framewor --count "K₁"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`K₁` ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:#7]
+$ python3 scripts/read.py briefing-document-the-kohaerenz-protokoll-narrative-framewor --count "K₀"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`K₀` ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:#10]
+stance_marker_count 5 = in-world 3 + Narrative Function 2
+$ grep -c '?' (profile: question marks 1, at L103)
+103:| \*\*Selene\*\* | ANP (Integrator?)

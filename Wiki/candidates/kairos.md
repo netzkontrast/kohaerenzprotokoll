@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 63
-readings: 63
+sources: 83
+readings: 83
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "project-codex-the-canonical-narrative-architecture-of-kohaer", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "romanplot-kohaerenz-protokoll-teil-1", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "charakterkonzepte-fuer-kohaerenz-protokoll", "coherence-protocol-a-39-part-narrative-arc", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-plotideen-generierung"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "charakter-kompilation-fuer-kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "project-codex-the-canonical-narrative-architecture-of-kohaer", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "romanplot-kohaerenz-protokoll-teil-1", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "charakterkonzepte-fuer-kohaerenz-protokoll", "coherence-protocol-a-39-part-narrative-arc", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-plotideen-generierung", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "deconstructing-reality-s-architecture", "kohaerenz-protokoll-2", "the-coherence-protocol-a-narrative-design-world-architecture", "kohaerenz-analyse-kapitel-2", "roman-konzept-und-philosophische-fragen", "refining-dramatica-storyform-for-kohaerenz-protokoll", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "aegis", "the-psychological-mechanics-from-tertiary-structural-dissoci", "plot-entwicklung-fuer-kohaerenz-protokoll", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "romanplot-kohaerenz-protokoll-entwickeln", "romanentwurf-kohaerenz-protokoll-teil-1", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-17"
 ---
 
@@ -41,6 +41,10 @@ Complementary to Sophia — „er liefert die Funken, sie sorgt für die Integra
 `Der Möglichkeits-Garten` — see that page. The pairing is the document's own organising
 principle: each section is a `Guardian/Welt-Paar`.
 
+## Reading — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept — Kairos sharing the Möglichkeits-Garten with Sophia
+
+Kairos stands fourth in „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[kohaerenz-protokoll-2.md:L66]. The world list gives the fourth world to two: „Möglichkeits-Garten (Kairos/Sophia)“ ^[kohaerenz-protokoll-2.md:L78], „Ebene des Potenzials, der Kreativität, der Intuition, der Hoffnung, der Synthese“ ^[kohaerenz-protokoll-2.md:L78], and also „Aber auch Ort des Chaos, der Überwältigung“ ^[kohaerenz-protokoll-2.md:L78].
+
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — a possible intervener in KW3/KW4 and the Guardian beside Sophia
 
 The Teil-1 plot proposes Kairos as a Guardian of KW4, paired in the matrix as „Kairos & Sophia“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L302]. In Kap 9 it hedges an intervention: „Vielleicht lenkt Kairos subtil die Riss-Energie um“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L214], and as a possible guardian act of „Kairos, der Potenzial wittert“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L207]. Of the optional side character Anya, the plot writes that she may be „eine direkte Schnittstelle oder Agentin von Kairos“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L45].
@@ -61,13 +65,41 @@ The place profiles give KW4 to Kairos together with Sophia: „KW4 (Kairos/Sophi
 
 The character concepts name `Kairos` fourth among the five Guardians, „Kairos (Zugeordnet: Möglichkeiten-Garten)“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L185]. Function: „Überwachung von Wachstumsmustern, Potenzialität“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L189], simulation of future scenarios and control of creative processes, but „nur innerhalb der von AEGIS definierten Grenzen und Ziele“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L189] (L189). Blind spot: his prediction is limited by AEGIS's linear models, so that emergent creativity appears to him as an error, „wodurch er Kaels Potenzial eher beschneidet als fördert“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L190].
 
+## Reading — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft — Kairos/Sophia as one alter, for insight and time anomalies
+
+The draft's research part, on Michael (the early name of Kael), lists „Mnemosyne, Cerberus, Kairos/Sophia, Architekt“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L51] as the alters named in a context text the file does not hold. It proposes that „Einsichten/zeitliche Anomalien auf Kairos/Sophia“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L51] be what the matching intrusions point to. The name stands only in this research line; neither blueprint nor prose sketch uses it.
+
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — Kairos as the seductive Guardian of KW4
 
 The plot blueprint gives Kairos the possible insight „Könnte erkennen, dass Junas Verbindung keine bloße“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L117] possibility but a necessity. KW4, the Möglichkeits-Garten, comes with „Kairos , der Guardian von KW4“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L418]. Step 2.7 is titled „Kairos' Angebot: Die verführerische Zukunft“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L425]; it plans that Kairos reads her link as a chance „als Chance für eine neue, alternative Ordnung“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L428] inside the system, and that his offers are manipulative: „Angebote sind jedoch manipulativ“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L428]. Tabelle 3 reads the blind spot as „Juna = Chance, nicht Notwendigkeit“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L406] and the consequence „Seine Angebote sind oberflächlich/manipulativ“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L406], with the activation note „Wird in 2.8 aktiv“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L406] against the chapter step 2.7.
 
+## Reading — `welten`, 2025-04-20, the world-concept reply — Kairos for potentiality and time-flow, sees potentials without their meaning
+
+The world-concept reply gives `Kairos` the domain „Zuständig für Potentialität, Möglichkeit, Zukunft/Zeitfluss“ ^[welten.md:L68], within the system. Its blind spot is that it can recognise potentials, but without the right context and without understanding the external nature of the K-J connection it cannot judge their true meaning; it „übersieht die qualitative Essenz der Möglichkeiten“ ^[welten.md:L68]. It watches primarily the Möglichkeitsstrom (KW4), whose proposed name the reply justifies by potential, change and „die Verbindung zu Kairos“ ^[welten.md:L18].
+
+## Reading — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept — Kairos as the Guardian of KW4, the Möglichkeitsstrom
+
+The final world concept names Kairos as the Guardian of KW4, the Möglichkeitsstrom (L43). The KW4 entry says the world „Repräsentiert Potential, Kreativität, Veränderung“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L75] and is „Verwaltet von Guardian Kairos“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L75]; it hedges that it is probably tied to Kael's core self, his aspirations and the drive toward integration or escape (L75). Recorded, not applied.
+
+## Reading — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint — Kairos, Guardian of KW4, who prunes possibilities
+
+The plot blueprint proposes `Kairos` as the Guardian of the Möglichkeitsstrom: „Kairos (KW4) soll Kaels Handlungsmöglichkeiten beschneiden“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], steering his development into predictable paths. His attempt is proposed to be undermined: „Kairos' Versuche, Potentiale zu kontrollieren, werden durch die inhärente Unvorhersehbarkeit und Kreativität unterlaufen“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L66]. Recorded as a proposal, not applied.
+
+## Reading — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint — Kairos as a possible presence in KW4
+
+The detailed plot blueprint places Kairos in KW4 as a possibility twice. In the world's description: „Der Wächter Kairos, verbunden mit dem rechten Zeitpunkt und der Gelegenheit, könnte hier eine Rolle spielen.“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L46] In the Umgebung field: „Die Präsenz von Kairos könnte sich als Gefühl für den richtigen Moment oder das Auftauchen unerwarteter Gelegenheiten äußern.“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L105]
+
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Kairos over the Möglichkeitsstrom
 
 The plot-idea synthesis lists Kairos among the five Guardians: „Überwacht den Möglichkeitsstrom (Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L134]. Its hypothetical table gives „Potentialanalyse, Kreativitäts-Scanning, Zukunftsmodellierung (innerhalb AEGIS-Rahmen)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L155].
+
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — the failure to understand emergence and true novelty
+
+The concept extraction proposes: „Kairos (Möglichkeitsstrom - Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L268] might represent the inability to understand holistic processes, emergence and true novelty, and does not understand the integrative nature of K-J. The line is hedged with „Könnte“.
+
+## Reading — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis — named among the Guardians
+
+`Kairos` is fourth in the list: „Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia):“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24], the five „Spezialisierte AEGIS-Agenten“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. The abstract gives it no function of its own.
 
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Kairos in KW4, tied to time
 
@@ -113,6 +145,14 @@ The beat sheet names `Kairos` once, inside the parenthesis of the Guardians that
 
 The system plan labels the Guardian of KW4 „Kairos/Sophia (Sucher)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L295]; the table gives „Kairos/Sophia“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L313] again with „Explorative/Dialetheische Logik“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L313]. It proposes that the Guardian, a seeker, is caught in an exploitation-versus-exploration dilemma: „Der Guardian, Sucher, ist in einem klassischen“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L297]. The label stands as one on both lines.
 
+## Reading — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis — Kairos in one Guardian cell with Sophia
+
+The philosophical synthesis names Kairos in its Kernwelten matrix inside the Guardian cell „Kairos/Sophia“ ^[roman-konzept-und-philosophische-fragen.md:L196] of `KW4` Möglichkeits-Garten, whose logic it gives as „Explorative/Dialetheische Logik“ ^[roman-konzept-und-philosophische-fragen.md:L196].
+
+## Reading — `aegis`, 2025-07-29, the AEGIS concept file — Kairos as potential, and joined with Sophia in one entry
+
+The AEGIS concept file lists Kairos among the Guardians' examples with a gloss: „Kairos (Potenzial)“ ^[aegis.md:L143]. In the later summary the name is written joined with Sophia, as one of four entries for the Kernwelten: „Kairos/Sophia“ ^[aegis.md:L212]. The file writes five names at L143 and four entries at L212; it does not explain the joining.
+
 ## Reading — `outline`, 2025-07-30, the outline — Kairos as KW4's name and with Sophia
 
 The outline names `KW4` „Kairos-Potentialis“ ^[outline.md:L66] in Kap 9 (L66) and plans there the „Einführung von Kairos/Sophia (Guardians)“ ^[outline.md:L67] (L67). In Teil 2 the world is „Diese Welt der Potentialität und Kreativität bietet einen Hoffnungsschimmer und kann von Juna beeinflusst sein.“ ^[outline.md:L133] (L133).
@@ -120,6 +160,14 @@ The outline names `KW4` „Kairos-Potentialis“ ^[outline.md:L66] in Kap 9 (L66
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Kairos, alongside or alternative to Sophia, in the fourth Kernwelt
 
 The architecture plan proposes `Kairos` for Kapitel 17, with Sophia. Its section says Kael meets „Kairos (richtiger Zeitpunkt, Gelegenheit)“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L295], „und/oder Sophia“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L295], who möglicherweise try to steer his development in a direction AEGIS wants. Kapitel 17's table theme is „Begegnung mit Möglichkeit und Manipulation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L33] with Kairos and Sophia named. Kapitel 16 hedges that one of the less rigid Guardians, „vielleicht einer der weniger rigiden wie Kairos/Sophia?“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L286], shows secret doubt of AEGIS's core logic. Kapitel 17 also warns of „die Gefahr der subtilen Manipulation durch Kairos/Sophia“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L296]. The Überwelt list in Kapitel 15 holds him only as „evtl. Kairos & Sophia“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L267].
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Kairos warns in Kapitel 10 and is overridden
+
+In the Ten line of the planned Kapitel 10 the outline has „Kairos, der Wächter des Potenzials, registriert diese Reduktion der systemischen Möglichkeit als negatives Ereignis“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L140], „eine Form des informationellen Todes“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L140]. His warning is passed over in favour of LogOS's plan for stability.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Kairos joined with Sophia as Wächter, and Kairos as qualitative time
+
+The Kishōtenketsu plan, a chat reply, uses Kairos in two ways. As a Guardian: „Kairos/Sophia (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L80] of the fourth world — the line writes the number — „interpretieren Kaels passives Lauschen als Versäumnis“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L80], and the system rates his behaviour a mission failure. As a concept in the chapter's research field: AEGIS operates on Chronos, and „Juna existiert in“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L81] Kairos, qualitative time, the right moment. Both are the plan's proposals in an outline; it makes no canon claim.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the blueprint, the critique, the scene outline) — KW4 as Kairos-Potentialis, and as Kairos/Sophia
 
@@ -157,6 +205,14 @@ The decree's table lists „Kairos-Potentialis“ ^[project-coherence-protocol-a
 
 In the 39-part arc, Story 10 (The Garden of What Ifs) places Kael in KW4, „Influenced by the Guardians Kairos (opportunity) and Sophia (wisdom)“ ^[coherence-protocol-a-39-part-narrative-arc.md:L30]. Story 22 sets „the generative, chaos-embracing intuition of Kairos from KW4“ ^[coherence-protocol-a-39-part-narrative-arc.md:L51] against LogOS. Both are stories of an outline, not chapters.
 
+## Reading — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report — Kairos and Sophia govern the Möglichkeits-Garten
+
+The contradiction report names the `Möglichkeits-Garten` (`KW4`), „governed by Kairos and Sophia, representing potential and creativity“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L61].
+
+## Reading — `the-psychological-mechanics-from-tertiary-structural-dissoci`, 2025-11-03, the TSDP mechanics report — Kairos in a shared bracket with Sophia
+
+The TSDP mechanics report names `Kairos` only in the bracket of a world: „The Garden of Possibility (Kairos/Sophia)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L60], the fourth Core World, linked to `NP-Search`, the exploration of a vast solution space. The two names stand together in one bracket.
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — Kairos/Sophia as the paired Wächter of KW4
 
 The truth-duality paper gives KW4 `Möglichkeits-Garten`, the world of synthesis „(Kreativität, Integration).“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L240], one Wächter written as the pair `Kairos/Sophia`, with the act „(Akt 3, Vorbereitung)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L240].
@@ -164,6 +220,18 @@ The truth-duality paper gives KW4 `Möglichkeits-Garten`, the world of synthesis
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — KW4 as the domain of Kairos/Sophia; Selene's world in Table 1
 
 In Kap 9 the three-part analysis has the parts gather, hedged with `vielleicht`, in what it calls the fourth Kern-Welt: „in der aufkeimenden **Kern-Welt 4 (KW4)**, der Domäne *Kairos/Sophia*.“ ^[romanstruktur-und-philosophische-einleitung.md:L93] Table 1 gives Selene's dominant world as „KW4 (Kairos)“ ^[romanstruktur-und-philosophische-einleitung.md:L130]
+
+## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — Kairos as permitter of productive chaos
+
+The analysis report pairs Kairos with Sophia under Möglichkeits-Garten, Überwelt and KW4 (heading L85). Kairos is „Zuständig für Potential und Kreativität“ ^[kohaerenz-analyse-kapitel-2.md:L87]; „Er erlaubt Chaos, solange es produktiv ist“ ^[kohaerenz-analyse-kapitel-2.md:L87], and the report puts the phrase „nützliche Entropie“ ^[kohaerenz-analyse-kapitel-2.md:L87] in brackets beside it. His failing, in the report's words: he „scheitert aber daran, echte Transzendenz zu verstehen“ ^[kohaerenz-analyse-kapitel-2.md:L87] (L87).
+
+## Reading — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief — Kairos as the fourth world's Guardian and the Potentialis
+
+The design brief's glossary lists `Kairos` as Guardian of the fourth Kernwelt with „Potential,Emergence / Synthesis.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L217] The world's heading is „Kairos-Potentialis (The Garden)“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L112], described as „Emergent possibility. The physics allow for growth“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L116] and „it is the only world where new things can be created“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L116].
+
+## Reading — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis — Kairos as the Guardian who resonates with Kael
+
+The storyform exegesis proposes Kairos as the Guardian who turns toward Kael: „others (Kairos) begin to resonate with Kael's emergent order“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L140]. In its plot Kairos hesitates in the Archipelago: „A Guardian (Kairos) tracks them to“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L233] it, and „The Guardian displays a glitch—doubt?“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L233] In the Schism it is the rebel: „LogOS (Loyal) vs. Kairos (Rebel).“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L250] The report sets this as its proposal, not as a statement of the author's canon.
 
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — Kairos in a shared cell
 
@@ -185,6 +253,10 @@ The report's table pairs Kairos with Sophia on KW4 and says Kairos „sieht nur 
 
 Kap 18 is titled „Kairos Potentialis“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L229] and casts „Kael, Kairos & Sophia (Guardians).“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L232] It is set in KW4 and its function line reads „Die P vs NP Metapher – unendliche Möglichkeiten erfordern unendliche Rechenleistung; das System stottert.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L236]
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Kairos as steward of the creative processes, bounded by AEGIS's probabilities
+
+In the Guardians section of the DKT synthesis the entry for Kairos reads „Steuert die kreativen Prozesse im Möglichkeiten-Garten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L420], followed by the limit „Er kann nur innerhalb AEGIS-definierter Wahrscheinlichkeiten agieren“ ^[roman-synthese-mit-dual-kernel-theorie.md:L420].
+
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Kairos as the oracle of the tropes and part of KW4
 
 The report's table has KW4 as „Kairos/Sophia“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L55]'s world, the „Garten der Potentialität“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L55]. In Leitfrage 9 (Kap. 20–26) it proposes that „werden klassische Sci-Fi-Tropes etabliert“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L100], among them an oracle's cryptic prophecy tied to Kairos, until Kael notices that „Der Bruchpunkt wird erreicht, wenn Kael erkennt, dass die Prophezeiung Syntax-Fehler enthält“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L100].
@@ -193,9 +265,17 @@ The report's table has KW4 as „Kairos/Sophia“ ^[romanprojekt-kohaerenz-proto
 
 The research report (6.2) names the fourth Wächter with a slash: „Kairos / Sophia“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L133] — „Wächterin der Potenzialität (KW4).“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L133] Its table names KW4 `Kairos-Potentialis` (`Garden of Possibility`): „Der Ort der Kreativität, Synthese und finalen Heilung.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L77]
 
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — `Kairos` as the name of KW4 and its guardian
+
+The learner's guide titles the fourth world „Kairos-Potentialis (The Garden)“ ^[deconstructing-reality-s-architecture.md:L190], the domain of Integration / Potential (L192). Its appendix lists `Kairos` as the guardian of KW4, classed Potential, with the function „Emergence / Synthesis“ ^[deconstructing-reality-s-architecture.md:L315].
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — KW4 and SC-04's guardian
 
 KW4 is named Kairos-Potentialis and described as „Ein fraktaler, organischer Garten“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L68] entered only late. SC-04 lists Kairos as „Kairos (Integration)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L166] among the guardians.
+
+## Reading — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept — Kairos as the adaptive element
+
+The Überwelt concept describes: „Kairos repräsentiert das adaptive Element innerhalb der rigiden AEGIS-Struktur“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L70]. He identifies emergent patterns or useful anomalies, and „Wo LogOS eine Abweichung als Fehler sieht“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L70], he checks whether it holds the seed of a more efficient configuration. It calls him a corrective against complete systemic rigidity, enabling „kontrollierte Evolution innerhalb des Protokoll-Rahmens“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L70].
 
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — Guardian of potential, who registers the anomaly as generative energy
 
@@ -233,6 +313,7 @@ Appendix B lists „Wächter Cerberus, Kairos, Sophia: Verworfen“ ^[kohaerenz-
 - The ontological overview (2025-11-03) writes Kairos and Sophia as twin Guardians sharing Core World 4, beside [[logos|LogOS]], Mnemosyne and [[cerberus|Cerberus]] (L40).
 - the plot blueprint places Kairos alone with KW4 (L418), and its table dates his activation to step 2.8 while its chapter step is 2.7 (L406, L425).
 - `aegis-manifest-genesis-krise-reboot`, 2026-04-27: Kairos is KW4, a dialetheic world for NP-Search; recorded as the manifesto's usage.
+- the chapter-1 draft writes Kairos and Sophia as one alter, „Kairos/Sophia“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L51], of Michael's.
 
 ## Open
 

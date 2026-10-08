@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 47
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 53
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "deconstructing-reality-s-architecture", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,10 @@ It names no beat, no Landauer trace and no world by name; it follows directly on
 
 - The concept with subplots titles Kapitel 36 „Der Fall des Wächters“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L72]. It plans: „AEGIS wird besiegt, transformiert oder seine Macht wird signifikant reduziert“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L72] — a plan, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Der Fall des Wächters
+
+- The subplot revision's chapter 36: „Der Fall des Wächters“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L80]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Echo der Stille: Auflösung des externen Konflikts
 
 Title: the commission titles the chapter „Das Echo der Stille: Auflösung des externen Konflikts“ ^[kontext-outline.md:L468], placed in Act 3. Position: `Setting` „Veränderte Überwelt/Simulation“ ^[kontext-outline.md:L474]
@@ -51,6 +55,10 @@ Focus: `Der Zustand danach`, „ohne AEGIS' dominante Kontrolle“ ^[2-kohaerenz
 
 - Story: „Die unmittelbare Zeit nach dem Klimax“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L299]
 - Concept: „Beginn der Falling Action“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L300] (concept tag: `Falling Action`)
+
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage
+
+- The strategy report keys this chapter to Murdock's stage „Heilung der Mutter/Tochter-Spaltung (Weibliche Wunde)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L122]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.4, „Die Geburt der Selene / Blick in den Abgrund“ ^[finales-kausales-plot-geruest.md:L201] (Kapitel 36–37)
 
@@ -68,6 +76,14 @@ Position: the outline plans the `Erzählperspektive` „Kael (Anpassung an neue 
 
 - Story: the outline plans, under `Plot`, „Seine Anteile verschmelzen nicht, sondern kooperieren harmonisch“ ^[outline.md:L241]; „AEGIS wird besiegt, transformiert oder seine Macht signifikant reduziert“ ^[outline.md:L241]
 - Question: under `Thematische Kernfrage`, „Was bleibt, wenn die alte Ordnung zusammenbricht?“ ^[outline.md:L243]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die Geburt des Gärtners
+
+- The chapter overview plans Kapitel 36 as „Die Geburt des Gärtners“ ^[detaillierte-kapiteluebersicht.md:L67], in Akt IV (Ketsu). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Die Geburt des Gärtners
+
+- The final causal blueprint's chapter 36: „Die Geburt des Gärtners“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L140]. Its content: „Kael erlangt Gnosis durch die Verbindung zum Fundament und nimmt seine neue Rolle als ethischer Hüter der Realität“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L140]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -132,6 +148,10 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-prot
 - Story: the matrix plans „Er entscheidet sich gegen den Versuch, den anderen zu kontrollieren“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L455]
 - Question: „Kann ich den Anderen sein lassen, wie er ist?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L454]
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Der Spiegel-Effekt
+
+- The DKT synthesis's chapter 36: „Der Spiegel-Effekt“ ^[roman-synthese-mit-dual-kernel-theorie.md:L356]. Its narrative level: „Kael blickt in den Bildschirm; die Grenzen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L360]. An analysis of a 39-chapter plan, not the chapter as written.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — the fourth wall breaks, Wigner's effectiveness of mathematics
 
 Title: „Kapitel 36: Der Spiegel-Effekt und Wigners Effektivität (Meta-Ebene)" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133]
@@ -142,6 +162,10 @@ Position: Teil III, „Die existenzielle Fusion (Kapitel 27–39)" ^[roman-konze
 - Meta-level: „Die vierte Wand bricht." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133] „Die Simulation wird durch den physischen Akt des Lesens in die echte Realität exportiert." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L133]
 
 No Landauer trace, no Mnemosyne-Archipel and no Truth-Rotation by name; the chapter's turn is the fourth wall, not the Vortex the readings below name.
+
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — the climax, the Gödel-Gambit
+
+- The learner's guide places the climax in Kap 35–36: „The Gödel-Gambit (Ch 35-36). Kael presents the paradox. AEGIS crashes.“ ^[deconstructing-reality-s-architecture.md:L284], in „Act III: The Integration“ ^[deconstructing-reality-s-architecture.md:L279]. A guide's report of the plan, not the chapter as written.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Dilemma, AEGIS' resignation
 

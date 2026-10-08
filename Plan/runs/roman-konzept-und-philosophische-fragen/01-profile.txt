@@ -1,0 +1,14 @@
+# roman-konzept-und-philosophische-fragen
+  lines                287  (frontmatter ends at 9)
+  body words           3220
+  headings             22   bold-only lines 0
+  table rows           15   code fences 0
+  question marks       18
+  backslash escapes    36
+  typographic marks    106   ascii quotes 10
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    18
+  repeated labels      none
+  longest line         1115 chars
+

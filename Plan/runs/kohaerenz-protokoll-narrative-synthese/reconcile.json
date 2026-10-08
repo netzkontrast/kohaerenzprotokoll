@@ -1,0 +1,294 @@
+{
+  "document": "kohaerenz-protokoll-narrative-synthese",
+  "drive_id": "145X0jEBddH5byfNjuvOSImtu6gh4imfqOYyCnT1CP2k",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-176/brief.md (the first reader's run was lost to a container restart and run again)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 73,
+    "decisions": 72,
+    "decided_by_lookup": 59,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German research report in three clusters with long source lists: its 46 new surfaces are its labels (Das Fundament as a strange attractor, Gnosis/episteme, Algorithmic Horror, polyphone Prosa, the persecutor's positive intent, Synästhetische Resonanz, Geteilte Qualia), borrowed theory (Gödel, LFI, autopoiesis, IFS, Luhmann, Maturana, Varela, Bachtin, Whitehead) and source titles; what it says of the novel's world went on 16 existing pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        26,
+        38,
+        120,
+        133,
+        137,
+        151,
+        153,
+        157,
+        180
+      ],
+      "attribution": "",
+      "note": "AEGIS as a closed system whose collapse the report defines as forced, then as parakonsistent, isolated and melancholic"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        145,
+        155,
+        157
+      ],
+      "attribution": "",
+      "note": "defines it as the central psychological consequence of AEGIS's forced parakonsistent evolution"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "weak emergence as what the Fundament permits"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        79,
+        83,
+        111
+      ],
+      "attribution": "",
+      "note": "entropy as the Nichts Rauschen's character and a visual sign at the edge of sight"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        151,
+        172
+      ],
+      "attribution": "",
+      "note": "the Guardians as AEGIS's agents, shown in „Verhaltens-Horror“ ^[kohaerenz-protokoll-narrative-synthese.md:L172]"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        94,
+        96,
+        104,
+        137
+      ],
+      "attribution": "",
+      "note": "Juna as the other end of the Moonshine-Link"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        40,
+        64,
+        128,
+        134,
+        255
+      ],
+      "attribution": "",
+      "note": "Kael's self as a TSDP system, a living Gödel sentence, and one alter among the table's rows"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        203,
+        257
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part (EP, Freeze)"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        203,
+        204,
+        258
+      ],
+      "attribution": "",
+      "note": "Lex as the intellectual analyst with a hypotactic prose rhythm"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        94,
+        99,
+        105,
+        112,
+        137
+      ],
+      "attribution": "",
+      "note": "the link as a non-local resonance AEGIS cannot see"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        28,
+        64,
+        188
+      ],
+      "attribution": "",
+      "note": "functional multiplicity, performed by prose"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        24,
+        79,
+        83,
+        86,
+        111
+      ],
+      "attribution": "",
+      "note": "defines it as the original state and the Leere's sensory signature"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        203,
+        216,
+        217,
+        218,
+        256
+      ],
+      "attribution": "",
+      "note": "Nyx as the example of a persecutor's transformation"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as the high-entropic form of the Nichts Rauschen"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        217,
+        259
+      ],
+      "attribution": "",
+      "note": "Selene as the gatekeeper part and a mediator"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        28,
+        40,
+        254
+      ],
+      "attribution": "",
+      "note": "TSDP as the basis of the protagonist's architecture"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title: Kohärenz Protokoll; Kohärenz-Philosophie, a label), J34 (Juna/V, read on juna), J23 and J56 (number and inflection: Guardian/Guardians, Verfolger/Verfolgers, funktionalen Multiplizität), J12 and J16 (compounds and qualified labels with their own sense: Die Leere and informationale Leere, read on nichts-rauschen, ISH/Torwächter, Selene's class, peripherer Entropie, read on entropie, Depersonalisation, a symptom, Glitch Art, a source title)",
+  "sweep": [
+    {
+      "page": "alex",
+      "surface": "Alex",
+      "line": 419,
+      "decision": "occurrence",
+      "why": "in the reference list"
+    },
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 321,
+      "decision": "occurrence",
+      "why": "in the source list"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 459,
+      "decision": "occurrence",
+      "why": "in the reference list"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 24,
+      "decision": "reading",
+      "why": "the Fundament allows weak emergence, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 83,
+      "decision": "reading",
+      "why": "the Leere as peripheral entropy, read on entropie"
+    },
+    {
+      "page": "goedel-gambit",
+      "surface": "Gödel-Gambit",
+      "line": 283,
+      "decision": "occurrence",
+      "why": "in the source list"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 28,
+      "decision": "reading",
+      "why": "functional multiplicity performed by polyphonic prose, read on multiplizitaet"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 66,
+      "decision": "occurrence",
+      "why": "the Fundament's artefacts are not glitches — a contrast"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 68,
+      "decision": "occurrence",
+      "why": "the simulation's noise, not the place"
+    }
+  ],
+  "not_promoted": [
+    "Das Fundament — on emergenz and kael",
+    "Gnosis, Synästhetische Resonanz, Geteilte Qualia — on moonshine-link",
+    "Algorithmic Horror, LFI — on aegis",
+    "polyphone Prosa — on multiplizitaet",
+    "the persecutor's positive intent and its three phases — on nyx",
+    "the neurobiology of dissociation — on kael and tsdp",
+    "the source and reference lists (L263–L468) — titles, not readings"
+  ],
+  "internal_tension": "Nyx is written with female forms in the persecutor's transformation (L199–L203) and as „EP: Beschützer“ in the alter table (L256), recorded on nyx; Kael is the protagonist and a row of his own alter table (L255)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

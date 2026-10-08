@@ -1,0 +1,113 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+# Candidates — kohaerenz-analyse-kapitel-2
+
+The document is an analysis report on a novel project; it speaks about the novel's world in the voice of an analyst and cites numbered references. Terms in quotation marks are mostly the analysed texts' words, which the report cites. Whole-document candidates follow, then the borrowed concepts under lens.
+
+- Nichts Rauschen
+- Nichts
+- minimales Sein
+- Informationsfragment
+- drückende Potentialität
+- Leere
+- Genesis
+- Der große Wandel
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Angst-Vibration
+- Inkohärenz
+- Kohärenz
+- Kohärenzmetriken
+- Risse
+- Juna-Resonanz
+- Kernwelten
+- Zero-Trust-Modell
+- digitale Abwärme
+- B-Welt
+- Beta-Rho-5
+- Universal Reboot
+- Controlled Collapse
+- Un-Schöpfung
+- Genesis im Echo der Leere
+- Konstrukt-Stadt
+- Guardians
+- Anomalie
+- LogOS
+- Chef-Diagnostiker
+- KW1
+- Mnemosyne
+- KW2
+- Cerberus
+- KW3
+- Grenzfeste
+- Kairos
+- Sophia
+- KW4
+- Überwelt
+- Möglichkeits-Garten
+- Resonanz-Landschaft
+- nützliche Entropie
+- Seele=Info
+- Kael
+- Juna
+- Controlled Fragmentation Protocol
+- CFP
+- M-Entity
+- Alters
+- Host
+- ANP
+- Anscheinend Normaler Persönlichkeitsanteil
+- Limina
+- Gatekeeper
+- Fronting
+- Nox
+- Persecutor
+- Praetor
+- Protector
+- Echo
+- Oblivion
+- Trauma-Holder
+- EP
+- Triade
+- Index
+- Wir-Geflecht
+- funktionalen Multiplizität
+- Multiplizität
+- nicht-lokale Integritätsverletzung
+- Goldenes Licht
+- Der Aufstand der Fragmente
+- Der Bruch
+- Das Nein
+- Omega-Prime
+- Juna-Methode
+- AEGIS-Methode
+- Ly-Welt
+- Daten-Verwitterung
+- Visuelles Rauschen
+- Bleeding-Effekt
+- positiver Entropie
+- Transitkorridor
+- Der erste Riss
+- Maschine aus Logik
+- Phantomschmerz
+- korrupter Datensatz
+- Nostalgie-Schleifen
+- kalte Rationalität
+- Uncanny Valley
+- Monstrous Moonshine
+
+## lens
+
+- Zweiten Hauptsatz der Thermodynamik
+- Landauer-Prinzip
+- Cache-Kohärenz
+- Write-Invalidate
+- Śūnyatā
+- aktives Vakuum
+- Dissoziativen Identitätsstörung
+- DID
+- Holismus
+- Depersonalisation
+- autopoietisches System

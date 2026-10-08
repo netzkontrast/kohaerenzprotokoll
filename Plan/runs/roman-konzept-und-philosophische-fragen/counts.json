@@ -1,0 +1,604 @@
+{
+  "document": "roman-konzept-und-philosophische-fragen",
+  "drive_id": "17nBuqfn3yhFUFv1v7YPL2vXi6wEjGULa0BBY-tSZnRI",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 37,
+      "n_including_compounds": 37,
+      "lines": [
+        22,
+        26,
+        30,
+        32,
+        52,
+        54,
+        60,
+        64,
+        72,
+        74,
+        82,
+        86,
+        96,
+        100,
+        102,
+        136,
+        138,
+        140,
+        162,
+        172,
+        180,
+        188,
+        212,
+        218,
+        221
+      ]
+    },
+    "Kael": {
+      "n": 13,
+      "n_including_compounds": 30,
+      "lines": [
+        22,
+        36,
+        40,
+        50,
+        52,
+        56,
+        74,
+        86,
+        88,
+        96,
+        100,
+        102,
+        106,
+        110,
+        118,
+        126,
+        136,
+        140,
+        170,
+        180,
+        212,
+        218
+      ]
+    },
+    "Juna": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        86,
+        102,
+        136,
+        166,
+        170,
+        176,
+        180
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        13,
+        22,
+        46,
+        52,
+        208,
+        212
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        184,
+        188
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        184,
+        188,
+        192
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Grenzfeste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Das Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Die Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        192
+      ]
+    },
+    "Juna/V-Links": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        269
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        136,
+        180
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        42,
+        50,
+        122,
+        126
+      ]
+    },
+    "ontologischer Exploit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        106,
+        110
+      ]
+    },
+    "ontologischen Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "algorithmischen Horrors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "architektonische Hintertür": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Information Hazard": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Perturbationen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "KOHÄRENT/INKOHÄRENT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Rauschen": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        30,
+        86,
+        160,
+        256
+      ]
+    },
+    "Inkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Systemkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Kohärenz durch Negation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        218
+      ]
+    },
+    "Kohärenz durch Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        218
+      ]
+    },
+    "Kontrolle durch Exklusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Anscheinend Normalen Teile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118
+      ]
+    },
+    "Emotionalen Teile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118
+      ]
+    },
+    "dissoziativen Phobien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Trauma-Zeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Katalysators": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        176,
+        180
+      ]
+    },
+    "Magiers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Systemverantwortung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        223
+      ]
+    },
+    "Wächter-Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        114,
+        118
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        118
+      ]
+    },
+    "Prinzip der Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Episteme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        247
+      ]
+    },
+    "Gnosis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        247
+      ]
+    },
+    "Specification Gaming": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78,
+        84
+      ]
+    },
+    "Perverse Instantiation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Frame-Problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78,
+        88
+      ]
+    },
+    "Logic of Formal Inconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "autopoietischen Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "operativ geschlossen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        220
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Prähension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "seltsamer Attraktor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Wuji": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Prozessphilosophie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Boolesche Erfüllbarkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Problem des Handlungsreisenden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Bewusstseinsmodell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "hegelianischen Synthese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    }
+  }
+}

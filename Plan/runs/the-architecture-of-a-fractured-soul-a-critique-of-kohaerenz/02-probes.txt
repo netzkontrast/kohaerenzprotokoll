@@ -1,0 +1,20 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      7
+  backslash escapes      0
+  typographic marks      26
+  ascii quotes           76
+
+# inflection families -- one term, several surfaces
+  garde    Garden, Gardener
+  kernw    Kernwelt, Kernwelten
+  logos    LogOS, Logos
+  proto    Protocol, Protokoll
+  syste    System, Systems
+
+# substring pairs -- never one term, often merged by accident
+  Part < Parts
+  LogOS < Logos
+  Garden < Gardener
+  System < Systems
+  Kernwelt < Kernwelten

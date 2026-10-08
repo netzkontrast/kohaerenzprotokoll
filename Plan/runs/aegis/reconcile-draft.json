@@ -1,0 +1,292 @@
+{
+  "document": "aegis",
+  "drive_id": "16HUgDSqVI1rI9jJ9U4R0AfU-x3iltLQJ4qm1DQ_21Ak",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 128,
+    "decisions": 145,
+    "decided_by_lookup": 109,
+    "needs_judgement": 36
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        98,
+        99,
+        101,
+        189
+      ],
+      "attribution": "",
+      "note": "Integrity Guardian, Cognitive Firewall and SIS as listed protocols, SIS with two expansions"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        50,
+        52,
+        53,
+        55,
+        56,
+        75,
+        83,
+        86,
+        119
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic architecture: the axiom, a self-definition by function, and two paths for its end"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        143,
+        212
+      ],
+      "attribution": "",
+      "note": "Cerberus as security, named under the Guardians and under the Kernwelten"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        44,
+        180,
+        203
+      ],
+      "attribution": "",
+      "note": "entropy management that itself produces entropy"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        19,
+        164,
+        168
+      ],
+      "attribution": "",
+      "note": "Genesis as AEGIS's self-definition out of the Nichts"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        97,
+        143,
+        212
+      ],
+      "attribution": "",
+      "note": "Guardians as non-avatar processes under AEGIS, and the same five names given for the Kernwelten"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        37,
+        64,
+        126,
+        127,
+        214
+      ],
+      "attribution": "",
+      "note": "Juna/V as the anomaly AEGIS cannot process"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        37,
+        51,
+        52,
+        64,
+        126,
+        128,
+        212
+      ],
+      "attribution": "",
+      "note": "Kael as the human whom AEGIS keeps fragmented, and whom its coherence misreads"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        143,
+        212
+      ],
+      "attribution": "",
+      "note": "Kairos as potential, and joined with Sophia in one entry"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        25,
+        142,
+        194,
+        212
+      ],
+      "attribution": "",
+      "note": "Kernwelten as the psychologically rich worlds whose Risse show AEGIS's control"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        21,
+        23,
+        88,
+        111,
+        180
+      ],
+      "attribution": "",
+      "note": "Kohärenz as stability and order, and the paradox that its enforcement produces the opposite"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        166,
+        170
+      ],
+      "attribution": "",
+      "note": "Komponente 734 as the original Ich, reduced to a functional component"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        143,
+        212
+      ],
+      "attribution": "",
+      "note": "LogOS as logic, named under the Guardians and under the Kernwelten"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        143,
+        212
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as memory and emotion, named under the Guardians and under the Kernwelten"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        37,
+        214
+      ],
+      "attribution": "",
+      "note": "the link as a resonance outside AEGIS's categories"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        115
+      ],
+      "attribution": "",
+      "note": "the Negentropie-Fehlinterpretation: integration taken for entropy"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        125,
+        166
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as what AEGIS demarcates itself against, and its origin"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        15,
+        166
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as AEGIS's origin, a pre-real informational ground"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        25,
+        35,
+        42,
+        44,
+        107,
+        203
+      ],
+      "attribution": "",
+      "note": "the Risse as symptoms of misdirected control, and as a by-product of its entropy"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        143,
+        212
+      ],
+      "attribution": "",
+      "note": "Sophia as knowledge and synthesis, and joined with Kairos in one entry"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        102,
+        142,
+        211
+      ],
+      "attribution": "",
+      "note": "the Überwelt as a sterile, functional layer and AEGIS's control core"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 41,
+      "decision": "occurrence",
+      "why": "Kontrolle vs. Emergenz, the general concept"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 44,
+      "decision": "reading",
+      "why": "entropy management and digital waste entropy, read on entropie"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 164,
+      "decision": "reading",
+      "why": "AEGIS's genesis and self-definition from nothing, read on genesis"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

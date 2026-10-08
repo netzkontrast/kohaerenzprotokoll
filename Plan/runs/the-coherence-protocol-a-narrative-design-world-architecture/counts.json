@@ -1,0 +1,978 @@
+{
+  "document": "the-coherence-protocol-a-narrative-design-world-architecture",
+  "drive_id": "147Vh967rTFim5bznV61AVFoOOVJE-980y7OtkZ24nHo",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        19,
+        45,
+        82,
+        128,
+        170,
+        189
+      ]
+    },
+    "Dual Kernel Theory (DKT)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "DKT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19
+      ]
+    },
+    "Coherence Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        23
+      ]
+    },
+    "Correspondence Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        23
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        27
+      ]
+    },
+    "K\\_1": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        23,
+        27,
+        124,
+        164,
+        195
+      ]
+    },
+    "K\\_0": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        19,
+        25,
+        27,
+        35,
+        124,
+        164
+      ]
+    },
+    "AEGIS": {
+      "n": 37,
+      "n_including_compounds": 37,
+      "lines": [
+        15,
+        19,
+        23,
+        27,
+        29,
+        31,
+        35,
+        39,
+        57,
+        69,
+        71,
+        124,
+        141,
+        149,
+        155,
+        156,
+        157,
+        158,
+        166,
+        176,
+        195,
+        201
+      ]
+    },
+    "AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Operational Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Ontological Blindness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        166
+      ]
+    },
+    "Noise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        27
+      ]
+    },
+    "Rauschen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        27,
+        31,
+        39,
+        177
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        31,
+        39,
+        177
+      ]
+    },
+    "Sea of Potentiality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Correspondence-Check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Riss": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        27,
+        122,
+        124,
+        134
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        122,
+        124,
+        134
+      ]
+    },
+    "Rifts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Isolation Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Ex Contradictione Quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Dialetheism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Dialetheic Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        35,
+        73,
+        75,
+        147,
+        156
+      ]
+    },
+    "Coherons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Wavelets": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39
+      ]
+    },
+    "Corrective Wavelets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Protocol Ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Kernwelten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        82,
+        124
+      ]
+    },
+    "Core Worlds": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        82
+      ]
+    },
+    "Psycho-Architectures": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        82
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        39,
+        134,
+        160,
+        162,
+        166,
+        199
+      ]
+    },
+    "Non-Local Resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "System Kael": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        31,
+        35,
+        45,
+        47,
+        49,
+        53,
+        82,
+        128,
+        156,
+        178
+      ]
+    },
+    "Society of Self": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        43,
+        47,
+        49,
+        147
+      ]
+    },
+    "Host": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        57,
+        61,
+        197
+      ]
+    },
+    "Dissociative Barriers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Positive Intent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Apparently Normal Parts (ANPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        71,
+        133
+      ]
+    },
+    "Emotional Parts (EPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "EPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        57,
+        59,
+        71,
+        95
+      ]
+    },
+    "Trauma-Time": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        97
+      ]
+    },
+    "Internal Self-Helper": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        67
+      ]
+    },
+    "Internal Self-Helper (ISH)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Externalized Perpetrator Introject": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        71
+      ]
+    },
+    "Trauma Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Firewalls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Dissociative Phobias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Unburdening": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Guardian": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        77,
+        211,
+        213,
+        215,
+        217
+      ]
+    },
+    "Switch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Flashback": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        95,
+        124
+      ]
+    },
+    "Kael": {
+      "n": 38,
+      "n_including_compounds": 38,
+      "lines": [
+        15,
+        23,
+        27,
+        31,
+        35,
+        45,
+        47,
+        49,
+        53,
+        57,
+        71,
+        82,
+        86,
+        124,
+        128,
+        133,
+        134,
+        140,
+        141,
+        147,
+        156,
+        157,
+        162,
+        165,
+        178,
+        197
+      ]
+    },
+    "Lex": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        57,
+        86,
+        185,
+        201
+      ]
+    },
+    "Alex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57
+      ]
+    },
+    "Aris": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57
+      ]
+    },
+    "Elara": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        57,
+        114,
+        185
+      ]
+    },
+    "Mina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Nyx": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        61,
+        77,
+        104,
+        203
+      ]
+    },
+    "Kiko": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        61,
+        78,
+        185,
+        205
+      ]
+    },
+    "Moros": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        207
+      ]
+    },
+    "Lyra": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        95
+      ]
+    },
+    "Soren": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        104
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        67,
+        114,
+        209
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        134,
+        162,
+        165,
+        199
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        134,
+        162,
+        165,
+        199
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        213
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        215
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        217
+      ]
+    },
+    "KW1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        84,
+        133,
+        211
+      ]
+    },
+    "KW2": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        93,
+        140,
+        213
+      ]
+    },
+    "KW3": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        140,
+        215
+      ]
+    },
+    "KW4": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        112,
+        147,
+        217
+      ]
+    },
+    "KW1: Logos-Prime (The Cage)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "KW2: Mnemosyne-Archipel (The Swamp)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "KW3: Cerberus-Labyrinth (The Bunker)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "KW4: Kairos-Potentialis (The Garden)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Logos-Prime": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        133
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Miasma of Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Fortress of Fear": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Synesthesia of Creation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Genesis Crisis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Validation War": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Paradox of Misaligned Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        148,
+        151,
+        162
+      ]
+    },
+    "Living Gödel Sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Algorithmic Melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "epistemological checkmate": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        153
+      ]
+    },
+    "Zero-Trust": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        106,
+        215
+      ]
+    },
+    "Polyphonic Prose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Dual-Voice Strategy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Gardener's Mandate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "isomorphism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "fractal resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "TSDP": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        45,
+        57,
+        61,
+        65,
+        75,
+        197
+      ]
+    },
+    "Internal Family Systems (IFS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "IFS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        75
+      ]
+    },
+    "Paraconsistent Logic": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        197
+      ]
+    },
+    "Classical Logic": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        195
+      ]
+    },
+    "Gödel's Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Monster Group": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    }
+  }
+}

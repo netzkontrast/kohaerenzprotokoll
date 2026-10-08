@@ -1,0 +1,63 @@
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "Resolution:"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Resolution:` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#5]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "Impact:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Impact:` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#2]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "Conflict:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Conflict:` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#1]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "Source:"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Source:` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#8]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "13"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`13` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#1]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "ozone"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ozone` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#1]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "Unerkennbarkeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Unerkennbarkeit` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#1]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "Qualia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Qualia` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#1]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "Alters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alters` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#1]
+$ python3 scripts/read.py project-status-report-kohaerenz-protokoll-canon-systemic-sta --count "Silas"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Silas` ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:#2]
+$ stance_marker_count 16 = Resolution: 5 + Impact: 2 + Conflict: 1 + Source: 8
+
+$ coordinator correction, 2026-10-07: 03-candidates.md listed `Dethroned god`; the document writes `dethroned god` (L46) and the case-sensitive count was 0 — quotes.py named it `zero only by case`. The spelling was corrected in 03-candidates.md after the count, nothing added or removed, and capture.py --count re-run: 1 word, 1 in, line 46.

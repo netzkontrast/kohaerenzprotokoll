@@ -1,0 +1,232 @@
+{
+  "document": "roman-konzept-und-philosophische-fragen",
+  "drive_id": "17nBuqfn3yhFUFv1v7YPL2vXi6wEjGULa0BBY-tSZnRI",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 18,
+  "backslash_escapes": 36,
+  "typographic_marks": 106,
+  "ascii_quotes": 10,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstdefinition",
+      "Selbsten",
+      "Selbsterhaltung",
+      "Selbstreferenziell",
+      "Selbstverifikation"
+    ],
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systemkohärenz",
+      "Systems",
+      "Systemverantwortung"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsmodell",
+      "Bewusstseinsströme"
+    ],
+    "emoti": [
+      "Emotionale",
+      "Emotionalen",
+      "Emotionaler",
+      "Emotionen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit",
+      "Handlungsreisenden"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widersprüche",
+      "Widersprüchen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "diale": [
+      "Dialektik",
+      "Dialetheisch",
+      "Dialetheische"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation"
+    ],
+    "explo": [
+      "Exploit",
+      "Explorative",
+      "Explosion"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödels",
+      "Gödelsche"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsbogen",
+      "Heilungsprozess"
+    ],
+    "kompl": [
+      "Komplexität",
+      "Komplexitätsklasse",
+      "Komplexitätstheorie"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollprogramm",
+      "Kontrollsystem"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptionelle"
+    ],
+    "philo": [
+      "Philosophie",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesses",
+      "Prozessphilosophie"
+    ],
+    "siche": [
+      "Sicherheitsforschung",
+      "Sicherheitslücke",
+      "Sicherheitsprotokolle"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumareaktion",
+      "Traumas"
+    ],
+    "unter": [
+      "Untergang",
+      "Unterscheidung",
+      "Untersuchung"
+    ],
+    "unvol": [
+      "Unvollständigkeit",
+      "Unvollständigkeitssatz",
+      "Unvollständigkeitssätzen"
+    ],
+    "akzep": [
+      "Akzeptanz",
+      "Akzeptiert"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Form",
+      "FORMAL"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Seinsform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Info",
+      "Information"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernlogik"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Satz",
+      "Ansatz"
+    ],
+    [
+      "Satz",
+      "Gegensatz"
+    ],
+    [
+      "Satz",
+      "Unvollständigkeitssatz"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ]
+  ]
+}

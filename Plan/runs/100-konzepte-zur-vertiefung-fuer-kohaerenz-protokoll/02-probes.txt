@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      4
+  backslash escapes      0
+  typographic marks      5
+  ascii quotes           22
+
+# inflection families -- one term, several surfaces
+  erzäh    Erzählen, Erzähler, Erzählhaltung, Erzählperspektive, Erzähltempos, Erzählweise
+  poten    Potentialität, Potentialmeer, Potentialmeers, Potenzial, Potenzieller
+  syste    System, Systemdynamiken, Systeme, Systemgrenzen, Systeminstabilität
+  antei    Anteil, Anteile, Anteilen, Anteils
+  funkt    Funktion, Funktionale, Funktionalität, Funktionsprinzip
+  grund    Grund, Grundlage, Grundlegende, Grundlegendes
+  kriti    Kritik, Kritiken, Kritiker, Kritischer
+  psych    Psyche, Psychologie, Psychologische, Psychologischer
+  aspek    Aspekt, Aspekte, Aspekten
+  bedeu    Bedeutung, Bedeutungsebene, Bedeutungslosigkeit
+  emoti    Emotion, Emotionale, Emotionsvermeidung
+  funda    Fundament, Fundamentale, Fundaments
+  infor    Information, Informationen, Informationsontologie
+  kernw    Kernwelt, Kernwelten, Kernwiderspruch
+  kompl    Komplexität, Komplexitätsmanagement, Komplexitätstheorie
+  konfl    Konflikt, Konflikts, Konflikttreiber
+  kontr    Kontrast, Kontrolle, Kontrollversuche
+  konze    Konzept, Konzepte, Konzeptualisiert
+  metap    Metapher, Metaphorik, Metaphorisch
+  metho    Methode, Methoden, Methodik
+  nicht    Nicht, Nichtlinearität, Nichtlokalität
+  reali    Realität, Realitätsverständnis, Realitätswahrnehmung
+  schre    Schreiben, Schreibprozess, Schrein
+  selbs    Selbst, Selbsterhaltung, Selbstreflexion
+  simul    Simulation, Simulationen, Simulationshypothese
+
+# substring pairs -- never one term, often merged by accident
+  Info < Information
+  Info < Informationen
+  Info < Informationsontologie
+  Kael < Kaels
+  Kann < Unbekannte
+  Kern < Kernwelt
+  Kern < Kernmodell
+  Kern < Kernwelten
+  Kern < Kernprinzip
+  Kern < Kernfunktion
+  Kern < Kernsymptome
+  Kern < Kernwiderspruch
+  Kern < Kernverletzlichkeit
+  Meta < Metapher
+  Meta < Metaphorik
+  Meta < Metaphorisch
+  Plot < Plotpunkt
+  Teil < Anteil
+  Teil < Anteile
+  Teil < Anteils

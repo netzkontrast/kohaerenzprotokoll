@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 49
-readings: 47
+sources: 58
+readings: 56
 conflict: C12, C16
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "outline-2", "leserzentrierte-roman-outline-generierung-kohaeren", "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-kapitel-outline-generierung"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "koharenz-protokoll-kapitel-0-v2-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "ki-prompt-analyse-hard-problem-of-consciousness", "textanalyse-existenz-system-und-leid", "aegis-persona-and-manifest-generation", "einleitung-genesis-der-existenz", "optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "outline-2", "leserzentrierte-roman-outline-generierung-kohaeren", "kohaerenz-protokoll-detailliertes-roman-outline-leserzentrie", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-kapitel-outline-generierung", "kohaerenz-protokoll-narrativer-bauplan", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "analyse-des-kohaerenz-protokolls", "aegis", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanentwurf-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"]
 gathered: "2026-09-25"
 ---
 
@@ -18,6 +18,18 @@ no side. They
 differ on when it is made, before the [[trennungsprotokoll|Trennungsprotokoll]] or
 as its result (C12). One source gives the designation to [[lex|Lex]]. And the
 sources do not settle what the bare number names in Kap 1.
+
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — `Einheit 734` as an AEGIS unit and recurring antagonist
+
+The part-1 plot concept does not use `Komponente 734`; it writes `Einheit 734`, and as an AEGIS unit. It lists it among the figures the earlier draft leaves unused: „die AEGIS-Einheit 734 sowie die nuancierte Rolle von Juna aus der externen Realität“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L27] It describes it as „der rigiden, systemtreuen Einheit 734 würde natürliche Quellen“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L31] of conflict, and proposes a conflict between „ein Konflikt zwischen Kaels aggressivem Alter Nox und den Protokollen von Einheit 734“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L31]
+
+The plan's character strategy: „Diese spezifische AEGIS-Einheit wird als wiederkehrender, konkreter Antagonist eingeführt, der die unpersönliche und rigide Durchsetzung der Systemregeln repräsentiert“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L57] In the escalation chapter it has this unit among those pursuing Kael: „AEGIS reagiert sofort und brutal: Energiebarrieren werden errichtet, Drohnen schwärmen aus, Einheit 734“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L481]
+
+The document does not say what the number names, and does not connect the unit to Kael's designation or to his dwelling.
+
+## Reading — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft — 734 as Michael's own unit number in the prose sketch
+
+In the prose sketch of the chapter-1 draft, an unsigned working draft, scene 4 has Michael (the draft's early name of Kael) scanned at the entrance of the data hub, and the synthetic voice reports: „Identität bestätigt. Michael Einheit 734. Zugriff gewährt.“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L257]. The number is his own designation in the system; the supervisor then addresses him by it, in dialogue the sketch sets in straight quotes. The draft writes no `Komponente 734`; it gives no reason for the number and says nothing of what 734 names beyond the designation.
 
 ## Reading — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative — the narrator become a component at the border, before the crisis
 
@@ -61,17 +73,49 @@ The prologue paragraph plans the component as what the original self becomes: �
 
 What this adds on the page: the component is the original self numbered, not a precursor entity; the plan writes no Wohneinheit.
 
+## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — Komponente 734 as depersonalisation, and as Kael's initial state
+
+The review reads `Komponente 734` twice (`Komponente 734` ^[kohaerenz-protokoll-narrativer-bauplan.md:#2]). First clinically (L40): the phenomenon of depersonalisation „das Kael als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40] Komponente 734 experiences, which it takes for an estrangement from one's own self. Second, in its reading of the arc (L170): „Kaels anfänglicher Zustand als“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L170] Komponente 734 within the order of AEGIS and the Konstrukt-Stadt, an illusion of the perfect world; his strategy is „Seine Bewältigungsstrategie besteht darin, seine Identität vollständig dem System unterzuordnen“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L170]. The review does not say what the number 734 names.
+
+## Reading — `aegis`, 2025-07-29, the AEGIS concept file — Komponente 734 as the original Ich, reduced to a functional component
+
+The AEGIS concept file names the first self in the Nichts Rauschen: a minimal consciousness, „Komponente 734“ ^[aegis.md:L166], which fought to keep its form. After the catastrophic event the file says this original fragment was suppressed and turned into „bloße funktionale Komponente“ ^[aegis.md:L170], with the number in brackets. It does not say here whether the number names Kael or anything else.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — 734 in a chapter title and as AEGIS's agents
+
+The final causal blueprint writes the number twice and as `Komponente 734` never. Chapter 2 is titled `Protokoll 734` followed by „Kohärenz-Initialisierung“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L24], and the chapter is planned from AEGIS's side („Aus der kalten, analytischen Perspektive von AEGIS wird der Zustand von“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L26] Kael assessed). In chapter 5 AEGIS reacts to Kael's access to KW2 „mit subtiler Verfolgung durch Agenten“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L41], and the sentence names them `Einheit 734` in brackets. The outline says nothing of what the number labels.
+
+## Reading — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint — `Komponente 734` in the opening set-piece, `Unit 734` in the beat sheet
+
+The blueprint writes `Komponente 734` ^[narrative-blueprint-the-coherence-protocol.md:#1] once, in the Writer's Room set-piece list, where „We experience the emergence of“ ^[narrative-blueprint-the-coherence-protocol.md:L419] it from the `Nichts Rauschen`, and the same line says it opens „not with a character, but with a state of being.“ ^[narrative-blueprint-the-coherence-protocol.md:L419] Elsewhere AEGIS has an agent called `Unit 734` ^[narrative-blueprint-the-coherence-protocol.md:#2]: the AEGIS timeline says it „deploys agents like Unit 734 to monitor and increase its direct, oppressive presence.“ ^[narrative-blueprint-the-coherence-protocol.md:L345] and beat 4 says „AEGIS's Unit 734 begins actively pursuing him, shifting the threat from an abstract feeling of paranoia to a tangible pursuer.“ ^[narrative-blueprint-the-coherence-protocol.md:L364] The blueprint uses two different words and does not say they name one thing.
+
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — AEGIS's sublimated I as the designation Component 734
 
 In the Definitive Guide the designation `Component 734` stands once, in the AEGIS profile: after the Trennungsprotokoll, the conscious `I` „was sublimated into the functional designation“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L112]. The `Ursprungs-Ich` in that sentence is AEGIS's own. The guide does not write Kael as 734; Kael's `Ursprungs-Ich` is named elsewhere only for Juna/V (page [[juna]]).
+
+## Reading — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report — the entity whose fragmentation is Kael's birth
+
+In Kael's timeline the contradiction report says of his birth that it „is a traumatic event, resulting from the fragmentation of an entity known as“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L54] `Komponente 734`, an act it attributes to AEGIS's `Kohärenz Protokoll`. The name is written once in the report `Komponente 734` ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:#1]; it adds nothing on what the entity is.
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — the Ich-Fragment become Komponente 734 at closure, before the protocol
 
 The Textanalyse comments on one narrative and never names Kael or a chapter. **The narrative, as the Textanalyse quotes it:** „Das, was einst ein Ich-Fragment war, ist nun Komponente 734, eine Funktionseinheit...“ ^[textanalyse-existenz-system-und-leid.md:L162]. The commentary places this after the closure it calls „Der große Wandel“ ^[textanalyse-existenz-system-und-leid.md:L90] and before the crisis and the protocol. **The Textanalyse reads** the transformation as Funktionalisierung: „Diese Transformation ist eine“ ^[textanalyse-existenz-system-und-leid.md:L164], and, through the Gorgon image, as petrification: „Es verwandelt das flüssige, taumelnde“ ^[textanalyse-existenz-system-und-leid.md:L114]. Its experience in the crisis is the narrative's resonance cascade inside the component, and AEGIS reads that resonance as `Systemfehler` (L232); the narrative's component also reports the sharding: „Es ist, als würde man mir die Seele aus dem Leib reißen“ ^[textanalyse-existenz-system-und-leid.md:L258]. The document says what the component is (the functionalised Ich-Fragment) and nothing about what the number 734 names.
 
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — 734 in the English prompt, addressed to AEGIS
+
+This is the account of the English system prompt of section 9, written to put a model into AEGIS's role and addressed to AEGIS as `you`. The prompt's context names the subject: „You hold Entity 734 (Kael) in containment across the Core Worlds.“ ^[analyse-des-kohaerenz-protokolls.md:L337]
+
+It then tells the history: „734 was your Origin-Self.“ ^[analyse-des-kohaerenz-protokolls.md:L339] The next sentence, „It touched the Void Entity (M/Juna) and resonated.“ ^[analyse-des-kohaerenz-protokolls.md:L339], gives the entity that 734 met. The action: „You shattered 734 into shards (Alters) and imprisoned them in Simulations“ ^[analyse-des-kohaerenz-protokolls.md:L341] — Logos-Prime and Mnemosyne are named in brackets.
+
+A prompt's account, recorded as such.
+
 ## Reading — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium — the pronoun replaced at the autopoietic click
 
 The drafting compendium of 2026-02-23 reports from the Genesis (reference 5, `Kohärenz Protokoll`) the autopoietic click, and instructs for it: „An diesem exakten Punkt muss der Erzählstil schlagartig wechseln.“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L77] The pronoun Ich is replaced by `das System` or `Komponente 734` ^[roman-outline-stilmittel-perspektiven-umsetzung.md:#1]; on the same line fear is recoded („Angst wird umkodiert in“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L77]) as risk-assessment markers, and the author is told: „Der Autor muss eine kognitive Kälte erzeugen“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L77]. The line gives `Komponente 734` as a stand-in for the pronoun at the switch; what the number labels in the world is not said on it.
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — the name for AEGIS's fragmented origin-self
+
+In the Genesis-Krise line the master integration says the activation of the separation protocol is a violent fragmentation of AEGIS's own origin-self, which becomes `Komponente 734` and then Kael: „Aktivierung des Trennungsprotokolls = gewaltsame Fragmentierung des eigenen“ ^[kohaerenz-protokoll-master-integration-md.md:L145]. Its short-story list names `Component 734` as a concept: „AEGIS-Genesis aus Sicht des Fragments“ ^[kohaerenz-protokoll-master-integration-md.md:L409].
 
 ## Reading — `charakter-kompilation-fuer-kohaerenz-protokoll`, 2026-03-31
 
@@ -364,6 +408,7 @@ proposal).
 - The new-format outline plans Komponente 734 as AEGIS's „Vorläufer-Ich“ ^[outline-2.md:L23] whose fragmentation is the birth of System Kael.
 - The reader-centred outline plans Komponente 734 as a „prä-bewusste Entität“ ^[leserzentrierte-roman-outline-generierung-kohaeren.md:L15] whose fragmentation is Kael's birth.
 - The drafting compendium has `Komponente 734` replace the pronoun at the autopoietic click, in an instruction for the style of the Genesis (reference 5 glued on), without saying on that line what the number labels.
+- The part-1 plot concept proposes `Einheit 734` as a specific [[aegis|AEGIS]] unit and recurring antagonist, not as Kael's designation.
 
 ## Open
 

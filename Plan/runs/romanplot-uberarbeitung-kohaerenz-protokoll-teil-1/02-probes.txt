@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      142
+  backslash escapes      316
+  typographic marks      33
+  ascii quotes           166
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabwehr, Systemanomalie, Systematische, Systemblockade, Systeme, Systemfehler, Systemfehlern, Systemgefüge, Systeminstabilität, Systeminstabilitäten, Systemintegrität, Systemkontrolle, Systemreaktion, Systemregeln, Systems, Systemstabilität, Systemstörung, Systemverfall, Systemweite, Systemüberwachung
+  infor    Informanten, Information, Informationen, Informations, Informationsaustauschs, Informationsebene, Informationsfetzen, Informationsfluss, Informationsflut, Informationsgeber, Informationshändler, Informationskiosk, Informationsquelle, Informationsstruktur, Informationsströme, Informationssuche, Informationsverwaltung, Informationszugang
+  chara    Character, Charakter, Charakterdokument, Charaktere, Charakteren, Charakterensemble, Charakterentwicklung, Charakterintegration, Charakteristisch, Charakterkonflikte, Charakterkonzepten, Charakters, Charaktertiefe
+  daten    Daten, Datenfragmente, Datenfragmenten, Datenkristallen, Datenmanipulation, Datenmüll, Datenriss, Datenrisses, Datenspeicher, Datenspeicherung, Datenströme, Datenströmen, Datenzugang
+  kontr    Kontrapunkt, Kontrast, Kontroll, Kontrolle, Kontrollebene, Kontrollfunktion, Kontrollfähigkeiten, Kontrollierte, Kontrollkonsolen, Kontrollmechanismen, Kontrollsysteme, Kontrollverlusten
+  kommu    Kommunikation, Kommunikationsgerät, Kommunikationskanal, Kommunikationsnetz, Kommunikationsnetzwerk, Kommunikationsprozesses, Kommunikationsversuch, Kommunikationsversuche, Kommunikationswege
+  unter    Unterbewusste, Unterbewusstsein, Unterbewusstseins, Unterbrechungen, Unterschlupf, Unterstützung, Unterwegs, Unterwelt
+  verst    Versteck, Versteckte, Verstecktes, Versteht, Verständnis, Verständnisses, Verstärkt, Verstärkung
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfallen, Erinnerungsfetzen, Erinnerungsfiguren, Erinnerungsfragmenten, Erinnerungslandschaft
+  inter    Interaktion, Interaktionen, Interaktionspunkte, Intercom, Interpretation, Interpretationen, Interventionen
+  überl    Überlagerung, Überlappung, Überlappungen, Überlastung, Überleben, Überlebenschancen, Überlebenswillen
+  überw    Überwachung, Überwachungsaugen, Überwachungsdrohnen, Überwachungskameras, Überwachungstechnologie, Überwindung, Überwältigung
+  archi    Architektur, Archiv, Archivar, Archive, Archiven, Archivs
+  entsc    Entscheidende, Entscheidender, Entscheidung, Entscheidungen, Entschlossenheit, Entschluss
+  gegen    Gegenkräfte, Gegenmaßnahmen, Gegensatz, Gegenstand, Gegenstände, Gegenteil
+  schlü    Schlüssel, Schlüsselereignisse, Schlüsselmomente, Schlüsselort, Schlüsselphrasen, Schlüsselszenen
+  spieg    Spiegel, Spiegelbild, Spiegelgarten, Spiegels, Spiegelscherben, Spiegelt
+  berei    Bereich, Bereiche, Bereichen, Bereitet, Bereitschaft
+  hinde    Hinderer, Hindernis, Hindernislauf, Hindernisparcours, Hindernisse
+  konfl    Konflikt, Konflikte, Konflikten, Konflikteskalation, Konfliktspiegelung
+  konze    Konzentration, Konzept, Konzepte, Konzepten, Konzeption
+  licht    Licht, Lichter, Lichtleitern, Lichtquellen, Lichtung
+  simul    Simulation, Simulationsebene, Simulationsebenen, Simulationseindrücken, Simulationserlebnissen
+  szene    Szene, Szenen, Szenenatmosphäre, Szenenbeschreibungen, Szenenlänge
+  thera    Therapeuten, Therapie, Therapiesitzung, Therapiesitzungen, Therapieverlauf
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Alles
+  Alle < Fallen
+  Alle < Gefallen
+  Alle < Datenkristallen
+  Alle < Erinnerungsfallen
+  Anya < Anyas
+  Auge < Augen
+  Auge < Überwachungsaugen
+  Bahn < Achterbahnfahrt
+  Beta < Werbetafel
+  Beta < Werbetafeln
+  Blut < Blutkörperchen
+  Dies < Diese
+  Dies < Dieser
+  Dies < Diesmal
+  Ding < Worldbuilding
+  Echo < Echos
+  Eine < Seine
+  Eine < Reines
+  Eine < Weinen

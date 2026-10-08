@@ -1,0 +1,14 @@
+# romanarchitektur-kohaerenz-protokoll-finalisierung
+  lines                304  (frontmatter ends at 9)
+  body words           5062
+  headings             23   bold-only lines 1
+  table rows           11   code fences 0
+  question marks       6
+  backslash escapes    41
+  typographic marks    152   ascii quotes 8
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    41
+  repeated labels      none
+  longest line         882 chars
+

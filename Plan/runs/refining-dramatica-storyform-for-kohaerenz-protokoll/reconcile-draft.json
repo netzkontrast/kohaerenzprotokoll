@@ -1,0 +1,251 @@
+{
+  "document": "refining-dramatica-storyform-for-kohaerenz-protokoll",
+  "drive_id": "1ERJFGr7Y6Z1tyK4BP4NYunoQ6JNyLj2GQ33leMHs-gc",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 110,
+    "decisions": 114,
+    "decided_by_lookup": 95,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        92,
+        94,
+        95,
+        96,
+        137,
+        139,
+        300
+      ],
+      "attribution": "",
+      "note": "AEGIS as Influence Character and „Tragic System“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L137]"
+    },
+    {
+      "page": "alters",
+      "lines": [],
+      "attribution": "",
+      "note": "alters in the storyform and in the naming hierarchy"
+    },
+    {
+      "page": "genesis",
+      "lines": [],
+      "attribution": "",
+      "note": "the Genesis Crisis as the host's shattering and a frozen moment"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        96,
+        264,
+        298,
+        300
+      ],
+      "attribution": "",
+      "note": "the Gödel Gambit as Solution and climax"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        140,
+        233,
+        250,
+        288
+      ],
+      "attribution": "",
+      "note": "the Guardians as subsystems of AEGIS, with a schism"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        91,
+        93,
+        120,
+        133,
+        234
+      ],
+      "attribution": "",
+      "note": "Juna as Influence Character with AEGIS, and Julia deprecated"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        76,
+        79,
+        80,
+        130,
+        131,
+        132
+      ],
+      "attribution": "",
+      "note": "Main Character of its proposed storyform, and a hierarchy for the names Kael, Michael and Julia"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        140,
+        233,
+        250
+      ],
+      "attribution": "",
+      "note": "Kairos as the Guardian who resonates with Kael"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        114,
+        115,
+        251
+      ],
+      "attribution": "",
+      "note": "the Kernwelten mapped onto its two kernels"
+    },
+    {
+      "page": "kiko",
+      "lines": [],
+      "attribution": "",
+      "note": "Kiko as an Emotional Part"
+    },
+    {
+      "page": "lex",
+      "lines": [],
+      "attribution": "",
+      "note": "Lex as the logic alter in two plot steps"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        140,
+        160,
+        250
+      ],
+      "attribution": "",
+      "note": "LogOS as the loyal Guardian"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        230
+      ],
+      "attribution": "",
+      "note": "`Mnemosyne Archipelago` as the second world's name"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        97,
+        100,
+        120
+      ],
+      "attribution": "",
+      "note": "the Link as Relationship Story and a connection AEGIS cannot see"
+    },
+    {
+      "page": "nyx",
+      "lines": [],
+      "attribution": "",
+      "note": "Nyx as persecutor and protector"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        81,
+        89,
+        116
+      ],
+      "attribution": "",
+      "note": "the Risse as intrusions of the Chaos kernel and as messages"
+    },
+    {
+      "page": "tsdp",
+      "lines": [],
+      "attribution": "",
+      "note": "TSDP as the clinical frame of cosmology and plot"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        251,
+        252
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the third world and AEGIS's command center"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16",
+    "C17"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q6",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 50,
+      "decision": "reading",
+      "why": "Source 1's reading of the war of logics and the alters, read on alters"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 132,
+      "decision": "reading",
+      "why": "Michael shattered during the Genesis Crisis, read on genesis"
+    },
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 140,
+      "decision": "reading",
+      "why": "the Guardians as subsystems of AEGIS, read on guardians"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "the project's name"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 230,
+      "decision": "reading",
+      "why": "KW2 as Mnemosyne Archipelago, read on mnemosyne"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

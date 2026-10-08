@@ -1,0 +1,135 @@
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Quellen:"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Quellen:` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#22]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "korrigierte Metapher"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`korrigierte Metapher` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Beats"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beats` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Kapitel"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kapitel` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#7]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Juna` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Julia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Julia` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Kael-Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Juna` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Cosmic Horror"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Cosmic Horror` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Kosmischer Horror"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kosmischer Horror` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "ausschließlich"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ausschließlich` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Potentialmeer"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Potentialmeer` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "AEGIS"
+whole word, case-sensitive     31
+whole word, case-insensitive   32
+including compounds            38
+
+`AEGIS` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#31]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Gleichzeitigkeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gleichzeitigkeit` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Kernkonflikt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernkonflikt` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "K-J-Einheit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`K-J-Einheit` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "K-J-Verbindung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`K-J-Verbindung` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Kohärenz-Inseln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Inseln` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese --count "Kohärenz-Insel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kohärenz-Insel` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]
+
+stance_marker_count 23 = Quellen: 22 + korrigierte Metapher 1 (counts above)
+`korrigierten Metaphern` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:#1]

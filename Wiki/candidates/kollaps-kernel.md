@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 33
-readings: 33
+sources: 40
+readings: 40
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-architecture-synthesis", "roman-konzept-reduktion-und-kernfindung", "ki-roman-architektur-kritische-analyse-methoden", "charaktermodellierung-mit-aieos-schema", "analyse-des-romanprojekts-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,12 @@ gathered: "2026-09-24"
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — the Collapse Kernel (K₀) as entropy and the motor of complexity
 
 The Definitive Guide writes `The Collapse Kernel (K₀)` in English: „This is the principle of entropy, information erasure, and irreversible change.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60] It acts as a „correspondence check“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60] on the structures of K₁, its function „explicitly equated with the physical process of“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60] quantum decoherence, and „This K₀ pressure is the primary motor for the evolution of complexity.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60]
+
+## Reading — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis — the Kollaps-Kernel as the domain of irreversible computation, matched to the Void
+
+The project analysis (an unsigned essay; its `Kapitel` are its own sections) defines the kernel in Kapitel 1 under the label K₀, `Das Kollaps-Kernel`, as „die Domäne der irreversiblen Berechnung, der Entropie und der Informationslöschung“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L30].
+
+In Kapitel 2 it matches the Void of the Genesis-Krise to it: the described emptiness „entspricht exakt der Definition des K₀-Kollaps-Kernels als Domäne der Entropie und Informationslöschung“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L46]. It reads the Genesis-Krise as the confrontation of a K₁ structure with the force of this kernel, and the kernel in physics as quantum decoherence.
 
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — K_0 in the Protokoll-Ontologie
 
@@ -28,6 +34,10 @@ The exegesis defines the Kollaps-Kernel (`K\_0`): „Dies ist das Prinzip der En
 
 The drafting compendium of 2026-02-23 reports that the K0 kernel stands for „die irreversible Entropie, das subjektive Trauma, die Inkohärenz“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L51] and phenomenal experience, entering „wenn Kaels psychische Realität durch die Risse der Simulation bricht“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L51] or when Juna intervenes. Under `Stilistische Vorgabe` it instructs a change into Deep POV, in a style „maximalistisch, hochgradig sensorisch, fragmentiert und metaphorisch“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L53]; the world is then no longer analysed: „Die Welt wird nicht mehr analysiert, sondern unmittelbar erlitten.“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L53]
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — the collapse kernel as the kernel of irreversible collapse and entropy
+
+The first paragraph of the DKT synthesis names the second kernel in the phrase „und dem Kollaps-Kernel“ ^[roman-synthese-mit-dual-kernel-theorie.md:L13]; the symbol after it is lost in the export. In `Theoretischer Rahmen` the second substrate is described, symbol lost, as „dem Kernel des irreversiblen Kollapses und der Entropie“ ^[roman-synthese-mit-dual-kernel-theorie.md:L17]. In the table of that section Juna as relationality is assigned to „(Kollaps)“ ^[roman-synthese-mit-dual-kernel-theorie.md:L25] with the function of an intrusion of meaning. The analysis adds that the city, built to eliminate the erosion this kernel brings, becomes unstable because „ein System ohne Kollaps-Fähigkeit keine echte Zeit oder Bedeutung generieren kann“ ^[roman-synthese-mit-dual-kernel-theorie.md:L17].
+
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — the Kollaps-Kernel in section 2.1
 
 The research report says: „Der Kollaps-Kernel hingegen repräsentiert Irreversibilität, Entropie, Trauma und den unvermeidlichen Zusammenbruch von deterministischen Zuständen.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L31] „Er ist der Ort der Emergenz, der echten Zeitlichkeit und der evolutionären Neuheit.“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L31] Juna manifests as an irruption of this kernel into the simulation (L31).
@@ -39,6 +49,10 @@ The refactoring plan is an assistant's proposal to the author; it names the Koll
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — the anti-algorithmic domain of irreversible computation
 
 The architecture report describes the Kollaps-Kernel (glyph lost in the export) as „die aktive, anti-algorithmische Domäne der irreversiblen Berechnung“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L37], „ein strukturzerstörender Druck“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L37] and the computational equivalent of entropy. In its table the same kernel appears as „Der Erasure-Kernel“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L43].
+
+## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — the entropic kernel, Juna for Lex, the Nichts Rauschen
+
+The AIEOS evaluation describes the entropic kernel as one pole of the Dual-Kernel-Theorie: reality results from the interaction of an ordering kernel „und einem entropischen Kollaps-Kernel“ ^[charaktermodellierung-mit-aieos-schema.md:L17]. In the case study of Lex it says „Juna repräsentiert die absolute Entropie und den“ ^[charaktermodellierung-mit-aieos-schema.md:L104] Kollaps-Kernel (the export lost a symbol before the name), which threatens Lex's existence. In its verdict it sets the schema's limit where the novel is deepest, among other things „in der relationalen Verschränkung, der Unberechenbarkeit des“ ^[charaktermodellierung-mit-aieos-schema.md:L199] `Nichts Rauschens`, which it names in brackets as the Kollaps-Kernel.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — K\_0 as what AEGIS is said to be, and as a pressure
 
@@ -54,13 +68,33 @@ The synthesis writes the kernel as `Kollaps-Kernel` and, in running text, `-Kern
 
 Under the canonical reading AEGIS takes Kael's fragmentation for the enemy kernel: AEGIS reads it „als Repräsentation des verfeindeten Kollaps-Kernels ()“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L63]. The critical reading the document holds reverses the assignment: the inversion takes AEGIS from the other kernel and „ihn exakt dem gegenüberliegenden Kollaps-Kernel () zuordnet“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L67].
 
+## Reading — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework — the second kernel under two names
+
+The critical-methods framework, a methods handbook reporting the architecture from its reference 1, heads the section „Der Kollaps-Kernel“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L44] and calls it „die aktive, anti-algorithmische Domäne der irreversiblen Berechnung darstellt“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L46]. It describes the kernel as „aggressiver, strukturzerstörender Druck“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L46] (kernel symbols lost in the export). In the comparison table the same second column is headed „Der Erasure-Kernel“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L54] before the lost symbol; the handbook does not say the two names are one.
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — K0 as principle of entropy, not an enemy but a correspondence check
+
+The master integration heads the kernel `K₀` with „(Kollaps-Kernel) — Prinzip der Entropie“ ^[kohaerenz-protokoll-master-integration-md.md:L39], the domain of irreversible computation and decoherence. It adds that `K₀` is „nicht Feind — es ist der“ ^[kohaerenz-protokoll-master-integration-md.md:L45] correspondence check of external reality, the necessary test that validates or destroys `K₁` structures (L45).
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the Erasure Field, the Nichts Rauschen and the precondition of consciousness
 
 The pitch introduces the second kernel: „Der direkte ontologische Antagonist dieser sterilen Ordnung ist der“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L27] Kollaps-Kernel, and it embodies the principle of „irreversiblen Löschung, des totalen Informationsverlusts, der thermodynamischen Entropie und des unausweichlichen Zeitpfeils“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L27]. It stands for the correspondence theory of truth; narratively it appears as the `Nichts Rauschen`, the trauma and the EPs. The pitch says it is, paradoxically, „die unabdingbare Voraussetzung für Bewusstsein und evolutionäre Emergenz“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L29]; the EP row lists „Irreversible Löschung, Entropie, Korrespondenztheorie der Wahrheit, Chaos.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L85]
 
+## Reading — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report — the antagonist kernel as the condition of real consciousness
+
+The reduction report heads a subsection with the name `Kollaps-Kernel` (the kernel's symbol was lost in the export, leaving gaps). It calls it the antagonist to the sterile order: „das Prinzip der irreversiblen Löschung, der Entropie und der Korrespondenztheorie der Wahrheit verkörpert“ ^[roman-konzept-reduktion-und-kernfindung.md:L56]. It adds the Lacanian Real: „der Einbruch des Lacanschen Realen in die symbolische Ordnung der Simulation“ ^[roman-konzept-reduktion-und-kernfindung.md:L56].
+
+In Kael's psychological matrix the report reads the kernel as the Emotional Parts, „die Träger der rohen Qualia des ursprünglichen Traumas“ ^[roman-konzept-reduktion-und-kernfindung.md:L58]. It says the novel's tension comes from the insight that „dieser zerstörerische Kernel die Voraussetzung für wahres Bewusstsein und evolutionäre Emergenz ist“ ^[roman-konzept-reduktion-und-kernfindung.md:L58].
+
 ## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — the Kollaps-Kernel as thermodynamic counterforce
 
 This document is a software specification for a writing assistant that borrows the novel's names. Its catalogue sets the Kollaps-Kernel against the Kohärenz-Kernel: „Ihm entgegen steht der -Kernel, der Kollaps-Kernel, welcher die absolute thermodynamische Gegenkraft darstellt“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L21], whose function is „Seine Funktion ist die irreversible Berechnung und die Zerstörung wechselseitiger Struktur, was physikalisch dem Wärmetod und der Entropie entspricht.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L21]
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — the Kollaps-Kern (K₀) moved from Kael to AEGIS by the brief's inversion
+
+This is the architecture synthesis's inversion. It names what it inverted from: „Kaels Trauma-Fragmente als den Kollaps-Kern (K₀)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L27] stood in the canonical architecture on its account, and the inversion turns AEGIS into the true K₀ („was AEGIS zum wahren K₀ macht“ ^[kohaerenz-protokoll-architecture-synthesis.md:L27]).
+
+The truth rotation proposes: „Die Kohärenztheorie wird K₀ (dem Kollaps-Kern) zugeordnet“ ^[kohaerenz-protokoll-architecture-synthesis.md:L33], in English „The Coherence Theory of Truth maps to K₀ (the Collapse Kernel)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L31]. The architecture synthesis writes K₀ as `Kollaps/Löschung` in its Appendix A abstract, glossing the erasure sense; the verdicts are its own.
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the Erasure Kernel as the engine of history
 
@@ -178,3 +212,5 @@ Not in date order with the readings above; placed after the last one. `Kollaps-K
 
 - `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: K\_0 is the kernel AEGIS is said to be (L81) and, in L57, „den entropischen Druck ($K\_0$)“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L57] a system should keep up; the document does not say the two are one.
 - `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01: the critical reading it holds places AEGIS in the Kollaps-Kernel; in the canonical reading it reports, AEGIS reads [[kael|Kael]]'s fragmentation as that kernel's representative.
+- the architecture synthesis proposes, by inversion, that the Kollaps-Kern (K₀) is AEGIS's, where it reports Kael's trauma-fragments held it in the canonical architecture: „Kaels Trauma-Fragmente als den Kollaps-Kern (K₀)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L27].
+- The project analysis equates the Kollaps-Kernel with the Void met in the Genesis-Krise and with decoherence in physics; it reports both from its reference texts and claims no canon.

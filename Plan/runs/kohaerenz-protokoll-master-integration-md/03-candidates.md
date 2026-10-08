@@ -1,0 +1,139 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+World, figures, physics, places:
+
+- Protokoll-Ontologie
+- Dual-Kernel-Substrat
+- DKT
+- K₁
+- K₀
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Grenzfläche
+- Coherons
+- Coheron
+- Erasonen
+- Erason
+- Coheron-Netzwerke
+- Coheron-Netzwerk
+- Coheron-Inseln
+- Corrective Wavelets
+- Tags of Erasure
+- Allen Orbital Lattice
+- PFT
+- Persistenzgleichung
+- Persistenz-Score
+- Phase Alignment Lock
+- PAL
+- Phase-Alignment-Bruch
+- Witness Function
+- Zeugenfunktion
+- Dunkle Materie
+- Fundament
+- Das Fundament
+- AEGIS
+- Kael
+- Juna
+- Juna/V
+- Nichts-Rauschen
+- Potentialmeer
+- Ur-Entropie
+- Operational Closure
+- Primal Directive
+- Primal-Trauma
+- Genesis-Krise
+- Trennungsprotokolls
+- Komponente 734
+- Component 734
+- Ursprungs-Ich
+- Ursprungstrauma
+- CSI
+- Collapse Susceptibility Index
+- Algorithmische Melancholie
+- Algorithmischer Horror
+- System Kael
+- TSDP
+- ANPs
+- EPs
+- Apparently Normal Parts
+- Emotional Parts
+- Alter-Liste
+- Lex
+- Alex
+- Rhys/Elara
+- Rhys
+- Elara
+- Aris
+- Mina/Selene
+- Mina
+- Selene
+- Nyx
+- Kiko
+- Lia/Lyra
+- Lia
+- Lyra
+- Isabelle
+- Moros
+- Funktionelle Multiplizität
+- Dialetheic Mind
+- Healed State
+- Living Gödel-Satz
+- Gödel-Gambit
+- Perverse Learning Loop
+- Moonshine-Link
+- Option B
+- Option C
+- Erason-Inversion
+- Thermodynamic Graph Field
+- TGF
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Archiv Theta-9
+- Theta-9
+- Risse
+- Erason-Kaskade
+- Landauer-Budget
+- AEGIS-Log-Physik
+- Foreshadowing-Architektur
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Exclusionary Order
+- Gravitationsermüdung
+- Short-Story-Mosaik
+- The Guardian's Blind Spot
+- Guardians
+- Paraîyas
+- Polyphonische Prosa
+- Choric
+- Dasein/Witness
+- Geworfenheit
+
+## lens
+
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Principle of Explosion
+- Parakonsistente Logik
+- Dialetheismus
+- Gödels Unvollständigkeit
+- Hard Problem of Consciousness
+- Strange Attractor
+- Theseus-Paradox
+- Euler'sche Identität
+- Landauer
+- Bekenstein-Bound
+- Monstrous Moonshine
+- Whitehead'sche Prehension
+- Perpetrator Introject
+- IFS-Prozess
+- MC Resolve
+- Story Limit
+- Optionlock
+
+The document is a German master-integration of thirteen source documents, with escaped markdown (\*\*, \#) throughout; subscripts K₁ and K₀ are written as subscript characters. Dramatica terms are listed only for the lens block; the table in Teil VII mixes English field names with German glosses. A and B halves of slashed names are listed beside the joined form. Several names (Coheron, Erason) appear in plural and singular both.

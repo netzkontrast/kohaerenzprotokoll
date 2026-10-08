@@ -1,0 +1,80 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Candidates of the document's own world and vocabulary, then a lens section of borrowed concepts it applies. The document is a concept essay about the novel; Lex, Nyx, EPs and the KW numbers are listed as written, and KW1 to KW4 stand in the table as KW with the digit apparently lost or escaped, so they may count zero.
+
+- AEGIS
+- Kael
+- Juna
+- Lex
+- Nyx
+- Kohärenz Protokoll
+- Kernwelten
+- Kernwelt
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Das Fundament
+- Die Leere
+- Risse
+- Juna/V-Links
+- Gödel-Gambit
+- Gödel-Satz
+- funktionalen Multiplizität
+- ontologischer Exploit
+- ontologischen Blindheit
+- algorithmischen Horrors
+- architektonische Hintertür
+- Information Hazard
+- Perturbationen
+- KOHÄRENT/INKOHÄRENT
+- Rauschen
+- Inkohärenz
+- Systemkohärenz
+- Kohärenz durch Negation
+- Kohärenz durch Integration
+- Kontrolle durch Exklusion
+- Anscheinend Normalen Teile
+- ANPs
+- Emotionalen Teile
+- EPs
+- dissoziativen Phobien
+- Trauma-Zeit
+- Katalysators
+- Magiers
+- Nichts Rauschen
+- Systemverantwortung
+- Wächter-Systems
+
+## lens
+
+- TSDP
+- Strukturellen Dissoziation
+- Prinzip der Explosion
+- Episteme
+- Gnosis
+- Specification Gaming
+- Perverse Instantiation
+- Frame-Problem
+- Logic of Formal Inconsistency
+- autopoietischen Systems
+- operativ geschlossen
+- Gödels Unvollständigkeitssätze
+- Quantenverschränkung
+- Prähension
+- seltsamer Attraktor
+- Wuji
+- Prozessphilosophie
+- Deus ex Machina
+- Boolesche Erfüllbarkeit
+- Problem des Handlungsreisenden
+- Bewusstseinsmodell
+- hegelianischen Synthese

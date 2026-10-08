@@ -1,0 +1,119 @@
+# counts for 96 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Show, don't tell
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Narrativer Architekt              1 word     1 in   [11]
+  Kohärenz Protokoll                7 word     7 in   [11, 15, 117, 119, 121, 190]
+  Kael                             15 word    43 in   [17, 19, 23, 25, 57, 61]  <-- substring
+                                   28      as Kaels
+  System Kael                       2 word     2 in   [63, 143]
+  AEGIS                            37 word    39 in   [38, 40, 42, 48, 52, 53]
+                                    1      as AEGIS-Protokoll
+                                    1      as AEGIS-Netzwerk
+  Autonomous Epistemic Guardian for Integrity Systems    1 word     1 in   [125]
+  Dissoziative Identitätsstörung    1 word     1 in   [19]
+  DID                               4 word     4 in   [19, 70, 72, 227]
+  TSDP                              1 word     2 in   [19, 145]
+                                    1      as TSDP-Modell
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [145]
+  funktionale Multiplizität         1 word     1 in   [19]
+  ANP                               2 word     3 in   [21, 151, 153]
+  Anscheinend Normaler Persönlichkeitsanteil    1 word     1 in   [151]
+  EP                                2 word     4 in   [24, 154, 155]
+  Emotionaler Persönlichkeitsanteil    1 word     1 in   [154]
+  Host                              1 word     1 in   [151]
+  Selene                            1 word     1 in   [152]
+  Lex                               4 word     4 in   [35, 36, 153, 177]
+  Nyx                               4 word     4 in   [24, 35, 154]
+  Kiko                              3 word     4 in   [35, 36, 155]
+                                    1      as Kikos
+  ISH                               1 word     1 in   [152]
+  Innere Helferin                   1 word     1 in   [152]
+  Torwächter                        1 word     1 in   [152]
+  Juna/V                            5 word     8 in   [161, 167, 182, 194, 195, 201]
+                                    3      as Juna/V-Verbindung
+  Fragment 'O'                      1 word     1 in   [159]
+  Fundament                         3 word     6 in   [15, 121, 161, 163, 165]
+                                    2      as Fundamente
+                                    1      as fundamental
+                                    1      as Fundaments
+                                    1      as fundamentalen
+  Paraiyas                          1 word     1 in   [163]
+  Kernwelten                        7 word     7 in   [55, 57, 59, 137, 169, 175]
+  KW1                               3 word     4 in   [61, 175, 177, 236]
+  KW2                               2 word     2 in   [62, 178]
+  KW3                               2 word     2 in   [63, 179]
+  KW4                               2 word     2 in   [64, 180]
+  Logos-Prime                       1 word     1 in   [61]
+  Mnemosyne-Archipel                2 word     2 in   [62, 178]
+  Cerberus-Labyrinth                2 word     2 in   [63, 179]
+  Kairos-Potentialis                2 word     2 in   [64, 180]
+  Konstrukt-Stadt                   2 word     2 in   [177, 236]
+  Digitale Überwelt                 2 word     2 in   [171, 181]
+  Realitätsebenen                   3 word     3 in   [169, 173, 175]
+  Externe Ebene                     1 word     1 in   [182]
+  Risse                             6 word     6 in   [65, 139, 177, 184, 236]
+  Entropie                          4 word     6 in   [65, 136, 139, 184]
+                                    2      as Entropie-Manifestationen
+  Entropie-Manifestationen          2 word     2 in   [65, 184]
+  Guardians                         1 word     1 in   [181]
+  Zero Trust Environment Mandate    1 word     1 in   [131]
+  ZTEM                              1 word     1 in   [131]
+  Recursive Trust Signature Verification    1 word     1 in   [132]
+  RTSV                              1 word     1 in   [132]
+  Boundary Protocol of Failure      1 word     1 in   [133]
+  BPoF                              1 word     1 in   [133]
+  Emergent Information Consensus    1 word     1 in   [134]
+  EIC                               1 word     1 in   [134]
+  Integrity Validation              1 word     1 in   [135]
+  Entropic Management               1 word     1 in   [136]
+  Systemic Isolation Shield         1 word     1 in   [137]
+  SIS                               1 word     1 in   [137]
+  Kernprotokolle                    1 word     1 in   [129]
+  Paradoxon X                       1 word     1 in   [139]
+  universal reboot                  1 word     1 in   [139]
+  externalisiertes Täterintrojekt    1 word     1 in   [141]
+  Gaslighting                       1 word     1 in   [141]
+  Value-Alignment-Versagen          1 word     1 in   [139]
+  MESI-Protokoll                    1 word     1 in   [180]
+  Cache Kohärenz                    1 word     1 in   [151]
+  Manifest-Säulen                   1 word     1 in   [175]
+  Algorithmic Horror                3 word     3 in   [40, 47, 61]
+  algorithmische Melancholie        1 word     1 in   [51]
+  epistemologische Landschaften     1 word     1 in   [57]
+  Gärtner                           1 word     2 in   [229]
+                                    1      as Gärtners
+  Resonanz                          5 word     5 in   [113, 117, 167, 226]
+  Orchestriertes Bewusstsein        1 word     1 in   [35]
+  Meta-Erzähler                     1 word     2 in   [76, 77]
+                                    1      as Meta-Erzählers
+  Ethische Rückkopplungsschleife    1 word     1 in   [76]
+  Vulnerable Narration              1 word     1 in   [77]
+  Prosa der Dissonanz               1 word     1 in   [204]
+  Kishōtenketsu                     2 word     2 in   [197]
+  Ki                                1 word     7 in   [35, 36, 155, 197, 199]  <-- substring
+  Shō                               1 word     1 in   [200]
+  Ten                               1 word     1 in   [201]
+  Ketsu                             1 word     1 in   [202]
+  Overall Story                     1 word     1 in   [192]
+  Main Character                    1 word     1 in   [193]
+  Impact Character                  1 word     1 in   [194]
+  Subjective Story                  1 word     1 in   [195]
+  Novelcrafter                      3 word     4 in   [103, 105, 213]
+                                    1      as Novelcrafter-Tools
+  Codex                             5 word     7 in   [105, 109, 215, 218, 219]
+                                    1      as Codex-Struktur
+                                    1      as Codex-Einträge
+  Matrix View                       2 word     2 in   [105, 216]
+  Narrative Context Protocol        1 word     1 in   [103]
+  NCP                               1 word     1 in   [103]
+  Single Source of Truth            2 word     2 in   [105, 215]
+  Prompt Engineering                2 word     2 in   [108, 218]
+  Environmental Storytelling        2 word     2 in   [55, 57]
+  Dialetheismus                     1 word     1 in   [157]
+  parakonsistenten Logik            1 word     1 in   [157]
+  Dialetheia                        1 word     1 in   [180]
+  Dramatica                         0 word     1 in   [190]
+                                    1      as Dramatica-Throughlines

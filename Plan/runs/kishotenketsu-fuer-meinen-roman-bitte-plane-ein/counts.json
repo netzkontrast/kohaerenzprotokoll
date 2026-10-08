@@ -1,0 +1,727 @@
+{
+  "document": "kishotenketsu-fuer-meinen-roman-bitte-plane-ein",
+  "drive_id": "1vc9MslRv_n9Jt5-AcOrhYEz9Jxcz-keY6iT0i6CzJNA",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 62,
+      "n_including_compounds": 84,
+      "lines": [
+        21,
+        23,
+        24,
+        25,
+        26,
+        46,
+        47,
+        48,
+        57,
+        58,
+        68,
+        79,
+        80,
+        81,
+        90,
+        91,
+        92,
+        101,
+        103,
+        112,
+        114,
+        128,
+        130,
+        139,
+        140,
+        150,
+        152,
+        161,
+        162,
+        163,
+        172,
+        174,
+        184,
+        185,
+        194,
+        196,
+        205,
+        216,
+        217,
+        218,
+        232,
+        233,
+        234,
+        243,
+        244,
+        245,
+        254,
+        255,
+        256,
+        265,
+        266,
+        276,
+        278,
+        287,
+        288,
+        289,
+        298,
+        300,
+        314,
+        315,
+        316,
+        325,
+        326,
+        327,
+        336,
+        337,
+        347,
+        358,
+        360,
+        369,
+        371,
+        380
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        46,
+        79,
+        81,
+        254,
+        278
+      ]
+    },
+    "AEGIS": {
+      "n": 59,
+      "n_including_compounds": 59,
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        47,
+        48,
+        58,
+        59,
+        69,
+        80,
+        81,
+        91,
+        102,
+        113,
+        129,
+        140,
+        151,
+        162,
+        173,
+        174,
+        184,
+        195,
+        206,
+        216,
+        217,
+        233,
+        234,
+        244,
+        255,
+        265,
+        266,
+        277,
+        278,
+        287,
+        288,
+        289,
+        299,
+        314,
+        315,
+        326,
+        327,
+        337,
+        348,
+        359,
+        360,
+        370,
+        371,
+        380,
+        381
+      ]
+    },
+    "W1": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        46,
+        90,
+        91,
+        139,
+        183,
+        243,
+        287,
+        314,
+        336,
+        369
+      ]
+    },
+    "W2": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        57,
+        58,
+        101,
+        150,
+        194,
+        254,
+        298
+      ]
+    },
+    "W3": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        68,
+        69,
+        112,
+        161,
+        205,
+        265,
+        325,
+        347
+      ]
+    },
+    "W4": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        79,
+        80,
+        128,
+        172,
+        216,
+        232,
+        276,
+        358
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        102
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Wächter": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        58,
+        69,
+        80,
+        91
+      ]
+    },
+    "Gegentakt": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        25,
+        79,
+        227
+      ]
+    },
+    "Gegentakt-Lücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Einheit Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        57,
+        139
+      ]
+    },
+    "Alter": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        23,
+        57,
+        68,
+        139,
+        150,
+        194,
+        327
+      ]
+    },
+    "Die Ruhige": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Ruhigen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Die Mutige": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Mutigen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Die Präzise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        101
+      ]
+    },
+    "Präzisen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        358
+      ]
+    },
+    "Die Leichte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Die Wachsame": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Schatten": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        138,
+        139,
+        141,
+        260,
+        265
+      ]
+    },
+    "Vergessers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Drall": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        134,
+        139,
+        140,
+        150
+      ]
+    },
+    "Multiplizität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        24,
+        171,
+        182,
+        185,
+        324
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        324
+      ]
+    },
+    "Das Gitter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Das Körper-Ja": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Sinnbild": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        353,
+        357,
+        360,
+        369
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        364
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        370
+      ]
+    },
+    "Gärtner": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        375,
+        380
+      ]
+    },
+    "Gewicht Rausnehmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        128
+      ]
+    },
+    "Konvergenzpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        232
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        327
+      ]
+    },
+    "Zeitsprung": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "weichen Grenze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "gnostische Injektion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Specification Gaming": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        315
+      ]
+    },
+    "Kishōtenketsu": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        17
+      ]
+    },
+    "Kishōtenketsu-Konzept": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Ki": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        17,
+        23,
+        36
+      ]
+    },
+    "Shō": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        118
+      ]
+    },
+    "Ten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        222
+      ]
+    },
+    "Ketsu": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        304
+      ]
+    },
+    "Phänomenologie & Achtsamkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Epoché": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Neuroplastizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Flow-Zustand": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        70
+      ]
+    },
+    "Chronos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81
+      ]
+    },
+    "Kairos": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        80,
+        81
+      ]
+    },
+    "Der Rubikon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Traumabindung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        130
+      ]
+    },
+    "Schatten-Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Integrierte Informations-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Radikale Akzeptanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Antifragilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        289
+      ]
+    },
+    "Wu Wei": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        316
+      ]
+    },
+    "Samadhi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        348
+      ]
+    },
+    "Śūnyatā": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        278
+      ]
+    },
+    "Verteilte Kognition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        327
+      ]
+    },
+    "Posttraumatisches Wachstum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        300
+      ]
+    },
+    "Gödelscher Unvollständigkeitssatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        371
+      ]
+    },
+    "Die dunkle Nacht der Seele": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        349
+      ]
+    },
+    "Die Simulationstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        218
+      ]
+    },
+    "Existenzialismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        234
+      ]
+    },
+    "Embodiment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Bindungstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    }
+  }
+}

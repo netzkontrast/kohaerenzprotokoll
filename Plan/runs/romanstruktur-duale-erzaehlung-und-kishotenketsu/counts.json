@@ -1,0 +1,740 @@
+{
+  "document": "romanstruktur-duale-erzaehlung-und-kishotenketsu",
+  "drive_id": "1-uV9apGT45swM0Vf4E1iSRxXHQWoEIA7fERWyz0X2KY",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 55,
+      "n_including_compounds": 65,
+      "lines": [
+        22,
+        26,
+        35,
+        41,
+        49,
+        58,
+        75,
+        76,
+        84,
+        85,
+        94,
+        111,
+        113,
+        123,
+        131,
+        132,
+        133,
+        138,
+        140,
+        141,
+        150,
+        168,
+        176,
+        185,
+        187,
+        195,
+        203,
+        204,
+        205,
+        210,
+        212,
+        213,
+        222,
+        239,
+        241,
+        249,
+        258,
+        275,
+        283,
+        284,
+        306,
+        307,
+        315
+      ]
+    },
+    "Kael": {
+      "n": 41,
+      "n_including_compounds": 86,
+      "lines": [
+        22,
+        26,
+        27,
+        35,
+        41,
+        49,
+        57,
+        58,
+        59,
+        64,
+        67,
+        76,
+        77,
+        83,
+        84,
+        85,
+        93,
+        94,
+        95,
+        100,
+        102,
+        103,
+        113,
+        115,
+        123,
+        132,
+        133,
+        139,
+        149,
+        150,
+        151,
+        156,
+        158,
+        159,
+        167,
+        169,
+        175,
+        177,
+        185,
+        187,
+        195,
+        204,
+        205,
+        211,
+        212,
+        213,
+        221,
+        223,
+        228,
+        241,
+        249,
+        257,
+        258,
+        259,
+        267,
+        275,
+        283,
+        284,
+        285,
+        290,
+        301,
+        306,
+        310
+      ]
+    },
+    "Juna": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        89,
+        94,
+        100,
+        102,
+        113,
+        158,
+        266,
+        275,
+        285,
+        290,
+        309
+      ]
+    },
+    "Lex": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        65,
+        101,
+        132,
+        156,
+        158,
+        174,
+        176,
+        177,
+        204,
+        265,
+        306,
+        307,
+        308,
+        310
+      ]
+    },
+    "Rhys": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        101,
+        185,
+        241,
+        265,
+        309,
+        310
+      ]
+    },
+    "Nyx": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        113,
+        167,
+        174,
+        176,
+        177,
+        212,
+        241,
+        265,
+        308
+      ]
+    },
+    "Kiko": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        66,
+        185,
+        212,
+        309
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Moros": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        113,
+        212,
+        230,
+        275
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        185,
+        241,
+        264,
+        311
+      ]
+    },
+    "Alex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        265,
+        309
+      ]
+    },
+    "LogOS": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        76,
+        83,
+        84,
+        132,
+        140
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        84
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Consensus Enforcer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Zero-Trust Execution Model (ZTEM)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Zero-Trust Execution Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "ZTEM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Digitale Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        76
+      ]
+    },
+    "Digitalen Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        138,
+        210
+      ]
+    },
+    "Kernwelt": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        58,
+        83,
+        132,
+        139,
+        185
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Co₁": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        139
+      ]
+    },
+    "McL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        22,
+        58
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Paradoxon X": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        199,
+        204
+      ]
+    },
+    "weißen Raum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        228,
+        309
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        167,
+        231,
+        305
+      ]
+    },
+    "ANP": {
+      "n": 6,
+      "n_including_compounds": 18,
+      "lines": [
+        57,
+        59,
+        65,
+        100,
+        101,
+        102,
+        103,
+        113,
+        132,
+        228,
+        229,
+        241,
+        306,
+        307,
+        310,
+        311
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 14,
+      "lines": [
+        66,
+        67,
+        113,
+        132,
+        159,
+        169,
+        174,
+        229,
+        241,
+        275,
+        306,
+        307,
+        308,
+        309
+      ]
+    },
+    "Anscheinend Normalen Persönlichkeitsanteils": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Emotionalen Persönlichkeitsanteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Morgenritual": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Neustart": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Entwicklungs-Tracker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Strukturelle Gesamtkarte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kapitel-Kishōtenketsu": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        60,
+        78,
+        96,
+        134,
+        152,
+        170,
+        206,
+        224,
+        260,
+        286
+      ]
+    },
+    "Aktübersicht": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        123,
+        195,
+        249
+      ]
+    },
+    "Ki": {
+      "n": 17,
+      "n_including_compounds": 35,
+      "lines": [
+        22,
+        35,
+        36,
+        45,
+        49,
+        59,
+        60,
+        64,
+        66,
+        77,
+        78,
+        82,
+        95,
+        96,
+        100,
+        134,
+        138,
+        152,
+        156,
+        170,
+        174,
+        185,
+        206,
+        210,
+        212,
+        224,
+        228,
+        260,
+        264,
+        286,
+        290,
+        309
+      ]
+    },
+    "Shō": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        37,
+        65,
+        83,
+        101,
+        119,
+        123,
+        133,
+        139,
+        151,
+        157,
+        169,
+        175,
+        211,
+        229,
+        265,
+        291
+      ]
+    },
+    "Ten": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        38,
+        66,
+        84,
+        102,
+        140,
+        158,
+        176,
+        191,
+        195,
+        205,
+        212,
+        223,
+        230,
+        266,
+        292
+      ]
+    },
+    "Ketsu": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        39,
+        67,
+        85,
+        103,
+        141,
+        159,
+        177,
+        213,
+        231,
+        245,
+        249,
+        259,
+        267,
+        285,
+        293
+      ]
+    },
+    "Mittelpunkt/Punkt ohne Wiederkehr": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "auslösenden Moment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Kishōtenketsu": {
+      "n": 1,
+      "n_including_compounds": 13,
+      "lines": [
+        22,
+        35,
+        60,
+        78,
+        96,
+        134,
+        152,
+        170,
+        206,
+        224,
+        260,
+        286
+      ]
+    },
+    "Westliche Dramaturgie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "westlichen Dramaturgie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Konfliktdramaturgie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Heldenreise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        35,
+        49
+      ]
+    },
+    "Tragische Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Anagnorisis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        195,
+        239
+      ]
+    },
+    "Das Edle Ziel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Edlen Ziels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Gewöhnliche Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Gewöhnlichen Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Tiefste Krise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        195
+      ]
+    },
+    "Rückkehr mit dem Elixier": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        249
+      ]
+    },
+    "Neuer Seinszustand": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        249
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        305
+      ]
+    },
+    "Signal-Rausch-Verhältnis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    }
+  }
+}

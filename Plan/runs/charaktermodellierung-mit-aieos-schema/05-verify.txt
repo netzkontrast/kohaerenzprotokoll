@@ -1,0 +1,103 @@
+$ read.py charaktermodellierung-mit-aieos-schema --count "Bewertung"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Bewertung` ^[charaktermodellierung-mit-aieos-schema.md:#5]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Fallbeispiel"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Fallbeispiel` ^[charaktermodellierung-mit-aieos-schema.md:#5]
+$ read.py charaktermodellierung-mit-aieos-schema --count "elf"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`elf` ^[charaktermodellierung-mit-aieos-schema.md:#6]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Dual-Kernel-Theorie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Dual-Kernel-Theorie` ^[charaktermodellierung-mit-aieos-schema.md:#3]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Tertiäre Strukturelle Dissoziation der Persönlichkeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tertiäre Strukturelle Dissoziation der Persönlichkeit` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+$ read.py charaktermodellierung-mit-aieos-schema --count "TSDP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`TSDP` ^[charaktermodellierung-mit-aieos-schema.md:#2]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Kapitel 38"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel 38` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Lia"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lia` ^[charaktermodellierung-mit-aieos-schema.md:#2]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Moros-Paradoxon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moros-Paradoxon` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Alex"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Alex` ^[charaktermodellierung-mit-aieos-schema.md:#2]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Rhys"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rhys` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Mnemosyne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mnemosyne` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Isabelle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Isabelle` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Juna"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Juna` ^[charaktermodellierung-mit-aieos-schema.md:#5]
+$ read.py charaktermodellierung-mit-aieos-schema --count "Autonomous Entropic Gatekeeper for Integrity Systems"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autonomous Entropic Gatekeeper for Integrity Systems` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+$ read.py charaktermodellierung-mit-aieos-schema --count "amnesia\_barriers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`amnesia\_barriers` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+$ read.py charaktermodellierung-mit-aieos-schema --count "executive\_control\_switching"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`executive\_control\_switching` ^[charaktermodellierung-mit-aieos-schema.md:#1]
+stance_marker_count 10 = Bewertung 5 + Fallbeispiel 5 (above)

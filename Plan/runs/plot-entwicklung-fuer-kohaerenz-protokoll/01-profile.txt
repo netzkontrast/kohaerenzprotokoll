@@ -1,0 +1,14 @@
+# plot-entwicklung-fuer-kohaerenz-protokoll
+  lines                248  (frontmatter ends at 9)
+  body words           8792
+  headings             0   bold-only lines 38
+  table rows           7   code fences 0
+  question marks       3
+  backslash escapes    488
+  typographic marks    50   ascii quotes 94
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      K-J-Verbindung x5, Erkenntnis x4, Guardian-Intervention x4, Herausforderung x4, AEGIS x3
+  longest line         1618 chars
+

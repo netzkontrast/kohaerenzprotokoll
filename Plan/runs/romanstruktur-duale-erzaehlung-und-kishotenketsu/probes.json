@@ -1,0 +1,237 @@
+{
+  "document": "romanstruktur-duale-erzaehlung-und-kishotenketsu",
+  "drive_id": "1-uV9apGT45swM0Vf4E1iSRxXHQWoEIA7fERWyz0X2KY",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 21,
+  "backslash_escapes": 72,
+  "typographic_marks": 101,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systeme",
+      "Systemkohärenz",
+      "Systems",
+      "Systemstabilität"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsstrangs",
+      "Handlungsstrukturen",
+      "Handlungsstränge"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interner",
+      "Intervention",
+      "Interventionen",
+      "Interventionsplan"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpunkt",
+      "Datenstrom",
+      "Datenströme"
+    ],
+    "diese": [
+      "Diese",
+      "Diesem",
+      "Dieser",
+      "Dieses"
+    ],
+    "entwi": [
+      "Entwickelt",
+      "Entwicklung",
+      "Entwicklungen",
+      "Entwicklungs"
+    ],
+    "insta": [
+      "Instabile",
+      "Instabiles",
+      "Instabilität",
+      "Instanz"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktdramaturgie",
+      "Konflikte",
+      "Konflikts"
+    ],
+    "parad": [
+      "Paradigmas",
+      "Paradigmen",
+      "Paradoxie",
+      "Paradoxon"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeitsanteil",
+      "Persönlichkeitsanteilen",
+      "Persönlichkeitsanteils"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstakzeptanz",
+      "Selbsterkenntnis",
+      "Selbstfindung"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturdynamik",
+      "Strukturelle",
+      "Strukturen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionalen",
+      "Emotionen"
+    ],
+    "gesam": [
+      "Gesamtkarte",
+      "Gesamtstruktur",
+      "Gesamtsystems"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsprozesses",
+      "Heilungsreise"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollsystem",
+      "Kontrollverlust"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle"
+    ],
+    "morge": [
+      "Morgen",
+      "Morgenritual",
+      "Morgenroutine"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolls",
+      "Protokolländerung"
+    ],
+    "rückk": [
+      "Rückkehr",
+      "Rückkopplung",
+      "Rückkopplungsschleife"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzes",
+      "Schutzinstinkt"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltensdaten",
+      "Verhandlungen"
+    ],
+    "vermi": [
+      "Vermittler",
+      "Vermittlung",
+      "Vermittlungsversuche"
+    ],
+    "verst": [
+      "Verstehens",
+      "Verständnis",
+      "Verstärkung"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versucht"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Alle",
+      "Fallende"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Diesem"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Edle",
+      "Edlen"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Fall",
+      "Fallende"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernängste"
+    ]
+  ]
+}

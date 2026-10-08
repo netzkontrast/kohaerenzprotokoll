@@ -1,0 +1,27 @@
+$ read.py --count "Resolution"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`Resolution` ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:#6]
+$ read.py --count "Inferred"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Inferred` ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Dramatica:"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Dramatica:` ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:#10]
+$ read.py --count "Source"
+whole word, case-sensitive     3
+whole word, case-insensitive   7
+including compounds            5
+
+`Source` ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:#3]
+stance_marker_count 17 = Resolution 6 + Inferred 1 + Dramatica: 10
+75 and 39: numbers quoted from lines L39, L144 and plot heading; Step 23 at L300
+^[L300]  - Resolution: We have added the "Logic Tumor" (Step). This establishes that AEGIS is already failing before Ka…

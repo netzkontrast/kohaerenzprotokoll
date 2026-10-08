@@ -1,0 +1,94 @@
+# counts for 78 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                1 word     1 in   [11]
+  Kael                             24 word    30 in   [15, 17, 18, 19, 20, 21]
+                                    6      as Kaels
+  AEGIS                            18 word    18 in   [15, 17, 18, 20, 22, 26]
+  Juna/V                            4 word     9 in   [20, 22, 35, 47, 51, 55]  <-- substring
+                                    4      as Juna/V-Verbindung
+                                    1      as Juna/V-Resonanz
+  Juna                             10 word    11 in   [20, 22, 35, 47, 51, 55]
+                                    1      as Juna-Anomalie
+  Konstrukt-Stadt                   2 word     2 in   [17, 19]
+  KW1                               3 word     3 in   [17, 25, 26]
+  KW2                               3 word     3 in   [23, 24, 36]
+  KW3                               1 word     1 in   [39]
+  KW4                               1 word     1 in   [42]
+  Resonanz-Landschaft               1 word     1 in   [23]
+  Cerberus-Labyrinth                1 word     1 in   [39]
+  Möglichkeiten-Garten              1 word     1 in   [42]
+  Lex                               4 word     4 in   [21, 24, 38, 44]
+  Kiko                              1 word     2 in   [27, 28]
+                                    1      as Kikos
+  Nyx                               3 word     3 in   [28, 38, 41]
+  Rhys                              3 word     3 in   [38, 41, 45]
+  Mnemosyne                         1 word     1 in   [36]
+  Lia                               1 word     1 in   [42]
+  Alex                              1 word     1 in   [43]
+  Argus                             1 word     1 in   [44]
+  Moros                             1 word     1 in   [45]
+  Isabelle                          1 word     1 in   [54]
+  Guardian                          2 word     2 in   [36, 59]
+  Fundament                         1 word     3 in   [57, 67]  <-- substring
+                                    2      as Fundaments
+  Fundaments                        2 word     2 in   [57]
+  Anteile                           7 word     7 in   [24, 37, 41, 53, 56, 69]
+  EPs                               1 word     1 in   [24]
+  EP-Intrusionen                    1 word     1 in   [19]
+  System Kael                       1 word     1 in   [55]
+  Subjekt Kael                      1 word     1 in   [18]
+  Kind-Anteil                       0 word     1 in   [27]
+                                    1      as Kind-Anteils
+  Kämpfer-Anteil                    1 word     1 in   [28]
+  Meta-Beobachter                   1 word     1 in   [44]
+  Riss                              4 word     6 in   [17, 25, 26, 29, 47]
+                                    1      as Rissen
+                                    1      as Risse
+  Risse                             1 word     2 in   [17, 29]
+                                    1      as Rissen
+  Welle                             2 word     3 in   [19, 47, 53]
+                                    1      as Wellen
+  Protokoll 734                     1 word     1 in   [18]
+  Kohärenz-Initialisierung          1 word     1 in   [18]
+  Korrekturprotokoll Delta          1 word     1 in   [26]
+  AEGIS\_Protokoll                  1 word     1 in   [58]
+  D2-Logik-Modul                    1 word     1 in   [37]
+  D2-Modul-Inkonsistenz             1 word     1 in   [37]
+  Axiom der Vermeidung              1 word     1 in   [24]
+  Kernaxiome                        1 word     1 in   [58]
+  Gödel-Gambit                      1 word     1 in   [58]
+  Gödel-Satzes                      1 word     1 in   [60]
+  Funktionale Multiplizität         1 word     1 in   [56]
+  Grounding-Artefakte               1 word     1 in   [57]
+  Fragment 'O'                      1 word     1 in   [68]
+  Archivars                         1 word     1 in   [71]
+  Logbucheintrag des Archivars      1 word     1 in   [71]
+  Ki (起)                            1 word     1 in   [13]
+  Shō (承)                           1 word     1 in   [31]
+  Ten (転)                           1 word     1 in   [49]
+  Ketsu (結)                         1 word     1 in   [62]
+  Midpoint                          1 word     1 in   [47]
+  Waffenstillstand                  1 word     1 in   [38]
+  Algorithmische Melancholie        1 word     1 in   [66]
+  ineffizienter Schönheit           1 word     1 in   [66]
+  Ineffiziente Schönheit            1 word     1 in   [69]
+  Die Geburt des Gärtners           1 word     1 in   [67]
+  Das offene Ende                   1 word     1 in   [70]
+  Das Rauschen nach der Stille      1 word     1 in   [17]
+  Gnosis                            1 word     1 in   [67]
+  Emergenz                          1 word     1 in   [67]
+  Kontamination                     1 word     1 in   [22]
+  Zielerhaltung                     1 word     1 in   [40]
+  perversen Instantiierung          1 word     1 in   [26]
+  Perverse Instantiierung           1 word     1 in   [26]
+  Instrumentelle Konvergenz         1 word     1 in   [40]
+  parakonsistente Logik             1 word     1 in   [46]
+  Pathologische Anpassung           1 word     1 in   [46]
+  dialetheische                     1 word     1 in   [59]
+  gaslightet                        1 word     1 in   [36]
+  Freeze-Reaktion                   1 word     1 in   [27]
+  Trauma-Reaktion                   1 word     1 in   [54]
+  Analyse-Paralyse                  1 word     1 in   [44]

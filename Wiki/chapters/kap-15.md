@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 31
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 37
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,10 @@ Position: „Trauma Response (Flight/Freeze) / IFS (Firefighter/Manager - Vermei
 
 - The subplot catalogue analyses Kapitel 15 under the phase „Erkundung der Systemregeln/Grenzen/Architektur“ ^[subplot-entwicklung-fuer-romanstruktur.md:L402] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Entschlüsselung der Architektur
+
+- The subplot revision's chapter 15: „Entschlüsselung der Architektur“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L54]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Echo im System: Identifikation von Mustern und Zyklen
 
 Title: the commission titles the chapter „Das Echo im System: Identifikation von Mustern und Zyklen“ ^[kontext-outline.md:L234], placed in Act 2.
@@ -73,6 +77,14 @@ The beat sheet places Kapitel 15 in Beat 2.1; the beat spans Kapitel 14 to 17.
 - Cause: the `Kausale Verknüpfung` says „Diese fehlerhafte Analyse diktiert seine nachfolgenden Handlungen und eskaliert den Konflikt, anstatt ihn zu lösen“ ^[finales-kausales-plot-geruest.md:L109]
 - Throughlines: the OS or MC line says „da seine echten Integrationsversuche von AEGIS als Pathologie bezeichnet werden“ ^[finales-kausales-plot-geruest.md:L115]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die unmögliche Geographie der Seele
+
+- The chapter overview plans Kapitel 15 as „Die unmögliche Geographie der Seele“ ^[detaillierte-kapiteluebersicht.md:L36], in Akt II (Shō). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Die unmögliche Geographie der Seele
+
+- The final causal blueprint's chapter 15: „Die unmögliche Geographie der Seele“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L90]. Its content: „Konfrontation mit Guardian Mnemosyne“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L90]. A plan in an outline of 40 chapters, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -86,6 +98,10 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Das Netz hinter den Welten
 
 - The architecture plan sets Kapitel 15 in Teil 2 as the archetypal phase „Das Netz hinter den Welten“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L31], with the core theme „Erkundung der AEGIS-Überwelt und ihrer Wächter“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L31] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L261.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Regelmäßig anders sein
+
+- The Kishōtenketsu plan's chapter 15 of 30, in act Shō: „Regelmäßig anders sein“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L200]. Its Handlung: „Kael kehrt gezielt in die Stress-Umgebung“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L205]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Architecture of Control: Analysis of the Overworld`
 
@@ -112,6 +128,10 @@ Position: Teil II, „Dekonstruktion“ ^[romanstruktur-und-philosophische-einle
 - Story: „Er erkennt, dass sie keine bewussten Wesen, sondern Subroutinen und Algorithmen von AEGIS sind“ ^[romanstruktur-und-philosophische-einleitung.md:L150]
 - Story: „Es ist eine Phase der Entmystifizierung der eigenen Hölle.“ ^[romanstruktur-und-philosophische-einleitung.md:L152]
 
+## Reading — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report — a crisis where logic fails
+
+- The dissociative architecture report places in chapter 15 the second phase of Lex's arc with Kiko: „the system faces a crisis where logic fails“ ^[kael-s-dissociative-architecture-analysis.md:L120]. A report's mapping of a plan onto clinical theory, not the chapter as written.
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Die Begegnung mit dem Paria
 
 Title: „Die Begegnung mit dem Paria“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L174]
@@ -131,6 +151,10 @@ Position: Teil II; POV from `Perspektive & Stimme`: „Alex (ANP-Beschützer) �
 
 - Story: the matrix plans „Eintritt in KW3. Alex zwingt Kael in den Hintergrund. Die Welt spiegelt Kaels eigene PTBS-Paranoia wider“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L199]
 - Question: „Wenn die Abwehr zur Falle wird, wer schützt uns dann?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L198]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Turing-Mechanik
+
+- The DKT synthesis's chapter 15: „Turing-Mechanik“ ^[roman-synthese-mit-dual-kernel-theorie.md:L163]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

@@ -1,0 +1,162 @@
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Ziel"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            35
+
+`Ziel` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#19]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Kerntheorie"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kerntheorie` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#4]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Narrative Anwendung"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`Narrative Anwendung` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#6]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Schlüsselkonzepte"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Schlüsselkonzepte` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#4]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Kontext"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Kontext` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#8]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Glossar"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Glossar` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Zugriff am Mai 3, 2025"
+whole word, case-sensitive     98
+whole word, case-insensitive   98
+including compounds            98
+
+`Zugriff am Mai 3, 2025` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#98]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Fehlausgerichtete Kohärenz` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#5]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "funktionaler Multiplizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`funktionaler Multiplizität` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#3]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "KW1"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`KW1` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#5]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "KW2"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`KW2` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#7]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "KW3"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW3` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#6]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "KW4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW4` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Juna/V"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            17
+
+`Juna/V` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#16]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Fundament"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            18
+
+`Fundament` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#16]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#2]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Kiko"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kiko` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Moros"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moros` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Echo"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Echo` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Swift Switching"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Swift Switching` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1]
+
+$ python3 scripts/read.py roman-outline-kohaerenz-protokoll-uberarbeitung --count "Phobie vor dissoziativen Anteilen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Phobie vor dissoziativen Anteilen` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#2]
+
+stance_marker_count 42 = 19+4+6+4+8+1

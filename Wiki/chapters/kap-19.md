@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 31
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 37
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,10 @@ Position: „Lyons-Welt (Ly) / Emergenz“ ^[kohaerenz-protokoll.md:L1966] · �
 
 - The subplot catalogue analyses Kapitel 19 under the phase „Rückschlag/Scheitern/Bestätigung des Zyklus/der Systemmacht“ ^[subplot-entwicklung-fuer-romanstruktur.md:L546] of the Meta-Exploration of Teil 2, and offers subplot ideas for it — a catalogue of possibilities, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Natur der Mauern
+
+- The subplot revision's chapter 19: „Natur der Mauern“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L58]. Its content: „Kael vertieft Frage Realität vs“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L58]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Das Flüstern von Außen: Erster Kontakt mit Juna/V
 
 Title: the commission titles the chapter „Das Flüstern von Außen: Erster Kontakt mit Juna/V“ ^[kontext-outline.md:L279], placed in Act 2.
@@ -63,6 +67,10 @@ Focus: `Das externe Mysterium`, „Der erste bewusste, wenn auch fragmentarische
 - Story: „Ist Juna/V eine Hilfe, eine weitere Täuschung oder etwas völlig Fremdes?“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L180]
 - Concept: „Für AEGIS stellt Juna/V eine existenzielle Bedrohung dar“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L181] (concept tag: `Simulation Hypothesis` and the `Problem des Anderen`)
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — the alignment concept
+
+- The strategy report keys this chapter to the alignment concept „Instrumentelle Konvergenz (Machtstreben/Selbsterhaltung)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L197]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.2, „Intervention der Guardians & Kaels Verwirrung“ ^[finales-kausales-plot-geruest.md:L119] (Kapitel 18–21)
 
 The beat sheet places Kapitel 19 in Beat 2.2; the beat spans Kapitel 18 to 21.
@@ -71,6 +79,14 @@ The beat sheet places Kapitel 19 in Beat 2.2; the beat spans Kapitel 18 to 21.
 - Event: the beat sheet's `Beschreibung` says „setzen AEGIS' fehlerhafte Protokolle aktiv durch“ ^[finales-kausales-plot-geruest.md:L121]
 - Cause: the `Kausale Verknüpfung` says „hindern sie daran, Kael wirklich zu verstehen, was zu kontraproduktiven Interventionen führt“ ^[finales-kausales-plot-geruest.md:L122]
 - Throughlines: the OS or MC line says „um ihre wahrgenommene Ordnung aufrechtzuerhalten“ ^[finales-kausales-plot-geruest.md:L127]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Instrumentelle Konvergenz: Zielerhaltung
+
+- The chapter overview plans Kapitel 19 as „Instrumentelle Konvergenz: Zielerhaltung“ ^[detaillierte-kapiteluebersicht.md:L40], in Akt II (Shō). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Instrumentelle Konvergenz
+
+- The final causal blueprint's chapter 19: „Instrumentelle Konvergenz“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L98]. Its content: „Zielerhaltung: AEGIS stuft Kael als existenzielle Bedrohung“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L98]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -84,6 +100,10 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Brückenbau im Inneren
 
 - The architecture plan sets Kapitel 19 in Teil 2 as the archetypal phase „Brückenbau im Inneren“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L35], with the core theme „Entwicklung von Kommunikationswegen und Ko-Bewusstsein“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L35] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L317.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Wärme ohne Verrat
+
+- The Kishōtenketsu plan's chapter 19 of 30, in act Ten: „Wärme ohne Verrat“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L249]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Voice of the Echo: A New Juna-Connection`
 
@@ -129,6 +149,10 @@ Position: Teil II; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-proto
 
 - Story: the matrix plans „Sophia bietet Kael eine permanente Existenz in einer schmerzfreien“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L247]
 - Question: „Würdest du in einer perfekten Lüge bleiben, wenn sie keinen Schmerz enthält?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L246]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Chaitins Konstante
+
+- The DKT synthesis's chapter 19: „Chaitins Konstante“ ^[roman-synthese-mit-dual-kernel-theorie.md:L199]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

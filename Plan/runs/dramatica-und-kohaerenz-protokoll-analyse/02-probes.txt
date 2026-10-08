@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      22
+  backslash escapes      194
+  typographic marks      11
+  ascii quotes           86
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchiven, Systematik, Systemfehler, Systemfragmente, Systemisch, Systemische, Systemkollaps, Systemkollapsen, Systemkontrolle, Systemparameter, Systemverantwortung, Systemzustand, Systemzustands
+  model    Model, Modell, Modellen, Modellkonfigurationen, Modells, Models
+  bezie    Beziehung, Beziehungsachsen, Beziehungsarbeit, Beziehungsdynamik, Beziehungsnetz
+  chara    Character, Characters, Charakter, Charaktere, Charakterelemente
+  daten    Datenbanken, Datenkonsolidierung, Datenkorpus, Datenstruktur, Datensätze
+  eleme    Element, Elementarstruktur, Elementarteilchen, Elemente, Elementen
+  grenz    Grenz, Grenze, Grenzen, Grenzsituation, Grenzsituationen
+  inter    Interaktion, Interference, Interner, Intervention, Interventionen
+  konfl    Konflikt, Konfliktdynamik, Konflikte, Konflikten, Konflikts
+  konze    Konzept, Konzeptdefinitionen, Konzepten, Konzeptualisierung, Konzern
+  narra    Narrative, Narrativsystem, Narrativsystemen, Narrativsystems, Narratologie
+  poten    Potentialis, Potentiality, Potenzial, Potenzialkraft, Potenzials
+  psych    Psyche, Psychodynamische, Psychologisch, Psychology, Psychotraumatologie
+  story    Story, Storyform, Storyformen, Storyforms, Storymind
+  traum    Trauma, Traumaintrusionen, Traumas, Traumata, Traumateile
+  dynam    Dynamic, Dynamics, Dynamik, Dynamiken
+  explo    Exploration, Explorationsmodus, Explosion, Explosionen
+  handl    Handlung, Handlungsanliegen, Handlungselement, Handlungsreisenden
+  lösun    Lösung, Lösungen, Lösungs, Lösungselement
+  physi    Physics, Physik, Physiker, Physische
+  probl    Problem, Probleme, Problems, Problemvermeidung
+  proto    Protocol, Protokoll, Protokolle, Protokolls
+  proze    Prozess, Prozessen, Prozesses, Prozessorientierung
+  varia    Variante, Variation, Variationen, Variationsebene
+  alter    Alter, Alternative, Alters
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Erst < Verstand
+  Erst < Verstehen
+  Erst < Zerstörung
+  Erst < Verständnis
+  Erst < Widerstands
+  Erst < Understanding
+  Erst < Übersteigerter
+  Form < Formal
+  Form < Formeln
+  Form < Formulas
+  Form < Storyform
+  Form < Storyforms
+  Form < Storyformen
+  Form < Informationen
+  Form < Transformation
+  Hier < Hierarchie

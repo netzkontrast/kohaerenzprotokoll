@@ -1,0 +1,255 @@
+{
+  "document": "digitale-uberwelt-konzept-und-gestaltung",
+  "drive_id": "1A0jhNWYe8ATF4OK-71tPw2hwUGQZ1-EhY3etkuvGNVQ",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-150/brief.md; no chapter page — the concept names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 78,
+    "decisions": 82,
+    "decided_by_lookup": 64,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German world concept for the Digitale Überwelt: its 46 new surfaces are its protocol and staging vocabulary (BPoF, RTSV, φ(t), Encrypted Intent Channels, Selbstverweisungskette, schattenlose Transparenz, the sense table) and borrowed theory (ER=EPR, autopoiesis); what it says of the novel's world went on existing pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        45,
+        66,
+        78
+      ],
+      "attribution": "",
+      "note": "SIS and the Zero-Trust Environment Mandate as protocols of the Überwelt"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        17,
+        21,
+        25,
+        100,
+        110,
+        141
+      ],
+      "attribution": "",
+      "note": "AEGIS as the autopoietic system whose operative reality the Überwelt is"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        100,
+        104
+      ],
+      "attribution": "",
+      "note": "Alters as parts the system treats as data nodes"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        66
+      ],
+      "attribution": "",
+      "note": "Cerberus as the Überwelt's immune system"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        13,
+        21,
+        66,
+        110
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the negation of entropy"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        54,
+        86,
+        94
+      ],
+      "attribution": "",
+      "note": "the Guardians as subject-less subsystems of AEGIS"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        141
+      ],
+      "attribution": "",
+      "note": "Juna as the exiled original self and AEGIS's target"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        100,
+        141
+      ],
+      "attribution": "",
+      "note": "Kael as the protagonist whose psyche the Überwelt is coupled to"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        70
+      ],
+      "attribution": "",
+      "note": "Kairos as the adaptive element"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        107
+      ],
+      "attribution": "",
+      "note": "Kiko's glitches as stuttering time"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        11,
+        17,
+        25
+      ],
+      "attribution": "",
+      "note": "Kohärenz as AEGIS's criterion in place of truth, and as the quantity φ(t)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        50
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as administrative centre"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        58,
+        86
+      ],
+      "attribution": "",
+      "note": "LogOS as the system's constructed logic"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        60,
+        62
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the translator of affect"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        108
+      ],
+      "attribution": "",
+      "note": "Moros's glitches as grey decay of matter"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Nyx's glitches as violent physical anomalies"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        104,
+        110
+      ],
+      "attribution": "",
+      "note": "Risse as Correspondence Errors of Kael's self-protocol"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        74
+      ],
+      "attribution": "",
+      "note": "Sophia as holistic analysis"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        98,
+        100
+      ],
+      "attribution": "",
+      "note": "TSDP as the Systemfehler the Überwelt is coupled to"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        13,
+        17,
+        21,
+        31,
+        100,
+        122,
+        126,
+        136
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's operative reality, where existence is conditional on function"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C11",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (the AEGIS expansion and AEGIS-Protokoll, read on aegis), J49 (Logos-Prime, a world name, read on konstrukt-stadt), J9 (the title), J12 and J16 (compounds with their own sense: Digitalen Überwelt — read on ueberwelt — Systemkohärenz and Kohärenz statt Wahrheit, read on kohaerenz, Kohärenzprognose, Entropie-Jäger, read on cerberus and entropie, Zero-Trust Environment Mandate and Zero-Trust-Architekturen, read on aegis-teilfunktionen, Kernwelt 1, read on konstrukt-stadt), J23 and J56 (inflections and number: Guardian/Guardians, Nichts-Rauschens)",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 13,
+      "decision": "reading",
+      "why": "AEGIS as gatekeeper of entropy in the Überwelt's framing, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "BPoF, RTSV, φ(t), Encrypted Intent Channels, Selbstverweisungskette — the Überwelt's protocols, on aegis and ueberwelt",
+    "the three glitch types — on nyx, kiko, moros and risse",
+    "schattenlose Transparenz, the sense table, Algorithmischer Horror — staging, on ueberwelt",
+    "ER=EPR, autopoiesis — borrowed"
+  ],
+  "internal_tension": "RTSV spelled out two ways (L27, L96), SIS two ways (L45, L66); the smell is sterile recycled air in prose (L126) and ozone in the table (L136); the equation announced at L25 is missing from the export",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

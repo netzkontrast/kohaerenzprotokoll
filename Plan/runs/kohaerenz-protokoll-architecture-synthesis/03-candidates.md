@@ -1,0 +1,122 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- Juna
+- Selene
+- Selene/The Guardian
+- Selene/Wächterin
+- Lex
+- Nyx
+- Kiko
+- Moros
+- Vesper
+- Silas
+- Dual-Kernel Theory
+- Dual-Kernel-Theorie
+- DKT
+- Coherence Kernel
+- Erasure Kernel
+- Kohärenz-Kern
+- Kollaps-Kern
+- K₁
+- K₀
+- Phönix-Mode
+- Phönix-Modus
+- Phönix Inversion
+- Phönix-Kollaps
+- Heuristik der Integration
+- Storyform A
+- Storyform B
+- Moonshine-Link
+- Monstrous Moonshine
+- Vortex Inversion
+- Wahrheits-Vortex
+- Optionlock
+- Story Limit
+- Witness Function
+- Zeuge-Funktion
+- Quantum Entanglement Witness
+- Cryptographic Zero-Knowledge Verifier
+- Phenomenological Spectator
+- Reader as Substrate
+- Leser als Substrat
+- Mosaik-Herz
+- Mosaik-Herzen
+- LFI-Kern
+- Sector 04
+- Paraiyas
+- Construct-City
+- Konstrukt-Stadt
+- Das Fundament
+- The Foundation
+- Sea of Potentiality
+- Meer der Potentialität
+- The Gardener
+- Gärtner
+- Functional Multiplicity
+- Funktionalen Multiplizität
+- funktionale Multiplizität
+- Risse
+- EPs
+- ANPs
+- Emotional Parts
+- TSDP
+- Tertiary Structural Dissociation
+- Trennungsprotokoll
+- Separation Protocol
+- Living Gödel-Satz
+- Gödel-sentence
+- Chaitin's constant
+- Chaitin-Konstante
+- living dialetheia
+- Dialetheie
+- Dialetheism
+- Landauer's Principle
+- Landauer-Prinzip
+- Landauer heat
+- Algorithmic Melancholy
+- Algorithmische Melancholie
+- Meta-Collapse
+- Meta-Kollaps
+- Autobiographical Anchor
+- extradiagetic anchor
+- extradiagetische Anker
+- Coherence Island
+- Monster Group
+- Dualitäts-Disziplin
+- Truth Theories
+- Truth Rotation
+- Correspondence Theory of Truth
+- Coherence Theory of Truth
+- Korrespondenztheorie
+- Kohärenztheorie
+- Triple Helix
+- Gödelian Dead End
+- Mosaikscherben
+- Source-Privacy Firewall
+- Concept-as-Canon Mandate
+- OSIRIS
+
+## lens
+
+- Dramatica
+- Internal Family Systems
+- Madhyamaka
+- Whitehead
+- prehension
+- Vertex Operator Algebra
+- Husserl
+- Iser
+- Hutcheon
+- Aarseth
+- ergodic literature
+- Priest
+- Giannakopoulos
+- Zero-Knowledge Proof
+- no-signaling theorem
+- strange attractor
+- Hegelian dialectic
+
+Observations. The document is bilingual in blocks: an EN paragraph followed by its DE counterpart, so most terms stand in two surfaces (Dual-Kernel Theory and Dual-Kernel-Theorie, Witness Function and Zeuge-Funktion). The kernel names are written with subscript digits K₁ and K₀ throughout. The Reflection History in Part III is a first-person voice of the generating process; its phase and block names (OSIRIS, Constraint Block, Symmetry Gate) are the process's own labels, not world terms. The numbered references at the end are titles of cited works and left out. The Inversion Audit marks each axis Superior or Inferior and the Gate reports mark Pass.

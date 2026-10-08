@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 32
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 36
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -37,6 +37,10 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - The concept with subplots titles Kapitel 31 „Konfrontation mit dem Quellcode“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L67]. It plans: „Kael erreicht den Kern von AEGIS' Intelligenz oder Programmierung“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L67] — a plan, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Konfrontation mit dem Quellcode
+
+- The subplot revision's chapter 31: „Konfrontation mit dem Quellcode“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L75]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)
 
 Title: the commission titles the chapter „Die Fesseln sprengen: Durchbrechen der letzten Verteidigung (Cerberus)“ ^[kontext-outline.md:L413], placed in Act 3. Position: `Setting` „KW3 (transformiert?) / Verteidigungsebene Überwelt“ ^[kontext-outline.md:L419]
@@ -69,6 +73,14 @@ Position: the outline plans the `Erzählperspektive` „Juna (aktive Rolle, Verb
 
 - Story: the outline plans, under `Plot`, „Juna/V interveniert aktiv im Konflikt“ ^[outline.md:L196]; „trifft er auf neue, möglicherweise abstraktere oder ältere Wächter“ ^[outline.md:L196]
 - Question: under `Thematische Kernfrage`, „Kann eine höhere Wahrheit das System von innen heraus auflösen?“ ^[outline.md:L198]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die Signatur des Fundaments
+
+- The chapter overview plans Kapitel 31 as „Die Signatur des Fundaments“ ^[detaillierte-kapiteluebersicht.md:L57], in Akt III (Ten). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Die Signatur des Fundaments
+
+- The final causal blueprint's chapter 31: „Die Signatur des Fundaments“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L126]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -132,6 +144,10 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Polyphon (Kael konfronti
 
 - Story: the matrix plans „Kael kämpft nicht gegen die Guardians“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L395]
 - Question: „Was passiert mit den Wächtern, wenn das Gefängnis überflüssig wird?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L394]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Entropische Akzeptanz
+
+- The DKT synthesis's chapter 31: „Entropische Akzeptanz“ ^[roman-synthese-mit-dual-kernel-theorie.md:L311]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

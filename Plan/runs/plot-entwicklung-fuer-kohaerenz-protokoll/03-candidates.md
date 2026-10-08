@@ -1,0 +1,88 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Candidate list for a plot blueprint (L11 to L247). The document marks no terms with brackets; it uses bold labels and an eight-column table. Its footnote-style marks `[cite: N]` are export residue of a source-reference apparatus and are not terms. Quotation marks around words ("Risse", "Moonshine", "Parias", "Zweifels") mark terms or borrowed images. Abbreviations are written with a plain digit (KW1), never subscripted.
+
+- Kohärenz Protokoll
+- Kael
+- Juna
+- AEGIS
+- Guardians
+- Guardian
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Nebel
+- Schattenlabyrinth
+- Möglichkeitsstrom
+- Kohärenz-Insel
+- Potentialmeer
+- Kael-Juna-Verbindung
+- K-J-Verbindung
+- Kael-Juna-Resonanz
+- sub-protokollarische Resonanz
+- sub-protokollarisch
+- integrative Kohärenz
+- Kohärenz durch Abgrenzung
+- Kohärenz durch Integration
+- Risse
+- Initialzündung
+- Alters
+- Alter
+- Dissoziative Identitätsstörung
+- Dissoziativen Identitätsstörung
+- DID
+- Psyche Management Assessment Subsystem
+- PMAS
+- System Anomaly Response Mechanism
+- SARM
+- Ontological Boundary Protocol
+- OBP
+- maximale Bedrohung
+- Point of No Return
+- Kernparadoxon
+- zentralen Paradoxon
+- Transzendenz
+- Kernwelten-Odyssee
+- Drei-Akt-Struktur
+- Akt 1
+- Akt 2
+- Akt 3
+- Setup
+- Höhepunkt
+- Steigende Handlung
+- Fallende Handlung
+- Herausforderung
+- Guardian-Intervention
+- Erkenntnis
+- Monstergruppe
+- Monstergruppen-Metapher
+- Monstergruppe Metapher
+- Moonshine
+- Parias
+- Happy Family
+- Internal Family Systems
+- IFS
+- Self-Leadership
+- Gödel'schen Unvollständigkeitssätzen
+- Gödel'schen Schranken
+- autopoietische
+- Ripple Effekt
+- Jamming
+- Enklave
+- Systemkollaps
+- Abgrenzung
+- Integration
+- Fragmentierung
+- blinden Flecken
+- Grenzen der Logik
+- Plot-Blueprint
+- Urvertrauen
+
+The thematic pairs of section VI (Realität vs. Simulation, Identität vs. Fragmentierung, Verbindung vs. Isolation) are headings carrying a period and a space, so they stay out of the list.

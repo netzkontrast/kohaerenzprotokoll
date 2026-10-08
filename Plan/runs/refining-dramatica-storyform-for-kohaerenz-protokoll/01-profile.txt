@@ -1,0 +1,14 @@
+# refining-dramatica-storyform-for-kohaerenz-protokoll
+  lines                343  (frontmatter ends at 9)
+  body words           5153
+  headings             24   bold-only lines 0
+  table rows           31   code fences 0
+  question marks       7
+  backslash escapes    279
+  typographic marks    41   ascii quotes 362
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    29
+  repeated labels      Resolution x3
+  longest line         686 chars
+

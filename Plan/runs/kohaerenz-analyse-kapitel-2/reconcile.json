@@ -1,0 +1,334 @@
+{
+  "document": "kohaerenz-analyse-kapitel-2",
+  "drive_id": "1h2UB6wPZ-VJ1YHGIQwzHbrVZLi8ZsQ4RPMy7Nl5G73w",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-174/brief.md; chapter readings on Kap 1 and Kap 2 by the session, from Plan/runs/ingest-174-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 102,
+    "decisions": 113,
+    "decided_by_lookup": 84,
+    "needs_judgement": 29
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German analysis report that summarises its cited sources and recommends: its 60 new surfaces are its analytic labels (Der große Wandel, Operationale Geschlossenheit, the Controlled Fragmentation Protocol, Wir-Geflecht, the eight Empfehlungen), alter names no page carries (Limina, Nox, Praetor, Echo, Index), places named once (B-Welt / Beta-Rho-5, Omega-Prime, Ly-Welt) and borrowed theory (Landauer, autopoiesis, Monstrous Moonshine); what it says of the novel's world went on 26 existing pages, two chapter pages and seven records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        47,
+        83
+      ],
+      "attribution": "",
+      "note": "a Zero-Trust model for AEGIS and for Cerberus"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        27,
+        31,
+        33,
+        47,
+        51,
+        57
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system born of trauma, closed on itself, caught in the Landauer trap"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        41,
+        96,
+        207,
+        212
+      ],
+      "attribution": "",
+      "note": "the alters as isolated subroutines, named and given speech styles"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        41,
+        244
+      ],
+      "attribution": "",
+      "note": "cache coherence as a technical analogy for Risse"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        79,
+        81,
+        82,
+        83
+      ],
+      "attribution": "",
+      "note": "Cerberus as security, paranoia and the immune system of AEGIS"
+    },
+    {
+      "page": "did",
+      "lines": [
+        35,
+        92
+      ],
+      "attribution": "",
+      "note": "Kael as a literal embodiment of DID"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        21,
+        47,
+        87,
+        231
+      ],
+      "attribution": "",
+      "note": "entropy as AEGIS's death and, in the recommendation, Kael's life"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        19,
+        25,
+        57
+      ],
+      "attribution": "",
+      "note": "the genesis texts as the report summarises them"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        114
+      ],
+      "attribution": "",
+      "note": "Grenzfeste as Cerberus's world and Nox's dwelling"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        63,
+        191
+      ],
+      "attribution": "",
+      "note": "the Guardians as split-off subroutines of AEGIS, blind to Juna"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        63,
+        141,
+        189,
+        191,
+        192,
+        222
+      ],
+      "attribution": "",
+      "note": "Juna as the external variable and anchor"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        35,
+        59,
+        92,
+        96,
+        101,
+        102,
+        131
+      ],
+      "attribution": "",
+      "note": "Kael as a fragmented system with named alters"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        87
+      ],
+      "attribution": "",
+      "note": "Kairos as permitter of productive chaos"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        33,
+        183
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as AEGIS's simulation and the Guardians' worlds"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        39,
+        41,
+        233
+      ],
+      "attribution": "",
+      "note": "coherence as the reality-integrity variable, and as weaving"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        59,
+        139,
+        208
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as LogOS's world, sterile after the reboot"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        65,
+        67,
+        68,
+        69
+      ],
+      "attribution": "",
+      "note": "LogOS as validator of consistency, blind to paradox and emotion"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        72,
+        75,
+        76
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as archivist of emotional data"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "Möglichkeits-Garten named with the Überwelt in one heading"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        102,
+        129
+      ],
+      "attribution": "",
+      "note": "multiplicity as acceptance and cooperation, not fusion"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        17,
+        19,
+        39
+      ],
+      "attribution": "",
+      "note": "the Nichts as an active force, reported from its cited source"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        108,
+        125
+      ],
+      "attribution": "",
+      "note": "Oblivion as the frozen trauma-holder"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        74,
+        124
+      ],
+      "attribution": "",
+      "note": "Resonanz-Landschaft as Mnemosyne's world, where Echo lives"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        39,
+        51,
+        142,
+        207
+      ],
+      "attribution": "",
+      "note": "Risse as ontological injuries, and a recommendation to make them interactive"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "Sophia as metacognition and synthesis, limited by Seele=Info"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "Überwelt named beside the Möglichkeits-Garten, KW4"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C6",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (the AEGIS expansion and its Gatekeeper, read on aegis), J9 (a title containing a term: Genesis im Echo der Leere, a source document's title, on genesis), J23 and J56 (inflection: funktionalen Multiplizität/Multiplizität, Inkohärenz/Kohärenz), J12 and J16 (compounds and qualified labels with their own sense: Nichts Rauschen and Nichts, read on nichts-rauschen, AEGIS-Methode and Juna-Methode, Juna-Resonanz, Kohärenzmetriken and Cache-Kohärenz, read on kohaerenz and cache-kohaerenz, Zero-Trust-Modell, read on aegis-teilfunktionen, nützliche and positiver Entropie, read on entropie, Das Nein, Kael's refusal, Echo, a child alter, Depersonalisation, a symptom, Anomalie, Juna as the Guardians see her)",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 83,
+      "decision": "reading",
+      "why": "Cerberus's Zero-Trust approach, read on aegis-teilfunktionen"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 21,
+      "decision": "reading",
+      "why": "stability thermodynamically expensive, read on entropie"
+    }
+  ],
+  "not_promoted": [
+    "Limina, Nox, Praetor, Echo, Index — on Q3",
+    "the Controlled Fragmentation Protocol — on kael and C16",
+    "Der große Wandel, Universal Reboot — on aegis",
+    "Wir-Geflecht — on multiplizitaet",
+    "B-Welt / Beta-Rho-5, Omega-Prime, Ly-Welt — places named once",
+    "the eight recommendations — recommendations, on the pages they touch",
+    "Landauer, autopoiesis, Monstrous Moonshine, Uncanny Valley — borrowed"
+  ],
+  "internal_tension": "none; its reference digits point to a source list (L239–L248), and the digit after „Dieses Kapitel“ (L137) is a footnote, not a chapter number",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

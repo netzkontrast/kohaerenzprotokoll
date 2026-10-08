@@ -1,0 +1,44 @@
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-3 --count "Narrativer Nutzen"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Narrativer Nutzen` ^[kael-charakterarchitektur-und-konfliktdynamik-3.md:#15]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-3 --count "Kernkonflikt"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            16
+
+`Kernkonflikt` ^[kael-charakterarchitektur-und-konfliktdynamik-3.md:#15]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-3 --count "Pressure Point"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            20
+
+`Pressure Point` ^[kael-charakterarchitektur-und-konfliktdynamik-3.md:#13]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-3 --count "Query Context"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Query Context` ^[kael-charakterarchitektur-und-konfliktdynamik-3.md:#2]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-3 --count "Name/Bezeichnung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Name/Bezeichnung` ^[kael-charakterarchitektur-und-konfliktdynamik-3.md:#7]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-3 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kael-charakterarchitektur-und-konfliktdynamik-3.md:#0]
+$ python3 scripts/read.py kael-charakterarchitektur-und-konfliktdynamik-3 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kael-charakterarchitektur-und-konfliktdynamik-3.md:#0]
+stance_marker_count 43 = 15+15+13
+53 numbered references: the last reference at L356 begins "53. What makes Knights of the Old Republic 2" (read at L356); 61 escapes and 8659-char line from 01-profile.txt

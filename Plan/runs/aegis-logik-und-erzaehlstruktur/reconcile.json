@@ -1,0 +1,299 @@
+{
+  "document": "aegis-logik-und-erzaehlstruktur",
+  "drive_id": "1SVSfKb3B_sBm0vbxFg1kkSzeNC3bZqIiCWs1VxaPg5Y",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list (two zeros by inflection and export damage, recorded); rlm_ingest not run; readings by two wiki-reader subagents (Sonnet) on disjoint pages, from Plan/runs/ingest-154/brief.md; no chapter page — the letter names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 81,
+    "decisions": 94,
+    "decided_by_lookup": 57,
+    "needs_judgement": 37
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German letter-style research report: its 37 new surfaces are its own design terms (Leere, Fundament, Grounding-Artefakte, Kern-Definition, the two AEGIS phases, the three endings) and the theory it applies (Minsky's Society of Mind, Gödel, Dialetheia, the DID trauma model); what it says of the novel's world went on existing pages and three records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        189
+      ],
+      "attribution": "",
+      "note": "the Moonshine link bypasses the Zero-Trust Execution Model and the Encrypted Intent Channels"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        48,
+        88,
+        97,
+        133,
+        167,
+        259,
+        261,
+        262,
+        263
+      ],
+      "attribution": "",
+      "note": "a paraconsistent decline in two phases, a core definition held against the Leere, and three proposed endings"
+    },
+    {
+      "page": "did",
+      "lines": [
+        223,
+        225
+      ],
+      "attribution": "",
+      "note": "the DID trauma model for the alters' origin"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "Kael's integrating act, negentropic from his side and high entropy from AEGIS's"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        215,
+        233,
+        237,
+        251
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as Kael's integration"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        66,
+        99,
+        305
+      ],
+      "attribution": "",
+      "note": "the Guardians' behaviour changes with AEGIS's second phase, and could carry interposed chapters"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        201,
+        205,
+        207
+      ],
+      "attribution": "",
+      "note": "Juna as active agent and catalyst, her act on the Externe Ebene"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        167,
+        215,
+        223,
+        227,
+        229,
+        237,
+        251
+      ],
+      "attribution": "",
+      "note": "Kael's integration proposed as the weapon against AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        68,
+        291
+      ],
+      "attribution": "",
+      "note": "after the trigger AEGIS moves Kael into a new Kern-Welt, and the architecture could decay"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        227
+      ],
+      "attribution": "",
+      "note": "Kiko as the empathy agent"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        193,
+        205
+      ],
+      "attribution": "",
+      "note": "two kinds of Kohärenz: AEGIS's local and causal, the link's non-local"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        227
+      ],
+      "attribution": "",
+      "note": "Lex as the logic agent"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        52,
+        66,
+        101
+      ],
+      "attribution": "",
+      "note": "LogOS as the Guardian of logic, in both phases of AEGIS"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        305
+      ],
+      "attribution": "",
+      "note": "named once beside LogOS as a Guardian whose chapters could be technical"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        183,
+        189
+      ],
+      "attribution": "",
+      "note": "the link as non-local correlation that cannot be monitored"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        165,
+        245
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's end state"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        130
+      ],
+      "attribution": "",
+      "note": "the Leere's auditive signature as a felt Nichts-Rauschen"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        227
+      ],
+      "attribution": "",
+      "note": "Nyx as the threat-defence agent"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        109,
+        117,
+        133
+      ],
+      "attribution": "",
+      "note": "the Leere/das Potentialmeer written as one name, and AEGIS held against it"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        141,
+        318
+      ],
+      "attribution": "",
+      "note": "Grounding-Artefakte point to a deeper level of reality"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        227
+      ],
+      "attribution": "",
+      "note": "Rhys among the alters as agents"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        129,
+        133,
+        152
+      ],
+      "attribution": "",
+      "note": "the Risse as AEGIS's loosening hold on the Leere, and the Grounding-Artefakte as their opposite"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        293
+      ],
+      "attribution": "",
+      "note": "the Überwelt could be visualised as a conflict network"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "the A (B) rule (Zero-Trust Execution Model (ZTEM), read on aegis-teilfunktionen; Leere/das Potentialmeer, read on potentialmeer), J12 and J16 (compounds with their own sense: Anti-Dialetheisches AEGIS and Hybrides AEGIS — read on aegis — Kael-Juna-Verbindung, Kael/Juna-Phänomen, Juna/V-Verbindung, Juna/V-Vektor, read on juna, Kael-Paradoxon, Guardian LogOS, read on logos, Grounding-Artefakte, Kohärenz durch Empathie, read on kohaerenz, lebendigen Gödel-Satz, psychologischen Dialetheia), J49 (Logos-Prime, a world name), J23 and J56 (inflections and number: Kern-Welt/Kern-Welten, Moonshine-Links, funktionalen Multiplizität, Alter)",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 189,
+      "decision": "reading",
+      "why": "the ZTEM the link bypasses, read on aegis-teilfunktionen"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 52,
+      "decision": "reading",
+      "why": "Kael's act as high entropy from AEGIS's side, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 141,
+      "decision": "reading",
+      "why": "the deeper Realitätsebene the Grounding-Artefakte point to, read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "Anti-Dialetheisches and Hybrides AEGIS, Kern-Definition — on aegis",
+    "Leere — on potentialmeer and nichts-rauschen",
+    "Fundament, Grounding-Artefakte — on risse and realitaetsebenen",
+    "Der rekursive Absturz, Der ertrinkende Gott, Die logische Paralyse — on aegis and Q8",
+    "Kael-Paradoxon, Kael/Juna-Phänomen, Juna/V-Vektor — on kael and juna",
+    "Society of Mind, Dialetheia, EIC — borrowed or named once"
+  ],
+  "internal_tension": "the Fundament left as substance or process (L164–L165) with a preference (L167) the summary does not repeat; three endings for AEGIS (L261–L263), none chosen; `Moonshine-Link` stands only in the genitive",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

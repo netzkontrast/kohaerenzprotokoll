@@ -1,0 +1,257 @@
+{
+  "document": "arbeitshilfe-kapitel-2-kohaerenz-protokoll",
+  "drive_id": "1sZtSL-DqGXoCDS3hXxsnAvktVsck7b7hUrJcCoeAksI",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 48,
+  "backslash_escapes": 44,
+  "typographic_marks": 10,
+  "ascii_quotes": 76,
+  "inflection_families": {
+    "limin": [
+      "Limina",
+      "Liminal",
+      "Liminale",
+      "Liminaler",
+      "Liminality",
+      "Liminalität",
+      "Liminalitäts"
+    ],
+    "schwe": [
+      "Schwelle",
+      "Schwellencharakter",
+      "Schwellenort",
+      "Schwellenübertritt",
+      "Schwere",
+      "Schwerelosigkeit",
+      "Schwerkraft"
+    ],
+    "syste": [
+      "System",
+      "Systematik",
+      "Systementropie",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systeminteraktionen",
+      "Systems"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakteristika",
+      "Charakteristikum",
+      "Charakterkonzepten",
+      "Charakterprofilen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interior",
+      "Interiority",
+      "Internal",
+      "Interpretin"
+    ],
+    "überg": [
+      "Übergang",
+      "Übergangs",
+      "Übergangsraum",
+      "Übergangsraums",
+      "Übergangstrauma",
+      "Übergangszone"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfragmente",
+      "Datenstaub",
+      "Datenströme",
+      "Datensturm"
+    ],
+    "disso": [
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziationserfahrungen",
+      "Dissoziative",
+      "Dissoziativen"
+    ],
+    "fragm": [
+      "Fragmentarische",
+      "Fragmente",
+      "Fragmentiert",
+      "Fragmentierte",
+      "Fragmentierung"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrastiere",
+      "Kontrolle",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychologisch",
+      "Psychologische",
+      "Psychologischer"
+    ],
+    "ersch": [
+      "Erschaffung",
+      "Erscheinungen",
+      "Erschreckend",
+      "Erschöpfung"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitätsfragmentierung",
+      "Identitätsstörung"
+    ],
+    "licht": [
+      "Lichtblitze",
+      "Lichteffekte",
+      "Lichter",
+      "Lichtschein"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativer",
+      "Narratives"
+    ],
+    "senso": [
+      "Sensorik",
+      "Sensorische",
+      "Sensorischer",
+      "Sensory"
+    ],
+    "audit": [
+      "Auditiv",
+      "Auditive",
+      "Auditives"
+    ],
+    "authe": [
+      "Authenticating",
+      "Authentische",
+      "Authentizität"
+    ],
+    "besch": [
+      "Beschreibe",
+      "Beschreibung",
+      "Beschreibungen"
+    ],
+    "detai": [
+      "Detail",
+      "Detaillierungsgrad",
+      "Details"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "durch": [
+      "Durcheinander",
+      "Durchgangs",
+      "Durchsickern"
+    ],
+    "einfl": [
+      "Einfluss",
+      "Einflusses",
+      "Einflüsse"
+    ],
+    "ereig": [
+      "Ereignis",
+      "Ereignisse",
+      "Ereignissen"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfetzen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Anhaltende"
+    ],
+    [
+      "Ende",
+      "Vertiefende"
+    ],
+    [
+      "Ende",
+      "Zerfallende"
+    ],
+    [
+      "Ende",
+      "Nachwirkende"
+    ],
+    [
+      "Ende",
+      "Abschließende"
+    ],
+    [
+      "Ende",
+      "Wiederholende"
+    ],
+    [
+      "Ende",
+      "Desorientierende"
+    ],
+    [
+      "Fall",
+      "Falle"
+    ],
+    [
+      "Fall",
+      "Falls"
+    ],
+    [
+      "Fall",
+      "Fallen"
+    ],
+    [
+      "Fall",
+      "Fallens"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Fall",
+      "Zerfalls"
+    ]
+  ]
+}

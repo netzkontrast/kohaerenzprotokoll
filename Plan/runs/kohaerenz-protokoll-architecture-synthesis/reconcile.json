@@ -1,0 +1,365 @@
+{
+  "document": "kohaerenz-protokoll-architecture-synthesis",
+  "drive_id": "1EuUBRjO7rYeEEJ-6Jsxil5ZqV4eRqUqP_h0Pj0TmOHE",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-163/brief.md; no chapter page — the document names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 115,
+    "decisions": 118,
+    "decided_by_lookup": 104,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A bilingual EN/DE architecture brief of 2026-04-28 that tests the architecture axis by axis against a „Phönix-Mode inversion test“ and grades it: its 84 new surfaces are its test labels and English–German doublets (Phönix-Mode, Dual-Kernel Theory, Coherence/Erasure Kernel, K₁/K₀, Witness Function, Reader as Substrate, The Foundation, Sea of Potentiality, Paraiyas, Construct-City, Separation Protocol), the process vocabulary of its audit log (OSIRIS, Concept-as-Canon Mandate, Source-Privacy Firewall, Triple Helix), and borrowed theory and scholars; what it says of the novel's world went on 26 existing pages and three records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        27,
+        31,
+        61,
+        137,
+        155,
+        188,
+        376
+      ],
+      "attribution": "",
+      "note": "AEGIS moved from K₁ to K₀ by its inversion test"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        61,
+        69,
+        376
+      ],
+      "attribution": "",
+      "note": "the Good judgment of Storyform B"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "the Relationship Story of Storyform A"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        81,
+        202,
+        212
+      ],
+      "attribution": "",
+      "note": "Juna as Chaitin constant for AEGIS"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        131,
+        133,
+        288
+      ],
+      "attribution": "",
+      "note": "DKT as axis 1, graded Inversion Superior"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        131
+      ],
+      "attribution": "",
+      "note": "Entropie in its thermodynamic sense"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        23,
+        79,
+        81,
+        177,
+        212
+      ],
+      "attribution": "",
+      "note": "a composite of Gödel-sentence and Chaitin constant, the Moonshine-Link's provider, kept outside the simulation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        27,
+        40,
+        73,
+        99,
+        157,
+        178,
+        187,
+        373
+      ],
+      "attribution": "",
+      "note": "Kael's reality as the true K₁, by its inversion, with his role in Storyform A and the climax"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        137,
+        187
+      ],
+      "attribution": "",
+      "note": "an EP among the 11 entities, erased by AEGIS in the inversion"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        23,
+        27,
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kern (K₁) moved from AEGIS to Kael by the brief's inversion"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        27,
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kern (K₀) moved from Kael to AEGIS by the brief's inversion"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        57,
+        65
+      ],
+      "attribution": "",
+      "note": "its collapse as Storyform B's Objective Story"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        73,
+        187
+      ],
+      "attribution": "",
+      "note": "an ANP among Kael's 11 entities"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        79,
+        163,
+        169
+      ],
+      "attribution": "",
+      "note": "validated on Vertex Operator Algebra; AEGIS blind to it"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        137,
+        187
+      ],
+      "attribution": "",
+      "note": "an EP among the 11 entities, erased by AEGIS in the inversion"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        73,
+        75,
+        375
+      ],
+      "attribution": "",
+      "note": "the rendering boundary resolving into a Mosaik-Herz at the Vortex Inversion"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        27,
+        75,
+        177
+      ],
+      "attribution": "",
+      "note": "Functional Multiplicity as what Kael presents to AEGIS"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "a metaphor for AEGIS's consistency"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        137,
+        187
+      ],
+      "attribution": "",
+      "note": "an EP among the 11 entities, erased by AEGIS in the inversion"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        27,
+        43,
+        51
+      ],
+      "attribution": "",
+      "note": "Risse as Storyform A's driver, and what Kael's loops preserve across them"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        41,
+        49
+      ],
+      "attribution": "",
+      "note": "Storyform A's Influence Character"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        221
+      ],
+      "attribution": "",
+      "note": "the Archivist, named only in the audit log"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        188
+      ],
+      "attribution": "",
+      "note": "AEGIS's separation protocol in Vortex beat 2"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        31,
+        157,
+        290
+      ],
+      "attribution": "",
+      "note": "the rotation confirmed as consequence of its DKT inversion"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        139,
+        294
+      ],
+      "attribution": "",
+      "note": "Kael's dissociative loops as holographic boundaries"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        73,
+        75,
+        185,
+        189,
+        190,
+        375
+      ],
+      "attribution": "",
+      "note": "the Vortex Inversion as the plot mechanism that inverts the storyforms"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the title: Kohärenz Protokoll; Kohärenztheorie is the truth theory, not Kohärenz), the A (B) and slash rule (Selene/The Guardian and Selene/Wächterin — read on selene), J23 and J56 (inflections: Mosaik-Herzen, Funktionalen Multiplizität), J12 and J16 (compounds and qualified labels with their own sense: Dual-Kernel-Theorie, read on dkt; Kohärenz-Kern and Kollaps-Kern, read on kohaerenz-kernel and kollaps-kernel; Vortex Inversion and Wahrheits-Vortex, read on vortex)",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 42,
+      "decision": "reading",
+      "why": "Relationship Story — Kael & The Alters, read on alters"
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 131,
+      "decision": "reading",
+      "why": "the DE abstract on the physics of the DKT, read on dkt"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 131,
+      "decision": "reading",
+      "why": "thermodynamic entropy in the DE abstract, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    },
+    {
+      "page": "nichts-rauschen",
+      "surface": "Nichts-Rauschen",
+      "line": 27,
+      "decision": "reading",
+      "why": "AEGIS's consistency unmasked as self-referential Nichts-Rauschen, read on nichts-rauschen"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "AEGIS's exclusionary simulation — its claimed coherence, not the place"
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 23,
+      "decision": "reading",
+      "why": "the Vortex Inversion, read on vortex"
+    }
+  ],
+  "not_promoted": [
+    "Vesper (the Executive) — on Q3",
+    "The Gardener, The Foundation, Sea of Potentiality, the six Paraiyas — on kael",
+    "the Witness Function and its three layers — on juna and kael",
+    "LFI-Kern, Sector 04 — on vortex and aegis",
+    "Storyform A and B, Optionlock, Story Limit — Plan/storyform/ holds the storyforms",
+    "Dualitäts-Disziplin, Phönix-Mode, the truth theories — on truth-rotation and the kernel pages",
+    "Landauer heat — the physics of erasure, not the sensory rule of C11; on aegis",
+    "OSIRIS, the audit log's constraint blocks — the process, not the world",
+    "Whitehead, Husserl, Iser, Hutcheon, Aarseth, Priest, Giannakopoulos, Monstrous Moonshine, VOA, ZKP — borrowed"
+  ],
+  "internal_tension": "the audit log (L231) reports AEGIS aligned with Coherence (K₁) and Kael with Correspondence (K₀) as a contradiction in the process's input documents, where Part I places Correspondence at K₁ with Kael; the Influence Character of Storyform B is „The Paraiyas/Trauma“ (L59) and „the Paraiyas/Entropy“ (L149); the K₀ side is named Erasure Kernel (L23) and Collapse Kernel (L31)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

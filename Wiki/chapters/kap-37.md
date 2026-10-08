@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 33
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 38
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -34,6 +34,10 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - The concept with subplots titles Kapitel 37 „Die Heimreise“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L73]. It plans: „Kael navigiert die veränderte Realität. Die Welt ist nicht mehr vollständig von AEGIS kontrolliert, aber möglicherweise chaotisch oder unsicher“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L73] — a plan, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Die Heimreise
+
+- The subplot revision's chapter 37: „Die Heimreise“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L81]. Its content: „Kael navigiert veränderte Realität“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L81]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Bürde der Freiheit: Entscheidung über die Zukunft
 
 Title: the commission titles the chapter „Die Bürde der Freiheit: Entscheidung über die Zukunft“ ^[kontext-outline.md:L477], placed in Act 3. Position: `Setting` „Ort der Entscheidung; KW“ ^[kontext-outline.md:L484]
@@ -49,6 +53,10 @@ Focus: `Existenzielle Sinnfindung`, „eine bewusste Entscheidung über den zuk�
 
 - Story: „steht vor einer grundlegenden Wahl“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L306]
 - Concept: „Thematisiert existenzielle Freiheit“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L307] (concept tag: `existenzielle Freiheit` (Sartre), TSDP phase 3)
+
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage, the TSDP phobia
+
+- The strategy report keys this chapter to the TSDP phobia „Phobie vor Bindung/Bindungsverlust“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L51]; to the TSDP phobia „Phobie vor normalem Leben/Risiko/Veränderung/Intimität“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L52]; to Murdock's stage „Integration des Männlichen & Weiblichen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L124]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.4, „Die Geburt der Selene / Blick in den Abgrund“ ^[finales-kausales-plot-geruest.md:L201] (Kapitel 36–37)
 
@@ -66,6 +74,14 @@ Position: the outline plans the `Erzählperspektive` „Leser (Reflexion über A
 
 - Story: the outline plans, under `Plot`, „findet eine neue, weniger rigide Form von Kohärenz“ ^[outline.md:L250]; „um echte Emergenz statt Kontrolle zu unterstützen“ ^[outline.md:L250]
 - Question: under `Thematische Kernfrage`, „Ist selbst die Fehlfunktion einer Ordnung besser als reines Nichts?“ ^[outline.md:L252]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Der Spiegel des Anderen
+
+- The chapter overview plans Kapitel 37 as „Der Spiegel des Anderen“ ^[detaillierte-kapiteluebersicht.md:L68], in Akt IV (Ketsu). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Der Spiegel des Anderen
+
+- The final causal blueprint's chapter 37: „Der Spiegel des Anderen“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L142]. Its content: „Kael entdeckt das Fragment 'O' und steht vor seiner letzten ethischen Prüfung“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L142]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -131,6 +147,10 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Kael (Schöpfer-Perspekt
 
 - Story: the matrix plans „Kael formt die Ruinen der KWs zu einer neuen, offenen Umgebung“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L467]
 - Question: „Wie baut man eine Welt, die das Leben atmen lässt?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L466]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Das absolute Limit
+
+- The DKT synthesis's chapter 37: „Das absolute Limit“ ^[roman-synthese-mit-dual-kernel-theorie.md:L365]. Its narrative level: „Der Raum löst sich auf; nur noch“ ^[roman-synthese-mit-dual-kernel-theorie.md:L369]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

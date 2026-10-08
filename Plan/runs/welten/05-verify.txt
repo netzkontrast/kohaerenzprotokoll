@@ -1,0 +1,155 @@
+$ python3 scripts/read.py welten --count "end list"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`end list` ^[welten.md:#13]
+$ python3 scripts/read.py welten --count "Kern-Welten-Konzept"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kern-Welten-Konzept` ^[welten.md:#6]
+$ python3 scripts/read.py welten --count "Kaels"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Kaels` ^[welten.md:#9]
+$ python3 scripts/read.py welten --count "Natur"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Natur` ^[welten.md:#9]
+$ python3 scripts/read.py welten --count "Eigenschaften"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Eigenschaften` ^[welten.md:#7]
+$ python3 scripts/read.py welten --count "Blinder Fleck"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Blinder Fleck` ^[welten.md:#6]
+$ python3 scripts/read.py welten --count "Risse/Echos"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Risse/Echos` ^[welten.md:#4]
+$ python3 scripts/read.py welten --count "Vorgeschlagene Namen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vorgeschlagene Namen` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "Umfassendes Welt-Konzept"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Umfassendes Welt-Konzept` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "Aktualisierte Synthese"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Aktualisierte Synthese` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "möglicherweise"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`möglicherweise` ^[welten.md:#3]
+$ python3 scripts/read.py welten --count "Möglicherweise"
+whole word, case-sensitive     1
+whole word, case-insensitive   4
+including compounds            1
+
+`Möglicherweise` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "vielleicht"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`vielleicht` ^[welten.md:#2]
+$ python3 scripts/read.py welten --count "Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sophia` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "Digitale Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Digitale Überwelt` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "Kohärenz Protokoll"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kohärenz Protokoll` ^[welten.md:#5]
+$ python3 scripts/read.py welten --count "Das Seelen-Kohärenz-Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Seelen-Kohärenz-Protokoll` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "Potentialmeer"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Potentialmeer` ^[welten.md:#5]
+$ python3 scripts/read.py welten --count "Nexus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nexus` ^[welten.md:#2]
+$ python3 scripts/read.py welten --count "Externe Ebene"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Externe Ebene` ^[welten.md:#3]
+$ python3 scripts/read.py welten --count "KW2-4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW2-4` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "AEGIS-Protokolle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Protokolle` ^[welten.md:#1]
+$ python3 scripts/read.py welten --count "Julias"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Julias` ^[welten.md:#1]
+$ grep -c "end list" Sources/drive/welten.md
+13
+$ sed -n 1,7p Plan/runs/welten/01-profile.txt
+# welten
+  lines                128  (frontmatter ends at 9)
+  body words           1421
+  headings             0   bold-only lines 10
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    1   ascii quotes 30
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      Blinder Fleck x5, Eigenschaften x5, Risse/Echos x4, Natur x3
+  longest line         654 chars
+

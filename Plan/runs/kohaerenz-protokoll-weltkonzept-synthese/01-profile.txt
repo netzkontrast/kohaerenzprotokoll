@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-weltkonzept-synthese
+  lines                170  (frontmatter ends at 9)
+  body words           4435
+  headings             1   bold-only lines 6
+  table rows           8   code fences 0
+  question marks       11
+  backslash escapes    32
+  typographic marks    73   ascii quotes 10
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         1706 chars
+

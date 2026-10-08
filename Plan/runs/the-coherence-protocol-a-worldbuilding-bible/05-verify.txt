@@ -1,0 +1,81 @@
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Narrative Mirroring"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Narrative Mirroring` ^[the-coherence-protocol-a-worldbuilding-bible.md:#4]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Narrative Goal/Resolution"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Narrative Goal/Resolution` ^[the-coherence-protocol-a-worldbuilding-bible.md:#4]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Operational Definition"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Operational Definition` ^[the-coherence-protocol-a-worldbuilding-bible.md:#1]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "AEGIS"
+whole word, case-sensitive     37
+whole word, case-insensitive   39
+including compounds            37
+
+`AEGIS` ^[the-coherence-protocol-a-worldbuilding-bible.md:#37]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Gödel-Satz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Gödel-Satz` ^[the-coherence-protocol-a-worldbuilding-bible.md:#4]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "DKT"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DKT` ^[the-coherence-protocol-a-worldbuilding-bible.md:#1]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[the-coherence-protocol-a-worldbuilding-bible.md:#1]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt` ^[the-coherence-protocol-a-worldbuilding-bible.md:#2]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Genesis-Krise"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Genesis-Krise` ^[the-coherence-protocol-a-worldbuilding-bible.md:#2]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Trennungsprotokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Trennungsprotokoll` ^[the-coherence-protocol-a-worldbuilding-bible.md:#1]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Prehension"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Prehension` ^[the-coherence-protocol-a-worldbuilding-bible.md:#1]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Coheron"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Coheron` ^[the-coherence-protocol-a-worldbuilding-bible.md:#1]
+$ read.py the-coherence-protocol-a-worldbuilding-bible --count "Protocol"
+whole word, case-sensitive     9
+whole word, case-insensitive   19
+including compounds            10
+
+`Protocol` ^[the-coherence-protocol-a-worldbuilding-bible.md:#9]
+stance_marker_count 9 = 4 + 4 + 1 (Narrative Mirroring, Narrative Goal/Resolution, Operational Definition)
+$ grep -c '?' Sources/drive/the-coherence-protocol-a-worldbuilding-bible.md
+0

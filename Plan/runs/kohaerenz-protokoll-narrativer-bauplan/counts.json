@@ -1,0 +1,626 @@
+{
+  "document": "kohaerenz-protokoll-narrativer-bauplan",
+  "drive_id": "1bKgLtDaTOIGH5P-4zZC7hSyzlTxPUOplym048zkQinE",
+  "step": "counts",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        13,
+        22,
+        149,
+        153,
+        228,
+        236
+      ]
+    },
+    "Kael": {
+      "n": 24,
+      "n_including_compounds": 56,
+      "lines": [
+        26,
+        30,
+        34,
+        38,
+        40,
+        46,
+        50,
+        58,
+        60,
+        62,
+        64,
+        72,
+        74,
+        78,
+        80,
+        82,
+        90,
+        102,
+        112,
+        130,
+        141,
+        149,
+        168,
+        170,
+        171,
+        172,
+        173,
+        183,
+        193,
+        196,
+        206,
+        214,
+        216,
+        218,
+        228,
+        240,
+        241,
+        242,
+        243
+      ]
+    },
+    "AEGIS": {
+      "n": 43,
+      "n_including_compounds": 44,
+      "lines": [
+        26,
+        30,
+        50,
+        54,
+        58,
+        60,
+        62,
+        64,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        98,
+        100,
+        170,
+        171,
+        172,
+        191,
+        193,
+        194,
+        195,
+        216,
+        218,
+        228,
+        240
+      ]
+    },
+    "Kernwelten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        22,
+        86,
+        90,
+        171,
+        242
+      ]
+    },
+    "KW1": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        90,
+        94,
+        98,
+        100,
+        102,
+        158,
+        170,
+        242
+      ]
+    },
+    "KW2": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        74,
+        108,
+        112,
+        116,
+        158,
+        159,
+        183,
+        242
+      ]
+    },
+    "KW3": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        122,
+        126,
+        128,
+        130,
+        131,
+        159,
+        242
+      ]
+    },
+    "KW4": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        90,
+        135,
+        139,
+        141,
+        160,
+        193,
+        242
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        94,
+        98,
+        158,
+        170
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        74,
+        108,
+        112,
+        158,
+        159
+      ]
+    },
+    "Grenzfeste": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        122,
+        126,
+        159
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        135,
+        139,
+        160
+      ]
+    },
+    "Das Fundament": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        160,
+        193,
+        194,
+        195,
+        202,
+        206,
+        210,
+        214,
+        218,
+        241
+      ]
+    },
+    "Komponente 734": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        170
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Intrusionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Alters": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        40,
+        42,
+        44,
+        48,
+        74,
+        172,
+        181,
+        183,
+        228
+      ]
+    },
+    "Innenpersonen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        42
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        44,
+        50,
+        82,
+        195,
+        228
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Multiplizität": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        22,
+        26,
+        34,
+        44,
+        50,
+        80,
+        82,
+        160,
+        195,
+        218,
+        228
+      ]
+    },
+    "Monismus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        22,
+        26,
+        160,
+        218
+      ]
+    },
+    "Entropic Gatekeeper": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        64
+      ]
+    },
+    "Sein durch Abgrenzung/Nicht-Widerspruch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Inkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Nox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        173,
+        331
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Echo": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        241
+      ]
+    },
+    "Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        241
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        194
+      ]
+    },
+    "Vergessenen Schrein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Riss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "positive Absicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Ko-Bewusstheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "dreifache Helix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        145,
+        149
+      ]
+    },
+    "zyklische Struktur": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        177,
+        183,
+        198,
+        243
+      ]
+    },
+    "Herr der zwei Welten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        196
+      ]
+    },
+    "Elixier": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        195,
+        196
+      ]
+    },
+    "Gnosis": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        195,
+        214,
+        325,
+        326,
+        329
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        242
+      ]
+    },
+    "Dialetheia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        159
+      ]
+    },
+    "Dialetheismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        74,
+        268
+      ]
+    },
+    "LNC": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        74
+      ]
+    },
+    "Homöostase": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        264
+      ]
+    },
+    "parakonsistenten Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Brutalismus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        94,
+        98,
+        278,
+        279
+      ]
+    },
+    "ökologischen Sukzession": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        149,
+        158,
+        164,
+        168,
+        198
+      ]
+    },
+    "Heldenreise": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        149,
+        160,
+        168,
+        187,
+        191,
+        198,
+        322,
+        323,
+        324
+      ]
+    },
+    "Logos": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        210,
+        216,
+        328,
+        329
+      ]
+    },
+    "Polyphonie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        226,
+        337
+      ]
+    },
+    "Symmetrieprinzipien": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        218
+      ]
+    },
+    "Attempto Controlled English": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        258,
+        259,
+        260
+      ]
+    },
+    "Kompetenzparadoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Geschwindigkeitsparadoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "kontrollierten Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# romanentwurf-kohaerenz-protokoll-teil-1
+  lines                376  (frontmatter ends at 9)
+  body words           8087
+  headings             5   bold-only lines 38
+  table rows           9   code fences 0
+  question marks       72
+  backslash escapes    48
+  typographic marks    35   ascii quotes 144
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    83
+  repeated labels      Charaktere x15, Innerer Konflikt/Intrusionen (Stichworte) x15, Michaels Dominanter Zustand/Alter x15, Plot-Fortschritt (Stichwort) x15, Setting x15, Zentrale Handlung/Dialog (Kurz) x15, Kernkonzept x6, Narrative Techniken x6
+  longest line         1978 chars
+

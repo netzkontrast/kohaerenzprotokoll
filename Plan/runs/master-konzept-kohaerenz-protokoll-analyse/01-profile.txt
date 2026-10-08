@@ -1,0 +1,14 @@
+# master-konzept-kohaerenz-protokoll-analyse
+  lines                308  (frontmatter ends at 9)
+  body words           4735
+  headings             29   bold-only lines 0
+  table rows           30   code fences 0
+  question marks       16
+  backslash escapes    261
+  typographic marks    189   ascii quotes 6
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    47
+  repeated labels      Operatives Ziel x3, Physik x3, Plot x3, Psyche (Autor/Kael) x3
+  longest line         669 chars
+

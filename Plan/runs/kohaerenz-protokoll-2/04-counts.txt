@@ -1,0 +1,83 @@
+# counts for 63 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS Protokoll                   1 word     1 in   [11]
+  Seelen-Kohärenz                   1 word     1 in   [11]
+  Michael                          18 word    29 in   [17, 24, 25, 31, 33, 42]
+                                   10      as Michaels
+                                    1      as Michael-Julia
+  Julia                            14 word    21 in   [17, 24, 25, 41, 42, 43]
+                                    4      as Julias
+                                    2      as Julia-Verbindung
+  DID                              10 word    11 in   [17, 19, 24, 30, 37, 49]
+  Dissoziativen Identitätsstörung    1 word     1 in   [17]
+  Alters                            4 word     5 in   [37, 53, 129, 131, 148]
+  Kern-Alters                       1 word     1 in   [53]
+  Der Architekt                     1 word     1 in   [57]
+  Das Kind/Echo                     1 word     1 in   [58]
+  Der Wächter                       1 word     1 in   [59]
+  Der Funke                         1 word     1 in   [60]
+  Guardians                        14 word    14 in   [17, 19, 23, 42, 45, 65]
+  Wächter-Konstrukten               1 word     1 in   [17]
+  AEGIS                            20 word    28 in   [11, 17, 19, 24, 25, 31]
+                                    3      as AEGIS-Protokoll
+                                    2      as AEGIS-Systems
+                                    1      as AEGIS-System
+                                    1      as AEGIS-basierten
+  AEGIS-Protokoll                   3 word     3 in   [24, 66, 82]
+  Kernprotokoll                     1 word     1 in   [17]
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [67]
+  Entropic Gatekeeper               3 word     3 in   [24, 67, 140]
+  LogOS                             2 word     2 in   [66, 75]
+  Mnemosyne                         2 word     2 in   [66, 76]
+  Cerberus                          2 word     2 in   [66, 77]
+  Kairos                            2 word     2 in   [66, 78]
+  Sophia                            3 word     3 in   [66, 78, 103]
+  Kern-Welten                       2 word     3 in   [23, 25, 71]
+                                    1      as Kern-Welten-Konzept
+  Konstrukt-Stadt                   2 word     2 in   [57, 75]
+  Resonanz-Landschaft               2 word     2 in   [58, 76]
+  Grenzfeste                        2 word     2 in   [59, 77]
+  Möglichkeits-Garten               2 word     2 in   [60, 78]
+  Überwelt                         10 word    11 in   [17, 23, 24, 25, 66, 67]
+                                    1      as Überwelt-Zerfall
+  Externe Ebene                     4 word     4 in   [25, 65, 83, 122]
+  Entropie                         13 word    17 in   [23, 31, 40, 65, 66, 67]
+                                    1      as entropie-regulierenden
+                                    1      as entropie-fixierten
+                                    1      as Entropie-Quelle
+                                    1      as Entropie-Management
+  universal reboot                  2 word     2 in   [67, 139]
+  ZTEM                              1 word     1 in   [66]
+  EIC                               1 word     1 in   [66]
+  Nexus                             1 word     1 in   [107]
+  Kohärenz-Modulator                1 word     1 in   [105]
+  Intent-Kanal-Interface            1 word     1 in   [105]
+  Entropie-Scanner                  1 word     1 in   [105]
+  Sicherheits-Protokoll-Override    1 word     1 in   [105]
+  Funktionale Multiplizität         2 word     2 in   [37, 128]
+  Seele=Info                        2 word     2 in   [41, 93]
+  Info-Paradigma                    1 word     1 in   [119]
+  Guardian-Paradigma                1 word     1 in   [93]
+  Risse                             6 word     6 in   [82, 91, 93, 104, 118, 133]
+  Bunker                            2 word     3 in   [43, 77, 127]
+                                    1      as Bunker-Metapher
+  Scherben                          1 word     1 in   [128]
+  Mosaik                            1 word     1 in   [128]
+  Fäden/Geflecht                    1 word     1 in   [129]
+  Garten                            1 word     3 in   [60, 78, 130]  <-- substring
+  Stimmen/Chor                      1 word     1 in   [131]
+  Gelb/Leere                        1 word     1 in   [132]
+  Licht/Dunkelheit                  1 word     1 in   [134]
+  Rauschen                          1 word     1 in   [65]
+  Anomalie                          1 word     1 in   [65]
+  Entropie-Quelle                   1 word     1 in   [65]
+  Meta-Erzählers                    1 word     1 in   [151]
+  Meta-Intro                        1 word     1 in   [139]
+  Heldinnenreise                    1 word     1 in   [91]
+  Heldenreise                       1 word     1 in   [93]
+  Zero-Trust                        2 word     2 in   [43, 67]
+  Epistemologie                     1 word     1 in   [41]
+  Qualia                            1 word     1 in   [42]

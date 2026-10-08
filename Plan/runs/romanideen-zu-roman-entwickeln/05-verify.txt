@@ -1,0 +1,226 @@
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "könnte lauten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`könnte lauten` ^[romanideen-zu-roman-entwickeln.md:#2]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Zum Beispiel"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Zum Beispiel` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Kohärenz durch Ausschluss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz durch Ausschluss` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Kohärenz durch Integration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz durch Integration` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "perverse Lernschleife"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`perverse Lernschleife` ^[romanideen-zu-roman-entwickeln.md:#2]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "performative Prosa"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`performative Prosa` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Täter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Täter` ^[romanideen-zu-roman-entwickeln.md:#0]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "P vs. NP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`P vs. NP` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Kaels"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Kaels` ^[romanideen-zu-roman-entwickeln.md:#16]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "ANPs"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`ANPs` ^[romanideen-zu-roman-entwickeln.md:#3]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "EPs"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`EPs` ^[romanideen-zu-roman-entwickeln.md:#3]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Kikos"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kikos` ^[romanideen-zu-roman-entwickeln.md:#3]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Altern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Altern` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Alters"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Alters` ^[romanideen-zu-roman-entwickeln.md:#8]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Coherence Protocol"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Coherence Protocol` ^[romanideen-zu-roman-entwickeln.md:#5]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Lex"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Lex` ^[romanideen-zu-roman-entwickeln.md:#11]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Nyx"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Nyx` ^[romanideen-zu-roman-entwickeln.md:#8]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Kiko"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Kiko` ^[romanideen-zu-roman-entwickeln.md:#5]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Index"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Index` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Nox"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nox` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Echo"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Echo` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[romanideen-zu-roman-entwickeln.md:#2]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "KW2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW2` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "KW3"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW3` ^[romanideen-zu-roman-entwickeln.md:#2]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt` ^[romanideen-zu-roman-entwickeln.md:#2]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Kernaxiom"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernaxiom` ^[romanideen-zu-roman-entwickeln.md:#2]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "TSDP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`TSDP` ^[romanideen-zu-roman-entwickeln.md:#3]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Autopoiesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autopoiesis` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Riss` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "IIT"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`IIT` ^[romanideen-zu-roman-entwickeln.md:#2]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Zombie-System"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zombie-System` ^[romanideen-zu-roman-entwickeln.md:#2]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Integrierten Informationstheorie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Integrierten Informationstheorie` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "System Kael"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`System Kael` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Konstrukt-Stadt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Stadt` ^[romanideen-zu-roman-entwickeln.md:#1]
+$ python3 scripts/read.py romanideen-zu-roman-entwickeln --count "Logos-Prime"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Logos-Prime` ^[romanideen-zu-roman-entwickeln.md:#1]
+
+$ python3 scripts/profile.py romanideen-zu-roman-entwickeln | grep -E "backslash|glued|question"
+  question marks       0
+  backslash escapes    92
+  glued ref numbers    9
+$ grep -c "^[0-9]*\. " reference lines (L169-L178)
+10
+$ grep -c "<!-- end list -->"
+2
+# candidates counted: 74 (04-counts.txt header); Kael 34-18=16 = Kaels 16; Alter 12-3=9 = Alters 8 + Altern 1

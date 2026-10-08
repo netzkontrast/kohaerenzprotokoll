@@ -1,0 +1,608 @@
+{
+  "document": "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1",
+  "step": "reconcile-pre",
+  "at": "2026-10-07",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-07",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 97,
+  "decisions": 101,
+  "same_surface": {},
+  "decided_mechanically": 78,
+  "needs_judgement": 23,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 169
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 156
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 69
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 111
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 59
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 165
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 114
+      },
+      {
+        "candidate": "Entropic Gatekeeper",
+        "page": "aegis",
+        "readings": 165
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 129
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 104
+      },
+      {
+        "candidate": "Glitches",
+        "page": "risse",
+        "readings": 129
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 103
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 125
+      },
+      {
+        "candidate": "Dissoziative Identitätsstruktur",
+        "page": "did",
+        "readings": 54
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 54
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Chronos"
+      },
+      {
+        "candidate": "Schattenkind"
+      },
+      {
+        "candidate": "Sibyl"
+      },
+      {
+        "candidate": "Einheit 734"
+      },
+      {
+        "candidate": "Anya"
+      },
+      {
+        "candidate": "Reboot"
+      },
+      {
+        "candidate": "Basisrealität"
+      },
+      {
+        "candidate": "Mentale Ebene"
+      },
+      {
+        "candidate": "Informations-Ebene"
+      },
+      {
+        "candidate": "Unterbewusste Ebene"
+      },
+      {
+        "candidate": "Kreativ-Konstruktive Ebene"
+      },
+      {
+        "candidate": "Externe Schnittstelle"
+      },
+      {
+        "candidate": "Externen Realität"
+      },
+      {
+        "candidate": "Ebene 0"
+      },
+      {
+        "candidate": "Ebene 1"
+      },
+      {
+        "candidate": "Ebene 2"
+      },
+      {
+        "candidate": "Ebene 3"
+      },
+      {
+        "candidate": "Ebene 4"
+      },
+      {
+        "candidate": "Ebene 5"
+      },
+      {
+        "candidate": "Ebene 6"
+      },
+      {
+        "candidate": "Threshold Zone"
+      },
+      {
+        "candidate": "Übergangszone"
+      },
+      {
+        "candidate": "Chaos-Zone"
+      },
+      {
+        "candidate": "Innerer Konferenzraum"
+      },
+      {
+        "candidate": "Innere Rat"
+      },
+      {
+        "candidate": "Abgrund der Ängste"
+      },
+      {
+        "candidate": "Garten der Möglichkeiten"
+      },
+      {
+        "candidate": "Atelier des Geistes"
+      },
+      {
+        "candidate": "Garten der verlorenen Momente"
+      },
+      {
+        "candidate": "Sektor Gamma"
+      },
+      {
+        "candidate": "Sektor Delta"
+      },
+      {
+        "candidate": "Sektor Beta"
+      },
+      {
+        "candidate": "Sektor Alpha"
+      },
+      {
+        "candidate": "Verlorenes Kind"
+      },
+      {
+        "candidate": "Verlorenen Kind"
+      },
+      {
+        "candidate": "Grenzwärter"
+      },
+      {
+        "candidate": "Grenzwächter-Entitäten"
+      },
+      {
+        "candidate": "Archivar"
+      },
+      {
+        "candidate": "Skeptiker"
+      },
+      {
+        "candidate": "Muse"
+      },
+      {
+        "candidate": "Orakel"
+      },
+      {
+        "candidate": "Switching"
+      },
+      {
+        "candidate": "Derealisation"
+      },
+      {
+        "candidate": "HJ-Stufe"
+      },
+      {
+        "candidate": "A1-Thema"
+      },
+      {
+        "candidate": "Überarbeitete Plot-Zusammenfassung"
+      },
+      {
+        "candidate": "Lokalitätsnutzung"
+      },
+      {
+        "candidate": "Inneres Erleben"
+      },
+      {
+        "candidate": "Plot-Fortschritt"
+      },
+      {
+        "candidate": "DID-Darstellung"
+      },
+      {
+        "candidate": "Dialog-Fokus"
+      },
+      {
+        "candidate": "Metaphern-Einsatz"
+      },
+      {
+        "candidate": "Pacing & Spannung"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "Character Integration Matrix"
+      },
+      {
+        "candidate": "Location Activation Summary"
+      },
+      {
+        "candidate": "Sensorische Palette"
+      },
+      {
+        "candidate": "Spannungsbogen"
+      },
+      {
+        "candidate": "Lokalitäten"
+      },
+      {
+        "candidate": "Stakes"
+      },
+      {
+        "candidate": "Heldereise"
+      },
+      {
+        "candidate": "Ruf zum Abenteuer"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Limina  /  Serene Garden of Limina",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Kontrollebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS Hub",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Datenriss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropie-Knotenpunkt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alters  /  Alter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welten  /  Primäre Kern-Welt(en)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne-Archive  /  Mnemosyne-Archiven",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Spiegelscherben-Korridor  /  Spiegel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Therapie-Subplot  /  Therapie-Subplot Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Kontrollebene",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitching Market",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Nexus of Whispers",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nexus",
+            "page": "nexus"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archive",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archiven",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Knotenpunkt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS Hub",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Primäre Kern-Welt(en)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kernwelten",
+            "page": "kern-welten"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 58,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 35,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 23,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

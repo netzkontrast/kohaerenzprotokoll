@@ -1,0 +1,91 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            40 word    40 in   [24, 26, 38, 42, 60, 66]
+  Kael                             11 word    23 in   [26, 40, 42, 60, 62, 71]  <-- substring
+                                   12      as Kaels
+  Juna/V                            4 word     4 in   [94, 96, 137, 216]
+  Juna                              5 word     7 in   [94, 96, 103, 104, 137, 216]
+                                    2      as Junas
+  Nyx                               7 word     7 in   [203, 204, 214, 216, 217, 218]
+  Kiko                              2 word     3 in   [199, 203, 257]
+                                    1      as Kikos
+  Lex                               5 word     6 in   [199, 203, 204, 258]
+  Selene                            2 word     2 in   [217, 259]
+  Guardians                         2 word     2 in   [172]
+  Guardian                          1 word     3 in   [151, 172]  <-- substring
+                                    2      as Guardians
+  Das Fundament                     7 word     7 in   [24, 60, 62, 71, 110, 180]
+  Das Nichts Rauschen               4 word     4 in   [24, 79, 111, 180]
+  Die Leere                         2 word     2 in   [24, 111]
+  Die Verbindung                    2 word     2 in   [94, 112]
+  Moonshine-Link                    4 word     4 in   [24, 90, 112, 137]
+  seltsamer Attraktor               4 word     4 in   [24, 56, 62]
+  Seltsamer Attraktor               1 word     1 in   [110]
+  Anziehungsbecken                  1 word     1 in   [62]
+  Potentialmeer                     1 word     1 in   [79]
+  informationale Leere              1 word     1 in   [83]
+  peripherer Entropie               1 word     1 in   [83]
+  akusmatischer Harmonie            1 word     1 in   [69]
+  Gnosis                            4 word     4 in   [70, 105, 149, 155]
+  episteme                          1 word     1 in   [71]
+  synästhetische Resonanz           1 word     1 in   [24]
+  Synästhetische Resonanz           2 word     2 in   [103, 112]
+  Geteilte Qualia                   2 word     2 in   [104, 112]
+  ontologischer Exploit             1 word     1 in   [94]
+  architektonische Hintertür        1 word     1 in   [94]
+  Kernkonzept                       9 word     9 in   [60, 79, 94, 128, 149, 165]
+  funktionalen Multiplizität        5 word     5 in   [28, 62, 64, 128, 188]
+  Polyphone Prosa                   1 word     1 in   [184]
+  polyphone Prosa                   1 word     1 in   [28]
+  positive Absicht                  4 word     4 in   [40, 208, 212, 216]
+  lebender Gödel-Satz               2 word     2 in   [42, 128]
+  Algorithmische Melancholie        2 word     2 in   [145, 155]
+  algorithmischer Melancholie       1 word     1 in   [26]
+  Algorithmic Horror                3 word     3 in   [26, 161, 165]
+  Epistemologische Isolation        1 word     1 in   [153]
+  Ineffiziente Schönheit            1 word     1 in   [151]
+  Zombie-System                     1 word     1 in   [155]
+  Konsistenzmetriken                1 word     1 in   [172]
+  Axiommodifikationen               1 word     1 in   [170]
+  dialetheischer Geist              1 word     1 in   [134]
+  Paraiyas                          1 word     1 in   [60]
+  Anscheinend Normalen Anteils      1 word     1 in   [180]
+  Emotionalen Anteil                1 word     1 in   [180]
+  ANP                               5 word     5 in   [180, 255, 258]
+  EP                                4 word     4 in   [180, 256, 257]
+  ISH/Torwächter                    1 word     1 in   [259]
+  Torwächter                        1 word     1 in   [259]
+  Verfolger                         1 word     4 in   [208, 212, 216]  <-- substring
+                                    2      as Verfolgers
+                                    1      as Verfolger-Anteile
+  Verfolgers                        2 word     2 in   [208, 212]
+  Host                              2 word     4 in   [198, 216, 255]
+                                    2      as Hosts
+  Kohärenz Protokoll                9 word     9 in   [13, 22, 267, 273, 277, 279]
+  Kohärenz-Philosophie              1 word     1 in   [120]
+  TSDP                              2 word     3 in   [28, 40, 254]
+                                    1      as TSDP-Klassifikation
+  Depersonalisation                 2 word     2 in   [28, 230]
+  Derealisation                     2 word     2 in   [28, 238]
+  Strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [28, 40]
+  Internal Family Systems           1 word     1 in   [40]
+  Logik der Formalen Inkonsistenz    1 word     1 in   [139]
+  parakonsistenter Logik            2 word     2 in   [26, 151]
+  Autopoiesis                       1 word     1 in   [38]
+  Gödels Erster Unvollständigkeitssatz    1 word     1 in   [132]
+  Quantenverschränkung              2 word     2 in   [24, 96]
+  Prehension                        3 word     3 in   [24, 97]
+  Environmental Storytelling        1 word     1 in   [180]
+  Deus ex Machina                   2 word     2 in   [24, 62]
+  Whitehead                         4 word     6 in   [24, 40, 97, 359, 432, 433]
+                                    2      as Whiteheads
+  Deleuze                           1 word     1 in   [40]
+  Bachtin                           1 word     2 in   [42, 192]
+                                    1      as Bachtins
+  Polyphonie                        1 word     1 in   [42]
+  Unheimlichen Tal                  1 word     1 in   [165]
+  Glitch Art                        1 word     1 in   [165]
+  Analog Horror                     5 word     5 in   [165, 387, 389, 409, 447]

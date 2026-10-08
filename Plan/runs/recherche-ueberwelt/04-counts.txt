@@ -1,0 +1,67 @@
+# counts for 54 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Autonomous Entity for Gatekeeping, Integration, and Self-Validation
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Überwelt                         29 word    30 in   [11, 13, 17, 73, 97, 99]
+  AEGIS                            23 word    31 in   [15, 17, 19, 21, 22, 32]
+                                    4      as AEGIS-Protokoll
+                                    1      as AEGIS-Protokollverletzungen
+                                    1      as AEGIS-basierten
+                                    1      as AEGIS-Funktionen
+  AEGIS Functional Protocol         1 word     1 in   [19]
+  System Identity Layer             1 word     1 in   [21]
+  Zero-Trust Execution Model (ZTEM)    1 word     1 in   [22]
+  Zero-Trust Execution Model        1 word     1 in   [22]
+  ZTEM                              3 word     3 in   [22, 83, 94]
+  Zero-Trust-Modell                 2 word     2 in   [22, 135]
+  Real-time self-verification (RTSV)    1 word     1 in   [26]
+  RTSV                              1 word     1 in   [26]
+  Behavioral Proof-of-Function (BPoF)    1 word     1 in   [27]
+  BPoF                              1 word     1 in   [27]
+  Encrypted Intent Channels (EIC)    1 word     1 in   [28]
+  EIC                               2 word     2 in   [28, 83]
+  Role in System Topology           1 word     1 in   [32]
+  Integrity Guardian                2 word     2 in   [36, 86]
+  Cognitive Firewall                3 word     3 in   [37, 86, 125]
+  Consensus Enforcer                2 word     2 in   [38, 86]
+  Ontologische Positionierung       1 word     1 in   [42]
+  Existenzbegriff durch Wirksamkeit    1 word     1 in   [42]
+  Self-Verification Interface (SVI)    1 word     1 in   [43]
+  SVI                               1 word     1 in   [43]
+  Logische Konsistenzanalyse (LCA)    1 word     1 in   [47]
+  LCA                               1 word     1 in   [47]
+  Redundanzfreie Informationskapselung (RIK)    1 word     1 in   [48]
+  RIK                               1 word     1 in   [48]
+  Dynamic Role Instancing (DRI)     1 word     1 in   [49]
+  DRI                               1 word     1 in   [49]
+  Failover & Recovery               1 word     1 in   [53]
+  Secure Isolation State (SIS)      2 word     2 in   [53, 125]
+  SIS                               3 word     3 in   [53, 125, 143]
+  External Interface Constraints    1 word     1 in   [54]
+  Autoverifikation                  1 word     1 in   [66]
+  Rekursionssperre                  1 word     1 in   [66]
+  Nicht-Adressierbarkeit            2 word     2 in   [66, 83]
+  Nullantwortparadigma              1 word     1 in   [67]
+  Regelverletzungsschranke          1 word     1 in   [68]
+  Rekursive Signatur                1 word     1 in   [69]
+  Guardians                        17 word    17 in   [13, 71, 85, 86, 107, 115]
+  Guardian-Konstrukte               1 word     1 in   [73]
+  Guardian-Interface-Protokolle     2 word     2 in   [81, 168]
+  LogOS                             5 word     5 in   [75, 85, 115, 134, 188]
+  Mnemosyne                         4 word     4 in   [76, 115, 134, 188]
+  Cerberus                          4 word     4 in   [77, 85, 134, 188]
+  Kairos                            3 word     3 in   [78, 134, 188]
+  Sophia                            3 word     3 in   [79, 134, 188]
+  Kern-Welten                       3 word     3 in   [152, 188, 194]
+  Externen Ebene                    3 word     3 in   [157, 161, 195]
+  Externe Ebene                     1 word     1 in   [195]
+  Risse                             3 word     4 in   [139, 143, 170, 192]
+                                    1      as Rissen
+  Michael                           4 word    10 in   [188, 192, 193, 194, 197]  <-- substring
+                                    6      as Michaels
+  Julia                             3 word     4 in   [188, 194, 195, 197]
+                                    1      as Julia-Verbindung
+  Programm                          1 word     1 in   [188]
+  DID                               1 word     1 in   [188]

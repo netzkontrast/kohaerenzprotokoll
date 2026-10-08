@@ -102,3 +102,43 @@ Stands as a male Kael in a codex of 2026-01-02 that calls itself canonical; its 
 It claims: „anchored in the male host, Kael“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L19], and „It is hereby canonized that the central protagonist of“ ^[project-coherence-protocol-a-canon-of-core-identity-and-anta.md:L23] the story is the male host known as Kael. The document dates 2025-11-03 and names no author.
 
 Stands as a canonizing claim of this document, recorded and not applied; the record's rows are not changed.
+
+## 2026-10-06 — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report
+
+**The contradiction report lists Kael's name and gender as its first contradiction between sources, and recommends deciding one identity.**
+
+It reports that `Strukturelle Dissoziation: System Kael Analyse` has `Kael (ehem. Michael)`, that „The majority of documents use male pronouns when referring to Kael“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L112], that `AEGIS-Logik und narrative Implikationen` „uses female pronouns“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L112], and that `Dialetheismus im Kohärenz Protokoll` has `Kael/Julia`. It judges this „a major contradiction“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L112]. Its recommendation, not applied: „It is imperative to make a definitive decision regarding Kael's canonical name“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L125], and that „It is recommended that one version be chosen and that all source documents be systematically updated to reflect this single version of truth“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L125].
+
+Stands as a report of 2025-11-03 that names the question and recommends a decision; its own account of other sources, recorded, not applied, and it settles nothing in the record.
+
+## 2026-10-07 — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report
+
+**The strategy report writes Kael with female pronouns and frames the arc with Murdock's Heroine's Journey.**
+
+Its pronouns are kept here in quotation: the aim of its first section is to foster empathy „für ihre dissoziative Erfahrung“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L33]; the vulnerability passage speaks of „Ihr fragmentiertes Selbstgefühl“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L98]; and the chapter on identity says „Ihre existenzielle Krise“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L166]. The strategy report applies to this arc Murdock's model, which it describes as one that addresses „speziell die psycho-spirituelle Reise von Frauen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L106], and it maps the stages to Kael's chapters.
+
+Stands as a new row on the female side of C17, in the report's own words; recorded, not applied, and the record is not decided.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis decides that Kael, as the primary ANP, uses male pronouns by default, and that Julia is deprecated as a primary name.**
+
+It reports that the documents it read vary between Kael and the host names Michael or Julia, and then sets: „He uses male pronouns (He/Him) as the default interface“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L131]. On the second host name it decides that „should be deprecated as a primary name“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L133], replaced by Nyx and Kiko.
+
+Stands as one more row for the gender question, Kael male by default in the report's proposed hierarchy; recorded, not applied.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic, an English proposal, names the contradiction over Kael's name and gender in its source documents and settles it for its own blueprint: Kael, male pronouns.**
+
+In its note on canonical identity (L34) it says that developmental source documents „present a contradiction regarding the protagonist's name and gender“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34], and gives the two poles as „Kael (ehem. Michael)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34] and „Kael/Julia“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34]. Its settlement: „For the purpose of narrative consistency, this blueprint establishes the protagonist as Kael, using male pronouns“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L34]. In its stories Kael is a male host, for instance „Kael (ANP Host)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L67] in Story 1.
+
+Stands as one more position in the record: a proposal of 2025-11-03 that names the difference and settles it for itself; recorded, not applied.
+
+## 2026-10-07 — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier
+
+**The development dossier writes Kael as a man and does not name the question.**
+
+Its labelled core sentence is „die Reise eines fragmentierten Mannes, Kael“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L54]; the sentence goes on to call him the one whom AEGIS made in the image of its own trauma. The dossier does not remark on a gender or on any other family of documents writing it otherwise.
+
+Where it stands: a male Kael in a planning dossier, to be entered beside the existing rows of C17, which stays open.

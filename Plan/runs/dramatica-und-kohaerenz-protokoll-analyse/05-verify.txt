@@ -1,0 +1,61 @@
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Konzept & Design"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Konzept & Design` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#4]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Systemische Evaluation"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Systemische Evaluation` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#4]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Die epistemologische Leitfrage"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Die epistemologische Leitfrage` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#3]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Die Hypothese lautet"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Die Hypothese lautet` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#2]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Crucial Element"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Crucial Element` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#1]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Foundation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Foundation` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#1]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Z-Buffer"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Z-Buffer` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#0]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Z-Buffer-Struktur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Z-Buffer-Struktur` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#1]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "DKT"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`DKT` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#2]
+$ python3 scripts/read.py dramatica-und-kohaerenz-protokoll-analyse --count "Dual Kernel Theory"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Dual Kernel Theory` ^[dramatica-und-kohaerenz-protokoll-analyse.md:#4]
+stance_marker_count = 4 + 4 + 3 + 2 = 13 (Konzept & Design, Systemische Evaluation, Die epistemologische Leitfrage, Die Hypothese lautet)

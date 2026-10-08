@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-2
+  lines                154  (frontmatter ends at 9)
+  body words           1717
+  headings             0   bold-only lines 10
+  table rows           0   code fences 0
+  question marks       5
+  backslash escapes    0
+  typographic marks    3   ascii quotes 56
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    11
+  repeated labels      none
+  longest line         776 chars
+

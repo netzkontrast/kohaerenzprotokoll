@@ -1,0 +1,14 @@
+# ki-roman-architektur-kritische-analyse-methoden
+  lines                228  (frontmatter ends at 9)
+  body words           5806
+  headings             26   bold-only lines 0
+  table rows           29   code fences 0
+  question marks       11
+  backslash escapes    154
+  typographic marks    17   ascii quotes 88
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    28
+  repeated labels      none
+  longest line         1453 chars
+

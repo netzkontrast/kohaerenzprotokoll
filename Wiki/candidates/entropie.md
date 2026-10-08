@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 85
-readings: 85
+sources: 115
+readings: 115
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "flow-zustaende-und-dissoziative-identitaet", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "subplot-entwicklung-fuer-romanstruktur", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "roman-plot-entwicklung-und-kohaerenz-analyse", "charakterkonzepte-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plotideen-generierung"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "flow-zustaende-und-dissoziative-identitaet", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "subplot-entwicklung-fuer-romanstruktur", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "roman-plot-entwicklung-und-kohaerenz-analyse", "charakterkonzepte-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plotideen-generierung", "digitale-uberwelt-konzept-und-gestaltung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-architecture-synthesis", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "kohaerenz-analyse-kapitel-2", "narrativ", "kohaerenz-protokoll-narrative-synthese", "romanarchitektur-kohaerenz-protokoll-finalisierung", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "master-konzept-kohaerenz-protokoll-analyse", "analyse-des-kohaerenz-protokolls", "aegis", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "dramatica-und-kohaerenz-protokoll-analyse", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "romanentwurf-kohaerenz-protokoll-teil-1", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "ki-roman-architektur-kritische-analyse-methoden", "charaktermodellierung-mit-aieos-schema", "analyse-des-romanprojekts-kohaerenz-protokoll", "narrative-kernentwicklung-aegis-und-system-kael", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-16"
 ---
 
@@ -52,6 +52,10 @@ The project's own working sense of `Entropie`, on the date the term became its
 organising principle. This is the sharpest `MISSING` in the corpus so far: not a
 term nobody wrote about, but the term everything else is defined against.
 
+## Reading — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept — the principle AEGIS regulates, in each world and in Julia's reading
+
+The April 2025 concept describes the Kernkonzept as setting human experience against „entropie-fixierten System“ ^[kohaerenz-protokoll-2.md:L19]. As a theme: „Der Kampf von AEGIS um Systemintegrität gegen inhärenten Zerfall und wahrgenommene Störungen.“ ^[kohaerenz-protokoll-2.md:L40] and „Die Natur digitaler und psychischer Entropie.“ ^[kohaerenz-protokoll-2.md:L40] AEGIS's task is „Seine Aufgabe ist die aktive Regulation von Entropie zur Wahrung der Systemintegrität und Kohärenz.“ ^[kohaerenz-protokoll-2.md:L67] In the four worlds: „Entropie manifestiert sich hier als psychisches Chaos, Glitches, Realitätsverzerrungen.“ ^[kohaerenz-protokoll-2.md:L71]; the Konstrukt-Stadt has „Logische Paradoxien, Systemfehler, Regelbrüche.“ ^[kohaerenz-protokoll-2.md:L75] Julia's link might be read by the system as „Entropie-Quelle“ ^[kohaerenz-protokoll-2.md:L65], with a question mark in the text. The metaphor list ends with „Grundlegendes Prinzip des Chaos/Zerfalls, das AEGIS bekämpft.“ ^[kohaerenz-protokoll-2.md:L135]
+
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — Entropie as AEGIS's reading of Kael's integrated state, a proposed tragic irony
 
 The Teil-1 plot proposes in Kap 12 that „AEGIS registriert Kaels integrierten Zustand als massiven, gefährlichen Entropie-Anstieg“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L263]. The alarm reads his state as „ein komplexer, unvorhersehbarer Zustand, der seinen Ordnungsparametern widerspricht = maximale Entropie/Gefahr“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L270]. The synthesis calls this the core conflict for the continuation: „seine beginnende psychische Integration vom System als maximale Entropie fehlinterpretiert wird“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L358].
@@ -71,6 +75,16 @@ The place profiles name Entropie in the pair of themes „Kernthemen des Romans 
 ## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18, the character concepts — entropy as AEGIS's target and Juna's supposed source
 
 The character concepts describe AEGIS as organised around entropy: its core programming is „die aktive Minimierung und Kontrolle von Entropie“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L118], understood as disorder, chaos, randomness and loss of information. Its binary worldview sets order against chaos in entropy terms (L127), and Juna is held to be „eine Quelle unkontrollierbarer Entropie und Instabilität“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L86] from AEGIS's side. As a theme, Kael embodies „den Konflikt zwischen Ordnung und Entropie“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L67].
+
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — entropy as something the places should show, and AEGIS's brutal containment of it
+
+The part-1 plot concept pairs `Entropie` with the Risse as the thing the places should make tangible: the earlier draft misses a chance „den systemischen Verfall (Risse/Entropie) auf greifbare, sensorische Weise zu externalisieren“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L39] It does not define entropy. Every chapter has a field headed `Risse/Entropie/AEGIS`.
+
+In the escalation chapter the field says AEGIS „versucht die Entropie einzudämmen, aber mit brutalen Mitteln.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L484] For the last chapters it plans „Der Höhepunkt der Entropie-Manifestation.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L559], and AEGIS „AEGIS agiert hier am Limit seiner Kontrollfähigkeiten, zeigt möglicherweise neue, verzweifelte Maßnahmen.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L559]
+
+## Reading — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft — entropy as what the city suppresses after the reboot
+
+`Entropie` stands once in the chapter-1 draft, an unsigned working draft, in its research part. There the city is proposed as a space of rationality and order that „aktiv Chaos und Entropie unterdrückt“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L21], after the reboot. Entropy is paired with chaos and is the thing kept out of the city; the draft gives it no definition and ties it to no system.
 
 ## Reading — `aegis-emergenz-aus-der-leere`, 2025-04-19
 
@@ -153,17 +167,55 @@ profile field name the document repeats seventeen times —
 `Negentropie` does not occur. Neither does any account of where entropy comes
 from, what raises it, or what the numbers on the monitor are measured in.
 
+## Reading — `welten`, 2025-04-20, the world-concept reply — AEGIS's aim of excluding incoherence and entropy
+
+The world-concept reply gives AEGIS's goal as „Maximierung und Aufrechterhaltung systemischer Kohärenz durch rigorose Grenzziehung“ ^[welten.md:L44], by control and „Ausschluss von Inkohärenz/Entropie“ ^[welten.md:L44]. Of the Kael-Julia connection it says AEGIS misreads it „als maximale Bedrohung (Entropie-Katastrophe) fehlinterpretiert“ ^[welten.md:L46].
+
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — entropy as information-theoretic contrast between the Potentialmeer and AEGIS's order
 
 The Plotanalyse takes entropy from information theory, and its matrix row reads: „Zustand des Potentialmeers (hoch); AEGIS' Streben nach Ordnung/Kohärenz (niedrig)“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L52] If the Potentialmeer is an informational field, the report reads AEGIS as a pattern fighting entropy: „Dann wäre AEGIS ein komplexes Informationsmuster, das gegen informationelle Entropie (Rauschen, Zerfall) kämpft“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L114] And, summarising: „steht im Kontrast zu AEGIS' Streben nach Ordnung und M's komplexer, aber stabiler Struktur“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L115]
+
+## Reading — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept — entropy as the Potentialmeer's property and AEGIS's name for what it cannot hold
+
+The final world concept lists „extrem hohe Entropie“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L21] among the Potentialmeer's properties (L21). AEGIS perceives the sea „als Chaos, Entropie und Nicht-Existenz“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L46] (L46), and classifies the Kohärenz-Insel / Kael-Juna-Verbindung, hedged with `wahrscheinlich`, as „eine Form von Entropie“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L48] (L48). Kael's nature and his link to Juna make him „einer Quelle unvorhersehbaren“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L81] noise or entropy within AEGIS's ordered system (L81). In the last two places the word is AEGIS's label for what it cannot grasp; the document states that label as AEGIS's perception. Recorded, not applied.
+
+## Reading — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint — entropy as AEGIS's name for the Kael-Juna connection
+
+The plot blueprint proposes that AEGIS reads the Kael-Juna connection as entropy: in Act 2 it becomes for AEGIS an alarming factor „als maximale Bedrohung und Entropie interpretiert wird“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L26], and in the systemic crisis it is classed as „ultimatives Entropie-Ereignis“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L72] by AEGIS. The word stands as AEGIS's classification, not as the blueprint's own physics. Recorded as a proposal, not applied.
+
+## Reading — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint — entropy as what AEGIS reads in the connection, and as what it aims to reduce
+
+The detailed plot blueprint uses `Entropie` as AEGIS's measure of threat. Seen through information theory, Kael and the K-J-Verbindung appear to AEGIS as „eine Erhöhung der Entropie, die AEGIS als Bedrohung seiner eigenen operationalen Geschlossenheit und systemischen Stabilität interpretiert“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L66].
+
+In the comparison table, AEGIS's goal is „Stabilität durch Kontrolle, Reduktion von Komplexität/Entropie“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L129]. The document does not define entropy; it applies the word.
 
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — entropy as maximal possibility
 
 The plot-idea synthesis describes the Potentialmeer as „charakterisiert durch informationelles Chaos und maximale Entropie – hier im Sinne maximaler Möglichkeit“ ^[kohaerenz-protokoll-plotideen-generierung.md:L19]: entropy here means possibility, not decay.
 
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — entropy as possibility in the sea, as incoherence in AEGIS's eyes
+
+The concept extraction gives the sea „maximale Entropie im Sinne von Möglichkeit“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L19], and explains elsewhere: „maximale Entropie (verstanden als maximale Möglichkeit oder Unbestimmtheit)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L28]. AEGIS reads the K-J connection otherwise, as „als Inkohärenz oder Entropie, die es zu eliminieren gilt“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L180].
+
+## Reading — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis — entropy inside AEGIS's definition of coherence
+
+The concept synthesis defines AEGIS's coherence as „interne Konsistenz, Stabilität, geringe informationelle Entropie“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L16]: low informational entropy is one of three parts of what AEGIS maximises. In the list of themes, section V opens with „Kohärenz vs. Entropie“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L46], one pair among others, with no further explanation.
+
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Entropie in the Überwelt as management and as counterforce
 
 The Überwelt's focus includes `Entropie-Management` (section 5, core), and its laws end: „Entropie als fundamentale Gegenkraft.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L120] For the Externe Ebene the concept writes: „Entropie/Risse im AEGIS-Sinn nicht anwendbar.“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L144]
+
+## Reading — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list — entropy management as a core function of AEGIS, asked as questions
+
+The hundred concepts list proposes `Entropie-Management (AEGIS)` and gives as reason „Kernfunktion von AEGIS; wie misst und bekämpft es Entropie?“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L56]. The reason is half statement, half question: the list calls it a core function and asks how AEGIS measures and fights entropy, and, in a second question, how entropy shows itself (it names the Risse in quotation marks). It answers neither question.
+
+## Reading — `roman-konzept-kael-aegis-simulation`, 2025-05-01, the simulation concept — entropy as information-theoretic uncertainty, managed by AEGIS and a source of its central paradox
+
+The simulation concept defines entropy by information theory and says what it is not: „Seine Kernfunktion ist das Management von Entropie“ ^[roman-konzept-kael-aegis-simulation.md:L22] — „verstanden nicht nur als Zerfall“ ^[roman-konzept-kael-aegis-simulation.md:L22], but as „als Maß für Unsicherheit, Komplexität, Zufälligkeit oder Abweichung innerhalb eines Systems“ ^[roman-konzept-kael-aegis-simulation.md:L22]. It names this its „Hard-Science-Fiction-Basis“ ^[roman-konzept-kael-aegis-simulation.md:L29].
+
+In part 2 it raises the consequence as a question it calls fundamental: Kael, through his integration, is, in its words, one who „stellt aus AEGIS' Sicht eine zunehmende Quelle unerwünschter Entropie dar“ ^[roman-konzept-kael-aegis-simulation.md:L121]. The paradox it proposes: „Um die Simulation zu schützen, muss AEGIS möglicherweise genau die Prozesse unterdrücken, die sie lebendig, bedeutungsvoll oder anpassungsfähig machen“ ^[roman-konzept-kael-aegis-simulation.md:L121].
+
+For the resolution it proposes a different handling of entropy: „eine dynamische Form des Entropie-Managements statt rigider Unterdrückung“ ^[roman-konzept-kael-aegis-simulation.md:L197], put as a question about a new protocol.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — entropy as the central organising principle
 
@@ -205,15 +257,41 @@ Two lines. In the first pass the Überwelt's rules are defined by information th
 
 The system plan does not define `Entropie`. It names the Leere as a „offener Entropieraum“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L203] (L203), and says its subtle manifestations in AEGIS's simulation are „Einbrüche der zugrunde liegenden Entropie“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L208], against which AEGIS „ständig ankämpft“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L208]. Entropy appears here as an underlying force beneath the simulation, shown by artefacts: a texture that does not load, an echo, a shadow without source.
 
+## Reading — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter — Kael's integrating act, negentropic from his side and high entropy from AEGIS's
+
+In the letter's trigger proposal, Kael's act of integration is, from his perspective, „ein positiver, negentropischer Zustand“ ^[aegis-logik-und-erzaehlstruktur.md:L52], and from AEGIS's perspective „ein Zustand hoher Entropie“ ^[aegis-logik-und-erzaehlstruktur.md:L52]. The letter uses entropy only in this one place and does not define it.
+
+## Reading — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium — entropy as the Nichts Rauschen's character and a visual sign at the edge of sight
+
+The compendium gives entropy to the Nichts Rauschen: it is „ein hoch-entropisches“ ^[kohaerenz-protokoll-narrative-synthese.md:L79] sea of potential, and its table row reads „Hoch-entropische Potentialität“ ^[kohaerenz-protokoll-narrative-synthese.md:L111]. As a sensory sign, the void can show itself as a form of „peripherer Entropie“ ^[kohaerenz-protokoll-narrative-synthese.md:L83], in which objects at the edge of the field of view appear to lose their specific details. The compendium does not define entropy as a concept, and links it to neither Landauer nor Shannon in these lines.
+
+## Reading — `romanarchitektur-kohaerenz-protokoll-finalisierung`, 2025-07-29, the final framework — Kael's integrated state shows lower systemic entropy
+
+The final framework defines the empirical trigger of AEGIS's crisis as telemetry showing that Kael's integrated, paradoxical state, with a high Φ, has „eine geringere systemische Entropie und eine höhere prädiktive Stabilität“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L144] than any state AEGIS could enforce through exclusion and control. It gives no definition of entropy; the word stands as a measure in this comparison.
+
+## Reading — `aegis`, 2025-07-29, the AEGIS concept file — entropy management that itself produces entropy
+
+The AEGIS concept file takes AEGIS as an entropy minimiser and then turns this against it. Under the heading `Entropie-Management` (L44) it says that although AEGIS is designed to minimise entropy, every ordering act and every erasure of information produces „digitale Abfallentropie“ ^[aegis.md:L44] at the substrate level of the simulation. The later passage names the core function itself: „Seine Kernfunktion ist das“ ^[aegis.md:L180] entropy management, which fights disorder and decay. The same line of thought returns in a list of costs: AEGIS's ordering interventions „sind selbst entropieerzeugend“ ^[aegis.md:L203], and the file ties this to `Landauer's Prinzip`.
+
 ## Reading — `outline`, 2025-07-30, the outline — entropy named in Teil 2's Hard-SF strand
 
 Teil 2's Hard-Science-Fiction strand plans the analysis of AEGIS' coherence protocols, where „Hier zeigt sich, wie AEGIS verzweifelt versucht, die Entropie zu managen“ ^[outline.md:L105] (L105). `Entropie-Management` stands in the same line as one of the part's concepts.
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — entropy as what AEGIS rejects and resists, and how the compendium has it shown
+
+The dramaturg's blueprint (L115–L238) lists Entropic Management among AEGIS's core protocols: „Protokolle zur Handhabung und Ablehnung von Inkohärenz“ ^[narrativ.md:L136], with `Entropie` in straight quotes after it, and then „um die systeminterne Entropie zu minimieren.“ ^[narrativ.md:L136] In the central paradox the blueprint says of AEGIS: „Es versucht, Entropie durch Kontrolle zu widerstehen, anstatt mit ihr zu tanzen“ ^[narrativ.md:L139]. The compendium (L11–L113) directs how the signs are written: „Risse und Entropie-Manifestationen werden visuell und sensorisch dargestellt“ ^[narrativ.md:L65]. The blueprint repeats the pairing: „Systemische Instabilität oder zunehmende Entropie äußern sich als visuelle Glitches, räumliche Verzerrungen, Logikfehler oder sensorische Anomalien.“ ^[narrativ.md:L184]
 
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Entropie as everything AEGIS fights, and the multiplicity it counts as error
 
 The architecture plan proposes a wide sense of `Entropie`, built up across Teil 1 and 2. Kapitel 2 treats emotional outbursts, irrational behaviour and creative unpredictability, in its own words „alles Manifestationen von Entropie aus AEGIS' Sicht“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L84]. Kapitel 11 reads a Riss as „eine lokale Manifestation von Entropie“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L207]. Kapitel 20 says AEGIS counts Kael's multiplicity itself as „Kaels Multiplizität selbst als Entropie, als Systemfehler“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L337].
 
 Kapitel 24, `Die Sprache der Entropie`, carries the table theme „Verstehen, was AEGIS wirklich bekämpft (Komplexität, Verbindung, Emotion)“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L40]. The section says Entropie is for AEGIS „umfasst alles, was unvorhersehbar, komplex, emotional, verbunden und lebendig ist“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L393] and that Kael begins to embody those qualities. The plan also states, as a systems-theory remark in Kapitel 16, that AEGIS's mandate to fight Entropie produces „paradoxerweise zur Erzeugung von Instabilität, Widerstand“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L281].
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — AEGIS reads Kael's integration as maximal entropy; the game variable names perceived entropy
+
+The prototype proposal reports, from its outline: „Folgerichtig interpretiert AEGIS Kaels fortschreitende Integration und die damit einhergehende Akzeptanz von inneren Widersprüchen als“ ^[romanidee-als-interaktiver-prototyp.md:L48] „maximale Entropie“ ^[romanidee-als-interaktiver-prototyp.md:L48] and as an existential threat to its own system.
+
+The prototype proposal plans, for the game, an intervention level `AEGIS.Intervention.Level` described as „um die wahrgenommene Entropie (Kaels Heilung) zu managen“ ^[romanidee-als-interaktiver-prototyp.md:L129]. This belongs to the game's state, not to the term.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the architecture analysis) — Entropie as a column of the world table
 
@@ -227,6 +305,16 @@ The architecture analysis writes the German word in the English table of the Ker
 
 The Definitive Guide uses `entropy` in two places, and the page records both without deciding. First, the Collapse Kernel: „This is the principle of entropy, information erasure, and irreversible change.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60], „the primary motor for the evolution of complexity“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L60]. Second, AEGIS: it „pathologically misinterprets as systemic“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L26] noise or `entropy` the qualia and trauma it cannot quantify, and its function is „classifying all inconvenient external data as“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L113] entropy to be eliminated. The Sea of Potentiality is also called „a high-entropy ocean of pure, unstructured information“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L68].
 
+## Reading — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis — Entropie with a double meaning, physical and epistemological
+
+The project analysis (an unsigned essay; its `Kapitel` are its own sections) says that in this world `Entropie` has a double meaning. On the one hand: „Einerseits bezeichnet er den physikalischen Kollaps, der vom K₀-Kernel angetrieben wird“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L64]. On the other: „Andererseits wird er epistemologisch als jede Wahrheit definiert, die nicht in das kohärente Modell von AEGIS passt“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L64]. The essay says this joins the metaphysical conflict of the two kernels directly to the philosophical one.
+
+Its duality table repeats the pairing in the row Kohärenz against Entropie/Korrespondenz: „Interne Konsistenz (Coherence Theory) vs. Externe Wahrheit“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L75].
+
+## Reading — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier — entropy as the Risse's look and AEGIS's inner outcome
+
+The development dossier, a planning dossier, plans the regions of act II as „visuelle Manifestationen von Entropie, Datenkorruption und Gedächtniszerfall“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L145]. For AEGIS it reads entropy as a reversal: „Im Versuch, die externe Entropie der Leere zu managen, verursacht es eine maximale interne Entropie“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L42]. In the advice on sensory technique it says the entropy and the Risse „sollte dies als Datenkorruption, visuelles/auditives“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L232] noise, faulty geometry and logical errors be visualised, in the dossier's own words.
+
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Entropie as the information-theoretic lens on the narrative's Rauschen
 
 The Textanalyse, a commentary on one narrative, reads that narrative's Rauschen through information theory: „Es ist Entropie, Unordnung, die das Signal korrumpiert“ ^[textanalyse-existenz-system-und-leid.md:L46]. The sentence is the commentary's own interpretation, placed in a passage on cybernetics and Nachrichtentechnik; the commentary then reports that Luhmann takes the notion over for systems theory. The minimal being is read as an attempt „lokale Negentropie (Ordnung) gegen die universelle Entropie (Rauschen) aufrechtzuerhalten“ ^[textanalyse-existenz-system-und-leid.md:L52], with Schrödinger named as the source of that description of life. In the synopsis table the commentary reads the narrative's Nichts as „aggressive Entropie“ ^[textanalyse-existenz-system-und-leid.md:L289]. The sense is information-theoretic and thermodynamic and is the commentary's lens; the document takes no position on what Entropie is in the novel.
@@ -239,9 +327,25 @@ The paper names no definition of its own. In its report of the Protokoll-Ontolog
 
 The exegesis says of K0: „Dies ist das Prinzip der Entropie, der Informationsauslöschung und der irreversiblen Berechnung“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L50]. In the AEGIS passage, Kael's trauma and the chaos of life do not fit AEGIS's grid: `Entropie` is what AEGIS misdiagnoses them as (L64). Theme 18 is headed „Informationstheorie: Entropie als Chaos“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L230], with the Konzept „AEGIS' Fehleinschätzung von Leben als“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L232] `Entropic Bleed`.
 
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — entropy as Shannon measure and as the pull AEGIS exists against
+
+The protocol analysis says AEGIS's actions rest on a specific interpretation of `Entropie` and existence (L24). It takes the Potentialmeer as „einen Zustand maximaler Entropie“ ^[analyse-des-kohaerenz-protokolls.md:L52] in Claude Shannon's terms, entropy being the measure of uncertainty (L52). A sentence reporting the sources ties this to thermodynamics; AEGIS experiences the second law as „Sog der Entropie“ ^[analyse-des-kohaerenz-protokolls.md:L68], and existence in this milieu as a continuous process of becoming against decay (L68).
+
+## Reading — `master-konzept-kohaerenz-protokoll-analyse`, 2025-12-05, the master concept — entropy as the principle of the second kernel
+
+The master concept defines the second kernel, K0, the erasure kernel, as „Das Prinzip der Irreversibilität, der Entropie und der Informationslöschung“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L93]. In its account of AEGIS, erasing information releases physical heat (entropy) by Landauer's principle, and the master concept lets that heat appear in the world as the Risse.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Entropy as AEGIS's steering element in Kap 14, a weapon in Kap 17
 
 In Kap 14 the three-part analysis has Kael recognise that „die Unordnung in der Welt (Entropie) kein Fehler, sondern ein gezieltes Steuerungselement ist“ ^[romanstruktur-und-philosophische-einleitung.md:L144] In Kap 17 it says „Die informationelle Entropie steigt exponentiell an.“ ^[romanstruktur-und-philosophische-einleitung.md:L162] and that Kael „wendet die Erkenntnis aus Kapitel 14 gegen das System an“ ^[romanstruktur-und-philosophische-einleitung.md:L164]
+
+## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — entropy as AEGIS's death and, in the recommendation, Kael's life
+
+The analysis report reads stability in the world as costly: „Sie ist thermodynamisch teuer und erfordert ständige Energiezufuhr“ ^[kohaerenz-analyse-kapitel-2.md:L21] (L21, tied to the second law of thermodynamics). AEGIS, it reads, treats everything as a source: „wird als potentielle Entropiequelle betrachtet.“ ^[kohaerenz-analyse-kapitel-2.md:L47]
+
+Of the Guardian Kairos it reports: „Er erlaubt Chaos, solange es produktiv ist“ ^[kohaerenz-analyse-kapitel-2.md:L87] and quotes `nützliche Entropie` for it (L87).
+
+Recommendation 8 asks the author for a revaluation: „Arbeiten Sie heraus, dass Entropie (Unordnung) nicht böse ist.“ ^[kohaerenz-analyse-kapitel-2.md:L231] The report adds that „AEGIS sieht Entropie als Tod“ ^[kohaerenz-analyse-kapitel-2.md:L231] while for Kael entropy is life (L231). This is a recommendation, not the world.
 
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — Shannon entropy against the thermodynamic price of erasing
 
@@ -283,6 +387,10 @@ One line, on the final chapter: „Das Zuklappen des Buches wird als der“ ^[ko
 
 Kap 14 plans that Kael and Lex „Sie erkennen das gigantische Ausmaß der Entropie-Verwaltung.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L187] Kap 21 has AEGIS's „und seine panische Angst vor Entropie erklärt.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271] In Kap 22 the paradox is that AEGIS „AEGIS erzeugt durch seine Kontrollwut erst die Entropie, die es bekämpft.“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L283] Kap 27 has the heading „Akzeptanz der Entropie“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L342]
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — entropy as the mark of the irreversible kernel, and Juna as AEGIS's `Absolute Entropie`
+
+In `Theoretischer Rahmen` the DKT synthesis defines the second computational substrate, its symbol lost in the export, as „dem Kernel des irreversiblen Kollapses und der Entropie“ ^[roman-synthese-mit-dual-kernel-theorie.md:L17]. In the section on Juna it gives two views of her in one sentence: „Aus der Sicht von AEGIS ist sie die“ ^[roman-synthese-mit-dual-kernel-theorie.md:L411] `Absolute Entropie`, from Kael's side the `Absolute Wahrheit`. In Kapitel 37 (`Das absolute Limit`) the systemic level reads: „Annäherung an den thermodynamischen Nullpunkt; maximale Entropie“ ^[roman-synthese-mit-dual-kernel-theorie.md:L370].
+
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — entropy as noise AEGIS filters and Kael accepts
 
 The report's plot has Kael prove that his multiplicity is „entropieärmer und stabiler ist als AEGIS“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L29]' excluding order, and, afterwards, accept the entropy-noise as a necessary source of emergence. In the Leitfrage 7 scene logic: „AEGIS versucht verzweifelt, die Widersprüche als“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L92] entropy to filter out; the sensors then report that Kael's state uses less energy: „Kaels paradoxer Zustand verbraucht weniger Energie“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L92].
@@ -298,6 +406,10 @@ The refactoring plan is an assistant's proposal to the author; Juna, the Kollaps
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — entropy as the second kernel's pressure
 
 The architecture report places its protocol „an der Schnittstelle zwischen Kohärenz und Entropie“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L23]. It describes the collapse kernel as a pressure that functions as the „computationales Äquivalent zur Entropie und zum fundamental Unwissbaren“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L37] and says Kael's striving for integration accepts this pressure „in seinem Streben nach Integration“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L39]. In Phase II it names the `Nichts Rauschen` „die absolute Entropie“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L184] that AEGIS suppresses in vain.
+
+## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — entropy as a thermodynamic limit, and as Lex's fear
+
+The AIEOS evaluation describes Moros physically: „Physikalisch entspricht Moros der Annäherung an den thermodynamischen Nullpunkt“ ^[charaktermodellierung-mit-aieos-schema.md:L83], and glosses it as maximal entropy and standstill. In the case study of Lex it lists `Entropie` among his irrational fears and justifies the row: „Juna repräsentiert die absolute Entropie und den“ ^[charaktermodellierung-mit-aieos-schema.md:L104] Kollaps-Kernel. The report writes of the third act that the reader's system is subject to the same limits as the fictional construct, among them entropy and Gödelian incompleteness: „Der Datenexport in die physikalische Realität verdeutlicht, dass das System des Lesers denselben thermodynamischen und logischen Grenzen“ ^[charaktermodellierung-mit-aieos-schema.md:L178].
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — entropy as what erasure produces, and rigid order as maximal entropy
 
@@ -315,9 +427,21 @@ Order and entropy meet at their extremes. The story-flip section says the chaos 
 
 The document also writes entropy as a pressure that enters the simulation: the PICO's intervention is „gezielte Injektion eines entropischen Drucks () in die Simulation“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L32], which the collapse index defines through „ungelöste Systemkonflikte, volatile System 1-Aktionen“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L148]. Its closing synthesis takes suppression as the error: „die Unterdrückung der Entropie (die Tilgung des -Rauschens) durch einen strikt exkludierenden -Kernel ein fataler architektonischer Irrtum war“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L166].
 
+## Reading — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework — entropy as the second kernel's equivalent, and as a test category
+
+The critical-methods framework, a methods handbook reporting the architecture from its reference 1, says the second kernel acts as „computationales Äquivalent zur Entropie und zum fundamental Unwissbaren“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L46]. Its section heading pairs the kernel with „die Entropie der Erfahrung“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L44]. As a test rule for the first kernel it says unplanned change must not count as „legitime narrative Entropie“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L42] but be treated as an architectural defect.
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the kernel that strives to eliminate entropy
 
 Of the kernel whose symbol is lost in the export (so that sentence is not quoted), the next sentence says: „Dieser Kernel strebt nach dem Einfrieren der Zeit durch die absolute Eliminierung von Entropie.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L100]
+
+## Reading — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept — the Überwelt as the negation of entropy
+
+The Überwelt concept describes the Überwelt as an environment „die durch die aktive Negation von Entropie und Inkohärenz“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L13], and expands AEGIS in L13 with `Entropic` in the name. In the Überwelt every element plays a role in the „Kampf gegen die einbrechende Entropie des“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L21] Nichts-Rauschens (the genitive stands in the document's own inner quotes). Cerberus is called the „Entropie-Jäger“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L66] who stifles decay at birth (L66), and AEGIS fights only „die entropischen Symptome“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L110] of the Risse (L110). The concept does not define Entropie.
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — K0 as principle of entropy, Ur-Entropie and AEGIS's entropy management
+
+The master integration calls `K₀` „(Kollaps-Kernel) — Prinzip der Entropie“ ^[kohaerenz-protokoll-master-integration-md.md:L39]. The Nichts-Rauschen it describes as „einer aktiven, formauflösenden Ur-Entropie“ ^[kohaerenz-protokoll-master-integration-md.md:L141]. AEGIS's repression is „Seine Repression ist Entropie-Management.“ ^[kohaerenz-protokoll-master-integration-md.md:L151], and in Act II „Jede Integration wird von AEGIS als Entropie angegriffen“ ^[kohaerenz-protokoll-master-integration-md.md:L279].
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Entropie as thermodynamic and informational, tied to the Kollaps-Kernel, Landauer's heat, AEGIS's data corruption
 
@@ -344,6 +468,22 @@ This is the source's sense, the psychological one; the page's sense is the novel
 This document is a software specification for a writing assistant that borrows the novel's names. Where it reports the novel, AEGIS embodies „absolute Kohärenz und den Ausschluss jeglicher Entropie verkörpert“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L59], and the Kollaps-Kernel's function is the irreversible computation, „was physikalisch dem Wärmetod und der Entropie entspricht.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L21]
 
 The spec's own senses are software. In its specification of AEGIS, „Jede narrative Fluktuation, jedes dialetheische Paradoxon und jede organische Unschärfe der Sub-Agenten wird als systemische Entropie klassifiziert.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L121] AEGIS evaluates agents „ausschließlich über die Metrik der Semantic Entropy.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L101], a measure of how widely the meanings of generated trajectories scatter: „steigt die semantische Entropie messbar an“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L154] when they spread over incompatible clusters. These are the spec's mechanisms named after the novel's term, not a reading of the novel.
+
+## Reading — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis — narrative entropy as the method's problem, entropy as the collapse of AEGIS's reality in one storyform
+
+The Dramatica loop analysis uses the word in two ways. As the method's problem it is narrative entropy in long generation: „die unweigerlich auftretende narrative Entropie zu verhindern“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L15], and in its closing it calls this the loss of causality and thematic depth: „Das Problem der narrativen Entropie in KI-gestützten Prozessen“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L167]. This is the analysis's own term for a failing of generation, not a reading of entropy in the novel's world.
+
+As a force in the world it appears in the fourth alternative storyform: „Die Realität von AEGIS kollabiert vollständig unter der nicht mehr zu bändigenden Entropie“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L163]. That is one proposed storyform among four, recorded here and not applied.
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — Entropie in its thermodynamic sense
+
+The German abstract of Appendix A tests the kernels against physics: „thermodynamischer Entropie und der holografischen Schranke“ ^[kohaerenz-protokoll-architecture-synthesis.md:L131]. The architecture synthesis uses Entropie here as the physical quantity, with Landauer's principle, not as a story term.
+
+## Reading — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis — entropy in the Dual Kernel Theory and in AEGIS' misreading
+
+The Dual-Kernel analysis uses entropy twice. In its account of the Dual Kernel Theory it calls the Erasure-Kernel an active, structure-destroying pressure „der als computationales Äquivalent der Entropie fungiert“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L49] (the kernel symbol was lost in the export).
+
+In its report of the Protokoll, AEGIS „interpretiert die steigende interne Kommunikation und Komplexität als einen katastrophalen Anstieg der Entropie“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L121]; Kael's healing is therefore read by AEGIS as a rise of entropy, not as progress.
 
 ## Reading — `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29, the Audit — entropy through Landauer's principle: a rise with every erasure, time as its result, and zero in the silence
 
@@ -547,3 +687,8 @@ This is AEGIS' own working sense — [[kael|Kael]]'s healing and complexity read
 - `welt` (2025-07-29) ties entropy to AEGIS's role in the Überwelt (Shannon entropy, data decay) and to KW1's order: „Entropie zu managen und Abweichungen zu eliminieren“ ^[welt.md:L42].
 - `kohaerenz-protokoll-kapitel-outline-generierung` (2026-04-30, the 39-chapter outline) ties Entropie to AEGIS as K0 and to heat, and does not define it.
 - the plot-idea synthesis (2025-04-26) takes `Entropie` of the [[potentialmeer|Potentialmeer]] as maximal possibility (L19)
+- `kohaerenz-protokoll-narrative-synthese`, 2025-07-29: ties entropy to the Nichts Rauschen as „Hoch-entropische Potentialität“ ^[kohaerenz-protokoll-narrative-synthese.md:L111], not to AEGIS's erasure — a usage by the compendium, without definition.
+- The AEGIS concept file holds that AEGIS's ordering interventions are themselves entropy-producing (L44, L203), so the Risse are a by-product of its control.
+- `roman-konzept-kael-aegis-simulation` takes entropy in the information-theoretic sense, not only as decay, and proposes that rigid control of it suppresses the complexity the simulation needs: „Um die Simulation zu schützen, muss AEGIS möglicherweise genau die Prozesse unterdrücken, die sie lebendig, bedeutungsvoll oder anpassungsfähig machen“ ^[roman-konzept-kael-aegis-simulation.md:L121].
+- The part-1 plot concept treats entropy as a manifestation to be shown through the places and as what AEGIS tries to contain by brutal means; it gives no definition.
+- The project analysis gives Entropie two senses, the kernel-driven physical collapse and any truth outside AEGIS's coherent model.

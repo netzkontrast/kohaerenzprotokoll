@@ -1,0 +1,14 @@
+# romanideen-zu-roman-entwickeln
+  lines                179  (frontmatter ends at 9)
+  body words           2788
+  headings             13   bold-only lines 0
+  table rows           11   code fences 0
+  question marks       0
+  backslash escapes    92
+  typographic marks    166   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    9
+  repeated labels      none
+  longest line         903 chars
+

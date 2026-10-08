@@ -1,0 +1,294 @@
+{
+  "document": "roman-outline-kohaerenz-protokoll-uberarbeitung",
+  "drive_id": "12hA4-J_RYymH6KtEzTGbPx8Q_gH5b9QVZCWowHh9Eac",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 96,
+    "decisions": 98,
+    "decided_by_lookup": 90,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        37,
+        82,
+        93,
+        96,
+        146,
+        174,
+        187,
+        248
+      ],
+      "attribution": "",
+      "note": "AEGIS placed under psychological warfare, cognitive dissonance and AI-alignment failure"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        50,
+        61,
+        116
+      ],
+      "attribution": "",
+      "note": "Alex as the protective ANP, set against Lex"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        124,
+        174,
+        187,
+        199,
+        231
+      ],
+      "attribution": "",
+      "note": "Emergenz as what AEGIS cannot manage and Selene embodies"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        93,
+        96,
+        161,
+        187
+      ],
+      "attribution": "",
+      "note": "the Guardians as AEGIS' means of intimidation and control"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        51,
+        75,
+        93
+      ],
+      "attribution": "",
+      "note": "Juna/V shown by effects, hidden by AEGIS, set in the attachment phobia"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        33,
+        37,
+        52,
+        98,
+        106,
+        115,
+        116,
+        124,
+        166,
+        199
+      ],
+      "attribution": "",
+      "note": "Kael as the subject of TSDP and of Murdock's Heroine's Journey, written with female pronouns"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        122
+      ],
+      "attribution": "",
+      "note": "Kiko among the EPs integrated at Murdock's stage 8"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        82,
+        143,
+        146,
+        187
+      ],
+      "attribution": "",
+      "note": "Kohärenz as AEGIS' goal of control, and its paradox as cognitive dissonance"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        49,
+        50,
+        61,
+        116,
+        142
+      ],
+      "attribution": "",
+      "note": "Lex as the logical ANP, avoiding emotion and set against Alex"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        122
+      ],
+      "attribution": "",
+      "note": "Lia among the EPs integrated at Murdock's stage 8"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        122
+      ],
+      "attribution": "",
+      "note": "Moros among the EPs integrated at Murdock's stage 8"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        52,
+        124,
+        128,
+        148
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the end state of Kael's integration"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        76
+      ],
+      "attribution": "",
+      "note": "the prologue's `Nichts Rauschen` as atmosphere"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        123
+      ],
+      "attribution": "",
+      "note": "Nyx named once, classed with the ANPs"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        51,
+        142
+      ],
+      "attribution": "",
+      "note": "Rhys as mediator, tied to the attachment phobia and to dissonance"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        115,
+        121,
+        123,
+        124,
+        128,
+        148
+      ],
+      "attribution": "",
+      "note": "Selene as wholeness, integration and coordinator in Murdock's stages"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        35,
+        37,
+        39,
+        50,
+        63,
+        98
+      ],
+      "attribution": "",
+      "note": "TSDP as the core theory applied to Kael, with a phobia table and a phase model"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        166,
+        248
+      ],
+      "attribution": "",
+      "note": "the Überwelt mapped to simulation theory"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      16,
+      17,
+      19,
+      20,
+      21,
+      24,
+      25,
+      26,
+      27,
+      30,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16",
+    "C17"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 51,
+      "decision": "reading",
+      "why": "Juna/V in the strategy report, read on juna"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 52,
+      "decision": "reading",
+      "why": "functional multiplicity, read on multiplizitaet"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 142,
+      "decision": "occurrence",
+      "why": "Lex meets illogical glitches inside Kael's system (Ch 1–2) — cognitive dissonance, not the Risse"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

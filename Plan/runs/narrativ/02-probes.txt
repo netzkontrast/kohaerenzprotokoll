@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      2
+  typographic marks      21
+  ascii quotes           134
+
+# inflection families -- one term, several surfaces
+  erzäh    Erzählens, Erzähler, Erzählers, Erzählperspektive, Erzählstimme, Erzähltechniken, Erzähltempo, Erzählung, Erzählwelt
+  archi    Archipel, Architekt, Architekten, Architektenwerkzeuge, Architektur, Architekturdokument, Architekturen
+  syste    System, Systemanalytiker, Systemic, Systemische, Systems, Systemstabilität, Systemtheorie
+  kontr    Kontraste, Kontrolle, Kontrollmethoden, Kontrollproblem, Kontrollsystems, Kontrollversuch
+  selbs    Selbst, Selbstbezug, Selbsterhalt, Selbstfindung, Selbstverifikation, Selbstwidersprüchlich
+  chara    Character, Charaktere, Charakteren, Charakterentwicklung, Charakterkonzepte
+  diale    Dialektik, Dialektische, Dialetheia, Dialetheischer, Dialetheismus
+  disso    Dissonanz, Dissoziation, Dissoziative, Dissoziativen, Dissoziativer
+  gegen    Gegenprinzip, Gegensatz, Gegenstück, Gegensätze, Gegensätzen
+  integ    Integration, Integrationsreise, Integriert, Integrity, Integrität
+  konze    Konzept, Konzepte, Konzepten, Konzeption, Konzeptionelles
+  narra    Narration, Narrative, Narrativen, Narrativer, Narrativs
+  antei    Anteil, Anteile, Anteilen, Anteils
+  emoti    Emotion, Emotionale, Emotionaler, Emotionen
+  explo    Exploit, Exploration, Explosion, Explosionen
+  infor    Informatik, Information, Informationen, Informationsenthüllung
+  inter    Interaktion, Interpretation, Interpretationen, Intervention
+  logik    Logik, Logiken, Logiker, Logikfehler
+  manif    Manifest, Manifestation, Manifestationen, Manifests
+  metho    Methode, Methodik, Methodologie, Methodologien
+  parad    Paradox, Paradoxie, Paradoxien, Paradoxon
+  persp    Perspektive, Perspektiven, Perspektivwechsel, Perspektivwechseln
+  reali    Realität, Realitäten, Realitätsebene, Realitätsebenen
+  wider    Widerspruch, Widerspruchs, Widersprüche, Widersprüchen
+  besch    Beschreibung, Beschreibungen, Beschützer
+
+# substring pairs -- never one term, often merged by accident
+  Code < Codex
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Seine
+  Eine < Anscheinend
+  Form < Formal
+  Form < Format
+  Form < Informatik
+  Form < Information
+  Form < Performative
+  Form < Informationen
+  Form < Transformation
+  Form < Ausformulierung
+  Form < Performativität
+  Form < Schreibplattformen
+  Form < Informationsenthüllung
+  Juna < Junas
+  Kael < Kaels

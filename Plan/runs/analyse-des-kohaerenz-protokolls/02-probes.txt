@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      25
+  backslash escapes      151
+  typographic marks      161
+  ascii quotes           97
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systemarchitektur, Systembedrohung, Systembus, Systemdynamik, Systemdynamiken, Systeme, Systemfeind, Systemisch, Systems, Systemstabilität, Systemstruktur, Systemteil, Systemtheoretisch
+  infor    Information, Informational, Informationelles, Informationen, Informationsstruktur, Informationstheoretische, Informationstheorie, Informationstransfer
+  wider    Widerspruch, Widerspruchs, Widerspruchsfreiheit, Widersprüche, Widersprüchen, Widersprüchliche, Widerstand
+  archi    Archibald, Archipel, Architecture, Architektur, Architekturen, Archive
+  daten    Daten, Datenfehler, Datenflut, Datenkonsistenz, Datensatz
+  disso    DISSOCIATION, Dissociation, Dissonance, Dissonanzen, Dissoziation
+  entro    Entropic, Entropie, Entropiebegriff, Entropieminimierung, Entropy
+  exist    Existence, Existential, Existenz, Existenzphilosophie, Existenzzweck
+  ontol    Ontological, Ontologie, Ontologische, Ontologischer, Ontology
+  opera    OPERATIONAL, Operating, Operation, Operative, Operator
+  proje    Projection, Projekt, Projektion, Projektionsverlust, Projekts
+  proto    Proto, Protocol, Protokoll, Protokolle, Protokolls
+  compu    Computational, Computerarchitektur, Computerarchitekturen, Computersystemen
+  haupt    Hauptkern, Hauptsatz, Hauptspeicher, Hauptsystem
+  ident    IDENTITY, Identity, Identität, Identitätsdefinition
+  inter    INTERACTION, Interaction, Interaktionen, Interpretation
+  inval    INVALID, Invalid, Invalidation, Invalidierung
+  konze    Konzept, Konzepte, Konzepten, Konzeptioneller
+  mecha    Mechanik, Mechanism, Mechanismen, Mechanismus
+  monst    Monster, Monstergruppe, Monstrosität, Monstrous
+  poten    Potential, Potentialis, Potentialität, Potentialmeer
+  quant    Quanta, Quantenschaum, Quantenverschränkung, Quantum
+  reali    Reality, Realität, Realitäten, Realitätsdefinition
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen
+  unter    Unterdrückung, Unterscheidung, Untersuchung, Untersuchungsgegenstandes
+
+# substring pairs -- never one term, often merged by accident
+  Bran < Branes
+  Bran < Membranen
+  CORE < Core
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dual < Dualität
+  Eine < Seine
+  Ende < Rendering
+  Ende < Transzendenz
+  Ende < Entscheidende
+  FROM < From
+  Form < Formal
+  Form < Information
+  Form < Informational
+  Form < Informationen
+  Form < Transformation
+  Form < Informationelles
+  Form < Transformationen
+  Form < Informationstheorie

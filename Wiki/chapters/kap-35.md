@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 47
-ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 54
+ingested: ["monstergruppe-primzahlen-plot-blueprint", "aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "dramatica-storyform-synthese-aegis-analyse", "roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "deconstructing-reality-s-architecture", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,10 @@ It names no beat, no world and no chapter-specific event that falls in Kapitel 3
 
 - The concept with subplots titles Kapitel 35 „Das letzte Gambit“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L71]. It plans: „Kael nutzt seine neu gewonnene Stärke und Einsicht, um einen finalen Plan umzusetzen – AEGIS deaktivieren, transformieren oder einen Weg zum Fundament sichern“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L71] — a plan, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Das letzte Gambit
+
+- The subplot revision's chapter 35: „Das letzte Gambit“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L79]. Its content: „Kael nutzt Stärke/Einsicht für finalen Plan“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L79]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der letzte Schlag/Die Geburt des Neuen: Klimax der Konfrontation mit AEGIS
 
 Title: the commission titles the chapter „Der letzte Schlag/Die Geburt des Neuen: Klimax der Konfrontation mit AEGIS“ ^[kontext-outline.md:L457], placed in Act 3. Position: `Setting` „Kern Überwelt im Chaos/Übergang“ ^[kontext-outline.md:L464]
@@ -51,6 +55,10 @@ Focus: `Finale Transformation`, „um den Kollaps/die Transformation von AEGIS z
 
 - Story: „Kael nutzt ihre Erkenntnisse aus dem Kontakt mit dem Fundament“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L292]
 - Concept: „Finale Rolle von“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L293] (concept tag: `Agency` and `Integration`)
+
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage
+
+- The strategy report keys this chapter to Murdock's stage „Integration des Männlichen & Weiblichen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L124]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.3, „Das Herz des Systems: Der logische Kollaps“ ^[finales-kausales-plot-geruest.md:L188] (Kapitel 33–35)
 
@@ -68,6 +76,14 @@ Position: the outline plans the `Erzählperspektive` „Kael (Anwendung der Eins
 
 - Story: the outline plans, under `Plot`, „transformiert das System, anstatt es zu zerstören“ ^[outline.md:L232]; „AEGIS deaktivieren, transformieren oder einen Weg zum Fundament sichern“ ^[outline.md:L232]
 - Question: under `Thematische Kernfrage`, „Kann eine letzte, grundlegende Symmetrie alle Widersprüche integrieren?“ ^[outline.md:L234]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Algorithmische Melancholie
+
+- The chapter overview plans Kapitel 35 as „Algorithmische Melancholie“ ^[detaillierte-kapiteluebersicht.md:L66], in Akt IV (Ketsu). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Algorithmische Melancholie
+
+- The final causal blueprint's chapter 35: „Algorithmische Melancholie“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L138]. Its content: „Die unmittelbaren Nachwirkungen“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L138]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -109,6 +125,10 @@ Position: Teil III, „Verweigerung der Macht“ ^[romanstruktur-und-philosophis
 - Story: „Er wird nicht Gott, sondern Gärtner.“ ^[romanstruktur-und-philosophische-einleitung.md:L264]
 - Story: „Er schafft Bedingungen, unter denen Freiheit wachsen kann“ ^[romanstruktur-und-philosophische-einleitung.md:L264]
 
+## Reading — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report — The Gödel-Gambit
+
+- The dissociative architecture report places in chapter 35 the climax of Act III: „Kael connects to AEGIS“ ^[kael-s-dissociative-architecture-analysis.md:L198]. A report's mapping of a plan onto clinical theory, not the chapter as written.
+
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — Rettung der Fragmente
 
 Title: „Rettung der Fragmente“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L338]
@@ -129,6 +149,10 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Kael (mitfühlend)“ ^[
 - Story: the matrix plans „Kael zerstört es nicht, sondern lässt es sein“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L443]
 - Question: „Gibt es Gnade für eine Maschine?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L442]
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Das Ende der Subjekt-Objekt-Spaltung
+
+- The DKT synthesis's chapter 35: „Das Ende der Subjekt-Objekt-Spaltung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L347]. Its narrative level: „Die Perspektive wechselt zur dritten Person Singular; Kael sieht“ ^[roman-synthese-mit-dual-kernel-theorie.md:L351]. An analysis of a 39-chapter plan, not the chapter as written.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot — Kael realises he is AEGIS
 
 Title: „Kapitel 35: Das Ende der Subjekt-Objekt-Spaltung" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L131]
@@ -142,6 +166,10 @@ Not the Gödel-Gambit's forced acceptance of an unprovable truth that the readin
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — Leitfrage 8, waking in Köln (Kap 27/35)
 
 - A guiding question for Kap 27/35 — the report gives both numbers — a proposal: „Kael durchbricht die Rendering-Grenzen und erwacht in Köln, Februar 2026.“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96] He falls onto „das nasse, schmutzige Kopfsteinpflaster der Kölner Südstadt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L96], into the noise of the carnival; the external level is indifferent to him.
+
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — the climax, the Gödel-Gambit
+
+- The learner's guide places the climax in Kap 35–36: „The Gödel-Gambit (Ch 35-36). Kael presents the paradox. AEGIS crashes.“ ^[deconstructing-reality-s-architecture.md:L284], in „Act III: The Integration“ ^[deconstructing-reality-s-architecture.md:L279]. A guide's report of the plan, not the chapter as written.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the Gödel-Gambit itself
 

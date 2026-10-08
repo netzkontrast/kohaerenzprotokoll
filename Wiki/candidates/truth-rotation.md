@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung", "kohaerenz-protokoll-architecture-synthesis"]
 gathered: "2026-09-25"
 ---
 
@@ -16,6 +16,10 @@ the moment the reading turns to it, in the [[vortex|Vortex]] for most; the Physi
 that moment at the Ouroboros return to the first image, and the Editorial Style Dossier makes it the
 reader's realization, at no named place. Each source's use is
 below, attributed and unmerged.
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — the rotation confirmed as consequence of its DKT inversion
+
+The architecture synthesis proposes a section of its own: „The rotation of Truth Theories to Kernel mapping is definitively confirmed“ ^[kohaerenz-protokoll-architecture-synthesis.md:L31]. Its mapping, which follows its kernel inversion, puts Correspondence with K₁ and Coherence with K₀ („The Coherence Theory of Truth maps to K₀ (the Collapse Kernel)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L31]). In the axis table it grades axis 3 Superior and writes „The Truth Rotation perfectly aligns with the DKT inversion“ ^[kohaerenz-protokoll-architecture-synthesis.md:L290]. In the appendix it applies the rotation to the characters: „Kael embodies Correspondence“ ^[kohaerenz-protokoll-architecture-synthesis.md:L157] and AEGIS operates on coherence. The verdict is its own proposal.
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — an architectural mandate to rotate the alignment
 
@@ -205,6 +209,7 @@ stays rememberable and is no longer operative (its L56). So the difference is in
 is recorded here and not as a conflict record.
 - `kohaerenz-protokoll-audit-und-verifizierung`, 2026-04-29: the Truth-Rotation is the inversion of the two readings, AEGIS' order the destructive vector and Kael's chaos and multiplicity the true coherence, which the research mandate requires and the audit verifies.
 - `kohaerenz-protokoll-kapitel-outline-generierung` (2026-04-30, the 39-chapter outline) places the Truth-Rotation as Beat 5 of the Vortex, with an earlier inner one in Oblivion's arc.
+- the architecture synthesis proposes the rotation as aligned with its DKT inversion: „The Truth Rotation perfectly aligns with the DKT inversion“ ^[kohaerenz-protokoll-architecture-synthesis.md:L290].
 
 ## Open
 

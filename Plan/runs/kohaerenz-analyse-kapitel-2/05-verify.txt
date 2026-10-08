@@ -1,0 +1,72 @@
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Empfehlung"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Empfehlung` ^[kohaerenz-analyse-kapitel-2.md:#9]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Analyse der Diskrepanz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Analyse der Diskrepanz` ^[kohaerenz-analyse-kapitel-2.md:#1]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Ende der Analyse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ende der Analyse` ^[kohaerenz-analyse-kapitel-2.md:#1]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Snippets"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Snippets` ^[kohaerenz-analyse-kapitel-2.md:#2]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Blinder Fleck"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Blinder Fleck` ^[kohaerenz-analyse-kapitel-2.md:#3]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschen` ^[kohaerenz-analyse-kapitel-2.md:#2]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Controlled Fragmentation Protocol"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Controlled Fragmentation Protocol` ^[kohaerenz-analyse-kapitel-2.md:#2]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Wir-Geflecht"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Wir-Geflecht` ^[kohaerenz-analyse-kapitel-2.md:#3]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Funktion"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Funktion` ^[kohaerenz-analyse-kapitel-2.md:#8]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Domäne"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Domäne` ^[kohaerenz-analyse-kapitel-2.md:#3]
+$ python3 scripts/read.py kohaerenz-analyse-kapitel-2 --count "Charakter"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`Charakter` ^[kohaerenz-analyse-kapitel-2.md:#4]
+stance_marker_count 11 = Empfehlung 9 + Analyse der Diskrepanz 1 + Ende der Analyse 1
+$ grep -n ? (question marks: L106, L222, L246)
+106:  - **Funktion:** Kontrolliert den Zugang zu Erinnerunge
+222:  - **Empfehlung 5: Juna als Spiegel.** Lassen Sie Juna 
+246:8.  Effiziente Mehrkernarchitektur für eingebettete Jav
+$ census lines: 102 candidates, 0 zeros (04-counts.txt)

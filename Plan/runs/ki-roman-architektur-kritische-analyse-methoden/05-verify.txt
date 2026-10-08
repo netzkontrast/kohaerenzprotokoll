@@ -1,0 +1,44 @@
+$ read.py --count "zwingend"
+`zwingend` ^[ki-roman-architektur-kritische-analyse-methoden.md:#10]
+$ read.py --count "Handbuch"
+`Handbuch` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Best Practice"
+`Best Practice` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Trace 2"
+`Trace 2` ^[ki-roman-architektur-kritische-analyse-methoden.md:#0]
+$ read.py --count "Lia"
+`Lia` ^[ki-roman-architektur-kritische-analyse-methoden.md:#2]
+$ read.py --count "elf"
+`elf` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Kollaps-Kernel"
+`Kollaps-Kernel` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Erasure-Kernel"
+`Erasure-Kernel` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Cerberus-Labyrinth"
+`Cerberus-Labyrinth` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Isolation Objection"
+`Isolation Objection` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Selene"
+`Selene` ^[ki-roman-architektur-kritische-analyse-methoden.md:#5]
+$ read.py --count "Juna"
+`Juna` ^[ki-roman-architektur-kritische-analyse-methoden.md:#2]
+$ read.py --count "Dasein"
+`Dasein` ^[ki-roman-architektur-kritische-analyse-methoden.md:#0]
+$ read.py --count "Daseins"
+`Daseins` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Gödel-Gambit"
+`Gödel-Gambit` ^[ki-roman-architektur-kritische-analyse-methoden.md:#4]
+$ read.py --count "Player-Dilemma"
+`Player-Dilemma` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Player Dilemma"
+`Player Dilemma` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Prinzip der Explosion"
+`Prinzip der Explosion` ^[ki-roman-architektur-kritische-analyse-methoden.md:#2]
+$ read.py --count "Principle of Explosion"
+`Principle of Explosion` ^[ki-roman-architektur-kritische-analyse-methoden.md:#2]
+$ read.py --count "Blockchain für Subtext"
+`Blockchain für Subtext` ^[ki-roman-architektur-kritische-analyse-methoden.md:#1]
+$ read.py --count "Cache Coherence"
+`Cache Coherence` ^[ki-roman-architektur-kritische-analyse-methoden.md:#0]
+$ stance_marker_count = zwingend 10 + Handbuch 1 + Best Practice 1 = 12
+$ grep -c . census profile: 154 backslash escapes, 28 glued ref numbers, 88 ascii quotes, 17 typographic (01-profile.txt)

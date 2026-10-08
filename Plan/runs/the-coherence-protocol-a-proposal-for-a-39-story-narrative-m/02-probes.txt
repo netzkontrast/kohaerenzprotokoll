@@ -1,0 +1,54 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      47
+  backslash escapes      91
+  typographic marks      37
+  ascii quotes           122
+
+# inflection families -- one term, several surfaces
+  narra    Narrate, Narration, Narrative, Narratives, Narratology, Narrator, Narrators
+  fragm    Fragmentation, Fragmented, Fragments
+  integ    Integrated, Integrating, Integrator
+  theor    Theorem, Theorems, Theory
+  archi    Architect, Architecture
+  const    Constructed, Constructionism
+  contr    Contrast, Control
+  corre    Corrective, Correspondence
+  entro    Entropic, Entropy
+  exile    Exile, Exiles
+  frame    Frame, Framework
+  funct    Function, Functional
+  guard    Guardian, Guardians
+  manag    Manage, Manager
+  multi    Multiplicitous, Multiplicity
+  navig    Navigate, Navigating
+  obser    Observer, Observers
+  philo    Philosophical, Philosophy
+  princ    Principle, Principles
+  proce    Processing, Processor
+  psych    Psychological, Psychology
+  struc    Structural, Structure
+  syste    System, Systemic
+  whole    Whole, Wholeness
+
+# substring pairs -- never one term, often merged by accident
+  Free < Freedom
+  Hero < Heroine
+  Part < Parts
+  Rift < Rifts
+  Work < Network
+  Work < Framework
+  Exile < Exiles
+  Fight < Firefighter
+  Frame < Framework
+  Whole < Wholeness
+  Manage < Manager
+  System < Systemic
+  Theorem < Theorems
+  Function < Functional
+  Guardian < Guardians
+  Narrator < Narrators
+  Observer < Observers
+  Architect < Architecture
+  Narrative < Narratives
+  Principle < Principles

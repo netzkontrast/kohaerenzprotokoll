@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 29
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 35
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -43,6 +43,10 @@ Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-proto
 
 - The concept with subplots titles Kapitel 22 „Samen der Rebellion“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53]. It plans: „Kael findet erste konkrete Hinweise auf die Externe Ebene oder Juna/V – eine Anomalie, die AEGIS nicht erklären kann, ein Signal, eine Ahnung von etwas außerhalb des Systems“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L53] — a plan, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Samen der Rebellion
+
+- The subplot revision's chapter 22: „Samen der Rebellion“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L61]. Its content: „Hinweise auf Externe Ebene/Juna/V“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L61]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Die Ethik des Codes: Reflexion über Verantwortung, Schuld und Legitimität
 
 Title: the commission titles the chapter „Die Ethik des Codes: Reflexion über Verantwortung, Schuld und Legitimität“ ^[kontext-outline.md:L313], placed in Act 2. Position: `Setting` „Kontemplativer Ort / Dialogszene“ ^[kontext-outline.md:L319]
@@ -68,6 +72,14 @@ The beat sheet places Kapitel 22 in Beat 2.3; the beat spans Kapitel 22 to 24.
 - Cause: the `Kausale Verknüpfung` says „schafft internen Dissens im antagonistischen System“ ^[finales-kausales-plot-geruest.md:L135]
 - Throughlines: the OS or MC line says „Kael profitiert von diesem Wandel und gewinnt potenziell“ ^[finales-kausales-plot-geruest.md:L141]
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Die Waffen eines Kerkermeisters
+
+- The chapter overview plans Kapitel 22 as „Die Waffen eines Kerkermeisters“ ^[detaillierte-kapiteluebersicht.md:L43], in Akt II (Shō). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Die Waffen eines Kerkermeisters
+
+- The final causal blueprint's chapter 22: „Die Waffen eines Kerkermeisters“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L104]. Its content: „Der Beschützer Alex entwickelt Strategien gegen AEGIS' psychologische Kriegsführung“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L104]. A plan in an outline of 40 chapters, not the chapter as written.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
 Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L188]
@@ -81,6 +93,14 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Das Gehirn im Tank-Experiment
 
 - The architecture plan sets Kapitel 22 in Teil 2 as the archetypal phase „Das Gehirn im Tank-Experiment“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L38], with the core theme „Vertiefte philosophische Reflexion über Realität und Simulation“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L38] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L359.
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Paradoxon X
+
+- The dual structure plans Kapitel 22 as „Paradoxon X“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L199], in „Akt III: Ten (Wendung) - Katastrophales Versagen & Emergentes Selbst“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L191]. Perspective: `AEGIS` (L203). Its Ki: „AEGIS führt den Befehl aus der ruhigen, logischen Digitalen Überwelt aus“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L210]. A plan, not the chapter as written.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Neukalibrieren im Sturm (Ordeal)
+
+- The Kishōtenketsu plan's chapter 22 of 30, in act Ten: „Neukalibrieren im Sturm (Ordeal)“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L282]. Its Handlung: „AEGIS startet seinen Generalangriff“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L287]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `The Splintering of the Guardians: A System Fractures`
 
@@ -126,6 +146,10 @@ Position: Teil II; POV from `Perspektive & Stimme`: „Lex (triumphiert) & Argus
 
 - Story: the matrix plans „AEGIS erzeugt durch seine Kontrollwut erst die Entropie, die es bekämpft“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L283]
 - Question: „Wie besiegt man ein unfehlbares System?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L282]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Die Planck-Barriere
+
+- The DKT synthesis's chapter 22: „Die Planck-Barriere“ ^[roman-synthese-mit-dual-kernel-theorie.md:L226]. Its narrative level: „Versuch, die Pixel der Realität zu verschieben; Entstehung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L230]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

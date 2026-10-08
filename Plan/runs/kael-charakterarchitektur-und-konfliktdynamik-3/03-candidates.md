@@ -1,0 +1,95 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+World, figures and places
+
+- Kael
+- AEGIS
+- Juna/V
+- Juna
+- Guardians
+- Guardian
+- Kernwelten
+- Kernwelt(en)
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Möglichkeiten-Garten
+- Grenzfeste
+- Potentialmeer
+- Paradoxon X
+- Cache Kohärenz
+- Moonshine-Link
+- Risse
+- System-Host
+- Der Logiker
+- Das Kind
+- Der Schatten
+- Der Relationale Anteil
+- Relationalen Anteil
+- Der Kreativ-Intuitive
+- Kreativ-Intuitiver
+- Die Wächterin
+- Wächterin
+- Logiker
+- Schatten
+- Lex
+- Kiko
+- Nyx
+- Rhys
+- Kai
+- Selene
+- Das Innere Pantheon
+- Pressure Points
+- Pressure Point Matrix
+- Konflikt-Kartographie
+- Fähigkeiten-Fehlanpassung
+- Skill Mismatch
+- Heilung vs. Kohärenz
+- Der Systemflüsterer
+- Die Weltenweberin
+- Der Glitch im System
+- funktionale Multiplizität
+- Novelcrafter
+- Kohärenz Protokoll
+- Lockdowns
+- Exploits
+
+## lens
+
+- Internal Family Systems
+- IFS
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Anscheinend Normalen Teilen
+- Emotionalen Teilen
+- Jungianische Archetypenlehre
+- Exiles
+- Exile
+- Manager
+- Firefighter
+- Protektoren
+- Self-leadership
+- Selbst-Führung
+- Kern-Selbst
+- Unburdening
+- Polarisierung
+- Differenzierung
+- Individuationsprozess
+- Anima/Animus
+- Anima
+- Animus
+- Logos
+- Eros
+- Heldenreise
+- Heldinnenreise
+- Trickster
+- Gestaltwandler
+- Mentor
+- Murdock
+- Mutter/Tochter-Spaltung
+- Hosts
+- positive Absicht
+- dissoziativer Identitätsstörung
+- Göttlichen Kindes
+- Apparently Normal Part
+
+Observations. The document is a character report in Novelcrafter codex format: seven profiles carry the same twelve field labels (Name/Bezeichnung, Kernfunktion & Positive Absicht and so on), which are template, not terms. The persona names Lex, Kiko, Nyx, Rhys, Kai and Selene are under four characters and cannot be asked alone with --find; they stand in quotation marks in the Name/Bezeichnung lines. The abbreviations ANP and EP also stand under four characters. System-„Risse“ is split by markup, so Risse is listed alone. The 53 numbered sources at the end are references to outside texts and are not listed. Kapitel/Kap numbers do not occur.

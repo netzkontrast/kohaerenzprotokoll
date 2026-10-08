@@ -1,0 +1,702 @@
+{
+  "document": "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll",
+  "drive_id": "1VivD-VLP0SwSKVo_uC0uze2y3GZdm74f20VGOgt84O0",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Integration vs. Funktionale Multiplizität",
+    "Kontrolle vs. Emergenz",
+    "Symbolische Orte (Bunker, Schrein, Nexus etc.)",
+    "Systemgrenzen (AEGIS vs. P/V)",
+    "Kybernetik 2. Ordnung (Beobachtereffekt)",
+    "Ordnung vs. Chaos/Lebendigkeit (Apollinisch/Dionysisch)",
+    "Reduktionismus vs. Holismus",
+    "Show, don't tell"
+  ],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        139
+      ]
+    },
+    "Kael": {
+      "n": 10,
+      "n_including_compounds": 22,
+      "lines": [
+        15,
+        17,
+        23,
+        26,
+        29,
+        30,
+        31,
+        49,
+        52,
+        58,
+        65,
+        66,
+        68,
+        69,
+        81,
+        84,
+        86,
+        87,
+        88,
+        102,
+        116,
+        132
+      ]
+    },
+    "AEGIS": {
+      "n": 39,
+      "n_including_compounds": 40,
+      "lines": [
+        31,
+        32,
+        35,
+        36,
+        44,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        56,
+        57,
+        58,
+        63,
+        65,
+        66,
+        73,
+        74,
+        76,
+        81,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        90,
+        114,
+        115,
+        116,
+        132,
+        133
+      ]
+    },
+    "Nyx": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        24,
+        27,
+        35,
+        71
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        34
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        36,
+        69
+      ]
+    },
+    "Rhys": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        37,
+        72
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Alex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        71
+      ]
+    },
+    "Lia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        41,
+        72
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        72,
+        132
+      ]
+    },
+    "Juna": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        30,
+        31,
+        37,
+        47,
+        74,
+        81,
+        84
+      ]
+    },
+    "Juna/V": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        30,
+        37,
+        47,
+        74,
+        81,
+        84
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        17,
+        68
+      ]
+    },
+    "ANP-EP Phobien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Emotionale Persönlichkeitsanteile (EPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Anscheinend Normale Persönlichkeitsanteile (ANPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        19,
+        70
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        20
+      ]
+    },
+    "DIS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        97,
+        135
+      ]
+    },
+    "Das Selbst (IFS/Selene)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Positive Absicht (IFS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Paradoxon X": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        48,
+        50,
+        75
+      ]
+    },
+    "Zero-Trust-Prinzip (AEGIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Entropie-Management (AEGIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Kernwelten als Psychologische Architektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "KW3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        71
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Co₁": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "McL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Ly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Die Überwelt (AEGIS-Domäne)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Die Externe Ebene (Juna/V)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        115
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        56,
+        75
+      ]
+    },
+    "Post-Reboot-Zustand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Bunker": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        77,
+        104
+      ]
+    },
+    "Schrein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Das Fundament (Hypothese)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Paraiyas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        90
+      ]
+    },
+    "Fundamentale Symmetrie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "P=NP (Symbolische Bedeutung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Das Resonanz-Gefüge (Meta-Dokument)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Kohärenz (Begriff & Ziel)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Resonanz (Begriff & Ziel)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Gaslighting (AEGIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Autopoiesis (AEGIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Switching-Mechanismen & Trigger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Amnesie & Ko-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Sprachwechsel (Englisch/Deutsch in Alben)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Heldinnenreise (Schmidt)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Zyklische Struktur (Teil 2)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Heldenreise (Campbell/Vogler)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Der Schatten (Jung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Anima/Animus (Jung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Individuationsprozess (Jung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Bindungstheorie (Desorganisierte Bindung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Narrative Identität (Ricoeur)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Performativität (Butler)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Dialogisches Selbst (Hermans)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Feedback Loops (Positiv/Negativ)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Gödels Unvollständigkeitssätze (Metaphorisch/Buchstäblich)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Komplexitätstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Simulationshypothese & Kritiken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Informationsontologie (Floridi)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Prozessphilosophie (Whitehead)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Konstruktivismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Phänomenologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Resonanztheorie (Rosa)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Intersubjektivität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Macht/Wissen (Foucault)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "KI-Ethik (Value Alignment)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Deus ex Machina (Vermeidung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Foreshadowing (Besonders für \"Das Fundament\")": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "document": "project-status-report-kohaerenz-protokoll-canonical-state-st",
+  "drive_id": "1t9DBsiC5QDp0xfQ6YLmo_n0uKGHWc9PowtSwDs26FLs",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 2,
+  "typographic_marks": 26,
+  "ascii_quotes": 88,
+  "inflection_families": {
+    "integ": [
+      "Integrate",
+      "Integrated",
+      "Integration",
+      "Integrative",
+      "Integrator"
+    ],
+    "defin": [
+      "Define",
+      "Defined",
+      "Defining"
+    ],
+    "opera": [
+      "Operational",
+      "Operationalize",
+      "Operationalizing"
+    ],
+    "ambiv": [
+      "Ambivalence",
+      "Ambivalent"
+    ],
+    "canon": [
+      "Canon",
+      "Canonical"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherons"
+    ],
+    "contr": [
+      "Contradiction",
+      "Contradictions"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "origi": [
+      "Origin",
+      "Original"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "resol": [
+      "Resolution",
+      "Resolving"
+    ],
+    "scene": [
+      "Scene",
+      "Scenes"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "trans": [
+      "Transcripts",
+      "Transformation"
+    ],
+    "trigg": [
+      "Trigger",
+      "Triggers"
+    ],
+    "wavel": [
+      "Wavelet",
+      "Wavelets"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Hero",
+      "Coherons"
+    ],
+    [
+      "List",
+      "Rationalist"
+    ],
+    [
+      "Path",
+      "Pathway"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Canon",
+      "Canonical"
+    ],
+    [
+      "Scene",
+      "Scenes"
+    ],
+    [
+      "Define",
+      "Defined"
+    ],
+    [
+      "Origin",
+      "Original"
+    ],
+    [
+      "Script",
+      "Transcripts"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Thesis",
+      "Hypothesis"
+    ],
+    [
+      "Trigger",
+      "Triggers"
+    ],
+    [
+      "Wavelet",
+      "Wavelets"
+    ],
+    [
+      "Coherence",
+      "Decoherence"
+    ],
+    [
+      "Integrate",
+      "Integrated"
+    ],
+    [
+      "Operational",
+      "Operationalize"
+    ],
+    [
+      "Operational",
+      "Operationalizing"
+    ],
+    [
+      "Contradiction",
+      "Contradictions"
+    ]
+  ]
+}

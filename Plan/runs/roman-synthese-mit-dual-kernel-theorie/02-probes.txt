@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      81
+  backslash escapes      48
+  typographic marks      104
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systembericht, Systemgrenzen, Systemik, Systeminstabilität, Systemische, Systemmechaniken, Systems, Systemspaltung, Systemstabilität, Systemvariablen
+  daten    Daten, Datenaustausch, Datenexport, Datenlöschung, Datenpaket, Datenpakete, Datenströme, Datenübertragung
+  archi    Architectural, Architecture, Architekt, Architekten, Architektur, Archiv
+  grenz    Grenze, Grenzen, Grenzfeste, Grenzsituationen, Grenzüberschreitung
+  infor    Information, Informationsparadox, Informationsparadoxon, Informationsverarbeitung, Informationsvolumen
+  selbs    Selbst, Selbstmodell, Selbstmodells, Selbstmord, Selbstreferenzielle
+  inter    Interaktion, Interface, Interferenzmuster, Interpretation
+  proto    Proto, Protokoll, Protokolle, Protokolls
+  proze    Prozess, Prozesse, Prozessen, Prozessierung
+  quant    Quanten, Quantenschaum, Quantenschaums, Quantentheorie
+  reali    Reality, Realität, Realitätserfahrung, Realitätswahrnehmung
+  stadt    Stadt, Stadtarchitektur, Stadtstruktur, Stadtviertel
+  berec    Berechenbarkeit, Berechnung, Berechnungen
+  chara    Charakter, Charaktere, Charakterkonzepte
+  entro    Entropic, Entropie, Entropische
+  ereig    Ereignishorizont, Ereignishorizonts, Ereignissen
+  erken    Erkenntnis, Erkenntnisgenese, Erkenntnisreise
+  fehle    Fehler, Fehlerkorrekturen, Fehlermeldungen
+  gödel    Gödel, Gödels, Gödelsche
+  ident    Identifikation, Identität, Identitätsstörung
+  integ    Integration, Integrity, Integritätsprüfung
+  konst    Konstante, Konstrukt, Konstruktion
+  lösch    Löschbefehl, Löschen, Löschung
+  narra    Narrativ, Narrative, Narratives
+  natur    Natur, Nature, Naturereignisse
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Antinomie
+  Anti < Antinomien
+  Anti < Antimaterie
+  Anti < Semantische
+  Anti < Biosemantische
+  Anti < Terminierungsgarantie
+  Bild < Bildung
+  Bild < Bildschirm
+  Bild < Weltbildes
+  Bild < Spiegelbild
+  Code < Quellcode
+  Ding < Bedingung
+  Ding < Understanding
+  Echo < Echos
+  Eine < Seine
+  Eine < Bausteinen
+  Eine < Anscheinend
+  Eins < Einsamkeit
+  Eins < Bewusstseins
+  Eins < Wittgensteins

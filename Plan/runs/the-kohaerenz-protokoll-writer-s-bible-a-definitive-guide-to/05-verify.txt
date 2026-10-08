@@ -1,0 +1,89 @@
+$ grep -n "?" Sources/drive/the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md
+168:| \*\*Selene\*\* | ANP (Integrator?) | Regulation, Protection, Blockade | To
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "in-world"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`in-world` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "definitive glossary"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`definitive glossary` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Part IV"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Part IV` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Risse"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Risse` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#4]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`Riss` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Autonomous"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autonomous` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Juna/V"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Juna/V` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#9]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "IFS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`IFS` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Moonshine-Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Link` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Coherence Protocol"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Coherence Protocol` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Overhead"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Overhead` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#5]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Lex"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Lex` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#10]
+$ python3 scripts/read.py the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to --count "Integrator"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Integrator` ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:#1]
+stance_marker_count = in-world 1 + definitive glossary 1 = 2
+103 candidates, 0 zeros: capture.py --count header
+alters in table L159-L169: 11 rows (Kael, Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene, Argus)

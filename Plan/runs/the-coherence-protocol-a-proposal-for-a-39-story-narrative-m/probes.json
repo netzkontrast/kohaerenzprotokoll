@@ -1,0 +1,200 @@
+{
+  "document": "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m",
+  "drive_id": "1N6LHcHwPy52CJKVdxQ6ccMdkhCo16DYeI4MPciEnuvc",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 47,
+  "backslash_escapes": 91,
+  "typographic_marks": 37,
+  "ascii_quotes": 122,
+  "inflection_families": {
+    "narra": [
+      "Narrate",
+      "Narration",
+      "Narrative",
+      "Narratives",
+      "Narratology",
+      "Narrator",
+      "Narrators"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmented",
+      "Fragments"
+    ],
+    "integ": [
+      "Integrated",
+      "Integrating",
+      "Integrator"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theory"
+    ],
+    "archi": [
+      "Architect",
+      "Architecture"
+    ],
+    "const": [
+      "Constructed",
+      "Constructionism"
+    ],
+    "contr": [
+      "Contrast",
+      "Control"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "exile": [
+      "Exile",
+      "Exiles"
+    ],
+    "frame": [
+      "Frame",
+      "Framework"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "manag": [
+      "Manage",
+      "Manager"
+    ],
+    "multi": [
+      "Multiplicitous",
+      "Multiplicity"
+    ],
+    "navig": [
+      "Navigate",
+      "Navigating"
+    ],
+    "obser": [
+      "Observer",
+      "Observers"
+    ],
+    "philo": [
+      "Philosophical",
+      "Philosophy"
+    ],
+    "princ": [
+      "Principle",
+      "Principles"
+    ],
+    "proce": [
+      "Processing",
+      "Processor"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychology"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "whole": [
+      "Whole",
+      "Wholeness"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Free",
+      "Freedom"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Rift",
+      "Rifts"
+    ],
+    [
+      "Work",
+      "Network"
+    ],
+    [
+      "Work",
+      "Framework"
+    ],
+    [
+      "Exile",
+      "Exiles"
+    ],
+    [
+      "Fight",
+      "Firefighter"
+    ],
+    [
+      "Frame",
+      "Framework"
+    ],
+    [
+      "Whole",
+      "Wholeness"
+    ],
+    [
+      "Manage",
+      "Manager"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Theorem",
+      "Theorems"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Narrator",
+      "Narrators"
+    ],
+    [
+      "Observer",
+      "Observers"
+    ],
+    [
+      "Architect",
+      "Architecture"
+    ],
+    [
+      "Narrative",
+      "Narratives"
+    ],
+    [
+      "Principle",
+      "Principles"
+    ]
+  ]
+}

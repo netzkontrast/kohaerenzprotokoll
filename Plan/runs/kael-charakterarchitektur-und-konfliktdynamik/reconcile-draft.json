@@ -1,0 +1,343 @@
+{
+  "document": "kael-charakterarchitektur-und-konfliktdynamik",
+  "drive_id": "19048aTr0rck1yljNn9JZ8yMJsxHBWJ6dnZ4KjC2ih8g",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 81,
+    "decisions": 80,
+    "decided_by_lookup": 66,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        38,
+        56,
+        72,
+        120,
+        142,
+        232,
+        236,
+        354
+      ],
+      "attribution": "",
+      "note": "AEGIS as the pressure on Kael's fragmented host and personas, and a possible optimiser"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        17,
+        142,
+        257,
+        303
+      ],
+      "attribution": "",
+      "note": "the Cache Kohärenz problem as a source of persona conflict"
+    },
+    {
+      "page": "did",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "DID as the source of the host concept"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        55,
+        198
+      ],
+      "attribution": "",
+      "note": "Emergenz as one pole of persona conflicts"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        67,
+        83,
+        104,
+        203
+      ],
+      "attribution": "",
+      "note": "the Grenzfeste as the dominant world of the shadow persona"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        38,
+        51,
+        56,
+        72,
+        104,
+        120
+      ],
+      "attribution": "",
+      "note": "the Guardians as authorities each persona meets in its own way"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        34,
+        38,
+        316
+      ],
+      "attribution": "",
+      "note": "Juna/V as Kael's link, asked about as ambivalent"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        32,
+        33,
+        36,
+        40,
+        318
+      ],
+      "attribution": "",
+      "note": "Kael as system host, a profile that hedges its goal"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        33,
+        142
+      ],
+      "attribution": "",
+      "note": "Kael as host moves through all Kernwelten, each persona is tied to one"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        64,
+        65,
+        67,
+        71,
+        72
+      ],
+      "attribution": "",
+      "note": "Kiko as the Kind, an IFS exile"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        51,
+        56,
+        67,
+        83,
+        104,
+        120
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as the logician's world and a poor fit for the others"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        48,
+        49,
+        51,
+        55,
+        56,
+        142,
+        156
+      ],
+      "attribution": "",
+      "note": "Lex as the Logiker, an IFS manager at home in the Konstrukt-Stadt"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        232,
+        236,
+        316
+      ],
+      "attribution": "",
+      "note": "the link felt by Kai and Rhys, AEGIS's blind spot, its ambivalence asked"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "funktionale Multiplizität as one of two hedged goals"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        80,
+        81,
+        83,
+        88,
+        146,
+        174,
+        221
+      ],
+      "attribution": "",
+      "note": "Nyx as the Schatten, an IFS firefighter on the Grenzfeste"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        15,
+        44
+      ],
+      "attribution": "",
+      "note": "Personas as Kael's inner parts"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        318,
+        319,
+        354
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer in open questions and one proposed figure"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        51,
+        67,
+        99
+      ],
+      "attribution": "",
+      "note": "the Resonanz-Landschaft as the relational part's world"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        96,
+        97,
+        98,
+        104,
+        232
+      ],
+      "attribution": "",
+      "note": "Rhys as the Relationale Anteil"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        33,
+        120,
+        142
+      ],
+      "attribution": "",
+      "note": "system tears as a trigger of persona conflict"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        128,
+        129,
+        133,
+        135,
+        136
+      ],
+      "attribution": "",
+      "note": "Selene as the Wächterin, the Self of the system"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        22,
+        32,
+        50,
+        66
+      ],
+      "attribution": "",
+      "note": "TSDP as the origin model beside IFS and Jung"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 32,
+      "decision": "reading",
+      "why": "Kael as the host of DID models, read on did"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 55,
+      "decision": "reading",
+      "why": "rules against emergence in Lex's conflicts, read on emergenz"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 34,
+      "decision": "reading",
+      "why": "Kael's motive to keep the link to Juna/V, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title in the report's title"
+    },
+    {
+      "page": "personas",
+      "surface": "Personas",
+      "line": 15,
+      "decision": "reading",
+      "why": "the report's word for Kael's inner parts, read on personas"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 33,
+      "decision": "reading",
+      "why": "Kael's interaction with the worlds, read on risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 39,
+      "decision": "occurrence",
+      "why": "Simulation vs. Authentizität, a theme, not the place"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

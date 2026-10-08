@@ -1,0 +1,243 @@
+{
+  "document": "analyse-des-romanprojekts-kohaerenz-protokoll",
+  "drive_id": "1nIxzkiVrL_eLcpof20hMzWf6ZqBL0bOCl5ucJQL3jGE",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 34,
+  "backslash_escapes": 156,
+  "typographic_marks": 138,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "inter": [
+      "Interaktion",
+      "Interdisziplinäre",
+      "Interne",
+      "Interner",
+      "Intervallplan",
+      "Interventionen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktlinien",
+      "Konflikts"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbstheilung",
+      "Selbstkorrektur",
+      "Selbstzerstörung"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analytical",
+      "Analytisch"
+    ],
+    "besch": [
+      "Beschreibung",
+      "Beschreibungsebenen",
+      "Beschützer",
+      "Beschützt"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionalen",
+      "Emotionen",
+      "Emotionslose"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerkorrektur",
+      "Fehlern",
+      "Fehlers"
+    ],
+    "infor": [
+      "Information",
+      "Informationslöschung",
+      "Informationssperre",
+      "Informationstheorie"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematics",
+      "Mathematik",
+      "Mathematische"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorische",
+      "Metaphysik"
+    ],
+    "quant": [
+      "Quantendekohärenz",
+      "Quantenmöglichkeiten",
+      "Quantenphysik",
+      "Quantensystem"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumata",
+      "Traumatisierungen"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückung",
+      "Unterkomponenten",
+      "Unterwerfung"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungs",
+      "Verteidigungsstrategien",
+      "Verteilung"
+    ],
+    "überl": [
+      "Überlebenslogik",
+      "Überlebensmechanismus",
+      "Überlebensstrategie",
+      "Überlegenheit"
+    ],
+    "ambiv": [
+      "Ambivalente",
+      "Ambivalentes",
+      "Ambivalenz"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "duali": [
+      "Dualismus",
+      "Dualität",
+      "Dualitätsmatrix"
+    ],
+    "ereig": [
+      "Ereignis",
+      "Ereignisse",
+      "Ereignisses"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkenntnis",
+      "Erkennung"
+    ],
+    "erzäh": [
+      "Erzählers",
+      "Erzählung",
+      "Erzählwelt"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Dual",
+      "Dualismus"
+    ],
+    [
+      "Dual",
+      "Dualitätsmatrix"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Einerseits"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Gedankenreform"
+    ],
+    [
+      "Form",
+      "Informationssperre"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Hintergrundinformationen"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernels"
+    ]
+  ]
+}

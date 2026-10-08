@@ -1,0 +1,148 @@
+{
+  "document": "the-psychological-mechanics-from-tertiary-structural-dissoci",
+  "drive_id": "1Rz9FuQ4nSIIcnD0Y5HE6hOdXJ_UvXbpc4sxm0kmi4zs",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 90,
+  "typographic_marks": 9,
+  "ascii_quotes": 54,
+  "inflection_families": {
+    "analy": [
+      "Analyse",
+      "Analysis",
+      "Analyzing"
+    ],
+    "consc": [
+      "Conscious",
+      "Consciously",
+      "Consciousness"
+    ],
+    "funct": [
+      "Function",
+      "Functional",
+      "Functions"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "diale": [
+      "Dialetheic",
+      "Dialetheismus"
+    ],
+    "disso": [
+      "Dissociated",
+      "Dissociation"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmented"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration"
+    ],
+    "intro": [
+      "Introduction",
+      "Introject"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative"
+    ],
+    "phobi": [
+      "Phobia",
+      "Phobias"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Fear",
+      "Fears"
+    ],
+    [
+      "Role",
+      "Roles"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Phobia",
+      "Phobias"
+    ],
+    [
+      "Function",
+      "Functions"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Narrativ",
+      "Narrative"
+    ],
+    [
+      "Protocol",
+      "Protocols"
+    ],
+    [
+      "Conscious",
+      "Consciously"
+    ],
+    [
+      "Conscious",
+      "Unconscious"
+    ],
+    [
+      "Conscious",
+      "Consciousness"
+    ]
+  ]
+}

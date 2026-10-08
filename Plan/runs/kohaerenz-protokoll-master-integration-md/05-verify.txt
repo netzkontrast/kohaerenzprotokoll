@@ -1,0 +1,87 @@
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "Empfehlung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Empfehlung` ^[kohaerenz-protokoll-master-integration-md.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "Priorität"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Priorität` ^[kohaerenz-protokoll-master-integration-md.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "NEU durch DKT"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`NEU durch DKT` ^[kohaerenz-protokoll-master-integration-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "Bisherige Konzeption"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bisherige Konzeption` ^[kohaerenz-protokoll-master-integration-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "DKT-Neudeutung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DKT-Neudeutung` ^[kohaerenz-protokoll-master-integration-md.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "Persistenzgleichung"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Persistenzgleichung` ^[kohaerenz-protokoll-master-integration-md.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "Coheron"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            15
+
+`Coheron` ^[kohaerenz-protokoll-master-integration-md.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "Coherons"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Coherons` ^[kohaerenz-protokoll-master-integration-md.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "Kap"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            17
+
+`Kap` ^[kohaerenz-protokoll-master-integration-md.md:#14]
+
+$ python3 scripts/read.py kohaerenz-protokoll-master-integration-md --count "TEIL"
+whole word, case-sensitive     8
+whole word, case-insensitive   9
+including compounds            8
+
+`TEIL` ^[kohaerenz-protokoll-master-integration-md.md:#8]
+
+$ grep -c "TEIL [IVX]*:" Sources/drive/kohaerenz-protokoll-master-integration-md.md
+8
+$ grep -n "TEIL [IVX]*:" ...
+21:\#\# TEIL I: AXIOMATISCHE G
+103:\#\# TEIL II: DIE PHILOSOP
+137:\#\# TEIL III: DIE FIGUREN
+211:\#\# TEIL IV: DIE WELT-ARC
+265:\#\# TEIL V: DIE NARRATIVE
+320:\#\# TEIL VI: STILISTIK & 
+365:\#\# TEIL VII: DRAMATICA S
+386:\#\# TEIL VIII: OFFENE ARC
+stance_marker_count 13 = 2+8+1+1+1 (counts above)
+$ profile (01-profile.txt): backslash escapes 393, headings 0, 414 lines
+  lines                414  (frontmatter ends at 9)
+  headings             0   bold-only lines 0
+  backslash escapes    393
+  math symbol lines    38

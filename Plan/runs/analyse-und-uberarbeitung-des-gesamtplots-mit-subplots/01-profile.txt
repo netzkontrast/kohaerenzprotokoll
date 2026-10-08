@@ -1,0 +1,14 @@
+# analyse-und-uberarbeitung-des-gesamtplots-mit-subplots
+  lines                88  (frontmatter ends at 9)
+  body words           1371
+  headings             7   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       2
+  backslash escapes    0
+  typographic marks    0   ascii quotes 10
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    138
+  repeated labels      none
+  longest line         570 chars
+

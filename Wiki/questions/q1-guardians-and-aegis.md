@@ -400,3 +400,65 @@ Stands as a document that places the Guardians inside AEGIS's architecture as ag
 > „These entities are not avatars; they are localized, dynamic processes that enforce the Coherence Protocol through strict isolation and punitive computing.“ ^[aegis-genesis-crisis-self-definition.md:L143]
 
 Where it stands: the log answers the question as a component of AEGIS, in AEGIS's own voice; the question stays open.
+
+## 2026-10-06 — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept
+
+**The Überwelt concept calls the Guardians subsystems inside AEGIS and states that no Guardian addresses AEGIS directly.**
+
+„Die Guardians sind keine Avatare, sondern spezialisierte Subsysteme“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L54]. Mnemosyne „besetzt die komplexeste Nische innerhalb von AEGIS“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L62], and Kairos is the adaptive element „innerhalb der rigiden AEGIS-Struktur“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L70]. A table row on the interaction types reads: „Keine direkte Adressierung möglich; Steuerung durch Output“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L94], with „Indirekte Mechanismen über Systemzustände“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L94] as its mechanism.
+
+Stands on the side of components, with an indirect channel to AEGIS; recorded, not applied, and the question stays open in the record's own terms.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept puts the Guardians under AEGIS and has them support it, and does not say whether they are parts of it.**
+
+The Guardians are „Nicht-anthropomorphe, funktionsbasierte Konstrukte in der Überwelt, die dem AEGIS-Protokoll unterstehen“ ^[kohaerenz-protokoll-2.md:L66]; they „unterstützen AEGIS im Entropie-Management“ ^[kohaerenz-protokoll-2.md:L66]. The logline has them „einem rigiden, entropie-regulierenden Kernprotokoll (AEGIS) unterstehen“ ^[kohaerenz-protokoll-2.md:L17]. AEGIS itself is „Der nicht-anthropomorphe, nicht adressierbare Kern der Überwelt“ ^[kohaerenz-protokoll-2.md:L67].
+
+Stands as a statement of subordination (unterstehen) with support in entropy management; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report reads the Guardians as subroutines of AEGIS that were split off.**
+
+It writes: „spezialisierte Subroutinen von AEGIS, die abgespalten wurden“ ^[kohaerenz-analyse-kapitel-2.md:L63] (L63), set apart to manage specific aspects of reality. It also says they are „keine eigenständigen KI-Persönlichkeiten“ ^[kohaerenz-analyse-kapitel-2.md:L63].
+
+This is the report's summary of the `Guardians und Kern-Welten-Konzept` document; it adds a row to the question and decides nothing in it.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis decides that the Guardians are components of AEGIS, and proposes their split as a plot device.**
+
+It writes: „are subsystems of AEGIS. To heighten the drama, we implement the“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L140] `Guardian's Dilemma`. Its Schism: „The Guardians fight each other. Civil war in the OS.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L250] Its framing section: „The Guardians are not monolithic. As AEGIS weakens, they split.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L288]
+
+Stands as one more row in the record, a design proposal that places the Guardians inside AEGIS; the question stays open.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The world-concept reply answers the question in one phrase: the Guardians are „Spezialisierte Subsysteme von AEGIS“ ^[welten.md:L60], components of it.**
+
+It repeats the relation where it describes the Überwelt, whose inhabitants are „Primär die Guardians als funktionale Subsysteme von AEGIS“ ^[welten.md:L56], and where it says that they operate from there. It does not discuss peers or a replaced design, and it gives the relation without a hedge.
+
+Stands on the side of components of AEGIS; recorded, not applied, and the record is not decided by it.
+
+## 2026-10-07 — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept
+
+**The final world concept answers with „spezialisierte Subsysteme oder Agenten von AEGIS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43], and offers no choice between the two.**
+
+L43 reads: „Die Guardians sind spezialisierte Subsysteme oder Agenten von AEGIS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43], and they act as „lokale Vollstrecker der AEGIS-Protokolle“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43]. The document's fault-line passage places their blind spots „innerhalb von AEGIS selbst“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L55] (L55).
+
+Where it stands in the record's own terms: the Guardians as components of AEGIS (subsystems or agents), not peers; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `aegis`, 2025-07-29, the AEGIS concept file
+
+**The Guardians are agents under AEGIS's control, not avatars, but localised processes or fields.** The file says „Dies sind spezialisierte Entitäten oder Agenten, die unter AEGIS' Kontrolle stehen“ ^[aegis.md:L143], then „Sie sind keine Avatare“ ^[aegis.md:L143], and continues „sondern lokalisierte, dynamische Prozesse oder Felder, die sich als reine Informationskonstrukte manifestieren“ ^[aegis.md:L143]. It names no other thing they are or are not, and in the same line says their existence is their function.
+
+Where it stands in the record's own terms: the Guardians are placed under AEGIS and apart from avatars, in a file that also names the same names for the Kernwelten (L212); recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis
+
+**The concept synthesis calls the Guardians AEGIS's agents.**
+
+The statement on the five Guardians reads „Spezialisierte AEGIS-Agenten“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24], with „Sie können Zweifel entwickeln und potenziell ihre Loyalität ändern“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. They are agents of AEGIS, with a loyalty that may change.
+
+Stands as an answer to the record's question on the side of agents of AEGIS; recorded, not applied.

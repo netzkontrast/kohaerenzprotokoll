@@ -1,0 +1,250 @@
+{
+  "document": "romanentwurf-kohaerenz-protokoll-teil-1",
+  "drive_id": "1tlB-CTC0g2xcMm08Q_IDy47AHEGhAZ2WjNxEUXXeUf8",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 56,
+    "decisions": 53,
+    "decided_by_lookup": 42,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        27,
+        61,
+        261
+      ],
+      "attribution": "",
+      "note": "AEGIS as the logic the city runs on, and a neutral voice"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        49,
+        51,
+        75,
+        97,
+        115
+      ],
+      "attribution": "",
+      "note": "four named alters and a Host, as a plan for hints"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        51,
+        97,
+        197
+      ],
+      "attribution": "",
+      "note": "Cerberus as an alter behind fear and protective impulses, asked with a question mark"
+    },
+    {
+      "page": "did",
+      "lines": [
+        33,
+        39,
+        49
+      ],
+      "attribution": "",
+      "note": "an unrecognised DID, proposed as a hint behind Michael's confusion"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "entropy as what the city suppresses after the reboot"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        45,
+        158,
+        233,
+        235,
+        313
+      ],
+      "attribution": "",
+      "note": "Julia, the early name of Juna, asked about rather than stated"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        33,
+        39,
+        75,
+        115,
+        229,
+        257
+      ],
+      "attribution": "",
+      "note": "Michael, the early name of Kael, in a hedged plan and sketch"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        73,
+        229
+      ],
+      "attribution": "",
+      "note": "Michael's minimalist unit and a room without a light source"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "Kairos/Sophia as one alter, for insight and time anomalies"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the city as the aim of Kern-Welt 1"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        257
+      ],
+      "attribution": "",
+      "note": "734 as Michael's own unit number in the prose sketch"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        21,
+        27,
+        73,
+        193,
+        251
+      ],
+      "attribution": "",
+      "note": "the city's perfection as control, its logic as the systems', and its rooms and corridors sketched"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        21,
+        27,
+        60
+      ],
+      "attribution": "",
+      "note": "LogOS named beside AEGIS as what controls the city"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        51,
+        97
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as an alter behind memory flashes and sadness, asked with a question mark"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        33,
+        229,
+        251,
+        273
+      ],
+      "attribution": "",
+      "note": "Risse as foreshadowing of the simulation and of Michael's fragmentation"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "Sophia only in the joined form Kairos/Sophia"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 21,
+      "decision": "reading",
+      "why": "the Konstrukt-Stadt suppressing chaos and entropy, read on entropie"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 51,
+      "decision": "reading",
+      "why": "Kairos/Sophia as an alter, read on kairos"
+    },
+    {
+      "page": "kern-welten",
+      "surface": "Kern-Welt",
+      "line": 21,
+      "decision": "reading",
+      "why": "the Konstrukt-Stadt as Kern-Welt 1, read on kern-welten"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 51,
+      "decision": "reading",
+      "why": "Kairos/Sophia as an alter, read on sophia"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 32,
+      "decision": "occurrence",
+      "why": "the world's general nature as a simulation"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

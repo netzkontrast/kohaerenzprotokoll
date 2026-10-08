@@ -1,16 +1,20 @@
 ---
 term: Evaluierungseinheit
 status: candidate
-sources: 6
-readings: 5
+sources: 7
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "kohaerenz-protokoll", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-24"
 ---
 
 # Evaluierungseinheit
 
 **The place in KW3 where the veil falls, Kap 13.**
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — the Evaluierungseinheit in Kapitel 13, with the first persona's collapse
+
+The DKT synthesis, an analysis of the plot, places Kael's transfer in Kapitel 13, `Der erste Zusammenbruch`: „Kael wird in die Evaluierungseinheit transferiert“ ^[roman-synthese-mit-dual-kernel-theorie.md:L145]. The systemic bullet of the same chapter reads „Detektion einer kaskadierenden Kohärenz-Verletzung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L146], and the DKT bullet names the K1 kernel failure and the transition into a Secure Isolation State (L148). It names no Kernwelt for the place.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 

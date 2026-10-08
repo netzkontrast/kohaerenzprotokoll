@@ -1,0 +1,346 @@
+{
+  "document": "narrativ",
+  "drive_id": "19_w81TDNrwXpUloP_dU5dtX-4WsEcnvtYoRcwkD8XDg",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-175/brief.md; no chapter page — the file names 39 chapters only as a count",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 96,
+    "decisions": 99,
+    "decided_by_lookup": 84,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Two German texts in one file — a craft compendium by a „Narrativer Architekt“ and a blueprint by a „Konzept-Dramaturg“: its 64 new surfaces are prose rules and craft labels (polyphone Prosa, Algorithmic Horror, Environmental Storytelling, Prosa der Dissonanz), AEGIS's core protocols (BPoF, EIC, Integrity Validation, Entropic Management), Fragment 'O', Das Fundament and the Paraiyas, Dialetheismus, the MESI protocol and tools (Novelcrafter, NCP, Matrix View); what it says of the novel's world went on 26 existing pages and three records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        132,
+        137
+      ],
+      "attribution": "",
+      "note": "seven core protocols in the dramaturg's blueprint"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        45,
+        50,
+        51,
+        125,
+        127,
+        139,
+        141,
+        236
+      ],
+      "attribution": "",
+      "note": "AEGIS as antagonist in the dramaturg's blueprint, and its two prose registers in the compendium"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "a rhythm rule for AEGIS after the transformation"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        73,
+        149
+      ],
+      "attribution": "",
+      "note": "alters traced to their trauma function, eleven parts with five named"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        151,
+        180
+      ],
+      "attribution": "",
+      "note": "Kael's Cache Kohärenz problem and the MESI protocol as metaphor, in the dramaturg's blueprint"
+    },
+    {
+      "page": "did",
+      "lines": [
+        19,
+        70,
+        227
+      ],
+      "attribution": "",
+      "note": "DID on the TSDP model shapes the voice, and portraying it is an ethical duty"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        113,
+        165,
+        229
+      ],
+      "attribution": "",
+      "note": "control against emergence as a creative field, and the Fundament as a source of its rules"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        65,
+        136,
+        139,
+        184
+      ],
+      "attribution": "",
+      "note": "entropy as what AEGIS rejects and resists, and how the compendium has it shown"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        182
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as third reality level and source of the Juna/V link"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        63,
+        132,
+        181
+      ],
+      "attribution": "",
+      "note": "the Guardian-Netzwerk as a validator and Guardians as processes"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        167,
+        194,
+        195,
+        201
+      ],
+      "attribution": "",
+      "note": "Juna/V as external entity, catalyst and Impact Character"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        23,
+        34,
+        145,
+        147,
+        151,
+        193,
+        229
+      ],
+      "attribution": "",
+      "note": "Kael as the source of the narrating voice, and as Main Character and „Gärtner“"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        57,
+        61,
+        63,
+        175,
+        177,
+        180
+      ],
+      "attribution": "",
+      "note": "four Kernwelten, KW1 named Logos-Prime in one voice and Konstrukt-Stadt in the other"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        155
+      ],
+      "attribution": "",
+      "note": "Kiko, a childlike EP, source of creativity once integrated"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        197,
+        199,
+        200,
+        201,
+        202
+      ],
+      "attribution": "",
+      "note": "Kishōtenketsu as the recommended load-bearing frame, in the dramaturg's blueprint"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        125,
+        226
+      ],
+      "attribution": "",
+      "note": "coherence by negation against coherence by acceptance, in the dramaturg's blueprint"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        177,
+        236
+      ],
+      "attribution": "",
+      "note": "KW1 as Konstrukt-Stadt of classical logic in the dramaturg's blueprint"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        153,
+        177
+      ],
+      "attribution": "",
+      "note": "Lex, analytic ANP, integrated as the system's analyst"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        36,
+        147
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as healing goal, and as a prose target"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        154
+      ],
+      "attribution": "",
+      "note": "Nyx, aggressive protector, strategic defence once integrated"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        173,
+        175,
+        181,
+        182
+      ],
+      "attribution": "",
+      "note": "six reality levels in the dramaturg's blueprint, three entries listed"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        65,
+        177,
+        184,
+        236
+      ],
+      "attribution": "",
+      "note": "Risse as visible instability, in both voices"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        152
+      ],
+      "attribution": "",
+      "note": "Selene as inner helper and gatekeeper"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        19,
+        145
+      ],
+      "attribution": "",
+      "note": "Kael's state named as tertiary structural dissociation"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        181
+      ],
+      "attribution": "",
+      "note": "the Digitale Überwelt as the AEGIS network, in the dramaturg's blueprint"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C9"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the project's name), J34 (Juna/V, read on juna), J49 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis — world names, on kern-welten), J23 and J56 (inflection and number: Ketsu in Kishōtenketsu, Entropie-Manifestationen, read on risse and entropie), J12 and J16 (compounds and qualified labels with their own sense: System Kael, read on kael, Digitale Überwelt, read on ueberwelt, Zero Trust Environment Mandate, on aegis-teilfunktionen, Resonanz, the counterpart of AEGIS's logic, neither the protocols nor the world)",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 73,
+      "decision": "reading",
+      "why": "the alters' development traced to their trauma function, read on alters"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 113,
+      "decision": "reading",
+      "why": "control against emergence as a creative field, read on emergenz"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 161,
+      "decision": "reading",
+      "why": "Juna/V in the heading of section III, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the project's name"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 117,
+      "decision": "occurrence",
+      "why": "a tag in a bracketed reference list"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Überwelt",
+      "line": 171,
+      "decision": "reading",
+      "why": "the world as Digitale Überwelt, read on ueberwelt"
+    }
+  ],
+  "not_promoted": [
+    "AEGIS's core protocols beyond SIS — on aegis-teilfunktionen",
+    "Fragment 'O' — on kael and juna",
+    "Das Fundament, the Paraiyas, Dialetheismus — on juna and emergenz",
+    "the MESI protocol — on cache-kohaerenz",
+    "the prose rules and craft labels — rules for writing",
+    "Novelcrafter, NCP, Matrix View, prompt engineering — tools",
+    "Dramatica throughlines — Plan/storyform/ holds them"
+  ],
+  "internal_tension": "KW1 is Logos-Prime in the compendium (L61) and Konstrukt-Stadt in the blueprint (L177); „Elf detaillierte Anteile“ with five named (L149–L155); „Die Sechs Realitätsebenen“ with three numbered entries (L173–L182)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

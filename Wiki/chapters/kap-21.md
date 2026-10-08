@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 28
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse"]
+sources: 34
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -44,6 +44,10 @@ Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-proto
 
 - The concept with subplots titles Kapitel 21 „Rückkehr zu den inneren Landschaften“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L52]. It plans: „Kael besucht Kernwelten mit seinem neuen Verständnis von AEGIS. Er erkennt, wie AEGIS' Logik und Kontrolle seine innere Welt (KW1, KW3) beeinflusst und manipuliert hat“ ^[konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub.md:L52] — a plan, not the chapter as written.
 
+## Reading — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision — Rückkehr zu den inneren Landschaften
+
+- The subplot revision's chapter 21: „Rückkehr zu den inneren Landschaften“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L60]. Its content: „Kael in Kernwelten mit neuem Verständnis“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L60]. A revised plan in a 39-chapter outline, not the chapter as written.
+
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens
 
 Title: the commission titles the chapter „Der Preis der Wahrheit: Interne Konflikte bei der Integration neuen Wissens“ ^[kontext-outline.md:L302], placed in Act 2. Position: `Setting` „Interner mentaler Raum“ ^[kontext-outline.md:L308]
@@ -60,6 +64,10 @@ Focus: `Integrationswiderstand`, „neues, potenziell destabilisierendes Wissen�
 - Story: „Rhys und/oder die sich entwickelnde Selene müssen vermitteln“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L194]
 - Concept: „Im TSDP-Kontext“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L195] (concept tag: `kognitive Dissonanz`, TSDP phase 2/3)
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage, the TSDP phobia
+
+- The strategy report keys this chapter to the TSDP phobia „Phobie vor mentalen Inhalten“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L49]; to the TSDP phobia „Phobie vor dissoziativen Anteilen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L50]; to the TSDP phobia „Phobie vor Bindung/Bindungsverlust“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L51]; to Murdock's stage „Drängendes Verlangen nach Wiederverbindung mit dem Weiblichen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L121]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.2, „Intervention der Guardians & Kaels Verwirrung“ ^[finales-kausales-plot-geruest.md:L119] (Kapitel 18–21)
 
 The beat sheet places Kapitel 21 in Beat 2.2; the beat spans Kapitel 18 to 21.
@@ -68,6 +76,14 @@ The beat sheet places Kapitel 21 in Beat 2.2; the beat spans Kapitel 18 to 21.
 - Event: the beat sheet's `Beschreibung` says „setzen AEGIS' fehlerhafte Protokolle aktiv durch“ ^[finales-kausales-plot-geruest.md:L121]
 - Cause: the `Kausale Verknüpfung` says „hindern sie daran, Kael wirklich zu verstehen, was zu kontraproduktiven Interventionen führt“ ^[finales-kausales-plot-geruest.md:L122]
 - Throughlines: the OS or MC line says „um ihre wahrgenommene Ordnung aufrechtzuerhalten“ ^[finales-kausales-plot-geruest.md:L127]
+
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Ein Garten der unmöglichen Pfade
+
+- The chapter overview plans Kapitel 21 as „Ein Garten der unmöglichen Pfade“ ^[detaillierte-kapiteluebersicht.md:L42], in Akt II (Shō). A plan, not the chapter as written.
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Ein Garten der unmöglichen Pfade
+
+- The final causal blueprint's chapter 21: „Ein Garten der unmöglichen Pfade“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L102]. A plan in an outline of 40 chapters, not the chapter as written.
 
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05
 
@@ -82,6 +98,10 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Flüstern von Außen
 
 - The architecture plan sets Kapitel 21 in Teil 2 as the archetypal phase „Flüstern von Außen“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L37], with the core theme „Erste konkrete Hinweise auf Juna/V und die Externe Ebene“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L37] — a plan, written in the conditional, not the chapter as written. Its section for the chapter begins at L345.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Das radikale Loslassen
+
+- The Kishōtenketsu plan's chapter 21 of 30, in act Ten: „Das radikale Loslassen“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L271]. A plan for a 30-chapter book, not the chapter as written.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the scene outline of the English compilation — `Lex's Dilemma: The Limits of Pure Logic`
 
@@ -127,6 +147,10 @@ Position: Teil II; POV from `Perspektive & Stimme`: „AEGIS (Interlude / Gefund
 
 - Story: the matrix plans „Das Kapitel ist ein reiner Log-File“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L271]
 - Question: „Kann ein Programm unter seinem eigenen Befehlscode leiden?“ ^[kohaerenz-protokoll-39-kapitel-matrix.md:L270]
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Das konstruierte Narrativ
+
+- The DKT synthesis's chapter 21: „Das konstruierte Narrativ“ ^[roman-synthese-mit-dual-kernel-theorie.md:L217]. Its narrative level: „Kael entdeckt, dass seine Kindheit eine algorithmische Konstruktion“ ^[roman-synthese-mit-dual-kernel-theorie.md:L221]. An analysis of a 39-chapter plan, not the chapter as written.
 
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 

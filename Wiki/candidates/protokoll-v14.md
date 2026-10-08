@@ -1,10 +1,10 @@
 ---
 term: Protokoll v1.4
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-plot-blueprint-erstellung"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-plot-blueprint-erstellung", "welten"]
 gathered: "2026-09-17"
 ---
 
@@ -44,3 +44,7 @@ needs working out.
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — Protocol v1.4 as the state of the reboot
 
 Teil 1 begins „nach einem System-Reboot unter AEGIS v1.4“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L138]. In step 1.1 AEGIS „Operiert im Hintergrund unter Protokoll v1.4“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L147], and the blueprint adds „Der Reboot war ein Versuch, Ordnung wiederherzustellen“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L147]. The core-question answer calls v1.4 a reset to a seemingly stable, for Kael incomplete state: „AEGIS' Versuch, das System auf einen vermeintlich stabilen“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42] state.
+
+## Reading — `welten`, 2025-04-20, the world-concept reply — AEGIS evolved up to Protokoll v1.4/v1.5
+
+Under `Evolution` the world-concept reply says of AEGIS only: „Hat sich entwickelt“ ^[welten.md:L45], at least up to `Protokoll v1.4/v1.5`, and that it is „lernfähig, aber fundamental in seiner Logik begrenzt“ ^[welten.md:L45]. It says nothing more of the Protokoll versions.

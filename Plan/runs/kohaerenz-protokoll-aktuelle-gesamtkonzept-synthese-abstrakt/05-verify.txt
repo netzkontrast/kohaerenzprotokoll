@@ -1,0 +1,147 @@
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Theorien"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Theorien` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#13]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Metapher"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`Metapher` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#3]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Analogie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Analogie` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Potentialmeer"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Potentialmeer` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#4]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Kernkonflikt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernkonflikt` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#2]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Gleichzeitigkeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gleichzeitigkeit` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "39"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`39` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Alters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alters` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Rissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Autogenic Emergent General Intelligence System"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autogenic Emergent General Intelligence System` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "OBP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`OBP` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "RIVE"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`RIVE` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "PMAS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PMAS` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "SARM"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`SARM` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "CCPP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`CCPP` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Kaels"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kaels` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#3]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "AEGIS-Agenten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Agenten` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Kohärenz-Inseln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Inseln` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#1]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "AEGIS"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            20
+
+`AEGIS` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#18]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Kael"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Kael` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#5]
+
+$ read.py kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt --count "Struktur"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            9
+
+`Struktur` ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese-abstrakt.md:#6]
+

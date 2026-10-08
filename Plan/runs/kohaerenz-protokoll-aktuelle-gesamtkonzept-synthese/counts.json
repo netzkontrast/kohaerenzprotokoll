@@ -1,0 +1,577 @@
+{
+  "document": "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese",
+  "drive_id": "1nWVeCZgRIiLS8OmE5MraBxbn2IDBJDhlwxqgE5pV4aA",
+  "step": "counts",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Show, Don't Tell",
+    "Kybernetik 2. Ordnung"
+  ],
+  "counts": {
+    "Potentialmeer": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        16,
+        18,
+        29,
+        32,
+        47
+      ]
+    },
+    "Kohärenz-Inseln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kohärenz-Insel": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        36
+      ]
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        31,
+        34,
+        36,
+        37,
+        38,
+        39,
+        45,
+        51,
+        53
+      ]
+    },
+    "Julia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Juna": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "AEGIS": {
+      "n": 31,
+      "n_including_compounds": 38,
+      "lines": [
+        15,
+        16,
+        18,
+        22,
+        23,
+        24,
+        25,
+        29,
+        30,
+        31,
+        37,
+        43,
+        44,
+        45,
+        51,
+        55
+      ]
+    },
+    "Autogenic Emergent General Intelligence System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "OBP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        23
+      ]
+    },
+    "PMAS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        23
+      ]
+    },
+    "RIVE": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        23
+      ]
+    },
+    "SARM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "CCPP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "CAS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        25
+      ]
+    },
+    "ZTV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "ANI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Chinesisches Zimmer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        44
+      ]
+    },
+    "Hard Problem of Consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Kernwelten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        32,
+        39
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Resonanz-Nebel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "K-J-Einheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        44
+      ]
+    },
+    "K-J-Verbindung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        27,
+        39
+      ]
+    },
+    "Kael-Juna Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Moonshine-Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Monstergruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "M-Substrat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "M-Avatar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "VOA/CFT-Substrat-Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Vertex Operator Algebra": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Konformen Feldtheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Moonshine-Modul": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Holographisches Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        43
+      ]
+    },
+    "Zentrales Paradoxon-Cluster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Primzahl-Metapher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Gleichzeitigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Dissoziative Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "DID": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "IFS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Exiles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Firefighters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "EST": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Kosmischer Horror": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        46,
+        52
+      ]
+    },
+    "Symmetriebrechung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Konstruktivismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Prozessphilosophie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Digitale Physik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Gödel'schen Grenzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Landauer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        44
+      ]
+    },
+    "Ashby's Law": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Phänomenologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Double Bind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Sorites": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Mereologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Bekenstein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    }
+  }
+}

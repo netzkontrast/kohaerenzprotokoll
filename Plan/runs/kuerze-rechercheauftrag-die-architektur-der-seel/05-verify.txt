@@ -1,0 +1,58 @@
+# 05-verify: every number the note and census state
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Logline"
+whole word, case-insensitive   1
+including compounds            1
+
+`Logline` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Großes Argument"
+whole word, case-insensitive   1
+including compounds            1
+
+`Großes Argument` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Finalisierungsplan"
+whole word, case-insensitive   1
+including compounds            1
+
+`Finalisierungsplan` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Kaels"
+whole word, case-insensitive   7
+including compounds            7
+
+`Kaels` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#7]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Zero Drafts"
+whole word, case-insensitive   1
+including compounds            1
+
+`Zero Drafts` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Kohärenz durch Negation"
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz durch Negation` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Kohärenz durch Integration"
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz durch Integration` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Kollaps / Die Leere"
+whole word, case-insensitive   1
+including compounds            1
+
+`Kollaps / Die Leere` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Leere/des Potentialmeers"
+whole word, case-insensitive   1
+including compounds            1
+
+`Leere/des Potentialmeers` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Dramatica Storyform"
+whole word, case-insensitive   1
+including compounds            1
+
+`Dramatica Storyform` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+$ python3 scripts/read.py kuerze-rechercheauftrag-die-architektur-der-seel --count "Kishōtenketsu"
+whole word, case-insensitive   1
+including compounds            1
+
+`Kishōtenketsu` ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:#1]
+stance_marker_count 3 = Logline 1 + Großes Argument 1 + Finalisierungsplan 1
+Census facts: 73 candidates, 0 zeros, Kael 4 word / 11 in (draft); AEGIS 12 word (04-counts.txt); 8 headings (01-profile.txt); end-list marks at L49, L62 by read.py

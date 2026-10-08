@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Kernel (K₁)
 status: candidate
-sources: 34
-readings: 34
+sources: 43
+readings: 43
 conflict: none
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "ki-prompt-analyse-hard-problem-of-consciousness", "ontologische-inversion-von-aegis-kritisches-framework", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "romanprojekt-analyse-synthese", "roman-outline-stilmittel-perspektiven-umsetzung", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-architecture-synthesis", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "roman-konzept-reduktion-und-kernfindung", "master-konzept-kohaerenz-protokoll-analyse", "ki-roman-architektur-kritische-analyse-methoden", "charaktermodellierung-mit-aieos-schema", "analyse-des-romanprojekts-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie"]
 aliases: ["Kohärenz-Kernel"]
 gathered: "2026-09-24"
 ---
@@ -17,6 +17,10 @@ gathered: "2026-09-24"
 
 The Definitive Guide writes `The Coherence Kernel (K₁)` in English: „This is the principle of order, structure, and information preservation.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L62] It acts through its building blocks, `Coherons`, described as „atoms of persistence“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L62]; „K₁'s mechanism responds by emitting a“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L62] Corrective Wavelet when K₀ disrupts a structure.
 
+## Reading — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis — the Kohärenz-Kernel as the domain of reversible computation
+
+The project analysis (an unsigned essay; its `Kapitel` are its own sections) introduces the kernel in Kapitel 1 under the label K₁, `Das Kohärenz-Kernel`: it is „ein Bereich reversibler Berechnung, in dem Information erhalten bleibt“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L30], where relational structures are kept up. The essay reports this from a numbered reference text and sets it against its Kollaps-Kernel counterpart. The essay then describes the kernel as counteracting the erosive pressure of the other domain through Coherons and Corrective Wavelets (L34).
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — K_1 in the Protokoll-Ontologie
 
 Reporting the Protokoll-Ontologie from a document it cites by digit, the paper names the coherence kernel, „dem Kohärenz-Kernel, der Tendenz zur Ordnung und Persistenz“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L93] (L93), as one side of the universe's primary conflict. AEGIS's fault, it says, is that it reads Kael's psyche, a high form of K_1, wrongly as collapse (L94).
@@ -25,9 +29,19 @@ Reporting the Protokoll-Ontologie from a document it cites by digit, the paper n
 
 Under the heading of the dual kernel the exegesis says of the Kohärenz-Kernel (written `K\_1`) that it is the domain of reversible computation and conservation of information; with footnote 1 glued to the sentence, it reports a definition of consciousness: „die subjektive Signatur der Kohärenz“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L49], one that learns to preserve itself.
 
+## Reading — `master-konzept-kohaerenz-protokoll-analyse`, 2025-12-05, the master concept — K1 as the principle of reversible computation and the home of the coherence theory of truth
+
+The master concept names the first kernel `Kohärenz-Kern` (K1) and defines it as „Das Prinzip der reversiblen Berechnung, der Informationserhaltung und der Struktur“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L92]. It adds that K1 generates mutual information and corresponds to physical symmetry and the conservation laws, and assigns it to AEGIS: the attempt to maintain order and identity against decay. Here, it says, the coherence theory of truth holds: „Wahr ist, was widerspruchsfrei ins System passt“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L92].
+
+In its definition of the Protokoll (section 7.1) the master concept writes K1 in brackets after Mosaik and Polyphonie, the flexible, paraconsistent structures that carry incoherent states into a higher order, while K0 stands beside trauma and entropy. The section on the world ties K1 to AEGIS' order; the two uses sit in the same document, and the master concept does not remark on the difference.
+
 ## Reading — `roman-outline-stilmittel-perspektiven-umsetzung`, 2026-02-23, the drafting compendium — K1, the mode of AEGIS's rule, and its prose style
 
 The drafting compendium of 2026-02-23 reports (reference 7 glued on) that the K1 kernel stands for „reversible, phasenkohärente Berechnung, die Ordnung und den Hard Canon der Welt“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L45]. In the story this is the state „wenn AEGIS die absolute Kontrolle ausübt“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L45]. Under the label `Stilistische Vorgabe` it instructs that K1-dominated scenes, in the Konstrukt-Stadt or from the Guardian LogOS's view, be written in „strengen, klinischen, objektiven und minimalistischen Stil“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L47]. The kernel stands in the heading with its agent: „K1 (Der Kohärenz-Kernel) und der System Architect“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L43].
+
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — the coherence kernel as the reversible, information-preserving substrate
+
+The first paragraph of the DKT synthesis names the kernel: the interaction „zwischen dem Kohärenz-Kernel“ ^[roman-synthese-mit-dual-kernel-theorie.md:L13] and the collapse kernel constitutes Kael's experience of reality (the symbol in the brackets after the name is lost in the export). In the section `Theoretischer Rahmen` the first of the two substrates is described, again with its symbol lost, as „dem Kernel der reversiblen, informationserhaltenden Berechnungen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L17]. In the table of that section AEGIS and LogOS are assigned to „(Kohärenz)“ ^[roman-synthese-mit-dual-kernel-theorie.md:L24] with the function of maintaining structure.
 
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — the Kohärenz-Kernel in section 2.1
 
@@ -40,6 +54,10 @@ The refactoring plan is an assistant's proposal to the author; the simulation is
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — the kernel of reversible computation, embodied by AEGIS
 
 The architecture report headlines the Kohärenz-Kernel (its glyph lost in the export) and says the domain „repräsentiert die zugrunde liegende Struktur reversibler Berechnungen“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L31]. In the novel's context it says „verkörpert der Antagonist AEGIS“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L33] this kernel. Its comparison table sets the kernel against the erasure kernel under „Der Kohärenz-Kernel“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L43].
+
+## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — the ordering kernel, and the channel by which it glitches out of the simulation
+
+The AIEOS evaluation describes reality in the novel as the result of the interaction „zwischen einem ordnenden Kohärenz-Kernel“ ^[charaktermodellierung-mit-aieos-schema.md:L17] and an entropic Kollaps-Kernel; the export dropped the symbols that follow each name. In the third act, it says, the schema's parameters are „die Kanäle, durch die der Kohärenz-Kernel“ ^[charaktermodellierung-mit-aieos-schema.md:L180] from the literary simulation passes into empirical reality.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — AEGIS as K\_1 only by default; true K\_1 in the Mosaik-Herz
 
@@ -55,13 +73,41 @@ What the kernel is, in the document's words: „Der -Kernel repräsentiert die z
 
 The critical reading the document holds takes AEGIS out of it: the inversion „AEGIS vom Kohärenz-Kernel () abzieht und ihn exakt dem gegenüberliegenden Kollaps-Kernel () zuordnet“ ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:L67].
 
+## Reading — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework — the kernel of reversibility, as a methods handbook reports it
+
+The critical-methods framework, a methods handbook reporting the architecture from its reference 1, heads its section „Der Kohärenz-Kernel“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L38] and ties it to reversibility (the kernel symbol was lost in the export, so the name stands without it). It says the kernel „operiert nach den Prinzipien der klassischen Logik und der absoluten Reversibilität“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L40], and in the table header the kernel is paired with AEGIS (L54).
+
+For testing, the handbook asks that the kernel's architecture be kept apart from text generation, and names its quality criterion: „die absolute Abwesenheit von semantischem Drift über extrem lange Kontextfenster“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L42].
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — K1 as principle of order
+
+The master integration heads the kernel `K₁` with „(Kohärenz-Kernel) — Prinzip der Ordnung“ ^[kohaerenz-protokoll-master-integration-md.md:L31] and gives its „Philosophischer Kern: Symmetrie als aktive computationelle Überlebensstrategie“ ^[kohaerenz-protokoll-master-integration-md.md:L37] — the geometry of restorability, in the document's words (L37). It is the domain of reversible computation, without time arrow inside pure `K₁` dynamics (L34).
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — the kernel of reversible computation and the coherence theory of truth
 
 The pitch introduces it: „der sogenannte Kohärenz-Kernel“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L25] (its symbol is lost in the export), „Dieser repräsentiert die Domäne der reversiblen Berechnung, der absoluten Strukturerhaltung und der Generierung von“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L25] Mutual Information. It corresponds philosophically to the coherence theory of truth, and its danger is stagnation: „Ein reines“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L25] universe of it is „statisch, rigide und letztlich tot“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L25]. The ANP column of the kernel table lists „Reversible Berechnung, Kohärenztheorie der Wahrheit, AEGIS-Architektur.“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L84]
 
+## Reading — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report — the kernel of absolute consistency and its stagnation
+
+The reduction report heads a subsection with the name `Kohärenz-Kernel`; the export lost the kernel's symbol, which leaves empty brackets in the heading and a gap in the running text. It reads the kernel, carried by AEGIS, as one that „repräsentiert das Streben nach absoluter interner Konsistenz“ ^[roman-konzept-reduktion-und-kernfindung.md:L50]. Its place is „Dies ist der Ort der reversiblen Berechnung und der perfekten Ordnung.“ ^[roman-konzept-reduktion-und-kernfindung.md:L50] The report names the coherence theory of truth for this domain.
+
+Of its danger the report writes: „Die Gefahr dieser absoluten Ordnung liegt in ihrer kristallinen Stagnation.“ ^[roman-konzept-reduktion-und-kernfindung.md:L52]
+
 ## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — the Kohärenz-Kernel as one of two computing cores
 
 This document is a software specification for a writing assistant that borrows the novel's names. It defines the kernel (its symbol lost in the export) as „Der -Kernel, definiert als der Kohärenz-Kernel, ist die universelle Instanz der Ordnung, Symmetrie und der reversiblen Berechnung.“ ^[ki-assistent-romanwelt-kohaerenz-und-aegis-spec.md:L21] The next sentence adds that in this state no information is lost.
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — the Kohärenz-Kern (K₁) moved from AEGIS to Kael by the brief's inversion
+
+This is the architecture synthesis's inversion, not a settled placement. It says what it inverted from: „Die kanonische Architektur positionierte AEGIS als den Kohärenz-Kern (K₁)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L27] (English L23: „The canonical architecture positioned the antagonist system, AEGIS, as the Coherence Kernel“ ^[kohaerenz-protokoll-architecture-synthesis.md:L23]). The inversion makes Kael's reality the K₁: „was seine Realität zum wahren K₁ macht“ ^[kohaerenz-protokoll-architecture-synthesis.md:L27].
+
+The truth rotation maps „Die Korrespondenztheorie der Wahrheit wird direkt K₁ (dem Kohärenz-Kern) zugeordnet“ ^[kohaerenz-protokoll-architecture-synthesis.md:L33], and in English „The Correspondence Theory of Truth maps directly to K₁ (the Coherence Kernel)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L31]. The architecture synthesis proposes this; the verdict is its own.
+
+## Reading — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis — the reversible domain of the Dual Kernel Theory
+
+The Dual-Kernel analysis describes the Kohärenz-Kernel as one of the two computational domains of the Dual Kernel Theory, set against the Erasure-Kernel; its kernel symbol was lost in the export. It presents the domain as the world of reversible computation: „repräsentiert die Welt der reversiblen Berechnung“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L43]. Of time it says that in the domain „existiert kein thermodynamischer Zeitpfeil“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L43].
+
+A table column carries the name „Kohärenz-Kernel“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L39], and the report sets it against the Erasure-Kernel as „Reversibel, verlustfrei, verfolgbar“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L61] against „Irreversibel, destruktiv, unverfolgbar“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L61].
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the Coherence Kernel, and what the reader must synthesize
 
@@ -186,3 +232,5 @@ Not in date order with the readings above; placed after the last one. `Kohärenz
 
 - `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01: AEGIS is K\_1 only as the default reading; „wahre K\_1 (Kohärenz/Integration)“ ^[ontologische-inversion-von-aegis-kritisches-framework.md:L145] arises in the Mosaik-Herz, Phase III (L102).
 - `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01: AEGIS belongs to the Kohärenz-Kernel in the canonical reading it reports and is drawn from it in the critical reading it holds.
+- the architecture synthesis proposes, by inversion, that the Kohärenz-Kern (K₁) is Kael's, where it reports that the canonical architecture placed it with AEGIS: „Die kanonische Architektur positionierte AEGIS als den Kohärenz-Kern (K₁)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L27].
+- The project analysis gives the Kohärenz-Kernel as the domain of reversible computation that preserves information; it adds no position of its own.

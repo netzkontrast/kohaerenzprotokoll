@@ -2,7 +2,7 @@
   "document": "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor",
   "drive_id": "1Z_kiKgtEPtgM0bfy_CJldO2FmoeEiS20lQa-60L-7zo",
   "step": "counts",
-  "at": "2026-09-30",
+  "at": "2026-10-07",
   "by": "scripts/capture.py",
   "candidate_source": "written-while-reading",
   "usable_as_baseline": true,
@@ -25,11 +25,13 @@
         269
       ]
     },
-    "Dual-Kernel-Theorie (DKT)": {
-      "n": 1,
-      "n_including_compounds": 1,
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
       "lines": [
-        13
+        106,
+        300,
+        301
       ]
     },
     "Dual-Kernel-Theorie": {
@@ -42,21 +44,6 @@
         261
       ]
     },
-    "DKT": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        13,
-        39
-      ]
-    },
-    "Dual Kernel Theory (DKT)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        39
-      ]
-    },
     "Dual Kernel Theory": {
       "n": 3,
       "n_including_compounds": 3,
@@ -64,6 +51,14 @@
         37,
         39,
         275
+      ]
+    },
+    "DKT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        39
       ]
     },
     "Kohärenz-Kernel": {
@@ -99,12 +94,11 @@
         213
       ]
     },
-    "Story Mind": {
-      "n": 2,
-      "n_including_compounds": 2,
+    "Proto-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
       "lines": [
-        13,
-        69
+        45
       ]
     },
     "Witness-Funktion": {
@@ -125,379 +119,96 @@
         55
       ]
     },
-    "Proto-Bewusstsein": {
+    "Landauer-Wärme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        170,
+        172
+      ]
+    },
+    "Landauer-Hitze": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        45
+        264
       ]
     },
-    "Erasure": {
+    "Semantic World Engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Experiential Renderer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Systemrisse": {
       "n": 2,
-      "n_including_compounds": 5,
+      "n_including_compounds": 2,
       "lines": [
-        27,
-        37,
-        39,
-        47,
-        59
+        181,
+        183
       ]
     },
-    "Kohärenz": {
-      "n": 15,
-      "n_including_compounds": 29,
+    "Risse": {
+      "n": 4,
+      "n_including_compounds": 4,
       "lines": [
-        11,
-        13,
-        27,
-        37,
-        39,
-        41,
-        55,
-        59,
-        104,
+        183,
+        185
+      ]
+    },
+    "Boundary": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Bulk": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Paradoxon der fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Kael": {
+      "n": 17,
+      "n_including_compounds": 24,
+      "lines": [
         106,
-        119,
+        108,
+        110,
+        115,
+        121,
         125,
-        129,
-        131,
+        127,
+        137,
+        148,
+        156,
+        158,
         162,
-        168,
-        185,
-        195,
+        199,
+        215,
+        227,
+        231,
+        241,
         251,
-        255,
-        257,
-        261,
-        263,
-        269,
-        300,
-        301
-      ]
-    },
-    "Dynamic Pairs": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        82
-      ]
-    },
-    "Dynamikpaare": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        82
-      ]
-    },
-    "Quad": {
-      "n": 2,
-      "n_including_compounds": 4,
-      "lines": [
-        71,
-        73,
-        82
-      ]
-    },
-    "Grand Argument Story": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        86,
-        266
-      ]
-    },
-    "Objective Story Throughline (OS)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        88
-      ]
-    },
-    "Main Character Throughline (MC)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        89
-      ]
-    },
-    "Influence Character Throughline (IC)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        90
-      ]
-    },
-    "Relationship Story Throughline (RS)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        91
-      ]
-    },
-    "Durchlinien": {
-      "n": 4,
-      "n_including_compounds": 4,
-      "lines": [
-        84,
-        93,
-        129,
-        131
-      ]
-    },
-    "Throughlines": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        84
-      ]
-    },
-    "Dramatica Storyform Mapping": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        67,
-        261
-      ]
-    },
-    "Storyform": {
-      "n": 7,
-      "n_including_compounds": 7,
-      "lines": [
-        67,
-        93,
-        129,
-        261,
-        266,
-        274,
-        294
-      ]
-    },
-    "Wissen (Knowledge)": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        73,
-        75
-      ]
-    },
-    "Denken (Thought)": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        73,
-        76
-      ]
-    },
-    "Fähigkeit (Ability)": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        73,
-        77
-      ]
-    },
-    "Verlangen (Desire)": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        73,
-        78
-      ]
-    },
-    "Klasse (Class/Domain)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        99
-      ]
-    },
-    "Typ (Type/Concern)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        100
-      ]
-    },
-    "Dramatica-Theorie": {
-      "n": 3,
-      "n_including_compounds": 3,
-      "lines": [
-        13,
-        69,
-        221
-      ]
-    },
-    "Dramatica": {
-      "n": 16,
-      "n_including_compounds": 20,
-      "lines": [
-        11,
-        13,
-        67,
-        69,
-        73,
-        97,
-        131,
-        145,
-        221,
-        261,
-        286,
-        287,
-        290,
-        291,
-        293,
-        294,
-        295,
-        296,
-        298,
-        314
-      ]
-    },
-    "harte Problem": {
-      "n": 4,
-      "n_including_compounds": 4,
-      "lines": [
-        13,
-        15,
-        17,
-        261
-      ]
-    },
-    "Qualia": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        17
-      ]
-    },
-    "Zombies": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        21
-      ]
-    },
-    "Global Workspace Theory (GWT)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        23
-      ]
-    },
-    "Global Workspace Theory": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        23
-      ]
-    },
-    "GWT": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        23
-      ]
-    },
-    "Orchestrated Objective Reduction (Orch-OR)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        27
-      ]
-    },
-    "Orchestrated Objective Reduction": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        27
-      ]
-    },
-    "Orch-OR": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        25,
-        27
-      ]
-    },
-    "Mikrotubuli": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        27
-      ]
-    },
-    "objektive Reduktion": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        27,
-        172
-      ]
-    },
-    "Landauer-Prinzip": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        51,
-        172
-      ]
-    },
-    "Landauer-Limit": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        51
-      ]
-    },
-    "Dekohärenz": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        51
-      ]
-    },
-    "Superpositionspotenzial": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        55,
-        172
-      ]
-    },
-    "Erklärungslücke": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        23
-      ]
-    },
-    "Variation (Variation/Issue)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        101
-      ]
-    },
-    "Element (Element/Problem)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        102
-      ]
-    },
-    "Exkludierenden Ordnung": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        106
-      ]
-    },
-    "Emergenten Ordnung": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        106
+        265,
+        269
       ]
     },
     "AEGIS": {
@@ -533,30 +244,32 @@
         299
       ]
     },
-    "Kael": {
-      "n": 17,
-      "n_including_compounds": 24,
+    "Juna": {
+      "n": 7,
+      "n_including_compounds": 9,
       "lines": [
-        106,
-        108,
-        110,
-        115,
-        121,
+        123,
         125,
         127,
-        137,
-        148,
-        156,
-        158,
-        162,
         199,
-        215,
+        201,
         227,
         231,
-        241,
-        251,
-        265,
-        269
+        251
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Juna-Vektor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
       ]
     },
     "Lex": {
@@ -601,11 +314,18 @@
         113
       ]
     },
-    "Apparently Normal Parts (ANPs)": {
+    "Oblivion": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        112
+        217
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
       ]
     },
     "Apparently Normal Parts": {
@@ -622,13 +342,6 @@
         112
       ]
     },
-    "Emotional Parts (EPs)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        113
-      ]
-    },
     "Emotional Parts": {
       "n": 1,
       "n_including_compounds": 1,
@@ -641,6 +354,27 @@
       "n_including_compounds": 1,
       "lines": [
         113
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Exkludierenden Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Emergenten Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
       ]
     },
     "funktionale Multiplizität": {
@@ -656,6 +390,20 @@
       "lines": [
         115,
         158
+      ]
+    },
+    "Kohärenz statt Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Kohärenz durch Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
       ]
     },
     "Rauschen": {
@@ -682,55 +430,6 @@
         119
       ]
     },
-    "Kohärenz statt Wahrheit": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        119
-      ]
-    },
-    "Kohärenz durch Negation": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        162
-      ]
-    },
-    "Prinzip der Explosion": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        119
-      ]
-    },
-    "Juna": {
-      "n": 7,
-      "n_including_compounds": 9,
-      "lines": [
-        123,
-        125,
-        127,
-        199,
-        201,
-        227,
-        231,
-        251
-      ]
-    },
-    "Juna/V": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        125
-      ]
-    },
-    "Juna-Vektor": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        123
-      ]
-    },
     "Moonshine-Link": {
       "n": 5,
       "n_including_compounds": 5,
@@ -740,6 +439,21 @@
         139,
         197,
         199
+      ]
+    },
+    "Moonshine-Vektor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        267
+      ]
+    },
+    "ontologischer Exploit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        197,
+        267
       ]
     },
     "Gnosis": {
@@ -755,97 +469,6 @@
       "n_including_compounds": 1,
       "lines": [
         127
-      ]
-    },
-    "Kohärenz-Prime Storyform": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        129
-      ]
-    },
-    "Objective Story (OS)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        136
-      ]
-    },
-    "Main Character (MC)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        137
-      ]
-    },
-    "Influence Character (IC)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        138
-      ]
-    },
-    "Relationship Story (RS)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        139
-      ]
-    },
-    "Physics (Activity)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        136
-      ]
-    },
-    "Mind (Fixed Attitude)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        137
-      ]
-    },
-    "Universe (Situation)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        138
-      ]
-    },
-    "Psychology (Manipulation)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        139
-      ]
-    },
-    "Gott in der Maschine": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        138
-      ]
-    },
-    "Diagonale Opposition": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        145
-      ]
-    },
-    "Kontrolle (Control)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        150
-      ]
-    },
-    "Unkontrollierten (Uncontrolled)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        150
       ]
     },
     "Gödel-Gambit": {
@@ -878,6 +501,13 @@
         158
       ]
     },
+    "fatales Schachmatt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
     "Pathologische Transformation": {
       "n": 1,
       "n_including_compounds": 1,
@@ -893,91 +523,47 @@
         269
       ]
     },
-    "fatales Schachmatt": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        162
-      ]
-    },
-    "Landauer-Wärme": {
+    "Genesis-Krise": {
       "n": 2,
       "n_including_compounds": 2,
       "lines": [
-        170,
-        172
+        207,
+        209
       ]
     },
-    "Semantic World Engine": {
+    "Telefonat vor 20 Jahren": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        176
+        205
       ]
     },
-    "Experiential Renderer": {
+    "phenomenologischer Anker": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        177
+        205
       ]
     },
-    "System 1": {
+    "negativen Information": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        176
+        211
       ]
     },
-    "System 2": {
+    "Zero-Trust-Architektur": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        177
+        211
       ]
     },
-    "thermische Signatur": {
+    "Freeze": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        179
-      ]
-    },
-    "Systemrisse": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        181,
-        183
-      ]
-    },
-    "Risse": {
-      "n": 4,
-      "n_including_compounds": 4,
-      "lines": [
-        183,
-        185
-      ]
-    },
-    "Boundary": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        183
-      ]
-    },
-    "Bulk": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        183
-      ]
-    },
-    "Paradoxon der fehlausgerichteten Kohärenz": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        185
+        217
       ]
     },
     "Das Fundament": {
@@ -985,13 +571,6 @@
       "n_including_compounds": 1,
       "lines": [
         195
-      ]
-    },
-    "Potential Sea": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        199
       ]
     },
     "Monstergruppe": {
@@ -1010,32 +589,176 @@
         195
       ]
     },
-    "tertiären strukturellen Dissoziation der Persönlichkeit (TSDP)": {
+    "Potential Sea": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        110
+        199
       ]
     },
-    "TSDP": {
+    "Der Gärtner": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        110
+        269
       ]
     },
-    "Internal Family Systems (IFS)": {
+    "Potentialmeeres": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        110
+        269
       ]
     },
-    "IFS": {
+    "Isomorphie": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        110
+        257
+      ]
+    },
+    "Metric of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "Kohärenz-Prime Storyform": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Carrier Wave": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "Kernproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Kontrolle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        150
+      ]
+    },
+    "Unkontrollierten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Story Mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        69
+      ]
+    },
+    "Quad": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        71,
+        73,
+        82
+      ]
+    },
+    "Dynamic Pairs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Dynamikpaare": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Durchlinien": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        84,
+        93,
+        129,
+        131
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        266
+      ]
+    },
+    "Objective Story Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Main Character Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Influence Character Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Relationship Story Throughline": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        289
+      ]
+    },
+    "Diagonale Opposition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Mental Sex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        219,
+        221
+      ]
+    },
+    "Parakonsistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        239,
+        241
       ]
     },
     "parakonsistente Logik": {
@@ -1046,18 +769,48 @@
         265
       ]
     },
-    "Prehension": {
+    "Internal Family Systems": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        125
+        110
       ]
     },
-    "Gödels Unvollständigkeitssätze": {
+    "Global Workspace Theory": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        154
+        23
+      ]
+    },
+    "Orchestrated Objective Reduction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Orch-OR": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        27
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        172
+      ]
+    },
+    "Landauer-Limit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
       ]
     },
     "holographische Prinzip": {
@@ -1089,195 +842,18 @@
         195
       ]
     },
-    "Vertex-Operator-Algebra": {
+    "Prinzip der Explosion": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        195
+        119
       ]
     },
-    "Quantenverschränkung": {
+    "Prehension": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
         125
-      ]
-    },
-    "architektonische Hintertür": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        201
-      ]
-    },
-    "Telefonat vor 20 Jahren": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        205
-      ]
-    },
-    "phenomenologischer Anker": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        205
-      ]
-    },
-    "phenomenologische Ankerereignis": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        203
-      ]
-    },
-    "Genesis-Krise": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        207,
-        209
-      ]
-    },
-    "traumatische Geburt der Ordnung": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        209
-      ]
-    },
-    "negativen Information": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        211
-      ]
-    },
-    "Zero-Trust-Architektur": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        211
-      ]
-    },
-    "Gefahr der Auflösung": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        215
-      ]
-    },
-    "Host": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        215
-      ]
-    },
-    "Oblivion": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        217
-      ]
-    },
-    "Mental Sex": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        219,
-        221
-      ]
-    },
-    "Leverage Points": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        233
-      ]
-    },
-    "Zwecken (Purposes)": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        225
-      ]
-    },
-    "Landauer-Hitze": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        264
-      ]
-    },
-    "Metric of Truth": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        257
-      ]
-    },
-    "Isomorphie": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        257
-      ]
-    },
-    "Carrier Wave": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        266
-      ]
-    },
-    "Moonshine-Vektor": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        267
-      ]
-    },
-    "ontologischen Exploit": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        267
-      ]
-    },
-    "Der Gärtner": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        269
-      ]
-    },
-    "Über-Integration": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        269
-      ]
-    },
-    "Logik-Maschine": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        269
-      ]
-    },
-    "Firewalls": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        251
-      ]
-    },
-    "Potentialmeeres": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        269
       ]
     },
     "Resonanzbindung": {
@@ -1288,107 +864,32 @@
         249
       ]
     },
-    "Feldentropie": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        253,
-        255
-      ]
-    },
-    "phasengesperrte Kohärenz": {
+    "Qualia": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        251
+        17
       ]
     },
-    "Chalmers": {
-      "n": 6,
-      "n_including_compounds": 6,
-      "lines": [
-        17,
-        21,
-        278,
-        280,
-        281,
-        292
-      ]
-    },
-    "Penrose": {
+    "Zombies": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        27
+        21
       ]
     },
-    "Hameroff": {
+    "Erklärungslücke": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        27
+        23
       ]
     },
-    "Parakonsistenz": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        239,
-        241
-      ]
-    },
-    "Attraktoren": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        245,
-        249
-      ]
-    },
-    "Attraktorzustände": {
+    "Hartes Problem": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        255
-      ]
-    },
-    "Resonance Complexity Theory": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        312
-      ]
-    },
-    "Integrated Information Theory": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        313
-      ]
-    },
-    "Neg-formation": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        283
-      ]
-    },
-    "Borcherds": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        302
-      ]
-    },
-    "Gödel": {
-      "n": 0,
-      "n_including_compounds": 6,
-      "lines": [
-        152,
-        154,
-        156,
-        158,
-        201
+        33
       ]
     }
   }

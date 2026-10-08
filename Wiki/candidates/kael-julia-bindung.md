@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 5
-readings: 5
+sources: 8
+readings: 8
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -37,6 +37,26 @@ Its mechanism. The source lists resonance, entanglement and ontological anchorin
 as candidates ^[kohaerenzprotokoll-aegis-und-systementropie.md:L110–115] and settles on none, then names the gap as its own
 open question ^[kohaerenzprotokoll-aegis-und-systementropie.md:L239].
 
+## Reading — `welten`, 2025-04-20, the world-concept reply — the connection AEGIS cannot process, and its effects across the system
+
+The reply writes the connection as `Kael-Julia-Verbindung` and `K-J-Verbindung`, and once as `K-J-Bindung`, in LogOS's entry (L65). Of AEGIS it says it is „systemisch unfähig“ ^[welten.md:L46] to recognise or process „die Natur und Bedeutung der Kael-Julia-Verbindung“ ^[welten.md:L46]. The connection is, it says, „eine potenziell höhere Form der Kohärenz“ ^[welten.md:L46], which AEGIS misreads as a maximal threat because it escapes its logic of separation.
+
+LogOS „Kann qualitative Zustände, Emotionen oder nicht-logische Verbindungen“ ^[welten.md:L65] such as the K-J-Bindung not process; Mnemosyne cannot grasp its external, a-temporal nature (L66); Cerberus sees its effects as an anomaly but not its origin (L67). In the dynamics section the connection causes system-wide `Echos`, misunderstood by AEGIS: „Die K-J-Verbindung verursacht systemweite, aber von AEGIS missverstandene“ ^[welten.md:L123].
+
+## Reading — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept — the Kael-Juna-Verbindung as the heart of coherence by integration
+
+The final world concept titles its section IV `Die Kael-Juna-Verbindung: Kohärenz durch Integration` and opens it: „Die Verbindung zwischen Kael und Juna ist das Herzstück des alternativen Kohärenzprinzips“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L89]. It gives the strength of the bond a ground: „die Stärke der Kael-Juna-Bindung ergeben sich aus der“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L104] relational complexity, that is the richness and depth of their inner connections. The text uses both `Verbindung` and `Bindung`; which name the page carries is open (J13).
+
+Against AEGIS's coherence by Abgrenzung it sets, in a table, the Kael-Juna coherence by Integration, with Resonanz, Verbindung and Komplexität as mechanism. It says the paradox shows itself in „AEGIS' Unfähigkeit, die Kael-Juna-Verbindung zu begreifen“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L134].
+
+Recorded as the document's own description, not applied.
+
+## Reading — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint — three written names for the bond, bypassing AEGIS's protocols
+
+The blueprint writes the bond under three names: `Kael-Juna-Verbindung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#27], the clipped `K-J-Verbindung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#18] and `Kael-Juna-Resonanz` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#3]; it never writes Julia for Juna in these names. A heading calls it „Die Kael-Juna-Resonanz: Katalysator des Wandels“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L123].
+
+On what it does to AEGIS, it proposes: „Sie umgeht die logikbasierten Protokolle und Überwachungssysteme von AEGIS“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L127]; for AEGIS it is at first invisible: „Für AEGIS ist diese Resonanz zunächst unsichtbar“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129]. On its origin the blueprint places it outside AEGIS's system: „Diese Verbindung, die ihren Ursprung außerhalb von AEGIS' System hat“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L163], in the `Kohärenz-Insel` or, hedged, „oder einem damit verbundenen Nexus“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L163].
+
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Julia as one of Juna's names, and a question about Köln
 
 The report lists C-008, `Juna vs V vs Julia`, as a minor conflict; its own column: „Inkonsistente Benennung der Entität Juna in den Dokumenten“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L41] (Juna, V, Julia). Among the open questions the registry asks: „Wie genau interagieren Kael und Julia (Juna/V) physisch in der Basisrealität“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L122] — Köln 2026 — and how that time level synchronises with the simulation. It treats Julia as a name of Juna/V and leaves the bond's form open.
@@ -64,3 +84,7 @@ Under Polanyi, „§8.1 Polanyi — Tacit Knowledge / Implizites Wissen [K]" ^[k
 Its chapter table gives Kap 30 the same school, „Polanyi — Tacit Knowledge" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L717], and the function „K-J-Kanal stabil; Junas implizite Vermittlung" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L718].
 Under „§10.4 Bell, Verschränkung, Nichtlokalität [K] (implizit)" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L509], its function is the [[moonshine-link|Moonshine-Link]]: „Funktion im Roman. Moonshine-Link." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510] „Die nicht-lokale Verbindung Kael↔Juna ist mit Quantenverschränkung verwandt." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510] The first witness layer „verifiziert nicht-lokale Verbindungen über Erasure-Felder hinweg" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L510].
 Its image is the [[telefon-stille|Telefon-Stille]]: „Verschränkung erscheint als Resonanz ohne sichtbare Verbindung. Telefon-Stille als MI ohne Daten ist das prototypische Bild." ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L513]
+
+## Where the sources differ
+
+- The plot blueprint proposes that the bond originates outside [[aegis|AEGIS]]'s system, in the `Kohärenz-Insel` or a [[nexus|Nexus]] joined to it, and bypasses AEGIS's protocols.

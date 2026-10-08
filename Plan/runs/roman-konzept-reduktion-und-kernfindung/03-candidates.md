@@ -1,0 +1,86 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+Candidates in the order of the document. The document is an analysis report about the project, written in German, with the kernel symbols lost in the export (headings read `Kohärenz-Kernel ()`). Reference numbers are glued to words. Table cells carry `\*\*` escapes.
+
+- Kohärenz Protokoll
+- Hard Science-Fiction
+- Cosmic Horror
+- Dual Kernel Theorie
+- DKT
+- Kohärenz Protokoll: Finaler Bauplan
+- NovelOS
+- ARCHON
+- AEGIS
+- Monstergruppe
+- Theorie der Strukturellen Dissoziation
+- TSDP
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Kael
+- Logos-Prime
+- Kernwelt
+- Rauschen
+- Nichts Rauschen
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- Lacanschen Realen
+- Landauer-Prinzip
+- Gödelsche Unvollständigkeit
+- funktionalen Multiplizität
+- parakonsistente Logik
+- Bekenstein-Schranke
+- Hawking-Strahlung
+- Gravitativer Kollaps der Information
+- Thermodynamik der Verdrängung
+- Alters
+- Anteile
+- 10er-Matrix
+- 10-Alter-Matrix
+- Lex
+- Nyx
+- Kiko
+- Limina
+- Juna
+- Host
+- Analyst
+- Protector
+- Exile
+- Gatekeeper
+- The Other
+- Das Somatische Regelwerk
+- somatischen Regelwerk
+- KW1
+- KW2
+- KW3
+- KW4
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Mnemosyne
+- Grenzfeste
+- Nova Ardent
+- Echo
+- Flicker
+- Das Schichten-Modell
+- Der Narrative Kern
+- Das Ontologische Fundament
+- Die Prozess-Ebene
+- Der 39-Kapitel-Gradient
+- Gödel-Gambit
+- Chunking & Scaffolding
+- fehlerhafte Gott
+- Gaslighting
+- Analysis Paralysis
+- Exzessive Gruppentheorie-Nomenklatur
+- Komplexe Transitions-Algorithmen
+- Lyons
+- Conway
+- McLaughlin
+- Isomorphie
+- entropische Hitze
+- Risse
+- unsichtbare Fundament
+- stillen Experten
+- System-Architekten

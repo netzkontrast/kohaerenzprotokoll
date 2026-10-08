@@ -1,0 +1,63 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Kael
+- Lex
+- Alex
+- Rhys
+- Kiko
+- Lia
+- AEGIS
+- LogOS
+- Mnemosyne
+- Cerberus
+- Argus
+- Juna/V
+- Juna
+- Host
+- Wächter
+- Guardian
+- Guardians
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Überwelt
+- Externe Ebene
+- Fundament
+- Funktionale Multiplizität
+- Funktionalen Multiplizität
+- TSDP
+- ANP
+- EP
+- Subplot
+- Kaels Weg zur Funktionalen Multiplizität
+- Lex' Systemanalyse & AEGIS' Paradoxon
+- Das Mysterium Juna/V & die Externe Ebene
+- Die Wächter als Agenten & Charaktere
+- Das Fundament & die ultimative Realität
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Kernparadoxon
+- Blinden Flecken
+- Blindspots
+- Meta-Ebene
+- Innere Reise
+- Äußere Konfrontation
+- Glitch
+- Riss
+- Gaslighting
+- Phobie
+- Unzuverlässiger Erzähler
+- Kernkonzepten
+
+## lens
+- Heroine's Journey
+- Hero's Journey
+- Meta-Exploration
+- Opferpunkt
+- Apotheose
+- Elixier
+
+Observations. The document is a plan in German: an analysis of an earlier plot draft, then a chapter list Kapitel 1 to 39 in three parts, each chapter tagged with Subplot 1 to 5 in bold. Subplot numbers are written both as "Subplot 1" and bare; the five subplot titles stand at L13 and again at L19 to L23. The document says an "vorherigen Plan" exists, which is not before me. Names such as Alex, Rhys, Kiko, Lia, Argus are used with no definition. KW1 etc. are written with plain digits. The converter glued 138 reference numbers to words (profile), so some forms may count differently.

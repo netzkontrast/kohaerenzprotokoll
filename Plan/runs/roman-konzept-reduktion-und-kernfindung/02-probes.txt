@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      19
+  backslash escapes      100
+  typographic marks      25
+  ascii quotes           24
+
+# inflection families -- one term, several surfaces
+  infor    Information, Informationen, Informationskontrolle, Informationslöschung, Informationstiefe, Informationsvolumen
+  syste    System, Systemfehler, Systemik, Systemische, Systems, Systemtheorie
+  analy    Analyse, Analysebericht, Analysen, Analysis, Analyst
+  archi    Archipel, Architecture, Architekten, Architektur, Archiv
+  psych    Psyche, Psycho, Psychologie, Psychologische, Psychotraumatologie
+  schic    Schicht, Schichten, Schichtung, Schicksal
+  struk    Struktur, Strukturellen, Strukturen, Strukturierung
+  trans    Transformation, Transitions, Transzendente, Transzendenz
+  dokum    Dokument, Dokumente, Dokumenten
+  explo    Exploration, Exploring, Explosion
+  grenz    Grenzen, Grenzfeste, Grenzfläche
+  kompl    Komplexe, Komplexität, Komplexitätstiefe
+  metap    Metapher, Metaphern, Metaphorik
+  proje    Project, Projekt, Projekts
+  proto    Protocol, Protokoll, Protokolls
+  schre    Schreib, Schreibprozess, Schreibprozesses
+  strat    Strategie, Strategische, Strategischer
+  traum    Trauma, Traumas, Traumatisierung
+  versc    Verschiebung, Verschlüsselung, Verschwinden
+  write    Write, Writer, Writers
+  alter    Alter, Alters
+  antag    Antagonist, Antagonisten
+  antei    Anteil, Anteile
+  arbei    Arbeit, Arbeitsinstrument
+  aspek    Aspekt, Aspekte
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charaktere
+  Book < BookViral
+  Dies < Diese
+  Dual < Dualität
+  Ende < Folgenden
+  Ende < Transzendenz
+  Ende < Transzendente
+  Ende < Zusammenfassende
+  Erst < Erste
+  Erst < Erstellungsdaten
+  Form < Formel
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationstiefe
+  Form < Informationsvolumen
+  Form < Informationslöschung
+  Form < Informationskontrolle
+  Gott < Gottheit
+  Idee < Ideen

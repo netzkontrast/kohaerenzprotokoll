@@ -309,3 +309,27 @@ Stands as a proposal for a perspective slot in log form; whether it is first or 
 > „The system refers to itself exclusively in the third person“ ^[aegis-genesis-crisis-self-definition.md:L23]
 
 Where it stands: with the third-person rows of C14; the log is itself a text in AEGIS's voice and says nothing about a chapter, and the record's decision of 2026-10-05 is unchanged.
+
+## 2026-10-06 — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure
+
+**The dual structure plans AEGIS as the perspective of Kapitel 2, 10 and 22 and a dual perspective in Kapitel 40, and states no grammatical person.**
+
+Kapitel 2 is headed „AEGIS / Die Digitale Überwelt“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L75]; Kapitel 10 and 22 each carry the perspective line `AEGIS` (L131, L203). Kapitel 40 has „Eine duale Perspektive, die zwischen Kael und AEGIS wechselt“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L283]. The outline is a design of 2025-08-15, and these are planned chapters, not chapters as written.
+
+Where it stands: a plan that gives AEGIS whole chapters of its own without saying `ich` or third person; the record's question, which person, is not touched.
+
+## 2026-10-06 — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review
+
+**The Bauplan review reports the plan's voice for AEGIS as „objektiv, klinisch, technisch und präzise“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L60], and proposes a controlled language for it; it names no grammatical person.**
+
+L60: „Die im Bauplan vorgeschlagene Erzählstimme für AEGIS“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L60] is the plan's, as the review reports it. The review's own recommendation is „Die Syntax von AEGIS sollte sich an einer kontrollierten natürlichen Sprache“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L60] orient itself, and (L240) the AEGIS sections should stand sharply against Kael's stream of consciousness.
+
+Stands as a document of 2025-07-29 on AEGIS's voice that does not say first or third person; the record's status is unchanged.
+
+## 2026-10-06 — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview
+
+**The chapter overview plans AEGIS's view in Kapitel 2 and its analyses in Kapitel 6 and 10, and names no grammatical person.**
+
+Kapitel 2 is planned as „Aus der kalten, analytischen Perspektive von AEGIS wird der Zustand von“ ^[detaillierte-kapiteluebersicht.md:L18] Kael assessed after the reboot. Kapitel 6 plans „AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz“ ^[detaillierte-kapiteluebersicht.md:L22] and Kapitel 10 „AEGIS reagiert auf den Riss mit einer“ ^[detaillierte-kapiteluebersicht.md:L26] perverse instantiation. The outline is in the present tense and says of none of the three whether AEGIS speaks as `ich` or is told in the third person.
+
+Stands as one more row of the record's table, dated 2025-07-30: a planned AEGIS perspective in Kapitel 2, its grammatical person not stated; recorded, not applied.

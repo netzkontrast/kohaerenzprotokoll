@@ -1,0 +1,86 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+- Überwelt
+- Digitalen Überwelt
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- AEGIS-Protokoll
+- No-Trust-Prinzips
+- Behavioral Proof-of-Function
+- BPoF
+- Recursive Trust Signature Verification
+- RTSV
+- Real-time Self-Verification
+- Zero-Trust Environment Mandate
+- ZTEM
+- Systemic Isolation Shield
+- SIS
+- Encrypted Intent Channels
+- EIC
+- Consensus Enforcer
+- Kernwelt 1
+- KW1
+- Logos-Prime
+- Konstrukt-Stadt
+- Guardians
+- Guardian
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kael
+- Juna
+- Nyx
+- Kiko
+- Moros
+- TSDP
+- Alters
+- Risse
+- Correspondence Errors
+- Cache-Inkoherenz
+- Selbst-Protokolls
+- Systemkohärenz
+- Nichts-Rauschens
+- Algorithmus-Horror
+- Ich bin, weil ich funktioniere
+- Kohärenz statt Wahrheit
+- korruptes Datum
+- funktionales Bewusstsein
+- funktionalen Intent
+- epistemologischen Blindheit
+- paternalistischen Integration
+- regulierte Atemzählen
+- Algorithmischen Melancholie
+- Zombie-System
+- Broken God
+- Entropie-Jäger
+- Gnosis
+- Systembiografie
+- Kohärenzprognose
+- Selbstverweisungskette
+- passive Exklusion
+- aktive Isolation
+- Quantenverschränkung
+- ER=EPR
+- Wächter-Konstrukte
+- Hybridarchitektur
+- Kohärenz Protokoll
+
+## lens
+
+- topologischen Datenanalyse
+- TDA
+- RTD-AE
+- Zero-Trust-Architekturen
+- autopoietischen Systems
+- parakonsistenten Entität
+- Phasenraum-Diagrammen
+- Matrix
+- Tron
+- Diaspora
+- Blindsight
+- Minds
+- Scramblern
+
+The document is a concept text on the "digitale Überwelt" as AEGIS's operative reality, followed by a numbered reference list (L155 on) with 14 entries. Its footnote numbers are glued to the words (13 glued ref numbers in the profile), so "Kernwelt 1 (KW1)" stands as "Kernwelt (KW)" on L50 once the digits are stripped; it is listed as Kernwelt 1 and KW1 and may count 0. Three tables hold protocol, interaction and sense rows with escaped bold marks. Guardian names appear only as section headings with a role line under them.

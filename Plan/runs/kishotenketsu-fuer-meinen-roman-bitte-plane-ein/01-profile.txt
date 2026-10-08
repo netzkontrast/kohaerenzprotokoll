@@ -1,0 +1,14 @@
+# kishotenketsu-fuer-meinen-roman-bitte-plane-ein
+  lines                383  (frontmatter ends at 9)
+  body words           3965
+  headings             36   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    11   ascii quotes 140
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    37
+  repeated labels      AEGIS' Perspektive x30, Fokus x30, Handlung x30, Konzept & Recherche x30
+  longest line         429 chars
+

@@ -1,0 +1,200 @@
+{
+  "document": "the-coherence-protocol-a-narrative-distillation",
+  "drive_id": "1ZlR-j_jM4syo_rpEsqsJ7Le_oa8pErVVhyO8MW5fUNo",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 5,
+  "backslash_escapes": 134,
+  "typographic_marks": 66,
+  "ascii_quotes": 272,
+  "inflection_families": {
+    "funct": [
+      "Function",
+      "Functional",
+      "Functionally",
+      "Functions"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrator"
+    ],
+    "multi": [
+      "Multiple",
+      "Multiplicity",
+      "Multisensory"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic"
+    ],
+    "avoid": [
+      "Avoidant",
+      "Avoided"
+    ],
+    "class": [
+      "Classical",
+      "Classification"
+    ],
+    "confr": [
+      "Confrontation",
+      "Confronting"
+    ],
+    "contr": [
+      "Contradiction",
+      "Control"
+    ],
+    "defin": [
+      "Definition",
+      "Definitive"
+    ],
+    "diale": [
+      "Dialectic",
+      "Dialetheical"
+    ],
+    "disor": [
+      "Disorder",
+      "Disorientation"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "emoti": [
+      "Emotional",
+      "Emotionale"
+    ],
+    "estra": [
+      "Estranged",
+      "Estrangement"
+    ],
+    "exter": [
+      "External",
+      "Externalizing"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmented"
+    ],
+    "frame": [
+      "Framework",
+      "Frameworks"
+    ],
+    "garde": [
+      "Garden",
+      "Gardener"
+    ],
+    "glitc": [
+      "Glitch",
+      "Glitches"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelian"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Here",
+      "Inherent"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Laws",
+      "Flaws"
+    ],
+    [
+      "Once",
+      "Conceptual"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Seek",
+      "Seeks"
+    ],
+    [
+      "Void",
+      "Avoided"
+    ],
+    [
+      "Void",
+      "Avoidant"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Gödel",
+      "Gödelian"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Order",
+      "Border"
+    ],
+    [
+      "Order",
+      "Disorder"
+    ],
+    [
+      "Point",
+      "Midpoint"
+    ]
+  ]
+}

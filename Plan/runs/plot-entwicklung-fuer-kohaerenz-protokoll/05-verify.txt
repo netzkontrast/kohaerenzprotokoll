@@ -1,0 +1,139 @@
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "möglicherweise"
+whole word, case-sensitive     16
+whole word, case-insensitive   19
+including compounds            16
+
+`möglicherweise` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#16]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Möglicherweise"
+whole word, case-sensitive     3
+whole word, case-insensitive   19
+including compounds            3
+
+`Möglicherweise` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "vielleicht"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`vielleicht` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#6]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Vielleicht"
+whole word, case-sensitive     1
+whole word, case-insensitive   7
+including compounds            1
+
+`Vielleicht` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "könnte"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            16
+
+`könnte` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#13]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "cite"
+whole word, case-sensitive     236
+whole word, case-insensitive   236
+including compounds            236
+
+`cite` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#236]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            51
+
+`Juna` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#19]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`Risse` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#6]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Transzendenz"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Transzendenz` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#10]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Nexus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nexus` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Szene"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Szene` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "KW1"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`KW1` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#8]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Herausforderung"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            20
+
+`Herausforderung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#16]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Guardian-Intervention"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Guardian-Intervention` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Erkenntnis"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Erkenntnis` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "K-J-Verbindung"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`K-J-Verbindung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#18]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Kael-Juna-Verbindung"
+whole word, case-sensitive     27
+whole word, case-insensitive   27
+including compounds            27
+
+`Kael-Juna-Verbindung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#27]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Kael-Juna-Resonanz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kael-Juna-Resonanz` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Paradoxons"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paradoxons` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Dissoziative Identitätsstörung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dissoziative Identitätsstörung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Dissoziativen Identitätsstörung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziativen Identitätsstörung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py plot-entwicklung-fuer-kohaerenz-protokoll --count "Moonshine"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Moonshine` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#4]
+stance_marker_count: 16+3+6+1+13 = 39

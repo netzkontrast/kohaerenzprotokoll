@@ -1,0 +1,14 @@
+# narrative-blueprint-the-coherence-protocol
+  lines                424  (frontmatter ends at 9)
+  body words           11084
+  headings             49   bold-only lines 2
+  table rows           75   code fences 0
+  question marks       0
+  backslash escapes    254
+  typographic marks    90   ascii quotes 232
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    18
+  repeated labels      Content x4, Purpose x4
+  longest line         1448 chars
+

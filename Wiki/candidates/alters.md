@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 79
-readings: 78
+sources: 113
+readings: 113
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "flow-zustaende-und-dissoziative-identitaet", "kohaerenz-protokoll-hard-sf-horror-thriller", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "subplot-entwicklung-fuer-romanstruktur", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "charakterkonzepte-fuer-kohaerenz-protokoll", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plotideen-generierung"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kp-kap25-2026-09-14-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "flow-zustaende-und-dissoziative-identitaet", "kohaerenz-protokoll-hard-sf-horror-thriller", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "charaktere", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "lokalitaeten-konzept-fuer-roman-simulation", "subplot-entwicklung-fuer-romanstruktur", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "charakterkonzepte-fuer-kohaerenz-protokoll", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plotideen-generierung", "digitale-uberwelt-konzept-und-gestaltung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "deconstructing-reality-s-architecture", "kohaerenz-protokoll-architecture-synthesis", "romanidee-als-interaktiver-prototyp", "project-status-report-kohaerenz-protokoll-canonical-state-st", "kohaerenz-protokoll-2", "romanideen-zu-roman-entwickeln", "kohaerenz-analyse-kapitel-2", "narrativ", "romanarchitektur-kohaerenz-protokoll-finalisierung", "project-coherence-protocol-narrative-blueprint-decisions", "roman-konzept-reduktion-und-kernfindung", "project-status-report-kohaerenz-protokoll-canon-systemic-sta", "kohaerenz-protokoll-weltkonzept-synthese", "master-konzept-kohaerenz-protokoll-analyse", "analyse-des-kohaerenz-protokolls", "the-psychological-mechanics-from-tertiary-structural-dissoci", "plot-entwicklung-fuer-kohaerenz-protokoll", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "dramatica-und-kohaerenz-protokoll-analyse", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "romanentwurf-kohaerenz-protokoll-teil-1", "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "briefing-document-the-kohaerenz-protokoll-narrative-framewor", "the-coherence-protocol-a-worldbuilding-bible", "creative-expose-the-correspondence-principle-as-narrative-ar", "roman-synthese-mit-dual-kernel-theorie"]
 gathered: "2026-09-16"
 ---
 
@@ -32,6 +32,10 @@ None of that is in this source and none of it is on this page. What belongs here
 is the record that **the term enters the corpus as a parenthetical gloss inside a
 question**, and that a page built only from documents where it looks important
 would start somewhere else entirely and never see this first occurrence.
+
+## Reading — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept — hypothetical Kern-Alters, four examples tied to worlds
+
+Among the themes the April 2025 concept lists „innere Systeme (Alters)“ ^[kohaerenz-protokoll-2.md:L37]. In the character section it offers only a hedged list: „Hypothetische Kern-Alters (Beispiele, basierend auf Welten):“ ^[kohaerenz-protokoll-2.md:L53]. Four examples follow (Der Architekt, Das Kind/Echo, Der Wächter, Der Funke), each tied to one world, and the list closes with „(Weitere möglich/nötig)“ ^[kohaerenz-protokoll-2.md:L61]. In the Teil 3 sketch the alters act and cause harm: „Zunehmende Konflikte durch Alter-Aktionen“ ^[kohaerenz-protokoll-2.md:L117] leads on to estrangement from Julia.
 
 ## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — alter names set against each world in a table
 
@@ -61,6 +65,22 @@ On the interior: „Der Grad an Co-Bewusstsein und interner Kommunikation variie
 
 The paper closes the part with „Tabelle: Übersicht über Kaels Alters“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L497], whose column „Primärer Kern-Welt Link“ ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L501] assigns one world to each part, several with a question mark: Limina `Grenzfeste (KW3)?` ^[L503], Silas `Resonanz-Landschaft (KW2)?` ^[L511], and Oblivion split between two worlds, `KW2 (isoliert)/ KW3` ^[L508]. The table's first row is Kael himself, as host. The paper proposes these assignments and does not fix them.
 
+## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — the alters as an unused ensemble that every scene should show
+
+The part-1 plot concept criticises the earlier draft because the alters beyond the four named side characters stay unused: „weitere relevante Alters von Kael (wie Limina, Nox, Chronos, Schattenkind)“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L27]
+
+Its strategy for them: „Szenenbeschreibungen müssen explizit darstellen, welcher Alter gerade dominant ist oder Kaels Wahrnehmung und Handlungen maßgeblich beeinflusst.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L59] and „Innerer Dialog oder Konflikt zwischen Alters wird an passenden Stellen dargestellt, um Kaels Fragmentierung zu verdeutlichen.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L59]
+
+In its revised chapters it plans Echo as an alter met inside the simulation: „Hier trifft er auf Echo (das Verlorene Kind)“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L280] and „einen seiner Alters, der in dieser Landschaft gefangen zu sein scheint.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L280] Later it plans an inner council: „eine bewusste Konfrontation und Verhandlung mit seinen wichtigsten Alters (Limina, Nox, Echo, Chronos etc.), um eine gemeinsame Strategie oder zumindest einen Waffenstillstand für die bevorstehende Prüfung zu erreichen.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L508]
+
+## Reading — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft — four named alters and a Host, as a plan for hints
+
+The draft's subject is Michael, the early name of Kael. Its research part describes „Intrusionen anderer Persönlichkeitsanteile“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L49] of a person with an unrecognised DID, felt as thoughts, feelings and impulses foreign to the dominant sense of self, and puts the word `Alters` in quotation marks there.
+
+It then proposes how the content of the intrusions should point to „Mnemosyne, Cerberus, Kairos/Sophia, Architekt“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L51], which it calls alters named in a context text the file does not hold. Its mapping is hedged: „Logische Intrusionen könnten auf den Architekten hindeuten; Erinnerungsblitze/Traurigkeit auf Mnemosyne; Angst/Aggression/Schutzimpulse auf Cerberus; Einsichten/zeitliche Anomalien auf Kairos/Sophia“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L51].
+
+The blueprint gives each scene a field `Michaels Dominanter Zustand/Alter`. The first scene gives „Host/Kern-Selbst (desorientiert)“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L75]; the flow scene gives „Architekt (dominant, im Flow)“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L115]. In the blueprint's scene on inner conflict, one part values order — „Ein Teil schätzt die Ordnung (Architekt-Einfluss)“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L97] — and the sketch of a fleeting image is tagged with a question: „(Möglicher Mnemosyne/Cerberus-Flicker?)“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L97].
+
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — the alters: planned names, roles and defences
 
 The plot blueprint plans the alters as parts of Kael's system that appear step by step. In step 1.2 it names two: „EPs wie Echo (Trauer/Angst) oder Nox (Selbstkritik) werden spürbarer“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L159]. In its answer on loneliness it gives the alters a defensive function, hiding the core wound: „die Abwehrmechanismen der Alters (insbesondere Manager und Firefighter“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L101] (the line goes on to a footnote number).
@@ -71,9 +91,37 @@ The blueprint then gives a table of the alters (Tabelle 1, end of Teil 1) with I
 
 In its reading of the Monster group's structure the Plotanalyse names Kael's parts `Alters`: the group's „Parias“ outside M stand for the need to integrate all of them, even the difficult ones. The report writes: „Dies kann metaphorisch für die Notwendigkeit stehen,“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L87] with the clause continuing on the same line to all aspects of Kael and to restoring M's coherence (L87). In its identity section it asks whether identity is kept when the parts change: „Bleibt die Identität erhalten, wenn die Teile (Alters) sich verändern oder zu einem neuen Ganzen zusammenfügen“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L130] The lines cited (L87, L130) name no number of parts.
 
+## Reading — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept — Kael's psyche in `Alters`, as a narrative mechanic
+
+The final world concept says of Kael: „Seine Psyche ist in distinkte Teile oder“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L64] `Alters` fragmented, after DID or possibly after IFS. It reads the model as narrative mechanics: it gives „eine konkrete“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L85] Mechanik for interaction and progression, in which dialogue between Alters, recovered memories and facing fears can correspond to navigating the Kernwelten. It names no number of Alters.
+
+Recorded as the document's own description, not applied.
+
+## Reading — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint — alters first uncontrolled, then valued parts, one type per world
+
+The blueprint proposes that Kael's alters are first uncontrolled: „Seine verschiedenen inneren Anteile (Alters) treten unkontrolliert in Erscheinung“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L36]. At the turning point after the Kernwelten the picture shifts: „Er beginnt, seine verschiedenen Alters nicht länger als feindliche Fragmente oder zu kontrollierende Störungen zu betrachten“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L50], and the blueprint sets this beside the Internal Family Systems model. Its table assigns an alter type to each world; for the first, „Innerer Kritiker / Perfektionist / Logik-Verfechter“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L116], for the second „Verletztes Kind / Traumatisierter Anteil“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L117].
+
+## Reading — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint — Alters as the resisting parts, and the Alter/Part as a possible reward
+
+The detailed plot blueprint uses `Alters` as the word for the alternative identities of Kael's DIS and pairs it with the IFS vocabulary. In the refusal stage it is „die dominanten, kontrollierenden Anteile seiner Psyche (Alters oder IFS-Manager)“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L31] that resist the confrontation with the Kernwelten. As a possible reward it proposes „die erfolgreiche Integration eines zuvor abgespaltenen oder problematischen Anteils (Alter/Part)“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L57]. The document does not define the Alters beyond this, and does not tie them to a world.
+
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — ten Alters, read through IFS
 
 The plot-idea synthesis names Kael's Alters in one parenthesis: „alternative Persönlichkeitsanteile wie Der Architekt, Das Echo, Der Wächter, Der Sucher, Der Funke, Limina, Nox, Praetor, Index, Silas)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L174], and says they are interpreted within the Internal Family Systems model. It describes none of them. A plot seed has Kael apply IFS principles: „um mit seinen Alters zu arbeiten“ ^[kohaerenz-protokoll-plotideen-generierung.md:L307].
+
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — the ten Alters as IFS parts, hypothetically
+
+The concept extraction lists the Alters in one sentence and applies IFS to them: „Kaels dissoziierte Identitäten (Der Architekt, Das Echo, Der Wächter, Der Sucher, Der Funke, Limina, Nox, Praetor, Index, Silas) werden im Rahmen des IFS-Modells als solche Teile interpretiert“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L233]. It hedges the sorting: „Sie sind wahrscheinlich eine Mischung aus Managern“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L233] (with Firefighters and possibly Exiles). Its table is headed „Tabelle 3: IFS-Komponenten in Kaels Psyche (Hypothetische Zuordnung)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L271], and its own cells carry question marks, as „Praetor (Regeln/Struktur?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L279].
+
+## Reading — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis — Kael's parts as IFS parts around a core self
+
+The concept synthesis names the model Internal Family Systems and applies it to Kael: his `Alters`, glossed „Persönlichkeitsanteile“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L38], are understood „als Teile mit Schutzfunktionen“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L38], „die um ein Kern-Selbst organisiert sind“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L38]. The statement ends with a `Quellen:` list naming other documents, which this reading only records.
+
+## Reading — `roman-konzept-kael-aegis-simulation`, 2025-05-01, the simulation concept — the Alters as survival strategy, with goals of their own and an open question of integration
+
+The simulation concept proposes Kael's identity as made of parts: „Kaels Identität ist fragmentiert, bestehend aus multiplen Anteilen oder“ ^[roman-konzept-kael-aegis-simulation.md:L21], and names four of them, „der logikbasierte Lex, der wütende/kämpferische Nyx, der ängstliche/erstarrte Kiko“ ^[roman-konzept-kael-aegis-simulation.md:L21]. Their origin is given as coping: „die verschiedenen Alters entstanden als Überlebensstrategie“ ^[roman-konzept-kael-aegis-simulation.md:L34].
+
+In part 1 it proposes that the Alters surface in turn, and that their first meetings are marked by distrust. In part 2 it proposes that they pursue goals of their own: „Einzelne Alters beginnen, eigene Agenden zu verfolgen, die sich aus ihrer Funktion ergeben“ ^[roman-konzept-kael-aegis-simulation.md:L66]. In part 3 it lists, as one possible ending, „Die Alters verschmelzen zu einer einzigen, kohärenten Identität (obwohl funktionale Multiplizität oft als gesünderes Therapieziel bei DIS/ASDS gilt“ ^[roman-konzept-kael-aegis-simulation.md:L169], so it names full fusion and holds against it the healthier aim of functional multiplicity.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — the alters as the driver of plot and inner transformation
 
@@ -87,9 +135,33 @@ The subplot catalogue introduces the parts in its opening paragraph: Kael consis
 
 The character concept speaks of eleven parts: a heading of the second answer reads „Elf Seelen in einem System“ ^[charaktere.md:L125] (L125), and the first answer says „Jeder dieser elf Anteile entwickelte sich als spezifische Anpassung“ ^[charaktere.md:L27] (L27). The third answer names them `Alters`: „Die Beziehungen zwischen den Alters sind extrem komplex“ ^[charaktere.md:L342] (L342), and says they are not personalities in the everyday sense but „dissoziierte Selbstzustände“ ^[charaktere.md:L262] (L262). A twelfth name, `Nox`, stands once among the persecutors: „Nox (als Kritiker konzipiert)“ ^[charaktere.md:L96] (L96), with no profile of its own; the document does not say how it relates to the eleven.
 
+## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — the alters in a clinical reading
+
+The review calls the alters, in its clinical terms, „den sogenannten Alters oder Innenpersonen“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L40] (L40). It judges that the plan correctly sees a positive intent in all of them: „Der Bauplan erkennt korrekt die“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L42] positive intent of all alters, even persecutors such as Nox. On the plan's aim it argues that it avoids „erzwungenen Fusion aller Alters“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L44].
+
+## Reading — `romanarchitektur-kohaerenz-protokoll-finalisierung`, 2025-07-29, the final framework — alters live on as an inner community with new roles
+
+The final framework proposes that the parts survive integration: „die verschiedenen Anteile (Alters) als eine Art innere Gemeinschaft oder Demokratie weiterleben“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L190]. It defines their change as „Die Anteile übernehmen neue, gesündere Rollen“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L192] and sets out the transformation in a table headed „Alter Name | TSDP-Klassifikation (Initial)“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L200]. The table has eight rows: Kael, Nyx, Kiko and Selene are named, and four are written as placeholders `[Alter 5]` to `[Alter 8]` that this reading does not fill.
+
 ## Reading — `outline`, 2025-07-30, the outline — the alters as Anteile, and the ANP/EP division
 
 The outline speaks of Kael's inner parts as Anteile and uses `Alters` as a gloss: „Kael und seine inneren Anteile (Alters)“ ^[outline.md:L99] (L99). Its psychological note on Kap 3 allows that contradictory data fragments „könnten Echos anderer Alters oder vergangener Leben enthalten“ ^[outline.md:L37] (L37). Where it lists them, it divides them: „Kaels Anteile (ANPs wie Lex, Rhys, Alex und EPs wie Nyx, Kiko, Moros, Isabelle, Lia, Argus) entwickeln ihre Kooperation weiter“ ^[outline.md:L116] (L116). A first inner meeting names, as an example, „z.B. Lex, Echo, Nox“ ^[outline.md:L56] (L56), and the Fokus names the presences of „Limina (klar), Nox (dunkel), Echo (transparent), Chronos (präzise), Schattenkind (kalt)“ ^[outline.md:L57] (L57).
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — alters traced to their trauma function, eleven parts with five named
+
+The compendium (L11–L113), in its ethics section, directs how the alters are to be written: „Die Entwicklung von Kaels Alters muss konsequent auf ihre Funktion als Reaktion auf Trauma zurückgeführt werden“ ^[narrativ.md:L73], persecutory parts included, which often have a misdirected protective function (L73). This is a rule for writing.
+
+The dramaturg's blueprint (L115–L238) sets a count: „Elf detaillierte Anteile existieren“ ^[narrativ.md:L149], each with its role, motive and relation to the trauma biography; it then names five as „Einige Schlüsselbeispiele sind“ ^[narrativ.md:L149]: Kael (Host), Selene, Lex, Nyx and Kiko (L151–L155). The blueprint does not name the other parts in this file.
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — eleven parts, ANPs and EPs, and the game's dominance variable
+
+Reporting its outline, the proposal says: „Das System besteht aus elf detailliert ausgearbeiteten Anteilen (Alters)“ ^[romanidee-als-interaktiver-prototyp.md:L44], divided into ANPs, „die auf die Bewältigung des Alltags fokussiert sind“ ^[romanidee-als-interaktiver-prototyp.md:L44], and EPs, „die die traumatischen Erinnerungen und Affekte halten“ ^[romanidee-als-interaktiver-prototyp.md:L44]. Of the eleven it names, across the document, only Nyx, Lex, Kiko, Rhys and Alex.
+
+For the game it plans a variable for each part: „Der aktuelle Einflussgrad jedes der elf Anteile“ ^[romanidee-als-interaktiver-prototyp.md:L125] — the prototype's mechanic, carrying the same count.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — alters as epithets that act on Kael
+
+The Kishōtenketsu plan, an assistant's chat reply, proposes that the Ki introduces „die ersten inneren Anteile“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L23], and puts `Alters` in inner quotes beside them. Elsewhere the plan names them by epithet, not by a name: in a chapter set in the second world, „spürt Kael den Impuls des Alters“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L57] `Die Mutige` and leaves the prescribed path. A later chapter has a skill pushed too far: „Dies löst eine unkontrollierbare, sich wiederholende Schleife aus“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L139], called the `Drall` of the `Schatten` alter. The plan makes no canon claim; its chapter numbers count 30 chapters.
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the blueprint, the Kael biography and the architecture analysis of the English compilation — three alter tables of different lengths, and a stated count of eleven
 
@@ -107,6 +179,18 @@ Lia, Isabelle, Moros, Alex and Argus are named in the scene outline (L1273 on) a
 
 The briefing describes Kael's healing as integration, not elimination, of his alters (L37), and gives a table of alters with TSDP classification and narrative role (L83–L91), starting with „Kael (Host)“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L84] as an ANP. AEGIS's Discursive Logic is said to manage Kael's psyche, „treating his alters as separate“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L63] speakers in a discourse.
 
+## Reading — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint — a system of primary alters on Tertiary Structural Dissociation, listed twice
+
+The blueprint's first part presents Kael's psyche as „a complex adaptive system modeled on Tertiary Structural Dissociation“ ^[narrative-blueprint-the-coherence-protocol.md:L37] and lists the alters from Kael (Host) to Argus (L39–L49): Kael, Lex, Alex, Rhys, Nyx, Kiko, Moros, Selene, Lia, Isabelle and Argus. Its thematic foundation (L253–L264) tabulates them again, with a TSDP type for each; the two lists type some of them differently (Lex, Argus, Kiko, Kael), and the plan does not reconcile this. The thematic foundation says the arc is not to destroy or merge the alters but to foster communication among them: Kael achieves true coherence by that route (L204).
+
+## Reading — `romanideen-zu-roman-entwickeln`, 2025-10-15, the master blueprint — one canonical alter list consolidated from inconsistent drafts
+
+The master blueprint reports that the draft documents „Inkonsistenzen bei den Namen der Persönlichkeitsanteile von Kael“ ^[romanideen-zu-roman-entwickeln.md:L60] show, and directs that „eine einzige, kanonische Charakterliste unerlässlich“ ^[romanideen-zu-roman-entwickeln.md:L60] is. It proposes a definitive template and calls the consolidated list „unumstößlicher Anker“ ^[romanideen-zu-roman-entwickeln.md:L62]; its table gives each alter a TSDP classification, a motivation, a fear and relations (L70 to L78). For Act I it proposes a turning point where „Eine größere Krise zwingt zu einer ersten, rudimentären Kooperation zwischen den Alters“ ^[romanideen-zu-roman-entwickeln.md:L99], with Lex and Nyx as the sample pair (L99).
+
+## Reading — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint — a six-part canonical alter table
+
+The locked blueprint ends its section 3.2 with a table headed „Alter Name (Canonical)“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L193] and presents it as a single reference for the writing team; it „consolidates the names and profiles from the various source documents“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L189]. The table has six rows (L194–L199): Kael (Host), Lex, Nyx, Kiko, Rhys and Selene. Where its prose names alters at work, Lex and Nyx act together against a logical trap (L166).
+
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — the Master Profile of Alters, a table with a TSDP action system per alter
 
 The Definitive Guide introduces its alter table under the label „Master Profile of Alters“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L119]. The first column is headed „Anteil (Alter)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L123], the document's own German word beside the English `Alters` of the label; the next columns are „Typ (ANP/EP)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L123] and „TSDP Action System“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L123]. The rows name Kael, Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus, and the pages of the single alters hold their rows. Kael's row types him „ANP (Host)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L124]. The guide presents the table as part of the section that „provides their definitive profiles“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L107]; that is its own claim, recorded, not applied.
@@ -121,17 +205,59 @@ The outline gives the alters a story of their own: Story 15 (The Society of Alte
 
 Recorded as a story outline's proposal; it gives no count of alters.
 
+## Reading — `the-psychological-mechanics-from-tertiary-structural-dissoci`, 2025-11-03, the TSDP mechanics report — alters as parts that each emerged with a survival function
+
+The TSDP mechanics report reads Kael's internal system as made of „constituent parts, or alters“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L37], and says „Each alter emerged with a specific function to help the system survive overwhelming experiences“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L37]. Its section 3 defines each alter's function in the dissociated state and then its role in an integrated, cooperative system; the table that does so lists six rows (Kael, Lex, Nyx, Kiko, Rhys, Selene), read on the record `q3-how-many-kern-welten-and-alters`.
+
+## Reading — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible — alters as the inhabitants of the Core Worlds, in a table of eleven
+
+The writer's bible glosses the German Anteile as alters and says each Core World „embodies the functions and phobias of the personality parts“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L84] that primarily inhabit it. It introduces its table as one that „profiles the key alters“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L154] and maps the internal political landscape of System Kael; the table has eleven rows, from Kael to Argus. The guide sorts them into Apparently Normal Parts and Emotional Parts and gives Argus as a mix of both.
+
+## Reading — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing — eleven parts in a TSDP table
+
+Under the section heading „Profile of Personality Parts (Alters)“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L87] the framework briefing says „The Kael system is a complex TSDP case with multiple ANPs and EPs“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L89] and that „The eleven identified parts each have distinct roles, motivations, and conflicts“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L89]. The table that follows has eleven rows: Kael, Lex, Alex, Rhys, Nyx, Kiko, Lia, Isabelle, Moros, Selene and Argus. It states no number of Kernwelten.
+
+## Reading — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible — a table of nine key alters
+
+The worldbuilding bible introduces its roster with „The following table profiles the key alters within System Kael“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L144]. The table runs L149 to L157, one row each for Kael, Lex, Rhys, Alex, Selene, Nyx, Kiko, Moros and Isabelle: Kael as Host ANP, Lex, Rhys and Alex as ANPs, Selene as Integrator/Self, Nyx, Kiko, Moros and Isabelle as EPs. `Lia` ^[the-coherence-protocol-a-worldbuilding-bible.md:#0] and `Argus` ^[the-coherence-protocol-a-worldbuilding-bible.md:#0] are not written in the document. It gives no total beyond its rows.
+
+## Reading — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé — four alters in a table, six named in all
+
+The correspondence exposé gives a table under „Key Alters within System Kael“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L44] with a TSDP function and a role in the conflict for each: `Lex` as a „Rational ANP“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L49], `Nyx` as a Fight EP, `Rhys` as an „Empathetic ANP“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L51] and `Kiko` as a „Child EP (Freeze/Flight)“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L52]. `Alex` and `Selene` stand only in the world list, as the protector and relational alters of the third and fourth Kernwelt; the table does not list them.
+
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — the Alters as fragments of the EP, held in the Kernwelten
+
+The protocol analysis reads the Alters as the fragments into which the Emotional Part was broken: the act is a tertiary dissociation, „bei dem der EP weiter in Fragmente (Alters wie Nyx, Kiko, Moros) zerschlagen wurde“ ^[analyse-des-kohaerenz-protokolls.md:L221], to dilute the traumatic energy.
+
+It gives the Kernwelten the task of keeping them: AEGIS created them „Um die isolierten Fragmente (Kael und seine Alters) zu verwahren“ ^[analyse-des-kohaerenz-protokolls.md:L229]. The Kernwelten table heads its last column „Bewohner (Alters)“ ^[analyse-des-kohaerenz-protokolls.md:L235].
+
+The English prompt of section 9, spoken in AEGIS's address, has the same act: „You shattered 734 into shards (Alters)“ ^[analyse-des-kohaerenz-protokolls.md:L341].
+
 ## Reading — `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, the planning report — the alters as scene properties and conflict profiles
 
 The planning report proposes that for each of its 39 stories the database define in advance „welcher Alter“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L107] `frontet`, that is, who has control of the body, and which alters are co-conscious in the background. Its section 3.2 is headed „Tiefenanalyse der Alters und ihrer Konfliktdynamik“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L119]. It states its source: „Die Charakterprofile aus der Writer's Bible“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L121] are the basis of the conflict simulation, so the profiles of System Kael, Lex, Nyx and Kiko that follow are the Writer's Bible as the report renders it. The report adds its own demand: „Der Workflow muss sicherstellen, dass diese Profile nicht statisch bleiben“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L121].
+
+## Reading — `master-konzept-kohaerenz-protokoll-analyse`, 2025-12-05, the master concept — each story written from another part's perspective
+
+In its description of the Mosaik writing structure the master concept says „Jede Geschichte kann aus der Perspektive eines anderen Anteils (Alters) geschrieben werden“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L60], which it calls a literary equivalent of switching.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Tabelle 1 maps the alters of Part I by role, world and development
 
 The three-part analysis gives the alters a table, „Mapping der Alters in Teil I“ ^[romanstruktur-und-philosophische-einleitung.md:L119] with the columns role, dominant Kern-Welt and development. One row says of Lex: „Scheitert an Emotion (Kap. 5), wird als Werkzeug integriert (Kap. 11).“ ^[romanstruktur-und-philosophische-einleitung.md:L125] For the end of the novel it says: „Die Alters sind ko-präsent und kommunizieren frei.“ ^[romanstruktur-und-philosophische-einleitung.md:L280]
 
+## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — the alters as isolated subroutines, named and given speech styles
+
+The analysis report reads the alters as the product of AEGIS's fragmentation: the soul „wird sie in isolierte Subroutinen (Alters) zerlegt.“ ^[kohaerenz-analyse-kapitel-2.md:L96] It names them in section 3.1 (Limina, Nox, Praetor, Echo, Oblivion, with Index mentioned later).
+
+It compares them to processor cores in the image of cache coherence: „hier: Kaels Alters oder die verschiedenen Kernwelten“ ^[kohaerenz-analyse-kapitel-2.md:L41] (L41).
+
+Recommendations 2 and 4 concern them. The report recommends a bleeding effect on touching a Riss, „Bleeding-Effekt der Alters“ ^[kohaerenz-analyse-kapitel-2.md:L207], and: „Nutzen Sie die spezifischen Sprachstile und Wahrnehmungsfilter für jeden Alter.“ ^[kohaerenz-analyse-kapitel-2.md:L212] Both are advice to the author, not statements of the world.
+
 ## Reading — `hard-sci-fi-cosmic-horror-research-questions`, 2026-01-02, the Cosmic-Horror research report — Kael's „parts“ as reported
 
 This is a report of another document (its reference 87). The report says that, in the analysed Plotanalyse, Kael's „parts“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L199] correspond to „the subgroups of the Monster“ ^[hard-sci-fi-cosmic-horror-research-questions.md:L199] and his healing is their integration. The report does not write `Alters` ^[hard-sci-fi-cosmic-horror-research-questions.md:#0].
+
+## Reading — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis — alters in the storyform and in the naming hierarchy
 
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — the assistant's count of ten Alters and the Symmetrie-Dimensionen
 
@@ -159,6 +285,10 @@ The drafting compendium lists the Alters per Kern-Welt, each with a descriptor i
 
 The plot synthesis has a section on Kernwelten and Alters. It says „Diese Anteile (Alters) sind ontologisch an die vier Kernwelten (KW)“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L44] of the AEGIS simulation bound, and the parts it names are Lex, Rhys, Kiko, Alex, Nyx and Selene with ANP or EP labels (L46–L49).
 
+## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — the alters as partitioned memory areas, loaded on demand
+
+The DKT synthesis, an analysis of the plot through its Dual-Kernel-Theorie, calls the alters storage: „seine Alters sind partitionierte Speicherbereiche“ ^[roman-synthese-mit-dual-kernel-theorie.md:L19] (theoretical frame). In Kapitel 31, `Entropische Akzeptanz`: „Zusammenarbeit der Alters unter Führung des Selbst“ ^[roman-synthese-mit-dual-kernel-theorie.md:L315]. In the section on the Bekenstein bound it says of AEGIS's cache procedures: „Alters werden nur geladen, wenn sie benötigt werden“ ^[roman-synthese-mit-dual-kernel-theorie.md:L433], and that this explains Kael's amnesia and loss of time. The document gives no count of alters in these lines; its character table (L400 to L407) has five rows.
+
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the Alters as what AEGIS misreads, and a possibly unreliable Alter
 
 The report's plot for Teil II has AEGIS perceive the Alters as noise: „die Alters als unkorreliertes Rauschen wahrnimmt“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L28], which lets Kael integrate under the radar. Its Leitfrage 7 scene has Kael enter multiplicity: „Er hört auf, seine Alters zu unterdrücken“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L92]. In its Kohärenz-Check the report proposes introducing the Λ-Canon „als fehlerhaftes Konstrukt eines unzuverlässigen Alters“ ^[romanprojekt-kohaerenz-protokoll-leitfragen.md:L130], a proposal, not something it reports as decided.
@@ -167,11 +297,34 @@ The report's plot for Teil II has AEGIS perceive the Alters as noise: „die Alt
 
 The research report (section 5) writes: „Das System besteht aus elf hochspezialisierten Anteilen (Alters)“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L85] that operate in phobic avoidance cycles; their integration is named as the goal of the character arc. It sorts them into 5.1 the `ANPs`, 5.2 the `EPs` and 5.3 the `ISH`. Of Akt I it says the ANPs dominate; in Akt II „Gleichzeitig wächst die interne Kooperation zwischen den Alters (wie Rhys und Lex)“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L211] is its beat, and a signpost of the first throughline reads „Das Erreichen eines ersten, fragilen Co-Bewusstseins zwischen den Alters“ ^[roman-entwicklung-kohaerenz-protokoll-json.md:L165]
 
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — alters as specialized agents of one system
+
+The learner's guide defines System Kael as „a collection of distinct consciousnesses (Alters) sharing a body/mind“ ^[deconstructing-reality-s-architecture.md:L80] and tells the learner to treat the Society of Self as the central character, „with the individual alters functioning as specialized agents within that collective.“ ^[deconstructing-reality-s-architecture.md:L80] It reports that „The documentation identifies a complex roster of“ ^[deconstructing-reality-s-architecture.md:L90] alters, sorted by their TSDP roles into Apparently Normal Parts, Emotional Parts and a special Integrator (L92–L128).
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — eleven primary instances in a numbered list, and `11+` in HC-01
 
 Section 2.3 gives the structure: „Die finale, kanonische Struktur umfasst“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L78] `11 primäre Systemanteile`, classified as ANP and EP. The numbered list names Kael (Der Suchende / Host), Der Architekt, Der Wächter (Alex), Das Kind (Echo / EP), Der Analytiker (Lex / ANP), Die Schatten-Instanz (Nyx / Persecutor), Der Beobachter (Argus / ANP), Der Vermittler, Die Erinnerungs-Säule, Der Taktiker and Das Fragment (V-Bezug). SC-06 (Die 11 Kern-Alters) lists them as „Host (Kael), Architekt, Wächter (Alex), Kind (Echo), Analytiker (Lex), Schatten (Nyx), Beobachter (Argus), Vermittler, Erinnerungssäule, Taktiker, Fragment (V).“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L168]
 
 HC-01 (Protagonist) words the same system differently: „Kael fungiert als unwissender Host eines TSDP-Systems mit 11+ Kern-Alters.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L143] Both wordings stand in the document, `11 primäre` in the list and `11+ Kern-Alters` in HC-01. HC-04 (Integration, Regel) sets „Alle Alters sind willkommen.“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L146], and no Persönlichkeitsanteil is deleted or healed by destruction.
+
+## Reading — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept — Alters as parts the system treats as data nodes
+
+The Überwelt concept writes the plural once, in a parenthesis: „Die verschiedenen Persönlichkeitsanteile“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L100] are treated by the system as separate data nodes or speakers (L100). It gives no count and names no alter there. When parts send commands at once, the Risse arise: „Wenn verschiedene Persönlichkeitsanteile gleichzeitig gegensätzliche Befehle an das System senden“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L104] (L104). Three are named in the glitch list: Nyx, Kiko, Moros (L106 to L108).
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — an alter list it labels canonical, and its own note of divergence
+
+The master integration heads its roster „Die Alter-Liste (kanonisch: 11 Kernfiguren)“ ^[kohaerenz-protokoll-master-integration-md.md:L168], in two tables, ANPs (L170) and EPs (L181), each alter with a function, a DKT vector and a core phobia. Its last part, the prioritised open questions, says: „Die Quellen divergieren: 11 vs. 13 Alters.“ ^[kohaerenz-protokoll-master-integration-md.md:L389] and lists variant names (Rhys/Elara, Aris/Architect, Mina/Selene, Lyra/Lia, L389). It names the task as „Alter-Liste finalisieren“ ^[kohaerenz-protokoll-master-integration-md.md:L388]: the document calls its own list canonical and also open.
+
+## Reading — `project-status-report-kohaerenz-protokoll-canonical-state-st`, 2026-03-26, the status report — the report declares a Confirmed Core of eleven and marks the 11 vs. 13 discrepancy UNKLAR
+
+The status report (2026-03-26) has a section `The Alter-List Discrepancy (11 vs. 13)` (L43) and says „Numerical inconsistencies in early fragments must be resolved to stabilize“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L45] the `Hard Canon`. It declares a „Confirmed Core (11)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L47] of Kael, Lex, Rhys, Nyx, Alex, Kiko, Lia, Isabelle, Moros, Selene and Argus (L47), and elsewhere describes the registry as Kael „Host“ and ten confirmed alters (L11).
+
+The report writes „Names such as“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L48] `Silas` and `Oblivion` „appear in legacy notes“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L48], marks the status `UNKLAR`, and says „These are categorized as systemic redundancies and will be purged or merged in the final Alter-Sync.“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L49] Its first roadmap task plans to „Finalize the 11-part system; purge Silas and Oblivion redundancies.“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L101]
+
+The report gives no source for the number 13 beyond the heading.
+
+## Reading — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report — 13 Alters declared
+The canon status report resolves the alter count: „The registry is hereby standardized to“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L42] 13 Alters, and says this „This aligns with the 39-chapter mosaic“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L42], 13 times 3. Its roadmap lists as a priority to „Purge naming overlaps (Silas/Moros/Oblivion) and finalize the 13-part registry.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L83]. The report names no further alter here. A declaration by the report, recorded and not applied.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — two camps of identities, written as Anteile and Identitäten, never as Alters
 
@@ -185,11 +338,23 @@ Registry row F-04 is headed `Die 10 Kern-Alters` and sums them up: „Das System
 
 Conflict C-002 (`KRITISCH`) has the report quote Doc 30 as „The current canonical registry identifies 11 distinct entities within the system.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23] against Doc 32, which it says mentions further outdated alters. Its own `Kern-Konflikt` cell reads „Die Alter-Liste variiert zwischen dem streng definierten 11er-Kanon des“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23] canon and „und älteren Konzeptentwürfen mit 13 oder mehr Anteilen“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L23].
 
+## Reading — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report — drafts that differ on the parts, a proposed reduction, and the group-theory naming as a cut
+
+The reduction report notes that „In den Dokumenten finden sich verschiedene Entwürfe zur Anzahl und Rolle der Anteile“ ^[roman-konzept-reduktion-und-kernfindung.md:L70], and proposes that „eine Reduktion auf die funktionalsten Entitäten für den Plot entscheidend ist“ ^[roman-konzept-reduktion-und-kernfindung.md:L70]. Among its cuts it lists the assignment of every alter to a sporadic group: „Die Zuordnung jedes Alters zu spezifischen sporadischen Gruppen“ ^[roman-konzept-reduktion-und-kernfindung.md:L128] is, it says, an intellectual exercise that overburdens the reader; the mathematics should stay a hidden foundation.
+
 ## Reading — `flow-zustaende-und-dissoziative-identitaet`, 2026-04-23, the Flow report — the clinical name for the personality states of a person with DIS, some of them protective, behind amnesia barriers
 
 A clinical-scientific report on flow states in dissociative identity disorder. It is about patients: it writes `Kael` ^[flow-zustaende-und-dissoziative-identitaet.md:#0] and `AEGIS` ^[flow-zustaende-und-dissoziative-identitaet.md:#0] nowhere and does not speak of the novel. Its `Alters` ^[flow-zustaende-und-dissoziative-identitaet.md:#8] are the clinical sense of the word, and this reading records that sense and no more.
 
 It defines them: „Bei der DIS manifestiert sich dies in der Existenz von zwei oder mehr unterscheidbaren Persönlichkeitszuständen (in der klinischen Praxis als“ ^[flow-zustaende-und-dissoziative-identitaet.md:L43] `Alters` or `Innenpersonen` (the line's own marks) „bezeichnet), die wiederholt und oft ohne Vorwarnung die exekutive Kontrolle über das Verhalten übernehmen“ ^[flow-zustaende-und-dissoziative-identitaet.md:L43]. Some are specialised protectors: „Das innere System der DIS beinhaltet häufig hochspezialisierte Alters, die spezifische Schutzfunktionen ausüben“ ^[flow-zustaende-und-dissoziative-identitaet.md:L195]. In the report's organisational analogy, transferred to the DIS system, „entspricht die schlechte Kommunikation der Amnesie und dem Misstrauen zwischen den Alters“ ^[flow-zustaende-und-dissoziative-identitaet.md:L207].
+
+## Reading — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis — the integrated alters as a functional democracy
+
+The Dramatica loop analysis names four alters of Kael (Lex, Nyx, Kiko, Selene) and gives each one function (L97 to L100). Of their integrated state it says: „eine funktionale Demokratie“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L102], called an `Inner Council` and said to rest on co-consciousness, active cooperation and shared responsibility. The fragments are not erased by forced fusion but resonate in a polyphonic swarm; both symbols are lost in the export and leave gaps in the line. Until then, while Unproven prevails, they fight in isolation. This is the report's proposal, not verified by data in the file.
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — the Relationship Story of Storyform A
+
+The architecture synthesis places the alters in Storyform A's Relationship Story: „Relationship Story — Kael & The Alters“ ^[kohaerenz-protokoll-architecture-synthesis.md:L42], which it describes as „The internal therapeutic process“ ^[kohaerenz-protokoll-architecture-synthesis.md:L42]. The German version of the same table row is on L50 and writes the word in its title.
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — four named as discrete modules
 
@@ -238,6 +403,19 @@ The synthesis gives a count of the alters as a contradiction it resolves: „Wä
 - The locations concept gives alter names per world in one table (KW1 to KW4) and states no total number of alters in the lines read.
 - The plot blueprint (2025-04-20) plans named alters in a table with IFS and TSDP roles and a Kern-Welt each, and gives them a defensive role over the core wound.
 - `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, a planning report: proposes that the alters' profiles, taken from the Writer's Bible, be kept in constant friction, „Der Workflow muss sicherstellen, dass diese Profile nicht statisch bleiben“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L121].
+- `narrative-blueprint-the-coherence-protocol`, 2025-10-15: eleven alters in the list and in the table, typed two ways; first blueprint and thematic foundation do not mark the difference.
+- the master integration labels its list „kanonisch: 11 Kernfiguren“ ^[kohaerenz-protokoll-master-integration-md.md:L168] and, in the same document, records that its sources diverge between 11 and 13 (L389).
+- The learner's guide reports a roster of alters sorted by TSDP role, with an Integrator category; the count and names are on Q3.
+- `romanidee-als-interaktiver-prototyp`, 2025-08-05: reporting its outline, the proposal writes „elf detailliert ausgearbeiteten Anteilen (Alters)“ ^[romanidee-als-interaktiver-prototyp.md:L44] and names five of them.
+- The status report declares eleven as the Confirmed Core and plans to purge or merge `Silas` and `Oblivion`; it marks the status `UNKLAR` itself (L49).
+- The master blueprint consolidates one canonical alter list over the drafts' differing names (L60, L62); its own canon, recorded, not applied.
+- `narrativ` (the dramaturg's blueprint): „Elf detaillierte Anteile existieren“ ^[narrativ.md:L149], five of them named (L151–L155).
+- The final framework proposes a table of eight alters, four named and four unnamed placeholders, each with a trauma-based function before and an integrated role after.
+- the canon status report (2026-03-26) declares the registry standardized to 13 Alters, matching the 39-chapter mosaic
+- The plot blueprint proposes one confronted alter type per Kernwelt and Kael's turn from hostile fragments to valued parts.
+- The simulation concept (2025-05-01) holds full fusion of the Alters and functional multiplicity side by side as endings, noting the latter as the healthier therapeutic aim.
+- `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23: the Alters are read together with IFS managers, and integrating a split-off „Alter/Part“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L57] is proposed as a reward, not a given.
+- the chapter-1 draft lists four alters, „Mnemosyne, Cerberus, Kairos/Sophia, Architekt“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L51], besides a Host/Kern-Selbst, and proposes only hints for them; it states no total.
 
 ## Open
 

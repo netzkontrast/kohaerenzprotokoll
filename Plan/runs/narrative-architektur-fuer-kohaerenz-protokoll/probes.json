@@ -1,0 +1,261 @@
+{
+  "document": "narrative-architektur-fuer-kohaerenz-protokoll",
+  "drive_id": "1Gq3dpVfMGAlobn44OhCFac1ufA5au3zVgG2tfvbUXII",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 78,
+  "backslash_escapes": 70,
+  "typographic_marks": 37,
+  "ascii_quotes": 244,
+  "inflection_families": {
+    "erzäh": [
+      "Erzählens",
+      "Erzähler",
+      "Erzählers",
+      "Erzählformen",
+      "Erzählmodelle",
+      "Erzählstimme",
+      "Erzählstruktur",
+      "Erzähltechniken",
+      "Erzähltempos",
+      "Erzählung",
+      "Erzählweise"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie"
+    ],
+    "archi": [
+      "Architekt",
+      "Architekten",
+      "Architektur",
+      "Architekturanalyse",
+      "Architekturen",
+      "Archivars"
+    ],
+    "autor": [
+      "Autor",
+      "Autoren",
+      "Autorität",
+      "Autors",
+      "Autorschaft",
+      "Autorschaften"
+    ],
+    "philo": [
+      "Philosophen",
+      "Philosopher",
+      "Philosophie",
+      "Philosophien",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informationsenthüllung",
+      "Informationsverarbeitung"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interpretation",
+      "Interpretationen",
+      "Intertextualität",
+      "Intervention"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychologie",
+      "Psychologischen",
+      "Psychology"
+    ],
+    "schri": [
+      "Schriftart",
+      "Schriftarten",
+      "Schriften",
+      "Schritt",
+      "Schritte"
+    ],
+    "ander": [
+      "Anderem",
+      "Anderen",
+      "Anderer",
+      "Andersartigkeit"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstsein",
+      "Bewusstseinserfahrung",
+      "Bewusstseinsstrom"
+    ],
+    "gesch": [
+      "Geschehen",
+      "Geschichte",
+      "Geschlossenheit",
+      "Geschmack"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit",
+      "Handlungsstränge"
+    ],
+    "kompl": [
+      "Komplexe",
+      "Komplexität",
+      "Komplexitätsmanagement",
+      "Komplikation"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktbasiert",
+      "Konflikten",
+      "Konflikts"
+    ],
+    "liter": [
+      "Literary",
+      "Literatur",
+      "Literature",
+      "Literaturgeschichte"
+    ],
+    "moder": [
+      "Moderne",
+      "Modernismus",
+      "Modernist",
+      "Modernistische"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "persp": [
+      "Perspective",
+      "Perspektive",
+      "Perspektiven",
+      "Perspektivwechsel"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturellen",
+      "Strukturen",
+      "Strukturierung"
+    ],
+    "absat": [
+      "Absatz",
+      "Absatzes",
+      "Absatzlänge"
+    ],
+    "bedeu": [
+      "Bedeutung",
+      "Bedeutungsebene",
+      "Bedeutungslosigkeit"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtung"
+    ],
+    "buddh": [
+      "Buddhism",
+      "Buddhismus",
+      "Buddhist"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakteristisch"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Urteilsbildung"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Book",
+      "Bookman"
+    ],
+    [
+      "Buch",
+      "Buches"
+    ],
+    [
+      "Buch",
+      "Handbuch"
+    ],
+    [
+      "Code",
+      "Codex"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Leidenden"
+    ],
+    [
+      "Ende",
+      "Steigende"
+    ],
+    [
+      "Ende",
+      "Angewendet"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Auslösendes"
+    ],
+    [
+      "Ende",
+      "Tugendethik"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "FORM",
+      "Form"
+    ],
+    [
+      "FORM",
+      "Formen"
+    ],
+    [
+      "FORM",
+      "Informatik"
+    ]
+  ]
+}

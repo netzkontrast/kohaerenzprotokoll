@@ -1,0 +1,98 @@
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "User Query"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`User Query` ^[kohaerenz-protokoll-narrative-architektur.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "Zugriff am Juli 29, 2025"
+whole word, case-sensitive     50
+whole word, case-insensitive   50
+including compounds            50
+
+`Zugriff am Juli 29, 2025` ^[kohaerenz-protokoll-narrative-architektur.md:#50]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-narrative-architektur.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "Kernwelten"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kernwelten` ^[kohaerenz-protokoll-narrative-architektur.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "funktionale Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`funktionale Multiplizität` ^[kohaerenz-protokoll-narrative-architektur.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "funktionalen Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`funktionalen Multiplizität` ^[kohaerenz-protokoll-narrative-architektur.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "KW1-4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1-4` ^[kohaerenz-protokoll-narrative-architektur.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "KW4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW4` ^[kohaerenz-protokoll-narrative-architektur.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "Hard Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Hard Canon` ^[kohaerenz-protokoll-narrative-architektur.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "ontologischer Exploit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ontologischer Exploit` ^[kohaerenz-protokoll-narrative-architektur.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "autopoietischen Systems"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`autopoietischen Systems` ^[kohaerenz-protokoll-narrative-architektur.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "parakonsistenter Logik"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`parakonsistenter Logik` ^[kohaerenz-protokoll-narrative-architektur.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architektur --count "parakonsistenter Logiken"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`parakonsistenter Logiken` ^[kohaerenz-protokoll-narrative-architektur.md:#1]
+
+$ grep -iE 'escape|glued' 01-profile.txt   (run by the coordinator, 2026-10-07; the reader had written this line without running it)
+  backslash escapes    89
+  glued ref numbers    59
+$ grep -E ' 0 word' 04-counts.txt   (run by the coordinator, 2026-10-07)
+  autopoietischen System            0 word     1 in   [50]
+  parakonsistente Logik             0 word     0 in   []
+  — the second is the reader's spelling; the document writes `parakonsistenter Logik` (twice, as the census prose counts it). Left as listed: the list is frozen and no check reads it as an absence claim.

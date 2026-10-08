@@ -1,0 +1,88 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+The document is English prose with German names in places. Its two tables are flattened with escaped asterisks around bold cells. It reports other documents by title in quotation marks.
+
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- Juna/V
+- Juna
+- Kael ↔ Juna/V Relationship
+- Michael
+- Julia
+- Kael/Julia
+- Kael (ehem. Michael)
+- Existenz-Matrizen
+- Existenz-Matrix
+- Rauschen
+- Nichts Rauschen
+- The Void
+- The Fundament
+- Moonshine-Link
+- Komponente 734
+- Kernwelten
+- Core Worlds
+- KW1-4
+- Logos-Prime
+- LogOS
+- Mnemosyne-Archipel
+- Mnemosyne
+- Grenzfeste
+- Cerberus
+- Möglichkeits-Garten
+- Kairos and Sophia
+- Guardians
+- Wächter-Zwiespalt
+- abtrünnigen Guardians
+- Die Gemeinsame Jagd
+- Gödel-Gambit
+- Gödel-Satz
+- Lex
+- Rhys
+- Nyx
+- Kiko
+- Moros
+- Apparently Normal Parts
+- Emotional Parts
+- functional multiplicity
+- algorithmic melancholy
+- ontological exploit
+- ontological blindness
+- Kael-Juna paradox
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Coherence through Negation
+- Coherence through Integration
+- Value Alignment Problem
+- Classical Crash
+- Paraconsistent Transformation
+- Project Codex
+- Narrative Canon Document
+- Dissociative Identity Disorder
+- Theory of Structural Dissociation of the Personality
+- Theory of Structural Dissociation (TSDP)
+- Internal Family Systems
+- Neurobiology of Dissoziation
+- Polyphonic Prose
+- Environmental Storytelling
+- Metafiction & The Reader's Protocol
+- Autopoiesis & Operational Closure
+- Computational Complexity (P vs. NP)
+- Formal Logic (Classical vs. Paraconsistent)
+- Gödel's Incompleteness Theorems
+- Fixed Attitude
+- Situation
+- Activity
+- Manipulation/Psychology
+- Strukturelle Dissoziation: System Kael Analyse
+
+## lens
+
+- Dramatica Theory
+- Principle of Explosion
+- dialetheism
+- paraconsistent logic
+- operational closure
+- strange attractor
+- prehension
+- Niklas Luhmann
+- Alfred North Whitehead

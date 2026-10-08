@@ -1,0 +1,103 @@
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "muss"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`muss` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#20]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "könnte"
+whole word, case-sensitive     12
+whole word, case-insensitive   16
+including compounds            16
+
+`könnte` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#12]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "sollte"
+whole word, case-sensitive     9
+whole word, case-insensitive   10
+including compounds            13
+
+`sollte` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#9]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "exemplarisch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`exemplarisch` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Zugriff am April"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Zugriff am April` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#21]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Spiegelbruch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Spiegelbruch` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "KW1"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            16
+
+`KW1` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#15]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "KW2"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            19
+
+`KW2` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#18]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Übergangsraum"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            10
+
+`Übergangsraum` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Potentialmeers"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Potentialmeers` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Kairos"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kairos` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Cerberus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cerberus` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Juna` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Environmental Storytelling"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Environmental Storytelling` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#9]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Show, Don't Tell"
+whole word, case-sensitive     8
+whole word, case-insensitive   9
+including compounds            8
+
+`Show, Don't Tell` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#8]
+$ python3 scripts/read.py arbeitshilfe-kapitel-2-kohaerenz-protokoll --count "Systementropie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Systementropie` ^[arbeitshilfe-kapitel-2-kohaerenz-protokoll.md:#1]
+sum of stance markers: 20+12+9+2 = 43

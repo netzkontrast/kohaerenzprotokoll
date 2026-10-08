@@ -1,0 +1,277 @@
+{
+  "document": "the-coherence-protocol-a-worldbuilding-bible",
+  "drive_id": "19Bo8g125vfYivnlYZCGJfDgZqioscmf0nsudFEu9cgg",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 122,
+    "decisions": 122,
+    "decided_by_lookup": 107,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        101,
+        118,
+        131,
+        134,
+        135,
+        136
+      ],
+      "attribution": "",
+      "note": "AEGIS as an antagonist born from its own trauma, with a named origin, flaw and function"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        109,
+        152
+      ],
+      "attribution": "",
+      "note": "Alex as Protector ANP of KW3"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        144
+      ],
+      "attribution": "",
+      "note": "a table of nine key alters"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        23,
+        197
+      ],
+      "attribution": "",
+      "note": "Coherons as the Coherence Kernel's building blocks"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory named once as the source of its cosmology"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        118,
+        120
+      ],
+      "attribution": "",
+      "note": "the External Level as the source of the Juna/V connection, outside AEGIS's control"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        134,
+        135
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as AEGIS's tragic flaw"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        157
+      ],
+      "attribution": "",
+      "note": "Isabelle as Sexualized EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        135,
+        159,
+        161,
+        163
+      ],
+      "attribution": "",
+      "note": "Juna/V as the Transcendent Anomaly and exiled part of Kael's Ursprungs-Ich"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        140,
+        149,
+        179,
+        185
+      ],
+      "attribution": "",
+      "note": "Kael as unified protagonist, Host ANP and the one whose climax is the Living Gödel-Satz"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        105,
+        107,
+        108,
+        109,
+        110
+      ],
+      "attribution": "",
+      "note": "four Core Worlds as the domains of parts"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        155
+      ],
+      "attribution": "",
+      "note": "Kiko as Freeze/Fear EP"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        107,
+        150
+      ],
+      "attribution": "",
+      "note": "Lex as Rational ANP who mirrors AEGIS"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        164,
+        205
+      ],
+      "attribution": "",
+      "note": "the link as entanglement plus prehension, invisible to AEGIS"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        156
+      ],
+      "attribution": "",
+      "note": "Moros as Collapse/Emptiness EP"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        121,
+        204
+      ],
+      "attribution": "",
+      "note": "Nichts Rauschen as the Sea of Potentiality's signature"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        109,
+        154
+      ],
+      "attribution": "",
+      "note": "Nyx as Fight EP of KW3"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        121,
+        134
+      ],
+      "attribution": "",
+      "note": "the Sea of Potentiality as AEGIS's origin and an active threat"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        110,
+        151
+      ],
+      "attribution": "",
+      "note": "Rhys as Caregiver ANP in KW4"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        114,
+        203
+      ],
+      "attribution": "",
+      "note": "the Risse as the isolation objection made physical"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        110,
+        153
+      ],
+      "attribution": "",
+      "note": "Selene as Integrator/Self, an anomaly to AEGIS"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        135
+      ],
+      "attribution": "",
+      "note": "the Trennungsprotokoll as AEGIS's self-fragmentation after the Genesis-Krise"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        142
+      ],
+      "attribution": "",
+      "note": "TSDP for the origin, IFS for the healing"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        99,
+        101
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's control layer and laboratory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 144,
+      "decision": "reading",
+      "why": "the table of nine alters, read on alters"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

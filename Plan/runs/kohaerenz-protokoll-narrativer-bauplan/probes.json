@@ -1,0 +1,265 @@
+{
+  "document": "kohaerenz-protokoll-narrativer-bauplan",
+  "drive_id": "1bKgLtDaTOIGH5P-4zZC7hSyzlTxPUOplym048zkQinE",
+  "step": "probes",
+  "at": "2026-10-06",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+FEFF": 2
+  },
+  "glued_ref_numbers": 100,
+  "backslash_escapes": 34,
+  "typographic_marks": 40,
+  "ascii_quotes": 178,
+  "inflection_families": {
+    "erzäh": [
+      "Erzählbare",
+      "Erzählen",
+      "Erzählstil",
+      "Erzählstimme",
+      "Erzählstruktur",
+      "Erzähltempo",
+      "Erzählung",
+      "Erzählweise",
+      "Erzählwelt"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychische",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischer",
+      "Psychotherapeutenjournal"
+    ],
+    "gegen": [
+      "Gegenkoppelung",
+      "Gegensatz",
+      "Gegenstück",
+      "Gegensätze",
+      "Gegensätzen",
+      "Gegenwart"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabewältigung",
+      "Traumas",
+      "Traumata",
+      "Traumatherapie",
+      "Traumatische"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitätsstruktur",
+      "Identitätsstörung",
+      "Identitätszuständen"
+    ],
+    "parad": [
+      "Paradies",
+      "Paradigmen",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbste",
+      "Selbstentdeckung",
+      "Selbstintegration",
+      "Selbstorganisation"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemisches",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstehens",
+      "Verständnis",
+      "Verständnisses",
+      "Verstärkung"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchlichkeit"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "archi": [
+      "Architecture",
+      "Architekten",
+      "Architektur",
+      "Architekturstil"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsstrom"
+    ],
+    "chris": [
+      "Chris",
+      "Christentum",
+      "Christian",
+      "Christine"
+    ],
+    "diale": [
+      "Dialektik",
+      "Dialetheia",
+      "Dialetheism",
+      "Dialetheismus"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionsweise"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeption",
+      "Konzepts"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensformen",
+      "Lebenszyklus"
+    ],
+    "narra": [
+      "Narration",
+      "Narrative",
+      "Narrativen",
+      "Narratives"
+    ],
+    "natur": [
+      "Natur",
+      "Nature",
+      "Naturgesetz",
+      "Naturphilosophie"
+    ],
+    "reali": [
+      "Realismus",
+      "Realität",
+      "Realitäten",
+      "Realitätskonstruktion"
+    ],
+    "schut": [
+      "Schutt",
+      "Schutzes",
+      "Schutzfunktion",
+      "Schutzmechanismus"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbole",
+      "Symbolik",
+      "Symbolism"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetrien",
+      "Symmetrieprinzip",
+      "Symmetrieprinzipien"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschnitte",
+      "Abschnitts"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Anna",
+      "Annahmen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Dies",
+      "Paradies"
+    ],
+    [
+      "EINE",
+      "Eine"
+    ],
+    [
+      "EINE",
+      "Einer"
+    ],
+    [
+      "EINE",
+      "Keine"
+    ],
+    [
+      "EINE",
+      "Seine"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Einer"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Interdependenz"
+    ],
+    [
+      "Erde",
+      "Interdependenz"
+    ],
+    [
+      "File",
+      "Profile"
+    ],
+    [
+      "Film",
+      "Filmen"
+    ]
+  ]
+}

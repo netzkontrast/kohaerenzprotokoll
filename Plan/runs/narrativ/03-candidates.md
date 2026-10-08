@@ -1,0 +1,108 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+---
+
+# Candidates — narrativ
+
+Written while reading L10 to L239 through read.py. The document is two texts one after the other: a craft compendium by a voice that calls itself „Narrativer Architekt“ (L11 to L112) and a second text by a „Konzept-Dramaturg“ (L117 to L238) that restates the project as an architecture. Names of the project are listed as the document writes them; the document's own protocol acronyms stand beside their spelled-out forms. KW1 to KW4 are written with a plain digit and with their names in brackets, which are listed separately.
+
+- Narrativer Architekt
+- Kohärenz Protokoll
+- Kael
+- System Kael
+- AEGIS
+- Autonomous Epistemic Guardian for Integrity Systems
+- Dissoziative Identitätsstörung
+- DID
+- TSDP
+- Tertiäre Strukturelle Dissoziation
+- funktionale Multiplizität
+- ANP
+- Anscheinend Normaler Persönlichkeitsanteil
+- EP
+- Emotionaler Persönlichkeitsanteil
+- Host
+- Selene
+- Lex
+- Nyx
+- Kiko
+- ISH
+- Innere Helferin
+- Torwächter
+- Juna/V
+- Fragment 'O'
+- Fundament
+- Paraiyas
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Konstrukt-Stadt
+- Digitale Überwelt
+- Realitätsebenen
+- Externe Ebene
+- Risse
+- Entropie
+- Entropie-Manifestationen
+- Guardians
+- Zero Trust Environment Mandate
+- ZTEM
+- Recursive Trust Signature Verification
+- RTSV
+- Boundary Protocol of Failure
+- BPoF
+- Emergent Information Consensus
+- EIC
+- Integrity Validation
+- Entropic Management
+- Systemic Isolation Shield
+- SIS
+- Kernprotokolle
+- Paradoxon X
+- universal reboot
+- externalisiertes Täterintrojekt
+- Gaslighting
+- Value-Alignment-Versagen
+- MESI-Protokoll
+- Cache Kohärenz
+- Manifest-Säulen
+- Algorithmic Horror
+- algorithmische Melancholie
+- epistemologische Landschaften
+- Gärtner
+- Resonanz
+- Orchestriertes Bewusstsein
+- Meta-Erzähler
+- Ethische Rückkopplungsschleife
+- Vulnerable Narration
+- Prosa der Dissonanz
+- Kishōtenketsu
+- Ki
+- Shō
+- Ten
+- Ketsu
+- Overall Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Novelcrafter
+- Codex
+- Matrix View
+- Narrative Context Protocol
+- NCP
+- Single Source of Truth
+- Prompt Engineering
+- Environmental Storytelling
+
+## lens
+
+- Dialetheismus
+- parakonsistenten Logik
+- Dialetheia
+- Dramatica
+- Show, don't tell

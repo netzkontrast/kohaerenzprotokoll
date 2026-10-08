@@ -1,0 +1,67 @@
+## python3 scripts/read.py roman-konzept-reduktion-und-kernfindung --count "Alters"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Alters` ^[roman-konzept-reduktion-und-kernfindung.md:#2]
+## python3 scripts/read.py roman-konzept-reduktion-und-kernfindung --count "Anteile"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Anteile` ^[roman-konzept-reduktion-und-kernfindung.md:#2]
+## python3 scripts/read.py roman-konzept-reduktion-und-kernfindung --count "Rauschen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Rauschen` ^[roman-konzept-reduktion-und-kernfindung.md:#4]
+## python3 scripts/read.py roman-konzept-reduktion-und-kernfindung --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschen` ^[roman-konzept-reduktion-und-kernfindung.md:#2]
+## python3 scripts/read.py roman-konzept-reduktion-und-kernfindung --count "Kernel"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            10
+
+`Kernel` ^[roman-konzept-reduktion-und-kernfindung.md:#5]
+## python3 scripts/read.py roman-konzept-reduktion-und-kernfindung --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kernwelt` ^[roman-konzept-reduktion-und-kernfindung.md:#1]
+## python3 scripts/read.py roman-konzept-reduktion-und-kernfindung --count "Warum"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Warum` ^[roman-konzept-reduktion-und-kernfindung.md:#4]
+## python3 scripts/read.py roman-konzept-reduktion-und-kernfindung --count "Reduktion"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Reduktion` ^[roman-konzept-reduktion-und-kernfindung.md:#10]
+
+## stance_marker_count 14 = Warum 4 + Reduktion 10 (outputs above)
+## sed -n 79,84p table rows (six):
+6
+## profile: glued ref numbers 19, ascii quotes 24 (01-profile.txt)
+  typographic marks    25   ascii quotes 24
+  glued ref numbers    19
+## Reduktion sub-labels at L133,142,151,160:
+11:# **Die Ontologische Redukt
+108:## **Der Weg zur Reduktion
+133:  - **Reduktion:** Die mat
+142:  - **Reduktion:** NovelOS
+151:  - **Reduktion:** Nova Ar
+160:  - **Reduktion:** Die Üb
+## Warum:
+132:  - **Warum:** Es erzeugt 
+141:  - **Warum:** Es bricht d
+150:  - **Warum:** Dies führt
+159:  - **Warum:** In einem Th

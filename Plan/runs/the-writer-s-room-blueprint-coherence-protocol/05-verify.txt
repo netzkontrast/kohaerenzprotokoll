@@ -1,0 +1,99 @@
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Logline"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Logline` ^[the-writer-s-room-blueprint-coherence-protocol.md:#2]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Elevator Pitch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Elevator Pitch` ^[the-writer-s-room-blueprint-coherence-protocol.md:#2]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Beat / Scene Title"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Beat / Scene Title` ^[the-writer-s-room-blueprint-coherence-protocol.md:#3]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Revelation / Turn"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Revelation / Turn` ^[the-writer-s-room-blueprint-coherence-protocol.md:#3]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[the-writer-s-room-blueprint-coherence-protocol.md:#0]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Juna"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Juna` ^[the-writer-s-room-blueprint-coherence-protocol.md:#15]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Juna/V"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Juna/V` ^[the-writer-s-room-blueprint-coherence-protocol.md:#6]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschen` ^[the-writer-s-room-blueprint-coherence-protocol.md:#2]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Überwelt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Überwelt` ^[the-writer-s-room-blueprint-coherence-protocol.md:#3]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Overworld"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Overworld` ^[the-writer-s-room-blueprint-coherence-protocol.md:#3]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Lex"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Lex` ^[the-writer-s-room-blueprint-coherence-protocol.md:#8]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Lexicon"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Lexicon` ^[the-writer-s-room-blueprint-coherence-protocol.md:#1]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Mnemosyne"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            7
+
+`Mnemosyne` ^[the-writer-s-room-blueprint-coherence-protocol.md:#3]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Guardian"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            10
+
+`Guardian` ^[the-writer-s-room-blueprint-coherence-protocol.md:#5]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Dr. Thorne"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dr. Thorne` ^[the-writer-s-room-blueprint-coherence-protocol.md:#2]
+$ python3 scripts/read.py the-writer-s-room-blueprint-coherence-protocol --count "Mnemosyne-Archipel"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Mnemosyne-Archipel` ^[the-writer-s-room-blueprint-coherence-protocol.md:#4]
+stance_marker_count 10 = Logline 2 + Elevator Pitch 2 + Beat / Scene Title 3 + Revelation / Turn 3
+census numbers (71 candidates, 0 zeros, Lex 8/9, Mnemosyne 3/7, Guardian 5/10, profile 184 escapes, 16 glued refs): from 04-counts.txt and 01-profile.txt via capture.py
+13 beats per part, 39 in all: Parts at L71, L90, L109 headings read in read.py output

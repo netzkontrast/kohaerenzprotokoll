@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-architecture-synthesis
+  lines                416  (frontmatter ends at 0)
+  body words           8406
+  headings             34   bold-only lines 14
+  table rows           43   code fences 0
+  question marks       36
+  backslash escapes    230
+  typographic marks    112   ascii quotes 104
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    81
+  repeated labels      DE Abstract x8, Plot Dynamics x6, Verdict x4, Inventory/Rationale x3
+  longest line         3085 chars
+

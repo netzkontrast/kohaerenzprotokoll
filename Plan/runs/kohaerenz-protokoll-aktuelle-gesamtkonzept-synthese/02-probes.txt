@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           30
+
+# inflection families -- one term, several surfaces
+  infor    Information, Informationsdichtegrenzen, Informationskodierung, Informationsverarbeitung
+  kontr    Kontrolle, Kontrollparadox, Kontrollparadoxien, Kontrollzentrum
+  parad    Paradox, Paradoxie, Paradoxien, Paradoxon
+  reali    Realität, Realitätsebene, Realitätsschicht, Realitätssimulation
+  syste    System, Systemarchitektur, Systeme, Systems
+  grenz    Grenze, Grenzen, Grenzziehung
+  model    Modell, Modellblindheit, Modelle
+  monst    Monster, Monstergruppe, Monstrous
+  proto    Protokoll, Protokolle, Protokollen
+  symme    Symmetrie, Symmetriebrechung, Symmetrien
+  aegis    AEGIS, Aegis
+  analo    Analogie, Analogon
+  analy    Analyse, Analyseansatz
+  ausfo    Ausformulierte, Ausformulierung
+  clust    Cluster, Clusterung
+  diese    Diese, Dieses
+  eigen    Eigenschaft, Eigenschaften
+  eleme    Element, Elementen
+  emerg    Emergent, Emergenz
+  funda    Fundament, Fundamentale
+  gleic    Gleichgültigkeit, Gleichzeitigkeit
+  insel    Insel, Inseln
+  inter    Interdisziplinäre, Internal
+  konst    Konstrukt, Konstruktivismus
+  konze    Konzeptanalyse, Konzepts
+
+# substring pairs -- never one term, often merged by accident
+  Bind < Verbindung
+  Bind < Verbindungen
+  Eine < Seine
+  Eine < Bausteine
+  Form < Konformen
+  Form < Information
+  Form < Ausformulierte
+  Form < Ausformulierung
+  Form < Informationskodierung
+  Form < Informationsverarbeitung
+  Form < Informationsdichtegrenzen
+  Kael < Kaels
+  Kern < Kernwelten
+  Kern < Kernkonflikt
+  Kern < Kernstruktur
+  Sein < Seine
+  Teil < Teile
+  Teil < Unteilbarkeit
+  Teil < Persönlichkeitsanteile
+  Tell < Darstellung

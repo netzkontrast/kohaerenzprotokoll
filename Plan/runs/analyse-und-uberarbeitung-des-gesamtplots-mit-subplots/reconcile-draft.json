@@ -1,0 +1,319 @@
+{
+  "document": "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
+  "drive_id": "1iYF8z8T9246UtT21MF1iXbUF78r1krYLIzLpPJ6qG28",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 57,
+    "decisions": 64,
+    "decided_by_lookup": 45,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        20,
+        35,
+        42,
+        43,
+        53,
+        56,
+        62,
+        71,
+        72,
+        73,
+        76,
+        80
+      ],
+      "attribution": "",
+      "note": "a proposal to turn AEGIS from a generic control AI into a system with a specific flawed logic"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        37,
+        43
+      ],
+      "attribution": "",
+      "note": "Alex active in Kap 3 and in Kap 9"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "Argus named once, beside Lex, in Kap 17"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        37,
+        43
+      ],
+      "attribution": "",
+      "note": "Cerberus hinted in Kap 3 and met in KW3 in Kap 9"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        21,
+        61
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as an element outside AEGIS's control that offers hope"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "the Grenzfeste in the title of Kap 9, with KW3 as defence and fear"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        22,
+        47,
+        54,
+        55,
+        62,
+        80
+      ],
+      "attribution": "",
+      "note": "a proposal to make AEGIS's control tangible through characterised Wächter whose fate is planned for Kap 36"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21,
+        25,
+        45,
+        61,
+        64,
+        74,
+        76,
+        83
+      ],
+      "attribution": "",
+      "note": "Juna/V as a third subplot, from first hints to open questions"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        35,
+        47,
+        77,
+        78,
+        82,
+        83
+      ],
+      "attribution": "",
+      "note": "Kael's inner path as the core subplot of a 39-chapter revision proposal"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        22,
+        33,
+        60
+      ],
+      "attribution": "",
+      "note": "the Wächter's domains, the Kernwelten, as the structure of exploration"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        38,
+        40
+      ],
+      "attribution": "",
+      "note": "Kiko and Lia as EPs in Kap 4 and Kap 6"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        36
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as the title of Kap 2"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        25,
+        36,
+        45,
+        54,
+        56
+      ],
+      "attribution": "",
+      "note": "Lex dominant in Kap 2, Kael as Lex in the Meta-Ebene chapters"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        38,
+        40
+      ],
+      "attribution": "",
+      "note": "Lia as an EP beside Kiko in Kap 4 and Kap 6"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        36,
+        42
+      ],
+      "attribution": "",
+      "note": "LogOS met in KW1 and named a member of AEGIS"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        39,
+        40,
+        42
+      ],
+      "attribution": "",
+      "note": "Mnemosyne in KW2, manipulating memories, and a member of AEGIS"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        13,
+        83
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the name of a subplot and the close of the thematic ending"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "the Resonanz-Landschaft as the title of Kap 5, with KW2 as emotion and memory"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "Rhys steps forward in Kap 4"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        35,
+        45
+      ],
+      "attribution": "",
+      "note": "glitches in Kap 1 and a significant Riss in Kap 11"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "TSDP as the label of the first subplot"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        54,
+        71
+      ],
+      "attribution": "",
+      "note": "the Überwelt as where the Guardians stand and where Kael enters AEGIS's core"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the Protokoll's name in the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

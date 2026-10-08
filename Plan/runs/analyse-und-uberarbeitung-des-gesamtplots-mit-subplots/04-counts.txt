@@ -1,0 +1,77 @@
+# counts for 57 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             22 word    33 in   [13, 17, 19, 22, 25, 33]
+                                   10      as Kaels
+                                    1      as Kael-System
+  Lex                               7 word     7 in   [13, 20, 25, 36, 45, 54]
+  Alex                              2 word     2 in   [37, 43]
+  Rhys                              1 word     1 in   [38]
+  Kiko                              2 word     2 in   [38, 40]
+  Lia                               2 word     2 in   [38, 40]
+  AEGIS                            23 word    28 in   [13, 17, 20, 21, 22, 25]
+                                    2      as AEGIS-Kern
+                                    1      as AEGIS-Domäne
+                                    1      as AEGIS-Verteidigung
+                                    1      as AEGIS-Kontrolle
+  LogOS                             2 word     2 in   [36, 42]
+  Mnemosyne                         3 word     3 in   [39, 40, 42]
+  Cerberus                          2 word     2 in   [37, 43]
+  Argus                             1 word     1 in   [56]
+  Juna/V                           12 word    13 in   [13, 21, 25, 45, 61, 64]
+                                    1      as Juna/Vs
+  Juna                             13 word    13 in   [13, 21, 25, 45, 61, 64]
+  Host                              1 word     1 in   [35]
+  Wächter                           3 word     5 in   [13, 22, 25, 55, 80]
+                                    1      as Wächtern
+                                    1      as Wächters
+  Guardian                          2 word     6 in   [47, 54, 55, 62, 77, 80]  <-- substring
+                                    4      as Guardians
+  Guardians                         4 word     4 in   [54, 55, 62, 80]
+  Kernwelten                        3 word     3 in   [22, 33, 60]
+  KW1                               2 word     3 in   [35, 36]
+  KW2                               2 word     2 in   [39, 40]
+  KW3                               3 word     3 in   [37, 43]
+  Konstrukt-Stadt                   1 word     1 in   [36]
+  Resonanz-Landschaft               1 word     1 in   [39]
+  Grenzfeste                        1 word     1 in   [43]
+  Überwelt                          3 word     3 in   [54, 71]
+  Externe Ebene                     3 word     3 in   [13, 21, 61]
+  Fundament                        11 word    11 in   [13, 23, 25, 65, 74, 77]
+  Funktionale Multiplizität         1 word     1 in   [83]
+  Funktionalen Multiplizität        2 word     2 in   [13, 19]
+  TSDP                              1 word     1 in   [19]
+  ANP                               3 word     4 in   [36, 37, 38, 41]
+  EP                                0 word     4 in   [38, 40, 41, 45]  <-- substring
+  Subplot                          97 word   105 in   [13, 15, 17, 19, 20, 21]
+                                    6      as Subplots
+                                    1      as Subplot-Bögen
+                                    1      as Subplot-Integration
+  Kaels Weg zur Funktionalen Multiplizität    2 word     2 in   [13, 19]
+  Lex' Systemanalyse & AEGIS' Paradoxon    2 word     2 in   [13, 20]
+  Das Mysterium Juna/V & die Externe Ebene    2 word     2 in   [13, 21]
+  Die Wächter als Agenten & Charaktere    2 word     2 in   [13, 22]
+  Das Fundament & die ultimative Realität    2 word     2 in   [13, 23]
+  Paradoxon der Fehlausgerichteten Kohärenz    1 word     1 in   [20]
+  Kernparadoxon                     1 word     1 in   [56]
+  Blinden Flecken                   1 word     1 in   [22]
+  Blindspots                        1 word     1 in   [55]
+  Meta-Ebene                        4 word     4 in   [17, 19, 49, 53]
+  Innere Reise                      2 word     2 in   [17, 31]
+  Äußere Konfrontation              2 word     2 in   [17, 67]
+  Glitch                            1 word     2 in   [35]
+                                    1      as Glitches
+  Riss                              2 word     2 in   [45]
+  Gaslighting                       2 word     2 in   [42, 62]
+  Phobie                            1 word     4 in   [36, 41, 44]  <-- substring
+                                    3      as Phobien
+  Unzuverlässiger Erzähler          1 word     1 in   [35]
+  Kernkonzepten                     1 word     1 in   [17]
+  Heroine's Journey                 1 word     1 in   [31]
+  Hero's Journey                    1 word     1 in   [67]
+  Meta-Exploration                  1 word     1 in   [49]
+  Opferpunkt                        1 word     1 in   [77]
+  Apotheose                         1 word     1 in   [78]
+  Elixier                           1 word     1 in   [82]

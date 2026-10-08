@@ -593,3 +593,143 @@ Stands as a fifth-Guardian-on-the-Überwelt pairing with a question mark, dated 
 „Überwacht die Konstrukt-Stadt (Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L131]; „Überwacht den Resonanz-Nebel (Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L132]; „Überwacht das Schattenlabyrinth (Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L133]; „Überwacht den Möglichkeitsstrom (Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L134]. The pairing is part of an analysis whose table is marked „Hypothetisch“ ^[kohaerenz-protokoll-plotideen-generierung.md:L147].
 
 Stands with a pairing of LogOS, Mnemosyne, Cerberus and Kairos to these four worlds; recorded, nothing decided.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction
+
+**The concept extraction sets the five Guardians against the four worlds' names in one list, the fifth world a `Nexus` with a question mark.**
+
+The pairs: „LogOS (Konstrukt-Stadt - Logik/Kontrolle)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L265], „Mnemosyne (Resonanz-Nebel - Emotion/Erinnerung)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L266], „Cerberus (Schattenlabyrinth - Abwehr/Angst)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L267], „Kairos (Möglichkeitsstrom - Potential/Kreativität)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L268], „Sophia (Nexus/Übergreifende Weisheit?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L269]. The extraction gives the pairing as its own proposal („Könnte“ at each line), after writing that each Guardian is responsible for one Kernwelt (L257).
+
+Stands as one more answer to the pairing, a proposal; nothing is decided.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept pairs one Guardian with each world and gives the fourth world to two.**
+
+Five names: „Die Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)“ ^[kohaerenz-protokoll-2.md:L66]. Four worlds, each named with its bearer: „Konstrukt-Stadt (LogOS)“ ^[kohaerenz-protokoll-2.md:L75], „Resonanz-Landschaft (Mnemosyne)“ ^[kohaerenz-protokoll-2.md:L76], „Grenzfeste (Cerberus)“ ^[kohaerenz-protokoll-2.md:L77], „Möglichkeits-Garten (Kairos/Sophia)“ ^[kohaerenz-protokoll-2.md:L78].
+
+Stands with the four-pair position, Kairos and Sophia sharing one world; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report
+
+**The analysis report pairs the Guardians with the Kernwelten, one world each for LogOS, Mnemosyne and Cerberus and one for Kairos & Sophia together.**
+
+The headings read „LogOS (Konstrukt-Stadt“ ^[kohaerenz-analyse-kapitel-2.md:L65] (L65), „Mnemosyne (Resonanz-Landschaft“ ^[kohaerenz-analyse-kapitel-2.md:L72] (L72), „Cerberus (Grenzfeste“ ^[kohaerenz-analyse-kapitel-2.md:L79] (L79) and „Kairos & Sophia (Möglichkeits-Garten / Überwelt“ ^[kohaerenz-analyse-kapitel-2.md:L85] (L85), with KW1 to KW4 after the slashes. Two Guardians thus stand under KW4, in one heading.
+
+This adds a row to the question and decides nothing in it.
+
+## 2026-10-07 — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis
+
+**The philosophical synthesis pairs each Kernwelt with a Guardian and gives the fourth, Möglichkeits-Garten, a cell of two names.**
+
+Its matrix reads Mnemosyne in `KW2`, Cerberus in `KW3`, LogOS in `KW1` and „Kairos/Sophia“ ^[roman-konzept-und-philosophische-fragen.md:L196] in `KW4`. It states the pairing's purpose: „die logischen Grenzen ihres jeweiligen Wächter-Systems und von AEGIS selbst aufzeigt“ ^[roman-konzept-und-philosophische-fragen.md:L188].
+
+Stands as an answer in the form of a table, dated 2025-07-29; recorded, not applied, the question stays open.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The world-concept reply has each of four Guardians watch one Kern-Welt and leaves Sophia without one.**
+
+It writes it as a field of each Guardian's entry: LogOS watches primarily the Konstrukt-Stadt (KW1), Mnemosyne the Resonanz-Nebel (KW2), Cerberus the Schattenlabyrinth (KW3), Kairos the Möglichkeitsstrom (KW4) (`Überwacht primär` ^[welten.md:#4]). Of Sophia it says only that her task is „Zuständig für Wissen, Synthese, Übersicht“ ^[welten.md:L69] and „Ihre Rolle ist möglicherweise übergreifender als die der anderen vier“ ^[welten.md:L69]. The proposed names themselves are justified in part by the Guardian: the Schattenlabyrinth by „die Verbindung zu Cerberus“ ^[welten.md:L17].
+
+Stands on the side of one Guardian per world for four worlds, with Sophia's role open; recorded, not applied, and the record is not decided by it.
+
+## 2026-10-07 — `kohaerenz-protokoll-weltkonzept-synthese`, 2025-04-23, the final world concept
+
+**The final world concept gives one Guardian per Kernwelt: four worlds, four Guardians.**
+
+L43 says the Guardians are each responsible for „die Verwaltung einer der Kernwelten“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L43]. The four world entries (L72–L75) each close with the manager: „Verwaltet von Guardian LogOS“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L72], „Verwaltet von Guardian Mnemosyne“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L73], „Verwaltet von Guardian Cerberus“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L74], „Verwaltet von Guardian Kairos“ ^[kohaerenz-protokoll-weltkonzept-synthese.md:L75]. Sophia is named as possibly coordinating, not as a world's Guardian.
+
+Where it stands in the record's own terms: one Guardian to one Kernwelt; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `the-psychological-mechanics-from-tertiary-structural-dissoci`, 2025-11-03, the TSDP mechanics report
+
+**The TSDP mechanics report puts a name in brackets after each of the four Core Worlds and calls none of them a Guardian.**
+
+It lists „The Construct City (Logos-Prime)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L57], „The Resonance Landscape (Mnemosyne)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L58], „The Fortress (Cerberus)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L59] and „The Garden of Possibility (Kairos/Sophia)“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L60]. The fourth bracket holds two names. The report does not say what the bracketed names are, and it names no Guardians.
+
+Where it stands in the record's own terms: four worlds with bracketed names, no stated relation to Guardians; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `plot-entwicklung-fuer-kohaerenz-protokoll`, 2025-04-23, the plot blueprint
+
+**The plot blueprint proposes one Guardian per Kernwelt, and offers it as plot, not as settled.**
+
+It writes: „Die spezialisierten Guardians, die jeweils eine Kernwelt überwachen“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], with LogOS at KW1, Mnemosyne at KW2, Cerberus at KW3 and Kairos at KW4. Its table of the worlds gives each world a Guardian column.
+
+Stands on the side of a one-to-one pairing, as a proposal to the author; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan
+
+**The [[kishotenketsu|Kishōtenketsu]] plan proposes one Wächter per world, with Kairos and Sophia sharing the fourth, in its 30-chapter outline.**
+
+The plan, a chat reply, names the Guardians in the AEGIS fields of single chapters: „Mnemosyne (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L58] for the second world, „Cerberus (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L69] for the third, „Kairos/Sophia (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L80] for the fourth and „LogOS (Wächter W“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L91] for the first; the line writes each number. It says nothing of an Erasure-Pol, and its chapter numbers count 30 chapters.
+
+Where it stands: on the side of four pairs with Kairos and Sophia sharing one world, as a proposal in an assistant's outline, not a canon claim; the record's status is not touched.
+
+## 2026-10-07 — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis
+
+**The Dramatica loop analysis names the four core worlds KW1 to KW4 and puts one entity, LogOS, in the first; it names no Guardian for any of them.**
+
+It writes of the first: „KW1 (Logos-Prime) wird von der Entität LogOS bewohnt“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61], and of the second, „KW2 (Mnemosyne-Archipel) ist das Reich der Emotionen“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61]. The third is „KW3 (Cerberus-Labyrinth) visualisiert Hypervigilanz“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61] and the fourth „KW4 (Kairos-Potentialis) verkörpert schließlich Potenzial und Kreativität“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L61]. Only the first world has an inhabitant named in the line; the others are described by what they stand for. The analysis maps these worlds onto the psyche in its second loop, whose confirmation rests on data not in the file.
+
+Where it stands in the record's own terms: four worlds, one inhabitant named and no Guardian, in an analysis that proposes a mapping; recorded, not applied, and the question stays open.
+
+## 2026-10-07 — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint
+
+**The detailed plot blueprint places Wächter in the four Kernwelten by possibility and by AEGIS's side, without a one-to-one table.**
+
+In KW1 it writes „AEGIS und sein Wächter LogOS intervenieren hier am deutlichsten“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L43]. For KW3 it proposes „Der Wächter Cerberus könnte hier als Hüter der Grenzen oder Verkörperung der Angst auftreten.“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L45] For KW4 it writes „Der Wächter Kairos, verbunden mit dem rechten Zeitpunkt und der Gelegenheit, könnte hier eine Rolle spielen.“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L46] Mnemosyne is named as a Wächter charged with data collection in the first intervention phase: „Wächter wie LogOS (Logik) und Mnemosyne (Gedächtnis) werden beauftragt, Daten zu sammeln und Analysen durchzuführen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L70]. The document names no Wächter for KW2 in the lines read, and no Sophia.
+
+Where it stands: LogOS, Cerberus and Kairos are tied to worlds, two of them in the modal mood; Mnemosyne is tied to a task, not a world; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-07 — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint
+
+**The outline names four worlds by labels and sets two Guardian scenes in them, but pairs no Guardian to a world.**
+
+KW1 is the first world: Kael wakes „gefolgt von Kaels Erwachen in der sterilen Konstrukt-Stadt“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L21] (chapter 1). Chapter 7 has Kael enter „Kael betritt unwillentlich die Resonanz-Landschaft“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L51] (KW2) and withdraw into an inner bunker (KW3). In chapter 9 he glimpses KW4: „Er erhascht einen Blick auf“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L61] the Möglichkeiten-Garten.
+
+One Guardian is named, in chapter 15: „Konfrontation mit Guardian Mnemosyne in“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L90] KW2. In chapter 33 Kael uses his new ability „als Waffe gegen einen Guardian“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L130], unnamed and without a world.
+
+Where it stands in the record's own terms: Mnemosyne placed in KW2 by one chapter line, a second Guardian unnamed; the other Guardians and pairings are not in this outline, and the record is untouched.
+
+## 2026-10-07 — `analyse-und-uberarbeitung-des-gesamtplots-mit-subplots`, 2025-05-02, the subplot revision
+
+**The subplot revision plans the Wächter's domains to be the Kernwelten and spreads named keepers over KW1, KW2 and KW3, then puts the Guardians in the Überwelt; a proposal, not canon.**
+
+Its analysis says of the Wächter subplot: „Ihre Domänen (Kernwelten) strukturieren die Erkundung“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L22]. The chapter lines then place the figures. In Kap 2 (KW1) comes „Konfrontation mit LogOS' Starrheit“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L36]. In Kap 3 the line plans „Andeutung von Cerberus (KW3)“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L37], and in Kap 9 it has Kael explore KW3 with „Abwehr/Angst) & Cerberus“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L43]. In Kap 5 and Kap 6 (KW2) come „Konfrontation mit Mnemosyne“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L39] and „Mnemosyne manipuliert Erinnerungen“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L40]. In Part 2, Kap 15, the line plans „Guardians in Überwelt“ ^[analyse-und-uberarbeitung-des-gesamtplots-mit-subplots.md:L54].
+
+The document does not write a figure-to-world mapping as a statement; it arises from the chapter lines, and the Guardians' place in the Überwelt stands beside it without being tied to the Kernwelten.
+
+Where it stands: a plan that gives the Wächter the Kernwelten as domains and the Guardians the Überwelt, with no choice between the two in the document; recorded, not applied.
+
+## 2026-10-07 — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic
+
+**The 39-story mosaic pairs one Guardian, The Architect, with one logic-based Kernwelt in Story 17; it gives no count of Guardians or worlds.**
+
+Story 17 is assigned to „The Architect (Guardian of Kernwelt“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L122] followed by the number one, and the directive asks for the perspective of „Guardian of the logic-based world“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L123], written on that line as `Co₁`. Story 21 gives only A Kernwelt Guardian.
+
+Where it stands: one Guardian-to-world pairing in a story proposal, no five and no four; recorded, not applied.
+
+## 2026-10-07 — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation
+
+**The AIEOS evaluation names one Guardian, Mnemosyne, and pairs it with no Kern-Welt.**
+
+It says: „Der Guardian“ ^[charaktermodellierung-mit-aieos-schema.md:L59] Mnemosyne „verwaltet die Datenströme der Erinnerung, erkennt jedoch den emotionalen Kontext nicht“ ^[charaktermodellierung-mit-aieos-schema.md:L59], citing its reference 2. The evaluation speaks of the Konstrukt-Stadt elsewhere, but never in connection with this Guardian.
+
+Stands as one Guardian named for the memory streams, with no pairing and no Erasure-Pol; recorded, not applied, and the record is not changed.
+
+## 2026-10-07 — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis
+
+**The project analysis reads the Kernwelten as conditioning environments, each aimed at one target part of System Kael, and names no Guardian.**
+
+Its Kapitel 5 (the essay's own section) says the Kernwelten „fungieren als riesige, umgebungsbasierte“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L107] Skinner boxes, and that they are built as totalitarian environments: „werden die Kernwelten als totalitäre Umgebungen gestaltet“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L109]. Its table 2 pairs worlds with parts, one per row: `KW1 (Logos-Prime)` with Lex (L120), `KW3 (Cerberus-Labyrinth)` with Nyx (L121), and two worlds marked `Annahme`, one for Rhys and one for Kiko (L122, L123). The table has no KW2 and no column for a bearer or Guardian; the count of `Guardian` in the essay is `Guardian` ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:#0].
+
+The essay pairs worlds with parts, and says nothing of a Guardian per world; the record's question of which Guardian goes with which world therefore stays open in the record's own terms.
+
+## 2026-10-07 — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis
+
+**The DKT synthesis lists five Guardians, each with one named domain, and does not call any of the domains a Kern-Welt.**
+
+In its Guardians section the analysis gives each Guardian a domain: LogOS „Er scheitert an Gödels Unvollständigkeit“ ^[roman-synthese-mit-dual-kernel-theorie.md:L417] after guarding the logic of the Konstrukt-Stadt; Mnemosyne „Verwaltet die Datenströme der Erinnerung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L418]; Cerberus „Implementiert Sicherheitsprotokolle in der Grenzfeste“ ^[roman-synthese-mit-dual-kernel-theorie.md:L419]; Kairos „Steuert die kreativen Prozesse im Möglichkeiten-Garten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L420]; Sophia „Repräsentiert die systemimmanente Weisheit der Überwelt“ ^[roman-synthese-mit-dual-kernel-theorie.md:L421]. The word `Kernwelten` ^[roman-synthese-mit-dual-kernel-theorie.md:#1] stands once, in Kapitel 29: „Kollaps der Schutzzonen zwischen den Kernwelten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L298]. The analysis does not pair a Guardian with a Kern-Welt and writes `Erasure-Pol` ^[roman-synthese-mit-dual-kernel-theorie.md:#0] nowhere.
+
+Stands as a list of five Guardians with five separate domains and no pairing with worlds; recorded, not applied to the question of four worlds.

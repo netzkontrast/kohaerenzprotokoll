@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 35
-readings: 35
+sources: 53
+readings: 53
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "roman-outline-fuer-kohaerenz-protokoll", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-plot-entwicklung-und-kohaerenz-analyse", "kohaerenz-protokoll-plotideen-generierung"]
+ingested: ["aegis-emergenz-aus-der-leere", "monstergruppe-primzahlen-plot-blueprint", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "duale-storyform-synthese-kohaerenz-protokoll", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-hard-sf-horror-thriller", "plotanalyse-kohaerenz-protokoll-szenario", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "roman-outline-fuer-kohaerenz-protokoll", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-plot-entwicklung-und-kohaerenz-analyse", "kohaerenz-protokoll-plotideen-generierung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "kohaerenz-protokoll-master-integration-md", "detaillierte-kapiteluebersicht", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "romanideen-zu-roman-entwickeln", "kael-charakterarchitektur-und-konfliktdynamik", "narrativ", "kohaerenz-protokoll-narrative-synthese", "roman-outline-kohaerenz-protokoll-uberarbeitung", "romanarchitektur-kohaerenz-protokoll-finalisierung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "romanplot-kohaerenz-protokoll-entwickeln", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "analyse-des-romanprojekts-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -69,9 +69,29 @@ to, not in the word.
 
 The matrix gives emergence two roles: „Erklärung für M's holistische Natur“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L55] (L55), where AEGIS's reductionist approach fails against emergent phenomena. In the Potentialmeer section the Plotanalyse offers it as a possibility, not a position: „könnte eine Eigenschaft des Potentialmeers sein, aus dem Strukturen wie AEGIS und M hervorgehen“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L115]
 
+## Reading — `romanplot-kohaerenz-protokoll-entwickeln`, 2025-04-23, the detailed plot blueprint — Emergenz as KW4's place of change, and an emergent logic of integration
+
+The detailed plot blueprint names `Emergenz` among the concepts of mathematics and physics it wants to embody. It places it in KW4: the Möglichkeitsstrom is „zugrundeliegender Muster und Emergenz“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L46] in constant change, and its Umgebung is „ein Ort der Emergenz, an dem neue Formen und Ideen spontan entstehen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L105]. On integration it says: „eine relationale, emergente Logik, die Komplexität und Paradoxie umarmen kann“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L145]. It also writes of the Potentialmeer that logical and integrative structures `emergen` from it (see that page).
+
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — conditions for emergence from the sea
 
 The plot-idea synthesis applies Aristoteles to the Potentialmeer: the emphasis that potentiality becomes real when nothing prevents it „deutet auf die Notwendigkeit spezifischer Bedingungen oder Katalysatoren für die Emergenz aus dem Meer hin“ ^[kohaerenz-protokoll-plotideen-generierung.md:L23]. It says AEGIS arises thus: „AEGIS entsteht durch Selbstorganisation (Autopoiesis) aus dem Potentialmeer“ ^[kohaerenz-protokoll-plotideen-generierung.md:L49]. As a plot seed it asks „War die Emergenz zufällig oder zielgerichtet“ ^[kohaerenz-protokoll-plotideen-generierung.md:L292].
+
+## Reading — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction — AEGIS emerges from the sea by self-organisation
+
+The concept extraction says: „AEGIS entsteht nicht durch Design, sondern emergiert durch Selbstorganisation“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L49], and reads the passage from the Potentialmeer through Aristoteles' Dunamis: „Die Emergenz von AEGIS aus diesem Meer stellt einen Übergang von reiner Potentialität hin zu einer spezifischen Aktualität dar“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L24].
+
+## Reading — `kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese`, 2025-04-26, the concept synthesis — emergent structures from the Potentialmeer, emergent behaviour in the managed systems
+
+The concept synthesis names the Potentialmeer „die Quelle emergenter Strukturen“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L15]. Its statement titled `Emergenz, Komplexität, Chaos` says the systems AEGIS manages are complex adaptive systems „zu emergentem, unvorhersehbarem Verhalten neigen“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L25]. Both statements close with `Quellen:` lists of other documents.
+
+## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Emergenz as one pole of persona conflicts
+
+The character architecture uses the word as one pole of an inner opposition. The logician is in conflict with the creative part, „Regeln vs. Emergenz“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L55], and a persona-pair conflict is summed up as „Kernkonflikt: Emergenz vs. Rigidität.“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L198]. The report uses the word for the creative part's side of these conflicts and does not define it.
+
+## Reading — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list — control against emergence as a topic with its reason
+
+The hundred concepts list proposes `Kontrolle vs. Emergenz` as a topic and gives as reason „Zentraler Konflikt zwischen AEGIS' Ziel und der Natur komplexer Systeme/Bewusstseins.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L51]. It is a reason for deepening the topic, not a definition of emergence.
 
 ## Reading — `kontext-outline`, 2025-05-03, the outline commission — `Emergenz` as a philosophical hint and a paradox's object
 
@@ -85,6 +105,14 @@ In the introduction's science field the plan says that „wo rigide Kontrolle zu
 
 The Prologue's Philo Hint, the outline's own application of a philosophy, reads the origin as Emergenz: „AEGIS entsteht als komplexes System aus einfacheren, chaotischen Interaktionen, angetrieben durch einen Überlebensimperativ.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L38] AEGIS's reaction is planned as resistance to what it cannot control: „AEGIS versucht, Emergenz zu steuern, scheitert aber an ihrer Natur und greift zur destruktiven Kontrolle.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L38]
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Emergenz as what AEGIS cannot manage and Selene embodies
+
+The strategy report places `Emergenz` on both sides of its AEGIS analysis; the complexity-theory claims are the theory's, the mapping is the report's. It names control against emergence as a theme of its alignment section: „und Kernkonflikt durch die Linse der KI-Alignment-Theorie und des Systemdenkens zu definieren und Themen wie Kontrolle vs. Emergenz zu untersuchen.“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L174] It applies this to AEGIS' paradox: „AEGIS' Unfähigkeit, mit Emergenz/Komplexität umzugehen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L187] is called central to it.
+
+In its table of AI-alignment failures it lists „Fehlendes Management von Emergenz/Komplexität“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L199] and places the prologue's fragmentation and chapters 17, 24 and 33 against it.
+
+Under complexity theory it maps the integrated Kael to emergence: „Kaels integrierter Zustand (Selene) ist eine emergente Eigenschaft ihrer kooperierenden Anteile.“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L231] It adds: „AEGIS fürchtet/unterdrückt Emergenz“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L231] with a pointer to chapter 24. In the Murdock table, stage 10, it places „Emergenz von Selene als Koordinatorin“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L124]
+
 ## Reading — `charaktere`, 2025-07-29, the character concept — Kontrolle vs. Emergenz
 
 Third answer, section VI (L392): „AEGIS verkörpert rigide Kontrolle, während Kaels Integration die Emergenz einer neuen, komplexeren Ordnung darstellt“ ^[charaktere.md:L392].
@@ -93,13 +121,61 @@ Third answer, section VI (L392): „AEGIS verkörpert rigide Kontrolle, während
 
 The beat sheet writes `Emergenz` twice, both times in the SS (Kael ↔ Juna/V) line and both times in the phrase „Emergenz von Komplexität“ ^[finales-kausales-plot-geruest.md:L173]. In Kapitel 27-29 Kael's polyphonic narration and the cooperative order of his parts reflect it, and the line calls it central to the theme of their relationship. In Kapitel 30-32 their combined Emergenz challenges AEGIS' „Begrenzung vs. Potenzial“ ^[finales-kausales-plot-geruest.md:L186].
 
+## Reading — `kohaerenz-protokoll-narrativer-bauplan`, 2025-07-29, the Bauplan review — emergence in the table of the three parts
+
+The word stands once, in the table of the three parts: the philosophical analogy for part one, the Heldinnenreise, is „Emergenz des pluralen Selbst“ ^[kohaerenz-protokoll-narrativer-bauplan.md:L158]. The table gives no account of it; the review does not develop it elsewhere.
+
+## Reading — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium — weak emergence as what the Fundament permits
+
+The compendium defines the Fundament as a process that „Es ermöglicht schwache Emergenz“ ^[kohaerenz-protokoll-narrative-synthese.md:L24] and rewards integration without acting as a Deus ex Machina. The word `Emergenz` stands in this line alone; the compendium does not say what weak emergence is beyond its link to the Fundament.
+
+## Reading — `romanarchitektur-kohaerenz-protokoll-finalisierung`, 2025-07-29, the final framework — emergence in the Fundament's ontology and as Koordinierte Emergenz
+
+The final framework names emergence in the title of its first part: „Die Ontologie des Fundaments: Prozess, Gnosis und Emergenz“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L28]. It defines `Koordinierte Emergenz` as a use of the Juna link: „Juna kann als Synchronisationspunkt für Kaels internes System dienen.“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L115] Its transformed AEGIS no longer treats emergence as an error: it „genuine Emergenz nicht mehr als Fehler betrachtet, sondern als das interessanteste Phänomen in seinem Universum.“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L174]
+
 ## Reading — `outline`, 2025-07-30, the outline — Emergenz against control, in the summary and in Kap 37
 
 The outline's summary of Teil 1 names „Kontrolle und Emergenz“ ^[outline.md:L89] among the novel's themes (L89). Kap 37 plans that AEGIS' function changes „um echte Emergenz statt Kontrolle zu unterstützen.“ ^[outline.md:L250] (L250).
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Kapitel 36: Emergenz instead of control
+
+The chapter overview plans, in Kapitel 36, Kael's new role: „Er nimmt seine neue Rolle als ethischer Hüter der Realität an“ ^[detaillierte-kapiteluebersicht.md:L67] one who „der Emergenz fördert, anstatt Kontrolle auszuüben“ ^[detaillierte-kapiteluebersicht.md:L67] The chapter is titled „Die Geburt des Gärtners“ ^[detaillierte-kapiteluebersicht.md:L67].
+
+## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — emergence in Kael's coherence
+
+The concept summary sets two definitions of coherence against each other and describes Kael's as „dynamische, inklusive Emergenz“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L19], against AEGIS' static, excluding order.
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — control against emergence as a creative field, and the Fundament as a source of its rules
+
+The compendium (L11–L113) closes by naming a tension in the project: „zwischen Kontrolle und Emergenz“ ^[narrativ.md:L113] is one of the contradictions it calls „keine Schwächen, sondern kreative Spannungsfelder“ ^[narrativ.md:L113] (L113).
+
+The dramaturg's blueprint (L115–L238) gives the Fundament a role towards emergence: it serves as a „Rahmen oder Quelle der Regeln für Emergenz, ohne Emergenz selbst zu negieren“ ^[narrativ.md:L165] (L165). The gardener principle aims at the same end: Kael reshapes reality „um Vielfalt und Emergenz zu fördern“ ^[narrativ.md:L229] (L229).
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — the conflict between control and emergence, operationalised in the game matrix
+
+The prototype proposal reports, from its outline, that Kael's development aims at „alternativen, emergenten Form der Kohärenz“ ^[romanidee-als-interaktiver-prototyp.md:L30].
+
+The prototype proposal plans, for the game, that „Der Konflikt zwischen Kontrolle und Emergenz“ ^[romanidee-als-interaktiver-prototyp.md:L134] be mapped in the interplay of two matrix variables. This is a game reading: the term is used for the design, not defined.
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Emergenz among the principles of AEGIS's new definition of coherence
+
+In the Kapitel 33–39 sequence the outline plans for AEGIS a new definition of coherence built on complex adaptive systems, in place of rigid control: „Resilienz, Anpassung und Emergenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L275]. Emergenz stands as the last of three principles.
+
+## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — Kael's unity as an emergent property
+
+In a research note of one chapter, the Kishōtenketsu plan (an assistant's chat reply) proposes that Kael's unity is emergent: it is not imposed from outside but „emergente Eigenschaft, die aus der komplexen Interaktion seiner Teile entsteht“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L174]. AEGIS cannot grasp this: „AEGIS, das nur Top-Down-Kontrolle kennt, kann dieses Bottom-Up-Phänomen nur als Chaos interpretieren“ ^[kishotenketsu-fuer-meinen-roman-bitte-plane-ein.md:L174]. The plan makes no canon claim.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the English compilation (the strategy paper, the architecture analysis) — Emergenz durch Negation explained as AEGIS's method
 
 The strategy paper's table gives it as AEGIS's method, with its gloss: „(Emergence by Negation). It is a coherence of alienation.“ ^[ai-assisted-narrative-coherence.md:L1175] The architecture analysis lists it among AEGIS's philosophical principles with an explanation: „Defines its existence by what it is“ ^[ai-assisted-narrative-coherence.md:L1773] not, that is incoherent chaos, and elsewhere „Its very existence is defined negatively, through an iterative process of eliminating incoherence—an“ ^[ai-assisted-narrative-coherence.md:L1702] `Emergenz durch Negation`.
+
+## Reading — `romanideen-zu-roman-entwickeln`, 2025-10-15, the master blueprint — Kael as the gardener of conditions for Emergenz
+
+In the resolution the master blueprint proposes that Kael take the role of the „Gärtners“ ^[romanideen-zu-roman-entwickeln.md:L132], who cultivates „die Bedingungen für Emergenz und Komplexität kultiviert, anstatt Ordnung zu erzwingen“ ^[romanideen-zu-roman-entwickeln.md:L132]. The line gives its source as 6 and says nothing further about the term.
+
+## Reading — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis — Emergenz as the last step of a cycle of intrusion and correction
+
+The project analysis (an unsigned essay; its `Kapitel` are its own sections) reports from the theory materials a sequence: „Intrusion (K₀) → Korrektur (K₁) → Rekonfiguration (Emergenz)“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L36]. Such a cycle often leaves a system that is „komplexer, widerstandsfähiger oder anpassungsfähiger“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L36]. The essay draws the conclusion that the collapse pressure is a driver of complexity: „Der Kollapsdruck von K₀ ist somit nicht nur eine Bedrohung, sondern der primäre Motor für die Evolution von Komplexität“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L36].
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — emergence in Kap 10 and Kap 21
 
@@ -132,6 +208,10 @@ The research report (2.1) places `Emergenz` in the Kollaps-Kernel: „Er ist der
 ## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — time as an emergent phenomenon, the Page-Wootters mechanism
 
 The refactoring plan is an assistant's proposal to the author; it reports of the Page-Wootters mechanism that „Dieser Mechanismus postuliert, dass Zeit ein rein emergentes Phänomen ist“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L116], and applies it to Kael: „Die Zeit in Kaels Erlebniswelt entsteht erst durch den sogenannten Page-Wootters-Mechanismus“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L116]. The mechanism is a reference, with footnotes; the application is the plan's proposal.
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — emergence in Kernwelt 4
+
+The master integration gives Kernwelt 4 the DKT signature „Einzige Zone, in der neue Coherons entstehen können — Emergenz statt Erhaltung“ ^[kohaerenz-protokoll-master-integration-md.md:L245]. It is the document's one use of the word.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — emergence as a kernel's precondition, and as the manifesto's negation
 
@@ -255,3 +335,5 @@ So five senses in one file: `C3`'s own sense, in English and in a question; a me
 
 - `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29: the pitch gives AEGIS's origin as „aus demselben gespaltenen Ursprungs-Selbst wie Kael hervorgegangen ist“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L105] in the Genesis-Krise, without the word Emergenz for it.
 - The report of 2026-02-23 summarises Teil 2 as Kael turning from architect to gardener of emergence.
+- The strategy report (2025-05-03) places Emergenz as the property of Kael's cooperating parts that AEGIS fears and suppresses: „AEGIS fürchtet/unterdrückt Emergenz“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L231]
+- The project analysis places Emergenz as the reconfiguration after intrusion and correction; the collapse pressure becomes the driver of evolution of complexity.

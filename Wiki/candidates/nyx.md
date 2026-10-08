@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 84
-readings: 84
+sources: 126
+readings: 127
 conflict: C10
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt", "kohaerenz-protokoll-the-official-master-story-guide", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-outline-1-13-fuer-kohaerenz-protokoll", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt", "kohaerenz-protokoll-the-official-master-story-guide", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-outline-1-13-fuer-kohaerenz-protokoll", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "aegis-manifest-genesis-krise-reboot", "coherence-protocol-a-39-part-narrative-arc", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "detaillierte-kapiteluebersicht", "kuerze-rechercheauftrag-die-architektur-der-seel", "deconstructing-reality-s-architecture", "kohaerenz-protokoll-architecture-synthesis", "romanidee-als-interaktiver-prototyp", "project-status-report-kohaerenz-protokoll-canonical-state-st", "the-coherence-protocol-a-narrative-design-world-architecture", "romanideen-zu-roman-entwickeln", "kael-charakterarchitektur-und-konfliktdynamik", "narrativ", "kohaerenz-protokoll-narrative-synthese", "roman-konzept-und-philosophische-fragen", "roman-outline-kohaerenz-protokoll-uberarbeitung", "romanarchitektur-kohaerenz-protokoll-finalisierung", "project-coherence-protocol-narrative-blueprint-decisions", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "roman-konzept-reduktion-und-kernfindung", "project-status-report-kohaerenz-protokoll-canon-systemic-sta", "master-konzept-kohaerenz-protokoll-analyse", "analyse-des-kohaerenz-protokolls", "the-psychological-mechanics-from-tertiary-structural-dissoci", "roman-konzept-kael-aegis-simulation", "kohaerenz-protokoll-narrative-architektur", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "ki-roman-architektur-kritische-analyse-methoden", "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "briefing-document-the-kohaerenz-protokoll-narrative-framewor", "the-coherence-protocol-a-worldbuilding-bible", "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m", "charaktermodellierung-mit-aieos-schema", "analyse-des-romanprojekts-kohaerenz-protokoll", "narrative-kernentwicklung-aegis-und-system-kael", "creative-expose-the-correspondence-principle-as-narrative-ar", "kael-s-dissociative-architecture-analysis"]
 gathered: "2026-09-24"
 ---
 
@@ -18,6 +18,12 @@ Profile 3.3 is headed „3.3. Nyx (ehem. Shadow)“ ^[strukturelle-dissoziation-
 
 Conflict pair Lex vs. Nyx (L40): the report reads it as the core struggle between rational control and affect-laden defence. AEGIS lever: „AEGIS kann Nyx leicht provozieren“ ^[strukturelle-dissoziation-system-kael-analyse.md:L108] through his trigger points, to present him as dangerous.
 
+## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Nyx as the Schatten, an IFS firefighter on the Grenzfeste
+
+The character architecture names Nyx by the role `Der Schatten`, quoted as „Der Schatten“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L80]. Its function is the firefighter's: „Dient als IFS-Firefighter“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L81]. Its world is the Grenzfeste: „Die chaotische, bedrohliche Atmosphäre dieser Welt passt zu seiner reaktiven, misstrauischen Natur“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L83].
+
+The Jung section adds a second aspect: the Schatten „ist nicht nur ein reaktiver Firefighter, sondern auch Träger von Kaels verdrängter Energie“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L146]. Externally the profile marks a Pressure Point: Nyx „Provoziert häufig Konflikte mit Guardians und AEGIS durch Regelverstöße oder destruktives Verhalten“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L88]. Among the internal conflicts it is set against Rhys: „Nyx wittert überall Verrat und Gefahr“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L174], and against the world of possibilities, with „Nyx' reaktive, potenziell destruktive Impulse“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L221].
+
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Nyx as anger and impulsivity, hedged by world
 
 The world concept ties Nyx to anger in KW2: „Nyx (Wut)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L60]. In KW1 it is among those threatened: „Nyx (dessen Impulsivität unterdrückt wird)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L39]. In KW3 the hedged proposal is „potenziell Nyx (Verteidigung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L82]. In KW4: „Nyx könnte das Chaos als destruktiv empfinden“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L105]. In the Externe Ebene: „Nyx (Bedrohung)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L152].
@@ -25,6 +31,14 @@ The world concept ties Nyx to anger in KW2: „Nyx (Wut)“ ^[weltenkonzept-fuer
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — the fighting EP and its KW3 overlay
 
 The concept heads Nyx „EP - Kampf“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L48] and describes „Eine Welt ständiger Bedrohung und des Kampfes um Respekt und Autonomie“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L50]. Its overlay for KW3 (B) opens with a question mark: „Resonanz/Heimat? Die bedrohliche, chaotische Atmosphäre passt zu seiner Kampfbereitschaft“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L57]. The entry also names AEGIS only as one of the things he fights (the passage on „äußere Kontrolle (AEGIS)“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L50]).
+
+## Reading — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list — Nyx as a conflict driver, and the Shadow
+
+The hundred concepts list names „Nyx (Kampf-EP - Wut/Schutz)“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L35] as a part to deepen, with the reason: „Verkörpert Trauma-Wut; seine Dynamik mit AEGIS (Paradoxon X) und anderen Anteilen ist ein Konflikttreiber.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L35] The IFS item on positive intent gives Nyx as the example: „Das Verständnis, dass selbst destruktive Anteile (Nyx) ursprünglich schützen wollten, ist Schlüssel zur Integration.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L24] Jung's Shadow is proposed because it „Vertieft Nyx über die EP-Rolle hinaus“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L27].
+
+## Reading — `roman-konzept-kael-aegis-simulation`, 2025-05-01, the simulation concept — Nyx as protective rage, a possible trigger of the inciting incident
+
+The simulation concept proposes, as inciting incident, a dissociative event: „bei dem ein anderer Alter (z.B. der aggressive Nyx“ ^[roman-konzept-kael-aegis-simulation.md:L48] takes control and does unintended harm; the paper offers it as one option beside an intervention by a Guardian. It describes Nyx on his emergence as „Nyx (schützende Wut, Aggression, möglicherweise Träger von Kampffähigkeiten oder Überlebensstrategien aus traumatischen Situationen“ ^[roman-konzept-kael-aegis-simulation.md:L55]. Later Nyx has an agenda of his own: „Nyx könnte sich darauf konzentrieren, die Wächter zu bekämpfen oder Fluchtwege zu finden“ ^[roman-konzept-kael-aegis-simulation.md:L66].
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Nyx named once, for anger
 
@@ -64,6 +78,10 @@ The detailed outline names Nyx only as a possibility in KW3: besides Alex the de
 
 In Chapter 9 (Cerberus-Labyrinth, KW3) the final outline names Nyx among the parts activated there: „Nyx (Kämpfer/Wut-EP)“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L597], with the hedge `potenziell` in front of it in the same line, so Nyx is a possible activation, not a fixed one. The Narrative Goals name the same pair, „Aktivierung von Kampf-/Wut-Anteilen (Alex/Nyx)“ ^[roman-outline-1-13-fuer-kohaerenz-protokoll.md:L600].
 
+## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Nyx named once, classed with the ANPs
+
+The strategy report names `Nyx` ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:#1] once, in its Murdock table, and there it classes Nyx as an ANP: „Aussöhnung/Koordination der ANPs (Lex, Alex, Nyx) unter Selene“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L123]. It places this under stage 9, the healing of the wounded masculine within.
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — the fighter part, outward rage over unbearable vulnerability
 
 The report gives the pair `Nyx (Kämpfer) & Kiko (Kind)` from the plot document: „Dieses Duo personifiziert den Kernkonflikt zwischen der nach außen gerichteten Wut als Abwehrmechanismus (Nyx) und der darunter liegenden, unerträglichen Verletzlichkeit und Angst (Kiko)“ ^[scifi-roman-mit-ki-schreiben.md:L145] and adds „Nyx' explosive Aggression und Kikos lähmende Angst sind starke narrative Treiber“ ^[scifi-roman-mit-ki-schreiben.md:L145]
@@ -88,13 +106,65 @@ The Welt blueprint pairs Nyx with Alex in KW3, first pass (L54): „die Domäne 
 
 The system plan applies TSDP and lists Nyx among the EPs, each of whom „verkörpert ein spezifisches, evolutionär vorbereitetes Abwehraktionssystem“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L91]. For Nyx it names „Kampf (Fight - Nyx)“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L95] with „Aggression, Feindseligkeit, darauf ausgerichtet“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L95] to neutralise a perceived threat. In the proposed narration of the late phases „Nyx sich auf einen Kampf vorbereitete“ ^[kohaerenz-protokoll-narrative-architektur-2.md:L134].
 
+## Reading — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter — Nyx as the threat-defence agent
+
+The research letter, applying Minsky's `Society of Mind` to Kael, writes: „Lex ist der Logik-Agent, Nyx der Bedrohungsabwehr-Agent, Kiko der Empathie-Agent“ ^[aegis-logik-und-erzaehlstruktur.md:L227]. It names the alters as agents of Kael's mental system, not as incomplete personalities.
+
+## Reading — `kohaerenz-protokoll-narrative-synthese`, 2025-07-29, the compendium — Nyx as the example of a persecutor's transformation
+
+The compendium takes Nyx as its example for the transformation of a destructive part, in three phases. Phase 1: „Nyx agiert als interner Verfolger“ ^[kohaerenz-protokoll-narrative-synthese.md:L216]. Phase 2 begins when Kael or another part stops fighting her and „ihre schützende Rolle anerkennt“ ^[kohaerenz-protokoll-narrative-synthese.md:L217]. Phase 3: „Sie transformiert sich zur mächtigsten strategischen Verteidigerin des Systems“ ^[kohaerenz-protokoll-narrative-synthese.md:L218], and the same line ends „eine Beschützerin im wahrsten Sinne des Wortes“ ^[kohaerenz-protokoll-narrative-synthese.md:L218].
+
+In the prose-style passage the compendium proposes a rhythm for her: „Nyx (die Beschützerin) könnte einen stakkatoartigen, parataktischen Rhythmus“ ^[kohaerenz-protokoll-narrative-synthese.md:L203] — a hedge („könnte“) in a style proposal.
+
+The table has the form „EP: Beschützer (Kampf-Reaktion)“ ^[kohaerenz-protokoll-narrative-synthese.md:L256] for her row, with the masculine noun `Beschützer`. So the compendium writes Nyx with female forms in the transformation passage (`Sie`, `Verteidigerin`, `Beschützerin`, and `die Beschützerin` in the style passage) and with `Beschützer` in the table. This reading records both and decides nothing.
+
+## Reading — `roman-konzept-und-philosophische-fragen`, 2025-07-29, the philosophical synthesis — Nyx named once, as an example of the EPs
+
+The philosophical synthesis names `Nyx` once, at L118, as the example of the EPs, the emotional parts caught in the trauma time and bearing the raw affects and memories of the trauma (the example for the ANPs is `Lex`). The sentence around it: „Seine Psyche ist in mindestens zwei Arten von dissoziativen Anteilen aufgeteilt“ ^[roman-konzept-und-philosophische-fragen.md:L118]. It gives Nyx no further profile.
+
+## Reading — `romanarchitektur-kohaerenz-protokoll-finalisierung`, 2025-07-29, the final framework — Nyx as keeper of healthy boundaries
+
+The final framework's post-integration table classifies `Nyx` as „EP (Beschützer, Kampf-Reaktion)“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L202] and defines her integrated role as „Hüter gesunder Grenzen; Quelle von Mut, Entschlossenheit und strategischer Verteidigung“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L202]. For the prose of the ending it proposes that the voice of Nyx appears as „beschützenden Entschlossenheit von Nyx“ ^[romanarchitektur-kohaerenz-protokoll-finalisierung.md:L268] inside one unified narrative voice.
+
+## Reading — `kohaerenz-protokoll-narrative-architektur`, 2025-07-29, the System-Mind analysis — Nyx as the fighting protector
+
+In the alter table the System-Mind analysis classifies Nyx as „EP (Kampf-Reaktion): Aggressiver Beschützer“ ^[kohaerenz-protokoll-narrative-architektur.md:L163]. In the logic argument Nyx stands against Lex as the other speaker in AEGIS's internal discourse: „ist Kaels Heilungsprozess keine Wahl zwischen diesen Thesen“ ^[kohaerenz-protokoll-narrative-architektur.md:L76], but their synthesis.
+
 ## Reading — `outline`, 2025-07-30, the outline — Nyx as an EP and the Beschützer with a staccato style
 
 Nyx is listed among the EPs in Teil 2: „Kaels Anteile (ANPs wie Lex, Rhys, Alex und EPs wie Nyx, Kiko, Moros, Isabelle, Lia, Argus) entwickeln ihre Kooperation weiter“ ^[outline.md:L116] (L116). The outline's stylistic signature for the alters gives „Nyx (Beschützer)“ ^[outline.md:L122] (L122) „Stakkatoartiger, parataktischer Rhythmus mit kurzen, handlungsorientierten Phrasen.“ ^[outline.md:L122] (L122).
 
+## Reading — `detaillierte-kapiteluebersicht`, 2025-07-30, the chapter overview — Kapitel 12 and 20: the fighter part
+
+The chapter overview plans, in Kapitel 12, that „übernimmt der Kämpfer-Anteil“ ^[detaillierte-kapiteluebersicht.md:L28] Nyx control for a time, in an outburst of destructive but protective aggression. In Kapitel 20 Kael recognises, „Kael, unterstützt von Rhys“ ^[detaillierte-kapiteluebersicht.md:L41] that the aggression serves „dem Schutz der verletzlichsten Anteile dient“ ^[detaillierte-kapiteluebersicht.md:L41]
+
+## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — Nyx as the fighter
+
+The concept summary lists Nyx as „Der Kämpfer“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L54], described as „Die Rebellion und der Widerstand gegen Zwang.“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L54]
+
+## Reading — `narrativ`, 2025-07-30, the architect's compendium — Nyx, aggressive protector, strategic defence once integrated
+
+The dramaturg's blueprint (L115–L238) lists Nyx as an EP, „aggressiver Beschützer, der aus Angst vor Hilflosigkeit proaktiv Bedrohungen neutralisiert“ ^[narrativ.md:L154]; integrated, „Integriert kanalisiert Nyx“ ^[narrativ.md:L154] anger into strategic defence (L154).
+
+The compendium (L11–L113) uses Nyx as an example of prose, not as a world fact: an italic intrusion in the early phase, where Nyx answers a hopeful thought with suspicion (L24); in the late phase Nyx prepares for a fight within the shared perception (L35).
+
+## Reading — `als-ihr-narrativer-architekt-blicke-ich-auf-das-r`, 2025-07-30, the final causal blueprint — Nyx as fighter part, from outburst to recognised protection
+
+The final causal blueprint plans Nyx twice. In chapter 12 „übernimmt der Kämpfer-Anteil“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L76] the control for a short time, and the plan says it „reagiert mit einem Ausbruch destruktiver, aber schützender Aggression“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L76]. In chapter 20, titled `Die positive Absicht der Wut`, „Kael erkennt Nyx' Schutzfunktion, ein entscheidender Schritt zur Integration“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L100].
+
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — an emotional part with the fight function
 
 In Kapitel 6 the architecture plan names it among the Emotional Parts: „Nyx [Kampf]“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L137]. Kapitel 31 proposes, as a subplot, that a part long held problematic, Nyx, finds a constructive role through its assertiveness. Kapitel 27 sets Nyx' „Durchsetzungsvermögen“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L440] among the abilities the parts bring to the attempt to leave AEGIS' reality.
+
+## Reading — `romanidee-als-interaktiver-prototyp`, 2025-08-05, the CAVE prototype proposal — the Kämpfer in the game's inner council
+
+The proposal's portrayals of Nyx are examples for the game. In the worked example: „Nyx (der Kämpfer) drängt auf eine aggressive Konfrontation“ ^[romanidee-als-interaktiver-prototyp.md:L144]. In the Kap 7 scene: „Nyx' Stimme drängt aggressiv zum Angriff“ ^[romanidee-als-interaktiver-prototyp.md:L224]. In the Kap 13 puzzle: „Nyx muss eine physische Barriere durch eine kraftvolle Aktion durchbrechen“ ^[romanidee-als-interaktiver-prototyp.md:L233].
+
+## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Nyx as the EP of fight, caged by Lex in Kapitel 12
+
+The dual structure is an outline. Its table of the Anteile gives Nyx the role `EP-Kampf` and in Akt I „Misstrauischer Beschützer“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L308]. Kapitel 12, `Der Käfig`, has the perspective „Kael (Fokus auf Nyx' Ko-Bewusstsein)“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L167]; its Ki pass calls him „Nyx, der aggressive Beschützer-EP“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L174], and its Ketsu has „Nyx ist gefangen, aber seine Wut ist nicht ausgelöscht, sondern komprimiert“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L177].
+
+For the collapse the table plans him „Befreit durch den Kollaps“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L308].
 
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the blueprint, the narrative distillation, the scene outline and the architecture analysis of the English compilation — Nyx as the fight-response protector whose aggression serves the vulnerable parts
 
@@ -111,6 +181,18 @@ The architecture analysis types her „EP (Fight Response)“ ^[kohaerenz-protok
 ## Reading — `briefing-core-concepts-of-the-kohaerenz-protokoll-project`, 2025-10-15, the briefing — Nyx as a fighter EP and internal persecutor
 
 The alter table: „EP: Fighter/Protector, personifies the fight response.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L86] The narrative-role column adds „Acts as an internal persecutor, representing misguided rage to prevent powerlessness.“ ^[briefing-core-concepts-of-the-kohaerenz-protokoll-project.md:L86] (L86).
+
+## Reading — `narrative-blueprint-the-coherence-protocol`, 2025-10-15, the blueprint — Nyx as the fight response and first an internal persecutor
+
+The blueprint's first part lists „Nyx (Fighter)“ ^[narrative-blueprint-the-coherence-protocol.md:L43], an EP personifying the fight response, who is „Initially acting as an internal persecutor“ ^[narrative-blueprint-the-coherence-protocol.md:L43], his rage a misguided protective instinct. Its thematic foundation's roster table types him „EP (Fight-Response)“ ^[narrative-blueprint-the-coherence-protocol.md:L256] (L256) and says he embodies trauma-rage and aggressive defense.
+
+## Reading — `romanideen-zu-roman-entwickeln`, 2025-10-15, the master blueprint — Nyx as the fighting EP, and the World Bible's name for it
+
+The table the master blueprint consolidates classes Nyx as „EP (Kampf-Reaktion) - Aggressiver Beschützer“ ^[romanideen-zu-roman-entwickeln.md:L73]. Its relations cell says „Beschützt Kiko, aber seine Aggression wird von den ANPs gefürchtet“ ^[romanideen-zu-roman-entwickeln.md:L73]. The blueprint reports that the `World Bible` uses `Nox` where other drafts use `Nyx` (L60) and consolidates them in one list (L62). For Act I it proposes that Lex's analytical ability and Nyx's instinctive vigilance briefly work together (L99).
+
+## Reading — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint — Nyx as the aggressive protector
+
+The locked blueprint's alter table classifies Nyx as „EP (Fight Response) - Aggressive protector.“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L196] It plans for Kael to exploit the Guardian LogOS: „Kael will exploit this by having an Emotional Part (EP) like Nyx“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L89] unleash a raw emotional outburst. In the dialetheic scene „the aggressive protector alter Nyx can act on the raw, contradictory impulse“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L166].
 
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — its row in the Master Profile of Alters
 
@@ -138,6 +220,50 @@ In Story 15 (The Society of Alters) the outline sets Lex against „EP like Nyx,
 
 Recorded as one outline's proposal.
 
+## Reading — `analysis-of-the-kohaerenz-protokoll-narrative-project-develo`, 2025-11-03, the contradiction report — Nyx as the fight response among the Emotional Parts
+
+The contradiction report names nyx among the EPs who hold the trauma, „Nyx the fight response, Kiko the child part, and Moros the collapse/shutdown response“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L55]. It says nothing more of the part.
+
+## Reading — `the-psychological-mechanics-from-tertiary-structural-dissoci`, 2025-11-03, the TSDP mechanics report — Nyx as the fight-response EP
+
+The TSDP mechanics report types Nyx „EP - Fight/Persecutor“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L46]: he „Embodies the fight-response“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L46], protecting vulnerable parts through aggression, „often turning this aggression inward“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L46]. In KW3, the Fortress, the report sets him against „the impossible task of a protector alter like“ ^[the-psychological-mechanics-from-tertiary-structural-dissoci.md:L59] guaranteeing absolute safety; in KW1 it counts him among the emotional parts suppressed as system errors.
+
+## Reading — `the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to`, 2025-11-03, the writer's bible — Nyx as EP (Fight) who is also named a KW3 protector
+
+The writer's bible types Nyx as „EP (Fight)“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L163] and calls her „primary antagonist to Lex and Rhys“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L163]. In the same table she protects Kiko and Lia while disdaining their weakness. In Act II the guide says „Nyx's aggression is needed to navigate hostile data-constructs“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L196] in the Rifts.
+
+The guide also names Nyx in the description of the third Core World, shaped by the zero-trust principles of „protector alters like“ ^[the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to.md:L88] Alex and Nyx. It types her as an Emotional Part and, in that sentence, as a protector of the bunker-world; it does not relate the two.
+
+## Reading — `briefing-document-the-kohaerenz-protokoll-narrative-framewor`, 2025-11-03, the framework briefing — Nyx as the Fight EP
+
+The framework briefing types Nyx „EP (Fight)“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L98], with the action system aggressive defense and control, and the motivation „Protect the vulnerable through strength; Contempt for and fear of weakness“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L98]. In the Order against Chaos row she appears as Rage, opposed to Lex: „Lex (Logic) vs. Nyx (Rage) and Kiko (Fear)“ ^[briefing-document-the-kohaerenz-protokoll-narrative-framewor.md:L145].
+
+## Reading — `the-coherence-protocol-a-worldbuilding-bible`, 2025-11-03, the worldbuilding bible — Nyx as Fight EP of KW3
+
+The worldbuilding bible types Nyx „Fight EP“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L154], „A fierce protector of vulnerable parts“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L154], and places him in KW3, „The domain of protectors like Alex and Nyx“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L109]. The same row ties his activation to a `Paradoxon X` with AEGIS.
+
+## Reading — `the-coherence-protocol-a-proposal-for-a-39-story-narrative-m`, 2025-11-03, the 39-story mosaic — Nyx as the fight part and narrator
+
+The 39-story mosaic lists Nyx among the key EPs as „Nyx (Fight)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L40]. Story 4, `The Dragon's Breach`, is assigned to „Nyx (EP Fight)“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L73]; it directs a visceral, chaotic narrative of Nyx being triggered and forcefully taking control. In Story 26 the proposal assigns two narrators in turn: „Nyx (EP Fight) & Lex (ANP Rationalist) in rapid succession“ ^[the-coherence-protocol-a-proposal-for-a-39-story-narrative-m.md:L176].
+
+## Reading — `analyse-des-romanprojekts-kohaerenz-protokoll`, 2025-11-03, the project analysis — Nyx as the fighting EP, target of the third Kernwelt
+
+The project analysis (an unsigned essay; its `Kapitel` are its own sections) types Nyx in its table of parts „EP (Kampf)“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L178] with the motive „Schutz der Verletzlichen; Verachtung von Schwäche.“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L178] and the relation „Beschützt Kiko/Lia, verachtet aber ihre“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L178] weakness, followed by a direct conflict with Lex and Rhys.
+
+The Kernwelt table gives `KW3 (Cerberus-Labyrinth)` with Nyx as target part, the action system „Kampf, Aggressive Verteidigung“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L121] and the cultivated behaviour „Schnelle, proaktive Neutralisierung von Bedrohungen“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L121].
+
+In the duality table: „Lex (Logik) vs. Nyx (Wut) und Kiko (Angst)“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L76]. In the conflict list, Nyx stands against another EP: „Nyx' Kampf vs. Moros' Kollaps“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L165]. On the conditioning the essay writes that „Lex' Stolz auf seine Logik und Nyx' Identifikation mit seiner Stärke sind Produkte der feindlichen Programmierung.“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L113].
+
+## Reading — `narrative-kernentwicklung-aegis-und-system-kael`, 2025-11-03, the development dossier — Nyx as the fighting EP
+
+The development dossier lists Nyx first among the five EPs: „fünf EPs (Nyx, Kiko, Lia, Isabelle, Moros)“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L83]. It names her anger as a barrier the host avoids: „Situationen vermeiden, die Nyx' Wut oder Kikos Terror auslösen könnten“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L85].
+
+For act II it plans that the fighting part is needed in the Risse: „Nyx (EP-Kampf) wird benötigt, um aggressive, korrumpierte Datenformen zu navigieren“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L150]. As a narrative technique it proposes „wird die Prosa aggressiv, abgehackt und auf die Bedrohungserkennung fokussiert“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L220] when Nyx has control.
+
+## Reading — `creative-expose-the-correspondence-principle-as-narrative-ar`, 2025-11-03, the correspondence exposé — Nyx as a fight EP and a protector alter
+
+In the correspondence exposé's alter table `Nyx` is a Fight EP, and the role column reads: „Represents a raw, brutal form of“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L50] correspondence. His rage is called a response that corresponds to the traumatic truth of powerlessness and violation. In the world list the third Kernwelt is „The paranoid, zero-trust“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L87] bunker-world of the protector alters `Alex` and `Nyx`; the table has no row for `Alex`, and the exposé does not remark on it.
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — Nyx as the protecting EP, the fact of resistance
 
 In Table 1 of the truth-duality paper, Nyx is an EP with the function „Kampf, Aggression, Wut“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L71], motivated by „Motivation: Schutz der Schwachen (Kiko/Lia).“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L71], and matched to „Aggressive Korrespondenz-Wahrheit (Der Fakt des Widerstands)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L71]. In Act 2 Kael must communicate with „der wütenden Nyx“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L205].
@@ -146,11 +272,19 @@ In Table 1 of the truth-duality paper, Nyx is an EP with the function „Kampf, 
 
 The themes exegesis names Nyx (Wut) with Kiko as an EP: „Anteile wie Kiko (Angst) oder Nyx (Wut)“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L75]. Theme 9 reads the connection to Moros and Nyx as a wormhole (a glued footnote number marks a reference): „Moros/Nyx“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L180]. Theme 11 gives the concept as „Würdigung der Schutzfunktion von Nyx“ ^[kohaerenz-protokoll-konzeptionelle-themen-struktur.md:L189].
 
+## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — Nyx named once, among the fragments of the EP
+
+The protocol analysis names `Nyx` once, in a list of examples: the EP was shattered „bei dem der EP weiter in Fragmente (Alters wie Nyx, Kiko, Moros) zerschlagen wurde“ ^[analyse-des-kohaerenz-protokolls.md:L221]. It says nothing further about Nyx.
+
 ## Reading — `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, the planning report — Nyx as the Fight alter, in a proposed workflow
 
 As the planning report renders the Writer's Bible (its reference 5), Nyx is „Nyx (EP - Fight)“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L142], whose core motivation is protection through aggression. Her conflict: „Nyx hasst Lex für dessen Passivität und Kiko für deren Angst.“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L147] The next sentence gives her a double role: „Sie ist der Motor der Action, aber auch der Destabilisierung.“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L147]
 
 In its psychological correspondence of the third Kernwelt the report puts her among those of „Die aggressive Verteidigung (Nyx, Alex)“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L81]. For its proposed agent questions it also names an „Kael-Agenten (Nyx)“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L167], asked what she would do if Lex did not hold her back.
+
+## Reading — `master-konzept-kohaerenz-protokoll-analyse`, 2025-12-05, the master concept — Nyx in an example prompt of the writing method
+
+`Nyx` stands once in the master concept's account of meta-prompting, where language models simulate „Dialoge zwischen den Agenten“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L70] of the novel. Its example of such a prompt is „Was würde AEGIS auf diesen Angriff von Nyx antworten“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L70], so Nyx appears as an attacker facing AEGIS in a simulated exchange.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Nyx as the fighter who turns from attacker to defender
 
@@ -159,6 +293,20 @@ In Kap 10 the three-part analysis tells that Kael „Er muss *Nyx* überzeugen, 
 ## Reading — `kohaerenz-protokoll-the-official-master-story-guide`, 2026-01-02, the Master Story Guide — Nyx as the Avenger, an EP
 
 The Master Story Guide lists `Nyx (The Avenger)` in its System Roster with the role `The Protector`, an EP. The row calls her a protector part who „holds the anger and fight-response of the trauma“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11] and who „acts aggressively to defend the system from perceived threats“ ^[kohaerenz-protokoll-the-official-master-story-guide.md:L11]. Recorded as the guide's own roster, not applied.
+
+## Reading — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief — Nyx as the EP Fighter, unburdened into a Guardian role
+
+The design brief places `Nyx` among the EPs: „Nyx holds the system's rage and the memory of powerlessness“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L61]. In its unburdening example he „is unburdened of his raw rage and transforms into a focused“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L77] role it calls Guardian, „becoming the system's chief of security“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L77] (here Guardian names an alter's changed role, not the glossary's four Guardians). KW3 is „The domain of Nyx and Soren; the state of hypervigilance“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L104]. The glossary row reads „Aggression, Defense. Holds rage.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L203]
+
+## Reading — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis — Nyx as persecutor and protector
+
+## Reading — `kael-s-dissociative-architecture-analysis`, 2026-01-02, the dissociative architecture report — Nyx as the aggressive protector EP and her arc with Kael
+
+The dissociative architecture report lists Nyx among the Emotional Parts as The Shadow / Fighter, carrying „The Burden of Annihilation Anxiety“ ^[kael-s-dissociative-architecture-analysis.md:L84]. Its phobia section sets the pair against each other: „Nyx (EP) despises Kael (ANP).“ ^[kael-s-dissociative-architecture-analysis.md:L102]
+
+Its case study of Kael and Nyx has three phases. In Chapter 5 (The Awakening in KW1) „Nyx appears to Kael as a“ ^[kael-s-dissociative-architecture-analysis.md:L133] glitch. In Chapter 18 (The Border Crossing) „Nyx physically blocks Kael from entering a“ ^[kael-s-dissociative-architecture-analysis.md:L134] zone she senses to be a trap. In the third phase „He moves from fearing her rage to honoring her strength.“ ^[kael-s-dissociative-architecture-analysis.md:L135]
+
+In the healing protocol the report has Nyx change role: „Nyx transitions from Persecutor to Guardian.“ ^[kael-s-dissociative-architecture-analysis.md:L168] The evolution matrix names her unburdening ritual: „Specific rituals for Kiko (Seeds) and Nyx (Wildfire).“ ^[kael-s-dissociative-architecture-analysis.md:L252]
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the fighter Alter in Kap 6 and 31
 
@@ -184,13 +332,44 @@ The research report (5.2) describes `Nyx` as „Ein extrem aggressiver Beschütz
 
 The matrix types Nyx as „(EP Kampf-Reaktion)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L54] and gives the function „Verkörpert Wut und aggressive Verteidigung.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L54] The plan's physics image, its own proposal, is the antimatter asymmetry: „Nyx ist die Antimaterie zu AEGIS' Materie.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L54] For the prose it recommends: „Wenn Nyx die Exekutive übernimmt, wird die Prosa hart und kinetisch.“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L54]
 
+## Reading — `deconstructing-reality-s-architecture`, 2026-02-27, the learner's guide — Nyx as the Sentinel, the system's rage
+
+The learner's guide lists Nyx among the Emotional Parts as The Sentinel / Fighter, the part that personifies Fight: „Nyx holds the system's rage and the memory of powerlessness.“ ^[deconstructing-reality-s-architecture.md:L115] It adds „He is fiercely protective but often misguided“ ^[deconstructing-reality-s-architecture.md:L115] and that AEGIS targets him as a primary source of instability. His safety role is tied to Kiko: the child's safety is the motivation for the protectors, Nyx and Alex (L116). In the guide's sensory instruction, Nyx sees targets (L257).
+
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — Nyx as the fighter EP
 
 The architecture report lists Nyx, headed `Der Kämpfer`, among the EPs: „Verkörpert pure Aggression und den Kampfinstinkt“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L98]. It says he „beschützt die Kind-Anteile“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L98] and that AEGIS classifies him as the primary vector of instability.
 
+## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — Nyx as the fighter and a case study of unbindable triggers
+
+The AIEOS evaluation, citing its sources, places Nyx with Alex in a protection front that exists in relation to the vulnerable Kiko and Lia (L69). Its third case study is `Fallbeispiel: Nyx (Der Kämpfer EP)` (L126): „Nyx verkörpert die Trauma-Wut und die aggressive Verteidigung“ ^[charaktermodellierung-mit-aieos-schema.md:L128]. The line adds that he arose from experiences of powerlessness and that his aggression is, it says, a misdirected protective function for the child parts Kiko and Lia.
+
+The Bewertung says the schema models him well through `triggers` and `dominance_score`, but: „Es fehlt jedoch die Möglichkeit, im Schema die direkte Abhängigkeit zu definieren“ ^[charaktermodellierung-mit-aieos-schema.md:L141], for instance binding `triggers.anger` to the state vector of the object Kiko (L141).
+
+## Reading — `ki-roman-architektur-kritische-analyse-methoden`, 2026-03-01, the critical-methods framework — Nyx as an EP, aggression and fighting instinct
+
+The critical-methods framework reports, from its reference 1, the EP class: „Zu dieser Klasse zählen Nyx (Aggression und Kampfinstinkt)“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L119]. Its table lists the EP sub-entities as „Nyx, Kiko, Lia, Moros, Isabelle“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L129], with the handbook's own class name `ChatCompanions`.
+
+In Trace 1 it names her with Lex as co-fronting: „Die Agenten Lex (Logik) und Nyx (Wut) ko-frontieren simultan“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L173].
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — the shadow instance
 
 The sixth primary alter is „Die Schatten-Instanz (Nyx / Persecutor)“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L85], a destructive part protecting by internal aggression and self-punishment.
+
+## Reading — `digitale-uberwelt-konzept-und-gestaltung`, 2026-03-26, the Überwelt concept — Nyx's glitches as violent physical anomalies
+
+The Überwelt concept lists Nyx first among the three glitch types, under „Glitches des Kampf-Systems“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L106]: when it is triggered, „entstehen gewaltsame physikalische Anomalien“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L106] (L106); the same line says objects move with unpredictable kinetic energy. The document calls Nyx „emotionale Teil“ ^[digitale-uberwelt-konzept-und-gestaltung.md:L106] in its own inner quotes (L106). It gives no role or origin for Nyx; description.
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — the fighter EP
+
+In the master integration's EP table, `Nyx` (Fighter) has the function „Fight-Response, schützende Wut“ ^[kohaerenz-protokoll-master-integration-md.md:L185] and the vector „Maximale δ-Toleranz, minimale α (irreversibel)“ ^[kohaerenz-protokoll-master-integration-md.md:L185]. The style rule has her colour the sensory view: „Nyx sieht Ziele.“ ^[kohaerenz-protokoll-master-integration-md.md:L330] The third Kernwelt is described as the domain of „Domäne von Nyx und Protektoren“ ^[kohaerenz-protokoll-master-integration-md.md:L236].
+
+## Reading — `project-status-report-kohaerenz-protokoll-canonical-state-st`, 2026-03-26, the status report — the report lists Nyx as Fight EP and assigns a Kinetic Glitch as trigger
+
+The status report (2026-03-26) lists „Nyx (Fight EP)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L11] in its Confirmed Core (L11). In its trigger matrix it writes „Nyx (Fight)“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L69] as triggering a Kinetic Glitch: „unseen force, object displacement“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L69]. It adds that specific trigger objects for these systems „remain currently undefined“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L72].
+
+## Reading — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report — Nyx as parataxis, as the emotional-writing state
+The canon status report's tone mandate gives `Nyx/Kiko` parataxis: „Staccato, sensory-heavy, and immediate bursts to reflect“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L76] K0 `trauma-time`. In the Resonanz-Kodex item the system routes the author by state, K0 „for emotional writing/Nyx) and route them to the appropriate Golden Source materials.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L84]. Mandates of the report, recorded and not applied.
 
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Nyx among the EPs
 
@@ -202,9 +381,25 @@ The document is a generated report about other texts that it names only by numbe
 
 Row F-04: „Das System Kael besteht aus Lex (Logik), Nyx (Kampf), Kiko (Freeze), Alex (Schutz), Rhys (Pflege), Selene (Integration), Argus (Kritiker), Lia, Isabelle und Moros.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L69] Open question 2 asks which triggers „zwingen die EPs (Nyx, Kiko, Lia), die Kontrolle zu übernehmen“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L121].
 
+## Reading — `roman-konzept-reduktion-und-kernfindung`, 2026-03-31, the reduction report — Nyx as Protector
+
+In the reduction report's table of the parts the entity is „Nyx (Protector)“ ^[roman-konzept-reduktion-und-kernfindung.md:L81], psychological role „Wut & Verteidigung“ ^[roman-konzept-reduktion-und-kernfindung.md:L81], plot function „Kämpft gegen AEGIS, schützt das Trauma.“ ^[roman-konzept-reduktion-und-kernfindung.md:L81]; her sphere is given as the Grenzfeste, with a kernel symbol lost beside it.
+
 ## Reading — `aegis-manifest-genesis-krise-reboot`, 2026-04-27, the Genesis manifesto — Nyx as a defensive fragment in KW3
 
 KW3 „targets protective and aggressive data fragments“ ^[aegis-manifest-genesis-krise-reboot.md:L87], and the manifesto names Nyx as one: „such as Nyx, which exhibit high-entropy fight-responses“ ^[aegis-manifest-genesis-krise-reboot.md:L87]. The table row reads „Defensive Fragments (Nyx)“ ^[aegis-manifest-genesis-krise-reboot.md:L102]. Nyx also stands in the list at L67 of shattered elements, which AEGIS classes as corrupted data fragments, its own verdict.
+
+## Reading — `dramatica-und-kohaerenz-protokoll-analyse`, 2026-04-27, the Dramatica loop analysis — Nyx as protector, and the focus of the fourth storyform
+
+The Dramatica loop analysis describes Nyx in the Cerberus-Labyrinth: „Nyx operiert als unerbittlicher Beschützer und Trauma-Träger im Cerberus-Labyrinth“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L98], computing NP-hard problems to anticipate every threat. In the fourth alternative storyform, one of four proposals, it says the configuration „bringt die TSDP-Dynamik, insbesondere das Alter-Ego Nyx, in den Fokus“ ^[dramatica-und-kohaerenz-protokoll-analyse.md:L149]; there Protection, the wish to shield the fragments from pain, is identified as a toxic driver. Recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — an EP among the 11 entities, erased by AEGIS in the inversion
+
+The architecture synthesis lists Nyx among the EPs. In Appendix A it says AEGIS must erase Kael's traumatic data: „the EPs like Nyx, Kiko, and Moros“ ^[kohaerenz-protokoll-architecture-synthesis.md:L137]. Beat 1 of the handoff names the same group: „the ANPs like Lex and Vesper, and the EPs like Nyx, Kiko, and Moros“ ^[kohaerenz-protokoll-architecture-synthesis.md:L187].
+
+## Reading — `dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor`, 2026-04-28, the Dual-Kernel analysis — an Emotional Part of anger and fight reflex
+
+Among the Emotional Parts, which the Dual-Kernel analysis says „halten die rohen traumatischen Erinnerungen“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L113], it says Nyx „verkörpert den Zorn und den Kampf-Reflex“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L113]. This is the analysis's report of the Protokoll (reference 1).
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — one of four modules
 
@@ -416,3 +611,8 @@ No knuckles and no chapter stand with her here: `Knöchel` is 0 times in the who
 
 - The character concept gives Nyx a masculine form in the first and second answers (L42, L153) and a feminine one in the third (L282).
 - `projektplanung-fuer-kohaerenz-protokoll`, 2025-12-05, a planning report: gives Nyx hatred of Lex's passivity and Kiko's fear, „Nyx hasst Lex für dessen Passivität und Kiko für deren Angst.“ ^[projektplanung-fuer-kohaerenz-protokoll.md:L147]
+- The learner's guide gives Nyx as the Fight response among the EPs, male in its pronouns.
+- The master blueprint reports `Nox` as the World Bible's name and consolidates it with `Nyx` (L60, L62); recorded, not applied.
+- The compendium writes Nyx with female forms in the transformation passage (L203, L216–L218) and „EP: Beschützer (Kampf-Reaktion)“ ^[kohaerenz-protokoll-narrative-synthese.md:L256] in the table; it does not say whether the two are one position.
+- The simulation concept (2025-05-01) calls Nyx `schützende Wut` and proposes a switch by Nyx as one possible inciting incident.
+- Plans Nyx's aggression as „destruktiver, aber schützender Aggression“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L76] in chapter 12.

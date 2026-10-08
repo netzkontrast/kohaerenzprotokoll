@@ -1,0 +1,210 @@
+{
+  "document": "refining-dramatica-storyform-for-kohaerenz-protokoll",
+  "drive_id": "1ERJFGr7Y6Z1tyK4BP4NYunoQ6JNyLj2GQ33leMHs-gc",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 29,
+  "backslash_escapes": 279,
+  "typographic_marks": 41,
+  "ascii_quotes": 362,
+  "inflection_families": {
+    "contr": [
+      "CONTROL",
+      "Contradiction",
+      "Contradictions",
+      "Contradictory",
+      "Control"
+    ],
+    "conce": [
+      "Conceiving",
+      "Concept",
+      "Conceptualizing",
+      "Concern"
+    ],
+    "inter": [
+      "Interest",
+      "Internal",
+      "Interpreting",
+      "Intersubjectivity"
+    ],
+    "archi": [
+      "Archipelago",
+      "Architectural",
+      "Architecture"
+    ],
+    "defin": [
+      "Definition",
+      "Definitions",
+      "Definitive"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrity"
+    ],
+    "isomo": [
+      "Isomorphic",
+      "Isomorphism",
+      "Isomorphy"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychology"
+    ],
+    "story": [
+      "STORY",
+      "Story",
+      "Storyform"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systemics"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "becom": [
+      "BECOME",
+      "Becoming"
+    ],
+    "chara": [
+      "CHARACTER",
+      "Character"
+    ],
+    "closu": [
+      "CLOSURE",
+      "Closure"
+    ],
+    "consc": [
+      "Conscience",
+      "Conscious"
+    ],
+    "devel": [
+      "Development",
+      "Developmental"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonant"
+    ],
+    "final": [
+      "Final",
+      "Finally"
+    ],
+    "fissu": [
+      "Fissure",
+      "Fissures"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "influ": [
+      "INFLUENCE",
+      "Influence"
+    ],
+    "inves": [
+      "Investigation",
+      "Investigator"
+    ],
+    "juna": [
+      "JUNA",
+      "Juna"
+    ],
+    "kael": [
+      "KAEL",
+      "Kael"
+    ],
+    "kerne": [
+      "Kernel",
+      "Kernels"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Blue",
+      "Blueprint"
+    ],
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Each",
+      "Breach"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Here",
+      "Therefore"
+    ],
+    [
+      "Host",
+      "Ghost"
+    ],
+    [
+      "JUNA",
+      "Juna"
+    ],
+    [
+      "KAEL",
+      "Kael"
+    ],
+    [
+      "LINK",
+      "Link"
+    ],
+    [
+      "MAIN",
+      "Main"
+    ],
+    [
+      "MAIN",
+      "Domain"
+    ],
+    [
+      "Main",
+      "Domain"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Path",
+      "Pathological"
+    ],
+    [
+      "Real",
+      "Reality"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Time",
+      "Timeline"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Final",
+      "Finally"
+    ],
+    [
+      "LogOS",
+      "Logos"
+    ]
+  ]
+}

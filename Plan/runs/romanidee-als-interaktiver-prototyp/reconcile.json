@@ -1,0 +1,365 @@
+{
+  "document": "romanidee-als-interaktiver-prototyp",
+  "drive_id": "1AhGr47Ue5p3TN17j6WtPvAGaUXi5Ml0svso6pLAnJX8",
+  "step": "reconcile",
+  "at": "2026-10-06",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-06, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-164/brief.md; chapter readings on Kap 1, 3, 7 and 13 by the session, from Plan/runs/ingest-164-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 95,
+    "decisions": 106,
+    "decided_by_lookup": 68,
+    "needs_judgement": 38
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German design proposal of 2025-08-05 for an interactive CAVE prototype of Act I: its 48 new surfaces are the game's machinery (the Narrative Context Protocol and its variable matrix, CAVE, the inner council, Wahlmechanik), the outline's labels it reports (Das Fundament, Paradoxon X, Gaslighting, Hamartia, ZTEM, RTSV) and borrowed theory; what it says of the novel's world went on 27 existing pages, four chapter pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        58,
+        60
+      ],
+      "attribution": "",
+      "note": "ZTEM, RTSV and SIS named as AEGIS' protocols and read as trauma defences"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        30,
+        32,
+        34,
+        48,
+        58,
+        60,
+        86,
+        128
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic, trauma-structured system, reported from its outline; one game variable planned"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        125
+      ],
+      "attribution": "",
+      "note": "one named part, as an example in the variable table"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        58,
+        128
+      ],
+      "attribution": "",
+      "note": "hedged outline ending for AEGIS; a planned game effect"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        44,
+        125
+      ],
+      "attribution": "",
+      "note": "eleven parts, ANPs and EPs, and the game's dominance variable"
+    },
+    {
+      "page": "did",
+      "lines": [
+        276
+      ],
+      "attribution": "",
+      "note": "the ethics advice on portraying DID"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        30,
+        134
+      ],
+      "attribution": "",
+      "note": "the conflict between control and emergence, operationalised in the game matrix"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        48,
+        129
+      ],
+      "attribution": "",
+      "note": "AEGIS reads Kael's integration as maximal entropy; the game variable names perceived entropy"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene of Juna/V as the sixth Realitätsebene"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        34,
+        60
+      ],
+      "attribution": "",
+      "note": "AEGIS' genesis as traumatic fragmentation and Ur-Trauma"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        128,
+        129
+      ],
+      "attribution": "",
+      "note": "Guardians appear only as behaviour affected by game variables"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        70,
+        72,
+        74
+      ],
+      "attribution": "",
+      "note": "an external anomaly, and the game's connection variable"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        36,
+        44,
+        48,
+        124
+      ],
+      "attribution": "",
+      "note": "Kael as the outline's trauma system, and the game's cohesion variable"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        60,
+        84,
+        86,
+        131
+      ],
+      "attribution": "",
+      "note": "four Kernwelten created by AEGIS to analyse Kael; a game stability variable"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        144,
+        224
+      ],
+      "attribution": "",
+      "note": "the frightened child in the game's inner council"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        201,
+        205
+      ],
+      "attribution": "",
+      "note": "the name in the Kap 1 title of the game scenario"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        144,
+        224,
+        233
+      ],
+      "attribution": "",
+      "note": "the Logiker in the game's inner council"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        70,
+        74
+      ],
+      "attribution": "",
+      "note": "non-local and acausal, against AEGIS's classical physics"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        46,
+        48,
+        124,
+        285
+      ],
+      "attribution": "",
+      "note": "the goal state, the weapon, and the game's variable"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        34,
+        58
+      ],
+      "attribution": "",
+      "note": "AEGIS' existence resting on the negation of the Nichts Rauschen"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        144,
+        224,
+        233
+      ],
+      "attribution": "",
+      "note": "the Kämpfer in the game's inner council"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        80,
+        84
+      ],
+      "attribution": "",
+      "note": "six Realitätsebenen as externalisations of Kael's states and AEGIS' paradigms"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        132,
+        147,
+        148,
+        233
+      ],
+      "attribution": "",
+      "note": "the Fürsorger, named in the game's example"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        32,
+        86,
+        88,
+        90,
+        128,
+        131
+      ],
+      "attribution": "",
+      "note": "Risse as AEGIS' failed correction attempts and as a readable feedback system"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        191
+      ],
+      "attribution": "",
+      "note": "a later role of the player"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the model System Kael follows, as the outline reports it"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        74,
+        84
+      ],
+      "attribution": "",
+      "note": "the Überwelt named as AEGIS', ruled by classical logic"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      3,
+      7,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J60 (the AEGIS expansion — Autonomous Entropic Gatekeeper for Integrity Systems — read on aegis), J34 (Juna/V and Juna/V-Verbindung, read on juna), J49 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis — world names, read on kern-welten), J23 and J56 (inflections: Riss/Risse, Guardian/Guardians, funktionalen Multiplizität), J12 and J16 (compounds and qualified labels with their own sense: System Kael — read on kael — Paradoxon der Fehlausgerichteten Kohärenz, read on aegis, Zero Trust Environment Mandate, read on aegis-teilfunktionen, Datenriss and Riss-Interaktion, Anscheinend Normale and Emotionale Persönlichkeitsanteile, on alters, autopoietische, an adjective of AEGIS, not ARS); the game's state variables (Kael.System.Cohesion, Kael.Alter.Dominance, Kael.Symptom.Amnesia, AEGIS.System.Integrity, AEGIS.Intervention.Level, World.Stability.Risse, JunaV.Connection.Strength) are the proposal's own names, quoted on the pages as the game's, never as a reading of the term",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 276,
+      "decision": "reading",
+      "why": "the ethics advice on portraying a dissociative identity disorder, read on did"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 134,
+      "decision": "reading",
+      "why": "control against emergence operationalised in the game matrix, read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 48,
+      "decision": "reading",
+      "why": "AEGIS reads Kael's integration as maximale Entropie, read on entropie"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 34,
+      "decision": "reading",
+      "why": "AEGIS's genesis as traumatic fragmentation, read on genesis"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 66,
+      "decision": "reading",
+      "why": "Juna/V in the heading of the section on her, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 80,
+      "decision": "reading",
+      "why": "the heading of the six Realitätsebenen, read on realitaetsebenen"
+    }
+  ],
+  "not_promoted": [
+    "the Narrative Context Protocol (NCP) and its variables — the game's, quoted on the pages they name",
+    "CAVE, Innerer Rat / Innerer Konferenzraum — on kael and the chapter page Kap 7",
+    "Das Fundament — named beside Juna/V (L70), on juna",
+    "the Archivar of Kap 3 — AEGIS's control logic, on the chapter page only",
+    "Paradoxon X, Hamartia, Gaslighting, ZTEM, RTSV — on aegis and aegis-teilfunktionen",
+    "Environmental Storytelling, Wahlmechanik, Kognitive Dissonanz — craft"
+  ],
+  "internal_tension": "none within the document; it names System Kael by TSDP (L44) and its ethics advice by DID (L276), recorded on did",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

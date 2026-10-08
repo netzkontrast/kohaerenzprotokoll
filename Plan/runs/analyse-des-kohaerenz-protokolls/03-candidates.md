@@ -1,0 +1,113 @@
+written_by: document-reader subagent (Sonnet), 2026-10-06, while reading, before any count
+
+World and the document's own terms:
+
+- AEGIS
+- Kael
+- Kohärenz-Protokoll
+- Kohärenz Protokoll
+- Coherence Protocol
+- Projekt Kohärenz
+- Heuristik der Negation
+- Existenz durch Negation
+- Existenz durch Integration
+- Potentialmeer
+- Die Leere
+- Nichts Rauschen
+- Zersetzungsdruck
+- Sog der Entropie
+- Sog der Ordnung
+- Inkubation X
+- informationelle Fossilien
+- Proto-AEGIS
+- Corrective Wavelets
+- K\_0
+- K\_1
+- Genesis-Krise
+- Der große Wandel
+- Perturbation aus der Leere
+- Ur-Trauma
+- Ursprungs-Ich
+- Entität M
+- Juna/V
+- Das Fundament
+- Juna
+- Monstergruppe
+- Moonshine-Link
+- Fehlausgerichtete Kohärenz
+- Resonanz
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Die Konstruktstadt
+- Mnemosyne-Archipel
+- Die Resonanzlandschaft
+- Cerberus-Labyrinth
+- Die Grenzfestung
+- Kairos-Potentialis
+- Garten der Möglichkeiten
+- Risse
+- Alters
+- Nyx
+- Kiko
+- Moros
+- Praetor
+- Nox
+- Limina
+- Gödel-Gambit
+- Algorithmischen Melancholie
+- Funktionalen Multiplizität
+- Functional Multiplicity
+- Trauma-Time
+- Blinde Fleck
+- Mauer
+- Nicht-Leere
+- Entity 734
+- Component 734
+- Void Entity
+- Heuristik der Amputation
+- Teilmengen-Paradoxon
+- Kontroll-Paradoxon
+- Paradoxon X
+- Dual Kernel Theory
+- Riss
+- Core World 4
+- Logos
+- Pathos
+
+## lens
+
+- Strukturelle Dissoziation
+- TSDP
+- ANP
+- EP
+- tertiären Dissoziation
+- MESI-Protokoll
+- Cache-Invalidierung
+- Bus Snooping
+- Kybernetik zweiter Ordnung
+- Autopoiesis
+- operationale Geschlossenheit
+- parakonsistenten Logik
+- Logics of Formal Inconsistency
+- Value Alignment Problem
+- Agnotologie
+- Infohazards
+- Katastrophalen Vergessen
+- Shannon-Entropie
+- Negentropie
+- Mauvaise foi
+- Ashbys Gesetz
+- Monstrous Moonshine
+- It from Bit
+- Bran/Bulk-Modell
+- Dialetheismus
+- Epistemologischer Schock
+- Qualia
+- Monster-Symmetrie
+- Ex falso quodlibet
+
+The document is a long analytic report that comments on a fictional universe; its sections 8 and 9 switch voice, first into questions put in the AI's own monologue, then into a system prompt in English with a sample response. Terms that stand only there (Dissonance Signal, Cached Archive and the rest of the "Terminology Protocol") are diction of that prompt and are left off the list. The reference list at the end carries a pasted English text about scales of the protocol (cosmological, quantum, computational); Riss, Paradoxon X and Dual Kernel Theory are taken from it as written there. Core World 4 is the prompt's spelling and is listed as written.

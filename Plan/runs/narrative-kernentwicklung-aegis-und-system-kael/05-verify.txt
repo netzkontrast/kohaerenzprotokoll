@@ -1,0 +1,74 @@
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Narrativer Kernsatz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrativer Kernsatz` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Empfohlene Umsetzung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Empfohlene Umsetzung` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Die zentralen Empfehlungen sind"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die zentralen Empfehlungen sind` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Zugriff am"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            31
+
+`Zugriff am` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#31]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Genesis-Krise"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Genesis-Krise` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#12]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Hamartia"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hamartia` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#3]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Autonomous Entropic Gatekeeper"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autonomous Entropic Gatekeeper` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Korrespondenzfehler"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Korrespondenzfehler` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Moros"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moros` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+$ python3 scripts/read.py narrative-kernentwicklung-aegis-und-system-kael --count "Argus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Argus` ^[narrative-kernentwicklung-aegis-und-system-kael.md:#1]
+stance_marker_count 3 = 1+1+1 (the three counts above)
+census zeros: 0 (capture.py --count 04-counts.txt)

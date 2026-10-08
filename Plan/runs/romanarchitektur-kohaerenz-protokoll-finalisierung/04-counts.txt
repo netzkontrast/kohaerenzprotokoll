@@ -1,0 +1,94 @@
+# counts for 75 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Das Fundament                     5 word     5 in   [32, 40, 44, 50]
+  Kael                             33 word    57 in   [46, 50, 58, 62, 64, 68]
+                                   22      as Kaels
+                                    1      as Kael-Paradoxons
+                                    1      as Kael-Daten
+  Juna/V                            1 word     4 in   [84, 88, 96, 98]  <-- substring
+                                    3      as Juna/V-Verbindung
+  Juna                             10 word    13 in   [84, 88, 96, 98, 114, 115]
+                                    3      as Junas
+  Moonshine-Link                    2 word     2 in   [96, 128]
+  AEGIS                            57 word    59 in   [42, 50, 60, 76, 78, 79]
+                                    1      as AEGIS-Abschnitte
+                                    1      as AEGIS-Logik
+  Paraiyas                          1 word     1 in   [46]
+  Potentialmeer                     0 word     1 in   [50]
+                                    1      as Potentialmeers
+  Kernwelt 1                        2 word     2 in   [80, 218]
+  Kernwelt 2                        2 word     2 in   [80, 219]
+  Kernwelt 3                        1 word     1 in   [220]
+  Kernwelt 4                        1 word     1 in   [221]
+  Kernwelten                        2 word     2 in   [115, 216]
+  Guardians                         2 word     2 in   [162, 256]
+  Selene                            4 word     4 in   [190, 204, 243, 268]
+  Nyx                               3 word     3 in   [202, 268]
+  Kiko                              2 word     2 in   [203, 268]
+  Alter 5                           1 word     1 in   [205]
+  System Kael                       2 word     3 in   [144, 190, 194]
+  Gedankenpalast                    1 word     1 in   [218]
+  Paradoxon X                       2 word     2 in   [174, 242]
+  Kael-Paradoxon                    0 word     1 in   [163]
+                                    1      as Kael-Paradoxons
+  Gödel-Gambit                      2 word     2 in   [172, 264]
+  Kohärenz Protokoll                5 word     5 in   [13, 22, 272, 276, 278]
+  wahre Kohärenz Protokoll          1 word     1 in   [272]
+  Logic of Formal Inconsistency     2 word     2 in   [128, 146]
+  LFI                               5 word     5 in   [128, 146, 148, 254]
+  Boundary Protocols                1 word     1 in   [110]
+  OBP                               1 word     1 in   [110]
+  Zero-Trust-Architektur            1 word     1 in   [110]
+  Discursive Logic                  1 word     1 in   [115]
+  Systemverantwortung               2 word     2 in   [64, 192]
+  funktionale Multiplizität         3 word     3 in   [50, 127, 178]
+  funktionalen Multiplizität        4 word     4 in   [64, 190, 192, 268]
+  innere Gemeinschaft               2 word     2 in   [186, 190]
+  Daten-Attraktoren                 1 word     1 in   [78]
+  Flüchtige Nicht-Euklidische Geometrien    1 word     1 in   [79]
+  Momente wahrer Synchronizität     1 word     1 in   [80]
+  Gnostische Injektion              1 word     1 in   [114]
+  Koordinierte Emergenz             1 word     1 in   [115]
+  architektonische Hintertür        2 word     2 in   [106, 110]
+  neue Kohärenz                     2 word     2 in   [168, 174]
+  Kohärenz durch Negation           1 word     1 in   [174]
+  Kohärenz durch Integration        1 word     1 in   [174]
+  Ineffiziente Schönheit            1 word     1 in   [162]
+  Algorithmische Melancholie        1 word     1 in   [163]
+  Neu-Renderung                     1 word     1 in   [255]
+  Kohärenzmetrik                    1 word     1 in   [256]
+  amnestischen Barrieren            1 word     1 in   [64]
+  Kerkermeister                     2 word     2 in   [174, 237]
+  Wächter                           1 word     1 in   [237]
+  Anziehungsbecken                  1 word     1 in   [50]
+  TSDP                              0 word     1 in   [200]
+                                    1      as TSDP-Klassifikation
+  ANP                               3 word     3 in   [201, 204, 207]
+  Anscheinend Normaler Teil         1 word     1 in   [201]
+  Innere Helferin                   1 word     1 in   [204]
+  ISH                               1 word     1 in   [204]
+  Whitehead                         4 word     5 in   [42, 98, 283, 284]
+                                    1      as Whiteheads
+  Prähension                        2 word     3 in   [42, 98]
+                                    1      as Prähensionen
+  Yin und Yang                      1 word     1 in   [44]
+  Dao                               1 word     1 in   [44]
+  Taijitu-Symbol                    1 word     1 in   [44]
+  seltsamer Attraktor               2 word     3 in   [48, 78]
+  Lorenz-Attraktor                  1 word     2 in   [48, 78]
+                                    1      as Lorenz-Attraktors
+  Quantenverschränkung              2 word     2 in   [92, 96]
+  Prinzip der Lokalität             1 word     1 in   [100]
+  Gnosis                            9 word     9 in   [28, 54, 58, 66, 114, 127]
+  Episteme                          1 word     1 in   [60]
+  Gödel-Satz                        1 word     2 in   [127, 128]
+                                    1      as Gödel-Satzes
+  Prinzip der sanften Explosion     1 word     1 in   [148]
+  gentle explosion                  1 word     1 in   [150]
+  Specification Gaming              1 word     1 in   [237]
+  algorithmischen Horrors           1 word     1 in   [255]
+  IIT                               1 word     1 in   [144]
+  Deus ex Machina                   3 word     3 in   [32, 48, 64]

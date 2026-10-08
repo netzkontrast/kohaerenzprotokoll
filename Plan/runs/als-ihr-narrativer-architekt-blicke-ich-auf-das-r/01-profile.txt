@@ -1,0 +1,14 @@
+# als-ihr-narrativer-architekt-blicke-ich-auf-das-r
+  lines                149  (frontmatter ends at 9)
+  body words           1419
+  headings             5   bold-only lines 13
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    1
+  typographic marks    46   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    4
+  repeated labels      Fokus x13, Inhalt x13
+  longest line         355 chars
+

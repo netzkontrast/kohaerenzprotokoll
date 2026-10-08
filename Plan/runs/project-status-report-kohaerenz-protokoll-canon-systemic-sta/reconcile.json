@@ -1,0 +1,241 @@
+{
+  "document": "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
+  "drive_id": "1Wx02lTSBQaLOnud-Br7YnN06hR8ZKbXV5QG9lqkzVTA",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; one candidate's capitalisation corrected by the coordinator after the count (05-verify.txt); rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-185/brief.md; the chapter reading on Kap 1 by the session, Plan/runs/ingest-185-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 87,
+    "decided_by_lookup": 63,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English status report that declares a Hard Canon: its new surfaces are its own labels (Triple Helix Methodology, the 39-part Narrative Mosaic, the Gärtner Axiom, the Dialetheic Solution, the Other Fragment 'O', the Golden Sources, the Resonanz-Kodex), K1 and K0, the TSDP's terms, the titles its Source tags name and borrowed concepts; what it says of the novel's world went on existing pages, one chapter page and five records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        14,
+        18,
+        30,
+        46
+      ],
+      "attribution": "",
+      "note": "AEGIS as a closed antagonist logic, defeated by the Living Gödel-Sentence and left a dethroned god"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "Algorithmic Melancholy/Paraconsistency declared the only canon outcome for AEGIS"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        42,
+        83
+      ],
+      "attribution": "",
+      "note": "13 Alters declared"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        54,
+        68
+      ],
+      "attribution": "",
+      "note": "Kael's Genesis Trauma to mirror AEGIS's Genesis-Krise, and a Genesis Log for Act I"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        39,
+        40,
+        71,
+        82
+      ],
+      "attribution": "",
+      "note": "Juna's origin resolved as both"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        18,
+        28,
+        54,
+        60
+      ],
+      "attribution": "",
+      "note": "Kael as system, as truth uncomputable by AEGIS, as Gärtner"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        28,
+        44
+      ],
+      "attribution": "",
+      "note": "Kernwelten cultivated; Oblivion a landscape in KW2"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        76
+      ],
+      "attribution": "",
+      "note": "Kiko's prose mandated as parataxis"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        75,
+        84
+      ],
+      "attribution": "",
+      "note": "Lex as hypotaxis, as the planning state"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        30,
+        71
+      ],
+      "attribution": "",
+      "note": "Moonshine-Link descriptions as a recurring fragment of synaesthetic resonance"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        44,
+        83
+      ],
+      "attribution": "",
+      "note": "Moros codified as the Collapse EP"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the infrasonic Nothingness Noise as a proposed K0 trigger object"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        76,
+        84
+      ],
+      "attribution": "",
+      "note": "Nyx as parataxis, as the emotional-writing state"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        44,
+        83
+      ],
+      "attribution": "",
+      "note": "Oblivion downgraded to a landscape"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "Silas merged into Rhys"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        26
+      ],
+      "attribution": "",
+      "note": "the Risse as rifts where irreversible erasure breaks the simulation's symmetry"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "Silas merged away"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        14,
+        68
+      ],
+      "attribution": "",
+      "note": "the Separation Protocol as AEGIS's governing law, and the Genesis Log as its account"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J12 and J48 (compounds and qualified labels with their own sense: System Kael and Kael-'O' Symbiose, read on kael, Biography of AEGIS, a title, Genesis Trauma, Genesis-Krise and Genesis Log, read on genesis, Juna-Paradox, read on juna, Moonshine-Link Descriptions, read on moonshine-link), J34 (slashed pairs: Lex/AEGIS and Nyx/Kiko, read on lex, nyx and kiko; Algorithmic Melancholy/Paraconsistency, read on algorithmische-melancholie), and the document's own pairs of a label and its short form (Triple Helix, ANPs, Dialetheic, autopoietic, Landauer Principle), each one term",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 54,
+      "decision": "reading",
+      "why": "Kael's Genesis Trauma to mirror AEGIS's Genesis-Krise, read on genesis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the report's title and the project's name"
+    },
+    {
+      "page": "moonshine-link",
+      "surface": "Moonshine-Link",
+      "line": 71,
+      "decision": "reading",
+      "why": "Moonshine-Link descriptions as a recurring fragment, read on moonshine-link"
+    }
+  ],
+  "not_promoted": [
+    "the Hard Canon's labels — the report's own decrees",
+    "K1 and K0 — exported formulas, on risse",
+    "the Other Fragment 'O' and the Kael-'O' Symbiose — on kael",
+    "the trigger objects, the Golden Sources, the Resonanz-Kodex and the tone mandate — the report's plans for the writing",
+    "the titles its Source tags name — other documents"
+  ],
+  "internal_tension": "none found; its „The only canon outcome“ (L46) and „hereby standardized to 13 Alters“ (L42) are decrees against what other read sources hold, recorded on Q8 and Q3",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

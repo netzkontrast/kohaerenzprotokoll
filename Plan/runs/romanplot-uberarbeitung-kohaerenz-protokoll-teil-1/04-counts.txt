@@ -1,0 +1,145 @@
+# counts for 97 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Dr. Thorne
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                            216 word   275 in   [21, 23, 27, 31, 39, 44]
+                                   59      as Kaels
+  Juna                             21 word    35 in   [27, 50, 60, 90, 92, 104]
+                                   13      as Junas
+                                    1      as Juna-Kontakt
+  Limina                           19 word    21 in   [27, 39, 50, 59, 268, 367]
+                                    2      as Liminas
+  Nox                              23 word    23 in   [27, 31, 50, 59, 80, 254]
+  Echo                             31 word    49 in   [22, 50, 59, 100, 104, 191]
+                                   18      as Echos
+  Chronos                          13 word    13 in   [27, 50, 59, 345, 508, 531]
+  Schattenkind                     23 word    24 in   [27, 50, 59, 104, 114, 129]
+                                    1      as Schattenkinds
+  Argus                            26 word    26 in   [27, 50, 56, 82, 242, 266]
+  Sibyl                            12 word    16 in   [27, 50, 58, 91, 432, 451]
+                                    4      as Sibyls
+  Einheit 734                      18 word    19 in   [27, 31, 43, 50, 57, 89]
+  Lex                              36 word    36 in   [22, 142, 152, 153, 154, 156]
+  Silas                            27 word    27 in   [22, 89, 317, 330, 340, 341]
+  Anya                             17 word    23 in   [22, 355, 378, 379, 380, 381]
+                                    6      as Anyas
+  AEGIS                            85 word   124 in   [21, 27, 43, 56, 57, 60]
+                                    6      as AEGIS-Präsenz
+                                    5      as AEGIS-Kontrollebene
+                                    4      as AEGIS-Einheiten
+                                    4      as AEGIS-Kontrolle
+  Guardians                         2 word     2 in   [21, 481]
+  Entropic Gatekeeper               2 word     3 in   [43, 484, 559]
+  Reboot                            7 word    10 in   [91, 102, 104, 117, 120, 177]
+  Risse                            49 word    58 in   [21, 39, 43, 58, 81, 91]
+                                    5      as Risses
+                                    4      as Rissen
+  Riss                             21 word    80 in   [21, 39, 43, 58, 81, 91]  <-- substring
+                                   49      as Risse
+                                    5      as Risses
+                                    4      as Rissen
+                                    1      as Riss-Cluster
+  Entropie                         26 word    33 in   [39, 81, 118, 133, 156, 180]
+                                    6      as Entropie-Knotenpunkt
+                                    1      as entropiegeplagte
+                                    1      as Entropie-Manifestation
+  Glitches                         17 word    18 in   [70, 81, 117, 138, 142, 154]
+  Alters                           31 word    37 in   [27, 50, 59, 280, 508, 532]
+                                    3      as Alters-Spezifisch
+                                    1      as Alters-Naturelle
+                                    1      as Altersfähigkeiten
+  Alter                            13 word    51 in   [27, 31, 44, 50, 59, 80]  <-- substring
+                                   31      as Alters
+                                    3      as Alters-Spezifisch
+                                    1      as Alter-Manifestation
+                                    1      as alternative
+  Kern-Welten                       2 word     2 in   [56, 82]
+  Basisrealität                    10 word    11 in   [103, 141, 203, 241, 272, 291]
+                                    1      as Basisrealitätsebene
+  Mentale Ebene                     4 word     4 in   [103, 279, 507, 530]
+  Informations-Ebene                2 word     2 in   [165, 431]
+  Unterbewusste Ebene               2 word     2 in   [241, 392]
+  Kreativ-Konstruktive Ebene        1 word     1 in   [354]
+  Externe Schnittstelle             1 word     1 in   [203]
+  Externen Realität                 1 word     1 in   [60]
+  AEGIS-Kontrollebene               5 word     5 in   [469, 470, 493, 544, 569]
+  Ebene 0                           6 word     6 in   [469, 493, 497, 544, 569, 573]
+  Ebene 1                           8 word     8 in   [103, 141, 203, 241, 316, 392]
+  Ebene 2                           9 word     9 in   [103, 279, 280, 289, 507, 508]
+  Ebene 3                           3 word     3 in   [165, 431, 441]
+  Ebene 4                          25 word    25 in   [241, 265, 267, 268, 269, 271]
+  Ebene 5                           3 word     3 in   [354, 364, 507]
+  Ebene 6                           3 word     3 in   [203, 227, 230]
+  Threshold Zone                   12 word    14 in   [56, 82, 241, 265, 268, 269]
+  Übergangszone                     3 word     3 in   [241, 242, 267]
+  Chaos-Zone                        3 word     3 in   [241, 265, 610]
+  Glitching Market                  7 word     7 in   [39, 313, 316, 317, 326, 340]
+  Serene Garden of Limina           1 word     1 in   [39]
+  Nexus of Whispers                 6 word     6 in   [58, 431, 432, 441, 455, 615]
+  Mnemosyne-Archive                 5 word     7 in   [91, 165, 166, 175, 189, 608]
+                                    2      as Mnemosyne-Archiven
+  Mnemosyne-Archiven                2 word     2 in   [91, 166]
+  Entropie-Knotenpunkt              6 word     6 in   [541, 544, 545, 554, 618, 823]
+  Innerer Konferenzraum             4 word     4 in   [507, 530, 617, 774]
+  Innere Rat                        2 word     2 in   [526, 771]
+  Abgrund der Ängste                3 word     3 in   [392, 402, 725]
+  Garten der Möglichkeiten          2 word     2 in   [354, 364]
+  Atelier des Geistes               1 word     1 in   [364]
+  Garten der verlorenen Momente     1 word     1 in   [279]
+  Spiegelscherben-Korridor          2 word     2 in   [103, 606]
+  Sektor Gamma                     12 word    12 in   [103, 113, 141, 147, 151, 203]
+  Sektor Delta                      2 word     2 in   [165, 175]
+  Sektor Beta                       3 word     3 in   [316, 317, 326]
+  Sektor Alpha                      3 word     3 in   [469, 479, 616]
+  AEGIS Hub                         2 word     2 in   [616, 618]
+  Datenriss                         2 word     4 in   [185, 192, 608, 626]
+                                    1      as Datenrisses
+                                    1      as Datenriss-Hinweis
+  Verlorenes Kind                   1 word     1 in   [22]
+  Verlorenen Kind                   1 word     1 in   [299]
+  Grenzwärter                       5 word     5 in   [27, 56, 238, 242, 266]
+  Grenzwächter-Entitäten            1 word     1 in   [82]
+  Archivar                          4 word     4 in   [22, 142, 162, 166]
+  Skeptiker                         3 word     4 in   [22, 313, 317, 336]
+                                    1      as Skeptikers
+  Muse                              4 word     4 in   [22, 351, 355, 374]
+  Orakel                            4 word     5 in   [27, 58, 428, 432, 459]
+                                    1      as Orakel-Erfahrung
+  Therapie-Subplot                 17 word    18 in   [43, 55, 90, 119, 157, 195]
+                                    1      as Therapie-Subplots
+  Switching                         1 word     1 in   [710]
+  Depersonalisation                 2 word     3 in   [114, 606, 662]
+                                    1      as Depersonalisationsmomente
+  Derealisation                     1 word     1 in   [131]
+  Dissoziative Identitätsstruktur    1 word     1 in   [39]
+  DID                              12 word    27 in   [39, 44, 91, 132, 134, 308]  <-- substring
+  Spiegel                          10 word    19 in   [100, 103, 104, 124, 129, 130]
+                                    8      as spiegelt
+                                    3      as Spiegelbild
+                                    2      as Spiegelscherben-Korridor
+                                    1      as Spiegels
+  HJ-Stufe                         13 word    13 in   [102, 140, 164, 202, 240, 278]
+  A1-Thema                         13 word    13 in   [102, 140, 164, 202, 240, 278]
+  Primäre Kern-Welt(en)            13 word    13 in   [103, 141, 165, 203, 241, 279]
+  Überarbeitete Plot-Zusammenfassung   13 word    13 in   [104, 142, 166, 204, 242, 280]
+  Lokalitätsnutzung                26 word    26 in   [35, 117, 132, 155, 179, 193]
+  Inneres Erleben                  25 word    25 in   [116, 131, 154, 178, 192, 216]
+  Plot-Fortschritt                 25 word    25 in   [120, 134, 158, 181, 196, 219]
+  Therapie-Subplot Integration     12 word    12 in   [119, 157, 195, 233, 271, 346]
+  DID-Darstellung                  14 word    14 in   [44, 308, 345, 383, 408, 422]
+  Dialog-Fokus                      5 word     5 in   [639, 687, 735, 784, 833]
+  Metaphern-Einsatz                 5 word     5 in   [666, 714, 763, 812, 861]
+  Pacing & Spannung                 5 word     5 in   [649, 697, 745, 794, 843]
+  Environmental Storytelling        2 word     2 in   [35, 70]
+  Character Integration Matrix      1 word     1 in   [580]
+  Location Activation Summary       1 word     1 in   [601]
+  Sensorische Palette               5 word     5 in   [633, 681, 729, 778, 827]
+  Spannungsbogen                    5 word     5 in   [654, 702, 750, 799, 848]
+  Lokalitäten                       3 word     5 in   [17, 35, 66, 81, 96]
+                                    1      as Lokalitäten-Konzepten
+                                    1      as Lokalitätenkonzepte
+  Stakes                            4 word     4 in   [60, 92, 497]
+  Heldereise                        1 word     1 in   [576]
+  Ruf zum Abenteuer                 2 word     2 in   [158, 607]

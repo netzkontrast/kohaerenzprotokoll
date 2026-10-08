@@ -1,0 +1,234 @@
+{
+  "document": "kohaerenz-analyse-kapitel-2",
+  "drive_id": "1h2UB6wPZ-VJ1YHGIQwzHbrVZLi8ZsQ4RPMy7Nl5G73w",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 38,
+  "backslash_escapes": 0,
+  "typographic_marks": 10,
+  "ascii_quotes": 182,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemfehler",
+      "Systemische",
+      "Systemkohärenz",
+      "Systemlogik",
+      "Systemnachricht",
+      "Systemprotokoll",
+      "Systems",
+      "Systemzerfall"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsschritt",
+      "Integrity",
+      "Integrität",
+      "Integritätsverletzung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenkorruption",
+      "Datenpunkte",
+      "Datensatz"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionieren"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsbögen",
+      "Handlungsempfehlungen",
+      "Handlungsstränge"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationseinheit",
+      "Informationsfragment"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrolliert",
+      "Kontrollinstanz"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessoren",
+      "Prozessorkerne"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysebericht",
+      "Analytisch"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterentwicklung",
+      "Charakterkonzepte"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropiequelle"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmente"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapiteln",
+      "Kapitelstruktur"
+    ],
+    "konta": [
+      "Kontakt",
+      "Kontakte",
+      "Kontaktversuch"
+    ],
+    "multi": [
+      "Multi",
+      "Multiplizität",
+      "Multiprozessor"
+    ],
+    "psych": [
+      "Psychologie",
+      "Psychologisches",
+      "Psychose"
+    ],
+    "sprac": [
+      "Sprache",
+      "Sprachen",
+      "Sprachstile"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumata"
+    ],
+    "wahrn": [
+      "Wahrnehmung",
+      "Wahrnehmungen",
+      "Wahrnehmungsfilter"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismus"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile"
+    ],
+    "archi": [
+      "Architektur",
+      "Archivierung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Bild",
+      "Clusterbildung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Diesmal"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eins",
+      "Seins"
+    ],
+    [
+      "Eins",
+      "Einsamkeit"
+    ],
+    [
+      "Eins",
+      "Bewusstseinsfragments"
+    ],
+    [
+      "Ende",
+      "Rückblende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Konformität"
+    ],
+    [
+      "Form",
+      "Modulformen"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationseinheit"
+    ],
+    [
+      "Form",
+      "Informationsfragment"
+    ]
+  ]
+}

@@ -1,0 +1,85 @@
+# counts for 56 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Show, don't tell
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Michael                          58 word   114 in   [20, 21, 26, 27, 33, 38]
+                                   56      as Michaels
+  Julia                            21 word    36 in   [27, 32, 44, 45, 64, 81]
+                                   15      as Julias
+  Konstrukt-Stadt                  18 word    18 in   [21, 26, 27, 33, 39, 45]
+  LogOS                             3 word     3 in   [21, 27, 60]
+  AEGIS                             4 word     6 in   [27, 33, 39, 45, 61, 261]
+                                    1      as AEGIS-Kontrolle
+                                    1      as AEGIS-Logik
+  Kern-Welt 1                       1 word     1 in   [21]
+  Alters                            7 word     7 in   [49, 50, 51, 65, 216]
+  Mnemosyne                         4 word     7 in   [51, 65, 97, 127, 177, 187]
+                                    3      as Mnemosyne-Hinweis
+  Cerberus                          2 word     5 in   [51, 97, 147, 197]  <-- substring
+                                    1      as Cerberus-Flicker
+                                    1      as Cerberus-artige
+                                    1      as Cerberus-Intrusion
+  Kairos/Sophia                     4 word     4 in   [51, 187, 207]
+  Architekt                         9 word    15 in   [51, 95, 96, 97, 103, 105]
+                                    2      as Architekten
+                                    2      as Architektur
+                                    1      as Architekt-Einfluss
+                                    1      as Architektur-Design-Hub
+  Host/Kern-Selbst                  3 word     3 in   [75, 85, 195]
+  Host                             13 word    13 in   [75, 85, 95, 105, 135, 145]
+  DID                               8 word     8 in   [33, 39, 47, 49, 62, 63]
+  Einheit 734                       3 word     3 in   [257, 261, 281]
+  Einheit 451                       3 word     3 in   [277, 279, 281]
+  Supervisor Einheit 12             1 word     1 in   [259]
+  Datenknotenpunkt                  5 word     5 in   [101, 113, 133, 253, 255]
+  Datenknotenpunkt Gamma-7          1 word     1 in   [255]
+  Sektor Gamma-7                    1 word     1 in   [229]
+  Sektor Delta-9                    1 word     1 in   [261]
+  Transitkorridor                   5 word     6 in   [91, 93, 163, 249, 251, 309]
+                                    1      as Transitkorridore
+  Wohneinheit                      10 word    10 in   [73, 83, 173, 183, 193, 203]
+  Nährstoffkonzentrat 7B            1 word     1 in   [237]
+  Nährpaste                         1 word     1 in   [86]
+  Kohärenzalgorithmen               2 word     2 in   [261, 269]
+  Kernalgorithmen                   1 word     1 in   [279]
+  Harmonische Kohärenz              2 word     2 in   [317]
+  Finde die Naht                    2 word     2 in   [207, 325]
+  Es erinnert sich                  1 word     1 in   [207]
+  Morgenprotokoll                   2 word     2 in   [81, 231]
+  Abendprotokoll                    2 word     2 in   [171, 311]
+  Flow-Zustand                      4 word     5 in   [111, 117, 146, 267, 285]
+                                    1      as Flow-Zustands
+  Gewohnte Welt                     1 word     1 in   [69]
+  Mindscape                         1 word     1 in   [213]
+  Reboot                            1 word     6 in   [17, 21, 39, 60, 63]  <-- substring
+                                    2      as Reboots
+                                    1      as Reboot-Trauma
+  Anomalie                         16 word    19 in   [31, 51, 62, 121, 126, 127]
+                                    3      as Anomalien
+  Glitch                            2 word     6 in   [32, 33, 62, 98, 273, 285]  <-- substring
+                                    3      as Glitches
+                                    1      as Glitch-Hinweis
+  Systemschwankungen                2 word     2 in   [136, 277]
+  Intrusionen                      22 word    22 in   [49, 50, 51, 65, 77, 87]
+  Amnesie                          10 word    10 in   [21, 35, 37, 39, 60, 63]
+  Kanal 7                           1 word     1 in   [281]
+  Ruheperiode                       3 word     3 in   [176, 313, 317]
+  Kernkonzept                       6 word     6 in   [19, 25, 31, 37, 43, 49]
+  Narrative Techniken               7 word     8 in   [13, 20, 26, 32, 38, 44]
+  Einleitungstext                   1 word     2 in   [69, 223]
+                                    1      as Einleitungstextes
+  Uncanny Valley                    7 word     7 in   [19, 32, 60, 62, 98, 333]
+  Foreshadowing                     9 word     9 in   [29, 31, 33, 51, 62, 209]
+                                    1      as foreshadowing-in-fiction-tricks-to-keep-your-readers-guessing
+  Chekhov's Gun                     3 word     3 in   [31, 32, 62]
+  Echo-Effekt                       3 word     3 in   [31, 32, 62]
+  Dissoziative Amnesie              2 word     2 in   [37, 63]
+  Depersonalisation                 2 word     3 in   [38, 63, 166]
+                                    1      as Depersonalisations-Hinweis
+  Derealisation                     2 word     2 in   [38, 63]
+  Heldinnenreise                    1 word     1 in   [219]
+  Juxtaposition                     3 word     3 in   [26, 61, 337]
+  Subtext                           5 word     5 in   [43, 44, 64, 362, 363]
+                                    1      as subtext-in-writing

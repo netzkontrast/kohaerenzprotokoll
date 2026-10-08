@@ -1,0 +1,134 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count
+---
+
+# Candidates — The Coherence Protocol: A Worldbuilding Bible
+
+The document is English prose with a few German names in quotation marks. It writes K₁ and K₀ with subscript digits. Slashes in the document's pairs are kept as written. Pairs written with "vs." are split into their parts, because the count reads a full stop and a space as prose.
+
+- Coherence Protocol
+- Protocol Ontology
+- Dual Kernel Theory
+- DKT
+- Coherence Kernel
+- K₁
+- Collapse Kernel
+- K₀
+- Coherons
+- Coheron
+- Overhead
+- Corrective Wavelet
+- Erosive Pressure
+- Protocol
+- Thing
+- Identity
+- Life
+- Death/Collapse
+- Coherence Truth
+- Correspondence Truth
+- Coherence Theory of Truth
+- Correspondence Theory of Truth
+- Four Axes of Tension
+- Epistemological Axis
+- Strategic Axis
+- Relational Axis
+- Identity Axis
+- Static Unity
+- Dynamic Multiplicity
+- Original Self
+- Ursprungs-Ich
+- Environmental Storytelling
+- AEGIS
+- Autonomous Entropic Gatekeeper
+- Überwelt
+- Overworld
+- Kernwelten
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- Co₁
+- McL
+- Risse
+- Rifts/Cracks
+- isolation objection
+- External Level
+- Externe Ebene
+- Sea of Potentiality
+- Das Potentialmeer
+- Potentialmeer
+- Nichts Rauschen
+- Nothing Noise
+- Ich-Fragmenten
+- Genesis-Krise
+- Resonanzkaskade
+- Trennungsprotokoll
+- epistemological blindness
+- Einsamkeit
+- Sehnsucht
+- System Kael
+- Kael
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- ANP-EP Phobia
+- Host ANP
+- Rational ANP
+- Caregiver ANP
+- Protector ANP
+- Integrator/Self
+- Fight EP
+- Freeze/Fear EP
+- Collapse/Emptiness EP
+- Sexualized EP
+- Lex
+- Rhys
+- Alex
+- Selene
+- Nyx
+- Kiko
+- Moros
+- Isabelle
+- Paradoxon X
+- Kontrollverlust
+- Hilflosigkeit
+- Zero-Trust
+- bunker metaphor
+- trauma-landscape
+- Juna/V
+- Juna
+- Paraiyas
+- Moonshine-Link
+- gnosis
+- episteme
+- call to wholeness
+- Validation War
+- functional multiplicity
+- dialetheic mind
+- The Gardener
+- The Foundation
+- Das Fundament
+- strange attractor
+- subtle symmetries
+- Living Gödel-Satz
+- Gödel-Satz
+- zombie system
+- Autopoiesis
+- fractal thematic structure
+- economy of existence
+
+## lens
+
+- Ship of Theseus paradox
+- cache coherence protocols
+- Tertiary Structural Dissociation
+- TSDP
+- Internal Family Systems
+- IFS
+- Quantum Entanglement
+- Prehension
+- Integrated Information Theory
+- IIT
+- paraconsistent logic

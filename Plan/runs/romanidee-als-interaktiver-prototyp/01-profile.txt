@@ -1,0 +1,14 @@
+# romanidee-als-interaktiver-prototyp
+  lines                303  (frontmatter ends at 9)
+  body words           5995
+  headings             22   bold-only lines 1
+  table rows           13   code fences 0
+  question marks       0
+  backslash escapes    16
+  typographic marks    145   ascii quotes 94
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    13
+  repeated labels      Interaktion x4, Szenario x4
+  longest line         1075 chars
+

@@ -1,0 +1,132 @@
+$ python3 scripts/read.py narrativ --count "Bauplan"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Bauplan` ^[narrativ.md:#5]
+
+$ python3 scripts/read.py narrativ --count "Beispiel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Beispiel` ^[narrativ.md:#2]
+
+$ python3 scripts/read.py narrativ --count "empfohlen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`empfohlen` ^[narrativ.md:#1]
+
+$ python3 scripts/read.py narrativ --count "Single Source of Truth"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Single Source of Truth` ^[narrativ.md:#2]
+
+$ python3 scripts/read.py narrativ --count "Dramatica"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Dramatica` ^[narrativ.md:#0]
+
+$ python3 scripts/read.py narrativ --count "Dramatica-Throughlines"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dramatica-Throughlines` ^[narrativ.md:#1]
+
+$ python3 scripts/read.py narrativ --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[narrativ.md:#1]
+
+$ python3 scripts/read.py narrativ --count "39"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`39` ^[narrativ.md:#3]
+
+$ python3 scripts/read.py narrativ --count "Kael"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            43
+
+`Kael` ^[narrativ.md:#15]
+
+$ python3 scripts/read.py narrativ --count "Kaels"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            28
+
+`Kaels` ^[narrativ.md:#28]
+
+$ python3 scripts/read.py narrativ --count "Ki"
+whole word, case-sensitive     1
+whole word, case-insensitive   8
+including compounds            7
+
+`Ki` ^[narrativ.md:#1]
+
+$ python3 scripts/read.py narrativ --count "Kiko"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Kiko` ^[narrativ.md:#3]
+
+$ python3 scripts/read.py narrativ --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[narrativ.md:#1]
+
+$ python3 scripts/read.py narrativ --count "Guardian-Netzwerk"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian-Netzwerk` ^[narrativ.md:#1]
+
+$ python3 scripts/read.py narrativ --count "Show, don't tell"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Show, don't tell` ^[narrativ.md:#2]
+
+$ python3 scripts/read.py narrativ --count "Show, Don't Tell"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Show, Don't Tell` ^[narrativ.md:#1]
+
+stance_marker_count = Bauplan 5 + Beispiel 2 + empfohlen 1 = 8
+$ grep -nE "^ +- \*\*(Kael \(Host\)|Selene|Lex|Nyx|Kiko)" Sources/drive/narrativ.md
+151:  - **Kael (Host):** Der primäre AN
+152:  - **Selene:** Modelliert als "Inne
+153:  - **Lex:** Ein ANP, der analytisch
+154:  - **Nyx:** Ein EP (Emotionaler Per
+155:  - **Kiko:** Ein kindlicher EP, der
+$ grep -nE "^[0-9]\.  \*\*" Sources/drive/narrativ.md
+175:1.  **Vier Psychologische Kernwelten (KW1-4):** Diese We
+181:2.  **Die Digitale Überwelt (AEGIS-Netzwerk):** Eine in
+182:3.  **Die Externe Ebene:** Eine mysteriöse, dritte Real
+$ grep -nE "^  - \*\*" Sources/drive/narrativ.md (lines 131-137, protocols)
+  - **Zero Trust Environment Mandate (ZTEM):** Keine Quelle wird a pri
+  - **Recursive Trust Signature Verification (RTSV):** Ein Mechanismus
+  - **Boundary Protocol of Failure (BPoF):** Definiert das Verhalten b
+  - **Emergent Information Consensus (EIC):** Ermöglicht globalen Kon
+  - **Integrity Validation:** Der Kernalgorithmus zur Kohärenzprüfun
+  - **Entropic Management:** Protokolle zur Handhabung und Ablehnung v
+  - **Systemic Isolation Shield (SIS):** Protokoll zur Abschottung von
+seven lines, five with an acronym in brackets (ZTEM RTSV BPoF EIC SIS)

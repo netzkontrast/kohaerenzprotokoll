@@ -1,0 +1,84 @@
+# counts for 62 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             19 word    48 in   [31, 40, 41, 43, 56, 60]  <-- substring
+                                   28      as Kaels
+                                    1      as Kael-Julia-Verbindung
+  Juna                              3 word     4 in   [121, 284]
+                                    1      as Junas
+  Julia                             1 word     2 in   [80, 108]
+  Limina                            6 word    19 in   [42, 68, 70, 105, 143, 184]  <-- substring
+                                    4      as liminalen
+                                    4      as Liminality
+                                    4      as Liminal
+                                    2      as liminale
+  Nox                               6 word     6 in   [42, 106, 114, 153, 182, 260]
+  Praetor                           7 word     8 in   [42, 107, 114, 153, 182, 194]
+                                    1      as Praetors
+  Echo                              6 word     7 in   [69, 108, 114, 194, 223, 235]
+                                    1      as Echos
+  Silas                             3 word     3 in   [108, 114, 235]
+  Kairos                            1 word     1 in   [114]
+  AEGIS                             6 word     6 in   [80, 120, 204, 284]
+  Guardians                         2 word     2 in   [120]
+  Cerberus                          1 word     1 in   [120]
+  LogOS                             1 word     1 in   [120]
+  Mnemosyne                         1 word     1 in   [120]
+  KW1                              15 word    16 in   [21, 29, 40, 68, 79, 84]
+  KW2                              18 word    19 in   [11, 21, 30, 62, 64, 79]
+  Kern-Welt                         3 word     6 in   [21, 43, 116, 215, 269, 284]
+                                    3      as Kern-Welten
+  Kern-Welten                       3 word     3 in   [43, 116, 284]
+  Übergangsraum                     5 word    10 in   [30, 84, 116, 122, 174, 209]
+                                    5      as Übergangsraums
+  Potentialmeers                    1 word     1 in   [84]
+  Systementropie                    1 word     1 in   [84]
+  Datenstaub                        1 word     1 in   [140]
+  Finde die Naht                    2 word     2 in   [141, 182]
+  Spiegelbruch                      1 word     1 in   [133]
+  Kael-Julia-Verbindung             1 word     1 in   [80]
+  K-J-Verbindung                    1 word     1 in   [284]
+  Alters                            8 word     8 in   [42, 95, 101, 109, 110, 269]
+  Alter                             9 word    20 in   [42, 95, 97, 101, 109, 110]  <-- substring
+                                    8      as Alters
+                                    1      as Alter-Einfluss
+                                    1      as Alter-Dynamik
+                                    1      as Alter-Einflüsse
+  Plot-Blueprint                    8 word     9 in   [17, 19, 21, 101, 121, 127]
+                                    1      as Plot-Blueprints
+  Plot-Blueprint Steps              3 word     3 in   [19, 21, 263]
+  Lokalitäten-Konzepten             1 word     1 in   [64]
+  Kernaufgabe                       4 word     4 in   [133, 174, 215, 258]
+  Kerninformation                   4 word     4 in   [168, 209, 250, 258]
+  Zu vermittelnde Kerninformation    3 word     3 in   [168, 209, 250]
+  Narrativer Fokus / Techniken      3 word     3 in   [134, 175, 216]
+  Psychologischer Zustand (Kael)    4 word     4 in   [147, 188, 229, 258]
+  Atmosphäre / Setting              3 word     4 in   [158, 199, 240, 258]
+  Vertiefende Betrachtung           3 word     3 in   [84, 116, 123]
+  Pacing                            7 word     7 in   [56, 138, 179, 220, 259, 260]
+  Sensorischer Fokus                3 word     3 in   [140, 181, 222]
+  Internal Monologue                4 word     4 in   [141, 182, 223, 309]
+  Metaphor/Simile                   3 word     3 in   [142, 183, 224]
+  Liminality Techniques             3 word     3 in   [143, 184, 225]
+  Dominant Emotion(s)               3 word     3 in   [151, 192, 233]
+  Cognitive State                   3 word     3 in   [152, 193, 234]
+  Alter Influence                   3 word     3 in   [153, 194, 235]
+  Somatic Experience                3 word     3 in   [154, 195, 236]
+  Mood                              6 word     6 in   [162, 203, 244, 259, 260, 261]
+  Sensory Palette                   3 word     3 in   [164, 205, 246]
+  Liminale Motive                   1 word     1 in   [70]
+  Alter-Dynamik                     1 word     1 in   [101]
+  Liminalität                       1 word     2 in   [68, 279]
+                                    1      as Liminalitäts-Konzepten
+  Environmental Storytelling        9 word     9 in   [78, 163, 204, 245, 269, 278]
+  EST                               9 word     9 in   [78, 163, 204, 245, 259, 260]
+  Depersonalisation                 4 word     4 in   [40, 94, 193, 276]
+  Derealisation                     5 word     5 in   [40, 94, 152, 193, 260]
+  Dissoziativen Identitätsstörung    1 word     1 in   [89]
+  DID                               3 word     4 in   [89, 115, 280]
+  Security Blanket                  1 word     1 in   [70]
+  Betwixt and Between               1 word     1 in   [184]
+  Inciting Incident                 1 word     1 in   [143]
+  Liminalitäts-Konzepten            1 word     1 in   [279]

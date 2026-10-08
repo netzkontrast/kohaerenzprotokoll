@@ -1,0 +1,281 @@
+{
+  "document": "plot-entwicklung-fuer-kohaerenz-protokoll",
+  "drive_id": "1wU8MUM2PIXPtQ-YPQbEAH5WyZvxWXsYpxTSMwN_m1mQ",
+  "step": "reconcile",
+  "at": "2026-10-07",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by two wiki-reader subagents (Sonnet), disjoint shares, from Plan/runs/ingest-193/brief.md; no chapter page — the blueprint gives acts and sequences, no chapter numbers",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 82,
+    "decisions": 87,
+    "decided_by_lookup": 61,
+    "needs_judgement": 26
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German plot blueprint: its new surfaces are its structural labels (the three acts, the world sections' four bold labels, the three endings), the proposed world names it shares with documents 186 and 187, the Kohärenz-Insel, Transzendenz and borrowed concepts (the Monstergruppe, Internal Family Systems); what it says of the novel's world went on existing pages and six records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        60,
+        73,
+        75,
+        139,
+        174,
+        192
+      ],
+      "attribution": "",
+      "note": "AEGIS as the principle of demarcation that undoes itself"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        36,
+        50,
+        116,
+        117
+      ],
+      "attribution": "",
+      "note": "alters first uncontrolled, then valued parts, one type per world"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        65,
+        66
+      ],
+      "attribution": "",
+      "note": "Cerberus, Guardian of KW3, whose isolation fails"
+    },
+    {
+      "page": "did",
+      "lines": [
+        25,
+        157
+      ],
+      "attribution": "",
+      "note": "DID as Kael's condition and the plainest image of fragmentation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        26,
+        72
+      ],
+      "attribution": "",
+      "note": "entropy as AEGIS's name for the Kael-Juna connection"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        26,
+        65,
+        66,
+        67,
+        77
+      ],
+      "attribution": "",
+      "note": "four Guardians whose specialisation becomes a blind spot"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        127,
+        129,
+        133,
+        143
+      ],
+      "attribution": "",
+      "note": "Juna through the connection, a catalyst and no superpower"
+    },
+    {
+      "page": "kael-julia-bindung",
+      "lines": [
+        123,
+        127,
+        129,
+        163
+      ],
+      "attribution": "",
+      "note": "three written names for the bond, bypassing AEGIS's protocols"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        36,
+        54,
+        203,
+        204,
+        205,
+        209,
+        211
+      ],
+      "attribution": "",
+      "note": "Kael's fragmentation, integration as an ontological shift, and a recommended transcendence"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        65,
+        66
+      ],
+      "attribution": "",
+      "note": "Kairos, Guardian of KW4, who prunes possibilities"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        20,
+        30,
+        162
+      ],
+      "attribution": "",
+      "note": "the four Kernwelten as the middle act and the battlefield of the ontological conflict"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        43,
+        168
+      ],
+      "attribution": "",
+      "note": "KW1 as the world of the limits of logic"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        65,
+        66
+      ],
+      "attribution": "",
+      "note": "LogOS, Guardian of KW1, whose rigid logic provokes resistance"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        65,
+        66
+      ],
+      "attribution": "",
+      "note": "Mnemosyne, Guardian of KW2, who erases memories and strengthens them"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        163
+      ],
+      "attribution": "",
+      "note": "a Nexus named once, as a possible origin of the bond"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        25,
+        163,
+        174,
+        192
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as what AEGIS isolates itself from"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "AEGIS's Realitätsebene as what Kael might transcend"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        20,
+        68
+      ],
+      "attribution": "",
+      "note": "the Risse as the consequence of failed control"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C6",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J13 (Kael-Juna-Verbindung, K-J-Verbindung and Kael-Juna-Resonanz, read on kael-julia-bindung, whose name stays open), J9 (the Protokoll's name; Kohärenz-Insel, integrative Kohärenz and Kohärenz durch Abgrenzung/Integration, the blueprint's constructs), J23 (Guardian / Guardians); Moonshine is the mathematical analogy, not the Moonshine-Link; autopoietische describes AEGIS, not the ARS",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 30,
+      "decision": "occurrence",
+      "why": "the general word in the Kernwelten's function"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 26,
+      "decision": "reading",
+      "why": "AEGIS's struggle against entropy, read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the project's name in the title"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 163,
+      "decision": "reading",
+      "why": "the connection's origin in the Kohärenz-Insel or a Nexus joined to it, read on nexus"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 52,
+      "decision": "reading",
+      "why": "Kael's final choice, read on realitaetsebenen"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 160,
+      "decision": "occurrence",
+      "why": "a thematic heading, Realität vs. Simulation"
+    }
+  ],
+  "not_promoted": [
+    "the Kohärenz-Insel — on kael, juna and C16; a candidate for a page of its own, left for the author",
+    "the three-act labels and the world sections' labels",
+    "the three endings — on Q8",
+    "the Monstergruppe metaphor and Internal Family Systems"
+  ],
+  "internal_tension": "the bond has three written names (Kael-Juna-Verbindung, K-J-Verbindung, Kael-Juna-Resonanz); 236 `[cite: N]` marks point to sources the document does not contain",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

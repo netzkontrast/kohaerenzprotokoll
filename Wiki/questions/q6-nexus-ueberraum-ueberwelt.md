@@ -237,3 +237,43 @@ Where it stands in the record's own terms: one of the three names, the Überwelt
 Sophia's world cell reads „(Potenziell) Übergeordnet/Nexus“ ^[kohaerenz-protokoll-plotideen-generierung.md:L156]. The Überwelt: „Diese Konzepte untermauern die Idee, dass AEGIS' Domäne (die Überwelt)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L43]. The document does not relate the two.
 
 Stands as one occurrence of Nexus and one of the Überwelt in a hedged analysis; recorded, nothing decided.
+
+## 2026-10-06 — `kohaerenz-protokoll-plotideen-extraktion`, 2025-04-26, the concept extraction
+
+**The concept extraction describes the Überwelt as AEGIS's operative domain and writes `Nexus` only in Sophia's line and a plot idea.**
+
+„Die Überwelt ist die abstrakte, informationsbasierte operative Domäne von AEGIS“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L83]. `Nexus` appears as „Sophia (Nexus/Übergreifende Weisheit?)“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L269] and as a central point linking the worlds in a plot idea (L474). It does not equate Nexus and Überwelt, nor name an `Überraum`.
+
+Stands as one more occurrence of the two names, not tied together; nothing is decided.
+
+## 2026-10-06 — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept
+
+**The April 2025 concept names the Nexus once, in a Teil 2 sketch beside the worlds, and gives the Überwelt as the digital level; it relates the two nowhere.**
+
+The Nexus: „Michaels erste Versuche mit den Werkzeugen im Nexus oder bei kurzen Ausflügen in die Welten“ ^[kohaerenz-protokoll-2.md:L107]. The Überwelt: „Digital, AEGIS/Guardian-Domäne“ ^[kohaerenz-protokoll-2.md:L82] and „Rein informationsbasierte Realität, regiert vom AEGIS-Protokoll.“ ^[kohaerenz-protokoll-2.md:L82]
+
+Stands: one mention of the Nexus, undefined, and no sentence relating it to the Überwelt; the question stays open in the record's terms.
+
+## 2026-10-07 — `refining-dramatica-storyform-for-kohaerenz-protokoll`, 2026-01-02, the storyform exegesis
+
+**The storyform exegesis places the Überwelt as the third Kernwelt, AEGIS's command center, and relates it to no Nexus or Überraum.**
+
+It writes: „Kael breaches the firewall of the“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L251] Überwelt, then „AEGIS's command center.“ ^[refining-dramatica-storyform-for-kohaerenz-protokoll.md:L251] The line marks it `KW3`.
+
+Stands as one more row of where the Überwelt is placed; the question stays open.
+
+## 2026-10-07 — `welten`, 2025-04-20, the world-concept reply
+
+**The world-concept reply takes the Überwelt as AEGIS's domain and offers the Nexus, hedged, as the interfaces between the worlds and the Überwelt.**
+
+It says of the Überwelt: „AEGIS' operative Domäne“ ^[welten.md:L54], „rein informationsbasierte, abstrakte Realitätsebene“ ^[welten.md:L54]. Of the Nexus, which it says is mentioned in another project document, it writes: „Möglicherweise ein Begriff für die Schnittstellen oder Übergangszonen“ ^[welten.md:L119] between the Kern-Welten or between them and the Überwelt/AEGIS, and closes: „Die genaue Definition und Funktion muss ggf. noch geschärft werden“ ^[welten.md:L119].
+
+Stands with the Überwelt as AEGIS's domain and the Nexus as an open, hedged possibility; recorded, not applied, and the record is not decided by it.
+
+## 2026-10-07 — `recherche-ueberwelt`, 2025-04-17, the Überwelt commission
+
+**The Überwelt commission gives the Überwelt as the Guardians' primary level of reality and the system's manifestation, set against the Externe Ebene; no Nexus, no Überraum.**
+
+Light pass, closing `Erweiterter Kontext` only. The Überwelt is „die primäre Realitätsebene der Guardians“ ^[recherche-ueberwelt.md:L188], and „die Manifestation des zugrundeliegenden Systems“ ^[recherche-ueberwelt.md:L189]. The commission writes: „Die Überwelt bildet den fundamentalen Gegensatz zur“ ^[recherche-ueberwelt.md:L195] Externe Ebene. The passage does not mention a Nexus or an Überraum.
+
+Stands as the Überwelt placed with the Guardians and the system, against the Externe Ebene; recorded, the question stays open.
