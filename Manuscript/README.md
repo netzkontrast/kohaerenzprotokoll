@@ -25,6 +25,7 @@ Roman, mit Kapiteln, Figuren und Welt (Entscheidung 024).
 | [kap-02/](kap-02/README.md) | ein Entwurf: A, „Die Rolle hält“, aus dem Treatment, im Anschluss an J (2026-10-06) |
 | [plot/](plot/plot-entwurf-01-die-rueckgabe.md) | Plot-Entwurf 1, „Die Rückgabe“: ein vollständig neuer Plot für den ganzen Roman (33 Kapitel in vier Teilen); ein Vorschlag, kein Treatment |
 | [plot/](plot/plot-entwurf-02-die-mauer.md) | Plot-Entwurf 2, „Die Mauer“: eine ganz andere Geschichte im selben Universum, erzählt von einer Grenzsoldatin in KW3 (29 Kapitel und fünf Prüfprotokolle in drei Teilen); Kael nur am Rand; ein Vorschlag, kein Treatment |
+| [aegis-logs/](aegis-logs/README.md) | AEGIS — Logs & Beweise, ein Pilot (2026-10-07): drei Logs (Kap 6, 13, 28 als Vorschlag), jedes mit Lesefassung und einem Lean-Beweis in `aegis-logs/lean/`; dazu ein Lean-Tutorial entlang Kap 1–3 in `aegis-logs/tutorial/`; Arbeitsentwürfe und Übungsmaterial, kein Kanon |
 | `figuren/` | eine Karte pro Figur: was entschieden ist, was die Entwürfe aus ihr machen, was offen ist |
 | `welt/` | eine Karte pro Ort, Regel oder Mechanismus, gebaut wie die Figurenkarten |
 

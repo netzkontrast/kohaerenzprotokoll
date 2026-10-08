@@ -82,6 +82,8 @@ None of these blocks the pipeline. The full context of each is where it is named
 
 - **NCP plot development** (`Plan/storyform/development.json`, `Plan/runs/writing/book/plot-development_2026-10-06.md`): 33 chapter proposals connect goals, physical actions, costs, knowledge and consequences; they extend the NCP without changing either storyform. Claude's `storyform`, `scene-architecture` and `writing-skills` skills distinguish draft critique from structural validation and keep open decisions visible. **Next:** compare the three proposed deletion targets for Kap 1/12/13, carry the 06:10 consequence into Kap 2, then choose the concrete recovery, lost return path and filter for Kap 19/20/24. These are planning proposals; canon and prose still require the author's choices.
 
+- **AEGIS — Logs & Beweise, a Lean pilot** (`Manuscript/aegis-logs/README.md`, PR #185, 2026-10-07): three AEGIS logs (Kap 6, 13, 28, proposals) with reading versions and Lean proofs, verified with Lean 4.24.0 (`python3 scripts/aegis_logs.py verify`, after `scripts/install.sh lean`); the assessment and four questions are `Plan/runs/writing/aegis-logs/lean-pilot_2026-10-07.md`. Beside it, on the author's request of 2026-10-07, a Lean tutorial along the outlines of Kap 1–3 (`Manuscript/aegis-logs/tutorial/README.md`, three lessons, exercises generated and checked). It waits on the author: whether AEGIS' logs carry proofs at all, before any further log is built.
+
 **Known failing:** nothing is known to be. A red check names itself; `python3 scripts/selftests.py` runs them all.
 
 ## Where things are

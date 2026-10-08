@@ -2,7 +2,7 @@
 # Install everything a fresh container lacks. Idempotent: a component already
 # present is skipped, so a second run costs seconds.
 #
-#   scripts/install.sh                  # every component below except qmd-models
+#   scripts/install.sh                  # every component below except qmd-models and lean
 #   scripts/install.sh derived tools    # only the named components
 #   scripts/install.sh --check          # report what is present, change nothing
 #   scripts/install.sh --list           # the components and what each is for
@@ -34,6 +34,11 @@ HYPEREXTRACT_REF="395039ea49709b279971631a47569b931818abbb"
 SEMANTICA_VERSION="0.7.0"
 OPENCODE_VERSION="1.18.32"
 OMO_VERSION="4.19.4"
+# Lean: the version is Manuscript/aegis-logs/lean/lean-toolchain, read below; the
+# checksum is of that release's linux zip, so a new toolchain needs a new checksum.
+LEAN_TOOLCHAIN_FILE="Manuscript/aegis-logs/lean/lean-toolchain"
+LEAN_ZIP_SHA256="8f2ce2aa6de5ede5847a3e9517a930ede3d6954444f44535155da3250ac7f2fc"
+LEAN_VERSION="$(sed -n 's/^leanprover\/lean4:v//p' "$LEAN_TOOLCHAIN_FILE" 2>/dev/null)"
 # The author's answers to the oh-my-openagent installer (2026-09-24): which
 # subscriptions exist decides which model each agent is routed to.
 OMO_FLAGS=(--platform=opencode --claude=max20 --openai=yes --gemini=yes --copilot=no)
@@ -56,8 +61,9 @@ COMPONENTS=(
   "omo|OpenCode $OPENCODE_VERSION (npm -g) with the oh-my-openagent $OMO_VERSION plugin; no provider sign-in"
   "qmd|qmd package in .tools-node and the /usr/local/bin/qmd shim"
   "qmd-models|qmd's ~2.1 GB models, index and embeddings — not in the default set"
+  "lean|.lean/ — Lean $LEAN_VERSION (~2 GB unpacked) for scripts/aegis_logs.py verify — not in the default set"
 )
-DEFAULT_SKIP="qmd-models"
+DEFAULT_SKIP="qmd-models lean"
 
 say() { printf '  %-13s %s\n' "$1" "$2"; }
 have() { command -v "$1" >/dev/null 2>&1; }
@@ -88,6 +94,7 @@ present() {
                   && [[ -f ~/.omo/omo.jsonc ]] ;;
     qmd)        [[ -x .tools-node/node_modules/.bin/qmd ]] && [[ -x /usr/local/bin/qmd ]] ;;
     qmd-models) scripts/setup_qmd.sh --check 2>/dev/null | grep -q "embeddings *complete" ;;
+    lean)       [[ -n "$LEAN_VERSION" ]] && ".lean/lean-$LEAN_VERSION-linux/bin/lean" --version 2>/dev/null | grep -q "version $LEAN_VERSION," ;;
     *)          return 2 ;;
   esac
 }
@@ -185,6 +192,18 @@ install_one() {
       scripts/setup_qmd.sh --package ;;
     qmd-models)
       scripts/setup_qmd.sh ;;
+    lean)
+      # the release zip, checked against the pinned checksum; LLVM, clang and the sources
+      # are left out (Lean checks proofs without them), the zip is deleted afterwards
+      [[ -n "$LEAN_VERSION" ]] || { echo "no version in $LEAN_TOOLCHAIN_FILE" >&2; return 1; }
+      local zip=".lean/lean-$LEAN_VERSION-linux.zip"
+      mkdir -p .lean || return 1
+      curl -sSfL -o "$zip" \
+        "https://github.com/leanprover/lean4/releases/download/v$LEAN_VERSION/lean-$LEAN_VERSION-linux.zip" || return 1
+      echo "$LEAN_ZIP_SHA256  $zip" | sha256sum -c --quiet - || { rm -f "$zip"; return 1; }
+      unzip -q -o "$zip" -d .lean -x "lean-$LEAN_VERSION-linux/src/*" \
+        "lean-$LEAN_VERSION-linux/lib/libclang*" "lean-$LEAN_VERSION-linux/lib/libLLVM*"
+      local rc=$?; rm -f "$zip"; return $rc ;;
   esac
 }
 
