@@ -527,8 +527,12 @@ the author wants them (*Questions for the author*).
 - **M-flow and corpus text.** It is installed and nothing calls it. May any
   corpus text go through it, and to whom? If its one experiment that keeps the
   rules is wanted, how does a page map onto its four levels?
-- **A reviewed page and a new source that contradicts it** — needed before the
-  first promotion.
+- **A reviewed page and a new source that contradicts it** — answered
+  provisionally on 2026-10-08 for the first promotion (decision 026): the
+  reviewed part is pinned, the new reading waits under `## Since review`, a
+  contradiction gets its conflict record. Confirm or choose otherwise:
+  `Plan/concept/promotion_2026-10-08.md` §7, with four more questions on
+  promotion.
 - **The quote convention** — a quotation carries its reference in the same table
   cell, or the checker learns tables. Until then those quotations stay unchecked.
 - **Whether `fold()` adopts the plural rule** — decision 010 set its reach on
@@ -602,7 +606,8 @@ changes its rule and the others do not.
 only). That removes the technical block and none of the permission one above. A key pasted in chat earlier in
 the session that installed this should be treated as spent and rotated.
 
-**A reviewed page has no rule yet.** Nothing has been promoted, so the case has
+**A reviewed page had no rule until 2026-10-08** (now provisional, decision 026 and
+`Plan/concept/promotion_2026-10-08.md` §3). Nothing had been promoted, so the case had
 never arisen: when a new source contradicts a page a person signed off, neither
 can silently win. `dspy-wiki-compile` answers it — flag, list the conflicts,
 never update in place — and decision 003 does not cover it, because 003 governs

@@ -89,12 +89,15 @@ MASKS = (FRONTMATTER, FENCE, INLINE, QUOTED, WIKILINK, MDLINK, LINE_OUT)
 
 
 def masked(text: str) -> list[bool]:
-    """True where a character may not be rewritten."""
+    """True where a character may not be rewritten — and the reviewed part of a page the author reviewed."""
+    from promote import frozen_end
     block = [False] * len(text)
     for pattern in MASKS:
         for match in pattern.finditer(text):
             for i in range(match.start(), match.end()):
                 block[i] = True
+    for i in range(frozen_end(text)):
+        block[i] = True
     return block
 
 
@@ -120,11 +123,13 @@ def link_for(slug: str, surface: str) -> str:
 
 def ticked_slugs(text: str, known: set[str], own: str) -> list[tuple[int, str, str]]:
     """The first `` `slug` `` per target — the cross-reference written before links."""
+    from promote import frozen_end
     quotes = [(m.start(), m.end()) for m in QUOTED.finditer(text)]
+    frozen = frozen_end(text)
     found, seen = [], set()
     for match in INLINE.finditer(text):
         slug = match.group(0).strip("`")
-        if slug not in known or slug == own or slug in seen:
+        if slug not in known or slug == own or slug in seen or match.start() < frozen:
             continue
         if any(start <= match.start() < end for start, end in quotes):
             continue
@@ -181,7 +186,9 @@ def restore_surface(text: str, terms: dict[str, str]) -> str:
         slug = match.group(1)
         term = terms.get(slug)
         return match.group(0) if not term or term == slug else f"[[{slug}|{term}]]"
-    return BARE.sub(swap, text)
+    from promote import frozen_end
+    frozen = frozen_end(text)
+    return text[:frozen] + BARE.sub(swap, text[frozen:])
 
 
 def only_files(files: list[Path], only: list[str] | None) -> list[Path]:
