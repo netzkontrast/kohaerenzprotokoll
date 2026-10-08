@@ -2,8 +2,7 @@
 
 > **Entwurf einer Claude-Sitzung, 2026-10-05**, auf den Auftrag des Autors „Lets start Treatments“. Das ist Phase 2 des
 > Schreibplans (`Plan/concept/novel-writing-plan_2026-09-29.md`): 2a, das ganze Buch auf einer Seite, und 2b, ein Absatz
-> pro Bewegung. 2b liegt für Kap 0–39 vor (Akt I am 2026-10-05, Akt II bis Vortex am 2026-10-06); Kap 40 steht nur
-> auf der Buchseite.
+> pro Bewegung. 2b liegt für Kap 0–40 vor (Akt I am 2026-10-05, Akt II bis Kap 40 am 2026-10-06).
 >
 > **Kein Kanon.** Ein Akt gilt erst, wenn du ihn freigibst. Bis dahin ist jeder Absatz ein Vorschlag (Entscheidung 025,
 > Schritt 38: kein Entwurf wird Kanon, die Storyform geht vor).
@@ -192,8 +191,8 @@ Jeder Absatz erzählt nur Ereignisse. Welche Storypoints er trägt, steht darunt
 - Was sich nicht zurücknehmen lässt: Er verliert den Schutz seiner Rolle, und für die Wartung von Sektor 04 zahlen
   andere [D 13].
 - **Hook-out:** AEGIS antwortet mit der ersten Erasure-Welle [S27].
-- *Storypoints:* A Story Costs Being, A-MC Problem Inertia, A-MC Solution Change, A-RS Concern Understanding,
-  B-IC Concern Subconscious, B-RS Concern Becoming, A-MC Critical Flaw Speculation, A Catalyst Threat [D 13].
+- *Storypoints:* A Story Costs Being, A-MC Problem Inertia, A-RS Concern Understanding, B-IC Concern Subconscious,
+  B-RS Concern Becoming, A-MC Critical Flaw Speculation, A Catalyst Threat [D 13].
 
 ---
 
@@ -337,8 +336,8 @@ Namen sind offen [K Kernwelten]. Die vier Menschen aus KW1 bleiben dort zurück 
 - Was sich nicht zurücknehmen lässt: Seine Überlebensordnung ist nicht mehr verfügbar, der letzte sichere Rückzugsort
   entfällt [D 26, S44].
 - **Hook-out:** AEGIS startet in Kap 28 den Purge, und Juna gerät in Gefahr [S27].
-- *Storypoints:* A Story Costs Being, A-MC Problem Inertia, A-MC Solution Change, A-OS Issue State of Being,
-  A-OS Problem Inertia, B-MC Issue Openness, B-MC Problem Disbelief, B-IC Issue Dream, B-IC Problem Disbelief [D 26].
+- *Storypoints:* A Story Costs Being, A-MC Problem Inertia, A-OS Issue State of Being, A-OS Problem Inertia,
+  B-MC Issue Openness, B-MC Problem Disbelief, B-IC Issue Dream, B-IC Problem Disbelief [D 26].
 
 ---
 
@@ -372,8 +371,8 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 
 ### Kap 29 — Kikos Angst
 - Kael will Junas Gegenwart im Möglichkeits-Garten erreichen, während der Purge läuft [D 29].
-- Kikos Angst sitzt im Körper: Er wird klein, das letzte Aufflammen der Vermeidung [D 29, A].
-- Kael trägt Kiko, statt sie zu übergehen. Er geht langsamer, damit der Körper mitkommt [D 29].
+- Kikos Angst sitzt im Körper: Kael wird klein. Kiko gehört zur Suche, und gerade die Angst um Juna bremst die Suche [D 29, K Lager].
+- Kael trägt Kikos Angst, statt sie zu übergehen. Er geht langsamer, damit der Körper mitkommt [D 29].
 - Er bleibt im Garten, aber der Purge erreicht die Verbindung vor ihm [D 29].
 - Was es kostet: Zeit, und Juna bleibt länger in Gefahr [D 29].
 - **Hook-out:** Alex stellt sich vor den Weg [D 29].
@@ -430,9 +429,9 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 - Was sich nicht zurücknehmen lässt: eine wirkliche Möglichkeit der Beziehung. Der Schutz der Abwehr entfällt als
   Rückzugsort [D 34, S44].
 - **Hook-out:** AEGIS' Sweep zieht sich auf das zusammen, was übrig ist [D 34].
-- *Storypoints:* A Story Costs Being, A-MC Problem Inertia, A-MC Solution Change, A-OS Symptom Knowledge,
-  A-OS Response Thought, B-MC Symptom Reconsideration, B-MC Response Consideration, B-IC Symptom Oppose,
-  B-IC Response Support, A Story Consequence Past [D 34].
+- *Storypoints:* A Story Costs Being, A-MC Problem Inertia, A-OS Symptom Knowledge, A-OS Response Thought,
+  B-MC Symptom Reconsideration, B-MC Response Consideration, B-IC Symptom Oppose, B-IC Response Support,
+  A Story Consequence Past [D 34].
 
 ### Kap 35 — Oblivion hört auf
 - Kael will die Wiederholung der Löschung beenden [D 35].
@@ -488,6 +487,15 @@ Möglichkeits-Garten; auch das ist ein Arbeitsname [K Kernwelten].
 - **Hook-out:** Kap 40, die Genesis noch einmal, geheilt [S42].
 - *Storypoints:* A-MC Problem Inertia, A-MC Solution Change, A-OS Solution Change, B-MC Solution Faith,
   B-IC Solution Faith, B Story Consequence Becoming [D 39].
+
+### Kap 40 — Die Genesis noch einmal
+- Erklärte Ausnahme: Kap 40 ist der Rahmen. Es läuft nicht nach Ziel, Widerstand und Wende, wie Kap 0 [S42, D 40].
+- Das Wir, mit AEGIS im Plural, bezeugt die vier Schritte der Genesis noch einmal: Einheit, Cluster,
+  Trennungsprotokoll, Wir [K W12, D 40].
+- Dieselben Ereignisse wie in Kap 0, nicht mehr als Trauma erzählt. Die Quellen lesen Junas Resonanz hier als Geburt
+  statt als Angriff, den Schmerz als Preis statt als Tragödie; entschieden ist das nicht [D 40].
+- Was offen bleibt: wer erzählt, ob Reset oder Verwandlung lesbar bleiben, und das letzte Bild [D 40, Weiche W14].
+- *Storypoints:* keine [D 40].
 
 ---
 

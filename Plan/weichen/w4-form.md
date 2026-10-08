@@ -54,3 +54,21 @@ Hindernis oder eine zweite Erklärung rechtfertigt sie nicht.
 Noch offen. Antwortformat: W4 A/B/C oder frei; Rahmen verbindlich oder nach dem Pilot.
 W12 bestimmt die Genesis, W13 die spätere Bewahrungsform und W14 die Coda.
 W4 darf weder Juna noch Wir-AEGIS oder einen Reset vorab als Tatsache festlegen.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was festliegt:**
+- **41 Bewegungen mit Rahmen:** Kap 0 und Kap 40 sind der Rahmen (Kanonzeile Kernwelten). Das Weaving hat 41 Kapitel.
+- **Wo B in A übergeht:** Beide Storyforms schlagen in Kap 35 um, mit Kaels innerer RÜCKFRAGE und Beat 4, der
+  Landauer-Hitze (Schritt 48). AEGIS erlischt in Kap 39 und wird plural (Q8).
+
+**Was offen bleibt:**
+- **Ein Vortex oder zwei?** Das Treatment hat einen Vortex von Kap 35 bis 39: Umschlag (35), Stille (36), falscher
+  Friede (37), Rauschen (38), Wir (39). Kap 37 ist ein falscher Sieg, das ist die Form „zwei Wellen“. Ob du das so
+  willst, ist nicht gefragt worden.
+- **Das Rauschen als AEGIS' Sterben (Kap 38):** Das ist ein Vorschlag der Strukturprüfung und schließt die Naht 37→39.
+
+**Empfehlung:** ein Vortex in zwei Wellen (35–36 Umschlag, 37 falscher Friede, 38–39 Rauschen und Wir), weil Kap 37
+dann die Wachsamkeit kostet und das Ende verdient wirkt.
+
+**Frage an dich:** Ein Vortex in zwei Wellen, wie im Treatment?

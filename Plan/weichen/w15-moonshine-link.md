@@ -67,3 +67,43 @@ und zahlt dafür etwas, das der Leser sieht.
 Noch offen. Antwortformat: W15 A/B/C oder frei; zusätzlich **was übertragen wird** (Wissen /
 Muster / nur Zeugenschaft) und **ob und was sie kostet**. Hängt an keinem anderen Blatt: Was die Verbindung leistet, lässt sich vor Junas Identität
 entscheiden. Schaltet W5 (welche Spur der Leser sieht) und W9 (Juna) frei. Q9 bleibt offen, bis du antwortest.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was der Plan schon voraussetzt** (alles Vorschlag, in `development.json`):
+- **Kap 7:** Der Kanal trägt kurz, und für die Rückkehr braucht Kael Hilfe.
+- **Kap 19:** Der Kanal wird bewusst als Werkzeug benutzt; jede Benutzung macht Kael ortbar.
+- **Kap 24:** Gefiltert verliert er die Wärme, und AEGIS ortet Kael seltener.
+- **Kap 30:** Kael und Juna benutzen ihn zum ersten Mal beide bewusst; Juna antwortet und wird dadurch sichtbar.
+- **Kap 31:** Oblivion löscht, Silas empfängt, ein Teil des Signals geht verloren.
+- **Kap 34, 36:** Kael schneidet ihn; Juna verbindet wieder (Schritt 48).
+
+**Was offen bleibt:** die Regel dahinter.
+- Was überträgt der Kanal: Gefühl, Erinnerung, Worte, Orte?
+- Was kostet eine Benutzung, Wärme oder Ortbarkeit?
+- Kann AEGIS mithören?
+
+Die Kapitel setzen schon „Benutzung macht ortbar“ und „Filtern kostet Wärme“, ohne dass das entschieden ist.
+
+**Empfehlung:**
+- **Was durchgeht:** Gefühl und Richtung, keine Worte bis Kap 30 und keine Bilder; Erinnerung nur als Fragment.
+- **Der Preis:** Jede Benutzung macht ortbar (B's Uhr). Filtern schützt und kostet Wärme (A's Preis).
+- **AEGIS:** sieht die Benutzung, nicht den Inhalt.
+
+**Frage an dich:** Nimmst du diese drei Regeln als Grundlage für W15?
+
+## Nachtrag 2026-10-06: aus der Wissenstabelle und der Spurenkonkordanz
+
+- **Der Anschluss verlässt KW1** (`Plan/runs/storyform-2026-10-06/wissenstabelle.md`, Lücke 6).
+  - **Das Gerät:** Der Anschluss ist ein Gerät neben der Tür von WE 0418, und WE 0418 liegt in Sektor 04 (Entwurf J).
+  - **Die Welle:** Kap 14 löscht Sektor 04, und trotzdem bringt Kael den Anschluss durch die Welle. Ab Kap 18 heißt er
+    Kanal.
+  - **Die Lücke:** Kein Kapitel zeigt, wann aus dem Gerät eine Verbindung wird, die Kael mitnimmt.
+  - **Vorschlag:** Kap 14 ist dieser Moment. Das Gerät wird gelöscht, und die Verbindung bleibt. So erfährt Kael, dass
+    der Anschluss nie das Gerät war.
+- **Die Regel wird früher gebraucht, als sie entschieden ist.** Kap 19 setzt „Benutzung macht ortbar“ voraus, Kap 24
+  „Filtern kostet Wärme“. Spätestens vor Kap 19 muss W15 stehen.
+- **Der Hörer in den Entwürfen** (`Plan/runs/storyform-2026-10-06/spuren-konkordanz.md`). Der Knöchelschmerz „zeigt“
+  durch den Hörer. Damit setzen J und Entwurf A von Kap 2 vielleicht schon eine Regel: Der Kanal überträgt Körper.
+  Gewollt?
+- **An W22 gekoppelt:** Wenn AEGIS Juna nur über den Kanal erreicht, ist W15 die Regel, an der Akt III hängt.

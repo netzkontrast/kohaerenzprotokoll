@@ -58,3 +58,24 @@ Stimmreferenz, kein Text aus `Legacy/`.
 Noch offen. Antwortformat: W3 A/B/C oder frei; Anfangszeile behalten oder neu entwickeln.
 Abhängigkeiten: W6 (AEGIS), W7 (Wissensfreigabe), W10 (Besetzung).
 Die Wahl bestimmt nicht, wer die Prosa schreibt; diese Prozessfrage bleibt separat.
+
+## Stand 2026-10-06 (Sitzung, kein Status gesetzt)
+
+**Was festliegt:**
+- **AEGIS:** AEGIS spricht als Ich in Kap 0, 6, 16, 22 und 28 (C14).
+- **Kael:** Alle Kap-1-Entwürfe seit E und die Fassungen G und J erzählen Kael in der ersten Person, im Präsens.
+  Entwurf C (dritte Person) blieb allein.
+- **Die Anteile:** Sie bekommen ab Kap 13 Namen und eine Stimme (`anteile.json`, `unnamed_until: 13`, Schritt 32).
+- **Das Wir:** Ab Kap 38/39 spricht das Wir (`anteile.json`, Kap 38–39).
+
+**Was offen bleibt:**
+- **Ich/Präsens für Kael als Regel:** Das ist bisher eine Praxis der Entwürfe und kein Wort von dir.
+- **Wie Anteile sprechen:** in Kaels Satz, also im Satzbau, oder mit eigener Stimme in einer eigenen Szene?
+- **Silas' Halbsatz im Präteritum** (Entwurf J, `:L173`): Das Leserpanel las ihn mehrheitlich als gestalteten Riss.
+  Gilt er als erlaubter Stimmwechsel?
+- **Kap 40:** Erzählt dort das Wir, AEGIS-plural oder beide? Das gehört zu W14.
+
+**Empfehlung:** Kael Ich/Präsens als Regel; die Anteile vor Kap 13 nur über Körper, Satzbau und Spur, danach mit
+Stimme im Dialog innerhalb von Kaels Ich; Silas' Präteritum als einziger zugelassener Tempusriss in Akt I.
+
+**Frage an dich:** Bestätigst du Ich/Präsens für Kael als Regel des Buches?

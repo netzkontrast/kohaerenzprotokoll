@@ -285,6 +285,13 @@ with the consequences of each option laid out.
     chapter the weave gives B nothing, or do not reach 0 at Beat 4. **Beat 4, the Landauer heat, is Kap 35:** both
     storyforms turn in the same chapter; Kap 36 carries the silence after it.
 
+    *Applied 2026-10-06, no new choice, on the author's instruction to prepare the final planning:* „A-MC Solution"
+    left Kap 13, 26 and 34 (it came from #170's proposals, and steps 27 and 48 place Inertia → Change in Kap 35); Kiko
+    in Kap 29 stands with the search, as `kanon.md` has it; Kap 40 has a frame proposal without storypoints; the NCP
+    carries one proposal event per chapter and woven throughline. The independent critical review and the open
+    Weichen it drew (W11, W13–W32) are in `Plan/runs/storyform-2026-10-06/` and `Plan/weichen/`, ordered by
+    `entscheidungsvorlage.md`; none is answered.
+
 Derived, not chosen (rule R6): Juna's resolve in A is steadfast, Kael's in B is change — the report's own
 Vortex-Inversion (L137) is where it happens (B-RS signpost 4, Becoming). Open: the players (W10);
 the signpost order and the element choices are to be checked against the treatment (W1: B as the check).
