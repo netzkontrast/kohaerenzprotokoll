@@ -22,8 +22,9 @@ skills are missing from it or listed here without existing, and
 | `storyform/SKILL.md` | read and change the novel's two Dramatica storyforms in `Plan/storyform/`: one question to the author at a time, every value with its provenance |
 | `jules/SKILL.md` | spawn a Google Jules session on a GitHub repository, drive it through its plan, and verify it pushed |
 | `app-refresh/SKILL.md` | rebuild, check, look at and publish the project app when it should be current for a pull request (no hook enforces it since 2026-10-06) — and keep it usable by agents: an address, an index entry and an interactive element for anything new |
+| `openmontage/SKILL.md` | produce a video for the novel, the book teaser first, with OpenMontage in `.openmontage/`: starting it here, what works without a key, the German voice, and which text may reach which provider (decision 026) |
 
-`ingest`, `dspy`, `typesafe`, `jules`, `app-refresh` and `writing-skills` end in a *Provisional* block: what the skill may
+`ingest`, `dspy`, `typesafe`, `jules`, `app-refresh`, `openmontage` and `writing-skills` end in a *Provisional* block: what the skill may
 not do, and the evidence that would retire it. `tools` and `qmd` carry none yet.
 
 ## The writing skills — reading, never writing, the novel
