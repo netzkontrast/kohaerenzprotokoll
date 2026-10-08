@@ -317,3 +317,18 @@ record, while its description claimed all of them; decision 014 has the
 measurement. The author merged its pull request, and the document was then read
 in full as document 31.
 
+## OpenMontage — video production (2026-10-08)
+
+`scripts/install.sh openmontage` puts `netzkontrast/OpenMontage` at commit `9327439` into `.openmontage/`, git-ignored, and
+installs four things beside it. The licence is AGPLv3, and the clone is used, not redistributed.
+
+- `.openmontage/.venv`: Python 3.11 with its `requirements.txt` and `piper-tts`. The venv sits inside the clone
+  because its `Makefile` and `AGENT_GUIDE.md` expect it there.
+- The Remotion composer's `node_modules`, installed by `npm ci`.
+- The German Piper voice `de_DE-thorsten-high`, about 110 MB, in the clone's root.
+- HyperFrames' Chrome Headless Shell in `~/.cache/hyperframes/`.
+
+Together they take about 800 MB and half a minute. The installer writes **no `.env`** (its own `make setup` copies one),
+so every cloud provider stays off until a key is set in the environment. Decision 026 says which providers may receive
+what. The skill `openmontage` has how to run it, what works here, and why Remotion does not render in this container.
+

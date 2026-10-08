@@ -13,7 +13,7 @@ So coverage is checked rather than remembered.
 | path | why |
 |---|---|
 | `Legacy/` | a shelf, read by nothing. Indexing it would put the retired pipeline into every search for the live one — the exact thing decision 001 removed |
-| `.lit-critic-src/`, `.venv*/`, `.tools-node/`, `node_modules/` | vendored clones and dependencies, git-ignored |
+| `.lit-critic-src/`, `.openmontage/`, `.venv*/`, `.tools-node/`, `node_modules/` | vendored clones and dependencies, git-ignored |
 | `.agents/skills/`, `.claude/skills/`, `.claude/agents/`, `scripts/` | agent instructions and implementation notes, read from their paths when working on code; qmd searches the novel corpus and its process records |
 | the four root files | `CLAUDE.md`, `NOW.md`, `PRINCIPLES.md`, `README.md`. **qmd's `--pattern` flag is ignored and every collection is `**/*.md`**, so a collection rooted at `.` pulls in Legacy and the vendored clones — 1,382 files. Tried, measured, removed. These four are loaded by an agent directly anyway; the loss is that a search cannot find them |
 | `Sources/README.md` | the same shape one level down: the collections are `Sources/drive`, `Sources/notes` and `Sources/terms`, so a file at `Sources/` itself falls between them, and a collection rooted at `Sources/` would index all three twice |
@@ -33,7 +33,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / ".qmd" / "index.yml"
 
-SKIP = ("Legacy/", ".lit-critic-src/", ".venv", ".tools-node/", "node_modules/",
+SKIP = ("Legacy/", ".lit-critic-src/", ".openmontage/", ".venv", ".tools-node/", "node_modules/",
         ".qmd/", ".git/", ".cache/",
         ".agents/skills/", ".claude/skills/", ".claude/agents/", "scripts/",
         # vendored: wuyoscar/jev-skill v0.2.0, third-party skill text, not corpus

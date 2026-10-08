@@ -67,3 +67,7 @@ Index/.building
 Index/**/.publish-*
 Index/**/*.tmp.npy
 Index/**/*.tmp
+
+# OpenMontage (scripts/install.sh openmontage): the pinned clone, its .venv,
+# node_modules and every project it renders under .openmontage/projects/
+.openmontage/

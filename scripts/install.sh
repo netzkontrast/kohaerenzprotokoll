@@ -34,6 +34,7 @@ HYPEREXTRACT_REF="395039ea49709b279971631a47569b931818abbb"
 SEMANTICA_VERSION="0.7.0"
 OPENCODE_VERSION="1.18.32"
 OMO_VERSION="4.19.4"
+OPENMONTAGE_REF="9327439db69021ab4b0e2776729bf3b58fdb5a87"
 # The author's answers to the oh-my-openagent installer (2026-09-24): which
 # subscriptions exist decides which model each agent is routed to.
 OMO_FLAGS=(--platform=opencode --claude=max20 --openai=yes --gemini=yes --copilot=no)
@@ -55,6 +56,7 @@ COMPONENTS=(
   "hyperextract|he and he-mcp (uv tool, python 3.12) and their /usr/local/bin links — upstream Hyper-Extract, on demand: hx.py parity, templates.py parse, the vendored hyper* skills"
   "omo|OpenCode $OPENCODE_VERSION (npm -g) with the oh-my-openagent $OMO_VERSION plugin; no provider sign-in"
   "qmd|qmd package in .tools-node and the /usr/local/bin/qmd shim"
+  "openmontage|.openmontage/ — OpenMontage from netzkontrast/OpenMontage, its .venv (python 3.11, piper-tts, the German voice de_DE-thorsten-high), the Remotion composer's node_modules and HyperFrames' headless Chrome; video production, nothing in the pipeline"
   "qmd-models|qmd's ~2.1 GB models, index and embeddings — not in the default set"
 )
 DEFAULT_SKIP="qmd-models"
@@ -87,6 +89,11 @@ present() {
     omo)        have opencode && grep -q oh-my-openagent ~/.config/opencode/opencode.json 2>/dev/null \
                   && [[ -f ~/.omo/omo.jsonc ]] ;;
     qmd)        [[ -x .tools-node/node_modules/.bin/qmd ]] && [[ -x /usr/local/bin/qmd ]] ;;
+    openmontage) [[ "$(git -C .openmontage rev-parse HEAD 2>/dev/null)" == "$OPENMONTAGE_REF" ]] \
+                  && .openmontage/.venv/bin/python -c "import yaml, pydantic, jsonschema, piper" 2>/dev/null \
+                  && [[ -d .openmontage/remotion-composer/node_modules/remotion ]] \
+                  && [[ -f .openmontage/de_DE-thorsten-high.onnx ]] \
+                  && ls ~/.cache/hyperframes/chrome/chrome-headless-shell/*/*/chrome-headless-shell >/dev/null 2>&1 ;;
     qmd-models) scripts/setup_qmd.sh --check 2>/dev/null | grep -q "embeddings *complete" ;;
     *)          return 2 ;;
   esac
@@ -183,6 +190,32 @@ install_one() {
       (cd /tmp && bunx "oh-my-openagent@$OMO_VERSION" install --no-tui "${OMO_FLAGS[@]}" --skip-auth >/dev/null) ;;
     qmd)
       scripts/setup_qmd.sh --package ;;
+    openmontage)
+      need_uv || return 1
+      # A clone, not a package: its agent reads AGENT_GUIDE.md, the pipeline manifests
+      # and the skills from its own root, and its tools run from there. Pinned by
+      # commit; git-ignored, so nothing it renders is committed by accident.
+      if [[ ! -d .openmontage/.git ]]; then
+        git init -q .openmontage && git -C .openmontage remote add origin https://github.com/netzkontrast/OpenMontage || return 1
+      fi
+      if [[ "$(git -C .openmontage rev-parse HEAD 2>/dev/null)" != "$OPENMONTAGE_REF" ]]; then
+        git -C .openmontage fetch -q --depth 1 origin "$OPENMONTAGE_REF" \
+          && git -C .openmontage -c advice.detachedHead=false checkout -q FETCH_HEAD || return 1
+      fi
+      # .venv inside the clone: its Makefile and AGENT_GUIDE.md expect it there.
+      # No .env is written (its `make setup` copies one): keys come from the
+      # environment's settings, and without them every provider stays off.
+      [[ -x .openmontage/.venv/bin/python ]] || uv venv -q --python 3.11 .openmontage/.venv || return 1
+      uv pip install -q --python .openmontage/.venv/bin/python -r .openmontage/requirements.txt piper-tts || return 1
+      (cd .openmontage/remotion-composer && npm ci -s --no-audit --no-fund) || return 1
+      # the German voice: piper_tts resolves a model name in the working directory,
+      # which is the clone's root when its tools run
+      [[ -f .openmontage/de_DE-thorsten-high.onnx ]] \
+        || .openmontage/.venv/bin/python -m piper.download_voices de_DE-thorsten-high --data-dir .openmontage || return 1
+      # HyperFrames' own Chrome Headless Shell (~/.cache/hyperframes); DO_NOT_TRACK
+      # keeps its anonymous telemetry off
+      (cd .openmontage && DO_NOT_TRACK=1 HYPERFRAMES_SKIP_SKILLS=1 npx --yes hyperframes browser ensure >/dev/null 2>&1) \
+        || { echo "hyperframes browser ensure failed" >&2; return 1; } ;;
     qmd-models)
       scripts/setup_qmd.sh ;;
   esac
