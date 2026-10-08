@@ -1,0 +1,148 @@
+# counts for 122 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz-Protokoll                3 word     4 in   [15, 36, 170, 190]
+                                    1      as Kohärenz-Protokolls
+  Kohärenz Protokoll                2 word     2 in   [11, 194]
+  Narrative Context Protocol        1 word     1 in   [19]
+  NCP                               1 word     1 in   [19]
+  Dual Kernel Theory                2 word     2 in   [20, 156]
+  DKT                               2 word     2 in   [20, 44]
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [21]
+  TSDP                              5 word     9 in   [21, 44, 82, 98, 100, 106]
+                                    1      as TSDP-Alters
+                                    1      as TSDP-Alter
+                                    1      as TSDP-System
+                                    1      as TSDP-Dissoziation
+  ANP                               7 word    11 in   [21, 45, 50, 90, 107, 108]
+  EP                                6 word    14 in   [21, 45, 46, 50, 90, 109]  <-- substring
+  Apparently Normal Part            1 word     2 in   [50, 90]
+  Emotional Parts                   3 word     3 in   [46, 50, 90]
+  Kohärenz-Kernel                   2 word     3 in   [20, 45, 178]
+                                    1      as Kohärenz-Kernels
+  Entropie-Kernel                   4 word     4 in   [20, 46, 88, 154]
+  AEGIS                            33 word    35 in   [32, 50, 54, 56, 58, 62]
+                                    1      as AEGIS-Kohärenz
+                                    1      as AEGIS-Simulation
+  Kael                             30 word    32 in   [50, 78, 80, 82, 88, 89]
+                                    2      as Kaels
+  System Kael                       3 word     3 in   [82, 98, 182]
+  Juna                              6 word     6 in   [120, 124, 125, 127, 142]
+  V                                 2 word    33 in   [17, 32, 47, 56, 58, 65]  <-- substring
+  Juna/V                            1 word     1 in   [120]
+  Lex                               2 word     3 in   [32, 108, 184]
+  Nyx                               3 word     3 in   [109, 114, 184]
+  Kiko                              2 word     2 in   [110, 184]
+  Selene                            2 word     2 in   [111, 184]
+  Moros                             3 word     3 in   [112, 114, 184]
+  Logos-Prime                       5 word     5 in   [89, 107, 108, 140, 176]
+  Mnemosyne-Archipel                3 word     3 in   [89, 110, 141]
+  Cerberus-Labyrinth                2 word     2 in   [109, 112]
+  Kairos-Potentialis                3 word     3 in   [111, 143, 182]
+  KW1                               4 word     4 in   [89, 107, 108, 140]
+  KW2                               3 word     3 in   [89, 110, 141]
+  KW3                               2 word     2 in   [109, 112]
+  KW4                               3 word     3 in   [111, 143, 182]
+  Moonshine Resonance               3 word     3 in   [47, 125, 142]
+  K-J Vektor                        1 word     1 in   [47]
+  K-J Vector                        1 word     1 in   [125]
+  Mosaic Heart                      1 word     1 in   [143]
+  Mosaik-Herz                       1 word     1 in   [180]
+  Inner Council                     2 word     2 in   [100, 184]
+  Z-Fighting                        3 word     4 in   [46, 82, 114, 170]
+                                    1      as Z-Fightings
+  ANP-EP Phobie                     3 word     3 in   [45, 114, 155]
+  funktionale Multiplizität         2 word     2 in   [96, 159]
+  Funktionalen Multiplizität        1 word     1 in   [180]
+  Functional Multiplicity           1 word     1 in   [172]
+  Zero-Trust Execution Model        2 word     3 in   [45, 65, 76]
+  ZTEM                              3 word     3 in   [45, 65, 152]
+  Recursive Integrity & Validation Engine    1 word     1 in   [65]
+  RIVE                              1 word     1 in   [65]
+  RTSV                              1 word     2 in   [65, 152]
+                                    1      as RTSV-Protokolle
+  Behavioral Proof-of-Function      1 word     1 in   [76]
+  BPoF                              1 word     1 in   [76]
+  Paradox of Misaligned Coherence    1 word     1 in   [76]
+  Logics of Formal Inconsistency    1 word     1 in   [58]
+  Landauer-Prinzip                  4 word     4 in   [27, 50, 156, 182]
+  Story-first Phase                 3 word     3 in   [30, 138, 159]
+  Steinbruch-Notizen                2 word     2 in   [30, 160]
+  Constraint Block 4                2 word     2 in   [30, 160]
+  RAG-Isomorphie-Direktive          2 word     2 in   [34, 38]
+  Story Mind                        2 word     2 in   [36, 118]
+  NovelOS                           2 word     2 in   [38, 44]
+  GraphRAG                          0 word     1 in   [38]
+                                    1      as GraphRAG-System
+  ARCHON-Framework                  1 word     2 in   [52, 190]
+                                    1      as ARCHON-Frameworks
+  TRACE-Framework                   1 word     1 in   [161]
+  ReAct-Zyklus                      3 word     3 in   [32, 149, 161]
+  Werk-Anker                        1 word     1 in   [17]
+  Methoden-Lexikon                  1 word     1 in   [32]
+  Pre-Synthesis Integrity Check     1 word     1 in   [147]
+  Storyform A                       8 word     8 in   [54, 56, 60, 72, 76, 151]
+  Storyform B                       6 word     6 in   [78, 80, 84, 114, 153, 170]
+  5D-Lift                           3 word     3 in   [11, 168, 178]
+  Phönix-Kollaps                    1 word     1 in   [174]
+  Vertex-Explosion                  1 word     1 in   [176]
+  Kollaps der Formeln               1 word     1 in   [142]
+  Fragment Alpha                    1 word     1 in   [140]
+  Demiurg                           2 word     2 in   [62, 176]
+  Gärtner-Metapher                  2 word     2 in   [47, 124]
+  Failure/Good                      1 word     1 in   [176]
+  Steadfast                         1 word     1 in   [176]
+  Orthogonale Kontinuum             1 word     1 in   [186]
+  Grand Argument Story              1 word     1 in   [118]
+  Objective Story                   3 word     3 in   [58, 62, 188]
+  Main Character                    5 word     5 in   [82, 86, 100, 107, 188]
+  Impact Character                  2 word     2 in   [47, 120]
+  Subjective Story                  2 word     2 in   [48, 127]
+  Throughline                       4 word     4 in   [58, 82, 86, 100]
+  Contagonist                       1 word     1 in   [109]
+  Universe                          5 word     5 in   [45, 64, 152, 157]
+                                    1      as universelle
+  Mind                              8 word     8 in   [36, 46, 88, 118, 120, 154]
+  Psychology                        3 word     3 in   [47, 122, 157]
+  Physics                           2 word     2 in   [131, 157]
+  Understanding                     3 word     3 in   [45, 65, 140]
+  Memories                          5 word     5 in   [46, 89, 141]
+  Future                            2 word     2 in   [123, 142]
+  Becoming                          2 word     2 in   [132, 143]
+  Order                             7 word     7 in   [45, 71, 76, 140, 176]
+  Chaos                             4 word     5 in   [46, 72, 178]
+                                    1      as Chaoskraft
+  Faith                             2 word     2 in   [71]
+  Disbelief                         2 word     2 in   [72]
+  Unproven                          5 word     5 in   [46, 95, 107, 184]
+  Proven                            2 word     2 in   [96, 184]
+  Certainty                         3 word     3 in   [45, 66]
+  Potentiality                      2 word     2 in   [66]
+  Truth                             3 word     3 in   [48, 90]
+  Falsehood                         4 word     4 in   [48, 90]
+  Choice                            2 word     2 in   [47, 124]
+  Commitment                        2 word     2 in   [48, 133]
+  Kishōtenketsu                     1 word     3 in   [30, 138, 159]  <-- substring
+                                    2      as Kishōtenketsu-Struktur
+  Ki                                2 word     9 in   [13, 30, 110, 138, 140, 159]  <-- substring
+  Shō                               2 word     3 in   [30, 138, 141]
+  Ten                               2 word     3 in   [30, 138, 142]
+  Ketsu                             2 word     3 in   [30, 138, 143]
+  Dramatica                         5 word    21 in   [11, 15, 30, 44, 58, 60]  <-- substring
+                                    3      as Dramatica-Theorie
+                                    2      as Dramatica-Parameter
+                                    2      as Dramatica-Architektur
+                                    2      as Dramatica-Klasse
+  Hegelsche Dialektik               2 word     2 in   [15, 172]
+  Aufhebung                         5 word     5 in   [15, 163, 172, 178, 182]
+  Dialetheismus                     4 word     4 in   [28, 82, 158, 186]
+  Internal Family Systems           3 word     3 in   [47, 124, 155]
+  Steelmanning                      1 word     2 in   [32, 58]
+                                    1      as Steelmannings
+  Falsifikation                     2 word     2 in   [32, 74]
+  Kohärenztheorie                   2 word     2 in   [66, 158]
+  Korrespondenztheorie              2 word     2 in   [82, 158]
+  Syužet                            1 word     1 in   [188]
+  Fabula                            1 word     1 in   [188]

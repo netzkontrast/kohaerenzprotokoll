@@ -510,3 +510,11 @@ Where it stands: the Guardians as loyal, rebel and turning, in story proposals; 
 Its heading reads „Die Guardians: AEGIS' Ausführungsorgane“ ^[roman-synthese-mit-dual-kernel-theorie.md:L413]. It defines them: „Die Guardians sind spezialisierte Filter-Algorithmen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L415], and names their common `Blinder Fleck`, the inability to process non-logical relationality (the line ends „ist die Unfähigkeit, nicht-logische Relationalität zu verarbeiten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L415]). Each entry then states a failure of its own, for example „Er interpretiert Verletzlichkeit als Angriff“ ^[roman-synthese-mit-dual-kernel-theorie.md:L419] for Cerberus and „Sie begreift Integration als Eliminierung von Abweichung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L421] for Sophia.
 
 Stands on the side of one structure under AEGIS with a blind spot shared by the Guardians and individual failures listed beside it; recorded, not applied.
+
+## 2026-10-07 — `plot-outline-for-kohaerenz-protokoll-a-journey-through-syste`, 2025-11-03, the journey outline
+
+**The journey outline plans the Guardians as specialized system agents that AEGIS deploys in Part II, and that give Kael a misguided mission after the midpoint.**
+
+In section 2.1 „On the other, AEGIS escalates its counter-measures.“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L59], and the same line has AEGIS deploy the Guardians, glossed specialized system agents. In section 2.3 the outline plans „The immense stress of AEGIS's escalating attacks, combined with the“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L69] misguided mission given to Kael by the Guardians, so that his internal alliance breaks down. The outline does not say whether the Guardians are separate from AEGIS or part of it beyond calling them its deployed agents.
+
+Stands: in the record's terms the outline sides with Guardians as AEGIS's instruments (the line says it deploys them); it names no other relation, and settles nothing.

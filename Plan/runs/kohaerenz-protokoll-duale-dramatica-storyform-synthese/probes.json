@@ -1,0 +1,239 @@
+{
+  "document": "kohaerenz-protokoll-duale-dramatica-storyform-synthese",
+  "drive_id": "1vusf9CYph3mybYLL98EiHsZ-3FPHYJpP_St0DFaXA1U",
+  "step": "probes",
+  "at": "2026-10-07",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 31,
+  "backslash_escapes": 120,
+  "typographic_marks": 28,
+  "ascii_quotes": 68,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systemische",
+      "Systemkollaps",
+      "Systemkollapses",
+      "Systemparameter",
+      "Systems",
+      "Systemtransformation",
+      "Systemverantwortung",
+      "Systemwert",
+      "Systemzustand"
+    ],
+    "integ": [
+      "Integration",
+      "Integratorin",
+      "Integrity",
+      "Integrität",
+      "Integritätsprüfungsmechanismus"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokollierung",
+      "Protokolls"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterarchitektur",
+      "Charakteristikum"
+    ],
+    "gegen": [
+      "Gegenkraft",
+      "Gegenpaar",
+      "Gegensatz",
+      "Gegensätze"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Models"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmen",
+      "Paradox",
+      "Paradoxien"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychologische",
+      "Psychology"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Struktureller"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungsarbeit",
+      "Beziehungsdynamik"
+    ],
+    "direk": [
+      "Direktion",
+      "Direktive",
+      "Direktiven"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elements"
+    ],
+    "fight": [
+      "Fight",
+      "Fighting",
+      "Fightings"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalen",
+      "Funktionen"
+    ],
+    "gravi": [
+      "Gravitationsfeld",
+      "Gravitationsleckage",
+      "Gravitationswellen"
+    ],
+    "infor": [
+      "Informationen",
+      "Informationserhaltung",
+      "Informationslöschung"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "metho": [
+      "Methode",
+      "Methoden",
+      "Methodik"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativsystems"
+    ],
+    "physi": [
+      "Physics",
+      "Physik",
+      "Physikalische"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentiality",
+      "Potenzialität"
+    ],
+    "regel": [
+      "Regelbefolgung",
+      "Regeln",
+      "Regelwerk"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms"
+    ],
+    "subje": [
+      "Subjective",
+      "Subjekt",
+      "Subjekts"
+    ],
+    "terti": [
+      "Tertiäre",
+      "Tertiären",
+      "Tertiärer"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Formeln"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Systemtransformation"
+    ],
+    [
+      "Form",
+      "Informationserhaltung"
+    ],
+    [
+      "Held",
+      "Helden"
+    ],
+    [
+      "Held",
+      "Heldenreisen"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Main",
+      "Domain"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ],
+    [
+      "Meta",
+      "Metamorphose"
+    ],
+    [
+      "Paar",
+      "Gegenpaar"
+    ]
+  ]
+}

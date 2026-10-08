@@ -1,0 +1,61 @@
+written_by: document-reader subagent (Sonnet), 2026-10-07, while reading, before any count
+
+The document is English prose with German names in quotation marks and an English gloss in parentheses after most of them. It is a plot outline in three parts. Names are listed as written, English glosses too. The Konstrukt-Stadt carries its code KW1 in a parenthesis; the Kernwelten carry KW2 and KW3 before their names. Hero's Journey and Heroine's Journey are borrowed narrative patterns the document applies to Parts I and III; Gödel-Satz and paraconsistent logic are borrowed concepts. Sections carry numbered headings, so the headings are not listed as terms.
+
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- Nichts Rauschen
+- Nothingness Roar
+- Konstrukt-Stadt
+- KW1
+- KW2
+- KW3
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kernwelten
+- Core Worlds
+- Anscheinend Normaler Teil
+- Apparently Normal Part
+- Apparently Normal Parts
+- ANP
+- ANPs
+- Emotionalen Teile
+- Emotional Parts
+- EPs
+- Cache Kohärenz
+- Risse
+- Rifts
+- Juna/V
+- Kiko
+- Nyx
+- Lex
+- Argus
+- Selene
+- Alters
+- Überwelt
+- Overworld
+- Guardians
+- Entropie-Knotenpunkt
+- Entropy Nexus
+- Paradoxon X
+- functional multiplicity
+- Der innere Rat
+- The Internal Council
+- Gödel-Gambit
+- Gödel Gambit
+- Gödel-Satz
+- Moonshine-Link
+- logischer Kollaps
+- logical collapse
+- Das Fundament
+- The Foundation
+- algorithmic melancholy
+- inefficient beauty
+- The Open Protocol
+- final agent of coherence
+- paraconsistent logic
+- trauma loops
+- Cyclical Structure
+- Heroine's Journey
+- Hero's Journey

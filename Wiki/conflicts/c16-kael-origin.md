@@ -433,3 +433,19 @@ Stands: the document takes no side in C16; it adds Juna as a part inside Kael's 
 It writes: „Re-architected from an external love interest to an internal, exiled part.“ ^[kael-s-dissociative-architecture-analysis.md:L95] and, of the Moonshine-Link, that it is „mediated by the alter“ ^[kael-s-dissociative-architecture-analysis.md:L203] Juna. It names no external entity M and no Komponente 734 (`Komponente` ^[kael-s-dissociative-architecture-analysis.md:#0]), and gives Kael's own origin no account.
 
 Stands as a statement about Juna beside the record's origins of Kael; it takes no side among them.
+
+## 2026-10-07 — `kael-system-tsdp-analyse-und-profile`, 2025-04-28, the TSDP profile report
+
+**The [[tsdp|TSDP]] profile report reads Juna/V as an external attachment object that activates Kael's attachment system, a connection and not a part; it gives no account of where Kael comes from.**
+
+In section 1.4 it writes: „Die Verbindung zu Juna/V fungiert als externes Bindungsobjekt, das das Bindungssystem innerhalb von Kael aktiviert“ ^[kael-system-tsdp-analyse-und-profile.md:L113]. The report is hedged throughout, takes its frame from the theory of structural dissociation, and cites a user query and a research context as its sources.
+
+Stands beside the record's origins as a reading of Juna/V's place relative to Kael, not as a row for either origin; recorded, not applied.
+
+## 2026-10-07 — `kohaerenz-protokoll-duale-dramatica-storyform-synthese`, 2026-04-28, the dual storyform synthesis
+
+**The dual storyform synthesis lists Kael as the host ANP of the system and as Fragment Alpha in Logos-Prime.**
+
+The alter table's first row reads „Erlebendes Subjekt, Angst vor Kontrollverlust“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L107] for „Kael (Host / ANP)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L107], and the Ki phase says: „Kael fungiert in einem Zustand reiner“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L140] Order as Fragment Alpha, suppressing the EPs. The report gives no earlier origin for Kael in these passages.
+
+One more position in the record; it decides nothing about Kael's origin.

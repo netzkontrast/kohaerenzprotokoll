@@ -1,0 +1,35 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      0
+  typographic marks      13
+  ascii quotes           62
+
+# inflection families -- one term, several surfaces
+  chapt    Chapter, Chapters
+  confr    Confrontation, Confronting
+  emoti    Emotional, Emotionalen
+  entro    Entropie, Entropy
+  norma    Normal, Normaler
+  parad    Paradox, Paradoxon
+  point    Point, Points
+  proto    Protocol, Protokoll
+  psych    Psychological, Psychologically
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Hero < Heroine
+  Part < Parts
+  Teil < Teile
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Psychologically
+  Point < Points
+  Point < Midpoint
+  World < Worlds
+  World < Overworld
+  Normal < Normaler
+  Chapter < Chapters
+  Paradox < Paradoxon
+  Emotional < Emotionalen
+  Psychological < Psychologically

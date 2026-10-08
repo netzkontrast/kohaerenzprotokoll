@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 15
-readings: 15
+sources: 17
+readings: 17
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste"]
 gathered: "2026-09-24"
 ---
 
@@ -21,6 +21,12 @@ The earliest read source, and the one that names the metaphor in so many words r
 The character architecture names the problem as the central narrative challenge: „Die zentrale narrative Herausforderung liegt in der glaubwürdigen Darstellung von Kaels fragmentierter Identität“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L17], naming the fragmentation problem in the same line by the name `Cache Kohärenz`. It gives the problem its own conflict section, headed „Cache Kohärenz als Konflikt (Der Fragmentierungs-Effekt)“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L257].
 
 The report ties it to wrong-persona landings: when Kael lands in an unsuitable world with the wrong persona, it „führt dies unweigerlich zu Konflikten und potenziellen System-“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142] tears. The Pressure-Point matrix carries it as a row, `PP-CCH-01`, with the entry „Fähigkeiten-Fehlanpassung bei Wechsel“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L303].
+
+## Reading — `kael-system-tsdp-analyse-und-profile`, 2025-04-28, the TSDP profile report — Cache Kohärenz as the missing shared memory that makes integration hard
+
+The TSDP profile report (unsigned, hedged throughout) ties the difficulty of integration to the problem in section 1.5. It names the cause: „Der Mangel an geteiltem Gedächtnis und Ko-Bewusstsein“ ^[kael-system-tsdp-analyse-und-profile.md:L129], which, it says, „macht eine koordinierte Bewegung zur Integration extrem schwierig und anfällig für Rückschläge“ ^[kael-system-tsdp-analyse-und-profile.md:L129].
+
+In the plot recommendations it asks for scenes built on the problem: „Konkrete Plotpunkte entwickeln, die aus der mangelnden Ko-Bewusstheit und Amnesie resultieren“ ^[kael-system-tsdp-analyse-und-profile.md:L389], with one example: „Kael trifft eine Entscheidung, die durch eine un erinnerte Handlung von Nyx untergraben wird“ ^[kael-system-tsdp-analyse-und-profile.md:L389]. The example is the report's suggestion, not a canon event.
 
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 
@@ -45,6 +51,10 @@ The dramaturg's blueprint (L115–L238) gives Kael as host the problem `Cache Ko
 ## Reading — `the-coherence-protocol-a-definitive-guide-to-the-narrative-a`, 2025-11-03, the Coherence Protocol guide — the guide sets `Overhead` as a protocol's cost, drawn from cache coherence protocols
 
 The guide defines `Overhead` in a glossary entry as „the continuous energy expenditure a protocol requires to maintain its coherence“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46], and says it is „Drawing a direct parallel to cache coherence protocols in computer architecture“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46]. It names the cost „the active, ongoing cost of being“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46] and sets that a protocol fails once the cost outruns what it can acquire: „A protocol collapses when the energy cost of its Overhead exceeds the resources it can acquire.“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L46] The lexicon table repeats the term, giving its definition as „The continuous energy expenditure a protocol requires to maintain its coherence against the pressure of K₀“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L60] and its source concept as `Cache Coherence Overhead`. Here the metaphor is a physical cost in the story's world (Persistence is „a finite resource, not a given“ ^[the-coherence-protocol-a-definitive-guide-to-the-narrative-a.md:L60]), not a memory fault in Kael's psyche. The guide speaks as a binding specification; this is recorded, not applied.
+
+## Reading — `plot-outline-for-kohaerenz-protokoll-a-journey-through-syste`, 2025-11-03, the journey outline — the Cache Kohärenz problem as a name for Kael's memory and identity inconsistencies
+
+In its account of the Konstrukt-Stadt the journey outline names Kael's condition: significant amnesia and depersonalization, „a condition termed the“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L25] `Cache Kohärenz` problem, which it says reflects deep inconsistencies in his memory and identity.
 
 ## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — cache coherence as a technical analogy for Risse
 
