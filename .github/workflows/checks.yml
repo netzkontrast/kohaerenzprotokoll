@@ -59,6 +59,9 @@ jobs:
       - name: frontmatter (wiki_index.py --check)
         if: always()
         run: python3 scripts/wiki_index.py --check
+      - name: reviewed pages (promote.py check)
+        if: always()
+        run: python3 scripts/promote.py check
       - name: judgement replay (judgements.py)
         if: always()
         run: python3 scripts/judgements.py --open

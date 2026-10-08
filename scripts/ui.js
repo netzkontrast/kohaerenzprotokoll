@@ -631,7 +631,7 @@ class Component extends DCLogic {
       const qun = V('quotes.unresolved');
       const pct = (a, b) => Math.max(2, Math.min(100, Math.round((100 * a) / Math.max(1, b))));
       now.l1 = D.docs.length + ' of ' + fmt(landed) + ' landed documents read. ';
-      now.l2 = pages + ' candidate pages, none promoted. ';
+      now.l2 = pages + ' term pages, ' + (V('wiki.reviewed') || 0) + ' reviewed by the author. ';
       now.l3 = openC + ' conflicts wait on the author.';
       now.tiles = [
         { label: 'Sources', big: fmt(landed), unit: 'of ' + fmt(total) + ' landed', pct: pct(landed, total), color: '#2B4C8C', sub: (total - landed) + ' still on Drive · ' + D.corpus.folded + ' copies folded away', go: () => this.go('corpus') },
@@ -827,7 +827,7 @@ class Component extends DCLogic {
       if (p.cx.length) chips.push(this.chip('contested · ' + p.cx.map((c) => D.conflicts[c].id).join(', '), 'rubric'));
       if (p.g) chips.push(this.chip('gathered ' + p.g));
       rd = {
-        kicker: 'Candidate page · Wiki/candidates/' + p.s + '.md', title: p.t, tsz: p.t.length > 30 ? 34 : 46,
+        kicker: (p.st === 'reviewed' ? 'Reviewed page' : 'Candidate page') + ' · Wiki/candidates/' + p.s + '.md', title: p.t, tsz: p.t.length > 30 ? 34 : 46,
         hasSub: false, sub: '', chips: chips, secs: this.secs(p.lede, p.sec, uid + '-p' + sel), maxW: 700, key: 'wiki:' + sel,
       };
       wr.toc = rd.secs.filter((x) => x.hasHead).map((x) => {
@@ -1099,7 +1099,7 @@ class Component extends DCLogic {
           { verb: 'read', path: 'Sources/notes/', big: String(V('documents.with_note')), cap: 'notes — what a document says, quoted with line numbers', how: 'read.py --find answers a quotation with its line' },
           { verb: 'reconcile', path: 'Wiki/compare/', big: String(V('documents.reconciled')), cap: 'reconciled against the pages · ' + V('judgements.total') + ' judgements', how: 'wiki_index.py · reconcile.py — lookup first, judgement for the rest' },
           { verb: 'gather', path: 'Wiki/candidates/', big: String(V('wiki.pages')), cap: 'pages · ' + V('wiki.conflicts') + ' conflicts · ' + V('wiki.questions') + ' questions', how: 'readings attributed and unmerged; one commit per page' },
-          { verb: 'review', path: 'Wiki/terms/', big: '0', cap: 'promoted — the folder does not exist yet', how: 'a person decides; no rule yet for a reviewed page a source contradicts' },
+          { verb: 'review', path: 'status: reviewed', big: String(V('wiki.reviewed') || 0), cap: 'pages the author reviewed — pinned in Plan/runs/promotions.jsonl', how: 'promote.py sheet, then the author\'s words; a later source waits under Since review' },
           { verb: 'ask', path: 'graphrag.py', big: V('graphrag.recall_ppr') + '%', cap: 'recall@8 on ' + V('graphrag.cases') + ' cases · ' + V('graphrag.recall_seeds') + '% from seeds', how: 'returns verified quotations, never prose' },
         ].map((x, i) => ({ n: i + 1, verb: x.verb, path: x.path, big: x.big, cap: x.cap, how: x.how, arrow: i > 0, bl: i > 0 ? '#DDD6C6' : 'transparent', color: x.verb === 'review' ? '#B0341E' : x.verb === 'fetch' || x.verb === 'ask' ? '#2B4C8C' : '#1C1B18', vc: x.verb === 'review' ? '#B0341E' : '#645F53' }));
         loop.phases = D.phases.map((p) => ({ n: p.n, t: p.t, d: p.d, cmd: p.cmd }));

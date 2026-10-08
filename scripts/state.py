@@ -207,6 +207,13 @@ def _wiki_zero_readings() -> int:
                if frontmatter(p.read_text(encoding="utf-8")).get("readings") == "0")
 
 
+@measure("wiki.reviewed", "term pages the author reviewed — status: reviewed, pinned in Plan/runs/promotions.jsonl")
+def _wiki_reviewed() -> int:
+    from wiki_index import frontmatter
+    return sum(1 for p in (ROOT / "Wiki" / "candidates").glob("*.md")
+               if frontmatter(p.read_text(encoding="utf-8")).get("status") == "reviewed")
+
+
 @measure("wiki.chapters", "chapter pages in Wiki/chapters/, one per chapter of the planned novel")
 def _wiki_chapters() -> int:
     from chapters import pages
