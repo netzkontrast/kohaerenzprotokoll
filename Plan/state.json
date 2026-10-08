@@ -107,7 +107,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 49305,
+      "value": 49325,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -237,6 +237,14 @@
     "wiki.reviewed": {
       "value": 1,
       "how": "term pages the author reviewed \u2014 status: reviewed, pinned in Plan/runs/promotions.jsonl"
+    },
+    "wiki.terms": {
+      "value": 1,
+      "how": "term pages in Wiki/terms/ \u2014 the author's workbench page, written from a reviewed candidate (terms.py)"
+    },
+    "wiki.terms_approved": {
+      "value": 0,
+      "how": "term pages the author approved \u2014 status: approved, pinned in Plan/runs/promotions.jsonl"
     },
     "wiki.unmarked": {
       "value": 818,

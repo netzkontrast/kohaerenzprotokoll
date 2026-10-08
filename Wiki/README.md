@@ -19,18 +19,19 @@ source says what, and when.
 | `overview/` | pages that place rather than define: every chapter's titles side by side (derived by `scripts/chapters.py`), and the plot's shape per source | the chapter table by code, the plot page by a person |
 | `compare/` | the reconciliation record of each document against the pages as they stood | a person, from `scripts/reconcile.py`'s lookup |
 | `index.json` | every page's surfaces and frontmatter, so reconciling never reads the wiki | `scripts/wiki_index.py` |
-| `terms/` | **not created**: a promoted page stays in `candidates/` with `status: reviewed` (decision 026) | — |
+| `terms/` | one German page per term for the author, written from a reviewed candidate: what is decided (`[K]`), what sources say (`[S]`), what is open (decision 027, its README) | a session or the author; approved by the author |
 
 **A promoted page is one the author reviewed** — the account, not a choice of
 reading: it still collects every reading attributed and unmerged.
-1 <!--state:wiki.reviewed--> page carries `status: reviewed`; its reviewed part
+1 <!--state:wiki.reviewed--> page carries `status: reviewed` (the candidate stays in `candidates/`); its reviewed part
 is pinned by sha256 in `Plan/runs/promotions.jsonl` with the author's words, and
 `scripts/promote.py check` fails when it changes. A source read afterwards lands
 under the page's `## Since review` until the author looks again.
 `python3 scripts/promote.py sheet <page>` is the review sheet;
 `Plan/concept/promotion_2026-10-08.md` has the reasons, the alternatives and the
 author's open questions. The schema still follows the pages: the sheet's checks
-are what 106 candidates showed a review needs.
+are what 106 candidates showed a review needs. A reviewed candidate can then get a
+term page in `terms/` (`scripts/terms.py`, `Plan/concept/wiki-terms_2026-10-08.md`).
 
 ## What is here
 

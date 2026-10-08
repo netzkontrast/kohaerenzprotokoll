@@ -114,7 +114,8 @@ after the tool was built rather than estimated before.
 ## 7. Questions for the author
 
 1. **The rule for a later source (§3)** — c as built (pinned, a `## Since review` section, re-review on your word), or a or b.
-2. **A field or a folder (§2)** — `status: reviewed` in place as built, or `Wiki/terms/` after all.
+2. **A field or a folder (§2)** — `status: reviewed` in place as built, or `Wiki/terms/` after all. *Answered in part 2026-10-08:* the
+   author asked for term pages; they are a second page written from the reviewed candidate (decision 027), and the review stays a field.
 3. **Coverage** — may a page be promoted while documents that name its term are unread (Kishōtenketsu was, at 23 of 30, as you
    asked), or should the sheet refuse above some number — and should `bewerte-kishotenketsu-als-zentrales-narrativ` be read now?
 4. **What promotion is for.** Today it protects and shows. Possible next uses, none built: the app lists reviewed pages first; the
