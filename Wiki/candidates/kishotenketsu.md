@@ -180,7 +180,6 @@ sense (its L575).
 **Where the parts fall.** Ki, Shō, Ten and Ketsu are mapped onto different chapters
 by the strukturierter Outline and by the Kapitel-Kompendium, the storyform outline
 and the glossary. The plot overview has the mapping per source.
-- Divides forty chapters into four acts, „Die Zusammenführung (Kapitel 35-40)“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L134] closing the fourth.
 
 ## Open
 
