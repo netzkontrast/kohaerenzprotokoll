@@ -34,6 +34,9 @@ cd projects/erklaervideo && python3 tools/build.py && DO_NOT_TRACK=1 hyperframes
 - Sprache: 269,2 s. Bild: 273,2 s, also 4:33. Szene 1 hält danach 1 s, Szene 9 hält 3 s für den Titel.
 - `hyperframes check`: 0 Fehler. 12 Lint-Warnungen bleiben stehen; alle empfehlen Unterkompositionen statt einer Datei. Runtime,
   Layout (9 Stichproben) und Bewegung haben keinen Befund, Kontrast 40 von 40 Textprüfungen nach WCAG AA.
+- Render 2026-10-10: 4:33,2, 1920×1080, 30 fps, H.264 mit AAC, 89,6 MB. Gerendert in 14:21 auf 4 CPUs (`beginframe`,
+  Software-GPU), also etwa 3,2× Echtzeit. Lautheit −15,4 LUFS, True Peak −1,5 dBTP. Eine Vorschau-Kopie hat 24,5 MB
+  (zwei Durchläufe, 640 kbit/s Video), damit sie unter die 30-MB-Grenze für Dateien an den Autor passt.
 - **Eine Datei statt neun Unterkompositionen.** Wie eine Unterkomposition relative Pfade auflöst (Schriften, Ton), ist nicht
   dokumentiert, und jede müsste ihre `@font-face` selbst tragen. Eine Datei vermeidet beides.
 - Aus dem Katalog geprüft und als Technik übernommen: `grain-overlay` (Papierkorn), `typewriter` (Fortschritt als CSS-Variable,
@@ -48,5 +51,7 @@ cd projects/erklaervideo && python3 tools/build.py && DO_NOT_TRACK=1 hyperframes
 1. Stimme von ElevenLabs (Entscheidung 029), sobald `ELEVENLABS_API_KEY` gesetzt ist. `narration.py` bekommt dafür eine zweite
    Quelle, `build.py` bleibt, weil es nur `timings.json` liest.
 2. Musik und die zwei Geräusche nach `../README.md`, gemischt mit `hyperframes-audio`.
-3. Die Länge: Piper spricht etwa 129 Wörter pro Minute, das ergibt 4:33 statt 5:00. Eine ruhigere Stimme oder längere Pausen in
+3. In Szene 4 ist die Zeilennummer `L96` grau auf Schwarz zu blass, sobald ihre Zeile markiert ist. Die Kontrastprüfung
+   misst vor der Markierung. Die Endfassung setzt sie dann auf Papierweiß.
+4. Die Länge: Piper spricht etwa 129 Wörter pro Minute, das ergibt 4:33 statt 5:00. Eine ruhigere Stimme oder längere Pausen in
    `skript.md` schließen die Lücke. Am Text muss dafür nichts geändert werden.
