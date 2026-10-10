@@ -53,6 +53,20 @@ The container has 4 CPUs, 15 GB RAM, no GPU, and no provider key set.
 | **Remotion** (`render_demo.py`, `video_compose` with `render_runtime: remotion`) | **fails here**: Remotion starts its browser with `--no-proxy-server`, the only way out of this container is the agent proxy, and every Google Font then fails with `ERR_CERT_AUTHORITY_INVALID`. A composition that loads no remote font may render; none was tried. On the author's machine Remotion is unaffected. |
 | Image and video generation, cloud TTS, music | each needs a key (`.env.example` names them); none is set |
 
+**From the explainer's animatic (2026-10-10, `Plan/runs/video/erklaervideo-2026-10-08/animatic/`):**
+- **Fonts and GSAP from npm, not from a CDN.** Use `@fontsource/*` woff2 files in `assets/fonts/` with an in-file
+  `@font-face`, and copy `gsap/dist/gsap.min.js` to `assets/vendor/`. Then rendering fetches nothing, and `lint` stops
+  asking about `font_family_without_font_face`.
+- **One composition with timed sections is legitimate.** Sub-compositions resolve relative asset paths in a way that is
+  not documented. Lint then warns `nested_structure_needs_subcomposition`, and only warns.
+- **Voice first, then picture.** Generate one Piper WAV per sentence and write the timings to JSON. Every cue then sits on
+  its sentence, and captions are exact.
+- `hyperframes snapshot --at …` makes a contact sheet that can be inspected. `--describe` stays off without
+  `GEMINI_API_KEY`, so no frame leaves the container. `hyperframes catalog --query` searches the registry, and
+  `hyperframes add <name>` takes no `--non-interactive`.
+- The CLI says the project pins 0.8.142 and that 0.8.145 is out. That compares against upstream on npm. The fork is
+  pinned on purpose, so do not run `upgrade`.
+
 When AGENT_GUIDE.md's *Present Both Composition Runtimes* rule applies, say that Remotion cannot render here and why,
 and record that as `rejected_because` in the `render_runtime_selection` decision.
 

@@ -75,9 +75,9 @@ OpenMontage-Pipeline `animated-explainer`, Ausgabe mit HyperFrames aus dem Fork.
 | research | erledigt, hier | Die Quelle ist das Repository selbst: C6, `kanon.md`, die gemessenen Zahlen in `skript.md`. Eine Web-Recherche über andere Erklärvideos entfällt, weil das Thema nur hier existiert. |
 | proposal | erledigt, hier | Konzept B mit Hook A, gewählt durch Delegation. Laufzeit: **HyperFrames**. **Remotion abgelehnt**, Grund: „runtime cannot render behind this container's proxy“ (Skill `openmontage`). |
 | script | Entwurf | `skript.md` |
-| scene_plan | Entwurf | `skript.md`, Spalten „Bild“ und „Layout“ |
-| assets | offen | **keine generierten Bilder.** Jedes Dokument wird als typografische Platte aus seinen echten Zeilen gesetzt, lokal und ohne Bildschirmfotos. |
-| edit / compose | offen | HyperFrames-Skills `general-video`, `hyperframes-core`, `hyperframes-animation`, `hyperframes-registry` |
+| scene_plan | als Animatic gebaut | `skript.md`; umgesetzt in `animatic/build.py` |
+| assets | Animatic: erledigt | **keine generierten Bilder.** Jedes Dokument wird als typografische Platte aus seinen echten Zeilen gesetzt, lokal und ohne Bildschirmfotos. |
+| edit / compose | Animatic gebaut (2026-10-10), Endfassung offen | eine HyperFrames-Komposition aus `animatic/build.py`; Ablauf `general-video`, `hyperframes check` bestanden; siehe `animatic/README.md` |
 | publish | offen | Das MP4 geht an den Autor als Artifact-Asset, nie in git. |
 
 **Kosten.** Piper und HyperFrames kosten nichts. ElevenLabs berechnet nach Zeichen. Der Sprechertext hat rund 3 800 Zeichen (gezählt
