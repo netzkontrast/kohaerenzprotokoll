@@ -1,6 +1,7 @@
 ---
 term: Kishōtenketsu
-status: candidate
+status: reviewed
+reviewed: 2026-10-08
 sources: 24
 readings: 24
 conflict: none yet
@@ -180,7 +181,6 @@ sense (its L575).
 **Where the parts fall.** Ki, Shō, Ten and Ketsu are mapped onto different chapters
 by the strukturierter Outline and by the Kapitel-Kompendium, the storyform outline
 and the glossary. The plot overview has the mapping per source.
-- Divides forty chapters into four acts, „Die Zusammenführung (Kapitel 35-40)“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L134] closing the fourth.
 
 ## Open
 
@@ -189,4 +189,4 @@ and the glossary. The plot overview has the mapping per source.
 - Whether the reset is one of the ending's own readings or only a projection onto
   it, and whether that difference matters once the text decides neither.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-v1-annotiert-md`, reconciled on 2026-09-25 (`Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`), and `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, whose reading here was checked against the full document on 2026-09-26 and which has a census (`Sources/terms/kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`) and a reconciliation (`Wiki/compare/reconcile-28-kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md`); and `ki-prompt-analyse-hard-problem-of-consciousness`, whose reading above was checked against the full document on 2026-09-27 and which now has a census (`Sources/terms/ki-prompt-analyse-hard-problem-of-consciousness.md`), a note (`Sources/notes/ki-prompt-analyse-hard-problem-of-consciousness.md`) and a reconciliation (`Wiki/compare/reconcile-51-ki-prompt-analyse-hard-problem-of-consciousness.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents. *Re-measured 2026-10-08:* every one of the 24 documents above now has a census, a note and a reconciliation in `Wiki/compare/`; the note this replaced said the scanned ones had none yet, which was true on 2026-09-25. Seven landed documents that name the term are unread, three of them often: `roman-konzeptentwicklung-kohaerenz-protokoll` (15 times), `romanstruktur-3-teile-39-kapitel-1-anfang` (11) and `bewerte-kishotenketsu-als-zentrales-narrativ` (8, the term its subject); once each `blueprint`, `global-research-for-kohaerenz-protokoll`, `kohaerenz-protokoll-analyse-und-synthese` and `the-juna-vector-an-ontological-and-narrative-analysis-for-ko` (counted as `promote.py sheet` counts: whole words, the macron folded, so `Kishotenketsu` counts too).

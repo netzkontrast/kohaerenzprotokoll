@@ -23,7 +23,8 @@ edited a file other readers might be editing. `Plan/concept/pipeline-optimizatio
 places cannot fail `quotes.py`; words it cannot place stop the file, with the
 nearest lines named (P26: names in, lines by code). A reading goes before the
 first reading with a later date on a term, chapter or overview page, and at the
-end of a record, which is append-only. Nothing else on a page changes, and no
+end of a record, which is append-only — and on a term page the author reviewed,
+under its `## Since review` at the end (`promote.py`). Nothing else on a page changes, and no
 page is created.
 
 **A file is refused, before anything is written, when** its date is not a date
@@ -247,6 +248,11 @@ def build(reading_file: Path, root: Path, staged: dict | None = None) -> tuple[P
     first = section.split("\n", 1)[0]
     if first in page:
         raise Refused(f"{target.name} already has this heading: {first}")
+    if not record:
+        import promote
+        if promote.is_reviewed(page):
+            # The author reviewed this page: the reading waits under `## Since review`, the reviewed part stays as signed.
+            return target, promote.append_since(page, section, differ)
     return target, add_differ(insert(page, section, meta["date"], record), differ)
 
 
@@ -464,6 +470,13 @@ def selftest() -> int:
         checks.append(("line placed by code", f"^[{slug}.md:L" in text))
         checks.append(("inserted in date order", text.index("`old`") < text.index(f"`{slug}`") < text.index("`new`")))
         checks.append(("differ line appended", "- E takes a third side." in text.split("## Where the sources differ")[1]))
+        page.write_text(original.replace("title: P\n", "title: P\nstatus: reviewed\nreviewed: 2026-10-08\n"), encoding="utf-8")
+        _, text = build(f, root)
+        reviewed_part = text.split("## Since review")[0]
+        checks.append(("a reviewed page gets the reading under Since review, its reviewed part untouched",
+                       f"`{slug}`" not in reviewed_part and "- E takes a third side." not in reviewed_part
+                       and reviewed_part.rstrip() == page.read_text(encoding="utf-8").rstrip()))
+        page.write_text(original, encoding="utf-8")
         refused("words not in the document refused",
                 good.replace(words, "Wörter die das Dokument nicht enthält und nie enthielt"), root, f, "nearest")
         refused("a ^[?] with no quotation refused", good + "\nStray ^[?] here.\n", root, f)

@@ -207,6 +207,25 @@ def _wiki_zero_readings() -> int:
                if frontmatter(p.read_text(encoding="utf-8")).get("readings") == "0")
 
 
+@measure("wiki.reviewed", "term pages the author reviewed — status: reviewed, pinned in Plan/runs/promotions.jsonl")
+def _wiki_reviewed() -> int:
+    from wiki_index import frontmatter
+    return sum(1 for p in (ROOT / "Wiki" / "candidates").glob("*.md")
+               if frontmatter(p.read_text(encoding="utf-8")).get("status") == "reviewed")
+
+
+@measure("wiki.terms", "term pages in Wiki/terms/ — the author's workbench page, written from a reviewed candidate (terms.py)")
+def _wiki_terms() -> int:
+    return sum(1 for p in (ROOT / "Wiki" / "terms").glob("*.md") if p.stem != "README")
+
+
+@measure("wiki.terms_approved", "term pages the author approved — status: approved, pinned in Plan/runs/promotions.jsonl")
+def _wiki_terms_approved() -> int:
+    from wiki_index import frontmatter
+    return sum(1 for p in (ROOT / "Wiki" / "terms").glob("*.md")
+               if p.stem != "README" and frontmatter(p.read_text(encoding="utf-8")).get("status") == "approved")
+
+
 @measure("wiki.chapters", "chapter pages in Wiki/chapters/, one per chapter of the planned novel")
 def _wiki_chapters() -> int:
     from chapters import pages
