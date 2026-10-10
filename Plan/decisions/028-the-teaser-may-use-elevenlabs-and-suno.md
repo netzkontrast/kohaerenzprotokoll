@@ -1,4 +1,4 @@
-# 026 — The book teaser may send its text to ElevenLabs and Suno
+# 028 — The book teaser may send its text to ElevenLabs and Suno
 
 **Date:** 2026-10-08 · **Decided by:** the author — asked „Darf Text an ElevenLabs oder Suno gehen?", answered „ja", with the teaser named as a book teaser, 9:16, about five minutes · **Status:** chosen for ElevenLabs; for Suno, chosen in principle, its route open (below); reversible by the author at any time
 

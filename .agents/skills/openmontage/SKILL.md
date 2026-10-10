@@ -1,6 +1,6 @@
 ---
 name: openmontage
-description: Produce a video for Kohärenz Protokoll — the book teaser first — with OpenMontage, the agentic video studio installed in .openmontage/ (netzkontrast/OpenMontage, pinned), rendering with the HyperFrames fork in .hyperframes/. Covers starting it in this container, which of its tools work here without a key, the German voice, rendering 9:16 with HyperFrames, which providers may receive the teaser's text (decision 026), and where a production's files go. Use when asked for a video, teaser, trailer, Reel, voice-over, soundtrack or storyboard for the novel.
+description: Produce a video for Kohärenz Protokoll — the book teaser first — with OpenMontage, the agentic video studio installed in .openmontage/ (netzkontrast/OpenMontage, pinned), rendering with the HyperFrames fork in .hyperframes/. Covers starting it in this container, which of its tools work here without a key, the German voice, rendering 9:16 with HyperFrames, which providers may receive the teaser's text (decision 028), and where a production's files go. Use when asked for a video, teaser, trailer, Reel, voice-over, soundtrack or storyboard for the novel.
 ---
 
 # OpenMontage, in this repository
@@ -58,7 +58,7 @@ and record that as `rejected_because` in the `render_runtime_selection` decision
 
 ## The rules that are this repository's
 
-1. **What may leave the container (decision 026).** The teaser's own text may go to **ElevenLabs**: its narration
+1. **What may leave the container (decision 028).** The teaser's own text may go to **ElevenLabs**: its narration
    script, and the music prompts and lyrics written for it. The same text may go to **Suno**, but only through the
    author's own Suno account (lyrics and prompts from the skill `suno-lyric-writer`). OpenMontage's `suno_music` calls
    `api.sunoapi.org`, a reseller that waits on its own yes. Every other provider (Veo, Kling, FAL, OpenAI, Runway and
@@ -80,6 +80,6 @@ and record that as `rejected_because` in the `render_runtime_selection` decision
 
 ```yaml
 skill: openmontage   # provisional — written from one install and two test renders, before any production
-                     # may not: decide the teaser's content, send any text outside decision 026, commit media
+                     # may not: decide the teaser's content, send any text outside decision 028, commit media
                      # retire when: a production runs end to end and shows this page wrong or unnecessary
 ```

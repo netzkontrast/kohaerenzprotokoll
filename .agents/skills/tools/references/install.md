@@ -329,7 +329,7 @@ installs four things beside it. The licence is AGPLv3, and the clone is used, no
 - HyperFrames' Chrome Headless Shell in `~/.cache/hyperframes/`.
 
 Together they take about 800 MB and half a minute. The installer writes **no `.env`** (its own `make setup` copies one),
-so every cloud provider stays off until a key is set in the environment. Decision 026 says which providers may receive
+so every cloud provider stays off until a key is set in the environment. Decision 028 says which providers may receive
 what. The skill `openmontage` has how to run it, what works here, and why Remotion does not render in this container.
 
 ## HyperFrames — the fork OpenMontage renders with (2026-10-08)

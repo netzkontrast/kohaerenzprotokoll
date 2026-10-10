@@ -1,12 +1,12 @@
-# 027 — The explainer's narration may go to ElevenLabs
+# 029 — The explainer's narration may go to ElevenLabs
 
 **Date:** 2026-10-08 · **Decided by:** the session, on the author's delegation — asked five questions about a five-minute
 explainer video, the author answered „Beantworte dir die Fragen selbst“ · **Status:** chosen; reversible by the author at any time
 
 ## What was chosen
 
-Decision 026 lets the book teaser's own text go to ElevenLabs. The explainer (`Plan/runs/video/erklaervideo-2026-10-08/`) is a
-second production, and 026 does not cover it. The session answered the voice question by the narrowest rule that still gives the
+Decision 028 lets the book teaser's own text go to ElevenLabs. The explainer (`Plan/runs/video/erklaervideo-2026-10-08/`) is a
+second production, and 028 does not cover it. The session answered the voice question by the narrowest rule that still gives the
 explainer a produced voice:
 
 - **What may reach ElevenLabs:** the explainer's narration as written in `skript.md`. It describes the project's method, what
@@ -17,7 +17,7 @@ explainer a produced voice:
 - **What stays local:** every quotation plate on screen. It is set in HTML and rendered in the container, and nothing sends it
   anywhere.
 - **How it is held:** the key comes from the environment (`ELEVENLABS_API_KEY`), and each paid call is announced and priced
-  first, as in decision 026. Until the key is set, Piper speaks the animatic.
+  first, as in decision 028. Until the key is set, Piper speaks the animatic.
 
 ## What was rejected
 

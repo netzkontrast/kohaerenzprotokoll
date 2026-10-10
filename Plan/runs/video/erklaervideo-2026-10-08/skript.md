@@ -17,7 +17,7 @@ Aufnahme wird neu gemessen, und der Sprechertext folgt dieser Tabelle, nicht umg
 | 9 <!--state:wiki.questions--> | offene Fragen im Wiki | 7 |
 | 340 <!--state:graph.nodes--> | Knoten im Netz | 7 |
 | 11238 <!--state:graph.edges--> | Verbindungen | 7 |
-| 21902 <!--state:graph.evidence_verified--> | geprüfte Zitate als Belege | 7 |
+| 21901 <!--state:graph.evidence_verified--> | geprüfte Zitate als Belege | 7 |
 
 ## Die Belege, die auf dem Bildschirm stehen
 
@@ -143,4 +143,4 @@ Pro Szene: Zeitfenster, Sprechertext, Bild, Layout. Ein Bildwechsel kommt alle 8
 
 Kein Satz des Sprechertexts ist Romanprosa, und keiner gibt eine Lesart als Tatsache über die Welt des Romans aus. Er sagt, was
 Quellen sagen und was der Autor entschieden hat. Die zitierten Wendungen („bei Konflikt gewinnt das Neuere“, „zwei Guardians“)
-sind kürzer als zwölf Wörter. Das prüft der Test von Entscheidung 027 vor jedem Aufruf.
+sind kürzer als zwölf Wörter. Das prüft der Test von Entscheidung 029 vor jedem Aufruf.

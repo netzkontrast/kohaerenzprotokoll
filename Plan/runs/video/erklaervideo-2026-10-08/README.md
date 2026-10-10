@@ -13,7 +13,7 @@ Szenenplan in `skript.md`. Bild und Ton werden nie committet.
 | **Thema** | Die **Methode** des Projekts: wie aus vielen widersprüchlichen Quellen ein belegter Boden für einen Roman wird | Die Welt des Romans darf nur zeigen, was `Manuscript/kanon.md` hält, und das ist noch zu wenig für fünf Minuten. Die Methode ist vollständig belegbar, und sie ist das, was das Projekt von „KI schreibt einen Roman“ unterscheidet. |
 | **Publikum** | Literarisch interessierte Menschen ohne Technikhintergrund: Leserinnen und Leser, Agenturen, Verlage | Daraus folgt der Wortschatz. Das Video sagt „Liste der Begriffe“ statt Zensus, „Konfliktbericht“ statt Reconciliation-Record, „Netz“ statt Graph-Store. |
 | **Format** | 16:9, 1920×1080, 25 fps, 5:00 | Fünf Minuten Erklärung schaut man am Desktop oder Fernseher. Hochformat bleibt dem Buch-Teaser. |
-| **Stimme** | ElevenLabs für die Endfassung, Piper (`de_DE-thorsten-high`) für das Animatic | Entscheidung 027 hält fest, was an ElevenLabs gehen darf: der Sprechertext, der keine zwölf aufeinanderfolgenden Wörter einer Quelle enthält. |
+| **Stimme** | ElevenLabs für die Endfassung, Piper (`de_DE-thorsten-high`) für das Animatic | Entscheidung 029 hält fest, was an ElevenLabs gehen darf: der Sprechertext, der keine zwölf aufeinanderfolgenden Wörter einer Quelle enthält. |
 | **Konzept** | **B mit dem Hook von A**: „Das Leben eines Dokuments“, eröffnet mit „Hier schreibt sie keinen Satz“ | B macht die Methode anfassbar, weil man einem echten Dokument folgt. A gibt ihr die Fallhöhe. C (der Zahlentrichter) veraltet am schnellsten. |
 
 **Das Dokument, dem das Video folgt**, ist `guardians-und-kern-welten-konzept` (2025-04-17). Seine Geschichte ist der ganze
@@ -88,6 +88,6 @@ OpenMontage-Pipeline `animated-explainer`, Ausgabe mit HyperFrames aus dem Fork.
 ## Bevor gesprochen wird
 
 1. Die Zahlen in `skript.md` neu messen: `python3 scripts/state.py --prose` prüft ihre Marker.
-2. Den Zwölf-Wörter-Test über den Sprechertext laufen lassen (Entscheidung 027). Am 2026-10-08 fand er gegen alle gelandeten
+2. Den Zwölf-Wörter-Test über den Sprechertext laufen lassen (Entscheidung 029). Am 2026-10-08 fand er gegen alle gelandeten
    Dokumente keinen Treffer: `route.shingles` über die Zeilen mit `> ` in `skript.md`, Regieanweisungen entfernt.
 3. Ein Animatic mit Piper rendern und dem Autor zeigen. Erst danach geht der Text an ElevenLabs.
