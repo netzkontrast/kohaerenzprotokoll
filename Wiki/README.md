@@ -37,14 +37,14 @@ term page in `terms/` (`scripts/terms.py`, `Plan/concept/wiki-terms_2026-10-08.m
 
 **106 <!--state:wiki.pages--> pages, 17 <!--state:wiki.conflicts--> conflicts
 and 9 <!--state:wiki.questions--> questions, from
-219 <!--state:documents.reconciled--> reconciled documents.** The wiki is built
+223 <!--state:documents.reconciled--> reconciled documents.** The wiki is built
 one document at a time: a frozen census is reconciled against the current
 pages, and the record of each reconciliation is in `compare/`. The first three
 files there are the full re-comparisons made before reconciling by lookup; each
 superseded the last, which is how the step showed it did not scale.
 `CLAUDE.md`, *State*, has what each document added and why.
 
-Pages link to each other as `[[slug]]`: 729 <!--state:wiki.relations--> links,
+Pages link to each other as `[[slug]]`: 730 <!--state:wiki.relations--> links,
 none inferred — each marks a term the prose already wrote (decision 005).
 `scripts/graph.py` reads the links, the frontmatter and every citation into a
 typed graph, and `scripts/graphrag.py` retrieves attributed quotations from it,

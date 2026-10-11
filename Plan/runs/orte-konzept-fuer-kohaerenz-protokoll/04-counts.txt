@@ -1,0 +1,188 @@
+# counts for 138 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                            121 word   175 in   [17, 25, 26, 29, 30, 33]
+                                   53      as Kaels
+                                    1      as Kael-Alters
+  Kael's                            7 word     7 in   [25, 26, 30, 230, 288, 348]
+  Limina                            7 word    16 in   [42, 53, 62, 255, 261, 288]  <-- substring
+                                    4      as Liminal
+                                    2      as Liminale
+                                    1      as liminalen
+                                    1      as liminaler
+  Nox                              15 word    15 in   [42, 53, 131, 295, 307, 308]
+  Echo                             15 word    22 in   [42, 109, 131, 239, 297, 298]
+                                    7      as Echos
+  Juna                             34 word    41 in   [93, 148, 163, 251, 299, 320]
+                                    7      as Junas
+  AEGIS                            63 word   110 in   [17, 24, 25, 26, 28, 29]
+                                    6      as AEGIS-Netzwerk
+                                    3      as AEGIS-Kern-Nexus
+                                    3      as AEGIS-Systems
+                                    3      as AEGIS-Sicherheit
+  LogOS                            16 word    16 in   [25, 42, 48, 288, 289, 292]
+                                    6      as Logos-Prime
+  Mnemosyne                        11 word    20 in   [25, 42, 48, 177, 296, 297]
+                                    6      as Mnemosyne-Archipel
+                                    3      as Mnemosynes
+  Cerberus                         22 word    29 in   [25, 42, 48, 177, 305, 306]
+                                    6      as Cerberus-Labyrinth
+                                    1      as Cerberus-Manifestationen
+  Kairos                           17 word    23 in   [25, 42, 48, 177, 314, 315]
+                                    6      as Kairos-Potentialis
+  Sophia                           17 word    18 in   [25, 42, 48, 315, 316, 318]
+                                    1      as Sophias
+  Kairos/Sophia                    15 word    16 in   [42, 48, 315, 316, 318, 319]
+                                    1      as Kairos/Sophias
+  Guardians                        15 word    15 in   [24, 25, 28, 42, 44, 147]
+  Archivar                         17 word    22 in   [298, 304, 406, 409, 411, 412]
+                                    5      as Archivars
+  Orakel                            9 word     9 in   [316, 322, 488, 493, 495]
+  Muse                              9 word    10 in   [316, 322, 488, 493, 495]
+                                    1      as Muse-Lokus
+  Orakel/Muse                       4 word     4 in   [316, 322, 495]
+  Regel-Exekutor                    3 word     4 in   [290, 293]
+                                    1      as Regel-Exekutors
+  Alters                           34 word    38 in   [29, 33, 42, 53, 62, 131]
+                                    1      as Altersfragmente
+  Alter                             7 word    47 in   [29, 33, 42, 53, 62, 131]  <-- substring
+                                   34      as Alters
+                                    1      as Alter-Fragmente
+                                    1      as alternative
+                                    1      as Altersfragmente
+  DID                               6 word     7 in   [17, 42, 56, 249, 250, 378]
+  Dissoziativer Identitätsstörung    1 word     1 in   [17]
+  Systemkontrollmechanismus         1 word     1 in   [17]
+  KW1                              31 word    46 in   [17, 24, 25, 29, 42, 48]
+  KW2                              36 word    44 in   [25, 48, 50, 60, 64, 109]
+  KW3                              35 word    43 in   [48, 49, 50, 51, 60, 64]
+  KW4                              31 word    39 in   [48, 49, 50, 51, 111, 163]
+  KW1-4                             4 word     4 in   [17, 24, 29, 42]
+  Kern-Welten                      11 word    11 in   [17, 29, 42, 44, 56, 71]
+  Überwelt                         57 word    58 in   [17, 24, 29, 66, 71, 87]
+  Externe Ebene                    18 word    18 in   [17, 24, 29, 92, 113, 163]
+  Realitätsebenen                   6 word     6 in   [17, 24, 215, 279, 343, 344]
+  universal reboot                  2 word     2 in   [24, 26]
+  Reboot                            7 word     7 in   [260, 329, 352, 359, 408, 529]
+  Risse                            64 word    75 in   [25, 26, 49, 64, 77, 90]
+                                    8      as Rissen
+                                    1      as Risses
+  Entropie                         19 word    40 in   [24, 25, 26, 28, 33, 53]  <-- substring
+                                   18      as Entropie-Manifestationen
+                                    1      as Entropie-Management
+                                    1      as Entropie-Konflikt
+                                    1      as Entropielevel
+  Logos-Prime                       6 word     6 in   [177, 287, 348, 350, 363, 376]
+  Mnemosyne-Archipel                6 word     6 in   [177, 296, 389, 391, 404, 417]
+  Cerberus-Labyrinth                6 word     6 in   [177, 305, 430, 432, 445, 458]
+  Kairos-Potentialis                6 word     6 in   [177, 314, 471, 473, 486, 499]
+  AEGIS-Netzwerk                    6 word     6 in   [177, 323, 512, 514, 527, 540]
+  Seelenlandschaft                  3 word     3 in   [41, 42, 250]
+  Kael's Wohneinheit 734            2 word     2 in   [288, 348]
+  Datenverarbeitungsknoten Epsilon    2 word     2 in   [289, 361]
+  Transitkorridor Delta-7           2 word     2 in   [176, 290]
+  Therapie-Schnittstelle Gamma      2 word     2 in   [291, 374]
+  LogOS' Beobachtungszentrum        1 word     1 in   [292]
+  Regel-Exekutor Posten 12          1 word     1 in   [293]
+  Sektor für Logische Rekreation    1 word     1 in   [294]
+  Archiv der Kausalitätsketten      1 word     1 in   [295]
+  Der Vergessene Schrein (Trauma-Lokus)    2 word     2 in   [297, 389]
+  Der Vergessene Schrein            3 word     3 in   [176, 297, 389]
+  Trauma-Lokus                      3 word     3 in   [207, 297, 389]
+  Insel der Fragmentierten Erinnerungen    3 word     3 in   [298, 402, 417]
+  See der Tränen (Melancholie-Zone)    1 word     1 in   [299]
+  See der Tränen                    1 word     1 in   [299]
+  Melancholie-Zone                  1 word     1 in   [299]
+  Garten der Falschen Erinnerungen    1 word     1 in   [300]
+  Mnemosynes Quellen                1 word     1 in   [301]
+  Echo's Versteckter Resonanzraum    1 word     1 in   [302]
+  Brücke der Verlorenen Verbindungen    1 word     1 in   [303]
+  Archivars Turm der Chroniken      2 word     2 in   [304, 415]
+  Die Schleusen des Misstrauens     2 word     2 in   [306, 430]
+  Gänge der Paranoia                2 word     2 in   [307, 443]
+  Nox' Schattenversteck             1 word     1 in   [308]
+  Der Innere Bunker (Kernabwehr)    2 word     2 in   [309, 456]
+  Der Innere Bunker                 2 word     2 in   [309, 456]
+  Kernabwehr                        2 word     2 in   [309, 456]
+  Arena der Konfrontation           1 word     1 in   [310]
+  Cerberus' Zwinger                 1 word     1 in   [311]
+  Feld der Abgelehnten Identitäten    1 word     1 in   [312]
+  Panoptikum der Überwachung        1 word     1 in   [313]
+  Nexus-Interface zur Überwelt      2 word     2 in   [315, 471]
+  Hain der Symbole (Kreativ-Zone)    2 word     2 in   [316, 484]
+  Hain der Symbole                  2 word     2 in   [316, 484]
+  Kreativ-Zone                      2 word     2 in   [316, 484]
+  Werkstatt der Möglichkeiten       2 word     2 in   [317, 497]
+  Kairos/Sophias Observatorium      1 word     1 in   [318]
+  Bibliothek der Ungeschriebenen Geschichten    1 word     1 in   [319]
+  Glitch-Garten (Entropie als Kunst)    1 word     1 in   [320]
+  Glitch-Garten                     1 word     1 in   [320]
+  Forum der Synthese                1 word     1 in   [321]
+  Quelle der Inspiration (Muse-Lokus)    1 word     1 in   [322]
+  Quelle der Inspiration            1 word     1 in   [322]
+  Muse-Lokus                        1 word     1 in   [322]
+  AEGIS-Kern-Nexus                  3 word     3 in   [176, 324, 512]
+  Datenstrom-Autobahn               1 word     1 in   [325]
+  Protokoll-Archiv                  1 word     1 in   [326]
+  Quarantäne-Zone für Anomalien     2 word     2 in   [327, 538]
+  Guardian Interface Hubs           1 word     1 in   [328]
+  Datenfriedhof (Veraltete Infos)    2 word     2 in   [329, 525]
+  Datenfriedhof                     2 word     2 in   [329, 525]
+  Simulations-Parameter-Kammer      1 word     1 in   [330]
+  Kommunikationsrelais mit Extern    1 word     1 in   [331]
+  Junas Versteckter Zugangspunkt    2 word     2 in   [333, 553]
+  Der Stille Garten                 2 word     2 in   [334, 566]
+  Quelle der Anomalien              1 word     1 in   [335]
+  Echo der Realität                 1 word     1 in   [336]
+  Der Weberknoten                   1 word     1 in   [337]
+  Lokalitätenname                  18 word    18 in   [176, 348, 361, 374, 389, 402]
+  Realitätsebene                   19 word    25 in   [17, 24, 177, 215, 279, 343]
+                                    6      as Realitätsebenen
+  Konzept                          22 word    36 in   [11, 13, 17, 56, 62, 66]
+                                    5      as Konzepte
+                                    2      as konzeptionelle
+                                    2      as Konzepten
+                                    2      as konzeptuell
+  Narrative Funktion               18 word    18 in   [179, 352, 365, 378, 393, 406]
+  Ästhetik & Sensorische Details   18 word    18 in   [180, 353, 366, 379, 394, 407]
+  Symbolische Bedeutung            18 word    18 in   [181, 354, 367, 380, 395, 408]
+  Regeln & Logik                   18 word    18 in   [182, 355, 368, 381, 396, 409]
+  Atmosphäre & Stimmung            21 word    21 in   [97, 101, 183, 211, 356, 369]
+  Landmarken/Schlüsselmerkmale     18 word    18 in   [184, 357, 370, 383, 398, 411]
+  Risse/Entropie-Manifestationen   18 word    18 in   [185, 358, 371, 384, 399, 412]
+  Charakter- & Plot-Verbindungen   18 word    18 in   [186, 359, 372, 385, 400, 413]
+  Location ID                       1 word     1 in   [286]
+  Masterliste der Lokalitäten       2 word     2 in   [275, 281]
+  Environmental Storytelling       14 word    14 in   [136, 140, 141, 212, 223, 238]
+  EST                              11 word    11 in   [140, 141, 142, 143, 147, 148]
+  Eingebettetes EST                 1 word     1 in   [147]
+  Emergentes EST                    1 word     1 in   [148]
+  Räumliches EST                    1 word     1 in   [149]
+  Atmosphärisches EST               1 word     1 in   [150]
+  Reaktive Umgebungen               2 word     2 in   [136, 154]
+  liminale Räume                    1 word     1 in   [261]
+  Liminale Ästhetik                 1 word     1 in   [261]
+  Glitch-Kunst-Ästhetik             1 word     1 in   [262]
+  Datamoshing                       2 word     2 in   [90, 266]
+  Pixel-Sorting                     1 word     1 in   [90]
+  Pathetischem Trugschluss          1 word     1 in   [248]
+  Top-Down                          1 word     3 in   [27, 28, 30]  <-- substring
+                                    1      as Top-Down-Ansatz
+                                    1      as Top-Down-Realität
+  Bottom-Up                         1 word     5 in   [27, 28, 29, 30]  <-- substring
+                                    1      as Bottom-Up-Ansatz
+                                    1      as Bottom-Up-Entdeckung
+                                    1      as Bottom-Up-Entdeckungsprozess
+                                    1      as Bottom-Up-Gefühl
+  Suspension of Disbelief           1 word     1 in   [24]
+  Setting als Charakter             1 word     1 in   [207]
+  Juxtaposition                     1 word     1 in   [215]
+  verschachtelte Konsistenz         1 word     1 in   [25]
+  Oldest House                      3 word     3 in   [207, 238, 239]
+  The Hiss                          1 word     1 in   [238]
+  Objects of Power                  1 word     1 in   [238]
+  Totems                            2 word     2 in   [228, 229]
+  Otherworld                        2 word     2 in   [248, 249]
+  Pyramid Head                      1 word     1 in   [250]
