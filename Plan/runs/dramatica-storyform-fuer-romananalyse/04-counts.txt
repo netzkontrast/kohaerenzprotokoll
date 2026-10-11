@@ -1,0 +1,140 @@
+# counts for 112 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               13 word    13 in   [15, 17, 29, 35, 48, 58]
+  Kohärenz-Protokoll                1 word     1 in   [11]
+  Kael                             42 word    46 in   [36, 49, 77, 79, 84, 93]
+                                    4      as Kaels
+  System Kael                       3 word     3 in   [36, 77, 79]
+  AEGIS                            47 word    47 in   [37, 49, 88, 93, 95, 97]
+  Juna                              9 word     9 in   [49, 93, 95, 97, 106, 130]
+  Juna/V                            6 word     6 in   [49, 95, 97, 130, 178, 322]
+  V.10                              1 word     1 in   [49]
+  Fundament                         1 word     1 in   [49]
+                                    1      as fundamentale
+  Existenz-Matrizen                 1 word     1 in   [49]
+  Moonshine-Link                    3 word     3 in   [38, 104, 106]
+  Trauma Loop                       4 word     4 in   [38, 106, 148, 187]
+  Validation War                    1 word     1 in   [106]
+  Krieg der Logiken                 2 word     2 in   [35, 86]
+  Krieg der Kerne                   2 word     2 in   [93, 139]
+  Dual Kernel Theory                3 word     3 in   [17, 191, 336]
+  K\_1                              6 word     6 in   [17, 58, 88, 139, 237, 354]
+  K\_0                              6 word     6 in   [17, 58, 88, 139, 207, 354]
+  Kernel-Treiber                    1 word     1 in   [52]
+  Kohärenz                         15 word    17 in   [11, 15, 17, 29, 35, 48]
+                                    1      as Kohärenz-Protokoll
+                                    1      as Kohärenztheorie
+  Kollaps                           4 word     4 in   [17, 58, 273, 352]
+  Protokoll                        15 word    21 in   [11, 15, 17, 29, 35, 48]
+                                    3      as Protokolle
+                                    1      as Protokollen
+  Resonanz                          2 word     2 in   [17, 270]
+  ANP                               1 word     4 in   [79, 169, 215, 285]  <-- substring
+  ANPs                              3 word     3 in   [169, 215, 285]
+  EP                                1 word     5 in   [79, 121, 207, 223, 285]  <-- substring
+  EPs                               4 word     4 in   [121, 207, 223, 285]
+  Emotional Parts                   1 word     1 in   [121]
+  Kiko                              1 word     1 in   [121]
+  Nyx                               1 word     1 in   [121]
+  Nichts Rauschen                   3 word     3 in   [130, 249, 288]
+  funktionale Multiplizität         1 word     1 in   [148]
+  Functional Multiplicity           1 word     1 in   [275]
+  Maxwellsche Dämon                 1 word     1 in   [199]
+  Maxwellschen Dämon                1 word     1 in   [342]
+  Coherons                          1 word     1 in   [340]
+  Genesis Crisis                    1 word     1 in   [358]
+  Gödel-Gambit                      2 word     2 in   [291, 348]
+  Ontologischer Blindheit           1 word     1 in   [178]
+  Täter-Introjekt                   1 word     1 in   [111]
+  Trauma-Time                       2 word     2 in   [121, 283]
+  Trauma-Protokoll                  1 word     1 in   [346]
+  Golden Sources                    1 word     1 in   [71]
+  Digitale Gott                     1 word     1 in   [97]
+  autopoietisches System            1 word     1 in   [160]
+  Kohärenztheorie                   1 word     1 in   [51]
+  Korrespondenztheorie              1 word     1 in   [51]
+  Quellcode                         1 word     2 in   [25, 189]
+                                    1      as Quellcodes
+  Narrative Code                    1 word     1 in   [259]
+  Isomorphie                        1 word     1 in   [17]
+  Dramatica                        22 word    30 in   [11, 15, 17, 21, 27, 33]
+                                    2      as Dramatica-Engine
+                                    1      as Dramatica-Systemarchitektur
+                                    1      as Dramatica-Theorie
+                                    1      as Dramatica-Modells
+  Dramatica-Engine                  2 word     2 in   [62, 300]
+  Storyform                        15 word    19 in   [15, 22, 27, 29, 67, 69]
+                                    1      as Storyform-Parameter
+                                    1      as Storyform-Dynamik
+                                    1      as Storyforms
+  Story Mind                        4 word     4 in   [13, 31, 33, 387]
+  Story Points                      1 word     1 in   [29]
+  Author's Intent                   1 word     1 in   [29]
+  Grand Argument Story              3 word     3 in   [15, 58, 362]
+  Throughlines                      4 word     4 in   [33, 62, 73, 394]
+  Objective Story                   1 word     1 in   [35]
+  Overall Story                     2 word     2 in   [86, 193]
+  Main Character                    3 word     3 in   [36, 77, 209]
+  Influence Character               3 word     3 in   [37, 95, 227]
+  Relationship Story                3 word     3 in   [38, 104, 241]
+  Quad-Struktur                     1 word     1 in   [40]
+  Quads                             3 word     3 in   [42, 56, 231]
+  KTAD                              1 word     1 in   [42]
+  MEST                              1 word     1 in   [42]
+  Class (Domain)                    1 word     1 in   [49]
+  Type (Concern)                    1 word     1 in   [50]
+  Variation (Issue)                 1 word     1 in   [51]
+  Element (Problem)                 1 word     1 in   [52]
+  Dynamic Pairs                     2 word     2 in   [58, 233]
+  Companion Pairs                   1 word     1 in   [59]
+  Dependent Pairs                   1 word     1 in   [60]
+  Domain                           10 word    14 in   [22, 49, 62, 80, 89, 98]
+                                    1      as Domains
+  Concern                          14 word    17 in   [22, 50, 113, 115, 117, 126]
+                                    3      as Concerns
+                                    1      as concerns
+  Issue                            12 word    13 in   [22, 51, 151, 155, 164, 173]
+                                    1      as Issues
+  Problem                          24 word    26 in   [22, 33, 52, 84, 189, 195]
+                                    1      as Probleme
+                                    1      as Problem-Solving
+  Solution                          9 word     9 in   [189, 203, 219, 239, 253, 281]
+  Physics                          11 word    11 in   [49, 64, 75, 89, 93, 106]
+  Mind                             17 word    19 in   [13, 31, 33, 49, 65, 75]
+                                    1      as Mindset
+                                    1      as Mind-Domain
+  Universe                          8 word     9 in   [65, 75, 97, 98, 131, 231]
+                                    1      as Universe-Domain
+  Psychology                        9 word     9 in   [64, 75, 102, 106, 107, 149]
+  Obtaining                         9 word     9 in   [50, 135, 139, 140, 278, 331]
+  Subconscious                      6 word     6 in   [117, 122, 283, 321, 344, 346]
+  Becoming                          7 word     7 in   [111, 144, 149, 293, 356, 358]
+  Self-Interest                     5 word     5 in   [51, 155, 159, 279, 310]
+  Closure                           6 word     6 in   [164, 168, 169, 284, 321]
+  Preconception                     6 word     6 in   [173, 177, 229, 231, 289]
+  Commitment                        5 word     5 in   [182, 186, 294, 356, 358]
+  Control                          13 word    13 in   [52, 191, 195, 211, 225, 235]
+  Uncontrolled                     10 word    10 in   [52, 191, 203, 219, 223, 281]
+  Faith                             7 word     7 in   [235, 236, 238, 243, 290, 350]
+  Disbelief                         4 word     4 in   [235, 239, 291, 354]
+  Temptation                        3 word     3 in   [243, 245, 295]
+  Conscience                        3 word     3 in   [243, 253, 296]
+  Change Character                  1 word     1 in   [225]
+  MC Resolve                        1 word     1 in   [267]
+  MC Growth                         1 word     1 in   [268]
+  MC Approach                       1 word     1 in   [269]
+  MC Problem-Solving                1 word     1 in   [270]
+  Story Driver                      1 word     1 in   [272]
+  Story Limit                       1 word     1 in   [273]
+  Story Outcome                     1 word     1 in   [274]
+  Story Judgment                    1 word     1 in   [275]
+  Optionlock                        2 word     2 in   [273, 362]
+  Be-er                             2 word     2 in   [269, 362]
+  Holistic                          2 word     2 in   [270, 362]
+  Catalyst                          1 word     1 in   [306]
+  Unique Ability                    2 word     2 in   [316, 321]
+  Benchmark                         2 word     2 in   [326, 331]
+  Gödels Unvollständigkeitssatz     1 word     1 in   [239]
