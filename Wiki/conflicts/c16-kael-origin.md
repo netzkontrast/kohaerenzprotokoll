@@ -457,3 +457,11 @@ One more position in the record; it decides nothing about Kael's origin.
 Juna/V: „Juna/V is an exiled part of Kael's“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L95] Ursprungs-Ich. Kael: the midpoint question asks when the system sees him as „the living embodiment of AEGIS's own original trauma“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L80].
 
 Stands as one more position in the record of C16; it resolves nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierte-recherche`, 2025-07-29, the detailed research report
+
+**The research report has Kael meet a Fragment 'O' as an asymmetrically fragmented other half of himself, and says nothing of Kael's own origin.**
+
+The research report speaks of a Fragment 'O' only after AEGIS's transformation: Kael discovers it, „eine asymmetrisch fragmentierte“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L315] other half of himself. It does not say whose fragment Kael is; the passage concerns an encounter and an ethical test, and the report names the discovery as that test of applying integration to an external relationship.
+
+Stands as one more position near the record of C16, about an other half rather than about Kael's origin; it decides nothing.
