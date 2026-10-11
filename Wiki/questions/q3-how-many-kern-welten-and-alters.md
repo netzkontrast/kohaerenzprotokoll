@@ -1124,3 +1124,11 @@ One more position in the record; it settles no count of Kern-Welten or Alters.
 The primer says of `Kael`: „Fragmentierter Host eines DIS-Systems mit“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L355] thirteen alters (five ANP, five EP, one Sonder, two Spiegel), and of the worlds: „Vier diegetische Schauplätze, jeweils einer Computational-Class zugeordnet“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L375].
 
 Stands: one more position in the record, the prompt's summary; nothing decided.
+
+## 2026-10-11 — `kohaerenz-protokoll-spannungsfelder-vertiefen`, 2025-04-28, the tension-points analysis
+
+**The tension-points analysis writes four Kernwelten as Co₁, McL, B, Ly and calls them diagnostic arenas.**
+
+The analysis writes: „Die Kernwelten (Co₁, McL, B, Ly) sind als diagnostische Arenen konzipiert“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L70]. It names no alter count and does not say whether one world corresponds to one Persona; its example only supposes that a Persona could be provoked by a world's design.
+
+Stands: one more position in the record, four worlds as the analysis lists them; it decides neither count nor the correspondence.
