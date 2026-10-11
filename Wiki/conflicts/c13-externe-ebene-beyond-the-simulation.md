@@ -330,3 +330,11 @@ Where it stands in the record's own terms: beyond AEGIS's comprehension, not sta
 It writes the level as „die mit Juna verbunden ist und außerhalb des direkten AEGIS-Einflusses zu liegen scheint“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L93]. EX-02 (`Exploratory`) is „Ort des Friedens und der Klarheit außerhalb des AEGIS-Systems; natürlich, ruhig.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L334]; EX-04 is „Ort, an dem Fragmente der 'echten' Welt (vor der Simulation?) wahrnehmbar sind.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L336]; EX-03 is „Ursprungsort (?) der Risse oder der Kraft, die AEGIS entgegenwirkt; instabil, fremd.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L335] The Überwelt row UW-08 is a „Vermutete (oder versteckte) Schnittstelle, über die AEGIS externe Signale empfängt/sendet.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L331] Profile 16 gives its level as „Externe Ebene (oder Schnittstelle zur Simulation)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L555].
 
 Stands on the side of a level apparently outside AEGIS's influence, as a hedged proposal with question marks (`Exploratory` places), not as a statement of fact; recorded, nothing decided.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint
+
+**The master blueprint plans Kael's waking in the Externe Ebene (Köln, Februar 2026) and grounds it in the carnival, and takes no side on whether it is outside the simulation.**
+
+Part III: „bricht durch die Rendering-Grenzen“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67], and he wakes „Externen Ebene (Köln, Februar 2026)“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67]. The plan then grounds it: „durch das reale Setting“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L72] of the carnival.
+
+Standing in the record: one more position on where the level is, a plan that places Kael's waking there and says nothing on beyond or not outside; it decides nothing.
