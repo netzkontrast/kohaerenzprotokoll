@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      111
+  backslash escapes      84
+  typographic marks      130
+  ascii quotes           14
+
+# inflection families -- one term, several surfaces
+  kontr    Kontroll, Kontrolle, Kontrollebene, Kontrolleur, Kontrollfunktion, Kontrollhierarchie, Kontrollierend, Kontrollillusionen, Kontrollinstanz, Kontrollinstanzen, Kontrollschleifen, Kontrollschwellen, Kontrollstrategien, Kontrollsysteme, Kontrollsystems, Kontrollverlust
+  syste    System, SystemWork, Systemarchitektur, Systematic, Systembewusster, Systembewusstsein, Systemdynamik, Systeme, Systemlähmung, Systems, Systemstruktur, Systemtheorie, Systemveränderung, Systemzustand, Systemzustands
+  bindu    Bindung, Bindungsdynamiken, Bindungsfigur, Bindungskrise, Bindungsmuster, Bindungssicherheit, Bindungsstrategie, Bindungsstress, Bindungstheoretische, Bindungstheorie, Bindungstraumata
+  inter    Interaktion, Interface, Internalisierung, International, Interne, Internen, Interner, Interpretation, Intervention, Interventionen, Interventions
+  thera    Therapeut, Therapeuten, Therapeutisches, Therapie, Therapiebeginns, Therapiemodelle, Therapiephasen, Therapieprozess, Therapiesitzungen, Therapiesuche, Therapy
+  traum    Trauma, Traumaarbeit, Traumabasierte, Traumabehandlung, Traumafolgen, Traumafolgestörungen, Traumaforschung, Traumas, Traumatherapie, Traumatisierung
+  integ    Integrated, Integration, Integrationsbemühungen, Integrationsfokus, Integrationsfunktion, Integrationsprozesse, Integrationsprozesses, Integratorin, Integriert
+  kommu    Kommunikation, Kommunikations, Kommunikationsnetzwerk, Kommunikationsnetzwerks, Kommunikationspfade, Kommunikationsstandards, Kommunikationsstrukturen, Kommunikationswege, Kommunikationszusammenbruch
+  selbs    Selbst, Selbstbeobachtung, Selbstführung, Selbstkorrektur, Selbstorganisation, Selbstreflexion, Selbstregulation, Selbststeuerung, Selbstwirksamkeit
+  konze    Konzept, Konzeptalbum, Konzepte, Konzepten, Konzeptionelle, Konzepts, Konzeptuelle, Konzeptvision
+  krise    Krise, Krisen, Krisenbewältigungsmodelle, Krisenintervention, Kriseninterventionsmodelle, Krisenkontext, Krisenphase, Krisenreaktion
+  bewäl    Bewältigung, Bewältigungs, Bewältigungsmechanismen, Bewältigungsmechanismus, Bewältigungsstrategie, Bewältigungsstrategien, Bewältigungsversuchen
+  disso    Dissociation, Dissociative, Dissonanz, Dissonanzen, Dissoziation, Dissoziationsstopps, Dissoziative
+  wider    Widerhall, Widersprüchen, Widersprüchlichkeit, Widerstand, Widerstands, Widerstandsbearbeitung, Widerstände
+  psych    Psychedelic, Psychoedukation, Psychologie, Psychologist, Psychology, Psychotherapie
+  schut    Schutz, Schutzbedürfnissen, Schutzfunktion, Schutzintention, Schutzmechanismus, Schutzraum
+  stabi    Stabilisator, Stabilisierung, Stabilisierungsphase, Stabilisierungstechniken, Stabilität, Stabilitätsmuster
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen, Strukturgeber, Strukturierung
+  vertr    Vertrauen, Vertrauensaufbau, Vertrauensbruch, Vertrauensfrage, Vertrauenskrise, Vertrauensprobleme
+  bezie    Beziehung, Beziehungen, Beziehungsdynamik, Beziehungserfahrungen, Beziehungskrise
+  erken    Erkennen, Erkennt, Erkenntnis, Erkenntnissen, Erkenntnissynthese
+  exist    Existential, Existentielle, Existenz, Existenzielle, Existenzkrise
+  funkt    Funktion, Funktionen, Funktionsfähigkeit, Funktionswandel, Funktionsweise
+  konfl    Konflikt, Konflikte, Konflikten, Konfliktlösung, Konflikts
+  regul    Regulation, Regulationsfunktionen, Regulationsfähigkeiten, Regulationswege, Regulatorin
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Alten
+  Alte < Verhalten
+  Alte < Anhaltende
+  Alte < Alternative
+  Alte < Mitgestalter
+  Alte < Suchtverhalten
+  Alte < Erwachsenenalter
+  Bild < Bildung
+  Bild < Weltbildung
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Kleinere
+  Ende < Tendenz
+  Ende < Tendenzen
+  Ende < Wachsende
+  Ende < Anhaltende
+  Ende < Bestehende
+  Ende < Wendepunkt
+  Ende < Wendepunkte
