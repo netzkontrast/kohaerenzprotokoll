@@ -578,3 +578,11 @@ One more position in the record; it decides no boundary of the Moonshine-Link.
 In the Gödel-Gambit phase (Kap 35–36) it reads the `Juna/V` `Moonshine-Link` as „a non-local, sub-protocol connection that overcomes AEGIS's boundary protocols“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L70]. It says nothing of who else feels it.
 
 Stands: one more position in the record, on what the link crosses (AEGIS's boundary protocols); open.
+
+## 2026-10-11 — `research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m`, 2026-04-30, the storyform rebuild prompt
+
+**The storyform rebuild prompt's primer calls the Moonshine-Link structurally invisible to AEGIS.**
+
+The primer: „Für AEGIS-Sensoren strukturell unsichtbar“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L367], because it lies outside the symmetry groups AEGIS can model; the link is „Nicht-lokale Verbindung zwischen Kael und Juna“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L367].
+
+Stands: one more position on the link's boundary, the prompt's summary; nothing decided.
