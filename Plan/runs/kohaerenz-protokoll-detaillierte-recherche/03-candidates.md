@@ -1,0 +1,119 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+Candidates of "Die Architektur emergenter Kohärenz" written during the read. World terms first, the document's own terms next, then borrowed concepts under lens. Observations below the lists are paragraphs.
+
+## world
+
+- Kohärenz Protokoll
+- Kohärenz Protokoll 1.0
+- AEGIS
+- Kael
+- System Kael
+- Juna/V
+- Juna
+- Die Leere
+- Das Potentialmeer
+- Nichts Rauschen
+- Das Fundament
+- Moonshine-Link
+- Gnostische Injektion
+- Koordinierte Emergenz
+- Gödel-Gambit
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Lex
+- Nyx
+- Kiko
+- Selene
+- Fragment 'O'
+- Gärtners
+- Torwächter
+- Entropic Gatekeeper
+- Disorder Sense
+- Homogeneity Sense
+- Daten-Attraktoren
+- Guardian
+- Kael-Paradoxons
+- Kohärenz
+- funktionale Multiplizität
+- funktionalen Multiplizität
+- ontologischen Blindheit
+- Algorithmic Horror
+- Ineffiziente Schönheit
+- Algorithmische Melancholie
+- sanfte Explosion
+- externalisiertes Täterintrojekt
+- Anscheinend Normalen Anteilen
+- Emotionalen Anteilen
+- ANPs
+- EPs
+- ISH
+- Host
+- rhizomatisches Selbst
+- dreifache Helix
+- Naturschutzgebieten des Chaos
+- Protokoll des Lesers
+- Found Footage
+- Trauma-Zeit
+- Anziehungsbecken
+- Verifizierer
+- Lösungsfinder
+- Logik der Formalen Inkonsistenz (LFI)
+- LFI
+- Symbolischer Kern
+- Spezialisierte Module
+- Adaptive Schicht
+- Adaptive Logik
+- Diskursive Logik
+- D2
+- Specification Gaming
+- Frame-Problem
+
+## lens
+
+- Prozessphilosophie
+- Prähension
+- seltsamen Attraktors
+- Gnosis
+- Episteme
+- autopoietisches System
+- Dialetheismus
+- Integrierte Informationstheorie
+- Internal Family Systems (IFS)
+- IFS
+- Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP)
+- TSDP
+- Manager
+- Feuerwehrmann
+- Verfolger
+- Kern-Selbst
+- Environmental Storytelling
+- Heldinnenreise
+- Heldenreise
+- Quantenverschränkung
+- P-versus-NP-Problem
+- Poppers Paradoxon der Toleranz
+- disjunktive Syllogismus
+- Gödel-Satz
+- polyphon
+- Bewusstseinsstrom
+- Verstärkungslernen
+- Outside Context Problem
+- Deus ex Machina
+- Uncanny Valley
+- Grand Argument Story
+- Objective Story
+- Main Character
+- Subjective Story
+- Impact Character
+- Yin und Yang
+- kognitive Dissonanz
+
+The document is a German analysis of the novel project in four sections with an opening and a closing, each claim followed by a glued reference number 1 (export damage from superscripts). It reports the project's concepts and then reads them against borrowed theories, so the lens list is long. The KW lines write KW1 to KW4 with plain digits. The formula line writes AEGIS\_Protokoll with an escaped underscore inside a logical expression; it is not listed. The reference list at the end (L371 on) names cited works and web pages, none of which is listed.

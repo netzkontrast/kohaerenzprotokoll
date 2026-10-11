@@ -1,0 +1,181 @@
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Sektion
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Sektion` ^[kohaerenz-protokoll-detaillierte-recherche.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Tabelle
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Tabelle` ^[kohaerenz-protokoll-detaillierte-recherche.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Abschnitt
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Abschnitt` ^[kohaerenz-protokoll-detaillierte-recherche.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Empfehlungen
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Empfehlungen` ^[kohaerenz-protokoll-detaillierte-recherche.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Referenzen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-detaillierte-recherche.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Guardians
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Guardians` ^[kohaerenz-protokoll-detaillierte-recherche.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Dramatica
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Dramatica` ^[kohaerenz-protokoll-detaillierte-recherche.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Dramatica-Erzähllinie
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dramatica-Erzähllinie` ^[kohaerenz-protokoll-detaillierte-recherche.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Gödel-Gambit
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Gödel-Gambit` ^[kohaerenz-protokoll-detaillierte-recherche.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Kernwelten
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[kohaerenz-protokoll-detaillierte-recherche.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Kohärenz Protokoll
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-detaillierte-recherche.md:#6]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Kael
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            56
+
+`Kael` ^[kohaerenz-protokoll-detaillierte-recherche.md:#28]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Juna
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`Juna` ^[kohaerenz-protokoll-detaillierte-recherche.md:#12]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count funktionale Multiplizität
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`funktionale Multiplizität` ^[kohaerenz-protokoll-detaillierte-recherche.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count funktionalen Multiplizität
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`funktionalen Multiplizität` ^[kohaerenz-protokoll-detaillierte-recherche.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Lex
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Lex` ^[kohaerenz-protokoll-detaillierte-recherche.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Nyx
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nyx` ^[kohaerenz-protokoll-detaillierte-recherche.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Kiko
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kiko` ^[kohaerenz-protokoll-detaillierte-recherche.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count Selene
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Selene` ^[kohaerenz-protokoll-detaillierte-recherche.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count ISH
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ISH` ^[kohaerenz-protokoll-detaillierte-recherche.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count EPs
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[kohaerenz-protokoll-detaillierte-recherche.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierte-recherche --count ANPs
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANPs` ^[kohaerenz-protokoll-detaillierte-recherche.md:#1]
+
+$ stance_marker_count = Sektion 4 + Tabelle 4 + Abschnitt 6 + Empfehlungen 2 + Referenzen 1 = 17
+$ grep -c -w "Kohärenz Protokoll" Sources/drive/kohaerenz-protokoll-detaillierte-recherche.md  (7 lines: includes title: line 3 of frontmatter)
+3:title: "Kohärenz 
+13:# **Die Architekt
+22:Das narrative Pro
+159:**exiliert** wir
+360:Die Synthese die
+362:*wahre* Kohären
+373:1.  Narrative Ar
+$ grep -n "?" (question marks, lines)
+321 336 381 408 418 427 433 
+$ grep -c "^- " Plan/runs/kohaerenz-protokoll-detaillierte-recherche/03-candidates.md (candidates listed; capture header says 108)
+108
+# counts for 108 candidates
+# line numbers are FILE lines, as a citation writes them
+
+$ profile: glued ref numbers 72, ascii quotes 2 (01-profile.txt)
+  typographic marks    250   ascii quotes 2
+  glued ref numbers    72
+2:drive_id: 
+3:title: "Ko
+4:slug: "koh
+5:category: 
+6:tier: "T3-
+7:index_date
+8:fetched: "
+381:9.  Abou
