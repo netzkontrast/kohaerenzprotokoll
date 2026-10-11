@@ -562,3 +562,11 @@ Stands as one more position on the record's boundary question; it decides nothin
 „Ist der Moonshine-Link strukturell exklusiv für das Kael-Juna-Paar“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1300]
 
 Stands as one more position in the record; it decides nothing.
+
+## 2026-10-11 — `dramatica-dual-storyform-mapping-analyse`, 2026-04-30, the storyform mapping analysis
+
+**The report treats the Moonshine-Link as a physical phenomenon and its prose presentation as unsolved.**
+
+In Candidate 1: „unverständliches physikalisches Phänomen“ ^[dramatica-dual-storyform-mapping-analyse.md:L90]. Among the open points: „bleibt eine ungelöste stilistische Herausforderung“ ^[dramatica-dual-storyform-mapping-analyse.md:L255].
+
+One more position in the record; it decides no boundary of the Moonshine-Link.
