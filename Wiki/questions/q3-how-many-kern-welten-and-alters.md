@@ -1084,3 +1084,11 @@ Stands as one more position on the record's question; it decides nothing.
 The research report maps four Kernwelten to the four Dramatica throughlines: KW1 „Repräsentiert die Objective Story“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L203]; KW2 „Repräsentiert die Main Character“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L204]; KW3 „Repräsentiert die Subjective Story“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L205]; KW4 „Repräsentiert die Impact Character“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L206]. Its post-integration table lists five parts, among them „Kael (Host)“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L262] and Selene as „ISH/Torwächter: Vermittlerin, ethischer Kompass“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L266]. The report does not pair a Kernwelt with a part; it pairs each with a throughline.
 
 Stands as one more position in the record's terms: four worlds and a table of five parts, with the Kernwelten tied to throughlines rather than to parts; recorded, not decided.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept counts four Kern-Welten plus the Überwelt and the Externe Ebene, six levels, and names the alters Limina, Nox, Echo with an open „etc.“.**
+
+It sets its task across „vier psychologische Kern-Welten“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L17], „eine digitale Überwelt und eine mysteriöse Externe Ebene“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L17], and says of the rules „die spezifischen Gesetzmäßigkeiten jeder der sechs Realitätsebenen“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L24]. The alters stand as „seiner Alters (wie Limina, Nox, Echo etc.)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L42]: a list that ends in „etc.“, so no number of alters is given.
+
+Stands as one more position: four worlds, six levels, and three named alters with an open list; recorded, nothing decided.
