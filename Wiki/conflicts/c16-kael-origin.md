@@ -497,3 +497,11 @@ Stands as a new position beside the record's origins of Kael: the proposed direc
 The function line of the Potentialmeer entry reads „Ursprung von AEGIS und Kael“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L223]. In the entry on Kael, labelled Erweiterter Kontext 3, the report writes that his essence comes from such an island; the line is „Der Protagonist mit Dissoziativer Identitätsstörung“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L282], continuing with the origin.
 
 Stands as one more position on Kael's origin in the record's own terms, an origin in the Potentialmeer; it decides nothing.
+
+## 2026-10-11 — `kernwelten-fuer-kohaerenz-protokoll`, 2025-04-27, the Kernwelten design report
+
+**The Kernwelten design report writes `Kael` as „der Entität M (manifestiert als Kael)“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L408], and offers no origin beyond that.**
+
+The line reads: „um spezifische Facetten (Caches) der Entität M (manifestiert als Kael) zu isolieren und zu analysieren“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L408], hedged by „Sein Ziel ist wahrscheinlich Verständnis, Vorhersage und potenziell Kontrolle oder Integration/Zerstörung von M/Kael.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L408]
+
+One more position, in the report's own words; it decides nothing for the conflict.
