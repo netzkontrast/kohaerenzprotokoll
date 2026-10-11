@@ -1164,3 +1164,11 @@ Stands as one more position in the record; it assigns roles and slots and decide
 The narrator (German prose) writes of „die Präsenz verschiedener Alters“ ^[roman-kohaerenz-protokoll.md:L401] and brackets five guessed names, each with a question mark (`Praetor ?`, `Nox ?`, `Kairos?`, `Cerberus?`, `Silas ?`), at the sources of impulses in Kael. KW1 stands once: „sterbenden Resten von KW1“ ^[roman-kohaerenz-protokoll.md:L411]. KW2 stands once, in a remark in another voice (an assistant-like line, not the narrator): „Ankunft an der Schwelle zu KW2“ ^[roman-kohaerenz-protokoll.md:L545].
 
 Stands as one more position; decides nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief
+
+**The epic enrichment brief proposes 13 alters and places KW1 to KW4 in its frame; it does not settle the count.**
+
+It writes „Kael liegt kurz vor der Löschung durch Cerberus“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L173] in a scene where „Plötzlich manifestieren sich alle 13 Alter physisch im Raum“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L173], and „Die Polyphonie von 13 Altern“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L122]. It names Kernwelten „In den Kernwelten (KW1 bis KW4) gelten hingegen unerbittliche physikalische Gesetze“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L42], and places Logos-Prime and Mnemosyne as „Die physische Handlung verlässt Logos-Prime (KW1) und Mnemosyne (KW2) selten“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L186] and the Cerberus-Zitadelle as „In der Cerberus-Zitadelle (KW3) entbrennt ein fraktaler Grabenkampf“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L63].
+
+Stands as one more position, from a brief of proposals: 13 alters and four Kernwelten in its frame; recorded, not applied.
