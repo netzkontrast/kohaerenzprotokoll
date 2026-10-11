@@ -1,0 +1,183 @@
+{
+  "document": "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
+  "drive_id": "1OtKdpBz5hb-pbW1_axumyMI9q_hwaTwG9mH9vBb4pk0",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 68,
+    "decisions": 73,
+    "decided_by_lookup": 52,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        20,
+        30,
+        36
+      ],
+      "attribution": "",
+      "note": "AEGIS as the environment, and its endpoint as Version A or B"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        30,
+        35,
+        73
+      ],
+      "attribution": "",
+      "note": "Alter count set out as 11 or 13"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "The Gödel Gambit as the chosen narrative engine"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "Grenzfeste in the fragment inventory"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        30,
+        34,
+        61
+      ],
+      "attribution": "",
+      "note": "Juna's ontology as Version A against Version B"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        18,
+        42
+      ],
+      "attribution": "",
+      "note": "Kael as anomaly and the undefined Betrayal"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "Kaels Initiale Wohneinheit in the fragment inventory"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        25,
+        43,
+        75
+      ],
+      "attribution": "",
+      "note": "The Coherence Protocol as operating system, and trigger objects"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        30,
+        73
+      ],
+      "attribution": "",
+      "note": "Oblivion retained as a primary name"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "Rhys in the naming overlap"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        25,
+        26,
+        54
+      ],
+      "attribution": "",
+      "note": "Risse as entropy, glitch as narrative event"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        30,
+        73
+      ],
+      "attribution": "",
+      "note": "Silas retained as a primary name"
+    },
+    {
+      "page": "vergessener-schrein",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Vergessener Schrein needs revision"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 76,
+      "decision": "occurrence",
+      "why": "the novel called a simulation in the roadmap"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
