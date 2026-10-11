@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 32
-readings: 32
+sources: 33
+readings: 33
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "kohaerenz-protokoll-detaillierte-recherche"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "kohaerenz-protokoll-detaillierte-recherche", "orte-konzept-fuer-kohaerenz-protokoll"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -81,6 +81,12 @@ The concept says how it is arranged: Teil II contains profiles „geordnet nach 
 ## Reading — `romanplot-uberarbeitung-kohaerenz-protokoll-teil-1`, 2025-04-18, the part-1 plot concept — the six Realitätsebenen as scenery the earlier draft leaves passive
 
 The part-1 plot concept speaks of the levels once, as a criticism of the earlier draft: „Die detailliert ausgearbeiteten Lokalitäten der sechs Realitätsebenen und die über 38 spezifischen Orte“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L35] serve there as „oft eher als passive Kulissen denn als aktive narrative Elemente.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L35] The plan proposes to use the places actively; the word `Realitätsebenen` itself stands once in the document (`Realitätsebenen` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]).
+
+## Reading — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept — six levels and a nested consistency in the places concept
+
+The places concept sets its task across „sechs distinkte, jedoch miteinander verwobene Realitätsebenen hinweg“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L17], and asks for the rules of each: „die spezifischen Gesetzmäßigkeiten jeder der sechs Realitätsebenen“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L24]. Its consistency is nested: rules must hold within each level and also „sondern auch an den Schnittstellen und bei Interaktionen“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L25] between them.
+
+Its profile template carries a field for the level, „Zuordnung zu einer der sechs Ebenen“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L177], and its profile selection is to „die Vielfalt der sechs Realitätsebenen repräsentativ abbilden“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L343].
 
 ## Reading — `welten`, 2025-04-20, the world-concept reply — the Überwelt as an informational Realitätsebene
 
