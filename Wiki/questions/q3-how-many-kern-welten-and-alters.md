@@ -1068,3 +1068,11 @@ One more position in the record; it decides nothing about how many Kern-Welten o
 „The four Core Worlds are simulated realities“ ^[the-coherence-protocol-a-world-bible.md:L157]. „The primary alters within System Kael“ ^[the-coherence-protocol-a-world-bible.md:L113] stand in a table, from Kael to Limina. The world table assigns them as domains: „Logic, Order, Analysis (ANPs: Index, Kael)“ ^[the-coherence-protocol-a-world-bible.md:L162], „Emotion, Memory, Trauma (EPs)“ ^[the-coherence-protocol-a-world-bible.md:L163], „Defense, Paranoia, Boundaries (Praetor, Nox)“ ^[the-coherence-protocol-a-world-bible.md:L164] and „Potential, Creativity, Integration (Limina, Silas)“ ^[the-coherence-protocol-a-world-bible.md:L165].
 
 Stands as one more position in the record's terms: four worlds and eight alters; recorded, not decided.
+
+## 2026-10-11 — `critical-plot-interrogatories-for-kohaerenz-protokoll`, 2025-11-03, the plot interrogatories
+
+**The plot interrogatories presuppose four Kernwelten, each tied to alters or parts.**
+
+KW1: „is the domain of the ANP Lex“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L34]. KW2: „the domain of the Emotional Parts (EPs)“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L35]. KW3: „The protector alters, Nyx and Alex, are conditioned in“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L36]. KW4: „is the space of creativity, healing, and emergence“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L37]. A list of questions; it counts no alters.
+
+Stands as one more position on the record's question; it decides nothing.
