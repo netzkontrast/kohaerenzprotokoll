@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-synthese-mit-dual-kernel-theorie"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint"]
 gathered: "2026-09-24"
 ---
 
@@ -19,6 +19,12 @@ Kap 1 sets „Kern-Welt 1 (Konstrukt-Stadt) – Sektor 04.“ ^[kohaerenz-protok
 ## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — a deadlock in the subroutine architecture of Sektor 04
 
 In Kapitel 4 (`Die unentscheidbare Zone`) the systemic level of the DKT synthesis reads „Deadlock in der Subroutinen-Architektur von“ ^[roman-synthese-mit-dual-kernel-theorie.md:L65] Sektor 04 (the number follows the quoted words, and a footnote digit is glued to it in the export). The narrative level of the same chapter has endless stairs and buildings that are mathematically correct but physically impossible.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — regions that cannot be reached
+
+The master blueprint plans Sektor 04 in Part I; it is a plan, not canon.
+
+The plan has Kael experience causal horizons there: regions of the city that seem to exist but that „niemals erreichbar sind“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L31] for him because of the speed of light in the data transfer.
 
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Sektor 04 in Akt I
 
