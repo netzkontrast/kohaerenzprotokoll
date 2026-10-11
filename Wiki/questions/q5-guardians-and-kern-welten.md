@@ -805,3 +805,11 @@ Stands as one more position on how the Guardians relate to the Kernwelten; it de
 Its example reads: „a confrontation with the Guardian of KW1 (Logik) is not a simple battle but a targeted assault on the logical frameworks of Kael's analytical part, Lex“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L80].
 
 Stands as one more position, a directive for a writer; it decides nothing about the Kern-Welten or their guardians.
+
+## 2026-10-11 — `research-prompt-dramatica-dual-storyform-mapping-md`, 2026-04-30, the mirroring prompt
+
+**The mirroring prompt's background capsule correlates four Guardians with the four Kernwelten.**
+
+The four are LogOS, Mnemosyne, Cerberus and Kairos/Sophia; they „korrelieren mit den vier“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L209] Kernwelten and show inner guardian conflicts. The capsule names no pairing.
+
+Stands: one more position, a constraint handed to an agent; nothing decided.
