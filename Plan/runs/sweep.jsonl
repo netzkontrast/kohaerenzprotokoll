@@ -1025,3 +1025,5 @@
 {"document": "report-narrative-methodology-for-kohaerenz-protokoll", "page": "juna", "surface": "Juna", "line": 96, "decision": "reading", "why": "ambiguity to be kept about Juna/V", "at": "2026-10-11"}
 {"document": "report-narrative-methodology-for-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
 {"document": "the-architecture-of-a-self-kael-s-journey-to-coherence", "page": "kohaerenz", "surface": "Kohärenz", "line": 29, "decision": "occurrence", "why": "the logs' Kohärenz wiederhergestellt, read on aegis", "at": "2026-10-11"}
+{"document": "romanentwurf-kapitel-1-ausformulierung", "page": "did", "surface": "DID", "line": 90, "decision": "occurrence", "why": "a reference title", "at": "2026-10-11"}
+{"document": "romanentwurf-kapitel-1-ausformulierung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
