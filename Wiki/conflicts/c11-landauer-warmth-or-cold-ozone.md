@@ -544,3 +544,11 @@ Stands on the cold side as a description of the Überwelt's air and light, from 
 Its foreshadowing table has a row `Landauer`: introduction „Beiläufige Temperaturanomalie“ ^[kohaerenz-protokoll-master-integration-md.md:L312] in Kap. 2–3, detonation „Stadt fiebert messbar“ ^[kohaerenz-protokoll-master-integration-md.md:L312] in Kap. 15–18. The same row says: „Jede Löschung erzeugt Wärme.“ ^[kohaerenz-protokoll-master-integration-md.md:L312] The paradox section has „Jede Löschung heizt die Stadt auf (Landauer).“ ^[kohaerenz-protokoll-master-integration-md.md:L129] The log reads „Landauer-Budget: 94.7% verbraucht“ ^[kohaerenz-protokoll-master-integration-md.md:L351]. The document names no cold ozone and gives other chapters than Kap 6 and Kap 36.
 
 Stands as a further source on the heat side of the record, with chapters 2–3 and 15–18; the record stays open.
+
+## 2026-10-11 — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief
+
+**The epic enrichment brief puts heat and ozone together in the Landauer-Wüste and in Act I.**
+
+It proposes that „Kael und seine Alter schleppen sich durch eine glühende, nach Ozon stinkende Wüste“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L172] in the mid of its Act II. For Act I it writes of a deleted NPC: „gepaart mit beißendem Ozon-Geruch“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L57]. It names acts of its own frame, not Kap 6 or Kap 36.
+
+Stands as one more position: heat and ozone together, by Landauer; recorded, not applied.
