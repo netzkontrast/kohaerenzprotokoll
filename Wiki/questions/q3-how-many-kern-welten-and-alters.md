@@ -1076,3 +1076,11 @@ Stands as one more position in the record's terms: four worlds and eight alters;
 KW1: „is the domain of the ANP Lex“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L34]. KW2: „the domain of the Emotional Parts (EPs)“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L35]. KW3: „The protector alters, Nyx and Alex, are conditioned in“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L36]. KW4: „is the space of creativity, healing, and emergence“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L37]. A list of questions; it counts no alters.
 
 Stands as one more position on the record's question; it decides nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierte-recherche`, 2025-07-29, the detailed research report
+
+**The research report maps four Kernwelten to four Dramatica throughlines and lists five parts in its post-integration table.**
+
+The research report maps four Kernwelten to the four Dramatica throughlines: KW1 „Repräsentiert die Objective Story“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L203]; KW2 „Repräsentiert die Main Character“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L204]; KW3 „Repräsentiert die Subjective Story“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L205]; KW4 „Repräsentiert die Impact Character“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L206]. Its post-integration table lists five parts, among them „Kael (Host)“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L262] and Selene as „ISH/Torwächter: Vermittlerin, ethischer Kompass“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L266]. The report does not pair a Kernwelt with a part; it pairs each with a throughline.
+
+Stands as one more position in the record's terms: four worlds and a table of five parts, with the Kernwelten tied to throughlines rather than to parts; recorded, not decided.
