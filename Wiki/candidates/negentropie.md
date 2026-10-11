@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 19
-readings: 18
+sources: 20
+readings: 19
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation"]
 gathered: "2026-09-16"
 ---
 
@@ -54,6 +54,10 @@ option anticipated: **neither, because [[aegis|AEGIS]] cannot see it at all.** S
 
 The marker matters: `[User Query]` means the project supplied this, and the
 research reasoned from it rather than concluding it.
+
+## Reading — `aegis-analyse-und-manifest-postulation`, 2025-04-19, the AEGIS manifesto analysis — the Hypothese der Negentropie-Fehlinterpretation
+
+The essay names it „Hypothese der Negentropie-Fehlinterpretation“ ^[aegis-analyse-und-manifest-postulation.md:L282] and calls it „Dies ist eine zentrale Hypothese für den narrativen Konflikt“ ^[aegis-analyse-und-manifest-postulation.md:L282]. Its claim: AEGIS may class „komplexere, adaptive, potenziell lebensfördernde Ordnungsformen“ ^[aegis-analyse-und-manifest-postulation.md:L282] as entropy. On Kael it writes that AEGIS „könnte Prozesse der psychischen Reorganisation und Heilung fälschlicherweise als zu bekämpfende Entropie einstufen“ ^[aegis-analyse-und-manifest-postulation.md:L262]. In its advice it asks to dramatise the hypothesis: „Zeigen Sie Szenen, in denen AEGIS Versuche der Integration“ ^[aegis-analyse-und-manifest-postulation.md:L330] are fought as incoherence.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — AEGIS' Negentropie-Fehlinterpretation
 
