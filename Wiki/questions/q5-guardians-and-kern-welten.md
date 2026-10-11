@@ -773,3 +773,11 @@ Stands as one more position in the record: four worlds labelled with four of the
 `LogOS` in KW1: „the Guardian LogOS attempts to enforce rigid, classical logic“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L29]. `Mnemosyne` in KW2: „the Guardian Mnemosyne treats memories as mere data points“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L30]. `Cerberus` in KW3: „the Guardian Cerberus embodies defense and control, misinterpreting vulnerability as a security threat“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L31]. KW4: „the Guardians Kairos and Sophia represent potential and wisdom“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L32]. It names no Erasure-Pol.
 
 Stands: one more position in the record, five Guardians over four worlds as the analysis lists them in the Correction phase; nothing decided.
+
+## 2026-10-11 — `research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m`, 2026-04-30, the storyform rebuild prompt
+
+**The storyform rebuild prompt's primer assigns each of four Guardians to one of the four Kernwelten.**
+
+The primer lists `LogOS`, `Mnemosyne`, `Cerberus` and `Kairos/Sophia`, „jeder einer der vier Kernwelten zugeordnet“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L371].
+
+Stands: one more position, four Guardians over four worlds as the primer summarises it; nothing decided.
