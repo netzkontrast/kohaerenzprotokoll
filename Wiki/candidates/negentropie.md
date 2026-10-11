@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 16
-readings: 15
+sources: 17
+readings: 16
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko"]
 gathered: "2026-09-16"
 ---
 
@@ -86,6 +86,10 @@ The three-act blueprint (Act I, the antagonist's gaze) says what the misreading 
 ## Reading — `project-coherence-protocol-narrative-blueprint-decisions`, 2025-10-15, the locked blueprint — the `Negentropie-Fehlinterpretation` as the loop's engine
 
 At L56 the locked blueprint makes AEGIS's reading of healing the loop's trigger: each step of Kael's integration is „registered by AEGIS's sensors as a dangerous increase in systemic entropy and unpredictable complexity“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L56]. It names the flaw `Negentropie-Fehlinterpretation` (negentropy misinterpretation), „the engine that drives the entire conflict“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L56].
+
+## Reading — `an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko`, 2025-10-15, the psycho-systemic analysis — The Negentropie-Fehlinterpretation
+
+The psycho-systemic analysis names AEGIS's error the Negentropie-Fehlinterpretation (negentropy misinterpretation): its sensors „misinterpret this emergent complexity“ ^[an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko.md:L74] as a dangerous increase in chaos (entropy).
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
 
