@@ -386,3 +386,11 @@ Stands: the number occurs here as the number of an AEGIS log entry; one more pos
 It proposes the Genesis Log as fragments that „represent the recovered memories of the“ ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:L83] Ursprungs-Ich, and says it was „later designated“ ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:L83] Component 734. The four sample excerpts it proposes carry the numbers 734.01, 734.19, 734.22 and 734.23. The report names no dwelling.
 
 This stands in the record as one more position on what 734 names; it decides nothing.
+
+## 2026-10-11 — `strategic-narrative-implementation-for-kohaerenz-protokoll`, 2025-11-03, the implementation guide
+
+**The implementation guide proposes Component 734 as the functional unit the Ursprungs-Ich becomes after the dismemberment, and does not say what the number labels.**
+
+Its scene blueprint is headed „From \"I\" to \"Component 734\"“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L59]. In the last step a new awareness dawns, Component 734, and a „faint, persistent echo of the former self“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L67] remains, classified as an „irrelevant latency“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L67].
+
+Stands: one more position on what the component is, a proposal of the guide that decides nothing; it names no dwelling and gives no meaning to the digits.
