@@ -1116,3 +1116,11 @@ Stands as one more position in the record: two counts side by side with a recomm
 Its strongest counter-evidence to Candidate 1 is that reducing the alter system to a Universe situation misses „die phänomenologische Tiefe der TSDP“ ^[dramatica-dual-storyform-mapping-analyse.md:L91]; the figure itself stands in digits glued to a word and is not quoted here.
 
 One more position in the record; it settles no count of Kern-Welten or Alters.
+
+## 2026-10-11 — `research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m`, 2026-04-30, the storyform rebuild prompt
+
+**The storyform rebuild prompt's primer states thirteen alters in four groups and four Kernwelten.**
+
+The primer says of `Kael`: „Fragmentierter Host eines DIS-Systems mit“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L355] thirteen alters (five ANP, five EP, one Sonder, two Spiegel), and of the worlds: „Vier diegetische Schauplätze, jeweils einer Computational-Class zugeordnet“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L375].
+
+Stands: one more position in the record, the prompt's summary; nothing decided.
