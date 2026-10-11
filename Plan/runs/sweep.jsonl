@@ -997,3 +997,5 @@
 {"document": "kapitel-1-generierungsprozess", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the report's title", "at": "2026-10-11"}
 {"document": "kapitel-1-generierungsprozess", "page": "nexus", "surface": "Nexus", "line": 657, "decision": "occurrence", "why": "a forum name in a reference", "at": "2026-10-11"}
 {"document": "kapitel-1-generierungsprozess", "page": "ueberwelt", "surface": "Simulation", "line": 23, "decision": "occurrence", "why": "a section heading on the report's mandate", "at": "2026-10-11"}
+{"document": "roman-kohaerenz-protokoll", "page": "entropie", "surface": "Entropie", "line": 272, "decision": "reading", "why": "the Risse as manifestations of digital entropy", "at": "2026-10-11"}
+{"document": "roman-kohaerenz-protokoll", "page": "genesis", "surface": "Genesis", "line": 114, "decision": "occurrence", "why": "the passage's heading", "at": "2026-10-11"}

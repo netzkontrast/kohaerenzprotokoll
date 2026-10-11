@@ -1,0 +1,651 @@
+{
+  "document": "roman-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 87,
+  "decisions": 91,
+  "same_surface": {
+    "t": [
+      "Σ(t)",
+      "ϕ(t)"
+    ],
+    "resonanz": [
+      "Resonanz",
+      "Die Resonanz"
+    ]
+  },
+  "decided_mechanically": 62,
+  "needs_judgement": 29,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 211
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 215
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 200
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 107
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 100
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 101
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 99
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 87
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 63
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 168
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 120
+      },
+      {
+        "candidate": "SIS",
+        "page": "aegis-teilfunktionen",
+        "readings": 40
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Jansen"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "Gamma-7"
+      },
+      {
+        "candidate": "Sektor Delta"
+      },
+      {
+        "candidate": "Datenknotenpunkt"
+      },
+      {
+        "candidate": "Transitkorridor"
+      },
+      {
+        "candidate": "Praetor"
+      },
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Naht"
+      },
+      {
+        "candidate": "Schwelle"
+      },
+      {
+        "candidate": "Dazwischen"
+      },
+      {
+        "candidate": "Warten"
+      },
+      {
+        "candidate": "Moos"
+      },
+      {
+        "candidate": "Un-Schöpfung"
+      },
+      {
+        "candidate": "Nicht-Existenz"
+      },
+      {
+        "candidate": "Intrusion"
+      },
+      {
+        "candidate": "Sog"
+      },
+      {
+        "candidate": "Moment"
+      },
+      {
+        "candidate": "ZTEM"
+      },
+      {
+        "candidate": "Consensus Enforcer Module"
+      },
+      {
+        "candidate": "Self-Verification Interface"
+      },
+      {
+        "candidate": "SVI"
+      },
+      {
+        "candidate": "Logical Consistency Analysis"
+      },
+      {
+        "candidate": "LCA"
+      },
+      {
+        "candidate": "Real-time self-verification"
+      },
+      {
+        "candidate": "RTSV"
+      },
+      {
+        "candidate": "RIC"
+      },
+      {
+        "candidate": "Dynamic Role Instancing"
+      },
+      {
+        "candidate": "DRI"
+      },
+      {
+        "candidate": "Secure Isolation State"
+      },
+      {
+        "candidate": "Recursive Self-Definition Validation"
+      },
+      {
+        "candidate": "Absolute Entropy Event"
+      },
+      {
+        "candidate": "UNIVERSAL REBOOT PROTOCOL"
+      },
+      {
+        "candidate": "UNIVERSAL REBOOT SEQUENCE"
+      },
+      {
+        "candidate": "COHERENCE METRICS"
+      },
+      {
+        "candidate": "QUARANTINE PROTOCOL"
+      },
+      {
+        "candidate": "Σ(t)"
+      },
+      {
+        "candidate": "Vorwort"
+      },
+      {
+        "candidate": "Instrumente der Ordnung"
+      },
+      {
+        "candidate": "Sensorischer Angriff"
+      },
+      {
+        "candidate": "Erwachen im Grau"
+      },
+      {
+        "candidate": "Die atmende Landschaft"
+      },
+      {
+        "candidate": "Das Zeichen in der Ferne"
+      },
+      {
+        "candidate": "Der subtile Sog"
+      },
+      {
+        "candidate": "Der Scheideweg"
+      },
+      {
+        "candidate": "Śūnyatā"
+      },
+      {
+        "candidate": "Parmenides"
+      },
+      {
+        "candidate": "Tal des Unwirklichen"
+      },
+      {
+        "candidate": "Vorläuferuniversum"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS Functional Protocol",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Architekten  /  Architekt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kontrollkern  /  Kern",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Genesis im Echo der Leere",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Zerrissenheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Zerrissenheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Resonanz-Nebel  /  Resonanz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Leere  /  Genesis im Echo der Leere",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Leere  /  Die Umarmung der Leere",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Redunancyfree  Information Capsule  /  Information Capsule",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wohneinheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          },
+          {
+            "surface": "kaelswohneinheit10",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "Architekt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyneserverarchitektur",
+            "page": "mnemosyne-server-architektur"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          },
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kernwelten",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kohaerenzkernel",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "koharenzkernel",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "koharenzkernelk1",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "kollapskernel",
+            "page": "kollaps-kernel"
+          },
+          {
+            "surface": "kollapskernelk0",
+            "page": "kollaps-kernel"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mustererkennunganomaliedetektion",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Nichts",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Zerrissenheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragmentierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS Functional Protocol",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust Execution Model",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust-Modell",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Integrity Guardian Module",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Cognitive Firewall Module",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cognitivefirewall",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis im Echo der Leere",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Resonanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanz",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "resonanzlandschaft",
+            "page": "resonanz-landschaft"
+          }
+        ]
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 272,
+      "already_read": false
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 114,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
