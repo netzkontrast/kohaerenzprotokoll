@@ -293,3 +293,11 @@ Stands as one more position in the record's terms: Überwelt as AEGIS's domain; 
 KW4-01 is „Nexus-Interface zur Überwelt“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L315], `Plot Pt. 1`: „Schnittstelle, die eine (kontrollierte?) Verbindung zur AEGIS-Überwelt ermöglicht.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L315] UW-01 is the „AEGIS-Kern-Nexus“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L176], `Concept Doc`: „Zentraler Kontroll- und Verarbeitungsknoten von AEGIS; hochsicher, abstrakt.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L324] Profile 13 hedges its reach: „Direkter Zugang ist wahrscheinlich unmöglich oder extrem gefährlich.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L519]
 
 Stands as one more position, two places named nexus on two levels; recorded, nothing decided about the Nexus.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint
+
+**The master blueprint gives Part II the concept of the Überwelt and has Kael enter the Nexus, and says nothing on how they relate.**
+
+Part II's concept: „Die Überwelt und die Konfrontation mit den Guardians“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L38]. The arc: „Kael verlässt die Simulationsebene und betritt den“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L42] Nexus.
+
+Standing in the record: one more position, a plan; it decides nothing about Nexus, Überraum and Überwelt.
