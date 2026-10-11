@@ -542,3 +542,11 @@ Stands as one more position on the relation of the Guardians to AEGIS (subordina
 It writes that they „do not function as independent actors with their own motivations and desires“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L72] and serve as „functional manifestations of AEGIS's core logic and its pathological, trauma-induced defense mechanisms“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L72]. It adds that they operate within AEGIS's system of laws: „Their existence is one of adherence to fundamental law, not obedience to a master“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L79].
 
 Stands as one more position, a directive for a writer; it decides nothing.
+
+## 2026-10-11 — `research-prompt-dramatica-dual-storyform-mapping-md`, 2026-04-30, the mirroring prompt
+
+**The mirroring prompt's background capsule gives the Guardians as four functional subsystems of AEGIS.**
+
+It reads „Vier funktionale Untersysteme von AEGIS“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L209], named LogOS, Mnemosyne, Cerberus and Kairos/Sophia.
+
+Stands: one more position, a constraint handed to an agent; nothing decided.
