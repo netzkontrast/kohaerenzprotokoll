@@ -733,3 +733,11 @@ The essay pairs worlds with parts, and says nothing of a Guardian per world; the
 In its Guardians section the analysis gives each Guardian a domain: LogOS „Er scheitert an Gödels Unvollständigkeit“ ^[roman-synthese-mit-dual-kernel-theorie.md:L417] after guarding the logic of the Konstrukt-Stadt; Mnemosyne „Verwaltet die Datenströme der Erinnerung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L418]; Cerberus „Implementiert Sicherheitsprotokolle in der Grenzfeste“ ^[roman-synthese-mit-dual-kernel-theorie.md:L419]; Kairos „Steuert die kreativen Prozesse im Möglichkeiten-Garten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L420]; Sophia „Repräsentiert die systemimmanente Weisheit der Überwelt“ ^[roman-synthese-mit-dual-kernel-theorie.md:L421]. The word `Kernwelten` ^[roman-synthese-mit-dual-kernel-theorie.md:#1] stands once, in Kapitel 29: „Kollaps der Schutzzonen zwischen den Kernwelten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L298]. The analysis does not pair a Guardian with a Kern-Welt and writes `Erasure-Pol` ^[roman-synthese-mit-dual-kernel-theorie.md:#0] nowhere.
 
 Stands as a list of five Guardians with five separate domains and no pairing with worlds; recorded, not applied to the question of four worlds.
+
+## 2026-10-11 — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible
+
+**The world bible lists four Guardian names and four world names that match them, and does not state a relation.**
+
+Guardians: „LogOS, Mnemosyne, Cerberus, and Kairos“ ^[the-coherence-protocol-a-world-bible.md:L80]. Worlds, in the table of Core Worlds: „Logos-Prime“ ^[the-coherence-protocol-a-world-bible.md:L162], „Mnemosyne-Archipel“ ^[the-coherence-protocol-a-world-bible.md:L163], „Cerberus-Labyrinth“ ^[the-coherence-protocol-a-world-bible.md:L164], „Kairos-Potentialis“ ^[the-coherence-protocol-a-world-bible.md:L165]. The Guardians are said to monitor „a specific domain of reality“ ^[the-coherence-protocol-a-world-bible.md:L80] each; the text beside the world table speaks of worlds „each governed by a distinct logical principle and representing a different facet of Kael's psyche“ ^[the-coherence-protocol-a-world-bible.md:L157].
+
+Stands as one more position in the record's terms: the names sit side by side, the relation between Guardian and world is not stated; recorded, not decided.
