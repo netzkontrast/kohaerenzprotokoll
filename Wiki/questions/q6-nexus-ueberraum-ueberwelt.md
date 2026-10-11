@@ -285,3 +285,11 @@ Stands as the Überwelt placed with the Guardians and the system, against the Ex
 It defines the Überwelt as „the abstract, information-based reality where AEGIS's core processes run“ ^[the-coherence-protocol-a-world-bible.md:L153] and „a space beyond conventional physics“ ^[the-coherence-protocol-a-world-bible.md:L153]. The counts: `Nexus` ^[the-coherence-protocol-a-world-bible.md:#0], `Überraum` ^[the-coherence-protocol-a-world-bible.md:#0], `Überwelt` ^[the-coherence-protocol-a-world-bible.md:#2].
 
 Stands as one more position in the record's terms: Überwelt as AEGIS's domain; recorded, not decided.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept has two nexus places on two levels: a Nexus-Interface in KW4 and an AEGIS-Kern-Nexus in the Überwelt.**
+
+KW4-01 is „Nexus-Interface zur Überwelt“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L315], `Plot Pt. 1`: „Schnittstelle, die eine (kontrollierte?) Verbindung zur AEGIS-Überwelt ermöglicht.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L315] UW-01 is the „AEGIS-Kern-Nexus“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L176], `Concept Doc`: „Zentraler Kontroll- und Verarbeitungsknoten von AEGIS; hochsicher, abstrakt.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L324] Profile 13 hedges its reach: „Direkter Zugang ist wahrscheinlich unmöglich oder extrem gefährlich.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L519]
+
+Stands as one more position, two places named nexus on two levels; recorded, nothing decided about the Nexus.
