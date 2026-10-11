@@ -322,3 +322,11 @@ Stands as a physical reality of the reader, reached by overwriting and export, i
 It writes that Juna/V functions as a journalistic correspondent „reporting from a reality that lies beyond AEGIS's comprehension“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66], and that she acts as a correspondent from the `Externe Ebene` (External Level). The exposé does not say whether that level lies inside or outside the simulation; its world list names the Überwelt and the Kernwelten only.
 
 Where it stands in the record's own terms: beyond AEGIS's comprehension, not stated as beyond the simulation; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept proposes the Externe Ebene as connected with Juna and apparently outside AEGIS's direct influence, and hedges every place on it.**
+
+It writes the level as „die mit Juna verbunden ist und außerhalb des direkten AEGIS-Einflusses zu liegen scheint“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L93]. EX-02 (`Exploratory`) is „Ort des Friedens und der Klarheit außerhalb des AEGIS-Systems; natürlich, ruhig.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L334]; EX-04 is „Ort, an dem Fragmente der 'echten' Welt (vor der Simulation?) wahrnehmbar sind.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L336]; EX-03 is „Ursprungsort (?) der Risse oder der Kraft, die AEGIS entgegenwirkt; instabil, fremd.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L335] The Überwelt row UW-08 is a „Vermutete (oder versteckte) Schnittstelle, über die AEGIS externe Signale empfängt/sendet.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L331] Profile 16 gives its level as „Externe Ebene (oder Schnittstelle zur Simulation)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L555].
+
+Stands on the side of a level apparently outside AEGIS's influence, as a hedged proposal with question marks (`Exploratory` places), not as a statement of fact; recorded, nothing decided.
