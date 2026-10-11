@@ -1,0 +1,81 @@
+$ read.py the-coherence-protocol-a-world-bible --count "canonical"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`canonical` ^[the-coherence-protocol-a-world-bible.md:#1]
+$ read.py the-coherence-protocol-a-world-bible --count "authoritative"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`authoritative` ^[the-coherence-protocol-a-world-bible.md:#1]
+$ read.py the-coherence-protocol-a-world-bible --count "Narrative Function"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Function` ^[the-coherence-protocol-a-world-bible.md:#1]
+$ read.py the-coherence-protocol-a-world-bible --count "Grand Argument"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Grand Argument` ^[the-coherence-protocol-a-world-bible.md:#1]
+$ read.py the-coherence-protocol-a-world-bible --count "Zero-Trust"
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            0
+
+`Zero-Trust` ^[the-coherence-protocol-a-world-bible.md:#0]
+$ read.py the-coherence-protocol-a-world-bible --count "zero-trust"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`zero-trust` ^[the-coherence-protocol-a-world-bible.md:#1]
+$ read.py the-coherence-protocol-a-world-bible --count "Guardian"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Guardian` ^[the-coherence-protocol-a-world-bible.md:#0]
+$ read.py the-coherence-protocol-a-world-bible --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[the-coherence-protocol-a-world-bible.md:#1]
+$ read.py the-coherence-protocol-a-world-bible --count "cracks"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`cracks` ^[the-coherence-protocol-a-world-bible.md:#1]
+$ read.py the-coherence-protocol-a-world-bible --count "Cracks"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Cracks` ^[the-coherence-protocol-a-world-bible.md:#1]
+$ grep -c "^#" (headings 1.0 to 5.0 at L17 L58 L98 L147 L178)
+17:## **1.0 The Metaphysical Framework: 
+58:## **2.0 System Architecture of AEGIS
+98:## **3.0 Psychological Architecture o
+147:## **4.0 The Simulated Realities: Ex
+178:## **5.0 The Central Dialectic: A Co
+rules:
+15:\----
+56:\----
+96:\----
+145:\---
+176:\---
+
+$ grep -c "^- " Plan/runs/the-coherence-protocol-a-world-bible/03-candidates.md   (candidates: 115 per 04-counts.txt header)
+# counts for 115 candidates
+$ table rows of alters, L118-L125:
+8
+stance_marker_count 4 = canonical 1 + authoritative 1 + Narrative Function 1 + Grand Argument 1 (counts above)
+profile: 134 backslash escapes, 0 question marks (01-profile.txt)
+  question marks       0
+  backslash escapes    134

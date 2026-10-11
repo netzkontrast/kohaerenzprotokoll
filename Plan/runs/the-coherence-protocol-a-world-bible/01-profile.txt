@@ -1,0 +1,14 @@
+# the-coherence-protocol-a-world-bible
+  lines                196  (frontmatter ends at 9)
+  body words           3381
+  headings             22   bold-only lines 1
+  table rows           28   code fences 0
+  question marks       0
+  backslash escapes    134
+  typographic marks    20   ascii quotes 100
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         1025 chars
+

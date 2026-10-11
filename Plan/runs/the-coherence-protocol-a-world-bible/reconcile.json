@@ -1,0 +1,279 @@
+{
+  "document": "the-coherence-protocol-a-world-bible",
+  "drive_id": "1R8vxo7sYz8TgDROzbx2hm_NUU7PTrH_Esh9NVXRGRFA",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-07, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet), both shares in turn, from Plan/runs/ingest-221/brief.md; no chapter readings — the document names no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 115,
+    "decisions": 122,
+    "decided_by_lookup": 100,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English world bible: its new surfaces are its metaphysical triad (The Foundation, The Connection, Paraiyas), six of its eight alters (Index, Praetor, Nox, Echo, Limina and the dyads), AEGIS's logics and Algorithmic Horror; what it says of the novel's world went on existing pages and six records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "the zero-trust principle of AEGIS"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        60,
+        64,
+        66,
+        68,
+        72,
+        76,
+        80,
+        84,
+        88
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic system, its axiom and its flaw"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        75,
+        104,
+        106,
+        107,
+        109,
+        113,
+        117,
+        131,
+        137
+      ],
+      "attribution": "",
+      "note": "ANPs, EPs and functional multiplicity"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        80,
+        164
+      ],
+      "attribution": "",
+      "note": "Cerberus as Guardian and Cerberus-Labyrinth as world"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        62,
+        64
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis as an information fragment against the Noise"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "four Guardians as AEGIS's autonomous agents"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        42,
+        46,
+        180,
+        187
+      ],
+      "attribution": "",
+      "note": "Juna and the Moonshine-Link"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        52,
+        84,
+        100,
+        104,
+        118,
+        127,
+        137,
+        141
+      ],
+      "attribution": "",
+      "note": "Kael as a society of self"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        80,
+        165
+      ],
+      "attribution": "",
+      "note": "Kairos as Guardian and Kairos-Potentialis as world"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        155,
+        157,
+        161,
+        162,
+        163,
+        164,
+        165
+      ],
+      "attribution": "",
+      "note": "four Core Worlds as epistemological landscapes"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        80,
+        162
+      ],
+      "attribution": "",
+      "note": "LogOS as Guardian and Logos-Prime as world"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        80,
+        163
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Guardian and Mnemosyne-Archipel as world"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        42,
+        44,
+        46,
+        47,
+        50,
+        51,
+        52
+      ],
+      "attribution": "",
+      "note": "the link as an exploit, a blind spot and a catalyst"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        23,
+        26,
+        27,
+        29
+      ],
+      "attribution": "",
+      "note": "the Nothingness Noise as an active Potential Sea"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        124,
+        127
+      ],
+      "attribution": "",
+      "note": "Oblivion as the shutdown response"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        169,
+        171,
+        172,
+        174
+      ],
+      "attribution": "",
+      "note": "Cracks with a dual nature"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        121,
+        127
+      ],
+      "attribution": "",
+      "note": "Silas as caretaker"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        100,
+        102,
+        104,
+        117
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical framework"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        151,
+        153
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's domain"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q6",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J26 (Kernwelt 1 on kern-welten), J34 (Juna/V on juna), J49 and J118 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis, the world names, read on kern-welten; the Guardian names LogOS, Mnemosyne, Cerberus, Kairos on their own pages), J60 (the acronym's expansion on aegis), J63 (Digital Überwelt on ueberwelt); `Echo` is an alter's name, `Ontological Exploit` the Moonshine-Link's function and the Theory of Structural Dissociation of the Personality TSDP's full name",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 62,
+      "decision": "reading",
+      "why": "AEGIS's genesis from a minimal information fragment"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "The Foundation, Paraiyas, The Connection",
+    "Index, Praetor, Nox, Echo, Limina and the dyads",
+    "the Dialetheic Mind",
+    "Algorithmic Horror",
+    "LFI, Discursive Logic and the perverse learning loop",
+    "the comparison table"
+  ],
+  "internal_tension": "it calls itself canonical and authoritative (L13); Kael is the whole system (L100) and one alter in its table (L118); it names four Guardians (L80) with the names of the four worlds (L162–L165) without relating them",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
