@@ -643,3 +643,11 @@ Where it stands: one more position under Q9; it places the link as a relationshi
 In Crack 2 AEGIS's sensors register Kael's insight but „can only classify it as a series of“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L91] random, uncorrelated anomalies, and the reader understands it as the effect of the „non-local“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L91] link. The guide says this shows forces that AEGIS is „ontologically blind“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L92] to (L91–L92).
 
 Stands: one more position on where the link's effect meets AEGIS's perception, a proposal that decides nothing.
+
+## 2026-10-11 — `research-prompt-dramatica-dual-storyform-mapping-md`, 2026-04-30, the mirroring prompt
+
+**The mirroring prompt's background capsule gives the Moonshine-Link between Kael and Juna as invisible to AEGIS.**
+
+The capsule reads „Nicht-lokale Verbindung Kael“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L205] to Juna, and „AEGIS-unsichtbar“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L205].
+
+Stands: one more position, a constraint handed to an agent; nothing decided.
