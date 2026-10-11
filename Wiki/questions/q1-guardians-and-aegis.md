@@ -462,3 +462,11 @@ Where it stands in the record's own terms: the Guardians are placed under AEGIS 
 The statement on the five Guardians reads „Spezialisierte AEGIS-Agenten“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24], with „Sie können Zweifel entwickeln und potenziell ihre Loyalität ändern“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L24]. They are agents of AEGIS, with a loyalty that may change.
 
 Stands as an answer to the record's question on the side of agents of AEGIS; recorded, not applied.
+
+## 2026-10-11 — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible
+
+**The world bible makes the Guardians AEGIS's own agents.**
+
+„specialized, autonomous agents known as“ ^[the-coherence-protocol-a-world-bible.md:L80] Guardians are employed by AEGIS to execute its protocols within the simulated Core Worlds, „each tasked with monitoring a specific domain of reality“ ^[the-coherence-protocol-a-world-bible.md:L80].
+
+Stands as one more position in the record's terms: the Guardians are AEGIS's agents; recorded, not decided.
