@@ -538,3 +538,11 @@ Stands: the outline names the link's source and its use in the climax and leaves
 „a non-local, sub-protocol connection“ ^[the-coherence-protocol-a-world-bible.md:L44]; AEGIS's sensors are designed for local data transfers, and „A non-local, acausal resonance is outside its ontological categories“ ^[the-coherence-protocol-a-world-bible.md:L51]. „AEGIS is structurally blind to the connection itself“ ^[the-coherence-protocol-a-world-bible.md:L51].
 
 Stands as one more position in the record's terms: the link lies beyond AEGIS's perception; recorded, not decided.
+
+## 2026-10-11 — `critical-plot-interrogatories-for-kohaerenz-protokoll`, 2025-11-03, the plot interrogatories
+
+**The plot interrogatories presuppose that AEGIS's sensors register the link only as noise.**
+
+The question asks why AEGIS's sensors perceive the link's effects only as „uncorrelated system noise“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L93], resting on a reported synthesis of quantum entanglement and Whitehead's prehension.
+
+Stands as one more position on the record's boundary question; it decides nothing.
