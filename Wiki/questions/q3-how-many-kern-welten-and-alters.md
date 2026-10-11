@@ -1212,3 +1212,11 @@ Stands: one more position, a prompt's constraint rather than a finding; nothing 
 For the alters: the working aid, as reported, wants „Darstellung des Einflusses spezifischer Alters (Limina, Nox, Praetor, Echo/Silas)“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L51]. For the worlds: Kael passes „aus der kollabierten Kern-Welt“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L15] toward KW2, and the analysis proposes „Erste Andeutungen der Identität und Regeln von“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L280] KW2 in the last beat; the beat table has „Erste Wahrnehmung der Schwelle/Ausläufer von“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L225] KW2. The alters are named for one chapter's part and are not offered as a full list.
 
 Stands: a position in the record, a set of proposals for chapter 2 part 1; open as the record has it.
+
+## 2026-10-11 — `kernwelten-fuer-kohaerenz-protokoll`, 2025-04-27, the Kernwelten design report
+
+**The Kernwelten design report proposes four worlds, Co₁, McL, B and Ly, each tied to an IFS part type, not to named alters.**
+
+It writes of „vier Kernwelten Co₁, McL, B und Ly“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L478], each „in sich geschlossene Simulation“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L478]. Its mapping: „Co₁ = Manager-dominant (Logik, Kontrolle).“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182], „McL = Relationale Teile (Manager/Exilanten fokussiert auf Verbindung/Angst vor Ablehnung).“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182], „B = Exilant/Feuerbekämpfer-dominant (roher Schmerz, Angst, reaktive Bewältigung).“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182], „Ly = Selbst/Kreative Teile (Potential, Intuition).“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182]
+
+One more position, from a design proposal; the question stays open.
