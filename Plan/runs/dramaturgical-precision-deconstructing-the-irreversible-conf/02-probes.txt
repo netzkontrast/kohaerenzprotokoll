@@ -1,0 +1,24 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      10
+  backslash escapes      0
+  typographic marks      18
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  chapt    Chapter, Chapters
+  guard    Guardian, Guardians
+  logic    Logic, Logics
+  proto    Protocol, Protokoll
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Lure < Failure
+  Riss < Risse
+  Logic < Logics
+  Logic < Epistemological
+  World < Worlds
+  Chapter < Chapters
+  Guardian < Guardians
+  Construct < Deconstructing
+  Consistency < Inconsistency
