@@ -732,3 +732,11 @@ Stands: one more position in the record, from an analysis rather than canon: AEG
 The contradictions table gives Version A for the AEGIS endpoint as total implosion and systemic nihilism, and Version B as the „Big Bounce“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L30], an evolution into a new logic. The audit recommends: „Resolve in favor of the“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L36] Big Bounce, because the system must evolve into a more complex state of coherence rather than cease to exist. The audit does not name the Vortex or Oblivion in this connection.
 
 Stands as one more position in the record: a recommendation for transformation over extinction, made by an audit; recorded, nothing decided.
+
+## 2026-10-11 — `dramatica-dual-storyform-mapping-analyse`, 2026-04-30, the storyform mapping analysis
+
+**The report leaves AEGIS's post-Vortex signature open as outside its scope.**
+
+„Post-Vortex AEGIS-Signatur“ ^[dramatica-dual-storyform-mapping-analyse.md:L254] in the Algorithmische Melancholie requires detail at scene level, and „Diese Feingranularität lag außerhalb des Scopes dieses abstrakten Makro-Mappings“ ^[dramatica-dual-storyform-mapping-analyse.md:L254].
+
+One more position in the record; it decides nothing about what AEGIS is after the Vortex.
