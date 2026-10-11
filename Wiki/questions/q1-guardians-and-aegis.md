@@ -486,3 +486,11 @@ Stands as one more position on the relation of Guardians to AEGIS: an interface 
 „AEGIS-als-Totalität = OS, ein Guardian = MC“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L165]; candidates: „Truth-Enforcement-Guardian“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1062], „Memory-Archive-Guardian, Setting-Träger des Klimax“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1063], „Boundary-Enforcement-Guardian“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1064], „Ambivalent, im Wächter-Zwiespalt verfangen“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1065].
 
 Stands as one more position in the record (a hypothesis of the prompt); it decides nothing.
+
+## 2026-10-11 — `dramatica-dual-storyform-mapping-analyse`, 2026-04-30, the storyform mapping analysis
+
+**The report tests the Guardians as a reason for AEGIS to stay out of the MC position, and rejects that branch.**
+
+Branch 4: „dezentralen Architektur (vier Guardians: LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[dramatica-dual-storyform-mapping-analyse.md:L75]; verdict „Zweig verworfen.“ ^[dramatica-dual-storyform-mapping-analyse.md:L55].
+
+One more position in the record; it decides nothing about whether the Guardians are components of AEGIS, peers or a replaced design.
