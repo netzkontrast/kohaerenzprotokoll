@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-master-integration-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-epische-plot-anreicherung"]
 gathered: "2026-09-24"
 ---
 
@@ -16,6 +16,10 @@ of [[coheron|Coheron]].
 ## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — Erasonen as elementary erasure events and the arrow of time
 
 The master integration defines Erasonen in the same section as Coherons: „Elementare Löschungsereignisse“ ^[kohaerenz-protokoll-master-integration-md.md:L60], the moment in which informational correlation becomes irreversible. Their sum is physics: „Kumulative Erason-Aktivität = Zeitpfeil, Gravitation, thermodynamische Drift“ ^[kohaerenz-protokoll-master-integration-md.md:L62]. Kernwelt 2 has the „höchste Erason-Dichte, maximale Narbenbildung“ ^[kohaerenz-protokoll-master-integration-md.md:L231]. Each Riss is an „Erason-Kaskade“ ^[kohaerenz-protokoll-master-integration-md.md:L259]. In the Juna options, Option C reads: „Juna ist ein Erason, das sich weigert, irreversibel zu sein.“ ^[kohaerenz-protokoll-master-integration-md.md:L205]
+
+## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — Erasonen erasing concepts and narrowing the world
+
+The epic enrichment brief is an unsigned German research brief of proposals and recommendations; so these are proposals. A survey row writes that the concept „Arm“ is deleted „von Erasonen aus der Axiomatik des Raumes gelöscht“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L46]; of Optionlock it proposes „Jeder Zyklus in Akt II verschließt eine Option unwiderruflich durch Informationslöschung (Erasonen)“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L81].
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — K0 as Erasonen
 
