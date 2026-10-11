@@ -546,3 +546,11 @@ Stands as one more position in the record's terms: the link lies beyond AEGIS's 
 The question asks why AEGIS's sensors perceive the link's effects only as „uncorrelated system noise“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L93], resting on a reported synthesis of quantum entanglement and Whitehead's prehension.
 
 Stands as one more position on the record's boundary question; it decides nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierte-recherche`, 2025-07-29, the detailed research report
+
+**The research report presents the link as a non-local back door between Kael and Juna/V, to which AEGIS is structurally blind.**
+
+The research report defines the Moonshine-Link as „ist eine nicht-lokale, sub-protokollarische Verbindung“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L78] that acts as an „architektonische Hintertür“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L78], and states that AEGIS is „für die Verbindung strukturell blind ist“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L80]. It names what the link carries between Kael and Juna/V: the „Gnostische Injektion“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L84] and the „Koordinierte Emergenz“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L84]. It describes the link between those two, not a boundary towards a further party.
+
+Stands as one more position on the record's boundary question; it decides nothing.
