@@ -765,3 +765,11 @@ Standing in the record: one more position, a plan; it decides nothing about the 
 The fragment inventory heads its acts with these world labels: Act I „Minimalist starting point KW1-LogOS“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L52] for Kaels Initiale Wohneinheit, Act II with `KW2-Mnemosyne` (L57), and Act III as `KW3-Cerberus` and `KW4-Kairos` (L63), where the Übergangsschleuse has „Cerberus’s barriers“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L65]. The audit names no Guardian in these lines and says nothing of five Guardians.
 
 Stands as one more position in the record: four worlds labelled with four of the Guardian names; recorded, nothing decided.
+
+## 2026-10-11 — `dramaturgical-precision-deconstructing-the-irreversible-conf`, 2025-11-03, the dramaturgical analysis
+
+**The dramaturgical analysis lists one Guardian for each of KW1–KW3 and two, Kairos and Sophia, for KW4.**
+
+`LogOS` in KW1: „the Guardian LogOS attempts to enforce rigid, classical logic“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L29]. `Mnemosyne` in KW2: „the Guardian Mnemosyne treats memories as mere data points“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L30]. `Cerberus` in KW3: „the Guardian Cerberus embodies defense and control, misinterpreting vulnerability as a security threat“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L31]. KW4: „the Guardians Kairos and Sophia represent potential and wisdom“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L32]. It names no Erasure-Pol.
+
+Stands: one more position in the record, five Guardians over four worlds as the analysis lists them in the Correction phase; nothing decided.
