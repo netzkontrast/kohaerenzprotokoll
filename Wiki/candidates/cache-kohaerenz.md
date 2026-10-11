@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen"]
 gathered: "2026-09-24"
 ---
 
@@ -27,6 +27,12 @@ The report ties it to wrong-persona landings: when Kael lands in an unsuitable w
 The TSDP profile report (unsigned, hedged throughout) ties the difficulty of integration to the problem in section 1.5. It names the cause: „Der Mangel an geteiltem Gedächtnis und Ko-Bewusstsein“ ^[kael-system-tsdp-analyse-und-profile.md:L129], which, it says, „macht eine koordinierte Bewegung zur Integration extrem schwierig und anfällig für Rückschläge“ ^[kael-system-tsdp-analyse-und-profile.md:L129].
 
 In the plot recommendations it asks for scenes built on the problem: „Konkrete Plotpunkte entwickeln, die aus der mangelnden Ko-Bewusstheit und Amnesie resultieren“ ^[kael-system-tsdp-analyse-und-profile.md:L389], with one example: „Kael trifft eine Entscheidung, die durch eine un erinnerte Handlung von Nyx untergraben wird“ ^[kael-system-tsdp-analyse-und-profile.md:L389]. The example is the report's suggestion, not a canon event.
+
+## Reading — `kohaerenz-protokoll-spannungsfelder-vertiefen`, 2025-04-28, the tension-points analysis — Cache Kohärenz through IFS, TSDP and narrative identity
+
+The tension-points analysis treats Cache Kohärenz as a symptom with a psychological and a systemic side. It says the term „beschreibt die narrative Manifestation der gestörten Gedächtnis- und Identitätskontinuität bei Kael“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L151]. Through IFS it proposes that the problem occurs „Cache Kohärenz tritt auf, wenn diese Schutzmauern bröckeln“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L152], and, in the same line, also where the protections are so strong that large parts of experience stay inaccessible (amnesia). Through TSDP: „Cache Kohärenz ist eine direkte Folge der strukturellen Dissoziation“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L153] between the apparently normal part and the emotional part. Through Ricoeur: „Cache Kohärenz repräsentiert ein Scheitern oder eine massive Störung dieses Emplotment-Prozesses“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L154].
+
+It calls the problem „das erlebbare Symptom“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L157] of deep fragmentation that is kept up or worsened by the conflict with AEGIS, and it hedges AEGIS's part: „AEGIS' Einfluss ist hier ambivalent“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L155]. It also says Kael's fragmented memory and inconsistent self-experience „erzeugen eine tiefe epistemologische Krise für ihn“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L109]. Narratively it proposes that „Das Cache Kohärenz-Problem erzeugt Plot-Twists“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L167]. These are the analysis's readings through borrowed theory.
 
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 
@@ -97,3 +103,7 @@ A theory report; the term heads its section 8.2, on the amnesia, in its chapter 
 
 Writing rules; recorded, not applied. It writes the English `Cache-Coherence`, once; the sentence is about the failure this page's Cache-Kohärenz names, so it is read here by the sentence (J100's rule). It places the failure in an act: „Act II (Ch. 14-26): The Bleeding." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L58] „The "Cache-Coherence" failure begins." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L58] „Voices overlap." ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L58] — Lex's hypotaxis may end in Nyx's parataxis within one sentence.
 In that paragraph it does not relate the failure to amnesia or to ANP and EP; the Host's trembling is a „Universal Reboot" ^[editorial-style-dossier-somatic-and-linguistic-implementatio.md:L19] in its somatic table, without the word.
+
+## Where the sources differ
+
+- The tension-points analysis reads Cache [[kohaerenz|Kohärenz]] as the felt symptom of psychological fragmentation (IFS, TSDP), with [[aegis|AEGIS]]'s role left ambivalent.
