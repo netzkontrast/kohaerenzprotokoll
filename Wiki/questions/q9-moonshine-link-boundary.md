@@ -618,3 +618,11 @@ Stands as one more position in the record; it draws no boundary for the Moonshin
 It writes: „Sie kann den Moonshine-Link nutzen“ ^[kohaerenz-protokoll-dramatica-synthese.md:L124], and „eine metaphorische Adaption der Quantenverschränkung“ ^[kohaerenz-protokoll-dramatica-synthese.md:L124], with the Monstrous Moonshine Conjecture named in a parenthesis. The report does not draw a boundary between metaphor and mathematics beyond that wording.
 
 Stands: one more position on how the term is framed; nothing decided.
+
+## 2026-10-11 — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief
+
+**The epic enrichment brief lets Juna and Kael interact through the Moonshine-Link without crossing space, and has Juna flood it into a closed system.**
+
+It proposes „Wenn Juna und Kael über den Moonshine-Link interagieren, reisen sie nicht durch den Raum“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L124]. In Variante B, which it does not recommend, Juna „Juna flutet durch den Moonshine-Link endlose Neguentropie in das geschlossene System“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L106].
+
+Stands as one more position on how the link crosses a boundary; recorded, not applied.
