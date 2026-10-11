@@ -1148,3 +1148,11 @@ Stands: one more position in the record, a listed subset of parts and the statem
 „erschafft und managt sie Simulationen, die“ ^[aegis-paradoxon-konzeption-und-analyse.md:L18] the Kernwelten (KW1–KW4), marked `\[Kontext\]`. Glosses by theme: „KW1 (Logik/Ordnung)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L162], „KW2 (Emotion/Erinnerung)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L171], „KW4 (Potentialität/Emergenz)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L171]; and „KW1 (Ordnung) und KW3 (Abwehr)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L249], so the KW1 gloss differs between passages.
 
 One more position in the record; it decides nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-forschungsaufgabe`, 2025-07-29, the ontological analysis
+
+**The ontological analysis proposes eleven parts for Kael and four Kernwelten.**
+
+It writes „Kaels elf Anteile deuten auf eine tertiäre Dissoziation hin“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L105] and „Kaels elf Anteile lassen sich bekannten Rollen zuordnen“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L119]. Its table, „Kaels interne Systemarchitektur (TSDP-Modell)“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L130], names Nyx, Kiko and Selene as rows, and the remaining slots are the unnamed `Alter 5` to `Alter 11`. Of the worlds: „Dieser Teil wird die vier Kernwelten nicht als bloße Schauplätze“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L215] analyse, and Teil IV maps four worlds to complexity classes.
+
+Stands as one more position in the record; it assigns roles and slots and decides nothing about the count.
