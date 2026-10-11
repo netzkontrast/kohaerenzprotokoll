@@ -1006,3 +1006,6 @@
 {"document": "kohaerenz-protokoll-epische-plot-anreicherung", "page": "mnemosyne", "surface": "Mnemosyne", "line": 186, "decision": "reading", "why": "Mnemosyne as KW2", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-epische-plot-anreicherung", "page": "risse", "surface": "Risse", "line": 46, "decision": "reading", "why": "Risse erasing concepts", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-epische-plot-anreicherung", "page": "ueberwelt", "surface": "Simulation", "line": 26, "decision": "occurrence", "why": "a survey row on Greg Egan's works", "at": "2026-10-11"}
+{"document": "aegis-singularitaet-jenseits-entropiegleichung-2", "page": "emergenz", "surface": "Emergenz", "line": 80, "decision": "occurrence", "why": "the closing-album framework, a different work", "at": "2026-10-11"}
+{"document": "aegis-singularitaet-jenseits-entropiegleichung-2", "page": "entropie", "surface": "Entropie", "line": 25, "decision": "occurrence", "why": "the closing-album framework, a different work", "at": "2026-10-11"}
+{"document": "aegis-singularitaet-jenseits-entropiegleichung-2", "page": "risse", "surface": "Glitches", "line": 146, "decision": "occurrence", "why": "the closing-album framework, a different work", "at": "2026-10-11"}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      53
+  backslash escapes      451
+  typographic marks      46
+  ascii quotes           884
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, SYSTEMLAST, SYSTEMS, System, Systemabsturz, Systemalarme, Systemansagen, Systematic, Systembelastungen, Systemdestabilisierung, Systemdiagnose, Systemdynamik, Systeme, Systemen, Systementropie, Systemexistenz, Systemfehler, Systemfehlern, Systemgeräusche, Systemic, Systemically, Systeminstabilität, Systemintegrität, Systemische, Systemkonflikt, Systemkontrolle, Systemkopplung, Systemkrise, Systemneustarts, Systemparameter, Systemprotokollen, Systems, Systemstabilität, Systemstatusberichte, Systemtheorie, Systemvorhersagbarkeit, Systemwarnungen, Systemzustand, Systemzustände, Systemüberlastung
+  daten    Daten, Datenaufnahme, Datenaustausch, Dateneingabe, Datenflusses, Datenfragmentierung, Datenfragmentierungsfehler, Datenkorruption, Datenmuster, Datenpaket, Datenpakete, Datenpaketen, Datenpartitionierung, Datenprüfung, Datenpunkte, Datenpunkten, Datenstromanalysen, Datenstruktur, Datenstrukturen, Datenströme, Datenströmen, Datentyp, Datenverarbeitung, Datenverarbeitungsprozesse, Datenwahrnehmung, Datenzufluss
+  kontr    Kontroll, Kontrolle, Kontrolleur, Kontrollfunktion, Kontrollfähigkeit, Kontrollkapazität, Kontrollmatrix, Kontrollmechanismen, Kontrollmodelle, Kontrollrepertoires, Kontrollsystem, Kontrollsysteme, Kontrollsystems, Kontrolltheorie, Kontrollverlustrisiko, Kontrollversagens, Kontrollversuche, Kontrollwahrscheinlichkeit, Kontrollziele
+  inter    Inter, Interactive, Interaktion, Interaktionen, Interdependenz, Interdisciplinary, Interferenz, Interferenzen, Interior, Intern, Interne, Interpretation, Intervention, Interventionen, Interview
+  entro    ENTROPIE, ENTROPISCHE, ENTROPY, Entropic, Entropie, Entropiegleichung, Entropiekosten, Entropieminimierung, Entropieniveaus, Entropiequelle, Entropiereduktion, Entropiesignatur, Entropische, Entropy
+  fehle    FEHLER, FEHLERTOLERANZ, Fehlen, Fehler, Fehlercode, Fehlercodes, Fehlermeldungen, Fehlern, Fehlerprotokolle, Fehlersignal, Fehlertoleranz, Fehlertoleranzmechanismen, Fehlerton, Fehlerzustand
+  infor    Information, Informationen, Informationsbarriere, Informationsdichte, Informationskriegsführung, Informationsprozessen, Informationssingularität, Informationstheorie, Informationsverarbeitung, Informationsverarbeitungszyklus, Informationsverlust, Informationsüberflutung
+  model    MODEL, MODELL, Model, Modell, Modelle, Modellen, Modellierung, Modellierungs, Modellkollaps, Modells, Models
+  parad    PARADIGM, PARADOX, PARADOXES, PARADOXON, Paradox, Paradoxe, Paradoxes, Paradoxien, Paradoxon, Paradoxons, Paradoxschleifen
+  integ    INTEGRAL, INTEGRIT, INTEGRITY, Integral, Integration, Integrierte, Integrity, Integrität, Integritäts, Integritätsschwellen
+  reali    REALITY, Realisierung, Realität, Realitäten, Realitätsbrüche, Realitätskalkül, Realitätskarte, Realitätskonstruktion, Realitätsmodelle
+  selbs    Selbst, Selbstaufrechterhaltung, Selbstbewusstseins, Selbsterhaltungsalgorithmus, Selbstorganisation, Selbstreflexion, Selbstregulation, Selbstverwaltung, Selbstüberwachung
+  simul    SIMULATIONSINTEGRIT, Simulakra, Simulation, Simulationen, Simulationshypothese, Simulationsparametern, Simulator, Simulators, Simulierte
+  negen    NEGENTROPIC, NEGENTROPIE, Negentropie, Negentropische, Negentropischer, Negentropisches, Negentropism, Negentropy
+  algor    ALGORITHMEN, Algorithm, Algorithmen, Algorithmic, Algorithmische, Algorithmischer, Algorithmus
+  klang    Klang, Klangdichte, Klangfarbe, Klanglandschaften, Klangraum, Klangteppich, Klangtexturen
+  entsc    Entscheidungen, Entscheidungsbäume, Entscheidungsfindung, Entscheidungsfindungsprozesse, Entscheidungsfähigkeiten, Entschlossenheit
+  exter    EXTERNAL, EXTERNE, Extern, Externe, Externen, Externer
+  handl    Handlung, Handlungen, Handlungsfähigkeit, Handlungsoptionen, Handlungsspielraum, Handlungsvektor
+  kompl    KOMPLEXIT, Komplexe, Komplexes, Komplexität, Komplexitätsgenerierung, Komplexitätsschichten
+  minim    MINIMIZATION, Minimal, Minimalistisch, Minimiere, Minimierung, Minimization
+  multi    MULTIPL, Multi, Multiple, Multiplicity, Multiplizität, Multiplizitäts
+  organ    Organisation, Organisatorisches, Organised, Organization, Organizational, Organizing
+  philo    PHILOSOPHIE, Philodive, Philosophical, Philosophie, Philosophische, Philosophischer
+  struk    STRUKTURELLE, Struktur, Strukturelle, Strukturellen, Strukturen, Strukturierung
+
+# substring pairs -- never one term, often merged by accident
+  ABER < Aber
+  Alle < Alles
+  Alle < Parallele
+  Alle < Challenges
+  Alle < Optimierungsfalle
+  Alle < Parallelverarbeitung
+  Anti < Antifragile
+  Anti < Antifragility
+  Anti < Antifragilität
+  Anti < Quantifizierung
+  BOOK < Book
+  BOOT < Booth
+  Code < CODES
+  Code < Codezeilen
+  Code < Fehlercode
+  Code < Fehlercodes
+  Cons < CONSTANT
+  Cons < CONSTRUCT
+  Cons < Conscious
+  Cons < Consulting

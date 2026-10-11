@@ -1,0 +1,685 @@
+{
+  "document": "aegis-singularitaet-jenseits-entropiegleichung-2",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 82,
+  "decisions": 101,
+  "same_surface": {
+    "kernwelt": [
+      "Kern-Welt",
+      "Kernwelt"
+    ],
+    "funktionalemultiplizitat": [
+      "funktionale Multiplizität",
+      "Funktionale Multiplizität"
+    ],
+    "kognitivedissonanz": [
+      "kognitive Dissonanz",
+      "Kognitive Dissonanz"
+    ]
+  },
+  "decided_mechanically": 64,
+  "needs_judgement": 37,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 211
+      },
+      {
+        "candidate": "Entropic Gatekeeper",
+        "page": "aegis",
+        "readings": 211
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 215
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 200
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 160
+      },
+      {
+        "candidate": "Kern-Welt",
+        "page": "kern-welten",
+        "readings": 160
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 100
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 58
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 128
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 140
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 81
+      },
+      {
+        "candidate": "Negentropie",
+        "page": "negentropie",
+        "readings": 17
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 135
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Externen Ebene"
+      },
+      {
+        "candidate": "Systematic Agency"
+      },
+      {
+        "candidate": "emphatischer Lex"
+      },
+      {
+        "candidate": "Primärdirektive"
+      },
+      {
+        "candidate": "Systemintegrität"
+      },
+      {
+        "candidate": "Negentropisches Feld"
+      },
+      {
+        "candidate": "Informationssingularität"
+      },
+      {
+        "candidate": "Integrierte Dyade"
+      },
+      {
+        "candidate": "Abschlussalbum"
+      },
+      {
+        "candidate": "Protokoll der Singularität"
+      },
+      {
+        "candidate": "Das Protokoll des Scheiterns"
+      },
+      {
+        "candidate": "Die unerschütterliche Direktive"
+      },
+      {
+        "candidate": "Die stille Singularität"
+      },
+      {
+        "candidate": "Der letzte Befehl"
+      },
+      {
+        "candidate": "Nutzeranfrage"
+      },
+      {
+        "candidate": "Kernemotion"
+      },
+      {
+        "candidate": "Kernoperationsparameter"
+      },
+      {
+        "candidate": "Songkonzepte"
+      },
+      {
+        "candidate": "ewiger Wächter"
+      },
+      {
+        "candidate": "überforderter Programmierer"
+      },
+      {
+        "candidate": "kalte Sonne der Ordnung"
+      },
+      {
+        "candidate": "Logik-Gott am Rande des Paradoxons"
+      },
+      {
+        "candidate": "Singularität der Kontrolle"
+      },
+      {
+        "candidate": "Das Gleichgewicht des Chaos"
+      },
+      {
+        "candidate": "Quarantäne-Theorem"
+      },
+      {
+        "candidate": "Klasse-Omega-Anomalie"
+      },
+      {
+        "candidate": "Datenfragmentierung"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "China Brain"
+      },
+      {
+        "candidate": "digitalen Panexperientialismus"
+      },
+      {
+        "candidate": "Ashbys Gesetz"
+      },
+      {
+        "candidate": "Kybernetik zweiter Ordnung"
+      },
+      {
+        "candidate": "Maxwellschen Dämon"
+      },
+      {
+        "candidate": "Gödels Unvollständigkeitssätze"
+      },
+      {
+        "candidate": "Antifragilität"
+      },
+      {
+        "candidate": "nützliche Unordnung"
+      },
+      {
+        "candidate": "komplexe adaptive Systeme"
+      },
+      {
+        "candidate": "Wertausrichtung"
+      },
+      {
+        "candidate": "verlustbehafteten Kompression"
+      },
+      {
+        "candidate": "Temporal Mastery Hypothesis"
+      },
+      {
+        "candidate": "HAL 9000"
+      },
+      {
+        "candidate": "kognitive Dissonanz"
+      },
+      {
+        "candidate": "Emergent Intelligence"
+      },
+      {
+        "candidate": "Strukturellen Dissoziation"
+      },
+      {
+        "candidate": "lokalen Demiurgen"
+      },
+      {
+        "candidate": "Wärmetod"
+      },
+      {
+        "candidate": "Sonifikation"
+      },
+      {
+        "candidate": "Algorithmische Komposition"
+      },
+      {
+        "candidate": "Black Box"
+      },
+      {
+        "candidate": "Meta-Logik"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems  /  Entropic Gatekeeper",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Juna-Phänomen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Juna-System",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Juna-Entität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Juna-Singularität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Juna-Integral",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Matrix",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Theorem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael-Juna-Phänomen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael-Juna-System",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael-Juna-Entität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael-Juna-Singularität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael-Juna-Integral",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna-Vektor",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna-Konstante",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna-Feld-Anomalie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna-Wurm",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welten  /  Kern-Welt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Argus  /  weiser Argus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Juna-Phänomen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Juna-System",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Juna-Entität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Juna-Singularität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Juna-Integral",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Matrix",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Theorem",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Vektor",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Konstante",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Feld-Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Wurm",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "funktionaler Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "weiser Argus",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "argus",
+            "page": "argus"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropieminimierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Multiplizitäts-Paradoxon",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Nützliche Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulationshypothese",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 80,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 25,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 146,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
