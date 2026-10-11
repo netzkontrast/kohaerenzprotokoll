@@ -1,0 +1,311 @@
+{
+  "document": "fundament-konzept-fuer-kohaerenz-protokoll",
+  "drive_id": "1pyMSl9CzuaH9ZDYilZXkVV5wbwYMc-u4QDkFBhZYXmg",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 167,
+  "backslash_escapes": 52,
+  "typographic_marks": 440,
+  "ascii_quotes": 10,
+  "inflection_families": {
+    "integ": [
+      "Integrale",
+      "Integration",
+      "Integrationserfahrungen",
+      "Integrationslevel",
+      "Integrationsprinzip",
+      "Integrationsprozess",
+      "Integrationsreise",
+      "Integrationsstrategie",
+      "Integrationsstrategien",
+      "Integrationsthema",
+      "Integrität"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmodell",
+      "Interdependenz",
+      "Interdisziplinäre",
+      "Internet",
+      "Interpretation",
+      "Interpretationen",
+      "Interpretations",
+      "Intervention",
+      "Interventionen"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterarchitektur",
+      "Charakterbogen",
+      "Charakterbögen",
+      "Charaktere",
+      "Charakteren",
+      "Charakterhandlungen",
+      "Charakterinteraktion",
+      "Charakterzügen"
+    ],
+    "reali": [
+      "Realisierung",
+      "Realism",
+      "Reality",
+      "Realität",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsfrage",
+      "Realitätszugangs",
+      "Realitätszugänge"
+    ],
+    "grund": [
+      "Grund",
+      "Grundannahmen",
+      "Grundes",
+      "Grundgesetze",
+      "Grundlage",
+      "Grundlagen",
+      "Grundprinzipien",
+      "Grundregeln"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbezüglichkeit",
+      "Selbstgenügsamkeit",
+      "Selbstkonsistenz",
+      "Selbstkorrektur",
+      "Selbstorganisation",
+      "Selbstregulation",
+      "Selbsttranszendenz"
+    ],
+    "symme": [
+      "SYMMETRIES",
+      "Symmetrie",
+      "Symmetriebrechung",
+      "Symmetriegruppe",
+      "Symmetrien",
+      "Symmetrieprinzipien",
+      "Symmetries",
+      "Symmetry"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen",
+      "Handlungsfähigkeit",
+      "Handlungskraft",
+      "Handlungsleitende",
+      "Handlungsoptionen"
+    ],
+    "diale": [
+      "Dialectic",
+      "Dialectical",
+      "Dialectics",
+      "Dialektik",
+      "Dialetheism",
+      "Dialetheismus"
+    ],
+    "emerg": [
+      "EMERGENCE",
+      "Emergence",
+      "Emergent",
+      "Emergentism",
+      "Emergentismus",
+      "Emergenz"
+    ],
+    "funda": [
+      "Fundament",
+      "Fundamental",
+      "Fundamentale",
+      "Fundamentality",
+      "Fundamentalität",
+      "Fundaments"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptionelle",
+      "Konzeptioneller",
+      "Konzepts",
+      "Konzeptuelle"
+    ],
+    "organ": [
+      "ORGANIZATION",
+      "ORGANIZED",
+      "Organisation",
+      "Organisationsebenen",
+      "Organization",
+      "Organized"
+    ],
+    "philo": [
+      "Philosophers",
+      "Philosophical",
+      "Philosophie",
+      "Philosophien",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "psych": [
+      "Psych",
+      "Psyche",
+      "Psychofuturia",
+      "Psychologie",
+      "Psychologische",
+      "Psychology"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehlern",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtetem",
+      "Beobachtung",
+      "Beobachtungen"
+    ],
+    "erklä": [
+      "Erklärung",
+      "Erklärungen",
+      "Erklärungsanspruch",
+      "Erklärungsanspruchs",
+      "Erklärungskraft"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktpunkt",
+      "Konflikts"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxes",
+      "Paradoxien",
+      "Paradoxienauflösung",
+      "Paradoxon"
+    ],
+    "physi": [
+      "PHYSICS",
+      "Physical",
+      "Physics",
+      "Physik",
+      "Physikalismus"
+    ],
+    "poten": [
+      "Potentialität",
+      "Potentialmeer",
+      "Potenzial",
+      "Potenzials",
+      "Potenzielle"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessen",
+      "Prozesses",
+      "Prozessphilosophie"
+    ],
+    "quant": [
+      "Quantenfeldtheorie",
+      "Quantengravitation",
+      "Quantenmechanik",
+      "Quantenphysik",
+      "Quantum"
+    ],
+    "roman": [
+      "Roman",
+      "Romanprojekt",
+      "Romanprojekts",
+      "Romans",
+      "Romanwelt"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "BOHR",
+      "Bohr"
+    ],
+    [
+      "BOHR",
+      "Bohrs"
+    ],
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Bild",
+      "Gesamtbild"
+    ],
+    [
+      "Bohr",
+      "Bohrs"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Ding",
+      "Brading"
+    ],
+    [
+      "Ding",
+      "Building"
+    ],
+    [
+      "Ding",
+      "Readings"
+    ],
+    [
+      "Ding",
+      "Exceeding"
+    ],
+    [
+      "Ding",
+      "Bedingungen"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Ende",
+      "Wissenden"
+    ],
+    [
+      "Ende",
+      "Dependence"
+    ],
+    [
+      "Ende",
+      "Vertiefende"
+    ]
+  ]
+}
