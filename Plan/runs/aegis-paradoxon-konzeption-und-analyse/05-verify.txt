@@ -1,0 +1,84 @@
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Narrative Eignung"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+`Narrative Eignung` ^[aegis-paradoxon-konzeption-und-analyse.md:#5]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Mechanismus"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+`Mechanismus` ^[aegis-paradoxon-konzeption-und-analyse.md:#5]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Implikation für AEGIS/Kael/KW/JunaV"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+`Implikation für AEGIS/Kael/KW/JunaV` ^[aegis-paradoxon-konzeption-und-analyse.md:#5]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Dilemmata für AEGIS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Dilemmata für AEGIS` ^[aegis-paradoxon-konzeption-und-analyse.md:#3]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Konflikte mit Kael/JunaV"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Konflikte mit Kael/JunaV` ^[aegis-paradoxon-konzeption-und-analyse.md:#3]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Plot-Antrieb"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Plot-Antrieb` ^[aegis-paradoxon-konzeption-und-analyse.md:#3]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "\[Kontext\]"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+`\[Kontext\]` ^[aegis-paradoxon-konzeption-und-analyse.md:#6]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Paradoxon X"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Paradoxon X` ^[aegis-paradoxon-konzeption-und-analyse.md:#1]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Primärdirektive"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Primärdirektive` ^[aegis-paradoxon-konzeption-und-analyse.md:#1]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Lex"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Lex` ^[aegis-paradoxon-konzeption-und-analyse.md:#3]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Kiko"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Kiko` ^[aegis-paradoxon-konzeption-und-analyse.md:#3]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Nyx"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Nyx` ^[aegis-paradoxon-konzeption-und-analyse.md:#2]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Kernwelt 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Kernwelt 3` ^[aegis-paradoxon-konzeption-und-analyse.md:#1]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "JunaV"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+`JunaV` ^[aegis-paradoxon-konzeption-und-analyse.md:#10]
+$ python3 scripts/read.py aegis-paradoxon-konzeption-und-analyse --count "Value Alignment Problems"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Value Alignment Problems` ^[aegis-paradoxon-konzeption-und-analyse.md:#2]
+$ stance_marker_count = 5+5+5+3+3+3+6 = 30
+$ grep -c of raw lines for Lex|Kiko|Nyx
+250:  - 
+331:    
+336:1.  
+337:2.  
+338:3.  
+$ python3 scripts/capture.py --count: candidates 61 (39 + 22 lens), zeros 0 (04-counts.txt)
+$ census numbers: profile 112 escapes, 167 glued refs, 108 ascii quotes, 61 typographic marks, 3 tables (II.1, III.1, VI.1), 39 references (L356-L394)

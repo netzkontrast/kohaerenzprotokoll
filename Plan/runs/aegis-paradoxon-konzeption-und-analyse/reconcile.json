@@ -1,0 +1,226 @@
+{
+  "document": "aegis-paradoxon-konzeption-und-analyse",
+  "drive_id": "1c9qhVgWMotTyJ3iY4LWxMkf7YczTEsbyPQljOb6ewGw",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-240/brief.md; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 61,
+    "decisions": 69,
+    "decided_by_lookup": 51,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German research report proposing a central paradox for AEGIS: its new surfaces are the five candidate paradoxes, their three areas, the placeholder Paradoxon X and some twenty borrowed concepts; what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        18,
+        287,
+        288,
+        296,
+        297,
+        337
+      ],
+      "attribution": "",
+      "note": "AEGIS as the source of its own failure, in a proposed paradox"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        63
+      ],
+      "attribution": "",
+      "note": "Alters in the DID concept row"
+    },
+    {
+      "page": "did",
+      "lines": [
+        63
+      ],
+      "attribution": "",
+      "note": "DID as a borrowed concept for understanding Kael"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        69,
+        171
+      ],
+      "attribution": "",
+      "note": "Emergenz as what control cannot predict"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        18,
+        36,
+        288
+      ],
+      "attribution": "",
+      "note": "Entropie as the measure of Inkohärenz"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        124,
+        296
+      ],
+      "attribution": "",
+      "note": "Genesis as order from chaos and root of the paradox"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        16,
+        162,
+        198
+      ],
+      "attribution": "",
+      "note": "Juna/V as a possibly uncontrollable outside"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        18,
+        63,
+        162,
+        250,
+        331,
+        338
+      ],
+      "attribution": "",
+      "note": "Kael as the object AEGIS may deepen into fragmentation"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        18,
+        162,
+        171,
+        249,
+        331
+      ],
+      "attribution": "",
+      "note": "Four Kernwelten glossed by theme, with two glosses for KW1"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        331,
+        337
+      ],
+      "attribution": "",
+      "note": "Kiko in an invented illustration"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        18,
+        92,
+        287,
+        297
+      ],
+      "attribution": "",
+      "note": "Kohärenz as AEGIS' aim and the name of the recommended paradox"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        331,
+        336
+      ],
+      "attribution": "",
+      "note": "Lex in an invented illustration"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        250,
+        338
+      ],
+      "attribution": "",
+      "note": "Nyx as a part that may resist"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        42,
+        92,
+        338
+      ],
+      "attribution": "",
+      "note": "Risse as amplified instability"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        18
+      ],
+      "attribution": "",
+      "note": "TSDP named once in the restated setting"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J26 (Kernwelt and Kernwelten on kern-welten); `Juna/V` on juna (J34); `Riss` the singular of the Risse; `Kohärenz Protokoll` is the project's title; `Kohärenz-Management`, `Inkohärenz-Metriken` and `Kohärenz durch Entfremdung` are the report's own constructs, kept in the census and read on kohaerenz where they describe AEGIS's aim; `Tragische Hybris` and `Hybris` are a borrowed lens; `Juna Verbindung` an earlier plot idea the report sets aside",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 63,
+      "decision": "reading",
+      "why": "DID's multiple identities read as Kael's system"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 63,
+      "decision": "reading",
+      "why": "DID as a borrowed concept for understanding Kael"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "AEGIS's simulations in general, in the halting-problem row"
+    }
+  ],
+  "not_promoted": [
+    "the five candidate paradoxes",
+    "Kontroll-, Wissens- and Existenz-Paradoxien",
+    "Kohärenz durch Entfremdung",
+    "Paradoxon X",
+    "Monstergruppe",
+    "Primärdirektive",
+    "Kernprogrammierung",
+    "KW1–KW4 as pages of their own",
+    "the borrowed concepts (Autopoiesis, Hamartia, Halteproblem, Qualia, Theory of Mind and the rest)",
+    "Baudrillard"
+  ],
+  "internal_tension": "it calls its central paradox a proposal (L287) and then a coherent explanation (L298); KW1 is glossed „Logik/Ordnung“ at L162 and „Ordnung“ at L249",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

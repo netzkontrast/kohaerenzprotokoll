@@ -975,3 +975,6 @@
 {"document": "strategic-narrative-solutions-for-kohaerenz-protokoll", "page": "genesis", "surface": "Genesis", "line": 81, "decision": "occurrence", "why": "the Genesis Log, AEGIS's, read on aegis", "at": "2026-10-11"}
 {"document": "strategic-narrative-solutions-for-kohaerenz-protokoll", "page": "juna", "surface": "Juna", "line": 59, "decision": "reading", "why": "the Moonshine-Link to Juna/V damaged with each cycle", "at": "2026-10-11"}
 {"document": "strategic-narrative-solutions-for-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
+{"document": "aegis-paradoxon-konzeption-und-analyse", "page": "alters", "surface": "Alters", "line": 63, "decision": "reading", "why": "DID's multiple identities read as Kael's system", "at": "2026-10-11"}
+{"document": "aegis-paradoxon-konzeption-und-analyse", "page": "did", "surface": "DID", "line": 63, "decision": "reading", "why": "DID as a borrowed concept for understanding Kael", "at": "2026-10-11"}
+{"document": "aegis-paradoxon-konzeption-und-analyse", "page": "ueberwelt", "surface": "Simulation", "line": 47, "decision": "occurrence", "why": "AEGIS's simulations in general, in the halting-problem row", "at": "2026-10-11"}
