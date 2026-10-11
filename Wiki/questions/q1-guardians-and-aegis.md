@@ -526,3 +526,11 @@ One more position in the record; it decides nothing.
 In its mapping of the Objective Story it writes: „AEGIS, die KI-Gottheit dieser Welt, fungiert als der Wächter dieses Zustands“ ^[kohaerenz-protokoll-dramatica-synthese.md:L84], and „Die Charaktere (Kael, Juna, die Guardians) sind Gefangene in diesem falschen Universum“ ^[kohaerenz-protokoll-dramatica-synthese.md:L84]. The Guardians are named only in this list, without an individual profile.
 
 Stands: one more position, a report's Dramatica mapping and a proposal; nothing decided.
+
+## 2026-10-11 — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report
+
+**The paradox report defines the Guardians as specialised agents or subroutines of AEGIS, local instances of its protocols.**
+
+The definition it gives in the appendix, labelled Erweiterter Kontext 2, reads „Spezialisierte Agenten/Subroutinen von AEGIS“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L270], and its function line adds „Ausführung von AEGIS' Direktiven auf lokaler Ebene“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L271]. Their limit: „Ihre interne Komplexität reicht nicht aus, um die Komplexität von Kael/Julia zu modellieren.“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L272]
+
+Stands as one more position on the relation of the Guardians to AEGIS (subordinate agents with local protocols); it decides nothing, and the label marks the report's account of another text.
