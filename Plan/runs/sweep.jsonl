@@ -941,3 +941,10 @@
 {"document": "kohaerenz-prozess-grundlagen", "page": "multiplizitaet", "surface": "Multiplizität", "line": 17, "decision": "occurrence", "why": "the album concept, a different work", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-comprehensive-project-state-narrative-au", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-comprehensive-project-state-narrative-au", "page": "ueberwelt", "surface": "Simulation", "line": 76, "decision": "occurrence", "why": "the novel called a simulation in the roadmap", "at": "2026-10-11"}
+{"document": "dramatica-dual-storyform-mapping-analyse", "page": "alters", "surface": "Alters", "line": 121, "decision": "occurrence", "why": "a table cell, read on kael", "at": "2026-10-11"}
+{"document": "dramatica-dual-storyform-mapping-analyse", "page": "dkt", "surface": "Dual-Kernel-Theorie (DKT)", "line": 15, "decision": "reading", "why": "the DKT as the report's premise, read on dkt", "at": "2026-10-11"}
+{"document": "dramatica-dual-storyform-mapping-analyse", "page": "entropie", "surface": "Entropie", "line": 89, "decision": "occurrence", "why": "the DKT sentence, read on dkt", "at": "2026-10-11"}
+{"document": "dramatica-dual-storyform-mapping-analyse", "page": "kairos", "surface": "Kairos", "line": 75, "decision": "occurrence", "why": "Kairos/Sophia among the Guardians, read on guardians", "at": "2026-10-11"}
+{"document": "dramatica-dual-storyform-mapping-analyse", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
+{"document": "dramatica-dual-storyform-mapping-analyse", "page": "risse", "surface": "Risse", "line": 240, "decision": "occurrence", "why": "the report's own reflection, not the world's Risse", "at": "2026-10-11"}
+{"document": "dramatica-dual-storyform-mapping-analyse", "page": "sophia", "surface": "Sophia", "line": 75, "decision": "occurrence", "why": "Kairos/Sophia among the Guardians, read on guardians", "at": "2026-10-11"}
