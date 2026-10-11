@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-dramatica-synthese
+  lines                231  (frontmatter ends at 9)
+  body words           3391
+  headings             23   bold-only lines 0
+  table rows           15   code fences 0
+  question marks       2
+  backslash escapes    157
+  typographic marks    112   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    17
+  repeated labels      Implikation x4
+  longest line         801 chars
+
