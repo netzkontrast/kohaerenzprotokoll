@@ -1,10 +1,10 @@
 ---
 term: Vergessener Schrein
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "orte-konzept-fuer-kohaerenz-protokoll"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-comprehensive-project-state-narrative-au"]
 aliases: ["Vergessener Schrein (Trauma-Lokus)", "Trauma-Lokus"]
 gathered: "2026-09-17"
 ---
@@ -62,6 +62,10 @@ The Welt blueprint names the `Vergessener Schrein` once, in the first pass, as a
 ## Reading — `outline`, 2025-07-30, the outline — a Trauma-Lokus in KW2 returned to in Kap 30
 
 The outline's Kap 30 plans: „Kael kehrt zu einem entscheidenden Trauma-Lokus in“ ^[outline.md:L187] `KW2` and confronts a central traumatic memory (L187); the chapter is titled with an `Echo-Lokus` (L186). The line does not call it a shrine; whether it is the page's forgotten shrine is not stated.
+
+## Reading — `kohaerenz-protokoll-comprehensive-project-state-narrative-au`, 2026-03-26, the project-state audit — Vergessener Schrein needs revision
+
+The project-state audit lists the Vergessener Schrein in Act II as the „Site of the Kern-Trauma-Lokus“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L60] in KW2-Mnemosyne, Loc-11, and marks it NEEDS REVISION: „Non-functional until the specific“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L60] Betrayal event is defined.
 
 ## Open
 
