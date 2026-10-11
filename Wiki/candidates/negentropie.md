@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 18
-readings: 17
+sources: 19
+readings: 18
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung"]
 gathered: "2026-09-16"
 ---
 
@@ -110,6 +110,10 @@ In a passage that opens `Die Dokumente`, the protocol analysis writes: „Jede g
 ## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — psychic Negentropie as ordered mental energy in Kapitel 31
 
 In the scientific-level bullet of Kapitel 31, `Entropische Akzeptanz`, the DKT synthesis, an analysis of the plot, defines the term as an applied concept: „Psychische Negentropie als Zustand geordneter mentaler Energie“ ^[roman-synthese-mit-dual-kernel-theorie.md:L317]. The systemic bullet of the same chapter names „Stabilisierung durch kontrollierte Entropie-Gradienten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L316].
+
+## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — Negentropy in Variante B
+
+The epic enrichment brief is an unsigned German research brief of proposals and recommendations; so this is a proposal. Variante B names Juna „Juna (als neguentropische Anomalie)“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L104] and has her flood „Neguentropie“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L106] into the closed system through the Moonshine-Link.
 
 ## Reading — `duale-storyform-synthese-kohaerenz-protokoll`, 2026-04-28, the Duale Storyform-Synthese — Storyform A's outcome, new order patterns replacing AEGIS' toxic structure
 
