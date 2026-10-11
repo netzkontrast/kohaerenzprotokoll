@@ -1,0 +1,37 @@
+$ read.py causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me --count "predictable"
+including compounds            6
+
+`predictable` ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:#6]
+$ read.py causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me --count "conclusive"
+including compounds            1
+
+`conclusive` ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:#1]
+$ read.py causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me --count "Risse"
+including compounds            6
+
+`Risse` ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:#6]
+$ read.py causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me --count "Riss"
+including compounds            9
+
+`Riss` ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:#2]
+$ read.py causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me --count "Derealization"
+including compounds            1
+
+`Derealization` ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:#1]
+$ read.py causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me --count "derealization"
+including compounds            0
+
+`derealization` ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:#0]
+$ read.py causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me --count "Alex"
+including compounds            1
+
+`Alex` ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:#1]
+$ read.py causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me --count "Selene"
+including compounds            1
+
+`Selene` ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:#1]
+$ grep -c "" Sources/drive/causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md
+$ grep -n -i derealization
+100:### **5.2 Depersonalization and Derealization**
+stance_marker_count 7 = predictable 6 + conclusive 1
+backslash escapes 82, table rows 15: from 01-profile.txt
