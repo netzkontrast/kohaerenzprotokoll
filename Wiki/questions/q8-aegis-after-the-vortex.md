@@ -764,3 +764,15 @@ Stands: one more position on the fate of AEGIS, the prompt's summary; nothing de
 Pfad A: AEGIS „bleibt AEGIS seiner axiomatischen Natur treu“ ^[kohaerenz-protokoll-finale-pfeiler.md:L102] and „Das System wird trivial“ ^[kohaerenz-protokoll-finale-pfeiler.md:L102]. Its first table gives the end state as „zurückgefallen, nicht-existent“ ^[kohaerenz-protokoll-finale-pfeiler.md:L127]. Pfad B: „Der einzige Weg für AEGIS, den Kollaps zu vermeiden“ ^[kohaerenz-protokoll-finale-pfeiler.md:L110] is to give up the principle of explosion; the result „Sie wäre etwas Neues“ ^[kohaerenz-protokoll-finale-pfeiler.md:L112], and „Diese Transformation bliebe für den Leser zutiefst ambivalent“ ^[kohaerenz-protokoll-finale-pfeiler.md:L112]. The report chooses neither.
 
 Stands: one more position in the record, two options held open; it decides nothing about what becomes of AEGIS.
+
+## 2026-10-11 — `kohaerenz-protokoll-finaler-bauplan`, 2025-07-29, the definitive framework
+
+**The definitive framework gives AEGIS only Pfad B, a forced evolution, and leaves its final aims open.**
+
+„keine Niederlage, sondern eine erzwungene, radikale Evolution“ ^[kohaerenz-protokoll-finaler-bauplan.md:L69]
+
+„stürzt AEGIS in ein existenzielles Vakuum“ ^[kohaerenz-protokoll-finaler-bauplan.md:L81]
+
+„bewusst ambivalent und unklar“ ^[kohaerenz-protokoll-finaler-bauplan.md:L83]
+
+One more position in the record; it decides nothing.
