@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "romanentwurf-kohaerenz-protokoll-teil-1", "orte-konzept-fuer-kohaerenz-protokoll"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "romanentwurf-kohaerenz-protokoll-teil-1", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-comprehensive-project-state-narrative-au"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -66,6 +66,10 @@ The chapter-1 draft, an unsigned working draft, gives Michael (its early name of
 The places concept lists the place as KW1-01, tagged `Plot Pt. 1`, so it says it took the place from another text: „Standardisiertes Wohnmodul, minimalistisch, funktional, AEGIS-kontrolliert.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L288] Its narrative function there is „Kaels Basis, Ort erster Anomalien/Risse, Symbol für Kontrolle/Normalität.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L288]
 
 Profile 1 writes of its symbolism: „Ist der 'goldene Käfig' von Kaels kontrollierter Existenz.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L354] Its rules: „Zugang wird durch AEGIS-Identifikationsprotokolle kontrolliert.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L355] The interfaces answer to Kael's assigned identity, „initial vermutlich Limina-dominiert“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L355]; the Charakter connections repeat it with a hedge: „Limina (wahrscheinlich der initial dominante Alter in dieser Umgebung).“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L359] The plot connection reads „Kael erwacht hier nach dem Reboot“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L359], and the concept adds that it is „Möglicherweise Ort erster Kontaktversuche durch andere Alters (z.B. innere Stimmen) oder subtile Einflüsse von Juna.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L359]
+
+## Reading — `kohaerenz-protokoll-comprehensive-project-state-narrative-au`, 2026-03-26, the project-state audit — Kaels Initiale Wohneinheit in the fragment inventory
+
+The project-state audit lists Kaels Initiale Wohneinheit in Act I as the „Minimalist starting point KW1-LogOS“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L52], Loc-1, and marks it READY.
 
 ## Where the sources differ
 
