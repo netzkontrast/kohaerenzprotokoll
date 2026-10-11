@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "romanentwurf-kohaerenz-protokoll-teil-1"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "romanentwurf-kohaerenz-protokoll-teil-1", "orte-konzept-fuer-kohaerenz-protokoll"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -60,6 +60,16 @@ The exact spelling `Kaels Wohneinheit` stands once, on L172, in the name line of
 ## Reading — `romanentwurf-kohaerenz-protokoll-teil-1`, 2025-04-18, the chapter-1 draft — Michael's minimalist unit and a room without a light source
 
 The chapter-1 draft, an unsigned working draft, gives Michael (its early name of Kael) a dwelling. The blueprint sets scene 1 in „Michaels minimalistische, geometrische Wohneinheit in der Konstrukt-Stadt“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L73], and scene 13 in a unit with a view onto the city. The prose sketch makes the room itself: „Das Licht im Raum war indirekt, gleichmäßig, ohne Quelle und ohne Schatten“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L229]. Michael recognises it as his own: „Seine Wohneinheit.“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L229]. The draft gives the unit no number; the number 734 stands in it as Michael's own designation (scene 4).
+
+## Reading — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept — the concept's table row and profile 1 for Kael's dwelling in KW1
+
+The places concept lists the place as KW1-01, tagged `Plot Pt. 1`, so it says it took the place from another text: „Standardisiertes Wohnmodul, minimalistisch, funktional, AEGIS-kontrolliert.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L288] Its narrative function there is „Kaels Basis, Ort erster Anomalien/Risse, Symbol für Kontrolle/Normalität.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L288]
+
+Profile 1 writes of its symbolism: „Ist der 'goldene Käfig' von Kaels kontrollierter Existenz.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L354] Its rules: „Zugang wird durch AEGIS-Identifikationsprotokolle kontrolliert.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L355] The interfaces answer to Kael's assigned identity, „initial vermutlich Limina-dominiert“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L355]; the Charakter connections repeat it with a hedge: „Limina (wahrscheinlich der initial dominante Alter in dieser Umgebung).“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L359] The plot connection reads „Kael erwacht hier nach dem Reboot“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L359], and the concept adds that it is „Möglicherweise Ort erster Kontaktversuche durch andere Alters (z.B. innere Stimmen) oder subtile Einflüsse von Juna.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L359]
+
+## Where the sources differ
+
+- the places concept lists a KW1 dwelling of Kael, `Plot Pt. 1`, as an AEGIS-controlled standardised module and the place where he wakes after the reboot, with the first [[risse|Risse]]; the number it carries in the title is recorded at q7-what-734-names
 
 ## Open
 
