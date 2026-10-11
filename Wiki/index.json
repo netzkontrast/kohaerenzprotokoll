@@ -311,10 +311,13 @@
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "dramatica-storyform-fuer-romananalyse",
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 216,
-      "readings": 216,
+      "sources": 219,
+      "readings": 219,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -507,10 +510,11 @@
         "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
         "kohaerenz-protokoll-finaler-bauplan",
         "kohaerenz-protokoll-dramatica-synthese",
-        "kohaerenz-protokoll-epische-plot-anreicherung"
+        "kohaerenz-protokoll-epische-plot-anreicherung",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence"
       ],
-      "sources": 74,
-      "readings": 74,
+      "sources": 75,
+      "readings": 75,
       "conflict": "none"
     },
     "alters": {
@@ -642,10 +646,12 @@
         "aegis-paradoxon-konzeption-und-analyse",
         "roman-kohaerenz-protokoll",
         "kohaerenz-protokoll-epische-plot-anreicherung",
-        "paradoxien-der-kohaerenz-protokoll-entwicklung"
+        "paradoxien-der-kohaerenz-protokoll-entwicklung",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 123,
-      "readings": 123,
+      "sources": 125,
+      "readings": 125,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1168,10 +1174,11 @@
         "aegis-paradoxon-konzeption-und-analyse",
         "kohaerenz-protokoll-forschungsaufgabe",
         "kohaerenz-protokoll-epische-plot-anreicherung",
-        "paradoxien-der-kohaerenz-protokoll-entwicklung"
+        "paradoxien-der-kohaerenz-protokoll-entwicklung",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 63,
-      "readings": 63,
+      "sources": 64,
+      "readings": 64,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1348,10 +1355,11 @@
         "kohaerenz-protokoll-forschungsaufgabe",
         "kapitelanreicherung-mit-fundamentalen-konzepten",
         "dramatica-storyform-fuer-romananalyse",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 58,
-      "readings": 58,
+      "sources": 59,
+      "readings": 59,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1530,10 +1538,11 @@
         "roman-kohaerenz-protokoll",
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "dramatica-storyform-fuer-romananalyse",
-        "paradoxien-der-kohaerenz-protokoll-entwicklung"
+        "paradoxien-der-kohaerenz-protokoll-entwicklung",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 127,
-      "readings": 127,
+      "sources": 128,
+      "readings": 128,
       "conflict": "C2"
     },
     "erason": {
@@ -2152,10 +2161,12 @@
         "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
         "kohaerenz-protokoll-finaler-bauplan",
         "kohaerenz-protokoll-dramatica-synthese",
-        "paradoxien-der-kohaerenz-protokoll-entwicklung"
+        "paradoxien-der-kohaerenz-protokoll-entwicklung",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence"
       ],
-      "sources": 135,
-      "readings": 135,
+      "sources": 137,
+      "readings": 137,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2500,10 +2511,13 @@
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "dramatica-storyform-fuer-romananalyse",
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 205,
-      "readings": 205,
+      "sources": 208,
+      "readings": 208,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2791,10 +2805,13 @@
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "dramatica-storyform-fuer-romananalyse",
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 219,
-      "readings": 220,
+      "sources": 222,
+      "readings": 223,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3104,10 +3121,11 @@
         "kapitel-1-generierungsprozess",
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 164,
-      "readings": 163,
+      "sources": 165,
+      "readings": 164,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -3253,10 +3271,12 @@
         "kapitelanreicherung-mit-fundamentalen-konzepten",
         "kohaerenz-protokoll-dramatica-synthese",
         "dramatica-storyform-fuer-romananalyse",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence"
       ],
-      "sources": 137,
-      "readings": 138,
+      "sources": 139,
+      "readings": 140,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -3668,10 +3688,11 @@
         "kohaerenz-protokoll-detaillierter-plot-blueprint",
         "dramatica-dual-storyform-mapping-analyse",
         "kapitel-1-generierungsprozess",
-        "roman-kohaerenz-protokoll"
+        "roman-kohaerenz-protokoll",
+        "report-narrative-methodology-for-kohaerenz-protokoll"
       ],
-      "sources": 102,
-      "readings": 102,
+      "sources": 103,
+      "readings": 103,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -3870,10 +3891,12 @@
         "aegis-paradoxon-konzeption-und-analyse",
         "kapitelanreicherung-mit-fundamentalen-konzepten",
         "kohaerenz-protokoll-dramatica-synthese",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence"
       ],
-      "sources": 140,
-      "readings": 141,
+      "sources": 142,
+      "readings": 143,
       "conflict": "none"
     },
     "lia": {
@@ -5103,10 +5126,12 @@
         "kohaerenz-protokoll-dramatica-synthese",
         "kapitel-1-generierungsprozess",
         "dramatica-storyform-fuer-romananalyse",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence"
       ],
-      "sources": 141,
-      "readings": 142,
+      "sources": 143,
+      "readings": 144,
       "conflict": "C10"
     },
     "oblivion": {
@@ -5376,10 +5401,11 @@
         "kohaerenz-protokoll-finale-pfeiler",
         "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me",
         "kohaerenz-protokoll-forschungsaufgabe",
-        "paradoxien-der-kohaerenz-protokoll-entwicklung"
+        "paradoxien-der-kohaerenz-protokoll-entwicklung",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 69,
-      "readings": 70,
+      "sources": 70,
+      "readings": 71,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -5828,10 +5854,13 @@
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "dramatica-storyform-fuer-romananalyse",
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
-        "strategic-narrative-implementation-for-kohaerenz-protokoll"
+        "strategic-narrative-implementation-for-kohaerenz-protokoll",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 173,
-      "readings": 173,
+      "sources": 176,
+      "readings": 176,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -6007,10 +6036,11 @@
         "kohaerenz-protokoll-finaler-bauplan",
         "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me",
         "kohaerenz-protokoll-forschungsaufgabe",
-        "kapitelanreicherung-mit-fundamentalen-konzepten"
+        "kapitelanreicherung-mit-fundamentalen-konzepten",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence"
       ],
-      "sources": 116,
-      "readings": 116,
+      "sources": 117,
+      "readings": 117,
       "conflict": "none"
     },
     "silas": {
@@ -6537,10 +6567,13 @@
         "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me",
         "aegis-paradoxon-konzeption-und-analyse",
         "kohaerenz-protokoll-forschungsaufgabe",
-        "kapitel-1-generierungsprozess"
+        "kapitel-1-generierungsprozess",
+        "report-narrative-methodology-for-kohaerenz-protokoll",
+        "the-architecture-of-a-self-kael-s-journey-to-coherence",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 135,
-      "readings": 135,
+      "sources": 138,
+      "readings": 138,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -6666,10 +6699,11 @@
         "orte-konzept-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-detaillierter-plot-blueprint",
         "roman-kohaerenz-protokoll",
-        "paradoxien-der-kohaerenz-protokoll-entwicklung"
+        "paradoxien-der-kohaerenz-protokoll-entwicklung",
+        "tropenanalyse-fuer-kohaerenz-protokoll"
       ],
-      "sources": 102,
-      "readings": 102,
+      "sources": 103,
+      "readings": 103,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
