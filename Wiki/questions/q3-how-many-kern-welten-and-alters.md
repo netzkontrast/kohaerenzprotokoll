@@ -1180,3 +1180,11 @@ Stands as one more position, from a brief of proposals: 13 alters and four Kernw
 Its definition, labelled Erweiterter Kontext 2, reads „AEGIS' Versuch, Kael's Psyche“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L258] to divide into seemingly separate subsystems, and on their nature „sie sind jedoch nicht wirklich getrennt, sondern miteinander verbunden“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L260]. Of Kael's Anteile (Alters) it says only that they „sind Manifestationen seiner fragmentierten Psyche, die in den Kernwelten agieren“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L282].
 
 Stands as one more position on the question: the four subsystem names are listed as aspects of the psyche; the report ties no alter to a world.
+
+## 2026-10-11 — `the-architecture-of-a-self-kael-s-journey-to-coherence`, 2025-10-15, the architecture-of-a-self essay
+
+**The essay profiles five alters in a table and gives no total count.**
+
+It writes „The table below profiles the five most significant alters“ ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:L39]; the table rows are Kael (Host), Lex, Nyx, Kiko and Selene. It does not count Kern-Welten.
+
+Stands as one more position, a count of profiled alters and not of alters or worlds; it decides nothing.
