@@ -1188,3 +1188,11 @@ Stands as one more position on the question: the four subsystem names are listed
 It writes „The table below profiles the five most significant alters“ ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:L39]; the table rows are Kael (Host), Lex, Nyx, Kiko and Selene. It does not count Kern-Welten.
 
 Stands as one more position, a count of profiled alters and not of alters or worlds; it decides nothing.
+
+## 2026-10-11 — `tropenanalyse-fuer-kohaerenz-protokoll`, 2025-05-01, the trope analysis
+
+**The trope analysis proposes mapping four Kern-Welten (KW1-4) onto the ANP/EP structure of the TSDP; it names no alters of Kael and gives no count of them.**
+
+The brief the analysis recaps speaks of a simulation of Kern-Welten (KW1-4), „die Kaels Psyche spiegeln“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L124]. The mapping is the analysis's own proposal: „Die Kern-Welten können als direkte Manifestationen dieser Struktur dienen“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L161]. KW1 (Logik) is the area of the ANP functions, KW2 (Emotion/Trauma) „als Raum der EPs, die Schmerz und Erinnerungen halten“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L161], KW3 (Abwehr) „als Aktivierung der EP-Abwehrsysteme“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L161], and KW4 (Potential) „als Raum, der Integration, Kommunikation und Kooperation zwischen den Teilen ermöglicht“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L161]. In the same paragraph of advice the analysis says of the parts: „Wechsel zwischen den Anteilen“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L159] are called Alters.
+
+Stands: one more position on the question, a proposal that maps four worlds onto ANP and EP functions rather than onto individual alters; it decides neither the count nor whether a Kern-Welt corresponds to an alter.
