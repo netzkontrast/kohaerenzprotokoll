@@ -1140,3 +1140,11 @@ Stands: one more position in the record, four worlds as the analysis lists them;
 Its table is introduced as an overview of „the primary actors in a more complex system that also includes“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L41] further parts, and names „specialized ANPs (e.g., **Alex** the protector, **Selene** the integrator)“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L41]. The rows give the ANPs Kael, Lex and Rhys and the EPs Nyx, Kiko and Moros, with roles such as „The Host.“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L46], „The Rationalist.“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L47] and „The Void.“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L51]. The report gives no total of alters and says nothing of how many Kernwelten there are; it mentions „Kernwelt 1, a world of feigned perfection“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L102] only as an example of the body's correspondence check.
 
 Stands: one more position in the record, a listed subset of parts and the statement that others exist; it decides neither the number of alters nor of Kern-Welten.
+
+## 2026-10-11 — `aegis-paradoxon-konzeption-und-analyse`, 2025-04-29, the AEGIS paradox report
+
+**The report writes four Kernwelten, KW1–KW4, in the setting it restates, and names no count of alters.**
+
+„erschafft und managt sie Simulationen, die“ ^[aegis-paradoxon-konzeption-und-analyse.md:L18] the Kernwelten (KW1–KW4), marked `\[Kontext\]`. Glosses by theme: „KW1 (Logik/Ordnung)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L162], „KW2 (Emotion/Erinnerung)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L171], „KW4 (Potentialität/Emergenz)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L171]; and „KW1 (Ordnung) und KW3 (Abwehr)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L249], so the KW1 gloss differs between passages.
+
+One more position in the record; it decides nothing.
