@@ -922,3 +922,5 @@
 {"document": "kohaerenz-protokoll-detaillierte-recherche", "page": "risse", "surface": "Glitches", "line": 70, "decision": "reading", "why": "the Fundament's artefacts against AEGIS's glitches", "at": "2026-10-11"}
 {"document": "orte-konzept-fuer-kohaerenz-protokoll", "page": "kaels-wohneinheit", "surface": "Kaels Wohneinheit", "line": 205, "decision": "reading", "why": "the Wohneinheit as an example place, read on kaels-wohneinheit", "at": "2026-10-11"}
 {"document": "orte-konzept-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
+{"document": "research-prompt-dramatica-dual-storyform-synthese-aegis-thro", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
+{"document": "research-prompt-dramatica-dual-storyform-synthese-aegis-thro", "page": "ueberwelt", "surface": "Simulation", "line": 908, "decision": "occurrence", "why": "Storyform A's OS label, Manipulation der Simulation", "at": "2026-10-11"}

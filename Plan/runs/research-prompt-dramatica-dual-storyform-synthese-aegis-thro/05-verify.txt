@@ -1,0 +1,71 @@
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "Sub-Steps"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Sub-Steps` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#7]
+
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "Ziel"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Ziel` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#6]
+
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "Example trigger in this research context"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Example trigger in this research context` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#6]
+
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "Storyform C"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Storyform C` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#1]
+
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "Index"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Index` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#3]
+
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "Sentinel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Sentinel` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#3]
+
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "Phönix-Mode-Inversion"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Phönix-Mode-Inversion` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#0]
+
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "TSDP"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            5
+
+`TSDP` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#0]
+
+$ python3 scripts/read.py research-prompt-dramatica-dual-storyform-synthese-aegis-thro --count "Quasi-Hauptkanon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quasi-Hauptkanon` ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:#1]
+
+# stance_marker_count 19 = 7 + 6 + 6
+$ grep -c . profile figures (backslash escapes 519, glued ref numbers 135, 47 compounds-more-than-alone, zeros 2, candidates 180)
+  backslash escapes    519
+  glued ref numbers    135
+# counts for 180 candidates
+17
+Standing alone less often than with compounds:** 47
+Zeros:** 2
