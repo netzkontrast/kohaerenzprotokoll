@@ -978,3 +978,8 @@
 {"document": "aegis-paradoxon-konzeption-und-analyse", "page": "alters", "surface": "Alters", "line": 63, "decision": "reading", "why": "DID's multiple identities read as Kael's system", "at": "2026-10-11"}
 {"document": "aegis-paradoxon-konzeption-und-analyse", "page": "did", "surface": "DID", "line": 63, "decision": "reading", "why": "DID as a borrowed concept for understanding Kael", "at": "2026-10-11"}
 {"document": "aegis-paradoxon-konzeption-und-analyse", "page": "ueberwelt", "surface": "Simulation", "line": 47, "decision": "occurrence", "why": "AEGIS's simulations in general, in the halting-problem row", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-forschungsaufgabe", "page": "alters", "surface": "Alters", "line": 345, "decision": "occurrence", "why": "a reference title", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-forschungsaufgabe", "page": "did", "surface": "DID", "line": 105, "decision": "reading", "why": "eleven parts read as tertiary dissociation", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-forschungsaufgabe", "page": "emergenz", "surface": "Emergenz", "line": 260, "decision": "reading", "why": "Teil V, the Fundament as emergence", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-forschungsaufgabe", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the title in the heading", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-forschungsaufgabe", "page": "ueberwelt", "surface": "Simulation", "line": 64, "decision": "occurrence", "why": "the whole simulation in a specification-gaming example", "at": "2026-10-11"}
