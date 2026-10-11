@@ -1031,3 +1031,8 @@
 {"document": "tropenanalyse-fuer-kohaerenz-protokoll", "page": "entropie", "surface": "Entropie", "line": 17, "decision": "reading", "why": "Ordnung vs. Entropie among the novel's themes", "at": "2026-10-11"}
 {"document": "tropenanalyse-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
 {"document": "tropenanalyse-fuer-kohaerenz-protokoll", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 124, "decision": "occurrence", "why": "glosses the Potentialmeer, read on potentialmeer", "at": "2026-10-11"}
+{"document": "research-prompt-dramatica-dual-storyform-mapping-md", "page": "dkt", "surface": "Dual-Kernel-Theorie (DKT)", "line": 217, "decision": "reading", "why": "AEGIS believes it is K1 but is K0", "at": "2026-10-11"}
+{"document": "research-prompt-dramatica-dual-storyform-mapping-md", "page": "entropie", "surface": "Entropie", "line": 197, "decision": "occurrence", "why": "light pass: the AEGIS capsule, read on aegis", "at": "2026-10-11"}
+{"document": "research-prompt-dramatica-dual-storyform-mapping-md", "page": "kairos", "surface": "Kairos", "line": 209, "decision": "occurrence", "why": "light pass: named in the Guardians capsule, read on guardians", "at": "2026-10-11"}
+{"document": "research-prompt-dramatica-dual-storyform-mapping-md", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
+{"document": "research-prompt-dramatica-dual-storyform-mapping-md", "page": "sophia", "surface": "Sophia", "line": 209, "decision": "occurrence", "why": "light pass: named in the Guardians capsule, read on guardians", "at": "2026-10-11"}
