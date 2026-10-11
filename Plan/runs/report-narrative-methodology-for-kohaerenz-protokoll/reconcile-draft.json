@@ -1,0 +1,150 @@
+{
+  "document": "report-narrative-methodology-for-kohaerenz-protokoll",
+  "drive_id": "1bQid5yPEgLMnB8HWZd4nIXfTEkvKO5IGHXq9t8bXd4U",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 48,
+    "decisions": 47,
+    "decided_by_lookup": 32,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        27,
+        28,
+        51,
+        63
+      ],
+      "attribution": "",
+      "note": "directives for AEGIS's voice as a logic-bound system"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        72,
+        79,
+        80
+      ],
+      "attribution": "",
+      "note": "the Guardians as functional manifestations of AEGIS's logic"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        96
+      ],
+      "attribution": "",
+      "note": "ambiguity about Juna/V"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        34,
+        40,
+        51
+      ],
+      "attribution": "",
+      "note": "directives for the evolution of Kael's voice"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "a name in a sample sentence"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as a way to show AEGIS's control"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        49,
+        80
+      ],
+      "attribution": "",
+      "note": "Lex's rhythm and the assault on his logic"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "Nyx's staccato phrases"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "the Risse as breakdowns of narrative form"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        34
+      ],
+      "attribution": "",
+      "note": "TSDP as the starting state of Kael's voice"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 96,
+      "decision": "reading",
+      "why": "ambiguity to be kept about Juna/V"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
