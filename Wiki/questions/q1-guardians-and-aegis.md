@@ -534,3 +534,11 @@ Stands: one more position, a report's Dramatica mapping and a proposal; nothing 
 The definition it gives in the appendix, labelled Erweiterter Kontext 2, reads „Spezialisierte Agenten/Subroutinen von AEGIS“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L270], and its function line adds „Ausführung von AEGIS' Direktiven auf lokaler Ebene“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L271]. Their limit: „Ihre interne Komplexität reicht nicht aus, um die Komplexität von Kael/Julia zu modellieren.“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L272]
 
 Stands as one more position on the relation of the Guardians to AEGIS (subordinate agents with local protocols); it decides nothing, and the label marks the report's account of another text.
+
+## 2026-10-11 — `report-narrative-methodology-for-kohaerenz-protokoll`, 2025-10-15, the methodology report
+
+**The methodology report directs the Guardians as functional manifestations of AEGIS's logic, not independent actors.**
+
+It writes that they „do not function as independent actors with their own motivations and desires“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L72] and serve as „functional manifestations of AEGIS's core logic and its pathological, trauma-induced defense mechanisms“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L72]. It adds that they operate within AEGIS's system of laws: „Their existence is one of adherence to fundamental law, not obedience to a master“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L79].
+
+Stands as one more position, a directive for a writer; it decides nothing.
