@@ -927,3 +927,5 @@
 {"document": "kohaerenz-protokoll-detaillierter-plot-blueprint", "page": "genesis", "surface": "Genesis", "line": 25, "decision": "occurrence", "why": "an integrated document's title", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-detaillierter-plot-blueprint", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-detaillierter-plot-blueprint", "page": "partnerin", "surface": "Partnerin", "line": 71, "decision": "occurrence", "why": "a common noun for Juna, not the page's term", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-analyse-und-synthese", "page": "emergenz", "surface": "Emergenz", "line": 32, "decision": "occurrence", "why": "emergence in general, not AEGIS's emergence", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-analyse-und-synthese", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
