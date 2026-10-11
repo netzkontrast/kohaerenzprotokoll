@@ -1,0 +1,231 @@
+{
+  "document": "aegis-analyse-und-manifest-postulation",
+  "drive_id": "1SWxd5ZBufgM01zWjySAfi_ICsJ3LPxE3R1OuBmxInCQ",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 83,
+    "decisions": 90,
+    "decided_by_lookup": 68,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        162,
+        164,
+        171,
+        174
+      ],
+      "attribution": "",
+      "note": "the protocol list the essay reports from a fictional protocol text"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        150,
+        153,
+        157,
+        162,
+        191,
+        234,
+        251,
+        252,
+        290,
+        292,
+        304,
+        306
+      ],
+      "attribution": "",
+      "note": "an essay that introduces AEGIS as a hypothesis, reports its philosophy and protocols, and postulates a manifesto"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        359
+      ],
+      "attribution": "",
+      "note": "the essay's question about Kael's Alters and AEGIS"
+    },
+    {
+      "page": "did",
+      "lines": [
+        252,
+        262
+      ],
+      "attribution": "",
+      "note": "the essay's reading of Kael's DID against AEGIS"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        154,
+        296
+      ],
+      "attribution": "",
+      "note": "Emergenz durch Negation, in the essay's report and manifesto"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        157,
+        304
+      ],
+      "attribution": "",
+      "note": "the Entropic Gatekeeper and Entropiewächter in the essay"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        284,
+        349
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as what AEGIS excludes"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        167,
+        281,
+        329
+      ],
+      "attribution": "",
+      "note": "the Guardians' blind spots as consequences of AEGIS's logic"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        284
+      ],
+      "attribution": "",
+      "note": "Juna as what AEGIS excludes, in the essay's evaluation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        252,
+        262,
+        362
+      ],
+      "attribution": "",
+      "note": "the essay's reading of AEGIS against Kael's fragmented psyche"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        172,
+        252
+      ],
+      "attribution": "",
+      "note": "Kern-Welten in the essay's protocol list and evaluation"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        153,
+        292
+      ],
+      "attribution": "",
+      "note": "Kohärenz as internal validity replacing external truth, in the essay"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        262,
+        282,
+        330
+      ],
+      "attribution": "",
+      "note": "the Hypothese der Negentropie-Fehlinterpretation"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        283,
+        350
+      ],
+      "attribution": "",
+      "note": "the Risse as failures of implementation, in the essay"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        162,
+        172,
+        251
+      ],
+      "attribution": "",
+      "note": "the essay's judgement of AEGIS for the digital Überwelt"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 359,
+      "decision": "reading",
+      "why": "how Kael's alters relate to AEGIS"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 252,
+      "decision": "reading",
+      "why": "AEGIS problematic for Kael's DID"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 17,
+      "decision": "reading",
+      "why": "the hypothesis's terms"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 15,
+      "decision": "reading",
+      "why": "the essay's frame of order and disorder"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "reading",
+      "why": "internal coherence as the hypothesis's basis"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

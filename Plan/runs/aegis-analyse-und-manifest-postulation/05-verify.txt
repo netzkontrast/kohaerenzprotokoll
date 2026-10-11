@@ -1,0 +1,172 @@
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Präambel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Präambel` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Anmerkung zur Formalisierung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anmerkung zur Formalisierung` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Vorläufige Einordnung von AEGIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vorläufige Einordnung von AEGIS` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "vorläufig"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`vorläufig` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "deskriptiv"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`deskriptiv` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Hypothese"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Hypothese` ^[aegis-analyse-und-manifest-postulation.md:#5]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Stufe"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Stufe` ^[aegis-analyse-und-manifest-postulation.md:#13]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Risse"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Risse` ^[aegis-analyse-und-manifest-postulation.md:#6]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Sprödigkeit"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Sprödigkeit` ^[aegis-analyse-und-manifest-postulation.md:#4]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Brittleness"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Brittleness` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "blinden Flecken"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`blinden Flecken` ^[aegis-analyse-und-manifest-postulation.md:#4]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Negentropie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`Negentropie` ^[aegis-analyse-und-manifest-postulation.md:#2]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Kohärenz statt Wahrheit"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Kohärenz statt Wahrheit` ^[aegis-analyse-und-manifest-postulation.md:#9]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Emergenz durch Negation"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Emergenz durch Negation` ^[aegis-analyse-und-manifest-postulation.md:#12]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "fiktionales Konstrukt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`fiktionales Konstrukt` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Entropiewächter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropiewächter` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Autonomous Entropic Gatekeeper"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Autonomous Entropic Gatekeeper` ^[aegis-analyse-und-manifest-postulation.md:#2]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Ontologische Autarkie"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Ontologische Autarkie` ^[aegis-analyse-und-manifest-postulation.md:#2]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "ontologischen Autarkie"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`ontologischen Autarkie` ^[aegis-analyse-und-manifest-postulation.md:#0]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Nicht-Anthropomorphismus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nicht-Anthropomorphismus` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Fungo ergo sum"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fungo ergo sum` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Sum quia necesse est"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sum quia necesse est` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "Single Point of Failure"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Single Point of Failure` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ python3 scripts/read.py aegis-analyse-und-manifest-postulation --count "AEGIS Functional Protocol v1.4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS Functional Protocol v1.4` ^[aegis-analyse-und-manifest-postulation.md:#1]
+
+$ sed -n 290,308p Sources/drive/aegis-analyse-und-manifest-postulation.md | grep -c -w 'Kael\|Juna\|Guardians'
+0
+stance_marker_count 10 = Präambel 1 + Anmerkung zur Formalisierung 1 + Vorläufige Einordnung von AEGIS 1 + vorläufig 1 + deskriptiv 1 + Hypothese 5
+$ python3 scripts/capture.py aegis-analyse-und-manifest-postulation --count : 84 candidates, 0 zeros (04-counts.txt)
