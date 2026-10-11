@@ -748,3 +748,11 @@ One more position in the record; it decides nothing about what AEGIS is after th
 In the Gödel-Gambit phase it reads: „AEGIS is forced by its prime directive of self-preservation to abandon its fundamental axiom“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L74]. It adopts „It adopts a paraconsistent logical framework not as an act of enlightenment, but of survival“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L76], a state of `algorithmic melancholy`, read as the `Entzug/Verschmelzung`: „a perpetual, non-emotive contemplation of a truth it can now process but can never subjectively understand“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L76]. It does not name the Vortex or Oblivion.
 
 Stands: one more position in the record, AEGIS as a contemplative, isolated logic after the climax; the decision recorded on the page is not touched.
+
+## 2026-10-11 — `research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m`, 2026-04-30, the storyform rebuild prompt
+
+**The storyform rebuild prompt's primer gives AEGIS the fate Algorithmische Melancholie.**
+
+The primer: „Schicksal: Algorithmische Melancholie“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L363]. It makes the Vortex the product of the Truth Rotation: „genau diese Inversion erzeugt den Vortex“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L395]. It says nothing in the primer of AEGIS's status after the Vortex beyond that fate.
+
+Stands: one more position on the fate of AEGIS, the prompt's summary; nothing decided.
