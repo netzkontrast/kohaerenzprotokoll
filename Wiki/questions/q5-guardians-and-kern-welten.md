@@ -781,3 +781,11 @@ Stands: one more position in the record, five Guardians over four worlds as the 
 The primer lists `LogOS`, `Mnemosyne`, `Cerberus` and `Kairos/Sophia`, „jeder einer der vier Kernwelten zugeordnet“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L371].
 
 Stands: one more position, four Guardians over four worlds as the primer summarises it; nothing decided.
+
+## 2026-10-11 — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief
+
+**The epic enrichment brief places the Cerberus-Zitadelle in KW3 and says nothing of Guardians here.**
+
+It proposes „In der Cerberus-Zitadelle (KW3) entbrennt ein fraktaler Grabenkampf“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L63], in the Act II of its own frame.
+
+Stands as one more position on the Kernwelt of the Cerberus-Zitadelle; recorded, not applied.
