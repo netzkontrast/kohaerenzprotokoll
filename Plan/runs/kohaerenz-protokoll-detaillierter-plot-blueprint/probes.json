@@ -1,0 +1,144 @@
+{
+  "document": "kohaerenz-protokoll-detaillierter-plot-blueprint",
+  "drive_id": "1IW6zREKcCCpANxpIhmMBi19h-ASqT-Q1cwkb9aSpP94",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 7,
+  "backslash_escapes": 6,
+  "typographic_marks": 75,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systembericht",
+      "Systemik",
+      "Systemische",
+      "Systemischer",
+      "Systemtod"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters"
+    ],
+    "bezie": [
+      "Beziehungsdynamik",
+      "Beziehungsreaktivierung"
+    ],
+    "exter": [
+      "Externe",
+      "Externen"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "karne": [
+      "Karneval",
+      "Karnevals"
+    ],
+    "leser": [
+      "Leser",
+      "Lesers"
+    ],
+    "momen": [
+      "Moment",
+      "Momenten"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbeherrschung"
+    ],
+    "unive": [
+      "Universal",
+      "Universums"
+    ],
+    "welte": [
+      "Welten",
+      "Welterkundung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Date",
+      "Datenübertragung"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernfragen"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Welterkundung"
+    ],
+    [
+      "Ebene",
+      "Simulationsebene"
+    ],
+    [
+      "Leser",
+      "Lesers"
+    ],
+    [
+      "Thema",
+      "Mathematik"
+    ],
+    [
+      "Moment",
+      "Momenten"
+    ],
+    [
+      "Selbst",
+      "Selbstbeherrschung"
+    ],
+    [
+      "System",
+      "Systemik"
+    ],
+    [
+      "System",
+      "Systemtod"
+    ],
+    [
+      "System",
+      "Systemische"
+    ],
+    [
+      "System",
+      "Systemischer"
+    ],
+    [
+      "System",
+      "Systembericht"
+    ],
+    [
+      "Wissen",
+      "Orientierungswissenschaft"
+    ],
+    [
+      "Externe",
+      "Externen"
+    ]
+  ]
+}

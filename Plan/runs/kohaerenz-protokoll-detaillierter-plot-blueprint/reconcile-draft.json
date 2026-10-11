@@ -1,0 +1,262 @@
+{
+  "document": "kohaerenz-protokoll-detaillierter-plot-blueprint",
+  "drive_id": "1IW6zREKcCCpANxpIhmMBi19h-ASqT-Q1cwkb9aSpP94",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 64,
+    "decisions": 67,
+    "decided_by_lookup": 55,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        29,
+        55,
+        67,
+        71,
+        74,
+        81
+      ],
+      "attribution": "",
+      "note": "three accounts of AEGIS: algorithm, filter, projection"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        51,
+        55,
+        72
+      ],
+      "attribution": "",
+      "note": "Entropie as the trauma AEGIS filters, and as chaos"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        17,
+        67,
+        72
+      ],
+      "attribution": "",
+      "note": "the Externe Ebene as Part III's breakthrough, grounded in a real setting"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        38,
+        42,
+        46
+      ],
+      "attribution": "",
+      "note": "Part II as the confrontation with the Guardians"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        42,
+        50,
+        51,
+        67,
+        71,
+        74,
+        82
+      ],
+      "attribution": "",
+      "note": "Juna as an anomaly, an echo, a partner and a bridge"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        25,
+        32,
+        42,
+        55,
+        56,
+        67,
+        71,
+        74,
+        80
+      ],
+      "attribution": "",
+      "note": "a plan of Kael from waking to the closing answer"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        42,
+        57
+      ],
+      "attribution": "",
+      "note": "Kairos in Part II"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        25,
+        30
+      ],
+      "attribution": "",
+      "note": "the city as a cold prison and an antagonist"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        50,
+        55
+      ],
+      "attribution": "",
+      "note": "LogOS's two scenes in Part II"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        51,
+        56
+      ],
+      "attribution": "",
+      "note": "Mnemosyne distorts and recalibrates"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        74
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz in the final system report"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "the Nexus as the place of the Guardians"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        73,
+        82
+      ],
+      "attribution": "",
+      "note": "the Nichts as space of integration, Juna against its noise"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "regions that cannot be reached"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "the Überwelt as Part II's concept"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C13"
+  ],
+  "questions_changed": [
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 25,
+      "decision": "occurrence",
+      "why": "an integrated document's title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 71,
+      "decision": "occurrence",
+      "why": "a common noun for Juna, not the page's term"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

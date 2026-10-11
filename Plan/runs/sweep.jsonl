@@ -924,3 +924,6 @@
 {"document": "orte-konzept-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
 {"document": "research-prompt-dramatica-dual-storyform-synthese-aegis-thro", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
 {"document": "research-prompt-dramatica-dual-storyform-synthese-aegis-thro", "page": "ueberwelt", "surface": "Simulation", "line": 908, "decision": "occurrence", "why": "Storyform A's OS label, Manipulation der Simulation", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-detaillierter-plot-blueprint", "page": "genesis", "surface": "Genesis", "line": 25, "decision": "occurrence", "why": "an integrated document's title", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-detaillierter-plot-blueprint", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-detaillierter-plot-blueprint", "page": "partnerin", "surface": "Partnerin", "line": 71, "decision": "occurrence", "why": "a common noun for Juna, not the page's term", "at": "2026-10-11"}
