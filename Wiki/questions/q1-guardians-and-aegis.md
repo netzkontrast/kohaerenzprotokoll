@@ -478,3 +478,11 @@ Stands as one more position in the record's terms: the Guardians are AEGIS's age
 UW-01 (`Concept Doc`) lists „AEGIS (Kern-KI), Guardians (als Interface)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L324]; UW-05 is „Knotenpunkte, über die die Guardians mit AEGIS und den KWs interagieren.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L328] Profile 13 adds „Schnittstellen zu den Guardians“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L521] among the landmarks and „Die Guardians (als primäre Schnittstellen oder Verteidiger)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L523].
 
 Stands as one more position on the relation of Guardians to AEGIS: an interface and hubs, not a hierarchy stated; recorded, nothing decided.
+
+## 2026-10-11 — `research-prompt-dramatica-dual-storyform-synthese-aegis-thro`, 2026-04-29, the storyform research prompt
+
+**Under its H2 hypothesis the storyform research prompt puts AEGIS in OS and a Guardian in MC.**
+
+„AEGIS-als-Totalität = OS, ein Guardian = MC“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L165]; candidates: „Truth-Enforcement-Guardian“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1062], „Memory-Archive-Guardian, Setting-Träger des Klimax“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1063], „Boundary-Enforcement-Guardian“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1064], „Ambivalent, im Wächter-Zwiespalt verfangen“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1065].
+
+Stands as one more position in the record (a hypothesis of the prompt); it decides nothing.
