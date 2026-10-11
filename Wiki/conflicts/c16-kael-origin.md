@@ -465,3 +465,11 @@ Stands as one more position in the record of C16; it resolves nothing.
 The research report speaks of a Fragment 'O' only after AEGIS's transformation: Kael discovers it, „eine asymmetrisch fragmentierte“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L315] other half of himself. It does not say whose fragment Kael is; the passage concerns an encounter and an ethical test, and the report names the discovery as that test of applying integration to an external relationship.
 
 Stands as one more position near the record of C16, about an other half rather than about Kael's origin; it decides nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-comprehensive-project-state-narrative-au`, 2026-03-26, the project-state audit
+
+**The project-state audit reports, citing Plot-Exploration, that Kael's origin is traced to the Coherence Island.**
+
+The audit's first pillar says, reporting `Plot-Exploration, II`, that „his origin is traced directly to the“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L17] Coherence Island, making him a manifestation of integrated complexity. Its comment is that his existence as an anomaly means „AEGIS cannot simply delete him without triggering its own systemic collapse.“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L18] The audit does not say that Kael is a fragment of an entity M or of AEGIS.
+
+Stands as one more position in the record: an audit reporting another text, with Kael's origin at the Coherence Island; recorded, nothing decided.
