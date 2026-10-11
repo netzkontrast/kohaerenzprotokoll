@@ -610,3 +610,11 @@ This stands in the record as one more position on the link's boundary; it decide
 The term stands in the heading „Ein Moonshine-Link jenseits der Kontrolle“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L161]; the body does not explain it. The connection is called the „ontologischen Exploit“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L165], and: „Ihre Verbindung ist kein Signal, das durch den Raum gesendet wird, sondern ein gemeinsamer Zustand.“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L175]
 
 Stands as one more position in the record; it draws no boundary for the Moonshine-Link.
+
+## 2026-10-11 — `kohaerenz-protokoll-dramatica-synthese`, 2025-12-05, the Dramatica synthesis report
+
+**The Dramatica synthesis report assigns the Moonshine-Link to Juna's Ability and calls it a metaphorical adaptation of quantum entanglement.**
+
+It writes: „Sie kann den Moonshine-Link nutzen“ ^[kohaerenz-protokoll-dramatica-synthese.md:L124], and „eine metaphorische Adaption der Quantenverschränkung“ ^[kohaerenz-protokoll-dramatica-synthese.md:L124], with the Monstrous Moonshine Conjecture named in a parenthesis. The report does not draw a boundary between metaphor and mathematics beyond that wording.
+
+Stands: one more position on how the term is framed; nothing decided.
