@@ -789,3 +789,11 @@ Stands: one more position, four Guardians over four worlds as the primer summari
 It proposes „In der Cerberus-Zitadelle (KW3) entbrennt ein fraktaler Grabenkampf“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L63], in the Act II of its own frame.
 
 Stands as one more position on the Kernwelt of the Cerberus-Zitadelle; recorded, not applied.
+
+## 2026-10-11 — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report
+
+**The paradox report has the Guardians operate in and monitor the Kernwelten.**
+
+The definition labelled Erweiterter Kontext 2 says the Guardians operate in the Kernwelten, and the function line has „Überwachung und Steuerung der Kernwelten“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L271]. The Kernwelten entry says „Guardians überwachen sie“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L261]. The table of a possible structure pairs a Guardian with a world: „Guardian (Logik), Kern-Welt 1“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L345].
+
+Stands as one more position on how the Guardians relate to the Kernwelten; it decides nothing, and the table is the report's proposed outline.
