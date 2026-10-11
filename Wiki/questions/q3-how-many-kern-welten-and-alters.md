@@ -1204,3 +1204,11 @@ Stands: one more position on the question, a proposal that maps four worlds onto
 The Kael capsule gives „Mensch mit dissoziativer Identitätsstörung“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L193] with a system of thirteen alters (five ANPs, five EPs, one Sonder-Alter, two Spiegel-Alter); a second capsule lists them by function with „13 Alter mit eindeutigen Funktionen“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L213]. The Guardians capsule says the four Guardians „korrelieren mit den vier“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L209] Kernwelten.
 
 Stands: one more position, a prompt's constraint rather than a finding; nothing decided.
+
+## 2026-10-11 — `arbeitshilfe-kohaerenz-protokoll-kapitel-2`, 2025-04-20, the chapter-2 expert analysis
+
+**The analysis names four alters for chapter 2 and a collapsing KW1 with KW2 at the threshold; it states no count of worlds or alters and no correspondence between them.**
+
+For the alters: the working aid, as reported, wants „Darstellung des Einflusses spezifischer Alters (Limina, Nox, Praetor, Echo/Silas)“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L51]. For the worlds: Kael passes „aus der kollabierten Kern-Welt“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L15] toward KW2, and the analysis proposes „Erste Andeutungen der Identität und Regeln von“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L280] KW2 in the last beat; the beat table has „Erste Wahrnehmung der Schwelle/Ausläufer von“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L225] KW2. The alters are named for one chapter's part and are not offered as a full list.
+
+Stands: a position in the record, a set of proposals for chapter 2 part 1; open as the record has it.
