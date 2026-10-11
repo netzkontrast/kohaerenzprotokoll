@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 33
-readings: 33
+sources: 34
+readings: 34
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "kohaerenz-protokoll-detaillierte-recherche", "orte-konzept-fuer-kohaerenz-protokoll"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "kohaerenz-protokoll-detaillierte-recherche", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-finale-pfeiler"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -143,6 +143,10 @@ The letter says the Grounding-Artefakte are phenomena AEGIS's simulation cannot 
 ## Reading — `kohaerenz-protokoll-detaillierte-recherche`, 2025-07-29, the detailed research report — Das Fundament as the deeper, integrative level of reality
 
 The research report places the Fundament against the Leere as „die tiefere, integrative Realitätsebene“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L56]. It states that „Es wird definitiv nicht als ein Ort, eine Substanz oder eine bewusste Entität konzipiert“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L56], but as a relational process of reality (the line continues).
+
+## Reading — `kohaerenz-protokoll-finale-pfeiler`, 2025-07-29, the final pillars report — the ultimate level of reality as the pivot
+
+The final pillars report opens with the question of „der ultimativen Realitätsebene“ ^[kohaerenz-protokoll-finale-pfeiler.md:L22], the Fundament, as the ontological pivot of the ending. It then defines the Fundament as „keine weitere Simulationsebene“ ^[kohaerenz-protokoll-finale-pfeiler.md:L30].
 
 ## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — the deepest level of reality as a process
 
