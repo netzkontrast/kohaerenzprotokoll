@@ -277,3 +277,11 @@ Stands with the Überwelt as AEGIS's domain and the Nexus as an open, hedged pos
 Light pass, closing `Erweiterter Kontext` only. The Überwelt is „die primäre Realitätsebene der Guardians“ ^[recherche-ueberwelt.md:L188], and „die Manifestation des zugrundeliegenden Systems“ ^[recherche-ueberwelt.md:L189]. The commission writes: „Die Überwelt bildet den fundamentalen Gegensatz zur“ ^[recherche-ueberwelt.md:L195] Externe Ebene. The passage does not mention a Nexus or an Überraum.
 
 Stands as the Überwelt placed with the Guardians and the system, against the Externe Ebene; recorded, the question stays open.
+
+## 2026-10-11 — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible
+
+**The world bible knows the Überwelt only, as AEGIS's domain; `Nexus` and `Überraum` do not stand in it.**
+
+It defines the Überwelt as „the abstract, information-based reality where AEGIS's core processes run“ ^[the-coherence-protocol-a-world-bible.md:L153] and „a space beyond conventional physics“ ^[the-coherence-protocol-a-world-bible.md:L153]. The counts: `Nexus` ^[the-coherence-protocol-a-world-bible.md:#0], `Überraum` ^[the-coherence-protocol-a-world-bible.md:#0], `Überwelt` ^[the-coherence-protocol-a-world-bible.md:#2].
+
+Stands as one more position in the record's terms: Überwelt as AEGIS's domain; recorded, not decided.
