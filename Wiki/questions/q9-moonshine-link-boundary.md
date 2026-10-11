@@ -635,3 +635,11 @@ Stands as one more position on how the link crosses a boundary; recorded, not ap
 > „Die Beziehung zwischen Kael und AEGIS (und Juna) wird als“ ^[dramatica-storyform-fuer-romananalyse.md:L106]
 
 Where it stands: one more position under Q9; it places the link as a relationship of the three, and the question stays open.
+
+## 2026-10-11 — `strategic-narrative-implementation-for-kohaerenz-protokoll`, 2025-11-03, the implementation guide
+
+**The implementation guide proposes a non-local Moonshine-Link to Juna/V whose effect AEGIS registers only as random anomalies or system noise.**
+
+In Crack 2 AEGIS's sensors register Kael's insight but „can only classify it as a series of“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L91] random, uncorrelated anomalies, and the reader understands it as the effect of the „non-local“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L91] link. The guide says this shows forces that AEGIS is „ontologically blind“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L92] to (L91–L92).
+
+Stands: one more position on where the link's effect meets AEGIS's perception, a proposal that decides nothing.
