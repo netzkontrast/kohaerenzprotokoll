@@ -494,3 +494,11 @@ Stands as one more position in the record (a hypothesis of the prompt); it decid
 Branch 4: „dezentralen Architektur (vier Guardians: LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[dramatica-dual-storyform-mapping-analyse.md:L75]; verdict „Zweig verworfen.“ ^[dramatica-dual-storyform-mapping-analyse.md:L55].
 
 One more position in the record; it decides nothing about whether the Guardians are components of AEGIS, peers or a replaced design.
+
+## 2026-10-11 — `dramaturgical-precision-deconstructing-the-irreversible-conf`, 2025-11-03, the dramaturgical analysis
+
+**The dramaturgical analysis has the Guardians run AEGIS's four analytical laboratories.**
+
+In the Correction phase (Kap 1–13) it reads the Core Worlds as „each an analytical laboratory run by a specialized Guardian“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L27], the laboratories being the mechanism of AEGIS's `Correction` protocol.
+
+Stands: one more position in the record, the Guardians as specialised runners within AEGIS's Correction; component, peer or replaced design is not decided here.
