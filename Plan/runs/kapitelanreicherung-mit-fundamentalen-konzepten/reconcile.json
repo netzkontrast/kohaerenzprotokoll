@@ -1,0 +1,239 @@
+{
+  "document": "kapitelanreicherung-mit-fundamentalen-konzepten",
+  "drive_id": "1XTvNA_ugW9ZtVOp0ctU7deQ9D1q_C4FReYNnCPkrWs4",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-242/brief.md; chapter readings Kap 1–39 written by the session (Plan/runs/ingest-242-kap/)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 60,
+    "decided_by_lookup": 55,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German report keying one fundamental concept to each of the 39 chapters of a plot draft: its new surfaces are the 39 concepts, the three journeys (HJn, Zyklische Bewährung, HJ), the Bunker, Paraiyas, PP-SYS-01/03, Paradoxon X, Kerntrauma and Täterintrojekte; what it says of the novel's world went on existing pages, 39 chapter pages and one record.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        38,
+        47,
+        70
+      ],
+      "attribution": "",
+      "note": "AEGIS as the systemic control the concepts are keyed to"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        39,
+        46,
+        57
+      ],
+      "attribution": "",
+      "note": "Alex?, an ANP in cooperation and preparation"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "Emergenz among the principles AEGIS rejects"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        38,
+        50
+      ],
+      "attribution": "",
+      "note": "Juna/V as external resonance and stabilising resource"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        30,
+        40,
+        51,
+        52,
+        66
+      ],
+      "attribution": "",
+      "note": "Kael as the ANP whose concepts run through the draft"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        31,
+        40,
+        61,
+        66
+      ],
+      "attribution": "",
+      "note": "Kiko as the part emerging from betrayal and bearing the core trauma"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        32,
+        46
+      ],
+      "attribution": "",
+      "note": "Lex among the ANPs"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        36,
+        68
+      ],
+      "attribution": "",
+      "note": "Moros? in stagnation, and Moros made conscious"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        46,
+        54
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as chapter 15's concept and a possible goal"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        33,
+        45
+      ],
+      "attribution": "",
+      "note": "Nyx? as chaotic dissociative coping"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        39,
+        46,
+        57
+      ],
+      "attribution": "",
+      "note": "Rhys among cooperating and coordinating parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "Risse as hints of deeper truths"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        63,
+        66,
+        70
+      ],
+      "attribution": "",
+      "note": "Selene as the Self and inner mentor"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q4"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` on juna (J34); `Kohärenz Protokoll` is the novel's title; `Depersonalisation / Derealisation` a symptom, not the Personas; `Akzeptanz der Multiplizität` a chapter concept, read on multiplizitaet",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 56,
+      "decision": "reading",
+      "why": "among the Paraiyas AEGIS rejects"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 51,
+      "decision": "reading",
+      "why": "Risse read as hints of deeper truths"
+    }
+  ],
+  "not_promoted": [
+    "the 39 chapter concepts",
+    "HJn, Zyklische Bewährung, HJ",
+    "Bunker",
+    "Paraiyas",
+    "PP-SYS-01, PP-SYS-03",
+    "Paradoxon X",
+    "Kerntrauma",
+    "Täterintrojekte"
+  ],
+  "internal_tension": "it rests on a list of concepts it presupposes and never prints (L16); several figures stand with its own question mark (L33, L36, L39, L40, L53)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

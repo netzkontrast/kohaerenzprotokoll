@@ -1,0 +1,246 @@
+{
+  "document": "kapitelanreicherung-mit-fundamentalen-konzepten",
+  "drive_id": "1XTvNA_ugW9ZtVOp0ctU7deQ9D1q_C4FReYNnCPkrWs4",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 41,
+  "backslash_escapes": 190,
+  "typographic_marks": 43,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdynamik",
+      "Systemebene",
+      "Systeminstabilität",
+      "Systems",
+      "Systemspannungen",
+      "Systemstörung",
+      "Systemüberlastung"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsimpuls",
+      "Heilungsinitiierung",
+      "Heilungsprozess",
+      "Heilungsprozesse",
+      "Heilungsprozessen",
+      "Heilungsversuche"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaerfahrung",
+      "Traumainduzierte",
+      "Traumareaktion",
+      "Traumas",
+      "Traumasymptomen",
+      "Traumatisches"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltagsbewältigung",
+      "Alltagsintegration",
+      "Alltagsleben",
+      "Alltagslebens",
+      "Alltagssituation"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeptanalyse",
+      "Konzepte",
+      "Konzepten",
+      "Konzepts",
+      "Konzeptuellen"
+    ],
+    "disso": [
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativer"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitätsfragmentierung",
+      "Identitätsstörung"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelnummer",
+      "Kapitels",
+      "Kapitelübersicht"
+    ],
+    "kontr": [
+      "Kontrolldruck",
+      "Kontrolle",
+      "Kontrollsystem",
+      "Kontrollversuch"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturierung"
+    ],
+    "wider": [
+      "Widerstand",
+      "Widerstandsfähigkeit",
+      "Widerstände",
+      "Widerständen"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen",
+      "Abwehrmechanismus"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstsein",
+      "Bewusstwerdung"
+    ],
+    "bewäl": [
+      "Bewältigung",
+      "Bewältigungsmechanismen",
+      "Bewältigungsstrategien"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "fokus": [
+      "Fokus",
+      "Fokussiert",
+      "Fokussierung"
+    ],
+    "funda": [
+      "Fundament",
+      "Fundamentales",
+      "Fundaments"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität"
+    ],
+    "inner": [
+      "Innere",
+      "Innerer",
+      "Inneres"
+    ],
+    "inter": [
+      "Interaktion",
+      "Intern",
+      "Internalisierte"
+    ],
+    "kernt": [
+      "Kernthemen",
+      "Kerntrauma",
+      "Kerntraumas"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätscheck",
+      "Realitätskontrolle"
+    ],
+    "seins": [
+      "Seins",
+      "Seinsweise",
+      "Seinszustand"
+    ],
+    "stabi": [
+      "Stabilisierende",
+      "Stabilisierungsarbeit",
+      "Stabilität"
+    ],
+    "stres": [
+      "Stress",
+      "Stressor",
+      "Stressoren"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Eine",
+      "Kleinen"
+    ],
+    [
+      "Ende",
+      "Beginnende"
+    ],
+    [
+      "Ende",
+      "Dringendes"
+    ],
+    [
+      "Ende",
+      "Einführende"
+    ],
+    [
+      "Ende",
+      "Fortlaufende"
+    ],
+    [
+      "Ende",
+      "Stabilisierende"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernziel"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kerntrauma"
+    ],
+    [
+      "Kern",
+      "Kernanteile"
+    ],
+    [
+      "Kern",
+      "Kerntraumas"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ],
+    [
+      "Kern",
+      "Kernfragmentierung"
+    ],
+    [
+      "Kind",
+      "Kindes"
+    ],
+    [
+      "Post",
+      "Posttraumatisches"
+    ],
+    [
+      "Sein",
+      "Seins"
+    ],
+    [
+      "Sein",
+      "Seinsweise"
+    ]
+  ]
+}
