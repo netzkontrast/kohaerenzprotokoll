@@ -308,3 +308,11 @@ Where it stands: two bearers proposed in one document, a part of Kael and a skep
 Its table row reads: „Selene (das Selbst) tritt als innere Mentorin hervor“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L63]. The feminine Wächterin is thus borne by Selene in this report's plot draft; the report is a proposal keyed to that draft, not canon.
 
 One more position in the record; it decides nothing.
+
+## 2026-10-11 — `roman-kohaerenz-protokoll`, 2025-04-17, the early prose draft
+
+**The narrator calls AEGIS a Wächter, in the singular; the draft names no bearers.**
+
+The narrator (German prose) writes „Ein Wächter im Auge des Nichts.“ ^[roman-kohaerenz-protokoll.md:L284] about AEGIS's core in the reboot, and later „Der Wächter nimmt seine stille, ewige Patrouille wieder auf“ ^[roman-kohaerenz-protokoll.md:L344].
+
+Stands as one more position; decides nothing.
