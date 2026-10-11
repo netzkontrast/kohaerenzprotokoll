@@ -1060,3 +1060,11 @@ Where it stands in the record's own terms: it gives eleven and four, and a reson
 In the TSDP-alter table each row carries a world: „Erlebendes Subjekt, Angst vor Kontrollverlust“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L107] (Kael, Logos-Prime), „Träger der emotionalen Sensibilität“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L110] (Kiko), „Kreative Intelligenz, Integratorin, NP-Search-Prozesse“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L111] (Selene, Kairos-Potentialis) and „Träger der existentiellen Leere und des Zusammenbruchs“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L112] (Moros, Cerberus-Labyrinth, as is Nyx). In the synthesis they „als eigenständige, orthogonale Vektoren im Raum zu existieren“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L184].
 
 One more position in the record; it decides nothing about how many Kern-Welten or alters there are.
+
+## 2026-10-11 — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible
+
+**The world bible has four Core Worlds and a table of eight alters, with alters assigned to worlds as domains.**
+
+„The four Core Worlds are simulated realities“ ^[the-coherence-protocol-a-world-bible.md:L157]. „The primary alters within System Kael“ ^[the-coherence-protocol-a-world-bible.md:L113] stand in a table, from Kael to Limina. The world table assigns them as domains: „Logic, Order, Analysis (ANPs: Index, Kael)“ ^[the-coherence-protocol-a-world-bible.md:L162], „Emotion, Memory, Trauma (EPs)“ ^[the-coherence-protocol-a-world-bible.md:L163], „Defense, Paranoia, Boundaries (Praetor, Nox)“ ^[the-coherence-protocol-a-world-bible.md:L164] and „Potential, Creativity, Integration (Limina, Silas)“ ^[the-coherence-protocol-a-world-bible.md:L165].
+
+Stands as one more position in the record's terms: four worlds and eight alters; recorded, not decided.
