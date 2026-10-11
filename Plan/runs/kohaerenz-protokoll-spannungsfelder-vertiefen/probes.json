@@ -1,0 +1,322 @@
+{
+  "document": "kohaerenz-protokoll-spannungsfelder-vertiefen",
+  "drive_id": "1NdkL85aq92rGmd2NipU3-9MJzWTNQc6AfDWgI-m4m-8",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 118,
+  "backslash_escapes": 40,
+  "typographic_marks": 50,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "kontr": [
+      "Kontrast",
+      "Kontrastierung",
+      "Kontrolle",
+      "Kontrolleur",
+      "Kontrollinstrument",
+      "Kontrolllogik",
+      "Kontrollmechanismen",
+      "Kontrollmethoden",
+      "Kontrollnetzwerk",
+      "Kontrollparameter",
+      "Kontrollschleife",
+      "Kontrollstrategien",
+      "Kontrollstreben",
+      "Kontrollverlust",
+      "Kontrollversuch",
+      "Kontrollversuche",
+      "Kontrollversuchen"
+    ],
+    "syste": [
+      "System",
+      "Systemausfälle",
+      "Systemdynamik",
+      "Systemdynamiken",
+      "Systeme",
+      "Systemen",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systemisch",
+      "Systemische",
+      "Systemkollaps",
+      "Systems",
+      "Systemtheorie",
+      "Systemversagen"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterarchitektur",
+      "Charakterbögen",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charaktererleben",
+      "Charakterfacetten",
+      "Charakterinteraktion",
+      "Charakterinteraktionen",
+      "Charakterisierung",
+      "Charakterstudie",
+      "Charakterziel"
+    ],
+    "inter": [
+      "Inter",
+      "Interaktion",
+      "Interaktionen",
+      "Intern",
+      "Interna",
+      "Internal",
+      "Internalisierte",
+      "International",
+      "Interne",
+      "Internet",
+      "Intersektionen",
+      "Interventionen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktebene",
+      "Konflikten",
+      "Konfliktfelder",
+      "Konfliktherd",
+      "Konfliktpotenziale",
+      "Konfliktpunkten",
+      "Konflikts"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstausdruck",
+      "Selbstbild",
+      "Selbsterleben",
+      "Selbsterschaffung",
+      "Selbstführung",
+      "Selbstorganisation",
+      "Selbstreflexion",
+      "Selbsttäuschung"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsebene",
+      "Simulationshypothese",
+      "Simulationsnatur",
+      "Simulationstheorie",
+      "Simulationsunsicherheit",
+      "Simulator"
+    ],
+    "ident": [
+      "IDENTITY",
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsaushandlung",
+      "Identitätskontinuität"
+    ],
+    "indiv": [
+      "Individuals",
+      "Individuation",
+      "Individuationskampf",
+      "Individuationsprozess",
+      "Individuelle",
+      "Individuen"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenanteile",
+      "Schattenarbeit",
+      "Schattenaspekten",
+      "Schattenkonflikte",
+      "Schattens"
+    ],
+    "spann": [
+      "Spannung",
+      "Spannungen",
+      "Spannungsebenen",
+      "Spannungspunkt",
+      "Spannungspunkte",
+      "Spannungspunkten"
+    ],
+    "theor": [
+      "Theoreme",
+      "Theorems",
+      "Theoretische",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaheilung",
+      "Traumaperspektive",
+      "Traumata",
+      "Traumatherapie",
+      "Traumatische"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchlichkeit",
+      "Widerstand",
+      "Widerstands",
+      "Widerstandsfähigkeit"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialoge",
+      "Dialogical",
+      "Dialogischen",
+      "Dialogisches"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehlentscheidungen",
+      "Fehler",
+      "Fehlerfreiheit",
+      "Fehlerhaftigkeit"
+    ],
+    "gedäc": [
+      "Gedächtnis",
+      "Gedächtnislücken",
+      "Gedächtnismanipulation",
+      "Gedächtnisstörungen",
+      "Gedächtnisverlust"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsempfehlungen",
+      "Handlungsfähigkeit",
+      "Handlungshindernisse"
+    ],
+    "manag": [
+      "Management",
+      "Manager",
+      "Managerial",
+      "Managern",
+      "Managing"
+    ],
+    "parad": [
+      "Paradigm",
+      "Paradigma",
+      "Paradigmen",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychedelic",
+      "Psychologie",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenfügen",
+      "Zusammenhang",
+      "Zusammenprall"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtereffekt",
+      "Beobachtung",
+      "Beobachtungen"
+    ],
+    "cyber": [
+      "CYBERNETICS",
+      "Cybernetica",
+      "Cyberneticisation",
+      "Cybernetics"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergentes",
+      "Emergenz",
+      "Emergenztheorie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Charakterziel"
+    ],
+    [
+      "Akte",
+      "Charakterbögen"
+    ],
+    [
+      "Akte",
+      "Charakterstudie"
+    ],
+    [
+      "Akte",
+      "Charaktererleben"
+    ],
+    [
+      "Akte",
+      "Charakterfacetten"
+    ],
+    [
+      "Akte",
+      "Charakterisierung"
+    ],
+    [
+      "Akte",
+      "Charakterarchitektur"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Akte",
+      "Charakterinteraktion"
+    ],
+    [
+      "Akte",
+      "Charakterinteraktionen"
+    ],
+    [
+      "Beer",
+      "Beers"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Einerseits"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Feld",
+      "Konfliktfelder"
+    ]
+  ]
+}

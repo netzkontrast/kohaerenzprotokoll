@@ -1,0 +1,105 @@
+# counts for 69 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               10 word    10 in   [11, 13, 15, 19, 113, 115]
+  Kael                             57 word    98 in   [19, 21, 23, 51, 55, 59]
+                                   40      as Kaels
+                                    1      as Kael-Juna
+  AEGIS                           107 word   107 in   [19, 29, 50, 59, 63, 67]
+  Juna                             29 word    30 in   [32, 61, 79, 90, 94, 96]
+  Juna/V                           15 word    15 in   [32, 61, 79, 90, 100, 102]
+  Verbindung V                      9 word     9 in   [84, 85, 89, 92, 98, 139]
+  Paradoxon X                      24 word    24 in   [63, 79, 92, 102, 124, 133]
+  Cache Kohärenz                   13 word    21 in   [51, 109, 113, 121, 133, 147]
+  Cache Kohärenz-Problem            6 word     8 in   [133, 147, 153, 155, 157, 167]
+  Kernwelten                       20 word    20 in   [29, 50, 59, 63, 70, 73]
+  Kernwelt                          3 word    25 in   [29, 50, 59, 63, 70, 73]  <-- substring
+                                   20      as Kernwelten
+                                    1      as Kernwelt-Herausforderungen
+                                    1      as Kernwelt-Design
+  Co₁                               1 word     1 in   [70]
+  McL                               1 word     1 in   [70]
+  Ly                                1 word     1 in   [70]
+  Lex                              16 word    16 in   [29, 30, 31, 32, 40, 50]
+  Nyx                              10 word    10 in   [29, 32, 50, 55, 100, 120]
+  Kiko                              8 word     9 in   [30, 40, 50, 70, 100, 253]
+                                    1      as Kikos
+  Kai                               4 word     4 in   [31, 189, 253]
+  Rhys                              8 word     8 in   [30, 32, 50, 98, 100, 253]
+  Selene                            2 word     2 in   [55, 275]
+  Wächterin                         1 word     1 in   [275]
+  Personas                          8 word     8 in   [23, 55, 100, 111, 167, 189]
+  Pressure Points                   1 word     1 in   [15]
+  Spannungspunkte                  10 word    12 in   [11, 15, 17, 19, 115, 159]
+                                    2      as Spannungspunkten
+  Zyklischen Kampfes                1 word     1 in   [169]
+  Äußere Befreiung                  1 word     1 in   [232]
+  System Host                       1 word     1 in   [69]
+  IFS                              35 word    46 in   [23, 29, 30, 36, 63, 73]
+  Internal Family Systems          15 word    15 in   [23, 315, 316, 317, 320, 323]
+  TSDP                             13 word    14 in   [23, 46, 51, 63, 73, 90]
+                                    1      as TSDP-Verbindungen
+  Theorie der Strukturellen Dissoziation    1 word     1 in   [23]
+  Manager                           9 word    15 in   [29, 30, 40, 41, 42, 50]
+                                    2      as Managern
+                                    1      as Manager-Anteile
+                                    1      as Manager-Ziele
+                                    1      as Managerial
+  Firefighter                       6 word     7 in   [40, 41, 42, 120, 152, 275]
+                                    1      as Firefightern
+  Exile                             7 word    22 in   [30, 40, 41, 50, 63, 98]  <-- substring
+                                   12      as Exiles
+                                    1      as Exile-Burden
+                                    1      as Exile-Anteil
+  Exiles                           12 word    13 in   [40, 41, 50, 63, 98, 100]
+  Protektoren                       2 word     2 in   [41, 152]
+  Kern-Selbst                       6 word     6 in   [41, 63, 110, 129, 152, 275]
+  Self-Leadership                   2 word     2 in   [152, 179]
+  ANP                               8 word     9 in   [50, 63, 109, 121, 153]
+  EP                                8 word    10 in   [50, 63, 109, 121, 153, 386]
+  Anscheinend Normale Teil          1 word     1 in   [50]
+  Synthese                          5 word     5 in   [51, 121, 153, 213]
+  Personifikation                   4 word     4 in   [51, 153, 213]
+  Schatten                          7 word    13 in   [29, 50, 55, 59, 60, 61]
+                                    2      as Schattenaspekten
+                                    1      as Schattenkonflikte
+                                    1      as Schattenanteile
+                                    1      as Schattens
+  Individuation                     5 word     7 in   [61, 110, 129, 179, 231, 318]
+                                    1      as Individuationskampf
+                                    1      as Individuationsprozess
+  Projektion                        1 word     2 in   [59]
+                                    1      as Projektionen
+  Zero-Trust                        7 word    11 in   [63, 69, 90, 92, 122, 143]
+                                    1      as Zero-Trust-Logik
+                                    1      as Zero-Trust-Architektur
+                                    1      as Zero-Trust-Sicherheitsarchitektur
+                                    1      as Zero-Trust-Mechanismen
+  Zero-Trust-Architektur            1 word     1 in   [90]
+  Funktionalismus                   9 word     9 in   [92, 122, 143, 145, 200, 213]
+  Qualia                            5 word     5 in   [89, 143, 276, 341]
+  Gödels Unvollständigkeitssätze    1 word     1 in   [84]
+  Kybernetik zweiter Ordnung        2 word     2 in   [92, 141]
+  Viable System Model               1 word     1 in   [139]
+  Law of Requisite Variety          1 word     1 in   [139]
+  Rückkopplungsschleifen            1 word     1 in   [139]
+  Value Alignment Problem           1 word     1 in   [69]
+  Narrative Identität               4 word     4 in   [121, 129, 154, 198]
+  Emplotment                        1 word     2 in   [154]
+                                    1      as Emplotment-Prozesses
+  Performativität                   7 word     7 in   [122, 129, 198, 236, 240, 265]
+  Dialogisches Selbst               2 word     2 in   [111, 264]
+  Resonanz                         14 word    17 in   [15, 85, 92, 98, 102, 126]
+                                    2      as Resonanztheorie
+                                    1      as Resonanzphänomene
+  Simulationshypothese              2 word     2 in   [108, 223]
+  Konstruktivismus                  6 word     6 in   [110, 127, 128, 129, 200, 222]
+  Environmental Storytelling        2 word     2 in   [70, 123]
+  Cosmic Horror                     2 word     2 in   [108, 128]
+  Bindungstheorie                   3 word     3 in   [98, 126, 201]
+  Gaslighting                       2 word     2 in   [69, 113]
+  Emergenz                          9 word    10 in   [85, 92, 102, 125, 140, 142]
+                                    1      as Emergenztheorie
+  Brandbeschleuniger                1 word     1 in   [63]

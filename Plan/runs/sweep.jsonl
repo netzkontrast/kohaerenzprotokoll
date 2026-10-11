@@ -956,3 +956,8 @@
 {"document": "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m", "page": "kairos", "surface": "Kairos", "line": 371, "decision": "occurrence", "why": "Kairos/Sophia in the Guardian list, read on guardians", "at": "2026-10-11"}
 {"document": "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
 {"document": "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m", "page": "sophia", "surface": "Sophia", "line": 371, "decision": "occurrence", "why": "Kairos/Sophia in the Guardian list, read on guardians", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-spannungsfelder-vertiefen", "page": "did", "surface": "DID", "line": 370, "decision": "occurrence", "why": "a reference title", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-spannungsfelder-vertiefen", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-spannungsfelder-vertiefen", "page": "multiplizitaet", "surface": "Multiplizität", "line": 264, "decision": "occurrence", "why": "writing advice", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-spannungsfelder-vertiefen", "page": "risse", "surface": "Glitches", "line": 190, "decision": "reading", "why": "glitches as consequences of Paradoxon X", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-spannungsfelder-vertiefen", "page": "ueberwelt", "surface": "Simulation", "line": 108, "decision": "occurrence", "why": "a question whether Kael's reality is simulated", "at": "2026-10-11"}
