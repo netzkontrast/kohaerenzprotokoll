@@ -797,3 +797,11 @@ Stands as one more position on the Kernwelt of the Cerberus-Zitadelle; recorded,
 The definition labelled Erweiterter Kontext 2 says the Guardians operate in the Kernwelten, and the function line has „Überwachung und Steuerung der Kernwelten“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L271]. The Kernwelten entry says „Guardians überwachen sie“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L261]. The table of a possible structure pairs a Guardian with a world: „Guardian (Logik), Kern-Welt 1“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L345].
 
 Stands as one more position on how the Guardians relate to the Kernwelten; it decides nothing, and the table is the report's proposed outline.
+
+## 2026-10-11 — `report-narrative-methodology-for-kohaerenz-protokoll`, 2025-10-15, the methodology report
+
+**The methodology report names a Guardian of KW1 (Logik) as an example of a thematic test for Kael.**
+
+Its example reads: „a confrontation with the Guardian of KW1 (Logik) is not a simple battle but a targeted assault on the logical frameworks of Kael's analytical part, Lex“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L80].
+
+Stands as one more position, a directive for a writer; it decides nothing about the Kern-Welten or their guardians.
