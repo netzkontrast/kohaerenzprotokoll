@@ -1,0 +1,287 @@
+{
+  "document": "paradoxien-der-kohaerenz-protokoll-entwicklung",
+  "drive_id": "1iQn5RvKgUNcyGfDJqH4C7Ao7yFhnJOqSnCG8SI-PbXA",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-249/brief.md; chapter readings Kap 1–39 by the session (Plan/runs/ingest-249-kap/)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 97,
+    "decisions": 100,
+    "decided_by_lookup": 71,
+    "needs_judgement": 29
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report recommending a paradox cluster as the theory behind the twist: its new surfaces are the 29 paradoxes and the cluster, the Kern-Paradoxon, Gleichzeitigkeit, AEGIS's protocols (OBP, RIVE, PMAS, SARM), the Kern-Direktive and the source labels; what it says of the novel's world went on existing pages, 39 chapter pages and five records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        135,
+        294
+      ],
+      "attribution": "",
+      "note": "Integrity Guardian and Cognitive Firewall as named functions"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        76,
+        140,
+        165,
+        234,
+        235,
+        237,
+        320,
+        333
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system defined by exclusion, recommended as the subject of a paradox cluster"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        282
+      ],
+      "attribution": "",
+      "note": "Kael's Anteile (Alters) as manifestations of a fragmented psyche"
+    },
+    {
+      "page": "did",
+      "lines": [
+        258,
+        282
+      ],
+      "attribution": "",
+      "note": "DID in the definition of Kael and of the Kernwelten"
+    },
+    {
+      "page": "entropie-katastrophe",
+      "lines": [
+        145,
+        160,
+        369
+      ],
+      "attribution": "",
+      "note": "the Entropie-Katastrophe as outcome of a double bind and a cost of information processing"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        309
+      ],
+      "attribution": "",
+      "note": "the system reading higher coherence as entropy"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        290,
+        294
+      ],
+      "attribution": "",
+      "note": "the Julia/K-J-Verbindung as possibly a manifestation of an Externe Ebene"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        165,
+        270,
+        271,
+        272,
+        273,
+        345
+      ],
+      "attribution": "",
+      "note": "the Guardians as AEGIS's specialised agents with blind spots"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        160,
+        170,
+        290,
+        294,
+        295,
+        296
+      ],
+      "attribution": "",
+      "note": "Julia (this document's name) as paradoxical coherence and anomaly for AEGIS"
+    },
+    {
+      "page": "kael-julia-bindung",
+      "lines": [
+        140,
+        170,
+        197,
+        294,
+        296,
+        391
+      ],
+      "attribution": "",
+      "note": "the K-J-Einheit and K-J-Verbindung as higher coherence that AEGIS reads as threat"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        160,
+        180,
+        282,
+        284
+      ],
+      "attribution": "",
+      "note": "Kael as the protagonist with DID in a proposed double bind"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        150,
+        258,
+        260,
+        261,
+        345
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as AEGIS's attempt to divide Kael's psyche"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        222,
+        223,
+        225
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as origin of AEGIS and Kael"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        150,
+        260
+      ],
+      "attribution": "",
+      "note": "Risse at borders"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        237,
+        246,
+        247,
+        249,
+        273
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's created domain and control centre"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Julia` read on juna under the existing alias, the K-J-Einheit and Julia/K-J-Verbindung on kael-julia-bindung; `Kael-Julia-Einheit`, `Kael/Anteile`, `Kael's Anteile` on kael and kael-julia-bindung; `Anteile` the parts in general; `Kern-Welt` and `Kernwelten` one term (J26); `AEGIS Core Logic` on aegis; `Kohärenz Protokoll`, `Kohärenz Protokollen` the title, `Kohärenz-Inseln` and `Kohärenz-Maximierung` the report's constructs; the paradox names and their slash compounds (Russell/Gödel, Sorites/Mereologie, Maxwells Dämon / Landauer-Prinzip, Theseus' Schiff, Ashby's Law) a borrowed lens; `Plot-Twist` and `Kern-Plot-Twist`, `Kern-Paradoxon` and `Kern-Paradoxon-Cluster` one term each",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 361,
+      "decision": "occurrence",
+      "why": "a table cell of the possible structure"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "decision": "reading",
+      "why": "the system reading higher coherence as entropy"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 222,
+      "decision": "occurrence",
+      "why": "the bracketed source label Genesis 1.1"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "the 29 paradoxes and the Kern-Paradoxon-Cluster",
+    "Gleichzeitigkeit",
+    "OBP, RIVE, PMAS, SARM",
+    "Kern-Direktive",
+    "Kohärenz-Inseln",
+    "the labels Genesis and Erweiterter Kontext"
+  ],
+  "internal_tension": "it asks whether the K-J-Einheit is part of AEGIS (L140) and states that AEGIS reads it as a threat (L197); it writes the title once as „Das Kohärente Protokoll“ (L385); its appendix calls itself a „Referenzdokument“ (L212) built on a „Finalisiert“ context (L216), its claims",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

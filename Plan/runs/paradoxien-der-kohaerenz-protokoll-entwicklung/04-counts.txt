@@ -1,0 +1,125 @@
+# counts for 97 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           222 word   227 in   [19, 31, 32, 33, 34, 35]
+                                    1      as AEGIS-Kael-Julia-Dynamik
+                                    1      as AEGIS-Instanz
+  Kael                             71 word    91 in   [19, 38, 43, 44, 50, 54]
+                                   16      as Kaels
+                                    3      as Kael-Julia-Einheit
+  Julia                            18 word    24 in   [19, 43, 50, 55, 56, 58]
+                                    1      as Julia-Echos
+                                    1      as Julias
+  K-J-Einheit                      75 word    75 in   [33, 34, 37, 38, 40, 41]
+  Kael-Julia-Einheit                3 word     3 in   [19, 387, 391]
+  K-J-Verbindung                   11 word    11 in   [145, 223, 261, 285, 290, 311]
+  K-J-Echos                         2 word     2 in   [135, 350]
+  Julia/K-J-Verbindung              1 word     1 in   [290]
+  Kael/Anteile                      1 word     2 in   [273, 278]
+                                    1      as Kael/Anteilen
+  Kael's Anteile                    4 word     5 in   [97, 261, 271, 346, 358]
+  Anteile                          15 word    20 in   [44, 54, 55, 57, 97, 155]
+                                    5      as Anteilen
+  Alters                            1 word     1 in   [282]
+  Potentialmeer                    14 word    15 in   [39, 41, 47, 48, 74, 83]
+                                    1      as Potentialmeers
+  Kohärenz-Inseln                   3 word     3 in   [218, 222, 294]
+  Überwelt                         12 word    13 in   [47, 237, 242, 273, 324, 344]
+                                    1      as Überwelt-Systeme
+  Kernwelten                       16 word    16 in   [42, 57, 150, 165, 237, 248]
+  Kern-Welt                         7 word     9 in   [343, 345, 347, 348, 349, 351]
+                                    1      as Kern-Welt-Grenze
+                                    1      as Kern-Welten
+  Guardians                        19 word    19 in   [53, 97, 135, 155, 160, 165]
+  Integrity Guardian                1 word     1 in   [135]
+  Kern-Direktive                   14 word    14 in   [32, 66, 76, 82, 114, 140]
+  OBP                              16 word    16 in   [135, 140, 145, 150, 165, 234]
+  Ontological Boundary Protocol     2 word     2 in   [140, 329]
+  RIVE                             13 word    14 in   [135, 234, 236, 270, 330, 348]
+                                    1      as RIVE-Fehlschlag
+  Recursive Integrity & Validation Engine    1 word     1 in   [330]
+  PMAS                              9 word     9 in   [135, 165, 234, 236, 270, 350]
+  SARM                              6 word     7 in   [155, 234, 236, 258, 355, 359]
+                                    1      as SARM-Protokoll
+  Cognitive Firewall                1 word     1 in   [294]
+  Entropic Gatekeeper               1 word     1 in   [235]
+  Entropie-Katastrophe              4 word     4 in   [39, 145, 160, 369]
+  Gleichzeitigkeit                 12 word    12 in   [19, 42, 47, 170, 175, 208]
+  Externe Ebene                     1 word     1 in   [290]
+  Externen Ebene                    1 word     1 in   [294]
+  AEGIS Core Logic                  3 word     3 in   [355, 365, 377]
+  v1.5                              6 word     6 in   [55, 180, 230, 234, 368]
+  DID                               5 word     8 in   [57, 258, 262, 282, 286, 343]
+  Risse                             3 word     4 in   [150, 165, 260]
+                                    1      as Rissen
+  Kohärenz Protokoll                9 word    10 in   [11, 13, 17, 184, 208, 210]
+  Kohärenz Protokollen              1 word     1 in   [234]
+  Kohärente Protokoll               1 word     1 in   [385]
+  Kohärenz-Maximierung              1 word     1 in   [19]
+  Sein durch Abgrenzung             2 word     2 in   [17, 84]
+  Transzendenz durch Vereinigung    2 word     2 in   [17, 63]
+  Plot-Twist                        2 word     4 in   [17, 19, 63]
+                                    1      as Plot-Twists
+  Kern-Plot-Twist                   1 word     1 in   [63]
+  Kern-Paradoxon-Cluster            4 word     7 in   [186, 188, 208, 302, 304, 337]
+                                    3      as Kern-Paradoxon-Clusters
+  Kern-Paradoxon                    1 word     8 in   [186, 188, 195, 208, 302, 304]  <-- substring
+                                    4      as Kern-Paradoxon-Cluster
+                                    3      as Kern-Paradoxon-Clusters
+  Russell/Gödel-Grenze              2 word     2 in   [190, 197]
+  Sorites/Mereologie                3 word     4 in   [191, 197, 304, 387]
+                                    1      as Sorites/Mereologie-Problem
+  Maxwell/Landauer                  6 word     6 in   [102, 192, 197, 304, 369, 387]
+  Kontrollparadox                   5 word     6 in   [197, 308, 355, 363, 391]
+                                    1      as Kontrollparadoxons
+  Paradox der verbundenen Einsamkeit    1 word     1 in   [367]
+  Erweiterter Kontext               7 word     7 in   [258, 270, 272, 282, 294, 345]
+  Erweiterten Kontext               1 word     1 in   [216]
+  Gödels Unvollständigkeitssätze    3 word     3 in   [33, 113, 132]
+  Russell's Antinomie               4 word     4 in   [32, 66, 114, 137]
+  Lügner-Paradox                    2 word     2 in   [31, 66]
+  Curry's Paradox                   2 word     2 in   [31]
+  Berry-Paradox                     1 word     1 in   [34]
+  Grelling-Nelson-Paradox           1 word     1 in   [35]
+  Halting Problem                   6 word     6 in   [36, 65, 101, 204, 238, 327]
+  Maxwells Dämon                    6 word     6 in   [37, 67, 115, 142, 145, 354]
+  Landauer-Prinzip                  5 word     5 in   [37, 115, 142, 234, 359]
+  Maxwells Dämon / Landauer-Prinzip    2 word     2 in   [115, 142]
+  Deterministisches Chaos           1 word     1 in   [38]
+  Loschmidts Paradox                2 word     2 in   [39, 94]
+  Gibbs-Paradox                     2 word     2 in   [40, 67]
+  Informationsparadoxon Schwarzer Löcher    1 word     1 in   [41]
+  Zenons Paradoxien                 2 word     2 in   [42, 94]
+  Sorites-Paradox                   5 word     5 in   [43, 68, 116, 147, 353]
+  Mereologie                       12 word    13 in   [44, 68, 84, 103, 117, 152]
+                                    1      as Mereologie-Problem
+  Special Composition Question      3 word     3 in   [44, 117, 152]
+  Mereologie / Special Composition Question    1 word     1 in   [152]
+  Parmenides' Diktum                1 word     1 in   [45]
+  McTaggarts Paradox                2 word     2 in   [47, 94]
+  Beobachtereffekt                  2 word     2 in   [48, 96]
+  Heisenbergsche Unschärferelation    1 word     1 in   [49]
+  Double Bind                      24 word    25 in   [50, 69, 85, 104, 118, 157]
+  Paradoxien der Kontrolle          2 word     2 in   [51, 69]
+  Paradox der Kontrolle             6 word     6 in   [69, 119, 162, 193, 352, 361]
+  Ikarus-Paradox                    3 word     3 in   [52, 317, 368]
+  Abilene-Paradox                   1 word     1 in   [53]
+  System Justification Theory Paradox    1 word     1 in   [54]
+  Theseus' Schiff                   5 word     5 in   [55, 70, 122, 177, 367]
+  Theseus' Schiff / Identitätsparadoxien    2 word     2 in   [122, 177]
+  Teletransporter-Paradox           2 word     2 in   [56, 70]
+  Split-Brain-Paradox               1 word     1 in   [57]
+  Chinesisches Zimmer              12 word    12 in   [58, 86, 105, 120, 167, 170]
+  Hard Problem of Consciousness     6 word     6 in   [59, 70, 121, 172, 298, 399]
+  Qualia                            9 word    10 in   [59, 70, 174, 175, 192, 197]
+                                    1      as Qualia-Andeutung
+  Ashby's Law                       5 word     5 in   [165, 272, 274, 345, 364]
+  Ashby's Law of Requisite Variety    1 word     1 in   [274]
+  Autopoiesis                       5 word     5 in   [234, 238, 344, 379, 389]
+  Kybernetik                        5 word     5 in   [51, 238, 274, 343, 372]
+  Komplexe Adaptive Systeme         1 word     1 in   [238]
+  Kolmogorov-Komplexität            1 word     1 in   [224]
+  Informationsthermodynamik         2 word     2 in   [234, 354]
+  Paradox of the Court              1 word     1 in   [95]
