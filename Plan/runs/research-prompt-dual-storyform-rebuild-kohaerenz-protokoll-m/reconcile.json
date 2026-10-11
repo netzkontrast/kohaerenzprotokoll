@@ -1,0 +1,182 @@
+{
+  "document": "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
+  "drive_id": "1cerl5kpzYP4LBhz4jWbwquIUD_LQnw04OpS1aCAtJiU",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, a light pass on the prompt's statements about the novel, method sections left out; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet), light pass on the Compact Primer, from Plan/runs/ingest-234/brief.md; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 116,
+    "decisions": 118,
+    "decided_by_lookup": 98,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research prompt for another AI: its new surfaces are its mirror-rule vocabulary, its design contract and its method scaffold; what its Compact Primer states of the novel went on existing pages and six records. Light pass.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        363,
+        383
+      ],
+      "attribution": "",
+      "note": "the primer's AEGIS"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        363
+      ],
+      "attribution": "",
+      "note": "the primer's fate of AEGIS"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        379
+      ],
+      "attribution": "",
+      "note": "the primer's Alter-System"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        383
+      ],
+      "attribution": "",
+      "note": "the primer's Dual-Kernel-Theorie"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        371
+      ],
+      "attribution": "",
+      "note": "the primer's Guardians"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        359
+      ],
+      "attribution": "",
+      "note": "the primer's Juna"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        355
+      ],
+      "attribution": "",
+      "note": "the primer's Kael"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        375
+      ],
+      "attribution": "",
+      "note": "the primer's Kernwelten"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        367
+      ],
+      "attribution": "",
+      "note": "the primer's Moonshine-Link"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        395,
+        399
+      ],
+      "attribution": "",
+      "note": "the primer's Truth Rotation"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        395
+      ],
+      "attribution": "",
+      "note": "the primer's Vortex"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J34 (Juna's compounds on juna), J49 (Mnemosyne-Archipel on mnemosyne); `Kairos/Sophia` read on guardians; the alter names stand only in role compounds (`Lex-Rationalist`, `Silas-Juna-Echo`), read on alters; `Kohärenzkern`, `Kollaps-Kern`, `Coheronen`, `Erasonen` read on dkt; `Ouroboros` a method passage",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 355,
+      "decision": "reading",
+      "why": "the alter system in Kael's primer line, read on alters"
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 383,
+      "decision": "reading",
+      "why": "the DKT primer line"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 371,
+      "decision": "occurrence",
+      "why": "Kairos/Sophia in the Guardian list, read on guardians"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 371,
+      "decision": "occurrence",
+      "why": "Kairos/Sophia in the Guardian list, read on guardians"
+    }
+  ],
+  "not_promoted": [
+    "the mirror rule and its vocabulary",
+    "T1–T7",
+    "the method scaffold",
+    "Wächter-Zwiespalt",
+    "Witness Function",
+    "the computational classes"
+  ],
+  "internal_tension": "it asks for at least three candidate mirror rules once (L636) and at least four elsewhere (L784, L798)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

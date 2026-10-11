@@ -1,0 +1,46 @@
+$ python3 scripts/read.py research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m --count "Restatement Checkpoint"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Restatement Checkpoint` ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:#13]
+$ python3 scripts/read.py research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m --count "Reflection Entry"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Reflection Entry` ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:#9]
+$ python3 scripts/read.py research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m --count "Example trigger in this research context"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Example trigger in this research context` ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:#4]
+$ python3 scripts/read.py research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m --count "Kanon"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Kanon` ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:#3]
+$ python3 scripts/read.py research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:#1]
+$ python3 scripts/read.py research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m --count "Lex"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Lex` ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:#0]
+$ python3 scripts/read.py research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m --count "Silas"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Silas` ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:#0]
+stance_marker_count 26 = 13 + 9 + 4 (the three counts above)
+$ sed -n 605p / 746p (digit label vs text; 4 throughlines + 4 dynamics items)
+  - **8 Throughlines × 4 Quads × 4 Domains × 4 Perspektiven**: Die Standard-Dramatica-Architektur unterscheidet vier Throughlines (Overall Story / Main Character / Influence Character / Relationshi
+3.  Liste die mindestens 6 Standard-Dramatica-Storypoints, die in jeder Variante festgelegt werden müssen (4 Throughlines + Driver + Limit + Outcome + Judgment), als Pflichtformular für jede Variante.
