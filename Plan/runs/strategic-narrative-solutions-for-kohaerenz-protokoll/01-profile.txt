@@ -1,0 +1,14 @@
+# strategic-narrative-solutions-for-kohaerenz-protokoll
+  lines                125  (frontmatter ends at 9)
+  body words           2701
+  headings             18   bold-only lines 1
+  table rows           6   code fences 0
+  question marks       0
+  backslash escapes    12
+  typographic marks    12   ascii quotes 110
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         874 chars
+

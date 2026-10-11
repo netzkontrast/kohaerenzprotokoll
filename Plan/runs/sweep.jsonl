@@ -972,3 +972,6 @@
 {"document": "kohaerenz-protokoll-finaler-bauplan", "page": "multiplizitaet", "surface": "Multiplizität", "line": 118, "decision": "occurrence", "why": "a heading of the shared account", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-finaler-bauplan", "page": "personas", "surface": "Persona", "line": 227, "decision": "occurrence", "why": "the meta-narrator as a persona", "at": "2026-10-11"}
 {"document": "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me", "page": "genesis", "surface": "Genesis", "line": 118, "decision": "occurrence", "why": "AEGIS's Genesis log, read on aegis", "at": "2026-10-11"}
+{"document": "strategic-narrative-solutions-for-kohaerenz-protokoll", "page": "genesis", "surface": "Genesis", "line": 81, "decision": "occurrence", "why": "the Genesis Log, AEGIS's, read on aegis", "at": "2026-10-11"}
+{"document": "strategic-narrative-solutions-for-kohaerenz-protokoll", "page": "juna", "surface": "Juna", "line": 59, "decision": "reading", "why": "the Moonshine-Link to Juna/V damaged with each cycle", "at": "2026-10-11"}
+{"document": "strategic-narrative-solutions-for-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
