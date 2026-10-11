@@ -449,3 +449,11 @@ Stands beside the record's origins as a reading of Juna/V's place relative to Ka
 The alter table's first row reads „Erlebendes Subjekt, Angst vor Kontrollverlust“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L107] for „Kael (Host / ANP)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L107], and the Ki phase says: „Kael fungiert in einem Zustand reiner“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L140] Order as Fragment Alpha, suppressing the EPs. The report gives no earlier origin for Kael in these passages.
 
 One more position in the record; it decides nothing about Kael's origin.
+
+## 2026-10-11 — `critical-plot-interrogatories-for-kohaerenz-protokoll`, 2025-11-03, the plot interrogatories
+
+**The plot interrogatories presuppose both an exiled part and a trauma shared with AEGIS, and decide neither.**
+
+Juna/V: „Juna/V is an exiled part of Kael's“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L95] Ursprungs-Ich. Kael: the midpoint question asks when the system sees him as „the living embodiment of AEGIS's own original trauma“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L80].
+
+Stands as one more position in the record of C16; it resolves nothing.
