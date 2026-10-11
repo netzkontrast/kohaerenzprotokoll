@@ -281,3 +281,11 @@ Stands as a row for the KW1 side of the record's table (the name Konstrukt-Stadt
 Its row gives the world „Rigide klassische Logik“ ^[roman-konzept-und-philosophische-fragen.md:L193], the complexity class „P (versagt bei NP-schwer)“ ^[roman-konzept-und-philosophische-fragen.md:L193] and the puzzle „Boolesche Erfüllbarkeit (SAT)“ ^[roman-konzept-und-philosophische-fragen.md:L193]. It treats Konstrukt-Stadt as a world with its own Guardian, not as a district.
 
 Stands as a further position at the world scale, dated 2025-07-29; recorded, not applied, the record stays open.
+
+## 2026-10-11 — `kapitel-1-generierungsprozess`, 2025-11-25, the chapter-1 report
+
+**The chapter-1 report writes Konstrukt-Stadt as another name of KW1.**
+
+The report defines the starting state of the system, `Kernwelt 1 (KW1)`, „auch bekannt als Konstrukt-Stadt oder Logos-Prime“ ^[kapitel-1-generierungsprozess.md:L37]. This is the report's commentary, set before its four sequences; it is not a chapter text. In the chapter text the report quotes, the narration says „Sie nannten es Logos-Prime.“ ^[kapitel-1-generierungsprozess.md:L184]
+
+Stands with the KW1 side of the record's table; recorded, not applied, the record's decision is not touched.
