@@ -1156,3 +1156,11 @@ One more position in the record; it decides nothing.
 It writes „Kaels elf Anteile deuten auf eine tertiäre Dissoziation hin“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L105] and „Kaels elf Anteile lassen sich bekannten Rollen zuordnen“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L119]. Its table, „Kaels interne Systemarchitektur (TSDP-Modell)“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L130], names Nyx, Kiko and Selene as rows, and the remaining slots are the unnamed `Alter 5` to `Alter 11`. Of the worlds: „Dieser Teil wird die vier Kernwelten nicht als bloße Schauplätze“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L215] analyse, and Teil IV maps four worlds to complexity classes.
 
 Stands as one more position in the record; it assigns roles and slots and decides nothing about the count.
+
+## 2026-10-11 — `roman-kohaerenz-protokoll`, 2025-04-17, the early prose draft
+
+**The draft gives no count of Kern-Welten or Alters; it hints at several Alters and names KW1 and KW2 once each.**
+
+The narrator (German prose) writes of „die Präsenz verschiedener Alters“ ^[roman-kohaerenz-protokoll.md:L401] and brackets five guessed names, each with a question mark (`Praetor ?`, `Nox ?`, `Kairos?`, `Cerberus?`, `Silas ?`), at the sources of impulses in Kael. KW1 stands once: „sterbenden Resten von KW1“ ^[roman-kohaerenz-protokoll.md:L411]. KW2 stands once, in a remark in another voice (an assistant-like line, not the narrator): „Ankunft an der Schwelle zu KW2“ ^[roman-kohaerenz-protokoll.md:L545].
+
+Stands as one more position; decides nothing.
