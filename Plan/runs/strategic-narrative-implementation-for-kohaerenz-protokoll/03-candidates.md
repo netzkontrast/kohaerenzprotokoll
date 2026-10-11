@@ -1,0 +1,77 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is an English strategy report with German world names in quotation marks. Its table cells are flattened with escaped asterisks; the three repeated labels Narrative Function and Scene Description (and the table headings Design Element) are template labels and are left off. The title of the cited source document and the section labels "Strategy 3.1" are left off. Where the document joins names with parentheses, the joined form and the parts are listed.
+
+- AEGIS
+- Kael
+- Lex
+- Kiko
+- Nyx
+- Juna/V
+- Kernwelt 1
+- KW1
+- Kernwelt 1 (KW1)
+- Co₁ - Ordnung/Logik
+- AEGIS' Logik im Kleinen
+- K₁ (Coherence) Kernel
+- K₀ (Collapse/Entropy) Kernel
+- K₀ Kernel
+- K₁ structure
+- K₁-structure
+- Ursprungs-Ich
+- Original Self
+- Component 734
+- Das Rauschen
+- unerkennable entity
+- Resonanzkaskade
+- Kohärenz Protokoll
+- Einleitung: Genesis der Existenz
+- irrelevant latency
+- catastrophic system error
+- hostile infiltration
+- informational impregnation
+- ghost of loneliness
+- The Final Sublimation
+- Tragic Antagonist
+- Bruchpunkt
+- semantisches Gleiten
+- inevitable surprise
+- Cracks in the Foundation
+- The Logical Paradox
+- The Ontological Anomaly
+- The Psychological Rupture
+- Gödelian Glitch
+- Moonshine-Link
+- gnosis
+- Paradoxon X
+- Emotional Personality
+- Kampf-EP
+- EPs
+- ANP
+- ANPs
+- suppression protocol
+- The Foundation
+- Paraiyas
+- Paraiya
+- Subjektivität
+- Emergenz
+- Qualia
+- functional multiplicity
+- dialetheic mind
+- The Gardener
+- Social Validation Protocol
+- Aesthetics of Logic
+- Mutable Variable
+- Philosophical Engine
+- correspondence check
+- Architectural Flaw
+
+## lens
+
+- Isolation Objection
+- Coherence Theory
+- quantum decoherence
+- Gödel's Incompleteness
+- strange attractor
+- high-Φ
+- Deus ex Machina

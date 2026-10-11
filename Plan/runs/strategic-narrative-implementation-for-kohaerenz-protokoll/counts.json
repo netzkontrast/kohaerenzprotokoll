@@ -1,0 +1,579 @@
+{
+  "document": "strategic-narrative-implementation-for-kohaerenz-protokoll",
+  "drive_id": "1843XLBaBMXuGSro7SexzQtJvvHIP9_t0YU6OKVLRaz0",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 27,
+      "n_including_compounds": 29,
+      "lines": [
+        21,
+        25,
+        27,
+        31,
+        51,
+        53,
+        57,
+        65,
+        69,
+        75,
+        79,
+        87,
+        88,
+        91,
+        92,
+        95,
+        96,
+        111,
+        117,
+        119,
+        125,
+        126
+      ]
+    },
+    "Kael": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        43,
+        45,
+        91,
+        95,
+        96,
+        104,
+        110,
+        115,
+        117,
+        118,
+        119,
+        123,
+        126
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        87
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        118
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        95
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        91
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        27,
+        29
+      ]
+    },
+    "KW1": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        27,
+        31,
+        43,
+        95
+      ]
+    },
+    "Kernwelt 1 (KW1)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Co₁ - Ordnung/Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "AEGIS' Logik im Kleinen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "K₁ (Coherence) Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "K₀ (Collapse/Entropy) Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "K₀ Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "K₁ structure": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        119
+      ]
+    },
+    "K₁-structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        57,
+        61
+      ]
+    },
+    "Original Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Component 734": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        59,
+        67
+      ]
+    },
+    "Das Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        63
+      ]
+    },
+    "unerkennable entity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        64
+      ]
+    },
+    "Resonanzkaskade": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        64
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        57,
+        66,
+        132
+      ]
+    },
+    "Einleitung: Genesis der Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "irrelevant latency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "catastrophic system error": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        65
+      ]
+    },
+    "hostile infiltration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        65
+      ]
+    },
+    "informational impregnation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "ghost of loneliness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "The Final Sublimation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Tragic Antagonist": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        53
+      ]
+    },
+    "Bruchpunkt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        73,
+        75,
+        88,
+        96
+      ]
+    },
+    "semantisches Gleiten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "inevitable surprise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Cracks in the Foundation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "The Logical Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "The Ontological Anomaly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "The Psychological Rupture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Gödelian Glitch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Paradoxon X": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        95
+      ]
+    },
+    "Emotional Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Kampf-EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        87,
+        117
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "suppression protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "The Foundation": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        104,
+        106,
+        110,
+        125,
+        126
+      ]
+    },
+    "Paraiyas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        117
+      ]
+    },
+    "Paraiya": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        111,
+        117,
+        119
+      ]
+    },
+    "Subjektivität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        117
+      ]
+    },
+    "Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Qualia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        57,
+        64
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "dialetheic mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119
+      ]
+    },
+    "The Gardener": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        121,
+        123
+      ]
+    },
+    "Social Validation Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Aesthetics of Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Mutable Variable": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Philosophical Engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "correspondence check": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        119
+      ]
+    },
+    "Architectural Flaw": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Isolation Objection": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        27
+      ]
+    },
+    "Coherence Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "quantum decoherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Gödel's Incompleteness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "high-Φ": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    }
+  }
+}

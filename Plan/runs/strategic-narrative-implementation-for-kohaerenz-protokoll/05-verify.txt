@@ -1,0 +1,100 @@
+$ read.py --count "Scene Description"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Scene Description` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "Narrative Function"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Narrative Function` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "correspondence check"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`correspondence check` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Component 734"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Component 734` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "Bruchpunkt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Bruchpunkt` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#4]
+$ read.py --count "Paraiyas"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paraiyas` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#2]
+$ read.py --count "The Gardener"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`The Gardener` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "KW1"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW1` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#6]
+$ read.py --count "ANP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`ANP` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#2]
+$ stance_marker_count = 3 + 3 = 6
+$ read.py --count "AEGIS"
+whole word, case-sensitive     27
+whole word, case-insensitive   27
+including compounds            29
+
+`AEGIS` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#27]
+$ read.py --count "AEGIS's"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`AEGIS's` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#15]
+$ read.py --count "Lex" / Nyx / Kiko
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lex` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#2]
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nyx` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#2]
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kiko` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#2]
+whole word, case-sensitive     6
+whole word, case-insensitive   8
+including compounds            6
+
+`The Foundation` ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:#6]
+$ sed -n 3,4p 04-counts.txt  (70 candidates; profile: 28 backslash escapes, 10 glued ref numbers)
+# counts for 70 candidates
+# line numbers are FILE lines, as a citation writes them
+  question marks       0
+  backslash escapes    28
+  typographic marks    26   ascii quotes 172
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    10
+  repeated labels      Narrative Function x3, Scene Description x3
+  longest line         870 chars
+
