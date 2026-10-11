@@ -473,3 +473,11 @@ Stands as one more position near the record of C16, about an other half rather t
 The audit's first pillar says, reporting `Plot-Exploration, II`, that „his origin is traced directly to the“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L17] Coherence Island, making him a manifestation of integrated complexity. Its comment is that his existence as an anomaly means „AEGIS cannot simply delete him without triggering its own systemic collapse.“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L18] The audit does not say that Kael is a fragment of an entity M or of AEGIS.
 
 Stands as one more position in the record: an audit reporting another text, with Kael's origin at the Coherence Island; recorded, nothing decided.
+
+## 2026-10-11 — `kohaerenz-protokoll-forschungsaufgabe`, 2025-07-29, the ontological analysis
+
+**The ontological analysis proposes Kael as one fragment of a soul-partner pair after Aristophanes, in conditional scenarios; it is a proposal, not an origin claim.**
+
+It plans to examine the „des Seelenpartner-Paares untersuchen“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L199] other fragment, rooted in „Aristophanes' Mythos aus Platons“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L201] Symposion. Scenario 3, a possibility only: „Eine Haupthandlung könnte die Suche von Kael und Juna sein“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L205].
+
+Stands as one more position in the record, a proposal of a soul-partner pair; it decides nothing about Kael's origin.
