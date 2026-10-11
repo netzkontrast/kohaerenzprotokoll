@@ -813,3 +813,11 @@ Stands as one more position, a directive for a writer; it decides nothing about 
 The four are LogOS, Mnemosyne, Cerberus and Kairos/Sophia; they „korrelieren mit den vier“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L209] Kernwelten and show inner guardian conflicts. The capsule names no pairing.
 
 Stands: one more position, a constraint handed to an agent; nothing decided.
+
+## 2026-10-11 — `kernwelten-fuer-kohaerenz-protokoll`, 2025-04-27, the Kernwelten design report
+
+**The Kernwelten design report proposes one guardian per world: `LogOS-Supervisor` for Co₁, `Netzweber` for McL, `Chaos-Regulator` for B, `Möglichkeits-Weber` for Ly.**
+
+For Co₁: „Primär antagonistischer Regelvollstrecker, aber seine Logiktreue könnte über Paradoxien ausnutzbar sein.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L440] For McL: „Eher katalytischer/umweltbedingter Antagonist; manipuliert das System, das Kael navigieren muss.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L441] For B: „Rein antagonistische Kraft, die die Gefahr der Welt und Kaels innere Dämonen verkörpert.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L442] For Ly: „Als Katalysator für Kaels kreatives Potenzial zu wirken“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L379].
+
+One more position, from a design proposal; it decides nothing.
