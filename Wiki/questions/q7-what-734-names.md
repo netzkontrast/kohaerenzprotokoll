@@ -370,3 +370,11 @@ Where it stands in the record's own terms: 734 as a protocol title and as a unit
 The table's KW1-01 (`Plot Pt. 1`) gives „Standardisiertes Wohnmodul, minimalistisch, funktional, AEGIS-kontrolliert.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L288] and profile 1 repeats the name as profile 1; its concept is „Standardisiertes, minimalistisches Wohnmodul, entworfen für maximale Effizienz, Vorhersehbarkeit und minimale Reibung“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L351]. The number stands as `734` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2], in the table row and the profile title, and the lines cited give no meaning for it.
 
 Stands as one more position on what the number names: a dwelling module in KW1, nothing further; recorded, nothing decided.
+
+## 2026-10-11 — `causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me`, 2025-11-03, the causal-linkage report
+
+**The causal-linkage report gives 734 as part of a log entry number, not as Kael's designation or his dwelling.**
+
+The report quotes „fragments of its“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L118] Genesis Log as the origin of AEGIS's flawed worldview, and prints one entry numbered `LOG 734.19`. The entry begins „A resonance. Not from the Rauschen, but“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L120] and goes on „A signature that defies classification.“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L120]; it is AEGIS's own voice on its Genesis-Krise. The report does not connect the number to Kael, a Komponente or a Wohneinheit.
+
+Stands: the number occurs here as the number of an AEGIS log entry; one more position in the record, which decides nothing about what 734 names for Kael.
