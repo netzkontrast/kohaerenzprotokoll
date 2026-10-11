@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "paradoxien-der-kohaerenz-protokoll-entwicklung"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "paradoxien-der-kohaerenz-protokoll-entwicklung", "kernwelten-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -62,6 +62,10 @@ Recorded as the document's own description, not applied.
 The blueprint writes the bond under three names: `Kael-Juna-Verbindung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#27], the clipped `K-J-Verbindung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#18] and `Kael-Juna-Resonanz` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#3]; it never writes Julia for Juna in these names. A heading calls it „Die Kael-Juna-Resonanz: Katalysator des Wandels“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L123].
 
 On what it does to AEGIS, it proposes: „Sie umgeht die logikbasierten Protokolle und Überwachungssysteme von AEGIS“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L127]; for AEGIS it is at first invisible: „Für AEGIS ist diese Resonanz zunächst unsichtbar“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129]. On its origin the blueprint places it outside AEGIS's system: „Diese Verbindung, die ihren Ursprung außerhalb von AEGIS' System hat“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L163], in the `Kohärenz-Insel` or, hedged, „oder einem damit verbundenen Nexus“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L163].
+
+## Reading — `kernwelten-fuer-kohaerenz-protokoll`, 2025-04-27, the Kernwelten design report — the K-J connection as a proposed channel across the caches
+
+The Kernwelten design report describes the K-J connection as the „Mechanismus, der kohärenten Informationstransfer über Weltgrenzen und Cache-Trennungen hinweg ermöglicht“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L418]; the line marks this function as from the brief (`User Prompt`). Its nature stays hedged: „Könnte eine psychische Verbindung sein, ein versteckter Datenkanal“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L419], with limits: „Wahrscheinlich begrenzte Bandbreite“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L421]. The report links it to the IFS self: „Die K-J Verbindung könnte den Zugang zum Kern-Selbst repräsentieren.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182] In its conclusion: „Die K-J-Verbindung bietet einen potenziellen Pfad zur Überwindung der Fragmentierung und zum Widerstand gegen das System.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L483]
 
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Julia as one of Juna's names, and a question about Köln
 
