@@ -626,3 +626,12 @@ Stands: one more position on how the term is framed; nothing decided.
 It proposes „Wenn Juna und Kael über den Moonshine-Link interagieren, reisen sie nicht durch den Raum“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L124]. In Variante B, which it does not recommend, Juna „Juna flutet durch den Moonshine-Link endlose Neguentropie in das geschlossene System“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L106].
 
 Stands as one more position on how the link crosses a boundary; recorded, not applied.
+
+## 2026-10-11 — `dramatica-storyform-fuer-romananalyse`, 2026-01-02, the Dramatica exegesis
+
+**The report puts the Moonshine-Link in the Relationship Story between Kael and AEGIS (and Juna), as a resonant connection that bypasses logic.**
+
+> „ist eine resonante Verbindung, die Logik umgeht“ ^[dramatica-storyform-fuer-romananalyse.md:L106]
+> „Die Beziehung zwischen Kael und AEGIS (und Juna) wird als“ ^[dramatica-storyform-fuer-romananalyse.md:L106]
+
+Where it stands: one more position under Q9; it places the link as a relationship of the three, and the question stays open.
