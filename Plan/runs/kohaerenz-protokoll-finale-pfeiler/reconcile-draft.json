@@ -1,0 +1,181 @@
+{
+  "document": "kohaerenz-protokoll-finale-pfeiler",
+  "drive_id": "1BHk5pT2XdptoQzmUB1hwTjt7SdtqzLd4ZX4SmrCyd2E",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 66,
+    "decisions": 67,
+    "decided_by_lookup": 61,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        54,
+        78,
+        82,
+        102,
+        112,
+        127,
+        249
+      ],
+      "attribution": "",
+      "note": "a system that collapses or becomes something new"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        88,
+        92
+      ],
+      "attribution": "",
+      "note": "the Gambit as the ending's mechanism"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        92,
+        195,
+        203,
+        208,
+        216,
+        227
+      ],
+      "attribution": "",
+      "note": "the living Gödel sentence, a link that is not a data signal"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        56,
+        144,
+        152,
+        160
+      ],
+      "attribution": "",
+      "note": "access by Gnosis, a psyche built on TSDP"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        125
+      ],
+      "attribution": "",
+      "note": "the Kernwelten in Pfad A"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        132,
+        148,
+        152
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität as Kael's end state"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        82
+      ],
+      "attribution": "",
+      "note": "what AEGIS defines itself against"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        127
+      ],
+      "attribution": "",
+      "note": "where Pfad A ends"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        22,
+        30
+      ],
+      "attribution": "",
+      "note": "the ultimate level of reality as the pivot"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        102,
+        125
+      ],
+      "attribution": "",
+      "note": "cracks in Pfad A"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 144,
+      "decision": "occurrence",
+      "why": "the clinical gloss of TSDP"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 42,
+      "decision": "occurrence",
+      "why": "schwache Emergenz, the Fundament's mode"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 22,
+      "decision": "reading",
+      "why": "the ultimate reality level, the Fundament"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "the Fundament's definition, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

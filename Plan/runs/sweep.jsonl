@@ -961,3 +961,8 @@
 {"document": "kohaerenz-protokoll-spannungsfelder-vertiefen", "page": "multiplizitaet", "surface": "Multiplizität", "line": 264, "decision": "occurrence", "why": "writing advice", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-spannungsfelder-vertiefen", "page": "risse", "surface": "Glitches", "line": 190, "decision": "reading", "why": "glitches as consequences of Paradoxon X", "at": "2026-10-11"}
 {"document": "kohaerenz-protokoll-spannungsfelder-vertiefen", "page": "ueberwelt", "surface": "Simulation", "line": 108, "decision": "occurrence", "why": "a question whether Kael's reality is simulated", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-finale-pfeiler", "page": "did", "surface": "DID", "line": 144, "decision": "occurrence", "why": "the clinical gloss of TSDP", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-finale-pfeiler", "page": "emergenz", "surface": "Emergenz", "line": 42, "decision": "occurrence", "why": "schwache Emergenz, the Fundament's mode", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-finale-pfeiler", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the title", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-finale-pfeiler", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 22, "decision": "reading", "why": "the ultimate reality level, the Fundament", "at": "2026-10-11"}
+{"document": "kohaerenz-protokoll-finale-pfeiler", "page": "ueberwelt", "surface": "Simulation", "line": 22, "decision": "occurrence", "why": "the Fundament's definition, not the Überwelt", "at": "2026-10-11"}
