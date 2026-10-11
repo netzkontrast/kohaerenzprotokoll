@@ -338,3 +338,11 @@ Stands on the side of a level apparently outside AEGIS's influence, as a hedged 
 Part III: „bricht durch die Rendering-Grenzen“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67], and he wakes „Externen Ebene (Köln, Februar 2026)“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67]. The plan then grounds it: „durch das reale Setting“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L72] of the carnival.
 
 Standing in the record: one more position on where the level is, a plan that places Kael's waking there and says nothing on beyond or not outside; it decides nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-kapitel-39-die-letzte-instanz`, 2026-02-25, the chapter-39 draft
+
+**In the chapter-39 draft the PMAS report names the reader's level as the external one, after the simulation „Roman“ ends.**
+
+The PMAS report, a boxed system report in the draft: „Die externe Ebene – deine Ebene – ist nun das aktive Testfeld für das Kohärenz Protokoll“ ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:L45]. Here the „du“ is the reader inside the fiction.
+
+One more position in the record, a draft's; it decides nothing.
