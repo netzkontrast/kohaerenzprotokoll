@@ -510,3 +510,11 @@ Stands: one more position in the record, the Guardians as specialised runners wi
 The primer calls them „vier Sub-Wächter-Instanzen unter AEGIS“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L371], bearers of the Wächter-Zwiespalt: „Loyalität zu AEGIS vs. emergente“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L371] insight directed against AEGIS.
 
 Stands: one more position in the record, the prompt's summary; nothing decided.
+
+## 2026-10-11 — `kohaerenz-protokoll-finaler-bauplan`, 2025-07-29, the definitive framework
+
+**The definitive framework has the Guardians operate on paraconsistent logic after AEGIS' transformation.**
+
+„Die Guardians, die nun auf parakonsistenter Logik operieren“ ^[kohaerenz-protokoll-finaler-bauplan.md:L79]
+
+One more position in the record; it decides nothing.
