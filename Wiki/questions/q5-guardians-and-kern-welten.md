@@ -741,3 +741,11 @@ Stands as a list of five Guardians with five separate domains and no pairing wit
 Guardians: „LogOS, Mnemosyne, Cerberus, and Kairos“ ^[the-coherence-protocol-a-world-bible.md:L80]. Worlds, in the table of Core Worlds: „Logos-Prime“ ^[the-coherence-protocol-a-world-bible.md:L162], „Mnemosyne-Archipel“ ^[the-coherence-protocol-a-world-bible.md:L163], „Cerberus-Labyrinth“ ^[the-coherence-protocol-a-world-bible.md:L164], „Kairos-Potentialis“ ^[the-coherence-protocol-a-world-bible.md:L165]. The Guardians are said to monitor „a specific domain of reality“ ^[the-coherence-protocol-a-world-bible.md:L80] each; the text beside the world table speaks of worlds „each governed by a distinct logical principle and representing a different facet of Kael's psyche“ ^[the-coherence-protocol-a-world-bible.md:L157].
 
 Stands as one more position in the record's terms: the names sit side by side, the relation between Guardian and world is not stated; recorded, not decided.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept lists a domain bearer for each world and writes Kairos and Sophia as one figure for the fourth.**
+
+The concept names the bearers in one line: „dem ordnenden (oder kontrollierenden) Einfluss der jeweiligen Guardians (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L42]. In the table KW1-05 is „Abstrakter Kontrollraum innerhalb KW1, von dem LogOS die Ebene überwacht.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L292], KW2-05 „Zentraler Ort, an dem Mnemosyne Emotionen/Erinnerungen 'verwaltet'.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L301], KW3-06 „Ort, an dem Cerberus 'Bedrohungen' (dissoziierte Teile, externe Einflüsse) eindämmt.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L311] and KW4-04 „Ort, von dem aus Kairos/Sophia Potenziale und Zukünfte (innerhalb des Systems) beobachtet.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L318]
+
+Stands as one more position: four Guardian/world pairs with Kairos/Sophia sharing the KW4, recorded, nothing decided.
