@@ -1132,3 +1132,11 @@ Stands: one more position in the record, the prompt's summary; nothing decided.
 The analysis writes: „Die Kernwelten (Co₁, McL, B, Ly) sind als diagnostische Arenen konzipiert“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L70]. It names no alter count and does not say whether one world corresponds to one Persona; its example only supposes that a Persona could be provoked by a world's design.
 
 Stands: one more position in the record, four worlds as the analysis lists them; it decides neither count nor the correspondence.
+
+## 2026-10-11 — `causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me`, 2025-11-03, the causal-linkage report
+
+**The causal-linkage report tables Kael, Lex, Rhys, Nyx, Kiko and Moros as the primary actors of System Kael and says the system is larger, with specialised ANPs beyond them.**
+
+Its table is introduced as an overview of „the primary actors in a more complex system that also includes“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L41] further parts, and names „specialized ANPs (e.g., **Alex** the protector, **Selene** the integrator)“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L41]. The rows give the ANPs Kael, Lex and Rhys and the EPs Nyx, Kiko and Moros, with roles such as „The Host.“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L46], „The Rationalist.“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L47] and „The Void.“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L51]. The report gives no total of alters and says nothing of how many Kernwelten there are; it mentions „Kernwelt 1, a world of feigned perfection“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L102] only as an example of the body's correspondence check.
+
+Stands: one more position in the record, a listed subset of parts and the statement that others exist; it decides neither the number of alters nor of Kern-Welten.
