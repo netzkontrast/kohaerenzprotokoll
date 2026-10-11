@@ -1196,3 +1196,11 @@ Stands as one more position, a count of profiled alters and not of alters or wor
 The brief the analysis recaps speaks of a simulation of Kern-Welten (KW1-4), „die Kaels Psyche spiegeln“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L124]. The mapping is the analysis's own proposal: „Die Kern-Welten können als direkte Manifestationen dieser Struktur dienen“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L161]. KW1 (Logik) is the area of the ANP functions, KW2 (Emotion/Trauma) „als Raum der EPs, die Schmerz und Erinnerungen halten“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L161], KW3 (Abwehr) „als Aktivierung der EP-Abwehrsysteme“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L161], and KW4 (Potential) „als Raum, der Integration, Kommunikation und Kooperation zwischen den Teilen ermöglicht“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L161]. In the same paragraph of advice the analysis says of the parts: „Wechsel zwischen den Anteilen“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L159] are called Alters.
 
 Stands: one more position on the question, a proposal that maps four worlds onto ANP and EP functions rather than onto individual alters; it decides neither the count nor whether a Kern-Welt corresponds to an alter.
+
+## 2026-10-11 — `research-prompt-dramatica-dual-storyform-mapping-md`, 2026-04-30, the mirroring prompt
+
+**The mirroring prompt's background capsule gives thirteen alters and four Kernwelten as constraints for an agent.**
+
+The Kael capsule gives „Mensch mit dissoziativer Identitätsstörung“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L193] with a system of thirteen alters (five ANPs, five EPs, one Sonder-Alter, two Spiegel-Alter); a second capsule lists them by function with „13 Alter mit eindeutigen Funktionen“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L213]. The Guardians capsule says the four Guardians „korrelieren mit den vier“ ^[research-prompt-dramatica-dual-storyform-mapping-md.md:L209] Kernwelten.
+
+Stands: one more position, a prompt's constraint rather than a finding; nothing decided.
