@@ -362,3 +362,11 @@ Where it stands: a further document in which 734 is Kael's own designation, in a
 Chapter 2 is titled `Protokoll 734` with „Kohärenz-Initialisierung“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L24], and is planned „Aus der kalten, analytischen Perspektive von AEGIS wird der Zustand von“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L26] Kael assessed, whose fragmentation „wird als zu managende Variable klassifiziert.“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L26] In chapter 5 AEGIS reacts to Kael's access to KW2 „mit subtiler Verfolgung durch Agenten“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L41], named `Einheit 734` in brackets. The outline names no dwelling and no component, and does not join the number to Kael.
 
 Where it stands in the record's own terms: 734 as a protocol title and as a unit of AEGIS's agents, in a plan; recorded, the question stays open.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept names Kael's KW1 dwelling `Kael's Wohneinheit 734` and describes it as a standardised module; the number is not explained in the file.**
+
+The table's KW1-01 (`Plot Pt. 1`) gives „Standardisiertes Wohnmodul, minimalistisch, funktional, AEGIS-kontrolliert.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L288] and profile 1 repeats the name as profile 1; its concept is „Standardisiertes, minimalistisches Wohnmodul, entworfen für maximale Effizienz, Vorhersehbarkeit und minimale Reibung“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L351]. The number stands as `734` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2], in the table row and the profile title, and the lines cited give no meaning for it.
+
+Stands as one more position on what the number names: a dwelling module in KW1, nothing further; recorded, nothing decided.
