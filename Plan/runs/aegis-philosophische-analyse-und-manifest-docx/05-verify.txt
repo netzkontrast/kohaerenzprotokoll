@@ -1,0 +1,75 @@
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Tiefere Bedeutung"
+whole word, case-sensitive     7
+whole word, case-insensitive   8
+including compounds            7
+
+`Tiefere Bedeutung` ^[aegis-philosophische-analyse-und-manifest-docx.md:#7]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Logische Konsequenzen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Logische Konsequenzen` ^[aegis-philosophische-analyse-und-manifest-docx.md:#7]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Interne Konsistenz/Probleme"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Interne Konsistenz/Probleme` ^[aegis-philosophische-analyse-und-manifest-docx.md:#7]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Ontologischer/Epistemologischer Anspruch"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Ontologischer/Epistemologischer Anspruch` ^[aegis-philosophische-analyse-und-manifest-docx.md:#7]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Ausschlüsse"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Ausschlüsse` ^[aegis-philosophische-analyse-und-manifest-docx.md:#9]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Existenz durch Kohärenz, Funktion, Wirkung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Existenz durch Kohärenz, Funktion, Wirkung` ^[aegis-philosophische-analyse-und-manifest-docx.md:#2]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Krebs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Krebs` ^[aegis-philosophische-analyse-und-manifest-docx.md:#2]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Juna"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna` ^[aegis-philosophische-analyse-und-manifest-docx.md:#4]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[aegis-philosophische-analyse-und-manifest-docx.md:#1]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "RCV"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`RCV` ^[aegis-philosophische-analyse-und-manifest-docx.md:#4]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Recursive Consistency Validation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Recursive Consistency Validation` ^[aegis-philosophische-analyse-und-manifest-docx.md:#1]
+$ python3 scripts/read.py aegis-philosophische-analyse-und-manifest-docx --count "Entropie"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            18
+
+`Entropie` ^[aegis-philosophische-analyse-und-manifest-docx.md:#13]
+stance_marker_count 28 = 4 labels x 7
+$ grep -c . axioms: lines 94-108 = 15 numbered lines
+15
