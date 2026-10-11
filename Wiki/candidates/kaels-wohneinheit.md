@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "romanentwurf-kohaerenz-protokoll-teil-1", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-comprehensive-project-state-narrative-au"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "romanentwurf-kohaerenz-protokoll-teil-1", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-comprehensive-project-state-narrative-au", "roman-kohaerenz-protokoll"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -12,6 +12,10 @@ gathered: "2026-09-17"
 # Kaels Wohneinheit 1.0
 
 [[kael|Kael]]'s dwelling in KW1, and the novel's starting point after the Reboot.
+
+## Reading — `roman-kohaerenz-protokoll`, 2025-04-17, the early prose draft — the Wohneinheit as the place of intrusions
+
+The narrator (German prose): Kael walks back „zu seiner Wohneinheit“ ^[roman-kohaerenz-protokoll.md:L393] past a mirroring wall. Then „Allein in seiner Wohneinheit umfing ihn die Stille wieder“ ^[roman-kohaerenz-protokoll.md:L395], the silence „aufgeladen mit den Echos des Tages“ ^[roman-kohaerenz-protokoll.md:L395], and a sensory intrusion follows. The text gives no size, address or name for the unit beyond this.
 
 ## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
 
