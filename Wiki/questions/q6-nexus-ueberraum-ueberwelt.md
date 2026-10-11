@@ -301,3 +301,11 @@ Stands as one more position, two places named nexus on two levels; recorded, not
 Part II's concept: „Die Überwelt und die Konfrontation mit den Guardians“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L38]. The arc: „Kael verlässt die Simulationsebene und betritt den“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L42] Nexus.
 
 Standing in the record: one more position, a plan; it decides nothing about Nexus, Überraum and Überwelt.
+
+## 2026-10-11 — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report
+
+**The paradox report defines the Überwelt as a domain created by AEGIS that serves as the control centre for the simulation.**
+
+The definition, labelled Genesis 1.5, reads „Eine von AEGIS geschaffene Domäne informationaler Ordnung“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L246]; its function line has „AEGIS' Operationsbasis; Schnittstelle zur Simulation“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L247]. The report asks, as a question, „Ziel von Kaels Reise?“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L249]
+
+Stands as one more position on what the Überwelt is; it decides nothing, and the label marks the report's account of another text.
