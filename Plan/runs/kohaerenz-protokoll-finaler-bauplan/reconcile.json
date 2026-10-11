@@ -1,0 +1,158 @@
+{
+  "document": "kohaerenz-protokoll-finaler-bauplan",
+  "drive_id": "15CLI8Y7BaVoZLnqFML9tAd-Vr6YBVh12hnzVbD-A2Z4",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; light pass — a near version in content of kohaerenz-protokoll-detaillierte-recherche and kohaerenz-protokoll-finale-pfeiler — readings by one wiki-reader subagent (Sonnet) only where it adds, from Plan/runs/ingest-237/brief.md; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 79,
+    "decisions": 81,
+    "decided_by_lookup": 66,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plan of the same family as the detailed research report and the final pillars report: its new surfaces are Szenario B (Der Gärtner), Die Kosten der Gnosis, Host Kael, the Meta-Erzähler and the shared borrowed theory; what it adds went on existing pages and two records. Light pass.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        69,
+        81,
+        83
+      ],
+      "attribution": "",
+      "note": "Pfad B as forced evolution, an existential vacuum, aims left open"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "a symptom of the transformed AEGIS"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        63,
+        65,
+        195
+      ],
+      "attribution": "",
+      "note": "the climax, and Kael as the Gödel-Satz"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "Guardians after the transformation"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        65,
+        167
+      ],
+      "attribution": "",
+      "note": "Juna/V as catalyst, entangled with Kael"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        136,
+        145,
+        195
+      ],
+      "attribution": "",
+      "note": "Szenario B, the roster wording, Kael as Gödel-Satz"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        165,
+        167
+      ],
+      "attribution": "",
+      "note": "an exploit on a level AEGIS cannot reach"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        149
+      ],
+      "attribution": "",
+      "note": "roster wording"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J34 (Juna/V on juna); `Host Kael` and `Kael-Paradoxons` on kael; `funktionalen Multiplizität`, `Potentialmeers` and the Paradox of Misaligned Coherence stand in the account shared with kohaerenz-protokoll-detaillierte-recherche, not read again",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 136,
+      "decision": "occurrence",
+      "why": "a general sense"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 63,
+      "decision": "occurrence",
+      "why": "systemic entropy of Kael's state"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 118,
+      "decision": "occurrence",
+      "why": "a heading of the shared account"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 227,
+      "decision": "occurrence",
+      "why": "the meta-narrator as a persona"
+    }
+  ],
+  "not_promoted": [
+    "Szenario B (Der Gärtner)",
+    "Die Kosten der Gnosis",
+    "Host Kael",
+    "the Meta-Erzähler",
+    "the shared borrowed theory"
+  ],
+  "internal_tension": "the Gödel-Satz is said of Kael's state (L65) and of Kael himself (L195); the Moonshine-Link is an exploit and an architectural back door (L92, L165); it calls itself definitive (L13, L136)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
