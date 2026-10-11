@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 32
-readings: 32
+sources: 33
+readings: 33
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "kohaerenz-protokoll-architecture-synthesis", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-detaillierter-plot-blueprint"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-hard-sf-horror-thriller", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "kohaerenz-protokoll-architecture-synthesis", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kohaerenz-protokoll-kapitel-39-die-letzte-instanz"]
 gathered: "2026-09-24"
 ---
 
@@ -60,6 +60,10 @@ The DKT synthesis, an analysis of the plot, uses the name in two chapters. Kapit
 The master blueprint plans the Mosaik-Herz at the end of Part III; it is a plan, not canon.
 
 In the final system report „Kael akzeptiert das“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L74] Mosaik-Herz, and the plan continues „Er entscheidet sich gegen die sterile Ordnung von AEGIS“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L74] and „für die chaotische, aber echte Liebe zu Juna in der Realität“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L74].
+
+## Reading — `kohaerenz-protokoll-kapitel-39-die-letzte-instanz`, 2026-02-25, the chapter-39 draft — the PMAS report: it beats in the reader's chest
+
+In the chapter-39 draft, the PMAS report addresses the reader: „schlägt nun in deiner Brust“ ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:L45]. The subject it names is the `Mosaik-Herz`.
 
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Mosaik-Herz as Juna unmasked in Akt II
 
