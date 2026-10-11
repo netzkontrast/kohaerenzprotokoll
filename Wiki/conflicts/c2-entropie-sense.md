@@ -304,3 +304,11 @@ Stands beside the record's senses as entropy meaning possibility, said of the se
 „die Integration von Trauma (Entropie)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L28] is its epistemological centre, and AEGIS tries to erase „traumatische Entropie“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L50]. The report's Entropie-Kernel is the chaos pole of its Dual Kernel Theory (symbol lost in the export).
 
 One more position in the record; it decides nothing about the sense of Entropie.
+
+## 2026-10-11 — `aegis-paradoxon-konzeption-und-analyse`, 2025-04-29, the AEGIS paradox report
+
+**The report uses Entropie in the information-theoretic sense, as the measure AEGIS minimises, glossed as Inkohärenz.**
+
+„Minimierung von Informationsentropie (Inkohärenz)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L36]. The recommended paradox ends: „Paradoxerweise erzeugt AEGIS dadurch genau die Inkohärenz und Entropie“ ^[aegis-paradoxon-konzeption-und-analyse.md:L288].
+
+One more position in the record; it decides nothing.
