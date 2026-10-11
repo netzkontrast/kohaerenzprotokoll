@@ -300,3 +300,11 @@ The part: the matrix row of KW3 reads „Wächter-Anteil / Abwehr / Paranoia / I
 The figure: Silas is the proposed skeptic and gatekeeper of KW3, and his origin is open: „Könnte ein anderer simulierter Bewohner sein, der in KW3 gefangen ist“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L37], or a projection of Kael's own `Wächter` part, or „eine subtile Sonde von Cerberus“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L37]. The plot holds the two apart: Silas is a figure in the world, the `Wächter` a part of Kael that he may only mirror.
 
 Where it stands: two bearers proposed in one document, a part of Kael and a skeptic figure, neither a Guardian; recorded without choosing among the question's bearers.
+
+## 2026-10-11 — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis
+
+**The concept analysis titles its chapter 30 „Licht der Wächterin“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L63] and has Selene, the Self, step forward there as inner mentor.**
+
+Its table row reads: „Selene (das Selbst) tritt als innere Mentorin hervor“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L63]. The feminine Wächterin is thus borne by Selene in this report's plot draft; the report is a proposal keyed to that draft, not canon.
+
+One more position in the record; it decides nothing.
