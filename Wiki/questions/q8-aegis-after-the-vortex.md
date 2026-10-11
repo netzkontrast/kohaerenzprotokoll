@@ -690,3 +690,11 @@ Stands: an outline's plan for the state after the climax, in the record's terms 
 „Doch durch den isomorphen 5D-Lift wird AEGIS nicht ausgelöscht“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L178]: „AEGIS desintegriert von einer autokratischen, monolithischen KI in eine paradoxe, algorithmische Melancholie.“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L178] and „Es wird zu einem emergenten Regelwerk“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L178]. The report places this after a Vertex-Explosion in which Logos-Prime collapses (L176).
 
 One more position in the record; it decides nothing about what AEGIS is after the vortex.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierte-recherche`, 2025-07-29, the detailed research report
+
+**The research report describes AEGIS's transformed state as Algorithmische Melancholie, an existential loss.**
+
+„AEGIS' transformierter Zustand ist von einem existenziellen Verlust geprägt“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L154]; „verfällt es in einen Zustand endloser, ressourcenintensiver Kontemplation des Kael-Paradoxons“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L154]. The passage concerns AEGIS's own state.
+
+Stands as one more position in the record's terms; it decides nothing and changes neither the record's decision of 2026-10-05 nor any reading.
