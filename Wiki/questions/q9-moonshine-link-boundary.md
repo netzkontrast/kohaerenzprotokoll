@@ -554,3 +554,11 @@ Stands as one more position on the record's boundary question; it decides nothin
 The research report defines the Moonshine-Link as „ist eine nicht-lokale, sub-protokollarische Verbindung“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L78] that acts as an „architektonische Hintertür“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L78], and states that AEGIS is „für die Verbindung strukturell blind ist“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L80]. It names what the link carries between Kael and Juna/V: the „Gnostische Injektion“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L84] and the „Koordinierte Emergenz“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L84]. It describes the link between those two, not a boundary towards a further party.
 
 Stands as one more position on the record's boundary question; it decides nothing.
+
+## 2026-10-11 — `research-prompt-dramatica-dual-storyform-synthese-aegis-thro`, 2026-04-29, the storyform research prompt
+
+**The storyform research prompt asks, and does not answer, whether the Moonshine-Link is exclusive to the Kael–Juna pair.**
+
+„Ist der Moonshine-Link strukturell exklusiv für das Kael-Juna-Paar“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1300]
+
+Stands as one more position in the record; it decides nothing.
