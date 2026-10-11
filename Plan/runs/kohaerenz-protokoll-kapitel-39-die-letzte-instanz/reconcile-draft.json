@@ -1,0 +1,149 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
+  "drive_id": "1em4NZKN3UW1lDzizHvXuuNVG6ErGTU3f0Mss0dHDTDc",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 30,
+    "decisions": 33,
+    "decided_by_lookup": 18,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "its voice no longer from the Nexus"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "their despair becomes the reader's effort"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "named only to say Kael does not look at her"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        21,
+        27,
+        59
+      ],
+      "attribution": "",
+      "note": "he looks out of the text at the reader"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the reader as architect forming a Kern-Welt"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        19,
+        37,
+        65
+      ],
+      "attribution": "",
+      "note": "coherence no longer held internal; the PMAS status"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "its geometry collapsed to a surface"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "its halls only ink and pixels of light"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "the PMAS report: it beats in the reader's chest"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        19,
+        29
+      ],
+      "attribution": "",
+      "note": "AEGIS's voice leaves it; its light goes out"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the reader's room a set covering it"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "nichts-rauschen",
+      "surface": "Nichts-Rauschen",
+      "line": 55,
+      "decision": "reading",
+      "why": "the reader's room covering the Nichts-Rauschen of reality"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

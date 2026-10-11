@@ -1,0 +1,76 @@
+$ read.py --count "Rauschen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Rauschen` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#3]
+$ read.py --count "FINALER SYSTEMBERICHT: PMAS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`FINALER SYSTEMBERICHT: PMAS` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#1]
+$ read.py --count "PMAS-ENDE"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PMAS-ENDE` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#1]
+$ read.py --count "Mosaik-Herz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mosaik-Herz` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#1]
+$ read.py --count "Instanz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Instanz` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#2]
+$ read.py --count "Protokoll"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Protokoll` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#3]
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#1]
+$ read.py --count "Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#1]
+$ read.py --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#1]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#1]
+$ read.py --count "Leser"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Leser` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#2]
+$ read.py --count "Architekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            2
+
+`Architekt` ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:#1]
+$ capture.py --count (04-counts.txt)
+# counts for 30 candidates
+# line numbers are FILE lines, as a citation writes them
+
