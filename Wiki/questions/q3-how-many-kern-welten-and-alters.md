@@ -1108,3 +1108,11 @@ Stands: one more position in the record, an analysis rather than canon, with eig
 In its contradictions table the audit sets Version A, 11 Alters, against Version B, 13 (the digits are bold in the line). Its strategic-impact cell says 11 „aligns with the 4 Kernwelten“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L30]. It recommends: „Standardize at“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L35] 11, and its roadmap asks for „finalizing the count at“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L73] 11 (L73). The audit sets no alter against a world.
 
 Stands as one more position in the record: two counts side by side with a recommendation for 11, four Kernwelten as the audit counts them; recorded, nothing decided.
+
+## 2026-10-11 — `dramatica-dual-storyform-mapping-analyse`, 2026-04-30, the storyform mapping analysis
+
+**The report names Kael's alter system only as a point of counter-evidence.**
+
+Its strongest counter-evidence to Candidate 1 is that reducing the alter system to a Universe situation misses „die phänomenologische Tiefe der TSDP“ ^[dramatica-dual-storyform-mapping-analyse.md:L91]; the figure itself stands in digits glued to a word and is not quoted here.
+
+One more position in the record; it settles no count of Kern-Welten or Alters.
