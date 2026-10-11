@@ -470,3 +470,11 @@ Stands as an answer to the record's question on the side of agents of AEGIS; rec
 „specialized, autonomous agents known as“ ^[the-coherence-protocol-a-world-bible.md:L80] Guardians are employed by AEGIS to execute its protocols within the simulated Core Worlds, „each tasked with monitoring a specific domain of reality“ ^[the-coherence-protocol-a-world-bible.md:L80].
 
 Stands as one more position in the record's terms: the Guardians are AEGIS's agents; recorded, not decided.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept places the Guardians as the interface of the AEGIS-Kern-Nexus and at hubs where they interact with AEGIS and the worlds.**
+
+UW-01 (`Concept Doc`) lists „AEGIS (Kern-KI), Guardians (als Interface)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L324]; UW-05 is „Knotenpunkte, über die die Guardians mit AEGIS und den KWs interagieren.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L328] Profile 13 adds „Schnittstellen zu den Guardians“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L521] among the landmarks and „Die Guardians (als primäre Schnittstellen oder Verteidiger)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L523].
+
+Stands as one more position on the relation of Guardians to AEGIS: an interface and hubs, not a hierarchy stated; recorded, nothing decided.
