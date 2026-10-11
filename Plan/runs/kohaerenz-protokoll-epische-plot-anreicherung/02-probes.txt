@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      72
+  backslash escapes      186
+  typographic marks      66
+  ascii quotes           16
+
+# inflection families -- one term, several surfaces
+  infor    Information, Informationen, Informations, Informationsdichte, Informationselement, Informationsemission, Informationsfeld, Informationslöschung, Informationsmasse, Informationsphysik, Informationsraum
+  archi    Architekten, Architektur, Architekturanalyse, Architekturen, Archivpapier, Archivs
+  disso    Dissociation, Dissociative, Dissonanz, Dissonanzen, Dissoziation, Dissoziativen
+  traum    Trauma, Traumabewältigung, Traumaintegration, Traumarealität, Traumata, Traumlogik
+  alter    Alter, Altern, Alternative, Alternativen, Alters
+  gravi    Gravitation, Gravitationssignaturen, Gravitationsumkehr, Gravitationsänderung, Gravity
+  inter    Interferenz, International, Intersection, Interstellar, Interview
+  reali    Reality, Realität, Realitätsgestaltung, Realitätskonstruktion, Realitätsmanipulation
+  super    Superhelden, Superkräfte, Supernova, Superposition, Superpositionen
+  daten    Datenkriminalität, Datenmüll, Datenraum, Datenverarbeitungsprozessen
+  ident    Identifikation, Identity, Identität, Identitätsstörung
+  intel    Intellectual, Intellekt, Intellektueller, Intelligenz
+  konst    Konstrukt, Konstrukte, Konstruktion, Konstruktive
+  kosmi    Kosmisch, Kosmische, Kosmischer, Kosmisches
+  mecha    Mechanik, Mechaniken, Mechanismen, Mechanismus
+  narra    Narrativ, Narrative, Narrativen, Narrativer
+  parad    Paradigma, Paradigmenwechsel, Paradoxa, Paradoxon
+  physi    Physics, Physik, Physikalische, Physikalischer
+  proto    Protocol, Protokoll, Protokolle, Protokollen
+  psych    Psyche, Psychoanalyse, Psychologischer, Psychotraumatologie
+  selbs    Selbst, Selbstbekämpfung, Selbstfeindseligkeit, Selbstliebe
+  spekt    Spektakel, Spektakels, Spektrum, Spektrums
+  syste    System, Systeme, Systemen, Systems
+  theor    Theorem, Theoretical, Theorie, Theory
+  unive    Universen, University, Universum, Universums
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Alter
+  Alte < Altern
+  Alte < Alters
+  Alte < Veraltet
+  Alte < Alternative
+  Alte < Alternativen
+  Book < Books
+  Chor < Choralität
+  City < Multiplicity
+  Code < Programmcode
+  Dies < Diese
+  Dies < Dieser
+  Dual < Dualität
+  Dual < Dualismus
+  Ende < Wendepunkt
+  Ende < Erdrückender
+  Ende < Eskalierende
+  Fall < Falle
+  Fall < Verfall
+  Fall < Fallhöhe

@@ -1,0 +1,100 @@
+# counts for 80 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             34 word    36 in   [26, 28, 29, 31, 41, 44]
+                                    2      as Kaels
+  System Kael                       6 word     6 in   [44, 67, 69, 104, 122]
+  Juna                              8 word     8 in   [45, 57, 69, 91, 104, 106]
+  Silas                             1 word     1 in   [176]
+  AEGIS                            35 word    36 in   [30, 34, 43, 44, 47, 57]
+                                    1      as AEGIS-Strukturen
+  Alter                            16 word    23 in   [29, 30, 63, 69, 77, 81]
+                                    3      as Alters
+                                    1      as Alternativen
+                                    1      as Altern
+                                    1      as Alternative
+  Logos-Prime                       7 word     7 in   [55, 57, 77, 122, 171, 186]
+  Mnemosyne-Archivs                 2 word     2 in   [63, 172]
+  Mnemosyne-Bibliothek              1 word     1 in   [122]
+  Cerberus-Zitadelle                1 word     1 in   [63]
+  Kernwelten                        6 word     6 in   [29, 30, 42, 69, 125, 193]
+  KW1                               3 word     3 in   [42, 55, 186]
+  KW2                               4 word     4 in   [33, 63, 121, 186]
+  KW3                               1 word     1 in   [63]
+  KW4                               3 word     3 in   [42, 69, 121]
+  Unraum                            1 word     1 in   [69]
+  Dual Kernel Theory                5 word     5 in   [13, 38, 51, 119, 205]
+  DKT                               9 word    13 in   [13, 27, 31, 33, 40, 63]
+  Kohärenz                         18 word    19 in   [11, 13, 17, 25, 26, 32]
+                                    1      as Kohärenzerhalt
+  Entropie                          7 word     8 in   [13, 27, 28, 40, 43, 47]
+                                    1      as Entropie-Protokoll
+  K₁                                5 word     7 in   [13, 27, 57, 125, 163, 173]
+  K₀                                9 word    12 in   [13, 27, 28, 57, 69, 93]
+  Coherons                          5 word     5 in   [26, 28, 81, 125, 176]
+  Erasonen                          3 word     3 in   [26, 46, 81]
+  Moonshine-Link                    4 word     4 in   [28, 69, 106, 124]
+  Gödel-Gambit                      3 word     4 in   [31, 69, 81, 178]
+                                    1      as Gödel-Gambits
+  Genesis-Krise                     2 word     2 in   [41, 57]
+  Nichts-Rauschen                   3 word     4 in   [40, 124, 176]
+                                    1      as Nichts-Rauschens
+  Algorithmischer Melancholie       1 word     1 in   [123]
+  rekursive Zeugenfunktion          1 word     1 in   [27]
+  Validierungskrieg                 1 word     1 in   [63]
+  Penrose-Architektur               1 word     1 in   [57]
+  polyphones Vektor-Schiff          1 word     1 in   [69]
+  Strange Attractor                 1 word     1 in   [69]
+  Ouroboros-Konstrukt               1 word     1 in   [63]
+  Landauer-Schmelztiegel            1 word     1 in   [69]
+  Landauer-Hitze                    1 word     1 in   [63]
+  MI-Ghost                          1 word     1 in   [45]
+  B+C-Superposition                 1 word     1 in   [45]
+  neguentropische Anomalie          1 word     1 in   [104]
+  Neguentropie                      1 word     1 in   [106]
+  Funktionale Multiplizität         2 word     2 in   [121, 160]
+  funktionale Multiplizität         2 word     2 in   [67, 77]
+  Computational Class               3 word     3 in   [61, 67, 200]
+  Optionlock                        2 word     2 in   [81, 98]
+  Timelock                          1 word     1 in   [81]
+  Horror der Normalität             1 word     1 in   [55]
+  Der Genesis-Fall                  1 word     1 in   [171]
+  Die Landauer-Wüste                1 word     1 in   [172]
+  Der Chor der Dreizehn             1 word     1 in   [173]
+  Das Moonshine-Paradoxon           1 word     1 in   [174]
+  Das Gödel-Gambit                  1 word     1 in   [178]
+  Kammerspiel-Eskalation            1 word     1 in   [184]
+  Kosmische Odyssee                 1 word     1 in   [191]
+  Hybride Spirale                   1 word     1 in   [198]
+  DID                               9 word    11 in   [77, 117, 119, 139, 154, 195]
+  EP                                1 word     1 in   [122]
+  ANP                               1 word     1 in   [122]
+  Final Fusion                      1 word     1 in   [160]
+  Healing the Split                 2 word     2 in   [77, 173]
+  Outside Context Problem           1 word     1 in   [106]
+  Deus Ex Machina                   1 word     1 in   [112]
+  Signature Sequences               1 word     1 in   [167]
+  Plot-Baukasten                    1 word     1 in   [165]
+  Landauer-Prinzip                  3 word     3 in   [42, 57, 172]
+  Bekenstein-Schranke               6 word     6 in   [32, 57, 69, 85, 87, 91]
+  Heroine’s Journey                 1 word     1 in   [73]
+  Hero’s Journey                    1 word     1 in   [73]
+  Dramatica                         4 word     7 in   [73, 79, 81, 98, 253, 254]
+                                    1      as Dramatica-Mechanismen
+                                    1      as Dramatica-Modell
+                                    1      as Dramatica-Limit
+  Murdock                           4 word     8 in   [73, 75, 77, 173, 201, 248]
+                                    4      as Murdocks
+  Campbell                          2 word     5 in   [73, 75, 77, 171]  <-- substring
+                                    3      as Campbells
+  Verlinde                          1 word     1 in   [57]
+  Unified Protocol                  1 word     1 in   [121]
+  Schema-Therapie                   1 word     1 in   [121]
+  ISSTD                             4 word     4 in   [13, 115, 161, 257]
+  Crossing the First Threshold      1 word     1 in   [171]
+  Zones of Thought                  1 word     1 in   [32]
+  Change                            1 word     1 in   [81]
+  Driver                            1 word     1 in   [81]
+  Action                            1 word     1 in   [81]
