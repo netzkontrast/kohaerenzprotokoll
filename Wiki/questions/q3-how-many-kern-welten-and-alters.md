@@ -1172,3 +1172,11 @@ Stands as one more position; decides nothing.
 It writes „Kael liegt kurz vor der Löschung durch Cerberus“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L173] in a scene where „Plötzlich manifestieren sich alle 13 Alter physisch im Raum“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L173], and „Die Polyphonie von 13 Altern“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L122]. It names Kernwelten „In den Kernwelten (KW1 bis KW4) gelten hingegen unerbittliche physikalische Gesetze“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L42], and places Logos-Prime and Mnemosyne as „Die physische Handlung verlässt Logos-Prime (KW1) und Mnemosyne (KW2) selten“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L186] and the Cerberus-Zitadelle as „In der Cerberus-Zitadelle (KW3) entbrennt ein fraktaler Grabenkampf“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L63].
 
 Stands as one more position, from a brief of proposals: 13 alters and four Kernwelten in its frame; recorded, not applied.
+
+## 2026-10-11 — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report
+
+**The paradox report names the Kernwelten as subsystems of Kael's psyche, Logik, Emotion, Abwehr and Potential, and says they are not truly separate.**
+
+Its definition, labelled Erweiterter Kontext 2, reads „AEGIS' Versuch, Kael's Psyche“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L258] to divide into seemingly separate subsystems, and on their nature „sie sind jedoch nicht wirklich getrennt, sondern miteinander verbunden“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L260]. Of Kael's Anteile (Alters) it says only that they „sind Manifestationen seiner fragmentierten Psyche, die in den Kernwelten agieren“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L282].
+
+Stands as one more position on the question: the four subsystem names are listed as aspects of the psyche; the report ties no alter to a world.
