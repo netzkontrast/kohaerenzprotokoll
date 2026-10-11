@@ -502,3 +502,11 @@ One more position in the record; it decides nothing about whether the Guardians 
 In the Correction phase (Kap 1–13) it reads the Core Worlds as „each an analytical laboratory run by a specialized Guardian“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L27], the laboratories being the mechanism of AEGIS's `Correction` protocol.
 
 Stands: one more position in the record, the Guardians as specialised runners within AEGIS's Correction; component, peer or replaced design is not decided here.
+
+## 2026-10-11 — `research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m`, 2026-04-30, the storyform rebuild prompt
+
+**The storyform rebuild prompt's primer places the Guardians under AEGIS, torn between loyalty and insight.**
+
+The primer calls them „vier Sub-Wächter-Instanzen unter AEGIS“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L371], bearers of the Wächter-Zwiespalt: „Loyalität zu AEGIS vs. emergente“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L371] insight directed against AEGIS.
+
+Stands: one more position in the record, the prompt's summary; nothing decided.
