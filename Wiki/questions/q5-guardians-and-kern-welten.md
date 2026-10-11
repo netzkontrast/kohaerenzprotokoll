@@ -749,3 +749,11 @@ Stands as one more position in the record's terms: the names sit side by side, t
 The concept names the bearers in one line: „dem ordnenden (oder kontrollierenden) Einfluss der jeweiligen Guardians (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L42]. In the table KW1-05 is „Abstrakter Kontrollraum innerhalb KW1, von dem LogOS die Ebene überwacht.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L292], KW2-05 „Zentraler Ort, an dem Mnemosyne Emotionen/Erinnerungen 'verwaltet'.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L301], KW3-06 „Ort, an dem Cerberus 'Bedrohungen' (dissoziierte Teile, externe Einflüsse) eindämmt.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L311] and KW4-04 „Ort, von dem aus Kairos/Sophia Potenziale und Zukünfte (innerhalb des Systems) beobachtet.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L318]
 
 Stands as one more position: four Guardian/world pairs with Kairos/Sophia sharing the KW4, recorded, nothing decided.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint
+
+**The master blueprint names four Guardians with Kairos/Sophia as one entry and pairs none with a world.**
+
+Part II: Kael meets the Guardians, listed in the line as LogOS, Mnemosyne, Cerberus and „Kairos/Sophia“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L42]. The plan names no Kern-Welt in connection with them.
+
+Standing in the record: one more position, a plan; it decides nothing about the pairing or the Erasure-Pol.
