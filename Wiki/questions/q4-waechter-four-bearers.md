@@ -316,3 +316,11 @@ One more position in the record; it decides nothing.
 The narrator (German prose) writes „Ein Wächter im Auge des Nichts.“ ^[roman-kohaerenz-protokoll.md:L284] about AEGIS's core in the reboot, and later „Der Wächter nimmt seine stille, ewige Patrouille wieder auf“ ^[roman-kohaerenz-protokoll.md:L344].
 
 Stands as one more position; decides nothing.
+
+## 2026-10-11 — `kernwelten-fuer-kohaerenz-protokoll`, 2025-04-27, the Kernwelten design report
+
+**The Kernwelten design report uses `Wächter` for four world guardians, one per world, conceived as distinct entities.**
+
+„Die vier Wächter sind als distinkte Entitäten konzipiert“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L482], and they act as „antagonistische oder katalytische Kräfte“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L482] within AEGIS's framework, as the report proposes.
+
+One more position, from a design proposal; it decides nothing for the record.
