@@ -530,3 +530,11 @@ Stands: the report names Juna as the mediator and Silas as one party it works on
 „Aided by the“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L89] Moonshine-Link provided by Juna/V, Kael presents his integrated state, in the outline's words „Kael presents this integrated state directly to AEGIS's core logic“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L89]. The outline says nothing of a boundary of the link, of what it may carry or of where it ends.
 
 Stands: the outline names the link's source and its use in the climax and leaves the question of its boundary untouched.
+
+## 2026-10-11 — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible
+
+**The world bible puts the Moonshine-Link outside AEGIS's channels and AEGIS blind to it.**
+
+„a non-local, sub-protocol connection“ ^[the-coherence-protocol-a-world-bible.md:L44]; AEGIS's sensors are designed for local data transfers, and „A non-local, acausal resonance is outside its ontological categories“ ^[the-coherence-protocol-a-world-bible.md:L51]. „AEGIS is structurally blind to the connection itself“ ^[the-coherence-protocol-a-world-bible.md:L51].
+
+Stands as one more position in the record's terms: the link lies beyond AEGIS's perception; recorded, not decided.
