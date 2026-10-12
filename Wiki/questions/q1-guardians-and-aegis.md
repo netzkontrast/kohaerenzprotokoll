@@ -566,3 +566,11 @@ Stands: one more position on the record; it decides nothing.
 In the critique of the fifth principle the analyst cites the narrative context: „Die Existenz von inhärenten“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L75] blind spots of the Guardians, together with the anomaly Juna, „widersprechen direkt dem Anspruch auf vollständige epistemische Autonomie“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L75]. The analyst concludes the ideal may be „Die Philosophie könnte hier eher eine Aspiration“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L75]. The analysis does not say whether the Guardians are components of AEGIS or something else; the blind spots are the research context's, reported.
 
 Where it stands in the record's own terms: one more position, the Guardians' limits set against AEGIS's autonomy; recorded, not applied, and the relation stays open.
+
+## 2026-10-12 — `the-coherence-protocol-a-narrative-mosaic`, 2025-11-03, the narrative mosaic brief
+
+**The narrative mosaic brief lists a monolithic Guardian that enforces AEGIS's will and a rebel Guardian, post-schism, who questions its logic and becomes Kael's ally.**
+
+„An unthinking enforcer of AEGIS's will, viewing Kael as a system anomaly to be corrected“ ^[the-coherence-protocol-a-narrative-mosaic.md:L40]; and the rebel, „A Guardian experiencing the“ ^[the-coherence-protocol-a-narrative-mosaic.md:L41] Wächter-Zwiespalt who „begins to question AEGIS's logic and becomes a secret ally to Kael“ ^[the-coherence-protocol-a-narrative-mosaic.md:L41]. The final entry of the brief is again a rebel Guardian, „Conclude the collection from the perspective of a former AEGIS agent now navigating the new reality“ ^[the-coherence-protocol-a-narrative-mosaic.md:L302].
+
+Stands as one more position on how the Guardians stand to AEGIS; recorded, not applied.
