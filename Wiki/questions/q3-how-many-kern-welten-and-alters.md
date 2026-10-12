@@ -1262,3 +1262,11 @@ Stands as one more count of eleven alters and four Kernwelten; recorded, not app
 The table's column is headed „Examples (Alters)“ ^[thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le.md:L76]. The ANP row lists `Kael` as host, then `Lex` (Analyst), `Alex` (Protector), `Rhys` (Caretaker) and `Argus` (Observer); the EP row lists `Nyx` (Fight), `Kiko` (Freeze), `Lia` (Flight), `Isabelle` (Submit/Attachment Cry) and `Moros` (Collapse). `Selene` is not in the table. The lexicon gives these as examples, not as a total. Of the worlds it names only KW2 and KW4 (`Kernwelten`), operating on dialetheic principles, and gives no number.
 
 Stands: ten example names in two rows, without Selene, no count of alters or Kern-Welten in the lexicon's own words; the question is left as the record has it.
+
+## 2026-10-12 — `the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua`, 2025-11-03, the lexicon of core dualities
+
+**The lexicon of core dualities tabulates eleven alters, types them ANP or EP, and gives Selene a type with its own question mark.**
+
+Its table under the Internal System lists eleven rows, Kael to Argus (L104–L114). It types Selene „ANP (Integrator?)“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L113] (L113), the question mark the document's own, and Argus „ANP/EP-Mix“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L114] (L114). It names Kael as „ANP (Host)“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L104] (L104). It says nothing in these lines about the number of Kernwelten beyond their being constructed by AEGIS (L78).
+
+Stands as one more position on the roster of alters, an analysis without canon claim; the question is the author's and this decides nothing.
