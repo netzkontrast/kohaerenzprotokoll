@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 23
-readings: 23
+sources: 24
+readings: 24
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint"]
 gathered: "2026-09-24"
 ---
 
@@ -65,6 +65,10 @@ The review reads the plan's state `Cache Kohärenz` as „ist eine treffende nar
 ## Reading — `kohaerenz-protokoll-forschungsaufgabe`, 2025-07-29, the ontological analysis — the cache-coherence problem applied to Kael's identity
 
 The ontological analysis applies the cache-coherence problem to the Kernwelten: „Das Cache-Kohärenz-Problem tritt in einem Mehrprozessorsystem auf“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L240], and „Die Kernwelten sind wie vier separate Prozessoren“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L240]; Kael's identity is the shared datum: „Kaels Identität ist das gemeinsam genutzte Datum“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L240]. The narrative glitches it reads as „direkten, vorhersagbaren Symptome eines Cache-Kohärenz-Versagens“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L242].
+
+## Reading — `blueprint`, 2025-07-29, the blueprint — named among the central metaphors
+
+The blueprint lists „Zentrale Metaphern wie das“ ^[blueprint.md:L79] `Resonanz-Gefüge`, `Protokoll`, `Cache Kohärenz`, `Monstergruppe`, `Moonshine-Link` and `Symmetrie` (L79), to be used and unfolded „gezielt“ ^[blueprint.md:L79]; it says nothing further of `Cache Kohärenz` itself.
 
 ## Reading — `narrativ`, 2025-07-30, the architect's compendium — Kael's Cache Kohärenz problem and the MESI protocol as metaphor, in the dramaturg's blueprint
 
