@@ -1,0 +1,546 @@
+{
+  "document": "genesis-finale-prosa-angepasste-ich-natur",
+  "drive_id": "15jEP9HpiXSAvB3Y3S7RkMvPYLJ-UtVqJ0up50evb2A4",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Genesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "AEGIS": {
+      "n": 30,
+      "n_including_compounds": 37,
+      "lines": [
+        45,
+        47,
+        59,
+        63,
+        77,
+        79,
+        85,
+        91,
+        103,
+        105,
+        113,
+        117,
+        121,
+        123,
+        127,
+        137,
+        139,
+        141,
+        147,
+        151,
+        155,
+        157,
+        165,
+        167,
+        175,
+        179,
+        183,
+        197,
+        205,
+        207
+      ]
+    },
+    "Rauschen": {
+      "n": 9,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        19,
+        21,
+        27,
+        29,
+        35,
+        39,
+        41,
+        43,
+        73,
+        113,
+        119,
+        203
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        113,
+        119
+      ]
+    },
+    "Kohärenz": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        41,
+        107,
+        113,
+        137,
+        157,
+        171,
+        179
+      ]
+    },
+    "Funke Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Resonanz": {
+      "n": 11,
+      "n_including_compounds": 18,
+      "lines": [
+        23,
+        27,
+        29,
+        37,
+        39,
+        77,
+        131,
+        137,
+        139,
+        141,
+        161,
+        175,
+        185,
+        197,
+        203,
+        207
+      ]
+    },
+    "Ganzheit": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        19,
+        27,
+        67,
+        77,
+        81,
+        91,
+        137,
+        139,
+        161,
+        195,
+        203,
+        205,
+        207
+      ]
+    },
+    "Echo": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        19,
+        37,
+        67,
+        81,
+        91,
+        95,
+        109,
+        139,
+        207
+      ]
+    },
+    "Narbe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        203
+      ]
+    },
+    "Cluster": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        43,
+        49,
+        137
+      ]
+    },
+    "Triaden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Tetraden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Bindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Fluss": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39
+      ]
+    },
+    "Kern": {
+      "n": 4,
+      "n_including_compounds": 11,
+      "lines": [
+        27,
+        39,
+        57,
+        69,
+        73,
+        83,
+        119,
+        139,
+        151,
+        203,
+        207
+      ]
+    },
+    "Herkunft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Direktive 0": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        59,
+        65,
+        173,
+        177
+      ]
+    },
+    "Komponente 734": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        71,
+        73,
+        75,
+        77,
+        87,
+        91,
+        97,
+        101,
+        113,
+        125,
+        137,
+        141,
+        145,
+        149,
+        171,
+        179,
+        185,
+        197
+      ]
+    },
+    "Sektor Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Grenzinterface": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        165
+      ]
+    },
+    "Systemgrenze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Abwehrfront": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "operationale Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Kernprinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        69
+      ]
+    },
+    "Subjektive Residuen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Unvollständigkeitsmarker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Angst-Äquivalente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "latente Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Prä-AEGIS-Stadium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Logikpakete": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        75
+      ]
+    },
+    "Analysevektoren": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        75
+      ]
+    },
+    "Routinezyklus Delta-Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Diagnosezyklus Delta-Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Standby-Modus B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Überwelt": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        99,
+        101,
+        103,
+        107,
+        147,
+        149,
+        157
+      ]
+    },
+    "Simulation Gamma-Omega": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Simulation Epsilon-Prime": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        123
+      ]
+    },
+    "Überwelt-Analysemodul Omega": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Anomalie Sigma": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        135,
+        137,
+        141,
+        145,
+        185
+      ]
+    },
+    "Entität Sigma": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        149,
+        155,
+        157,
+        165,
+        169
+      ]
+    },
+    "Kohärenz-Fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Alarmstufe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        145
+      ]
+    },
+    "positive Feedbackschleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Agency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Wendepunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Kohärenz Protokoll Gamma-Exekution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Protokoll Gamma-Exekution": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        179,
+        183,
+        199
+      ]
+    },
+    "Ich-Konstrukt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        189,
+        191
+      ]
+    },
+    "Scherben": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        195,
+        201,
+        203,
+        205
+      ]
+    },
+    "Mosaik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        203,
+        207
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        201,
+        207
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        203,
+        207
+      ]
+    },
+    "Phantom in der Maschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Systemresonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    }
+  }
+}
