@@ -821,3 +821,11 @@ Stands: one more position, a constraint handed to an agent; nothing decided.
 For Co₁: „Primär antagonistischer Regelvollstrecker, aber seine Logiktreue könnte über Paradoxien ausnutzbar sein.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L440] For McL: „Eher katalytischer/umweltbedingter Antagonist; manipuliert das System, das Kael navigieren muss.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L441] For B: „Rein antagonistische Kraft, die die Gefahr der Welt und Kaels innere Dämonen verkörpert.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L442] For Ly: „Als Katalysator für Kaels kreatives Potenzial zu wirken“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L379].
 
 One more position, from a design proposal; it decides nothing.
+
+## 2026-10-12 — `the-coherence-protocol-a-narrative-mosaic`, 2025-11-03, the narrative mosaic brief
+
+**The narrative mosaic brief gives each of four Kernwelten one Guardian: the Architect, the Network-Weaver, the Chaos-Regulator and the Possibility-Weaver.**
+
+„The archetypal embodiment of sterile, logical order in Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L42], „The archetypal embodiment of emotion, memory, and connection in Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L43], „The archetypal embodiment of paranoia and zero-trust defense in the bunker-like Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L44], „The archetypal embodiment of emergence, potential, and creativity in Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L45]. Each is a point of view of a brief, not an event in a story.
+
+Stands as one more position on the pairing of Guardian and Kernwelt; recorded, not applied.
