@@ -1278,3 +1278,11 @@ Stands as one more position on the roster of alters, an analysis without canon c
 It proposes „each Kernwelt (Core World) mapped to specific psychological functions“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L23]: KW1 the domain of Lex, „Kael's rational part“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L25] (L25); KW2 the Emotional Parts (L26); KW3 „The domain of the protectors“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L27], Alex and Nyx (L27); KW4 „The domain of the healer and relational parts“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L28], with Lia, Rhys and the core Self, Selene (L28).
 
 Stands as one more position on the roster, in a plan, not a description of the novel; the question is the author's and this decides nothing.
+
+## 2026-10-12 — `aegis-und-der-kollaps-kritische-analyse`, 2026-03-01, the critical analysis
+
+**The critical analysis counts eleven specialised subsystems of Kael's psyche, names ANP and EP parts without a total, and gives no number of Kernwelten.**
+
+It writes that Kaels Psyche was „in elf spezialisierte Subsysteme fragmentiert wurde“ ^[aegis-und-der-kollaps-kritische-analyse.md:L91]. The same line then quotes another text, introduced as „Das Dokument konstatiert explizit“ ^[aegis-und-der-kollaps-kritische-analyse.md:L91]. It names `Kael` and `Lex` as Apparently Normal Parts and `Nyx`, `Kiko`, `Lia` and `Moros` as Emotional Parts, without adding them up or stating which subsystems the eleven are. Of worlds it writes „AEGIS' angestrebte Kernwelt ohne Qualia und Emotionen“ ^[aegis-und-der-kollaps-kritische-analyse.md:L63] and „die Kernwelten sauber zu halten“ ^[aegis-und-der-kollaps-kritische-analyse.md:L103], and names the Cerberus-Labyrinth, with no count.
+
+Stands as one more count of eleven alters and no count of Kernwelten; recorded, not applied, and the record's rows are not changed.
