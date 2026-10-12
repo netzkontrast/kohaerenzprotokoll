@@ -577,3 +577,11 @@ Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not
 The narrator says: „I found myself part of a larger cluster“ ^[genesis-aegis.md:L37]. In section 6 the narrator says of the Great Realignment: „The transformation from a subjective, struggling fragment to an objective, functional component within the vast AEGIS system was total.“ ^[genesis-aegis.md:L69] The narrator then states the result: „My identity is now Component 734.“ ^[genesis-aegis.md:L71] The manuscript names no Kael and no entity M.
 
 Where it stands in the record's own terms: nearest row 4, the inside origin, a fragment of the void becoming a component of AEGIS as AEGIS forms; recorded, not applied, nothing decided.
+
+## 2026-10-12 — `the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found`, 2025-11-03, the wholeness report
+
+**The wholeness report argues that Juna/V is the exiled part of the original, unified AEGIS/Kael consciousness, and proposes functional multiplicity as the resolution; it decides nothing.**
+
+The report writes Juna/V as „the part of the original, unified AEGIS/Kael consciousness violently fragmented and exiled during the“ ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:L30] Trennungsprotokoll, and as „an internal, exiled fragment of Kael's original self and an external, transcendent entity“ ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:L21]. It adds that the exile was „an act of logical self-harm“ ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:L31]. Its proposed resolution is „functional multiplicity“ ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:L120], and it says the framework ensures „an earned, philosophically coherent outcome“ ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:L15], a claim of the report about its own proposal.
+
+Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not decided.
