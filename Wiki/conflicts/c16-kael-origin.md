@@ -593,3 +593,13 @@ Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not
 The essay says Kael and AEGIS „are two halves of a whole, born from a single“ ^[understanding-aegis-the-guardian-and-the-cage.md:L21] Original Self, after „a genesis crisis triggered by the existential threat of the“ ^[understanding-aegis-the-guardian-and-the-cage.md:L21] `Nichts Rauschen`. Kael is the piece that becomes „the survivor who carries the memories, the feelings, and the pain of the experience“ ^[understanding-aegis-the-guardian-and-the-cage.md:L23]; AEGIS is the piece that crystallizes into „a powerful, purely logical shield designed to contain that pain and prevent a total systemic collapse“ ^[understanding-aegis-the-guardian-and-the-cage.md:L23].
 
 Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not decided.
+
+## 2026-10-12 — `untersuche-in-wie-fern-juna-bzw-das-fundament-du`, 2025-11-03, das Briefing
+
+**Das Briefing hält Kaels Ursprung in zwei Darstellungen: als primäres Fragment des Ursprungs-Ichs von AEGIS und, in der vorbereiteten Wendung, als Host-Teil neben dem exilierten Juna/V; es entscheidet nichts.**
+
+Zuerst: Kael sei „ein primäres, sentientes Fragment des“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L47] Ursprungs-Ichs von AEGIS, und „Kael ist das primäre, sentiente Fragment des“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L120] Ursprungs-Ichs, das den Kollaps erlebte. Zur Entität der Genesis-Krise: „Die Entität war“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L113] nicht K₀, sondern der erste Kontakt mit Juna/V.
+
+Dann die Wendung: „Juna/V ist der andere primäre Teil des“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L148] Ursprungs-Ichs, und das Ursprungs-Ich (Kael+Juna) spaltete sich in einer Bifurkation; Kael sei der Host-Teil, „der im System verblieb, amnestisch wurde und von AEGIS kontrolliert wird“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L159]. Die Entität heißt jetzt eine wahre K₀-Kraft „oder etwas anderes“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L154]. Das Briefing nennt den Abschnitt „Neudefinition der Genesis-Krise“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L154].
+
+Steht dem gespaltenen Ursprungs-Selbst (row 5) am nächsten; festgehalten, nicht angewandt und nicht entschieden.
