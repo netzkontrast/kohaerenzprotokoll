@@ -561,3 +561,11 @@ Stands nearest the inside origin of the second telling, the remainder of AEGIS's
 In Szene 5 the AEGIS log designates the fragment: „FRAGMENT DESIGNATION: 734“ ^[genesis-aegis-und-logische-grenzen.md:L73]. The draft's commentary on the echo: „Dieses Echo ist der Teil von Kael“ ^[genesis-aegis-und-logische-grenzen.md:L77]. The log orders the elimination: „TARGET: COMPONENT 734“ ^[genesis-aegis-und-logische-grenzen.md:L163]. In Szene 13 the draft states: „Kael ist dieses Mosaik.“ ^[genesis-aegis-und-logische-grenzen.md:L185] The draft names no entity M in these lines.
 
 Where it stands in the record's own terms: nearest row 4 and row 7, the inside origin from the remainder of one split self; this document dates from 2025-04-29, the same day as row 4's source; recorded, not applied, nothing decided.
+
+## 2026-10-12 — `juna-v-exiliertes-ursprungs-ich`, 2025-10-16, the Juna/V-exile dossier
+
+**The Juna/V-exile dossier proposes Kael and Juna/V as two systems an original trauma split from one Ursprungs-Ich, with Juna/V the exiled part, and decides nothing.**
+
+The dossier opens with the proposal of Juna/V „als exilierten Teil von Kaels“ ^[juna-v-exiliertes-ursprungs-ich.md:L22] Ursprungs-Ich, and calls itself an „Ideen-Repository“ ^[juna-v-exiliertes-ursprungs-ich.md:L22]. Its phase-transition passage, a borrowed physical frame, writes the split as two stable states: „das bewusste System, bekannt als Kael, und das exilierte System, bekannt als Juna/V“ ^[juna-v-exiliertes-ursprungs-ich.md:L173]. Another passage, in a borrowed psychological frame, writes the Ursprungs-Ich as the core Selbst and says: „Dieses Selbst ist unbeschädigt, hat aber die Führung des inneren Systems verloren“ ^[juna-v-exiliertes-ursprungs-ich.md:L40]. The dossier holds both passages and does not reconcile them.
+
+Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not decided.
