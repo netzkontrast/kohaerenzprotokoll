@@ -1,0 +1,509 @@
+{
+  "document": "dramatica-storyform-kohaerenz-protokoll-2",
+  "drive_id": "10ibpIv580PQJw3s-igcnVzW8cBSryWxWOf7VxoI7kuc",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        15,
+        23,
+        27,
+        33,
+        77
+      ]
+    },
+    "Kael": {
+      "n": 32,
+      "n_including_compounds": 32,
+      "lines": [
+        15,
+        23,
+        27,
+        39,
+        41,
+        45,
+        49,
+        61,
+        63,
+        65,
+        69,
+        73,
+        77
+      ]
+    },
+    "AEGIS": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        15,
+        23,
+        27,
+        43,
+        45,
+        49,
+        53,
+        61,
+        69,
+        73
+      ]
+    },
+    "Juna/V": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        47,
+        49,
+        61,
+        67,
+        69,
+        77
+      ]
+    },
+    "Juna": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        15,
+        47,
+        49,
+        61,
+        67,
+        69,
+        73,
+        77
+      ]
+    },
+    "The Fundament": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        51
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        61
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Gravitations-Architektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Singularity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        73
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        63,
+        65
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Exiles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Protectors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Isolation Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        27
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "living refutation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "physikalische Arbeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73
+      ]
+    },
+    "Dialetheic Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "True Contradictions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "basin of attraction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Korrespondenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Psychological Subsystem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        65
+      ]
+    },
+    "Logical-Systemic Subsystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Ontological Subsystem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        69
+      ]
+    },
+    "Metaphysical Subsystem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        61
+      ]
+    },
+    "Dramatica Storyform": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        77
+      ]
+    },
+    "Core Dynamics": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "Story Engine Settings": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "Main Character Resolve": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Story Driver": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Story Limit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Story Outcome": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Story Judgment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Optionlock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Discursive Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Domain": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        45,
+        49,
+        53,
+        73
+      ]
+    },
+    "Concern": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        45,
+        49,
+        53,
+        73
+      ]
+    },
+    "Issue": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        45,
+        49,
+        53,
+        73
+      ]
+    },
+    "Problem": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        23,
+        41,
+        45,
+        49,
+        53,
+        61,
+        65,
+        73
+      ]
+    },
+    "Solution": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        45,
+        49,
+        53,
+        73
+      ]
+    },
+    "Symptom": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        65,
+        69
+      ]
+    },
+    "Response": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        65,
+        69
+      ]
+    },
+    "Objective Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        59
+      ]
+    },
+    "Impact Character": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        67
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Correspondence Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Tertiary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "IFS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Throughline": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        31,
+        55,
+        59,
+        61,
+        63,
+        65,
+        67,
+        69,
+        71,
+        73
+      ]
+    }
+  }
+}
