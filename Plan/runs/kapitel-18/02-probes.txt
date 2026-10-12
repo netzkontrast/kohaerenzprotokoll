@@ -1,0 +1,53 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      12
+  backslash escapes      2
+  typographic marks      2
+  ascii quotes           6
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemaxiome, Systemen, Systemfunktionen, Systemisch, Systemkontrolle, Systemloyalität, Systemreaktionen, Systems
+  parad    Paradoxe, Paradoxien, Paradoxon, Paradoxons
+  diese    Diese, Dieser, Dieses
+  model    Modell, Modelle, Modellierung
+  wider    Widerspruch, Widersprüche, Widersprüchen
+  alter    Alternative, Alters
+  anfra    Anfrage, Anfragen
+  auswi    Auswirkung, Auswirkungen
+  daten    Daten, Datenstrom
+  diagn    Diagnose, Diagnosen
+  grenz    Grenze, Grenzen
+  guard    Guardian, Guardians
+  infor    Informationsdisplays, Informationsfilterung
+  inner    Innerer, Innerhalb
+  insta    Instabilität, Instabilitäten
+  kapit    Kapitel, Kapitelende
+  konfr    Konfrontation, Konfrontiert
+  momen    Momente, Momenten
+  proto    Protokoll, Protokollen
+  proze    Prozess, Prozesse
+  stabi    Stabilisierung, Stabilität
+  verzö    Verzögerte, Verzögerungen
+  überl    Überleben, Überlebenstaktiken
+
+# substring pairs -- never one term, often merged by accident
+  Ende < Kapitelende
+  Ende < Unbefriedigende
+  Form < Informationsdisplays
+  Form < Informationsfilterung
+  Kael < Kaels
+  Kern < Flackern
+  Kern < Kernziel
+  Kern < Kernkonflikt
+  Plot < Subplot
+  Ziel < Kernziel
+  Ziel < Potenziell
+  Daten < Datenstrom
+  Diese < Dieser
+  Diese < Dieses
+  Grenze < Grenzen
+  Modell < Modelle
+  Modell < Modellierung
+  System < Systems
+  System < Systemen
+  System < Systemisch

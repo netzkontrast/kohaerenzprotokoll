@@ -1,0 +1,86 @@
+# every number stated in the census/note, with the command
+$ read.py kapitel-18 --count "Kapitel"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            11
+
+`Kapitel` ^[kapitel-18.md:#9]
+$ read.py kapitel-18 --count "Momente"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Momente` ^[kapitel-18.md:#2]
+$ read.py kapitel-18 --count "Wichtiger Hinweis zur Perspektive"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wichtiger Hinweis zur Perspektive` ^[kapitel-18.md:#1]
+$ read.py kapitel-18 --count "LogOS"
+whole word, case-sensitive     30
+whole word, case-insensitive   30
+including compounds            30
+
+`LogOS` ^[kapitel-18.md:#30]
+$ read.py kapitel-18 --count "KW1"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW1` ^[kapitel-18.md:#6]
+$ read.py kapitel-18 --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            5
+
+`Juna` ^[kapitel-18.md:#0]
+$ read.py kapitel-18 --count "Juna-Anomalie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna-Anomalie` ^[kapitel-18.md:#2]
+$ read.py kapitel-18 --count "Juna-Signatur"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna-Signatur` ^[kapitel-18.md:#2]
+$ read.py kapitel-18 --count "Entropie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Entropie` ^[kapitel-18.md:#1]
+$ read.py kapitel-18 --count "Q8"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Q8` ^[kapitel-18.md:#1]
+$ read.py kapitel-18 --count "Moment"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Moment` ^[kapitel-18.md:#0]
+$ read.py kapitel-18 --count "Kael"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            22
+
+`Kael` ^[kapitel-18.md:#10]
+$ read.py kapitel-18 --count "AEGIS"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            12
+
+`AEGIS` ^[kapitel-18.md:#9]
+$ read.py kapitel-18 --count "Kaels"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kaels` ^[kapitel-18.md:#11]
+stance_marker_count 3 = Wichtiger Hinweis zur Perspektive (1) + Momente (2)

@@ -1,0 +1,186 @@
+{
+  "document": "kapitel-18",
+  "drive_id": "1FuAGUv3sNqq5CRlBaAQgjhjHA3CHmZWNYOLrLi1mtsI",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one chapter reading (kap-18) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-299/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 36,
+    "decisions": 45,
+    "decided_by_lookup": 25,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plan for one chapter: its new surfaces are its blueprint step, its labels for LogOS's dilemma and the paradoxes, and its group headings; what it says of LogOS, AEGIS, Kael, Juna, the Guardians, Cerberus, Mnemosyne, entropy, the rifts, the city and the Externe Ebene went on existing pages, and the plan on the chapter page kap-18.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        23,
+        24,
+        32,
+        57
+      ],
+      "attribution": "",
+      "note": "AEGIS as the system whose answers and rules LogOS cannot reconcile"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "the alters' communication as source of Kael's inner order"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        21,
+        31
+      ],
+      "attribution": "",
+      "note": "Cerberus' failed neutralisation as data and as pattern"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "the definition of entropy put in question"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        13,
+        48
+      ],
+      "attribution": "",
+      "note": "a hedged, risky search for fragments about the Externe Ebene"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        31,
+        55
+      ],
+      "attribution": "",
+      "note": "the Guardians' failures as a systemic paradox"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21,
+        22,
+        29
+      ],
+      "attribution": "",
+      "note": "only in compounds; the name never stands alone"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        21,
+        22,
+        29,
+        30,
+        54
+      ],
+      "attribution": "",
+      "note": "Kael as the one LogOS cannot model, and the perspective problem"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "persistent logical glitches, hedged on Kael's presence"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        13,
+        24,
+        32,
+        48,
+        53
+      ],
+      "attribution": "",
+      "note": "LogOS' dilemma between loyalty and logical truth, unresolved"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Mnemosyne's failure read as part of a pattern"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        11,
+        57
+      ],
+      "attribution": "",
+      "note": "Risse as the step's title and the closing image"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      18
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`LogOS` and `LogOS' Dilemma` on logos, the label not promoted; `Cerberus` and `Cerberus' Protokoll` on cerberus; `Kael`, `Juna`, `Juna-Anomalie`, `Juna-Signatur` and `Kael-Juna-Verbindung` on kael and juna; `AEGIS`, `AEGIS v1.5` and `AEGIS-Kern` on aegis; `Entropie` and `Entropie-Neubewertung` on entropie; `Risse in der Logik` and `Risse im Fundament` on risse; `Kohärenz durch Exklusion` a label of the plan",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 30,
+      "decision": "reading",
+      "why": "the alters' communication as Kael's internal order"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "inside the goal paragraph, read on logos"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 11,
+      "decision": "reading",
+      "why": "the step's title Risse in der Logik"
+    }
+  ],
+  "not_promoted": [
+    "Step 2.5 and Blueprint V2",
+    "LogOS' Dilemma, the K-J-Paradoxon, the Bateson'sche Knoten",
+    "Cerberus' Protokoll, the AEGIS-Kern, the Entropie-Neubewertung, Kohärenz durch Exklusion",
+    "the plan's group headings",
+    "the bracketed Q8 the document does not explain"
+  ],
+  "internal_tension": "it leaves open whether the focus was on LogOS at all (L56) and whether Kael is in the city when its glitches persist (L37); it ends with LogOS's conflict unresolved (L53)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
