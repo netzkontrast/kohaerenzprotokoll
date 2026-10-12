@@ -1,0 +1,62 @@
+# counts for 47 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            61 word    67 in   [25, 31, 39, 51, 55, 71]
+                                    1      as AEGIS-Protokoll
+                                    1      as AEGIS-Logik
+                                    1      as AEGIS-Reboot
+                                    1      as AEGIS-Teil
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [83]
+  Entropic Gatekeeper               2 word     2 in   [83, 104]
+  Überwelt                          4 word     4 in   [87, 96, 202, 210]
+  Risse                             2 word     2 in   [83, 202]
+  digitale Entropie                 2 word     2 in   [83, 88]
+  nicht-lokale Nicht-Existenz       2 word     2 in   [79, 85]
+  Nicht-Existenz                   17 word    17 in   [19, 23, 31, 39, 51, 79]
+  Nicht-lokal                       1 word     1 in   [87]
+                                    3      as nicht-lokale
+                                    1      as nicht-lokalen
+                                    1      as nicht-lokalisierbaren
+  Ultimative Entropische Bedrohung    1 word     1 in   [89]
+  Absolute Entropy Event            1 word     1 in   [180]
+  universal reboot                  2 word     2 in   [79, 93]
+  Universal Reboot                  3 word     3 in   [77, 91, 97]
+  UNIVERSAL REBOOT PROTOCOL         1 word     1 in   [186]
+  Zero-Trust Execution Model        3 word     3 in   [83, 105, 174]
+  ZTEM                              4 word     4 in   [73, 75, 105, 174]
+  Zero-Trust-Modell                 1 word     1 in   [210]
+  Real-time self-verification       3 word     3 in   [83, 106, 172]
+  RTSV                              4 word     5 in   [75, 97, 106, 172]
+                                    1      as RTSV-Metriken
+  Behavioral Proof-of-Function      1 word     1 in   [107]
+  BPoF                              1 word     1 in   [107]
+  Encrypted Intent Channels         1 word     1 in   [108]
+  EIC                               1 word     1 in   [108]
+  Integrity Guardian                4 word     4 in   [75, 95, 109, 176]
+  Cognitive Firewall                3 word     3 in   [95, 110, 178]
+  Consensus Enforcer                3 word     3 in   [97, 111, 188]
+  Self-Verification Interface       2 word     2 in   [112, 182]
+  SVI                               3 word     3 in   [73, 112, 182]
+  Logical Consistency Analysis      1 word     1 in   [182]
+  LCA                               2 word     2 in   [112, 182]
+  Redundanzfreie Informationskapselung    1 word     1 in   [184]
+  RIK                               2 word     2 in   [112, 184]
+  Dynamic Role Instancing           2 word     2 in   [113, 186]
+  DRI                               2 word     2 in   [113, 186]
+  Secure Isolation State            4 word     4 in   [97, 114, 196, 218]
+  SIS                               7 word     8 in   [97, 108, 114, 182, 196, 204]
+  Rekursive Selbstdefinition        1 word     1 in   [115]
+  Recursive Self-Definition Validation    1 word     1 in   [194]
+  AEGIS Functional Protocol         1 word     1 in   [170]
+  Kontrollkern                      2 word     2 in   [55, 220]
+  Meta-Erzähler                     1 word     2 in   [31, 37]
+                                    1      as Meta-Erzählers
+  Meta-Dialog                       2 word     3 in   [123, 133, 145]
+                                    1      as Meta-Dialogs
+  Gedankenreise                     5 word     5 in   [41, 43, 123, 146, 147]
+  Genesis im Echo der Leere         1 word     1 in   [156]
+  Śūnyatā                           4 word     4 in   [23, 25, 160]
+  Quantenschaum                     1 word     1 in   [29]
+  Quantenfluktuationen              1 word     1 in   [29]

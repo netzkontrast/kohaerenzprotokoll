@@ -1,0 +1,135 @@
+{
+  "document": "romananfang-leere-und-systemgenesis",
+  "drive_id": "1odO2ExehtkNkZmjtX5mxiaGlGpun7oiloyYt9YH4_CU",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one chapter reading (kap-01) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-290/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 46,
+    "decided_by_lookup": 35,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analysis with a chapter draft: its new surfaces are its structural labels, the Universal Reboot Protocol, the protocol's version and source codes, and the borrowed Śūnyatā; what it says of AEGIS, its functions, entropy, Genesis, the Risse and the Überwelt went on existing pages, and the draft on the chapter page kap-01.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        99,
+        104,
+        105,
+        110,
+        114,
+        176
+      ],
+      "attribution": "",
+      "note": "a hedged table mapping AEGIS's functions to narrative actions"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        73,
+        75,
+        83,
+        93,
+        117,
+        178,
+        220
+      ],
+      "attribution": "",
+      "note": "AEGIS as a purely functional core, told as a system log and a Universal Reboot"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        73,
+        79,
+        89
+      ],
+      "attribution": "",
+      "note": "the threat as an uncontrolled rise of entropy"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        156,
+        208
+      ],
+      "attribution": "",
+      "note": "the draft's chapter title and a Genesis dictated by algorithms"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        202
+      ],
+      "attribution": "",
+      "note": "the Risse as manifestations of digital entropy"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        202,
+        210
+      ],
+      "attribution": "",
+      "note": "the Überwelt dissolved and re-formed in the reboot"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS`, `Entropic Gatekeeper` and its expansion `Autonomous Entropic Gatekeeper for Integrity Systems` on aegis, `AEGIS Functional Protocol` the log's header, not promoted; `Zero-Trust Execution Model` and `Zero-Trust-Modell` read with the protocol table on aegis-teilfunktionen; `digitale Entropie` read with the entropy reading; `Genesis im Echo der Leere` the draft's chapter title, read on genesis; `nicht-lokale Nicht-Existenz`, `Nicht-Existenz` and `Nicht-lokal` one label, not promoted; `universal reboot` and `UNIVERSAL REBOOT PROTOCOL` one event and its protocol, not promoted",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 73,
+      "decision": "reading",
+      "why": "the threat as entropy rise"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 156,
+      "decision": "reading",
+      "why": "the chapter title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 106,
+      "decision": "occurrence",
+      "why": "a table cell"
+    }
+  ],
+  "not_promoted": [
+    "the four-part structure",
+    "Śūnyatā and the vacuum analogy",
+    "the nicht-lokale Nicht-Existenz",
+    "the Universal Reboot Protocol",
+    "the AEGIS Functional Protocol v1.4",
+    "the source codes S_S03–S_S05"
+  ],
+  "internal_tension": "it names a weakness of its own plan, that the first three parts could read as too slow (L128), weighs two other openings (L132, L133) and still recommends the four-part structure (L137)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
