@@ -1,0 +1,87 @@
+# every number the census and note state, from python3 scripts/read.py <slug> --count
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "The Thesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Thesis` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#1]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "The Antithesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`The Antithesis` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#1]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#0]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#0]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "ANP"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`ANP` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#4]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "EP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`EP` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#3]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "ANPs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANPs` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#1]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "EPs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EPs` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#1]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#1]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "Core Worlds"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Core Worlds` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#1]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "Gödel-Gambit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gödel-Gambit` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#3]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#1]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`Kernwelt` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#1]
+$ read.py a-definitive-architectural-blueprint-of-the-kohaerenz-protok --count "Kernwelten"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kernwelten` ^[a-definitive-architectural-blueprint-of-the-kohaerenz-protok.md:#4]
+$ question marks: profile 01-profile.txt says 0; backslash escapes 80; ascii quotes 96; grep -c ? Sources/drive/<slug>.md -> 0
+$ stance_marker_count 2 = The Thesis (1) + The Antithesis (1)
