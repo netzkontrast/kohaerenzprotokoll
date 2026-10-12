@@ -1,0 +1,632 @@
+{
+  "document": "genesis-aegis-und-logische-grenzen",
+  "drive_id": "1Q3tg7WInLcH7V7FKICdGed7O4K5QmvJgAVEXotgYseQ",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        23,
+        29,
+        63
+      ]
+    },
+    "Nichts Rauschens": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        63
+      ]
+    },
+    "Rauschen": {
+      "n": 20,
+      "n_including_compounds": 29,
+      "lines": [
+        13,
+        15,
+        21,
+        23,
+        29,
+        31,
+        33,
+        35,
+        39,
+        41,
+        43,
+        49,
+        55,
+        57,
+        63,
+        65,
+        81,
+        87,
+        105,
+        111,
+        135,
+        173,
+        181,
+        183
+      ]
+    },
+    "Tohu wa bohu": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Wuji": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Abgrund": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Quantenvakuum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "AEGIS": {
+      "n": 58,
+      "n_including_compounds": 87,
+      "lines": [
+        57,
+        59,
+        61,
+        65,
+        67,
+        69,
+        73,
+        77,
+        79,
+        81,
+        85,
+        91,
+        103,
+        105,
+        109,
+        111,
+        113,
+        119,
+        123,
+        125,
+        127,
+        129,
+        135,
+        137,
+        139,
+        141,
+        145,
+        147,
+        149,
+        151,
+        153,
+        159,
+        161,
+        163,
+        167,
+        169,
+        171,
+        175,
+        183,
+        187
+      ]
+    },
+    "Kael": {
+      "n": 13,
+      "n_including_compounds": 19,
+      "lines": [
+        77,
+        81,
+        115,
+        141,
+        157,
+        159,
+        161,
+        169,
+        177,
+        179,
+        181,
+        183,
+        185,
+        187
+      ]
+    },
+    "Direktive 0": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        67,
+        69,
+        85,
+        123,
+        125,
+        153,
+        163
+      ]
+    },
+    "Komponente 734": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        71,
+        75,
+        79,
+        81,
+        105,
+        109,
+        121,
+        137,
+        141,
+        157,
+        161,
+        171,
+        175
+      ]
+    },
+    "Component 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Überwelt": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        107,
+        109,
+        111,
+        113,
+        121,
+        145,
+        147,
+        149
+      ]
+    },
+    "Realitätslabor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "SUBSYSTEM OMEGA": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        109,
+        113,
+        145,
+        149
+      ]
+    },
+    "Ich-Perspektive": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        29,
+        31,
+        33,
+        35,
+        39,
+        41,
+        43,
+        45,
+        49,
+        51,
+        53,
+        55,
+        57,
+        63,
+        75,
+        77,
+        81,
+        87,
+        89,
+        105,
+        111,
+        115,
+        121,
+        127,
+        139,
+        157,
+        169,
+        173
+      ]
+    },
+    "AEGIS-Perspektive": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        65,
+        67,
+        69,
+        73,
+        79,
+        85,
+        91,
+        109,
+        113,
+        119,
+        123,
+        125,
+        135,
+        137,
+        141,
+        145,
+        147,
+        149,
+        151,
+        153,
+        159,
+        161,
+        163,
+        167,
+        171,
+        175
+      ]
+    },
+    "Ich/Kael-Perspektive": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        179,
+        181,
+        183,
+        185,
+        187
+      ]
+    },
+    "VS-734-ALPHA": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        79,
+        91,
+        137
+      ]
+    },
+    "ANOMALY X-1": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        137,
+        141,
+        145,
+        153,
+        159
+      ]
+    },
+    "Anomalie": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        129,
+        135,
+        139,
+        147,
+        149,
+        153,
+        157,
+        169,
+        181,
+        183
+      ]
+    },
+    "PRECURSOR FRAGMENTS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "DATA RELAY NODE 14-SIGMA-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "PROCESSING MATRIX DELTA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "REALITY MODELING PROTOCOL 7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "DIAGNOSTIC CYCLE DELTA-7": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        105
+      ]
+    },
+    "SIMULATION PROTOCOL OMEGA-12": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "EMERGENCY PROTOCOL OMEGA-PRIME": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "COHERENCE PROTOCOL OMEGA-ZERO": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        167
+      ]
+    },
+    "GAMMA-PRIME": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "COHERENCE INDEX": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "GÖDELIAN LIMITATION TYPE G": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "NULL-STATE": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        67,
+        69,
+        113,
+        119,
+        135
+      ]
+    },
+    "Klick": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        65,
+        181
+      ]
+    },
+    "Narbe": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        45,
+        77
+      ]
+    },
+    "Echo": {
+      "n": 14,
+      "n_including_compounds": 21,
+      "lines": [
+        33,
+        51,
+        69,
+        77,
+        79,
+        81,
+        89,
+        105,
+        115,
+        127,
+        137,
+        173,
+        179,
+        187
+      ]
+    },
+    "Scherben": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        173,
+        177,
+        179,
+        181,
+        185
+      ]
+    },
+    "Cluster": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        51,
+        53,
+        55,
+        57,
+        63
+      ]
+    },
+    "Zerstückelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Der Große Angriff": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Das Unmodellierbare": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Qualia": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        29,
+        35,
+        69,
+        193
+      ]
+    },
+    "Quale": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        139
+      ]
+    },
+    "Entropie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        21,
+        31,
+        33,
+        57,
+        67
+      ]
+    },
+    "Kohärenz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        29,
+        31,
+        51,
+        65,
+        173
+      ]
+    },
+    "Autopoiesis": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        31,
+        55,
+        67,
+        193
+      ]
+    },
+    "Homöostase": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        67
+      ]
+    },
+    "Emergenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        67
+      ]
+    },
+    "strukturellen Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "komplexes adaptives System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "parakonsistenter Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "PARACONSISTENT LOGICS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Nullsummenspiel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "ex nihilo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Meta-Analyse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Irreduzibilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    }
+  }
+}

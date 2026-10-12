@@ -1,0 +1,76 @@
+# counts for 56 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Nichts Rauschen                   2 word     4 in   [15, 23, 29, 63]
+  Nichts Rauschens                  2 word     2 in   [29, 63]
+  Rauschen                         20 word    29 in   [13, 15, 21, 23, 29, 31]
+                                    9      as Rauschens
+  Tohu wa bohu                      1 word     1 in   [15]
+  Wuji                              1 word     1 in   [19]
+  Abgrund                           1 word     1 in   [19]
+  Quantenvakuum                     1 word     1 in   [19]
+  AEGIS                            58 word    87 in   [57, 59, 61, 65, 67, 69]
+                                   26      as AEGIS-Perspektive
+                                    1      as AEGIS-Matrix
+                                    1      as AEGIS-System
+  Kael                             13 word    19 in   [77, 81, 115, 141, 157, 159]
+                                    5      as Kael-Perspektive
+                                    1      as Kaels
+  Direktive 0                       7 word     7 in   [67, 69, 85, 123, 125, 153]
+  Komponente 734                   13 word    13 in   [71, 75, 79, 81, 105, 109]
+  Component 734                     1 word     1 in   [93]
+  Überwelt                          8 word     8 in   [107, 109, 111, 113, 121, 145]
+  Realitätslabor                    1 word     1 in   [113]
+  SUBSYSTEM OMEGA                   4 word     4 in   [109, 113, 145, 149]
+  Ich-Perspektive                  28 word    28 in   [29, 31, 33, 35, 39, 41]
+  AEGIS-Perspektive                26 word    26 in   [65, 67, 69, 73, 79, 85]
+  Ich/Kael-Perspektive              5 word     5 in   [179, 181, 183, 185, 187]
+  VS-734-ALPHA                      4 word     4 in   [79, 91, 137]
+  ANOMALY X-1                       6 word     6 in   [137, 141, 145, 153, 159]
+  Anomalie                         11 word    11 in   [129, 135, 139, 147, 149, 153]
+                                    1      as ANOMALIES
+  PRECURSOR FRAGMENTS               1 word     1 in   [69]
+  DATA RELAY NODE 14-SIGMA-7        1 word     1 in   [73]
+  PROCESSING MATRIX DELTA           1 word     1 in   [73]
+  REALITY MODELING PROTOCOL 7       1 word     1 in   [109]
+  DIAGNOSTIC CYCLE DELTA-7          2 word     2 in   [85, 105]
+  SIMULATION PROTOCOL OMEGA-12      1 word     1 in   [119]
+  EMERGENCY PROTOCOL OMEGA-PRIME    1 word     1 in   [145]
+  COHERENCE PROTOCOL OMEGA-ZERO     2 word     2 in   [163, 167]
+  GAMMA-PRIME                       1 word     1 in   [125]
+  COHERENCE INDEX                   1 word     1 in   [151]
+  GÖDELIAN LIMITATION TYPE G        1 word     1 in   [123]
+  NULL-STATE                        5 word     5 in   [67, 69, 113, 119, 135]
+  Klick                             2 word     4 in   [41, 65, 181]
+                                    2      as Klicken
+  Narbe                             4 word     4 in   [45, 77]
+  Echo                             14 word    21 in   [33, 51, 69, 77, 79, 81]
+                                    7      as Echos
+                                    1      as ECHOES
+  Scherben                          5 word     5 in   [173, 177, 179, 181, 185]
+  Cluster                           4 word     6 in   [51, 53, 55, 57, 63]
+                                    1      as Clusterbildung
+                                    1      as Clusters
+                                    1      as CLUSTERS
+  Zerstückelung                     1 word     1 in   [165]
+  Der Große Angriff                 1 word     1 in   [63]
+  Das Unmodellierbare               1 word     1 in   [117]
+  Qualia                            6 word     6 in   [29, 35, 69, 193]
+                                    1      as QUALIA-BASED
+  Quale                             2 word     2 in   [41, 139]
+  Entropie                          6 word     6 in   [15, 21, 31, 33, 57, 67]
+  Kohärenz                          6 word     6 in   [17, 29, 31, 51, 65, 173]
+  Autopoiesis                       7 word     7 in   [31, 55, 67, 193]
+                                    1      as autopoiesis-101-how-living-systems-keep-themselves-alive-and-kicking
+  Homöostase                        2 word     2 in   [55, 67]
+  Emergenz                          2 word     2 in   [51, 67]
+  strukturellen Kopplung            1 word     1 in   [41]
+  komplexes adaptives System        1 word     1 in   [53]
+  parakonsistenter Logik            1 word     1 in   [125]
+  PARACONSISTENT LOGICS             1 word     1 in   [125]
+  Nullsummenspiel                   1 word     1 in   [17]
+  ex nihilo                         1 word     1 in   [17]
+  Meta-Analyse                      1 word     1 in   [125]
+  Irreduzibilität                   1 word     1 in   [187]
