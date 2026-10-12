@@ -1,0 +1,105 @@
+{
+  "document": "the-architecture-of-being-a-philosophical-thesis-on-the-core",
+  "drive_id": "16A88XrcqhUlqLfzkLgJdm03XZ46sDHwHkGLw4vNM4Aw",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 28,
+  "typographic_marks": 21,
+  "ascii_quotes": 94,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "confl": [
+      "Conflict",
+      "Conflicts"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "found": [
+      "Foundation",
+      "Foundational"
+    ],
+    "integ": [
+      "Integration",
+      "Integrative"
+    ],
+    "reali": [
+      "Realignment",
+      "Reality"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategy"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "these": [
+      "These",
+      "Theseus"
+    ],
+    "unive": [
+      "Universal",
+      "Universe"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "These",
+      "Theseus"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Thesis",
+      "Synthesis"
+    ],
+    [
+      "Coheron",
+      "Coherons"
+    ],
+    [
+      "Conflict",
+      "Conflicts"
+    ],
+    [
+      "Foundation",
+      "Foundational"
+    ]
+  ]
+}
