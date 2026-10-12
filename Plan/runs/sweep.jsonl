@@ -1091,3 +1091,9 @@
 {"document": "tsdp-analyse-kohaerenz-protokoll-charaktere", "page": "personas", "surface": "Persona", "line": 255, "decision": "occurrence", "why": "Isabelle's controlling persona in general use", "at": "2026-10-12"}
 {"document": "narrative-architecture-dossier-coherence-protocol", "page": "kohaerenz", "surface": "Kohärenz", "line": 29, "decision": "occurrence", "why": "inside AEGIS's definition, read on aegis", "at": "2026-10-12"}
 {"document": "narrative-architecture-dossier-coherence-protocol", "page": "risse", "surface": "Risse", "line": 130, "decision": "reading", "why": "Entropie/Risse visualised as data corruption", "at": "2026-10-12"}
+{"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "entropie", "surface": "Entropie", "line": 65, "decision": "occurrence", "why": "a software metric", "at": "2026-10-12"}
+{"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "multiplizitaet", "surface": "Multiplizität", "line": 141, "decision": "reading", "why": "Selene striving for functional multiplicity", "at": "2026-10-12"}
+{"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "personas", "surface": "Personas", "line": 29, "decision": "occurrence", "why": "personas in therapeutic software", "at": "2026-10-12"}
+{"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "risse", "surface": "Glitches", "line": 124, "decision": "occurrence", "why": "visual glitches in the interface", "at": "2026-10-12"}
+{"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "ueberwelt", "surface": "Simulation", "line": 13, "decision": "occurrence", "why": "a section heading on narrative simulation", "at": "2026-10-12"}

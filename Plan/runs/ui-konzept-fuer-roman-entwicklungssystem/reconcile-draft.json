@@ -1,0 +1,171 @@
+{
+  "document": "ui-konzept-fuer-roman-entwicklungssystem",
+  "drive_id": "1J3__f0jyd53tId1mAXEt0AgqiWnK5myx4wRdE9T8yAc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 90,
+    "decided_by_lookup": 76,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        113
+      ],
+      "attribution": "",
+      "note": "AEGIS as the order-fixated AI and driving force of the Kohärenz-Kernel"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        121
+      ],
+      "attribution": "",
+      "note": "Juna as the personified constant"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the novel's central tension, to be mirrored in the interface"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        17,
+        121
+      ],
+      "attribution": "",
+      "note": "Juna as the entropic anomaly and the Kollaps-Kernel"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        129
+      ],
+      "attribution": "",
+      "note": "Kael as the psychologically splintered protagonist, eleven subsystems"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "AEGIS as its driving force"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        121
+      ],
+      "attribution": "",
+      "note": "Juna as its representative"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        141
+      ],
+      "attribution": "",
+      "note": "Selene striving for functional multiplicity"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        141
+      ],
+      "attribution": "",
+      "note": "Selene as Innere Helferin and core self"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        129
+      ],
+      "attribution": "",
+      "note": "TSDP splitting Kael into eleven subsystems"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 65,
+      "decision": "occurrence",
+      "why": "a software metric"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 141,
+      "decision": "reading",
+      "why": "Selene striving for functional multiplicity"
+    },
+    {
+      "page": "personas",
+      "surface": "Personas",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "personas in therapeutic software"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 124,
+      "decision": "occurrence",
+      "why": "visual glitches in the interface"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "a section heading on narrative simulation"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
