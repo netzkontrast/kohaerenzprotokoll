@@ -1220,3 +1220,13 @@ Stands: a position in the record, a set of proposals for chapter 2 part 1; open 
 It writes of „vier Kernwelten Co₁, McL, B und Ly“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L478], each „in sich geschlossene Simulation“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L478]. Its mapping: „Co₁ = Manager-dominant (Logik, Kontrolle).“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182], „McL = Relationale Teile (Manager/Exilanten fokussiert auf Verbindung/Angst vor Ablehnung).“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182], „B = Exilant/Feuerbekämpfer-dominant (roher Schmerz, Angst, reaktive Bewältigung).“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182], „Ly = Selbst/Kreative Teile (Potential, Intuition).“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L182]
 
 One more position, from a design proposal; the question stays open.
+
+## 2026-10-11 — `kohaerenz-protokoll-the-official-master-story-guide-2`, 2025-10-15, the Master Story Guide
+
+**The Master Story Guide tabulates eleven alters and four Kernwelten, and calls its alter table the ground truth.**
+
+The Master Story Guide, an unsigned English design guide, introduces its alter table as „The following table synthesizes all source documents into the single, canonical reference for the 11-alter model of System Kael.“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L121] The table has eleven rows, Kael to Argus. The guide also calls it „This is the ground truth for all narrative and character development.“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L121] That is the guide's claim about itself; it is recorded here and decides nothing.
+
+For the worlds it writes „The Kernwelten (Core Worlds) are specialized simulated realities created by AEGIS as laboratories to analyze and control Kael.“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L156] and tabulates four: „Logos-Prime“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L161], „Mnemosyne-Archipel“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L162], „Cerberus-Labyrinth“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L163] and „Kairos-Potentialis“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L164], numbered KW1 to KW4. The guide does not say that one world corresponds to one alter.
+
+Stands: one more position on the record, eleven alters and four Kernwelten as the guide tabulates them; the question stays open.
