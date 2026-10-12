@@ -1,0 +1,82 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an analysis report in German that compares two storyform documents (called Dokument A and Dokument B) against Dramatica rules and then builds a synthesis. Dramatica vocabulary is applied as a lens; the novel's world appears as figures, subsystems and Kernwelten. Its English Dramatica labels are written in English inside German prose. A table of the final storyform is flattened with escaped asterisks.
+
+- Kohärenz Protokoll
+- Kohärenz-Prime
+- Kael
+- AEGIS
+- Juna/V
+- Juna
+- Das Fundament
+- Moonshine-Link
+- Cerberus-Labyrinth
+- Mnemosyne-Archipel
+- Logos-Prime
+- Kairos-Potentialis
+- Kernwelten
+- Existenz-Matrizen
+- Alters
+- lebender Gödel-Satz
+- Gödel-Satz
+- Dokument A
+- Dokument B
+- Multi-System-Modell
+- Metaphysisches Subsystem
+- System Kael
+- Der Krieg der Logiken
+- Das fragmentierte Selbst
+- Der Glitch
+- Weaving-Tabelle
+- TSDP
+- Dialetheismus
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+
+## lens
+
+- Dramatica
+- Story Mind
+- Durchgangslinien
+- Objective Story
+- Main Character
+- Impact Character
+- Relationship Story
+- Grand Argument Story
+- Gesetz der Diagonalen Opposition
+- Universe
+- Physics
+- Psychology
+- Mind
+- Signposts
+- Catalysts
+- Inhibitors
+- Unique Ability
+- Critical Flaw
+- Crucial Element
+- Contagonist
+- Companion Pair
+- Story Engine Settings
+- Optionlock
+- Becoming
+- Conceptualizing
+- Conceiving
+- Being
+- Order
+- Chaos
+- Unproven
+- Proven
+- Uncontrolled
+- Self-Interest
+- Morality
+- Commitment
+- Responsibility
+- Truth
+- Memory
+- Future
+- Choice
+- Doing
+- Preconception
+- Openness
+- Pursuit
+- Avoidance
