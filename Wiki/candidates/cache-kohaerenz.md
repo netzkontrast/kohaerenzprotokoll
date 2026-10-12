@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 28
-readings: 28
+sources: 29
+readings: 29
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "protokoll-ontologie-roman-konzeptentwicklung"]
 gathered: "2026-09-24"
 ---
 
@@ -95,6 +95,10 @@ The guide defines `Overhead` in a glossary entry as „the continuous energy exp
 ## Reading — `plot-outline-for-kohaerenz-protokoll-a-journey-through-syste`, 2025-11-03, the journey outline — the Cache Kohärenz problem as a name for Kael's memory and identity inconsistencies
 
 In its account of the Konstrukt-Stadt the journey outline names Kael's condition: significant amnesia and depersonalization, „a condition termed the“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L25] `Cache Kohärenz` problem, which it says reflects deep inconsistencies in his memory and identity.
+
+## Reading — `protokoll-ontologie-roman-konzeptentwicklung`, 2025-11-03, the Protokoll-Ontologie exposé — cache-coherence protocols as the analogue of Overhead
+
+The Protokoll-Ontologie exposé names the cache-coherence protocols of computer architecture as the technical analogue of its Overhead: „Als konkretes, technisches Analogon dienen die“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L78] Cache-Kohärenz-Protokolle, which keep the cores of a multiprocessor system at one coherent version of memory by communication and validation. In its glossary the source column of the entry `Protokoll` reads „Systemtheorie 5; Cache-Kohärenz“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L97].
 
 ## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — cache coherence as a technical analogy for Risse
 
