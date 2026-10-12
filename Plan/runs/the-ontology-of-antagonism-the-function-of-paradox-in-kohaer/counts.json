@@ -1,0 +1,391 @@
+{
+  "document": "the-ontology-of-antagonism-the-function-of-paradox-in-kohaer",
+  "drive_id": "1RPs7bqFfMH5VBOXQFdp2LjO7vKVLG1eWsRIwKsGWH4k",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        11,
+        15,
+        35,
+        57,
+        71,
+        79,
+        103,
+        107,
+        125,
+        129,
+        132
+      ]
+    },
+    "Kael": {
+      "n": 32,
+      "n_including_compounds": 32,
+      "lines": [
+        15,
+        35,
+        41,
+        47,
+        49,
+        53,
+        57,
+        63,
+        65,
+        71,
+        75,
+        79,
+        83,
+        87,
+        89,
+        97,
+        105,
+        107,
+        113,
+        125,
+        133,
+        137
+      ]
+    },
+    "AEGIS": {
+      "n": 46,
+      "n_including_compounds": 47,
+      "lines": [
+        15,
+        19,
+        21,
+        25,
+        27,
+        29,
+        33,
+        35,
+        39,
+        41,
+        49,
+        59,
+        63,
+        65,
+        71,
+        73,
+        75,
+        79,
+        83,
+        87,
+        91,
+        93,
+        103,
+        107,
+        109,
+        113,
+        115,
+        125,
+        129,
+        131,
+        132,
+        133,
+        137
+      ]
+    },
+    "Nyx": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        57,
+        63,
+        90
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        63
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "alters": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        53,
+        57,
+        63,
+        75,
+        79,
+        88,
+        89,
+        91
+      ]
+    },
+    "host alter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        75
+      ]
+    },
+    "No-Trust": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Recursive Self-Verification": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        41
+      ]
+    },
+    "RCV": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        41
+      ]
+    },
+    "Ontological Autarkie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Emergence through Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "ontological blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Paradox of Misaligned Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "coherence through negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "functional multiplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        63,
+        107
+      ]
+    },
+    "co-front": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "amnesic barriers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        88
+      ]
+    },
+    "externalized perpetrator introject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        93,
+        97,
+        99,
+        121
+      ]
+    },
+    "living Gödel-sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "living paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        113
+      ]
+    },
+    "living refutation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Epistemological Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Loss of Efficiency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Knowledge Without Understanding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "inefficient beauty": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "zombie system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        33,
+        113,
+        125
+      ]
+    },
+    "Ex Contradictione Quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Specification Gaming": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        39
+      ]
+    },
+    "Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "classical logic": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        33,
+        57
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        131
+      ]
+    },
+    "dialetheic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "autopoietic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        125
+      ]
+    }
+  }
+}
