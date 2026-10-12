@@ -1,0 +1,14 @@
+# risikoanalysebericht-eine-systematische-bewertung-der-bedroh
+  lines                100  (frontmatter ends at 0)
+  body words           2150
+  headings             16   bold-only lines 1
+  table rows           6   code fences 0
+  question marks       0
+  backslash escapes    18
+  typographic marks    40   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         1137 chars
+
