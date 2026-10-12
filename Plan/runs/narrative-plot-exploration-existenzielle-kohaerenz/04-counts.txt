@@ -1,0 +1,120 @@
+# counts for 89 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Kybernetik 2. Ordnung
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            41 word    42 in   [21, 225, 226, 227, 228, 238]
+                                    1      as AEGIS-Analogon
+  AEGIS-Analogon                    1 word     1 in   [21]
+  Kael                             34 word    48 in   [33, 194, 225, 227, 228, 236]
+                                   12      as Kaels
+                                    2      as Kael-Analogon
+  Kael-Analogon                     2 word     2 in   [33, 194]
+  Juna                              2 word    14 in   [54, 62, 98, 148, 169, 189]  <-- substring
+                                   11      as Juna-Verbindung
+                                    1      as Juna-Analogie
+  Juna-Analogie                     1 word     1 in   [54]
+  Juna-Verbindung                  11 word    11 in   [62, 148, 169, 189, 284, 302]
+  Potentialmeer                    21 word    32 in   [25, 26, 27, 29, 31, 49]
+                                   11      as Potentialmeers
+  Guardians                        14 word    14 in   [79, 127, 158, 204, 228, 236]
+  Risse                            17 word    19 in   [39, 42, 160, 170, 171, 190]
+                                    2      as Rissen
+  Paradoxon                        32 word    40 in   [44, 49, 52, 81, 97, 99]
+                                    4      as Paradoxons
+                                    3      as Paradoxon-Typ
+  fehlende Verbindung               2 word     2 in   [239]
+  Simulation Sigma                  3 word     3 in   [225, 227, 255]
+  Simulation Beta                   1 word     1 in   [271]
+  Simulation Gamma                  2 word     2 in   [319, 328]
+  Sigma                             6 word     7 in   [225, 226, 227, 236, 237, 240]
+                                    1      as Sigmas
+  Gamma                             3 word     3 in   [318, 319, 328]
+  Gödel-Schleife                    5 word     5 in   [216, 239, 256, 359, 367]
+  Echos des Selbst                  3 word     3 in   [262, 360, 367]
+  Moonshine-Brücke                  5 word     5 in   [308, 347, 361, 367, 395]
+  Synopsis A                        6 word     6 in   [216, 359, 367, 380, 386, 393]
+  Synopsis B                        5 word     5 in   [262, 360, 367, 381, 394]
+  Synopsis C                        6 word     6 in   [308, 361, 367, 382, 387, 395]
+  Gödel'sche Knoten                 1 word     1 in   [187]
+  Emergente Anomalie                3 word     3 in   [188, 265, 368]
+  Externe Resonanz                  3 word     3 in   [189, 311, 368]
+  Ontologische Riss                 1 word     1 in   [190]
+  Transzendenz                     14 word    15 in   [85, 91, 99, 115, 116, 200]
+                                    1      as Transzendenz-Modus
+  Definition durch Negation         2 word     2 in   [25, 99]
+  Kohärenz durch Kontrolle          1 word     1 in   [28]
+  Alters                            4 word     4 in   [38, 158, 199]
+  Parts                            12 word    13 in   [38, 158, 199, 225, 236, 240]
+  Exiles                            8 word     8 in   [38, 42, 158, 159, 240, 271]
+  Managers                          5 word     5 in   [38, 42, 80, 240, 271]
+  Firefighters                      4 word     4 in   [38, 80, 240, 271]
+  Self                              4 word     7 in   [26, 158, 240, 255, 285, 420]
+                                    2      as SelfAwarePatterns
+                                    2      as selfawarepatterns
+                                    1      as Self-Production
+  Protectors                        1 word     1 in   [158]
+  Unburdening                       1 word     1 in   [158]
+  Selbstführung                     4 word     4 in   [199, 255, 294]
+  Autopoiesis                      13 word    14 in   [26, 27, 68, 99, 125, 220]
+                                    1      as Autopoiesis-Theorie
+                                    1      as autopoiesis-101-how-living-systems-keep-themselves-alive-and-kicking
+  strukturelle Kopplung             3 word     3 in   [26, 125, 345]
+  operationale Geschlossenheit      2 word     2 in   [26, 125]
+  Self-Production                   1 word     1 in   [26]
+  Luhmann                           2 word     3 in   [27, 404]
+                                    1      as Luhmanns
+  Maturana                          1 word     1 in   [26]
+  Varela                            1 word     1 in   [26]
+  Conant-Ashby-Theorem              1 word     1 in   [29]
+  Ashbys Gesetz                     4 word     4 in   [81, 127, 220, 236]
+  Ashby's Law                       3 word     3 in   [127, 423, 424]
+  Kybernetik                        3 word     3 in   [127, 220]
+  IFS                              10 word    22 in   [38, 42, 80, 98, 158, 159]  <-- substring
+  DID                               2 word     2 in   [38, 158]
+  Internal Family Systems           5 word     5 in   [38, 406, 407, 408, 432]
+  Dissoziativen Identitätsstörung    1 word     1 in   [38]
+  Gödels Unvollständigkeitssätze    1 word     2 in   [52, 220]
+  Parakonsistente Logik             3 word     3 in   [100, 135, 220]
+  Halting Problem                   1 word     1 in   [137]
+  Landauer-Prinzip                  1 word     1 in   [139]
+  Kolmogorov-Komplexität            2 word     2 in   [138]
+  Monstergruppe                     6 word     7 in   [49, 147, 189, 312, 317, 331]
+                                    1      as Monstergruppe-Analogie
+  Monstrous Moonshine               2 word     2 in   [148, 312]
+  VOA                               3 word     3 in   [148, 312, 346]
+  Holographisches Prinzip           1 word     1 in   [150]
+  Floridi                           5 word     8 in   [114, 138, 266, 372, 441, 442]
+                                    2      as Floridis
+                                    1      as floridi-luciano-fourchallenges
+  Informationsontologie             3 word     3 in   [114, 266, 301]
+  Infosphäre                        1 word     1 in   [114]
+  Inforg                            1 word     2 in   [114, 273]
+                                    1      as Inforgs
+  Inforgs                           1 word     1 in   [114]
+  Levels of Abstraction             1 word     1 in   [114]
+  Prozessphilosophie                7 word     7 in   [91, 99, 113, 189, 266, 284]
+  Whitehead                         2 word     3 in   [113, 438]
+                                    1      as Whiteheads
+  Prehension                        1 word     1 in   [113]
+  Ontischer Struktureller Realismus    1 word     1 in   [115]
+  OSR                              16 word    18 in   [115, 189, 190, 266, 272, 283]
+  Śūnyatā                          12 word    13 in   [99, 116, 190, 266, 272, 302]
+                                    1      as Śūnyatās
+  Madhyamaka                        8 word     8 in   [116, 434, 435, 437, 448, 450]
+                                    1      as madhyamaka-buddhist-philosophy
+                                    1      as madhyamaka-school-concept-sunyata
+  Svabhāva                          2 word     2 in   [116, 302]
+  Konstruktivismus                  1 word     1 in   [117]
+  Starke Emergenz                   2 word     2 in   [126, 266]
+  Emergenz                         12 word    12 in   [97, 126, 188, 266, 273, 372]
+  CAS                               4 word     4 in   [97, 126, 188, 300]
+  Quantenverschränkung              3 word     3 in   [62, 312, 318]
+  Nichtlokalität                   11 word    12 in   [62, 98, 169, 181, 310, 312]
+  Dekohärenz                        2 word     2 in   [169]
+  Environmental Storytelling        1 word     1 in   [179]
+  Kosmischer Horror                 2 word     2 in   [181, 374]
+  Hard Problem                      2 word     2 in   [161, 295]
+  Traumatheorie                     1 word     1 in   [159]
+  Potentialität                     3 word     3 in   [25, 113]

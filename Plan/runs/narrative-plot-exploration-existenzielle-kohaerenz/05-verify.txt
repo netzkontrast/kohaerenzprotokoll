@@ -1,0 +1,43 @@
+## python3 scripts/read.py narrative-plot-exploration-existenzielle-kohaerenz --count "Premise"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`Premise` ^[narrative-plot-exploration-existenzielle-kohaerenz.md:#23]
+## python3 scripts/read.py narrative-plot-exploration-existenzielle-kohaerenz --count "Transzendenz bedeutet hier"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Transzendenz bedeutet hier` ^[narrative-plot-exploration-existenzielle-kohaerenz.md:#3]
+## python3 scripts/read.py narrative-plot-exploration-existenzielle-kohaerenz --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[narrative-plot-exploration-existenzielle-kohaerenz.md:#0]
+## python3 scripts/read.py narrative-plot-exploration-existenzielle-kohaerenz --count "Potentialmeer"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            32
+
+`Potentialmeer` ^[narrative-plot-exploration-existenzielle-kohaerenz.md:#21]
+## python3 scripts/read.py narrative-plot-exploration-existenzielle-kohaerenz --count "fehlende Verbindung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`fehlende Verbindung` ^[narrative-plot-exploration-existenzielle-kohaerenz.md:#2]
+## python3 scripts/read.py narrative-plot-exploration-existenzielle-kohaerenz --count "Zugriff"
+whole word, case-sensitive     59
+whole word, case-insensitive   59
+including compounds            59
+
+`Zugriff` ^[narrative-plot-exploration-existenzielle-kohaerenz.md:#59]
+## stance_marker_count 26 = 23 (Premise) + 3 (Transzendenz bedeutet hier)
+## fifty-nine sources: --count "Zugriff am April 26, 2025"
+whole word, case-sensitive     59
+whole word, case-insensitive   59
+including compounds            59
+
+`Zugriff am April 26, 2025` ^[narrative-plot-exploration-existenzielle-kohaerenz.md:#59]

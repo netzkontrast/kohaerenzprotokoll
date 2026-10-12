@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      117
+  backslash escapes      90
+  typographic marks      12
+  ascii quotes           188
+
+# inflection families -- one term, several surfaces
+  inter    Interaktion, Interaktionen, Interdependenz, Interface, Intern, Internal, Interne, Internes, Interpretation, Interpretationen, Interpretiert, Intervention, Interventionen
+  selbs    Selbst, Selbstbeobachtung, Selbstbezüglichkeit, Selbstdefinition, Selbsterhaltung, Selbsterkundung, Selbstführung, Selbstgeführt, Selbstkenntnis, Selbstorganisation, Selbstregulation, Selbstverständnis, Selbstzweck
+  syste    SYSTEMS, System, Systemagenten, Systemdynamik, Systeme, Systemen, Systemgrenzen, Systeminterventionen, Systemische, Systemlogik, Systemperspektive, Systems, Systemtheorie
+  infor    Inforg, Inforgs, Information, Informationen, Informations, Informationseinflüsse, Informationsontologie, Informationssystem, Informationstheorie, Informieren
+  reali    Realisation, Realisierung, Realism, Realismus, Reality, Realität, Realitäten, Realitätsebene, Realitätsebenen, Realitätsstruktur
+  fehle    Fehlen, Fehlendes, Fehlens, Fehler, Fehleranfälligkeit, Fehlerbehebung, Fehlern, Fehlerquelle
+  kontr    Kontraproduktivität, Kontrollbemühungen, Kontrolle, Kontrollierbarkeit, Kontrollmechanismen, Kontrollmethoden, Kontrollvarietät, Kontrollversuche
+  theor    Theorem, Theoreme, Theorems, Theoretical, Theoretische, Theoretischer, Theorie, Theory
+  metap    Metapher, Metaphern, Metaphysical, Metaphysics, Metaphysik, Metaphysische
+  model    Model, Modell, Modelle, Modellieren, Modelliert, Modellierung
+  parad    Paradigma, Paradigmas, Paradox, Paradoxien, Paradoxon, Paradoxons
+  emerg    Emergence, Emergente, Emergenter, Emergenz, Emerging
+  exist    Existenz, Existenzgrundlage, Existenziellen, Existenzmuster, Existiert
+  ontol    Ontol, Ontologie, Ontologische, Ontologischer, Ontologisches
+  poten    Potentialität, Potentialmeer, Potentialmeers, Potenzial, Potenzielle
+  proze    Prozedurale, Prozess, ProzessPhil, Prozesse, Prozessphilosophie
+  psych    Psyche, Psychologie, Psychologische, Psychologisches, Psychology
+  quant    Quanten, Quantenmechanik, Quantenverschränkung, Quantifizierung, Quantum
+  schlü    Schlüssel, Schlüsselelementen, Schlüsselkonzepte, Schlüsselrolle, Schlüsselszenen
+  simul    Simulation, Simulationen, Simulationsnatur, Simulationsparametern, Simulationsumgebung
+  struk    Struktur, Strukturelle, Struktureller, Strukturen, Strukturieren
+  werkz    Werkzeug, Werkzeuge, Werkzeugen, Werkzeugkasten, Werkzeugkastens
+  chara    Charakterbogen, Charaktere, Charakterentwicklungsbögen, Charakterstudie
+  exter    Externe, Externen, Externer, Externes
+  fragm    Fragmentiert, Fragmentierte, Fragmentiertes, Fragmentierung
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Parallelen
+  Alle < Challenging
+  Dies < Diese
+  Dies < Dieses
+  Eine < Seine
+  Ende < Enden
+  Ende < Fehlendes
+  Ende < Endurierende
+  Ende < Transzendenz
+  Ende < Kaskadierende
+  Ende < Vergleichende
+  Ende < Interdependenz
+  Form < Konforme
+  Form < Information
+  Form < Informieren
+  Form < Modulformen
+  Form < Informations
+  Form < Ordnungsform
+  Form < Informationen
+  Form < Transformation
