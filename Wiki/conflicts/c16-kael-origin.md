@@ -513,3 +513,11 @@ One more position, in the report's own words; it decides nothing for the conflic
 „The exiled part of Kael's“ ^[the-coherence-protocol-a-narrative-mosaic.md:L49] Ursprungs-Ich, „representing gnosis, quantum entanglement, and the“ ^[the-coherence-protocol-a-narrative-mosaic.md:L49] Paraiyas; beside it the AEGIS core, „after its fragmentation, now a functional component defined by the prime directive“ ^[the-coherence-protocol-a-narrative-mosaic.md:L38]. The brief does not say what Kael is, only which parts its points of view are.
 
 Stands as one more position on Kael's origin, with the Ursprungs-Ich split between Juna/V and the AEGIS core; recorded, not applied.
+
+## 2026-10-12 — `briefing-the-archon-framework-and-kohaerenz-protokoll-narrat`, 2025-10-15, the ARCHON briefing
+
+**The ARCHON briefing poses Kael as AEGIS's fragment, from its self-mutilation, as an open question.**
+
+Its last section opens by saying the narrative leaves questions open. Under „The Paradox of Kael's Origin“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L171] it says Kael is defined as the „primary, sentient fragment“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L171] of AEGIS's „self-mutilation“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L171] in its `Genesis Crisis`, and asks whether he is human at all, implying other, secondary fragments (L171).
+
+Stands on the side of the remainder of AEGIS's own split self, but as an open paradox the briefing itself poses; recorded, not applied.
