@@ -1,0 +1,268 @@
+{
+  "document": "aegis-psychologische-kriegsfuehrung-narrative-eskalation",
+  "drive_id": "1ErKgr5r2h2H-vCwJ1M_mvOxnHHqltfhM_m52WFBbtKs",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 48,
+  "backslash_escapes": 136,
+  "typographic_marks": 162,
+  "ascii_quotes": 18,
+  "inflection_families": {
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informations",
+      "Informationsfluss",
+      "Informationsgewinnung",
+      "Informationskontrolle",
+      "Informationssperre",
+      "Informationszugangs"
+    ],
+    "radik": [
+      "Radikale",
+      "Radikalisierung",
+      "Radikalisierungsmodelle",
+      "Radikalisierungspraevention",
+      "Radikalisierungsprozessen",
+      "Radikalisierungsprävention",
+      "Radikalisierungstrichter",
+      "Radikalisierungstrichtern"
+    ],
+    "syste": [
+      "System",
+      "Systematische",
+      "Systeme",
+      "Systemintegrität",
+      "Systems",
+      "Systemstabilität",
+      "Systemversagen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenfragment",
+      "Datenkorruption",
+      "Datenmustern",
+      "Datenverarbeitung"
+    ],
+    "kondi": [
+      "Konditionierung",
+      "Konditionierungsmatrix",
+      "Konditionierungsprotokoll",
+      "Konditionierungsstrategie",
+      "Konditionierungsumgebung",
+      "Konditionierungsumgebungen"
+    ],
+    "model": [
+      "MODEL",
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellierung",
+      "Modells"
+    ],
+    "train": [
+      "Training",
+      "Trainingsgelände",
+      "Trainingsmethoden",
+      "Trainingsprogrammen",
+      "Trainingsprotokolle",
+      "Trainingstechnik"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen",
+      "Emotionslose"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitäten",
+      "Identitätskrise",
+      "Identitätsmerkmale"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interne",
+      "Interner",
+      "Intervallplan",
+      "Intervention"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmas",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologische",
+      "Psychology",
+      "Psychotherapie",
+      "Psychotherapy"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheitsspezialist",
+      "Sicherheitstraining",
+      "Sicherheitstrainings",
+      "Sicherstellung"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltens",
+      "Verhaltensmodifikation",
+      "Verhaltensmustern",
+      "Verhaltensweisen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "gehei": [
+      "Geheimdienst",
+      "Geheimdienstanalyst",
+      "Geheimdienste",
+      "Geheimdiensten"
+    ],
+    "grund": [
+      "Grund",
+      "Grundlage",
+      "Grundlagen",
+      "Grundzustand"
+    ],
+    "opera": [
+      "Operant",
+      "Operante",
+      "Operateurs",
+      "Operationen"
+    ],
+    "probl": [
+      "Problem",
+      "Probleme",
+      "Problemlösung",
+      "Problems"
+    ],
+    "spezi": [
+      "Spezialagenten",
+      "Spezialagententraining",
+      "Spezialeinheiten",
+      "Spezialisierung"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaforschung",
+      "Traumas",
+      "Traumata"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analyst"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterbögen",
+      "Charaktere"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "einfl": [
+      "Einfluss",
+      "Einflussoperationen",
+      "Einflüssen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Bild",
+      "Nachbildung"
+    ],
+    [
+      "Bild",
+      "Auszubildende"
+    ],
+    [
+      "Cult",
+      "Cults"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echokammern"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Allgemeine"
+    ],
+    [
+      "Form",
+      "REFORM"
+    ],
+    [
+      "Form",
+      "Reform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Konformität"
+    ],
+    [
+      "Form",
+      "Informations"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ]
+  ]
+}
