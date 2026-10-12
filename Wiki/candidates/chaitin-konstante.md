@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 22
-readings: 21
+sources: 23
+readings: 22
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-architecture-synthesis", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie", "ui-konzept-fuer-roman-entwicklungssystem", "kohaerenz-protokoll-synthese"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-architecture-synthesis", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie", "ui-konzept-fuer-roman-entwicklungssystem", "kohaerenz-protokoll-synthese", "roman-konzeptentwicklung-kohaerenz-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -28,6 +28,10 @@ for Juna. Its chapter 19 is titled „Chaitins Rauschen und das innere Kind" ^[r
 „Kiko weint ununterbrochen, scheinbar ohne logische Kausalität." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 „Dies ist die Metapher für Chaitins Konstante" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95] — „irreduzible mathematische Fakten, die einfach wahr sind, ohne dass eine erklärende Theorie dahintersteht." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 „Mancher Schmerz hat im Nachhinein keinen logischen Grund mehr; er ist ein axiomatisch unkomprimierbarer Fakt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
+
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — the Chaitin constant against AEGIS's axioms
+
+In Part III the master synthesis plans that the simulation's structure collapses: „Die strengen Axiome von AEGIS halten dem Druck der Chaitin-Konstante (der unkomprimierbaren Wahrheit von Junas Existenz) nicht länger stand“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L110]. It gives the constant no further treatment. A plan, not the novel as written.
 
 ## Reading — `ui-konzept-fuer-roman-entwicklungssystem`, 2026-02-27, the UI concept — Juna as the personified constant
 
