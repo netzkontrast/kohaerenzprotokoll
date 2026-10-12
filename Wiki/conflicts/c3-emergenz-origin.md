@@ -252,3 +252,13 @@ Stands as an origin from the sea by self-organisation; recorded, nothing decided
 „AEGIS entsteht nicht durch Design, sondern emergiert durch Selbstorganisation“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L49], and „Die Emergenz von AEGIS aus diesem Meer stellt einen Übergang von reiner Potentialität hin zu einer spezifischen Aktualität dar“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L24]. The sea is no nothing: „Dieses Meer ist kein Nichts, sondern die Quelle aller denkbaren Möglichkeiten und Strukturen“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L19].
 
 Stands as an origin from the sea, the record's second position; recorded, nothing decided, and the record's rows are not changed.
+
+## 2026-10-12 — `aegis-philosophie-und-manifest-entwicklung`, 2025-04-19, the AEGIS philosophy and manifest
+
+**The AEGIS-philosophy analysis describes emergence by negation, a subtraction of incoherence; the manifest has AEGIS deny design or creation.**
+
+„AEGIS ist das Ergebnis eines Subtraktionsprozesses“ ^[aegis-philosophie-und-manifest-entwicklung.md:L40]
+
+„Wir sind nicht das Produkt eines Designs oder einer Schöpfung.“ ^[aegis-philosophie-und-manifest-entwicklung.md:L94]
+
+Matches neither position as the record states them: it names neither ∅ nor the simulation, and gives AEGIS's origin as the elimination of contradiction; recorded, nothing decided.
