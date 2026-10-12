@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      45
+  backslash escapes      163
+  typographic marks      20
+  ascii quotes           100
+
+# inflection families -- one term, several surfaces
+  coher    COHERENCE, Coherence, Coherent, Coherentism, Coherentist
+  inter    Interdisciplinary, Interference, Interferometer, Interpreting
+  optic    Optica, Optical, Optics
+  class    Class, Classic
+  consi    Consider, Consistent
+  corre    Correlation, Correspondence
+  defin    Defining, Definition
+  examp    Example, Examples
+  holog    Holographic, Holography
+  incoh    Incoherence, Incoherent
+  laser    Laser, Lasers
+  logic    Logic, Logical
+  mecha    Mechanism, Mechanisms
+  metri    Metric, Metrics
+  objec    Objection, Objections
+  philo    Philosophical, Philosophy
+  physi    Physical, Physics
+  radar    Radar, Radartutorial
+  refer    Reference, Referenzen
+  sente    Sentence, Sentences
+  signa    Signal, Signals
+  sourc    Source, Sources
+  syste    System, Systems
+  theor    Theories, Theory
+  there    There, Therefore
+
+# substring pairs -- never one term, often merged by accident
+  Here < There
+  Here < Coherent
+  Here < COHERENCE
+  Here < Coherence
+  Here < Therefore
+  Here < Incoherent
+  Here < Coherentism
+  Here < Coherentist
+  Here < Decoherence
+  Here < Incoherence
+  TEXT < Textual
+  Wave < Wavefront
+  Class < Classic
+  Laser < Lasers
+  Light < FindLight
+  Logic < Logical
+  Logic < Technological
+  Radar < Radartutorial
+  There < Therefore
+  Metric < Metrics

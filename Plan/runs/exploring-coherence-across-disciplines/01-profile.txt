@@ -1,0 +1,14 @@
+# exploring-coherence-across-disciplines
+  lines                382  (frontmatter ends at 9)
+  body words           7036
+  headings             26   bold-only lines 0
+  table rows           19   code fences 0
+  question marks       12
+  backslash escapes    163
+  typographic marks    20   ascii quotes 100
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    45
+  repeated labels      none
+  longest line         1556 chars
+
