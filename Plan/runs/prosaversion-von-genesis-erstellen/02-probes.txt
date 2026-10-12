@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      69
+  backslash escapes      134
+  typographic marks      29
+  ascii quotes           240
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemausgaben, Systemdiagnose, Systeme, Systemebenen, Systemen, Systemgrenze, Systemgrenzen, Systemic, Systemische, Systemisches, Systemkohärenz, Systemlogik, Systemperspektive, Systemprotokolle, Systemprotokollen, Systemreaktion, Systems, Systemtheorie, Systemverteidigung, Systemziel, Systemzustand, Systemzustände
+  persp    Perspective, Perspectives, Perspektiv, Perspektive, Perspektiven, Perspektivkontrast, Perspektivtechniken, Perspektivwechsel
+  exist    Existential, Existentialism, Existenz, Existenzform, Existenzialismus, Existenzielle, Existenzieller
+  ident    Identifikation, Identifizierung, Identities, Identity, Identität, Identitäten, Identitätstheorie
+  kontr    Kontrast, Kontraste, Kontrastierung, Kontrasts, Kontrolle, Kontrollmechanismen, Kontrollversuchen
+  chara    Characteristics, Characters, Charakter, Charaktere, Charaktererfahrung, Charakters
+  erzäh    Erzählen, Erzähler, Erzählers, Erzählperspektiven, Erzählung, Erzählweise
+  fragm    Fragmentation, Fragmented, Fragmentierte, Fragmentierter, Fragmentierung, Fragmentierungstechniken
+  funkt    Funktion, Funktionalisierung, Funktionalismus, Funktionen, Funktionslogik, Funktionszuweisung
+  metap    METAPHORS, Metapher, Metaphern, Metaphor, Metaphorical, Metaphorik
+  schme    Schmecken, Schmerz, Schmerzes, Schmerzhaften, Schmerzverarbeitung, Schmerzvermeidung
+  stimm    Stimme, Stimmen, Stimmgabeln, Stimmung, Stimmungen, Stimmungswechsel
+  techn    Technical, Technik, Techniken, Techniques, Technisch, Technischer
+  traum    TRAUMATIC, Trauma, Traumas, Traumata, Traumatic, Traumatisches
+  absur    Absurde, Absurden, Absurdism, Absurdismus, Absurdität
+  daten    Daten, Datenanomalie, Datenfluss, Dateninterpretation, Datenpunkte
+  fehle    Fehlen, Fehler, Fehlerbeschreibung, Fehlerhaft, Fehlerprotokolle
+  selbs    Selbst, Selbsterhaltung, Selbstorganisation, Selbsttäuschung, Selbstwahrnehmung
+  struk    Struktur, Strukturanalogien, Strukturellen, Strukturen, Strukturfehler
+  überg    Übergangsphrase, Übergangsphrasen, Übergangstechniken, Übergänge, Übergängen
+  algor    Algorithmic, Algorithmische, Algorithmischer, Algorithmusdesign
+  besch    Beschreibe, Beschreibung, Beschreibungen, Beschränkungen
+  entsc    Entscheidend, Entscheidung, Entscheidungen, Entscheidungsfindung
+  inter    Interaktion, Interaktionen, Internet, Interpretation
+  narra    NARRATIVE, Narrative, Narratives, Narrator
+
+# substring pairs -- never one term, often merged by accident
+  Arts < Gegenwartsliteratur
+  Bell < Tabelle
+  Best < Bestätigungsfehler
+  Best < Bestätigungsfehlern
+  Bias < Biases
+  Dies < Diese
+  Dies < Dieser
+  Echo < Echos
+  Eine < Seine
+  Eine < Bausteine
+  Ende < Verwende
+  Ende < Umfassende
+  Ende < Unpassenden
+  Ende < Anzuwendende
+  Ende < Dominierender
+  Ende < Profitierende
+  Ende < Überwältigende
+  Ende < Überwältigender
+  Form < Formate
+  Form < Formats

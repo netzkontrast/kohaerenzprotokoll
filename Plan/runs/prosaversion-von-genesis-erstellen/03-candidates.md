@@ -1,0 +1,70 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a four-phase research and planning analysis for a prose version of a story called Genesis (outline version 4, thirteen scenes). It applies borrowed concepts from philosophy of mind, systems theory, trauma psychology and narrative craft to two perspectives, the Ich and AEGIS. Lines 1 to 9 are frontmatter; the body is analysis and a planning table, not prose of the story. Lines 133 to 146 are a technique list, lines 304 to 312 are sample instructions in quotation marks, and lines 323 to 338 are a flattened table. The document brackets the outline as [Outline V4] without saying what it contains. Chapter numbers do not occur; scenes 1 to 13 and phases 1 to 5 do.
+
+- Genesis
+- Outline V4
+- AEGIS
+- Ich
+- Kael
+- Echo
+- Nichts Rauschen
+- Rauschen
+- Komponente 734
+- Direktive 0
+- Abwehr des Nicht-Seins
+- Große Angriff
+- Zerstückelung
+- Erwachen
+- Szene 11
+- Resonanz
+- Dissonanz
+- Anomalie
+- Paradoxon
+- Regiebuch
+- Phase 4
+- Tiefe Ich-Perspektive
+- Deep POV
+- Perspektivwechsel
+- Unzuverlässiger Erzähler
+- Bewusstseinsstrom
+- Stream-of-Consciousness
+- Qualia
+- Hard Problem
+- Explanatory Gap
+- Erklärungslücke
+- Funktionalismus
+- Subjektivität
+- Emergenz
+- Selbstorganisation
+- Autopoiesis
+- Homöostase
+- Feedbackschleifen
+- Operationale Geschlossenheit
+- strukturelle Kopplung
+- systemische Blindheit
+- Bestätigungsfehler
+- Strukturellen Dissoziation
+- Posttraumatisches Wachstum
+- PTG
+- Fragmentierung
+- Dissoziation
+- Entropie
+- Kosmischen Horrors
+- Absurdismus
+- Existenzialismus
+- SOAP
+- Cluster 1
+- Cluster 2
+- Cluster 3
+- Cluster 4
+- Phase 1
+- Phase 2
+- Phase 3
+- Phase 5
+- Tabelle 3.1
+- Kohärenz
+- Systemisches Trauma
+- Pacing
+- Defamiliarisierung
+

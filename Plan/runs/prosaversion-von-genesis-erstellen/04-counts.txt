@@ -1,0 +1,85 @@
+# counts for 65 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Genesis                          23 word    23 in   [11, 15, 25, 31, 43, 53]
+  Outline V4                        4 word     4 in   [31, 93, 109]
+  AEGIS                            82 word    91 in   [19, 31, 37, 43, 47, 53]
+                                    5      as AEGIS-Perspektive
+                                    1      as AEGIS-Abschnitte
+                                    1      as AEGIS-POV
+                                    1      as AEGIS-Vokabular
+  Ich                              52 word    67 in   [17, 19, 25, 31, 37, 43]
+  Kael                             12 word    13 in   [53, 59, 103, 109, 115, 125]
+                                    1      as Kael-Passagen
+  Echo                             11 word    16 in   [31, 37, 87, 99, 153, 157]
+                                    4      as Echos
+                                    1      as Echo-Qualia
+  Nichts Rauschen                   6 word     7 in   [25, 43, 53, 65, 75, 125]
+  Rauschen                         12 word    13 in   [25, 43, 53, 59, 65, 75]
+                                    1      as Rauschens
+  Komponente 734                    3 word     3 in   [37, 59, 93]
+  Direktive 0                       5 word     7 in   [53, 81, 87, 93, 206, 306]
+  Abwehr des Nicht-Seins            2 word     2 in   [53, 87]
+  Große Angriff                     1 word     1 in   [109]
+  Zerstückelung                     4 word     4 in   [53, 109, 197, 238]
+  Erwachen                          5 word     5 in   [59, 197, 312, 336]
+  Szene 11                          3 word     3 in   [59, 81, 310]
+  Resonanz                         15 word    16 in   [25, 53, 59, 65, 99, 115]
+                                    1      as Resonanzpartnern
+  Dissonanz                         5 word     5 in   [25, 153, 238, 239, 327]
+  Anomalie                          9 word    10 in   [31, 59, 81, 87, 99, 125]
+                                    1      as Anomalien
+  Paradoxon                         4 word     4 in   [99, 125, 334]
+  Regiebuch                         1 word     1 in   [288]
+  Phase 4                           2 word     2 in   [319, 340]
+  Tiefe Ich-Perspektive             2 word     2 in   [133, 299]
+  Deep POV                         15 word    15 in   [25, 133, 148, 185, 326, 327]
+  Perspektivwechsel                 7 word     7 in   [109, 146, 148, 170, 188, 270]
+  Unzuverlässiger Erzähler          1 word     1 in   [135]
+  Bewusstseinsstrom                 1 word     1 in   [134]
+  Stream-of-Consciousness           3 word     3 in   [134, 148, 185]
+  Qualia                           22 word    23 in   [21, 23, 25, 29, 31, 35]
+  Hard Problem                      4 word     4 in   [27, 29, 187, 216]
+  Explanatory Gap                   2 word     2 in   [25, 27]
+  Erklärungslücke                   4 word     4 in   [27, 29, 31]
+  Funktionalismus                   5 word     5 in   [33, 35, 186, 187, 216]
+  Subjektivität                    13 word    13 in   [17, 25, 31, 33, 35, 37]
+  Emergenz                         10 word    10 in   [39, 41, 43, 71, 73, 186]
+  Selbstorganisation                6 word     6 in   [41, 71, 73, 85, 123]
+  Autopoiesis                      11 word    11 in   [31, 83, 85, 186, 316, 329]
+  Homöostase                        5 word     5 in   [77, 79, 81, 125, 186]
+  Feedbackschleifen                 4 word     4 in   [77, 79, 81, 97]
+  Operationale Geschlossenheit      1 word     1 in   [79]
+  strukturelle Kopplung             2 word     2 in   [79, 81]
+  systemische Blindheit             5 word     5 in   [99, 206, 265, 299, 308]
+  Bestätigungsfehler                2 word     3 in   [97, 99]
+                                    1      as Bestätigungsfehlern
+  Strukturellen Dissoziation        2 word     2 in   [107, 109]
+  Posttraumatisches Wachstum        2 word     2 in   [111, 113]
+  PTG                               4 word     4 in   [111, 113, 115, 354]
+  Fragmentierung                   21 word    23 in   [25, 101, 105, 107, 109, 134]
+                                    2      as Fragmentierungstechniken
+  Dissoziation                      7 word     7 in   [101, 105, 107, 109, 252]
+  Entropie                          5 word     5 in   [121, 123, 125]
+  Kosmischen Horrors                2 word     2 in   [172, 279]
+  Absurdismus                       1 word     1 in   [63]
+  Existenzialismus                  3 word     3 in   [51, 57, 185]
+  SOAP                              5 word     6 in   [154, 157, 247, 248, 354]
+                                    1      as SOAP-Notiz
+  Cluster 1                         2 word     2 in   [185, 192]
+  Cluster 2                         2 word     2 in   [186, 202]
+  Cluster 3                         2 word     2 in   [187, 212]
+  Cluster 4                         2 word     2 in   [188, 222]
+  Phase 1                           2 word     2 in   [13, 183]
+  Phase 2                           2 word     2 in   [177, 292]
+  Phase 3                           2 word     2 in   [286, 342]
+  Phase 5                           1 word     1 in   [344]
+  Tabelle 3.1                       1 word     1 in   [321]
+  Kohärenz                          4 word     6 in   [31, 81, 99, 109, 125, 206]
+                                    1      as Kohärenzverlust
+                                    1      as Kohärenzwahrung
+  Systemisches Trauma               3 word     3 in   [105, 107, 329]
+  Pacing                            8 word     8 in   [159, 166, 185, 186, 188, 226]
+  Defamiliarisierung                2 word     2 in   [172, 283]

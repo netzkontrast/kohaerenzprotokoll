@@ -1267,3 +1267,5 @@
 {"document": "genesis-prosa-ausformulierung-gesamt", "page": "genesis", "surface": "Genesis", "line": 11, "decision": "occurrence", "why": "another version of the Genesis story; light pass", "at": "2026-10-12"}
 {"document": "genesis-prosa-ausformulierung-gesamt", "page": "grosse-mauer", "surface": "Systemgrenze", "line": 101, "decision": "occurrence", "why": "another version of the Genesis story; light pass", "at": "2026-10-12"}
 {"document": "genesis-prosa-ausformulierung-gesamt", "page": "kohaerenz", "surface": "Kohärenz", "line": 95, "decision": "occurrence", "why": "another version of the Genesis story; light pass", "at": "2026-10-12"}
+{"document": "prosaversion-von-genesis-erstellen", "page": "grosse-mauer", "surface": "Systemgrenze", "line": 81, "decision": "occurrence", "why": "a subject of a craft plan; light pass", "at": "2026-10-12"}
+{"document": "prosaversion-von-genesis-erstellen", "page": "ueberwelt", "surface": "Simulation", "line": 207, "decision": "occurrence", "why": "a subject of a craft plan; light pass", "at": "2026-10-12"}
