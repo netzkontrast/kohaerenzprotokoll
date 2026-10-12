@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 33
-readings: 33
+sources: 34
+readings: 34
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie", "critical-plot-interrogatories-for-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kohaerenz-protokoll-kapitel-39-die-letzte-instanz"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie", "critical-plot-interrogatories-for-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kohaerenz-protokoll-kapitel-39-die-letzte-instanz", "romanarchitektur-validierung-und-synthese"]
 gathered: "2026-09-17"
 ---
 
@@ -130,6 +130,10 @@ The refactoring plan is an assistant's proposal to the author; it writes „Der 
 The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
 
 Row W-05 is titled „Die Überwelt (Nexus)“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82] and sums it up as „Abstrakte, meta-kognitive Daten-Ebene der AEGIS-Guardians, basierend auf dem Zero-Trust Execution Model.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L82]
+
+## Reading — `romanarchitektur-validierung-und-synthese`, 2026-04-28, the architecture validation — the Nexus as the place of the climax
+
+The architecture validation places the Vortex Inversion at a named location: it is „a highly specific, localized physical event occurring at the“ ^[romanarchitektur-validierung-und-synthese.md:L49] Nexus (Axis 6). In the scene: „Kael stands at the center of the Nexus“ ^[romanarchitektur-validierung-und-synthese.md:L111]. Appendix F calls it the setting that makes the climax „a localized physical and ontological event“ ^[romanarchitektur-validierung-und-synthese.md:L221], and the plot-beat specification opens „Scene: The Nexus“ ^[romanarchitektur-validierung-und-synthese.md:L399].
 
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung-2`, 2026-04-30, the dual-storyform outline of Kap 1–39 — the Nexus as memory store
 Kap 8 plans „Eintritt in den Speicher-Nexus“ ^[kohaerenz-protokoll-kapitel-outline-generierung-2.md:L124]; Kap 14 is titled `Erwachen im Nexus`.
