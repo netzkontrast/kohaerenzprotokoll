@@ -1,0 +1,113 @@
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Phase I"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Phase I` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Phase II"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Phase II` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Phase III"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Phase III` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Phase IV"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Phase IV` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Fazit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fazit` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Zugriff am Februar 27, 2026"
+whole word, case-sensitive     38
+whole word, case-insensitive   38
+including compounds            38
+
+`Zugriff am Februar 27, 2026` ^[kohaerenz-protokoll-architektur-implementierung.md:#38]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Kap` ^[kohaerenz-protokoll-architektur-implementierung.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Kapitel` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Akt III"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Akt III` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "Kapitel 12"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel 12` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "elf"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`elf` ^[kohaerenz-protokoll-architektur-implementierung.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "390 MB"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`390 MB` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-architektur-implementierung --count "300 MB"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`300 MB` ^[kohaerenz-protokoll-architektur-implementierung.md:#1]
+
+$ python3 -c (numbered lines 149..195 of the file matching ^\d+\. )
+47
+$ sed -n 1,9p profile
+  body words           3362
+  headings             18   bold-only lines 0
+  table rows           13   code fences 0
+  question marks       3
+  backslash escapes    71
+  typographic marks    4   ascii quotes 86
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    56
+  repeated labels      none
+  longest line         1029 chars
+
