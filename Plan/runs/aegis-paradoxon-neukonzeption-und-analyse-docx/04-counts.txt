@@ -1,0 +1,71 @@
+# counts for 61 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           134 word   134 in   [11, 15, 16, 18, 22, 24]
+  Kael                             32 word    46 in   [16, 26, 27, 30, 31, 33]
+                                   14      as Kaels
+  Juna/V                            3 word     3 in   [113, 118, 124]
+  Kernwelten                       18 word    18 in   [16, 27, 28, 30, 35, 42]
+  Kernwelt                         10 word    28 in   [16, 27, 28, 30, 31, 35]  <-- substring
+                                   18      as Kernwelten
+  Kohärenz Protokoll                5 word     5 in   [11, 15, 151, 172, 174]
+  Kohärenz                         56 word    56 in   [11, 15, 16, 22, 24, 31]
+  Paradoxon X                       1 word     1 in   [16]
+  Riss                              7 word    10 in   [95, 111, 157, 158, 160, 162]
+                                    2      as Risse
+                                    1      as Risses
+  Risse                             2 word     3 in   [95, 111, 160]
+                                    1      as Risses
+  Paradoxon der Fehlausgerichteten Kohärenz    6 word     6 in   [134, 144, 155, 168, 172, 174]
+  Fehlausgerichtete Kohärenz        2 word     2 in   [72, 87]
+  Fehlausrichtung                  10 word    10 in   [98, 101, 103, 135, 139, 140]
+  Paradoxon der Kontrolle durch Destabilisierung    1 word     1 in   [60]
+  Paradoxon des Wissens durch Vereinfachung    1 word     1 in   [64]
+  Paradoxon der autopoietischen Isolation    1 word     1 in   [68]
+  Paradoxon konvergenter instrumenteller Ziele    1 word     1 in   [72]
+  Paradoxon der Gödelschen Grenzen    1 word     1 in   [76]
+  inhärente Paradoxon der Kontrolle    1 word     1 in   [101]
+  inhärente Paradoxon des Verstehens    1 word     1 in   [102]
+  inhärente Paradoxon des Seins     1 word     1 in   [103]
+  Bereich I                         7 word    21 in   [101, 102, 103, 104, 110, 115]  <-- substring
+  Bereich II                        6 word    14 in   [102, 103, 104, 115, 120, 126]  <-- substring
+  Bereich III                       8 word     8 in   [103, 104, 120, 126, 160, 166]
+  Cluster A                         1 word     1 in   [55]
+  Cluster B                         1 word     1 in   [56]
+  Cluster C                         1 word     1 in   [57]
+  Cluster D                         1 word     1 in   [58]
+  operationale Geschlossenheit      2 word     2 in   [69, 97]
+  instrumentelle Ziele              4 word     4 in   [48, 73, 98, 135]
+  Plot Driver                       3 word     3 in   [114, 119, 124]
+  Szenario-Skizze                   1 word     1 in   [157]
+  Zwangsläufigkeit                  2 word     2 in   [167, 168]
+  Kernparadoxien                    5 word     5 in   [17, 52, 59, 80, 133]
+  Shannon-Entropie                  1 word     1 in   [24]
+  Zweiter Hauptsatz                 1 word     1 in   [25]
+  Autopoiesis                      11 word    11 in   [26, 57, 58, 69, 86, 121]
+  Kybernetik zweiter Ordnung        1 word     1 in   [30]
+  Kontrolltheorie                   3 word     3 in   [31, 55]
+  Chaostheorie                      3 word     3 in   [28, 55, 95]
+  Komplexitätstheorie               4 word     4 in   [27, 55, 95, 173]
+  Schmetterlingseffekt              1 word     1 in   [28]
+  Gödels Unvollständigkeitssätze    2 word     2 in   [32, 99]
+  Halteproblem                      3 word     3 in   [33, 77, 99]
+  Berechenbarkeitstheorie           2 word     2 in   [33, 56]
+  Qualia                            8 word     8 in   [34, 56, 96, 116, 160, 196]
+  Frame-Problem                     5 word     5 in   [47, 55, 56, 96, 160]
+  Value Alignment Problem           3 word     3 in   [37, 57, 142]
+  Principal-Agent-Problem           3 word     3 in   [48, 57, 98]
+  Sorites-Paradox                   1 word     1 in   [46]
+  Kobra-Effekt                      1 word     1 in   [42]
+  Pfadabhängigkeit                  2 word     2 in   [41, 55]
+  Informationsüberflutung           2 word     2 in   [43, 56]
+  Existentialismus                  3 word     3 in   [39, 58]
+  Lügner-Paradoxon                  1 word     1 in   [40]
+  strukturelle Kopplung             2 word     2 in   [45, 97]
+  Gestells                          2 word     2 in   [44, 96]
+  Hamartia                          3 word     3 in   [38, 148]
+  Hybris                            2 word     2 in   [38]
+  Anagnorisis                       2 word     2 in   [38, 149]
+  Peripetie                         1 word     1 in   [38]

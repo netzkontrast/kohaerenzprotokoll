@@ -1310,3 +1310,7 @@
 {"document": "aegis-logik-in-der-leere-docx", "page": "grosse-mauer", "surface": "Systemgrenze", "line": 154, "decision": "occurrence", "why": "a generic system boundary of Aegis's subsystem, not the Große Mauer of KW3", "at": "2026-10-12"}
 {"document": "aegis-logik-in-der-leere-docx", "page": "kohaerenz", "surface": "Kohärenz", "line": 216, "decision": "occurrence", "why": "a heading on the report's logical coherence", "at": "2026-10-12"}
 {"document": "aegis-logik-in-der-leere-docx", "page": "ueberwelt", "surface": "Simulation", "line": 115, "decision": "occurrence", "why": "Aegis's internal simulation, not the Überwelt", "at": "2026-10-12"}
+{"document": "aegis-paradoxon-neukonzeption-und-analyse-docx", "page": "emergenz", "surface": "Emergenz", "line": 27, "decision": "occurrence", "why": "a borrowed concept in the survey of Teil I", "at": "2026-10-12"}
+{"document": "aegis-paradoxon-neukonzeption-und-analyse-docx", "page": "entropie", "surface": "Entropie", "line": 24, "decision": "occurrence", "why": "borrowed information-theoretic entropy in the survey", "at": "2026-10-12"}
+{"document": "aegis-paradoxon-neukonzeption-und-analyse-docx", "page": "juna", "surface": "Juna", "line": 113, "decision": "reading", "why": "Juna/V named among entities that could oppose AEGIS, read on the page", "at": "2026-10-12"}
+{"document": "aegis-paradoxon-neukonzeption-und-analyse-docx", "page": "ueberwelt", "surface": "Simulation", "line": 35, "decision": "occurrence", "why": "generic simulation in the survey, not the Überwelt", "at": "2026-10-12"}

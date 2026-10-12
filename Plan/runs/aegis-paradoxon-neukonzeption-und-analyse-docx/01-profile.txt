@@ -1,0 +1,14 @@
+# aegis-paradoxon-neukonzeption-und-analyse-docx
+  lines                218  (frontmatter ends at 9)
+  body words           7067
+  headings             2   bold-only lines 8
+  table rows           7   code fences 0
+  question marks       9
+  backslash escapes    2
+  typographic marks    35   ascii quotes 108
+  invisible characters U+200Bx1
+  math symbol lines    0
+  glued ref numbers    111
+  repeated labels      none
+  longest line         1135 chars
+

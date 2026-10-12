@@ -1,0 +1,742 @@
+{
+  "document": "aegis-paradoxon-neukonzeption-und-analyse-docx",
+  "drive_id": "1UMXQHC2vrdePXevhdaB2viYBnECrT4sD",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 134,
+      "n_including_compounds": 134,
+      "lines": [
+        11,
+        15,
+        16,
+        18,
+        22,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        52,
+        57,
+        58,
+        61,
+        63,
+        65,
+        67,
+        69,
+        71,
+        73,
+        75,
+        77,
+        79,
+        92,
+        95,
+        96,
+        97,
+        98,
+        99,
+        103,
+        104,
+        111,
+        112,
+        113,
+        114,
+        116,
+        117,
+        118,
+        119,
+        121,
+        122,
+        123,
+        124,
+        126,
+        128,
+        130,
+        133,
+        135,
+        138,
+        139,
+        140,
+        141,
+        142,
+        144,
+        145,
+        147,
+        148,
+        149,
+        151,
+        155,
+        158,
+        159,
+        160,
+        161,
+        162,
+        165,
+        166,
+        168,
+        172,
+        173,
+        174
+      ]
+    },
+    "Kael": {
+      "n": 32,
+      "n_including_compounds": 46,
+      "lines": [
+        16,
+        26,
+        27,
+        30,
+        31,
+        33,
+        34,
+        35,
+        37,
+        42,
+        44,
+        45,
+        46,
+        67,
+        69,
+        92,
+        95,
+        96,
+        97,
+        98,
+        111,
+        113,
+        116,
+        117,
+        118,
+        119,
+        121,
+        123,
+        124,
+        145,
+        147,
+        158,
+        160,
+        162,
+        164
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        113,
+        118,
+        124
+      ]
+    },
+    "Kernwelten": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        16,
+        27,
+        28,
+        30,
+        35,
+        42,
+        44,
+        92,
+        95,
+        96,
+        97,
+        99,
+        111,
+        113,
+        116,
+        145,
+        147
+      ]
+    },
+    "Kernwelt": {
+      "n": 10,
+      "n_including_compounds": 28,
+      "lines": [
+        16,
+        27,
+        28,
+        30,
+        31,
+        35,
+        42,
+        44,
+        92,
+        95,
+        96,
+        97,
+        99,
+        111,
+        113,
+        116,
+        145,
+        147,
+        157,
+        158,
+        160,
+        164
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        151,
+        172,
+        174
+      ]
+    },
+    "Kohärenz": {
+      "n": 56,
+      "n_including_compounds": 56,
+      "lines": [
+        11,
+        15,
+        16,
+        22,
+        24,
+        31,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        46,
+        47,
+        48,
+        61,
+        69,
+        72,
+        73,
+        77,
+        87,
+        98,
+        99,
+        122,
+        126,
+        134,
+        135,
+        138,
+        141,
+        144,
+        145,
+        151,
+        155,
+        158,
+        162,
+        168,
+        172,
+        174
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Riss": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        95,
+        111,
+        157,
+        158,
+        160,
+        162,
+        164
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        95,
+        111,
+        160
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        134,
+        144,
+        155,
+        168,
+        172,
+        174
+      ]
+    },
+    "Fehlausgerichtete Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        87
+      ]
+    },
+    "Fehlausrichtung": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        98,
+        101,
+        103,
+        135,
+        139,
+        140,
+        142,
+        148,
+        168,
+        172
+      ]
+    },
+    "Paradoxon der Kontrolle durch Destabilisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Paradoxon des Wissens durch Vereinfachung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Paradoxon der autopoietischen Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Paradoxon konvergenter instrumenteller Ziele": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Paradoxon der Gödelschen Grenzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "inhärente Paradoxon der Kontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "inhärente Paradoxon des Verstehens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "inhärente Paradoxon des Seins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Bereich I": {
+      "n": 7,
+      "n_including_compounds": 21,
+      "lines": [
+        101,
+        102,
+        103,
+        104,
+        110,
+        115,
+        120,
+        126,
+        160,
+        162,
+        166
+      ]
+    },
+    "Bereich II": {
+      "n": 6,
+      "n_including_compounds": 14,
+      "lines": [
+        102,
+        103,
+        104,
+        115,
+        120,
+        126,
+        160,
+        166
+      ]
+    },
+    "Bereich III": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        103,
+        104,
+        120,
+        126,
+        160,
+        166
+      ]
+    },
+    "Cluster A": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Cluster B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Cluster C": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Cluster D": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        97
+      ]
+    },
+    "instrumentelle Ziele": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        48,
+        73,
+        98,
+        135
+      ]
+    },
+    "Plot Driver": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        114,
+        119,
+        124
+      ]
+    },
+    "Szenario-Skizze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "Zwangsläufigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        167,
+        168
+      ]
+    },
+    "Kernparadoxien": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        52,
+        59,
+        80,
+        133
+      ]
+    },
+    "Shannon-Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Zweiter Hauptsatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Autopoiesis": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        26,
+        57,
+        58,
+        69,
+        86,
+        121,
+        123,
+        135,
+        146,
+        181
+      ]
+    },
+    "Kybernetik zweiter Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Kontrolltheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        55
+      ]
+    },
+    "Chaostheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        55,
+        95
+      ]
+    },
+    "Komplexitätstheorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        55,
+        95,
+        173
+      ]
+    },
+    "Schmetterlingseffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        99
+      ]
+    },
+    "Halteproblem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        77,
+        99
+      ]
+    },
+    "Berechenbarkeitstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        56
+      ]
+    },
+    "Qualia": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        34,
+        56,
+        96,
+        116,
+        160,
+        196
+      ]
+    },
+    "Frame-Problem": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        47,
+        55,
+        56,
+        96,
+        160
+      ]
+    },
+    "Value Alignment Problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        57,
+        142
+      ]
+    },
+    "Principal-Agent-Problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        57,
+        98
+      ]
+    },
+    "Sorites-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Kobra-Effekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Pfadabhängigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        55
+      ]
+    },
+    "Informationsüberflutung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        56
+      ]
+    },
+    "Existentialismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        58
+      ]
+    },
+    "Lügner-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "strukturelle Kopplung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        97
+      ]
+    },
+    "Gestells": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        96
+      ]
+    },
+    "Hamartia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        148
+      ]
+    },
+    "Hybris": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38
+      ]
+    },
+    "Anagnorisis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        149
+      ]
+    },
+    "Peripetie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    }
+  }
+}
