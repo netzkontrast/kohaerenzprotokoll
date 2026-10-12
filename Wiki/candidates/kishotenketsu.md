@@ -2,10 +2,10 @@
 term: Kishōtenketsu
 status: reviewed
 reviewed: 2026-10-08
-sources: 25
-readings: 25
+sources: 26
+readings: 26
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-analyse-und-synthese"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-analyse-und-synthese", "blueprint"]
 gathered: "2026-09-25"
 ---
 
@@ -196,3 +196,7 @@ Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25
 ## Reading — `kohaerenz-protokoll-analyse-und-synthese`, 2025-07-29, the unsigned analysis and synthesis — the essay's application table for Kishōtenketsu
 
 The essay sets the three-act structure against the Kishōtenketsu structure in a table and applies each part to the novel. For Ten it writes: „Die Juna/V-Verbindung wird zu einem aktiven, spürbaren Einfluss, der die Regeln des Systems bricht.“ ^[kohaerenz-protokoll-analyse-und-synthese.md:L337]
+
+## Reading — `blueprint`, 2025-07-29, the blueprint — recommended as the central supporting frame
+
+The blueprint recommends Kishōtenketsu in its section on techniques: „Diese nicht-lineare Erzählstruktur wird als zentrales, tragendes Gerüst des Romans empfohlen“ ^[blueprint.md:L83]. It lists the Dramatica throughlines in the next point (L84) and gives no account of how the two frames relate.
