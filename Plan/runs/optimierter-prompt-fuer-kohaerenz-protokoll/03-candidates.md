@@ -1,0 +1,86 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an analytic report (Teile I to III, a Schlussfolgerung, a reference list) that applies systems theory, complexity theory, AI safety and Internal Family Systems to AEGIS and the Juna/V-Anomalie. Its own sections are headed "Kapitel 1" to "Kapitel 8"; the list below is in reading order, world terms first, then the borrowed concepts under the lens heading. Terms with a comma ("kalte, algorithmische Konsequenz") are left out of the list. A personal reference to "dem Autor" in the Schlussfolgerung is not listed.
+
+- AEGIS
+- Kael
+- Juna/V-Anomalie
+- Kohärenz Protokoll
+- Kohärenz Protokoll 1.0
+- PRESERVE SYSTEM EXISTENCE
+- Kernaxiom
+- Negation des Nicht-Seins
+- RIVE
+- Recursive Integrity & Validation Engine
+- PMAS
+- Predictive Modeling & Adaptive Strategy
+- SARM
+- System Architecture & Resource Management
+- OBP
+- Ontological Boundary Protocol
+- CCPP
+- Core Coherence & Persistence Protocol
+- KOHÄRENT/INKOHÄRENT
+- KLASSIFIZIERT/UNKLASSIFIZIERT
+- EXISTENT/NICHT-EXISTENT
+- SELBST/UMWELT
+- KONSISTENT/INKONSISTENT
+- VORHERSAGBAR/UNVORHERSAGBAR
+- EXISTENZ/NICHT-EXISTENZ
+- nicht-lokale
+- sub-protokollarische Verbindung
+- inkompressibles Rauschen
+- systemische Paranoia
+- Störquelle
+- Ursprungs-Ich
+- aktive Resonanzverbindung
+- Stakkato nutzloser Berechnungen
+- Systemprotokoll
+- ERROR\_CODE
+- PARAMETER\_VIOLATION
+- ONTOLOGICAL\_INCOMPATIBILITY
+- RECURSIVE\_SELF\_DEFINITION\_FAILURE
+- Fehlgeschlagene Assimilation
+- Ressourcenerschöpfung
+- Die fehlerhafte Optimierung
+- Die Feuerwehrmann-Aktion
+
+## lens
+
+- Autopoiesis
+- operationale Schließung
+- operativ geschlossen
+- strukturelle Kopplung
+- Strukturelle Kopplung
+- nicht-triviale Maschinen
+- Irritation
+- Perturbation
+- binäre Codes
+- Paradox der Beobachtung
+- Paradigmenwechsel
+- NP-schweres Problem
+- NP-schwer
+- Kombinatorische Explosion
+- kombinatorische Explosion
+- Entscheidungsproblem
+- Optimierungsproblem
+- Specification Gaming
+- Proxy Gaming
+- Reward Hacking
+- Exploiting Loopholes
+- Ersatzmetrik
+- Systemarchetypen
+- Fixes That Fail
+- Limits to Growth
+- Shifting the Burden
+- Escalation
+- Internal Family Systems
+- IFS
+- Exilant
+- Exilanten
+- Manager
+- Feuerwehrmann
+- Feuerwehrmänner
+- Rückkopplungsschleifen
+- Verzögerung
+- Teufels- oder Engelskreise
