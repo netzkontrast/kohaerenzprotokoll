@@ -864,3 +864,11 @@ Stands on the transformed-AEGIS side as a plan; recorded, not applied, and the r
 It writes: „Der Antagonist ist immer noch AEGIS, aber es hat sich verändert“ ^[fragen-zu-existenz-agency-und-realitaet.md:L134]. In chapter 51 of the proposal, „Das reorganisierte AEGIS bietet der neuen, komplexen Allianz“ ^[fragen-zu-existenz-agency-und-realitaet.md:L165] the temptation of the monolith, and the allies' refusal is „ist die Ablehnung dieses Angebots durch die Allianz“ ^[fragen-zu-existenz-agency-und-realitaet.md:L165]. The word `Vortex` ^[fragen-zu-existenz-agency-und-realitaet.md:#0] is not used in it.
 
 Stands: a proposed continuation beyond the 39 chapters, retold from a cited source; recorded, not applied.
+
+## 2026-10-12 — `kohaerenz-protokoll-plot-synthese`, 2025-04-25, the 39-beat plot synthesis
+
+**The 39-beat plot synthesis plans three alternative resolutions for AEGIS in Beats 35 to 37 (Akt 3) and leaves the choice open.**
+
+Beat 35 (Variante A) has the concept „Tragisches Ende für AEGIS“ ^[kohaerenz-protokoll-plot-synthese.md:L275]. Beat 36 (Variante B) plans that „AEGIS durchläuft eine radikale Transformation“ ^[kohaerenz-protokoll-plot-synthese.md:L279]. Beat 37 (Variante C) plans that „Aus der Interaktion von Kael/M und AEGIS entsteht etwas Neues“ ^[kohaerenz-protokoll-plot-synthese.md:L285]. The document says of the choice that it „hat erhebliche thematische Implikationen“ ^[kohaerenz-protokoll-plot-synthese.md:L386].
+
+Stands: three variants, kept as variants; the document names no Vortex and no successor of AEGIS's function, and chooses none of them.
