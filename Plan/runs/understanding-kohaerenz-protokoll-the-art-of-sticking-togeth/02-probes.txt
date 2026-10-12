@@ -1,0 +1,17 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      40
+  typographic marks      13
+  ascii quotes           64
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coherons
+  corre    Corrective, Correspondence
+  proto    Protocol, Protokoll
+  struc    Structural, Structure
+  wavel    Wavelet, Wavelets
+
+# substring pairs -- never one term, often merged by accident
+  Order < Disorder
+  Wavelet < Wavelets

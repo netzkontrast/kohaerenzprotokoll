@@ -1,0 +1,370 @@
+{
+  "document": "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
+  "drive_id": "1Aw6urmdyd7tiKTXzv4N0eVui3Fd7ySWSH0nLNRoq3wM",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        25,
+        33,
+        34,
+        38,
+        87,
+        98,
+        102
+      ]
+    },
+    "System Kael": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        46,
+        54,
+        58
+      ]
+    },
+    "Kael": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        27,
+        33,
+        34,
+        38,
+        40,
+        46,
+        48,
+        54,
+        58,
+        59,
+        88,
+        98,
+        99,
+        102
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "alters": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        35,
+        46
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        48
+      ]
+    },
+    "ANPs": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        27,
+        48,
+        54,
+        58,
+        59,
+        61
+      ]
+    },
+    "Emotional Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        54
+      ]
+    },
+    "EPs": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        27,
+        54,
+        58,
+        59,
+        61
+      ]
+    },
+    "Protocol Ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        76,
+        100
+      ]
+    },
+    "Coherence Kernel (K₁)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        76,
+        100
+      ]
+    },
+    "K₁": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        71,
+        72,
+        76,
+        87,
+        100,
+        102
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        76,
+        100
+      ]
+    },
+    "Collapse Kernel (K₀)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        76,
+        100
+      ]
+    },
+    "K₀": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        72,
+        76,
+        83,
+        87,
+        88,
+        100,
+        102
+      ]
+    },
+    "Coherons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "atoms of persistence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Corrective Wavelet": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        83
+      ]
+    },
+    "erosive pressure": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        87
+      ]
+    },
+    "correspondence check": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        79,
+        88
+      ]
+    },
+    "decoherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "internal consistency": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        34,
+        38,
+        71
+      ]
+    },
+    "external validation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "exclusionary order": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "integrative healing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "entropy": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        35,
+        72,
+        87
+      ]
+    },
+    "internal coherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        87,
+        102
+      ]
+    },
+    "external correspondence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "cohesion": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        48,
+        58,
+        59,
+        99
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        15,
+        23,
+        46,
+        63,
+        69,
+        102
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        25
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        27
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    }
+  }
+}
