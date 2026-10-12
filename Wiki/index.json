@@ -81,10 +81,11 @@
         "roman-kohaerenz-protokoll",
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
         "aegis-analyse-und-manifest-postulation",
-        "aegis-und-der-kollaps-kritische-analyse"
+        "aegis-und-der-kollaps-kritische-analyse",
+        "romananfang-leere-und-systemgenesis"
       ],
-      "sources": 46,
-      "readings": 44,
+      "sources": 47,
+      "readings": 45,
       "conflict": "none"
     },
     "aegis": {
@@ -346,10 +347,18 @@
         "roman-konzeptentwicklung-kohaerenz-protokoll",
         "tropen-konzepte-fuer-kohaerenz-protokoll",
         "aegis-psychologische-kriegsfuehrung-narrative-eskalation",
-        "fragen-zu-existenz-agency-und-realitaet"
+        "fragen-zu-existenz-agency-und-realitaet",
+        "romananfang-leere-und-systemgenesis",
+        "kapitel-eins-welterkundung-konstrukt-stadt",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+        "aegis-philosophie-und-manifest-entwicklung",
+        "aegis-philosophie-und-systemtheorie",
+        "kapitel-17",
+        "kapitel-18",
+        "nichts-ordnung-fragmentierung-resonanz-nebel"
       ],
-      "sources": 249,
-      "readings": 249,
+      "sources": 257,
+      "readings": 257,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -713,10 +722,13 @@
         "romanarchitektur-validierung-und-synthese",
         "dramatica-storyform-synthese-aegis-verortung",
         "integriertes-kohaerenz-protokoll-erstellung",
-        "a-guide-to-the-society-of-self-understanding-system-kael"
+        "a-guide-to-the-society-of-self-understanding-system-kael",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+        "kapitel-17",
+        "kapitel-18"
       ],
-      "sources": 136,
-      "readings": 136,
+      "sources": 139,
+      "readings": 139,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1082,10 +1094,12 @@
         "orte-konzept-fuer-kohaerenz-protokoll",
         "dramaturgical-precision-deconstructing-the-irreversible-conf",
         "roman-kohaerenz-protokoll",
-        "kohaerenz-protokoll-epische-plot-anreicherung"
+        "kohaerenz-protokoll-epische-plot-anreicherung",
+        "kapitel-17",
+        "kapitel-18"
       ],
-      "sources": 101,
-      "readings": 101,
+      "sources": 103,
+      "readings": 103,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -1268,10 +1282,11 @@
         "aegis-philosophische-analyse-und-manifest-docx",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "blueprint",
-        "report-plot-synthesis-and-final-outline-for-coherence-protoc"
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll"
       ],
-      "sources": 70,
-      "readings": 70,
+      "sources": 71,
+      "readings": 71,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1465,10 +1480,13 @@
         "aegis-philosophische-analyse-und-manifest-docx",
         "blueprint",
         "tropen-konzepte-fuer-kohaerenz-protokoll",
-        "fragen-zu-existenz-agency-und-realitaet"
+        "fragen-zu-existenz-agency-und-realitaet",
+        "aegis-philosophie-und-manifest-entwicklung",
+        "aegis-philosophie-und-systemtheorie",
+        "kohaerenz-protokoll-konzeptionelle-ausarbeitung"
       ],
-      "sources": 66,
-      "readings": 66,
+      "sources": 69,
+      "readings": 69,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1652,10 +1670,16 @@
         "aegis-analyse-und-manifest-postulation",
         "aegis-philosophische-analyse-und-manifest-docx",
         "narrative-architecture-dossier-coherence-protocol",
-        "romanarchitektur-validierung-und-synthese"
+        "romanarchitektur-validierung-und-synthese",
+        "romananfang-leere-und-systemgenesis",
+        "kapitel-eins-welterkundung-konstrukt-stadt",
+        "aegis-philosophie-und-manifest-entwicklung",
+        "aegis-philosophie-und-systemtheorie",
+        "kohaerenz-protokoll-konzeptionelle-ausarbeitung",
+        "kapitel-18"
       ],
-      "sources": 132,
-      "readings": 132,
+      "sources": 138,
+      "readings": 138,
       "conflict": "C2"
     },
     "erason": {
@@ -1776,10 +1800,11 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "strategic-narrative-analysis-forging-a-compelling-story-from",
         "blueprint",
-        "roman-konzeptentwicklung-kohaerenz-protokoll"
+        "roman-konzeptentwicklung-kohaerenz-protokoll",
+        "kapitel-18"
       ],
-      "sources": 64,
-      "readings": 64,
+      "sources": 65,
+      "readings": 65,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1963,10 +1988,12 @@
         "narrative-architecture-dossier-coherence-protocol",
         "kohaerenz-protokoll-synthese-integration",
         "integriertes-kohaerenz-protokoll-erstellung",
-        "fragen-zu-existenz-agency-und-realitaet"
+        "fragen-zu-existenz-agency-und-realitaet",
+        "romananfang-leere-und-systemgenesis",
+        "nichts-ordnung-fragmentierung-resonanz-nebel"
       ],
-      "sources": 102,
-      "readings": 102,
+      "sources": 104,
+      "readings": 104,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -2307,10 +2334,12 @@
         "the-coherence-protocol-a-narrative-mosaic",
         "blueprint",
         "a-guide-to-the-society-of-self-understanding-system-kael",
-        "in-teil-2-werden-die-persona-von-ihren-spezifis"
+        "in-teil-2-werden-die-persona-von-ihren-spezifis",
+        "aegis-philosophie-und-systemtheorie",
+        "kapitel-18"
       ],
-      "sources": 147,
-      "readings": 147,
+      "sources": 149,
+      "readings": 149,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2694,10 +2723,15 @@
         "roman-konzeptentwicklung-kohaerenz-protokoll",
         "tropen-konzepte-fuer-kohaerenz-protokoll",
         "aegis-psychologische-kriegsfuehrung-narrative-eskalation",
-        "fragen-zu-existenz-agency-und-realitaet"
+        "fragen-zu-existenz-agency-und-realitaet",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+        "aegis-philosophie-und-manifest-entwicklung",
+        "kapitel-17",
+        "kapitel-18",
+        "nichts-ordnung-fragmentierung-resonanz-nebel"
       ],
-      "sources": 235,
-      "readings": 235,
+      "sources": 240,
+      "readings": 240,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -3019,10 +3053,14 @@
         "roman-konzeptentwicklung-kohaerenz-protokoll",
         "tropen-konzepte-fuer-kohaerenz-protokoll",
         "aegis-psychologische-kriegsfuehrung-narrative-eskalation",
-        "fragen-zu-existenz-agency-und-realitaet"
+        "fragen-zu-existenz-agency-und-realitaet",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+        "kapitel-17",
+        "kapitel-18",
+        "nichts-ordnung-fragmentierung-resonanz-nebel"
       ],
-      "sources": 252,
-      "readings": 253,
+      "sources": 256,
+      "readings": 257,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3352,10 +3390,11 @@
         "blueprint",
         "roman-konzeptentwicklung-kohaerenz-protokoll",
         "aegis-psychologische-kriegsfuehrung-narrative-eskalation",
-        "fragen-zu-existenz-agency-und-realitaet"
+        "fragen-zu-existenz-agency-und-realitaet",
+        "kapitel-eins-welterkundung-konstrukt-stadt"
       ],
-      "sources": 184,
-      "readings": 183,
+      "sources": 185,
+      "readings": 184,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -3705,10 +3744,14 @@
         "dramatica-storyform-fuer-romananalyse",
         "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
         "aegis-analyse-und-manifest-postulation",
-        "aegis-philosophische-analyse-und-manifest-docx"
+        "aegis-philosophische-analyse-und-manifest-docx",
+        "kapitel-eins-welterkundung-konstrukt-stadt",
+        "aegis-philosophie-und-manifest-entwicklung",
+        "aegis-philosophie-und-systemtheorie",
+        "kohaerenz-protokoll-konzeptionelle-ausarbeitung"
       ],
-      "sources": 58,
-      "readings": 58,
+      "sources": 62,
+      "readings": 62,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -3960,10 +4003,14 @@
         "blueprint",
         "report-plot-synthesis-and-final-outline-for-coherence-protoc",
         "integriertes-kohaerenz-protokoll-erstellung",
-        "roman-konzeptentwicklung-kohaerenz-protokoll"
+        "roman-konzeptentwicklung-kohaerenz-protokoll",
+        "kapitel-eins-welterkundung-konstrukt-stadt",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+        "kapitel-18",
+        "nichts-ordnung-fragmentierung-resonanz-nebel"
       ],
-      "sources": 109,
-      "readings": 109,
+      "sources": 113,
+      "readings": 113,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -4423,10 +4470,15 @@
         "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
         "kernwelten-fuer-kohaerenz-protokoll",
         "romanarchitektur-validierung-und-synthese",
-        "roman-konzeptentwicklung-kohaerenz-protokoll"
+        "roman-konzeptentwicklung-kohaerenz-protokoll",
+        "kapitel-eins-welterkundung-konstrukt-stadt",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+        "kapitel-17",
+        "kapitel-18",
+        "nichts-ordnung-fragmentierung-resonanz-nebel"
       ],
-      "sources": 112,
-      "readings": 112,
+      "sources": 117,
+      "readings": 117,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -4579,10 +4631,11 @@
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "romanarchitektur-validierung-und-synthese",
         "roman-konzeptentwicklung-kohaerenz-protokoll",
-        "tropen-konzepte-fuer-kohaerenz-protokoll"
+        "tropen-konzepte-fuer-kohaerenz-protokoll",
+        "kapitel-18"
       ],
-      "sources": 126,
-      "readings": 126,
+      "sources": 127,
+      "readings": 127,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -5163,10 +5216,11 @@
         "kapitel-1-generierungsprozess",
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "aegis-analyse-und-manifest-postulation",
-        "aegis-philosophische-analyse-und-manifest-docx"
+        "aegis-philosophische-analyse-und-manifest-docx",
+        "kohaerenz-protokoll-konzeptionelle-ausarbeitung"
       ],
-      "sources": 21,
-      "readings": 20,
+      "sources": 22,
+      "readings": 21,
       "conflict": "none yet"
     },
     "nexus": {
@@ -5972,10 +6026,11 @@
         "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
         "kernwelten-und-fragmentierte-wahrnehmung",
-        "report-plot-synthesis-and-final-outline-for-coherence-protoc"
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll"
       ],
-      "sources": 54,
-      "readings": 54,
+      "sources": 55,
+      "readings": 55,
       "conflict": "C11"
     },
     "rhys": {
@@ -6305,10 +6360,14 @@
         "integriertes-kohaerenz-protokoll-erstellung",
         "tropen-konzepte-fuer-kohaerenz-protokoll",
         "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
-        "in-teil-2-werden-die-persona-von-ihren-spezifis"
+        "in-teil-2-werden-die-persona-von-ihren-spezifis",
+        "romananfang-leere-und-systemgenesis",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+        "kapitel-18",
+        "nichts-ordnung-fragmentierung-resonanz-nebel"
       ],
-      "sources": 193,
-      "readings": 193,
+      "sources": 197,
+      "readings": 197,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -6578,10 +6637,12 @@
         "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
         "roman-kohaerenz-protokoll",
         "kohaerenz-protokoll-epische-plot-anreicherung",
-        "arbeitshilfe-kohaerenz-protokoll-kapitel-2"
+        "arbeitshilfe-kohaerenz-protokoll-kapitel-2",
+        "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+        "kapitel-17"
       ],
-      "sources": 66,
-      "readings": 66,
+      "sources": 68,
+      "readings": 68,
       "conflict": "C11"
     },
     "snk": {
@@ -7201,10 +7262,11 @@
         "blueprint",
         "roman-konzeptentwicklung-kohaerenz-protokoll",
         "fragen-zu-existenz-agency-und-realitaet",
-        "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz"
+        "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
+        "romananfang-leere-und-systemgenesis"
       ],
-      "sources": 112,
-      "readings": 112,
+      "sources": 113,
+      "readings": 113,
       "conflict": "none yet"
     },
     "vergessener-schrein": {

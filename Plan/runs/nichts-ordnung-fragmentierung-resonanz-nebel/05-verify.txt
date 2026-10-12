@@ -1,0 +1,37 @@
+$ read.py nichts-ordnung-fragmentierung-resonanz-nebel --count "möglicherweise"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`möglicherweise` ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:#12]
+$ read.py nichts-ordnung-fragmentierung-resonanz-nebel --count "könnte"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            16
+
+`könnte` ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:#13]
+$ read.py nichts-ordnung-fragmentierung-resonanz-nebel --count "legt nahe"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`legt nahe` ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:#7]
+$ read.py nichts-ordnung-fragmentierung-resonanz-nebel --count "Kapitel"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            21
+
+`Kapitel` ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:#20]
+$ read.py nichts-ordnung-fragmentierung-resonanz-nebel --count "Nox"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nox` ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:#1]
+$ read.py nichts-ordnung-fragmentierung-resonanz-nebel --count "Momente"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Momente` ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:#6]
+stance_marker_count 32 = 12 + 13 + 7 (möglicherweise, könnte, legt nahe; whole word)

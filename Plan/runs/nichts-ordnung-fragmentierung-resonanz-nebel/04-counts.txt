@@ -1,0 +1,61 @@
+# counts for 42 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             43 word    78 in   [15, 17, 25, 43, 45, 47]
+                                   35      as Kaels
+  AEGIS                            45 word    50 in   [15, 17, 25, 29, 31, 33]
+                                    2      as AEGIS-Abschnitt
+                                    1      as AEGIS-Systems
+                                    1      as AEGIS-Realität
+                                    1      as AEGIS-Protokolle
+  Juna                              2 word     4 in   [53, 55]
+                                    2      as Junas
+  Nox                               1 word     1 in   [67]
+  LogOS                             3 word     3 in   [53, 82]
+  Konstrukt-Stadt                  19 word    19 in   [15, 47, 51, 59, 61, 65]
+  Resonanz-Nebel                   14 word    17 in   [15, 69, 77, 87, 91, 93]
+                                    3      as Resonanz-Nebels
+  Wächter                           4 word     8 in   [11, 15, 29, 31, 43, 137]
+                                    3      as Wächter-KI
+                                    1      as Wächterrolle
+  Wächter-KI                        3 word     3 in   [11, 15, 137]
+  Universal Reboot                  3 word     4 in   [41, 49, 103, 105]
+  UNIVERSAL REBOOT PROTOCOL         1 word     1 in   [39]
+  Zero-Trust Execution Model (ZTEM)    1 word     1 in   [33]
+  Consensus Enforcer Module         1 word     1 in   [39]
+  Secure Isolation State (SIS)      1 word     1 in   [41]
+  Logical Consistency Analysis (LCA)    1 word     1 in   [39]
+  QUARANTINE PROTOCOL               1 word     1 in   [35]
+  Absolute Entropy Event            1 word     1 in   [35]
+  Ontological paradox propagation    2 word     2 in   [35, 103]
+  Existential Integrity Violation    1 word     1 in   [103]
+  AEGIS Functional Protocol v1.4    1 word     1 in   [33]
+  Last known stable configuration    1 word     1 in   [39]
+  Un-Schöpfung                      1 word     1 in   [41]
+  aktive Unmöglichkeit              3 word     3 in   [29, 103, 139]
+  Vorerst                           4 word     4 in   [45, 57, 111]
+  Gamma-7                           1 word     1 in   [53]
+  Transitkorridor                   1 word     1 in   [53]
+  Datenknotenpunkt                  1 word     1 in   [53]
+  Anomalie                          3 word     3 in   [59, 129]
+  Naht                              7 word     7 in   [55, 59, 61, 67, 129]
+  Finde die Naht                    4 word     4 in   [55, 59, 61, 67]
+  Spiegel                           3 word     7 in   [55, 59, 61, 121, 129]  <-- substring
+                                    4      as spiegelt
+                                    3      as Spiegelbild
+                                    1      as Spiegels
+                                    1      as spiegeln
+  Silhouette                        2 word     2 in   [97, 129]
+  Käfig der Ordnung                 1 word     1 in   [47]
+  Momente                           6 word     6 in   [65, 69, 91, 93, 131]
+  Scheideweg                        3 word     3 in   [99, 133, 145]
+  Psycholandschaft                  2 word     2 in   [93, 141]
+  Realitäts-Glitch                  2 word     4 in   [97, 105, 119, 141]
+                                    2      as Realitäts-Glitches
+  Nichts                           36 word    36 in   [11, 15, 17, 21, 23, 25]
+  Śūnyatā                           1 word     1 in   [27]
+  Parmenides                        2 word     2 in   [25]
+  Uncanny Valley                    1 word     1 in   [51]
+  Tal des Unwirklichen              1 word     1 in   [51]
