@@ -1235,3 +1235,5 @@
 {"document": "genesis-der-leere", "page": "entropie", "surface": "Entropie", "line": 19, "decision": "reading", "why": "the sea's entropy, read if it adds", "at": "2026-10-12"}
 {"document": "genesis-der-leere", "page": "genesis", "surface": "Genesis", "line": 11, "decision": "reading", "why": "the title", "at": "2026-10-12"}
 {"document": "genesis-der-leere", "page": "kohaerenz", "surface": "Kohärenz", "line": 35, "decision": "occurrence", "why": "an early network far from coherence", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 61, "decision": "occurrence", "why": "inside the Kernwelten line", "at": "2026-10-12"}

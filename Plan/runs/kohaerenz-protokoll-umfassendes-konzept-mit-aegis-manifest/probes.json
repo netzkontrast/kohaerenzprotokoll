@@ -1,0 +1,208 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest",
+  "drive_id": "10MvanrGLpaBo6RWJxMq2tw4Cjc-BcVZwXCs022ZOwEY",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 6,
+  "backslash_escapes": 0,
+  "typographic_marks": 16,
+  "ascii_quotes": 12,
+  "inflection_families": {
+    "selbs": [
+      "Selbstanpassung",
+      "Selbstbezügliche",
+      "Selbsterfindung",
+      "Selbsterhalt",
+      "Selbsterneuerung",
+      "Selbstidentität",
+      "Selbstkohärenz",
+      "Selbstorganisation",
+      "Selbstrealität",
+      "Selbstvalidierung"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropieraum",
+      "Entropischer"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifestation",
+      "Manifests"
+    ],
+    "poten": [
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzialität"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebenen",
+      "Realitätsschichten"
+    ],
+    "anpas": [
+      "Anpassung",
+      "Anpassungsfähigkeit"
+    ],
+    "aspek": [
+      "Aspekte",
+      "Aspekten"
+    ],
+    "ausei": [
+      "Auseinandersetzung",
+      "Auseinandersetzungen"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakterreise"
+    ],
+    "diffe": [
+      "Differenz",
+      "Differenzierung"
+    ],
+    "entit": [
+      "Entität",
+      "Entitäten"
+    ],
+    "grund": [
+      "Grundlage",
+      "Grundprinzipien"
+    ],
+    "infor": [
+      "Information",
+      "Informiert"
+    ],
+    "integ": [
+      "Integration",
+      "Integriert"
+    ],
+    "inter": [
+      "Interpretation",
+      "Interpretationen"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelübersicht"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzbildung"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte"
+    ],
+    "kräft": [
+      "Kräfte",
+      "Kräften"
+    ],
+    "manip": [
+      "Manipulationen",
+      "Manipulierte"
+    ],
+    "mecha": [
+      "Mechanismen",
+      "Mechanismus"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichts"
+    ],
+    "prinz": [
+      "Prinzip",
+      "Prinzipien"
+    ],
+    "roman": [
+      "Roman",
+      "Romans"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Form",
+      "Informiert"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ],
+    [
+      "Kern",
+      "Kernprämisse"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Raum",
+      "Entropieraum"
+    ],
+    [
+      "Sein",
+      "Seins"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Auseinandersetzung"
+    ],
+    [
+      "Sein",
+      "Auseinandersetzungen"
+    ],
+    [
+      "Stil",
+      "Stillstand"
+    ],
+    [
+      "Tanz",
+      "Tanzes"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Nicht",
+      "Nichts"
+    ],
+    [
+      "Roman",
+      "Romans"
+    ]
+  ]
+}

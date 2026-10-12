@@ -1,0 +1,141 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest",
+  "drive_id": "10MvanrGLpaBo6RWJxMq2tw4Cjc-BcVZwXCs022ZOwEY",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-316/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 35,
+    "decisions": 36,
+    "decided_by_lookup": 24,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A concept outline organised by an AEGIS-Manifest of three pillars: its new surfaces are the manifest, the pillars and their labels and the parts' journeys; what it says of AEGIS, entropy, Kael, Juna, the Kernwelten, the Potentialmeer and the Überwelt went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        52,
+        54,
+        59,
+        63,
+        76
+      ],
+      "attribution": "",
+      "note": "AEGIS as the manifest's operative embodiment and its rigid interpretation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        30,
+        34,
+        35,
+        53,
+        59,
+        70
+      ],
+      "attribution": "",
+      "note": "Entropie as pillar II, danced with rather than resisted"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        62,
+        77
+      ],
+      "attribution": "",
+      "note": "the K-J connection as a mechanism against AEGIS's control"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        69,
+        71,
+        75
+      ],
+      "attribution": "",
+      "note": "Kael's journey through the three pillars"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        61,
+        83
+      ],
+      "attribution": "",
+      "note": "Kernwelten as AEGIS's tools of its rigid pillar-III reading"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "Multiplizität placed in Teil 3"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        63,
+        82
+      ],
+      "attribution": "",
+      "note": "the space in which the manifest holds"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "AEGIS's Überwelt matching its interpretation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS`, `AEGIS-Manifest` and `Manifest` on aegis, the manifest not promoted; `Säule`/`Säulen`, `Ordnung und Entropie`, `Kohärenz und Differenz`, `Differenz` and `Selbstkohärenz` the manifest's labels, read on aegis and entropie; `Cache` and `Moonshine` named only in a list of metaphors, occurrences; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 61,
+      "decision": "occurrence",
+      "why": "inside the Kernwelten line"
+    }
+  ],
+  "not_promoted": [
+    "the AEGIS-Manifest and its three pillars with their field labels",
+    "the motto",
+    "the entity M",
+    "the parts' journeys",
+    "Subquotienten"
+  ],
+  "internal_tension": "it names its metaphors (Cache, Monster, Moonshine) only in a list and leaves them unexplained (L88); it keeps the structure of an earlier plan while reinterpreting its events (L100)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
