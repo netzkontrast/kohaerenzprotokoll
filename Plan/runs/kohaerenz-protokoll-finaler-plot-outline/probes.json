@@ -1,0 +1,223 @@
+{
+  "document": "kohaerenz-protokoll-finaler-plot-outline",
+  "drive_id": "1g9StvzkprSHuN7YC4MqQdg5wk1xRzooJogWLkddkkfk",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 30,
+  "backslash_escapes": 0,
+  "typographic_marks": 11,
+  "ascii_quotes": 118,
+  "inflection_families": {
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentierte",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzials"
+    ],
+    "ander": [
+      "Andere",
+      "Anderen",
+      "Anderer",
+      "Andersartigkeit"
+    ],
+    "roman": [
+      "Roman",
+      "Romanendes",
+      "Romans",
+      "Romantic"
+    ],
+    "syste": [
+      "Systeme",
+      "Systemen",
+      "Systems",
+      "Systemstabilität"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumatisiert",
+      "Traumlandschaft"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschlussprüfung",
+      "Abschnitt"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent",
+      "Emergenz"
+    ],
+    "epilo": [
+      "Epilog",
+      "Epiloge",
+      "Epilogen"
+    ],
+    "exist": [
+      "Exist",
+      "Existenz",
+      "Existenzformen"
+    ],
+    "frage": [
+      "Frage",
+      "Fragen",
+      "Fragezeichen"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegensätzen",
+      "Gegenteil"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen"
+    ],
+    "haupt": [
+      "Hauptdirektive",
+      "Hauptereignissen",
+      "Haupttext"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsmodells",
+      "Integrierte"
+    ],
+    "other": [
+      "Other",
+      "Othering",
+      "Otherness"
+    ],
+    "prinz": [
+      "Prinzip",
+      "Prinzipien",
+      "Prinzips"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versuchs"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteilen"
+    ],
+    "archi": [
+      "Architect",
+      "Architektur"
+    ],
+    "autor": [
+      "Autor",
+      "Autorität"
+    ],
+    "beisp": [
+      "Beispiel",
+      "Beispielen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpunkt"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialogs"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Book",
+      "BookViral"
+    ],
+    [
+      "Buch",
+      "Logbucheintrag"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Einer"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Romanendes"
+    ],
+    [
+      "Form",
+      "Formats"
+    ],
+    [
+      "Form",
+      "Existenzformen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Gott",
+      "Gottes"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernnatur"
+    ],
+    [
+      "Kern",
+      "Kernthemas"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernphilosophie"
+    ],
+    [
+      "Kern",
+      "Kernunterschied"
+    ],
+    [
+      "Leid",
+      "Leidens"
+    ],
+    [
+      "Meta",
+      "Metafictional"
+    ]
+  ]
+}

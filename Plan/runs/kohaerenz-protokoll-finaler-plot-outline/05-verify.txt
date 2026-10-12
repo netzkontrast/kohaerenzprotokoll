@@ -1,0 +1,61 @@
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Dieser Abschnitt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Dieser Abschnitt` ^[kohaerenz-protokoll-finaler-plot-outline.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "könnte"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`könnte` ^[kohaerenz-protokoll-finaler-plot-outline.md:#16]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Potentialmeer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Potentialmeer` ^[kohaerenz-protokoll-finaler-plot-outline.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Potentialmeers"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Potentialmeers` ^[kohaerenz-protokoll-finaler-plot-outline.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Fundament"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Fundament` ^[kohaerenz-protokoll-finaler-plot-outline.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Juna/V"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Juna/V` ^[kohaerenz-protokoll-finaler-plot-outline.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Selene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selene` ^[kohaerenz-protokoll-finaler-plot-outline.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Beispiel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Beispiel` ^[kohaerenz-protokoll-finaler-plot-outline.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Kapitel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kapitel` ^[kohaerenz-protokoll-finaler-plot-outline.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-outline --count "Szenario"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Szenario` ^[kohaerenz-protokoll-finaler-plot-outline.md:#4]
+stance_marker_count 20 = 4 + 16
