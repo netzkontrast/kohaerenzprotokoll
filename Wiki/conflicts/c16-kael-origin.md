@@ -603,3 +603,11 @@ Zuerst: Kael sei „ein primäres, sentientes Fragment des“ ^[untersuche-in-wi
 Dann die Wendung: „Juna/V ist der andere primäre Teil des“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L148] Ursprungs-Ichs, und das Ursprungs-Ich (Kael+Juna) spaltete sich in einer Bifurkation; Kael sei der Host-Teil, „der im System verblieb, amnestisch wurde und von AEGIS kontrolliert wird“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L159]. Die Entität heißt jetzt eine wahre K₀-Kraft „oder etwas anderes“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L154]. Das Briefing nennt den Abschnitt „Neudefinition der Genesis-Krise“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L154].
 
 Steht dem gespaltenen Ursprungs-Selbst (row 5) am nächsten; festgehalten, nicht angewandt und nicht entschieden.
+
+## 2026-10-12 — `welcome-to-the-coherence-protocol-a-beginner-s-guide`, 2025-11-03, the beginner's guide
+
+**The beginner's guide presents Juna/V as an exiled part of the original, unified self from which AEGIS and Kael were fragmented; it explains and decides nothing.**
+
+The beginner's guide says Juna/V „Juna/V has a crucial dual nature: she is both a transcendent being from a reality beyond AEGIS's simulation and an exiled, forgotten part of the original, unified self from which both AEGIS and Kael were violently fragmented.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L107] It names no event of the split in that sentence; the `Genesis-Krise` is placed on AEGIS alone, as „it performed a form of logical self-harm, violently excising the parts of its own original self that could feel in order to preserve its logical purity.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L30]
+
+Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not decided.
