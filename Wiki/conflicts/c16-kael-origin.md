@@ -537,3 +537,11 @@ Stands on the side of Kael as made by AEGIS from its own fragmentation; recorded
 Stage two: AEGIS „externalized one of these traumatized splinters as a method of quarantining the damage“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L54], and the splinter then split a second time, „birthing the amnesiac host protagonist (Kael) and the exiled entity (Juna/V)“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L54]. It calls the chain „the definitive origin story for the central conflict“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L56], its own claim.
 
 Stands as one more origin for Kael, in the report's own terms definitive; recorded, not applied and not decided.
+
+## 2026-10-12 — `kohaerenz-protokoll-synthese-integration`, 2025-12-05, the integrated synthesis
+
+**The integrated synthesis reports that the documents point to a double nature of Juna, as external person and as the exiled original self of AEGIS and Kael, split off in the Genesis-Krise.**
+
+Reporting two source documents, it writes that they „deuten auf eine doppelte Natur von Juna hin“ ^[kohaerenz-protokoll-synthese-integration.md:L194]: she is the exiled original self of AEGIS and Kael, „jener Teil, der während der Genesis-Krise abgespalten wurde“ ^[kohaerenz-protokoll-synthese-integration.md:L194].
+
+Stands with the inside origin of the second telling, one original self split; a synthesis reporting its sources, recorded, not applied.
