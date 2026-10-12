@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 35
-readings: 35
+sources: 36
+readings: 36
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie", "critical-plot-interrogatories-for-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kohaerenz-protokoll-kapitel-39-die-letzte-instanz", "romanarchitektur-validierung-und-synthese", "roman-konzeptentwicklung-kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie", "critical-plot-interrogatories-for-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kohaerenz-protokoll-kapitel-39-die-letzte-instanz", "romanarchitektur-validierung-und-synthese", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz"]
 gathered: "2026-09-17"
 ---
 
@@ -40,6 +40,10 @@ pages and cross-referenced rather than merged: J18.
 ## Reading — `kohaerenz-protokoll-2`, 2025-04-17, the April 2025 concept — the Nexus named once, in the Teil 2 sketch
 
 The April 2025 concept mentions the Nexus once, in its sketch (marked „Skizze“) of Teil 2: „Michaels erste Versuche mit den Werkzeugen im Nexus oder bei kurzen Ausflügen in die Welten“ ^[kohaerenz-protokoll-2.md:L107]. The line sets the Nexus beside the worlds and does not define it; the six levels of section V do not list it.
+
+## Reading — `entwickle-einen-neuen-plot-der-sich-ueber-13-kurz`, 2025-04-17, the Seelen-Kohärenz blueprint — Nexus as the Hüter's control room
+
+The Seelen-Kohärenz blueprint proposes for its first plot point of part 2 a setting named „Die Meta-Realität als Schaltzentrale/Kontrollraum/Nexus“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L137], where the blueprint's own Hüter watch the system break.
 
 ## Reading — `lokalitaeten-konzept-fuer-roman-simulation`, 2025-04-18, the locations concept — the Nexus as an interface place in KW4; a Firewall-Nexus in the Überwelt
 
