@@ -1,0 +1,37 @@
+$ python3 scripts/read.py abstraktes-konzept-das-resonanz-gefuege --count "Grundidee"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Grundidee` ^[abstraktes-konzept-das-resonanz-gefuege.md:#1]
+$ python3 scripts/read.py abstraktes-konzept-das-resonanz-gefuege --count "Kernfokus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernfokus` ^[abstraktes-konzept-das-resonanz-gefuege.md:#1]
+$ python3 scripts/read.py abstraktes-konzept-das-resonanz-gefuege --count "Ziel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ziel` ^[abstraktes-konzept-das-resonanz-gefuege.md:#1]
+$ python3 scripts/read.py abstraktes-konzept-das-resonanz-gefuege --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[abstraktes-konzept-das-resonanz-gefuege.md:#0]
+$ python3 scripts/read.py abstraktes-konzept-das-resonanz-gefuege --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[abstraktes-konzept-das-resonanz-gefuege.md:#0]
+$ python3 scripts/read.py abstraktes-konzept-das-resonanz-gefuege --count "Das Dokument"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Dokument` ^[abstraktes-konzept-das-resonanz-gefuege.md:#1]
+stance_marker_count 3 = Grundidee 1 + Kernfokus 1 + Ziel 1
