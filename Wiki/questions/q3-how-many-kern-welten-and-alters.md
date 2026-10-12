@@ -1350,3 +1350,11 @@ Stands on the four-Kernwelten side as the master synthesis's plan; recorded, not
 It writes „Jede Kernwelt ist eine maßgeschneiderte Konditionierungsumgebung“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L61] KW1 (Logos-Prime) is for Lex: „Diese Welt ist darauf ausgelegt, die analytischen Fähigkeiten von Lex zu maximieren und zu perfektionieren.“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L63] KW3 (Cerberus-Labyrinth) is for Nyx: „Diese Welt ist darauf ausgelegt, die Aggression von Nyx zu einer vorhersagbaren, waffenfähigen Reaktion zu kultivieren.“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L72] Table 1 adds a world for Rhys and one for Kiko, both marked `Annahme` (assumption): „Fester Intervallplan (für Angst)“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L101] is the Kiko row's schedule.
 
 Stands: an analysis applying outside models, with two of four rows its own assumption; it sets one world against one part but names no count of worlds or parts, so the question stays open.
+
+## 2026-10-12 — `kohaerenz-protokoll-plot-konzept-generierung`, 2025-04-25, the five-variant plot concepts
+
+**The five-variant plot concepts list four Kernwelten with themes in Synopsis 4 and propose, hedged, that each be dominated by a corresponding alter in Synopsis 1.**
+
+Synopsis 4 has „Die Kernwelten (Logik, Emotion/Paralogik, Angst/Sicherheit, Potential) stellen AEGIS“ ^[kohaerenz-protokoll-plot-konzept-generierung.md:L129] attempt to study facets of M in isolation; Synopsis 1 proposes „wobei jede Kernwelt potenziell von einem korrespondierenden Alter dominiert wird“ ^[kohaerenz-protokoll-plot-konzept-generierung.md:L50]. It gives examples such as a logic manager in KW1 and an emotion exile in KW2, and no count of alters.
+
+Stands: four worlds as the document lists them in one synopsis, a world-to-alter correspondence proposed as possible; nothing decided.
