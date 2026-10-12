@@ -816,3 +816,11 @@ Stands as one end for AEGIS after its crisis, in the report's own terms its reso
 Part I: „Kael's Steadfast commitment to his trauma forces AEGIS into a Change Resolve“ ^[romanarchitektur-validierung-und-synthese.md:L114]; the German half has the transition into „Algorithmische Melancholie“ ^[romanarchitektur-validierung-und-synthese.md:L123] and the Mosaik-Herz. The new pattern is recognized by AEGIS „initiating an Integration Protocol that recognizes the new pattern“ ^[romanarchitektur-validierung-und-synthese.md:L114], and Kael „achieves Funktionale Multiplizität, ceasing his resistance against his own fragmentation“ ^[romanarchitektur-validierung-und-synthese.md:L114]. In the plot-beat specification: „The simulation fails objectively, succumbing to heat death, but consciousness survives subjectively“ ^[romanarchitektur-validierung-und-synthese.md:L399].
 
 Stands: the architecture validation gives one account of AEGIS after the Vortex, as its own Plot Beat; the question of what AEGIS becomes is left open in the record's own terms.
+
+## 2026-10-12 — `dramatica-storyform-synthese-aegis-verortung`, 2026-04-30, the AEGIS placement synthesis
+
+**The AEGIS placement synthesis reports a state for AEGIS at the Vortex-Inversion: a permanent Algorithmische Melancholie, with Kael surviving; it names no successor to AEGIS's function.**
+
+It writes that „AEGIS scheitert nicht in einem konventionellen Gefecht“ ^[dramatica-storyform-synthese-aegis-verortung.md:L175] but that AEGIS burns in its own erasure directive, and „stürzt in eine permanente“ ^[dramatica-storyform-synthese-aegis-verortung.md:L175] `Algorithmische Melancholie`; „Kael hingegen übersteht das Inferno“ ^[dramatica-storyform-synthese-aegis-verortung.md:L175].
+
+Stands: the synthesis answers the first half of the question, AEGIS's state, as a permanent frozen loop at the inversion, as its own claim; the second half (who takes over AEGIS's function inside Kael) it does not address; recorded, not applied.
