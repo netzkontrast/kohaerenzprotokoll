@@ -1206,3 +1206,6 @@
 {"document": "kohaerenz-protokoll-plot-konzept-generierung", "page": "entropie", "surface": "Entropie", "line": 17, "decision": "reading", "why": "the Potentialmeer of high entropy", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-plot-konzept-generierung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-plot-konzept-generierung", "page": "ueberwelt", "surface": "Simulation", "line": 52, "decision": "occurrence", "why": "AEGIS's simulation of the worlds, read on kern-welten", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-konzept-generierung-2", "page": "entropie", "surface": "Entropie", "line": 17, "decision": "occurrence", "why": "near-duplicate of document 305; light pass", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-konzept-generierung-2", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "near-duplicate of document 305; light pass", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-konzept-generierung-2", "page": "ueberwelt", "surface": "Simulation", "line": 50, "decision": "occurrence", "why": "near-duplicate of document 305; light pass", "at": "2026-10-12"}
