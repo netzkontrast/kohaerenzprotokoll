@@ -659,3 +659,11 @@ Stands: one more position, a constraint handed to an agent; nothing decided.
 The Master Story Guide, an unsigned English design guide, writes of the Moonshine-Link that it is „a non-local, sub-protocol phenomenon that serves as a narrative and ontological“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L64] exploit of AEGIS's reality, and that, operating on a different ontological level than protocol-based transfers, „it is rendered structurally invisible to its sensors“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L69]
 
 Stands: the guide gives the boundary as an ontological one, between a non-local connection and AEGIS's sensors; it names no further limit, and the question stays open.
+
+## 2026-10-12 — `romanarchitektur-validierung-und-synthese`, 2026-04-28, the architecture validation
+
+**The architecture validation lists the Moonshine Link's thermodynamic cost as an open question.**
+
+It asks: „Does the transmission of transformative gnosis across the“ ^[romanarchitektur-validierung-und-synthese.md:L167] invariant bridge incur a Landauer cost, or whether its topological nature bypasses classical thermodynamics; „the precise thermodynamic accounting of information transfer remains abstract“ ^[romanarchitektur-validierung-und-synthese.md:L167]. It requires of a future revision: „A future revision must explicitly state whether the Moonshine Link operates as an entirely reversible quantum process“ ^[romanarchitektur-validierung-und-synthese.md:L167].
+
+Stands: the question is open in the architecture validation's own terms; it neither answers nor rules on it.
