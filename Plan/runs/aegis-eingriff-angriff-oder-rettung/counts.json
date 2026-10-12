@@ -1,0 +1,555 @@
+{
+  "document": "aegis-eingriff-angriff-oder-rettung",
+  "drive_id": "1hn8cO0CekoDYODFGGrDURYYDwNLJm0rRpVN_N3-E71k",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 46,
+      "n_including_compounds": 48,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        23,
+        25,
+        27,
+        31,
+        35,
+        39,
+        41,
+        43,
+        45,
+        47,
+        49,
+        57,
+        61,
+        67,
+        71,
+        84,
+        86,
+        90,
+        102,
+        106,
+        110,
+        112,
+        120,
+        137,
+        145,
+        155,
+        157
+      ]
+    },
+    "System Kael": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        15,
+        19,
+        23,
+        41,
+        51,
+        53,
+        55,
+        57,
+        71,
+        84,
+        94,
+        98,
+        106,
+        120,
+        128
+      ]
+    },
+    "Kael": {
+      "n": 27,
+      "n_including_compounds": 36,
+      "lines": [
+        15,
+        19,
+        23,
+        41,
+        45,
+        51,
+        53,
+        55,
+        57,
+        61,
+        67,
+        71,
+        84,
+        86,
+        90,
+        94,
+        98,
+        106,
+        110,
+        120,
+        124,
+        128,
+        139,
+        155
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        55,
+        94
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        156
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        94,
+        155
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        155
+      ]
+    },
+    "Selene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        94,
+        156
+      ]
+    },
+    "Genesis-Konflikt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        65,
+        67
+      ]
+    },
+    "Leere": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        31,
+        39,
+        41,
+        67,
+        72
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Logos": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        86,
+        110,
+        112,
+        140
+      ]
+    },
+    "Eros": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        110,
+        112,
+        120,
+        128,
+        140
+      ]
+    },
+    "Abyssos": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        110,
+        112,
+        120,
+        140
+      ]
+    },
+    "O": {
+      "n": 7,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        33,
+        35,
+        39,
+        63,
+        67,
+        74,
+        75,
+        84,
+        86,
+        102,
+        110,
+        112,
+        120,
+        143,
+        145,
+        149,
+        161
+      ]
+    },
+    "Zersetzungsdruck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Sog der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "ANPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        53,
+        55,
+        94,
+        128
+      ]
+    },
+    "EPs": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        53,
+        55,
+        94,
+        128,
+        155
+      ]
+    },
+    "Anscheinend Normaler Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Emotionaler Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Kernparadoxon": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        76,
+        120
+      ]
+    },
+    "erste aktualisierte AEGIS-Eingriff": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Verwundbarkeitsprofil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Rettungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "systemischer Defibrillator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Kollaps der narrativen Wellenfunktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "parasitäre Homöostase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "dysfunktionale Homöostase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "kybernetischen blinden Fleck": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "traumatischer Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Selbstproduktionsschleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "These A": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        96,
+        112,
+        136,
+        155
+      ]
+    },
+    "These B": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        112,
+        114,
+        136,
+        156
+      ]
+    },
+    "Autopoiesis": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        25,
+        41,
+        161
+      ]
+    },
+    "Iatrogenese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Skinner-Boxen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "operanter Konditionierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Zwangskontrolle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        102
+      ]
+    },
+    "Wiederholungszwang": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        106,
+        161
+      ]
+    },
+    "BITE-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "erlernten Hilflosigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        73
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "dissipative Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "komplexes adaptives System": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        86
+      ]
+    },
+    "coincidentia oppositorum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Todestrieb": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112
+      ]
+    },
+    "Lebenstrieb": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        112
+      ]
+    },
+    "Thanatos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112
+      ]
+    },
+    "dunamis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "energeia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "It from Bit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Summe über die Historien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    }
+  }
+}

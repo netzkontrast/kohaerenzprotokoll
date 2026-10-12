@@ -1,0 +1,14 @@
+# aegis-eingriff-angriff-oder-rettung
+  lines                162  (frontmatter ends at 9)
+  body words           3162
+  headings             27   bold-only lines 0
+  table rows           16   code fences 0
+  question marks       5
+  backslash escapes    67
+  typographic marks    19   ascii quotes 82
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      none
+  longest line         1501 chars
+

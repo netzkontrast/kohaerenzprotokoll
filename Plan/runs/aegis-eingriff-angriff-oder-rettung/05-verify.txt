@@ -1,0 +1,86 @@
+# every number the census and note state
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "These A"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`These A` ^[aegis-eingriff-angriff-oder-rettung.md:#4]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "These B"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`These B` ^[aegis-eingriff-angriff-oder-rettung.md:#4]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Kernparadoxon"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernparadoxon` ^[aegis-eingriff-angriff-oder-rettung.md:#3]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[aegis-eingriff-angriff-oder-rettung.md:#1]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Lex"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lex` ^[aegis-eingriff-angriff-oder-rettung.md:#3]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Rhys"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Rhys` ^[aegis-eingriff-angriff-oder-rettung.md:#2]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Nyx"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nyx` ^[aegis-eingriff-angriff-oder-rettung.md:#3]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Kiko"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kiko` ^[aegis-eingriff-angriff-oder-rettung.md:#1]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Selene"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Selene` ^[aegis-eingriff-angriff-oder-rettung.md:#3]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Genesis-Krise"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Genesis-Krise` ^[aegis-eingriff-angriff-oder-rettung.md:#4]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Logos"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Logos` ^[aegis-eingriff-angriff-oder-rettung.md:#6]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "Eros"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Eros` ^[aegis-eingriff-angriff-oder-rettung.md:#6]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "kybernetischen blinden Flecks"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`kybernetischen blinden Flecks` ^[aegis-eingriff-angriff-oder-rettung.md:#1]
+$ python3 scripts/read.py aegis-eingriff-angriff-oder-rettung --count "ground truth"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`ground truth` ^[aegis-eingriff-angriff-oder-rettung.md:#0]
+stance_marker_count 8 = These A (4) + These B (4)
