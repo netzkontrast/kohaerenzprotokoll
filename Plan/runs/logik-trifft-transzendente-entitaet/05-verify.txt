@@ -1,0 +1,143 @@
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "wahrscheinlich"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`wahrscheinlich` ^[logik-trifft-transzendente-entitaet.md:#16]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "könnte"
+whole word, case-sensitive     57
+whole word, case-insensitive   61
+including compounds            64
+
+`könnte` ^[logik-trifft-transzendente-entitaet.md:#57]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "plausibel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`plausibel` ^[logik-trifft-transzendente-entitaet.md:#2]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[logik-trifft-transzendente-entitaet.md:#0]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[logik-trifft-transzendente-entitaet.md:#0]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Teil"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            11
+
+`Teil` ^[logik-trifft-transzendente-entitaet.md:#2]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Aegis"
+whole word, case-sensitive     174
+whole word, case-insensitive   174
+including compounds            175
+
+`Aegis` ^[logik-trifft-transzendente-entitaet.md:#174]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Kernaxiom"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`Kernaxiom` ^[logik-trifft-transzendente-entitaet.md:#3]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Kohärenzprotokoll"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            12
+
+`Kohärenzprotokoll` ^[logik-trifft-transzendente-entitaet.md:#10]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "operationale Geschlossenheit"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`operationale Geschlossenheit` ^[logik-trifft-transzendente-entitaet.md:#6]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "transzendenten Entität"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`transzendenten Entität` ^[logik-trifft-transzendente-entitaet.md:#9]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "aktuale Unendlichkeit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`aktuale Unendlichkeit` ^[logik-trifft-transzendente-entitaet.md:#3]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Transzendentalien"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Transzendentalien` ^[logik-trifft-transzendente-entitaet.md:#1]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Anfrage"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Anfrage` ^[logik-trifft-transzendente-entitaet.md:#2]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Benutzeranfrage"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Benutzeranfrage` ^[logik-trifft-transzendente-entitaet.md:#1]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Relevanz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Relevanz` ^[logik-trifft-transzendente-entitaet.md:#5]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Verlauf"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Verlauf` ^[logik-trifft-transzendente-entitaet.md:#6]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Themen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Themen` ^[logik-trifft-transzendente-entitaet.md:#7]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Meta-Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Meta-Protokoll` ^[logik-trifft-transzendente-entitaet.md:#1]
+
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet --count "Aegis-Morphismus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Aegis-Morphismus` ^[logik-trifft-transzendente-entitaet.md:#1]
+
+stance sum: 16+57+2 = 75
+$ grep -n lines with Kapitel/Teil
+208:Dieser Untersuchungsprozess selbst könnte Teil der Anpassung von Aegis werd

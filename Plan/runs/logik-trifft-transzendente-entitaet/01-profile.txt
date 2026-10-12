@@ -1,0 +1,14 @@
+# logik-trifft-transzendente-entitaet
+  lines                397  (frontmatter ends at 9)
+  body words           7991
+  headings             27   bold-only lines 1
+  table rows           9   code fences 0
+  question marks       23
+  backslash escapes    68
+  typographic marks    160   ascii quotes 20
+  invisible characters U+200Bx2
+  math symbol lines    4
+  glued ref numbers    91
+  repeated labels      Relevanz x5, Themen x5, Verlauf x5
+  longest line         1380 chars
+
