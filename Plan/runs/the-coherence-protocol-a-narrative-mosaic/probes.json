@@ -1,0 +1,192 @@
+{
+  "document": "the-coherence-protocol-a-narrative-mosaic",
+  "drive_id": "1LV6cKons4Kd6o5HhMp3V4mYpWZ2JMROUIc5byPgSpuI",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 52,
+  "backslash_escapes": 0,
+  "typographic_marks": 27,
+  "ascii_quotes": 184,
+  "inflection_families": {
+    "narra": [
+      "Narrate",
+      "Narrative",
+      "Narratology",
+      "Narrator"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmented"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "alter": [
+      "Altered",
+      "Alters"
+    ],
+    "analy": [
+      "Analysis",
+      "Analyst"
+    ],
+    "archi": [
+      "Architect",
+      "Architecture"
+    ],
+    "conce": [
+      "Concept",
+      "Conceptual"
+    ],
+    "concl": [
+      "Conclude",
+      "Conclusion"
+    ],
+    "exile": [
+      "Exile",
+      "Exiles"
+    ],
+    "forma": [
+      "Formal",
+      "Formation"
+    ],
+    "integ": [
+      "Integrating",
+      "Integration"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "liber": [
+      "Liberated",
+      "Liberation"
+    ],
+    "manag": [
+      "Manager",
+      "Managers"
+    ],
+    "poten": [
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychology"
+    ],
+    "simul": [
+      "Simulating",
+      "Simulation"
+    ],
+    "stati": [
+      "Stationed",
+      "Statistical"
+    ],
+    "theor": [
+      "Theoretic",
+      "Theory"
+    ],
+    "trans": [
+      "Transcendental",
+      "Transformation"
+    ],
+    "whole": [
+      "Whole",
+      "Wholeness"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Back",
+      "Feedback"
+    ],
+    [
+      "Free",
+      "Freeze"
+    ],
+    [
+      "Free",
+      "Freedom"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Exile",
+      "Exiles"
+    ],
+    [
+      "Fight",
+      "Firefighters"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Whole",
+      "Wholeness"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "System",
+      "Subsystem"
+    ],
+    [
+      "Concept",
+      "Conceptual"
+    ],
+    [
+      "Entropy",
+      "Negentropy"
+    ],
+    [
+      "Manager",
+      "Managers"
+    ],
+    [
+      "Fragment",
+      "Fragmented"
+    ],
+    [
+      "Fragment",
+      "Fragmentation"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ]
+  ]
+}
