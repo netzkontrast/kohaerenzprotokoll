@@ -1251,3 +1251,6 @@
 {"document": "rechercheauftrag-die-genesis-von-aegis", "page": "entropie", "surface": "Entropie", "line": 24, "decision": "occurrence", "why": "a research order's question; light pass", "at": "2026-10-12"}
 {"document": "rechercheauftrag-die-genesis-von-aegis", "page": "genesis", "surface": "Genesis", "line": 11, "decision": "occurrence", "why": "a research order's question; light pass", "at": "2026-10-12"}
 {"document": "rechercheauftrag-die-genesis-von-aegis", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "a research order's question; light pass", "at": "2026-10-12"}
+{"document": "entwicklungsstrategie-fuer-kohaerenz-protokoll", "page": "emergenz", "surface": "Emergenz", "line": 144, "decision": "occurrence", "why": "tool guidance; light pass", "at": "2026-10-12"}
+{"document": "entwicklungsstrategie-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "tool guidance; light pass", "at": "2026-10-12"}
+{"document": "entwicklungsstrategie-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 53, "decision": "occurrence", "why": "tool guidance; light pass", "at": "2026-10-12"}

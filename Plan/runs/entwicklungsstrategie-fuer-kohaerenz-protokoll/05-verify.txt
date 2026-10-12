@@ -1,0 +1,91 @@
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Nutzeranfrage"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Nutzeranfrage` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#4]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Prompt (Chat AI)"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Prompt (Chat AI)` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#7]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Handlungsempfehlungen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Handlungsempfehlungen` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#2]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Autopoiesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autopoiesis` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#1]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Kernaxiome"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kernaxiome` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#1]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Verbindung V"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Verbindung V` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#5]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Co₁"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Co₁` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#6]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Cache Kohärenz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Cache Kohärenz` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#5]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Heldinnenreise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Heldinnenreise` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#1]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Zyklisch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zyklisch` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#2]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Heldenreise"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Heldenreise` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#2]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "IFS-Anteile"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`IFS-Anteile` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#1]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "IFS-Analogie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`IFS-Analogie` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#1]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#4]
+$ read.py entwicklungsstrategie-fuer-kohaerenz-protokoll --count "IFS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`IFS` ^[entwicklungsstrategie-fuer-kohaerenz-protokoll.md:#0]
+stance_marker_count 9 = Prompt (Chat AI) 7 + Handlungsempfehlungen 2
