@@ -1,0 +1,373 @@
+{
+  "document": "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll",
+  "drive_id": "1FdJMaWnCQTILJZE8-7Xvm2RXyZALZG85IBxHIk8NumU",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1,
+        5,
+        54
+      ]
+    },
+    "Kael": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        13,
+        15,
+        27,
+        29,
+        31,
+        33,
+        43,
+        44,
+        46
+      ]
+    },
+    "AEGIS": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        13,
+        15,
+        17,
+        33,
+        43,
+        46
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        43
+      ]
+    },
+    "KW1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        43
+      ]
+    },
+    "KW2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        43
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Lex": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        13,
+        31,
+        43,
+        45,
+        46
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        43,
+        45
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Nyx": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        31,
+        45
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        45
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Moros (Kollaps-EP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kollaps-EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        45
+      ]
+    },
+    "Juna/V": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        33,
+        44,
+        46
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Gnostic Injections": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Paradoxon X": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        43
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        44
+      ]
+    },
+    "Sea of Potentiality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        44
+      ]
+    },
+    "Protocol Ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Overhead": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "living Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Unified Protagonist Architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Fight-EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Rational-ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "ANP-EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Guardian": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "TSDP": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        5,
+        13,
+        27,
+        31,
+        45
+      ]
+    },
+    "Tertiary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "operational closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Gödel's Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Foucauldian": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        46
+      ]
+    }
+  }
+}

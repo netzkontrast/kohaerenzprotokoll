@@ -1361,3 +1361,6 @@
 {"document": "protokoll-ontologie-roman-konzeptentwicklung", "page": "cache-kohaerenz", "surface": "Cache-Kohärenz", "line": 97, "decision": "reading", "why": "the technical analogue of the Overhead, read on the page", "at": "2026-10-12"}
 {"document": "protokoll-ontologie-roman-konzeptentwicklung", "page": "entropie", "surface": "Entropie", "line": 47, "decision": "occurrence", "why": "entropy in the borrowed physical sense of the kernels", "at": "2026-10-12"}
 {"document": "protokoll-ontologie-roman-konzeptentwicklung", "page": "kael", "surface": "Kael", "line": 156, "decision": "reading", "why": "System Kael as a case study, read on the page", "at": "2026-10-12"}
+{"document": "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll", "page": "alters", "surface": "Alters", "line": 45, "decision": "occurrence", "why": "the plural in a recommendation, not the page's sense", "at": "2026-10-12"}
+{"document": "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll", "page": "juna", "surface": "Juna", "line": 33, "decision": "reading", "why": "Juna/V as the catalyst, read on the page", "at": "2026-10-12"}
+{"document": "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 1, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
