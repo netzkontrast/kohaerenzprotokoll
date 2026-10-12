@@ -378,3 +378,11 @@ Stands as a position that holds the external level as a counterweight to AEGIS's
 The blueprint lists „Die mysteriöse Externe Ebene“ ^[blueprint.md:L46] as one of six levels; it embodies „das Unbekannte und die Verbindung verkörpert“ ^[blueprint.md:L46] and serves „als Kontrast zu“ ^[blueprint.md:L46] AEGIS's domain of control. Juna/V is „Diese externe Entität oder Anomalie“ ^[blueprint.md:L40] outside AEGIS's direct control. The Fundament is postulated as the deepest level „Postuliert als die tiefste Realitätsebene“ ^[blueprint.md:L41] behind AEGIS's simulation. Nowhere does it say that the Externe Ebene lies beyond or inside the simulation; its nature is an open next step: „die Konkretisierung der Natur von“ ^[blueprint.md:L94] Juna/V and the Externe Ebene.
 
 Stands as a contrast to AEGIS's domain with the placement unstated; neither side of the record's question is taken, recorded and not decided.
+
+## 2026-10-12 — `kohaerenz-protokoll-kapitel-39-das-mosaik-herz`, 2026-02-25, the Kapitel-39 draft
+
+**In the Kapitel-39 draft the external level lies beyond the simulation's border, yet obeys the Konstrukt's laws; it stands on neither side as a claim.**
+
+Juna stands at the border: „dort, wo die Simulation endete und das absolute Nichts begann“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L25]. Seen through glass: „in einem Raum mit weißen Wänden, dem Geruch von Desinfektionsmittel und dem rhythmischen Piepen eines Herzmonitors“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L27]. The draft's own report is headed „Externe Ebene: Statusbericht PMAS“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L39], and Kael wakes in a room of this world: „denselben Gesetzen gehorchte wie das Konstrukt“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L65].
+
+One more position in the record, a draft's; recorded, not applied and not decided.
