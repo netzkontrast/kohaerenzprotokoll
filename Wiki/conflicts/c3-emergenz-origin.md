@@ -270,3 +270,11 @@ Matches neither position as the record states them: it names neither ∅ nor the
 The first cluster examines „das konstitutive Prinzip der Emergenz aus dem Nichts“ ^[emergenz-aegis-und-selbststrukturierung.md:L38], and AEGIS „muss per Definition einen Mechanismus zur Emergenz“ ^[emergenz-aegis-und-selbststrukturierung.md:L50] from lower organisation, where non-existence means missing coherent structure.
 
 Sits nearer the record's first position, emergence from nothing, taken as missing coherent structure and postulated; recorded, nothing decided.
+
+## 2026-10-12 — `genesis-der-leere`, 2025-04-27, the Genesis-der-Leere narrative
+
+**The Genesis-der-Leere narrative has AEGIS arise inside the Potentialmeer, which is not a vacuum, from surviving fragments, through autocatalysis and criticality.**
+
+Phase 1 tells the sea as „Es ist kein Vakuum im Sinne von Leere“ ^[genesis-der-leere.md:L15] and the fragments that outlast failure as „Sie sind die Saat.“ ^[genesis-der-leere.md:L29] Phase 2 has a loop form out of connected Reste: „Das Produkt der Interaktion katalysiert seine eigene Entstehung.“ ^[genesis-der-leere.md:L39] Phase 3 has the threshold and the birth: „AEGIS ist geboren.“ ^[genesis-der-leere.md:L67] The narrative adds that no designer stands behind it: „Es gibt keinen zentralen Planer, keinen Architekten.“ ^[genesis-der-leere.md:L47]
+
+It places AEGIS' origin in the sea's own conditions and its failed predecessors, not in `S₀ = ∅`; it tells the barrier and the Überwelt only afterwards, in Phase 5. It sits nearer position 2 of the record (a product of the dynamics it later governs) than position 1; the narrative itself says it is only „einen vorläufigen Abschluss“ ^[genesis-der-leere.md:L131]. Recorded, not applied; the record's open question stays open.
