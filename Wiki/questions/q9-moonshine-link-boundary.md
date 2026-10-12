@@ -675,3 +675,11 @@ Stands: the question is open in the architecture validation's own terms; it neit
 It says the link „umgeht die Überwachungsprotokolle von AEGIS“ ^[kohaerenz-protokoll-synthese-integration.md:L198]; „AEGIS kann diese Verbindung nicht sehen oder blockieren“ ^[kohaerenz-protokoll-synthese-integration.md:L200], because it monitors only causal, local data streams, and „Der Link ist acausal und resonanzbasiert“ ^[kohaerenz-protokoll-synthese-integration.md:L200]. It adds: „Er ist der empirische Beweis für eine Realität außerhalb von AEGIS“ ^[kohaerenz-protokoll-synthese-integration.md:L200] control.
 
 Bears on where the link stands relative to AEGIS's monitoring; a synthesis reporting its sources, recorded, not decided.
+
+## 2026-10-12 — `kohaerenz-protokoll-synthese`, 2026-04-28, the final validation brief
+
+**The final validation brief calls the Moonshine-Link a structural mechanism, not a mere metaphor, and lists its boundary as open.**
+
+It writes that „Juna’s Moonshine-Link to Kael is therefore not a mere literary metaphor for quantum entanglement“ ^[kohaerenz-protokoll-synthese.md:L145], and that Juna accesses information through an orbifold construction: „The character Juna operates through an orbifold construction to access erased data“ ^[kohaerenz-protokoll-synthese.md:L31]. On the boundary it says: „Future revisions must address whether the link is exclusive to the Kael-Juna pair by inherent nature or by active, narrative choice“ ^[kohaerenz-protokoll-synthese.md:L109].
+
+Stands as an open question in the brief itself: whether the link reaches beyond Kael and Juna is left to later revision, recorded, not applied.
