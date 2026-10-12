@@ -1,0 +1,76 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations: English prose with German names in quotation marks (Risse, Kernwelten, Genesis-Krise, Ursprungs-Ich, Bruchpunkt). The document is a thematic lexicon of five "axes"; K₁ and K₀ are written with subscript digits. The table in 3.2 gives the alters in bold with escaped asterisks.
+
+- Kohärenz Protokoll
+- Dual-Kernel Theory
+- DKT
+- K₁
+- K₀
+- Coherence-Kernel
+- Collapse-Kernel
+- Protocol Ontology
+- Energetics of Persistence
+- Coherons
+- Coheron
+- Overhead
+- Corrective Wavelets
+- Corrective Wavelet
+- AEGIS
+- System Kael
+- Kael
+- Isolation Objection
+- Problem of Comparison
+- Risse
+- Kernwelten
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- Self
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Juna/V
+- Functional Multiplicity
+- Ursprungs-Ich
+- Genesis-Krise
+- Component 734
+- algorithmic dismemberment
+- operationally closed system
+- Moonshine-Link
+- The Foundation
+- Bruchpunkt
+- semantisches Gleiten
+- MacGuffin
+- Plot Armor
+- living Gödel-Satz
+- gnosis
+- algorithmic melancholy
+
+## lens
+
+- Coherence Theory of Truth
+- Correspondence Theory of Truth
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- Internal Family Systems
+- IFS
+- quantum decoherence
+- Ship of Theseus
+- prehension
+- strange attractor
+- binary oppositions
+- Skinner boxes
+- gaslighting
+- Gödel's Incompleteness Theorems
+- Hamartia
+- Manager
+- Exiles

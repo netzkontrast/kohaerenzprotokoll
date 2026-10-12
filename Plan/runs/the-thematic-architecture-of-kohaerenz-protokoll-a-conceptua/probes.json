@@ -1,0 +1,182 @@
+{
+  "document": "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+  "drive_id": "1OB1lLanHP3sJybB2bLA7UFLjUPgxr3xACVEOKpG5P24",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 76,
+  "typographic_marks": 15,
+  "ascii_quotes": 104,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coherent",
+      "Coheron",
+      "Coherons"
+    ],
+    "prote": [
+      "Protect",
+      "Protection",
+      "Protector",
+      "Protects"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "ambiv": [
+      "Ambivalence",
+      "Ambivalent"
+    ],
+    "careg": [
+      "Caregiver",
+      "Caregiving"
+    ],
+    "compa": [
+      "Comparative",
+      "Comparison"
+    ],
+    "confl": [
+      "Conflict",
+      "Conflicts"
+    ],
+    "contr": [
+      "Contract",
+      "Control"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "criti": [
+      "Criticism",
+      "Criticizes"
+    ],
+    "duali": [
+      "Dualities",
+      "Duality"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator"
+    ],
+    "inter": [
+      "Interaction",
+      "Internal"
+    ],
+    "sexua": [
+      "Sexualization",
+      "Sexualized"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "theor": [
+      "Theorems",
+      "Theory"
+    ],
+    "wavel": [
+      "Wavelet",
+      "Wavelets"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Dual",
+      "Dualities"
+    ],
+    [
+      "Fear",
+      "Fears"
+    ],
+    [
+      "Hero",
+      "Coheron"
+    ],
+    [
+      "Hero",
+      "Coherons"
+    ],
+    [
+      "Seek",
+      "Seeks"
+    ],
+    [
+      "Ship",
+      "Relationships"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Action",
+      "Interaction"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Coheron",
+      "Coherons"
+    ],
+    [
+      "Protect",
+      "Protects"
+    ],
+    [
+      "Protect",
+      "Protector"
+    ],
+    [
+      "Protect",
+      "Protection"
+    ],
+    [
+      "Wavelet",
+      "Wavelets"
+    ],
+    [
+      "Conflict",
+      "Conflicts"
+    ],
+    [
+      "Physical",
+      "Metaphysical"
+    ]
+  ]
+}
