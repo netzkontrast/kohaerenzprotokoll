@@ -1,0 +1,44 @@
+# counts for 36 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Genesis der Leere                 2 word     2 in   [11, 135]
+  Potentialmeer                     8 word    11 in   [15, 33, 53, 71, 81, 93]
+                                    3      as Potentialmeers
+  Quantenschaum                     1 word     1 in   [15]
+  Nullpunktsenergie                 2 word     2 in   [15, 29]
+  Visuelles Rauschen                1 word     1 in   [15]
+  Reste                            11 word    13 in   [13, 21, 29, 33, 37, 39]
+                                    2      as Resten
+  ontologische Reibung              1 word     1 in   [53]
+  Flüchtige Attraktoren             1 word     1 in   [19]
+  Kolmogorov-Komplexität            1 word     1 in   [19]
+  Chora                             1 word     1 in   [27]
+  Śūnyatā                           1 word     1 in   [27]
+  Ginnungagap                       1 word     1 in   [27]
+  Autokatalyse                      3 word     3 in   [31, 39, 51]
+  autokatalytische Schleife         1 word     2 in   [41, 43]
+  autokatalytische Schleifen        1 word     1 in   [43]
+  Proto-Strukturen                  2 word     2 in   [45, 53]
+  Kritikalität                      2 word     2 in   [57, 59]
+  Autopoiesis                      10 word    10 in   [57, 65, 75, 77, 81, 91]
+  AEGIS                            34 word    34 in   [55, 67, 71, 73, 75, 77]
+  negative Selbstdefinition         2 word     2 in   [71, 113]
+  operationale Geschlossenheit      1 word     1 in   [75]
+  strukturelle Kopplung             2 word     2 in   [73, 93]
+  Entropieexport                    2 word     4 in   [73, 85, 95, 115]
+                                    2      as Entropieexports
+  emergente Kerndirektive           1 word     1 in   [97]
+  dissipative Struktur              1 word     1 in   [87]
+  Sonden                            2 word     2 in   [105]
+  Informationsbarriere              1 word     1 in   [115]
+  Überwelt                          8 word     8 in   [109, 111, 121, 123, 125, 127]
+  Entität M                         1 word     1 in   [133]
+  Kernwelten                        1 word     1 in   [133]
+  mythischen Chaoskampf             1 word     1 in   [119]
+  Chaos & Reste                     1 word     1 in   [13]
+  Assemblierung & Autokatalyse      1 word     1 in   [31]
+  Kritikalität & Autopoiesis        1 word     1 in   [57]
+  Stabilisierung & Grenzbildung     1 word     1 in   [89]
+  Erschaffung der Überwelt          1 word     1 in   [111]

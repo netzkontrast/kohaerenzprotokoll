@@ -1,0 +1,147 @@
+{
+  "document": "genesis-der-leere",
+  "drive_id": "1Y_nOy2WWfTigRrrT_iMJ6V30NbKbcoCFi1ekUzc9H34",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one record entry (C3) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-315/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 36,
+    "decisions": 33,
+    "decided_by_lookup": 24,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A prose narrative of AEGIS's genesis in five phases: its new surfaces are its phase names, the Reste, its process terms and borrowed names; what it narrates of the Potentialmeer, AEGIS, the Überwelt, the Kernwelten, entropy and Genesis went on existing pages and on conflict C3.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        55,
+        65,
+        67,
+        69,
+        71,
+        73,
+        79,
+        87,
+        91,
+        97,
+        129,
+        131
+      ],
+      "attribution": "",
+      "note": "AEGIS told as an origin in five phases, from the Reste to the Überwelt"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        25,
+        81,
+        95
+      ],
+      "attribution": "",
+      "note": "entropy as the sea's state and as what AEGIS exports"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        11,
+        131,
+        135
+      ],
+      "attribution": "",
+      "note": "„Genesis der Leere“ ^[genesis-der-leere.md:L11] as the title of AEGIS' origin"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        133
+      ],
+      "attribution": "",
+      "note": "the Kernwelten named once, as the outcome of a later anomaly"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        15,
+        21,
+        23,
+        25,
+        27,
+        29,
+        53,
+        81,
+        127
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as a full, indifferent sea that resists form, and the Reste as its seed"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        109,
+        115,
+        121,
+        127,
+        133
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS' own space behind a semipermeable barrier"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C3"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Reste` and `Chaos & Reste`, `Autokatalyse` and `Assemblierung & Autokatalyse`, `autokatalytische Schleife`/`Schleifen`, `Kritikalität`, `Autopoiesis` and `Kritikalität & Autopoiesis` the narrative's phases and process terms, not promoted; `Überwelt` and `Erschaffung der Überwelt` on ueberwelt; `Genesis der Leere` the title, read on genesis; `Entropieexport` read with the entropy reading",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "decision": "reading",
+      "why": "the sea's entropy, read if it adds"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "reading",
+      "why": "the title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "an early network far from coherence"
+    }
+  ],
+  "not_promoted": [
+    "the Reste and the five phases",
+    "Proto-Strukturen, Autokatalyse, the autocatalytic loop",
+    "the emergente Kerndirektive, the Sonden, the Informationsbarriere",
+    "Entität M",
+    "the borrowed names (Śūnyatā, Chora, Ginnungagap, autopoiesis, dissipative structure)"
+  ],
+  "internal_tension": "it names a later anomaly, Entität M, and the Kernwelten once without explaining either (L133); it calls the sea both Potentialmeer and Meer; it ends on a provisional close (L131)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
