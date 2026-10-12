@@ -1,0 +1,14 @@
+# systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho
+  lines                88  (frontmatter ends at 9)
+  body words           2154
+  headings             13   bold-only lines 1
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    52
+  typographic marks    17   ascii quotes 54
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    6
+  repeated labels      none
+  longest line         967 chars
+
