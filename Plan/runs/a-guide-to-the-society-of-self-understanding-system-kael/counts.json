@@ -1,0 +1,375 @@
+{
+  "document": "a-guide-to-the-society-of-self-understanding-system-kael",
+  "drive_id": "1IJguVJnr7N06nJickV4I3cHZdLxYZZ-a-K5vBUxIjPw",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Dr. Thorne"
+  ],
+  "counts": {
+    "System Kael": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        15,
+        31,
+        139
+      ]
+    },
+    "Kael": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        11,
+        15,
+        17,
+        23,
+        31,
+        35,
+        37,
+        39,
+        113,
+        127,
+        139,
+        141
+      ]
+    },
+    "Host": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        39,
+        139
+      ]
+    },
+    "Lex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        45,
+        47,
+        51
+      ]
+    },
+    "Alex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        53,
+        55,
+        59
+      ]
+    },
+    "Rhys": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        63,
+        89,
+        113
+      ]
+    },
+    "Nyx": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        59,
+        75,
+        77,
+        89,
+        113
+      ]
+    },
+    "Kiko": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        67,
+        81,
+        83,
+        85
+      ]
+    },
+    "Lia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        81,
+        91,
+        93
+      ]
+    },
+    "Isabelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        101
+      ]
+    },
+    "Moros": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        107,
+        109,
+        139
+      ]
+    },
+    "Argus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        121,
+        123,
+        127
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129,
+        131
+      ]
+    },
+    "AEGIS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        39,
+        105,
+        113,
+        123
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Guardian": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "alters": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        35,
+        63,
+        65,
+        73,
+        81,
+        119,
+        135,
+        141
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Apparently Normal Part": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        35
+      ]
+    },
+    "ANP": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        28,
+        33,
+        69,
+        81,
+        131
+      ]
+    },
+    "ANPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        69,
+        81,
+        131
+      ]
+    },
+    "Emotional Part": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        73
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        42,
+        50,
+        71,
+        131
+      ]
+    },
+    "EPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        42,
+        50,
+        71,
+        131
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Internal Self Helper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "ISH": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Rhizomatic Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "The Coherence Check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "The Child in the Maze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        89
+      ]
+    },
+    "The Armor of Seduction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Gaslighting Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "The First Internal Council": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "Daily Life Managers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Trauma Holders": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "System Guides": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "ambivalent attachment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Society of Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Chapter 24": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    }
+  }
+}

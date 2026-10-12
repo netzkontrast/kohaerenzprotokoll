@@ -1,0 +1,49 @@
+# counts for 42 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Dr. Thorne
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  System Kael                       4 word     4 in   [11, 15, 31, 139]
+  Kael                             14 word    14 in   [11, 15, 17, 23, 31, 35]
+  Host                              4 word     4 in   [37, 39, 139]
+  Lex                               4 word     4 in   [45, 47, 51]
+  Alex                              4 word     4 in   [53, 55, 59]
+  Rhys                              4 word     4 in   [61, 63, 89, 113]
+  Nyx                               6 word     6 in   [59, 75, 77, 89, 113]
+  Kiko                              5 word     5 in   [67, 81, 83, 85]
+  Lia                               3 word     3 in   [81, 91, 93]
+  Isabelle                          2 word     2 in   [99, 101]
+  Moros                             3 word     3 in   [107, 109, 139]
+  Argus                             3 word     3 in   [121, 123, 127]
+  Selene                            2 word     2 in   [129, 131]
+  AEGIS                             4 word     4 in   [39, 105, 113, 123]
+  Juna/V                            1 word     1 in   [97]
+  Guardian                          1 word     1 in   [51]
+                                    1      as guardians
+  alters                            9 word     9 in   [15, 35, 63, 65, 73, 81]
+  functional multiplicity           1 word     1 in   [17]
+  Apparently Normal Part            1 word     2 in   [28, 35]
+  ANP                               1 word     5 in   [28, 33, 69, 81, 131]  <-- substring
+  ANPs                              4 word     4 in   [33, 69, 81, 131]
+  Emotional Part                    1 word     2 in   [29, 73]
+  EP                                1 word     5 in   [29, 42, 50, 71, 131]  <-- substring
+  EPs                               4 word     4 in   [42, 50, 71, 131]
+  Apparently Normal Parts           1 word     1 in   [35]
+  Emotional Parts                   1 word     1 in   [73]
+  Internal Self Helper              1 word     1 in   [131]
+  ISH                               1 word     1 in   [131]
+  Rhizomatic Self                   1 word     1 in   [141]
+  The Coherence Check               1 word     1 in   [51]
+  The Child in the Maze             2 word     2 in   [67, 89]
+  The Armor of Seduction            1 word     1 in   [105]
+  Gaslighting Protocol              1 word     1 in   [127]
+  The First Internal Council        1 word     1 in   [135]
+  Daily Life Managers               1 word     1 in   [33]
+  Trauma Holders                    1 word     1 in   [71]
+  System Guides                     1 word     1 in   [117]
+  ambivalent attachment             1 word     1 in   [93]
+  Society of Self                   1 word     1 in   [11]
+  Chapter 24                        1 word     1 in   [113]
+  Theory of Structural Dissociation of the Personality    1 word     1 in   [23]
+  TSDP                              1 word     1 in   [23]
