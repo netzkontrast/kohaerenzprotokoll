@@ -1358,3 +1358,11 @@ Stands: an analysis applying outside models, with two of four rows its own assum
 Synopsis 4 has „Die Kernwelten (Logik, Emotion/Paralogik, Angst/Sicherheit, Potential) stellen AEGIS“ ^[kohaerenz-protokoll-plot-konzept-generierung.md:L129] attempt to study facets of M in isolation; Synopsis 1 proposes „wobei jede Kernwelt potenziell von einem korrespondierenden Alter dominiert wird“ ^[kohaerenz-protokoll-plot-konzept-generierung.md:L50]. It gives examples such as a logic manager in KW1 and an emotion exile in KW2, and no count of alters.
 
 Stands: four worlds as the document lists them in one synopsis, a world-to-alter correspondence proposed as possible; nothing decided.
+
+## 2026-10-12 — `kohaerenz-protokoll-plot-synthese`, 2025-04-25, the 39-beat plot synthesis
+
+**The 39-beat plot synthesis plans four Kernwelten and gives each Alter a facet of M, and states no correspondence of worlds and alters.**
+
+In Beat 4 (Akt 1) it plans that „Die vier Kernwelten werden aktiviert“ ^[kohaerenz-protokoll-plot-synthese.md:L75]. It writes of the Kernwelten that „Sie korrelieren mit Kaels inneren Zuständen und seinen Alters“ ^[kohaerenz-protokoll-plot-synthese.md:L42], and of the Alters that „Jeder Alter verkörpert eine spezifische Facette“ ^[kohaerenz-protokoll-plot-synthese.md:L310] of M's Internal Structure. It gives no number of Alters and no pairing of a world with an Alter; its concept for Beat 4 is „Verbindung Kael-Alters-Kernwelten“ ^[kohaerenz-protokoll-plot-synthese.md:L77].
+
+Stands: four Kernwelten are written; the number of Alters and the correspondence of worlds and alters are not stated, and the document settles neither.
