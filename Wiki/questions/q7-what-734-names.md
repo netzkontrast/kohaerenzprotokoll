@@ -442,3 +442,19 @@ Where it stands in the record's own terms: it supports the designation sense of 
 The narrator states: „My identity is now Component 734.“ ^[genesis-aegis.md:L71] The function: „My function is clear: to detect anomalies at the boundary, to analyze the signatures of unknown fluctuations, and to filter or neutralize any destabilizing influence from the K₀-domain.“ ^[genesis-aegis.md:L71]
 
 Where it stands in the record's own terms: it supports the designation sense of 734 (the component); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
+
+## 2026-10-12 — `the-architecture-of-a-misguided-god-a-biography-of-aegis`, 2025-11-03, the AEGIS biography
+
+**The AEGIS biography uses `Komponente 734` as AEGIS's designation for Kael; it names no dwelling.**
+
+The biography states: „AEGIS classifies Kael as“ ^[the-architecture-of-a-misguided-god-a-biography-of-aegis.md:L53] `Komponente 734`, and it „perceives his fragmented psyche not as a human condition but as a dangerous source of entropy“ ^[the-architecture-of-a-misguided-god-a-biography-of-aegis.md:L53]
+
+Where it stands in the record's own terms: it supports the designation sense of 734 (the component); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
+
+## 2026-10-12 — `the-architecture-of-being-a-philosophical-thesis-on-the-core`, 2025-11-03, the Architecture-of-Being paper
+
+**The Architecture-of-Being paper uses Component 734 for the sacrificed subjective I of AEGIS, an objective part of a machine; it names no dwelling.**
+
+The paper writes that the subjective I was sacrificed and became „Component 734“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L64], „an objective part of a machine defined by negation“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L64]
+
+Where it stands in the record's own terms: it supports the designation sense of 734 (the component); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
