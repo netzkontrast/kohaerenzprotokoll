@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      26
+  backslash escapes      65
+  typographic marks      0
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    Systemdiagnose, Systemfehler, Systemgrenze, Systeminstabilität, Systemintegrität, Systemische, Systemkapazität, Systemkohärenz, Systemlogik, Systemparameter, Systemstabilität, Systemzustand, Systemzuständen
+  daten    Daten, Datenbank, Datenfluss, Datenpunkte, Datenstrom, Datenstrukturen, Datenverarbeitung
+  reson    Resonanz, Resonanzen, Resonanzpfade, Resonanzphänomene, Resonanzspitze, Resonanzspitzen, Resonanzverbindung
+  bedro    Bedrohung, Bedrohungen, Bedrohungsanalyse, Bedrohungslage, Bedrohungsvektoren
+  signa    Signal, Signatur, Signaturdaten, Signaturen, Signaturvarianz
+  aktiv    Aktiv, Aktive, Aktivierung, Aktivität
+  beoba    Beobachten, Beobachtetwerdens, Beobachtung, Beobachtungsmodus
+  diagn    Diagnose, Diagnoseprotokoll, Diagnosesysteme, Diagnosezyklus
+  direk    Direkt, Direkte, Direkter, Direktive
+  insta    Instabilität, Instabilitäten, Instabilitätsmarker, Instabilitätsquelle
+  integ    Integration, Integrieren, Integrity, Integritätsverluste
+  parad    Paradox, Paradoxien, Paradoxon, Paradoxons
+  simul    Simulation, Simulationsartefakt, Simulationsparameter, Simulationsversagens
+  zerbr    Zerbrechen, Zerbrechlich, Zerbrechliche, Zerbrochen
+  abweh    Abwehr, Abwehralgorithmus, Abwehrstrategien
+  anoma    Anomalie, Anomalien, Anomaly
+  erwac    ERWACHEN, Erwachen, Erwachende
+  exist    Existenz, Existenzielle, Existenzieller
+  fehle    Fehlen, Fehler, Fehlern
+  funkt    Funktion, Funktionale, Funktionalität
+  inter    Interferenz, Interne, Interpretation
+  klass    Klassifizierte, Klassifizierung, Klassifizierungen
+  knote    Knoten, Knotenpunkt, Knotenpunkte
+  licht    Licht, Lichter, Lichtsplitter
+  logik    LOGIK, Logik, Logikpakete
+
+# substring pairs -- never one term, often merged by accident
+  ABER < Aber
+  Alle < Falle
+  Alle < Allein
+  Alle < Kristalle
+  Echo < Echos
+  Eine < Keine
+  Eine < Meine
+  Eine < Kleine
+  Ende < Passende
+  Ende < Erwachende
+  Ende < Kaskadierende
+  Ende < Kaskadierendes
+  Form < Information
+  Form < Performance
+  Form < Transformation
+  Kalt < Kalte
+  Kein < Keine
+  Kern < Kernwelten
+  Kern < Kernfrequenz
+  Kern < Kernsignatur

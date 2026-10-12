@@ -1,0 +1,50 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+---
+
+The document is narrative prose in scenes (Szene 1 to 13, three Teile) with first-person passages, AEGIS system reports and a mood line under each scene heading. Technical designations inside square brackets are system output in AEGIS's voice. The name Kael stands only in the last scene.
+
+- AEGIS
+- Rauschen
+- Komponente 734
+- Kael
+- Überwelt
+- Überwelt-Subsystem
+- Direktive 0
+- Omega-Event
+- Notfallprotokoll Omega-Rho
+- Anomaly-Alpha
+- Protokoll Gamma-Exekution
+- Protokoll Sigma-Stasis
+- Cluster Gamma-Kern
+- Echo
+- Scherben
+- Narbe
+- Resonanz
+- Signatur
+- Kernwelten
+- Kernprotokoll
+- Systemkohärenz
+- Systemintegrität
+- Strukturelle Anomalien
+- Tolerierter Strukturfehler
+- 734-Sigma-Echo
+- Simulation Epsilon-7
+- Simulation Epsilon-Prime
+- Simulation Omega-Prime
+- Gamma-Phi
+- Sektor Delta-9
+- Diagnosezyklus Delta-Gamma
+- Netzwerk-Segment Gamma
+- Quanten-Interferenz-Disruptoren
+- Alarmstufe Rot
+- Subjektive Residuen
+- Latente Datenpunkte
+- Mahlstrom
+- entropische Flut
+- Abwehr des Nicht-Seins
+- Geist in der Maschine
+- Wir
+- Kern
+- Inseln
+- Welle
