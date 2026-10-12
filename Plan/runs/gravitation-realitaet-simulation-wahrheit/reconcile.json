@@ -1,0 +1,69 @@
+{
+  "document": "gravitation-realitaet-simulation-wahrheit",
+  "drive_id": "1E39HhfOsGPt6rDq30kyhQLhjMye2qs5YsfQzOeMTwDI",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass: one reading (aegis) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-384/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 39,
+    "decisions": 36,
+    "decided_by_lookup": 31,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German report arguing a gravitational theory of truth through its own staged scenario: its new surfaces are the scenario's names and borrowed concepts; only its use of AEGIS as the scenario's steering AI went on a page (light pass).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        107,
+        167,
+        219
+      ],
+      "attribution": "",
+      "note": "AEGIS as the steering AI of the report's own staged scenario"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`masselose Kohärenz` and `Kohärenztheorie` the report's philosophy of truth; the institute and protocol names the scenario's own inflected forms",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 18,
+      "decision": "occurrence",
+      "why": "coherence in the report's philosophy of truth"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "the simulation hypothesis, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Gravitations-Theorie der Wahrheit, Graviton-Anker, Schwarzschild-Protokoll, Aletheia-Institut and the scenario's phases",
+    "the borrowed concepts (theories of truth, the slingshot argument, thrownness, ocularcentrism)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

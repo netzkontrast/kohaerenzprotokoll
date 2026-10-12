@@ -1,0 +1,50 @@
+# counts for 40 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Gravitations-Theorie der Wahrheit    1 word     1 in   [24]
+  Ontologische Spaghettifizierung    1 word     1 in   [26]
+  Graviton-Anker                    3 word     5 in   [26, 40, 95, 119, 189]
+                                    2      as Graviton-Ankers
+  Graviton-Ankers                   2 word     2 in   [26, 95]
+  Oculus-G                          3 word     3 in   [40, 74, 103]
+  Schwarzschild-Protokoll           1 word     3 in   [24, 117, 211]  <-- substring
+                                    2      as Schwarzschild-Protokolls
+  Schwarzschild-Protokolls          2 word     2 in   [24, 211]
+  Aletheia-Institut                 1 word     2 in   [24, 89]
+                                    1      as Aletheia-Instituts
+  Aletheia-Instituts                1 word     1 in   [24]
+  Aletheia-Experiment               2 word     2 in   [40, 251]
+  The Void Room                     1 word     1 in   [89]
+  Void Rooms                        1 word     1 in   [103]
+  Orbitaler Drift                   1 word     1 in   [93]
+  Zero-G                            1 word     1 in   [93]
+  AEGIS                             5 word     5 in   [107, 129, 167, 219, 267]
+                                    1      as aegis-computing-enters-21st-century
+  Basis-Realität                    5 word     5 in   [55, 58, 199, 254, 272]
+  operative Geschlossenheit         2 word     2 in   [40, 109]
+  operativen Geschlossenheit        1 word     1 in   [269]
+  vestibuläre Mismatch              1 word     1 in   [127]
+  Ontologische Trägheit             1 word     1 in   [185]
+  ontologische Trägheit             1 word     1 in   [24]
+  ontologische Aggression           1 word     1 in   [201]
+  Großes Faktum                     1 word     1 in   [227]
+  Große Faktum                      3 word     3 in   [30, 36]
+  Big Fact                          2 word     2 in   [34, 223]
+  Z-Fighting                        4 word     4 in   [70, 145, 147, 270]
+  Floating Point Errors             1 word     1 in   [70]
+  Far Lands                         4 word     4 in   [79, 153, 155, 308]
+  Glitch                            8 word     8 in   [64, 70, 78, 137, 199, 255]
+  G-LOC                             3 word     3 in   [165, 271, 272]
+  Kernel Panic                      1 word     1 in   [272]
+  Cold Russian Soldier              1 word     1 in   [131]
+  ontologischer Schwindel           1 word     1 in   [181]
+  masselose Kohärenz                1 word     1 in   [199]
+  Konstatierung                     2 word     3 in   [38, 40, 272]
+                                    1      as Konstatierungen
+  Kohärenztheorie                   4 word     4 in   [22, 38, 75, 109]
+  Korrespondenztheorie              3 word     3 in   [34, 75]
+  Slingshot-Argument                1 word     1 in   [34]
+  Geworfenheit                      2 word     2 in   [235]
+  Ocularcentrism                    1 word     1 in   [243]
