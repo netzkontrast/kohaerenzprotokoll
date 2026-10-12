@@ -1203,3 +1203,6 @@
 {"document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "page": "negentropie", "surface": "Negentropie", "line": 64, "decision": "occurrence", "why": "a list item of a scan", "at": "2026-10-12"}
 {"document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 89, "decision": "occurrence", "why": "the simulation argument as a lens", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-analyse-und-verstaendnis", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "a heading on the computer-architecture term", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-konzept-generierung", "page": "entropie", "surface": "Entropie", "line": 17, "decision": "reading", "why": "the Potentialmeer of high entropy", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-konzept-generierung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-konzept-generierung", "page": "ueberwelt", "surface": "Simulation", "line": 52, "decision": "occurrence", "why": "AEGIS's simulation of the worlds, read on kern-welten", "at": "2026-10-12"}

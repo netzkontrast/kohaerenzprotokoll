@@ -1,0 +1,191 @@
+{
+  "document": "kohaerenz-protokoll-plot-konzept-generierung",
+  "drive_id": "10okAA7VzLtf4oLE5TqM6EyKOGzUPg9f2QN-i2jLyFnA",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list, the candidate Monstrous Moonshine respelled by the session after counting (05-verify.txt); rlm_ingest not run; readings and one record entry (Q3) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-306/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 65,
+    "decisions": 72,
+    "decided_by_lookup": 51,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Five plot variants on a concept frame: its new surfaces are the Monstergruppe and the Baby-Monster-Gruppen, the synopses and their labels, and borrowed lens; what it says of AEGIS, Kael, Juna, the alters, the Kernwelten, the Potentialmeer, the link, emergence, DID, entropy and the Risse went on existing pages, and its world–alter correspondence on Q3.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        29,
+        73,
+        79,
+        92,
+        109,
+        139
+      ],
+      "attribution": "",
+      "note": "AEGIS as a fragile, negation-defined AI, cast differently in each synopsis"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        36,
+        44,
+        50,
+        131
+      ],
+      "attribution": "",
+      "note": "the alters read through IFS vocabulary, tied hypothetically to the Kernwelten"
+    },
+    {
+      "page": "did",
+      "lines": [
+        42,
+        46
+      ],
+      "attribution": "",
+      "note": "DID as AEGIS's analytic tool"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        17,
+        52,
+        73
+      ],
+      "attribution": "",
+      "note": "the K-J link as emergence from AEGIS's own substrate"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        17,
+        28
+      ],
+      "attribution": "",
+      "note": "entropy as a property of the Potentialmeer"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        17,
+        31,
+        51,
+        92,
+        174
+      ],
+      "attribution": "",
+      "note": "Juna as the complementary pole of a Baby-Monster pair"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        42,
+        46,
+        62,
+        174
+      ],
+      "attribution": "",
+      "note": "Kael as a fragmented manifestation of M, with DID as AEGIS's tool"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        17,
+        33,
+        50,
+        129,
+        137
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as simulation labs, and as sites of bleeding"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        32,
+        52,
+        81,
+        102,
+        137
+      ],
+      "attribution": "",
+      "note": "the K-J link as emergent Moonshine"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        17,
+        28,
+        92,
+        148
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as background threat"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "Risse as system errors from AEGIS's self-contradiction"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Monstergruppe`, `Monstergruppe (M)` and the `Baby-Monster-Gruppen` the plan's mathematical frame, not promoted, Kael and Juna in it read on kael and juna; `K-J Verbindung (Emergenter Moonshine)`, `K-J Verbindung`, `Emergenter Moonshine`, `Moonshine` and `Moonshine-Echo` read on moonshine-link where the line is about the link; `Monstrous Moonshine-Phänomens` the mathematics; `Kernwelten` and `Kernwelten Substrat` on kern-welten; `Kern-Kohärenzprotokollen` a label; `Nexuspunkt` a point in AEGIS's structure, not the Nexus",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "decision": "reading",
+      "why": "the Potentialmeer of high entropy"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 52,
+      "decision": "occurrence",
+      "why": "AEGIS's simulation of the worlds, read on kern-welten"
+    }
+  ],
+  "not_promoted": [
+    "the Monstergruppe M and the Baby-Monster-Gruppen",
+    "the five synopses and their template labels",
+    "Existenz durch Negation, the Kernwelten Substrat, the Fragmentierungsprotokoll",
+    "the Blutungsereignis, Hard Resets, the Pocket-Realität",
+    "the borrowed lens (IFS, DID terms, VOA, CFT, group theory, reductionism, holism)"
+  ],
+  "internal_tension": "by design its variants give AEGIS both roles, protagonist in Synopsis 2 and antagonist elsewhere; it writes Existenz durch Negation two ways; its Framework pointers report a frame not in the document",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,485 @@
+{
+  "document": "kohaerenz-protokoll-plot-konzept-generierung",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 65,
+  "decisions": 72,
+  "same_surface": {
+    "moonshineecho": [
+      "Moonshine-Echo",
+      "Das Moonshine-Echo"
+    ],
+    "weltenbluten": [
+      "Weltenbluten",
+      "Das Weltenbluten"
+    ],
+    "existenzdurchnegation": [
+      "Existenz durch Negation",
+      "Existenz-durch-Negation"
+    ],
+    "parakonsistentelogik": [
+      "Parakonsistente Logik",
+      "parakonsistente Logik"
+    ]
+  },
+  "decided_mechanically": 51,
+  "needs_judgement": 21,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 79
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 257
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 257
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 240
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 184
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 139
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 197
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 71
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 69
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "Weltenbluten"
+      },
+      {
+        "candidate": "Blutungsereignis"
+      },
+      {
+        "candidate": "Existenz durch Negation"
+      },
+      {
+        "candidate": "sub-protokollarisch"
+      },
+      {
+        "candidate": "Parakonsistente Logik"
+      },
+      {
+        "candidate": "Fragmentierungsprotokoll"
+      },
+      {
+        "candidate": "Selbstführung"
+      },
+      {
+        "candidate": "Unburdening"
+      },
+      {
+        "candidate": "Logischer Beschützer"
+      },
+      {
+        "candidate": "Gegenagenten"
+      },
+      {
+        "candidate": "Hard Resets"
+      },
+      {
+        "candidate": "Pocket-Realität"
+      },
+      {
+        "candidate": "Realitätstasche"
+      },
+      {
+        "candidate": "Simplicity"
+      },
+      {
+        "candidate": "Complexity"
+      },
+      {
+        "candidate": "Sporadicity"
+      },
+      {
+        "candidate": "Sporadizität"
+      },
+      {
+        "candidate": "Internal Structure"
+      },
+      {
+        "candidate": "Parias"
+      },
+      {
+        "candidate": "Hauptmoduln"
+      },
+      {
+        "candidate": "Das Integrationsgambit"
+      },
+      {
+        "candidate": "Das Paradox der Kontrolle"
+      },
+      {
+        "candidate": "Transzendenz des Protokolls"
+      },
+      {
+        "candidate": "Systemfehler"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung"
+      },
+      {
+        "candidate": "Parts"
+      },
+      {
+        "candidate": "Manager"
+      },
+      {
+        "candidate": "Firefighter"
+      },
+      {
+        "candidate": "Exiles"
+      },
+      {
+        "candidate": "Self-Leadership"
+      },
+      {
+        "candidate": "VOA"
+      },
+      {
+        "candidate": "CFT"
+      },
+      {
+        "candidate": "Vertex Operator Algebren"
+      },
+      {
+        "candidate": "Conformal Field Theory"
+      },
+      {
+        "candidate": "Reduktionismus"
+      },
+      {
+        "candidate": "Holismus"
+      },
+      {
+        "candidate": "Gruppentheorie"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Monstergruppe (M)  /  Monstergruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Monstergruppe  /  Baby-Monster-Gruppen (Kael/Juna)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Monstergruppe  /  Baby-Monster-Gruppen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Monstergruppe  /  Baby-Monster-Gruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Baby-Monster-Gruppen (Kael/Juna)  /  Baby-Monster-Gruppen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Baby-Monster-Gruppen (Kael/Juna)  /  Baby-Monster-Gruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Baby-Monster-Gruppen (Kael/Juna)  /  Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Baby-Monster-Gruppen (Kael/Juna)  /  Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Baby-Monster-Gruppen  /  Baby-Monster-Gruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K-J Verbindung (Emergenter Moonshine)  /  K-J Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K-J Verbindung (Emergenter Moonshine)  /  Emergenter Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K-J Verbindung (Emergenter Moonshine)  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emergenter Moonshine  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelten Substrat  /  Kernwelten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine-Echo  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Monstrous Moonshine-Phänomens",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Baby-Monster-Gruppen (Kael/Juna)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelten Substrat",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kernwelten",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Moonshine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moonshinelink",
+            "page": "moonshine-link"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern-Kohärenzprotokollen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Nexuspunkt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nexus",
+            "page": "nexus"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 52,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
