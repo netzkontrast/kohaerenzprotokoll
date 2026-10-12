@@ -521,3 +521,11 @@ Stands as one more position on Kael's origin, with the Ursprungs-Ich split betwe
 Its last section opens by saying the narrative leaves questions open. Under „The Paradox of Kael's Origin“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L171] it says Kael is defined as the „primary, sentient fragment“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L171] of AEGIS's „self-mutilation“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L171] in its `Genesis Crisis`, and asks whether he is human at all, implying other, secondary fragments (L171).
 
 Stands on the side of the remainder of AEGIS's own split self, but as an open paradox the briefing itself poses; recorded, not applied.
+
+## 2026-10-12 — `narrative-architecture-dossier-coherence-protocol`, 2026-01-02, the architecture dossier
+
+**The architecture dossier sets System Kael as AEGIS's externalized trauma, and at the midpoint as the living memory of its failure.**
+
+It calls the protagonist „is the living embodiment and externalization of AEGIS's trauma“ ^[narrative-architecture-dossier-coherence-protocol.md:L33], and directs that AEGIS „structured Kael's human mind in the image of its own fragmentation“ ^[narrative-architecture-dossier-coherence-protocol.md:L33]. For the midpoint it directs that „Kael is not a system flaw but the living memory of AEGIS's failure“ ^[narrative-architecture-dossier-coherence-protocol.md:L96]. Instructions to writers, recorded, not applied.
+
+Stands on the side of Kael as made by AEGIS from its own fragmentation; recorded, not applied.
