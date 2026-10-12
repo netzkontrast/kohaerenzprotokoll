@@ -1,0 +1,14 @@
+# emergenz-aegis-und-selbststrukturierung
+  lines                424  (frontmatter ends at 9)
+  body words           7556
+  headings             25   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       13
+  backslash escapes    92
+  typographic marks    5   ascii quotes 74
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    53
+  repeated labels      AEGIS-Bezug x13, Anwendungsszenarien x13, Grundlagentheorie x13, Meta-Struktur x13, Systemdynamik x13
+  longest line         8010 chars
+
