@@ -1,0 +1,295 @@
+{
+  "document": "tropen-konzepte-fuer-kohaerenz-protokoll",
+  "drive_id": "1ZuG5NacdBy-h_wJguSm_v85U517QUOZ-h7dT6zYv3DM",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 26,
+  "backslash_escapes": 118,
+  "typographic_marks": 102,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systeminstabilität",
+      "Systemkollaps",
+      "Systemregeln",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemzusammenbrüche"
+    ],
+    "philo": [
+      "Philo",
+      "Philosophen",
+      "Philosopher",
+      "Philosophers",
+      "Philosophie",
+      "Philosophisch",
+      "Philosophische",
+      "Philosophischer",
+      "Philosophisches",
+      "Philosophy"
+    ],
+    "psych": [
+      "Psych",
+      "Psychobiology",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischem",
+      "Psychologischer",
+      "Psychology",
+      "Psychothriller"
+    ],
+    "inter": [
+      "Interactions",
+      "Interaktion",
+      "Interaktionen",
+      "Interesses",
+      "Interfaces",
+      "Internal",
+      "Internet",
+      "Interpretation"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollparameter",
+      "Kontrollstreben",
+      "Kontrollsystem",
+      "Kontrolltheorie",
+      "Kontrollversuch",
+      "Kontrollversuche"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbestimmung",
+      "Selbstbezug",
+      "Selbsterhaltung",
+      "Selbstfindung",
+      "Selbstintegration",
+      "Selbsttäuschung",
+      "Selbstverwaltung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsaustausch",
+      "Informationsfluten",
+      "Informationsfreigabe",
+      "Informationsstruktur",
+      "Informationstheorie"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitätsansichten",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsmanipulation",
+      "Realitätsvorstellungen"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseine",
+      "Bewusstseins",
+      "Bewusstseinstheorien",
+      "Bewusstseinszustände",
+      "Bewusstseinszuständen"
+    ],
+    "exist": [
+      "Exist",
+      "Existential",
+      "Existentialism",
+      "Existentialismus",
+      "Existenz",
+      "Existenzielle"
+    ],
+    "poten": [
+      "Potent",
+      "Potential",
+      "Potenzial",
+      "Potenzials",
+      "Potenziell",
+      "Potenzielles"
+    ],
+    "quant": [
+      "Quantenbasis",
+      "Quantenphysik",
+      "Quantenprinzipien",
+      "Quantenschaum",
+      "Quantenvakuum",
+      "Quantum"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit",
+      "Handlungspunkte",
+      "Handlungspunkten"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptioneller",
+      "Konzepts"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxes",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "theor": [
+      "THEORY",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "chara": [
+      "Charakterbögen",
+      "Charakteren",
+      "Charakterstimme",
+      "Charaktertiefe"
+    ],
+    "explo": [
+      "Exploration",
+      "Explorationen",
+      "Explore",
+      "Exploring"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrationsprozess",
+      "Integrierte"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontologie",
+      "Ontologien",
+      "Ontologische"
+    ],
+    "persp": [
+      "PERSPECTIVE",
+      "Perspective",
+      "Perspektive",
+      "Perspektivwechsel"
+    ],
+    "schlü": [
+      "Schlüssel",
+      "Schlüsselelement",
+      "Schlüsselkapitel",
+      "Schlüsselkonzept"
+    ],
+    "story": [
+      "STORY",
+      "Story",
+      "StoryFlint",
+      "Storytelling"
+    ],
+    "trans": [
+      "Transformation",
+      "Transpersonal",
+      "Transpersonale",
+      "Transzendenz"
+    ],
+    "unive": [
+      "Universal",
+      "University",
+      "Universum",
+      "Universums"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Best",
+      "Selbstbestimmung"
+    ],
+    [
+      "Blog",
+      "BLOGS"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Bewusstseine"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Kaskadierenden"
+    ],
+    [
+      "Ende",
+      "Kaskadierender"
+    ],
+    [
+      "Fall",
+      "Ausfall"
+    ],
+    [
+      "Form",
+      "Plattform"
+    ],
+    [
+      "Form",
+      "Formalizing"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsfluten"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationsfreigabe"
+    ],
+    [
+      "Form",
+      "Informationsstruktur"
+    ],
+    [
+      "Form",
+      "Informationsaustausch"
+    ]
+  ]
+}

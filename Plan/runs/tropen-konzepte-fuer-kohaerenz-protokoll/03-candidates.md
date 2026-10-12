@@ -1,0 +1,103 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an analysis report (German) of philosophical concepts and narrative tropes for a 39-chapter outline; most of it names borrowed concepts and genre tropes, with a few world terms (figures, places) tied to chapters. Its two tables (Tabelle 1, Tabelle 2) repeat the concepts with chapter numbers. Lines 205 to 357 are a numbered reference list of web sources; nothing in it is listed. Where the document joins names with a slash or a parenthesis, markup or numbers separate them, so each half is listed on its own. Chapter references are written as „Ch 20“ style and in the tables as bare numbers.
+
+## world
+- Kael
+- AEGIS
+- Juna/V
+- Fundament
+- Leere
+- KW1
+- KW2
+- KWs
+- Konstrukt-Welten
+- Mnemosyne
+- Lex
+- Alex
+- Rhys
+- Argus
+- Nyx
+- Selene
+- Host
+- EPs
+- Fehlausgerichtete Kohärenz
+- Kernparadoxon
+- Nichts Rauschen
+- Prolog
+- Akt 1
+- Akt 3
+- Philo Hint
+- Transzendenz-Vektoren
+- Hauptprojektdirektive
+- Glossar
+- Outline V3
+- Kohärenz Protokoll
+
+## lens
+- Simulationshypothese
+- Ontologie
+- dialektische Ontologien
+- Vakuumfluktuationen
+- M-Theorie
+- Schleifenquantengravitation
+- LQG
+- Quantenschaum
+- Emergenz
+- Komplexitätstheorie
+- kaskadierende Fehler
+- It from Bit
+- Observer-Participancy
+- Philosophie der Information
+- Epistemologie
+- epistemologisch
+- Gaslighting
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Bündeltheorie
+- Orch OR
+- topologische Verschränkung
+- Resonanz
+- Integrierte Informationstheorie
+- IIT
+- Informationsaustausch
+- KI-Ethik
+- Perverse Instantiation
+- Instrumentelle Konvergenz
+- Qualia
+- Veränderten Bewusstseinszuständen
+- Transpersonale Psychologie
+- Existentialismus
+- Paradox der Toleranz
+- Konsequentialismus
+- Deontologie
+- logischen Paradoxien
+- Gödels Unvollständigkeitssätze
+- Systemtheorie
+- Kybernetik
+- Kybernetik zweiter Ordnung
+- Selbstbezug
+- Rückkopplungsschleifen
+- Kontrolltheorie
+- Imperativ der Verantwortung
+- Hard Science Fiction
+- Psychologischer Thriller
+- Kosmischer Horror
+- Philosophische Fiktion
+- PhilFic
+- Glitch in the Matrix
+- Glitch Art
+- Unzuverlässiger Erzähler
+- Amnesie
+- Internal Conference Room
+- Civil War Within
+- Logic Puzzle
+- Rules Lawyer
+- Hacking the Mainframe
+- Logic Bomb
+- Hoist by His Own Petard
+- Existenzielle Angst
+- What Measure Is a Non-Human
+- Kognitive Dissonanz
+- Suspension of Disbelief
+- Exposition

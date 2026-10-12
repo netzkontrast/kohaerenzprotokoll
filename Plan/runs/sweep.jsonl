@@ -1136,3 +1136,10 @@
 {"document": "roman-konzeptentwicklung-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
 {"document": "roman-konzeptentwicklung-kohaerenz-protokoll", "page": "personas", "surface": "Persona", "line": 95, "decision": "reading", "why": "the focal persona shifting in Part II", "at": "2026-10-12"}
 {"document": "roman-konzeptentwicklung-kohaerenz-protokoll", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 15, "decision": "reading", "why": "a Realitätsebene in the context line, if characterised", "at": "2026-10-12"}
+{"document": "tropen-konzepte-fuer-kohaerenz-protokoll", "page": "entropie", "surface": "Entropie", "line": 90, "decision": "occurrence", "why": "a concept of information theory", "at": "2026-10-12"}
+{"document": "tropen-konzepte-fuer-kohaerenz-protokoll", "page": "juna", "surface": "Juna", "line": 16, "decision": "occurrence", "why": "in the methodology line", "at": "2026-10-12"}
+{"document": "tropen-konzepte-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "tropen-konzepte-fuer-kohaerenz-protokoll", "page": "multiplizitaet", "surface": "Multiplizität", "line": 52, "decision": "occurrence", "why": "read on kael", "at": "2026-10-12"}
+{"document": "tropen-konzepte-fuer-kohaerenz-protokoll", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 29, "decision": "occurrence", "why": "a general sentence", "at": "2026-10-12"}
+{"document": "tropen-konzepte-fuer-kohaerenz-protokoll", "page": "risse", "surface": "Glitches", "line": 29, "decision": "reading", "why": "the Glitches Kael perceives", "at": "2026-10-12"}
+{"document": "tropen-konzepte-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 29, "decision": "occurrence", "why": "the simulation in general", "at": "2026-10-12"}
