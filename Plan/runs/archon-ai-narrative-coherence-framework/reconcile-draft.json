@@ -1,0 +1,86 @@
+{
+  "document": "archon-ai-narrative-coherence-framework",
+  "drive_id": "138vJM7LlK1MCFq6lPQBk1ovy7RShyy5LZqgQH4s8wVk",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 49,
+    "decisions": 49,
+    "decided_by_lookup": 48,
+    "needs_judgement": 1
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        202,
+        204
+      ],
+      "attribution": "",
+      "note": "the ARCHON report proposes AEGIS as a test of logical coherence"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        194
+      ],
+      "attribution": "",
+      "note": "the ARCHON report proposes modelling the alters as a stress test"
+    },
+    {
+      "page": "did",
+      "lines": [
+        192
+      ],
+      "attribution": "",
+      "note": "the ARCHON report proposes a protagonist characterised by DID as case study"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        188,
+        192,
+        194
+      ],
+      "attribution": "",
+      "note": "the ARCHON report proposes TSDP as the test of psychological coherence"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 184,
+      "decision": "occurrence",
+      "why": "the novel's title as the case study's subject"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

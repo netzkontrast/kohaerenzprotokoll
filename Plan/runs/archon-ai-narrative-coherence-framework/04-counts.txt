@@ -1,0 +1,61 @@
+# counts for 49 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Project Coherence                 1 word     1 in   [184]
+  Kohärenz Protokoll                2 word     2 in   [184, 212]
+  AEGIS                             2 word     2 in   [202, 204]
+  Core Worlds                       1 word     1 in   [214]
+  Alters                            1 word     1 in   [194]
+  Apparently Normal Parts           1 word     1 in   [192]
+  Emotional Parts                   1 word     1 in   [192]
+  Gödel statement                   1 word     1 in   [204]
+  ARCHON                           36 word    36 in   [13, 24, 30, 58, 68, 70]
+  Narrative Context Protocol        5 word     5 in   [26, 105, 109, 243, 255]
+  NCP                              16 word    16 in   [26, 105, 109, 111, 121, 123]
+  Knowledge Hypergraph              6 word     6 in   [27, 154, 159, 172, 256, 268]
+  Narrative Hypergraph              3 word     3 in   [139, 194, 214]
+  hyperedges                        1 word     1 in   [139]
+  The Source Layer                  1 word     1 in   [143]
+  The Factual Layer                 1 word     1 in   [144]
+  The Thematic Layer                1 word     1 in   [145]
+  The Global Summary Layer          1 word     1 in   [146]
+  Narrative Director                6 word     6 in   [150, 154, 172, 194, 214, 243]
+  Self-Reflection Module            1 word     1 in   [162]
+  thematic resonance                2 word     2 in   [170, 266]
+  theme-scoped retrieval            1 word     1 in   [172]
+  context compression               1 word     1 in   [174]
+  active forgetting                 1 word     1 in   [174]
+  short-term amnesia                5 word     5 in   [22, 46, 70, 139, 176]
+  coherence crisis                  2 word     2 in   [24, 266]
+  Story Mind                        4 word     4 in   [74, 82, 86, 94]
+  Grand Argument Story              2 word     2 in   [68, 119]
+  Overall Story (OS) Throughline    1 word     1 in   [96]
+  Main Character (MC) Throughline    1 word     1 in   [97]
+  Influence Character (IC) Throughline    1 word     1 in   [98]
+  Relationship Story (RS) Throughline    1 word     1 in   [99]
+  thematic guardrails               1 word     1 in   [111]
+  Sudowrite                         7 word     7 in   [234, 253, 330, 331, 332, 333]
+                                    4      as sudowrite-review
+  Novelcrafter                      5 word     5 in   [235, 253, 334, 335, 336]
+                                    1      as novelcrafter-for-indie-authors
+  Story Bible                       2 word     2 in   [234, 255]
+  Codex                             5 word     5 in   [235, 255, 256, 257]
+  TSDP                              5 word     5 in   [188, 192, 194, 216]
+  DID                               2 word     3 in   [192, 323]
+  Dramatica                        27 word    28 in   [26, 74, 78, 86, 94, 109]
+                                    2      as dramatically
+                                    1      as Dramatica_Theory_of_Story
+                                    1      as dramatica-success-the-skeptics-worst-nightmare
+                                    1      as dramatica-story-expert-review
+  Theory of Structural Dissociation    2 word     2 in   [188, 192]
+  Dissociative Identity Disorder    1 word     1 in   [192]
+  tertiary structural dissociation    1 word     1 in   [192]
+  Gödel's Incompleteness Theorems    2 word     2 in   [198, 202]
+  Class P                           1 word     1 in   [212]
+  Class NP                          1 word     1 in   [212]
+  NP-complete                       1 word     1 in   [214]
+  ReAct                             3 word     3 in   [154, 315, 316]
+                                    1      as react-agent
+  Retrieval-Augmented Generation    1 word     1 in   [170]

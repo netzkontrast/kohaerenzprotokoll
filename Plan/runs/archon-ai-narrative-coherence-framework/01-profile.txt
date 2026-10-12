@@ -1,0 +1,14 @@
+# archon-ai-narrative-coherence-framework
+  lines                337  (frontmatter ends at 9)
+  body words           5924
+  headings             24   bold-only lines 1
+  table rows           8   code fences 0
+  question marks       21
+  backslash escapes    23
+  typographic marks    16   ascii quotes 120
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    67
+  repeated labels      none
+  longest line         1114 chars
+
