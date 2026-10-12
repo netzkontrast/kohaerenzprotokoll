@@ -1,0 +1,70 @@
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "must"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`must` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#17]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "mandatory"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`mandatory` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "mandates"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`mandates` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "canonical"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`canonical` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "Juna"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "Juna/V"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "Kohärenz Protokoll"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "Kael"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            28
+
+`Kael` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#28]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "System Kael"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`System Kael` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-master-story-guide-2 --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Kernwelt` ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:#1]
+$ 23 = 17+1+2+3 (must, mandatory, mandates, canonical)
+$ table rows of the alter table, L126 to L136:
+11
+$ KW rows L161-164 = 4; zeros in 04-counts.txt:
+0
+$ candidates
+# counts for 80 candidates
+# line numbers are FILE lines, as a citation writes them
+$ grep "backslash escapes" Plan/runs/kohaerenz-protokoll-the-official-master-story-guide-2/01-profile.txt
+  backslash escapes    214
