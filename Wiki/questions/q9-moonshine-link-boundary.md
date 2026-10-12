@@ -693,3 +693,13 @@ On what crosses, it writes „direct transmission of intuitive, holistic underst
 The K-J report does not say who inside Kael's system feels it; it speaks of Kael and Juna/V as one system, and of the alters only as coordinating.
 
 Recorded, not applied; the question stays open.
+
+## 2026-10-12 — `untersuche-in-wie-fern-juna-bzw-das-fundament-du`, 2025-11-03, das Briefing
+
+**Das Briefing gibt den Moonshine-Link als Verbindung zwischen Kael und Juna/V, die Gnosis und keine Episteme trägt und für AEGIS unsichtbar ist; es sagt nicht, wer in Kaels System ihn spürt.**
+
+Wessen er ist: Kael und Juna/V seien maximal verschränkte Quanteninformationssysteme, in der Wendung, weil sie „aus derselben Substanz stammen“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L166]. Was ihn überquert: Juna/V sei ein Katalysator, der Kael Gnosis gebe, „Juna/V liefert“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L135] keine Antworten oder Pläne. Gegenüber AEGIS: „AEGIS kann ihn nicht sehen, weil seine Sensoren auf“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L133] klassischer, lokaler Datenübertragung beruhen.
+
+Wer innerhalb von Kaels System ihn spürt, steht nicht da; Lex, Nyx und Kiko stehen nur als sekundäre Fragmente („Kaels System (Lex, Nyx, Kiko etc.) sind die“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L174]).
+
+Festgehalten, nicht angewandt; die Frage bleibt offen.
