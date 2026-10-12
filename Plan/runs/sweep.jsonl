@@ -1087,3 +1087,5 @@
 {"document": "aegis-und-der-kollaps-kritische-analyse", "page": "multiplizitaet", "surface": "Multiplizität", "line": 81, "decision": "reading", "why": "functional multiplicity at the Gödel-Gambit", "at": "2026-10-12"}
 {"document": "aegis-und-der-kollaps-kritische-analyse", "page": "risse", "surface": "Risse", "line": 143, "decision": "reading", "why": "Risse in Phase I, if placed", "at": "2026-10-12"}
 {"document": "aegis-und-der-kollaps-kritische-analyse", "page": "ueberwelt", "surface": "Simulation", "line": 48, "decision": "occurrence", "why": "a simulation in general, not the Überwelt", "at": "2026-10-12"}
+{"document": "tsdp-analyse-kohaerenz-protokoll-charaktere", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "tsdp-analyse-kohaerenz-protokoll-charaktere", "page": "personas", "surface": "Persona", "line": 255, "decision": "occurrence", "why": "Isabelle's controlling persona in general use", "at": "2026-10-12"}

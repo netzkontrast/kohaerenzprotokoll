@@ -1,0 +1,105 @@
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "User Query"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`User Query` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#40]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Erweitertes TSDP-Profil"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Erweitertes TSDP-Profil` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#11]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Integrationsbedürfnisse/-hindernisse"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Integrationsbedürfnisse/-hindernisse` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#11]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Potenzieller Entwicklungsbogen"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Potenzieller Entwicklungsbogen` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#11]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "wahrscheinlich"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`wahrscheinlich` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#13]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "möglicherweise"
+whole word, case-sensitive     18
+whole word, case-insensitive   19
+including compounds            18
+
+`möglicherweise` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#18]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Integration"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            56
+
+`Integration` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#34]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Integratorin"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Integratorin` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#2]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            8
+
+`Kernwelt` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#0]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Kernwelten"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kernwelten` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#8]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Kohärenz Protokoll"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Kohärenz Protokoll` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#8]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Cache Kohärenz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Cache Kohärenz` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#3]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Realisierung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Realisierung` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#1]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Personifizierung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Personifizierung` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#2]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Präsentifizierung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Präsentifizierung` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#1]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Zeugenschaft"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zeugenschaft` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#1]
+$ python3 scripts/read.py tsdp-analyse-kohaerenz-protokoll-charaktere --count "Co1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Co1` ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:#0]
+$ grep -n "?" Sources/drive/tsdp-analyse-kohaerenz-protokoll-charaktere.md | cut -d: -f1
+161 162 163 164 165 166 167 168 180 181 223 247 267 297 305 307 308 395 417 
+stance_marker_count: 40+11+11+11 = 73

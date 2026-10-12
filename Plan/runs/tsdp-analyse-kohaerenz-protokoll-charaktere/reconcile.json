@@ -1,0 +1,255 @@
+{
+  "document": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+  "drive_id": "1I8EM1b40jDvVB2JaVEgZ8RyArlFzpYza3Xekob4IXt4",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-272/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 72,
+    "decisions": 72,
+    "decided_by_lookup": 59,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A TSDP analysis of the eleven parts: its new surfaces are the theory's terms (action systems, phobias, levels of dissociation), its own labels and the brief's PP-codes, Paradoxon X and Zeugenschaft; what it says of the novel's world went on existing pages and one record.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        186,
+        188,
+        190,
+        191,
+        193,
+        321,
+        371
+      ],
+      "attribution": "",
+      "note": "AEGIS as a hedged external or internalised controlling force, read through the theory of structural dissociation"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        41,
+        126,
+        267,
+        268
+      ],
+      "attribution": "",
+      "note": "Alex as a secondary ANP of protection and crisis management"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        45,
+        288,
+        289,
+        290
+      ],
+      "attribution": "",
+      "note": "Argus as a developing part, a metacognitive observer and critic"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        124,
+        371
+      ],
+      "attribution": "",
+      "note": "the cache-coherence problem as a mirror of Kael's struggle"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        45,
+        253,
+        255
+      ],
+      "attribution": "",
+      "note": "Isabelle as an EP of sexualised fight and control"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        197,
+        201,
+        354
+      ],
+      "attribution": "",
+      "note": "Juna/V as external trigger and relationship figures"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        41,
+        60,
+        62,
+        124,
+        218
+      ],
+      "attribution": "",
+      "note": "Kael as the primary ANP of a tertiary structural dissociation of eleven parts"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        176,
+        178,
+        180,
+        181,
+        182,
+        373
+      ],
+      "attribution": "",
+      "note": "the Kernwelten Co₁, McL, B and Ly as contexts that trigger the parts, two of them analysed under question marks"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        45,
+        239,
+        240,
+        241
+      ],
+      "attribution": "",
+      "note": "Kiko as a classical child EP of flight, freeze and attachment cry"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        41,
+        188,
+        281,
+        282
+      ],
+      "attribution": "",
+      "note": "Lex as a primary ANP of cognitive control and logic"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        45,
+        246,
+        247,
+        248
+      ],
+      "attribution": "",
+      "note": "Lia as a child EP of flight and ambivalent attachment"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        45,
+        260,
+        261,
+        262
+      ],
+      "attribution": "",
+      "note": "Moros as the EP of freeze, submission and collapse"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        45,
+        190,
+        232,
+        233
+      ],
+      "attribution": "",
+      "note": "Nyx as the fight EP, paradoxical toward the child parts"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        41,
+        274,
+        275,
+        276
+      ],
+      "attribution": "",
+      "note": "Rhys as a secondary ANP of attachment and care"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        45,
+        94,
+        128,
+        191,
+        223,
+        225,
+        226,
+        228
+      ],
+      "attribution": "",
+      "note": "Selene as a modified ANP with EP components, hedged as an integrator"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        25,
+        29,
+        41,
+        45,
+        49,
+        60,
+        62,
+        94
+      ],
+      "attribution": "",
+      "note": "the theory of structural dissociation as the analysis's frame, applied to System Kael"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` on kael; `Juna/V` on juna (J34); `Erweitertes TSDP-Profil` the profiles' field label, read on tsdp only as the analysis's method; `Integrationsbedürfnisse/-hindernisse`, `Haltung zur Integration`, `Matrix Interner Konflikte und Phobien`, `Alltags-Aktionssysteme` and `Verteidigungs-Aktionssysteme` the analysis's labels and the theory's terms, not promoted; `Depersonalisation` a symptom, not personas; `Persona` (L255) in general use; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 255,
+      "decision": "occurrence",
+      "why": "Isabelle's controlling persona in general use"
+    }
+  ],
+  "not_promoted": [
+    "Paradoxon X",
+    "the PP-codes",
+    "the action systems",
+    "phobias between parts",
+    "the matrix of internal conflicts",
+    "Zeugenschaft",
+    "the integration table",
+    "the plot recommendations"
+  ],
+  "internal_tension": "Selene stands as a modified ANP with EP components and, with a question mark, as integrator (L45, L223); many statements are an unshown brief's (`User Query`), and only two of the four Kernwelten are analysed, each with a question mark (L180–L182)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
