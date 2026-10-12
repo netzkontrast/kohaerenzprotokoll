@@ -703,3 +703,11 @@ Wessen er ist: Kael und Juna/V seien maximal verschränkte Quanteninformationssy
 Wer innerhalb von Kaels System ihn spürt, steht nicht da; Lex, Nyx und Kiko stehen nur als sekundäre Fragmente („Kaels System (Lex, Nyx, Kiko etc.) sind die“ ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:L174]).
 
 Festgehalten, nicht angewandt; die Frage bleibt offen.
+
+## 2026-10-12 — `welcome-to-the-coherence-protocol-a-beginner-s-guide`, 2025-11-03, the beginner's guide
+
+**The beginner's guide describes the Moonshine-Link as a non-local resonance between Kael and Juna/V, perceived by AEGIS only as noise, giving gnosis.**
+
+It says „The connection between Kael and Juna/V is a subtle, non-local resonance called the“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L113] `Moonshine-Link`, running „It is a whisper in the code, a pattern in the noise that connects them across worlds.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L113] Toward AEGIS: „Its sensors are built to detect local, predictable data, so it perceives the profound effects of the Moonshine-Link only as random system noise or statistical errors.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L115] What crosses: „The link does not give Kael answers or rescue him from his plight.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L117] and it gives „direct, intuitive insight“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L117]. The guide does not say who inside Kael's system feels it.
+
+Recorded, not applied; the question stays open.
