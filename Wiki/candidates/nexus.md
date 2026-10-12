@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 34
-readings: 34
+sources: 35
+readings: 35
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie", "critical-plot-interrogatories-for-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kohaerenz-protokoll-kapitel-39-die-letzte-instanz", "romanarchitektur-validierung-und-synthese"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-2", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "roman-synthese-mit-dual-kernel-theorie", "critical-plot-interrogatories-for-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kohaerenz-protokoll-kapitel-39-die-letzte-instanz", "romanarchitektur-validierung-und-synthese", "roman-konzeptentwicklung-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -125,6 +125,10 @@ The research report gives `Nexus` as the name of the Überwelt in a table row �
 
 The refactoring plan is an assistant's proposal to the author; it writes „Der Übergang in die Überwelt (den Nexus)“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L88] as the entry to Akt II, and so equates the Nexus with the Überwelt; it says nothing more of the Nexus.
 
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — Der Nexus as KW 3, Part II setting
+
+The master synthesis names KW 3 „Die Überwelt / Der Nexus (Ebene der Quanten-Information)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54], „Der Maschinenraum hinter dem Rendering“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54]. In the Part II frame it reverses the pair: „KW 3 (Der Nexus / Die Überwelt)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L92], and in its scene logic: „Kael befindet sich im Nexus, dem abstrakten Code-Raum von AEGIS“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L95]. A plan.
+
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — The Nexus as the bracketed name of the Überwelt (W-05)
 
 The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
@@ -142,6 +146,7 @@ Kap 8 plans „Eintritt in den Speicher-Nexus“ ^[kohaerenz-protokoll-kapitel-o
 
 - The beat sheet writes the Nexus with an or beside the Überwelt: „oder den Nexus zusammen“ ^[finales-kausales-plot-geruest.md:L91] at Plot Point 1 and „im Nexus oder in AEGIS' Überwelt“ ^[finales-kausales-plot-geruest.md:L108] at the analysis.
 - The plan equates the Nexus with the Überwelt in one parenthesis (see Q6).
+- The master synthesis writes the pair in both orders: „Die Überwelt / Der Nexus“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54] and „KW 3 (Der Nexus / Die Überwelt)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L92]
 
 ## Open
 
