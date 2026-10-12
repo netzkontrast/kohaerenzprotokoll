@@ -1413,3 +1413,4 @@
 {"document": "the-coherence-protocol-an-architectural-blueprint-for-agenti", "page": "juna", "surface": "Juna", "line": 48, "decision": "occurrence", "why": "a table column head", "at": "2026-10-12"}
 {"document": "the-coherence-protocol-an-architectural-blueprint-for-agenti", "page": "kohaerenz", "surface": "Kohärenz", "line": 26, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
 {"document": "the-coherence-protocol-an-architectural-blueprint-for-agenti", "page": "personas", "surface": "Persona", "line": 68, "decision": "occurrence", "why": "an agent persona of the architecture", "at": "2026-10-12"}
+{"document": "kapitel-eins-1-kohaerenz-protokoll", "page": "risse", "surface": "Glitch", "line": 87, "decision": "reading", "why": "the inner voice naming the Riss a glitch, read on the page", "at": "2026-10-12"}
