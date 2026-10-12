@@ -1410,3 +1410,6 @@
 {"document": "dramatica-storyform-validierung-und-synthese", "page": "ueberwelt", "surface": "Simulation", "line": 65, "decision": "reading", "why": "Juna outside the simulation, read on the page", "at": "2026-10-12"}
 {"document": "ki-architektur-fuer-kohaerenz-und-skalierbarkeit", "page": "entropie", "surface": "Entropie", "line": 11, "decision": "occurrence", "why": "entropy in the general sense of the report's title", "at": "2026-10-12"}
 {"document": "ki-architektur-fuer-kohaerenz-und-skalierbarkeit", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "coherence of generated stories, the general sense", "at": "2026-10-12"}
+{"document": "the-coherence-protocol-an-architectural-blueprint-for-agenti", "page": "juna", "surface": "Juna", "line": 48, "decision": "occurrence", "why": "a table column head", "at": "2026-10-12"}
+{"document": "the-coherence-protocol-an-architectural-blueprint-for-agenti", "page": "kohaerenz", "surface": "Kohärenz", "line": 26, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "the-coherence-protocol-an-architectural-blueprint-for-agenti", "page": "personas", "surface": "Persona", "line": 68, "decision": "occurrence", "why": "an agent persona of the architecture", "at": "2026-10-12"}
