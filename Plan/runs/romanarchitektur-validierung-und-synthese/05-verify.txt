@@ -1,0 +1,92 @@
+$ read.py --count "Verdict:"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Verdict:` ^[romanarchitektur-validierung-und-synthese.md:#8]
+$ read.py --count "Urteil:"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Urteil:` ^[romanarchitektur-validierung-und-synthese.md:#8]
+$ read.py --count "Zusammenfassung:"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Zusammenfassung:` ^[romanarchitektur-validierung-und-synthese.md:#8]
+$ read.py --count "Observed Effect:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Observed Effect:` ^[romanarchitektur-validierung-und-synthese.md:#2]
+$ read.py --count "Chapter 39"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Chapter 39` ^[romanarchitektur-validierung-und-synthese.md:#4]
+$ read.py --count "Kapitel 39"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel 39` ^[romanarchitektur-validierung-und-synthese.md:#1]
+$ read.py --count "Kap. 39"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kap. 39` ^[romanarchitektur-validierung-und-synthese.md:#1]
+$ read.py --count "Mosaik-Herz"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Mosaik-Herz` ^[romanarchitektur-validierung-und-synthese.md:#9]
+$ read.py --count "116"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`116` ^[romanarchitektur-validierung-und-synthese.md:#1]
+$ read.py --count "Optionlock"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Optionlock` ^[romanarchitektur-validierung-und-synthese.md:#2]
+$ read.py --count "Timelock"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Timelock` ^[romanarchitektur-validierung-und-synthese.md:#1]
+$ read.py --count "Zeuge"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Zeuge` ^[romanarchitektur-validierung-und-synthese.md:#0]
+$ read.py --count "Coherence Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Coherence Kernel` ^[romanarchitektur-validierung-und-synthese.md:#1]
+$ read.py --count "Collapse Kernel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Collapse Kernel` ^[romanarchitektur-validierung-und-synthese.md:#2]
+$ read.py --count "Tertiary Structural Dissociation of the Personality"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Tertiary Structural Dissociation of the Personality` ^[romanarchitektur-validierung-und-synthese.md:#3]
+stance_marker_count 16 = Verdict: 8 + Urteil: 8
+five-row Inversion Audit table L348-L352; ten-row inventory L367-L376; lines counted by file lines (not commands)
