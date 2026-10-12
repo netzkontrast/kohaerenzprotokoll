@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -49,6 +49,12 @@ The overall concept is „Die innere Fragmentierung eines Kern-Bewusstseins“ ^
 
 In Teil 2 the Guardians' consensus is „Die Personas werden als einzige Hoffnung gesehen“ ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:L176]; in Teil 3 „Die Personas werden zu aktiven Integratoren“ ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:L15]. These personas are the blueprint's own early figures.
 
+## Reading — `narrative-loesungen-fuer-romanprojekt`, 2025-04-17, the narrative-solutions report — Personas as one of three interacting layers, and the open question of their agency
+
+The narrative-solutions report, a craft report, describes the Personas as „den internen psychologischen Entitäten (Personas)“ ^[narrative-loesungen-fuer-romanprojekt.md:L25], one of three layers beside the modes of the Meta-Erzähler and the Meta-Realität. It proposes techniques that make their mutual influence felt; as one, „Personas können den Meta-Erzähler oder seine spezifischen Modi direkt ansprechen“ ^[narrative-loesungen-fuer-romanprojekt.md:L29], question his depictions or resist him. Another technique borrows Dialogical Self Theory: „Personas können als verschiedene“ ^[narrative-loesungen-fuer-romanprojekt.md:L32] I-positions in a society of the mind be conceived. For integration, the report's example of changed interaction patterns is that „Zwei zuvor im Konflikt stehende Personas werden gezeigt“ ^[narrative-loesungen-fuer-romanprojekt.md:L57] working together on a problem.
+
+On agency the report names a risk and a design question. It says: „Die Balance der Handlungsmacht (Agency) zwischen Personas und Meta-Erzähler erfordert sorgfältige Kalibrierung“ ^[narrative-loesungen-fuer-romanprojekt.md:L46]. Among the points still to clarify it writes „Das Machtverhältnis zwischen den Personas und dem Meta-Erzähler muss präzise kalibriert werden“ ^[narrative-loesungen-fuer-romanprojekt.md:L275] and asks „Haben sie die Fähigkeit zur Selbstorganisation oder gar zur Beeinflussung des Erzählers“ ^[narrative-loesungen-fuer-romanprojekt.md:L275]. The report records these as questions for the project to decide; it settles none of them.
+
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
 
 In this document the `Personas` are Kael's inner parts, not instances watched over by Guardians: the report is about the protagonist „internen Anteile (Personas)“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L15]. The profiles treat each one as a distinct entity: „Jede Persona wird als eigenständige Entität innerhalb des Gesamtsystems betrachtet“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L44]. The six profiled are Lex, Kiko, Nyx, Rhys, Kai and Selene.
@@ -72,6 +78,7 @@ The master synthesis plans for Part II: „Die fokalisierende Persona wechselt s
 ## Where the sources differ
 
 - The refined blueprint makes the personas the protagonists of the Teil 1 episodes from the start, with intrusions from other personas hinting at the fragmentation (L17).
+- The narrative-solutions report treats the Personas as one layer in a three-layer interaction and leaves their agency against the Meta-Erzähler as a design question to calibrate: „Das Machtverhältnis zwischen den Personas und dem Meta-Erzähler muss präzise kalibriert werden“ ^[narrative-loesungen-fuer-romanprojekt.md:L275].
 
 ## Open
 
