@@ -1246,3 +1246,11 @@ Stands as one more position beside the record's others, the roster of one host a
 It writes of System Kael „Die Struktur von System Kael mit seinen elf klar definierten Anteilen“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L81], and again „Die Darstellung der Kernwelten aus der Perspektive der elf Anteile“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L285]. The four worlds stand in one line: „(KW1: Ordnung/Kontrolle, KW2: Emotion/Chaos, KW3: Bedrohung/Grenze, KW4: Potenzial/Möglichkeit)“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L104]. Of its matrix it says only an excerpt is shown: „Das vollständige Dokument würde alle 11 Anteile und 4 Welten abdecken.“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L337]. Its sorting of the parts into ANPs and EPs is cited from a `User Query Context` (L93–L94).
 
 Stands with eleven parts and four Kernwelten, dated 2025-04-29; recorded, not applied.
+
+## 2026-10-12 — `briefing-the-archon-framework-and-kohaerenz-protokoll-narrat`, 2025-10-15, the ARCHON briefing
+
+**The ARCHON briefing calls an eleven-alter model canonical and describes four Kernwelten.**
+
+The briefing introduces its roster with „The canonical 11-alter model“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L79] and heads the table „Alter Name (Kanonisch)“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L83]; eleven rows follow (L84–L94), Kael as „ANP (Host)“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L84] and ten more. `canonical` is its own word, recorded here and not applied. Of the worlds it writes „Four simulated realities created as“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L127] laboratories (L127) and its table names KW1 Logos-Prime, KW2 Mnemosyne-Archipel, KW3 Cerberus-Labyrinth and KW4 Kairos-Potentialis (L132–L135). It does not say the worlds and alters correspond one to one; it pairs each world with a domain of alter types.
+
+Stands as one more count of eleven alters and four Kernwelten; recorded, not applied, and the record's rows are not changed.
