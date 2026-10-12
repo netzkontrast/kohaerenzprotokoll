@@ -840,3 +840,11 @@ Stands with the answers that name Algorithmische Melancholie as AEGIS's state; t
 It writes that the erasure protocol is „causing the system to fracture into a state of permanent“ ^[kohaerenz-protokoll-synthese.md:L87] `Algorithmische Melancholie`, and in the beat sheet that „The system fractures, plunging into“ ^[kohaerenz-protokoll-synthese.md:L341] it. In its open questions it says AEGIS „descends into“ ^[kohaerenz-protokoll-synthese.md:L107] the state and that the protocol „leaves open the precise mechanics of this state“ ^[kohaerenz-protokoll-synthese.md:L107]; whether it is a new emergent paraconsistent consciousness or a broken loop it leaves open for later narrative phases. It names no successor to AEGIS's function.
 
 Stands with the answers that name Algorithmische Melancholie as AEGIS's state; the brief's own open question is the mechanics of the state, recorded, not applied.
+
+## 2026-10-12 — `integriertes-kohaerenz-protokoll-erstellung`, 2025-12-05, the protocol report
+
+**The protocol report reports of one file that its plot forces AEGIS to accept a true contradiction, leading to a transformation; it names no Vortex.**
+
+This is the report's account of a file it numbers 11. It reports that the plot „zwingt AEGIS in eine Situation, in der es eine wahre Kontradiktion akzeptieren muss, was zu seiner Transformation“ ^[integriertes-kohaerenz-protokoll-erstellung.md:L132] leads, named `Algorithmische Melancholie` in the line. In its Phase III the report describes AEGIS facing Kael as a Gödel statement and getting „gerät es in einen unendlichen Regress oder muss seine Axiome fundamental umschreiben“ ^[integriertes-kohaerenz-protokoll-erstellung.md:L346].
+
+Stands: AEGIS's state after the contradiction is described as a transformation in the report's account of another file; recorded, not applied.
