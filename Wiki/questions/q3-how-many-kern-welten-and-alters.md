@@ -1318,3 +1318,11 @@ Stands as one more count of eleven alters and no count of Kernwelten; recorded, 
 The record asks how many Kern-Welten there are and how many alters. The blueprint says the novel works on „sechs distinkten Realitätsebenen“ ^[blueprint.md:L42], of which „Die vier psychologischen“ ^[blueprint.md:L44] Kernwelten KW1-4 are four; the others are the Überwelt (L45) and the Externe Ebene (L46). Of the parts of Kael it names three in one parenthesis: „wie Lex der Analytiker, Nyx die Beschützerin, oder Selene die Integratorin“ ^[blueprint.md:L39]. It does not say whether one Kernwelt corresponds to one part.
 
 Stands as one more document's count of four Kernwelten within six levels; the correspondence of worlds and alters stays open, recorded and not decided.
+
+## 2026-10-12 — `report-plot-synthesis-and-final-outline-for-coherence-protoc`, 2025-11-03, the plot synthesis report
+
+**The plot synthesis report says there are four Core Worlds and names three of them, KW1 to KW3, with their psychological readings.**
+
+It says „The four Core Worlds are direct, externalized representations of Kael's fragmented psyche“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L44]. Named: „Konstrukt-Stadt (KW1)“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L44] for the everyday functioning of the ANPs, „Resonanz-Landschaft (KW2)“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L44] for the trauma-bound EPs, and „Grenzfeste (KW3)“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L44] for the defensive systems of protector parts. It names no fourth world.
+
+Stands as a count of four worlds with three named; recorded, not applied.
