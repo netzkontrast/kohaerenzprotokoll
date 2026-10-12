@@ -1209,3 +1209,6 @@
 {"document": "kohaerenz-protokoll-plot-konzept-generierung-2", "page": "entropie", "surface": "Entropie", "line": 17, "decision": "occurrence", "why": "near-duplicate of document 305; light pass", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-plot-konzept-generierung-2", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "near-duplicate of document 305; light pass", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-plot-konzept-generierung-2", "page": "ueberwelt", "surface": "Simulation", "line": 50, "decision": "occurrence", "why": "near-duplicate of document 305; light pass", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-synthese", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-synthese", "page": "risse", "surface": "Risse", "line": 131, "decision": "reading", "why": "first Risse at the end of Akt 1", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-plot-synthese", "page": "ueberwelt", "surface": "Simulation", "line": 15, "decision": "occurrence", "why": "the NZT-48 Simulation authorisation label", "at": "2026-10-12"}
