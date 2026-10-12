@@ -837,3 +837,11 @@ Stands as one more position on the pairing of Guardian and Kernwelt; recorded, n
 The record asks whether each Guardian is paired with a world. The blueprint writes of the four Kernwelten that each of the four psychological ones has „eine spezifische psychologische Funktion und Ästhetik“ ^[blueprint.md:L44] and is watched by a `Guardian` („überwacht“ ^[blueprint.md:L44]). It gives no number of Guardians and no name, and does not mention Erasure-Pol.
 
 Stands as a statement of one Guardian to each Kernwelt, without a count of Guardians; the five-to-four question stays open, recorded and not decided.
+
+## 2026-10-12 — `kohaerenz-protokoll-umfassendes-konzept-mit-prin`, 2025-04-27, the 13-principle concept
+
+**The 13-principle concept says the Guardians embody the over-stressed or distorted principles of their respective core world, so one Guardian per world is implied, with no count and no name.**
+
+The character entry reads: „Verkörpern die überbetonten oder verzerrten Prinzipien ihrer jeweiligen Kernwelt“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L52]. Of the worlds it says: „Jede Welt überbetont bestimmte Prinzipien“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L36]. The concept gives no number of Guardians and no Guardian by name.
+
+Stands: the concept pairs Guardians with worlds by a principle each, without count or names; nothing decided.
