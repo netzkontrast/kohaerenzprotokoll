@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      105
+  backslash escapes      58
+  typographic marks      34
+  ascii quotes           88
+
+# inflection families -- one term, several surfaces
+  reali    Reality, Realität, Realitäten, Realitätsansichten, Realitätsauffassung, Realitätsebene, Realitätsebenen, Realitätsflucht, Realitätsgefüges, Realitätskonstitution, Realitätsmanipulation, Realitätsmannigfaltigkeit, Realitätsstruktur, Realitätsstrukturen, Realitätsstörungen, Realitätssubstrats, Realitätsverschiebung
+  infor    Informatik, Information, Informational, Informations, Informationsentscheidungen, Informationsfeld, Informationskontrolle, Informationslücken, Informationsmuster, Informationsmustern, Informationsphysik, Informationszerfall
+  inter    Interaktion, Interaktionen, Interaktionsdynamiken, Interaktionsmuster, Interface, Interfaces, Interkonnektivität, Interner, Internet, Interpretation, Interpretationen
+  kontr    Kontroll, Kontrolle, Kontrollebenen, Kontrollformen, Kontrollmethoden, Kontrollsystem, Kontrolltheorie, Kontrollverlust, Kontrollversagen
+  trans    Transformation, Transformativer, Transhumanismus, Transparent, Transzendenten, Transzendentes, Transzendenz, Transzendenzpotenziale
+  parad    Paradox, Paradoxe, Paradoxes, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  selbs    Selbst, Selbstbezug, Selbstfragmentierung, Selbstgefühls, Selbstkonsumtion, Selbstzerstörung, Selbstüberwachung
+  simul    Simulation, Simulations, Simulationsgrenzen, Simulationshypothese, Simulationsparameter, Simulationsstruktur, Simulationstheorie
+  syste    System, Systemcode, Systeme, Systemen, Systemfehler, Systems, Systemverfalls
+  bewus    Bewusste, Bewusstsein, Bewusstseins, Bewusstseinsformen, Bewusstseinsmodelle, Bewusstseinszustände
+  erzäh    Erzähler, Erzählers, Erzählperspektive, Erzählstruktur, Erzählung, Erzählungen
+  ident    Identifikation, Identifizierung, Identität, Identitäten, Identitätsfrage, Identitätskrise
+  mathe    Mathematical, Mathematics, Mathematik, Mathematische, Mathematischem, Mathematischen
+  poten    Potenzial, Potenziale, Potenzialfelder, Potenzialität, Potenzials, Potenzierung
+  psych    Psyche, Psychedelic, Psychological, Psychologie, Psychologischer, Psychothrillers
+  emerg    Emergence, Emergente, Emergentes, Emergenz, Emergiert
+  fragm    Fragmente, Fragmenten, Fragmentierung, Fragmentierungs, Fragmentierungsmethoden
+  konze    Konzept, Konzepte, Konzepten, Konzeptionelle, Konzeptuelle
+  netzw    Netzwerk, Netzwerken, Netzwerkphänomen, Netzwerks, Netzwerktheorien
+  chara    Charakter, Charakterbögen, Charakterentwicklung, Charakterisierung
+  disso    DISSOCIATION, Dissociated, Dissociation, Dissoziation
+  funda    Fundament, Fundamental, Fundamentalen, Fundaments
+  handl    Handlung, Handlungen, Handlungsergebnisse, Handlungsfähigkeit
+  horro    Horror, Horrorformen, Horrors, Horrorszenarien
+  kernp    Kernparadoxon, Kernparameter, Kernparametern, Kernprogrammierung
+
+# substring pairs -- never one term, often merged by accident
+  ANPs < Panpsychism
+  ANPs < Panpsychismus
+  Bild < Vorbild
+  Bild < Spiegelbild
+  Code < Quellcodes
+  Code < Systemcode
+  Code < Codefragmente
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Studies
+  Eine < Keine
+  Eine < Seine
+  FROM < From
+  Fear < Fears
+  Feld < Schlachtfeld
+  Feld < Potenzialfelder
+  Feld < Informationsfeld
+  Form < Formen
+  Form < Informatik

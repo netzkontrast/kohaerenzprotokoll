@@ -1,0 +1,892 @@
+{
+  "document": "konzeptionelle-transzendenz-fuer-kohaerenz-protokoll",
+  "drive_id": "1CLqZa0I-3AfUXhdFxJ1q6VNvpbtE0mZkyQrfyFFir-c",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 102,
+      "n_including_compounds": 115,
+      "lines": [
+        31,
+        51,
+        60,
+        61,
+        71,
+        81,
+        91,
+        92,
+        93,
+        94,
+        98,
+        109,
+        115,
+        121,
+        131,
+        132,
+        136,
+        140,
+        141,
+        152,
+        162,
+        172,
+        174,
+        184,
+        186,
+        190,
+        192,
+        194,
+        198,
+        199,
+        201,
+        203,
+        209,
+        211,
+        219,
+        221,
+        225,
+        229,
+        230,
+        231,
+        239,
+        240,
+        241,
+        245,
+        247,
+        248,
+        250,
+        252,
+        254,
+        286,
+        298,
+        306,
+        307,
+        311,
+        315,
+        338,
+        339,
+        340,
+        341,
+        344,
+        346,
+        362,
+        375,
+        383,
+        389,
+        393,
+        397,
+        401,
+        405,
+        409,
+        425,
+        429,
+        431,
+        440,
+        441,
+        447
+      ]
+    },
+    "Kael": {
+      "n": 58,
+      "n_including_compounds": 91,
+      "lines": [
+        32,
+        51,
+        61,
+        81,
+        100,
+        108,
+        110,
+        111,
+        113,
+        117,
+        121,
+        132,
+        141,
+        152,
+        162,
+        174,
+        184,
+        188,
+        190,
+        198,
+        203,
+        211,
+        221,
+        230,
+        231,
+        239,
+        248,
+        254,
+        256,
+        258,
+        268,
+        277,
+        286,
+        297,
+        298,
+        306,
+        307,
+        315,
+        324,
+        325,
+        327,
+        329,
+        340,
+        341,
+        342,
+        344,
+        348,
+        362,
+        367,
+        371,
+        379,
+        383,
+        389,
+        393,
+        405,
+        413,
+        425,
+        429,
+        431,
+        442,
+        447
+      ]
+    },
+    "System Kael": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        32,
+        256,
+        258,
+        324,
+        329,
+        342,
+        442
+      ]
+    },
+    "Juna/V": {
+      "n": 40,
+      "n_including_compounds": 43,
+      "lines": [
+        30,
+        61,
+        71,
+        81,
+        119,
+        121,
+        125,
+        131,
+        132,
+        140,
+        141,
+        145,
+        151,
+        152,
+        160,
+        162,
+        166,
+        172,
+        174,
+        182,
+        184,
+        186,
+        188,
+        190,
+        239,
+        248,
+        286,
+        311,
+        315,
+        341,
+        371,
+        397,
+        405,
+        440,
+        447
+      ]
+    },
+    "Fundament": {
+      "n": 54,
+      "n_including_compounds": 85,
+      "lines": [
+        23,
+        29,
+        37,
+        39,
+        41,
+        43,
+        45,
+        49,
+        51,
+        55,
+        59,
+        60,
+        61,
+        65,
+        69,
+        71,
+        75,
+        79,
+        81,
+        94,
+        98,
+        100,
+        102,
+        108,
+        109,
+        110,
+        111,
+        113,
+        115,
+        117,
+        127,
+        131,
+        132,
+        151,
+        160,
+        173,
+        182,
+        183,
+        186,
+        190,
+        239,
+        277,
+        286,
+        293,
+        297,
+        324,
+        337,
+        339,
+        344,
+        346,
+        348,
+        358,
+        362,
+        371,
+        375,
+        383,
+        389,
+        397,
+        405,
+        431,
+        435,
+        439,
+        440,
+        442,
+        447,
+        466
+      ]
+    },
+    "Leere": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        29,
+        37,
+        39,
+        83,
+        85,
+        91,
+        92,
+        93,
+        94,
+        98,
+        102,
+        109,
+        111,
+        115,
+        190,
+        439
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        91,
+        115,
+        194,
+        220,
+        239,
+        247
+      ]
+    },
+    "Fehlausgerichtete Kohärenz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        115,
+        140,
+        194,
+        441
+      ]
+    },
+    "Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        252
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        13,
+        23,
+        39,
+        435,
+        455
+      ]
+    },
+    "Orakel-Sigma": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        15,
+        19,
+        23,
+        35,
+        435,
+        457
+      ]
+    },
+    "Conceptual Expansion Unit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Projekt Inkubation X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Direktive": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        19,
+        23,
+        27,
+        39,
+        121,
+        190,
+        194,
+        230,
+        258,
+        352,
+        457
+      ]
+    },
+    "Transzendenz-Vektoren": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        23,
+        435
+      ]
+    },
+    "Konzept-Singularitäten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        23
+      ]
+    },
+    "konzeptionellen Alchemie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Genre-Alchemie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        350,
+        443
+      ]
+    },
+    "Basisrealität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        41,
+        131
+      ]
+    },
+    "Konstrukt-Welten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        397
+      ]
+    },
+    "KWs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        397
+      ]
+    },
+    "Informations-Substrat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Realitätsmannigfaltigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Noosphäre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Antikörper des Fundaments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Paradoxe AEGIS-Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Glitch": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        178,
+        425
+      ]
+    },
+    "Gödel'scher Schatten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "Selbstkonsumtion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        205,
+        250,
+        252,
+        441
+      ]
+    },
+    "Kristallwüste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Unendlicher Regress der Kontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Perfekte Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "AEGIS-Fragmentierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Paradoxe Fusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Konzeptuelle Annihilation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Ontologischer Schwindel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Parasitäre Verschmelzung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Zeugenschaft der Ent-Schaffung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        258,
+        262
+      ]
+    },
+    "Emergentes Meta-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "Meta-Bewusstsein": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        264,
+        268,
+        336,
+        344,
+        442
+      ]
+    },
+    "Verteiltes Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        337
+      ]
+    },
+    "Parallele Kognition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        338
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        286,
+        338
+      ]
+    },
+    "Fundament-Schnittstelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        293,
+        344
+      ]
+    },
+    "Fundament-Interface": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        339,
+        348,
+        442
+      ]
+    },
+    "Simulations-Manipulation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        340,
+        344,
+        348,
+        442
+      ]
+    },
+    "Luzides Träumen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        302,
+        340
+      ]
+    },
+    "Symbiotische Koexistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        311,
+        341
+      ]
+    },
+    "Verschachteltes Bewusstsein": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        320,
+        342
+      ]
+    },
+    "Unzuverlässige Meta-Erzählung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        389
+      ]
+    },
+    "Indirekte Enthüllung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        397
+      ]
+    },
+    "Interkonnektivität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        447
+      ]
+    },
+    "ANP": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        81,
+        258,
+        268,
+        269,
+        287,
+        324,
+        338,
+        342
+      ]
+    },
+    "EP": {
+      "n": 4,
+      "n_including_compounds": 11,
+      "lines": [
+        81,
+        258,
+        268,
+        269,
+        287,
+        324,
+        338,
+        342,
+        371,
+        405,
+        409
+      ]
+    },
+    "Emotionalen Teils": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        371
+      ]
+    },
+    "TSDP-analog": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        258
+      ]
+    },
+    "ANP/EP-Dynamik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        81,
+        258,
+        269
+      ]
+    },
+    "Gödel'schen Unvollständigkeitssätze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        247
+      ]
+    },
+    "Mathematischen Platonismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        173
+      ]
+    },
+    "Mathematischem Universum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Primordial Informational Field": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Informational Quantum Gravity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        461
+      ]
+    },
+    "It from Bit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        80
+      ]
+    },
+    "Panpsychismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        110,
+        337
+      ]
+    },
+    "anima mundi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        342
+      ]
+    },
+    "Orthogonalitätsthese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "Azathoth": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        94,
+        379,
+        473,
+        482
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        39,
+        70,
+        342,
+        352,
+        401,
+        431,
+        439,
+        443,
+        449,
+        512
+      ]
+    },
+    "Psychologischer Thriller": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        352,
+        367
+      ]
+    },
+    "Hard Science Fiction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        352
+      ]
+    },
+    "Kaskadenausfall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        230
+      ]
+    },
+    "Lügner-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    }
+  }
+}
