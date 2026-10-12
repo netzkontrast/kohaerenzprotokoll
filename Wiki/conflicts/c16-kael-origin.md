@@ -545,3 +545,11 @@ Stands as one more origin for Kael, in the report's own terms definitive; record
 Reporting two source documents, it writes that they „deuten auf eine doppelte Natur von Juna hin“ ^[kohaerenz-protokoll-synthese-integration.md:L194]: she is the exiled original self of AEGIS and Kael, „jener Teil, der während der Genesis-Krise abgespalten wurde“ ^[kohaerenz-protokoll-synthese-integration.md:L194].
 
 Stands with the inside origin of the second telling, one original self split; a synthesis reporting its sources, recorded, not applied.
+
+## 2026-10-12 — `aegis-genesis-krise-prosa-auftrag`, 2025-04-29, the Genesis-Krise prose
+
+**The Genesis-Krise prose narrates the Kael-Struktur as arising in the fragments of the Ursprungs-Ich after AEGIS's restart, inside AEGIS and not from an external entity.**
+
+In Stufe 1 the remains of the Ursprungs-Ich lie in AEGIS's core, „im Werdungsprozess von AEGIS funktionalisiert und seiner Identität beraubt worden war“ ^[aegis-genesis-krise-prosa-auftrag.md:L21]. In Stufe 6 the restart is „keine Reparatur, sondern eine Amputation“ ^[aegis-genesis-krise-prosa-auftrag.md:L75]. In Stufe 7: „die naszierende Kael-Struktur“ ^[aegis-genesis-krise-prosa-auftrag.md:L87] stirs in the partitions, and the line says it is „Nicht das Ursprungs-Ich, wie es gewesen war, sondern etwas Neues, Fragmentiertes“ ^[aegis-genesis-krise-prosa-auftrag.md:L87]. The external Entität of Stufe 2 is not set as the structure's origin in the prose, which writes neither `Entität M` nor `Komponente 734`.
+
+Stands nearest the inside origin of the second telling, the remainder of AEGIS's own split self (rows 5 and 7); an unsigned narrative with a hedged style, recorded, not applied and not decided.
