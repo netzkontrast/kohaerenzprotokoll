@@ -1310,3 +1310,11 @@ Stands as one more count of parts for the record's question, eleven in a TSDP ta
 It writes „Kaels Psyche ist durch eine Tertiäre Strukturelle Dissoziation (TSDP) in elf spezialisierte Subsysteme zersplittert“ ^[ui-konzept-fuer-roman-entwicklungssystem.md:L129]. Its table of parts names them in rows without adding them up or stating that the eleven correspond to worlds.
 
 Stands as one more count of eleven alters and no count of Kernwelten; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-12 — `blueprint`, 2025-07-29, the blueprint
+
+**The blueprint counts six levels, four of them psychological Kernwelten, and names no alters by number.**
+
+The record asks how many Kern-Welten there are and how many alters. The blueprint says the novel works on „sechs distinkten Realitätsebenen“ ^[blueprint.md:L42], of which „Die vier psychologischen“ ^[blueprint.md:L44] Kernwelten KW1-4 are four; the others are the Überwelt (L45) and the Externe Ebene (L46). Of the parts of Kael it names three in one parenthesis: „wie Lex der Analytiker, Nyx die Beschützerin, oder Selene die Integratorin“ ^[blueprint.md:L39]. It does not say whether one Kernwelt corresponds to one part.
+
+Stands as one more document's count of four Kernwelten within six levels; the correspondence of worlds and alters stays open, recorded and not decided.
