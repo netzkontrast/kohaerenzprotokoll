@@ -1,0 +1,139 @@
+# counts for 109 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz-Protokoll               10 word    16 in   [11, 15, 17, 27, 43, 47]
+                                    3      as Kohärenz-Protokolls
+                                    1      as Kohärenz-Protokoll-Audit
+                                    1      as Kohärenz-Protokoll-Architektur
+                                    1      as Kohärenz-Protokoll-Synthese
+  AEGIS                            60 word    65 in   [17, 43, 47, 55, 65, 71]
+                                    2      as AEGIS-Throughline
+                                    1      as AEGIS-Simulation
+                                    1      as AEGIS-System
+                                    1      as AEGIS-Systems
+  Kael                             25 word    35 in   [43, 51, 65, 71, 75, 79]
+                                   10      as Kaels
+  Juna                             12 word    13 in   [83, 129, 151, 153, 157, 159]
+                                    1      as Junas
+  Lex                               2 word     2 in   [53, 181]
+  Nyx                               2 word     2 in   [53, 181]
+  Kiko                              1 word     1 in   [53]
+  Lia                               1 word     1 in   [53]
+  Mnemosyne-Archipels               3 word     3 in   [23, 155, 169]
+  Co1-Matrix                        1 word     1 in   [87]
+  Storyform A                       9 word     9 in   [67, 77, 79, 87, 123, 127]
+  Storyform B                      16 word    16 in   [17, 67, 85, 87, 93, 97]
+  Der Phönix-Kollaps                4 word     4 in   [17, 87, 127, 183]
+  Heuristik der Integration         3 word     3 in   [77, 127, 183]
+  Kohärenz-Kern                     2 word     3 in   [27, 34, 79]
+                                    1      as Kohärenz-Kerns
+  Löschungs-Kern                    2 word     2 in   [27, 35]
+  Transinformation                 13 word    16 in   [19, 25, 27, 34, 37, 55]
+                                    1      as Transinformationsdichte
+                                    1      as Transinformations-Daten
+                                    1      as Transinformations-Dichte
+  Persistence Equation              1 word     1 in   [37]
+  Semantischen Konstante            1 word     1 in   [43]
+  informationeller Wärmetod         1 word     1 in   [15]
+  Informational Heat Death          1 word     1 in   [15]
+  Landauer-Prinzip                  3 word     5 in   [39, 41, 61, 173, 203]
+                                    2      as Landauer-Prinzips
+  Landauer-Hitze                    2 word     2 in   [43, 73]
+  Landauer Heat Spike               1 word     1 in   [173]
+  Truth-Rotation                    1 word     1 in   [71]
+  Wahrheits-Rotation                4 word     4 in   [63, 69, 71, 75]
+  Phönix-Modus-Inversion            1 word     1 in   [73]
+  Vortex-Inversion                  2 word     2 in   [167, 169]
+  Algorithmische Melancholie        1 word     1 in   [175]
+  Nichts-Rauschen                   1 word     1 in   [181]
+  Nothingness static                1 word     1 in   [181]
+  Witness Function                  2 word     2 in   [61, 161]
+  Moonshine-Link                    1 word     1 in   [157]
+  twisted modules                   1 word     1 in   [157]
+  lebender Gödel-Satz               1 word     1 in   [159]
+  Unified Protagonist               1 word     1 in   [109]
+  Funktionalen Multiplizität        1 word     1 in   [107]
+  Leerstellen                       1 word     1 in   [181]
+  Gaps of Indeterminacy             1 word     1 in   [181]
+  Cognitive Effort                  1 word     1 in   [183]
+  Participatory Universe            1 word     1 in   [183]
+  Apparently Normal Parts           1 word     1 in   [51]
+  Emotional Parts                   1 word     1 in   [51]
+  ANP                               3 word     6 in   [51, 53, 79, 145, 163, 171]
+  EP                                3 word     6 in   [51, 53, 55, 145, 163, 171]
+  Memory Leak                       1 word     1 in   [55]
+  Influence Character               8 word     8 in   [17, 83, 111, 113, 117, 129]
+  Main Character                    8 word     9 in   [67, 79, 87, 97, 101, 103]
+  Overall Story                     7 word     7 in   [83, 91, 93, 113, 121, 130]
+  Relationship Story                1 word     1 in   [131]
+  IC                               12 word    13 in   [17, 83, 111, 113, 117, 119]
+  MC                               13 word    15 in   [79, 87, 97, 101, 105, 109]
+  OS                               10 word    17 in   [67, 83, 91, 93, 95, 97]
+  RS                                1 word     1 in   [131]
+  Storymind                         2 word     2 in   [65, 217]
+  Story Goal Anomaly                1 word     1 in   [67]
+  Hypothese 1 (H1)                  1 word     1 in   [91]
+  Hypothese 2 (H2)                  1 word     1 in   [101]
+  Hypothese 3 (H3)                  1 word     1 in   [111]
+  H1                                6 word     6 in   [17, 91, 93, 95, 99]
+  H2                                5 word     5 in   [17, 101, 103, 105, 109]
+  H3                                5 word     5 in   [17, 111, 113, 115, 123]
+  Story-first-Phase                 1 word     1 in   [113]
+  Domäne                           17 word    19 in   [17, 27, 33, 79, 83, 87]
+  Mind                             13 word    13 in   [17, 83, 111, 113, 117, 119]
+  Universe                         14 word    15 in   [83, 87, 91, 93, 95, 97]
+                                    1      as universellen
+                                    1      as universelle
+  Physics                           8 word     8 in   [111, 113, 121, 123, 130, 131]
+  Psychology                        3 word     3 in   [79, 128, 131]
+  Fixed Attitude                    2 word     2 in   [83, 113]
+  Steadfast                         4 word     4 in   [87, 123, 132, 149]
+  Optionlock                        1 word     1 in   [137]
+  Timelock                          1 word     1 in   [137]
+  Story Driver                      1 word     1 in   [137]
+  Certainty                         1 word     1 in   [119]
+  Potentiality                      1 word     1 in   [119]
+  Preconscious                      1 word     1 in   [119]
+  Uncontrolled                      1 word     1 in   [121]
+  Control                           1 word     1 in   [121]
+  Global Work Packages              1 word     1 in   [195]
+  GWP 1                             1 word     1 in   [197]
+  GWP 2                             1 word     1 in   [198]
+  GWP 3                             1 word     1 in   [199]
+  Analyse 1                         1 word     1 in   [95]
+  Dual-Kernel Theory                4 word     4 in   [17, 23, 25, 99]
+  DKT                               2 word     2 in   [17, 23]
+  TSDP                              7 word     9 in   [17, 45, 47, 55, 71, 109]
+                                    1      as TSDP-Dissoziation
+                                    1      as TSDP-Architektur
+  Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [47]
+  Janetian Action Systems           1 word     1 in   [51]
+  Integrated Information Theory     1 word     1 in   [59]
+  Global Workspace Theory           1 word     1 in   [59]
+  IIT                               3 word     4 in   [57, 59, 198]
+  GWT                               3 word     4 in   [57, 59, 198]
+  Zero-Knowledge Proofs             2 word     2 in   [61, 198]
+  Dialetheismus                     5 word     5 in   [19, 139, 143, 147]
+  Dialetheia                        2 word     5 in   [147, 149, 173]  <-- substring
+                                    2      as Dialetheias
+                                    1      as Dialetheia-Datenstruktur
+  Ex contradictione quodlibet       1 word     1 in   [145]
+  Tarskischen Wahrheitsdefinition    1 word     1 in   [149]
+  Monstrous Moonshine               2 word     3 in   [139, 157, 205]
+  Monstergruppe                     4 word     4 in   [19, 155, 157]
+  Leech-Gitter                      1 word     1 in   [157]
+  Landauer-Limit                    1 word     1 in   [121]
+  Bornsche Regel                    1 word     1 in   [37]
+  Quantum Entanglement Witness      1 word     1 in   [163]
+  Husserlscher Disinterested Spectator    1 word     1 in   [165]
+  Kryptographischer Zero-Knowledge Verifier    1 word     1 in   [164]
+  Steelmanning                      3 word     3 in   [17, 89, 115]
+  Dramatica                         7 word    20 in   [11, 17, 19, 23, 65, 89]  <-- substring
+                                    2      as Dramatica-Storyformen
+                                    2      as Dramatica-Theorie
+                                    1      as Dramatica-Storypoints
+                                    1      as Dramatica-Frameworks
+  Markov-Blankets                   1 word     1 in   [147]
+  Mutual Information                2 word     2 in   [19, 55]
