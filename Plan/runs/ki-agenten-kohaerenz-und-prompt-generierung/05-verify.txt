@@ -1,0 +1,117 @@
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Whitepaper"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Whitepaper` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#2]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Wir postulieren"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Wir postulieren` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#2]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#0]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#0]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Kern-Welt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kern-Welt` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#0]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Zugriff am August 5, 2025"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            24
+
+`Zugriff am August 5, 2025` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#24]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "MOCs"
+whole word, case-sensitive     17
+whole word, case-insensitive   18
+including compounds            17
+
+`MOCs` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#17]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Hypothese"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Hypothese` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#5]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "wird erwartet"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`wird erwartet` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#1]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Unsere zentrale Hypothese"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Unsere zentrale Hypothese` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#1]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Man kann sich vorstellen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Man kann sich vorstellen` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#1]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Ausblick"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Ausblick` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#2]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Kohärenz-Lücke"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz-Lücke` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#2]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "Large Language Models"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Large Language Models` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#4]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "create\\\_note"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`create\\\_note` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#1]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "create\_note-Tool"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`create\_note-Tool` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#1]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "update\\\_note\\\_links"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`update\\\_note\\\_links` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#1]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "update\_note\_links-Tool"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`update\_note\_links-Tool` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#1]
+$ read.py ki-agenten-kohaerenz-und-prompt-generierung --count "MOC der MOCs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`MOC der MOCs` ^[ki-agenten-kohaerenz-und-prompt-generierung.md:#2]
+# stance_marker_count 7 = Wir postulieren 2 + Unsere zentrale Hypothese 1 + wird erwartet 1 + Man kann sich vorstellen 1 + Ausblick 2
+# census: 42 glued ref numbers, 87 backslash escapes, 24 access dates: from 01-profile.txt and the count above
+# note: Atomizität etc. count marks from 04-counts.txt / the census table

@@ -1,0 +1,532 @@
+{
+  "document": "ki-agenten-kohaerenz-und-prompt-generierung",
+  "drive_id": "1Ba99zXBtczS3Fd7HBkQSohOOpq9u2ayhnapSTlKoX_0",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz-Protokoll": {
+      "n": 8,
+      "n_including_compounds": 13,
+      "lines": [
+        13,
+        24,
+        83,
+        87,
+        197,
+        201,
+        209,
+        275,
+        293,
+        319,
+        321,
+        337,
+        339
+      ]
+    },
+    "Kohärenz-Protokolls": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        201,
+        209,
+        275,
+        293,
+        337
+      ]
+    },
+    "Kohärenz-Lücke": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        77
+      ]
+    },
+    "Meta-Prompt": {
+      "n": 8,
+      "n_including_compounds": 22,
+      "lines": [
+        24,
+        91,
+        95,
+        163,
+        175,
+        191,
+        195,
+        197,
+        201,
+        225,
+        229,
+        237,
+        246,
+        267,
+        275,
+        319,
+        322,
+        361
+      ]
+    },
+    "Meta-Prompts": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        197,
+        201,
+        225,
+        237,
+        267,
+        275
+      ]
+    },
+    "kognitive Verfassung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "kognitiven Verfassung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        233,
+        303
+      ]
+    },
+    "Mandat zur Selbst-Evaluation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "Mandat zur Prompt-Generierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        246,
+        303
+      ]
+    },
+    "Kognitive Direktive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        244
+      ]
+    },
+    "Orientierung am Anker-Dokument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Anker-Dokument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Navigation über MOCs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        218,
+        219
+      ]
+    },
+    "Fokussierung auf atomare Notizen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Kontext-Kapselung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        220
+      ]
+    },
+    "Selbst-Aktualisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Selbst-Evaluation": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        24,
+        197,
+        237,
+        245,
+        246,
+        267
+      ]
+    },
+    "Maps of Content": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        137,
+        149,
+        334,
+        357
+      ]
+    },
+    "MOC der MOCs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        159,
+        217
+      ]
+    },
+    "MOC\\_Tender": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        197,
+        221,
+        285
+      ]
+    },
+    "MOC\\_Tender-Agent": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        197,
+        285
+      ]
+    },
+    "\\_INDEX.md": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        159,
+        217,
+        218
+      ]
+    },
+    "Navigations-Kortex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Hierarchische Abstraktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Atomizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Emergente Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Kontextfenster": {
+      "n": 6,
+      "n_including_compounds": 17,
+      "lines": [
+        22,
+        34,
+        38,
+        42,
+        44,
+        54,
+        55,
+        56,
+        65,
+        67,
+        131,
+        145,
+        157,
+        219,
+        311,
+        319
+      ]
+    },
+    "Kontextamnesie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        111
+      ]
+    },
+    "Lost-in-the-Middle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Working Memory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        38,
+        42
+      ]
+    },
+    "Knowledge Graph": {
+      "n": 5,
+      "n_including_compounds": 10,
+      "lines": [
+        115,
+        121,
+        129,
+        141,
+        197,
+        321,
+        349,
+        351,
+        352,
+        357
+      ]
+    },
+    "KG-RAG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Tool-Server": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        213
+      ]
+    },
+    "Exekutivsystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Wissens-Kultivator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        279
+      ]
+    },
+    "digitaler Gärtner": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Gärtner": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        197,
+        221,
+        283
+      ]
+    },
+    "Autonomie der Methode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Agent-on-the-Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "Human-in-the-Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "Agenten-Psychologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        336
+      ]
+    },
+    "Multi-Agenten-Architektur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        248,
+        252
+      ]
+    },
+    "create\\_note": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "update\\_note\\_links": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "update\\_note\\_status": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Prioritizer\\\\\\_Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Analyzer\\\\\\_Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "Synthesizer\\\\\\_Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        265
+      ]
+    },
+    "Generator\\\\\\_Integrator\\\\\\_Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "Orchestrator / Main\\\\\\_Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        267
+      ]
+    },
+    "Framework für Kritisches Denken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        244,
+        264
+      ]
+    },
+    "Wert-Aufwand-Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Konstitutionellen KI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        175
+      ]
+    },
+    "Konstitutionelle KI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Meta-Prompting": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        24,
+        95,
+        163,
+        191,
+        195,
+        246,
+        361
+      ]
+    },
+    "Zettelkasten-Methode": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        129
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        65,
+        119,
+        352
+      ]
+    },
+    "Context Engineering": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        220,
+        363
+      ]
+    },
+    "Prompt Engineering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "RLAIF": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        245,
+        365
+      ]
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "document": "ki-agenten-kohaerenz-und-prompt-generierung",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 60,
+  "decisions": 56,
+  "same_surface": {},
+  "decided_mechanically": 46,
+  "needs_judgement": 10,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [],
+    "new_term": [
+      {
+        "candidate": "kognitive Verfassung"
+      },
+      {
+        "candidate": "kognitiven Verfassung"
+      },
+      {
+        "candidate": "Mandat zur Prompt-Generierung"
+      },
+      {
+        "candidate": "Kognitive Direktive"
+      },
+      {
+        "candidate": "Navigation über MOCs"
+      },
+      {
+        "candidate": "Fokussierung auf atomare Notizen"
+      },
+      {
+        "candidate": "Kontext-Kapselung"
+      },
+      {
+        "candidate": "Selbst-Aktualisierung"
+      },
+      {
+        "candidate": "Maps of Content"
+      },
+      {
+        "candidate": "MOC der MOCs"
+      },
+      {
+        "candidate": "\\_INDEX.md"
+      },
+      {
+        "candidate": "Navigations-Kortex"
+      },
+      {
+        "candidate": "Hierarchische Abstraktion"
+      },
+      {
+        "candidate": "Atomizität"
+      },
+      {
+        "candidate": "Emergente Struktur"
+      },
+      {
+        "candidate": "Kontextfenster"
+      },
+      {
+        "candidate": "Kontextamnesie"
+      },
+      {
+        "candidate": "Lost-in-the-Middle"
+      },
+      {
+        "candidate": "Working Memory"
+      },
+      {
+        "candidate": "Knowledge Graph"
+      },
+      {
+        "candidate": "KG-RAG"
+      },
+      {
+        "candidate": "Tool-Server"
+      },
+      {
+        "candidate": "Exekutivsystem"
+      },
+      {
+        "candidate": "Wissens-Kultivator"
+      },
+      {
+        "candidate": "Autonomie der Methode"
+      },
+      {
+        "candidate": "Agent-on-the-Loop"
+      },
+      {
+        "candidate": "Human-in-the-Loop"
+      },
+      {
+        "candidate": "Agenten-Psychologie"
+      },
+      {
+        "candidate": "Multi-Agenten-Architektur"
+      },
+      {
+        "candidate": "create\\_note"
+      },
+      {
+        "candidate": "update\\_note\\_links"
+      },
+      {
+        "candidate": "update\\_note\\_status"
+      },
+      {
+        "candidate": "Prioritizer\\\\\\_Agent"
+      },
+      {
+        "candidate": "Analyzer\\\\\\_Agent"
+      },
+      {
+        "candidate": "Synthesizer\\\\\\_Agent"
+      },
+      {
+        "candidate": "Generator\\\\\\_Integrator\\\\\\_Agent"
+      },
+      {
+        "candidate": "Orchestrator / Main\\\\\\_Agent"
+      },
+      {
+        "candidate": "Framework für Kritisches Denken"
+      },
+      {
+        "candidate": "Wert-Aufwand-Matrix"
+      },
+      {
+        "candidate": "Konstitutionellen KI"
+      },
+      {
+        "candidate": "Konstitutionelle KI"
+      },
+      {
+        "candidate": "Zettelkasten-Methode"
+      },
+      {
+        "candidate": "Retrieval-Augmented Generation"
+      },
+      {
+        "candidate": "Context Engineering"
+      },
+      {
+        "candidate": "Prompt Engineering"
+      },
+      {
+        "candidate": "RLAIF"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz-Protokoll  /  Kohärenz-Protokolls",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Meta-Prompt  /  Meta-Prompts",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Meta-Prompt  /  Meta-Prompting",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mandat zur Selbst-Evaluation  /  Selbst-Evaluation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Orientierung am Anker-Dokument  /  Anker-Dokument",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "MOC\\_Tender  /  MOC\\_Tender-Agent",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "digitaler Gärtner  /  Gärtner",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Protokolls",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Lücke",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 44,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
