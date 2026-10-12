@@ -1,0 +1,303 @@
+{
+  "document": "aegis-philosophie-und-systemtheorie",
+  "drive_id": "15mblPb85LBVPDUSkmMCV0Kn47Dsu5Jj8K_eMa_Qo780",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 88,
+  "backslash_escapes": 36,
+  "typographic_marks": 13,
+  "ascii_quotes": 256,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "SYSTEMS",
+      "System",
+      "Systemdynamik",
+      "Systeme",
+      "Systemebene",
+      "Systemeigenschaften",
+      "Systemen",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemkohärenz",
+      "Systemlogik",
+      "Systems",
+      "Systemstruktur",
+      "Systemtheoretische",
+      "Systemverhalten",
+      "Systemzustand"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbezug",
+      "Selbstbezugs",
+      "Selbstheilungsmechanismen",
+      "Selbstkorrektur",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstprüfung",
+      "Selbstreferenz",
+      "Selbstregulation",
+      "Selbstvalidierung",
+      "Selbstverifikation",
+      "Selbstverifizierende",
+      "Selbstüberprüfung"
+    ],
+    "inter": [
+      "Interaction",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmodell",
+      "Interaktionspartners",
+      "Internalismus",
+      "Interne",
+      "Internet",
+      "Interpretation"
+    ],
+    "valid": [
+      "Validation",
+      "Validierung",
+      "Validierungen",
+      "Validierungsbasis",
+      "Validierungslogik",
+      "Validierungsprozess",
+      "Validierungsprozesse",
+      "Validierungsprozesses",
+      "Validierungsrahmens"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtereffekt",
+      "Beobachterproblem",
+      "Beobachters",
+      "Beobachterunabhängigkeit",
+      "Beobachtung",
+      "Beobachtungsprozess",
+      "Beobachtungsüberzeugungen"
+    ],
+    "infor": [
+      "INFORMATION",
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informationismus",
+      "Informationsgehalt",
+      "Informationstheoretische",
+      "Informationstheorie"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalismus",
+      "Funktionalistische",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionstüchtigkeit",
+      "Funktionsweise"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentenbasierte",
+      "Agentendynamik",
+      "Agenteninteraktionen",
+      "Agentenverhalten"
+    ],
+    "epist": [
+      "Epistemic",
+      "Epistemische",
+      "Epistemischen",
+      "Epistemologie",
+      "Epistemologische",
+      "Epistemology"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerausschluss",
+      "Fehlerbehandlung",
+      "Fehlern",
+      "Fehlertolerante",
+      "Fehlertoleranz"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturalismus",
+      "Strukturelle",
+      "Strukturellen",
+      "Struktureller",
+      "Strukturen"
+    ],
+    "basis": [
+      "Basis",
+      "Basisfall",
+      "Basisfälle",
+      "Basisrealität",
+      "Basisüberzeugungen"
+    ],
+    "defin": [
+      "Definiert",
+      "Definierte",
+      "Definition",
+      "Definitionen",
+      "Definitions"
+    ],
+    "kommu": [
+      "Kommunikation",
+      "Kommunikations",
+      "Kommunikationsfehlern",
+      "Kommunikationsprotokoll",
+      "Kommunikationsprotokolle"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologische",
+      "Ontologischen",
+      "Ontologischer",
+      "Ontology"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulations",
+      "Simulationsargument",
+      "Simulationshypothese"
+    ],
+    "compu": [
+      "Computational",
+      "Computer",
+      "Computersimulation",
+      "Computing"
+    ],
+    "energ": [
+      "Energie",
+      "Energieaufwand",
+      "Energiefluss",
+      "Energieverbrauch"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropieexport",
+      "Entropiezunahme",
+      "Entropy"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzberechtigung",
+      "Existenzbeweis",
+      "Existenzdefinition"
+    ],
+    "kohär": [
+      "Kohärente",
+      "Kohärentismus",
+      "Kohärenz",
+      "Kohärenzkriterien"
+    ],
+    "konse": [
+      "Konsens",
+      "Konsensbasiert",
+      "Konsensmechanismen",
+      "Konsequenzen"
+    ],
+    "konst": [
+      "Konstanten",
+      "Konstitution",
+      "Konstruktion",
+      "Konstruktivismus"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionelle"
+    ],
+    "mecha": [
+      "Mechanism",
+      "Mechanismen",
+      "Mechanisms",
+      "Mechanismus"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auch",
+      "Energieverbrauch"
+    ],
+    [
+      "Auch",
+      "Ressourcenverbrauch"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Evol",
+      "Evolution"
+    ],
+    [
+      "Evol",
+      "Evolutionsmechanismus"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Fall",
+      "Ausfalls"
+    ],
+    [
+      "Fall",
+      "Basisfall"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "INFORMATION"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationismus"
+    ],
+    [
+      "Form",
+      "Informationsgehalt"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationstheoretische"
+    ]
+  ]
+}

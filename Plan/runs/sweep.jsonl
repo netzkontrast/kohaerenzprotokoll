@@ -1171,3 +1171,7 @@
 {"document": "vorarbeiten-ausformulierung-kapitel-1-teil-1", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
 {"document": "vorarbeiten-ausformulierung-kapitel-1-teil-1", "page": "ueberwelt", "surface": "Simulation", "line": 31, "decision": "occurrence", "why": "Kael's unawareness of the simulation; light pass", "at": "2026-10-12"}
 {"document": "aegis-philosophie-und-manifest-entwicklung", "page": "emergenz", "surface": "Emergenz", "line": 20, "decision": "reading", "why": "emergence by negation", "at": "2026-10-12"}
+{"document": "aegis-philosophie-und-systemtheorie", "page": "entropie", "surface": "Entropie", "line": 40, "decision": "reading", "why": "AEGIS's entropy management, read if it adds", "at": "2026-10-12"}
+{"document": "aegis-philosophie-und-systemtheorie", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "reading", "why": "Kohärenz statt Wahrheit", "at": "2026-10-12"}
+{"document": "aegis-philosophie-und-systemtheorie", "page": "negentropie", "surface": "Negentropie", "line": 51, "decision": "occurrence", "why": "an analogy inside a borrowed frame", "at": "2026-10-12"}
+{"document": "aegis-philosophie-und-systemtheorie", "page": "ueberwelt", "surface": "Simulation", "line": 65, "decision": "occurrence", "why": "Bostrom's simulation argument, a borrowed frame", "at": "2026-10-12"}
