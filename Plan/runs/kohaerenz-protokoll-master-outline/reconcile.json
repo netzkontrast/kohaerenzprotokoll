@@ -1,0 +1,196 @@
+{
+  "document": "kohaerenz-protokoll-master-outline",
+  "drive_id": "1BFWkidKFiv73gz85T19jt4sQys2GZXiMi2IzPO5nrIc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one C13 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-398/brief.md, 2026-10-12; no chapter readings — the document names three chapter ranges and no chapter",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 37,
+    "decisions": 39,
+    "decided_by_lookup": 26,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An outline of the novel in three parts and an epilogue: its new surfaces are its own template labels (Pacing, Kohärenz-Check, Limit-Integration, Genre-Fokus) and content-point titles; what it plans for Kael, Juna, AEGIS, the Guardians, LogOS, Mnemosyne, the Konstrukt-Stadt, the Überwelt, the Nexus, the Nichts-Rauschen, entropy, the Mosaik-Herz, coherence, the external level and the TSDP went on existing pages, the external level also on C13.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        31,
+        73,
+        75,
+        86
+      ],
+      "attribution": "",
+      "note": "AEGIS as error corrector, the order that is not won, and the reporter"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        57,
+        74,
+        75
+      ],
+      "attribution": "",
+      "note": "the noise as entropy and trauma, and one entropy on the external level"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        73,
+        74,
+        81
+      ],
+      "attribution": "",
+      "note": "the external level as the reader's real world, visited briefly, glitched"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        48,
+        62
+      ],
+      "attribution": "",
+      "note": "the Guardians as an encounter, and as lecturers of horror"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        26
+      ],
+      "attribution": "",
+      "note": "Juna as a fleeting echo in Part I"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        25,
+        27,
+        36,
+        47,
+        53,
+        57,
+        63,
+        74,
+        75
+      ],
+      "attribution": "",
+      "note": "Kael across the three parts: waking, ascent, the external level, acceptance"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        75,
+        86
+      ],
+      "attribution": "",
+      "note": "coherence as accepted noise, redefined in the epilogue"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        25,
+        73
+      ],
+      "attribution": "",
+      "note": "the city where Kael wakes, and its flickering borders"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "LogOS as the limit of logic"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the limit of identity"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        65,
+        86
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz as Part III's title and as the epilogue's coherence"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "the ascent into the Nexus as Part II's first point"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        37,
+        57,
+        75
+      ],
+      "attribution": "",
+      "note": "the noise: quiet in Part I, louder in Part II, accepted in Part III"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "the TSDP aspect as a label on Kael's identity insight"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        39,
+        47,
+        73
+      ],
+      "attribution": "",
+      "note": "the Überwelt as Part II's title, an abstract level, a flickering border"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Die Anomalie` Part I's label for Juna, not the metrics page; `Kohärenz Protokoll` (the title), `Kohärenz-Check` (an annotation label) and `Zielkohärenz` (the epilogue's report line) occurrences; `TSDP-Aspekt` read on tsdp; `Konstrukt`, `Rauschen` and `absolute Entropie` the Konstrukt-Stadt, the Nichts-Rauschen and entropy",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title of the outline, not a reading of coherence"
+    }
+  ],
+  "not_promoted": [
+    "Master-Outline, Der Erwachen-Zyklus, unentscheidbare Zonen, Der Spiegel-Effekt, Zeitdilatationen, Pacing, Limit-Integration, Annotationen, Genre-Fokus, Inhaltliche Schwerpunkte, Dozenten des Grauens, Architectural Storytelling, Unvollständigkeit, Statusbericht PMAS, Zielkohärenz"
+  ],
+  "internal_tension": "the Part I annotation forbids quoting the listed documents in the text (L36), the Part II annotation makes them explicit topics of conversation (L62) — a progression the outline intends, recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

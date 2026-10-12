@@ -1,0 +1,7 @@
+Commands: python3 scripts/read.py kohaerenz-protokoll-master-outline --count "<word>"
+Pacing 4 (#4); Kohärenz-Check 3 (#3); Limit-Integration 3 (#3); sum 4+3+3 = 10 = stance_marker_count
+Kapitel 3 (#3); Kap 0 whole word (#0); Konstrukt 3 word / 6 in; Konstrukt-Stadt 2; Konstrukts 1
+Rauschen 3 word / 6 in; Nichts-Rauschen 2; Rauschens 1
+Annotationen 3, Genre-Fokus 3, Inhaltliche Schwerpunkte 3, Thema 3
+profile: glued ref numbers 4, backslash escapes 19 (01-profile.txt)
+LogOS 1, Mnemosyne 1, Nexus 1, Mosaik-Herz 2

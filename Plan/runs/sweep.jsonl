@@ -1420,3 +1420,4 @@
 {"document": "roman-kapitel-entwurf-mit-kohaerenzprotokoll", "page": "ueberwelt", "surface": "Simulation", "line": 35, "decision": "reading", "why": "the simulation's thermodynamics, read on the page", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-kapitel-39-das-mosaik-herz", "page": "kohaerenz", "surface": "Kohärenz", "line": 23, "decision": "occurrence", "why": "coherence in the general sense of Kael's line", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-kapitel-39-das-mosaik-herz", "page": "ueberwelt", "surface": "Simulation", "line": 25, "decision": "reading", "why": "the border where the simulation ends, read on the page", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-master-outline", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title of the outline, not a reading of coherence", "at": "2026-10-12"}
