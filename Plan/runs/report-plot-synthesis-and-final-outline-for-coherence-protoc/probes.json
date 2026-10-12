@@ -1,0 +1,61 @@
+{
+  "document": "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+  "drive_id": "1DnLGExgrN14DCS178HXYGQkatR9sUgbuQQ4GCrlvfIs",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 12,
+  "backslash_escapes": 0,
+  "typographic_marks": 14,
+  "ascii_quotes": 86,
+  "inflection_families": {
+    "logic": [
+      "Logic",
+      "Logical",
+      "Logics"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "exter": [
+      "Externalization",
+      "Externalized"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychology"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Thesis",
+      "Synthesis"
+    ],
+    [
+      "Logical",
+      "Epistemological"
+    ]
+  ]
+}

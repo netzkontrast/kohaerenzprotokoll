@@ -1103,3 +1103,4 @@
 {"document": "blueprint", "page": "juna", "surface": "Juna", "line": 40, "decision": "reading", "why": "Juna/V outside AEGIS's control", "at": "2026-10-12"}
 {"document": "blueprint", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
 {"document": "blueprint", "page": "multiplizitaet", "surface": "Multiplizität", "line": 23, "decision": "reading", "why": "the thesis's integration of multiplicity", "at": "2026-10-12"}
+{"document": "report-plot-synthesis-and-final-outline-for-coherence-protoc", "page": "kohaerenz", "surface": "Kohärenz", "line": 53, "decision": "occurrence", "why": "Kohärenz Protokoll 1.0, read on aegis", "at": "2026-10-12"}

@@ -1,0 +1,517 @@
+{
+  "document": "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+  "drive_id": "1DnLGExgrN14DCS178HXYGQkatR9sUgbuQQ4GCrlvfIs",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Coherence Protocol": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        15,
+        75,
+        101
+      ]
+    },
+    "AEGIS": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        25,
+        29,
+        31,
+        32,
+        43,
+        45,
+        51,
+        53,
+        54,
+        60,
+        65,
+        66,
+        67,
+        79,
+        83,
+        87,
+        91,
+        95
+      ]
+    },
+    "Kael": {
+      "n": 30,
+      "n_including_compounds": 30,
+      "lines": [
+        25,
+        29,
+        30,
+        31,
+        32,
+        38,
+        42,
+        43,
+        44,
+        45,
+        54,
+        60,
+        64,
+        65,
+        66,
+        67,
+        79,
+        83,
+        87,
+        91,
+        95
+      ]
+    },
+    "Juna/V": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        25,
+        53,
+        54,
+        65,
+        79,
+        87,
+        91
+      ]
+    },
+    "Juna": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        25,
+        53,
+        54,
+        65,
+        79,
+        87,
+        91
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "Core Worlds": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        44,
+        83
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Grenzfeste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        79
+      ]
+    },
+    "Roaring Nothingness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        83
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        79
+      ]
+    },
+    "Origin-Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Komponente 734": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        79
+      ]
+    },
+    "Kohärenz Protokoll 1.0": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        79
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        65,
+        66,
+        91
+      ]
+    },
+    "living Gödel-sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Algorithmic Melancholy": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        93,
+        95
+      ]
+    },
+    "zombie system": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        95
+      ]
+    },
+    "inefficient beauty": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "functional multiplicity": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        30,
+        45,
+        64,
+        91,
+        95
+      ]
+    },
+    "dialetheic mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "rhizomatic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "ontological exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "ANPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "EPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "dissociative phobias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "externalized perpetrator introject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "epistemological checkmate": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        65
+      ]
+    },
+    "literalized philosophy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Core Thesis 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Core Thesis 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Core Thesis 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Core Thesis 4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Stage One": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Stage Two": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Logics of Formal Inconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "LFI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Discursive Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "principle of explosion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        67
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Process Philosophy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Integrated Information Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "IIT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Dissociative Identity Disorder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "paraconsistent": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        95
+      ]
+    },
+    "autopoietic drive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Φ": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        95
+      ]
+    }
+  }
+}

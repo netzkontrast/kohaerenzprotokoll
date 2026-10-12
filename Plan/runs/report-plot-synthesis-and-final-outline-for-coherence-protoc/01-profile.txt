@@ -1,0 +1,14 @@
+# report-plot-synthesis-and-final-outline-for-coherence-protoc
+  lines                102  (frontmatter ends at 9)
+  body words           2066
+  headings             14   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    14   ascii quotes 86
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    12
+  repeated labels      none
+  longest line         884 chars
+
