@@ -1238,3 +1238,11 @@ Stands: one more position on the record, eleven alters and four Kernwelten as th
 Host: „The primary host personality, focused on maintaining a facade of normalcy“ ^[the-coherence-protocol-a-narrative-mosaic.md:L23]. Alters, „To be written in close third-person“ ^[the-coherence-protocol-a-narrative-mosaic.md:L24], from „The rationalist ANP, obsessed with logical order“ ^[the-coherence-protocol-a-narrative-mosaic.md:L26] to „The meta-cognitive observer/critic, capable of profound self-reflection but prone to cynical analysis-paralysis“ ^[the-coherence-protocol-a-narrative-mosaic.md:L35]. Worlds: „The archetypal embodiment of sterile, logical order in Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L42] and the three entries after it, for Kernwelt 1 to 4. These are points of view in a brief for stories not written.
 
 Stands as one more position beside the record's others, the roster of one host and ten alters with four Kernwelten; recorded, not applied.
+
+## 2026-10-12 — `kernwelten-und-fragmentierte-wahrnehmung`, 2025-04-29, the perception report
+
+**The perception report works with eleven parts and four Kernwelten, and says its matrix would cover all of them.**
+
+It writes of System Kael „Die Struktur von System Kael mit seinen elf klar definierten Anteilen“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L81], and again „Die Darstellung der Kernwelten aus der Perspektive der elf Anteile“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L285]. The four worlds stand in one line: „(KW1: Ordnung/Kontrolle, KW2: Emotion/Chaos, KW3: Bedrohung/Grenze, KW4: Potenzial/Möglichkeit)“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L104]. Of its matrix it says only an excerpt is shown: „Das vollständige Dokument würde alle 11 Anteile und 4 Welten abdecken.“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L337]. Its sorting of the parts into ANPs and EPs is cited from a `User Query Context` (L93–L94).
+
+Stands with eleven parts and four Kernwelten, dated 2025-04-29; recorded, not applied.
