@@ -667,3 +667,11 @@ Stands: the guide gives the boundary as an ontological one, between a non-local 
 It asks: „Does the transmission of transformative gnosis across the“ ^[romanarchitektur-validierung-und-synthese.md:L167] invariant bridge incur a Landauer cost, or whether its topological nature bypasses classical thermodynamics; „the precise thermodynamic accounting of information transfer remains abstract“ ^[romanarchitektur-validierung-und-synthese.md:L167]. It requires of a future revision: „A future revision must explicitly state whether the Moonshine Link operates as an entirely reversible quantum process“ ^[romanarchitektur-validierung-und-synthese.md:L167].
 
 Stands: the question is open in the architecture validation's own terms; it neither answers nor rules on it.
+
+## 2026-10-12 — `kohaerenz-protokoll-synthese-integration`, 2025-12-05, the integrated synthesis
+
+**The integrated synthesis describes the Moonshine-Link as resting on quantum entanglement and as invisible to AEGIS.**
+
+It says the link „umgeht die Überwachungsprotokolle von AEGIS“ ^[kohaerenz-protokoll-synthese-integration.md:L198]; „AEGIS kann diese Verbindung nicht sehen oder blockieren“ ^[kohaerenz-protokoll-synthese-integration.md:L200], because it monitors only causal, local data streams, and „Der Link ist acausal und resonanzbasiert“ ^[kohaerenz-protokoll-synthese-integration.md:L200]. It adds: „Er ist der empirische Beweis für eine Realität außerhalb von AEGIS“ ^[kohaerenz-protokoll-synthese-integration.md:L200] control.
+
+Bears on where the link stands relative to AEGIS's monitoring; a synthesis reporting its sources, recorded, not decided.
