@@ -1425,3 +1425,9 @@
 {"document": "kohaerenz-protokoll-architektur-implementierung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title of the plan, naming the novel", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-architektur-implementierung", "page": "multiplizitaet", "surface": "Multiplizität", "line": 133, "decision": "occurrence", "why": "an analogy for the software's last phase, real-system material", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-architektur-implementierung", "page": "ueberwelt", "surface": "Simulation", "line": 13, "decision": "occurrence", "why": "simulation in the software sense of the writing tool", "at": "2026-10-12"}
+{"document": "ki-roman-design-mechaniken", "page": "alters", "surface": "Alters", "line": 169, "decision": "reading", "why": "eleven sealed-off parts of Kael's psyche in the game's premise, read on the page", "at": "2026-10-12"}
+{"document": "ki-roman-design-mechaniken", "page": "entropie", "surface": "Entropie", "line": 156, "decision": "occurrence", "why": "what the Kollaps-Kernel stands for, read on kollaps-kernel", "at": "2026-10-12"}
+{"document": "ki-roman-design-mechaniken", "page": "kohaerenz", "surface": "Kohärenz", "line": 89, "decision": "occurrence", "why": "coherence of a general AI system over many rounds", "at": "2026-10-12"}
+{"document": "ki-roman-design-mechaniken", "page": "personas", "surface": "Personas", "line": 23, "decision": "occurrence", "why": "personas in the general survey", "at": "2026-10-12"}
+{"document": "ki-roman-design-mechaniken", "page": "risse", "surface": "Glitches", "line": 127, "decision": "occurrence", "why": "glitches as a visual design device", "at": "2026-10-12"}
+{"document": "ki-roman-design-mechaniken", "page": "ueberwelt", "surface": "Simulation", "line": 17, "decision": "occurrence", "why": "simulation in the general literary-theory sense", "at": "2026-10-12"}
