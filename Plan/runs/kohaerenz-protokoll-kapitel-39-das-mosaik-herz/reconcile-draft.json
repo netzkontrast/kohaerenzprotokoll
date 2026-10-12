@@ -1,0 +1,197 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
+  "drive_id": "1Vh61VHw2K9eys3XCGkb5NIeN-2GkqhbYo9x1OYYN6Zc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 28,
+    "decisions": 31,
+    "decided_by_lookup": 21,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        21,
+        35,
+        49
+      ],
+      "attribution": "",
+      "note": "a flickering grid of light, and the mode given up"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        25,
+        33
+      ],
+      "attribution": "",
+      "note": "Juna as entropy, entropy as completion of order"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        29,
+        37,
+        39,
+        43,
+        45,
+        65
+      ],
+      "attribution": "",
+      "note": "a shock, a report, and a room"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        23,
+        49
+      ],
+      "attribution": "",
+      "note": "Guardians as colours of a mosaic"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        27,
+        49
+      ],
+      "attribution": "",
+      "note": "at the border of the simulation, and seen through glass"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        23,
+        31,
+        37,
+        61,
+        73,
+        75
+      ],
+      "attribution": "",
+      "note": "at the centre of the Nexus, then waking on the external level"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        17,
+        65
+      ],
+      "attribution": "",
+      "note": "a dying star, and the same laws on the external level"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "LogOS falling to binary dust"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the oceans of Mnemosyne evaporating"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        11,
+        35,
+        49,
+        69
+      ],
+      "attribution": "",
+      "note": "the pattern AEGIS names, and the Mosaik-Modus of the report"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the Nexus no longer a place"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        13,
+        15
+      ],
+      "attribution": "",
+      "note": "the Rauschen no longer hostile"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the Risse accepted"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "the border where the simulation ends"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "coherence in the general sense of Kael's line"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 25,
+      "decision": "reading",
+      "why": "the border where the simulation ends, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
