@@ -297,3 +297,11 @@ Stands with the KW1 side of the record's table; recorded, not applied, the recor
 The narrator (German prose): „Die Konstrukt-Stadt, eben noch eine feste“ ^[roman-kohaerenz-protokoll.md:L409] reality begins to crumble, and impressions mix „mit den sterbenden Resten von KW1“ ^[roman-kohaerenz-protokoll.md:L411]. The data node is part of the same city: „Der Datenknotenpunkt Gamma-7 empfing ihn“ ^[roman-kohaerenz-protokoll.md:L373].
 
 Stands as one more position; decides nothing.
+
+## 2026-10-12 — `kernwelten-und-fragmentierte-wahrnehmung`, 2025-04-29, the perception report
+
+**The perception report writes the Konstrukt-Stadt as KW1, one of four numbered worlds.**
+
+The heading reads „KW1: Konstrukt-Stadt/Co₁ (Ordnung/Kontrolle)“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L113], and its core principle „Eine Welt, die auf Logik, Struktur, Effizienz und Kontrolle basiert.“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L115], „Sie repräsentiert potenziell die von AEGIS favorisierte Ordnung“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L115].
+
+Stands as a world (KW1), dated 2025-04-29; recorded, not applied.
