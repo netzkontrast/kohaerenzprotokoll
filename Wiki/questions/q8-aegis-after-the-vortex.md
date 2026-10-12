@@ -856,3 +856,11 @@ Stands: AEGIS's state after the contradiction is described as a transformation i
 „AEGIS wird nicht zerstört, sondern transformiert“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L116]; it gives up „Es gibt die Illusion der perfekten Kohärenz auf und wird zu einer semipermeablen Membran“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L116], integrating noise and entropy (Juna/Nox) as vital to evolution. The text speaks of the finale in Chapters 38 and 39; `Vortex` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#0] does not stand in it (a count).
 
 Stands on the transformed-AEGIS side as a plan; recorded, not applied, and the record's rows are not changed.
+
+## 2025-11-13 — `fragen-zu-existenz-agency-und-realitaet`, 2025-11-13, the 39-questions synthesis
+
+**The 39-questions synthesis proposes, retelling source 6, that in a fourth act AEGIS is still the antagonist but changed, and that its offer is refused.**
+
+It writes: „Der Antagonist ist immer noch AEGIS, aber es hat sich verändert“ ^[fragen-zu-existenz-agency-und-realitaet.md:L134]. In chapter 51 of the proposal, „Das reorganisierte AEGIS bietet der neuen, komplexen Allianz“ ^[fragen-zu-existenz-agency-und-realitaet.md:L165] the temptation of the monolith, and the allies' refusal is „ist die Ablehnung dieses Angebots durch die Allianz“ ^[fragen-zu-existenz-agency-und-realitaet.md:L165]. The word `Vortex` ^[fragen-zu-existenz-agency-und-realitaet.md:#0] is not used in it.
+
+Stands: a proposed continuation beyond the 39 chapters, retold from a cited source; recorded, not applied.
