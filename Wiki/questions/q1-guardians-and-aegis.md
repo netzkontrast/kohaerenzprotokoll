@@ -574,3 +574,11 @@ Where it stands in the record's own terms: one more position, the Guardians' lim
 „An unthinking enforcer of AEGIS's will, viewing Kael as a system anomaly to be corrected“ ^[the-coherence-protocol-a-narrative-mosaic.md:L40]; and the rebel, „A Guardian experiencing the“ ^[the-coherence-protocol-a-narrative-mosaic.md:L41] Wächter-Zwiespalt who „begins to question AEGIS's logic and becomes a secret ally to Kael“ ^[the-coherence-protocol-a-narrative-mosaic.md:L41]. The final entry of the brief is again a rebel Guardian, „Conclude the collection from the perspective of a former AEGIS agent now navigating the new reality“ ^[the-coherence-protocol-a-narrative-mosaic.md:L302].
 
 Stands as one more position on how the Guardians stand to AEGIS; recorded, not applied.
+
+## 2026-10-12 — `kohaerenz-protokoll-plot-synthese`, 2025-04-25, the 39-beat plot synthesis
+
+**The 39-beat plot synthesis introduces the Guardians only as minor, functional figures who represent AEGIS in the Kernwelten.**
+
+It groups them with the secondary characters, of whom it writes „Diese müssen strikt funktionale Rollen erfüllen“ ^[kohaerenz-protokoll-plot-synthese.md:L306], and writes of them „Sie repräsentieren AEGIS' Willen und Methoden innerhalb der Kernwelten“ ^[kohaerenz-protokoll-plot-synthese.md:L311].
+
+Stands: the document records the Guardians as AEGIS's agents in the Kernwelten and takes no position on the question's open parts.
