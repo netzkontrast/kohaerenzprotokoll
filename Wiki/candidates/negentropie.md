@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 24
-readings: 23
+sources: 25
+readings: 24
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx"]
 gathered: "2026-09-16"
 ---
 
@@ -70,6 +70,10 @@ Negentropie stands twice as a borrowed concept, in the information cluster's lis
 ## Reading — `emergenz-autonomer-systeme-aegis-forschung`, 2025-04-27, the AEGIS fundamental-research report — negentropy as information, tied to AEGIS in the synthesis
 
 In its synthesis the AEGIS fundamental-research report writes „Information kann als Maß für reduzierte Entropie“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L390] viewed, or as `Negentropie`, and ties this to AEGIS in the next sentence: „Die Fähigkeit von AEGIS, Kohärenz (Information/Ordnung) aus Entropie zu erzeugen“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L390] links the information cluster and the energy/entropy cluster. The link is the report's proposal about a speculative construct.
+
+## Reading — `logiksystem-aegis-entwicklungsszenarien-docx`, 2025-06-03, the Logiksystem-Aegis analysis — Negentropie as target state and as the name of a model
+
+In its own analysis of the defence mechanism, the Logiksystem-Aegis analysis names Negentropie as a possible analogy for what Aegis extracts from incoming incoherence: it extracts usable potential „vielleicht analog zu Negentropie“ ^[logiksystem-aegis-entwicklungsszenarien-docx.md:L53]. In the architecture of the model it calls the filter model, the KIN (a subsystem of its own derivation) is described as follows: „Der KIN definiert den Zielzustand der Kohärenz oder Negentropie“ ^[logiksystem-aegis-entwicklungsszenarien-docx.md:L149]. The comparison table of the three models labels the third core concept „Kohärenzfilter / Negentropie-Engine“ ^[logiksystem-aegis-entwicklungsszenarien-docx.md:L167]. All three are the analysis's proposals; the document selects Model Beta, not this one.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — AEGIS' Negentropie-Fehlinterpretation
 
