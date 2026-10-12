@@ -1,0 +1,14 @@
+# monstergruppe-als-narrative-inspiration
+  lines                336  (frontmatter ends at 9)
+  body words           5764
+  headings             11   bold-only lines 23
+  table rows           10   code fences 0
+  question marks       41
+  backslash escapes    16
+  typographic marks    124   ascii quotes 14
+  invisible characters U+200Bx20
+  math symbol lines    1
+  glued ref numbers    52
+  repeated labels      none
+  longest line         1047 chars
+
