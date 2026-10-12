@@ -1,0 +1,6 @@
+python3 scripts/read.py the-architecture-of-a-misguided-god-a-biography-of-aegis --count "tragic"
+  whole word 4 (stance_marker_count: 4)
+--count "Kap": 0 (no chapter named)
+--count "Escher": whole word 0 (only inside a compound; not used in the note)
+Other counts in the note are count marks checked by quotes.py --strict (tragic #4, Kap #0, Nichts Rauschen #2, Nothingness Noise #2, PRESERVE SYSTEM EXISTENCE #2, systemic paranoia #1, Risse #3, Gödel-Gambit #2, contemplative paralysis #1).
+Census numbers: 39 candidates (capture.py --count), 8 backslash escapes (01-profile.txt).
