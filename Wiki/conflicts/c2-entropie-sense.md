@@ -322,3 +322,11 @@ One more position in the record; it decides nothing.
 „Klassifiziert AEGIS möglicherweise nützliche Komplexität fälschlich als Entropie?“ ^[aegis-philosophie-und-manifest-entwicklung.md:L43]
 
 Stands beside position 1 (entropy as disorder to be resisted) as the same sense said of AEGIS's own definition, with the `Negentropie-Hypothese` named as the critique; it does not speak to position 2; recorded, nothing decided.
+
+## 2026-10-12 — `emergenz-aegis-und-selbststrukturierung`, 2025-04-27, the emergent self-structuring research
+
+**The self-structuring research postulates entropy as what AEGIS generates coherence from, and does not name it only as disorder to be resisted.**
+
+It writes „Die Generierung von Kohärenz (Ordnung) aus Entropie“ ^[emergenz-aegis-und-selbststrukturierung.md:L74] and „ist das Kernversprechen von AEGIS“ ^[emergenz-aegis-und-selbststrukturierung.md:L74], and at the energy cluster „Dies klingt paradox, muss aber im Sinne der Nichtgleichgewichtsthermodynamik interpretiert werden“ ^[emergenz-aegis-und-selbststrukturierung.md:L242]. Entropy is also described there as a measure of disorder or lack of information, and the model is postulated and hedged.
+
+Sits nearer the record's second position, entropy as what coherence comes out of, with the thermodynamic reading as lens; recorded, nothing decided.
