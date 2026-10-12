@@ -1097,3 +1097,9 @@
 {"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "personas", "surface": "Personas", "line": 29, "decision": "occurrence", "why": "personas in therapeutic software", "at": "2026-10-12"}
 {"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "risse", "surface": "Glitches", "line": 124, "decision": "occurrence", "why": "visual glitches in the interface", "at": "2026-10-12"}
 {"document": "ui-konzept-fuer-roman-entwicklungssystem", "page": "ueberwelt", "surface": "Simulation", "line": 13, "decision": "occurrence", "why": "a section heading on narrative simulation", "at": "2026-10-12"}
+{"document": "blueprint", "page": "did", "surface": "DID", "line": 29, "decision": "reading", "why": "the respectful depiction of DID", "at": "2026-10-12"}
+{"document": "blueprint", "page": "emergenz", "surface": "Emergenz", "line": 41, "decision": "reading", "why": "emergence in the Fundament's integration, if characterised", "at": "2026-10-12"}
+{"document": "blueprint", "page": "entropie", "surface": "Entropie", "line": 30, "decision": "occurrence", "why": "named as a concept to embody", "at": "2026-10-12"}
+{"document": "blueprint", "page": "juna", "surface": "Juna", "line": 40, "decision": "reading", "why": "Juna/V outside AEGIS's control", "at": "2026-10-12"}
+{"document": "blueprint", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "blueprint", "page": "multiplizitaet", "surface": "Multiplizität", "line": 23, "decision": "reading", "why": "the thesis's integration of multiplicity", "at": "2026-10-12"}

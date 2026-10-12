@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      0
+  typographic marks      49
+  ascii quotes           6
+
+# inflection families -- one term, several surfaces
+  erzäh    Erzähler, Erzählers, Erzählstruktur, Erzähltempo, Erzählung
+  reali    Realität, Realitäten, Realitätsebene, Realitätsebenen, Realitätsschichten
+  syste    System, Systemen, Systemgrenzen, Systemlogik, Systems
+  chara    Character, Charakter, Charakteren, Charakterreise
+  kontr    Kontrast, Kontrollbereich, Kontrolle, Kontrollproblem
+  archi    Architekt, Architektur, Architekturdokument
+  besch    Beschreibung, Beschreibungsdichte, Beschützerin
+  detai    Detail, Detaillierte, Details
+  diese    Diese, Dieser, Dieses
+  gegen    Gegensatz, Gegensätze, Gegenteil
+  ident    Identität, Identitäten, Identitätsstörung
+  integ    Integration, Integratorin, Integrität
+  narra    Narrativ, Narrative, Narrativer
+  parad    Paradox, Paradoxien, Paradoxon
+  roman    Roman, Romanprojekts, Romans
+  spann    Spannung, Spannungsfelder, Spannungsfeldern
+  bewus    Bewusstsein, Bewusstseins
+  bluep    Blueprint, Blueprints
+  disso    Dissoziative, Dissoziativer
+  drama    Dramatica, Dramaturgen
+  durch    Durchbrechen, Durchsetzung
+  entwi    Entwicklung, Entwicklungen
+  explo    Exploit, Exploration
+  exter    Externe, Externen
+  funda    Fundament, Fundaments
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Bausteine
+  Kael < Kaels
+  Meta < Metaphern
+  Meta < Metaphorik
+  Plot < Plots
+  Sein < Seine
+  Sein < Seinsgrund
+  Sein < Bewusstsein
+  Sein < Bewusstseins
+  Teil < Anteile
+  Teil < Gegenteil
+  Tell < Darstellung
+  Tell < Storytelling
+  Welt < Umwelt
+  Welt < Welten
+  Welt < Überwelt
