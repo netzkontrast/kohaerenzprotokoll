@@ -1,0 +1,43 @@
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:#0]
+$ read.py --count "Hard SF"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hard SF` ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:#2]
+$ read.py --count "ontological exploit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`ontological exploit` ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:#3]
+$ read.py --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:#1]
+$ read.py --count "Moonshine-Link"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Moonshine-Link` ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:#11]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`AEGIS` ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:#40]
+$ read.py --count "Juna/V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V` ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:#4]
+stance_marker_count 5 = ontological exploit 3 + Hard SF 2

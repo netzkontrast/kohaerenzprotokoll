@@ -1,0 +1,53 @@
+{
+  "document": "the-k-j-connection-defining-the-non-algorithmic-mechanism-of",
+  "drive_id": "1WdEsnyIWq4hJtOwArxeg_yngxkZJhM7-PFS0fmPZVNY",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 44,
+  "typographic_marks": 16,
+  "ascii_quotes": 58,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "archi": [
+      "Architectural",
+      "Architecture"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "synth": [
+      "Synthesis",
+      "Synthesizing"
+    ],
+    "vulne": [
+      "Vulnerabilities",
+      "Vulnerability"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ]
+  ]
+}
