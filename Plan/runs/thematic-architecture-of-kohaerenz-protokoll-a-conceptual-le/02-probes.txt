@@ -1,0 +1,52 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      162
+  typographic marks      26
+  ascii quotes           110
+
+# inflection families -- one term, several surfaces
+  disso    Dissociation, Dissociative, Dissoziation
+  parad    Paradigms, Paradox, Paradoxon
+  psych    Psychological, Psychologically, Psychologythrough
+  syste    System, Systemic, Systems
+  conce    Concept, Conceptual
+  entro    Entropic, Entropy
+  epist    Episteme, Epistemology
+  funct    Function, Functional
+  intel    Intellectual, Intelligence
+  inter    Interconnections, Internal
+  logic    Logic, Logics
+  manif    Manifestation, Manifests
+  metaf    Metafiction, Metafictional
+  metap    Metaphor, Metaphysics
+  model    Model, Models
+  multi    Multiple, Multiplicity
+  ontol    Ontological, Ontology
+  philo    Philosophical, Philosophy
+  phobi    Phobia, Phobias
+  poten    Potential, Potentialmeer
+  speci    Specialized, Specification
+  theor    Theorems, Theory
+
+# substring pairs -- never one term, often merged by accident
+  Mode < Model
+  Mode < Models
+  Part < Parts
+  Self < Selfhood
+  Logic < Logics
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Psychologically
+  Model < Models
+  Entity < Identity
+  Phobia < Phobias
+  System < Systems
+  System < Systemic
+  Concept < Conceptual
+  Fiction < Metafiction
+  Fiction < Metafictional
+  Paradox < Paradoxon
+  Physics < Metaphysics
+  Function < Functional
+  Thematic < Mathematics

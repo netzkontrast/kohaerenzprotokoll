@@ -1,0 +1,14 @@
+# thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le
+  lines                206  (frontmatter ends at 9)
+  body words           3798
+  headings             31   bold-only lines 0
+  table rows           23   code fences 0
+  question marks       0
+  backslash escapes    162
+  typographic marks    26   ascii quotes 110
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1398 chars
+

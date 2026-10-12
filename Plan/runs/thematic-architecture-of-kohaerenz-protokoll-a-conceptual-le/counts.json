@@ -1,0 +1,762 @@
+{
+  "document": "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
+  "drive_id": "1KxNvpx8fddWq224oiJw_nCvwBDVIVx81XIHjA13P7pY",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 44,
+      "n_including_compounds": 44,
+      "lines": [
+        15,
+        24,
+        26,
+        38,
+        42,
+        50,
+        52,
+        53,
+        59,
+        88,
+        90,
+        106,
+        108,
+        112,
+        116,
+        118,
+        119,
+        123,
+        125,
+        126,
+        130,
+        132,
+        133,
+        134,
+        140,
+        141,
+        159,
+        169,
+        178,
+        190,
+        193,
+        200,
+        201,
+        205
+      ]
+    },
+    "Kael": {
+      "n": 34,
+      "n_including_compounds": 35,
+      "lines": [
+        15,
+        24,
+        26,
+        38,
+        42,
+        60,
+        66,
+        70,
+        72,
+        77,
+        90,
+        94,
+        98,
+        106,
+        119,
+        126,
+        132,
+        133,
+        134,
+        141,
+        160,
+        162,
+        168,
+        178,
+        188,
+        201,
+        205
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        72
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        161,
+        162,
+        188
+      ]
+    },
+    "Kael ↔ Juna/V relationship": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Das Fundament": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        38,
+        178
+      ]
+    },
+    "Die Leere / Das Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Die Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Das Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        125
+      ]
+    },
+    "The Void": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        178
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "System-Stress": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        77
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Verfolger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Gärtner": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104,
+        106
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "sub-protocollar": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        190,
+        201
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        205
+      ]
+    },
+    "dialetheic geist": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        205
+      ]
+    },
+    "functional multiplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        98,
+        168
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        84,
+        85
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "EPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        77,
+        78,
+        84,
+        85
+      ]
+    },
+    "Phobia of Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "externalized introject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "positive intent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "autopoietic system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "operationally closed": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118,
+        119,
+        205
+      ]
+    },
+    "ontological blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "information-theoretic trauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Entropic Management": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Hybrid Cognitive Architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Symbolic Core": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Specialized Modules": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Adaptive Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Logics of Formal Inconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "LFI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Discursive Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "D2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "split-brain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "System Mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        153
+      ]
+    },
+    "Story Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Polyphonic Prose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Metafiction & Ergodic Literature": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Episteme": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        32,
+        36,
+        38,
+        205
+      ]
+    },
+    "Gnosis": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        24,
+        32,
+        36,
+        38,
+        205
+      ]
+    },
+    "Qualia": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        48,
+        50,
+        52,
+        53
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Dialetheism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        70,
+        72
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "IFS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        100,
+        102
+      ]
+    },
+    "Dramatica": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        149,
+        151,
+        153,
+        158
+      ]
+    },
+    "Objective Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Main Character": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Impact Character": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Subjective Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Throughline Mapping": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Fixed Attitude": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "paraconsistency": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        133,
+        205
+      ]
+    },
+    "Paraconsistent Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Cache coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "The Value Alignment Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Specification Gaming & Perverse Instantiation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Quantum Entanglement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Prehension": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        194
+      ]
+    },
+    "Whitehead": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Bakhtin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Monster Group": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "The Moonshine Phenomenon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Hard Science Fiction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Psychological Thriller": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Gödel's Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    }
+  }
+}
