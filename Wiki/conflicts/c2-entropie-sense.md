@@ -330,3 +330,11 @@ Stands beside position 1 (entropy as disorder to be resisted) as the same sense 
 It writes „Die Generierung von Kohärenz (Ordnung) aus Entropie“ ^[emergenz-aegis-und-selbststrukturierung.md:L74] and „ist das Kernversprechen von AEGIS“ ^[emergenz-aegis-und-selbststrukturierung.md:L74], and at the energy cluster „Dies klingt paradox, muss aber im Sinne der Nichtgleichgewichtsthermodynamik interpretiert werden“ ^[emergenz-aegis-und-selbststrukturierung.md:L242]. Entropy is also described there as a measure of disorder or lack of information, and the model is postulated and hedged.
 
 Sits nearer the record's second position, entropy as what coherence comes out of, with the thermodynamic reading as lens; recorded, nothing decided.
+
+## 2026-10-12 — `emergenz-autonomer-systeme-aegis-forschung`, 2025-04-27, the AEGIS fundamental-research report
+
+**The report conceptualises AEGIS as producing coherence from a state of higher entropy, frames it as a dissipative structure, and itself asks whether `aus Entropie` means that or the use of entropy gradients.**
+
+It writes „AEGIS ist ein System oder Protokoll, das autonom interne Kohärenz“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L445] by processing or emerging from a higher-entropy state, and „AEGIS kann als dissipative Struktur im Sinne Prigogines gerahmt werden“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L449]. It marks the phrase as ambiguous („Bedeutet sie, dass Kohärenz“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L449]) and calls the gradient reading „Letzteres erscheint physikalisch plausibler“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L449]. The whole is labelled speculative: „als ein spekulatives Konstrukt konzeptualisiert“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L517].
+
+Sits nearer the record's second position, entropy as what coherence comes out of, with the thermodynamic reading as lens; it also writes that low internal entropy is kept up against the pull of entropy, so it touches the first. Recorded, nothing decided.
