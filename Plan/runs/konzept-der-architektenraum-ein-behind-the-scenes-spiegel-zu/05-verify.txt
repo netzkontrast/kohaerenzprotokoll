@@ -1,0 +1,160 @@
+# every number stated in the census and the note, with the command that produced it
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Konzept"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            12
+
+`Konzept` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Teil"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Teil` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#4]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Kapitel"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kapitel` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#10]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "TSDP"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`TSDP` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#5]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "ANP/EP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`ANP/EP` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "AEGIS"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`AEGIS` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#5]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Paradoxon X"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paradoxon X` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Autopoiesis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Autopoiesis` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#2]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Feedback Loops"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Feedback Loops` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Emergenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Emergenz` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Gaslighting"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gaslighting` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Das Fundament"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Das Fundament` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#3]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Heldinnenreise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Heldinnenreise` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Juna/V"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna/V` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Der Architektenraum"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Der Architektenraum` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#3]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Spiegel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Spiegel` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Kael"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Kael` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Kaels"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kaels` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#2]
+
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "IFS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`IFS` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#3]
+$ python3 scripts/read.py konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kernwelt` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#0]
+# stance_marker_count 3 = Konzept (1) + könnte (1) + (Optional) (1)
+$ read.py --count "Konzept"
+`Konzept` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+$ read.py --count "könnte"
+`könnte` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]
+$ read.py --count "(Optional)"
+`(Optional)` ^[konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu.md:#1]

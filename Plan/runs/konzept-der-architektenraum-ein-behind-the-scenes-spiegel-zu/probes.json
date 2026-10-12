@@ -1,0 +1,203 @@
+{
+  "document": "konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu",
+  "drive_id": "1sx0evnN5XMgCDMHtbSuZe3wghyu9Q_ZCnej0H-pQDU4",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 14,
+  "backslash_escapes": 0,
+  "typographic_marks": 32,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzepts"
+    ],
+    "disku": [
+      "Diskussion",
+      "Diskussionen",
+      "Diskussionsanregung"
+    ],
+    "funda": [
+      "Fundament",
+      "Fundamente",
+      "Fundaments"
+    ],
+    "inter": [
+      "Interesse",
+      "Interessierten",
+      "Intersubjektivität"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturierung"
+    ],
+    "syste": [
+      "System",
+      "Systemdynamik",
+      "Systemtheorie"
+    ],
+    "archi": [
+      "Architekten",
+      "Architektenraum"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakterisierung"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokuments"
+    ],
+    "einbl": [
+      "Einblick",
+      "Einblicke"
+    ],
+    "grund": [
+      "Grundlage",
+      "Grundprinzipien"
+    ],
+    "heldi": [
+      "Heldinnen",
+      "Heldinnenreise"
+    ],
+    "hinte": [
+      "Hintergrund",
+      "Hintergründe"
+    ],
+    "kompl": [
+      "Komplexe",
+      "Komplexität"
+    ],
+    "konte": [
+      "Kontext",
+      "Kontextualisierung"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollversuche"
+    ],
+    "leser": [
+      "Leser",
+      "Lesern"
+    ],
+    "masch": [
+      "Maschine",
+      "Maschinenethik"
+    ],
+    "model": [
+      "Modell",
+      "Modelle"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologien"
+    ],
+    "parad": [
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "persp": [
+      "Perspektiven",
+      "Perspektivwechseln"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesses"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie"
+    ],
+    "roman": [
+      "Roman",
+      "Romans"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Raum",
+      "Traumafolgen"
+    ],
+    [
+      "Raum",
+      "Architektenraum"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Ethik",
+      "Maschinenethik"
+    ],
+    [
+      "Leser",
+      "Lesern"
+    ],
+    [
+      "Reise",
+      "Heldenreise"
+    ],
+    [
+      "Reise",
+      "Heilungsreise"
+    ],
+    [
+      "Reise",
+      "Heldinnenreise"
+    ],
+    [
+      "Roman",
+      "Romans"
+    ],
+    [
+      "Sicht",
+      "Absicht"
+    ],
+    [
+      "Sicht",
+      "Symbolübersichten"
+    ],
+    [
+      "Teile",
+      "Anteile"
+    ],
+    [
+      "Format",
+      "Information"
+    ],
+    [
+      "Modell",
+      "Modelle"
+    ],
+    [
+      "Selbst",
+      "Selbstführung"
+    ]
+  ]
+}

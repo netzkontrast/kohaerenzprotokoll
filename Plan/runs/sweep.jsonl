@@ -1254,3 +1254,6 @@
 {"document": "entwicklungsstrategie-fuer-kohaerenz-protokoll", "page": "emergenz", "surface": "Emergenz", "line": 144, "decision": "occurrence", "why": "tool guidance; light pass", "at": "2026-10-12"}
 {"document": "entwicklungsstrategie-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "tool guidance; light pass", "at": "2026-10-12"}
 {"document": "entwicklungsstrategie-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 53, "decision": "occurrence", "why": "tool guidance; light pass", "at": "2026-10-12"}
+{"document": "konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu", "page": "juna", "surface": "Juna", "line": 116, "decision": "occurrence", "why": "a topic of the companion work's outline", "at": "2026-10-12"}
+{"document": "konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "a topic of the companion work's outline", "at": "2026-10-12"}
+{"document": "konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu", "page": "ueberwelt", "surface": "Simulation", "line": 103, "decision": "occurrence", "why": "a topic of the companion work's outline", "at": "2026-10-12"}

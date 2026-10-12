@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      14
+  backslash escapes      0
+  typographic marks      32
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  konze    Konzept, Konzepte, Konzepten, Konzepts
+  disku    Diskussion, Diskussionen, Diskussionsanregung
+  funda    Fundament, Fundamente, Fundaments
+  inter    Interesse, Interessierten, Intersubjektivität
+  struk    Struktur, Strukturelle, Strukturierung
+  syste    System, Systemdynamik, Systemtheorie
+  archi    Architekten, Architektenraum
+  chara    Charaktere, Charakterisierung
+  dokum    Dokument, Dokuments
+  einbl    Einblick, Einblicke
+  grund    Grundlage, Grundprinzipien
+  heldi    Heldinnen, Heldinnenreise
+  hinte    Hintergrund, Hintergründe
+  kompl    Komplexe, Komplexität
+  konte    Kontext, Kontextualisierung
+  kontr    Kontrolle, Kontrollversuche
+  leser    Leser, Lesern
+  masch    Maschine, Maschinenethik
+  model    Modell, Modelle
+  ontol    Ontologie, Ontologien
+  parad    Paradoxien, Paradoxon
+  persp    Perspektiven, Perspektivwechseln
+  proze    Prozess, Prozesses
+  psych    Psyche, Psychologie
+  roman    Roman, Romans
+
+# substring pairs -- never one term, often merged by accident
+  Kael < Kaels
+  Raum < Trauma
+  Raum < Traumafolgen
+  Raum < Architektenraum
+  Teil < Teile
+  Teil < Anteile
+  Welt < Welten
+  Welt < Kernwelten
+  Ethik < Maschinenethik
+  Leser < Lesern
+  Reise < Heldenreise
+  Reise < Heilungsreise
+  Reise < Heldinnenreise
+  Roman < Romans
+  Sicht < Absicht
+  Sicht < Symbolübersichten
+  Teile < Anteile
+  Format < Information
+  Modell < Modelle
+  Selbst < Selbstführung
