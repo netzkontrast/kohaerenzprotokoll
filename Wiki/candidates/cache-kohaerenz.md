@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung"]
 gathered: "2026-09-24"
 ---
 
@@ -41,6 +41,10 @@ It calls the problem „das erlebbare Symptom“ ^[kohaerenz-protokoll-spannungs
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 
 In Kael's entry the concept names `Cache Kohärenz` once, as his core problem: „Sein Kernproblem ist das“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L26] chaos of that name, „Chaos, das seine Erlebniswelt ständig durchbricht“ ^[erlebniswelten-der-anteile-uberlagerung-mit-kernwelten.md:L26]. The concept does not define the term; it appears in the document's own inner quotation marks.
+
+## Reading — `kernwelten-und-fragmentierte-wahrnehmung`, 2025-04-29, the perception report — the problem explained by amnesia, and a possible mirror in KW1
+
+The perception report names Kael's `Cache Kohärenz` problem twice and never defines it. Under amnesia and time gaps it writes „Gedächtnisverlust für bestimmte Ereignisse oder Zeiträume“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L31], and says this explains the problem and „und die diskontinuierliche Wahrnehmung der Kernwelten durch das System“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L31]. In KW1 it proposes that post-reboot glitches (data corruption on screens, logical paradoxes) could mirror the problem directly; the line ends „-Problem direkt widerspiegeln und für Anteile wie Argus oder Lex Ansatzpunkte zur Analyse bieten“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L152].
 
 ## Reading — `charaktere`, 2025-07-29, the character concept — Kael's Cache Kohärenz problem
 
