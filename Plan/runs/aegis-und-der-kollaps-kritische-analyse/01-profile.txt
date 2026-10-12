@@ -1,0 +1,14 @@
+# aegis-und-der-kollaps-kritische-analyse
+  lines                212  (frontmatter ends at 9)
+  body words           5089
+  headings             18   bold-only lines 0
+  table rows           14   code fences 0
+  question marks       7
+  backslash escapes    58
+  typographic marks    32   ascii quotes 136
+  invisible characters U+200Bx2
+  math symbol lines    1
+  glued ref numbers    53
+  repeated labels      none
+  longest line         1200 chars
+
