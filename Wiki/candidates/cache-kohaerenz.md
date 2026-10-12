@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 22
-readings: 22
+sources: 23
+readings: 23
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol"]
 gathered: "2026-09-24"
 ---
 
@@ -85,6 +85,10 @@ The analysis report offers cache coherence as a technical comparison for the Ris
 It adds: „Die Handlung des Romans ist im Kern der Kampf gegen dieses Löschen.“ ^[kohaerenz-analyse-kapitel-2.md:L41]
 
 The term appears again as the title of reference 6, „Cache-Kohärenz in hart echtzeitfähigen Mehrkern-Prozessoren“ ^[kohaerenz-analyse-kapitel-2.md:L244], a dissertation of the TU Dortmund the report lists (L244).
+
+## Reading — `narrative-architecture-dossier-coherence-protocol`, 2026-01-02, the architecture dossier — The cache-coherence analogy
+
+The architecture dossier sets the analogy of „cache coherence“ ^[narrative-architecture-dossier-coherence-protocol.md:L67] for Kael's system, and in Act III directs that the system establish its own internal „cache coherence protocol“ ^[narrative-architecture-dossier-coherence-protocol.md:L67]. Recorded, not applied.
 
 ## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — Kael's memory inconsistency, set against the schema's history node
 
