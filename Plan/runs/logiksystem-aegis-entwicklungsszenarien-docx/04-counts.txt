@@ -1,0 +1,79 @@
+# counts for 57 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Aegis ist, was aegis verhindert, das es nicht ist
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Aegis                            85 word    88 in   [11, 13, 15, 23, 29, 31]
+                                    1      as Aegisist
+  Potentialraum                    26 word    37 in   [11, 17, 19, 23, 25, 31]
+                                   11      as Potentialraums
+  Raum reinen logischen Potentials    1 word     1 in   [17]
+  Restmuster                        8 word     9 in   [27, 31, 33, 35, 69, 75]
+                                    1      as Restmustern
+  Restmustern vergangener selbstreferenzierender Logik    1 word     1 in   [27]
+  Selbstauslöschung                 4 word     5 in   [19, 21, 23, 25, 69]
+                                    1      as Selbstauslöschungsprozesses
+  Sturm der Inkohärenz              4 word     4 in   [49, 55, 107, 280]
+  Inkohärenz                       31 word    34 in   [45, 47, 49, 51, 53, 55]
+                                    2      as Inkohärenzmuster
+                                    1      as Inkohärenzstürme
+  Inkohärenzstürme                  1 word     1 in   [149]
+  Kern-Identitäts-Nexus (KIN)       2 word     2 in   [93, 198]
+  Kern-Identitäts-Nexus             2 word     2 in   [93, 198]
+  KIN                              18 word    18 in   [93, 99, 119, 123, 133, 141]
+  Grenz-Integritäts-Feld (GIF)      2 word     2 in   [101, 206]
+  Grenz-Integritäts-Feld            2 word     2 in   [101, 206]
+  GIF                              30 word    30 in   [101, 107, 115, 119, 133, 141]
+  Prädiktive Simulations-Engine (PSE)    2 word     2 in   [109, 214]
+  Prädiktive Simulations-Engine     2 word     2 in   [109, 214]
+  PSE                              26 word    26 in   [109, 115, 119, 133, 141, 149]
+  Kohärenz-Resonanz-Monitor (KRM)    2 word     2 in   [117, 220]
+  Kohärenz-Resonanz-Monitor         2 word     2 in   [117, 220]
+  KRM                              24 word    26 in   [117, 123, 133, 141, 149, 193]
+  Szenario A                        3 word     3 in   [71, 99, 131]
+  Szenario B                        3 word     3 in   [77, 99, 139]
+  Szenario C                        3 word     3 in   [83, 107, 147]
+  Das stabilisierte Paradoxon-Modell    1 word     1 in   [71]
+  Das autopoietische Schließungsmodell    1 word     1 in   [77]
+  Das Kohärenzfilter-Modell         1 word     1 in   [83]
+  Modell Alpha                      4 word     4 in   [129, 165, 175, 180]
+  Modell Beta                       9 word     9 in   [137, 165, 177, 183, 185, 187]
+  Modell Gamma                      4 word     4 in   [145, 165, 175, 180]
+  Die Paradox-Maschine              1 word     1 in   [129]
+  Das Autopoietische Netzwerk       2 word     2 in   [137, 177]
+  Der Informationsprozessor         1 word     1 in   [145]
+  Kernparadoxon                     1 word     4 in   [75, 133]  <-- substring
+                                    3      as Kernparadoxons
+  Kerndefinition                   10 word    10 in   [65, 81, 87, 91, 95, 99]
+  operationale Geschlossenheit      5 word     5 in   [41, 79, 81, 103, 272]
+  strukturelle Kopplung             8 word     8 in   [53, 65, 81, 141, 212, 272]
+  Nicht-Aegis                       1 word     1 in   [107]
+  Verteidigungsmodi                 1 word     1 in   [107]
+  Selbstmodelle                     2 word     2 in   [115, 283]
+  Grenzkämpfe                       1 word     1 in   [280]
+  Plot Hooks                        1 word     1 in   [278]
+  Autopoiesis                      15 word    17 in   [41, 43, 51, 99, 123, 171]
+                                    1      as Autopoiesis-Theorie
+                                    1      as autopoiesis-101-how-living-systems-keep-themselves-alive-and-kicking
+                                    1      as Autopoiesis_and_Cognition
+  Dialetheismus                     3 word     3 in   [45, 75]
+  parakonsistente Logik             1 word     1 in   [45]
+  Imprädikativität                  2 word     2 in   [25]
+  Quantenschaum                     2 word     2 in   [21, 23]
+  Maxwellscher Dämon                1 word     1 in   [87]
+  Chimera-Zustände                  1 word     1 in   [51]
+  Negentropie                       3 word     5 in   [53, 87, 149, 167]
+                                    1      as Negentropieproduktion
+                                    1      as Negentropie-Engine
+  Fixpunkt                          2 word     7 in   [33, 73, 75, 99]  <-- substring
+                                    2      as Fixpunkte
+                                    1      as Fixpunkten
+                                    1      as Fixpunkttheoreme
+                                    1      as Fixpunktberechnungen
+  Gödelschen Unvollständigkeit      1 word     1 in   [31]
+  Lügner-Paradoxon                  1 word     1 in   [75]
+  Russells Antinomie                1 word     1 in   [25]
+  computationalen Reflexion         2 word     2 in   [61, 115]
+  Phasenfehlausrichtung             1 word     1 in   [87]
+  horror vacui                      1 word     1 in   [21]

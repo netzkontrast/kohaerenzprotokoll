@@ -1,0 +1,14 @@
+# logiksystem-aegis-entwicklungsszenarien-docx
+  lines                337  (frontmatter ends at 9)
+  body words           5990
+  headings             24   bold-only lines 11
+  table rows           7   code fences 0
+  question marks       21
+  backslash escapes    25
+  typographic marks    153   ascii quotes 8
+  invisible characters U+200Bx25
+  math symbol lines    7
+  glued ref numbers    50
+  repeated labels      Analyse x5, Beschreibung x5, Fokus x3, Narrativ x3
+  longest line         2189 chars
+

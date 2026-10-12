@@ -1,0 +1,115 @@
+{
+  "document": "logiksystem-aegis-entwicklungsszenarien-docx",
+  "drive_id": "1xQMV4aSHd9MhV1SvC6IUvcHEjO6pl73F",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 57,
+    "decisions": 61,
+    "decided_by_lookup": 42,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        29,
+        35,
+        39,
+        41,
+        43,
+        53,
+        87,
+        133,
+        141,
+        177
+      ],
+      "attribution": "",
+      "note": "Aegis as a self-sustaining entity, three models and the selection of Beta"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        67,
+        69
+      ],
+      "attribution": "",
+      "note": "Genesis as the heading of three proposed emergence scenarios"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        53,
+        149,
+        167
+      ],
+      "attribution": "",
+      "note": "Negentropie as target state and as the name of a model"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "generic emergence from the Potentialraum, not the page's emergence"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "a borrowed physics analogy in the analysis of the Potentialraum"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 67,
+      "decision": "reading",
+      "why": "the section heading on Aegis's emergence, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 31,
+      "decision": "occurrence",
+      "why": "generic coherence of Restmuster, not the page's term"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 63,
+      "decision": "occurrence",
+      "why": "Aegis's internal simulations, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
