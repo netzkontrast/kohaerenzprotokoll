@@ -370,3 +370,11 @@ Stands as a position that holds the external level and the exiled part together;
 It names „the characters of Juna and V and their“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L109] Moonshine-Link and says the link represents „the existence of an external truth beyond AEGIS's control“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L111] and „something real to fight for outside the simulation“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L111]. It makes no claim here about Juna/V as an exiled part of Kael.
 
 Stands as a position that holds the external level as a counterweight to AEGIS's closure, in a plan; recorded, not decided.
+
+## 2026-10-12 — `blueprint`, 2025-07-29, the blueprint
+
+**The blueprint names the Externe Ebene as a contrast to AEGIS's domain and Juna/V as outside AEGIS's control, and does not say where the level lies.**
+
+The blueprint lists „Die mysteriöse Externe Ebene“ ^[blueprint.md:L46] as one of six levels; it embodies „das Unbekannte und die Verbindung verkörpert“ ^[blueprint.md:L46] and serves „als Kontrast zu“ ^[blueprint.md:L46] AEGIS's domain of control. Juna/V is „Diese externe Entität oder Anomalie“ ^[blueprint.md:L40] outside AEGIS's direct control. The Fundament is postulated as the deepest level „Postuliert als die tiefste Realitätsebene“ ^[blueprint.md:L41] behind AEGIS's simulation. Nowhere does it say that the Externe Ebene lies beyond or inside the simulation; its nature is an open next step: „die Konkretisierung der Natur von“ ^[blueprint.md:L94] Juna/V and the Externe Ebene.
+
+Stands as a contrast to AEGIS's domain with the placement unstated; neither side of the record's question is taken, recorded and not decided.
