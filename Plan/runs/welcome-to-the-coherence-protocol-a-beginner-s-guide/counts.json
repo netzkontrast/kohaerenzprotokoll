@@ -1,0 +1,460 @@
+{
+  "document": "welcome-to-the-coherence-protocol-a-beginner-s-guide",
+  "drive_id": "1U6zV9Okflf5PDdGKbUfx49V75nnsjsURMhYZLt41Ouw",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        135
+      ]
+    },
+    "System Kael": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        23,
+        33,
+        35,
+        37
+      ]
+    },
+    "Kael": {
+      "n": 25,
+      "n_including_compounds": 25,
+      "lines": [
+        15,
+        23,
+        31,
+        33,
+        35,
+        37,
+        45,
+        49,
+        53,
+        54,
+        56,
+        62,
+        64,
+        70,
+        76,
+        82,
+        88,
+        92,
+        95,
+        107,
+        113,
+        117
+      ]
+    },
+    "AEGIS": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        23,
+        25,
+        27,
+        29,
+        30,
+        31,
+        42,
+        45,
+        49,
+        53,
+        54,
+        62,
+        97,
+        103,
+        107,
+        109,
+        115,
+        119
+      ]
+    },
+    "Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Ich-Fragmenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "algorithmic dismemberment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Einsamkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Sehnsucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "entropy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        129
+      ]
+    },
+    "Apparently Normal Parts (ANPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "ANPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        42,
+        45,
+        68
+      ]
+    },
+    "Emotional Parts (EPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "EPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        43,
+        45,
+        74
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        68,
+        94
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        80,
+        94
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        95
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Kernwelten (Core Worlds)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        62
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        62
+      ]
+    },
+    "Core Worlds": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        62
+      ]
+    },
+    "Psycho-Architectures": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Somatic Truth": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        70,
+        76,
+        82,
+        88
+      ]
+    },
+    "Principle": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        68,
+        74,
+        80,
+        86
+      ]
+    },
+    "Atmosphere": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        69,
+        75,
+        81,
+        87
+      ]
+    },
+    "ruin-garden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        92
+      ]
+    },
+    "Juna/V": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        86,
+        101,
+        103,
+        105,
+        107,
+        113,
+        117
+      ]
+    },
+    "6 Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        111,
+        113,
+        115
+      ]
+    },
+    "ontologically blind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Protocol Ontology": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        123,
+        125
+      ]
+    },
+    "K₁": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "K₀": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        86
+      ]
+    },
+    "Theory of Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Correspondence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "dialetheic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    }
+  }
+}
