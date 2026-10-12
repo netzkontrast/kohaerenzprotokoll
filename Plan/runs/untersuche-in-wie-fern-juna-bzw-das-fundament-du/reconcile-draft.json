@@ -1,0 +1,200 @@
+{
+  "document": "untersuche-in-wie-fern-juna-bzw-das-fundament-du",
+  "drive_id": "16UO-3LkS1z0V67nY05zUOdlri082l5khJVKO0wmKOIQ",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 37,
+    "decisions": 38,
+    "decided_by_lookup": 32,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        29,
+        94,
+        107,
+        109,
+        114,
+        120,
+        154,
+        159
+      ],
+      "attribution": "",
+      "note": "AEGIS' logic as a perversion of the Fundament, flawed by isolation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        38,
+        113,
+        154
+      ],
+      "attribution": "",
+      "note": "Entropie: not (only) the entity, and AEGIS' misclassification"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        92,
+        148,
+        161
+      ],
+      "attribution": "",
+      "note": "Externe Ebene: the entity's place, then the place of the exile"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        92,
+        113,
+        135,
+        148,
+        161,
+        172
+      ],
+      "attribution": "",
+      "note": "Juna/V as external catalyst, then as the exiled other part"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        47,
+        64,
+        119,
+        120,
+        159,
+        174,
+        175
+      ],
+      "attribution": "",
+      "note": "Kael's origin said two ways: primary fragment, then Host"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        120
+      ],
+      "attribution": "",
+      "note": "Kernwelten as Skinner-Boxen, in the account of Kael's trauma"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        174
+      ],
+      "attribution": "",
+      "note": "Kiko among the secondary fragments"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        174,
+        175
+      ],
+      "attribution": "",
+      "note": "Lex among the secondary fragments and the inner parts"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        94,
+        131,
+        133,
+        166
+      ],
+      "attribution": "",
+      "note": "Moonshine-Link: ER=EPR basis, invisible to AEGIS, same substance"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        174,
+        175
+      ],
+      "attribution": "",
+      "note": "Nyx among the secondary fragments and the inner parts"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        47,
+        120,
+        174
+      ],
+      "attribution": "",
+      "note": "TSDP structure as the wound of the fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 90,
+      "decision": "occurrence",
+      "why": "emergence in the general sense of Das Fundament's rewards"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 38,
+      "decision": "reading",
+      "why": "AEGIS classing Gnosis as entropy, read on the page"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 11,
+      "decision": "reading",
+      "why": "the briefing's subject Juna/V, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 73,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "Kael is no simulation of trauma — not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

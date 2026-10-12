@@ -1,0 +1,14 @@
+# untersuche-in-wie-fern-juna-bzw-das-fundament-du
+  lines                181  (frontmatter ends at 9)
+  body words           1542
+  headings             5   bold-only lines 5
+  table rows           0   code fences 0
+  question marks       2
+  backslash escapes    10
+  typographic marks    5   ascii quotes 184
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    8
+  repeated labels      Implementierung x4, Lösung x4
+  longest line         587 chars
+
