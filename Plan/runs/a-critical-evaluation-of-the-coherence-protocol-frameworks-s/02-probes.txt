@@ -1,0 +1,35 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      56
+  typographic marks      7
+  ascii quotes           78
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coheron, Coherons
+  corre    Correction, Corrective, Correspondence
+  extra    Extraordinary, Extrapolation
+  frame    Framework, Frameworks
+  metho    Methodological, Methodology
+  mirro    Mirror, Mirroring
+  narra    Narrative, Narratively
+  philo    Philosophical, Philosophy
+  scien    Science, Scientific
+  synth    Synthesis, Synthesizing
+  termi    Terminological, Terminology
+  wavel    Wavelet, Wavelets
+
+# substring pairs -- never one term, often merged by accident
+  Term < Terminology
+  Term < Terminological
+  Logic < Analogical
+  Logic < Methodological
+  Logic < Terminological
+  Mirror < Mirroring
+  Thesis < Synthesis
+  Thesis < Hypothesis
+  Coheron < Coherons
+  Physics < Metaphysics
+  Wavelet < Wavelets
+  Framework < Frameworks
+  Narrative < Narratively

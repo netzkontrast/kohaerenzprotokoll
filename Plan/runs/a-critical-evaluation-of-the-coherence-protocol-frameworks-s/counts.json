@@ -1,0 +1,364 @@
+{
+  "document": "a-critical-evaluation-of-the-coherence-protocol-frameworks-s",
+  "drive_id": "17pOUfYZjY7EIQr4xInMa6tcWF4UEafpSXTXkHfDU9w4",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Dual Kernel Theory": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        48,
+        65,
+        69,
+        89,
+        101,
+        109
+      ]
+    },
+    "DKT": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        5,
+        11,
+        52,
+        61,
+        84
+      ]
+    },
+    "Persistence Principle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        5,
+        11,
+        101
+      ]
+    },
+    "Dual Kernel Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "K₁": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        20,
+        40,
+        50,
+        54,
+        57,
+        65
+      ]
+    },
+    "K₀": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        19,
+        20,
+        40,
+        50,
+        55,
+        57,
+        61,
+        65
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Coherons": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        20,
+        40
+      ]
+    },
+    "Corrective Wavelets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Corrective Wavelet Hypothesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "CWH": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Mechanics of Persistence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "atoms of persistence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "felt side of re-coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Semantic Re-appropriation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Analogical Extrapolation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        103
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        52
+      ]
+    },
+    "Kael": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        50,
+        52,
+        54,
+        61
+      ]
+    },
+    "AEGIS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        59,
+        61
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Korrektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Rekonfiguration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Λ-Canon Synthesis": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        5,
+        7,
+        9,
+        67,
+        69,
+        73,
+        89,
+        101,
+        109
+      ]
+    },
+    "Λ-Imperative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Codex Framework": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Bridge Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "coherence floor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "φ-envelope growth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        83
+      ]
+    },
+    "glyph :Λ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "private cosmology": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        7,
+        89,
+        102
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        54,
+        61
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Tertiary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        54,
+        55
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "EPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55
+      ]
+    },
+    "isolation objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    }
+  }
+}
