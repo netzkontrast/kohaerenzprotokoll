@@ -1,0 +1,155 @@
+{
+  "document": "heilung-der-verlust-von-superkraeften",
+  "drive_id": "15lda8LQPHV7omD1VV0spziUd0yMHHYLlbIy4VAb_7Og",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 41,
+    "decisions": 41,
+    "decided_by_lookup": 34,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        51,
+        53,
+        103,
+        107,
+        179
+      ],
+      "attribution": "",
+      "note": "AEGIS as the maker of the Anteile's abilities, enforcing their isolation, and the owner of the Kintsugi gold"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        33,
+        183
+      ],
+      "attribution": "",
+      "note": "healing System Kael as the loss of the Anteile's abilities"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        51,
+        72,
+        123
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as specialised training environments"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        74,
+        111,
+        142
+      ],
+      "attribution": "",
+      "note": "Kiko as a vulnerable child part and the bearer of fear"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        49,
+        70,
+        103,
+        107,
+        135,
+        136,
+        137
+      ],
+      "attribution": "",
+      "note": "Lex as a primary ANP whose resistance and empathic error the dossier forecasts"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "Lia among the child parts Nyx protects"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the aim of the healing"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        49,
+        103,
+        111,
+        141,
+        142,
+        143
+      ],
+      "attribution": "",
+      "note": "Nyx as a primary EP, the fight defence, whose hesitation the dossier forecasts"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        74,
+        136
+      ],
+      "attribution": "",
+      "note": "Rhys as the holder of empathy"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      30,
+      33
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 31,
+      "decision": "reading",
+      "why": "System Kael's aim of functional multiplicity, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

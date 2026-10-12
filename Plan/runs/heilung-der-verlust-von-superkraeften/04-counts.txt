@@ -1,0 +1,60 @@
+# counts for 41 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  System Kael                       8 word     8 in   [31, 33, 135, 165, 183, 202]
+  Kael                              8 word    10 in   [31, 33, 115, 135, 141, 165]
+                                    2      as Kaels
+  AEGIS                            25 word    27 in   [31, 51, 53, 60, 70, 86]
+                                    1      as AEGIS-Programmierung
+                                    1      as AEGIS-Vollstrecker
+  Lex                              19 word    20 in   [49, 53, 58, 70, 72, 74]
+  Nyx                              17 word    17 in   [49, 53, 58, 70, 72, 74]
+  Rhys                              2 word     2 in   [74, 136]
+  Kiko                              3 word     3 in   [74, 111, 142]
+  Lia                               1 word     1 in   [111]
+  Anteile                          15 word    19 in   [31, 49, 53, 68, 70, 76]
+                                    2      as Anteilen
+  Kernwelten                        2 word     2 in   [51, 72]
+  Kernwelt                          1 word     3 in   [51, 72, 123]  <-- substring
+                                    2      as Kernwelten
+  funktionaler Multiplizität        1 word     1 in   [31]
+  Milieukontrolle                   1 word     1 in   [53]
+  Kohärenz Protokoll                6 word     6 in   [21, 31, 122, 179, 208, 213]
+  Superkräfte                       4 word     4 in   [60, 161, 183, 191]
+  Datenkorruption                   3 word     3 in   [72, 107, 122]
+  Anscheinend Normaler Persönlichkeitsanteil    1 word     1 in   [107]
+  ANP                               1 word     1 in   [107]
+  EP                                1 word     2 in   [107, 111]
+  EPs                               1 word     1 in   [107]
+  Skinner-Boxen                     1 word     1 in   [51]
+  Monokulturen                      1 word     1 in   [53]
+  Ressourcen-Umverteilung           2 word     2 in   [57, 204]
+  Verwässerung                      2 word     2 in   [64, 204]
+  Gabe des Traumas                  3 word     3 in   [155, 189, 206]
+  Blueprint für einen bittersüßen Sieg    2 word     2 in   [33, 208]
+  Das Gambit der Beschützer         1 word     1 in   [99]
+  Beschützer-Anteile                2 word     2 in   [131, 204]
+  vergiftete Gold                   2 word     2 in   [171, 183]
+  falsches Kintsugi                 1 word     1 in   [189]
+  neuronalen Über-Spezialisierung    2 word     2 in   [53, 202]
+  neuronale Plastizität             1 word     1 in   [51]
+  Synaptisches Pruning              1 word     1 in   [58]
+  Hyperfokus                       10 word    10 in   [64, 68, 70, 202, 228, 229]
+  Flow                              6 word     8 in   [64, 68, 70, 215, 228, 230]
+                                    2      as Flow-Zustand
+                                    1      as flowlab
+  operante Konditionierung          1 word     1 in   [51]
+  Strukturellen Dissoziation        1 word     1 in   [115]
+  Trauma Bondings                   1 word     1 in   [163]
+  posttraumatischen Wachstums       1 word     1 in   [161]
+  Kintsugi                          5 word     8 in   [171, 175, 177, 183, 189, 206]
+                                    2      as Kintsugi-Metapher
+                                    1      as Kintsugi-Revision
+                                    1      as kintsugi-wabi-sabi-and-why-its-fine-to-be-imperfect
+  Wabi-Sabi                         5 word     6 in   [175, 181, 183, 189, 192, 206]
+                                    1      as Wabi-Sabi-Wahrheit
+                                    1      as wabi-sabi-and-the-art-of-kintsugi
+                                    1      as wabi-sabi-lifestyle
+                                    1      as wabi-sabi-die-schonheit-der-unvollkommenheit
