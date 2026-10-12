@@ -1,10 +1,10 @@
 ---
 term: Überraum
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz"]
 gathered: "2026-09-17"
 ---
 
@@ -33,6 +33,10 @@ statement. Merging on positional regularity is how a wiki acquires a claim no
 source made.
 
 Recorded as **open** in J18, cross-referenced from [[nexus]], merged by nobody.
+
+## Reading — `entwickle-einen-neuen-plot-der-sich-ueber-13-kurz`, 2025-04-17, the Seelen-Kohärenz blueprint — part 2 as an intervention from the Überraum
+
+The Seelen-Kohärenz blueprint proposes a second part titled „Intervention aus dem Überraum“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L127]. Its focus is the „Hüter der Realitäten“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L136], new figures of the blueprint, and its settings are „Unterschiedliche Bereiche des Überraums“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L150].
 
 ## Open
 
