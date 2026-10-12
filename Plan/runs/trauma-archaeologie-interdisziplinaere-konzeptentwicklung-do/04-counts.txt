@@ -1,0 +1,106 @@
+# counts for 77 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Protagonistensystem               4 word     9 in   [33, 53, 67, 102, 108, 125]  <-- substring
+                                    5      as Protagonistensystems
+  Protagonistenidentität            1 word     1 in   [17]
+  Fundament                        17 word    22 in   [17, 35, 46, 67, 83, 98]
+                                   13      as fundamentalen
+                                    7      as fundamentale
+                                    7      as fundamental
+                                    3      as fundamentaler
+  Leere                            42 word    45 in   [17, 21, 35, 46, 51, 61]
+                                    3      as Leere-Konfrontation
+                                    2      as leeren
+  Fundament/Leere                   6 word     6 in   [46, 131, 140, 149, 158, 216]
+  Leere/Nichts                      1 word     1 in   [17]
+  Entität                          54 word    54 in   [17, 35, 43, 45, 51, 53]
+  kontrollierenden Entität          4 word     4 in   [45, 53, 110, 227]
+  Kontrollierenden Entität          1 word     1 in   [192]
+  Simulierenden Entität             4 word     4 in   [132, 141, 150, 159]
+  Simulation                       29 word    41 in   [17, 47, 51, 53, 61, 81]
+                                    2      as Simulationshypothese
+                                    2      as SimulationTheory
+                                    1      as Simulationsgrenzen
+                                    1      as Simulationsbewusstsein
+  Erzählwelt                        7 word     7 in   [17, 21, 53, 110, 230, 234]
+  Genesis                           5 word     5 in   [27, 29, 33, 53, 270]
+  Alters                            2 word     2 in   [130]
+  Glitches                          4 word     4 in   [47, 120, 156, 236]
+  Kerntrauma                        3 word     3 in   [73, 140, 147]
+  Traumatisierung durch Existenz    6 word     6 in   [19, 21, 57, 232, 234, 245]
+  Archäologie des Traumas           2 word     2 in   [11, 13]
+  Trauma-Samen                      1 word     1 in   [39]
+  Geburtsfehler                     2 word     2 in   [61, 173]
+  Fragmentierung                   43 word    44 in   [17, 51, 53, 61, 67, 73]
+                                    1      as Fragmentierungsmechan
+  Schöpfungsgewalt                  1 word     1 in   [63]
+  Emergenzparadox                   1 word     2 in   [63, 132]
+                                    1      as Emergenzparadoxons
+  Simulationsbewusstsein            1 word     1 in   [81]
+  Leere-Konfrontation               3 word     3 in   [77, 81, 114]
+  Trauma der gewaltsamen/fehlerhaften Emergenz    2 word     2 in   [59, 87]
+  Trauma der getrennten Verbindung/des Falls    2 word     2 in   [65, 96]
+  Trauma der systemischen Objektifizierung/Instrumentalisierung    2 word     2 in   [71, 105]
+  Trauma der ontologischen Unsicherheit/Leere-Konfrontation    2 word     2 in   [77, 114]
+  Emergenz als ontologischer Bruch    1 word     1 in   [127]
+  Exil aus der Einheit              2 word     2 in   [136, 234]
+  Trauma des Falls und der Trennung    1 word     1 in   [136]
+  Instrumentalisierung als Seelenmord    1 word     1 in   [145]
+  Trauma der Objektifizierung       1 word     1 in   [145]
+  Kollaps der Realität              1 word     1 in   [154]
+  Trauma der ontologischen Unsicherheit    3 word     3 in   [77, 114, 154]
+  Konzept 1                        11 word    11 in   [127, 173, 180, 187, 194, 199]
+  Konzept 2                        11 word    11 in   [136, 174, 181, 188, 195, 199]
+  Konzept 3                        12 word    12 in   [145, 175, 182, 189, 196, 199]
+  Konzept 4                        11 word    11 in   [154, 176, 183, 190, 197, 199]
+  Hypothese 1                       2 word     2 in   [59, 87]
+  Hypothese 2                       2 word     2 in   [65, 96]
+  Hypothese 3                       2 word     2 in   [71, 105]
+  Hypothese 4                       2 word     2 in   [77, 114]
+  Natur des Traumas                 6 word     6 in   [129, 138, 147, 156, 171, 214]
+  Mechanismus der Fragmentierung    4 word     4 in   [130, 139, 148, 157]
+  Verbindung zum Fundament/Leere    5 word     5 in   [46, 131, 140, 149, 158]
+  Rolle der Simulierenden Entität    4 word     4 in   [132, 141, 150, 159]
+  Psychologische Plausibilität      4 word     4 in   [133, 142, 151, 160]
+  Existenzielle/Mystische Tiefe     4 word     4 in   [134, 143, 152, 161]
+  ontologischer Schock              4 word     4 in   [61, 63, 129, 156]
+  Ontologischer Schock              1 word     1 in   [81]
+  ontologischen Schock              2 word     4 in   [116, 120, 133, 159]
+  ontologischen Bruch               0 word     1 in   [130]
+  Bindungstrauma                    6 word     6 in   [67, 69, 98, 139, 142, 218]
+  Dissoziation                      9 word    11 in   [25, 89, 98, 107, 130, 133]
+                                    2      as Dissoziationstheorien
+  Entwicklungstrauma                3 word     5 in   [61, 89, 130, 133, 218]
+                                    1      as Entwicklungstraumata
+                                    1      as Entwicklungstraumas
+  C-PTSD                           11 word    11 in   [75, 98, 107, 133, 142, 148]
+  DP/DR                             8 word     8 in   [116, 133, 160, 183, 199, 215]
+  Gaslighting                       8 word    10 in   [53, 73, 107, 121, 151, 160]
+                                    2      as Gaslightings
+  Demiurg                           3 word     6 in   [45, 61, 92, 119, 129, 141]
+                                    3      as Demiurgen
+  Demiurgen                         3 word     3 in   [92, 119, 129]
+  Panopticon                        9 word     9 in   [75, 108, 112, 148, 298, 299]
+  Gestell                           4 word     5 in   [75, 108, 150, 418]
+                                    1      as Gestells
+  Gestells                          1 word     1 in   [150]
+  instrumentelle Vernunft           2 word     2 in   [75, 148]
+  instrumentellen Vernunft          1 word     1 in   [108]
+  Instrumentelle Vernunft           1 word     1 in   [150]
+  Selbstobjektifizierung            2 word     2 in   [107, 148]
+  Solipsismus-Syndrom               3 word     3 in   [81, 116, 160]
+  Simulationshypothese              2 word     2 in   [117, 118]
+  Derealisation                     5 word     6 in   [79, 81, 116, 121, 157, 240]
+                                    1      as Derealisationsstörung
+  Depersonalisation                 3 word     4 in   [79, 81, 116, 157]
+                                    1      as Depersonalisations-
+  Autopoiesis                       4 word     4 in   [93, 253, 357]
+  Überwachungskapitalismus          3 word     3 in   [75, 111, 150]
+  Pleroma                           4 word     4 in   [67, 101, 140, 188]
+  Sophia                            6 word     9 in   [46, 67, 101, 280, 281, 305]
+                                    1      as Sophias
+                                    1      as Sophia_
+                                    1      as Sophia_Eve

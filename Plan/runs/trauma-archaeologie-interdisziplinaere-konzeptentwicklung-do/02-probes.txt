@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      133
+  backslash escapes      6
+  typographic marks      63
+  ascii quotes           78
+
+# inflection families -- one term, several surfaces
+  psych    Psych, Psyche, Psychedelics, Psychiatry, Psychological, Psychologie, Psychologisch, Psychologische, Psychology, Psychose, Psychosis, Psychotherapy, Psychotic
+  reali    Reality, Realität, Realitäten, Realitäts, Realitätsdeutungen, Realitätsempfinden, Realitätskonstruktion, Realitätsnatur, Realitätsprüfung, Realitätsverlusts, Realitätswahrnehmung, Realitätszusammenbruch, Realitätszweifel
+  selbs    Selbst, Selbstbild, Selbstbilds, Selbstgefühl, Selbstgefühls, Selbstgewahrwerdung, Selbstobjektifizierung, Selbstorganisation, Selbstorganisationsprozess, Selbstverständnis, Selbstverständnisses, Selbstvertrauen, Selbstzustand
+  ident    Identifikation, Identifying, Identity, Identität, Identitätsbildung, Identitätsdiffusion, Identitätskonfusion, Identitätskrisen, Identitätsstörung, Identitätsverlust, Identitätsverlusts, Identitätszustände
+  traum    Trauma, Traumaaspekte, Traumaforschung, Traumakonzepte, Traumakonzepten, Traumargument, Traumas, Traumasituationen, Traumata, Traumatic, Traumatisierung, Traums
+  kontr    Kontrolle, Kontrolleur, Kontrollierbarkeit, Kontrollierenden, Kontrollmechanismen, Kontrollsysteme, Kontrollsystemen, Kontrollverlust, Kontrollverlusts
+  simul    Simulation, SimulationTheory, Simulationen, Simulationsbewusstsein, Simulationsgenauigkeit, Simulationsgrenzen, Simulationshypothese, Simulationsstatus, Simulierenden
+  bindu    Bindung, Bindungsabbruch, Bindungsbruch, Bindungsstilen, Bindungsstörungen, Bindungstheorie, Bindungstrauma, Bindungsängste
+  emerg    Emergence, Emergent, Emergentes, Emergenz, Emergenzparadox, Emergenzparadoxons, Emergenzprozess, Emergenzprozesses
+  inter    Inter, Interaktion, Interdisziplinäre, Interesse, Interesting, Internalisierung, International, Internet
+  schöp    Schöpfer, Schöpfung, Schöpfungsakt, Schöpfungsgewalt, Schöpfungskämpfen, Schöpfungsmythen, Schöpfungsprozess, Schöpfungsprozesses
+  arche    Archetyp, Archetypal, Archetypale, Archetype, Archetypen, Archetypes, Archetypisch
+  disso    Dissociation, Dissociative, Dissonanz, Dissoziation, Dissoziationstheorien, Dissoziative, Dissoziativen
+  exist    Existential, Existentialism, Existenz, Existenzangst, Existenzialismus, Existenzielle, Existenzkrise
+  narra    Narrativ, Narrative, Narratives, Narrativfragment, Narrativs, Narratologie, Narrator
+  quant    QUANTUM, Quantenfluktuationen, Quantenmechanik, Quantenschaum, Quantenunsicherheit, Quantenverschränkung, Quantum
+  syste    System, Systeme, Systemen, Systemic, Systemische, Systems, Systemtheorie
+  urspr    Ursprung, Ursprungs, Ursprungsgeschichte, Ursprungsnarrativ, Ursprungsnarrativs, Ursprünge, Ursprünglich
+  grund    Grundes, Grundfragen, Grundlagen, Grundlosigkeit, Grundstein, Grundstimmung
+  infor    INFORMATION, Information, Informationsparadoxon, Informationstheorie, Informationsverlust, Informationsverlusts
+  philo    Philosophical, Philosophie, Philosophien, Philosophisch, Philosophische, Philosophy
+  theor    Theorem, Theoretische, Theorie, Theorien, Theories, Theory
+  daten    Datenextraktion, Datengewinnung, Datenpunkt, Datenquelle, Datensatz
+  entwi    Entwicklung, Entwicklungsstörungen, Entwicklungstrauma, Entwicklungstraumas, Entwicklungstraumata
+  erken    Erkennen, Erkenntnis, Erkenntnisse, Erkenntnissen, Erkenntnistheorie
+
+# substring pairs -- never one term, often merged by accident
+  Ages < Stages
+  Akte < Akten
+  Alle < Parallelen
+  Auch < Missbrauch
+  Auch < Kindesmissbrauch
+  Blog < Blogs
+  Böse < Böses
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Paradies
+  Dies < Paradieses
+  Ding < According
+  Ding < Bedingung
+  Ding < Bedingungen
+  Ding < Understanding
+  Ding < Anfangsbedingungen
+  Dual < Dualität
+  Eden < Friedens
+  Eden < Verschiedene
