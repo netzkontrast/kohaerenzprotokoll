@@ -1294,3 +1294,11 @@ Stands as one more count of eleven alters and no count of Kernwelten; recorded, 
 The analysis aims at profiles of „die elf identifizierten Persönlichkeitsanteile des Protagonisten Kael“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L17]. It sorts them into primary ANPs (Kael, Lex), secondary ANPs (Alex, Rhys) and five EPs; Selene is „modifizierter ANP mit EP-Komponenten“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L45] and Argus „ein sich entwickelnder Anteil mit ANP- und EP-Merkmalen“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L45], both hedged. Its tally: „System Kael, mit mindestens vier ANPs (Kael, Lex, Alex, Rhys) und fünf klaren EPs“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L62]. For the worlds it names „Kernwelten (Co₁, McL, B, Ly)“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L176], taken from the brief, and analyses two of them, each with a question mark in its label: „Co₁ (Logisch/AEGIS-konform?)“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L180] and „McL (Chaotisch/Emotional?)“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L181]; for B and Ly it says only that the analysis „müsste analog erfolgen“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L182].
 
 Stands as a count of eleven parts and four worlds reported from the brief, with no correspondence between worlds and parts stated; recorded, not applied, and the record's question stays open.
+
+## 2026-10-12 — `narrative-architecture-dossier-coherence-protocol`, 2026-01-02, the architecture dossier
+
+**The architecture dossier sets an eleven-part cast table for System Kael, Selene and Argus typed Mixed, and names no Kern-Welten.**
+
+Its table is called „the internal 'cast' of the protagonist“ ^[narrative-architecture-dossier-coherence-protocol.md:L72], and the dossier says the parts „are not separate characters“ ^[narrative-architecture-dossier-coherence-protocol.md:L72]. Four are typed ANP (Kael, Lex, Alex, Rhys), five EP (Nyx, Kiko, Lia, Isabelle, Moros), and the last two, Selene and Argus, are typed „Selene (Mixed)“ ^[narrative-architecture-dossier-coherence-protocol.md:L72] and „Argus (Mixed)“ ^[narrative-architecture-dossier-coherence-protocol.md:L72]. Recorded, not applied.
+
+Stands as one more count of parts for the record's question, eleven in a TSDP table; it gives no count of worlds.
