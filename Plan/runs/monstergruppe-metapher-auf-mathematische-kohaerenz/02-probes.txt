@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x4
+  glued ref numbers      53
+  backslash escapes      35
+  typographic marks      161
+  ascii quotes           3
+
+# inflection families -- one term, several surfaces
+  modul    Modul, ModularFormsLecture, Modulfkt, Modulformen, Modulfunktion, Modulfunktionen, Modulfunktionskoeffizienten, Modulgruppe
+  mathe    Mathematical, Mathematics, Mathematik, Mathematisch, Mathematische, Mathematischer
+  monst    Monster, MonsterGroup, MonsterTalk, Monstergruppe, Monstergruppen, Monstrous
+  quoti    Quotient, Quotienten, Quotientenbildung, Quotientenbildungsschritts, Quotientengruppe, Quotientengruppen
+  darst    Darst, Darstellung, Darstellungen, Darstellungsdimensionen, Darstellungstheorie
+  grupp    Gruppe, Gruppen, Gruppenhomomorphismen, Gruppenoperation, Gruppentheorie
+  subst    Substanz, Substrat, Substrats, Substruktur, Substrukturen
+  theor    Theorem, Theorems, Theorie, Theorien, Theory
+  unter    Untergruppe, Untergruppen, Untergruppenbeziehung, Unterscheidungen, Unterstruktur
+  algeb    ALGEBRAIC, Algebra, Algebraische, Algebren
+  chara    Charaktere, Charakteren, Charakterentwicklung, Charaktertafel
+  inter    Interaktion, Interne, Interpretation, Interpretationen
+  zentr    Zentralisator, Zentralisatoren, Zentralisierung, Zentrum
+  alter    Alternativ, Alternative, Alternativen
+  analy    Analyse, Analysemethoden, Analysis
+  aspek    Aspekt, Aspekte, Aspekten
+  baust    Baustein, Bausteine, Bausteinen
+  diese    Diese, Dieser, Dieses
+  eleme    Element, Elemente, Elementen
+  fehle    Fehlen, Fehler, Fehlers
+  kerne    Kerne, Kerneigenschaft, Kerneigenschaften
+  konju    Konjugation, Konjugationsklasse, Konjugationsklassen
+  metap    Metapher, Metaphern, Metaphorischen
+  phäno    Phänomen, Phänomene, Phänomens
+  roman    Romanentwurf, Romanprojekt, Romans
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Bausteine
+  Eine < Bausteinen
+  Eine < Einerseits
+  Eine < Verallgemeinerter
+  Form < Modulformen
+  Form < Formulierung
+  Form < Transformations
+  Form < ModularFormsLecture
+  Kael < Kaels
+  Math < MathWorld
+  Math < Mathematik
+  Math < Mathematics
+  Math < MathOverflow
+  Math < Mathematical
+  Math < Mathematisch
+  Math < Mathematische
+  Math < Mathematischer
