@@ -1,0 +1,20 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      24
+  typographic marks      12
+  ascii quotes           42
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coheron, Coherons
+  consi    Consider, Consistency
+  organ    Organization, Organizes
+  proto    Protocol, Protocols
+  theor    Theories, Theory
+
+# substring pairs -- never one term, often merged by accident
+  Self < Itself
+  Coheron < Coherons
+  Protocol < Protocols
+  Coherence < Decoherence
+  Coherence < Incoherence

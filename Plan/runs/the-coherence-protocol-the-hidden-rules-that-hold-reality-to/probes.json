@@ -1,0 +1,57 @@
+{
+  "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+  "drive_id": "1KywL7P4Aqdax4EmhdTnpLPX6lCuMZQv3Up7aJRxalh4",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 24,
+  "typographic_marks": 12,
+  "ascii_quotes": 42,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "consi": [
+      "Consider",
+      "Consistency"
+    ],
+    "organ": [
+      "Organization",
+      "Organizes"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols"
+    ],
+    "theor": [
+      "Theories",
+      "Theory"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Self",
+      "Itself"
+    ],
+    [
+      "Coheron",
+      "Coherons"
+    ],
+    [
+      "Protocol",
+      "Protocols"
+    ],
+    [
+      "Coherence",
+      "Decoherence"
+    ],
+    [
+      "Coherence",
+      "Incoherence"
+    ]
+  ]
+}
