@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 25
-readings: 24
+sources: 26
+readings: 25
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess"]
 gathered: "2026-09-16"
 ---
 
@@ -126,6 +126,10 @@ The exegesis writes that the system (Kael/AEGIS) must, against the `Schwarzen Lo
 ## Reading — `kapitel-1-generierungsprozess`, 2025-11-25, the chapter-1 report — Negentropie as the energy cost of KW1's order
 
 The chapter-1 report introduces Negentropie in its theory section on KW1: the elimination of friction and entropy, with „Es gibt keinen Verfall, keine Abnutzung, keine Geschichte.“ ^[kapitel-1-generierungsprozess.md:L47] It sets the term as the first item of its commentary on the first sequence: „Die Negentropie der sterilen Umgebung“ ^[kapitel-1-generierungsprozess.md:L156]. There it reads what the chapter text describes: „Die Abwesenheit von Staub und Geruch ist ein Beweis für aktive Negentropie.“ ^[kapitel-1-generierungsprozess.md:L158] The same line adds that AEGIS spends massive energy to keep the room in the Kohärenz-Kernel's state. The summary table lists `Sterile Stille` with the cost: „Negentropie / Energieaufwand“ ^[kapitel-1-generierungsprozess.md:L621]. All of this is the report's commentary; the chapter text it quotes does not use the term.
+
+## Reading — `roman-kapitel-1-generierungsprozess`, 2025-11-25, der Exekutionsbericht — Sensorische Deprivation as negentropy, in the report's analysis
+
+The report says the protagonist must, with AEGIS, create „eine Zone negativer Entropie (Negentropie)“ ^[roman-kapitel-1-generierungsprozess.md:L66]. Its analysis of the first sequence is headed „Sensorische Deprivation als Negentropie:“ ^[roman-kapitel-1-generierungsprozess.md:L206] and reads the white, odourless, dustless setting as „eine Darstellung der Negentropie“ ^[roman-kapitel-1-generierungsprozess.md:L208]. Of the anomaly in the code the report says the imagery of rust and oil stands „im krassen Kontrast zur sterilen“ ^[roman-kapitel-1-generierungsprozess.md:L414] Negentropie of the city.
 
 ## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — ordered structure as `Negentropie` against the gradient
 
