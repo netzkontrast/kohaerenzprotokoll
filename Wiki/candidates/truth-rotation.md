@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 29
-readings: 29
+sources: 30
+readings: 30
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung", "kohaerenz-protokoll-architecture-synthesis", "research-prompt-dramatica-dual-storyform-synthese-aegis-thro", "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m", "romanarchitektur-validierung-und-synthese", "dramatica-storyform-synthese-aegis-verortung"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung", "kohaerenz-protokoll-architecture-synthesis", "research-prompt-dramatica-dual-storyform-synthese-aegis-thro", "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m", "romanarchitektur-validierung-und-synthese", "dramatica-storyform-synthese-aegis-verortung", "kohaerenz-protokoll-synthese"]
 gathered: "2026-09-25"
 ---
 
@@ -24,6 +24,10 @@ The architecture synthesis proposes a section of its own: „The rotation of Tru
 ## Reading — `romanarchitektur-validierung-und-synthese`, 2026-04-28, the architecture validation — the Truth-Rotation Verdict
 
 The architecture validation devotes a section to „The Truth-Rotation Verdict“ ^[romanarchitektur-validierung-und-synthese.md:L61] and states: „This rotation is structurally superior and explicitly confirmed“ ^[romanarchitektur-validierung-und-synthese.md:L63]. Both are the validation's own labels.
+
+## Reading — `kohaerenz-protokoll-synthese`, 2026-04-28, the final validation brief — the truth-rotation as the pivot of the narrative
+
+The final validation brief writes of the rotation of the earlier alignment: „This truth-rotation is the primary structural and thematic pivot of the narrative“ ^[kohaerenz-protokoll-synthese.md:L43]. It states that the inversion „mandates a permanent structural rotation of this alignment“ ^[kohaerenz-protokoll-synthese.md:L43]. Its beat sheet ends with the rotation in the fifth step, and its audit table labels the row for it with its own verdict, recorded and not applied.
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — an architectural mandate to rotate the alignment
 
