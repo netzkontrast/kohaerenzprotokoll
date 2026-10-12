@@ -1,0 +1,259 @@
+{
+  "document": "realitaet-symmetrie-und-bewusstsein-monstergruppe",
+  "drive_id": "1Ex9NGNUtavWN2nBNbND3uxiDnwNGTQ8uJiiliq08_48",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 70,
+  "backslash_escapes": 41,
+  "typographic_marks": 25,
+  "ascii_quotes": 144,
+  "inflection_families": {
+    "symme": [
+      "Symmetrie",
+      "Symmetriebrechung",
+      "Symmetriegruppe",
+      "Symmetriegruppen",
+      "Symmetrien",
+      "Symmetrieoperation",
+      "Symmetries",
+      "Symmetriestruktur",
+      "Symmetriestrukturen",
+      "Symmetry"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenname",
+      "Gruppenordnung",
+      "Gruppenordnungen",
+      "Gruppenstruktur",
+      "Gruppentheorie",
+      "Gruppoide"
+    ],
+    "quant": [
+      "Quantenfeldern",
+      "Quantenfeldtheorie",
+      "Quantengravitation",
+      "Quantenmöglichkeiten",
+      "Quantisierung",
+      "Quantum"
+    ],
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemfehlers",
+      "Systemlogik",
+      "Systems",
+      "Systemversagen"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematics",
+      "Mathematik",
+      "Mathematiker",
+      "Mathematische"
+    ],
+    "reali": [
+      "Realism",
+      "Realismus",
+      "Realität",
+      "Realitäten",
+      "Realitätsgefüges"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturell",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen"
+    ],
+    "theor": [
+      "Theorem",
+      "Theoreme",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "unive": [
+      "Universe",
+      "Universen",
+      "Universität",
+      "Universum",
+      "Universums"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationsgehalt",
+      "Informationstechnologie"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modellen",
+      "Modells"
+    ],
+    "monst": [
+      "Monster",
+      "Monstergruppe",
+      "Monsters",
+      "Monstrous"
+    ],
+    "objek": [
+      "Objekt",
+      "Objekte",
+      "Objekten",
+      "Objekts"
+    ],
+    "paria": [
+      "Paria",
+      "Pariah",
+      "Pariahs",
+      "Parias"
+    ],
+    "physi": [
+      "Physics",
+      "Physik",
+      "Physiker",
+      "Physikers"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "stand": [
+      "Standard",
+      "Standardmodell",
+      "Standardmodells",
+      "StandardmodellundGruppentheorie"
+    ],
+    "teilc": [
+      "Teilchen",
+      "Teilchenfamilien",
+      "Teilchenphysik",
+      "Teilchenzoos"
+    ],
+    "unter": [
+      "Unterfangen",
+      "Untermauerung",
+      "Unterscheidung",
+      "Unterschied"
+    ],
+    "archi": [
+      "Archibald",
+      "Architektur",
+      "Architekturen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "elekt": [
+      "Elektrizität",
+      "Elektromagnetismus",
+      "Elektron"
+    ],
+    "energ": [
+      "Energie",
+      "Energieerhaltung",
+      "Energien"
+    ],
+    "erhal": [
+      "Erhaltung",
+      "Erhaltungsgröße",
+      "Erhaltungssätze"
+    ],
+    "famil": [
+      "Familie",
+      "Familien",
+      "Family"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Allem"
+    ],
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ding",
+      "Dingen"
+    ],
+    [
+      "Ding",
+      "Understanding"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Transformationen"
+    ],
+    [
+      "Form",
+      "Informationsgehalt"
+    ],
+    [
+      "Form",
+      "Informationstechnologie"
+    ],
+    [
+      "Idee",
+      "Ideen"
+    ],
+    [
+      "JUNG",
+      "Jung"
+    ],
+    [
+      "JUNG",
+      "Jungian"
+    ],
+    [
+      "JUNG",
+      "Jungsche"
+    ],
+    [
+      "JUNG",
+      "Jungschen"
+    ]
+  ]
+}

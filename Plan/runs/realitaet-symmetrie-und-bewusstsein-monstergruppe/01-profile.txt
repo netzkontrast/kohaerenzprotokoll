@@ -1,0 +1,14 @@
+# realitaet-symmetrie-und-bewusstsein-monstergruppe
+  lines                350  (frontmatter ends at 9)
+  body words           5025
+  headings             28   bold-only lines 1
+  table rows           8   code fences 0
+  question marks       7
+  backslash escapes    41
+  typographic marks    25   ascii quotes 144
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    70
+  repeated labels      none
+  longest line         1064 chars
+
