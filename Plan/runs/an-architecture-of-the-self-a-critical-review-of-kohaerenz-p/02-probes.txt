@@ -1,0 +1,21 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      4
+  backslash escapes      32
+  typographic marks      24
+  ascii quotes           57
+
+# inflection families -- one term, several surfaces
+  psych    Psyche, Psychological, Psychology
+  ambit    Ambition, Ambitiously
+  conce    Concept, Conceptual
+  philo    Philosophical, Philosophy
+  struc    Structural, Structure
+  syste    System, Systems
+  theor    Theorems, Theory
+
+# substring pairs -- never one term, often merged by accident
+  Hero < Heroine
+  Logic < Psychological
+  System < Systems
+  Concept < Conceptual

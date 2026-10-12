@@ -1334,3 +1334,6 @@
 {"document": "a-definitive-architectural-blueprint-of-the-kohaerenz-protok", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
 {"document": "a-definitive-architectural-blueprint-of-the-kohaerenz-protok", "page": "ueberwelt", "surface": "Simulation", "line": 45, "decision": "occurrence", "why": "a heading on AEGIS's methods of simulation, not the Überwelt", "at": "2026-10-12"}
 {"document": "a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
+{"document": "an-architecture-of-the-self-a-critical-review-of-kohaerenz-p", "page": "did", "surface": "DID", "line": 77, "decision": "reading", "why": "the strengths table's depiction of DID, read on the page", "at": "2026-10-12"}
+{"document": "an-architecture-of-the-self-a-critical-review-of-kohaerenz-p", "page": "kohaerenz", "surface": "Kohärenz", "line": 1, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
+{"document": "an-architecture-of-the-self-a-critical-review-of-kohaerenz-p", "page": "ueberwelt", "surface": "Simulation", "line": 9, "decision": "occurrence", "why": "generic simulation, not the Überwelt", "at": "2026-10-12"}
