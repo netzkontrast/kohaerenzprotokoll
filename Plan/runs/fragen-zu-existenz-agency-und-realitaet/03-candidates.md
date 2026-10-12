@@ -1,0 +1,102 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+World: figures, places, events, laws
+- AEGIS
+- System Kael
+- Kael
+- Lex
+- Rhys
+- Nyx
+- Selene
+- Argus
+- Juna/V
+- Widerstandszelle
+- Autorische Erzähler
+- Komponente 734
+- Component 734
+- Ursprungs-Ichs
+- Entität M
+- Überwelt
+- Kernwelten
+- Leere
+- Potentialmeer
+- Herz der Leere
+- Quantenschaum
+- Genesis-Krise
+- Überlebenskampfes
+- Der Sog der Ordnung
+- Der große Wandel
+- Kohärenz Protokoll
+- Agency-Protokoll
+- Kintsugi-Protokoll
+- Systematic Agency
+- Brüchige Verbindungen
+- Das sich reorganisierende System
+- Die Versuchung des Monolithen
+- funktionale Multiplizität
+- Polyphonie des Selbst
+- Sinn im Mosaik
+- Architektur der Weigerung
+- falsche Kohärenz
+- Die Qualia der Freiheit
+- Die Logik des Misstrauens
+- Die endgültige Weigerung
+- Das externalisierte EP
+- Pufferzone
+- Informationsbarriere
+- niedrig-entropisches Refugium
+- Persistenz
+- Corrective Wavelets
+- Kollaps
+- Dekohärenz
+- Rauschen
+- unerkennbaren Entität
+- Tragödie der Logik
+- Hamartia
+- Teile und Herrsche
+- Metacognitive Knowledge Base
+- Firefighter
+- Manager
+- Allianz
+- Narrative Context Protocol
+- Objective Story Throughline
+- Main Character Throughline
+- Catalyst Provocateur Throughline
+- Relationship Story Throughline
+- Die Formierung des Mosaiks
+- Der sich reorganisierende Wächter
+- Die Politik der Polyphonie
+- Erster Kontakt
+- Das emergente System
+- Die Ethik der Multiplizität
+- Rubedo
+- Stein der Weisen
+- fraktale Konsistenz
+- Agent der Korrespondenz
+- ultimative Kohärentist
+- tragische Antagonist
+- Mathematical Universe Hypothesis
+- unentscheidbare Satz
+
+## lens
+- Nigredo
+- Albedo
+- Citrinitas
+- dynamis
+- Chora
+- Hubble-Tension
+- Hierarchieproblem
+- Messproblem
+- Viele-Welten-Interpretation
+- Quantenverschränkung
+- Henne-Ei-Problem
+- RNA-Welt-Hypothese
+- Fermi-Paradoxon
+- Große Stille
+- Panpsychismus
+- Kombinationsproblem
+- Unvollständigkeitssätze
+- Kintsugi
+- goldene Nähte
+
+Observations. The document is a synthesis report answering 39 numbered questions in three parts (Teil I Genesis of AEGIS, Teil II Akt IV Agency, Teil III real-world physics and philosophy). Chapters 40 to 52 are named in a table (L184 to L199) and in prose. Short names Lex, Rhys, Nyx and Kael are counted in exact case. "Neue Kohärenz" is written with an inflected article and left out; "Großen Filters" is the document's form of the Great Filter and left out. Terms inside questions appear only as "(Frage N)" markers. The reference list names ten Drive documents.
