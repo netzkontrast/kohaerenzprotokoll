@@ -1,0 +1,248 @@
+{
+  "document": "kohaerenz-protokoll-synthese-integration",
+  "drive_id": "1ZjgbzjoHhWv4Lda2ugQgReY31cTiSXHulg5RIQ12cm8",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 95,
+    "decisions": 98,
+    "decided_by_lookup": 79,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        63,
+        67,
+        69,
+        70,
+        79,
+        93,
+        139,
+        239
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic autopoietic system, a Maxwell's demon, and a failure of coherence by subtraction"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "Alex as a hypervigilant defence system"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        139
+      ],
+      "attribution": "",
+      "note": "AEGIS's fate as the documents are reported to describe it"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        83,
+        103
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory as the physics of the narrative world, hedged in its origin"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        194
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as the occasion of the split-off self"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        190,
+        194,
+        198,
+        200
+      ],
+      "attribution": "",
+      "note": "Juna/V as catalyst, exiled original self, and bearer of the Moonshine-Link"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        31,
+        37,
+        51,
+        59,
+        137,
+        239
+      ],
+      "attribution": "",
+      "note": "Kael as a system of tertiary structural dissociation, aiming at functional multiplicity"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        46,
+        102
+      ],
+      "attribution": "",
+      "note": "Kiko as a child part and an EP of the Kollaps-Kernel"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        89,
+        93
+      ],
+      "attribution": "",
+      "note": "the first kernel and its domain"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        98,
+        102
+      ],
+      "attribution": "",
+      "note": "the second kernel as erasure and the Nichts Rauschen"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        38,
+        93
+      ],
+      "attribution": "",
+      "note": "Lex as a specialised ANP"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        198,
+        200
+      ],
+      "attribution": "",
+      "note": "the link as quantum entanglement, unseen by AEGIS"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "Moros as total submission"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        37,
+        51,
+        55,
+        57,
+        138
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the goal, with three principles"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        102
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the manifestation of the second kernel"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "Nyx as bearer of rage"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        59,
+        79
+      ],
+      "attribution": "",
+      "note": "the cracks as EP intrusions and as AEGIS's waste heat"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the clinical theory applied to Kael"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "a passage not read"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 63,
+      "decision": "occurrence",
+      "why": "a source document's title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

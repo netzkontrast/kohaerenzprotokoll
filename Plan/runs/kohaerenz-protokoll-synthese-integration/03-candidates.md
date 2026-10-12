@@ -1,0 +1,106 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+---
+
+# Candidates — Kohärenz Protokoll: Synthese & Integration
+
+Observations (paragraphs only). The document is a German research report that synthesises "20 core files"; it cites its sources by number and names other documents in quotation marks (their names and phrases are theirs, not this document's). Passages outside the novel's world (L17 third clause, L19, L150, L215 to L221, L231, L237 in part) are skipped and nothing from them is listed. Also skipped: one real person named in a source title.
+
+- Integriertes Kohärenz-Protokoll
+- Kohärenz Protokoll
+- System Kael
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Tertiäre Strukturelle Dissoziation
+- Anscheinend Normalen Persönlichkeitsanteilen
+- ANP
+- Emotionale Persönlichkeitsanteile
+- EP
+- Kael
+- Lex
+- Alex
+- Nyx
+- Kiko
+- Moros
+- Funktionaler Multiplizität
+- funktionale Multiplizität
+- Final Fusion
+- Ko-Bewusstsein
+- Systemische Verantwortungsübernahme
+- Intrusionen der EPs
+- Risse
+- KW1
+- KW2
+- Mnemosyne-Archipel
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Maxwell’scher Dämon
+- Landauer-Prinzip
+- Memory Wipes
+- Hamartia
+- Systemblindheit
+- Der Code der Kohärenz
+- operativ geschlossen
+- Dual Kernel Theory
+- DKT
+- Gravitationsarchitektur
+- $K\_1$
+- $K\_0$
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Erasure Field
+- Nichts Rauschen
+- Mutual Information
+- Ereignishorizont
+- Ereignishorizont-Dilemma
+- Hawking-Strahlung
+- Kohärenztheorie
+- Korrespondenztheorie
+- Korrespondenz-Wahrheit
+- Isolation Objection
+- Dialetheismus
+- Parakonsistenten Logik
+- Parakonsistenz
+- Ex Falso Quodlibet
+- lebenden Gödel-Satz
+- Algorithmische Melancholie
+- Mosaik
+- Mosaik-Strategie
+- Rhizom
+- Slots
+- Lines of Flight
+- Ergosphäre
+- Photonensphäre
+- Singularität
+- Genesis-Krise
+- Agentive Narrative
+- PAPA-Modell
+- Prompt-Kaskade
+- Juna
+- Juna/V
+- Moonshine-Link
+- exilierte Ursprungs-Ich
+- Ontological Exploit
+- Das Fundament
+- Quantenverschränkung
+- Prehension
+- Container-Bau
+- Kanonisierung
+- Resonanz-Prinzip
+- Code-Switching
+- Bakhtinsche Polyphonie
+- Emergenz-Check
+- Klimax-Konstruktion
+- Maximal-Plotter
+- Trauma-Time
+- Dual Awareness
+- Ego Depletion
+- Safety Behaviors
+- Overcontrol
+
+## lens
+
+- Luhmann
+- Lacan
+- Deleuze
+- Whiteheads

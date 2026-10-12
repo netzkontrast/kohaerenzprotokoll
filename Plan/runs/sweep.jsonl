@@ -1118,3 +1118,7 @@
 {"document": "dramatica-storyform-synthese-aegis-verortung", "page": "kohaerenz", "surface": "Kohärenz", "line": 71, "decision": "occurrence", "why": "the audit's name", "at": "2026-10-12"}
 {"document": "dramatica-storyform-synthese-aegis-verortung", "page": "multiplizitaet", "surface": "funktionale Multiplizität", "line": 75, "decision": "reading", "why": "Kael's multiplicity securing mutual information", "at": "2026-10-12"}
 {"document": "dramatica-storyform-synthese-aegis-verortung", "page": "ueberwelt", "surface": "Simulation", "line": 15, "decision": "occurrence", "why": "a general sentence", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-synthese-integration", "page": "entropie", "surface": "Entropie", "line": 19, "decision": "occurrence", "why": "a passage not read", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-synthese-integration", "page": "genesis", "surface": "Genesis", "line": 63, "decision": "occurrence", "why": "a source document's title", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-synthese-integration", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-synthese-integration", "page": "ueberwelt", "surface": "Simulation", "line": 23, "decision": "occurrence", "why": "a general sentence", "at": "2026-10-12"}
