@@ -1,0 +1,235 @@
+{
+  "document": "narrative-architecture-dossier-coherence-protocol",
+  "drive_id": "1u91B-0vyed0JrhpeIAYq2fWRp3ZWE1Bp_b0MzTxn0ZE",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-273/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 80,
+    "decisions": 83,
+    "decided_by_lookup": 62,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A directive design brief: its new surfaces are craft and structure terms (the Integration Protocol's acts and beat labels, the genre blend, the sensory lexicon), the autopoietic loop and Hybris, and borrowed theories; what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        29,
+        37,
+        77,
+        79,
+        103
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic antagonist whose flaw is its own definition"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "Alex in the cast table"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "Argus as Mixed in the cast table"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        67
+      ],
+      "attribution": "",
+      "note": "The cache-coherence analogy"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        130
+      ],
+      "attribution": "",
+      "note": "Entropie/Risse as a visual vocabulary"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "The Genesis-Krise as the single originating wound"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "Isabelle in the cast table"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        48,
+        88
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external agent"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        33,
+        37,
+        49,
+        71,
+        72,
+        96
+      ],
+      "attribution": "",
+      "note": "System Kael as the living externalization of AEGIS's trauma"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        94,
+        123
+      ],
+      "attribution": "",
+      "note": "Kiko's fear and stream of consciousness"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        56,
+        122
+      ],
+      "attribution": "",
+      "note": "Lex as logic and the analytical style"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "Lia in the cast table"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "Moros in the cast table"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        94,
+        122
+      ],
+      "attribution": "",
+      "note": "Nyx as defence and aggressive prose"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "Rhys as empathy against Lex"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        48,
+        94,
+        130
+      ],
+      "attribution": "",
+      "note": "the Rifts as decoherence, the Riss as inciting incident"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "Selene as Mixed in the cast table"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        33,
+        53
+      ],
+      "attribution": "",
+      "note": "TSDP as the model of Kael's inner world"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "The Overworld as a quantum system"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` on kael; `Juna/V` on juna (J34); `Riss`, `Risse` and `Entropie/Risse` read on risse, the joined label also on entropie; `Coherence Protocol`, `cache coherence protocol` and `cache coherence` — the novel's name the title, the cache analogy read on cache-kohaerenz; `Three-Act Integration Protocol` and `Act I`–`Act III` the plot's structure, not promoted; `Genesis-Krise` on genesis; `Autonomous Entropic Gatekeeper` the acronym's expansion, on aegis; `Apparently Normal Personality parts`, `Emotional Personality parts` and the theory's name read on tsdp; `Gödel` the theorem; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "inside AEGIS's definition, read on aegis"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 130,
+      "decision": "reading",
+      "why": "Entropie/Risse visualised as data corruption"
+    }
+  ],
+  "not_promoted": [
+    "the autopoietic loop",
+    "Hybris",
+    "the Coherence and Correspondence Theories",
+    "the three-act Integration Protocol and its beat labels",
+    "the genre blend",
+    "the sensory lexicon"
+  ],
+  "internal_tension": "it gives the name both as `Kohärenz Protokoll` and `Coherence Protocol` and, beside it, the system's own internal `cache coherence protocol` (L101), without saying how they relate; its tables are flattened by the export",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

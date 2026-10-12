@@ -1,0 +1,174 @@
+{
+  "document": "narrative-architecture-dossier-coherence-protocol",
+  "drive_id": "1u91B-0vyed0JrhpeIAYq2fWRp3ZWE1Bp_b0MzTxn0ZE",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 10,
+  "ascii_quotes": 78,
+  "inflection_families": {
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropy"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychologischer",
+      "Psychology"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "barri": [
+      "Barrieren",
+      "Barriers"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissoziative"
+    ],
+    "drive": [
+      "Driven",
+      "Drivers"
+    ],
+    "duali": [
+      "Dualism",
+      "Duality"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmentierte"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsprotokoll"
+    ],
+    "manif": [
+      "Manifestation",
+      "Manifests"
+    ],
+    "persp": [
+      "Perspectives",
+      "Perspektive"
+    ],
+    "phobi": [
+      "Phobia",
+      "Phobias"
+    ],
+    "profi": [
+      "Profile",
+      "Profiles"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "ratio": [
+      "Rationalism",
+      "Rationalist"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "unive": [
+      "Universal",
+      "Universe"
+    ],
+    "visua": [
+      "Visualisierung",
+      "Visualize"
+    ],
+    "world": [
+      "World",
+      "Worldview"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Dualism"
+    ],
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Here",
+      "Decoherence"
+    ],
+    [
+      "Rage",
+      "Tragedy"
+    ],
+    [
+      "Rift",
+      "Rifts"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "These",
+      "Synthese"
+    ],
+    [
+      "World",
+      "Overworld"
+    ],
+    [
+      "World",
+      "Worldview"
+    ],
+    [
+      "Phobia",
+      "Phobias"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Control",
+      "Uncontrolled"
+    ],
+    [
+      "Profile",
+      "Profiles"
+    ],
+    [
+      "Coherence",
+      "Decoherence"
+    ],
+    [
+      "Protokoll",
+      "Integrationsprotokoll"
+    ],
+    [
+      "Integration",
+      "Integrationsprotokoll"
+    ]
+  ]
+}

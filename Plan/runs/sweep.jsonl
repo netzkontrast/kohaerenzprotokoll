@@ -1089,3 +1089,5 @@
 {"document": "aegis-und-der-kollaps-kritische-analyse", "page": "ueberwelt", "surface": "Simulation", "line": 48, "decision": "occurrence", "why": "a simulation in general, not the Überwelt", "at": "2026-10-12"}
 {"document": "tsdp-analyse-kohaerenz-protokoll-charaktere", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
 {"document": "tsdp-analyse-kohaerenz-protokoll-charaktere", "page": "personas", "surface": "Persona", "line": 255, "decision": "occurrence", "why": "Isabelle's controlling persona in general use", "at": "2026-10-12"}
+{"document": "narrative-architecture-dossier-coherence-protocol", "page": "kohaerenz", "surface": "Kohärenz", "line": 29, "decision": "occurrence", "why": "inside AEGIS's definition, read on aegis", "at": "2026-10-12"}
+{"document": "narrative-architecture-dossier-coherence-protocol", "page": "risse", "surface": "Risse", "line": 130, "decision": "reading", "why": "Entropie/Risse visualised as data corruption", "at": "2026-10-12"}
