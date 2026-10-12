@@ -1,0 +1,140 @@
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "System-Status"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`System-Status` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#2]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Szenen-Logik"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Szenen-Logik` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#4]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Narrativer Entwurf"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Narrativer Entwurf` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#2]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Kohärenz-Check"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Check` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#1]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Architekten-Rückfrage"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Architekten-Rückfrage` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#1]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Problem"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Problem` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#4]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Lösung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lösung` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#3]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Nox"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Nox` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#5]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            19
+
+`Juna` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#18]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Cache-Kohärenz"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Cache-Kohärenz` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#6]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "KW"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`KW` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#11]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Dialetheismus"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Dialetheismus` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#6]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Dialetheia"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Dialetheia` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#4]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            13
+
+`Kapitel` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#11]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            17
+
+`Kap` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#4]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Ozon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ozon` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#1]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Mosaik-Herz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Mosaik-Herz` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#1]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "K1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`K1` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#0]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kernwelt` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#0]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#2]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Dramaturgische Phase"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Dramaturgische Phase` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#3]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Ontologische Ebene"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Ontologische Ebene` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#3]
+$ read.py roman-konzeptentwicklung-kohaerenz-protokoll --count "Zentrale Prämisse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zentrale Prämisse` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#3]
+stance_marker_count 10 = System-Status 2 + Szenen-Logik 4 + Narrativer Entwurf 2 + Kohärenz-Check 1 + Architekten-Rückfrage 1 (counts above)
+$ profile numbers: backslash escapes 60, glued ref numbers 47 (01-profile.txt)
