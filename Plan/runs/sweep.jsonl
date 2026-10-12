@@ -1333,3 +1333,4 @@
 {"document": "a-definitive-architectural-blueprint-of-the-kohaerenz-protok", "page": "juna", "surface": "Juna", "line": 89, "decision": "reading", "why": "Juna/V as the external anomaly, read on the page", "at": "2026-10-12"}
 {"document": "a-definitive-architectural-blueprint-of-the-kohaerenz-protok", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
 {"document": "a-definitive-architectural-blueprint-of-the-kohaerenz-protok", "page": "ueberwelt", "surface": "Simulation", "line": 45, "decision": "occurrence", "why": "a heading on AEGIS's methods of simulation, not the Überwelt", "at": "2026-10-12"}
+{"document": "a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}

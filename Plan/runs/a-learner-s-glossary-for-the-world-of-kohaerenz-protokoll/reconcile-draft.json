@@ -1,0 +1,171 @@
+{
+  "document": "a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll",
+  "drive_id": "1bEGyjCEl5qKATrpM3xht0BRCpwZg56NmNtXmKZ6DQQE",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 68,
+    "decisions": 65,
+    "decided_by_lookup": 45,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        21,
+        22,
+        23,
+        43,
+        47
+      ],
+      "attribution": "",
+      "note": "AEGIS as antagonist, defined by negation, with a stated central flaw"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        29,
+        99
+      ],
+      "attribution": "",
+      "note": "the Alters as the parts of Kael's consciousness"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        121,
+        124
+      ],
+      "attribution": "",
+      "note": "Juna/V as external entity and ontological exploit"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        29,
+        30,
+        103,
+        128
+      ],
+      "attribution": "",
+      "note": "Kael as protagonist whose goal is co-awareness among all identities"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        47,
+        52
+      ],
+      "attribution": "",
+      "note": "the Core Worlds as AEGIS's controlled environments with a table of purposes"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Kiko as an Emotional Part, the frightened child"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as the name paired with Logos-Prime in the table row KW1"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "Lex as the analytical Apparently Normal Part"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        128,
+        130
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as the Kael and Juna/V connection, modelled by entanglement and prehension"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Nyx as an Emotional Part, the protector and fighter"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        41,
+        43
+      ],
+      "attribution": "",
+      "note": "Das Potentialmeer as the Void, the primordial state from which AEGIS emerged"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "the Risse as cracks, incursions of the Void"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        29,
+        101,
+        103
+      ],
+      "attribution": "",
+      "note": "TSDP as the real-world model behind Kael's structure"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

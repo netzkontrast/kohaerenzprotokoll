@@ -1,0 +1,93 @@
+{
+  "document": "a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll",
+  "drive_id": "1bEGyjCEl5qKATrpM3xht0BRCpwZg56NmNtXmKZ6DQQE",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 16,
+  "typographic_marks": 13,
+  "ascii_quotes": 80,
+  "inflection_families": {
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentialmeer"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "conne": [
+      "Connection",
+      "Connections"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "theor": [
+      "Theorems",
+      "Theory"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Each",
+      "Reaching"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Order",
+      "Disorder"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ],
+    [
+      "Potential",
+      "Potentialmeer"
+    ],
+    [
+      "Connection",
+      "Connections"
+    ]
+  ]
+}
