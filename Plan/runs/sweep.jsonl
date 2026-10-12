@@ -1197,3 +1197,8 @@
 {"document": "logik-trifft-transzendente-entitaet-2", "page": "risse", "surface": "Risse", "line": 121, "decision": "occurrence", "why": "near-duplicate of document 300; light pass", "at": "2026-10-12"}
 {"document": "logik-trifft-transzendente-entitaet-2", "page": "ueberwelt", "surface": "Simulation", "line": 224, "decision": "occurrence", "why": "near-duplicate of document 300; light pass", "at": "2026-10-12"}
 {"document": "monstergruppe-als-narrative-inspiration", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the document title", "at": "2026-10-12"}
+{"document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "page": "alters", "surface": "Alters", "line": 251, "decision": "occurrence", "why": "inside the clinical account of DID, a lens", "at": "2026-10-12"}
+{"document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "page": "entropie", "surface": "Entropie", "line": 64, "decision": "occurrence", "why": "a list item of a scan", "at": "2026-10-12"}
+{"document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the story's title", "at": "2026-10-12"}
+{"document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "page": "negentropie", "surface": "Negentropie", "line": 64, "decision": "occurrence", "why": "a list item of a scan", "at": "2026-10-12"}
+{"document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 89, "decision": "occurrence", "why": "the simulation argument as a lens", "at": "2026-10-12"}
