@@ -1342,3 +1342,11 @@ Stands: eleven alters in three groups, as the guide sorts them; nothing decided,
 It divides the simulation „in hochspezifische ontologische Sphären (Kernwelten) unterteilt, die jeweils eigenen physikalischen, logischen und sprachlichen Gesetzmäßigkeiten unterliegen“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L50] and lists „Die Konstrukt-Stadt (Ebene der Kantschen Phänomene)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L52], „Die Grenz-Zonen (Ebene der Unentscheidbarkeit)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L53], „Die Überwelt / Der Nexus (Ebene der Quanten-Information)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54] and „Das Resonanz-Kontinuum / Externe Ebene (Die Dialetheia)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L55]. It names EP fragments (Nox, Juna) only by example, in no count.
 
 Stands on the four-Kernwelten side as the master synthesis's plan; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-12 — `aegis-psychologische-kriegsfuehrung-narrative-eskalation`, 2025-10-16, the psychological-warfare essay
+
+**The psychological-warfare essay models each Kernwelt as a conditioning environment for one part, KW1 for Lex and KW3 for Nyx, with assumed worlds for Rhys and Kiko; it gives no count.**
+
+It writes „Jede Kernwelt ist eine maßgeschneiderte Konditionierungsumgebung“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L61] KW1 (Logos-Prime) is for Lex: „Diese Welt ist darauf ausgelegt, die analytischen Fähigkeiten von Lex zu maximieren und zu perfektionieren.“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L63] KW3 (Cerberus-Labyrinth) is for Nyx: „Diese Welt ist darauf ausgelegt, die Aggression von Nyx zu einer vorhersagbaren, waffenfähigen Reaktion zu kultivieren.“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L72] Table 1 adds a world for Rhys and one for Kiko, both marked `Annahme` (assumption): „Fester Intervallplan (für Angst)“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L101] is the Kiko row's schedule.
+
+Stands: an analysis applying outside models, with two of four rows its own assumption; it sets one world against one part but names no count of worlds or parts, so the question stays open.
