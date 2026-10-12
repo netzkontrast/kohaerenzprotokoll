@@ -1414,3 +1414,7 @@
 {"document": "the-coherence-protocol-an-architectural-blueprint-for-agenti", "page": "kohaerenz", "surface": "Kohärenz", "line": 26, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
 {"document": "the-coherence-protocol-an-architectural-blueprint-for-agenti", "page": "personas", "surface": "Persona", "line": 68, "decision": "occurrence", "why": "an agent persona of the architecture", "at": "2026-10-12"}
 {"document": "kapitel-eins-1-kohaerenz-protokoll", "page": "risse", "surface": "Glitch", "line": 87, "decision": "reading", "why": "the inner voice naming the Riss a glitch, read on the page", "at": "2026-10-12"}
+{"document": "roman-kapitel-entwurf-mit-kohaerenzprotokoll", "page": "alex", "surface": "Alex", "line": 180, "decision": "occurrence", "why": "a reference author, not the figure", "at": "2026-10-12"}
+{"document": "roman-kapitel-entwurf-mit-kohaerenzprotokoll", "page": "did", "surface": "DID", "line": 33, "decision": "reading", "why": "the DID secret not revealed early, read on the page", "at": "2026-10-12"}
+{"document": "roman-kapitel-entwurf-mit-kohaerenzprotokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "roman-kapitel-entwurf-mit-kohaerenzprotokoll", "page": "ueberwelt", "surface": "Simulation", "line": 35, "decision": "reading", "why": "the simulation's thermodynamics, read on the page", "at": "2026-10-12"}
