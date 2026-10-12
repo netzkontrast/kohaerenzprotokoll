@@ -1302,3 +1302,11 @@ Stands as a count of eleven parts and four worlds reported from the brief, with 
 Its table is called „the internal 'cast' of the protagonist“ ^[narrative-architecture-dossier-coherence-protocol.md:L72], and the dossier says the parts „are not separate characters“ ^[narrative-architecture-dossier-coherence-protocol.md:L72]. Four are typed ANP (Kael, Lex, Alex, Rhys), five EP (Nyx, Kiko, Lia, Isabelle, Moros), and the last two, Selene and Argus, are typed „Selene (Mixed)“ ^[narrative-architecture-dossier-coherence-protocol.md:L72] and „Argus (Mixed)“ ^[narrative-architecture-dossier-coherence-protocol.md:L72]. Recorded, not applied.
 
 Stands as one more count of parts for the record's question, eleven in a TSDP table; it gives no count of worlds.
+
+## 2026-10-12 — `ui-konzept-fuer-roman-entwicklungssystem`, 2026-02-27, the UI concept
+
+**The UI concept counts eleven specialised subsystems of Kael's psyche and gives no number of Kernwelten.**
+
+It writes „Kaels Psyche ist durch eine Tertiäre Strukturelle Dissoziation (TSDP) in elf spezialisierte Subsysteme zersplittert“ ^[ui-konzept-fuer-roman-entwicklungssystem.md:L129]. Its table of parts names them in rows without adding them up or stating that the eleven correspond to worlds.
+
+Stands as one more count of eleven alters and no count of Kernwelten; recorded, not applied, and the record's rows are not changed.
