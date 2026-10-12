@@ -1,0 +1,81 @@
+# counts for 59 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Nichts Rauschen                   2 word     4 in   [15, 23, 31, 91]
+  Nichts Rauschens                  2 word     2 in   [31, 91]
+  Rauschen                         20 word    29 in   [13, 15, 21, 23, 31, 35]
+                                    9      as Rauschens
+  Tohu wa bohu                      1 word     1 in   [15]
+  Wuji                              1 word     1 in   [19]
+  Qualia                            6 word     6 in   [31, 43, 113, 379, 380]
+                                    1      as QUALIA-BASED
+  Quale                             2 word     2 in   [53, 253]
+  Funke                             3 word     3 in   [23, 27, 31]
+  AEGIS                            58 word    87 in   [83, 85, 87, 93, 99, 101]
+                                   26      as AEGIS-Perspektive
+                                    1      as AEGIS-Matrix
+                                    1      as AEGIS-System
+  Kael                             13 word    19 in   [129, 139, 201, 259, 299, 305]
+                                    5      as Kael-Perspektive
+                                    1      as Kaels
+  Komponente 734                   13 word    13 in   [115, 125, 135, 139, 179, 187]
+  Component 734                     1 word     1 in   [163]
+  Direktive 0                       7 word     7 in   [99, 113, 147, 219, 227, 293]
+  DIRECTIVE 0                      12 word    12 in   [103, 111, 195, 225, 265, 285]
+  Kernrichtlinie                    1 word     1 in   [113]
+  Überwelt                          8 word     8 in   [181, 187, 191, 197, 213, 267]
+  Realitätslabor                    1 word     1 in   [193]
+  SUBSYSTEM OMEGA                   4 word     4 in   [185, 195, 265, 277]
+  OMEGA-12                          3 word     3 in   [207, 217, 225]
+  OMEGA-PRIME                       3 word     4 in   [265, 271, 277, 285]
+  OMEGA-ZERO                        5 word     5 in   [315, 323, 333, 343]
+  DIAGNOSTIC CYCLE DELTA-7          2 word     2 in   [145, 177]
+  GAMMA-PRIME                       1 word     1 in   [225]
+  INTERFERENCE PROTOCOL SIGMA       1 word     1 in   [309]
+  FORCED SYNCHRONIZATION PROTOCOL    1 word     1 in   [101]
+  REALITY MODELING PROTOCOL         1 word     1 in   [185]
+  PRECURSOR FRAGMENTS               1 word     1 in   [109]
+  NULL-STATE                        5 word     5 in   [103, 109, 195, 207, 241]
+  VS-734-Alpha                      5 word     5 in   [168, 169, 170, 171, 173]
+  VS-734-ALPHA                      4 word     4 in   [133, 159, 247]
+  ANOMALY X-1                       6 word     6 in   [247, 257, 265, 291, 303]
+  Anomalie                         11 word    11 in   [233, 243, 253, 273, 279, 293]
+                                    1      as ANOMALIES
+  Echo                             14 word    21 in   [37, 39, 71, 113, 127, 129]
+                                    7      as Echos
+                                    1      as ECHOES
+  Narbe                             4 word     4 in   [59, 61, 129]
+  Cluster                           4 word     6 in   [69, 75, 79, 83, 91]
+                                    1      as Clusterbildung
+                                    1      as Clusters
+                                    1      as CLUSTERS
+  Scherben                          5 word     5 in   [339, 347, 351, 355, 363]
+  Mosaik                            3 word     3 in   [349, 355, 363]
+  Klick                             2 word     4 in   [53, 93, 95, 355]
+                                    2      as Klicken
+  Zerstückelung                     1 word     1 in   [319]
+  Systemstress                      2 word     2 in   [219, 311]
+  COHERENCE INDEX                   1 word     1 in   [285]
+  Longitudinal Diagnostic Log       1 word     1 in   [163]
+  GÖDELIAN LIMITATION TYPE G        1 word     1 in   [217]
+  TYPE G                            2 word     2 in   [217, 225]
+  Funktionalisierung                2 word     2 in   [107, 129]
+  AEGIS-Matrix                      1 word     1 in   [191]
+  Ich-Perspektive                  28 word    28 in   [29, 33, 37, 41, 47, 51]
+  AEGIS-Perspektive                26 word    26 in   [93, 99, 107, 117, 131, 143]
+  Zusätzlicher Beat                 2 word     2 in   [223, 283]
+  Autopoiesis                       7 word     7 in   [35, 79, 105, 383, 384, 388]
+                                    1      as autopoiesis-101-how-living-systems-keep-themselves-alive-and-kicking
+  Homöostase                        2 word     2 in   [79, 105]
+  Entropie                          6 word     6 in   [15, 21, 35, 39, 83, 105]
+  Emergenz                          2 word     2 in   [71, 99]
+  strukturellen Kopplung            1 word     1 in   [53]
+  komplexes adaptives System        1 word     1 in   [75]
+  parakonsistenter Logik            1 word     1 in   [227]
+  Trauma                            8 word     8 in   [57, 61, 91, 351, 363, 367]
+                                    1      as traumatischer
+                                    1      as traumatischen
+  Dissoziation                      1 word     1 in   [351]
+  Irreduzibilität                   1 word     1 in   [367]

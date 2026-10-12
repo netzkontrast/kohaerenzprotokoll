@@ -1260,3 +1260,5 @@
 {"document": "aegis-genesis-krise-prosa-auftrag", "page": "entropie", "surface": "Entropie", "line": 67, "decision": "reading", "why": "entropy in the collapse, read if it adds", "at": "2026-10-12"}
 {"document": "aegis-genesis-krise-prosa-auftrag-3", "page": "emergenz", "surface": "Emergenz", "line": 21, "decision": "occurrence", "why": "another version of document 322; light pass", "at": "2026-10-12"}
 {"document": "genesis-aegis-und-logische-grenzen", "page": "genesis", "surface": "Genesis", "line": 11, "decision": "occurrence", "why": "the title heading only", "at": "2026-10-12"}
+{"document": "genesis-aegis-und-logische-grenzen-2", "page": "genesis", "surface": "Genesis", "line": 11, "decision": "occurrence", "why": "a longer version of document 323; light pass", "at": "2026-10-12"}
+{"document": "genesis-aegis-und-logische-grenzen-2", "page": "kohaerenz", "surface": "Kohärenz", "line": 17, "decision": "occurrence", "why": "a longer version of document 323; light pass", "at": "2026-10-12"}

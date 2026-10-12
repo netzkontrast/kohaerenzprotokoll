@@ -1,0 +1,430 @@
+{
+  "document": "genesis-aegis-und-logische-grenzen-2",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 58,
+  "decisions": 62,
+  "same_surface": {
+    "vs734alpha": [
+      "VS-734-Alpha",
+      "VS-734-ALPHA"
+    ]
+  },
+  "decided_mechanically": 48,
+  "needs_judgement": 14,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Nichts Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 117
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 268
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 264
+      },
+      {
+        "candidate": "Komponente 734",
+        "page": "komponente-734",
+        "readings": 62
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 116
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 147
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 78
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Tohu wa bohu"
+      },
+      {
+        "candidate": "Wuji"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "Quale"
+      },
+      {
+        "candidate": "Funke"
+      },
+      {
+        "candidate": "Component 734"
+      },
+      {
+        "candidate": "Direktive 0"
+      },
+      {
+        "candidate": "DIRECTIVE 0"
+      },
+      {
+        "candidate": "Kernrichtlinie"
+      },
+      {
+        "candidate": "Realitätslabor"
+      },
+      {
+        "candidate": "SUBSYSTEM OMEGA"
+      },
+      {
+        "candidate": "OMEGA-12"
+      },
+      {
+        "candidate": "OMEGA-PRIME"
+      },
+      {
+        "candidate": "OMEGA-ZERO"
+      },
+      {
+        "candidate": "DIAGNOSTIC CYCLE DELTA-7"
+      },
+      {
+        "candidate": "GAMMA-PRIME"
+      },
+      {
+        "candidate": "INTERFERENCE PROTOCOL SIGMA"
+      },
+      {
+        "candidate": "FORCED SYNCHRONIZATION PROTOCOL"
+      },
+      {
+        "candidate": "REALITY MODELING PROTOCOL"
+      },
+      {
+        "candidate": "PRECURSOR FRAGMENTS"
+      },
+      {
+        "candidate": "NULL-STATE"
+      },
+      {
+        "candidate": "VS-734-Alpha"
+      },
+      {
+        "candidate": "ANOMALY X-1"
+      },
+      {
+        "candidate": "Narbe"
+      },
+      {
+        "candidate": "Cluster"
+      },
+      {
+        "candidate": "Scherben"
+      },
+      {
+        "candidate": "Klick"
+      },
+      {
+        "candidate": "Zerstückelung"
+      },
+      {
+        "candidate": "Systemstress"
+      },
+      {
+        "candidate": "COHERENCE INDEX"
+      },
+      {
+        "candidate": "Longitudinal Diagnostic Log"
+      },
+      {
+        "candidate": "Funktionalisierung"
+      },
+      {
+        "candidate": "Ich-Perspektive"
+      },
+      {
+        "candidate": "Zusätzlicher Beat"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Homöostase"
+      },
+      {
+        "candidate": "strukturellen Kopplung"
+      },
+      {
+        "candidate": "komplexes adaptives System"
+      },
+      {
+        "candidate": "parakonsistenter Logik"
+      },
+      {
+        "candidate": "Dissoziation"
+      },
+      {
+        "candidate": "Irreduzibilität"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Nichts Rauschen  /  Nichts Rauschens",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts Rauschen  /  Rauschen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts Rauschens  /  Rauschen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Matrix",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Perspektive",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "GÖDELIAN LIMITATION TYPE G  /  TYPE G",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts Rauschens",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Rauschen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mustererkennunganomaliedetektion",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mosaik",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mosaikherz",
+            "page": "mosaik-herz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Matrix",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Perspektive",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Trauma",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "traumalokus",
+            "page": "vergessener-schrein"
+          },
+          {
+            "surface": "vergessenerschreintraumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
