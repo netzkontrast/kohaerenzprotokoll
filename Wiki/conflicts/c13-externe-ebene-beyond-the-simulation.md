@@ -386,3 +386,11 @@ Stands as a contrast to AEGIS's domain with the placement unstated; neither side
 Juna stands at the border: „dort, wo die Simulation endete und das absolute Nichts begann“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L25]. Seen through glass: „in einem Raum mit weißen Wänden, dem Geruch von Desinfektionsmittel und dem rhythmischen Piepen eines Herzmonitors“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L27]. The draft's own report is headed „Externe Ebene: Statusbericht PMAS“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L39], and Kael wakes in a room of this world: „denselben Gesetzen gehorchte wie das Konstrukt“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L65].
 
 One more position in the record, a draft's; recorded, not applied and not decided.
+
+## 2026-10-12 — `kohaerenz-protokoll-master-outline`, 2026-02-25, the Master-Outline
+
+**The Master-Outline plans the external level as the real world of the reader, which Kael visits briefly in Part III, and wants the visit glitched so that the reader doubts the own world.**
+
+The plan names the level among the borders that flicker: „der realen Welt des Autors/Lesers“ ^[kohaerenz-protokoll-master-outline.md:L73]. Kael's visit: „Er sieht die Welt des Lesers“ ^[kohaerenz-protokoll-master-outline.md:L74], where „dieselbe Entropie und dieselbe Unvollständigkeit herrschen“ ^[kohaerenz-protokoll-master-outline.md:L74]. The annotation: „Der Besuch der externen Ebene muss so subtil“ ^[kohaerenz-protokoll-master-outline.md:L81] glitched, so that the reader doubts „ob seine eigene Welt nicht auch nur eine Ebene des Konstrukts ist“ ^[kohaerenz-protokoll-master-outline.md:L81].
+
+One more position in the record, a plan's; recorded, not applied and not decided.
