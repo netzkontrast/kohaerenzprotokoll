@@ -418,3 +418,11 @@ Stands as one more position on what 734 names: the Ich of AEGIS's genesis turned
 It writes the system's `Ursprungs-Ich` as „identified as“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L53] `Komponente 734`, which „was once a minimal consciousness“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L53]. Point 1 repeats it: the primary trauma occurs when AEGIS's `Ursprungs-Ich` (`Komponente 734`) „experiences an unexpected resonance with a paradoxical, transcendent anomaly“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L79].
 
 Stands as an answer to the record's question: Komponente 734 names AEGIS's Origin-Self; recorded, not applied.
+
+## 2025-11-13 — `fragen-zu-existenz-agency-und-realitaet`, 2025-11-13, the 39-questions synthesis
+
+**The 39-questions synthesis retells (sources 1 and 6) that Komponente 734 is the Ich fragment after its forced fragmentation, and the part the [[kohaerenz|Kohärenz]] Protokoll split off as an internal threat.**
+
+On the fragment it says „Was mit dem individuellen“ ^[fragen-zu-existenz-agency-und-realitaet.md:L79] Ich fragment, now Komponente 734, happens, is a violent fragmentation, „ultimative Akt der Selbsterhaltung“ ^[fragen-zu-existenz-agency-und-realitaet.md:L79]. On the third firewall: „Gegen interne Bedrohungen“ ^[fragen-zu-existenz-agency-und-realitaet.md:L97] it used the Kohärenz Protokoll „um den Teil abzuspalten“ ^[fragen-zu-existenz-agency-und-realitaet.md:L97]. In the proposed fourth act it is also the viewpoint of chapter 51: „Dies ist der letzte Test, erzählt aus der Perspektive der AEGIS-Kernlogik“ ^[fragen-zu-existenz-agency-und-realitaet.md:L165].
+
+Stands: the synthesis reports the name for the fragment and the split; it does not address the record's open question beyond that, and nothing is decided here.
