@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 21
-readings: 20
+sources: 22
+readings: 21
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung"]
 gathered: "2026-09-16"
 ---
 
@@ -58,6 +58,10 @@ research reasoned from it rather than concluding it.
 ## Reading — `aegis-analyse-und-manifest-postulation`, 2025-04-19, the AEGIS manifesto analysis — the Hypothese der Negentropie-Fehlinterpretation
 
 The essay names it „Hypothese der Negentropie-Fehlinterpretation“ ^[aegis-analyse-und-manifest-postulation.md:L282] and calls it „Dies ist eine zentrale Hypothese für den narrativen Konflikt“ ^[aegis-analyse-und-manifest-postulation.md:L282]. Its claim: AEGIS may class „komplexere, adaptive, potenziell lebensfördernde Ordnungsformen“ ^[aegis-analyse-und-manifest-postulation.md:L282] as entropy. On Kael it writes that AEGIS „könnte Prozesse der psychischen Reorganisation und Heilung fälschlicherweise als zu bekämpfende Entropie einstufen“ ^[aegis-analyse-und-manifest-postulation.md:L262]. In its advice it asks to dramatise the hypothesis: „Zeigen Sie Szenen, in denen AEGIS Versuche der Integration“ ^[aegis-analyse-und-manifest-postulation.md:L330] are fought as incoherence.
+
+## Reading — `kohaerenz-protokoll-konzeptionelle-ausarbeitung`, 2025-04-19, the conceptual report on the protocol — negentropy as an operative function and a borrowed analogy
+
+The conceptual report describes an abstract construct for any system and names no figure, place or event of the novel. It lists extraction of order as an operative function: „Das Identifizieren und Aufnehmen von Mustern, Strukturen oder Ressourcen“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L225] from the environment. In its tension between boundary and openness it says „Ein vollständig geschlossenes System kann keine Negentropie“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L230] extract. Among its discipline comparisons it borrows the frame as an analogy: „Dissipative Strukturen und das Konzept der Negentropie“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L276].
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — AEGIS' Negentropie-Fehlinterpretation
 
