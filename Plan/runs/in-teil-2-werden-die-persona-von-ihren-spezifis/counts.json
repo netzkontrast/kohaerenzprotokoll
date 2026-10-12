@@ -1,0 +1,761 @@
+{
+  "document": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+  "drive_id": "1BMgpjhmzOckElJ-v4LkOWdmpKUgZEDXTm8jxM_lBcoo",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Seelen-Kohärenz-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Seelen-Kohärenz-Programm": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        136
+      ]
+    },
+    "Kohärenz-Programms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Kern-Bewusstseins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Personas": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        11,
+        13,
+        14,
+        15,
+        17,
+        21,
+        27,
+        33,
+        43,
+        52,
+        68,
+        84,
+        100,
+        116,
+        133,
+        136,
+        164,
+        174,
+        176,
+        178,
+        208,
+        273
+      ]
+    },
+    "Persona": {
+      "n": 12,
+      "n_including_compounds": 48,
+      "lines": [
+        11,
+        13,
+        14,
+        15,
+        17,
+        21,
+        27,
+        33,
+        43,
+        50,
+        52,
+        57,
+        66,
+        68,
+        82,
+        84,
+        98,
+        100,
+        114,
+        116,
+        121,
+        125,
+        131,
+        132,
+        133,
+        136,
+        150,
+        162,
+        164,
+        174,
+        176,
+        178,
+        193,
+        206,
+        207,
+        208,
+        219,
+        232,
+        245,
+        258,
+        271,
+        273
+      ]
+    },
+    "Persona-Realitäten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        125
+      ]
+    },
+    "Architekt": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        22,
+        50,
+        52,
+        55,
+        68,
+        71,
+        100,
+        116,
+        193
+      ]
+    },
+    "Echo": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        22,
+        39,
+        52,
+        55,
+        66,
+        68,
+        71
+      ]
+    },
+    "Wächter": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        52,
+        82,
+        84,
+        87,
+        116,
+        119
+      ]
+    },
+    "Sucher": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        68,
+        84,
+        87,
+        98,
+        100,
+        103
+      ]
+    },
+    "Funke": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        84,
+        87,
+        114,
+        116,
+        119,
+        193
+      ]
+    },
+    "Magier-Narrator": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        100,
+        103
+      ]
+    },
+    "Guardians": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        14,
+        17,
+        21,
+        23,
+        24,
+        33,
+        125,
+        135,
+        138,
+        150,
+        152,
+        154,
+        162,
+        163,
+        166,
+        174,
+        176,
+        232,
+        234,
+        236,
+        247
+      ]
+    },
+    "Guardian": {
+      "n": 15,
+      "n_including_compounds": 43,
+      "lines": [
+        13,
+        14,
+        17,
+        21,
+        23,
+        24,
+        27,
+        33,
+        35,
+        54,
+        70,
+        86,
+        102,
+        118,
+        125,
+        135,
+        138,
+        150,
+        152,
+        154,
+        158,
+        162,
+        163,
+        164,
+        166,
+        174,
+        176,
+        195,
+        232,
+        234,
+        236,
+        247
+      ]
+    },
+    "Hüter": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        13,
+        21,
+        142,
+        144,
+        150,
+        158
+      ]
+    },
+    "Guardian der Struktur/Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Guardian der Erinnerung/Emotion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Guardian der Sicherheit/Systemintegrität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Guardian des Wissens/der Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Guardian der Kreativität/des Potenzials": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Wissende Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Ober-Guardian": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Überraum": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        33,
+        142,
+        151,
+        163,
+        175,
+        233
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Schaltzentrale": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        146,
+        151
+      ]
+    },
+    "Überraum/Nexus/Schaltzentrale": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Kognitive Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Meta-Narrator": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        24,
+        35,
+        125,
+        154,
+        164
+      ]
+    },
+    "Meta-Erzählers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Magier": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        100,
+        103
+      ]
+    },
+    "Forscher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Philosoph": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        150
+      ]
+    },
+    "M/R/P": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        24,
+        125,
+        162
+      ]
+    },
+    "Risse": {
+      "n": 14,
+      "n_including_compounds": 17,
+      "lines": [
+        14,
+        15,
+        33,
+        125,
+        144,
+        152,
+        164,
+        166,
+        176,
+        208,
+        210,
+        220,
+        221,
+        247,
+        260,
+        273
+      ]
+    },
+    "Intrusion": {
+      "n": 9,
+      "n_including_compounds": 14,
+      "lines": [
+        13,
+        17,
+        21,
+        43,
+        52,
+        55,
+        57,
+        68,
+        71,
+        73,
+        87,
+        116,
+        125
+      ]
+    },
+    "Intrusionen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        21,
+        43,
+        73,
+        125
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        125
+      ]
+    },
+    "Wiederkehrende Randfiguren": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        53,
+        69,
+        85,
+        101,
+        117,
+        134
+      ]
+    },
+    "Zugeordneter Guardian": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        54,
+        70,
+        86,
+        102,
+        118,
+        135
+      ]
+    },
+    "Relevante Interne Personas": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        52,
+        68,
+        84,
+        100,
+        116,
+        133
+      ]
+    },
+    "Fokus-Persona": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        50,
+        66,
+        82,
+        98,
+        114,
+        131
+      ]
+    },
+    "Service-Bots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Vorgesetzter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Bibliothekar-Figur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Bruch der Realitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Integrations-Werkzeuge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Protagonisten-System": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        164,
+        174
+      ]
+    },
+    "Seele als Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Seele=Info": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        186,
+        214
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "Klarheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "Außen": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        33,
+        186,
+        227,
+        247,
+        260,
+        273
+      ]
+    },
+    "Jagd nach der Realität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        182,
+        234
+      ]
+    },
+    "Die Naht im Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Echos im Zersplitterten Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Intervention aus dem Überraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Der Twist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        253
+      ]
+    },
+    "Innere Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "Meta-Realität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        207,
+        220,
+        233,
+        272
+      ]
+    },
+    "Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "Kintsugi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "Gleiche Person": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "NZT-Modus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "aktiven Integratoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Heldenreise": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        41,
+        184
+      ]
+    },
+    "Gewohnte Welt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        45,
+        49
+      ]
+    },
+    "Ruf zum Abenteuer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Weigerung des Rufs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Begegnung mit dem Mentor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Überschreiten der ersten Schwelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Feuerprobe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        184,
+        214,
+        218
+      ]
+    },
+    "Elixier": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        184,
+        266,
+        270
+      ]
+    }
+  }
+}
