@@ -1334,3 +1334,11 @@ Stands as a count of four worlds with three named; recorded, not applied.
 It introduces the ANPs, Kael, Lex, Alex and Rhys, with „Let's now meet the specific members of System Kael“ ^[a-guide-to-the-society-of-self-understanding-system-kael.md:L31]. The EPs, Nyx, Kiko, Lia, Isabelle and Moros, are „the alters who hold the raw, unprocessed experiences of trauma“ ^[a-guide-to-the-society-of-self-understanding-system-kael.md:L73]. The last group, Argus and Selene, is introduced with „These final alters have unique, overarching functions related to the system's self-awareness“ ^[a-guide-to-the-society-of-self-understanding-system-kael.md:L119]. It does not pair an alter with a world.
 
 Stands: eleven alters in three groups, as the guide sorts them; nothing decided, and no count or correspondence is applied.
+
+## 2026-10-12 — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis
+
+**The master synthesis plans four Kernwelten, KW 1 to KW 4, and names no further sphere.**
+
+It divides the simulation „in hochspezifische ontologische Sphären (Kernwelten) unterteilt, die jeweils eigenen physikalischen, logischen und sprachlichen Gesetzmäßigkeiten unterliegen“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L50] and lists „Die Konstrukt-Stadt (Ebene der Kantschen Phänomene)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L52], „Die Grenz-Zonen (Ebene der Unentscheidbarkeit)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L53], „Die Überwelt / Der Nexus (Ebene der Quanten-Information)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54] and „Das Resonanz-Kontinuum / Externe Ebene (Die Dialetheia)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L55]. It names EP fragments (Nox, Juna) only by example, in no count.
+
+Stands on the four-Kernwelten side as the master synthesis's plan; recorded, not applied, and the record's rows are not changed.
