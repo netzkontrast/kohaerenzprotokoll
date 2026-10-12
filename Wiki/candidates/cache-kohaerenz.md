@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 26
-readings: 26
+sources: 27
+readings: 27
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,12 @@ gathered: "2026-09-24"
 ## Reading — `kohaerenz-protokoll-analyse-und-verstaendnis`, 2025-04-25, the cache-coherence report — the computer-architecture definition of the term
 
 The cache-coherence report is an unsigned German technical report in the computer-architecture sense of the term. It names no figure, place, event or chapter of the novel, and this reading records its definition without applying it to the novel. The report explains that the phrase „wird im Deutschen primär im Kontext der Computerarchitektur verwendet“ ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:L17] and stands for the `Cache Coherence Protocol` of multiprocessor systems. Such protocols are, in its words, mechanisms „die Konsistenz von Daten zu gewährleisten, die in mehreren lokalen Caches gespeichert sind“ ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:L17]. Its section on the term in computer science gives the aim „dass alle Prozessoren zu jeder Zeit eine konsistente Sicht auf die Daten im Speicher haben“ ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:L49].
+
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — the Kernwelten as faulty caches, and three chapters keyed to the metaphor
+
+The enriched plot concept's premise has the Kernwelten act as caches: „Die Kernwelten fungieren als“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L22] faulty caches, each holding an inconsistent copy of Kael's identity: „Jede hält eine inkonsistente“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L22] copy of it, with AEGIS as a faulty `Kohärenz-Controller`.
+
+The theme draft keys three chapters to `Cache Kohärenz` (numbers follow from each part's range and the entry's order, since the export restarts the numbering): Kapitel 14 (Teil 2, Kapitel 11–25), a cache conflict between logical and relational thinking: „zwischen logischem und relationalem Denken“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L52]; Kapitel 22 (Teil 2), faulty updates: „Die Integration des Schattens verändert Kaels Erinnerungen an“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L60] Co₁ and McL retroactively; and Kapitel 31 (Teil 3, Kapitel 26–39), active synchronisation: „Kael entwickelt eine mentale Technik, um bewusst auf Fähigkeiten oder Erinnerungen aus anderen Welten“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L72] to access. A plan, not the chapters.
 
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the metaphor named directly, for the gaps in Kael's own memory
 
