@@ -1,0 +1,68 @@
+{
+  "document": "operationalizing-system-collapse-a-strategic-guide-to-aegis",
+  "drive_id": "1VNjJ0hO1PoZS4VyHLRHc1qnYsCq3z1xk6Y-gXQ9Uyk4",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 0,
+  "typographic_marks": 13,
+  "ascii_quotes": 66,
+  "inflection_families": {
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "engin": [
+      "Engine",
+      "Engineering"
+    ],
+    "opera": [
+      "Operating",
+      "Operationalizing"
+    ],
+    "poten": [
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Engine",
+      "Engineering"
+    ],
+    [
+      "Through",
+      "Breakthrough"
+    ],
+    [
+      "Protokoll",
+      "Trennungsprotokoll"
+    ]
+  ]
+}

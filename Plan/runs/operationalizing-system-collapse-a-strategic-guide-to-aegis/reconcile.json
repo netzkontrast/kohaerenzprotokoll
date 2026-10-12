@@ -1,0 +1,162 @@
+{
+  "document": "operationalizing-system-collapse-a-strategic-guide-to-aegis",
+  "drive_id": "1VNjJ0hO1PoZS4VyHLRHc1qnYsCq3z1xk6Y-gXQ9Uyk4",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-364/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 36,
+    "decisions": 37,
+    "decided_by_lookup": 30,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English strategic writing guide on AEGIS's collapse: its new surfaces are its mechanics and borrowed logic; what it proposes of AEGIS, the Gödel Gambit, Juna, Kael, the Kernwelten, Lex, the Moonshine-Link, the Potentialmeer, Rhys, the Trennungsprotokoll and Algorithmic Melancholy went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        27,
+        29,
+        33,
+        35,
+        39,
+        112
+      ],
+      "attribution": "",
+      "note": "a proposed failure mechanics: a negating axiom, a trauma origin, a melancholy end-state"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        110,
+        112
+      ],
+      "attribution": "",
+      "note": "the proposed end-state of AEGIS"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        59,
+        61
+      ],
+      "attribution": "",
+      "note": "the Gambit as the culmination of the Act 2 conflict"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        33,
+        92
+      ],
+      "attribution": "",
+      "note": "Juna/V as the entity AEGIS could not classify"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        39,
+        41,
+        53,
+        59,
+        90
+      ],
+      "attribution": "",
+      "note": "Kael's healing as the force AEGIS misreads, and the costs of each reboot to Kael"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "one Kernwelt corrupted per failed cycle"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Lex as an example of a logical part degraded by the cycles"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        39,
+        92
+      ],
+      "attribution": "",
+      "note": "the link to Juna/V as suppressed data and as a cost of the cycles"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as AEGIS's place of emergence in the guide"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Rhys as an example of a caring part degraded by the cycles"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "the Separation Protocol as an act of algorithmic dismemberment"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Genesis-Krise` read on aegis as its origin; `Juna/V` read on juna; `Riss` in the reboot cycle read on aegis; `Kohärenz Protokoll` the novel's title",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 33,
+      "decision": "reading",
+      "why": "Juna/V as the transcendent entity at AEGIS's formation, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "Adaptive Kontrolle, the reboot cycle and its costs as labels",
+    "the correspondence check and the Dialetheic Mind",
+    "the borrowed concepts (coherence and correspondence theories of truth, paraconsistent logic, autopoiesis)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
