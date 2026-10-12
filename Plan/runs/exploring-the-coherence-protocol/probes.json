@@ -1,0 +1,209 @@
+{
+  "document": "exploring-the-coherence-protocol",
+  "drive_id": "1mWTuZvcoZzM1veCN-aL9Q_xAwJkq8zoOjrRyDmB5F_Y",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 69,
+  "backslash_escapes": 62,
+  "typographic_marks": 23,
+  "ascii_quotes": 110,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coherency",
+      "Coheron",
+      "Coherons"
+    ],
+    "organ": [
+      "ORGANIZATION",
+      "Organization",
+      "Organizations",
+      "Organizing"
+    ],
+    "compl": [
+      "COMPLEXITY",
+      "Complex",
+      "Complexity"
+    ],
+    "compu": [
+      "Computation",
+      "Computer",
+      "Computing"
+    ],
+    "const": [
+      "Constant",
+      "Constants",
+      "Constraint"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanism",
+      "Mechanisms"
+    ],
+    "multi": [
+      "Multi",
+      "Multiprocessor",
+      "Multiverse"
+    ],
+    "physi": [
+      "Physical",
+      "Physics",
+      "Physiological"
+    ],
+    "proto": [
+      "Proto",
+      "Protocol",
+      "Protocols"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "theor": [
+      "Theoretic",
+      "Theories",
+      "Theory"
+    ],
+    "attra": [
+      "Attractor",
+      "Attractors"
+    ],
+    "chaos": [
+      "CHAOS",
+      "Chaos"
+    ],
+    "chatg": [
+      "ChatGPT",
+      "ChatGPTCoding"
+    ],
+    "corre": [
+      "Correction",
+      "Corrective"
+    ],
+    "cosmo": [
+      "Cosmological",
+      "Cosmology"
+    ],
+    "criti": [
+      "Critical",
+      "Critiques"
+    ],
+    "domai": [
+      "Domain",
+      "Domains"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "engin": [
+      "Engineered",
+      "Engineering"
+    ],
+    "exist": [
+      "Existence",
+      "Existential"
+    ],
+    "expla": [
+      "Explanations",
+      "Explanatory"
+    ],
+    "frame": [
+      "Framework",
+      "Frameworks"
+    ],
+    "gener": [
+      "Generation",
+      "Generative"
+    ],
+    "infor": [
+      "Information",
+      "Informational"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Form",
+      "Uniform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informational"
+    ],
+    [
+      "Just",
+      "Justification"
+    ],
+    [
+      "Know",
+      "KNOWLEDGE"
+    ],
+    [
+      "LIFE",
+      "Life"
+    ],
+    [
+      "Lett",
+      "PhysRevLett"
+    ],
+    [
+      "Mode",
+      "Models"
+    ],
+    [
+      "Phys",
+      "Physics"
+    ],
+    [
+      "Phys",
+      "Physical"
+    ],
+    [
+      "Phys",
+      "PhysRevLett"
+    ],
+    [
+      "Phys",
+      "Metaphysical"
+    ],
+    [
+      "Phys",
+      "Physiological"
+    ],
+    [
+      "SELF",
+      "Self"
+    ],
+    [
+      "View",
+      "Overview"
+    ],
+    [
+      "CHAOS",
+      "Chaos"
+    ],
+    [
+      "Cross",
+      "Across"
+    ],
+    [
+      "Force",
+      "Enforcement"
+    ],
+    [
+      "Multi",
+      "Multiverse"
+    ]
+  ]
+}

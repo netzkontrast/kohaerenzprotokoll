@@ -1,0 +1,73 @@
+{
+  "document": "exploring-the-coherence-protocol",
+  "drive_id": "1mWTuZvcoZzM1veCN-aL9Q_xAwJkq8zoOjrRyDmB5F_Y",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-361/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 33,
+    "decisions": 33,
+    "decided_by_lookup": 32,
+    "needs_judgement": 1
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A general English essay on coherence across domains: its new surfaces are borrowed science and the Λ-Canon Synthesis; only its account of the Dual Kernel Theory went on existing pages, dkt and coheron.",
+  "new_readings": [
+    {
+      "page": "coheron",
+      "lines": [
+        171,
+        175
+      ],
+      "attribution": "",
+      "note": "Coherons as the Dual Kernel Theory's units, reported and called a neologism"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        166,
+        168,
+        169,
+        175
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory reported as a speculative theory, then judged metaphysical"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Coherons` read on coheron",
+  "sweep": [
+    {
+      "page": "coheron",
+      "surface": "Coheron",
+      "line": 298,
+      "decision": "reading",
+      "why": "Coherons as the essay reports the Dual Kernel Theory, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "the Λ-Canon Synthesis and Corrective Wavelets",
+    "the five-scale synthesis",
+    "the borrowed concepts (decoherence, cache coherence protocols, self-organisation, fine-tuning)"
+  ],
+  "internal_tension": "none: an essay",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
