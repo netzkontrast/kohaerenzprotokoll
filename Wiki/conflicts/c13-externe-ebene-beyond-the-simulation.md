@@ -354,3 +354,11 @@ One more position in the record, a draft's; it decides nothing.
 It says „Juna/V is a transcendent entity“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L142] from an `External Level` embodying principles AEGIS cannot process, with the `Moonshine-Link` to Kael „non-local phenomenon“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L142] (L142). The simulated realities it describes are constructed by AEGIS (L124), and Juna/V stands beyond AEGIS's control; the closing list calls her relation to The Foundation „never fully clarified“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L172] (L172), a question it leaves open.
 
 Stands on the side of an entity beyond the simulation, as the briefing's description; its open question concerns The Foundation, and nothing is decided here.
+
+## 2026-10-12 — `the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua`, 2025-11-03, the lexicon of core dualities
+
+**The lexicon of core dualities calls Juna/V both a transcendent entity from an external level and an exiled part of Kael's Original Self.**
+
+It says Juna/V is a catalyst: „she is simultaneously a transcendent entity from an external level beyond AEGIS's comprehension“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L144] (L144), and an exiled part of Kael's own Original Self (L144). It states both together and does not weigh them against each other.
+
+Stands as a position that holds the external level and the exiled part together; recorded, not decided.
