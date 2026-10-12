@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x10
+  glued ref numbers      76
+  backslash escapes      8
+  typographic marks      28
+  ascii quotes           32
+
+# inflection families -- one term, several surfaces
+  speic    Speicher, Speicheradresse, Speicheradressen, Speicheransichten, Speicherbarrieren, Speicherbedarf, Speicherbereichs, Speicherblock, Speicherblocks, Speicherhierarchien, Speicherkonsistenz, Speicherkonsistenzmodell, Speicherkonsistenzmodelle, Speicherkonsistenzmodellen, Speicheroperationen, Speicheroverhead, Speicherraums, Speicherseite, Speichersicht, Speicherstelle, Speichersystem, Speichersysteme, Speichersystemen, Speicherzelle, Speicherzugriffe
+  kohär    Kohärenz, Kohärenzaktionen, Kohärenzanforderungen, Kohärenzebene, Kohärenzereignisse, Kohärenzfunktion, Kohärenzhaltung, Kohärenzinformationen, Kohärenzmechanismen, Kohärenzmechanismus, Kohärenznachrichten, Kohärenzoperationen, Kohärenzprotokoll, Kohärenzprotokolle, Kohärenzprotokollen, Kohärenzprotokolls, Kohärenzschicht, Kohärenztransaktionen, Kohärenzverantwortung, Kohärenzverkehr
+  daten    Daten, Datenformaten, Dateninkonsistenz, Datenkonsistenz, Datenstruktur, Datentypen, Datenverkehr, Datenwert, Datenwerte, Datenwerts, Datenzugriff, Datenübertragung
+  proze    Prozeduren, Prozess, Prozesse, Prozessor, Prozessoraktionen, Prozessorarchitektur, Prozessoren, Prozessorkernen, Prozessoroperationen, Prozessors, Prozessorzahl
+  syste    System, Systemabstürzen, Systemarchitektur, Systembus, Systeme, Systemen, Systemkomponenten, Systems, Systemschichten, Systemumgebungen
+  inval    Invalid, Invalidate, Invalidierung, Invalidierungen, Invalidierungs, Invalidierungsnachrichten, Invalidierungsprotokoll, Invalidierungsprotokolle, Invalidierungsprotokollen
+  leist    Leistung, Leistungs, Leistungsaspekte, Leistungsdichtespektren, Leistungsfähigkeit, Leistungsoptimierung, Leistungsoptimierungen, Leistungssteigerung, Leistungsvorteile
+  proto    PROTOCOLS, Protocol, Protocols, Protokoll, Protokolldynamik, Protokolle, Protokollen, Protokollregeln, Protokolls
+  schre    Schreib, Schreibanforderungen, Schreibberechtigung, Schreiben, Schreiboperation, Schreiboperationen, Schreibwert, Schreibzugriff, Schreibzugriffe
+  inter    Interaktion, Interaktionen, Interconnect, Interconnects, Interference, Interferenz, Interferenzmuster, Interpretation
+  zusta    Zustand, Zustands, Zustandsbasierte, Zustandsverfolgung, Zustandsverwaltung, Zustandsübergangsdiagramm, Zustandsübergangstabelle, Zustandsübergänge
+  optim    Optimieren, Optimiert, Optimierung, Optimierungen, Optimierungstechniken, Optimierungsziele, Optimization
+  quant    Quanteninterferenz, Quantenkohärenz, Quantenmechanik, Quantenobjekt, Quantenzuständen, Quantifizierung, Quantum
+  zugri    Zugriff, Zugriffe, Zugriffsanfragen, Zugriffsmuster, Zugriffsmustern, Zugriffsrechte, Zugriffszeiten
+  anwen    Anwendung, Anwendungen, Anwendungsanforderungen, Anwendungsbereiche, Anwendungsdomänen, Anwendungsmuster
+  progr    Programme, Programmierern, Programmiermodell, Programmierung, Programmreihenfolge, Programmverhalten
+  siche    Sicherheit, Sicherheitsanforderungen, Sicherheitsaspekten, Sicherheitsimplikationen, Sicherheitslücken, Sicherstellung
+  synch    Synchronisation, Synchronisationsoperationen, Synchronisationsprimitive, Synchronisationsprimitiven, Synchronisationsstrategie, Synchronization
+  trans    Transaktion, Transaktionen, Transformation, Transient, Transiente, Transparenz
+  verif    Verification, Verifikation, Verifikationskomplexität, Verifikationsmethoden, Verifizierbarkeit, Verifying
+  verze    Verzeichnis, Verzeichnisanfragen, Verzeichnisbasierte, Verzeichnisinformationen, Verzeichniskommunikation, Verzeichnisprotokoll
+  kommu    Kommunikation, Kommunikationsaufwand, Kommunikationsdefinition, Kommunikationsmuster, Kommunikationsschritt
+  multi    Multi, Multimedia, Multiple, Multiprocessor, Multiprocessors
+  zusam    Zusammenfassung, Zusammenhang, Zusammenhangs, Zusammenhänge, Zusammenspiel
+  compu    Computer, Computerarchitektur, Computersystemen, Computing
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Parallel
+  Alle < Parallelität
+  Chip < Chips
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Allgemeine
+  Here < COHERENCE
+  Here < Coherence
+  Last < Belastung
+  Last < Rechenlast
+  Lese < Lesen
+  Lese < Lesezugriff
+  Lese < Leseanfragen
+  Lese < Leseoperation
+  Lese < Leseanforderung
+  Lock < Locks
+  Lock < Blocks
+  Lock < Speicherblock
+  Lock < Speicherblocks

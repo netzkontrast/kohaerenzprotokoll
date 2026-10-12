@@ -1,0 +1,63 @@
+{
+  "document": "kohaerenz-protokoll-analyse-und-verstaendnis",
+  "drive_id": "1GehDbl2CIZIr7lJJ8sFWF3dymlckaSoLSdXyB2Yae4Q",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; one reading by a wiki-reader subagent (Sonnet) from Plan/runs/ingest-305/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 51,
+    "decisions": 53,
+    "decided_by_lookup": 38,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A technical report on cache coherence in computer systems, reading the title as the Cache Coherence Protocol: it names nothing of the novel; its computer-architecture definition went on cache-kohaerenz as the technical sense, and nothing else on a page.",
+  "new_readings": [
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        17,
+        49
+      ],
+      "attribution": "",
+      "note": "the computer-architecture definition of the term"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the report's coherence terms are the technical and physical senses, not the novel's: `Kohärenz Protokoll`, `Kohärenzprotokolle`, `Cache-Kohärenzprotokolle`, `Kohärenz-Invarianten`, `Approximative Kohärenz`, `Kohärenz für disaggregierten Speicher`, `Dekohärenz` and `Kohärenzfunktion` — occurrences of the word; `Cache-Kohärenz` read on cache-kohaerenz for the computer-architecture definition only; `MESI`, `MESI-Protokoll`, `MESIF`, `Interconnect` the field's terms, not promoted",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "a heading on the computer-architecture term"
+    }
+  ],
+  "not_promoted": [
+    "the snooping and directory mechanisms",
+    "MESI and its family, the research protocols",
+    "Kohärenz-Invarianten, approximate coherence, consistency and synchronisation",
+    "Dekohärenz and Kohärenzfunktion"
+  ],
+  "internal_tension": "the export lost the formula values at L45 and turned the MESI table into raw LaTeX (L122–L150); nothing in the text contradicts itself",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
