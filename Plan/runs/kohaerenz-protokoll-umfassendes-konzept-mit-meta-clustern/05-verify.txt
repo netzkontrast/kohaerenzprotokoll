@@ -1,0 +1,45 @@
+stance_marker_count 10 = Definition 2 + Symbolisch 1 + Implikation 1 + Grundspannung 3 + Integrierte Prinzipien 3 (each from read.py --count, outputs below)
+$ read.py --count "Definition"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Definition` ^[kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md:#2]
+$ read.py --count "Symbolisch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Symbolisch` ^[kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md:#1]
+$ read.py --count "Implikation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Implikation` ^[kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md:#1]
+$ read.py --count "Grundspannung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Grundspannung` ^[kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md:#3]
+$ read.py --count "Integrierte Prinzipien"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Integrierte Prinzipien` ^[kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md:#3]
+$ read.py --count "Meta-Cluster"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            23
+
+`Meta-Cluster` ^[kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md:#20]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kapitel` ^[kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern.md:#2]
+Principle pairs (observed from L33, L34, L35): 4, 4, 5 = 13; 3 parts x 13 chapters = 39 (arithmetic on the heading of L46).
+Question marks: grep -n '?' on the document gives lines 33, 34, 35 (3 total).

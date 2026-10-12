@@ -1,0 +1,348 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern",
+  "drive_id": "1G1QyD93lTBE_2AcPVSp61_Vc6bXp-G__7TvKldrHAPM",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Vereinigendes Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "vereinenden Prinzip": {
+      "n": 0,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        56,
+        57,
+        73,
+        77
+      ]
+    },
+    "vereinendes Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Rekursive Kohärenzbildung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "rekursiven Kohärenzbildung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        44,
+        73
+      ]
+    },
+    "offene Entropieräume": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "offenen Entropieraum": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Meta-Cluster": {
+      "n": 20,
+      "n_including_compounds": 23,
+      "lines": [
+        11,
+        15,
+        29,
+        37,
+        39,
+        40,
+        41,
+        42,
+        43,
+        48,
+        56,
+        64,
+        69,
+        73,
+        77,
+        81
+      ]
+    },
+    "Meta-Clustern": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        48
+      ]
+    },
+    "Drei Meta-Cluster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Grundspannungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Sein und Nicht-Sein": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        50
+      ]
+    },
+    "Ordnung und Entropie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        51
+      ]
+    },
+    "Kohärenz und Differenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        43,
+        52
+      ]
+    },
+    "Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        63
+      ]
+    },
+    "AEGIS": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        51,
+        52,
+        56,
+        57,
+        65
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        41,
+        44,
+        50,
+        51,
+        52,
+        56
+      ]
+    },
+    "M": {
+      "n": 7,
+      "n_including_compounds": 43,
+      "lines": [
+        11,
+        15,
+        29,
+        37,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        48,
+        51,
+        52,
+        56,
+        57,
+        59,
+        64,
+        67,
+        69,
+        73,
+        77,
+        81
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        58
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        64
+      ]
+    },
+    "Juna & K-J Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "AEGIS' Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Co₁": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "ΔS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24
+      ]
+    },
+    "Teil 1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        81
+      ]
+    },
+    "Teil 2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        81
+      ]
+    },
+    "Teil 3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        81
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        50
+      ]
+    },
+    "Zyklisch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        51
+      ]
+    },
+    "Heldenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        52
+      ]
+    },
+    "ursprünglichen Prinzipien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Monstergruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    }
+  }
+}
