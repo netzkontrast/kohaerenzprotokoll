@@ -1,0 +1,682 @@
+{
+  "document": "roman-assistenz-kohaerenz-und-weltgestaltung",
+  "drive_id": "1d9grWn7_1tpqm1xVWCUzZmMpQGGffn0RRkNdIH0yy6g",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Agency System": {
+      "n": 8,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        15,
+        23,
+        49,
+        59,
+        89,
+        102,
+        113,
+        115,
+        117,
+        121,
+        123,
+        133
+      ]
+    },
+    "Agency System Design Language Specification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "ASDLS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        53
+      ]
+    },
+    "Interface-Brutalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Interface Brutalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Kernel Panic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        109
+      ]
+    },
+    "Dropped Packets": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        123
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        61
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63
+      ]
+    },
+    "Alex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        65,
+        95
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        69
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        119
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        75,
+        94
+      ]
+    },
+    "Isabelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Argus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        81
+      ]
+    },
+    "Silas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        94
+      ]
+    },
+    "Oblivion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85
+      ]
+    },
+    "Per-Alter Visual Identities": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Clinical White": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Algorithmic Cyan": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Lidar Red": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Overheated Amber": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Thermal Magenta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Quantum Silver": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Destructive Orange": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Acid Yellow": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Frostbite Cyan": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Phase-Shift Magenta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Glitch Green": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Toxic Orchid": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Abyssal Black": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Clinical Terminal Mint Green": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Phantom Gold": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Absolute Zero White": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Chromatic Aberration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        98,
+        108
+      ]
+    },
+    "Data Moshing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        119
+      ]
+    },
+    "Vector Jitter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Packet Loss": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        45
+      ]
+    },
+    "Trauma-Gelb": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        119
+      ]
+    },
+    "Hoffnungs-Gelb": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Signal-Gelb": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Nostalgie-Gelb": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Erkenntnis-Gelb": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        119
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "The Lost One": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Master-Terminal-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Color Clash": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Split-Composition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Polyphonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Tier 0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Tier 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Tier 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Homöostase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Alert / Dissonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "epistemischen Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "epistemischen Barrieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Negativraum": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        25,
+        43,
+        55,
+        69,
+        73,
+        107,
+        121
+      ]
+    },
+    "Heavy Crosshatching": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Dutch Angle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Micro-Jittering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Micro-Jitter": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        108
+      ]
+    },
+    "RGB-Splitting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Digital Kintsugi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Post-Trauma-Blässe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "visuelle Lautstärkeregelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Narrative Reliability Engineer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Analyse-Paralyse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Haptik des Bunkers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "fensterlosen Kubus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Latenz-Ring": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Datenfissur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Ladebalken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "blinde Fleck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "fehlende Block": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Nadelstrich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "HUD-Fadenkreuz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Logik-Firewall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Gradients": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Bunker": {
+      "n": 0,
+      "n_including_compounds": 7,
+      "lines": [
+        47,
+        49,
+        67,
+        83,
+        91,
+        119,
+        123
+      ]
+    },
+    "Theorie der strukturellen Dissoziation der Persönlichkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        59
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    }
+  }
+}

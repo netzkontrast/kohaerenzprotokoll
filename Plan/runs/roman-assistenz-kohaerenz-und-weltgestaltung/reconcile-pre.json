@@ -1,0 +1,480 @@
+{
+  "document": "roman-assistenz-kohaerenz-und-weltgestaltung",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 89,
+  "decisions": 86,
+  "same_surface": {
+    "interfacebrutalismus": [
+      "Interface-Brutalismus",
+      "Interface Brutalismus"
+    ]
+  },
+  "decided_mechanically": 81,
+  "needs_judgement": 5,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 229
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 143
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 98
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 101
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 117
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 144
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 140
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 90
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 73
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 99
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 81
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 66
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 60
+      },
+      {
+        "candidate": "Kollaps-Kernel",
+        "page": "kollaps-kernel",
+        "readings": 41
+      },
+      {
+        "candidate": "Kohärenz-Kernel",
+        "page": "kohaerenz-kernel",
+        "readings": 45
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 139
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "ASDLS"
+      },
+      {
+        "candidate": "Interface-Brutalismus"
+      },
+      {
+        "candidate": "Kernel Panic"
+      },
+      {
+        "candidate": "Dropped Packets"
+      },
+      {
+        "candidate": "Per-Alter Visual Identities"
+      },
+      {
+        "candidate": "Apparently Normal Parts"
+      },
+      {
+        "candidate": "Emotional Parts"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "Clinical White"
+      },
+      {
+        "candidate": "Algorithmic Cyan"
+      },
+      {
+        "candidate": "Lidar Red"
+      },
+      {
+        "candidate": "Overheated Amber"
+      },
+      {
+        "candidate": "Thermal Magenta"
+      },
+      {
+        "candidate": "Quantum Silver"
+      },
+      {
+        "candidate": "Destructive Orange"
+      },
+      {
+        "candidate": "Acid Yellow"
+      },
+      {
+        "candidate": "Frostbite Cyan"
+      },
+      {
+        "candidate": "Phase-Shift Magenta"
+      },
+      {
+        "candidate": "Toxic Orchid"
+      },
+      {
+        "candidate": "Abyssal Black"
+      },
+      {
+        "candidate": "Clinical Terminal Mint Green"
+      },
+      {
+        "candidate": "Phantom Gold"
+      },
+      {
+        "candidate": "Absolute Zero White"
+      },
+      {
+        "candidate": "Chromatic Aberration"
+      },
+      {
+        "candidate": "Data Moshing"
+      },
+      {
+        "candidate": "Vector Jitter"
+      },
+      {
+        "candidate": "Packet Loss"
+      },
+      {
+        "candidate": "Trauma-Gelb"
+      },
+      {
+        "candidate": "Hoffnungs-Gelb"
+      },
+      {
+        "candidate": "Signal-Gelb"
+      },
+      {
+        "candidate": "Nostalgie-Gelb"
+      },
+      {
+        "candidate": "Erkenntnis-Gelb"
+      },
+      {
+        "candidate": "The Lost One"
+      },
+      {
+        "candidate": "Master-Terminal-Prinzip"
+      },
+      {
+        "candidate": "Color Clash"
+      },
+      {
+        "candidate": "Split-Composition"
+      },
+      {
+        "candidate": "Polyphonie"
+      },
+      {
+        "candidate": "Tier 0"
+      },
+      {
+        "candidate": "Tier 1"
+      },
+      {
+        "candidate": "Tier 2"
+      },
+      {
+        "candidate": "Homöostase"
+      },
+      {
+        "candidate": "Alert / Dissonanz"
+      },
+      {
+        "candidate": "epistemischen Isolation"
+      },
+      {
+        "candidate": "epistemischen Barrieren"
+      },
+      {
+        "candidate": "Negativraum"
+      },
+      {
+        "candidate": "Heavy Crosshatching"
+      },
+      {
+        "candidate": "Dutch Angle"
+      },
+      {
+        "candidate": "RGB-Splitting"
+      },
+      {
+        "candidate": "Digital Kintsugi"
+      },
+      {
+        "candidate": "Post-Trauma-Blässe"
+      },
+      {
+        "candidate": "visuelle Lautstärkeregelung"
+      },
+      {
+        "candidate": "Narrative Reliability Engineer"
+      },
+      {
+        "candidate": "Analyse-Paralyse"
+      },
+      {
+        "candidate": "fensterlosen Kubus"
+      },
+      {
+        "candidate": "Latenz-Ring"
+      },
+      {
+        "candidate": "Datenfissur"
+      },
+      {
+        "candidate": "Ladebalken"
+      },
+      {
+        "candidate": "blinde Fleck"
+      },
+      {
+        "candidate": "fehlende Block"
+      },
+      {
+        "candidate": "Nadelstrich"
+      },
+      {
+        "candidate": "HUD-Fadenkreuz"
+      },
+      {
+        "candidate": "Logik-Firewall"
+      },
+      {
+        "candidate": "Gradients"
+      },
+      {
+        "candidate": "Theorie der strukturellen Dissoziation der Persönlichkeit"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Agency System  /  Agency System Design Language Specification",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Micro-Jittering  /  Micro-Jitter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Haptik des Bunkers  /  Bunker",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Glitch Green",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 115,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Julia",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 102,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 19,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
