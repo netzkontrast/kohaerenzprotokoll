@@ -309,3 +309,11 @@ Standing in the record: one more position, a plan; it decides nothing about Nexu
 The definition, labelled Genesis 1.5, reads „Eine von AEGIS geschaffene Domäne informationaler Ordnung“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L246]; its function line has „AEGIS' Operationsbasis; Schnittstelle zur Simulation“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L247]. The report asks, as a question, „Ziel von Kaels Reise?“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L249]
 
 Stands as one more position on what the Überwelt is; it decides nothing, and the label marks the report's account of another text.
+
+## 2026-10-12 — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis
+
+**The master synthesis makes Überwelt and Nexus one world, KW 3, and writes the pair in both orders.**
+
+KW 3 is „Die Überwelt / Der Nexus (Ebene der Quanten-Information)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54], „Der Maschinenraum hinter dem Rendering“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54]. For Part II it reverses the order: „KW 3 (Der Nexus / Die Überwelt)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L92], and the scene logic puts Kael „Kael befindet sich im Nexus, dem abstrakten Code-Raum von AEGIS“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L95]. The word `Überraum` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#0] does not stand in it (a count).
+
+Stands on the side of one world under two names, in this plan; recorded, not applied, and the record's rows are not changed.
