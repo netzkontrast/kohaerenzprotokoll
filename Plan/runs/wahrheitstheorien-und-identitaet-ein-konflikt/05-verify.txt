@@ -1,0 +1,50 @@
+$ read.py wahrheitstheorien-und-identitaet-ein-konflikt --count "Fallstudie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fallstudie` ^[wahrheitstheorien-und-identitaet-ein-konflikt.md:#2]
+$ read.py wahrheitstheorien-und-identitaet-ein-konflikt --count "Empfehlung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Empfehlung` ^[wahrheitstheorien-und-identitaet-ein-konflikt.md:#1]
+$ read.py wahrheitstheorien-und-identitaet-ein-konflikt --count "Schlussfolgerung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schlussfolgerung` ^[wahrheitstheorien-und-identitaet-ein-konflikt.md:#1]
+$ read.py wahrheitstheorien-und-identitaet-ein-konflikt --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[wahrheitstheorien-und-identitaet-ein-konflikt.md:#1]
+$ read.py wahrheitstheorien-und-identitaet-ein-konflikt --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[wahrheitstheorien-und-identitaet-ein-konflikt.md:#0]
+$ read.py wahrheitstheorien-und-identitaet-ein-konflikt --count "Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Protokoll` ^[wahrheitstheorien-und-identitaet-ein-konflikt.md:#0]
+$ read.py wahrheitstheorien-und-identitaet-ein-konflikt --count "Korrespondenztheorie"
+whole word, case-sensitive     16
+whole word, case-insensitive   17
+including compounds            18
+
+`Korrespondenztheorie` ^[wahrheitstheorien-und-identitaet-ein-konflikt.md:#16]
+$ read.py wahrheitstheorien-und-identitaet-ein-konflikt --count "Kohärenz"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            51
+
+`Kohärenz` ^[wahrheitstheorien-und-identitaet-ein-konflikt.md:#23]
+stance_marker_count = Fallstudie 2 + Empfehlung 1 + Schlussfolgerung 1 + Referenzen 1 = 5
+Teil I/II/III lines: L18, L158, L263 (read.py --from/--to)

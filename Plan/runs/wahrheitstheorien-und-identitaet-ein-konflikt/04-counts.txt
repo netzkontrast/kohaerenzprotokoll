@@ -1,0 +1,44 @@
+# counts for 34 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Korrespondenztheorie             16 word    18 in   [22, 26, 30, 46, 48, 56]
+  Kohärenztheorie                  21 word    22 in   [22, 72, 76, 84, 100, 108]
+                                    1      as Kohärenztheorien
+  Wahrmacher                        5 word     5 in   [38, 42, 46, 66]
+  Wahrheitskriterium                2 word     2 in   [46]
+  Isolations-Einwand                2 word     2 in   [110, 141]
+  Pluralitäts-Einwand               1 word     1 in   [111]
+  Korrespondenz-Identität           6 word     6 in   [271, 275, 283, 309, 336, 372]
+  Kohärenz-Identität                4 word     4 in   [305, 309, 336, 372]
+  Patchwork-Identität               3 word     3 in   [219, 223, 327]
+  zerrissene Realität               6 word     6 in   [162, 225, 267, 332, 336, 352]
+  zerrissene Selbst                 1 word     1 in   [259]
+  Das Subjekt der Aufklärung        1 word     1 in   [188]
+  Das soziologische Subjekt         2 word     2 in   [189, 191]
+  postmoderne Subjekt               2 word     2 in   [203, 207]
+  Anti-Essentialismus               3 word     3 in   [211, 215, 225]
+  Anti-Realismus                    2 word     2 in   [211, 215]
+  Metaerzählungen                   2 word     2 in   [225, 327]
+  Tatsächliche Selbst               1 word     1 in   [249]
+  Ideale Selbst                     1 word     1 in   [249]
+  Soll-Selbst                       2 word     2 in   [249]
+  Krise der Anerkennung             2 word     2 in   [301, 352]
+  narrativen Gravitationszentrum    1 word     1 in   [317]
+  diachronen Identität              1 word     1 in   [178]
+  Schiff des Theseus                1 word     1 in   [178]
+  Kohärenz                         23 word    51 in   [13, 22, 72, 76, 84, 88]  <-- substring
+                                   21      as Kohärenztheorie
+                                    4      as Kohärenz-Identität
+                                    1      as Kohärenzkomponente
+                                    1      as Kohärenztheorien
+  Kontinuität                       3 word     3 in   [257, 259, 317]
+  Adaequatio rei et intellectus     1 word     1 in   [34]
+  Kognitive Dissonanz               1 word     1 in   [237]
+  Selbstdiskrepanz-Theorie          2 word     2 in   [245, 249]
+  Narrative Identität               3 word     4 in   [253, 422, 439, 442]
+  Konsenstheorie der Wahrheit       3 word     3 in   [152, 406, 461]
+  Pragmatische Wahrheitstheorie     1 word     1 in   [151]
+  Konvention W                      1 word     1 in   [56]
+  Bild-Theorie                      1 word     1 in   [56]

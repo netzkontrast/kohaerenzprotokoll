@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      89
+  backslash escapes      40
+  typographic marks      221
+  ascii quotes           3
+
+# inflection families -- one term, several surfaces
+  ident    IDENTIT, Identit, Identitaet, Identitaetskonflikt, Identitat, Identitt, Identity, Identität, Identitäten, Identitätsarbeit, Identitätskategorien, Identitätskonstruktionen, Identitätskrise, Identitätspolitik, Identitätspolitiken, Identitätsverständnis
+  selbs    Selbst, Selbstbild, Selbstbildes, Selbstdiskrepanz, Selbstidentifikation, Selbstkonzeption, Selbstpositionierung, Selbsttäuschung, Selbstverständnis, Selbstwahrnehmung, Selbstwerdung, Selbstwiderspruch, Selbstzweifeln
+  wahrh    Wahrheit, Wahrheiten, Wahrheitsbedingungen, Wahrheitsbegriff, Wahrheitskriterium, Wahrheitsmodell, Wahrheitsmodellen, Wahrheitsparadigmen, Wahrheitsstandard, Wahrheitstheorie, Wahrheitstheorien, Wahrheitsträger
+  korre    Korrespondenz, Korrespondenzideal, Korrespondenzkrise, Korrespondenzmodell, Korrespondenzprinzip, Korrespondenztheoretiker, Korrespondenztheorie, Korrespondenzziel
+  psych    Psychological, Psychologie, Psychologisch, Psychologische, Psychology, Psychotherapie
+  reali    Realismus, Realist, Reality, Realität, Realitäten, Realitätsverlust
+  grund    Grund, Grundlage, Grundmann, Grundprinzips, Grundstein
+  kohär    Kohärenz, Kohärenzkomponente, Kohärenzmodell, Kohärenztheorie, Kohärenztheorien
+  leben    Leben, Lebens, Lebenserfahrungen, Lebensgeschichte, Lebenssituation
+  narra    NARRATIVIT, Narration, Narrativ, Narrative, Narrativs
+  philo    PHILOSOPHIE, Philosophicus, Philosophie, Philosophisches, Philosophy
+  wider    Widerspruch, Widerspruchs, Widersprüche, Widersprüchen, Widersprüchlichkeit
+  diskr    Diskrepanz, Diskrepanzen, Diskrepanztheorien, Diskriminierung
+  gegen    Gegenargumente, Gegenmodell, Gegenstand, Gegenüberstellung
+  ideal    Ideal, Ideale, Idealen, Idealismus
+  kultu    Kulturelle, KulturelleIdentitaet, Kulturen, Kulturtheoretiker
+  posit    Position, Positionen, Positionierung, Positive
+  pragm    Pragmatic, Pragmatische, Pragmatism, Pragmatismus
+  subje    Subject, Subjekt, Subjektbegriffs, Subjekts
+  unter    Unter, Unterscheidung, Unterschiede, Untersuchung
+  wisse    Wissen, Wissensauffassung, Wissenschaft, Wissenssysteme
+  überz    Überzeugung, Überzeugungen, Überzeugungssystem, Überzeugungssystemen
+  argum    Argument, Argumente, Arguments
+  beisp    Beispiel, Beispiele, Beispielsweise
+  diese    Diese, Dieser, Dieses
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Antidiskriminierungsstelle
+  Baum < Baumes
+  Bild < Bildnisse
+  Bild < Fremdbild
+  Bild < Selbstbild
+  Bild < Selbstbildes
+  Bild < Spiegelbilder
+  Bild < Bildungsabschlüsse
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Meine
+  Eine < Seine
+  Eine < Heiner
+  Ende < Wende
+  Ende < Seiende
+  Ende < Folgenden
+  Ende < Zerstörende
+  Ende < Vergleichende
+  Fall < Fallstudie

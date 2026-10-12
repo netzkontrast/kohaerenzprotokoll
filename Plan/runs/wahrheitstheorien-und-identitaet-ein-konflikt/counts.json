@@ -1,0 +1,360 @@
+{
+  "document": "wahrheitstheorien-und-identitaet-ein-konflikt",
+  "drive_id": "1t5Ps5nikSg6-sRxHjPwz6j8IRA4Mw-zaGWX183QA4RY",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Korrespondenztheorie": {
+      "n": 16,
+      "n_including_compounds": 18,
+      "lines": [
+        22,
+        26,
+        30,
+        46,
+        48,
+        56,
+        64,
+        76,
+        134,
+        149,
+        381,
+        382,
+        384,
+        387,
+        389
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        22,
+        72,
+        76,
+        84,
+        100,
+        108,
+        110,
+        114,
+        122,
+        134,
+        149,
+        225,
+        309,
+        372,
+        379,
+        388,
+        390,
+        392,
+        393,
+        394,
+        395,
+        396
+      ]
+    },
+    "Wahrmacher": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        38,
+        42,
+        46,
+        66
+      ]
+    },
+    "Wahrheitskriterium": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46
+      ]
+    },
+    "Isolations-Einwand": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        110,
+        141
+      ]
+    },
+    "Pluralitäts-Einwand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Korrespondenz-Identität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        271,
+        275,
+        283,
+        309,
+        336,
+        372
+      ]
+    },
+    "Kohärenz-Identität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        305,
+        309,
+        336,
+        372
+      ]
+    },
+    "Patchwork-Identität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        219,
+        223,
+        327
+      ]
+    },
+    "zerrissene Realität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        162,
+        225,
+        267,
+        332,
+        336,
+        352
+      ]
+    },
+    "zerrissene Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Das Subjekt der Aufklärung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "Das soziologische Subjekt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        189,
+        191
+      ]
+    },
+    "postmoderne Subjekt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        203,
+        207
+      ]
+    },
+    "Anti-Essentialismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        211,
+        215,
+        225
+      ]
+    },
+    "Anti-Realismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        211,
+        215
+      ]
+    },
+    "Metaerzählungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        225,
+        327
+      ]
+    },
+    "Tatsächliche Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Ideale Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Soll-Selbst": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        249
+      ]
+    },
+    "Krise der Anerkennung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        301,
+        352
+      ]
+    },
+    "narrativen Gravitationszentrum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        317
+      ]
+    },
+    "diachronen Identität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Schiff des Theseus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Kohärenz": {
+      "n": 23,
+      "n_including_compounds": 51,
+      "lines": [
+        13,
+        22,
+        72,
+        76,
+        84,
+        88,
+        92,
+        100,
+        108,
+        110,
+        112,
+        114,
+        122,
+        134,
+        149,
+        191,
+        225,
+        241,
+        253,
+        257,
+        259,
+        267,
+        305,
+        309,
+        313,
+        321,
+        325,
+        328,
+        336,
+        352,
+        363,
+        372,
+        374,
+        379,
+        388,
+        390,
+        392,
+        393,
+        394,
+        395,
+        396
+      ]
+    },
+    "Kontinuität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        257,
+        259,
+        317
+      ]
+    },
+    "Adaequatio rei et intellectus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Kognitive Dissonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Selbstdiskrepanz-Theorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        245,
+        249
+      ]
+    },
+    "Narrative Identität": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        253,
+        422,
+        439,
+        442
+      ]
+    },
+    "Konsenstheorie der Wahrheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        152,
+        406,
+        461
+      ]
+    },
+    "Pragmatische Wahrheitstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Konvention W": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Bild-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    }
+  }
+}
