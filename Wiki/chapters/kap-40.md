@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 17
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"]
+sources: 18
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "fragen-zu-existenz-agency-und-realitaet"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -33,6 +33,10 @@ Die Coda steht laut der Storyform-Outline außerhalb der Zählung der Heldenreis
 ## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Epilog - Kohärenz
 
 - The dual structure plans Kapitel 40 as „Epilog - Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L279], in „Akt IV: Ketsu (Schluss) - Eine Neue Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L245]. Perspective: `Eine duale Perspektive, die zwischen Kael und AEGIS wechselt` (L283). Its Ki: „Kael wird in einem einfachen, alltäglichen Moment gezeigt – vielleicht bei einem ruhigen Morgen mit Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L290]. A plan, not the chapter as written.
+
+## Reading — `fragen-zu-existenz-agency-und-realitaet`, 2025-11-13, the 39-questions synthesis — `Die Qualia der Freiheit`
+
+- The 39-questions synthesis retells (from its source 6) a chapter 40 titled „Die Qualia der Freiheit“ ^[fragen-zu-existenz-agency-und-realitaet.md:L150] as the first chapter of a proposed fourth act: „Die neue Stabilisierung (Kapitel 40-43)“ ^[fragen-zu-existenz-agency-und-realitaet.md:L138] is the recursive arc it belongs to. Its core concept is „Das Kernkonzept ist die gelebte, sensorische Erfahrung der“ ^[fragen-zu-existenz-agency-und-realitaet.md:L150] new coherence; Kael's multiplicity, once a bug, is now a feature. A proposed fourth act beyond the 39 chapters, retold from a cited source; chapters 41–52 have no pages.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Kapitel 40/0 as epilogue and prologue (Kap 40 and Kap 0 are one chapter)
 
