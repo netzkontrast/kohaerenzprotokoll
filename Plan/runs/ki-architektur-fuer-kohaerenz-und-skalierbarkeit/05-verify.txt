@@ -1,0 +1,43 @@
+$ read.py ki-architektur-fuer-kohaerenz-und-skalierbarkeit --count "Source of Truth"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Source of Truth` ^[ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md:#4]
+$ read.py ki-architektur-fuer-kohaerenz-und-skalierbarkeit --count "Zugriff am Januar"
+whole word, case-sensitive     45
+whole word, case-insensitive   45
+including compounds            45
+
+`Zugriff am Januar` ^[ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md:#45]
+$ read.py ki-architektur-fuer-kohaerenz-und-skalierbarkeit --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kapitel` ^[ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md:#1]
+$ read.py ki-architektur-fuer-kohaerenz-und-skalierbarkeit --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kap` ^[ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md:#0]
+$ read.py ki-architektur-fuer-kohaerenz-und-skalierbarkeit --count "Tabelle"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Tabelle` ^[ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md:#2]
+$ read.py ki-architektur-fuer-kohaerenz-und-skalierbarkeit --count "postuliert"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`postuliert` ^[ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md:#1]
+$ read.py ki-architektur-fuer-kohaerenz-und-skalierbarkeit --count "schlagen wir"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`schlagen wir` ^[ki-architektur-fuer-kohaerenz-und-skalierbarkeit.md:#2]
+$ postuliert + schlagen wir = 1 + 2 = 3 (from the counts above, read.py --count)

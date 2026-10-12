@@ -1,0 +1,435 @@
+{
+  "document": "ki-architektur-fuer-kohaerenz-und-skalierbarkeit",
+  "drive_id": "1qMSZjg2m97f0j_-QZSwKortSGHZtzbKFu1ALcJ6Rjnw",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Contextual Feature Drift (CFD)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        21,
+        23
+      ]
+    },
+    "Contextual Feature Drift": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        21,
+        23,
+        304,
+        305
+      ]
+    },
+    "Schneeballeffekt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        29,
+        282
+      ]
+    },
+    "Kooperative Falle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Vakuum der Verantwortung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Exogenen Neuro-Symbolischen Architektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Exogene Neuro-Symbolische Architektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        278
+      ]
+    },
+    "Exogenen Ontologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Formstabilisierung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        53,
+        55,
+        282
+      ]
+    },
+    "Vortex": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        55,
+        287
+      ]
+    },
+    "Pulsar Field": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        198,
+        200
+      ]
+    },
+    "Productive Friction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "Neuro-Symbolische KI (NeSy)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Neuro-Symbolische KI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "NeSy": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        72
+      ]
+    },
+    "METATRON-Framework": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        77,
+        79
+      ]
+    },
+    "Hierarchisches Multi-Agenten-System (HMAS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "HMAS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "AgentOrchestra": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        186,
+        188,
+        319
+      ]
+    },
+    "Hierarchische Wissensgraphen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        152,
+        166
+      ]
+    },
+    "Föderierte Wissensgraphen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "Temporal GraphRAG (TG-RAG)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "TG-RAG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Survival Functions": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        176,
+        178,
+        281
+      ]
+    },
+    "Schema-Constrained Generation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        210,
+        212
+      ]
+    },
+    "Constraint Satisfaction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        208
+      ]
+    },
+    "LLM-as-Extractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "WorldMM-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        244
+      ]
+    },
+    "Insight Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Der Direktor (Orchestrator)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Der Ontologe (Knowledge Keeper)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Die Autoren (Specialists)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Der Kritiker (Evaluator)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Retrieval Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        254
+      ]
+    },
+    "Coherence Filter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Attribute-Value Matrix (AVM)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Symbolic Scaffolding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Source of Truth": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        33,
+        272,
+        279
+      ]
+    },
+    "Druck (Pressure)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        296
+      ]
+    },
+    "Sprung (Leap)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        298
+      ]
+    },
+    "Schwerkraft (Gravity)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        300
+      ]
+    },
+    "Stabilisierung": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        64,
+        299
+      ]
+    },
+    "Context Engineering": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        270,
+        309
+      ]
+    },
+    "Systemic Stewardship": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        270
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        43
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        41,
+        45
+      ]
+    },
+    "Constitutional AI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118,
+        329,
+        330
+      ]
+    },
+    "SHACL": {
+      "n": 11,
+      "n_including_compounds": 17,
+      "lines": [
+        17,
+        51,
+        99,
+        120,
+        122,
+        124,
+        126,
+        146,
+        150,
+        194,
+        230,
+        280,
+        299,
+        320,
+        331
+      ]
+    },
+    "Drammar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "OntoMedia": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        115,
+        326,
+        327
+      ]
+    },
+    "BBC Storyline Ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Episodisches Gedächtnis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        246
+      ]
+    },
+    "Semantisches Gedächtnis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    }
+  }
+}

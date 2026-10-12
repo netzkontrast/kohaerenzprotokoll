@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      60
+  backslash escapes      168
+  typographic marks      7
+  ascii quotes           162
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systematic, Systeme, Systemen, Systemic, Systemkomponente, Systems, Systemumgebung
+  gener    General, Generation, Generative, Generativen, Generator, Generierung, Generierungen
+  ontol    Ontologe, Ontologen, Ontologie, Ontologiegetriebene, Ontologien, Ontologies, Ontology
+  valid    Validating, Validation, Validator, Validieren, Validierung, Validierungs, Validierungsmechanismen
+  agent    Agent, AgentOrchestra, Agenten, Agentic, Agentische, Agents
+  konte    Kontext, Kontexte, Kontextfenster, Kontextfensters, Kontextretention, Kontextuelle
+  korre    Korrektiv, Korrektor, Korrespondenz, Korrespondenzaufgabe, Korrespondenzprüfungen, Korrespondenztheorie
+  model    Model, Modeling, Modell, Modelliert, Modells, Models
+  archi    Architecting, Architectures, Architekt, Architektur, Architekturen
+  const    Constitutional, Constitutions, Constrained, Constraint, Constraints
+  graph    Graph, GraphDB, GraphRAG, Graphen, Graphs
+  symbo    Symbolic, Symbolische, Symbolischen, Symbolischer, Symbolisches
+  chara    Character, Charakter, Charaktere, Charakterpsychologie
+  daten    Daten, Datenbank, Datenpflege, Datenrepräsentation
+  episo    Episoden, Episodic, Episodische, Episodisches
+  gedäc    Gedächtnis, Gedächtnisarchitektur, Gedächtnisses, Gedächtniszustand
+  handl    Handlung, Handlungen, Handlungsbögen, Handlungsstränge
+  hiera    Hierarchical, Hierarchie, Hierarchische, Hierarchisches
+  kohär    Kohärenz, Kohärenzaufgabe, Kohärenzprüfungen, Kohärenztheorie
+  konsi    Konsistenz, Konsistenzprüfung, Konsistenzsicherung, Konsistenztreiber
+  narra    Narration, Narrative, Narrativen, Narratives
+  regel    Regel, Regeln, Regelprüfung, Regelwerk
+  wisse    Wissen, Wissensbasis, Wissensgraph, Wissensgraphen
+  aufga    Aufgabe, Aufgaben, Aufgabenverteilung
+  autom    Automated, AutomationML, Automatisierte
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Eine < Reines
+  Ende < Renderer
+  Fakt < Fakten
+  Fakt < Faktum
+  Fall < Falle
+  Form < Formen
+  Form < Formulierer
+  Form < Information
+  Form < Transformer
+  Form < Formstabilisierung
+  Form < Informationslücken
+  Haus < Gasthaus
+  Hier < Hierbei
+  Hier < Hierarchie
+  Hier < Extrahieren
+  Hier < Hierarchical
+  Hier < Hierarchische
+  Hier < Hierarchisches
