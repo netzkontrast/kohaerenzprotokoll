@@ -1,0 +1,98 @@
+{
+  "document": "aegis-logik-in-der-leere-docx",
+  "drive_id": "1Ddj9tNL3YkvUkm-PioHJ2gVrdRG6ogNY",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 65,
+    "decisions": 65,
+    "decided_by_lookup": 55,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        27,
+        37,
+        43,
+        47,
+        49,
+        105,
+        175,
+        200,
+        206,
+        212
+      ],
+      "attribution": "",
+      "note": "an analytic report that derives origin scenarios, subsystems and three models from the request's premises"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        37,
+        81
+      ],
+      "attribution": "",
+      "note": "emergence as self-organisation and as Scenario B"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "logical entropy as an analogy for the Potentialraum"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 154,
+      "decision": "occurrence",
+      "why": "a generic system boundary of Aegis's subsystem, not the Große Mauer of KW3"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 216,
+      "decision": "occurrence",
+      "why": "a heading on the report's logical coherence"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 115,
+      "decision": "occurrence",
+      "why": "Aegis's internal simulation, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

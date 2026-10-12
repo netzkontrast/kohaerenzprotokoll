@@ -1,0 +1,301 @@
+{
+  "document": "aegis-logik-in-der-leere-docx",
+  "drive_id": "1Ddj9tNL3YkvUkm-PioHJ2gVrdRG6ogNY",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 74,
+  "backslash_escapes": 15,
+  "typographic_marks": 127,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "selbs": [
+      "Selbstaufrechterhaltung",
+      "Selbstauslöschung",
+      "Selbstbewusstseins",
+      "Selbstbezug",
+      "Selbstbezügliche",
+      "Selbstbezüglichkeit",
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbstheilung",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstwahrnehmung"
+    ],
+    "grenz": [
+      "Grenzabschnitte",
+      "Grenzdurchsetzung",
+      "Grenze",
+      "Grenzen",
+      "Grenzintegritätsmonitore",
+      "Grenzmanagementsystem",
+      "Grenzregeneration",
+      "Grenzreorganisation",
+      "Grenzverteidigung",
+      "Grenzziehung",
+      "Grenzzone"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulations",
+      "Simulationsdaten",
+      "Simulationsergebnisse",
+      "Simulationsfokus",
+      "Simulationsfähigkeiten",
+      "Simulationskapazität",
+      "Simulationsmaschinen",
+      "Simulationssystem"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsformen",
+      "Internal",
+      "Interne",
+      "Interner",
+      "Internet",
+      "Interpretiert"
+    ],
+    "regel": [
+      "Regel",
+      "Regelausführung",
+      "Regelbasiert",
+      "Regelinteraktionen",
+      "Regeln",
+      "Regelsatz",
+      "Regelsysteme",
+      "Regelsätzen"
+    ],
+    "syste": [
+      "System",
+      "Systemarchitekturen",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemgrenze",
+      "Systemlogik",
+      "Systems"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungsanalysesystem",
+      "Bedrohungsdaten",
+      "Bedrohungserkennungssensoren",
+      "Bedrohungsniveau",
+      "Bedrohungspotenzial"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationserwerb",
+      "Informationsgewinnung",
+      "Informationslöschung",
+      "Informationstheorie",
+      "Informationsverarbeitung"
+    ],
+    "netzw": [
+      "Netzwerk",
+      "Netzwerkantworten",
+      "Netzwerken",
+      "Netzwerkkomponenten",
+      "Netzwerklogik",
+      "Netzwerks",
+      "Netzwerkschleife"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialraum",
+      "Potentialraumdynamiken",
+      "Potentialraums",
+      "Potentials",
+      "Potenzial",
+      "Potenzials"
+    ],
+    "resso": [
+      "Ressourcen",
+      "Ressourcenbeschränkungen",
+      "Ressourceneffizienz",
+      "Ressourcenerschöpfung",
+      "Ressourcenlimits",
+      "Ressourcenmanagement",
+      "Ressourcenverfügbarkeit"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungsanlagen",
+      "Verteidigungsmechanismen",
+      "Verteidigungsstrategie",
+      "Verteidigungsstrategien",
+      "Verteidigungssysteme"
+    ],
+    "ident": [
+      "Identifizieren",
+      "Identifizierung",
+      "Identity",
+      "Identität",
+      "Identitäts"
+    ],
+    "konsi": [
+      "Konsistenz",
+      "Konsistenzbeweisen",
+      "Konsistenzerhaltung",
+      "Konsistenzprüfungen",
+      "Konsistenzüberwachung"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierung",
+      "Modells"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxes",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxkern"
+    ],
+    "unive": [
+      "Universe",
+      "Universen",
+      "Universum",
+      "Universums",
+      "Universumssimulation"
+    ],
+    "absch": [
+      "Abschirmung",
+      "Abschließende",
+      "Abschnitt",
+      "Abschätzung"
+    ],
+    "analo": [
+      "Analog",
+      "Analoga",
+      "Analogie",
+      "Analogien"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseeinheit",
+      "Analysiert",
+      "Analysis"
+    ],
+    "autop": [
+      "AUTOPOIESIS",
+      "Autopoiesis",
+      "Autopoietic",
+      "Autopoietische"
+    ],
+    "berec": [
+      "Berechenbarkeit",
+      "Berechnung",
+      "Berechnungen",
+      "Berechnungsschritte"
+    ],
+    "compu": [
+      "Computation",
+      "Computational",
+      "Computationally",
+      "Computern"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerkorrektur",
+      "Fehlerkorrekturmechanismen",
+      "Fehlern"
+    ],
+    "integ": [
+      "Integrationspunkt",
+      "Integrity",
+      "Integrität",
+      "Integritätsmonitor"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Allerdings"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Eingehende"
+    ],
+    [
+      "Ende",
+      "Abschließende"
+    ],
+    [
+      "Ende",
+      "Vergleichende"
+    ],
+    [
+      "Ende",
+      "Zerfallstendenzen"
+    ],
+    [
+      "Feld",
+      "Umfeld"
+    ],
+    [
+      "Flow",
+      "MathOverflow"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationserwerb"
+    ],
+    [
+      "Form",
+      "Interaktionsformen"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Informationsgewinnung"
+    ]
+  ]
+}

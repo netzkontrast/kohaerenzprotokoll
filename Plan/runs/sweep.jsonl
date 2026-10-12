@@ -1306,3 +1306,7 @@
 {"document": "optimierter-prompt-fuer-kohaerenz-protokoll", "page": "juna", "surface": "Juna", "line": 42, "decision": "reading", "why": "the Juna/V-Anomalie, read on the page", "at": "2026-10-12"}
 {"document": "optimierter-prompt-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the novel's title in the report's heading", "at": "2026-10-12"}
 {"document": "optimierter-prompt-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 22, "decision": "occurrence", "why": "AEGIS's consciousness said not to be a simulation, not the Überwelt", "at": "2026-10-12"}
+{"document": "aegis-logik-in-der-leere-docx", "page": "entropie", "surface": "Entropie", "line": 21, "decision": "occurrence", "why": "logical entropy as an analogy for the Potentialraum", "at": "2026-10-12"}
+{"document": "aegis-logik-in-der-leere-docx", "page": "grosse-mauer", "surface": "Systemgrenze", "line": 154, "decision": "occurrence", "why": "a generic system boundary of Aegis's subsystem, not the Große Mauer of KW3", "at": "2026-10-12"}
+{"document": "aegis-logik-in-der-leere-docx", "page": "kohaerenz", "surface": "Kohärenz", "line": 216, "decision": "occurrence", "why": "a heading on the report's logical coherence", "at": "2026-10-12"}
+{"document": "aegis-logik-in-der-leere-docx", "page": "ueberwelt", "surface": "Simulation", "line": 115, "decision": "occurrence", "why": "Aegis's internal simulation, not the Überwelt", "at": "2026-10-12"}
