@@ -1,0 +1,368 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag-3",
+  "drive_id": "1xYZqeISFhyezaVuI4hy8zpmiuD8RWUns_Ozvn6jvck8",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 34,
+      "n_including_compounds": 34,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        43,
+        51,
+        55,
+        57,
+        59,
+        61,
+        65,
+        67,
+        75,
+        79,
+        85
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        85
+      ]
+    },
+    "Stille Wacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        25
+      ]
+    },
+    "Kohärenz": {
+      "n": 13,
+      "n_including_compounds": 18,
+      "lines": [
+        15,
+        17,
+        25,
+        31,
+        33,
+        35,
+        53,
+        59,
+        61,
+        65,
+        67,
+        75,
+        79,
+        85
+      ]
+    },
+    "Kohärenzfeld": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kohärenzmetriken": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        33,
+        59,
+        79
+      ]
+    },
+    "latenten Echos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        43
+      ]
+    },
+    "Echos": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        17,
+        31,
+        37,
+        41,
+        43,
+        51,
+        67,
+        73
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        29,
+        31,
+        39,
+        55,
+        61,
+        67,
+        69
+      ]
+    },
+    "minimalen Selbst": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        51,
+        83
+      ]
+    },
+    "minimale Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Grenzwacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        61,
+        65,
+        79
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Partitionierungsalgorithmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Resonanzkaskade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Kael-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Kael": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        81,
+        85
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Sensorphalanx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        21
+      ]
+    },
+    "Leere": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        19,
+        21,
+        23,
+        45
+      ]
+    },
+    "Entität": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        15,
+        19,
+        21,
+        25,
+        29,
+        31,
+        33,
+        51,
+        79,
+        81
+      ]
+    },
+    "Perturbation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        25,
+        29
+      ]
+    },
+    "Inkohärenz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        29,
+        33,
+        55
+      ]
+    },
+    "Kontrollmechanismen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Rückkopplungsschleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "geshardet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        79
+      ]
+    },
+    "Fragmente": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        81,
+        85,
+        122,
+        123
+      ]
+    },
+    "Scherben": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        77,
+        81
+      ]
+    },
+    "autopoietische Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Qualia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        45,
+        114
+      ]
+    },
+    "epistemologischen Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kontakts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    }
+  }
+}
