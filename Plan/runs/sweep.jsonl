@@ -1177,3 +1177,5 @@
 {"document": "aegis-philosophie-und-systemtheorie", "page": "ueberwelt", "surface": "Simulation", "line": 65, "decision": "occurrence", "why": "Bostrom's simulation argument, a borrowed frame", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "page": "entropie", "surface": "Entropie", "line": 32, "decision": "reading", "why": "the protocol against entropy, read with the thermodynamic entry", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "page": "grosse-mauer", "surface": "Systemgrenze", "line": 228, "decision": "occurrence", "why": "an abstract system's boundary", "at": "2026-10-12"}
+{"document": "kapitel-17", "page": "kohaerenz", "surface": "Kohärenz", "line": 47, "decision": "occurrence", "why": "AEGIS's definition it enforces, read on aegis", "at": "2026-10-12"}
+{"document": "kapitel-17", "page": "ueberwelt", "surface": "Simulation", "line": 45, "decision": "occurrence", "why": "a hedged option in a plan, read on the chapter page", "at": "2026-10-12"}

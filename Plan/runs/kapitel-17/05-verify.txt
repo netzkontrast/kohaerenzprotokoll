@@ -1,0 +1,55 @@
+$ read.py kapitel-17 --count "möglicherweise"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`möglicherweise` ^[kapitel-17.md:#2]
+$ read.py kapitel-17 --count "vielleicht"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`vielleicht` ^[kapitel-17.md:#4]
+$ read.py kapitel-17 --count "könnte"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`könnte` ^[kapitel-17.md:#7]
+$ read.py kapitel-17 --count "Samthandschuhe"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Samthandschuhe` ^[kapitel-17.md:#1]
+$ read.py kapitel-17 --count "Step 2.4"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Step 2.4` ^[kapitel-17.md:#4]
+$ read.py kapitel-17 --count "Step 2.5"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Step 2.5` ^[kapitel-17.md:#1]
+$ read.py kapitel-17 --count "LogOS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`LogOS` ^[kapitel-17.md:#1]
+$ read.py kapitel-17 --count "Abwehrdrohnen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Abwehrdrohnen` ^[kapitel-17.md:#1]
+$ read.py kapitel-17 --count "Schattenkonstrukten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schattenkonstrukten` ^[kapitel-17.md:#1]
+stance_marker_count 13 = 2 (möglicherweise) + 4 (vielleicht) + 7 (könnte)

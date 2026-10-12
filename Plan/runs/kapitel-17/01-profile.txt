@@ -1,0 +1,14 @@
+# kapitel-17
+  lines                65  (frontmatter ends at 9)
+  body words           1006
+  headings             0   bold-only lines 7
+  table rows           0   code fences 0
+  question marks       9
+  backslash escapes    0
+  typographic marks    5   ascii quotes 10
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    14
+  repeated labels      none
+  longest line         538 chars
+
