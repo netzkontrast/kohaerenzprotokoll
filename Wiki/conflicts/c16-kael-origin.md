@@ -505,3 +505,11 @@ Stands as one more position on Kael's origin in the record's own terms, an origi
 The line reads: „um spezifische Facetten (Caches) der Entität M (manifestiert als Kael) zu isolieren und zu analysieren“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L408], hedged by „Sein Ziel ist wahrscheinlich Verständnis, Vorhersage und potenziell Kontrolle oder Integration/Zerstörung von M/Kael.“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L408]
 
 One more position, in the report's own words; it decides nothing for the conflict.
+
+## 2026-10-12 — `the-coherence-protocol-a-narrative-mosaic`, 2025-11-03, the narrative mosaic brief
+
+**The narrative mosaic brief describes Juna/V as the exiled part of Kael's Ursprungs-Ich, and the AEGIS core as the Ursprungs-Ich after fragmentation.**
+
+„The exiled part of Kael's“ ^[the-coherence-protocol-a-narrative-mosaic.md:L49] Ursprungs-Ich, „representing gnosis, quantum entanglement, and the“ ^[the-coherence-protocol-a-narrative-mosaic.md:L49] Paraiyas; beside it the AEGIS core, „after its fragmentation, now a functional component defined by the prime directive“ ^[the-coherence-protocol-a-narrative-mosaic.md:L38]. The brief does not say what Kael is, only which parts its points of view are.
+
+Stands as one more position on Kael's origin, with the Ursprungs-Ich split between Juna/V and the AEGIS core; recorded, not applied.
