@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -52,6 +52,10 @@ The one place the system plan writes `Personas` is in its account of Perverse In
 ## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — the collapse of the first persona in Kapitel 13
 
 The only line is the opening of Kapitel 13, `Der erste Zusammenbruch`, in the DKT synthesis (an analysis of the plot): „Die Erkenntnis der Unmöglichkeit einer logischen Flucht führt zum Kollaps der ersten Persona“ ^[roman-synthese-mit-dual-kernel-theorie.md:L143]. The line does not say whose persona it is, nor does it tie the word to the alters or to the Guardians. It is a thin reading, kept because the chapter that follows centres on Kael (L145).
+
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — focal persona shifts to the Manager
+
+The master synthesis plans for Part II: „Die fokalisierende Persona wechselt subtil“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L95], the Manager taking the lead, which shows in a changed diction: „übernimmt die kognitive Führung, was sich in einer technischeren, distanzierteren Diktion des Textes widerspiegelt“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L95]. A plan.
 
 ## Open
 
