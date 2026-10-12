@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 21
-readings: 21
+sources: 22
+readings: 22
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere"]
 gathered: "2026-09-24"
 ---
 
@@ -37,6 +37,10 @@ In the plot recommendations it asks for scenes built on the problem: „Konkrete
 The tension-points analysis treats Cache Kohärenz as a symptom with a psychological and a systemic side. It says the term „beschreibt die narrative Manifestation der gestörten Gedächtnis- und Identitätskontinuität bei Kael“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L151]. Through IFS it proposes that the problem occurs „Cache Kohärenz tritt auf, wenn diese Schutzmauern bröckeln“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L152], and, in the same line, also where the protections are so strong that large parts of experience stay inaccessible (amnesia). Through TSDP: „Cache Kohärenz ist eine direkte Folge der strukturellen Dissoziation“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L153] between the apparently normal part and the emotional part. Through Ricoeur: „Cache Kohärenz repräsentiert ein Scheitern oder eine massive Störung dieses Emplotment-Prozesses“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L154].
 
 It calls the problem „das erlebbare Symptom“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L157] of deep fragmentation that is kept up or worsened by the conflict with AEGIS, and it hedges AEGIS's part: „AEGIS' Einfluss ist hier ambivalent“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L155]. It also says Kael's fragmented memory and inconsistent self-experience „erzeugen eine tiefe epistemologische Krise für ihn“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L109]. Narratively it proposes that „Das Cache Kohärenz-Problem erzeugt Plot-Twists“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L167]. These are the analysis's readings through borrowed theory.
+
+## Reading — `tsdp-analyse-kohaerenz-protokoll-charaktere`, 2025-04-28, the TSDP tension analysis — the cache-coherence problem as a mirror of Kael's struggle
+
+In the passage on Kael's phobia the TSDP tension analysis takes the `Cache Kohärenz` problem from the unshown brief (`User Query`) and hedges its reading: it „spiegelt wahrscheinlich seinen Kampf wider“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L124] to keep a stable identity and memory despite the inner threat and the dissociative barriers. In the advice section it proposes as a device: „Die Metapher der Cache-Kohärenz“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L371] for AEGIS keeping the parts in sync while complexity and traumatic data lead to inconsistencies.
 
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 
