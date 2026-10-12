@@ -552,3 +552,11 @@ Stands as a further source on the heat side of the record, with chapters 2–3 a
 It proposes that „Kael und seine Alter schleppen sich durch eine glühende, nach Ozon stinkende Wüste“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L172] in the mid of its Act II. For Act I it writes of a deleted NPC: „gepaart mit beißendem Ozon-Geruch“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L57]. It names acts of its own frame, not Kap 6 or Kap 36.
 
 Stands as one more position: heat and ozone together, by Landauer; recorded, not applied.
+
+## 2026-10-12 — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis
+
+**The master synthesis's sample has erasure make the corridor hot and smell of ozone; it knows no cold in that scene.**
+
+It states the principle: „generiert dieser algorithmische Akt massive physikalische Hitze in der Konstrukt-Stadt“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L46]. In the marked sample (`Narrativer Entwurf (Beispiel)`): „Die Umgebungstemperatur im Korridor schießt innerhalb von Millisekunden in die Höhe“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L85], „Kael erleidet Verbrennungen ersten Grades an den Händen, während er sich den Kopf hält“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L85], and „Der Geruch von Ozon und verbrannter Materie füllt die Lungen“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L85]. Cold appears elsewhere only in Part III, far from the zero point: „Der Raum ist extrem kalt, nahe dem thermodynamischen Nullpunkt“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L112], where „Die Hitze des Landauer-Limits verpufft, da keine Information mehr gelöscht wird“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L114].
+
+Stands on the warmth-and-ozone side in its sample, a proposal and not canon; recorded, not applied, and the record's rows are not changed.
