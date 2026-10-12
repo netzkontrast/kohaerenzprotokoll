@@ -829,3 +829,11 @@ One more position, from a design proposal; it decides nothing.
 „The archetypal embodiment of sterile, logical order in Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L42], „The archetypal embodiment of emotion, memory, and connection in Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L43], „The archetypal embodiment of paranoia and zero-trust defense in the bunker-like Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L44], „The archetypal embodiment of emergence, potential, and creativity in Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L45]. Each is a point of view of a brief, not an event in a story.
 
 Stands as one more position on the pairing of Guardian and Kernwelt; recorded, not applied.
+
+## 2026-10-12 — `blueprint`, 2025-07-29, the blueprint
+
+**The blueprint has each of the four Kernwelten watched by a Guardian and names no Guardian.**
+
+The record asks whether each Guardian is paired with a world. The blueprint writes of the four Kernwelten that each of the four psychological ones has „eine spezifische psychologische Funktion und Ästhetik“ ^[blueprint.md:L44] and is watched by a `Guardian` („überwacht“ ^[blueprint.md:L44]). It gives no number of Guardians and no name, and does not mention Erasure-Pol.
+
+Stands as a statement of one Guardian to each Kernwelt, without a count of Guardians; the five-to-four question stays open, recorded and not decided.
