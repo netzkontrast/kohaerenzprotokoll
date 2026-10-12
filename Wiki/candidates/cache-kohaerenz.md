@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 31
-readings: 31
+sources: 32
+readings: 32
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "protokoll-ontologie-roman-konzeptentwicklung", "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho", "the-coherence-protocol-a-comparative-analysis-across-the-sca"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "protokoll-ontologie-roman-konzeptentwicklung", "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho", "the-coherence-protocol-a-comparative-analysis-across-the-sca", "the-coherence-protocol-the-hidden-rules-that-hold-reality-to"]
 gathered: "2026-09-24"
 ---
 
@@ -109,6 +109,10 @@ The systemic-warfare guide advises translating „the abstract technical metapho
 The five-scale analysis states that at the computational scale „the Coherence Protocol is an explicit, algorithmic set of rules designed to solve the critical problem of maintaining a single, shared version of reality.“ ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:L77] It names cache coherence in multi-core processors as a microcosm of that problem.
 
 Its synthesis table lists, for computer architecture, „Cache Coherence Protocols (e.g., MESI)“ ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:L169]. The analysis uses the computing concept as a lens for the Protocol; it makes no claim about the novel's wiki term beyond that.
+
+## Reading — `the-coherence-protocol-the-hidden-rules-that-hold-reality-to`, 2025-11-03, the hidden-rules essay — cache coherence as the engineered case of a costly protocol
+
+The hidden-rules essay takes cache coherence as its first, computer-architecture analogy and names no figure of a novel. It says protocols like MESI act as a „law of the land“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L25] inside the chip, „defining the state of every piece of data“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L25]. It stresses the cost: „coherence is an active, resource-intensive process of preservation, not a passive, default state“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L27]. In its synthesis table, Cache Coherence Protocols „enforce a shared, single truth through a“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L54] social contract between cores.
 
 ## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — cache coherence as a technical analogy for Risse
 
