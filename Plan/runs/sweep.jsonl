@@ -1385,3 +1385,4 @@
 {"document": "untersuche-in-wie-fern-juna-bzw-das-fundament-du", "page": "ueberwelt", "surface": "Simulation", "line": 47, "decision": "occurrence", "why": "Kael is no simulation of trauma — not the Überwelt", "at": "2026-10-12"}
 {"document": "welcome-to-the-coherence-protocol-a-beginner-s-guide", "page": "juna", "surface": "Juna", "line": 86, "decision": "reading", "why": "KW4 influenced by Juna/V, read on the page", "at": "2026-10-12"}
 {"document": "welcome-to-the-coherence-protocol-a-beginner-s-guide", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "wahrheitstheorien-kohaerenz-vs-korrespondenz", "page": "kohaerenz", "surface": "Kohärenz", "line": 27, "decision": "occurrence", "why": "coherence as a theory of truth, the general sense", "at": "2026-10-12"}

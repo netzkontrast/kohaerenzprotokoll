@@ -1,0 +1,6 @@
+# every number the census and note state
+$ python3 scripts/read.py wahrheitstheorien-kohaerenz-vs-korrespondenz --count "Kap"   -> `Kap` ^[...#0]
+$ --count "Kohärenztheorien" -> 1 ; "Wahrmachern" -> 1 ; "Gottesauges" -> 1 ; "Äquivalenzschemas" -> 1 ; "Große Faktum" -> 1
+$ --count "Kritischer Defekt" -> 2 ; "Hauptvertreter" -> 2 ; stance_marker_count 2+2 = 4
+$ from 04-counts.txt: Kohärenztheorie 14/15, Wahrmacher 4/5, Gottesauge 1/2, Äquivalenzschema 1/2; Korrespondenz-Komponente 1
+$ from 01-profile.txt: glued ref numbers 46, backslash escapes 77, typographic marks 131, ascii quotes 0
