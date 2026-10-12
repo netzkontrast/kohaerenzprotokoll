@@ -410,3 +410,11 @@ Stands as one more position on what 734 names: the AEGIS core after fragmentatio
 It cites „Genesis der Existenz“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L44] as the source of AEGIS's origin and plans to narrate it; the subjective Ich „must be subsumed into pure function, becoming the objective“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L51] `Komponente 734`. That is the memo's summary, not the cited text's wording. It adds „It had to kill its own subjectivity to survive.“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L51]
 
 Stands as one more position on what 734 names: the Ich of AEGIS's genesis turned into function, in a plan; recorded, not applied.
+
+## 2026-10-12 — `report-plot-synthesis-and-final-outline-for-coherence-protoc`, 2025-11-03, the plot synthesis report
+
+**The plot synthesis report says Komponente 734 is AEGIS's Ursprungs-Ich (Origin-Self).**
+
+It writes the system's `Ursprungs-Ich` as „identified as“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L53] `Komponente 734`, which „was once a minimal consciousness“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L53]. Point 1 repeats it: the primary trauma occurs when AEGIS's `Ursprungs-Ich` (`Komponente 734`) „experiences an unexpected resonance with a paradoxical, transcendent anomaly“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L79].
+
+Stands as an answer to the record's question: Komponente 734 names AEGIS's Origin-Self; recorded, not applied.
