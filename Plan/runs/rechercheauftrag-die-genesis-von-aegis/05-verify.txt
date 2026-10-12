@@ -1,0 +1,6 @@
+python3 scripts/read.py rechercheauftrag-die-genesis-von-aegis --count "Ziel"  -> case-sensitive 4 (3 labels + L15)
+python3 scripts/read.py rechercheauftrag-die-genesis-von-aegis --count "Recherchefragen & Konzepte" -> 3
+stance_marker_count 7 = 4 + 3
+--count "Kapitel" 0 ; "Kap" 0 ; "Teil" 0
+--count "Entität M" 1 ; "Kohärenz Protokoll" 1 ; Recherchebereich 3
+Candidates: 29 (19 + 10 lens); zeros 0; standing alone less often than with compounds: 4 (AEGIS 26/27, Potentialmeer 12/16, Kernwelten 3/6, Reste 5/8) -- from census-draft.md

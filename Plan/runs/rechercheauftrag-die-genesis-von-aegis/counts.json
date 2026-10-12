@@ -1,0 +1,275 @@
+{
+  "document": "rechercheauftrag-die-genesis-von-aegis",
+  "drive_id": "1qQuGgbcpz-UFp_pMWjQEc9-yYeWz2fzkyn52dBRuQ7c",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 26,
+      "n_including_compounds": 27,
+      "lines": [
+        11,
+        15,
+        19,
+        47,
+        49,
+        64,
+        69,
+        70,
+        71,
+        75,
+        79,
+        88,
+        89,
+        98,
+        99,
+        100,
+        104,
+        105,
+        106,
+        107,
+        109,
+        110,
+        114
+      ]
+    },
+    "Überwelt": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        77,
+        79,
+        84,
+        90,
+        100,
+        104,
+        114
+      ]
+    },
+    "Potentialmeer": {
+      "n": 12,
+      "n_including_compounds": 16,
+      "lines": [
+        15,
+        17,
+        19,
+        30,
+        45,
+        60,
+        75,
+        88,
+        89,
+        106,
+        107,
+        108,
+        109,
+        110,
+        114
+      ]
+    },
+    "Kernwelten": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        77,
+        79,
+        94,
+        100,
+        104
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Reste": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        47,
+        54,
+        64,
+        68,
+        71,
+        107
+      ]
+    },
+    "Entität M": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Kernwelten-Methodik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        94,
+        104
+      ]
+    },
+    "Kern-Direktive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "negative Selbstdefinition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Ontologische Reibung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Vorläufer-Entitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Gescheiterte Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Schwellenwert": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Informationsabdrücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Saat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Genesis der Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Entwicklung der Kernwelten-Methodik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Autopoiesis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        70,
+        108
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Autokatalyse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        68
+      ]
+    },
+    "dissipative Strukturen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Dynamis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Energeia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Chora": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Kolmogorov-Komplexität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Chaoskampf-Motive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Methodologischer Reduktionismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    }
+  }
+}
