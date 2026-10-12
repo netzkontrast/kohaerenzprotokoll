@@ -1,0 +1,14 @@
+# the-true-coherence-protocol-architecting-kaels-journey-from
+  lines                153  (frontmatter ends at 9)
+  body words           3121
+  headings             16   bold-only lines 0
+  table rows           9   code fences 0
+  question marks       0
+  backslash escapes    24
+  typographic marks    29   ascii quotes 62
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    8
+  repeated labels      Alter Dynamics x4, Psychological Challenge x4
+  longest line         858 chars
+

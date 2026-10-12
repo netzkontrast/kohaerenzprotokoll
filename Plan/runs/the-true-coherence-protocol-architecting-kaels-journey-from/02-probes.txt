@@ -1,0 +1,32 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      8
+  backslash escapes      24
+  typographic marks      29
+  ascii quotes           62
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architecting, Architecture
+  disso    Dissociation, Dissociative, Dissoziation
+  funct    Function, Functional, Functions
+  alter    Alter, Alters
+  exter    External, Externalized
+  found    Foundation, Foundational
+  ident    Identification, Identity
+  poten    Potential, Potentialis
+  respo    Response, Responsibility
+  struc    Structural, Structure
+  terti    Tertiary, Tertiäre
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Hero < Heroine
+  Alter < Alters
+  Order < Disorder
+  World < Worlds
+  World < Underworld
+  External < Externalized
+  Function < Functions
+  Function < Functional
+  Potential < Potentialis
+  Foundation < Foundational
