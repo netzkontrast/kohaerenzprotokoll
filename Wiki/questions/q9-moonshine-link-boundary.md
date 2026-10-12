@@ -683,3 +683,13 @@ Bears on where the link stands relative to AEGIS's monitoring; a synthesis repor
 It writes that „Juna’s Moonshine-Link to Kael is therefore not a mere literary metaphor for quantum entanglement“ ^[kohaerenz-protokoll-synthese.md:L145], and that Juna accesses information through an orbifold construction: „The character Juna operates through an orbifold construction to access erased data“ ^[kohaerenz-protokoll-synthese.md:L31]. On the boundary it says: „Future revisions must address whether the link is exclusive to the Kael-Juna pair by inherent nature or by active, narrative choice“ ^[kohaerenz-protokoll-synthese.md:L109].
 
 Stands as an open question in the brief itself: whether the link reaches beyond Kael and Juna is left to later revision, recorded, not applied.
+
+## 2026-10-12 — `the-k-j-connection-defining-the-non-algorithmic-mechanism-of`, 2025-11-03, the K-J report
+
+**The K-J report defines the Moonshine-Link as a link between Kael and Juna/V that crosses as holistic understanding and is invisible to AEGIS.**
+
+On what crosses, it writes „direct transmission of intuitive, holistic understanding“ ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:L51] and that the link is „a synchronization point for Kael“ ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:L55] letting the alters coordinate across their Kernwelten. On whose it is: „they are components of a single, inseparable system“ ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:L39]. Toward AEGIS: „a hidden pathway that AEGIS cannot patch, firewall, or even acknowledge“ ^[the-k-j-connection-defining-the-non-algorithmic-mechanism-of.md:L41].
+
+The K-J report does not say who inside Kael's system feels it; it speaks of Kael and Juna/V as one system, and of the alters only as coordinating.
+
+Recorded, not applied; the question stays open.
