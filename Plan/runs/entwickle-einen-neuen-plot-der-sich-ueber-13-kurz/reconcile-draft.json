@@ -1,0 +1,140 @@
+{
+  "document": "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
+  "drive_id": "1jid8K7s9f_pRjHhtsrqy5wzpq7J5lAlxfK6rAfROZ4A",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 51,
+    "decisions": 49,
+    "decided_by_lookup": 39,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "kohaerenz-programm",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "a higher program whose errors come from fragmentation"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        261
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the proposed end state"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        137
+      ],
+      "attribution": "",
+      "note": "Nexus as the Hüter's control room"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        26,
+        57,
+        164
+      ],
+      "attribution": "",
+      "note": "personas as the blueprint's own episode figures"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        38,
+        107,
+        113,
+        209,
+        235,
+        248,
+        267
+      ],
+      "attribution": "",
+      "note": "cracks that grow, and a hunt that worsens them"
+    },
+    {
+      "page": "ueberraum",
+      "lines": [
+        127,
+        136,
+        150
+      ],
+      "attribution": "",
+      "note": "part 2 as an intervention from the Überraum"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        222,
+        235,
+        261
+      ],
+      "attribution": "",
+      "note": "the simulation as the blueprint's premise"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    },
+    {
+      "page": "kohaerenz-programm",
+      "surface": "Kohärenz-Programm",
+      "line": 17,
+      "decision": "reading",
+      "why": "the failing higher program"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 261,
+      "decision": "reading",
+      "why": "the final state"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 38,
+      "decision": "occurrence",
+      "why": "in the premise sentence"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
