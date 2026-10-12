@@ -1,0 +1,497 @@
+{
+  "document": "protokoll-ontologie-roman-konzeptentwicklung",
+  "drive_id": "1NnHjCF0iZmperRY1-K3fZgctL1EfrsVKqo800w499bM",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Protokoll-Ontologie": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        13,
+        24,
+        30,
+        59,
+        78,
+        86,
+        119,
+        218,
+        234
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        98,
+        99
+      ]
+    },
+    "DKT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Kohärenz": {
+      "n": 14,
+      "n_including_compounds": 20,
+      "lines": [
+        38,
+        42,
+        46,
+        51,
+        78,
+        97,
+        98,
+        100,
+        102,
+        119,
+        128,
+        154,
+        183,
+        200,
+        208,
+        220,
+        224,
+        236
+      ]
+    },
+    "Kollaps": {
+      "n": 9,
+      "n_including_compounds": 14,
+      "lines": [
+        38,
+        42,
+        47,
+        51,
+        68,
+        99,
+        101,
+        156,
+        166,
+        180,
+        184,
+        222,
+        226,
+        236
+      ]
+    },
+    "K₁": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "K₀": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "K\\_₁": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        42,
+        46,
+        49
+      ]
+    },
+    "K\\_₀": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        42,
+        47,
+        49,
+        51,
+        78,
+        80,
+        122,
+        154,
+        221
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Quantendekohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        99
+      ]
+    },
+    "Protokoll": {
+      "n": 18,
+      "n_including_compounds": 60,
+      "lines": [
+        13,
+        24,
+        30,
+        55,
+        59,
+        61,
+        65,
+        66,
+        67,
+        68,
+        78,
+        80,
+        82,
+        86,
+        97,
+        98,
+        99,
+        100,
+        102,
+        103,
+        115,
+        119,
+        121,
+        124,
+        132,
+        134,
+        135,
+        136,
+        138,
+        150,
+        154,
+        156,
+        160,
+        164,
+        166,
+        168,
+        172,
+        180,
+        181,
+        182,
+        183,
+        184,
+        210,
+        218,
+        222,
+        223,
+        234,
+        236
+      ]
+    },
+    "Overhead": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        72,
+        78,
+        82,
+        100,
+        135,
+        138,
+        156,
+        182
+      ]
+    },
+    "Corrective Wavelets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Corrective Wavelet": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        80,
+        101,
+        134,
+        223
+      ]
+    },
+    "Korrespondenz-Check": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        103,
+        135,
+        181,
+        226
+      ]
+    },
+    "Korrespondenzfehler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        221
+      ]
+    },
+    "Validierung": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        78,
+        102,
+        196
+      ]
+    },
+    "Kohärente Zonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Dekohärente Zonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Protokoll-Agenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Auditoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Selbst-Protokoll": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        124,
+        154,
+        156,
+        166,
+        168
+      ]
+    },
+    "Heiler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Protokollversagen": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        68,
+        99,
+        135,
+        164
+      ]
+    },
+    "Kohärenzgrad": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Messdruck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Ökonomie der Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Magiesystem": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        111,
+        132,
+        138
+      ]
+    },
+    "World Bible": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        90
+      ]
+    },
+    "Identitätskrise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        160,
+        164
+      ]
+    },
+    "Der Standhafte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Der Anpassungsfähige": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Der Parasit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Das Orakel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        241
+      ]
+    },
+    "AEGIS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        210,
+        241
+      ]
+    },
+    "Alternative Systems Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        208
+      ]
+    },
+    "Validierungskrieg": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Zyklus der Persistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Höhepunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Resilienz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        230,
+        236
+      ]
+    },
+    "Schiff-des-Theseus-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Systemtheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        97
+      ]
+    },
+    "Cache-Kohärenz-Protokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        208
+      ]
+    },
+    "Moratoriums": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Dekohärenz": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        51,
+        80,
+        99,
+        103,
+        184,
+        226
+      ]
+    }
+  }
+}
