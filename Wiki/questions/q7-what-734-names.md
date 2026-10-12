@@ -426,3 +426,11 @@ Stands as an answer to the record's question: Komponente 734 names AEGIS's Origi
 On the fragment it says „Was mit dem individuellen“ ^[fragen-zu-existenz-agency-und-realitaet.md:L79] Ich fragment, now Komponente 734, happens, is a violent fragmentation, „ultimative Akt der Selbsterhaltung“ ^[fragen-zu-existenz-agency-und-realitaet.md:L79]. On the third firewall: „Gegen interne Bedrohungen“ ^[fragen-zu-existenz-agency-und-realitaet.md:L97] it used the Kohärenz Protokoll „um den Teil abzuspalten“ ^[fragen-zu-existenz-agency-und-realitaet.md:L97]. In the proposed fourth act it is also the viewpoint of chapter 51: „Dies ist der letzte Test, erzählt aus der Perspektive der AEGIS-Kernlogik“ ^[fragen-zu-existenz-agency-und-realitaet.md:L165].
 
 Stands: the synthesis reports the name for the fragment and the split; it does not address the record's open question beyond that, and nothing is decided here.
+
+## 2026-10-12 — `genesis-aegis-und-logische-grenzen`, 2025-04-29, the Genesis prose draft with logical limits
+
+**The Genesis prose draft uses 734 for the numbered component the nameless self becomes inside AEGIS; it names no dwelling.**
+
+The AEGIS log (English capitals) of Szene 5 reads: „FRAGMENT DESIGNATION: 734“ ^[genesis-aegis-und-logische-grenzen.md:L73]. The draft's commentary says the nameless self becomes „eine nummerierte Komponente mit definierter Funktion im Gesamtsystem“ ^[genesis-aegis-und-logische-grenzen.md:L73]. The echo's signature in the log is „SIGNATURE ID: VS-734-ALPHA“ ^[genesis-aegis-und-logische-grenzen.md:L79].
+
+Where it stands in the record's own terms: it supports the designation sense of 734 (Komponente 734); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
