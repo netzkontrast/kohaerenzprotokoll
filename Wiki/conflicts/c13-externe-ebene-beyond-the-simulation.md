@@ -362,3 +362,11 @@ Stands on the side of an entity beyond the simulation, as the briefing's descrip
 It says Juna/V is a catalyst: „she is simultaneously a transcendent entity from an external level beyond AEGIS's comprehension“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L144] (L144), and an exiled part of Kael's own Original Self (L144). It states both together and does not weigh them against each other.
 
 Stands as a position that holds the external level and the exiled part together; recorded, not decided.
+
+## 2026-10-12 — `strategic-narrative-analysis-forging-a-compelling-story-from`, 2025-11-03, the strategy memo
+
+**The strategy memo plans the Externe Ebene with Juna and V as an external truth beyond AEGIS's control.**
+
+It names „the characters of Juna and V and their“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L109] Moonshine-Link and says the link represents „the existence of an external truth beyond AEGIS's control“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L111] and „something real to fight for outside the simulation“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L111]. It makes no claim here about Juna/V as an exiled part of Kael.
+
+Stands as a position that holds the external level as a counterweight to AEGIS's closure, in a plan; recorded, not decided.
