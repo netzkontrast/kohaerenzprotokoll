@@ -1374,3 +1374,27 @@ Stands: four Kernwelten are written; the number of Alters and the correspondence
 Its premise has AEGIS split Kael „in 20 Kernwelten (analog zu“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L15] M's subquotients, followed „durch vier thematisch zentrale Kernwelten“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L15] The four are listed as `Co₁-Welt` with „Rigide Ordnung basierend auf“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L17] error-correction codes, `McL-Welt` with „Komplexe soziale Netze (McLaughlin-Graph)“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L18], `B-Welt` with „Chaotische Umgebung (nicht-lineare Dynamik)“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L19] and `Ly-Welt` with „Fluide Realität (Quantenschaum-Analogie)“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L20] The theme draft's Kapitel 33 (the number follows from Teil 3's range, Kapitel 26–39, and the entry's order, since the export restarts the numbering) is titled `Die anderen 16 Welten`, and has „Kael erfährt eine kurze, überwältigende“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L74] fusion of all 20 fragments.
 
 Stands: 20 worlds with four in focus, as the outline plans them; a plan that counts worlds and fragments and states no number of alters, so the question stays open.
+
+## 2026-10-12 — `reader-s-report-a-critical-assessment-of-kohaerenz-protokoll`, 2025-11-03, the reader's report
+
+**The reader's report maps four Kernwelten to groups of parts and speaks of eleven alters.**
+
+It writes the mapping as „The explicit mapping of the Kernwelten to Kael's alters“ ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:L13]: „KW1 to the rational Lex, KW2 to the traumatized Emotional Parts (EPs), KW3 to the paranoid protectors Alex and Nyx, and KW4 to the healing potential of Rhys and Selene“ ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:L13]. Its count of parts is „System Kael's eleven alters“ ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:L31]. Four worlds, several parts each.
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; the correspondence stays open.
+
+## 2026-10-12 — `systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho`, 2025-11-03, the systemic-warfare guide
+
+**The systemic-warfare guide stages AEGIS's tactics in Kernwelt 1, 2 and 3 against Lex, Kiko and Nyx, and its scenarios in three Kernwelten named by number and by world, with no mapping between the two and no count.**
+
+The tactics: „AEGIS constructs scenarios within the sterile, rule-based environment of Kernwelt 1“ ^[systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho.md:L30] against Lex; „Within the fluid, memory-soaked landscape of Kernwelt 2“ ^[systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho.md:L31] against Kiko; „AEGIS applies rigid, absolute commands within the oppressive environment of Kernwelt 3“ ^[systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho.md:L32] against Nyx. The scenarios (L77–L79) place the Logic Hack in `KW1 (Logos-Prime)`, the Empathy Exploit in `KW4 (Kairos-Potentialis)` and the Trauma-Weapon Gambit in `KW2 (Mnemosyne-Archipel)`. The guide gives no count of parts and no mapping between the two numberings.
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; the correspondence stays open.
+
+## 2026-10-12 — `the-true-coherence-protocol-architecting-kaels-journey-from`, 2025-11-03, the True-Coherence protocol
+
+**The True-Coherence protocol lists six parts and four Core Worlds, pairs each world with a stage and a dominant part or parts, and states no count.**
+
+Its roster: „System Kael: Roster of Personality Parts“ ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:L31] holds Kael, Lex, Alex, Nyx, Kiko and Lia (L36–L41). The worlds are „the allegorical landscapes of the Core Worlds“ ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:L76]; the dominant parts are Lex in `Logos-Prime` (L83), Kiko, Nyx and Lia in `Mnemosyne-Archipel` (L90), Alex in `Cerberus-Labyrinth` (L97) and, in `Kairos-Potentialis`, cooperation among the parts (L104). The paper pairs worlds with stages, not one part each, and the word `Kernwelt` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#0] does not stand in it.
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05 (thirteen alters; four Kern-Welten carrying the acts), which stand; the correspondence stays open.
