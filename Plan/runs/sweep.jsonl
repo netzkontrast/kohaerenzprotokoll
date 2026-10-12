@@ -1218,3 +1218,5 @@
 {"document": "monstergruppe-metapher-auf-mathematische-kohaerenz", "page": "ueberwelt", "surface": "Simulation", "line": 103, "decision": "occurrence", "why": "inside a heading on Kael's fragmentation", "at": "2026-10-12"}
 {"document": "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
 {"document": "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "page": "ueberwelt", "surface": "Simulation", "line": 30, "decision": "occurrence", "why": "a theme word in the Kernthemen line", "at": "2026-10-12"}
+{"document": "angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "a shorter version of document 308; light pass", "at": "2026-10-12"}
+{"document": "angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 44, "decision": "occurrence", "why": "a shorter version of document 308; light pass", "at": "2026-10-12"}
