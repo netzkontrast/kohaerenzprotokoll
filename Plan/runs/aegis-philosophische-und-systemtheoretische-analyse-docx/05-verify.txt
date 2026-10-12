@@ -1,0 +1,128 @@
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Axiom"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            16
+
+`Axiom` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#12]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Aufgabenstellung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Aufgabenstellung` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#1]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Auftrag"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Auftrag` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#1]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "RCV"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            24
+
+`RCV` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#24]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Rekursive Konsistenzvalidierung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Rekursive Konsistenzvalidierung` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#2]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Kohärenz statt Wahrheit"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kohärenz statt Wahrheit` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#6]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Grenzprinzip"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Grenzprinzip` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#1]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Existenz = Wirkung + Selbstbezug"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Existenz = Wirkung + Selbstbezug` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#4]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "operationale Schließung"
+whole word, case-sensitive     5
+whole word, case-insensitive   10
+including compounds            5
+
+`operationale Schließung` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#5]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Zero Trust"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Zero Trust` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#4]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Zero-Trust-Architektur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Zero-Trust-Architektur` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#1]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Gefahr des Solipsismus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gefahr des Solipsismus` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#2]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#0]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Nexus"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nexus` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#0]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#0]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Sunyata"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`Sunyata` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#3]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "AEGIS"
+whole word, case-sensitive     80
+whole word, case-insensitive   80
+including compounds            84
+
+`AEGIS` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#80]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Selbstreferenz"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Selbstreferenz` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#10]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Entropie"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Entropie` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#7]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Kohärenz"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            21
+
+`Kohärenz` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#20]
+$ read.py aegis-philosophische-und-systemtheoretische-analyse-docx --count "Zeugnis"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`Zeugnis` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#3]
+$ stance_marker_count 14 = Axiom 12 + Aufgabenstellung 1 + Auftrag 1
+$ reference list: lines 284-321 = 38 entries (numbered 1..38 in the document)

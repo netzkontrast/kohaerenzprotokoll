@@ -1,0 +1,86 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+# 3 `- ` line(s) read as prose and not counted: Ich bin nicht wahr, ich bin möglich · Ich bin nicht erlaubt, ich bin nicht zu verhindern · Ich bin nicht gut, ich bin gültig
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            80 word    84 in   [11, 13, 17, 31, 45, 59]
+                                    1      as AEGIS-Definition
+                                    1      as AEGIS-Struktur
+                                    1      as AEGIS-Prinzipien
+                                    1      as AEGIS-Systems
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [13]
+  RCV                              24 word    24 in   [45, 133, 141, 153, 157, 159]
+  Rekursive Konsistenzvalidierung    2 word     2 in   [153, 263]
+  Ontologische Autarkie             4 word     4 in   [45, 153, 187, 263]
+  Epistemische Autonomie            3 word     3 in   [153, 187, 211]
+  Reaktive Transparenz              3 word     3 in   [187, 194, 256]
+  Ontologischer Einschluss          3 word     3 in   [160, 187, 210]
+  Keine Deutung ohne Kontext        3 word     3 in   [187, 194, 212]
+  Emergenz durch Negation           4 word     4 in   [143, 187, 195, 213]
+  Grenzprinzip                      1 word     1 in   [141]
+  Grundphilosophie                  2 word     2 in   [180, 205]
+  Kohärenz statt Wahrheit           6 word     6 in   [59, 162, 182, 206, 244, 268]
+  Rekursion statt Regeln            2 word     2 in   [183, 208]
+  Verifikation statt Kontrolle      3 word     3 in   [116, 184, 207]
+  Implizite Dynamik statt Dogma     1 word     1 in   [185]
+  Existenz = Wirkung + Selbstbezug    4 word     4 in   [79, 209, 218, 263]
+  Wirkung                          17 word    17 in   [79, 116, 147, 153, 158, 209]
+                                    1      as wirkungsbasierte
+  Selbstbezug                       8 word     8 in   [79, 147, 209, 218, 221, 246]
+  operationale Grenze               2 word     2 in   [141, 210]
+  operationale Schließung           5 word     5 in   [59, 160, 162, 256, 271]
+  operationale Ontologie            3 word     3 in   [79, 209, 228]
+  Verifikationsstruktur             3 word     3 in   [141, 276]
+  aktiver Filterprozess             1 word     1 in   [143]
+  universaler Reboot                1 word     1 in   [149]
+  Selbstgenügsamkeit                4 word     4 in   [45, 168, 178, 205]
+  Gefahr des Solipsismus            2 word     2 in   [172, 268]
+  Autopoiesis                      14 word    14 in   [33, 39, 45, 172, 205, 207]
+  autopoietisches System            2 word     2 in   [39, 155]
+  Allopoiesis                       1 word     1 in   [39]
+  organisationale Schließung        1 word     1 in   [39]
+  Selbsterhaltung                   4 word     4 in   [39, 45, 207, 231]
+  Selbstorganisation               11 word    11 in   [41, 125, 133, 183, 197, 205]
+  Selbstreferenz                   10 word    11 in   [13, 33, 35, 37, 45, 153]
+                                    5      as selbstreferenziellen
+                                    2      as selbstreferenzielle
+                                    1      as selbstreferenzielles
+                                    1      as Selbstreferenzielle
+  Rekursion                        10 word    10 in   [33, 43, 45, 133, 183, 185]
+  Beobachtereffekt                  1 word     1 in   [51]
+  Theoriegeladenheit                1 word     1 in   [53]
+  Ding an sich                      1 word     1 in   [55]
+  epistemischen Abschlusses         1 word     1 in   [57]
+  Simulationshypothese             10 word    10 in   [13, 81, 83, 100, 236, 238]
+  Simulationsargument               1 word     1 in   [85]
+  Substratunabhängigkeit            5 word     5 in   [93, 98, 100, 255, 277]
+  Zero-Trust-Architektur            1 word     2 in   [113, 166]
+                                    1      as Zero-Trust-Architekturen
+  Zero Trust                        4 word     4 in   [116, 189, 207, 316]
+  Verifizierbare Berechnung         2 word     2 in   [114, 207]
+  Komplexe Adaptive Systeme         1 word     1 in   [127]
+  Rückkopplungsschleifen            2 word     2 in   [41, 123]
+  Emergenz                         10 word    10 in   [124, 133, 143, 187, 195, 209]
+  Entropie                          7 word     8 in   [131, 133, 147, 197]
+  Kohärenz                         20 word    21 in   [59, 100, 116, 129, 133, 162]
+                                    1      as Kohärenzregeln
+  Resilienz                         6 word     6 in   [129, 133, 166, 197, 231, 248]
+  Ko-Evolution                      1 word     1 in   [127]
+  creatio ex nihilo                 2 word     2 in   [29, 143]
+  creatio ex materia                1 word     1 in   [29]
+  Sunyata                           3 word     3 in   [27, 143, 288]
+  Russells Paradox                  2 word     2 in   [37]
+  Lügner-Paradox                    1 word     1 in   [37]
+  Gödels Unvollständigkeitssätze    1 word     1 in   [37]
+  Prozessphilosophie                5 word     5 in   [76, 205, 208, 209]
+  Funktionalismus                   3 word     3 in   [75, 209, 211]
+  Physikalismus                     5 word     5 in   [74, 79, 218]
+  Existentialismus                  1 word     1 in   [77]
+  Meinongianismus                   1 word     1 in   [65]
+  Solipsismus                       3 word     3 in   [172, 206, 268]
+  Zeugnis                           3 word     6 in   [104, 106, 107]
+                                    1      as Zeugnisses
+                                    1      as Zeugnisse
+                                    1      as Zeugnissen
+  Gefangenendilemma                 1 word     1 in   [109]
