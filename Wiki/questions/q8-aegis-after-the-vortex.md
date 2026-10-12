@@ -824,3 +824,11 @@ Stands: the architecture validation gives one account of AEGIS after the Vortex,
 It writes that „AEGIS scheitert nicht in einem konventionellen Gefecht“ ^[dramatica-storyform-synthese-aegis-verortung.md:L175] but that AEGIS burns in its own erasure directive, and „stürzt in eine permanente“ ^[dramatica-storyform-synthese-aegis-verortung.md:L175] `Algorithmische Melancholie`; „Kael hingegen übersteht das Inferno“ ^[dramatica-storyform-synthese-aegis-verortung.md:L175].
 
 Stands: the synthesis answers the first half of the question, AEGIS's state, as a permanent frozen loop at the inversion, as its own claim; the second half (who takes over AEGIS's function inside Kael) it does not address; recorded, not applied.
+
+## 2026-10-12 — `kohaerenz-protokoll-synthese-integration`, 2025-12-05, the integrated synthesis
+
+**The integrated synthesis reports that the documents describe AEGIS's fate as Algorithmische Melancholie, a standstill that opens room for Kael's freedom.**
+
+It writes: „Die Dokumente beschreiben das Schicksal von AEGIS als“ ^[kohaerenz-protokoll-synthese-integration.md:L139] Algorithmische Melancholie, a state of eternal passive contemplation of the paradox: „ein kognitiver Stillstand, der den Raum für Kaels Freiheit öffnet“ ^[kohaerenz-protokoll-synthese-integration.md:L139].
+
+Stands with the answers that name Algorithmische Melancholie as AEGIS's state; the synthesis plans nothing about who takes over its function, recorded, not applied.
