@@ -1292,3 +1292,7 @@
 {"document": "logiksystem-aegis-entwicklungsszenarien-docx", "page": "genesis", "surface": "Genesis", "line": 67, "decision": "reading", "why": "the section heading on Aegis's emergence, read on the page", "at": "2026-10-12"}
 {"document": "logiksystem-aegis-entwicklungsszenarien-docx", "page": "kohaerenz", "surface": "Kohärenz", "line": 31, "decision": "occurrence", "why": "generic coherence of Restmuster, not the page's term", "at": "2026-10-12"}
 {"document": "logiksystem-aegis-entwicklungsszenarien-docx", "page": "ueberwelt", "surface": "Simulation", "line": 63, "decision": "occurrence", "why": "Aegis's internal simulations, not the Überwelt", "at": "2026-10-12"}
+{"document": "bewerte-kishotenketsu-als-zentrales-narrativ", "page": "juna", "surface": "Juna", "line": 46, "decision": "reading", "why": "Ten: the Juna/V connection, read on the page", "at": "2026-10-12"}
+{"document": "bewerte-kishotenketsu-als-zentrales-narrativ", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
+{"document": "bewerte-kishotenketsu-als-zentrales-narrativ", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 46, "decision": "occurrence", "why": "generic level of reality in the Ten line, not the novel's levels", "at": "2026-10-12"}
+{"document": "bewerte-kishotenketsu-als-zentrales-narrativ", "page": "ueberwelt", "surface": "Simulation", "line": 72, "decision": "occurrence", "why": "generic simulation in a list of tension sources, not the Überwelt", "at": "2026-10-12"}

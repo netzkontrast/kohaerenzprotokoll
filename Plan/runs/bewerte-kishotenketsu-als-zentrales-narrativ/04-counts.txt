@@ -1,0 +1,31 @@
+# counts for 24 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                7 word     7 in   [15, 21, 28, 37, 46, 55]
+  Kael                              5 word     9 in   [28, 37, 46, 55, 62, 72]
+                                    4      as Kaels
+  AEGIS                            11 word    11 in   [28, 37, 46, 55, 62, 63]
+  Kernwelten                        1 word     1 in   [37]
+  Risse                             1 word     1 in   [37]
+  Lex                               1 word     1 in   [37]
+  Nyx                               1 word     1 in   [37]
+  Kiko                              1 word     1 in   [37]
+  Juna/V-Verbindung                 1 word     1 in   [46]
+  Juna/V                            2 word     3 in   [46, 55, 73]
+                                    1      as Juna/V-Verbindung
+  lebende Gödel-Satz                1 word     1 in   [46]
+  funktionale Multiplizität         1 word     1 in   [55]
+  Dissoziation                      1 word     1 in   [28]
+  Kishōtenketsu                     6 word     6 in   [11, 15, 19, 62, 83, 85]
+  Drei-Akt-Struktur                 1 word     1 in   [19]
+  Vier-Akt-Struktur                 1 word     1 in   [19]
+  Ki (起)                            1 word     1 in   [23]
+  Shō (承)                           1 word     1 in   [32]
+  Ten (転)                           1 word     1 in   [41]
+  Ketsu (結)                         1 word     1 in   [50]
+  Ki                                4 word    11 in   [11, 15, 19, 23, 36, 37]  <-- substring
+  Shō                               3 word     3 in   [32, 54, 78]
+  Ten                               4 word     4 in   [41, 46, 54, 78]
+  Ketsu                             2 word     2 in   [50, 55]

@@ -1,0 +1,14 @@
+# bewerte-kishotenketsu-als-zentrales-narrativ
+  lines                86  (frontmatter ends at 9)
+  body words           1024
+  headings             6   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    36   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      Anwendung in „Kohärenz Protokoll“ x4, Struktur x4
+  longest line         625 chars
+

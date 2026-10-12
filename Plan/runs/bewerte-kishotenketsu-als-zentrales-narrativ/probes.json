@@ -1,0 +1,157 @@
+{
+  "document": "bewerte-kishotenketsu-als-zentrales-narrativ",
+  "drive_id": "1FzrHSnAGDJilrmu8eqIZzmk0CZJMKw_o156KfDRsLS0",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 36,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikts"
+    ],
+    "antag": [
+      "Antagonist",
+      "Antagonisten"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteilen"
+    ],
+    "archi": [
+      "Architektonische",
+      "Architektur"
+    ],
+    "eleme": [
+      "Element",
+      "Elements"
+    ],
+    "erzäh": [
+      "Erzählstruktur",
+      "Erzählung"
+    ],
+    "kampf": [
+      "Kampf",
+      "Kampfes"
+    ],
+    "kompl": [
+      "Komplikation",
+      "Komplizierung"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmas"
+    ],
+    "proje": [
+      "Projekt",
+      "Projekts"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebene"
+    ],
+    "roman": [
+      "Roman",
+      "Romans"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "thema": [
+      "Thema",
+      "Thematische"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustands"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Sein",
+      "Seins"
+    ],
+    [
+      "Sein",
+      "Auseinandersetzungen"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Ebene",
+      "Realitätsebene"
+    ],
+    [
+      "Kampf",
+      "Kampfes"
+    ],
+    [
+      "Roman",
+      "Romans"
+    ],
+    [
+      "Thema",
+      "Thematische"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Anteile",
+      "Anteilen"
+    ],
+    [
+      "Element",
+      "Elements"
+    ],
+    [
+      "Ordnung",
+      "Größenordnung"
+    ],
+    [
+      "Projekt",
+      "Projekts"
+    ],
+    [
+      "Wendung",
+      "Anwendung"
+    ],
+    [
+      "Zustand",
+      "Zustands"
+    ],
+    [
+      "Konflikt",
+      "Konflikte"
+    ]
+  ]
+}
