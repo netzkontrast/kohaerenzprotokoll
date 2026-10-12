@@ -1,0 +1,76 @@
+{
+  "document": "gravitational-architecture-novel-structure",
+  "drive_id": "1h7PD4-1Rhq6kqoMJvk_wTgVcA-kFdmF1L0dNQlwe1s8",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 54,
+    "decisions": 54,
+    "decided_by_lookup": 51,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "risse",
+      "lines": [
+        92,
+        100,
+        102,
+        298
+      ],
+      "attribution": "",
+      "note": "glitch mechanics proposed as rendering errors that tear the protagonist's surface reality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 399,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 88,
+      "decision": "reading",
+      "why": "glitch mechanics visualizing dissociation, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,14 @@
+# gravitational-architecture-novel-structure
+  lines                464  (frontmatter ends at 9)
+  body words           5387
+  headings             34   bold-only lines 0
+  table rows           21   code fences 0
+  question marks       12
+  backslash escapes    132
+  typographic marks    43   ascii quotes 210
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    80
+  repeated labels      none
+  longest line         942 chars
+
