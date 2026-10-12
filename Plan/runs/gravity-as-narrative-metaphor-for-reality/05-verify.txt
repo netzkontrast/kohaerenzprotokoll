@@ -1,0 +1,77 @@
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Narrative Insight"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Narrative Insight` ^[gravity-as-narrative-metaphor-for-reality.md:#9]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[gravity-as-narrative-metaphor-for-reality.md:#1]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "protagonist"
+whole word, case-sensitive     11
+whole word, case-insensitive   13
+including compounds            11
+
+`protagonist` ^[gravity-as-narrative-metaphor-for-reality.md:#11]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[gravity-as-narrative-metaphor-for-reality.md:#0]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Chapter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Chapter` ^[gravity-as-narrative-metaphor-for-reality.md:#1]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Protokoll"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Protokoll` ^[gravity-as-narrative-metaphor-for-reality.md:#25]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Quantum Darwinism"
+whole word, case-sensitive     15
+whole word, case-insensitive   16
+including compounds            15
+
+`Quantum Darwinism` ^[gravity-as-narrative-metaphor-for-reality.md:#15]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Witnessing"
+whole word, case-sensitive     3
+whole word, case-insensitive   5
+including compounds            3
+
+`Witnessing` ^[gravity-as-narrative-metaphor-for-reality.md:#3]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Hierarchy Problem of the Soul"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hierarchy Problem of the Soul` ^[gravity-as-narrative-metaphor-for-reality.md:#1]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Entropic Leakage"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Entropic Leakage` ^[gravity-as-narrative-metaphor-for-reality.md:#2]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "God Code"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`God Code` ^[gravity-as-narrative-metaphor-for-reality.md:#1]
+### python3 scripts/read.py gravity-as-narrative-metaphor-for-reality --count "Zugriff am"
+whole word, case-sensitive     63
+whole word, case-insensitive   63
+including compounds            63
+
+`Zugriff am` ^[gravity-as-narrative-metaphor-for-reality.md:#63]
+### stance_marker_count 10 = Narrative Insight 9 + Referenzen 1
+### lines of Narrative Insight: grep -n 'Narrative Insight' Sources/drive/gravity-as-narrative-metaphor-for-reality.md
+76 108 149 188 228 256 341 378 409 
+### grep -n 'Chapter' 
+583:53. Quantum Darwinism: Environment as a Witness (Chapter 7) - Cambridge University Pre

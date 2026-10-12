@@ -1,0 +1,210 @@
+{
+  "document": "gravity-as-narrative-metaphor-for-reality",
+  "drive_id": "1UQtTdpYK1HoXAxjwR85KrugBiGSZur_NlrkbRxLNjQA",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 69,
+  "backslash_escapes": 177,
+  "typographic_marks": 39,
+  "ascii_quotes": 238,
+  "inflection_families": {
+    "psych": [
+      "Psyche",
+      "Psychoanalytic",
+      "Psychological",
+      "Psychology",
+      "Psychotraumatology"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherentism",
+      "Coherentist"
+    ],
+    "compl": [
+      "COMPLEXITY",
+      "Complex",
+      "Complexity"
+    ],
+    "criti": [
+      "Critical",
+      "Critics",
+      "Critique"
+    ],
+    "force": [
+      "Force",
+      "Forced",
+      "Forces"
+    ],
+    "monst": [
+      "Monster",
+      "Monstrous",
+      "MonstrousMoonshineandtheBlackHole"
+    ],
+    "objec": [
+      "Objective",
+      "Objectivity",
+      "Objects"
+    ],
+    "physi": [
+      "Physical",
+      "Physicist",
+      "Physics"
+    ],
+    "relat": [
+      "Related",
+      "Relative",
+      "Relativity"
+    ],
+    "struc": [
+      "Structural",
+      "Structure",
+      "Structured"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theories",
+      "Theory"
+    ],
+    "anoma": [
+      "Anomalies",
+      "Anomalous"
+    ],
+    "attra": [
+      "Attractor",
+      "Attractors"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic"
+    ],
+    "bridg": [
+      "Bridge",
+      "Bridging"
+    ],
+    "chaos": [
+      "CHAOS",
+      "Chaos"
+    ],
+    "class": [
+      "Classical",
+      "Classicality"
+    ],
+    "conce": [
+      "Concept",
+      "Concepts"
+    ],
+    "conse": [
+      "Consensus",
+      "Consequently"
+    ],
+    "corre": [
+      "Correlate",
+      "Correspondence"
+    ],
+    "dimen": [
+      "Dimensional",
+      "Dimensions"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Flow",
+      "MathOverflow"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Here",
+      "Coherentism"
+    ],
+    [
+      "Here",
+      "Coherentist"
+    ],
+    [
+      "Here",
+      "Decoherence"
+    ],
+    [
+      "Hole",
+      "Holes"
+    ],
+    [
+      "Hole",
+      "Wormhole"
+    ],
+    [
+      "Hole",
+      "Wormholes"
+    ],
+    [
+      "Hole",
+      "MonstrousMoonshineandtheBlackHole"
+    ],
+    [
+      "Matt",
+      "Matter"
+    ],
+    [
+      "PTSD",
+      "CPtsd"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Part",
+      "Bipartite"
+    ],
+    [
+      "Part",
+      "Particular"
+    ],
+    [
+      "SELF",
+      "Self"
+    ],
+    [
+      "Time",
+      "Spacetime"
+    ],
+    [
+      "Weak",
+      "Weakest"
+    ],
+    [
+      "Weak",
+      "Weakling"
+    ],
+    [
+      "Weak",
+      "Weakness"
+    ],
+    [
+      "Black",
+      "MonstrousMoonshineandtheBlackHole"
+    ]
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "document": "gravity-as-narrative-metaphor-for-reality",
+  "drive_id": "1UQtTdpYK1HoXAxjwR85KrugBiGSZur_NlrkbRxLNjQA",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        22,
+        37,
+        76,
+        108,
+        116,
+        149,
+        165,
+        188,
+        228,
+        341,
+        378,
+        409,
+        413,
+        422,
+        438,
+        464,
+        479,
+        516
+      ]
+    },
+    "Protokoll": {
+      "n": 25,
+      "n_including_compounds": 25,
+      "lines": [
+        22,
+        37,
+        76,
+        108,
+        116,
+        149,
+        165,
+        188,
+        228,
+        236,
+        256,
+        341,
+        378,
+        409,
+        413,
+        422,
+        438,
+        464,
+        479,
+        495,
+        516,
+        524
+      ]
+    },
+    "Gravity of Being": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        108
+      ]
+    },
+    "Hierarchy Problem of the Soul": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        422
+      ]
+    },
+    "Entropic Leakage": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        426,
+        430
+      ]
+    },
+    "Operational Closure": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        200,
+        204,
+        228,
+        434,
+        440,
+        497
+      ]
+    },
+    "Forced Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        441
+      ]
+    },
+    "Simulated Reality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        441
+      ]
+    },
+    "Epistemic Blindness": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        212,
+        216,
+        430,
+        440,
+        558
+      ]
+    },
+    "Entropic Disintegration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        222,
+        444
+      ]
+    },
+    "Absence of Absence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Slaving": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        232,
+        240,
+        244,
+        442
+      ]
+    },
+    "Order Parameter": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        240,
+        244,
+        256,
+        442
+      ]
+    },
+    "Strange Attractor": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        315,
+        332,
+        336,
+        341,
+        442,
+        579
+      ]
+    },
+    "Fixed Point Attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        341
+      ]
+    },
+    "Dimensional Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        448
+      ]
+    },
+    "Witnessing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        444,
+        455,
+        496
+      ]
+    },
+    "Classical Transition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        378
+      ]
+    },
+    "God Code": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        409
+      ]
+    },
+    "Black Hole": {
+      "n": 13,
+      "n_including_compounds": 14,
+      "lines": [
+        108,
+        315,
+        320,
+        324,
+        386,
+        401,
+        407,
+        409,
+        430,
+        456,
+        525,
+        574,
+        590
+      ]
+    },
+    "Event Horizon": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        260,
+        327,
+        508
+      ]
+    },
+    "Singularity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        430,
+        525
+      ]
+    },
+    "Bulk": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        430,
+        456,
+        480,
+        523
+      ]
+    },
+    "Brane": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        63,
+        67,
+        430,
+        537,
+        538,
+        539,
+        540
+      ]
+    },
+    "Subject": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        430,
+        438,
+        452,
+        455,
+        456
+      ]
+    },
+    "Monster": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        394,
+        396,
+        405,
+        407,
+        409,
+        456,
+        512,
+        527
+      ]
+    },
+    "Apparently Normal Part": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        149,
+        282
+      ]
+    },
+    "Emotional Part": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        149,
+        283,
+        569
+      ]
+    },
+    "ANP": {
+      "n": 17,
+      "n_including_compounds": 19,
+      "lines": [
+        149,
+        268,
+        282,
+        283,
+        291,
+        292,
+        293,
+        311,
+        327,
+        341,
+        430,
+        444,
+        480,
+        482,
+        508,
+        509
+      ]
+    },
+    "EP": {
+      "n": 11,
+      "n_including_compounds": 27,
+      "lines": [
+        112,
+        116,
+        126,
+        147,
+        149,
+        268,
+        283,
+        291,
+        292,
+        293,
+        311,
+        341,
+        430,
+        454,
+        456,
+        483,
+        509,
+        510,
+        525,
+        533,
+        546,
+        547,
+        548,
+        549
+      ]
+    },
+    "ER Bridge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        454
+      ]
+    },
+    "Holographic Screen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        511
+      ]
+    },
+    "Coherentist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "Hierarchy Problem": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        22,
+        24,
+        33,
+        37,
+        59,
+        422,
+        456,
+        523,
+        533,
+        534,
+        536
+      ]
+    },
+    "Technical Naturalness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Brane Cosmology": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        67,
+        430
+      ]
+    },
+    "Large Extra Dimensions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Entropic Gravity": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        80,
+        84,
+        511
+      ]
+    },
+    "Holographic Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "ER = EPR": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        112,
+        116,
+        546
+      ]
+    },
+    "Wormhole": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        120,
+        127,
+        143,
+        509,
+        525
+      ]
+    },
+    "Quantum Entanglement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Tensor Networks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        183,
+        441,
+        552
+      ]
+    },
+    "Blob Realism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Autopoiesis": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        24,
+        192,
+        196,
+        497,
+        524,
+        557
+      ]
+    },
+    "Epistemic Closure": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        192,
+        216
+      ]
+    },
+    "Dimensional Collapse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        212,
+        218
+      ]
+    },
+    "Synergetics": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        232,
+        236,
+        244,
+        442,
+        563,
+        564,
+        565
+      ]
+    },
+    "Slaving Principle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        232,
+        240,
+        244
+      ]
+    },
+    "Structural Dissociation": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        22,
+        264,
+        268,
+        272,
+        291,
+        292,
+        293,
+        525,
+        567,
+        568,
+        575
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        301,
+        303,
+        570
+      ]
+    },
+    "Quantum Darwinism": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        24,
+        345,
+        353,
+        357,
+        378,
+        444,
+        455,
+        496,
+        526,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585
+      ]
+    },
+    "Pointer States": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        24,
+        382,
+        386,
+        527,
+        590
+      ]
+    },
+    "Monster Group": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        394,
+        396,
+        405,
+        407,
+        456
+      ]
+    },
+    "Witten's Conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        401
+      ]
+    }
+  }
+}
