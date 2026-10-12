@@ -1,0 +1,18 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      5
+  typographic marks      9
+  ascii quotes           70
+
+# inflection families -- one term, several surfaces
+  funct    Function, Functional
+  proto    Protocol, Protokoll
+  world    Worldview, Worldviews
+
+# substring pairs -- never one term, often merged by accident
+  View < Worldview
+  View < Worldviews
+  Logic < Ontological
+  Function < Functional
+  Worldview < Worldviews

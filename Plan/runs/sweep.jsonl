@@ -1401,3 +1401,4 @@
 {"document": "roman-kapitel-1-generierungsprozess", "page": "risse", "surface": "Glitch", "line": 56, "decision": "reading", "why": "every glitch as proof of the simulation's failure, read on the page", "at": "2026-10-12"}
 {"document": "roman-kapitel-1-generierungsprozess", "page": "tsdp", "surface": "TSDP", "line": 58, "decision": "reading", "why": "TSDP as the psychological framework, read on the page", "at": "2026-10-12"}
 {"document": "roman-kapitel-1-generierungsprozess", "page": "ueberwelt", "surface": "Simulation", "line": 56, "decision": "reading", "why": "the Konstrukt-Stadt as a simulation, read on the page", "at": "2026-10-12"}
+{"document": "an-introduction-to-the-coherence-protocol-the-war-for-realit", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}

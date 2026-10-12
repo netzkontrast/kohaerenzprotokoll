@@ -1,0 +1,48 @@
+{
+  "document": "an-introduction-to-the-coherence-protocol-the-war-for-realit",
+  "drive_id": "1Vmw1wTJyGi6Bc3CqtOmO5HusedV1TOjOmHditd38ov8",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 5,
+  "typographic_marks": 9,
+  "ascii_quotes": 70,
+  "inflection_families": {
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "world": [
+      "Worldview",
+      "Worldviews"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "View",
+      "Worldview"
+    ],
+    [
+      "View",
+      "Worldviews"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Worldview",
+      "Worldviews"
+    ]
+  ]
+}
