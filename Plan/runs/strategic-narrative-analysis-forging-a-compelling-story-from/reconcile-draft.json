@@ -1,0 +1,236 @@
+{
+  "document": "strategic-narrative-analysis-forging-a-compelling-story-from",
+  "drive_id": "15jVIihftJ5lFaz8UQPEYxHIObzAMrbjaDIU2bN0XT3Q",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 69,
+    "decisions": 69,
+    "decided_by_lookup": 57,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        37,
+        38,
+        42,
+        44,
+        51,
+        112
+      ],
+      "attribution": "",
+      "note": "a plan for AEGIS as tragic antagonist, with its genesis summarised from a cited text"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "a protector in KW3, in the memo's plan"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        55,
+        57,
+        58
+      ],
+      "attribution": "",
+      "note": "the memo grounds the alters in TSDP and IFS"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        109,
+        111
+      ],
+      "attribution": "",
+      "note": "the External Level as the memo's answer to the Isolation Objection"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the memo cites an origin text by title and summarises its stages"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        109,
+        111,
+        135
+      ],
+      "attribution": "",
+      "note": "Juna and V as the external connection in the memo's plan"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        23,
+        32,
+        60,
+        119
+      ],
+      "attribution": "",
+      "note": "a plan for the unified protagonist and his goal"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        23,
+        25,
+        27,
+        28,
+        97
+      ],
+      "attribution": "",
+      "note": "the memo maps the four Kernwelten to alters and uses them as its tool"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "the memo's summary: the Ich subsumed into function"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "the rational part in KW1"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "a healer in KW4"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        109,
+        112
+      ],
+      "attribution": "",
+      "note": "the link of Juna and V as the plot driver"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's goal"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        27,
+        58
+      ],
+      "attribution": "",
+      "note": "a protector in KW3 and a destructive alter with a positive intent"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "a relational part in KW4"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        104
+      ],
+      "attribution": "",
+      "note": "the cracks in the foundation as foreshadowing"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "the core Self in KW4"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        57,
+        77
+      ],
+      "attribution": "",
+      "note": "TSDP as the model of the fragmentation, and a risk of pathologising"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 44,
+      "decision": "reading",
+      "why": "the origin text Genesis der Existenz, cited by title and summarised"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 104,
+      "decision": "reading",
+      "why": "Risse im Fundament seeded as foreshadowing"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

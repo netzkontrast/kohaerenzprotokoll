@@ -1,0 +1,77 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is English prose with German terms in quotation marks; it is a strategy memo about the concept, and it reports other texts ("Genesis der Existenz", the "Narrative Dekonstruktion" analysis) by name. Alex, Nyx, Lex, Lia are short names, counted by exact case. Kernwelt is written once as "Kernwelt (Core World)" and once as "Kernwelten" (Core Worlds). The table in L34-38 is flattened with escaped asterisks.
+
+- Kohärenz Protokoll
+- Kael
+- AEGIS
+- Lex
+- Alex
+- Nyx
+- Lia
+- Rhys
+- Selene
+- Juna
+- KW1
+- KW2
+- KW3
+- KW4
+- Kernwelt
+- Kernwelten
+- Alters
+- Komponente 734
+- Genesis der Existenz
+- Bruchpunkt
+- Risse im Fundament
+- Externe Ebene
+- Moonshine-Link
+- Rauschen
+- Das Fundament
+- The Fundament
+- The Gardener
+- 6 Paraiyas
+- Paraiyas
+- Isolation Objection
+- narrative nihilism
+- inevitable surprise
+- strange attractor
+- functional multiplicity
+- operational closure
+- ontological autarky
+- externalized perpetrator introject
+- autopoietic system
+- Kohärenz statt Wahrheit
+- Kohärenz durch Integration
+- Exclusionary Order
+- Emergent Order
+- Self-Referential Logic
+- Integrative Logic
+- unified protagonist
+- Environmental Storytelling
+- Protokoll-Ontologie
+- Narrative Dekonstruktion
+- trauma-time
+- Ich
+- ANP
+- ANPs
+- EPs
+- Apparently Normal Parts
+- Emotional Parts
+- phobic avoidance
+- positive intent
+
+## lens
+
+- Tertiary Structural Dissociation
+- TSDP
+- Theory of Structural Dissociation of the Personality
+- Internal Family Systems
+- IFS
+- paraconsistent logic
+- Paraconsistent Logic
+- Autopoiesis
+- Second-Order Cybernetics
+- Process Philosophy
+- Macht/Wissen
+- Gödel
+- Incompleteness Theorems
