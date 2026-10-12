@@ -1,0 +1,14 @@
+# aegis-philosophie-und-manifest-entwicklung
+  lines                119  (frontmatter ends at 9)
+  body words           3252
+  headings             5   bold-only lines 8
+  table rows           11   code fences 0
+  question marks       3
+  backslash escapes    44
+  typographic marks    1   ascii quotes 48
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    24
+  repeated labels      none
+  longest line         1141 chars
+

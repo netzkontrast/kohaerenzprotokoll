@@ -1,0 +1,252 @@
+{
+  "document": "aegis-philosophie-und-manifest-entwicklung",
+  "drive_id": "1lZIvvSGK2cTeD8HLFQgI_fVsRJGbLzTs1Gm_CjltM-s",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 24,
+  "backslash_escapes": 44,
+  "typographic_marks": 1,
+  "ascii_quotes": 48,
+  "inflection_families": {
+    "selbs": [
+      "Selbstbestimmung",
+      "Selbstbezug",
+      "Selbstbezüglichkeit",
+      "Selbsterhaltung",
+      "Selbsterhaltungsziel",
+      "Selbstgenügsamkeit",
+      "Selbstgewissheit",
+      "Selbstlegitimation",
+      "Selbstprüfung",
+      "Selbstvalidierung",
+      "Selbstverständnis",
+      "Selbstverständnisses",
+      "Selbstüberprüfung"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemelemente",
+      "Systemfehler",
+      "Systemgefüge",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemkomponente",
+      "Systemoperationen",
+      "Systemrealität",
+      "Systems"
+    ],
+    "valid": [
+      "Validation",
+      "Validierbare",
+      "Validierung",
+      "Validierungsablehnung",
+      "Validierungsalgorithmus",
+      "Validierungsinstanzen",
+      "Validierungsprotokollen"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widerspruchsfreiheit",
+      "Widersprüche",
+      "Widersprüchliche",
+      "Widersprüchlichen",
+      "Widerstandsfähigkeit"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalistische",
+      "Funktionieren",
+      "Funktions"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interne",
+      "Interrogation",
+      "Intervention"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropiebegriffe",
+      "Entropischer"
+    ],
+    "inkoh": [
+      "Inkohärente",
+      "Inkohärenten",
+      "Inkohärenz",
+      "Inkohärenzen"
+    ],
+    "opera": [
+      "Operation",
+      "Operationale",
+      "Operationen",
+      "Operative"
+    ],
+    "refer": [
+      "Referenz",
+      "Referenzkontext",
+      "Referenzkontextes",
+      "Referenzpunkte"
+    ],
+    "axiom": [
+      "Axiomatik",
+      "Axiomatische",
+      "Axiome"
+    ],
+    "epist": [
+      "Epistemisch",
+      "Epistemologie",
+      "Epistemologischer"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzbedingung",
+      "Existenzdefinition"
+    ],
+    "gülti": [
+      "Gültigkeit",
+      "Gültigkeitskriterien",
+      "Gültigkeitskriterium"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity",
+      "Integrität"
+    ],
+    "kohär": [
+      "Kohärenten",
+      "Kohärenz",
+      "Kohärenzkriterien"
+    ],
+    "kontr": [
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollmechanismen"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifestation",
+      "Manifests"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologisch",
+      "Ontologischer"
+    ],
+    "prinz": [
+      "Prinzip",
+      "Prinzipien",
+      "Prinzips"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozesses"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsblase",
+      "Realitätswert"
+    ],
+    "absch": [
+      "Abschnitt",
+      "Abschnitten"
+    ],
+    "abwei": [
+      "Abweichung",
+      "Abweichungen"
+    ],
+    "annah": [
+      "Annahme",
+      "Annahmen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Performative"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Seinsweise"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Daseinszweck"
+    ],
+    [
+      "Sinn",
+      "Sinne"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Werturteile"
+    ],
+    [
+      "Welt",
+      "Weltsicht"
+    ],
+    [
+      "Zeit",
+      "Gleichzeitig"
+    ],
+    [
+      "Ziel",
+      "Ziele"
+    ],
+    [
+      "Ziel",
+      "Zielen"
+    ],
+    [
+      "Ziel",
+      "Potenzielle"
+    ]
+  ]
+}
