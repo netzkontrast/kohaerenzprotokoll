@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 23
-readings: 22
+sources: 24
+readings: 23
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung"]
 gathered: "2026-09-16"
 ---
 
@@ -66,6 +66,10 @@ The conceptual report describes an abstract construct for any system and names n
 ## Reading — `emergenz-aegis-und-selbststrukturierung`, 2025-04-27, the emergent self-structuring research — negentropy only as a lens term
 
 Negentropie stands twice as a borrowed concept, in the information cluster's list of statistical mechanics „Entropie, Negentropie“ ^[emergenz-aegis-und-selbststrukturierung.md:L162] and in the energy cluster's philosophical lens, the idea of order „gegen“ the entropy flow. The research ties it to AEGIS only through the coherence-from-entropy claim of the neighbouring lines, not by name.
+
+## Reading — `emergenz-autonomer-systeme-aegis-forschung`, 2025-04-27, the AEGIS fundamental-research report — negentropy as information, tied to AEGIS in the synthesis
+
+In its synthesis the AEGIS fundamental-research report writes „Information kann als Maß für reduzierte Entropie“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L390] viewed, or as `Negentropie`, and ties this to AEGIS in the next sentence: „Die Fähigkeit von AEGIS, Kohärenz (Information/Ordnung) aus Entropie zu erzeugen“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L390] links the information cluster and the energy/entropy cluster. The link is the report's proposal about a speculative construct.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — AEGIS' Negentropie-Fehlinterpretation
 
