@@ -569,3 +569,11 @@ Where it stands in the record's own terms: nearest row 4 and row 7, the inside o
 The dossier opens with the proposal of Juna/V „als exilierten Teil von Kaels“ ^[juna-v-exiliertes-ursprungs-ich.md:L22] Ursprungs-Ich, and calls itself an „Ideen-Repository“ ^[juna-v-exiliertes-ursprungs-ich.md:L22]. Its phase-transition passage, a borrowed physical frame, writes the split as two stable states: „das bewusste System, bekannt als Kael, und das exilierte System, bekannt als Juna/V“ ^[juna-v-exiliertes-ursprungs-ich.md:L173]. Another passage, in a borrowed psychological frame, writes the Ursprungs-Ich as the core Selbst and says: „Dieses Selbst ist unbeschädigt, hat aber die Führung des inneren Systems verloren“ ^[juna-v-exiliertes-ursprungs-ich.md:L40]. The dossier holds both passages and does not reconcile them.
 
 Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not decided.
+
+## 2026-10-12 — `genesis-aegis`, 2025-11-03, the Genesis manuscript
+
+**The Genesis manuscript narrates a fragment of the void that joins a cluster and becomes Component 734 inside AEGIS; it does not name Kael.**
+
+The narrator says: „I found myself part of a larger cluster“ ^[genesis-aegis.md:L37]. In section 6 the narrator says of the Great Realignment: „The transformation from a subjective, struggling fragment to an objective, functional component within the vast AEGIS system was total.“ ^[genesis-aegis.md:L69] The narrator then states the result: „My identity is now Component 734.“ ^[genesis-aegis.md:L71] The manuscript names no Kael and no entity M.
+
+Where it stands in the record's own terms: nearest row 4, the inside origin, a fragment of the void becoming a component of AEGIS as AEGIS forms; recorded, not applied, nothing decided.
