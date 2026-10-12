@@ -1192,3 +1192,7 @@
 {"document": "logik-trifft-transzendente-entitaet", "page": "kohaerenz", "surface": "Kohärenz", "line": 33, "decision": "reading", "why": "survival depends on internal coherence", "at": "2026-10-12"}
 {"document": "logik-trifft-transzendente-entitaet", "page": "risse", "surface": "Risse", "line": 121, "decision": "occurrence", "why": "a section heading", "at": "2026-10-12"}
 {"document": "logik-trifft-transzendente-entitaet", "page": "ueberwelt", "surface": "Simulation", "line": 226, "decision": "occurrence", "why": "the borrowed Dust Theory", "at": "2026-10-12"}
+{"document": "logik-trifft-transzendente-entitaet-2", "page": "entropie", "surface": "Entropie", "line": 115, "decision": "occurrence", "why": "near-duplicate of document 300; light pass", "at": "2026-10-12"}
+{"document": "logik-trifft-transzendente-entitaet-2", "page": "kohaerenz", "surface": "Kohärenz", "line": 33, "decision": "occurrence", "why": "near-duplicate of document 300; light pass", "at": "2026-10-12"}
+{"document": "logik-trifft-transzendente-entitaet-2", "page": "risse", "surface": "Risse", "line": 121, "decision": "occurrence", "why": "near-duplicate of document 300; light pass", "at": "2026-10-12"}
+{"document": "logik-trifft-transzendente-entitaet-2", "page": "ueberwelt", "surface": "Simulation", "line": 224, "decision": "occurrence", "why": "near-duplicate of document 300; light pass", "at": "2026-10-12"}

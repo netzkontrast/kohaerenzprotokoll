@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      21
+  backslash escapes      98
+  typographic marks      160
+  ascii quotes           20
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstanalyse, Selbstberichten, Selbstbezug, Selbsterhaltung, Selbsterhaltungsprozess, Selbstgenügsamkeit, Selbstkonsistenz, Selbstmodellierung, Selbstproduktion, Selbstprüfungen, Selbstreferenz, Selbstreferenzproblemen, Selbstreferenzschleifen, Selbsttäuschung, Selbstverlust
+  syste    SYSTEMS, System, SystemTheory, Systemanpassung, Systeme, Systemen, Systemische, Systemkollaps, Systems, Systemstruktur, Systemtheorie, Systemwarnungen, Systemüberlastung
+  axiom    Axiom, Axiomatische, Axiomatisierung, Axiome, Axiomen, Axiomenschema, Axiomensystemen, Axiominkonsistenzen, Axiommodifikationsversuche, Axiomänderung
+  parad    Paradox, Paradoxe, Paradoxen, Paradoxerweise, Paradoxes, Paradoxgrenzen, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  trans    Transcendence, Transcendental, Transcendentals, Transformation, Transzendentale, Transzendentalien, Transzendente, Transzendenten, Transzendenz
+  wider    Widerlegung, Widerlegungsbeweise, Widerlegungsversuche, Widerspruch, Widerspruchs, Widerspruchserkennung, Widersprüche, Widersprüchen, Widersprüchliche
+  theor    THEORY, Theorem, Theorembeweiser, Theoreme, Theorems, Theorie, Theorien, Theory
+  inter    Interaktion, Interaktionen, Interaktionsmodi, Internet, Interpretation, Interpretationen
+  unter    Unterscheidung, Unterscheidungen, Untersuchung, Untersuchungsmechanismen, Untersuchungsprozess, Untersuchungswerkzeuge
+  bewei    Beweis, Beweisbarkeit, Beweise, Beweistheorie, Beweisversuche
+  exist    Existence, Existenz, Existenzbedingung, Existenzweise, Existieren
+  grenz    Grenze, Grenzen, Grenzerhaltung, Grenzverteidigung, Grenzüberwachung
+  reakt    Reaktion, Reaktionen, Reaktions, Reaktionsmechanismen, Reaktionsmechanismus
+  verst    Verstandes, Verstehen, Verständnis, Verständnisebene, Verständnisses
+  wahrh    Wahrhaftigkeit, Wahrheit, Wahrheiten, Wahrheitsprädikat, Wahrheitswert
+  autop    AUTOPOETIC, Autopoiesis, Autopoietic, Autopoietische
+  beisp    Beispiel, Beispiele, Beispielen, Beispielsweise
+  daten    Daten, Dateneingabe, Datenisolation, Datenstrukturen
+  exper    Experimente, Expert, Expertenwissen, Expertise
+  gener    General, Generalisierung, Generative, Generierung
+  infin    Infinitary, Infinite, Infinitesimale, Infinity
+  inkon    Inkonsistenz, Inkonsistenzbehandlung, Inkonsistenzen, Inkonsistenzkaskaden
+  model    Model, Modell, Modellieren, Modellierung
+  ontol    Ontological, Ontologie, Ontologische, Ontologisches
+  probl    Problem, Probleme, Problemen, Problems
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Allerdings
+  Alle < ChallengingSystemsThinkers
+  Crew < Crewmitglieder
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Ding < Dinge
+  Ding < Bedingung
+  Ding < Allerdings
+  Ding < Bedingungen
+  Ding < Understanding
+  Ding < Existenzbedingung
+  Eine < Keine
+  Eine < Seine
+  Eine < Allgemeinen
+  Fall < Fallstudien
+  Form < Formal
+  Form < Formen
+  Form < Formale
+  Form < Information

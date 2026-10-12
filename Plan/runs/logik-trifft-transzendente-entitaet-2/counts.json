@@ -1,0 +1,630 @@
+{
+  "document": "logik-trifft-transzendente-entitaet-2",
+  "drive_id": "1zZ81MRfyrAP582YdRXlK1hseOYdWzOQPWIUCu8oj5cE",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Aegis": {
+      "n": 174,
+      "n_including_compounds": 175,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        45,
+        51,
+        53,
+        55,
+        62,
+        63,
+        64,
+        65,
+        69,
+        73,
+        75,
+        76,
+        77,
+        78,
+        79,
+        81,
+        83,
+        87,
+        95,
+        97,
+        99,
+        102,
+        103,
+        104,
+        106,
+        110,
+        115,
+        119,
+        123,
+        127,
+        129,
+        130,
+        131,
+        133,
+        137,
+        139,
+        140,
+        141,
+        142,
+        146,
+        147,
+        148,
+        149,
+        151,
+        153,
+        155,
+        157,
+        158,
+        159,
+        160,
+        162,
+        164,
+        166,
+        170,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        182,
+        184,
+        186,
+        190,
+        194,
+        198,
+        200,
+        204,
+        206,
+        216,
+        224,
+        232,
+        240,
+        248,
+        250,
+        252,
+        254,
+        260,
+        269,
+        278,
+        287,
+        296,
+        305,
+        307,
+        308,
+        310,
+        314,
+        316,
+        318,
+        320
+      ]
+    },
+    "transzendenten Entität": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        13,
+        17,
+        41,
+        57,
+        123,
+        296,
+        314
+      ]
+    },
+    "transzendente Entität": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        13,
+        33,
+        51,
+        53,
+        87,
+        95,
+        119,
+        224,
+        240
+      ]
+    },
+    "Kohärenzprotokoll": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        25,
+        29,
+        31,
+        37,
+        41,
+        78,
+        119,
+        153,
+        155,
+        166,
+        179,
+        287
+      ]
+    },
+    "Kernaxiom": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        29,
+        76,
+        162,
+        182,
+        269
+      ]
+    },
+    "Kerndefinition": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        114,
+        176,
+        316
+      ]
+    },
+    "Kerndirektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Meta-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        182
+      ]
+    },
+    "Aegis-Morphismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "logischer Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "entropieminimierende logische Teilsysteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        31,
+        33,
+        175
+      ]
+    },
+    "Isolation/Exzision (Grenzverteidigung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Isolation/Exzision": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Grenzverteidigung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Axiomatische Restrukturierung (Systemanpassung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Axiomatische Restrukturierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Systemanpassung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Reinterpretation/Rationalisierung (Scheinkohärenz)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Reinterpretation/Rationalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Scheinkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Computationaler Freeze/Endlosschleife (Systemüberlastung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Computationaler Freeze/Endlosschleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Systemüberlastung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Katastrophales Versagen/Transformation (Systemkollaps/Evolution)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Katastrophales Versagen/Transformation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Systemkollaps/Evolution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Akzeptanz des Widerspruchs (Parakonsistente Logik)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Akzeptanz des Widerspruchs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Die Festung der Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    },
+    "Der adaptive Logiker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        265
+      ]
+    },
+    "Das Lügner-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "Der zerbrochene Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Assimilierte Transzendenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        292
+      ]
+    },
+    "Unendlichkeit": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        53,
+        55,
+        57,
+        61,
+        67,
+        77,
+        117,
+        129,
+        133,
+        135,
+        141,
+        194,
+        236,
+        250,
+        314
+      ]
+    },
+    "aktuale Unendlichkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        77,
+        129
+      ]
+    },
+    "Unerkennbarkeit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        57,
+        62,
+        67,
+        314
+      ]
+    },
+    "Absolute Einheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Quelle der Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        129
+      ]
+    },
+    "Autopoiesis": {
+      "n": 15,
+      "n_including_compounds": 19,
+      "lines": [
+        13,
+        17,
+        25,
+        27,
+        33,
+        83,
+        179,
+        182,
+        206,
+        316,
+        324
+      ]
+    },
+    "strukturelle Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        129
+      ]
+    },
+    "Russells Paradoxon": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        130,
+        316
+      ]
+    },
+    "Tarskis Undefinierbarkeit der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Lügner-Paradoxon": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        39,
+        131,
+        151,
+        178,
+        274
+      ]
+    },
+    "Sorites-Paradoxon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        146
+      ]
+    },
+    "Schiff des Theseus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        147,
+        176
+      ]
+    },
+    "AGM-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Levi-Identität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Verwurzelung": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        95
+      ]
+    },
+    "Entrenchment": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        176
+      ]
+    },
+    "Dialetheismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        180
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        180
+      ]
+    },
+    "Halteproblem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        159,
+        178
+      ]
+    },
+    "Trivialisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Dust Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        220,
+        224
+      ]
+    },
+    "Chinesisches Zimmer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        244,
+        248
+      ]
+    },
+    "P-Zombies": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        244,
+        248
+      ]
+    },
+    "HAL 9000": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        228,
+        232,
+        320,
+        324
+      ]
+    },
+    "Metalogik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        190
+      ]
+    }
+  }
+}
