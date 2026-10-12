@@ -1,0 +1,176 @@
+{
+  "document": "strategy-of-fragmentation-a-narrative-implementation-plan-fo",
+  "drive_id": "1WKRceIjtIAM76QsfCrCNZSI40sZyusjl_5yloMA9vjM",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 50,
+    "decisions": 53,
+    "decided_by_lookup": 38,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        26,
+        37,
+        60
+      ],
+      "attribution": "",
+      "note": "the antagonist as the Coherence Theory of Truth, and a pathologising voice"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        26
+      ],
+      "attribution": "",
+      "note": "Kael's personality parts as the truths to be integrated"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        26,
+        76,
+        96
+      ],
+      "attribution": "",
+      "note": "the Juna/V connection as data AEGIS suppresses, a link, and a source of static"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        26,
+        38,
+        74,
+        80
+      ],
+      "attribution": "",
+      "note": "the protagonist whose integration mirrors the reader's assembly, with costs and a shift"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        75,
+        95
+      ],
+      "attribution": "",
+      "note": "a permanent corruption of a Kernwelt as a cost, and a recurring glitch across them"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "the Terrified Child voice"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        55,
+        74,
+        94
+      ],
+      "attribution": "",
+      "note": "the Rationalist voice, its decline, and a proximity pairing"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        76
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as the third irreversible cost"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "the Resigned/Collapse voice"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "the Protector/Fight voice"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        56,
+        74
+      ],
+      "attribution": "",
+      "note": "the Caretaker voice and its costs"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        75,
+        95
+      ],
+      "attribution": "",
+      "note": "a permanent Riss as a cost, and a recurring glitch"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        88
+      ],
+      "attribution": "",
+      "note": "TSDP as Kael's condition and the model for the narrative's fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 26,
+      "decision": "reading",
+      "why": "the Juna/V connection AEGIS classifies as entropy, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

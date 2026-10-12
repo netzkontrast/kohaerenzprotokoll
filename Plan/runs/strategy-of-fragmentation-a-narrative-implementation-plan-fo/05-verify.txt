@@ -1,0 +1,148 @@
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "definitive"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`definitive` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#2]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "will be implemented"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`will be implemented` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#1]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "will be used"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`will be used` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#2]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Lex"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Lex` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#4]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "TSDP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`TSDP` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#2]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Triple Helix"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Triple Helix` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#2]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Gardener"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gardener` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#2]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Gestalt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gestalt` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#3]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "ANP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`ANP` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#3]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "ANPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ANPs` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#2]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Chapters"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Chapters` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#4]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#0]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#0]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#2]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Core Worlds"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Core Worlds` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#1]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Alters"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Alters` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#1]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Genesis-Krise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Genesis-Krise` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#1]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Rauschen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rauschen` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#1]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Psychological Degradation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Psychological Degradation` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#1]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Juna"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#3]
+
+$ python3 scripts/read.py strategy-of-fragmentation-a-narrative-implementation-plan-fo --count "Juna/V"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna/V` ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:#3]
+
+stance_marker_count 5 = definitive 2 + will be implemented 1 + will be used 2
