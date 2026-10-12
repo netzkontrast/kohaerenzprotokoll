@@ -1,0 +1,346 @@
+{
+  "document": "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat",
+  "drive_id": "14SzL2iA7poSBaCd2LEbN7TW2N6QBNOsM",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz-Protokoll": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        222,
+        408,
+        722
+      ]
+    },
+    "Kohärenz-Protokolls": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        222,
+        408
+      ]
+    },
+    "Story Bibles": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Style Sheets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        830
+      ]
+    },
+    "Ontologie des Romans": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Wissensgraphen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        300
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        326,
+        978
+      ]
+    },
+    "NCP": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        326,
+        336,
+        354,
+        378,
+        860
+      ]
+    },
+    "Storyform": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        340,
+        346,
+        860
+      ]
+    },
+    "Dramatica": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        356,
+        360,
+        860
+      ]
+    },
+    "Story-Grammatik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        370
+      ]
+    },
+    "SCORE": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        422,
+        446,
+        458,
+        774,
+        824,
+        866,
+        872,
+        918
+      ]
+    },
+    "dynamisches Zustandstracking": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Wissensgraph-Tracking": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        444
+      ]
+    },
+    "Knowledge-Graph-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        448
+      ]
+    },
+    "kontextbewusste Zusammenfassung": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Episoden-Zusammenfassungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        466
+      ]
+    },
+    "hybride Informationswiedergewinnung": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Hybrid Retrieval": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        546
+      ]
+    },
+    "semantic memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        540
+      ]
+    },
+    "TALE-SPIN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        580
+      ]
+    },
+    "Kontrollinstanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        610
+      ]
+    },
+    "Validator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        612
+      ]
+    },
+    "Narrative Incoherence Detection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        768
+      ]
+    },
+    "Rekombination und Variantenbildung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        652
+      ]
+    },
+    "Constraints": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        686
+      ]
+    },
+    "Lean Knowledge Base": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        694
+      ]
+    },
+    "Clustering": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        506,
+        702
+      ]
+    },
+    "OntoMedia": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        306,
+        312,
+        848
+      ]
+    },
+    "Weltkonsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        402
+      ]
+    },
+    "Handlungslogik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        402,
+        856
+      ]
+    },
+    "temporale Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        500
+      ]
+    },
+    "übergeordnete Struktur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        468
+      ]
+    },
+    "Makro-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        480
+      ]
+    },
+    "Einklinkpunkte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        550
+      ]
+    },
+    "autorähnliches Weltwissen": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "logische Inferenz": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "strukturierende Pläne": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "semantischen Netzwerken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        322
+      ]
+    },
+    "Wissensmodelle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        226,
+        230,
+        394
+      ]
+    },
+    "kausale Ketten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        580
+      ]
+    },
+    "Video-Recombination-Techniken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        672
+      ]
+    },
+    "Kohärenz-Detektor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        650
+      ]
+    },
+    "Story-Maps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        282
+      ]
+    },
+    "Zeitstrahl": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "Setups und Payoffs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        286
+      ]
+    }
+  }
+}

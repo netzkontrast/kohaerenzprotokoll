@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat
+  lines                1009  (frontmatter ends at 9)
+  body words           3554
+  headings             0   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    75   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      none
+  longest line         126 chars
+
