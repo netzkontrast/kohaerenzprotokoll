@@ -1270,3 +1270,11 @@ Stands: ten example names in two rows, without Selene, no count of alters or Ker
 Its table under the Internal System lists eleven rows, Kael to Argus (L104–L114). It types Selene „ANP (Integrator?)“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L113] (L113), the question mark the document's own, and Argus „ANP/EP-Mix“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L114] (L114). It names Kael as „ANP (Host)“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L104] (L104). It says nothing in these lines about the number of Kernwelten beyond their being constructed by AEGIS (L78).
 
 Stands as one more position on the roster of alters, an analysis without canon claim; the question is the author's and this decides nothing.
+
+## 2026-10-12 — `strategic-narrative-analysis-forging-a-compelling-story-from`, 2025-11-03, the strategy memo
+
+**The strategy memo plans four Kernwelten, each mapped to alters, and counts no alters.**
+
+It proposes „each Kernwelt (Core World) mapped to specific psychological functions“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L23]: KW1 the domain of Lex, „Kael's rational part“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L25] (L25); KW2 the Emotional Parts (L26); KW3 „The domain of the protectors“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L27], Alex and Nyx (L27); KW4 „The domain of the healer and relational parts“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L28], with Lia, Rhys and the core Self, Selene (L28).
+
+Stands as one more position on the roster, in a plan, not a description of the novel; the question is the author's and this decides nothing.
