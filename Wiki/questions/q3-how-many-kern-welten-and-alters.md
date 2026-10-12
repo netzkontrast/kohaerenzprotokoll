@@ -1254,3 +1254,11 @@ Stands with eleven parts and four Kernwelten, dated 2025-04-29; recorded, not ap
 The briefing introduces its roster with „The canonical 11-alter model“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L79] and heads the table „Alter Name (Kanonisch)“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L83]; eleven rows follow (L84–L94), Kael as „ANP (Host)“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L84] and ten more. `canonical` is its own word, recorded here and not applied. Of the worlds it writes „Four simulated realities created as“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L127] laboratories (L127) and its table names KW1 Logos-Prime, KW2 Mnemosyne-Archipel, KW3 Cerberus-Labyrinth and KW4 Kairos-Potentialis (L132–L135). It does not say the worlds and alters correspond one to one; it pairs each world with a domain of alter types.
 
 Stands as one more count of eleven alters and four Kernwelten; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-12 — `thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le`, 2025-11-03, the conceptual lexicon
+
+**The conceptual lexicon's core TSDP table gives ten names as examples, five Apparently Normal Parts and five Emotional Parts, and counts no Kernwelten.**
+
+The table's column is headed „Examples (Alters)“ ^[thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le.md:L76]. The ANP row lists `Kael` as host, then `Lex` (Analyst), `Alex` (Protector), `Rhys` (Caretaker) and `Argus` (Observer); the EP row lists `Nyx` (Fight), `Kiko` (Freeze), `Lia` (Flight), `Isabelle` (Submit/Attachment Cry) and `Moros` (Collapse). `Selene` is not in the table. The lexicon gives these as examples, not as a total. Of the worlds it names only KW2 and KW4 (`Kernwelten`), operating on dialetheic principles, and gives no number.
+
+Stands: ten example names in two rows, without Selene, no count of alters or Kern-Welten in the lexicon's own words; the question is left as the record has it.
