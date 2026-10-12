@@ -1,0 +1,122 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Candidates as the document writes them. Lines 15, 17, 82 and 90 lie outside the novel's world and were left unlisted. The document lists 20 "Golden Source" files (L35-L192) and then applies physics, cybernetics and narratology as lenses (L196-L302); the Protocol itself is formulated in section 6.
+
+- Kohärenz Protokoll
+- Integrierte Kohärenz-Protokoll
+- Integrierten Kohärenz-Protokolls
+- Golden Source
+- Kael
+- System Kael
+- AEGIS
+- Juna/V
+- Juna
+- Das Fundament
+- Lex
+- Nyx
+- Kiko
+- Alters
+- ANP
+- EPs
+- Dual Kernel Theory
+- K\_1
+- K\_0
+- K\_{int}
+- Kernel
+- Overhead
+- Risse
+- Risse (Rifts)
+- Genesis-Krise
+- Paradoxon X
+- Algorithmische Melancholie
+- Dark Mirror
+- Gravitationsarchitektur
+- Ergosphäre
+- Photonensphäre
+- Ereignishorizont
+- Singularität
+- Zeitgeber
+- Monster-Gruppe
+- Bulk
+- Boundary
+- Konstrukt-Stadt
+- Potentialmeer
+- Prime Directive
+- Moonshine-Link
+- Illusion of Order
+- Das Danach
+- Innerer Rat
+- Das Parakonsistente Gambit
+- Gödel-Gambits
+- Lebender Gödel-Satz
+- Living Gödel-Satz
+- Funktionale Multiplizität
+- Safe Containers
+- Containment
+- Titration
+- Hitzeschilde
+- Resonanz-Oszillator
+- Verschlüsselte Information
+- System-Blindheit
+- Bekenstein-Grenze
+- Entropischen Desintegration
+- Dritten Zustand
+- Statische Kohärenz
+- Entropischen Kollaps
+- Parakonsistenten Integration
+- Gnosis
+- Gnostische System
+- Mosaik-Ansatz
+- Monolith
+- Mosaik
+- Maximal-Plotter
+- System-Dirigenten
+- Narrativen Systemik
+- Dramaturgischer Aufseher
+- Ontologischen Anker
+- ontologischen Exploit
+- ontologische Hitze
+- Wahrheitsdualität
+- Erhaltung der psychischen Information
+- Ereignishorizont-Therapie
+- Reduktiven Materialismus
+- Emergenten Dualismus
+- Psycho-Strukturelle Resonanz
+- Performative Narrative
+- Intellectual Overload
+- Hack the System
+- Kael-Agent
+- Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- IFS
+- DKT
+
+## lens
+
+- Maxwells Dämon
+- Maxwellscher Dämon
+- Landauer-Prinzip
+- Hawking-Strahlung
+- Informationsparadoxon Schwarzer Löcher
+- Holografische Prinzip
+- Holografischen Prinzips
+- Autopoiesis
+- operativ geschlossen
+- Operationale Geschlossenheit
+- strukturelle Kopplung
+- Strukturelle Kopplung
+- Kybernetik zweiter Ordnung
+- Beobachter zweiter Ordnung
+- Beobachtung zweiter Ordnung
+- Rhizom
+- Polyphonie
+- Dialogical Self
+- Assignifying Ruptures
+- Lines of Flight
+- Dialetheismus
+- Parakonsistente Logik
+- Gödels Unvollständigkeitssatz
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Heldenreise
+- Quantenverschränkung

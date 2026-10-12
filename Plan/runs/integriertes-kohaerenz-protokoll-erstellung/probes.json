@@ -1,0 +1,280 @@
+{
+  "document": "integriertes-kohaerenz-protokoll-erstellung",
+  "drive_id": "1CQeSFpjbO6cSwTW8wbHGnK-hp5A5u08FJE5TJtua6tw",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 65,
+  "backslash_escapes": 69,
+  "typographic_marks": 13,
+  "ascii_quotes": 226,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemgrenze",
+      "Systemik",
+      "Systemische",
+      "Systemrigidität",
+      "Systems",
+      "Systemtheoretische",
+      "Systemtheorie"
+    ],
+    "infor": [
+      "INFORMATION",
+      "Information",
+      "Informationen",
+      "Informationsdichte",
+      "Informationslöschung",
+      "Informationsparadoxon",
+      "Informationsrückgewinnung",
+      "Informationsüberläufe"
+    ],
+    "proje": [
+      "Project",
+      "Projekt",
+      "Projektanalyse",
+      "Projektarchitektur",
+      "Projektion",
+      "Projektontologie",
+      "Projektplanung",
+      "Projekts"
+    ],
+    "metap": [
+      "Metaperspektive",
+      "Metaphern",
+      "Metaphysics",
+      "Metaphysik",
+      "Metaphysische",
+      "Metapsychology"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativen",
+      "Narratives",
+      "Narratologie",
+      "Narratologische"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho",
+      "Psychologie",
+      "Psychologische",
+      "Psychotherapy",
+      "Psychothriller"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Struktureller",
+      "Strukturelles",
+      "Strukturwandel"
+    ],
+    "unter": [
+      "Unterbau",
+      "Unterbewusstseins",
+      "Unterdrückung",
+      "Unterstützung",
+      "Untersucht",
+      "Untersuchung"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widerspruchsfreiheit",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchlichkeit"
+    ],
+    "holog": [
+      "Holografie",
+      "Holografische",
+      "Holografischen",
+      "Holografisches",
+      "Holographisches"
+    ],
+    "integ": [
+      "Integration",
+      "Integrierte",
+      "Integrierten",
+      "Integriertes",
+      "Integrität"
+    ],
+    "inter": [
+      "Interface",
+      "Interfaces",
+      "Interferenz",
+      "Internet",
+      "Interrogatories"
+    ],
+    "parad": [
+      "PARADOX",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "philo": [
+      "PHILOSOPHICAL",
+      "Philosophical",
+      "Philosophische",
+      "Philosophischer",
+      "Philosophy"
+    ],
+    "physi": [
+      "Physics",
+      "PhysicsAtMIT",
+      "Physik",
+      "Physikalische",
+      "Physikalischer"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumapsychologie",
+      "Traumas",
+      "Traumata",
+      "Traumatisierten"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmische",
+      "Algorithmischer",
+      "Algorithmus"
+    ],
+    "archi": [
+      "Architecting",
+      "Architecture",
+      "Architektur",
+      "Archiv"
+    ],
+    "beoba": [
+      "Beobachten",
+      "Beobachter",
+      "Beobachtern",
+      "Beobachtung"
+    ],
+    "diale": [
+      "Dialetheia",
+      "Dialetheias",
+      "Dialetheism",
+      "Dialetheismus"
+    ],
+    "gesch": [
+      "Geschichte",
+      "Geschichten",
+      "Geschlossenheit",
+      "Geschwindigkeit"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitätsstörung"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptionelle",
+      "Konzepts"
+    ],
+    "multi": [
+      "Multi",
+      "Multimedia",
+      "Multiplicity",
+      "Multiplizität"
+    ],
+    "quant": [
+      "Quanta",
+      "Quantenmechanik",
+      "Quantenverschränkung",
+      "Quantum"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Dualismus"
+    ],
+    [
+      "Dual",
+      "Wahrheitsdualität"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Lebender"
+    ],
+    [
+      "Ende",
+      "Transcendent"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "FROM",
+      "From"
+    ],
+    [
+      "Form",
+      "INFORMATION"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Performance"
+    ],
+    [
+      "Form",
+      "Performative"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Formalisierung"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsdichte"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ]
+  ]
+}
