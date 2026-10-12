@@ -1241,3 +1241,9 @@
 {"document": "kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "a version of document 315; light pass", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern", "page": "multiplizitaet", "surface": "Multiplizität", "line": 52, "decision": "occurrence", "why": "a version of document 315; light pass", "at": "2026-10-12"}
 {"document": "kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 42, "decision": "occurrence", "why": "a version of document 315; light pass", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "page": "did", "surface": "DID", "line": 68, "decision": "reading", "why": "IFS/DID as the fragmentation's manifestation", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "page": "emergenz", "surface": "Emergenz", "line": 17, "decision": "reading", "why": "the first principle", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "page": "entropie", "surface": "Entropie", "line": 25, "decision": "reading", "why": "the ninth principle", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "page": "multiplizitaet", "surface": "Multiplizität", "line": 48, "decision": "occurrence", "why": "inside Kael's journey line", "at": "2026-10-12"}
+{"document": "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 27, "decision": "occurrence", "why": "the eleventh principle's title", "at": "2026-10-12"}

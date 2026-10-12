@@ -1,0 +1,46 @@
+# counts for 39 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     3 in   [11, 13, 15]
+  Potentialmeer                     5 word     5 in   [15, 33, 34, 56]
+  Nullraum                          1 word     1 in   [17]
+  AEGIS                            18 word    18 in   [34, 35, 36, 37, 38, 42]
+  M                                 9 word    32 in   [20, 22, 23, 24, 26, 28]  <-- substring
+  Kael                              6 word     8 in   [35, 38, 40, 42, 43, 44]
+                                    2      as Kaels
+  Juna                              2 word     2 in   [37, 50]
+  K-J Verbindung                    3 word     3 in   [37, 38, 42]
+  K-J                               4 word     4 in   [37, 38, 42, 64]
+  Kernwelten                        2 word     2 in   [36, 57]
+  Guardians                         1 word     1 in   [52]
+  Überwelt                          1 word     1 in   [58]
+  Co₁                               2 word     2 in   [36, 76]
+  Ly                                1 word     1 in   [36]
+  Monstergruppe                     1 word     1 in   [63]
+  Moonshine                         1 word     1 in   [64]
+  Cache Kohärenz                    1 word     1 in   [65]
+  Prinzipienmodelle                 1 word     2 in   [11, 13]
+                                    1      as Prinzipienmodellen
+  Kernprinzip                       1 word     1 in   [29]
+  Emergenz aus der Leere            1 word     1 in   [17]
+  Dynamische Selbstbalancierung     1 word     1 in   [18]
+  Relationale Emergenz              1 word     1 in   [19]
+  Rekursive Selbstdifferenzierung    1 word     1 in   [20]
+  Phasenstabilität                  1 word     1 in   [21]
+  Emergente Semantik                1 word     1 in   [22]
+  Minimale Kopplung                 1 word     1 in   [23]
+  Multikausale Emergenzzeit         1 word     1 in   [24]
+  Kreative Spannung                 1 word     1 in   [25]
+  Fraktale Selbstähnlichkeit        1 word     1 in   [26]
+  Verschachtelte Realitätsebenen    1 word     1 in   [27]
+  Aktive Selbstgestaltung           1 word     1 in   [28]
+  Autonome Grenzbildung             2 word     2 in   [29, 34]
+  Autopoiesis                       3 word     3 in   [29, 34, 62]
+  Gödel                             2 word     2 in   [34, 66]
+  Holismus                          1 word     1 in   [67]
+  Reduktionismus                    1 word     1 in   [67]
+  IFS/DID                           1 word     1 in   [68]
+  Heldinnenreise                    1 word     1 in   [40]
+  Heldenreise                       1 word     1 in   [40]

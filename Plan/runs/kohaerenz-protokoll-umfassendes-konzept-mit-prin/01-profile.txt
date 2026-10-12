@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-umfassendes-konzept-mit-prin
+  lines                85  (frontmatter ends at 9)
+  body words           1456
+  headings             1   bold-only lines 3
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    7   ascii quotes 2
+  invisible characters none
+  math symbol lines    2
+  glued ref numbers    81
+  repeated labels      none
+  longest line         809 chars
+

@@ -1,0 +1,198 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept-mit-prin",
+  "drive_id": "1WVC6koMkyE_vUeG4vFpzrUTlcHyoWETRMtFUyiw2jxY",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings, one record entry (Q5) and seven chapter readings (kap-01, 02, 06, 07, 14, 28, 39) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-318/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 39,
+    "decisions": 39,
+    "decided_by_lookup": 32,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A concept outline re-read through thirteen principles: its new surfaces are the principles and their formulas, the entity M and its concept mapping; what it assigns to AEGIS, Kael, Juna, the Kernwelten, the Guardians, the Potentialmeer, the Überwelt, cache coherence, DID, emergence and entropy went on existing pages, the Guardians' tie to their worlds on Q5, and the chapter focus lines on seven chapter pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        34,
+        38,
+        49,
+        58
+      ],
+      "attribution": "",
+      "note": "AEGIS as the manifestation of `Autonome Grenzbildung`"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "Cache Kohärenz as the lived consequence of AEGIS's fragmentation"
+    },
+    {
+      "page": "did",
+      "lines": [
+        68
+      ],
+      "attribution": "",
+      "note": "IFS/DID as the psychological manifestation of the fragmentation"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the first principle, `Emergenz aus der Leere`"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        25,
+        33
+      ],
+      "attribution": "",
+      "note": "`Kreative Spannung` and the Potentialmeer's entropy"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "the Guardians embody over-stressed principles of their core world"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        37,
+        50
+      ],
+      "attribution": "",
+      "note": "Juna and the K-J connection beyond AEGIS's understanding"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        35,
+        42,
+        43,
+        44,
+        48
+      ],
+      "attribution": "",
+      "note": "Kael's journey as navigation of the thirteen principles"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        36,
+        57
+      ],
+      "attribution": "",
+      "note": "Kernwelten as nested reality levels made by AEGIS"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        33,
+        56
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as the state of unstable non-existence"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "AEGIS's Überwelt as a space of maximal order"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      6,
+      7,
+      14,
+      28,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "the principles' titles are the concept's own and not promoted: `Emergenz aus der Leere`, `Relationale Emergenz` and `Multikausale Emergenzzeit` read with emergenz where they add, `Verschachtelte Realitätsebenen` read on kern-welten; `Moonshine` and `Gödel` in the concept mapping, lens; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 68,
+      "decision": "reading",
+      "why": "IFS/DID as the fragmentation's manifestation"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 17,
+      "decision": "reading",
+      "why": "the first principle"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 25,
+      "decision": "reading",
+      "why": "the ninth principle"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 48,
+      "decision": "occurrence",
+      "why": "inside Kael's journey line"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "the eleventh principle's title"
+    }
+  ],
+  "not_promoted": [
+    "the thirteen principles and their formulas",
+    "the entity M",
+    "the parts' journeys",
+    "the concept mapping (Autopoiesis, Monstergruppe, Moonshine, Gödel, Holismus vs. Reduktionismus as principles)"
+  ],
+  "internal_tension": "it keeps the chapter assignment of an earlier plan and only recolours its interpretation (L74); Juna is possibly another entity or a principle (L50)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
