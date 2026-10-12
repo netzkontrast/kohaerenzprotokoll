@@ -1,0 +1,14 @@
+# angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere
+  lines                81  (frontmatter ends at 9)
+  body words           1436
+  headings             2   bold-only lines 3
+  table rows           0   code fences 0
+  question marks       3
+  backslash escapes    4
+  typographic marks    6   ascii quotes 80
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    10
+  repeated labels      none
+  longest line         913 chars
+

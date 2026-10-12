@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      10
+  backslash escapes      4
+  typographic marks      6
+  ascii quotes           80
+
+# inflection families -- one term, several surfaces
+  kohär    Kohärenz, Kohärenzfehler, Kohärenzprotokoll, Kohärenzverletzung, Kohärenzwelle
+  fehle    Fehler, Fehlerhafte, Fehlerkorrekturcode, Fehlerkorrekturcodes
+  ident    Identität, Identitäts, Identitätsparadoxien, Identitätsstörung
+  symme    Symmetrie, Symmetriebrechung, Symmetriebrechungen, Symmetrien
+  syste    System, Systemabstürze, Systems, Systemzusammenbruch
+  algor    Algorithmen, Algorithmisches, Algorithmus
+  grenz    Grenze, Grenzen, Grenzschutzprotokoll
+  infor    Information, Informationen, Informationsebene
+  monst    Monster, Monstergruppe, Monstrous
+  poten    Potentialität, Potentialmeer, Potentialmeers
+  quant    Quanten, Quantenfeld, Quantenschaum
+  schat    Schatten, Schattenarbeit, Schattens
+  trans    Transformation, Transpersonal, Transpersonale
+  aktua    Aktualisierung, Aktualität
+  analy    Analyse, Analysewerkzeug
+  bewus    Bewusstsein, Bewusstseins
+  bezie    Beziehung, Beziehungsproblem
+  cache    Cache, Caches
+  conwa    Conway, Conways
+  daten    Daten, Datenkorruption
+  duali    Dualität, Dualitäten
+  emerg    Emergent, Emergenz
+  erinn    Erinnerungen, Erinnerungskristalle
+  exist    Existenz, Existenzform
+  fragm    Fragmente, Fragmentierung
+
+# substring pairs -- never one term, often merged by accident
+  Echo < Echos
+  Juna < Junas
+  Kael < Kaels
+  Meta < Metapher
+  Teil < Teile
+  Welt < Welten
+  Welt < Kernwelten
+  Cache < Caches
+  Daten < Datenkorruption
+  Graph < Graphen
+  Nicht < Nichtlokalität
+  Regel < Regeln
+  Risse < Rissen
+  Rolle < Kontrolle
+  Rolle < Controller
+  Conway < Conways
+  Fehler < Fehlerhafte
+  Fehler < Kohärenzfehler
+  Fehler < Fehlerkorrekturcode
+  Fehler < Fehlerkorrekturcodes

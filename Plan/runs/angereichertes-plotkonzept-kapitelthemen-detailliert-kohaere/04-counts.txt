@@ -1,0 +1,106 @@
+# counts for 86 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            26 word    28 in   [15, 22, 24, 26, 36, 37]
+                                    1      as AEGIS-interne
+                                    1      as AEGIS-Diagnose
+  Kael                             34 word    43 in   [15, 22, 24, 36, 37, 38]
+                                    8      as Kaels
+                                    1      as Kael-Fragmentierung
+  Juna                              5 word     7 in   [22, 24, 44, 55, 71, 79]
+                                    1      as Juna-Verbindung
+                                    1      as Junas
+  M                                11 word    42 in   [15, 18, 20, 22, 24, 28]  <-- substring
+  Potentialmeer                     5 word     6 in   [15, 26, 36, 70, 79, 80]
+                                    1      as Potentialmeers
+  ontologische Reibung              1 word     1 in   [15]
+  ontologischer Reibung             2 word     2 in   [26, 36]
+  Kernwelten                        6 word     6 in   [15, 22, 26, 40, 70]
+  Co₁-Welt                          1 word     1 in   [17]
+  McL-Welt                          1 word     1 in   [18]
+  B-Welt                            3 word     3 in   [19, 59, 61]
+  Ly-Welt                           2 word     2 in   [20, 69]
+  Conway-Welt (Co₁)                 1 word     1 in   [40]
+  Conway-Welt                       1 word     1 in   [40]
+  McLaughlin-Welt                   1 word     1 in   [49]
+  McLaughlin-Welt (McL)             1 word     1 in   [49]
+  Baby-Monster-Welt (B)             1 word     1 in   [56]
+  Baby-Monster-Welt                 1 word     1 in   [56]
+  Lyons-Welt (Ly)                   1 word     1 in   [67]
+  Lyons-Welt                        1 word     1 in   [67]
+  Monstergruppe                     2 word     2 in   [15, 38]
+  Subquotienten                     2 word     2 in   [15]
+  Moonshine-Link                    1 word     1 in   [22]
+  K-J Verbindung                    2 word     2 in   [44, 76]
+  K-J                               3 word     4 in   [44, 45, 54, 76]
+  Grenzschutzprotokoll              1 word     1 in   [37]
+  Persönlichkeits-Partitionierungs    2 word     2 in   [15, 39]
+  Fehlerkorrekturcodes              1 word     1 in   [17]
+  Fehlerkorrekturcode               1 word     2 in   [17, 40]
+                                    1      as Fehlerkorrekturcodes
+  Leech-Gitter                      1 word     1 in   [17]
+  McLaughlin-Graph                  1 word     2 in   [18, 50]
+                                    1      as McLaughlin-Graphen
+  Permutationssymmetrie             1 word     1 in   [17]
+  spontaner Symmetriebrechung       1 word     1 in   [19]
+  spontane Symmetriebrechungen      1 word     1 in   [57]
+  verborgene Dualitäten             1 word     1 in   [68]
+  Seeding                           1 word     1 in   [20]
+  Caches                            2 word     2 in   [22, 72]
+  Cache Kohärenz                    5 word     5 in   [22, 42, 52, 60, 72]
+  Kohärenz-Controller               1 word     1 in   [22]
+  Identitäts-Kohärenz               1 word     1 in   [22]
+  alternatives Kohärenzprotokoll    1 word     1 in   [22]
+  Kohärenzfehler                    1 word     1 in   [42]
+  Cache-Konflikt                    1 word     1 in   [52]
+  temporale Kohärenzverletzung      1 word     1 in   [60]
+  Kohärenzwelle                     1 word     1 in   [78]
+  Risse                             4 word     5 in   [22, 26, 47, 54]
+                                    1      as Rissen
+  Erinnerungskristalle              1 word     1 in   [59]
+  Lecks                             1 word     1 in   [70]
+  Purge                             1 word     1 in   [73]
+  Autopoiesis                       3 word     3 in   [15, 37, 78]
+  Dissoziative Identitätsstörung (DID)    1 word     1 in   [39]
+  DID                               2 word     2 in   [22, 39]
+  IFS                               2 word     4 in   [18, 22, 51]
+  Internal Family Systems (IFS)     1 word     1 in   [51]
+  Manager                           1 word     1 in   [51]
+  Firefighter                       1 word     1 in   [51]
+  Exiles                            1 word     1 in   [51]
+  Schattenarbeit                    1 word     1 in   [22]
+  Gödel'sche Unvollständigkeitssätze    1 word     1 in   [43]
+  Parakonsistente Logik             1 word     1 in   [53]
+  Parakonsistenz                    1 word     1 in   [22]
+  Monstrous Moonshine               1 word     1 in   [44]
+  Quanten-Nichtlokalität            1 word     1 in   [45]
+  Verschränkung                     1 word     1 in   [45]
+  Jung'scher Schatten               1 word     1 in   [58]
+  NET                               2 word     3 in   [30, 59]
+  Transpersonale Psychologie        1 word     1 in   [55]
+  Non-Dualität                      1 word     1 in   [55]
+  Holismus                          4 word     4 in   [24, 61, 80]
+  Reduktionismus                    2 word     2 in   [24, 61]
+  Emergenz                          4 word     4 in   [24, 30, 65, 69]
+  Irreduzibilität                   3 word     3 in   [30, 38, 75]
+  Schiff des Theseus                1 word     1 in   [63]
+  Bindungsproblem                   2 word     2 in   [30, 77]
+  Alignment-Problem                 1 word     1 in   [73]
+  Conways Spiel des Lebens          1 word     1 in   [69]
+  Primfaktorenzerlegung             1 word     1 in   [75]
+  Zellularautomaten                 0 word     1 in   [20]
+                                    1      as Zellularautomaten-Analogie
+  Quantenschaum                     0 word     1 in   [20]
+                                    1      as Quantenschaum-Analogie
+  Gnosis                            1 word     1 in   [71]
+  Entropie                          1 word     1 in   [80]
+  Kael/M                            2 word     2 in   [79, 80]
+  Kohärenz Protokoll                1 word     1 in   [11]
+  Gödel                             4 word     4 in   [22, 30, 43, 78]
+  Theseus                           2 word     2 in   [30, 63]
+  Moonshine                         2 word     5 in   [22, 44, 76, 77]  <-- substring
+                                    1      as Moonshine-Link
+                                    1      as Moonshine-Phänomen
+                                    1      as Moonshine-Struktur
