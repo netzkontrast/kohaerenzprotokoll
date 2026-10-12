@@ -1326,3 +1326,11 @@ Stands as one more document's count of four Kernwelten within six levels; the co
 It says „The four Core Worlds are direct, externalized representations of Kael's fragmented psyche“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L44]. Named: „Konstrukt-Stadt (KW1)“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L44] for the everyday functioning of the ANPs, „Resonanz-Landschaft (KW2)“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L44] for the trauma-bound EPs, and „Grenzfeste (KW3)“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L44] for the defensive systems of protector parts. It names no fourth world.
 
 Stands as a count of four worlds with three named; recorded, not applied.
+
+## 2026-10-12 — `a-guide-to-the-society-of-self-understanding-system-kael`, 2025-10-15, the society guide
+
+**The society guide describes System Kael as eleven alters in three groups: four ANPs, five EPs and two System Guides; it names no Kern-Welten.**
+
+It introduces the ANPs, Kael, Lex, Alex and Rhys, with „Let's now meet the specific members of System Kael“ ^[a-guide-to-the-society-of-self-understanding-system-kael.md:L31]. The EPs, Nyx, Kiko, Lia, Isabelle and Moros, are „the alters who hold the raw, unprocessed experiences of trauma“ ^[a-guide-to-the-society-of-self-understanding-system-kael.md:L73]. The last group, Argus and Selene, is introduced with „These final alters have unique, overarching functions related to the system's self-awareness“ ^[a-guide-to-the-society-of-self-understanding-system-kael.md:L119]. It does not pair an alter with a world.
+
+Stands: eleven alters in three groups, as the guide sorts them; nothing decided, and no count or correspondence is applied.
