@@ -1,0 +1,79 @@
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Perspective"
+whole word, case-sensitive     8
+whole word, case-insensitive   14
+including compounds            9
+
+`Perspective` ^[dramatica-storyform-kohaerenz-protokoll.md:#8]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Domain"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Domain` ^[dramatica-storyform-kohaerenz-protokoll.md:#4]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Concern"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Concern` ^[dramatica-storyform-kohaerenz-protokoll.md:#4]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Issue"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Issue` ^[dramatica-storyform-kohaerenz-protokoll.md:#4]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Problem"
+whole word, case-sensitive     4
+whole word, case-insensitive   7
+including compounds            4
+
+`Problem` ^[dramatica-storyform-kohaerenz-protokoll.md:#4]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[dramatica-storyform-kohaerenz-protokoll.md:#0]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[dramatica-storyform-kohaerenz-protokoll.md:#0]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[dramatica-storyform-kohaerenz-protokoll.md:#3]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Kael"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            22
+
+`Kael` ^[dramatica-storyform-kohaerenz-protokoll.md:#21]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Juna/V"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Juna/V` ^[dramatica-storyform-kohaerenz-protokoll.md:#9]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Risse` ^[dramatica-storyform-kohaerenz-protokoll.md:#2]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Control"
+whole word, case-sensitive     4
+whole word, case-insensitive   9
+including compounds            4
+
+`Control` ^[dramatica-storyform-kohaerenz-protokoll.md:#4]
+$ read.py dramatica-storyform-kohaerenz-protokoll --count "Zero-Trust"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zero-Trust` ^[dramatica-storyform-kohaerenz-protokoll.md:#1]
+stance_marker_count: 8+4+4+4+4 = 24 (case-sensitive whole-word counts above)

@@ -1,0 +1,14 @@
+# dramatica-storyform-kohaerenz-protokoll
+  lines                70  (frontmatter ends at 9)
+  body words           2032
+  headings             11   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    9   ascii quotes 70
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      Concern x4, Domain x4, Issue x4, Perspective x4, Problem x4
+  longest line         3110 chars
+

@@ -1,0 +1,569 @@
+{
+  "document": "dramatica-storyform-kohaerenz-protokoll",
+  "drive_id": "1ww7cD5AOXKf0pe_DMxzQ-YnZBRJV4Jug02VhVeuZL8w",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        15,
+        23,
+        29,
+        45,
+        69
+      ]
+    },
+    "Existenz-Matrizen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "AEGIS": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        15,
+        23,
+        34,
+        35,
+        36,
+        37,
+        44,
+        51,
+        52,
+        53,
+        58,
+        61,
+        65
+      ]
+    },
+    "Kael": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        15,
+        23,
+        35,
+        36,
+        39,
+        42,
+        43,
+        44,
+        45,
+        51,
+        55,
+        58,
+        60,
+        61,
+        65
+      ]
+    },
+    "Juna/V": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        15,
+        36,
+        47,
+        50,
+        51,
+        52,
+        53,
+        55,
+        58,
+        65
+      ]
+    },
+    "Juna": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        36,
+        47,
+        50,
+        51,
+        52,
+        53,
+        55,
+        58,
+        60,
+        65
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        53,
+        55,
+        58,
+        65
+      ]
+    },
+    "Zero-Trust": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        65
+      ]
+    },
+    "Kernwelten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        63,
+        65
+      ]
+    },
+    "Kernwelt": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        63,
+        65
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "functional multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23
+      ]
+    },
+    "living Gödel sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "alters": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        45,
+        50
+      ]
+    },
+    "Dramatica": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        15,
+        29,
+        65,
+        69
+      ]
+    },
+    "Story Mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        15
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Story Dynamics": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        19,
+        69
+      ]
+    },
+    "Main Character Resolve": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Story Outcome": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Story Judgment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Story Driver": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "throughlines": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        29,
+        65,
+        69
+      ]
+    },
+    "Overall Story": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        31,
+        65
+      ]
+    },
+    "Main Character": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        29,
+        39,
+        65
+      ]
+    },
+    "Impact Character": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        47,
+        65
+      ]
+    },
+    "Subjective Story": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        55,
+        65
+      ]
+    },
+    "Perspective": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        27,
+        33,
+        41,
+        49,
+        57
+      ]
+    },
+    "Domain": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        34,
+        42,
+        50,
+        58
+      ]
+    },
+    "Concern": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        43,
+        51,
+        59
+      ]
+    },
+    "Issue": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        36,
+        44,
+        52,
+        60
+      ]
+    },
+    "Problem": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        45,
+        53,
+        61
+      ]
+    },
+    "Universe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        65
+      ]
+    },
+    "Mind": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        15,
+        42,
+        65
+      ]
+    },
+    "Psychology": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        65
+      ]
+    },
+    "Physics": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        58
+      ]
+    },
+    "Progress": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        65
+      ]
+    },
+    "The Conscious": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Becoming": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        65
+      ]
+    },
+    "Obtaining": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Control": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        36,
+        61,
+        65
+      ]
+    },
+    "Uncontrolled": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        37
+      ]
+    },
+    "Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        65
+      ]
+    },
+    "Falsehood": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Disbelief": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Commitment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Responsibility": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Morality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Self-Interest": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Trust": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        65
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    }
+  }
+}
