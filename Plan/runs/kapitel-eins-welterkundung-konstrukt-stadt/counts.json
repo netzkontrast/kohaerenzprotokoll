@@ -1,0 +1,366 @@
+{
+  "document": "kapitel-eins-welterkundung-konstrukt-stadt",
+  "drive_id": "1hVzwjG9tr6WE1fqwl19phqf5AD6yBNrf4s2M9HIapeA",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        189
+      ]
+    },
+    "Kern-Welt 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        17,
+        23,
+        39,
+        51,
+        137,
+        177,
+        189
+      ]
+    },
+    "AEGIS": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        15,
+        23,
+        47,
+        70,
+        86,
+        91,
+        95,
+        153,
+        157,
+        171,
+        173,
+        191
+      ]
+    },
+    "LogOS": {
+      "n": 8,
+      "n_including_compounds": 14,
+      "lines": [
+        15,
+        23,
+        47,
+        70,
+        89,
+        93,
+        95,
+        149,
+        153,
+        165,
+        171,
+        173,
+        191
+      ]
+    },
+    "AEGIS/LogOS": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        70,
+        95,
+        171,
+        191
+      ]
+    },
+    "universal reboot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Reboot": {
+      "n": 3,
+      "n_including_compounds": 8,
+      "lines": [
+        47,
+        67,
+        92,
+        102,
+        161,
+        189,
+        191
+      ]
+    },
+    "Wohneinheit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        57,
+        82,
+        115,
+        119
+      ]
+    },
+    "Transitsystem": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        59,
+        84,
+        103,
+        127
+      ]
+    },
+    "Kapsel": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        59,
+        84,
+        85,
+        129,
+        133
+      ]
+    },
+    "Verkehrsknotenpunkt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        85,
+        131,
+        133
+      ]
+    },
+    "Datenverarbeitungszentrum": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        86,
+        135,
+        137
+      ]
+    },
+    "Energieverteilungsnetzwerk": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        87,
+        139,
+        141
+      ]
+    },
+    "Logik-Geflecht": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        64,
+        89,
+        147
+      ]
+    },
+    "Sensor-/Überwachungsnetzwerk": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        65,
+        90,
+        151
+      ]
+    },
+    "Selbstkorrektur-Instanz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        66,
+        91,
+        155
+      ]
+    },
+    "Initialisierungszone": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        92,
+        159
+      ]
+    },
+    "Architektonisches Makro-Muster": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        93,
+        163
+      ]
+    },
+    "Informationsfeld-Schnittstelle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        94,
+        167
+      ]
+    },
+    "Pfad der Beobachtung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Vignette": {
+      "n": 22,
+      "n_including_compounds": 28,
+      "lines": [
+        49,
+        73,
+        75,
+        81,
+        102,
+        103,
+        104,
+        105,
+        117,
+        119,
+        123,
+        127,
+        131,
+        135,
+        139,
+        143,
+        147,
+        151,
+        153,
+        155,
+        157,
+        159,
+        161,
+        163,
+        167,
+        171,
+        175,
+        185
+      ]
+    },
+    "Kontrollinstanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Wartungseinheiten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Überwachungssignaturen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        65
+      ]
+    },
+    "Kohärenzwahrung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Informationssphäre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Entropie": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        70,
+        87,
+        95,
+        157,
+        173
+      ]
+    },
+    "Kohärenz": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        91,
+        157,
+        189
+      ]
+    },
+    "Uncanny Valley": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        39,
+        95,
+        219
+      ]
+    },
+    "Architectural Storytelling": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        23,
+        84,
+        86,
+        93,
+        201
+      ]
+    },
+    "Setting as Character": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        93,
+        198
+      ]
+    },
+    "Subtle Environmental Storytelling": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        45,
+        90,
+        91,
+        92
+      ]
+    }
+  }
+}

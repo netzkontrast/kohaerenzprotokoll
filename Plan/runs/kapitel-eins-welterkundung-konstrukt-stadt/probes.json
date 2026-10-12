@@ -1,0 +1,291 @@
+{
+  "document": "kapitel-eins-welterkundung-konstrukt-stadt",
+  "drive_id": "1hVzwjG9tr6WE1fqwl19phqf5AD6yBNrf4s2M9HIapeA",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 80,
+  "backslash_escapes": 28,
+  "typographic_marks": 25,
+  "ascii_quotes": 34,
+  "inflection_families": {
+    "energ": [
+      "Energie",
+      "Energieabgabe",
+      "Energiefeld",
+      "Energiefelder",
+      "Energieflüsse",
+      "Energieflüssen",
+      "Energieleitsystem",
+      "Energieleitung",
+      "Energieleitungen",
+      "Energielinien",
+      "Energiemuster",
+      "Energiequelle",
+      "Energiequellen",
+      "Energiestrom",
+      "Energieversorgung",
+      "Energieverteilung",
+      "Energieverteilungsnetzwerk"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfeldern",
+      "Datenfluktuation",
+      "Datenflüsse",
+      "Datenknotenpunkt",
+      "Datenmengen",
+      "Datenmustern",
+      "Datenstrom",
+      "Datenströme",
+      "Datenströmen",
+      "Datenverarbeitung",
+      "Datenverarbeitungszentrum",
+      "Datenvisualisierungen"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsbasis",
+      "Informationsfeld",
+      "Informationsfelder",
+      "Informationsfluss",
+      "Informationsintegration",
+      "Informationsschicht",
+      "Informationsschnittstellen",
+      "Informationssphäre",
+      "Informationsträger"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtbändern",
+      "Lichteffekte",
+      "Lichtintensität",
+      "Lichtkegel",
+      "Lichtlinien",
+      "Lichtmuster",
+      "Lichtmustern",
+      "Lichtquellen",
+      "Lichtreflexe",
+      "Lichtsignale"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollebene",
+      "Kontrollierte",
+      "Kontrollinstanz",
+      "Kontrollmechanismen",
+      "Kontrollphase",
+      "Kontrollrelais"
+    ],
+    "syste": [
+      "System",
+      "Systemen",
+      "Systemfehlers",
+      "Systemische",
+      "Systems",
+      "Systemzustände"
+    ],
+    "detai": [
+      "Detail",
+      "Detaillierte",
+      "Detaillierter",
+      "Detailplanung",
+      "Details"
+    ],
+    "narra": [
+      "Narration",
+      "Narrative",
+      "Narrativer",
+      "Narratives",
+      "Narrator"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessen",
+      "Prozesshaftigkeit",
+      "Prozessoren"
+    ],
+    "trans": [
+      "Transition",
+      "Transitkapseln",
+      "Transitsystem",
+      "Transitsystems",
+      "Transitwegen"
+    ],
+    "archi": [
+      "Architectural",
+      "Architecture",
+      "Architektonisches",
+      "Architektur"
+    ],
+    "atmos": [
+      "Atmosphere",
+      "Atmospheric",
+      "Atmosphäre",
+      "Atmosphärische"
+    ],
+    "chara": [
+      "Character",
+      "Characteristics",
+      "Charakter",
+      "Charaktere"
+    ],
+    "creat": [
+      "Create",
+      "Creating",
+      "Creation",
+      "Creative"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählstil",
+      "Erzählstrukturen",
+      "Erzählung"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionen",
+      "Funktionsweise"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interface",
+      "Interpretationen",
+      "Intervention"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelentwurf",
+      "Kapitelplan",
+      "Kapitels"
+    ],
+    "perfe": [
+      "Perfection",
+      "Perfekte",
+      "Perfektion",
+      "Perfektionismus"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstdiagnosen",
+      "Selbstkorrektur",
+      "Selbstähnlichkeit"
+    ],
+    "stadt": [
+      "Stadt",
+      "Stadtarchitektur",
+      "Stadtstruktur",
+      "Stadtstrukturen"
+    ],
+    "steri": [
+      "STERILE",
+      "Sterile",
+      "Sterility",
+      "Sterilität"
+    ],
+    "techn": [
+      "Technik",
+      "Techniken",
+      "Techniques",
+      "Technology"
+    ],
+    "wartu": [
+      "Wartung",
+      "Wartungs",
+      "Wartungseinheiten",
+      "Wartungsroutinen"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwachungsnetzwerk",
+      "Überwachungssignaturen",
+      "Überwältigende"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "ENGL",
+      "English"
+    ],
+    [
+      "Eine",
+      "Feine"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Ende",
+      "Dutzende"
+    ],
+    [
+      "Ende",
+      "Irisblende"
+    ],
+    [
+      "Ende",
+      "Leuchtende"
+    ],
+    [
+      "Ende",
+      "Renderings"
+    ],
+    [
+      "Ende",
+      "Pulsierende"
+    ],
+    [
+      "Ende",
+      "Vorbeiziehende"
+    ],
+    [
+      "Ende",
+      "Wiederkehrende"
+    ],
+    [
+      "Ende",
+      "Überwältigende"
+    ],
+    [
+      "Fact",
+      "Factory"
+    ],
+    [
+      "Feld",
+      "Felder"
+    ],
+    [
+      "Feld",
+      "Energiefeld"
+    ],
+    [
+      "Feld",
+      "Datenfeldern"
+    ],
+    [
+      "Feld",
+      "Energiefelder"
+    ]
+  ]
+}
