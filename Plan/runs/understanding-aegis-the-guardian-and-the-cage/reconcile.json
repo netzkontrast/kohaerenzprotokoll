@@ -1,0 +1,88 @@
+{
+  "document": "understanding-aegis-the-guardian-and-the-cage",
+  "drive_id": "1MJvybQJHzzVcB5GB06_LSahFc3-f1_MLNtDAdnkD6n0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one C16 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-378/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 26,
+    "decisions": 26,
+    "decided_by_lookup": 24,
+    "needs_judgement": 2
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English explanatory essay on AEGIS: its new surfaces are its own labels and borrowed concepts; what it explains of AEGIS, Kael, the Nichts Rauschen and TSDP went on existing pages, and the shared Original Self on C16.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        23,
+        25,
+        27,
+        31,
+        46,
+        56
+      ],
+      "attribution": "",
+      "note": "AEGIS as a logical shield whose coherence turns against Kael"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        23,
+        44,
+        50
+      ],
+      "attribution": "",
+      "note": "Kael as the survivor half and the target of AEGIS's protocol"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        15,
+        21
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the origin of AEGIS and the genesis crisis"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "TSDP as the diagnosis that makes Kael AEGIS's problem"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Autonomous Entropic Gatekeeper for Integrity Systems` read on aegis; `genesis crisis` read on aegis and kael as their shared origin",
+  "sweep": [],
+  "not_promoted": [
+    "Original Self, Nothing Hiss, Core Protocol, the two definitions of coherence",
+    "the borrowed concepts (explosion, autopoiesis, operational closure, specification gaming, TSDP terms)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

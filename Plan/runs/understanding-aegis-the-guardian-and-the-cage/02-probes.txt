@@ -1,0 +1,21 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      24
+  typographic marks      9
+  ascii quotes           38
+
+# inflection families -- one term, several surfaces
+  aegis    AEGIS, Aegis
+  contr    Contradiction, Control
+  integ    Integration, Integrity
+  logic    Logic, Logical
+  origi    Origin, Original
+  parad    Paradox, Paradoxes
+  prote    Protection, Protector
+
+# substring pairs -- never one term, often merged by accident
+  AEGIS < Aegis
+  Logic < Logical
+  Origin < Original
+  Paradox < Paradoxes

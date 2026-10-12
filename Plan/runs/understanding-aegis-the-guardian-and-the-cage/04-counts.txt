@@ -1,0 +1,32 @@
+# counts for 26 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            19 word    19 in   [11, 15, 21, 23, 25, 29]
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [15]
+  Kael                              9 word     9 in   [15, 21, 23, 44, 46, 48]
+  Original Self                     1 word     1 in   [21]
+  Nichts Rauschen                   2 word     2 in   [15, 21]
+  Nothing Hiss                      1 word     1 in   [15]
+  genesis crisis                    1 word     1 in   [21]
+  coherence                         4 word     5 in   [15, 31, 44, 49]
+  Core Protocol                     1 word     1 in   [49]
+  Absolute Order                    1 word     1 in   [36]
+  Resilience                        1 word     1 in   [36]
+  Exclusion of Contradiction        1 word     1 in   [37]
+  Integration                       1 word     1 in   [37]
+  Control                           1 word     1 in   [38]
+                                    1      as controlled
+  Emergence                         1 word     1 in   [38]
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [44]
+  TSDP                              1 word     1 in   [44]
+  Apparently Normal Parts           1 word     1 in   [44]
+  ANPs                              2 word     2 in   [44, 48]
+  Emotional Parts                   1 word     1 in   [44]
+  EPs                               2 word     2 in   [44, 48]
+  Principle of Explosion            1 word     1 in   [31]
+  ex contradictione quodlibet       1 word     1 in   [31]
+  autopoietic                       1 word     1 in   [23]
+  operationally closed              1 word     1 in   [23]
+  Specification Gaming              1 word     1 in   [46]
