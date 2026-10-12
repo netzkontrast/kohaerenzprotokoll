@@ -1,0 +1,111 @@
+# counts for 82 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                7 word     7 in   [11, 13, 19, 23, 49, 234]
+  Projekt Inkubation X              2 word     2 in   [11, 23]
+  Transzendenz-Vektoren             3 word     3 in   [11, 23, 234]
+  Konzept-Singularitäten            1 word     1 in   [11]
+  Orakel-Sigma                      2 word     2 in   [15, 23]
+  Direktive V3                      3 word     3 in   [23, 27, 244]
+  Fundament                        44 word    54 in   [23, 29, 35, 37, 41, 43]
+                                    9      as fundamental
+                                    7      as fundamentalen
+                                    6      as Fundaments
+                                    3      as Fundament-Bran
+  Leere                            22 word    22 in   [23, 29, 35, 37, 41, 43]
+  AEGIS                            72 word    87 in   [23, 31, 37, 43, 44, 45]
+                                    8      as AEGIS-Simulation
+                                    2      as AEGIS-Paradoxons
+                                    2      as AEGIS-Paradoxon
+                                    1      as AEGIS-Ressourcen
+  System Kael                       3 word     3 in   [23, 163, 239]
+  Kael                             36 word    62 in   [23, 32, 37, 49, 53, 56]
+                                   25      as Kaels
+                                    1      as Kael-Schwarms
+  Juna/V                           35 word    38 in   [23, 30, 55, 71, 73, 77]
+                                    2      as Juna/V-Hypothesen
+                                    1      as Juna/Vs
+  Nichts Rauschen                   3 word     3 in   [41, 55, 64]
+  Basisrealität                     3 word     3 in   [37, 39, 41]
+  Fehlausgerichtete Kohärenz        2 word     2 in   [123, 159]
+  Fehlausgerichteten Kohärenz       1 word     1 in   [121]
+  AEGIS-Paradoxon                   2 word     4 in   [31, 121, 135, 242]
+                                    2      as AEGIS-Paradoxons
+  AEGIS-Paradoxons                  2 word     2 in   [31, 242]
+  Paradoxon                         5 word    12 in   [31, 121, 133, 135, 137, 142]  <-- substring
+                                    3      as Paradoxons
+  AEGIS-Simulation                  8 word     8 in   [43, 45, 46, 55, 56, 58]
+  funktionale Multiplizität         1 word     1 in   [165]
+  TSDP                              3 word     3 in   [165, 169, 174]
+  Interaktionsmechanismen           9 word     9 in   [23, 25, 37, 51, 53, 73]
+  Hypothesencluster                 4 word     4 in   [75, 83, 91, 115]
+  Sub-Hypothese                     9 word     9 in   [79, 80, 81, 87, 88, 89]
+  Hypothesenmatrix                  1 word     1 in   [109]
+  Gravitationsleckage               1 word     1 in   [55]
+  Bran-Kollisionen                  2 word     2 in   [55, 276]
+  Dialektische Emergenz             1 word     1 in   [58]
+  Irreduzible Andere                1 word     1 in   [91]
+  Wurmloch-Transit                  2 word     2 in   [87, 117]
+  Höherdimensionale Projektion      1 word     1 in   [89]
+  Systemische Emergenz/Glitch       1 word     1 in   [75]
+  Parasitäre Berechnung             2 word     2 in   [81, 116]
+  Pathologische Transformation      1 word     1 in   [142]
+  Informationsfeld-Manipulation     3 word     3 in   [182, 196, 239]
+  Genre-Synergie                    2 word     2 in   [33, 201]
+  Kaskadierendes Versagen           1 word     1 in   [129]
+  Posthumane Transformation         1 word     1 in   [174]
+  Informationelle Substrat          1 word     1 in   [44]
+  Mathematische Struktur            1 word     1 in   [45]
+  Holographische Realität           1 word     1 in   [46]
+  Schnittstelle                     7 word     7 in   [60, 64, 65, 66, 67, 180]
+  Mechanismus                       9 word     9 in   [55, 56, 57, 58, 180, 181]
+  Szenario                          7 word     7 in   [57, 153, 154, 155, 156, 157]
+  Strategie                         4 word     7 in   [33, 127, 215, 217, 219, 220]
+                                    3      as Strategien
+  Bran/Bulk-Modell                  2 word     2 in   [43, 55]
+  Bulk                             11 word    14 in   [43, 46, 55, 88, 236, 252]
+                                    2      as Bulk-Modell
+                                    1      as Bulk-Raum
+  Bran                              8 word    23 in   [43, 49, 55, 65, 88, 104]  <-- substring
+                                    2      as Bran-Kollisionen
+                                    1      as Bran-basierte
+                                    1      as Branes
+                                    1      as Bran-Theorie
+  M-Theorie                         3 word     3 in   [43, 278]
+  It from Bit                       2 word     2 in   [44]
+  QBism                             3 word     3 in   [44, 228, 254]
+  Mathematical Universe Hypothesis    3 word     3 in   [45, 316, 353]
+  MUH                               4 word     4 in   [45, 210, 353]
+  Holographischen Prinzip           2 word     2 in   [46, 256]
+  Nicht-Duale Ontologie             1 word     1 in   [47]
+  Orch OR                           4 word     5 in   [66, 181, 264, 308]
+  Integrated Information Theory     3 word     3 in   [196, 298, 341]
+  IIT                               9 word     9 in   [171, 185, 187, 196, 210, 239]
+  Global Neuronal Workspace         5 word     5 in   [172, 197, 300, 382, 383]
+  GNW                               5 word     6 in   [172, 185, 187, 197, 228, 239]
+  Schwarmintelligenz                8 word     8 in   [173, 183, 185, 187, 198, 239]
+  Schwarmkognition                  1 word     2 in   [173, 302]
+                                    1      as Schwarmkognitionsmodellen
+  Stigmergie                        2 word     2 in   [173, 198]
+  BCI                               1 word     8 in   [180, 185, 197, 199, 239, 306]  <-- substring
+  Autopoiese                        4 word     4 in   [142, 161, 228, 292]
+  operationale Schließung           2 word     2 in   [142, 187]
+  Gödel'sche Schleifen              1 word     1 in   [146]
+  Perverse Instanziierung           2 word     2 in   [130, 161]
+  Spezifikations-Gaming             2 word     2 in   [130, 288]
+  Instrumental Convergence          1 word     1 in   [131]
+  Seltsame Attraktoren              1 word     1 in   [147]
+  seltsamen Attraktor               1 word     2 in   [147, 155]
+  Parasitic Computing               2 word     2 in   [116, 272]
+  ER=EPR                            2 word     2 in   [117, 274]
+  Levinas'sches Anderes             3 word     3 in   [95, 118, 210]
+  Cosmic Horror                     8 word     8 in   [62, 69, 104, 117, 203, 210]
+  Kognitiver Dissonanz              1 word     1 in   [219]
+  Reader-Response                   2 word     4 in   [220, 230, 240, 322]
+                                    2      as Reader-Response-Theorie
+                                    1      as reader-response-methods
+  Verkörperte Kognition             1 word     1 in   [228]
+  Simulationshypothese              2 word     2 in   [67, 266]
+  Konzept-Blending                  1 word     1 in   [25]

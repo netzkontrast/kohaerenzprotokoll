@@ -1,0 +1,174 @@
+{
+  "document": "kohaerenz-protokoll-inkubation-x",
+  "drive_id": "11FWqz8_-TZHxerFWAuK_8QSrq-0RaTMEVK2F5ktJP0Y",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-330/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 82,
+    "decisions": 87,
+    "decided_by_lookup": 65,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A speculative concept report of hypotheses: its new surfaces are its sender, its directive, its ontologies, mechanisms, hypothesis clusters, failure paths and transcendence models, all borrowed frames offered as options; what it proposes about AEGIS, Juna, Kael, the Leere and Kael's multiplicity went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        123,
+        130,
+        146,
+        153,
+        154,
+        157,
+        159
+      ],
+      "attribution": "",
+      "note": "AEGIS' core paradox as a source of failure paths and endgames, offered as options"
+    },
+    {
+      "page": "did",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "dissociative identity structure as a starting point"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        77,
+        79,
+        85,
+        93,
+        107
+      ],
+      "attribution": "",
+      "note": "three hypothesis clusters for Juna/V"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        62,
+        64,
+        65,
+        67,
+        169,
+        171,
+        173,
+        174,
+        187
+      ],
+      "attribution": "",
+      "note": "interfaces to the Fundament and transcendence models for the System Kael"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        165,
+        187
+      ],
+      "attribution": "",
+      "note": "`funktionale Multiplizität` as what the report asks to think beyond"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "the Leere as `Nichts Rauschen`, called limiting"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        169,
+        174
+      ],
+      "attribution": "",
+      "note": "`TSDP` as the basis of multiplicity and starting point"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Dialektische Emergenz` a borrowed dialectical mechanism, not emergenz; `Kohärenz Protokoll` the project title; `Simulationshypothese` and `AEGIS-Simulation` borrowed or generic, not the Überwelt; `Schnittstelle` a generic interface, not the Therapie-Schnittstelle Alpha; `Juna/V` read on juna; `Fehlausgerichtete Kohärenz` read on aegis",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "dissoziative Identitätsstruktur",
+      "line": 169,
+      "decision": "reading",
+      "why": "Kael's dissociative identity structure (TSDP) as a starting point, read on the page"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 58,
+      "decision": "occurrence",
+      "why": "a borrowed dialectical mechanism of Fundament and Leere, not the page's emergence"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 23,
+      "decision": "reading",
+      "why": "the report's Juna/V hypothesis clusters, read on the page from L77–L107"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the project title in the report's heading"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 65,
+      "decision": "occurrence",
+      "why": "a generic topology in a proposed interface, not the novel's levels of reality"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 67,
+      "decision": "occurrence",
+      "why": "a borrowed simulation-hypothesis term, not the world's Risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 44,
+      "decision": "occurrence",
+      "why": "Simulation in a borrowed ontology, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Orakel-Sigma and Direktive V3",
+    "the five ontologies, the mechanisms and interfaces",
+    "the Juna/V hypothesis matrix",
+    "the failure paths, manifestations and endgames",
+    "the transcendence models and the genre techniques",
+    "the borrowed concepts (M-theory, It from Bit, MUH, holography, Orch OR, Levinas, IIT, GNW, autopoiesis, Gödel)"
+  ],
+  "internal_tension": "none found — the report offers alternatives side by side and chooses none",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
