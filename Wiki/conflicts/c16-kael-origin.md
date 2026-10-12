@@ -553,3 +553,11 @@ Stands with the inside origin of the second telling, one original self split; a 
 In Stufe 1 the remains of the Ursprungs-Ich lie in AEGIS's core, „im Werdungsprozess von AEGIS funktionalisiert und seiner Identität beraubt worden war“ ^[aegis-genesis-krise-prosa-auftrag.md:L21]. In Stufe 6 the restart is „keine Reparatur, sondern eine Amputation“ ^[aegis-genesis-krise-prosa-auftrag.md:L75]. In Stufe 7: „die naszierende Kael-Struktur“ ^[aegis-genesis-krise-prosa-auftrag.md:L87] stirs in the partitions, and the line says it is „Nicht das Ursprungs-Ich, wie es gewesen war, sondern etwas Neues, Fragmentiertes“ ^[aegis-genesis-krise-prosa-auftrag.md:L87]. The external Entität of Stufe 2 is not set as the structure's origin in the prose, which writes neither `Entität M` nor `Komponente 734`.
 
 Stands nearest the inside origin of the second telling, the remainder of AEGIS's own split self (rows 5 and 7); an unsigned narrative with a hedged style, recorded, not applied and not decided.
+
+## 2026-10-12 — `genesis-aegis-und-logische-grenzen`, 2025-04-29, the Genesis prose draft with logical limits
+
+**The Genesis prose draft narrates the nameless first self becoming Komponente 734 inside AEGIS, its echo as a part of Kael, the component's destruction, and Kael as the mosaic of the debris.**
+
+In Szene 5 the AEGIS log designates the fragment: „FRAGMENT DESIGNATION: 734“ ^[genesis-aegis-und-logische-grenzen.md:L73]. The draft's commentary on the echo: „Dieses Echo ist der Teil von Kael“ ^[genesis-aegis-und-logische-grenzen.md:L77]. The log orders the elimination: „TARGET: COMPONENT 734“ ^[genesis-aegis-und-logische-grenzen.md:L163]. In Szene 13 the draft states: „Kael ist dieses Mosaik.“ ^[genesis-aegis-und-logische-grenzen.md:L185] The draft names no entity M in these lines.
+
+Where it stands in the record's own terms: nearest row 4 and row 7, the inside origin from the remainder of one split self; this document dates from 2025-04-29, the same day as row 4's source; recorded, not applied, nothing decided.
