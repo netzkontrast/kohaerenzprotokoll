@@ -1,0 +1,84 @@
+# counts for 62 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            47 word    89 in   [11, 21, 23, 39, 41, 47]
+                                   13      as AEGIS-Relevanz
+                                    5      as AEGIS-Projekt
+                                    3      as AEGIS-Protokoll
+                                    2      as AEGIS-Projekts
+  AEGIS-Projekt                     5 word     8 in   [21, 39, 41, 58, 502, 504]
+                                    2      as AEGIS-Projekts
+                                    1      as AEGIS-Projektrahmens
+  AEGIS-Protokoll                   3 word     5 in   [47, 439, 443, 506, 517]
+                                    2      as AEGIS-Protokolls
+  AEGIS-Framework                   2 word     3 in   [41, 51, 484]
+                                    1      as AEGIS-Frameworks
+  AEGIS-Relevanz                   13 word    13 in   [151, 198, 248, 297, 337, 343]
+  Spannungsfelder                  11 word    11 in   [23, 41, 47, 51, 116, 471]
+  Cluster                          40 word    49 in   [43, 47, 116, 118, 120, 155]
+                                    3      as Clustern
+                                    2      as Clusters
+                                    1      as Cluster-Analysen
+  universelle Protokollarchitektur    1 word     1 in   [23]
+  universellen Protokollarchitektur    1 word     1 in   [43]
+  Realitätserzeugung               11 word    11 in   [23, 43, 58, 94, 99, 114]
+  selbstgenerierendes Kohärenzsystem    4 word     4 in   [155, 301, 361, 443]
+  Kohärenz aus Entropie             4 word     4 in   [439, 484, 506, 519]
+  Kohärenzentropie                  4 word     4 in   [360, 450, 460]
+  Kohärenzkern                      1 word     1 in   [367]
+  Konstitutives Prinzip             5 word     5 in   [126, 173, 221, 271, 324]
+  Grundlagentheorie                 5 word     5 in   [39, 122, 169, 217, 267]
+  Systemdynamik                     6 word     6 in   [39, 133, 180, 230, 279, 498]
+  Meta-Struktur                     5 word     5 in   [39, 142, 189, 239, 288]
+  Anwendungsszenarien               7 word     7 in   [39, 159, 206, 256, 305, 490]
+  Emergente Phänomene               5 word     5 in   [138, 185, 235, 284, 324]
+  Nullraum                          1 word     1 in   [120]
+  Autopoietische Schließung         1 word     1 in   [459]
+  Operation fern vom Gleichgewicht    1 word     1 in   [458]
+  Kohärenzmaximierung / Entropieminimierung    1 word     1 in   [460]
+  Fluktuationsgetriebene Dynamik    1 word     1 in   [461]
+  Mehr-Ebenen-Organisation          1 word     1 in   [462]
+  Interne Beobachtungs-/Reflexionsschleife    1 word     1 in   [463]
+  Mikro-Makro-Beziehung             1 word     1 in   [57]
+  Ziel-Autonomie                    2 word     2 in   [77]
+  Realitätsschichten                2 word     2 in   [35, 370]
+  Selbststrukturierung              5 word     6 in   [11, 13, 396, 467, 471, 515]
+                                    1      as Selbststrukturierungsprinzipien
+  Emergenz                         41 word    41 in   [17, 43, 49, 53, 55, 58]
+  schwacher Emergenz                1 word     1 in   [58]
+  starker Emergenz                  3 word     3 in   [58]
+  Abwärtskausalität                 4 word     4 in   [58, 59, 110, 354]
+  Selbstorganisation               33 word    34 in   [17, 37, 41, 43, 49, 63]
+                                    1      as Selbstorganisationsmechanismen
+  Selbstreferenz                   16 word    19 in   [49, 83, 85, 87, 88, 89]
+                                    5      as selbstreferenzielle
+                                    2      as Selbstreferenz-Effekt
+                                    1      as Selbstreferenzielle
+                                    1      as selbstreferenziell
+  Autopoiesis                      14 word    14 in   [81, 90, 92, 113, 224, 327]
+  Rande des Chaos                   2 word     2 in   [41, 175]
+  Selbstorganisierte Kritikalität    1 word     1 in   [175]
+  dissipative Strukturen            5 word     5 in   [111, 360, 390, 434, 449]
+  dissipativen Strukturen           2 word     2 in   [70, 361]
+  Attraktoren                      14 word    14 in   [68, 70, 111, 174, 184, 185]
+  Kipppunkte                        3 word     3 in   [185, 326, 338]
+  Periodenverdopplung               2 word     2 in   [174, 194]
+  Schwinger-Effekt                  2 word     2 in   [127, 325]
+  Vakuum-Katastrophe                2 word     2 in   [127, 510]
+  Global Workspace Theory           2 word     2 in   [272, 575]
+  Integrated Information Theory     1 word     1 in   [272]
+  Viable System Model               2 word     2 in   [81, 222]
+  Reentry                           2 word     2 in   [113, 274]
+  operative Geschlossenheit         2 word     2 in   [384, 451]
+  operativer Geschlossenheit        1 word     1 in   [87]
+  strukturelle Kopplung             3 word     3 in   [114, 348, 384]
+  Phänomenale Transparenz           2 word     2 in   [272, 372]
+  Agentenbasierte Modellierung      1 word     1 in   [412]
+  Zelluläre Automaten               2 word     2 in   [413, 437]
+  Dezentrale Autonome Organisationen    1 word     1 in   [223]
+  Ashbys Prinzip                    1 word     1 in   [70]
+  CODES-Framework                   1 word     1 in   [484]
+  Negentropie                       1 word     1 in   [390]
+  Selbstreferenz-Effekt             2 word     2 in   [88, 272]
