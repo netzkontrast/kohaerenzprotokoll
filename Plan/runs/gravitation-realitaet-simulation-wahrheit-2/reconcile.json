@@ -1,0 +1,57 @@
+{
+  "document": "gravitation-realitaet-simulation-wahrheit-2",
+  "drive_id": "1ZG_nT3tq2sufx5nohQVP8ZfOjRoQrvGQe3gSrPzP4mc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document a general report that names no figure of the novel, a second version of ingest 384's report",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 52,
+    "decisions": 51,
+    "decided_by_lookup": 45,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German report arguing a gravitational theory of truth through its own invented scene; it names no figure of the novel and says nothing a page needs, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a general report with its own scenario: `Schwebende Kohärenz`, `Kohärenztheorie`, `Simulationstheorie`, `Glitch` and `Das Archiv` in their general or the scenario's senses, decided as occurrences; `Gezeitenkräfte` and `Archivarin` inflections of the report's own terms",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "coherence in the report's theory of truth"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 50,
+      "decision": "occurrence",
+      "why": "the simulation hypothesis, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "everything — the theory, the scenario's names, and the borrowed concepts"
+  ],
+  "internal_tension": "the heading at L143 writes Kuratorin where the body names the machine Kurator; recorded in the census, not reconciled",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
