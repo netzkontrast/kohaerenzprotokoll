@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 24
-readings: 24
+sources: 25
+readings: 25
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -93,6 +93,10 @@ The term appears again as the title of reference 6, „Cache-Kohärenz in hart e
 ## Reading — `narrative-architecture-dossier-coherence-protocol`, 2026-01-02, the architecture dossier — The cache-coherence analogy
 
 The architecture dossier sets the analogy of „cache coherence“ ^[narrative-architecture-dossier-coherence-protocol.md:L67] for Kael's system, and in Act III directs that the system establish its own internal „cache coherence protocol“ ^[narrative-architecture-dossier-coherence-protocol.md:L67]. Recorded, not applied.
+
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — ANP/EP separation mapped to cache coherence
+
+The master synthesis maps the ANP/EP separation onto cache coherence and says the protocol is broken in Kael: „In Kaels Psyche ist dieses Protokoll fundamental defekt“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L31]. It plans Part I on that failure: „Der Horror entsteht aus der absoluten Vorhersehbarkeit und dem Versagen der psychologischen Cache-Kohärenz“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L79]. In its self-check it warns against reducing the trauma to computing terms: „könnte die menschliche Tragik des Phänomens entwerten“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L144]. Its closing question to the author asks which micro-physical fault should provoke the initial failure: „Welcher spezifische mikrophysikalische Fehler soll den initialen Ausfall der Cache-Kohärenz in Kapitel 1 provozieren“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L151]. A plan; the question is left open.
 
 ## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — Kael's memory inconsistency, set against the schema's history node
 
