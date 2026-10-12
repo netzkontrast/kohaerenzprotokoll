@@ -1230,3 +1230,11 @@ The Master Story Guide, an unsigned English design guide, introduces its alter t
 For the worlds it writes „The Kernwelten (Core Worlds) are specialized simulated realities created by AEGIS as laboratories to analyze and control Kael.“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L156] and tabulates four: „Logos-Prime“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L161], „Mnemosyne-Archipel“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L162], „Cerberus-Labyrinth“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L163] and „Kairos-Potentialis“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L164], numbered KW1 to KW4. The guide does not say that one world corresponds to one alter.
 
 Stands: one more position on the record, eleven alters and four Kernwelten as the guide tabulates them; the question stays open.
+
+## 2026-10-12 — `the-coherence-protocol-a-narrative-mosaic`, 2025-11-03, the narrative mosaic brief
+
+**The narrative mosaic brief roster lists a host and ten alters, one per line, and four Kernwelten by their Guardians.**
+
+Host: „The primary host personality, focused on maintaining a facade of normalcy“ ^[the-coherence-protocol-a-narrative-mosaic.md:L23]. Alters, „To be written in close third-person“ ^[the-coherence-protocol-a-narrative-mosaic.md:L24], from „The rationalist ANP, obsessed with logical order“ ^[the-coherence-protocol-a-narrative-mosaic.md:L26] to „The meta-cognitive observer/critic, capable of profound self-reflection but prone to cynical analysis-paralysis“ ^[the-coherence-protocol-a-narrative-mosaic.md:L35]. Worlds: „The archetypal embodiment of sterile, logical order in Kernwelt“ ^[the-coherence-protocol-a-narrative-mosaic.md:L42] and the three entries after it, for Kernwelt 1 to 4. These are points of view in a brief for stories not written.
+
+Stands as one more position beside the record's others, the roster of one host and ten alters with four Kernwelten; recorded, not applied.
