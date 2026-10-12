@@ -1,0 +1,118 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+Observations. The document is a research report in four parts with a reference list of 38 numbered web sources; the headings are bold lines, not markdown headings. The four world profiles repeat one template of labels. It cites "User Query Context" with section numbers for a text it does not reproduce. Its world names (KW1 to KW4) are given with a second name after a slash. The 38 references are titles of cited works and are left out. The subscript in the first world name is written as Co₁.
+
+## world
+- System Kael
+- Kael
+- Lex
+- Rhys
+- Alex
+- Argus
+- Selene
+- Kiko
+- Nyx
+- Lia
+- Isabelle
+- Moros
+- AEGIS
+- Kernwelten
+- Kernwelt
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt/Co₁
+- Konstrukt-Stadt
+- Co₁
+- Resonanz-Landschaft/McL
+- Resonanz-Landschaft
+- McL
+- Grenzfeste/B
+- Grenzfeste
+- Möglichkeits-Garten/Ly
+- Möglichkeits-Garten
+- Ly
+- Cache Kohärenz
+- Post-Reboot
+- Baum des Lebens
+- ANPs
+- EPs
+- Anteile
+- Alter-Welt Wahrnehmungsmatrix
+- Stilistische Fingerprints
+- Narratives Toolkit für Alter-Perspektiven
+- User Query Context
+
+## document labels
+- Core Principle Revisited
+- Atmosphärische Dichte (Sensory Details)
+- Atmosphärische Dichte
+- Psychologische Resonanz (TSDP Dynamics)
+- Psychologische Resonanz
+- Interaktionspotenzial (Triggers/Foci)
+- Interaktionspotenzial
+- Mirroring/Triggering
+- Action System Affinity
+- Environmental Psychology Links
+- Control Mechanisms
+- Post-Reboot State
+- Specific Locations
+- Symbolic Objects/Phenomena
+- Potential for Action
+- Core Identity/TSDP Role & State
+- Vocabulary/Diction
+- Syntax/Sentence Structure
+- Figurative Language
+- Sensory Focus
+- Tone
+- Insight 1
+- Insight 2
+- Insight 3
+- Insight 4
+- Polyphonie (Intrusion)
+- Polyphonie (Impulse)
+- Unzuverlässigkeit (ANP)
+- Unzuverlässigkeit (EP)
+- Sensorische Filterung
+- Intrusive Gedanken
+- Beschreibung widersprüchlicher Impulse
+- Environmental Storytelling
+
+## lens
+- TSDP
+- Strukturellen Dissoziation der Persönlichkeit
+- Tertiäre Strukturelle Dissoziation
+- Anscheinend Normale Persönlichkeitsanteile
+- Emotionale Persönlichkeitsanteile
+- Aktionssysteme
+- Verteidigungs-Aktionssysteme
+- Alltags-Aktionssysteme
+- Bindungsruf
+- Phobien
+- Dissoziation
+- Derealisation
+- Depersonalisation
+- Fragmentierung
+- kognitive Karte
+- Fokalisierung
+- Interne Fokalisierung
+- Nullfokalisierung
+- Externe Fokalisierung
+- Genettes
+- Schmids
+- ideologische Perspektive
+- Innerer Monolog
+- Bewusstseinsstrom (Stream of Consciousness)
+- Bewusstseinsstrom
+- Erlebte Rede (Free Indirect Discourse)
+- Erlebte Rede
+- Unzuverlässiges Erzählen
+- Polyphonie
+- Mikhail Bakhtins
+- Solaris
+- Silent Hill
+- Inception
+- Disco Elysium
+- Otherworld
+- Umweltpsychologie

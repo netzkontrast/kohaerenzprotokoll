@@ -1,0 +1,298 @@
+{
+  "document": "kernwelten-und-fragmentierte-wahrnehmung",
+  "drive_id": "1Kruokptmx-M0bwVI-Sgv45DoqrzPyWF_J2QkZa6BYd8",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 89,
+  "backslash_escapes": 316,
+  "typographic_marks": 27,
+  "ascii_quotes": 96,
+  "inflection_families": {
+    "erzäh": [
+      "Erzählen",
+      "Erzählende",
+      "Erzählens",
+      "Erzähler",
+      "Erzählers",
+      "Erzählfluss",
+      "Erzählperspektive",
+      "Erzählstimme",
+      "Erzähltechniken",
+      "Erzählten",
+      "Erzähltheorie",
+      "Erzählung",
+      "Erzählweise"
+    ],
+    "syste": [
+      "System",
+      "Systemadministrator",
+      "Systematik",
+      "Systematisieren",
+      "Systemausfällen",
+      "Systemen",
+      "Systemfehler",
+      "Systemoptimierer",
+      "Systems"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionspotenzial",
+      "Interaktionspotenziale",
+      "Interesse",
+      "Interiors",
+      "Interne",
+      "Interpretation"
+    ],
+    "unter": [
+      "Unterdrückt",
+      "Unterdrückte",
+      "Unterdrückung",
+      "Unterscheidung",
+      "Unterstützt",
+      "Unterstützung",
+      "Untertöne",
+      "Unterwerfung"
+    ],
+    "wahrn": [
+      "Wahrnehmen",
+      "Wahrnehmung",
+      "Wahrnehmungsfilter",
+      "Wahrnehmungsfiltern",
+      "Wahrnehmungsmatrix",
+      "Wahrnehmungsmodus",
+      "Wahrnehmungsprinzipien",
+      "Wahrnehmungsverzerrungen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenarchive",
+      "Datenerfassung",
+      "Datenflüsse",
+      "Datenkorruption",
+      "Datenscreens",
+      "Datenstrom"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen",
+      "Strukturieren",
+      "Strukturiert",
+      "Strukturiertes"
+    ],
+    "fluch": [
+      "Flucht",
+      "Fluchtpunkte",
+      "Fluchtreaktion",
+      "Fluchtversuche",
+      "Fluchtwege",
+      "Fluchtwegen"
+    ],
+    "subje": [
+      "Subject",
+      "Subjektive",
+      "Subjektiver",
+      "Subjektives",
+      "Subjektivität",
+      "Subjekts"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen",
+      "Abwehrreaktion",
+      "Abwehrreaktionen",
+      "Abwehrstrategien"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterentwicklung",
+      "Charakterinformierte",
+      "Charakterisierung",
+      "Charakterstimmen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen",
+      "Emotionszuständen"
+    ],
+    "energ": [
+      "Energie",
+      "Energieflussdiagramme",
+      "Energiehaushalt",
+      "Energiekonservierung",
+      "Energienotstand"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionieren",
+      "Funktionszentren"
+    ],
+    "gefah": [
+      "Gefahr",
+      "Gefahren",
+      "Gefahrensignale",
+      "Gefahrenzone",
+      "Gefahrenzonen"
+    ],
+    "geräu": [
+      "Geräusch",
+      "Geräusche",
+      "Geräuschen",
+      "Geräuschkulisse",
+      "Geräuschquelle"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfeste",
+      "Grenzmauern",
+      "Grenzüberschreitung"
+    ],
+    "kontr": [
+      "Kontrollbedürfnis",
+      "Kontrolle",
+      "Kontrollparadigma",
+      "Kontrollraum",
+      "Kontrollverlust"
+    ],
+    "poten": [
+      "Potential",
+      "Potenzial",
+      "Potenziale",
+      "Potenzialen",
+      "Potenzials"
+    ],
+    "schre": [
+      "Schreckreiz",
+      "Schreibens",
+      "Schreibprozess",
+      "Schreibqualität",
+      "Schreie"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstgespräch",
+      "Selbstgespräche",
+      "Selbstschutz",
+      "Selbstvorwürfe"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumata",
+      "Traumavermeidung",
+      "Traumlogik"
+    ],
+    "verst": [
+      "Verstecke",
+      "Verstecken",
+      "Verständnis",
+      "Verstärker",
+      "Verstärkt"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungs",
+      "Verteidigungsmöglichkeiten",
+      "Verteidigungssystem",
+      "Verteidigungssystemen"
+    ],
+    "überl": [
+      "Überlagerungen",
+      "Überleben",
+      "Überlebensinstinkte",
+      "Überlebensmodi",
+      "Überlegung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Allein"
+    ],
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alle",
+      "Challenge"
+    ],
+    [
+      "Alle",
+      "Kristalle"
+    ],
+    [
+      "Alle",
+      "Alleinsein"
+    ],
+    [
+      "Alle",
+      "Fallenräume"
+    ],
+    [
+      "Alle",
+      "Versammlungshallen"
+    ],
+    [
+      "Blau",
+      "Dunkelblau"
+    ],
+    [
+      "Blut",
+      "Blutspuren"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Weinen"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Enden"
+    ],
+    [
+      "Ende",
+      "Erzählende"
+    ],
+    [
+      "Ende",
+      "Schwankende"
+    ],
+    [
+      "Ende",
+      "Beruhigendes"
+    ]
+  ]
+}
