@@ -1,0 +1,208 @@
+{
+  "document": "kohaerenz-protokoll-synthese",
+  "drive_id": "148PzorgKWM-YbUuOtlzVKTE_foKmBn8GtLXqECaysDs",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 34,
+  "backslash_escapes": 234,
+  "typographic_marks": 85,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms",
+      "Storymind",
+      "Storypoint"
+    ],
+    "algeb": [
+      "Algebra",
+      "Algebras",
+      "Algebren"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture",
+      "Architektur"
+    ],
+    "conce": [
+      "Concept",
+      "Conception",
+      "Concern"
+    ],
+    "diale": [
+      "Dialetheic",
+      "Dialetheism",
+      "Dialetheismus"
+    ],
+    "husse": [
+      "Husserl",
+      "Husserlian",
+      "Husserlsche"
+    ],
+    "inver": [
+      "Inversion",
+      "Inversionstests",
+      "Inverted"
+    ],
+    "monst": [
+      "Monster",
+      "Monstergruppe",
+      "Monstrous"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontologies",
+      "Ontology"
+    ],
+    "struc": [
+      "Structural",
+      "Structurally",
+      "Structured"
+    ],
+    "activ": [
+      "Active",
+      "Activity"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithmische"
+    ],
+    "appen": [
+      "Appendices",
+      "Appendix"
+    ],
+    "canon": [
+      "Canon",
+      "Canonical"
+    ],
+    "consc": [
+      "Conscious",
+      "Consciousness"
+    ],
+    "conve": [
+      "Convergence",
+      "Conversely"
+    ],
+    "deter": [
+      "Determinism",
+      "Deterministic"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissoziation"
+    ],
+    "drive": [
+      "Drive",
+      "Driver"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale"
+    ],
+    "heuri": [
+      "Heuristics",
+      "Heuristik"
+    ],
+    "infor": [
+      "Information",
+      "Informationslöschung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematics"
+    ],
+    "opera": [
+      "Operationally",
+      "Operator"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Fail",
+      "Failure"
+    ],
+    [
+      "Gate",
+      "Gates"
+    ],
+    [
+      "Iser",
+      "Isers"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Main",
+      "Domain"
+    ],
+    [
+      "Math",
+      "Mathematics"
+    ],
+    [
+      "Math",
+      "Mathematical"
+    ],
+    [
+      "Mind",
+      "Storymind"
+    ],
+    [
+      "Mode",
+      "Modell"
+    ],
+    [
+      "Note",
+      "NotebookLM"
+    ],
+    [
+      "PASS",
+      "Pass"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Part",
+      "Participatory"
+    ],
+    [
+      "Real",
+      "Reality"
+    ],
+    [
+      "Real",
+      "Realität"
+    ],
+    [
+      "Zeit",
+      "Raumzeit"
+    ],
+    [
+      "Canon",
+      "Canonical"
+    ],
+    [
+      "Drive",
+      "Driver"
+    ]
+  ]
+}

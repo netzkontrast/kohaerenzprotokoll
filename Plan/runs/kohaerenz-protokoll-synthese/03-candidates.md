@@ -1,0 +1,74 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Read in English prose with German terms in italics; two line ranges (L101–L104 and L181–L222) were not read. Names of figures: Kael, Juna, AEGIS and the four alters named once in a list (L169). The two storyforms and the table labels are listed as written; table field labels (Main Character Resolve and so on) are the template and left out.
+
+- Kohärenz Protokoll
+- Story-Mind Vortex
+- Phönix-Mode
+- Kael
+- Juna
+- AEGIS
+- Lex
+- Nyx
+- Kiko
+- Lia
+- Moonshine-Link
+- Kollaps-Kern
+- Kohärenz-Kern
+- Wahrheits-Vortex
+- Zeuge-Funktion
+- Witness Function
+- Funktionale Multiplizität
+- Algorithmische Melancholie
+- Nichts-Rauschen
+- Leerstellen
+- Risse
+- Wächter-Zwiespalt
+- Mnemosyne-Archipel
+- Genesis-Krise
+- Foundation
+- Sea of Potentiality
+- Creative Advance
+- Truth-Rotation
+- Vortex Inversion
+- Storyform A
+- Storyform B
+- Heuristics of Integration
+- Phoenix Collapse
+- Apparently Normal Parts
+- Emotional Parts
+- ANP
+- EP
+- Dual-Kernel Theory
+- DKT
+- TSDP
+- Coherence Kernel
+- Erasure Kernel
+- Landauer heat
+- Storymind
+- Story Goal Anomaly
+- Disinterested Spectator
+- Artistic Pole
+- Aesthetic Pole
+- Mosaik-Herz
+- Optionlock
+- Timelock
+
+## lens
+
+- Landauer’s Principle
+- Monstrous Moonshine
+- Vertex Operator Algebras
+- Monster group
+- Leech lattice
+- Principle of Explosion
+- dialetheia
+- Gödel-Satz
+- Chaitin
+- Whitehead
+- Iser
+- Husserl
+- Graham Priest
+- Tarski
+- Dramatica
+- Wheeler

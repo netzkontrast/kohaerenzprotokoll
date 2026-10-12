@@ -1,0 +1,264 @@
+{
+  "document": "kohaerenz-protokoll-synthese",
+  "drive_id": "148PzorgKWM-YbUuOtlzVKTE_foKmBn8GtLXqECaysDs",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 67,
+    "decisions": 67,
+    "decided_by_lookup": 57,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        67,
+        107,
+        159,
+        161,
+        277,
+        341
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Kollaps-Kern, its closure the engine of entropy"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        87,
+        107,
+        341
+      ],
+      "attribution": "",
+      "note": "the state after the Wahrheits-Vortex"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        35,
+        173,
+        177
+      ],
+      "attribution": "",
+      "note": "Juna as an amalgam including the Chaitin-Konstante"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        25,
+        117
+      ],
+      "attribution": "",
+      "note": "Dual-Kernel Theory as the thermodynamic engine of narrative"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        31,
+        91,
+        175,
+        177
+      ],
+      "attribution": "",
+      "note": "Juna as a controlled composite, a fifth position, the Witness Function"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        43,
+        47,
+        87,
+        99,
+        339
+      ],
+      "attribution": "",
+      "note": "Kael's integration, the Kohärenz-Kern, and the silence at the vortex"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Kiko among the narrators of the alters"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "Kael's lived cycles revealed as the Kohärenz-Kern"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "AEGIS's claimed coherence exposed as the Kollaps-Kern"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Lex among the narrators of the alters"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Lia among the narrators of the alters"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        31,
+        109,
+        145
+      ],
+      "attribution": "",
+      "note": "the link as a structural mechanism, not a metaphor"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        141
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz grounded in the Monster Group"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        43,
+        47,
+        129
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität as Storyform A's goal"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        95,
+        99,
+        339
+      ],
+      "attribution": "",
+      "note": "Nichts-Rauschen as the static of erasure fields and of the external sea"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Nyx among the narrators of the alters"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        137,
+        169,
+        245
+      ],
+      "attribution": "",
+      "note": "narrative cracks modelled by paraconsistent logic"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "the truth-rotation as the pivot of the narrative"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "identity fractured into ANPs and EPs"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        23,
+        87,
+        129,
+        159
+      ],
+      "attribution": "",
+      "note": "the Story-Mind Vortex and the Wahrheits-Vortex"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "chaitin-konstante",
+      "surface": "Chaitin-Konstante",
+      "line": 173,
+      "decision": "reading",
+      "why": "Juna's status as an amalgam"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 117,
+      "decision": "occurrence",
+      "why": "read on dkt"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 23,
+      "decision": "reading",
+      "why": "the Story-Mind Vortex's eight axes"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -80,10 +80,11 @@
         "kohaerenz-protokoll-spannungsfelder-vertiefen",
         "roman-kohaerenz-protokoll",
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
-        "aegis-analyse-und-manifest-postulation"
+        "aegis-analyse-und-manifest-postulation",
+        "aegis-und-der-kollaps-kritische-analyse"
       ],
-      "sources": 45,
-      "readings": 43,
+      "sources": 46,
+      "readings": 44,
       "conflict": "none"
     },
     "aegis": {
@@ -329,10 +330,20 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 233,
-      "readings": 233,
+      "sources": 243,
+      "readings": 243,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -446,10 +457,13 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "kohaerenz-protokoll-synthese-integration"
       ],
-      "sources": 105,
-      "readings": 105,
+      "sources": 108,
+      "readings": 108,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -535,10 +549,16 @@
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "the-architecture-of-a-self-kael-s-journey-to-coherence",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
-        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua"
+        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 77,
-      "readings": 77,
+      "sources": 83,
+      "readings": 83,
       "conflict": "none"
     },
     "alters": {
@@ -679,10 +699,12 @@
         "the-coherence-protocol-a-narrative-mosaic",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung"
       ],
-      "sources": 132,
-      "readings": 132,
+      "sources": 134,
+      "readings": 134,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -824,10 +846,12 @@
         "kernwelten-und-fragmentierte-wahrnehmung",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
-        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua"
+        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol"
       ],
-      "sources": 87,
-      "readings": 87,
+      "sources": 89,
+      "readings": 89,
       "conflict": "none"
     },
     "ars": {
@@ -926,10 +950,13 @@
         "kohaerenz-protokoll-spannungsfelder-vertiefen",
         "kohaerenz-protokoll-forschungsaufgabe",
         "kernwelten-fuer-kohaerenz-protokoll",
-        "kernwelten-und-fragmentierte-wahrnehmung"
+        "kernwelten-und-fragmentierte-wahrnehmung",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "blueprint"
       ],
-      "sources": 21,
-      "readings": 21,
+      "sources": 24,
+      "readings": 24,
       "conflict": "none"
     },
     "cerberus": {
@@ -1071,10 +1098,12 @@
         "romanprojekt-analyse-synthese",
         "kohaerenz-protokoll-architecture-synthesis",
         "charaktermodellierung-mit-aieos-schema",
-        "roman-synthese-mit-dual-kernel-theorie"
+        "roman-synthese-mit-dual-kernel-theorie",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 20,
-      "readings": 19,
+      "sources": 22,
+      "readings": 21,
       "conflict": "none yet"
     },
     "coheron": {
@@ -1118,10 +1147,11 @@
         "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me",
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "dramatica-storyform-fuer-romananalyse",
-        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua"
+        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+        "romanarchitektur-validierung-und-synthese"
       ],
-      "sources": 35,
-      "readings": 35,
+      "sources": 36,
+      "readings": 36,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -1219,10 +1249,12 @@
         "aegis-analyse-und-manifest-postulation",
         "arbeitshilfe-kohaerenz-protokoll-kapitel-2",
         "aegis-philosophische-analyse-und-manifest-docx",
-        "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le"
+        "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc"
       ],
-      "sources": 68,
-      "readings": 68,
+      "sources": 70,
+      "readings": 70,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1302,10 +1334,16 @@
         "kohaerenz-protokoll-dramatica-synthese",
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "research-prompt-dramatica-dual-storyform-mapping-md",
-        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua"
+        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 71,
-      "readings": 71,
+      "sources": 77,
+      "readings": 77,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -1406,10 +1444,11 @@
         "aegis-analyse-und-manifest-postulation",
         "fundament-konzept-fuer-kohaerenz-protokoll",
         "kernwelten-fuer-kohaerenz-protokoll",
-        "aegis-philosophische-analyse-und-manifest-docx"
+        "aegis-philosophische-analyse-und-manifest-docx",
+        "blueprint"
       ],
-      "sources": 63,
-      "readings": 63,
+      "sources": 64,
+      "readings": 64,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1591,10 +1630,12 @@
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
         "tropenanalyse-fuer-kohaerenz-protokoll",
         "aegis-analyse-und-manifest-postulation",
-        "aegis-philosophische-analyse-und-manifest-docx"
+        "aegis-philosophische-analyse-und-manifest-docx",
+        "narrative-architecture-dossier-coherence-protocol",
+        "romanarchitektur-validierung-und-synthese"
       ],
-      "sources": 130,
-      "readings": 130,
+      "sources": 132,
+      "readings": 132,
       "conflict": "C2"
     },
     "erason": {
@@ -1713,10 +1754,11 @@
         "paradoxien-der-kohaerenz-protokoll-entwicklung",
         "aegis-analyse-und-manifest-postulation",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "blueprint"
       ],
-      "sources": 62,
-      "readings": 62,
+      "sources": 63,
+      "readings": 63,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -1896,10 +1938,12 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "narrative-architecture-dossier-coherence-protocol",
+        "kohaerenz-protokoll-synthese-integration"
       ],
-      "sources": 98,
-      "readings": 98,
+      "sources": 100,
+      "readings": 100,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -1992,10 +2036,13 @@
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "dramatica-storyform-fuer-romananalyse",
         "kohaerenz-protokoll-the-official-master-story-guide-2",
-        "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat"
+        "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "dramatica-storyform-synthese-aegis-verortung"
       ],
-      "sources": 84,
-      "readings": 82,
+      "sources": 87,
+      "readings": 85,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -2059,10 +2106,11 @@
         "roman-synthese-mit-dual-kernel-theorie",
         "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
         "dramaturgical-precision-deconstructing-the-irreversible-conf",
-        "kernwelten-und-fragmentierte-wahrnehmung"
+        "kernwelten-und-fragmentierte-wahrnehmung",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc"
       ],
-      "sources": 54,
-      "readings": 54,
+      "sources": 55,
+      "readings": 55,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -2232,10 +2280,11 @@
         "arbeitshilfe-kohaerenz-protokoll-kapitel-2",
         "kernwelten-fuer-kohaerenz-protokoll",
         "aegis-philosophische-analyse-und-manifest-docx",
-        "the-coherence-protocol-a-narrative-mosaic"
+        "the-coherence-protocol-a-narrative-mosaic",
+        "blueprint"
       ],
-      "sources": 144,
-      "readings": 144,
+      "sources": 145,
+      "readings": 145,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2368,10 +2417,12 @@
         "kernwelten-und-fragmentierte-wahrnehmung",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
-        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua"
+        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol"
       ],
-      "sources": 79,
-      "readings": 79,
+      "sources": 81,
+      "readings": 81,
       "conflict": "C15"
     },
     "juna": {
@@ -2600,10 +2651,20 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 219,
-      "readings": 219,
+      "sources": 229,
+      "readings": 229,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -2909,10 +2970,20 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 236,
-      "readings": 237,
+      "sources": 246,
+      "readings": 247,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3236,10 +3307,13 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "blueprint"
       ],
-      "sources": 178,
-      "readings": 177,
+      "sources": 181,
+      "readings": 180,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -3393,10 +3467,17 @@
         "kernwelten-und-fragmentierte-wahrnehmung",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
-        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua"
+        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 145,
-      "readings": 146,
+      "sources": 152,
+      "readings": 153,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -3430,10 +3511,11 @@
         "dramatica-und-kohaerenz-protokoll-analyse",
         "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
         "kohaerenz-protokoll-duale-dramatica-storyform-synthese",
-        "kohaerenz-protokoll-analyse-und-synthese"
+        "kohaerenz-protokoll-analyse-und-synthese",
+        "blueprint"
       ],
-      "sources": 25,
-      "readings": 25,
+      "sources": 26,
+      "readings": 26,
       "conflict": "none yet"
     },
     "kohaerenz-kernel": {
@@ -3488,10 +3570,15 @@
         "analyse-des-romanprojekts-kohaerenz-protokoll",
         "roman-synthese-mit-dual-kernel-theorie",
         "kohaerenz-protokoll-duale-dramatica-storyform-synthese",
-        "kapitel-1-generierungsprozess"
+        "kapitel-1-generierungsprozess",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 45,
-      "readings": 45,
+      "sources": 50,
+      "readings": 50,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -3624,10 +3711,14 @@
         "charaktermodellierung-mit-aieos-schema",
         "analyse-des-romanprojekts-kohaerenz-protokoll",
         "roman-synthese-mit-dual-kernel-theorie",
-        "kapitel-1-generierungsprozess"
+        "kapitel-1-generierungsprozess",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 41,
-      "readings": 41,
+      "sources": 45,
+      "readings": 45,
       "conflict": "none"
     },
     "komponente-734": {
@@ -3698,10 +3789,11 @@
         "strategic-narrative-solutions-for-kohaerenz-protokoll",
         "strategic-narrative-implementation-for-kohaerenz-protokoll",
         "the-coherence-protocol-a-narrative-mosaic",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc"
       ],
-      "sources": 62,
-      "readings": 60,
+      "sources": 63,
+      "readings": 61,
       "conflict": "C12, C16"
     },
     "konstrukt-stadt": {
@@ -3816,10 +3908,12 @@
         "roman-kohaerenz-protokoll",
         "report-narrative-methodology-for-kohaerenz-protokoll",
         "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
-        "kernwelten-und-fragmentierte-wahrnehmung"
+        "kernwelten-und-fragmentierte-wahrnehmung",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc"
       ],
-      "sources": 105,
-      "readings": 105,
+      "sources": 107,
+      "readings": 107,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -4027,10 +4121,18 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 149,
-      "readings": 150,
+      "sources": 157,
+      "readings": 158,
       "conflict": "none"
     },
     "lia": {
@@ -4136,10 +4238,15 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 97,
-      "readings": 97,
+      "sources": 102,
+      "readings": 102,
       "conflict": "C15"
     },
     "logos": {
@@ -4258,10 +4365,11 @@
         "dramaturgical-precision-deconstructing-the-irreversible-conf",
         "roman-kohaerenz-protokoll",
         "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
-        "kernwelten-fuer-kohaerenz-protokoll"
+        "kernwelten-fuer-kohaerenz-protokoll",
+        "romanarchitektur-validierung-und-synthese"
       ],
-      "sources": 110,
-      "readings": 110,
+      "sources": 111,
+      "readings": 111,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -4411,10 +4519,11 @@
         "research-prompt-dramatica-dual-storyform-synthese-aegis-thro",
         "kohaerenz-protokoll-detaillierter-plot-blueprint",
         "dramaturgical-precision-deconstructing-the-irreversible-conf",
-        "kohaerenz-protokoll-epische-plot-anreicherung"
+        "kohaerenz-protokoll-epische-plot-anreicherung",
+        "romanarchitektur-validierung-und-synthese"
       ],
-      "sources": 123,
-      "readings": 123,
+      "sources": 124,
+      "readings": 124,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -4621,10 +4730,17 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 127,
-      "readings": 127,
+      "sources": 134,
+      "readings": 134,
       "conflict": "none"
     },
     "moros": {
@@ -4738,10 +4854,14 @@
         "kernwelten-und-fragmentierte-wahrnehmung",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
-        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua"
+        "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "kohaerenz-protokoll-synthese-integration"
       ],
-      "sources": 105,
-      "readings": 105,
+      "sources": 109,
+      "readings": 109,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -4783,10 +4903,13 @@
         "roman-synthese-mit-dual-kernel-theorie",
         "kohaerenz-protokoll-duale-dramatica-storyform-synthese",
         "kohaerenz-protokoll-detaillierter-plot-blueprint",
-        "kohaerenz-protokoll-kapitel-39-die-letzte-instanz"
+        "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "romanarchitektur-validierung-und-synthese",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 36,
+      "readings": 36,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -4930,10 +5053,18 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 134,
-      "readings": 134,
+      "sources": 142,
+      "readings": 142,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -5008,10 +5139,11 @@
         "roman-synthese-mit-dual-kernel-theorie",
         "critical-plot-interrogatories-for-kohaerenz-protokoll",
         "kohaerenz-protokoll-detaillierter-plot-blueprint",
-        "kohaerenz-protokoll-kapitel-39-die-letzte-instanz"
+        "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
+        "romanarchitektur-validierung-und-synthese"
       ],
-      "sources": 33,
-      "readings": 33,
+      "sources": 34,
+      "readings": 34,
       "conflict": "none"
     },
     "nichts-rauschen": {
@@ -5130,10 +5262,16 @@
         "kohaerenz-protokoll-the-official-master-story-guide-2",
         "the-coherence-protocol-a-narrative-mosaic",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
-        "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le"
+        "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 109,
-      "readings": 109,
+      "sources": 115,
+      "readings": 115,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -5305,10 +5443,18 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 150,
-      "readings": 151,
+      "sources": 158,
+      "readings": 159,
       "conflict": "C10"
     },
     "oblivion": {
@@ -5583,10 +5729,12 @@
         "fundament-konzept-fuer-kohaerenz-protokoll",
         "kernwelten-fuer-kohaerenz-protokoll",
         "the-coherence-protocol-a-narrative-mosaic",
-        "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le"
+        "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
+        "blueprint",
+        "romanarchitektur-validierung-und-synthese"
       ],
-      "sources": 74,
-      "readings": 75,
+      "sources": 76,
+      "readings": 77,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -5646,10 +5794,11 @@
         "romanplot-kohaerenz-protokoll-entwickeln",
         "kohaerenz-protokoll-detaillierte-recherche",
         "orte-konzept-fuer-kohaerenz-protokoll",
-        "kohaerenz-protokoll-finale-pfeiler"
+        "kohaerenz-protokoll-finale-pfeiler",
+        "blueprint"
       ],
-      "sources": 34,
-      "readings": 34,
+      "sources": 35,
+      "readings": 35,
       "conflict": "none"
     },
     "residual-echos": {
@@ -5736,10 +5885,11 @@
         "narrative-architektur-fuer-kohaerenz-protokoll",
         "als-ihr-narrativer-architekt-blicke-ich-auf-das-r",
         "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots",
-        "kernwelten-und-fragmentierte-wahrnehmung"
+        "kernwelten-und-fragmentierte-wahrnehmung",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc"
       ],
-      "sources": 53,
-      "readings": 53,
+      "sources": 54,
+      "readings": 54,
       "conflict": "C11"
     },
     "rhys": {
@@ -5856,10 +6006,12 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol"
       ],
-      "sources": 108,
-      "readings": 108,
+      "sources": 110,
+      "readings": 110,
       "conflict": "none"
     },
     "risse": {
@@ -6053,10 +6205,16 @@
         "the-coherence-protocol-a-narrative-mosaic",
         "kernwelten-und-fragmentierte-wahrnehmung",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "narrative-architecture-dossier-coherence-protocol",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 183,
-      "readings": 183,
+      "sources": 189,
+      "readings": 189,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -6239,10 +6397,14 @@
         "kernwelten-und-fragmentierte-wahrnehmung",
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "blueprint"
       ],
-      "sources": 123,
-      "readings": 123,
+      "sources": 127,
+      "readings": 127,
       "conflict": "none"
     },
     "silas": {
@@ -6623,10 +6785,13 @@
         "kohaerenz-protokoll-kapitel-outline-generierung",
         "kohaerenz-protokoll-architecture-synthesis",
         "research-prompt-dramatica-dual-storyform-synthese-aegis-thro",
-        "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m"
+        "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 27,
-      "readings": 27,
+      "sources": 30,
+      "readings": 30,
       "conflict": "none yet"
     },
     "tsdp": {
@@ -6781,10 +6946,20 @@
         "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
         "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le",
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
-        "strategic-narrative-analysis-forging-a-compelling-story-from"
+        "strategic-narrative-analysis-forging-a-compelling-story-from",
+        "aegis-und-der-kollaps-kritische-analyse",
+        "tsdp-analyse-kohaerenz-protokoll-charaktere",
+        "narrative-architecture-dossier-coherence-protocol",
+        "ui-konzept-fuer-roman-entwicklungssystem",
+        "blueprint",
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese-integration",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 146,
-      "readings": 146,
+      "sources": 156,
+      "readings": 156,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -6915,10 +7090,12 @@
         "aegis-analyse-und-manifest-postulation",
         "kohaerenz-protokoll-the-official-master-story-guide-2",
         "the-coherence-protocol-a-narrative-mosaic",
-        "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat"
+        "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
+        "narrative-architecture-dossier-coherence-protocol",
+        "blueprint"
       ],
-      "sources": 107,
-      "readings": 107,
+      "sources": 109,
+      "readings": 109,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -7029,10 +7206,13 @@
         "kohaerenz-protokoll-kapitel-outline-generierung-2",
         "kohaerenz-protokoll-kapitel-outline-generierung",
         "kohaerenz-protokoll-architecture-synthesis",
-        "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m"
+        "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
+        "romanarchitektur-validierung-und-synthese",
+        "dramatica-storyform-synthese-aegis-verortung",
+        "kohaerenz-protokoll-synthese"
       ],
-      "sources": 38,
-      "readings": 38,
+      "sources": 41,
+      "readings": 41,
       "conflict": "C7, C11, C14"
     },
     "ztv": {

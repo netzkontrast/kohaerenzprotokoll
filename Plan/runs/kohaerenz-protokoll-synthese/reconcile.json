@@ -1,0 +1,269 @@
+{
+  "document": "kohaerenz-protokoll-synthese",
+  "drive_id": "148PzorgKWM-YbUuOtlzVKTE_foKmBn8GtLXqECaysDs",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list, two line ranges (L101–L104, L181–L222) not read for privacy; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-280/brief.md, 2026-10-12, the same ranges excluded; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 67,
+    "decisions": 67,
+    "decided_by_lookup": 57,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A final validation brief: its new surfaces are its axes and verdicts, the Witness Function's layers, the gate reports, Phönix-Mode and borrowed mathematics and logic; what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        67,
+        107,
+        159,
+        161,
+        277,
+        341
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Kollaps-Kern, its closure the engine of entropy"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        87,
+        107,
+        341
+      ],
+      "attribution": "",
+      "note": "the state after the Wahrheits-Vortex"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        35,
+        173,
+        177
+      ],
+      "attribution": "",
+      "note": "Juna as an amalgam including the Chaitin-Konstante"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        25,
+        117
+      ],
+      "attribution": "",
+      "note": "Dual-Kernel Theory as the thermodynamic engine of narrative"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        31,
+        91,
+        175,
+        177
+      ],
+      "attribution": "",
+      "note": "Juna as a controlled composite, a fifth position, the Witness Function"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        43,
+        47,
+        87,
+        99,
+        339
+      ],
+      "attribution": "",
+      "note": "Kael's integration, the Kohärenz-Kern, and the silence at the vortex"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Kiko among the narrators of the alters"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "Kael's lived cycles revealed as the Kohärenz-Kern"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "AEGIS's claimed coherence exposed as the Kollaps-Kern"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Lex among the narrators of the alters"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Lia among the narrators of the alters"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        31,
+        109,
+        145
+      ],
+      "attribution": "",
+      "note": "the link as a structural mechanism, not a metaphor"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        141
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz grounded in the Monster Group"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        43,
+        47,
+        129
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität as Storyform A's goal"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        95,
+        99,
+        339
+      ],
+      "attribution": "",
+      "note": "Nichts-Rauschen as the static of erasure fields and of the external sea"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "Nyx among the narrators of the alters"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        137,
+        169,
+        245
+      ],
+      "attribution": "",
+      "note": "narrative cracks modelled by paraconsistent logic"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "the truth-rotation as the pivot of the narrative"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "identity fractured into ANPs and EPs"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        23,
+        87,
+        129,
+        159
+      ],
+      "attribution": "",
+      "note": "the Story-Mind Vortex and the Wahrheits-Vortex"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Story-Mind Vortex`, `Wahrheits-Vortex` and `Vortex Inversion` read on vortex; `Storymind` Dramatica's term; `Kollaps-Kern` on kollaps-kernel and `Kohärenz-Kern` on kohaerenz-kernel; `Mnemosyne-Archipel` a world's name (J49); `Genesis-Krise` as the genesis reading decides; `Chaitin` with the Chaitin-Konstante; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "chaitin-konstante",
+      "surface": "Chaitin-Konstante",
+      "line": 173,
+      "decision": "reading",
+      "why": "Juna's status as an amalgam"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 117,
+      "decision": "occurrence",
+      "why": "read on dkt"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 23,
+      "decision": "reading",
+      "why": "the Story-Mind Vortex's eight axes"
+    }
+  ],
+  "not_promoted": [
+    "the eight axes and verdicts",
+    "the Story-Mind Vortex as a label",
+    "the Witness Function's three layers",
+    "the gate reports",
+    "Phönix-Mode",
+    "the Foundation as Monster Group bedrock"
+  ],
+  "internal_tension": "it speaks of eight axes while its audit table numbers seven plus a truth-rotation row (L270–L277); Juna stands in a fifth position outside the quad (L91) and as Influence Character of Storyform A (L177)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
