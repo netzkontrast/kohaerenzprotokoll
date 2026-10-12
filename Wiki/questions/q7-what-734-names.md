@@ -402,3 +402,11 @@ Stands: one more position on what the component is, a proposal of the guide that
 „The perspective of the traumatized“ ^[the-coherence-protocol-a-narrative-mosaic.md:L38] Ursprungs-Ich „after its fragmentation, now a functional component defined by the prime directive“ ^[the-coherence-protocol-a-narrative-mosaic.md:L38]; in a story entry it is „the AEGIS component that was once the“ ^[the-coherence-protocol-a-narrative-mosaic.md:L146] Ursprungs-Ich, and „is gone, replaced by the designation“ ^[the-coherence-protocol-a-narrative-mosaic.md:L146] Component 734.
 
 Stands as one more position on what 734 names: the AEGIS core after fragmentation, in a brief; recorded, not applied.
+
+## 2026-10-12 — `strategic-narrative-analysis-forging-a-compelling-story-from`, 2025-11-03, the strategy memo
+
+**The strategy memo, summarising a text it cites by title, says the Ich was subsumed into pure function and became Komponente 734.**
+
+It cites „Genesis der Existenz“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L44] as the source of AEGIS's origin and plans to narrate it; the subjective Ich „must be subsumed into pure function, becoming the objective“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L51] `Komponente 734`. That is the memo's summary, not the cited text's wording. It adds „It had to kill its own subjectivity to survive.“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L51]
+
+Stands as one more position on what 734 names: the Ich of AEGIS's genesis turned into function, in a plan; recorded, not applied.
