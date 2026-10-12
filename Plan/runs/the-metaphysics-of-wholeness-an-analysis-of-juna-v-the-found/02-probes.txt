@@ -1,0 +1,23 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      20
+  typographic marks      10
+  ascii quotes           50
+
+# inflection families -- one term, several surfaces
+  defin    Defined, Defining, Definition
+  catal    Catalyst, Catalytic
+  coher    Coherence, Coherentist
+  epist    Episteme, Epistemological
+  ethic    Ethical, Ethics
+  funct    Function, Functional
+  metap    Metaphysical, Metaphysics
+  separ    Separate, Separation
+  truth    Truth, Truths
+
+# substring pairs -- never one term, often merged by accident
+  Truth < Truths
+  Physics < Metaphysics
+  Function < Functional
+  Integration < Reintegration
