@@ -1,0 +1,14 @@
+# beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt
+  lines                74  (frontmatter ends at 9)
+  body words           1244
+  headings             6   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       2
+  backslash escapes    0
+  typographic marks    18   ascii quotes 54
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         563 chars
+

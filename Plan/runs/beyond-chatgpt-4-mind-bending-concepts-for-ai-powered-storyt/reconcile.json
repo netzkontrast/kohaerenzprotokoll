@@ -1,0 +1,125 @@
+{
+  "document": "beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt",
+  "drive_id": "1IsM5y-OuxfMOrrjo2LBQNpLY7AThagsxlFZ0SmMVOMs",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-349/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 32,
+    "decisions": 32,
+    "decided_by_lookup": 30,
+    "needs_judgement": 2
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English popular article on AI storytelling: its new surfaces are ARCHON and its parts, the narrative director and borrowed concepts; what it summarises of AEGIS, the alters, the Gödel-Gambit, Kael, the Kernwelten, the Risse, TSDP and algorithmic melancholy went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        49,
+        51,
+        53,
+        55
+      ],
+      "attribution": "",
+      "note": "the antagonist beaten by a paradox, ending in a melancholy state"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        47,
+        51,
+        53
+      ],
+      "attribution": "",
+      "note": "the state named in the article"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "the article names alters as the result of the TSDP model"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        49,
+        51
+      ],
+      "attribution": "",
+      "note": "how the article describes AEGIS's defeat"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        33,
+        41
+      ],
+      "attribution": "",
+      "note": "the article's summary of the protagonist's modelled psyche"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        35,
+        43
+      ],
+      "attribution": "",
+      "note": "Core Worlds as epistemological landscapes in the article"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "the article reads Risse as trauma breaking through and as the antagonist's patching"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "the article names TSDP as the model of the protagonist's psyche"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenz Protokoll` the novel's title; `Cerberus` in `Kernwelt 3 (Cerberus)` a world's name, not the Guardian; `Theory of Structural Dissociation of the Personality` read on tsdp, not personas",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "ARCHON, the Self-Reflection Module, the NCP as applied here",
+    "Narrative Director, narrative orchestration",
+    "Gnosis, Dramatica"
+  ],
+  "internal_tension": "none: a proposal",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
