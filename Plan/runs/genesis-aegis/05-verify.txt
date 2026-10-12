@@ -1,0 +1,79 @@
+$ read.py genesis-aegis --count "The Genesis of AEGIS: A Manuscript"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Genesis of AEGIS: A Manuscript` ^[genesis-aegis.md:#1]
+
+$ read.py genesis-aegis --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[genesis-aegis.md:#0]
+
+$ read.py genesis-aegis --count "Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Rauschen` ^[genesis-aegis.md:#2]
+
+$ read.py genesis-aegis --count "Verlöschen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Verlöschen` ^[genesis-aegis.md:#1]
+
+$ read.py genesis-aegis --count "Überwelt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Überwelt` ^[genesis-aegis.md:#3]
+
+$ read.py genesis-aegis --count "autopoietic loops"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`autopoietic loops` ^[genesis-aegis.md:#1]
+
+$ read.py genesis-aegis --count "autopoietic loop"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`autopoietic loop` ^[genesis-aegis.md:#2]
+
+$ read.py genesis-aegis --count "K₀"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`K₀` ^[genesis-aegis.md:#4]
+
+$ read.py genesis-aegis --count "K₁"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`K₁` ^[genesis-aegis.md:#1]
+
+$ read.py genesis-aegis --count "Collapse Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Collapse Kernel` ^[genesis-aegis.md:#1]
+
+$ read.py genesis-aegis --count "Component"
+whole word, case-sensitive     3
+whole word, case-insensitive   7
+including compounds            3
+
+`Component` ^[genesis-aegis.md:#3]
+
+seven numbered sections: headings at L13 L23 L33 L43 L53 L67 L77 (read.py output)
+candidates: 27 (census.py draft)

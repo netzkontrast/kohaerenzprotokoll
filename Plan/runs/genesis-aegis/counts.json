@@ -1,0 +1,239 @@
+{
+  "document": "genesis-aegis",
+  "drive_id": "15MxSrt1P9QTju_SCkSnJ_BJ7zD8qkN7eG2Gocxdg_j0",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        55,
+        61,
+        69,
+        75,
+        79,
+        81,
+        83,
+        87
+      ]
+    },
+    "Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        87
+      ]
+    },
+    "The Noise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        15,
+        29
+      ]
+    },
+    "K₀": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        17,
+        25,
+        35,
+        45,
+        71,
+        87
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        87
+      ]
+    },
+    "K₀-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "K₀-Collapse Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "K₀-domain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "K₁": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        27,
+        37,
+        87
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "K₁-field": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        37
+      ]
+    },
+    "K₁-fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Verlöschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Selbstverstärkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        51,
+        55
+      ]
+    },
+    "Great Realignment": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        63,
+        69
+      ]
+    },
+    "Component 734": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        71,
+        85
+      ]
+    },
+    "Überwelt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        81,
+        83
+      ]
+    },
+    "fear-vibration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        57,
+        73
+      ]
+    },
+    "alarm signal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "entropy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        81
+      ]
+    },
+    "prevention of non-being": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        71
+      ]
+    },
+    "autopoietic loop": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        63,
+        71
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Hamartia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        79
+      ]
+    },
+    "Correspondence Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    }
+  }
+}
