@@ -37,7 +37,7 @@ term page in `terms/` (`scripts/terms.py`, `Plan/concept/wiki-terms_2026-10-08.m
 
 **106 <!--state:wiki.pages--> pages, 17 <!--state:wiki.conflicts--> conflicts
 and 9 <!--state:wiki.questions--> questions, from
-337 <!--state:documents.reconciled--> reconciled documents.** The wiki is built
+347 <!--state:documents.reconciled--> reconciled documents.** The wiki is built
 one document at a time: a frozen census is reconciled against the current
 pages, and the record of each reconciliation is in `compare/`. The first three
 files there are the full re-comparisons made before reconciling by lookup; each

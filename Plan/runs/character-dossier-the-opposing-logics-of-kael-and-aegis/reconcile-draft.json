@@ -1,0 +1,101 @@
+{
+  "document": "character-dossier-the-opposing-logics-of-kael-and-aegis",
+  "drive_id": "1D97MCQDmduffq9tOaVbHMglvm9bS7gHuSdIBcCFHzAA",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 38,
+    "decisions": 37,
+    "decided_by_lookup": 33,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        29,
+        38,
+        42,
+        46,
+        87,
+        99,
+        105
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system of negation, closed and blind, whose logic fails against integration"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "AEGIS's final state as epistemological isolation"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        96,
+        100,
+        104
+      ],
+      "attribution": "",
+      "note": "the climax as a logical checkmate, not a contest of force"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        54,
+        58,
+        70,
+        73,
+        76,
+        90,
+        100,
+        111
+      ],
+      "attribution": "",
+      "note": "an arc from fragmentation to integration, read through dissociation theory"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        58,
+        63,
+        64
+      ],
+      "attribution": "",
+      "note": "Kael's initial state read through the Theory of Structural Dissociation of the Personality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

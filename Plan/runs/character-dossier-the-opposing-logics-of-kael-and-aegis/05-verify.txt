@@ -1,0 +1,72 @@
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "The Goal:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Goal:` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#1]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "The Flawed Interpretation:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Flawed Interpretation:` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#1]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "The Perverse Result:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Perverse Result:` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#1]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "The Truth:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Truth:` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#1]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "AEGIS's Axiom"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS's Axiom` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#1]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "coherent"
+whole word, case-sensitive     2
+whole word, case-insensitive   4
+including compounds            6
+
+`coherent` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#2]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "incoherent"
+whole word, case-sensitive     2
+whole word, case-insensitive   4
+including compounds            2
+
+`incoherent` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#2]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "Coherent"
+whole word, case-sensitive     2
+whole word, case-insensitive   4
+including compounds            2
+
+`Coherent` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#2]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "Coherence Protocol"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Coherence Protocol` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#1]
+
+$ read.py character-dossier-the-opposing-logics-of-kael-and-aegis --count "Gödel-Satz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Satz` ^[character-dossier-the-opposing-logics-of-kael-and-aegis.md:#1]
+
+stance_marker_count 5 = 1+1+1+1+1 (the five counts above)
+profile: 48 backslash escapes, from 01-profile.txt
