@@ -1,0 +1,86 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an operational report (in its own words) on a generated Kapitel 1 of the novel: it holds three blocks of narrative prose, each followed by an "Analyse-Schnittstelle" that explains the prose in physical and psychological terms, plus framing sections 1 and 5 and two tables. The narrative voice is present tense of a third person in past tense; the analysis voice is the report's. Candidates from the narrative are listed as figures, places and objects; candidates from the analysis are the report's own terms or borrowed concepts (under lens). Footnote digits are glued to words in the export (for example KW1 appears once without a digit in a quoted find, but is written KW1 on its line). Chapter titles are listed as headings. Terms inside the stage directions (Status, Umgebung, Stil-Vorgabe) are listed where they name a place or a style.
+
+- Kohärenz Protokoll
+- Protokoll-Ontologie
+- Gravitationsarchitektur
+- Gravitationsgradienten
+- Dual Kernel Principle
+- Duale Kernel
+- Parataktische Geschwindigkeit
+- Parataxe
+- Hypotaxe
+- Kael
+- System Kael
+- Juna
+- Jansen
+- Nyx
+- Silas
+- Moros
+- AEGIS
+- ANP
+- EP
+- Apparently Normal Parts
+- KW1
+- Konstrukt-Stadt
+- Logos-Prime
+- Sektor Gamma
+- Gamma-7
+- Datenknotenpunkt Gamma-7
+- Transit-Station
+- Transit-Pod
+- Architekt Klasse
+- Ergosphäre
+- Ereignishorizont
+- Photonensphäre
+- Leckage-Hypothese
+- Technischen Natürlichkeit
+- Großen Faktums
+- Bulk
+- Brane
+- Oberflächenspannung
+- Gewohnten Welt
+- Z-Fighting
+- Texture Stretching
+- Vertex Explosion
+- Mesh Tearing
+- Glitch-Horror
+- Glitch-Metaphern
+- Glitch-Mechaniken
+- Asynchronen Glitch
+- Uncanny Self
+- Leichte Existenz
+- Propriozeptiver Drift
+- Feedback-Loop
+- Aletheia-Schwarzschild
+- Oculus-G
+- Monster-Gruppe
+- Critical Fluctuations
+- Finde die Naht
+- Zerbrochene Spiegel
+- EP-Intrusion
+- Ich-dyston
+- gravitative Bindungsenergie
+- Die Geometrie der Stille
+- Das Gewicht der Daten
+- Der Ereignishorizont
+- Analyse-Schnittstelle
+- Narrative Sequenz
+- Reibungshitze
+
+## lens
+
+- Hierarchie-Problem
+- Entropischen Gravitation
+- Brane-Kosmologie
+- Strukturellen Dissoziation
+- Negentropie
+- Akkretionsscheibe
+- Doppler-Effekt
+- Doppler-Beaming
+- Spaghettifizierung
+- Lensing-Effekt
+- Operational Closure
+- Uncanny Valley
+- Zweiten Hauptsatz der Thermodynamik

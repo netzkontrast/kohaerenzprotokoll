@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      20
+  backslash escapes      64
+  typographic marks      251
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systemfehler, Systems, Systemstart, Systemstatus, Systemtheorie, Systemversagen
+  disso    Dissonanz, Dissonanzen, Dissoziation, Dissoziative, Dissoziierte
+  gravi    Gravitation, Gravitational, Gravitationsarchitektur, Gravitationsgradienten, Gravity
+  narra    Narrativ, Narrative, Narrativen, Narrativer, Narrativs
+  archi    Architecture, Architekt, Architekten, Architektur
+  daten    Daten, Datenknotenpunkt, Datenmenge, Datenströme
+  korre    Korrektur, Korrelat, Korrelation, Korrespondenz
+  metap    Metapher, Metaphern, Metaphor, Metaphysik
+  parat    Paratactic, Parataktische, Parataxe, Parataxis
+  schwe    Schweiß, Schweißperlen, Schwere, Schwerkraft
+  spieg    Spiegel, Spiegelbild, Spiegels, Spiegelung
+  wasse    Wasser, Wasserfälle, Wassers, Wasserspender
+  besch    Beschreibung, Beschreibungen, Beschützer
+  draht    Draht, Drahtgitter, Drahtgitterleere
+  energ    Energie, Energieaufwand, Energiesparmodus
+  entro    Entropie, Entropische, Entropischen
+  gesch    Geschichte, Geschlossenheit, Geschwindigkeit
+  hypot    Hypotaktische, Hypotaxe, Hypothese
+  infor    Information, Informationsdichte, Informationsverarbeitung
+  kapit    Kapitel, Kapiteln, Kapitels
+  körpe    Körper, Körpers, Körperschemas
+  physi    Physik, Physikalisch, Physikalisches
+  phäno    Phänomen, Phänomene, Phänomenen
+  proto    Protokoll, Protokollen, Protokolls
+  psych    Psychischer, Psychodynamik, Psychologisches
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augen
+  Bild < Weltbild
+  Bild < Bildschirme
+  Bild < Schlussbild
+  Bild < Spiegelbild
+  Dies < Diese
+  Dies < Dieser
+  Dual < Duale
+  Dual < Dualität
+  Echo < Echos
+  Eine < Beine
+  Eine < Keine
+  Eine < Seine
+  Ende < Tausende
+  Ende < Rendering
+  Ende < Zunehmende
+  Ende < Wasserspender
+  Grad < Gravitationsgradienten
+  Hand < Handballen
+  Hand < Handschuhe

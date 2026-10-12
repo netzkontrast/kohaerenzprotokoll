@@ -1,0 +1,199 @@
+{
+  "document": "roman-kapitel-1-generierungsprozess",
+  "drive_id": "1CVh5g2S72cXUA9odKHxofsDUX9NdoihWGlFCSIMzl9A",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one chapter reading (Kap 1) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-388/brief.md, 2026-10-12; no record entries",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 78,
+    "decisions": 77,
+    "decided_by_lookup": 67,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German report holding a three-part draft of Kapitel 1 with analysis sections: its new surfaces are its own labels, glitch vocabulary and borrowed physics; what its draft and analysis say of Kael, Juna, Nyx, Silas, Moros, AEGIS, the Konstrukt-Stadt, negentropy, the Risse, TSDP, the simulation and KW1 went on existing pages, and the draft on Kap 1.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        208,
+        354,
+        414,
+        552
+      ],
+      "attribution": "",
+      "note": "AEGIS as the order that the report's analysis sets against the draft's disorder"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        134,
+        452,
+        589
+      ],
+      "attribution": "",
+      "note": "Juna in the draft: present at the door, then absent"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        22,
+        58,
+        124,
+        394,
+        422,
+        510,
+        560
+      ],
+      "attribution": "",
+      "note": "Kael as the report's autopoietic system and the draft's Architekt Klasse 4"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        78,
+        106
+      ],
+      "attribution": "",
+      "note": "KW1 as the Konstrukt-Stadt, with a second name in the draft"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        56,
+        78
+      ],
+      "attribution": "",
+      "note": "The Konstrukt-Stadt as the report's simulation and the draft's setting"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        552
+      ],
+      "attribution": "",
+      "note": "Moros named only in the report's analysis"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        66,
+        206,
+        208,
+        414
+      ],
+      "attribution": "",
+      "note": "Sensorische Deprivation as negentropy, in the report's analysis"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        372,
+        374,
+        422
+      ],
+      "attribution": "",
+      "note": "Nyx in the draft's prose and in the report's reading"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        56,
+        414,
+        514
+      ],
+      "attribution": "",
+      "note": "Riss and Glitch: the report's reading and the draft's voice"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        468,
+        552
+      ],
+      "attribution": "",
+      "note": "Silas as a name in the draft, read by the report as the memory that breaks through"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "TSDP as the report's psychological framework"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "The Konstrukt-Stadt called a simulation"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `Logos-Prime` a second name for the city, read on kern-welten, not the Guardian; the `Glitch` compounds read on risse; `Gamma-7` the draft's place; `Brane` a borrowed term; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "entropy in the general sense of the report's frame"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 56,
+      "decision": "reading",
+      "why": "every glitch as proof of the simulation's failure, read on the page"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 58,
+      "decision": "reading",
+      "why": "TSDP as the psychological framework, read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 56,
+      "decision": "reading",
+      "why": "the Konstrukt-Stadt as a simulation, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "Operationaler Bericht, Analyse-Schnittstelle, Stil-Vorgabe, Parataktische Geschwindigkeit, Gravitationsgradient and the phases, the glitch vocabulary, Gamma-7, Leckage der Seele",
+    "the borrowed concepts (Brane cosmology, the hierarchy problem, entropic gravity, Uncanny Valley, operational closure)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
