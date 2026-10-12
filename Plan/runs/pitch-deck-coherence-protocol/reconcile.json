@@ -1,0 +1,149 @@
+{
+  "document": "pitch-deck-coherence-protocol",
+  "drive_id": "1kQ6ZG64cslTL7NpfujtdOcThMPTAUutzOA6zRbl1BsY",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-352/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 61,
+    "decisions": 64,
+    "decided_by_lookup": 40,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English pitch deck for the novel: its new surfaces are the logline, the table's labels, the techniques and the market pitch; what it presents of AEGIS, Kael, the Gödel-Gambit, Juna, the Konstrukt-Stadt, Lex, the Nichts Rauschen, Nyx, the Resonanz-Landschaft and TSDP went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        32,
+        33,
+        34,
+        35,
+        54,
+        58,
+        66
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic systemic antagonist and the Negation column of the table"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        74
+      ],
+      "attribution": "",
+      "note": "the story's conceptual hook, a Gödel sentence as the healed state"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "the logline's mysterious presence"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        33,
+        34,
+        41,
+        47,
+        52,
+        54,
+        72
+      ],
+      "attribution": "",
+      "note": "the protagonist as the engine of the plot, TSDP system and Integration column"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "the hyper-logical Construct-City among the Core Worlds"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        50
+      ],
+      "attribution": "",
+      "note": "Lex as the rational analyst among the Apparently Normal Parts"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        86
+      ],
+      "attribution": "",
+      "note": "the Nothing Noise in the cosmic-horror genre pitch"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "Nyx as the protector among the Emotional Parts"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "the dream-like Resonance-Landscape among the Core Worlds"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        47,
+        50,
+        51
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical grounding of the protagonist's mind"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`The Ontological Exploit` a technique's heading, not alex; `Kohärenz Protokoll` the novel's title; `Theory of Structural Dissociation of Personality (TSDP)` and its long form read on tsdp, not personas",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "the logline and the table's labels",
+    "polyphonic prose and The Ontological Exploit",
+    "the genre and market pitch",
+    "the lens concepts (principle of explosion, paraconsistent logic, dialetheism)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

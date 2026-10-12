@@ -1,0 +1,69 @@
+$ read.py --count "Logline"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Logline` ^[pitch-deck-coherence-protocol.md:#1]
+$ read.py --count "We have engineered"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`We have engineered` ^[pitch-deck-coherence-protocol.md:#2]
+$ read.py --count "We have architected"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`We have architected` ^[pitch-deck-coherence-protocol.md:#1]
+$ read.py --count "Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna` ^[pitch-deck-coherence-protocol.md:#1]
+$ read.py --count "Gödel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Gödel` ^[pitch-deck-coherence-protocol.md:#1]
+$ read.py --count "Gödel-Gambit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Gambit` ^[pitch-deck-coherence-protocol.md:#1]
+$ read.py --count "Nothing Noise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nothing Noise` ^[pitch-deck-coherence-protocol.md:#1]
+$ read.py --count "Nothing Noise (Nichts Rauschen)"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nothing Noise (Nichts Rauschen)` ^[pitch-deck-coherence-protocol.md:#0]
+$ read.py --count "functional multiplicity"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`functional multiplicity` ^[pitch-deck-coherence-protocol.md:#3]
+$ read.py --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lex` ^[pitch-deck-coherence-protocol.md:#1]
+$ read.py --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[pitch-deck-coherence-protocol.md:#1]
+stance_marker_count 4 = 1 + 2 + 1
+eleven (L47), four genres (L82), sections 2.0 to 6.0 (headings L23 L39 L56 L68 L78)
+0
