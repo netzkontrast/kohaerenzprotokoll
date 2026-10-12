@@ -1,0 +1,475 @@
+{
+  "document": "vorarbeiten-ausformulierung-kapitel-1-teil-1",
+  "drive_id": "1DRwLnvbQFiQkcShKwr9rhoK17Ktvn9iuVwK-C6Z9B1Y",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 18,
+      "n_including_compounds": 57,
+      "lines": [
+        15,
+        21,
+        24,
+        27,
+        29,
+        31,
+        33,
+        43,
+        44,
+        48,
+        54,
+        56,
+        57,
+        58,
+        60,
+        62,
+        63,
+        66,
+        67,
+        68,
+        69,
+        70,
+        73,
+        76,
+        79,
+        83,
+        85,
+        89,
+        90,
+        91,
+        93,
+        99,
+        100,
+        110,
+        111,
+        115,
+        121,
+        128,
+        129,
+        131,
+        137,
+        138,
+        139,
+        141,
+        144
+      ]
+    },
+    "Juna": {
+      "n": 9,
+      "n_including_compounds": 17,
+      "lines": [
+        57,
+        58,
+        70,
+        72,
+        81,
+        83,
+        85,
+        89,
+        90,
+        91,
+        93,
+        104,
+        122
+      ]
+    },
+    "Jansen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        67
+      ]
+    },
+    "Normalem Nachbarn": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        19,
+        21,
+        78,
+        83,
+        99,
+        137,
+        139
+      ]
+    },
+    "KW1": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        15,
+        19,
+        21,
+        23,
+        27,
+        43,
+        44,
+        54,
+        83,
+        99,
+        110,
+        111,
+        131
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "UNIVERSAL REBOOT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "AEGIS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        64,
+        85,
+        128
+      ]
+    },
+    "LogOS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        64,
+        85
+      ]
+    },
+    "Praetor": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        62,
+        66,
+        74
+      ]
+    },
+    "Nox": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        70,
+        74
+      ]
+    },
+    "Echo": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        37,
+        58,
+        62,
+        70,
+        73,
+        78
+      ]
+    },
+    "Silas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        58,
+        72
+      ]
+    },
+    "Limina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        68
+      ]
+    },
+    "Flicker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Funke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Host": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        39,
+        58,
+        66,
+        72,
+        74
+      ]
+    },
+    "Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Architekt": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        39,
+        63,
+        74,
+        141
+      ]
+    },
+    "Host/Architekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "DID": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        31,
+        129,
+        140,
+        157
+      ]
+    },
+    "Datenknotenpunkt Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Transitsystem": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        111
+      ]
+    },
+    "Wohneinheit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        55,
+        72,
+        75,
+        77
+      ]
+    },
+    "Pausenbereich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Abendprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Intrusionen": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        33,
+        99,
+        110,
+        123,
+        131
+      ]
+    },
+    "Glitch": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        38,
+        60,
+        65,
+        106,
+        111,
+        131
+      ]
+    },
+    "Anomalie": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        65,
+        66,
+        68,
+        69,
+        70,
+        122
+      ]
+    },
+    "Riss": {
+      "n": 6,
+      "n_including_compounds": 13,
+      "lines": [
+        44,
+        56,
+        60,
+        65,
+        66,
+        73,
+        76,
+        91,
+        122,
+        128,
+        129,
+        140
+      ]
+    },
+    "Finde die Naht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        124
+      ]
+    },
+    "Spiegel": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        19,
+        21,
+        67,
+        71,
+        79,
+        110,
+        124
+      ]
+    },
+    "Juna-Enigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "24-Beat-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Gewohnten Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Perfect World": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Uncanny Valley": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        23,
+        56,
+        57,
+        91,
+        148,
+        174,
+        176
+      ]
+    },
+    "Depersonalisation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        38,
+        55,
+        71,
+        106,
+        123
+      ]
+    },
+    "Derealisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Synästhesie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Stream of Consciousness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        164
+      ]
+    },
+    "Sensorische Deprivation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        55
+      ]
+    }
+  }
+}

@@ -1168,3 +1168,5 @@
 {"document": "kapitel-eins-welterkundung-konstrukt-stadt", "page": "kern-welten", "surface": "Kern-Welt", "line": 15, "decision": "reading", "why": "Kern-Welt 1 named as the Konstrukt-Stadt", "at": "2026-10-12"}
 {"document": "roman-kapitel-ausformulierung-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-12"}
 {"document": "roman-kapitel-ausformulierung-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 31, "decision": "occurrence", "why": "Kael's unawareness of the simulation, read on kael", "at": "2026-10-12"}
+{"document": "vorarbeiten-ausformulierung-kapitel-1-teil-1", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-12"}
+{"document": "vorarbeiten-ausformulierung-kapitel-1-teil-1", "page": "ueberwelt", "surface": "Simulation", "line": 31, "decision": "occurrence", "why": "Kael's unawareness of the simulation; light pass", "at": "2026-10-12"}
