@@ -1,0 +1,517 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag",
+  "drive_id": "15VgJBr-228Kj1N73DP0Kz_sg3_jDggHOTnNPJ8wtCcA",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 45,
+      "n_including_compounds": 45,
+      "lines": [
+        11,
+        15,
+        17,
+        21,
+        25,
+        27,
+        29,
+        31,
+        35,
+        37,
+        39,
+        41,
+        45,
+        49,
+        51,
+        53,
+        59,
+        61,
+        63,
+        65,
+        67,
+        69,
+        75,
+        77,
+        81,
+        85,
+        89,
+        95
+      ]
+    },
+    "Leere": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        15,
+        17,
+        25,
+        29,
+        31,
+        39,
+        49,
+        55,
+        85,
+        89
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        85
+      ]
+    },
+    "absolute Nichts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        21,
+        31,
+        35,
+        41,
+        45,
+        59,
+        75,
+        79,
+        87
+      ]
+    },
+    "Ursprungs-Ichs": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        35,
+        41,
+        75,
+        79
+      ]
+    },
+    "latenten Echos": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        45,
+        47
+      ]
+    },
+    "Echos": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        21,
+        31,
+        45,
+        47,
+        81,
+        93
+      ]
+    },
+    "Kohärenz": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        19,
+        21,
+        27,
+        37,
+        41,
+        53,
+        59,
+        67,
+        69,
+        73,
+        75,
+        79,
+        81,
+        85,
+        95
+      ]
+    },
+    "Kernlogik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Entität": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        23,
+        25,
+        27,
+        29,
+        31,
+        35,
+        37,
+        39,
+        45,
+        55,
+        65
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        73,
+        75
+      ]
+    },
+    "Stufe Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Partitionierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        75
+      ]
+    },
+    "Fragmentierung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        71,
+        75,
+        79,
+        91,
+        95
+      ]
+    },
+    "Neustart": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        75
+      ]
+    },
+    "Systemneustart": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Kael-Struktur": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        87,
+        89,
+        95
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        83,
+        87,
+        89,
+        95
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Quarantänezonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Kernparadoxons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Kontrollparadoxons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        95
+      ]
+    },
+    "minimales Selbst": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        93
+      ]
+    },
+    "Einsamkeit": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        31,
+        37,
+        49,
+        53,
+        81,
+        91
+      ]
+    },
+    "Verlust": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        31,
+        51,
+        53,
+        81,
+        89
+      ]
+    },
+    "Sehnsucht": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        31,
+        37,
+        53
+      ]
+    },
+    "Verwirrung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        93
+      ]
+    },
+    "Elimination": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Dekohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Ontologisch Inkompatibel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "epistemologische Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Sicht von außen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Entität & Begegnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "System Alarm: Paradox Engagiert": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Resonanz Kaskade: Das Ich Erwacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Kritischer Fehler: Chaos Entfesselt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Die Zäsur: Neustart und Fragmentierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Zersplitterte Dämmerung: Kael Erwacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Goodhart's Law": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        134
+      ]
+    },
+    "AI Trust Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Qualia": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        49,
+        93,
+        110,
+        113
+      ]
+    },
+    "Kaskadenversagen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Alterität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "autopoietisch": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        39
+      ]
+    },
+    "Theorie der strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "emotionale Teile (EPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Gedächtnis-Rekonsolidierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Netzwerksegmentierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "kosmischen Grauens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Homöostase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Dissoziation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        79,
+        91
+      ]
+    }
+  }
+}

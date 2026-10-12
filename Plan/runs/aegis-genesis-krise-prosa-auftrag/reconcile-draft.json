@@ -1,0 +1,122 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag",
+  "drive_id": "15VgJBr-228Kj1N73DP0Kz_sg3_jDggHOTnNPJ8wtCcA",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 55,
+    "decisions": 58,
+    "decided_by_lookup": 36,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        21,
+        35,
+        39,
+        41,
+        75
+      ],
+      "attribution": "",
+      "note": "AEGIS narrated through seven stages from defence against the Leere to a restart by amputation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        67
+      ],
+      "attribution": "",
+      "note": "entropy as the collapse's outcome"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        87,
+        89,
+        93,
+        95
+      ],
+      "attribution": "",
+      "note": "the Kael-Struktur stirs in the fragments after the restart"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "the fragments as the seed of the later Kernwelten"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        17,
+        37,
+        41,
+        69,
+        73,
+        81
+      ],
+      "attribution": "",
+      "note": "Kohärenz as AEGIS's directive, whose protection mechanism turns into its collapse"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "the Leere as a state, against which AEGIS defines itself"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "TSDP as the lens for the Ursprungs-Ich's awakening"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 67,
+      "decision": "reading",
+      "why": "entropy in the collapse, read if it adds"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

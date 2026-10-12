@@ -1,0 +1,246 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag",
+  "drive_id": "15VgJBr-228Kj1N73DP0Kz_sg3_jDggHOTnNPJ8wtCcA",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 100,
+  "backslash_escapes": 20,
+  "typographic_marks": 38,
+  "ascii_quotes": 28,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemfehler",
+      "Systemintegrität",
+      "Systemkollaps",
+      "Systemkollapses",
+      "Systemneustart",
+      "Systems"
+    ],
+    "daten": [
+      "Daten",
+      "Datencluster",
+      "Datenflüsse",
+      "Datenkorruption",
+      "Datenreste",
+      "Datenströme",
+      "Datenströmen"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentiertes",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissolving",
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "parad": [
+      "Paradies",
+      "Paradox",
+      "Paradoxes",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "erinn": [
+      "Erinnern",
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfetzen"
+    ],
+    "exist": [
+      "Existential",
+      "Existentialism",
+      "Existenz",
+      "Existenzgrund"
+    ],
+    "inter": [
+      "Interacting",
+      "Interaction",
+      "Interaktion",
+      "Internal"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Models"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokollausführung",
+      "Protokollen",
+      "Protokolls"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterlebens",
+      "Selbstgefühl",
+      "Selbstverstümmelung"
+    ],
+    "signa": [
+      "Signale",
+      "Signals",
+      "Signatur",
+      "Signaturen"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur",
+      "Architekturen"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungsanalyse"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent",
+      "Emergenzphänomen"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlerquellen"
+    ],
+    "grund": [
+      "Grundannahmen",
+      "Grundfesten",
+      "Grundlage"
+    ],
+    "inner": [
+      "Innere",
+      "Inneren",
+      "Innerhalb"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollparadoxons",
+      "Kontrollverlust"
+    ],
+    "reakt": [
+      "Reaktion",
+      "Reaktionen",
+      "Reaktivierung"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitätsverlust"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonant",
+      "Resonanz"
+    ],
+    "subsy": [
+      "Subsystem",
+      "Subsysteme",
+      "Subsystemen"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theorie",
+      "Theory"
+    ],
+    "verlo": [
+      "Verlorenem",
+      "Verlorenen",
+      "Verlorenseins"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dann",
+      "Grundannahmen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Dies",
+      "Paradies"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Eines"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Form",
+      "Longform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationsfelder"
+    ],
+    [
+      "Hart",
+      "Harte"
+    ],
+    [
+      "Hart",
+      "Goodhart"
+    ],
+    [
+      "Kern",
+      "Kernlogik"
+    ],
+    [
+      "Kern",
+      "Kernsystem"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernmaßnahme"
+    ],
+    [
+      "Kern",
+      "Kernprozesse"
+    ],
+    [
+      "Kern",
+      "Kernparadoxons"
+    ]
+  ]
+}
