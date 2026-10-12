@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -36,6 +36,10 @@ Each Kern-Welt names the Persona that primarily experiences it:
 are referenced as an external framework already known, and are used to describe
 a Guardian's *epistemology*, not a Persona. Seven occurrences, never defined
 here.
+
+## Reading — `entwickle-einen-neuen-plot-der-sich-ueber-13-kurz`, 2025-04-17, the Seelen-Kohärenz blueprint — personas as the blueprint's own episode figures
+
+The Seelen-Kohärenz blueprint proposes thirteen episodes in part 1, each giving a persona its own reality; its personas (`Der Architekt`, `Das Echo` and others) are its own early figures. The first plot point's task is „Vorstellung einer Persona und ihres Weltbilds“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L57]. In its review the reply asks „Wie erleben die Personas die Intervention in Teil“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L26] and „Sind sie passive Empfänger oder aktive Teilnehmer“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L26]. In part 2 „Die Hüter kommen zu dem Schluss, dass die Risse fundamental sind“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L164], and they decide to brief the personas and give them integration tools.
 
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
 
