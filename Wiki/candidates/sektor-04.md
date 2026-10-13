@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "dramatica-dual-storyform-mapping-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -46,6 +46,10 @@ Kap 24 places the rising temperature there: „Die Temperatur in Sektor 04 steig
 
 In one chapter Kael leaves the building and „bemerkt, dass Sektor 04 extrem detailarm und flach wirkt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L169]. In another he is „Zurück bei seiner vermeintlichen Arbeit in Sektor 04“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L355], where AEGIS renders the sector in detail again. Later he must flee „durch die engen Gassen von Sektor 04 vor heranrückenden AEGIS-Drohnen“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L809], and the Erasure-Sweep „bricht mit ohrenbetäubendem Lärm über Sektor 04 herein“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L941].
 
+## Reading — `dramatica-dual-storyform-mapping-protokoll`, 2026-04-30, the dual-storyform mapping report — the Bruch in Sektor 04 resolved as stabil integriert
+
+The dual-storyform mapping report records a conflict: „Ein signifikanter Konflikt besteht in der Bewertung des systemischen“ ^[dramatica-dual-storyform-mapping-protokoll.md:L63] Bruch in Sektor 04. Early PDFs, it says, describe the break as an unstable system error or as „Erzählloch“ ^[dramatica-dual-storyform-mapping-protokoll.md:L65]. Its resolution by the hierarchy: „ist der Bruch als stabil integriert zu betrachten“ ^[dramatica-dual-storyform-mapping-protokoll.md:L67].
+
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
 „Grenzbereich; erste Risse als geometrische Inkonsistenzen" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L155], `[K]`, anchored
@@ -78,3 +82,7 @@ So a zone at a border, where the laws already fail — the other sources' border
 Kapitel 4, „Die Treppe der Unvollständigkeit" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61]: „Kael wird zu Sektor 04 gerufen, um eine Anomalie zu untersuchen." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] „Er betritt ein Treppenhaus, das mathematisch korrekt erscheint, physikalisch jedoch eine unendliche Escher-Schleife bildet." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] — Gödel's first incompleteness theorem made physical: „Es existieren Wahrheiten innerhalb des Systems, die durch die Axiome der Stadt nicht beweisbar sind." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] He climbs it until his knees bleed: „bis seine Knie bluten" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L61] (C10 — this document's bleeding is knees, not knuckles, throughout).
 
 It is [[kael|Kael]]'s Kapitel 4, after Kapitel 1 in his Wohneinheit and Kapitel 2 at the Datenknotenpunkt Gamma-7; the document does not say it is the same day (see [[kaels-wohneinheit]], [[datenverarbeitungsknoten-7g]]). No world number stands on the line (`KW1` 0, `05-verify-readers.txt`); it is KW1 by the sequence.
+
+## Where the sources differ
+
+- The dual-storyform mapping report resolves the break in Sektor 04 as stabil integriert, not as a system error: „ist der Bruch als stabil integriert zu betrachten“ ^[dramatica-dual-storyform-mapping-protokoll.md:L67]
