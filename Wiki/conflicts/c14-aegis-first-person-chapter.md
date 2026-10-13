@@ -349,3 +349,11 @@ Stands as one more position in the record; it decides nothing.
 The primer's alter line ends with the POV rule: all thirteen alters in first person, and „AEGIS und Guardians in“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L379] third person. It names no chapter.
 
 Stands: one more position on the POV of AEGIS, the prompt's summary; nothing decided.
+
+## 2026-10-13 — `konsolidierung-des-hard-canon-protokolls`, 2026-03-31, the Hard-Canon masterfile
+
+**The Hard-Canon masterfile declares AEGIS, the Guardians and [[juna|Juna]] narrated in a distanced personal third person and the alters in the first person; it knows no AEGIS chapter in the first person.**
+
+It declares „Die 13 Kael-Alters erzählen in einer extrem polyphonen, emotional nahen“ ^[konsolidierung-des-hard-canon-protokolls.md:L23] first person, and „AEGIS, die Guardians und Juna werden in einer distanzierteren“ ^[konsolidierung-des-hard-canon-protokolls.md:L24] personal third person.
+
+Stands: one more position on the POV of AEGIS, a declaration of the masterfile; recorded, not applied; the record is decided.
