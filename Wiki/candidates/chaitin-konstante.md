@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 23
-readings: 22
+sources: 24
+readings: 23
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-architecture-synthesis", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie", "ui-konzept-fuer-roman-entwicklungssystem", "kohaerenz-protokoll-synthese", "roman-konzeptentwicklung-kohaerenz-protokoll"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-architecture-synthesis", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie", "ui-konzept-fuer-roman-entwicklungssystem", "kohaerenz-protokoll-synthese", "roman-konzeptentwicklung-kohaerenz-protokoll", "dramatica-dual-storyform-mapping-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -83,6 +83,10 @@ Kap 15 is titled `Die Chaitin-Konstante`; it plans „Entdeckung der irreduzible
 ## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — the constant found in the city's source code in Kapitel 19
 
 In its account of Phase II the synthesis says: „Kael entdeckt in Kapitel“ ^[romanprojekt-analyse-synthese.md:L56] 19 the Chaitin-Konstante, and calls it „eine irreduzible Zufälligkeit im Quellcode der Stadt“ ^[romanprojekt-analyse-synthese.md:L56]. The symbol after the name was lost in the export and is not supplied.
+
+## Reading — `dramatica-dual-storyform-mapping-protokoll`, 2026-04-30, the dual-storyform mapping report — Juna as the Chaitin constant in its Alternative 2
+
+In its Alternative 2 the dual-storyform mapping report writes: „Juna fungiert als die Chaitin-Konstante“ ^[dramatica-dual-storyform-mapping-protokoll.md:L155]; the symbol after the name is missing in the export. The constant forms, per the report, the fixed point as incompressible information in both of its storyforms. In its phase model the discovery of the constant stands in Kapitel 19–22: „Entdeckung der Chaitin-Konstante und des Landauer-Limits.“ ^[dramatica-dual-storyform-mapping-protokoll.md:L176]
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
