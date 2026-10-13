@@ -627,3 +627,11 @@ Stands: AEGIS from Kael; recorded, not applied and not decided.
 After AEGIS's own „Genesis-Krise“ ^[storyforms-system-mind-bewusstsein.md:L144] and spontaneous qualia misread as hostile system errors, AEGIS initiated the Trennungsprotokoll, „einen Akt der logischen Selbstverstümmelung“ ^[storyforms-system-mind-bewusstsein.md:L144], in which AEGIS's own „Ursprungs-Ich“ ^[storyforms-system-mind-bewusstsein.md:L144] was fragmented to excise the capacity to feel. The exegesis places the origin on the AEGIS side and does not write Kael as its source.
 
 Where it stands in the record's own terms: AEGIS's self-fragmentation as the origin of the Trennungsprotokoll; recorded, not applied and not decided.
+
+## 2026-10-13 — `aegis-seele-und-entropie`, 2025-04-21, the Seelenpaar report
+
+**The Seelenpaar report analyses a scenario in which Aegis, after failing to grasp a transcendent pair, isolates and fragments the soul; it names no Kael.**
+
+In the scenario the report analyses, Aegis answers the failed analysis and the reboot with „Isolation und Fragmentierung der Entropiequelle (der Seele)“ ^[aegis-seele-und-entropie.md:L138]. The fragmented soul is imagined with amnesia and longing: „Mögliche Amnesie oder fragmentierte Erinnerungen“ ^[aegis-seele-und-entropie.md:L171] and „tiefgreifender, unaufhörlicher Schmerz oder eine überwältigende Sehnsucht nach der verlorenen Hälfte“ ^[aegis-seele-und-entropie.md:L170]. The other fragment is asked about as possibly „stärker beschädigt, vielleicht tiefer in Aegis' System isoliert“ ^[aegis-seele-und-entropie.md:L193]. The report offers these as options and writes no Kael as one of the fragments.
+
+Where it stands in the record's own terms: a scenario of an origin by fragmentation, with Aegis as agent; recorded, not applied and not decided.
