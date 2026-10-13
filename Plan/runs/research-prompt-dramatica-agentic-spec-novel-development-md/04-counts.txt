@@ -1,0 +1,85 @@
+# counts for 57 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  ReAct                             4 word     7 in   [23, 246, 248, 252, 256, 368]
+                                    1      as ReAct-Framework
+                                    1      as ReAct-Zyklus
+                                    1      as ReAct-Spine
+  DRACO                             9 word    28 in   [23, 276, 324, 354, 356, 360]  <-- substring
+                                    7      as DRACO-A
+                                    3      as DRACO-Komponente
+                                    3      as DRACO-R
+                                    2      as DRACO-D
+  Decompose                         4 word     4 in   [24, 372, 772, 1137]
+                                    1      as decomposed
+  Reconcile                         4 word     4 in   [25, 428, 772, 1211]
+                                    1      as reconciled
+  Architect                         4 word    11 in   [26, 188, 464, 472, 772, 903]  <-- substring
+                                    4      as Architectural
+                                    2      as Architectures
+                                    1      as architectural
+                                    1      as Architecture
+  Contradiction-handling            4 word     4 in   [27, 548, 772, 1522]
+  Operationalize                    4 word     4 in   [28, 592, 772, 1542]
+  Architectural Decision Record     2 word     4 in   [188, 464, 1213, 1619]
+  Reflection Baseline               3 word     3 in   [31, 834, 1716]
+  Adversarial Query Expansion       5 word     5 in   [23, 308, 352, 1075, 1717]
+  Pre-Mortem Analysis               2 word     2 in   [20, 994]
+  Red Team                          5 word     5 in   [21, 240, 905, 1021, 1719]
+  First-Principles Decomposition    2 word     2 in   [22, 1048]
+  Falsification                     5 word     6 in   [19, 905, 967, 1253, 1679, 1719]
+                                    1      as Falsifications-Audit
+  Surviving-Branch Triangulation    4 word     4 in   [29, 1174, 1647, 1718]
+  Hypothesis Half-Life Audit        4 word     4 in   [30, 1200, 1651, 1718]
+  Pre-Synthesis Integrity Check     4 word     4 in   [316, 847, 1125, 1724]
+  Single-Artifact-Mandat            5 word     5 in   [36, 794, 951, 1703]
+  Methodology Appendix              3 word     3 in   [1615, 1703, 1725]
+  Spec-Quality-Invarianten          2 word     4 in   [35, 931, 1578, 1721]
+                                    2      as Spec-Quality-Invarianten-Audit
+  Coherence-Invarianten             6 word     6 in   [15, 480, 790, 943, 1508]
+  Clarifying-Question-Protokoll     6 word     7 in   [15, 524, 620, 756, 792, 945]
+                                    1      as Clarifying-Question-Protokolle
+  Clarifying-Question Protocol      1 word     1 in   [1440]
+  Phase-Transition-Contracts        5 word     5 in   [604, 789, 946, 1046, 1548]
+  Working-State-Schema              2 word     3 in   [532, 756, 1556]
+                                    1      as Working-State-Schemas
+  Working-State Schema              1 word     1 in   [1488]
+  Phase-Definitions                 3 word     3 in   [476, 528, 1456]
+  Choice-Space                      1 word     2 in   [504, 1376]
+                                    1      as Choice-Space-Schema
+  Interaction-Constraints           1 word     2 in   [508, 1384]
+                                    1      as Interaction-Constraints-Schema
+  Failure-Modes Catalog             1 word     1 in   [1496]
+  Regression-Checks                 2 word     2 in   [544, 1504]
+  Self-Verification Test Suite      1 word     1 in   [1512]
+  Query Expansion Log               5 word     5 in   [44, 818, 1113, 1635, 1725]
+  Contradiction Log                 5 word     5 in   [44, 818, 957, 1671, 1725]
+  Reflection History                4 word     4 in   [44, 818, 1627, 1725]
+  Strukturelle Contradictions       3 word     3 in   [560, 1424, 1528]
+  Inhaltliche Contradictions        2 word     2 in   [1428, 1532]
+  Pragmatische Contradictions       3 word     3 in   [572, 1432, 1536]
+  BLOCKER                           6 word     6 in   [584, 791, 1412, 1528, 1532, 1536]
+  Dramatica                        21 word    40 in   [15, 24, 29, 42, 64, 208]
+                                    5      as Dramatica-Theorie
+                                    3      as Dramatica-Primärquellen
+                                    2      as Dramatica-basierte
+                                    2      as Dramatica-Schichten
+  Story Mind                        2 word     2 in   [452, 788]
+  Throughlines                      5 word     5 in   [560, 788, 1388, 1528]
+  Concerns                          2 word     2 in   [788, 1388]
+  Quad-Modell                       1 word     1 in   [788]
+  Story Driver                      1 word     1 in   [788]
+  Story Limit                       1 word     1 in   [788]
+  Story Outcome                     2 word     2 in   [788, 1054]
+  Story Judgment                    1 word     1 in   [788]
+  Story Goal                        7 word     7 in   [576, 788, 1019, 1105, 1536]
+  Grand Argument                    2 word     2 in   [788, 1536]
+  Author's Audience                 1 word     1 in   [788]
+  Author's Argument                 1 word     1 in   [788]
+  Plot Sequencing                   1 word     1 in   [788]
+  Story Logic                       1 word     1 in   [788]
+  Story Feeling                     1 word     1 in   [788]
+  Signposts                         2 word     2 in   [788, 1073]
+  Journeys                          2 word     2 in   [788, 1073]

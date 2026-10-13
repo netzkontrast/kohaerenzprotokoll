@@ -1,0 +1,14 @@
+# research-prompt-dramatica-agentic-spec-novel-development-md
+  lines                1738  (frontmatter ends at 9)
+  body words           6735
+  headings             32   bold-only lines 15
+  table rows           13   code fences 0
+  question marks       44
+  backslash escapes    443
+  typographic marks    158   ascii quotes 204
+  invisible characters none
+  math symbol lines    11
+  glued ref numbers    40
+  repeated labels      How to apply it — step by step x5, What it is x5, When to stop / escape criterion x5, Why it is in this prompt x5, Example trigger in this research context x4
+  longest line         777 chars
+
