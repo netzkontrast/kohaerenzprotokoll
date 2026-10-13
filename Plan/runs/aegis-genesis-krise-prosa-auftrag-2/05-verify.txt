@@ -1,0 +1,75 @@
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Definition"
+`Definition` ^[aegis-genesis-krise-prosa-auftrag-2.md:#47]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Relevanz"
+`Relevanz` ^[aegis-genesis-krise-prosa-auftrag-2.md:#51]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Cluster"
+`Cluster` ^[aegis-genesis-krise-prosa-auftrag-2.md:#76]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Ursprungs-Ichs"
+`Ursprungs-Ichs` ^[aegis-genesis-krise-prosa-auftrag-2.md:#18]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Fehlausgerichtete Kohärenz"
+`Fehlausgerichtete Kohärenz` ^[aegis-genesis-krise-prosa-auftrag-2.md:#7]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Kohärenz durch Entfremdung"
+`Kohärenz durch Entfremdung` ^[aegis-genesis-krise-prosa-auftrag-2.md:#2]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Wissen durch Vereinfachung"
+`Wissen durch Vereinfachung` ^[aegis-genesis-krise-prosa-auftrag-2.md:#2]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Kontrolle durch Destabilisierung"
+`Kontrolle durch Destabilisierung` ^[aegis-genesis-krise-prosa-auftrag-2.md:#2]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Autopoietische Isolation"
+`Autopoietische Isolation` ^[aegis-genesis-krise-prosa-auftrag-2.md:#6]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Kael-Entität"
+`Kael-Entität` ^[aegis-genesis-krise-prosa-auftrag-2.md:#1]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Kapitel"
+`Kapitel` ^[aegis-genesis-krise-prosa-auftrag-2.md:#0]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Kap"
+`Kap` ^[aegis-genesis-krise-prosa-auftrag-2.md:#0]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Ursprungs-Ich"
+`Ursprungs-Ich` ^[aegis-genesis-krise-prosa-auftrag-2.md:#21]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Leere"
+`Leere` ^[aegis-genesis-krise-prosa-auftrag-2.md:#45]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Entität"
+`Entität` ^[aegis-genesis-krise-prosa-auftrag-2.md:#62]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Sicht von außen"
+`Sicht von außen` ^[aegis-genesis-krise-prosa-auftrag-2.md:#3]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Entität & Begegnung"
+`Entität & Begegnung` ^[aegis-genesis-krise-prosa-auftrag-2.md:#2]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Katastrophe & Interne Kaskade"
+`Katastrophe & Interne Kaskade` ^[aegis-genesis-krise-prosa-auftrag-2.md:#2]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Reboot & Partitionierung"
+`Reboot & Partitionierung` ^[aegis-genesis-krise-prosa-auftrag-2.md:#3]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Erwachen von Kael"
+`Erwachen von Kael` ^[aegis-genesis-krise-prosa-auftrag-2.md:#3]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Genesis-Krise"
+`Genesis-Krise` ^[aegis-genesis-krise-prosa-auftrag-2.md:#27]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Kohärenz Protokolls"
+`Kohärenz Protokolls` ^[aegis-genesis-krise-prosa-auftrag-2.md:#6]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Prosa-Auftrag"
+`Prosa-Auftrag` ^[aegis-genesis-krise-prosa-auftrag-2.md:#1]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Kohärenzprotokolle"
+`Kohärenzprotokolle` ^[aegis-genesis-krise-prosa-auftrag-2.md:#1]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-2 --count "Fehlausgerichteten Kohärenz"
+`Fehlausgerichteten Kohärenz` ^[aegis-genesis-krise-prosa-auftrag-2.md:#5]
+$ stance_marker_count 98 = Definition 47 + Relevanz 51
+$ grep -c "^| [0-9]* | " (table rows of the forty topic fields)
+40
+$ grep -c "^\*\*[A-G]\. Cluster [1-7]:" (cluster headings)
+7
+$ sed -n 619,626p (checklist bullets, count)
+6
+$ grep -c "^[0-9]\.  \*\*Schritt" ... steps of the plan L549-555 and commission L604-610
+7
+7
+$ grep -c "<!-- end list -->"
+81
+$ grep -c "^1\.  \*\*" (numbered items all written as 1.)
+43
+$ grep -n "Paradox 1\|Paradox 3" | cut -c1-8
+68:  - *
+149:  - 
+$ candidates counted
+# counts for 60 candidates
+# line numbers are FILE lines, as a citation writes them
+
+$ task-confirmation list items (L23 to L26)
+4
+$ sed -n 36,392p | grep -c "^1\.  \*\*"  -> topic items written as 1.
+40

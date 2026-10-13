@@ -1,0 +1,128 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag-2",
+  "drive_id": "1nwQNTfuwN6I8PsHKyB7ebtaHwnByyGxyxG2h-VNtzVE",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-13, from the full-ingest task with no count before the list — the list's prose named two real thinkers, reworded by the session after the count, the entries untouched; rlm_ingest not run; light pass — a version of the AEGIS Genesis-Krise prompt already read; readings on kael and alters and one C16 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-419/brief.md, 2026-10-13; the document was first held back by a privacy screen on the abbreviation DIS and released when it proved to be a work order with no personal material",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 60,
+    "decisions": 65,
+    "decided_by_lookup": 44,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A longer version of the AEGIS Genesis-Krise prompt already read: its surfaces are its own labels and borrowed theory fields; what it adds — the Ursprungs-Ich splitting into alters with Kael one of them, and the awakening of the Kael-Fragment — went on kael, alters and C16; the rest stands with the read versions.",
+  "new_readings": [
+    {
+      "page": "alters",
+      "lines": [
+        266
+      ],
+      "attribution": "",
+      "note": "the Ursprungs-Ich falling into several alters"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        266,
+        554,
+        555,
+        610
+      ],
+      "attribution": "",
+      "note": "Kael as one alter of the Ursprungs-Ich, and the last step of the commission"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a light pass on a version of a prompt already read: the read versions' decisions stand",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 265,
+      "decision": "reading",
+      "why": "the Ursprungs-Ich splitting into alters, read on the page (L266)"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 724,
+      "decision": "occurrence",
+      "why": "a reference-list title"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 32,
+      "decision": "occurrence",
+      "why": "emergence in the theory table"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 72,
+      "decision": "occurrence",
+      "why": "entropy in the theory table"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "coherence in the general sense"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 494,
+      "decision": "occurrence",
+      "why": "a level of reality in the general sense"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 576,
+      "decision": "occurrence",
+      "why": "glitches in the prose plan; light pass"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 54,
+      "decision": "occurrence",
+      "why": "the theory field; light pass, the read versions stand"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 126,
+      "decision": "occurrence",
+      "why": "simulation in the theory table's general sense"
+    }
+  ],
+  "not_promoted": [
+    "Ursprungs-Ich, Kael-Fragment, Fehlausgerichtete Kohärenz, Wissen durch Vereinfachung, Kontrolle durch Destabilisierung, Autopoietische Isolation, Erwachen von Kael, and the borrowed concepts"
+  ],
+  "internal_tension": "it gives a second name, „Kohärenz durch Entfremdung“, for its central paradox and leaves open whether that is one paradox or two (L26); recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

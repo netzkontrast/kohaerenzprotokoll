@@ -1,0 +1,14 @@
+# aegis-genesis-krise-prosa-auftrag-2
+  lines                774  (frontmatter ends at 9)
+  body words           12627
+  headings             13   bold-only lines 17
+  table rows           42   code fences 0
+  question marks       66
+  backslash escapes    0
+  typographic marks    54   ascii quotes 179
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    304
+  repeated labels      Begründung x7, Relevanz für die Genesis-Krise x7, Zentrale Fragestellung x7, Zusammensetzung x7, Umsetzung x5, Ziel x5
+  longest line         1352 chars
+
