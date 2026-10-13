@@ -711,3 +711,11 @@ Festgehalten, nicht angewandt; die Frage bleibt offen.
 It says „The connection between Kael and Juna/V is a subtle, non-local resonance called the“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L113] `Moonshine-Link`, running „It is a whisper in the code, a pattern in the noise that connects them across worlds.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L113] Toward AEGIS: „Its sensors are built to detect local, predictable data, so it perceives the profound effects of the Moonshine-Link only as random system noise or statistical errors.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L115] What crosses: „The link does not give Kael answers or rescue him from his plight.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L117] and it gives „direct, intuitive insight“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L117]. The guide does not say who inside Kael's system feels it.
 
 Recorded, not applied; the question stays open.
+
+## 2026-10-13 — `konsolidierung-des-hard-canon-protokolls`, 2026-03-31, the Hard-Canon masterfile
+
+**The Hard-Canon masterfile declares the Moonshine-Link's authority to come from a bond of Juna and Kael from before the system's genesis: a link of the two, not universal.**
+
+It says Juna is „Juna ist eine externe Kraft (Anomalie)“ ^[konsolidierung-des-hard-canon-protokolls.md:L14] with a „prä-existente ontologische Bindung“ ^[konsolidierung-des-hard-canon-protokolls.md:L14] to Kael, and that this gives the link its „unauslöschliche, fast kosmische Autorität“ ^[konsolidierung-des-hard-canon-protokolls.md:L14].
+
+Stands: the link as a bond of two; recorded, not applied; the question stays open.
