@@ -1,0 +1,239 @@
+{
+  "document": "storyforms-system-mind-bewusstsein",
+  "drive_id": "17xR6Ldf52qlbn0juMN495K7UCOLbZrRWsitv1WKeX9o",
+  "step": "probes",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 6,
+  "backslash_escapes": 135,
+  "typographic_marks": 123,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemanforderungen",
+      "Systemarchitektur",
+      "Systemfehler",
+      "Systemfähigkeit",
+      "Systemische",
+      "Systemkohärenz",
+      "Systemmanipulation",
+      "Systems"
+    ],
+    "infor": [
+      "Information",
+      "Informationslöschung",
+      "Informationstiefe",
+      "Informationsvektoren",
+      "Informationsverarbeitungsprozesse",
+      "Informationsverlust"
+    ],
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charaktere"
+    ],
+    "ereig": [
+      "Ereignis",
+      "Ereignisdaten",
+      "Ereignisfluss",
+      "Ereignisse"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerhafte",
+      "Fehlern",
+      "Fehlerprotokolle"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsebene",
+      "Handlungslinien"
+    ],
+    "inter": [
+      "Interface",
+      "Interpretation",
+      "Interpreting",
+      "Intervallen"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "psych": [
+      "Psychologie",
+      "Psychologische",
+      "Psychologisches",
+      "Psychology"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumastrukturen",
+      "Traumata"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungsdynamik",
+      "Beziehungsgeflecht"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzfläche",
+      "Grenzphänomen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktlösungen"
+    ],
+    "lösch": [
+      "Löschaufwand",
+      "Löschdruck",
+      "Löschung"
+    ],
+    "parad": [
+      "Paradigmenwechsel",
+      "Paradoxie",
+      "Paradoxien"
+    ],
+    "poten": [
+      "Potentiality",
+      "Potenzial",
+      "Potenzials"
+    ],
+    "probl": [
+      "Problem",
+      "Problemlöser",
+      "Problems"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebene",
+      "Realitätsfeldes"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen"
+    ],
+    "sympt": [
+      "Symptom",
+      "Symptomatik",
+      "Symptome"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorie",
+      "Theory"
+    ],
+    "therm": [
+      "Thermodynamik",
+      "Thermodynamische",
+      "Thermodynamischer"
+    ],
+    "unive": [
+      "Universe",
+      "Universum",
+      "Universums"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "FAIL",
+      "Failure"
+    ],
+    [
+      "Feld",
+      "Feldlatenz"
+    ],
+    [
+      "Feld",
+      "Realitätsfeldes"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Zustandsform"
+    ],
+    [
+      "Form",
+      "Daseinsformen"
+    ],
+    [
+      "Form",
+      "Informationstiefe"
+    ],
+    [
+      "Form",
+      "Informationsverlust"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Informationsvektoren"
+    ],
+    [
+      "Form",
+      "Transformationsprozess"
+    ],
+    [
+      "Form",
+      "Informationsverarbeitungsprozesse"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kerns"
+    ]
+  ]
+}
