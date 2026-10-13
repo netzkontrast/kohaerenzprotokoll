@@ -1,0 +1,82 @@
+# counts for 68 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  System Kael                      11 word    11 in   [32, 110, 129, 143, 192, 210]
+  AEGIS                            16 word    17 in   [110, 143, 210, 212, 277, 279]
+                                    1      as AEGIS-Systems
+  Kernwelten                        6 word     6 in   [110, 129, 192, 410, 414]
+  Kohärenz Protokoll               11 word    11 in   [210, 277, 322, 324, 410, 412]
+  Nichts Rauschen                   2 word     2 in   [277, 418]
+  Das Fundament                     6 word     6 in   [410, 414, 422, 424, 434, 458]
+  Juna/V Verbindung                 1 word     1 in   [143]
+  Anscheinend Normalen Persönlichkeitsanteile    1 word     1 in   [192]
+  ANPs                              1 word     1 in   [192]
+  Emotionalen Persönlichkeitsanteile    1 word     1 in   [192]
+  EPs                               1 word     1 in   [192]
+  TSDP                              3 word     6 in   [129, 322, 410, 414, 420, 504]
+                                    3      as TSDP-Analyse
+  Paradoxon der fehlausgerichteten Kohärenz    1 word     1 in   [110]
+  Riss                              1 word     1 in   [129]
+  Kael                             21 word    28 in   [32, 110, 129, 143, 192, 210]
+                                    7      as Kaels
+  Kaels                             7 word     7 in   [129, 192, 212, 277, 412, 416]
+  Lex                               1 word     3 in   [36, 40, 192]  <-- substring
+  Nyx                               1 word     1 in   [192]
+  Kiko                              1 word     1 in   [192]
+  Host                              1 word     1 in   [192]
+  Analytiker                        1 word     1 in   [192]
+  Kämpfer                           1 word     1 in   [192]
+  Kind/Angst                        1 word     1 in   [192]
+  Storyform                        76 word   112 in   [22, 24, 48, 50, 60, 62]
+                                   36      as Storyforms
+  Storyforms                       36 word    36 in   [22, 24, 60, 62, 89, 101]
+  Meta-Erzählung                   23 word    24 in   [22, 97, 106, 108, 110, 139]
+                                    1      as Meta-Erzählungen
+  narrative Knotenpunkt             2 word     2 in   [247, 251]
+  Nodal Point                       1 word     1 in   [251]
+  Narrative Interferenz             1 word     1 in   [120]
+  Narrative Verschränkung           1 word     1 in   [125]
+  Konstruktive Interferenz          1 word     1 in   [122]
+  Destruktive Interferenz           1 word     1 in   [123]
+  Negative Feedbackschleife         1 word     1 in   [103]
+  Positive Feedbackschleife         1 word     1 in   [104]
+  emergente Eigenschaft             2 word     2 in   [97, 106]
+  regelsetzendes System             2 word     2 in   [243, 267]
+  Auslösende Ereignis               1 word     1 in   [255]
+  Wendepunkt in der Mitte           1 word     1 in   [257]
+  Großes Argument                   1 word     1 in   [22]
+  entscheidenden Elements           1 word     1 in   [259]
+  Autopoiesis                      14 word    14 in   [24, 44, 48, 99, 150, 344]
+  kybernetische Feedbackschleifen    3 word     3 in   [24, 50, 101]
+  Welleninterferenz                 3 word     3 in   [26, 60, 120]
+  Quantenverschränkung              8 word     8 in   [26, 62, 125, 152, 360, 362]
+  Beobachtereffekt                  5 word     5 in   [66, 127, 364, 477]
+  Superposition                     2 word     2 in   [66, 127]
+  Rhizoms                           3 word     3 in   [74, 141, 440]
+  Polyphonie                        7 word     8 in   [13, 139, 378, 380, 442, 482]
+                                    1      as Polyphonie_
+  Persona                          11 word    13 in   [172, 174, 175, 190, 192, 222]
+                                    1      as Persona-Geschichte
+                                    1      as Persona-Helden
+  Schattens                         3 word     3 in   [172, 386, 444]
+  Individuation                     1 word     1 in   [177]
+  Spiegelstadium                    3 word     4 in   [179, 446]
+                                    1      as Spiegelstadiums
+  Selbstentfremdung                 2 word     2 in   [181, 446]
+  Ideal-Ich                         2 word     2 in   [186, 190]
+  These                            12 word    12 in   [196, 204, 205, 206, 208, 210]
+  Antithese                         9 word     9 in   [196, 205, 206, 212, 222, 231]
+  Synthese                          9 word     9 in   [24, 196, 206, 208, 214, 300]
+  Dynamische Paar                   1 word     1 in   [226]
+  Quads                             1 word     1 in   [224]
+  Dramatica-Theorie                 4 word     4 in   [22, 222, 287, 406]
+  Systemtheorie                     7 word     7 in   [24, 76, 89, 150, 302, 330]
+  Throughlines                      7 word     7 in   [22, 287, 298, 300, 302, 406]
+  Overall Story                     2 word     2 in   [22, 291]
+  Main Character                    2 word     2 in   [22, 292]
+  Impact Character                  2 word     2 in   [22, 293]
+  Subjective Story                  2 word     2 in   [22, 294]
+  Grand Argument Story              2 word     2 in   [22, 289]
+  Crucial Element                   1 word     1 in   [259]

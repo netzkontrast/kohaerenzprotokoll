@@ -1,0 +1,174 @@
+{
+  "document": "multidimensionale-narrative-strukturmodelle-entwickeln",
+  "drive_id": "19pfzfn_UrPKeFTkCypw7hJood9dSAidQKXFJxAndIS0",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-13, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-411/brief.md, 2026-10-13, from the case-study lines only; the document was first held back by a privacy screen on the word „Paar“ and released when the hit proved to be Dramatica's dynamic pair",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 68,
+    "decisions": 68,
+    "decided_by_lookup": 57,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report building a general model for parallel storyforms from borrowed theories and using „System Kael“ as its case study: its new surfaces are the model's terms and borrowed concepts; what its case study reads of AEGIS, Kael, Lex, Nyx, Kiko, the Kernwelten, the Nichts-Rauschen, the TSDP, Juna and the Risse went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        110,
+        210,
+        277,
+        279
+      ],
+      "attribution": "",
+      "note": "AEGIS as the controlling meta-narrative of a case study"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        143
+      ],
+      "attribution": "",
+      "note": "the Juna/V connection as a rhizomatic function"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        129,
+        192,
+        212,
+        277,
+        279
+      ],
+      "attribution": "",
+      "note": "Kael as the illustration of integration and the persona-shadow model"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        110,
+        192
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as autopoietic storyforms"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        192
+      ],
+      "attribution": "",
+      "note": "Kiko as shadow in the case study"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        192
+      ],
+      "attribution": "",
+      "note": "Lex among the personas of the case study"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        277
+      ],
+      "attribution": "",
+      "note": "the origin of AEGIS in the case study"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        192
+      ],
+      "attribution": "",
+      "note": "Nyx as shadow in the case study"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        129
+      ],
+      "attribution": "",
+      "note": "a rift healed by an inner breakthrough"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        129
+      ],
+      "attribution": "",
+      "note": "TSDP as the basis of Kael's integration"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` and `Kaels` read on kael; `Juna/V Verbindung` read on juna; `Riss` read on risse; `Paradoxon der fehlausgerichteten Kohärenz` and `Kohärenz Protokoll` read on aegis; `Persona` the borrowed depth-psychological sense, not the personas page; `These`, `Antithese`, `Synthese` the dialectic's terms",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 74,
+      "decision": "occurrence",
+      "why": "emergence in the report's general sense"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 110,
+      "decision": "occurrence",
+      "why": "what AEGIS calls the Kernwelten's functions, read on aegis"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 318,
+      "decision": "occurrence",
+      "why": "a source-list title"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 143,
+      "decision": "reading",
+      "why": "the Juna/V Verbindung as a rhizomatic function, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 48,
+      "decision": "occurrence",
+      "why": "coherence in the general sense of autopoietic systems"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 326,
+      "decision": "occurrence",
+      "why": "a source-list title"
+    }
+  ],
+  "not_promoted": [
+    "System Kael, Paradoxon der fehlausgerichteten Kohärenz, Juna/V Verbindung, Meta-Erzählung, Storyform, the dialectic's terms, Das Fundament, and the borrowed concepts"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

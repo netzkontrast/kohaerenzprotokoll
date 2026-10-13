@@ -1,0 +1,14 @@
+# multidimensionale-narrative-strukturmodelle-entwickeln
+  lines                508  (frontmatter ends at 9)
+  body words           6901
+  headings             21   bold-only lines 0
+  table rows           8   code fences 0
+  question marks       33
+  backslash escapes    37
+  typographic marks    179   ascii quotes 4
+  invisible characters U+0308x2
+  math symbol lines    0
+  glued ref numbers    58
+  repeated labels      none
+  longest line         1160 chars
+
