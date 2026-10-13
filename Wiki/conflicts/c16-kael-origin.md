@@ -643,3 +643,11 @@ Where it stands in the record's own terms: a scenario of an origin by fragmentat
 In the arc's last stage the Ursprungs-Ich has vanished or changed, and „Kael (und potenziell andere Fragmente) tritt als distinkte Entität hervor“ ^[aegis-genesis-krise-konzeptioneller-rahmen.md:L705]. The commission to a writer names the same goal: the encounter in the Leere leads to the protocol's activation, the fragmentation of the Ursprungs-Ich and „der Emergenz des Kael-Fragments“ ^[aegis-genesis-krise-konzeptioneller-rahmen.md:L752]. The framework places the origin on the AEGIS side, as a split self, and proposes it as a plan for prose.
 
 Where it stands in the record's own terms: Kael from AEGIS's split self, as a proposal of a concept plan; recorded, not applied and not decided.
+
+## 2026-10-13 — `aegis-genesis-krise-prosa-auftrag-2`, 2025-04-29, the second Genesis-Krise work order
+
+**The second Genesis-Krise work order proposes that Kael comes from the split of AEGIS's own Ursprungs-Ich: one of several alters, and the fragment whose awakening ends the commission.**
+
+In a theory field the work order proposes that the Ursprungs-Ich „Das Ursprungs-Ich könnte in mehrere distinkte“ ^[aegis-genesis-krise-prosa-auftrag-2.md:L266] alters fall apart, and names Kael „(Kael ist einer davon)“ ^[aegis-genesis-krise-prosa-auftrag-2.md:L266]. The commission ends with the seventh step, which asks for „Enger Fokus auf das entstehende Kael-Fragment“ ^[aegis-genesis-krise-prosa-auftrag-2.md:L555], after a sixth step that describes the partitioning as „eine erzwungene Amnesie/Dissoziation“ ^[aegis-genesis-krise-prosa-auftrag-2.md:L554]. The origin lies on the AEGIS side, as a split self, and is a plan for prose.
+
+Where it stands in the record's own terms: Kael from AEGIS's split self, as a proposal of a work order; recorded, not applied and not decided.
