@@ -1,0 +1,252 @@
+{
+  "document": "primzahlen-als-metapher-in-kohaerenz-protokoll",
+  "drive_id": "1Pe92R6_mYAley55hM0kjnBt2W8gBql3IaAmE6vxFIN4",
+  "step": "probes",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 2
+  },
+  "glued_ref_numbers": 80,
+  "backslash_escapes": 42,
+  "typographic_marks": 38,
+  "ascii_quotes": 8,
+  "inflection_families": {
+    "primz": [
+      "Primzahl",
+      "Primzahlen",
+      "Primzahllücken",
+      "Primzahlsatz",
+      "Primzahlsatzes",
+      "Primzahltest",
+      "Primzahltests",
+      "Primzahlverteilung",
+      "Primzahlzwillinge",
+      "Primzahlzwillingen"
+    ],
+    "fakto": [
+      "Faktor",
+      "Faktoren",
+      "Faktorisierung",
+      "Faktorisierungsalgorithmen",
+      "Faktorisierungsproblem",
+      "Faktorisierungsschwierigkeit",
+      "Faktorisierungsversuche"
+    ],
+    "funda": [
+      "Fundament",
+      "Fundamental",
+      "Fundamentale",
+      "Fundamentalen",
+      "Fundamentalität",
+      "Fundamentalsatz"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorisch",
+      "Metaphorische",
+      "Metaphorischer",
+      "Metaphorisches"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionelle"
+    ],
+    "poten": [
+      "Potentialmeer",
+      "Potenzial",
+      "Potenzials",
+      "Potenzielle",
+      "Potenziellen"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakteren",
+      "Charakterisierung",
+      "Charakters"
+    ],
+    "eleme": [
+      "Element",
+      "Elementary",
+      "Elemente",
+      "Elementen"
+    ],
+    "erklä": [
+      "Erklärdialogen",
+      "Erklärt",
+      "Erklärung",
+      "Erklärungen"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifizierung",
+      "Identität",
+      "Identitäten"
+    ],
+    "kerne": [
+      "Kerne",
+      "Kerneigenschaft",
+      "Kerneigenschaften",
+      "Kernelemente"
+    ],
+    "konst": [
+      "Konstanten",
+      "Konstruierbarkeit",
+      "Konstrukt",
+      "Konstrukte"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollstreben",
+      "Kontrollsysteme"
+    ],
+    "mathe": [
+      "Mathematics",
+      "Mathematik",
+      "Mathematische",
+      "Mathematisches"
+    ],
+    "baust": [
+      "Bausteine",
+      "Bausteinen",
+      "Bausteinfunktion"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "gehei": [
+      "Geheimnis",
+      "Geheimnisse",
+      "Geheimnissen"
+    ],
+    "geset": [
+      "Gesetze",
+      "Gesetzen",
+      "Gesetzmäßigkeit"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten"
+    ],
+    "krypt": [
+      "Kryptographie",
+      "Kryptographische",
+      "Kryptosysteme"
+    ],
+    "mögli": [
+      "Mögliche",
+      "Möglichkeit",
+      "Möglichkeitsraum"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenen"
+    ],
+    "primf": [
+      "Primfaktoren",
+      "Primfaktorisierungsmetapher",
+      "Primfaktorzerlegung"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebenen",
+      "Realitätsstruktur"
+    ],
+    "riema": [
+      "Riemann",
+      "Riemannsche",
+      "Riemannschen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Book",
+      "Textbook"
+    ],
+    [
+      "Book",
+      "Bookshelves"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Bausteinen"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formeln"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Grad",
+      "Seltenheitsgrade"
+    ],
+    [
+      "Idee",
+      "Ideen"
+    ],
+    [
+      "Info",
+      "Informationen"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kerne"
+    ],
+    [
+      "Kern",
+      "Kernlogik"
+    ],
+    [
+      "Kern",
+      "Kernnatur"
+    ],
+    [
+      "Kern",
+      "Kernwesen"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ]
+  ]
+}

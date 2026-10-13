@@ -1,0 +1,49 @@
+# counts for 34 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            42 word    42 in   [23, 25, 44, 49, 69, 74]
+  M/Kael/Juna                       1 word     1 in   [24]
+  M                                43 word   207 in   [11, 17, 24, 25, 26, 28]  <-- substring
+  Kael                             21 word    30 in   [24, 54, 69, 74, 85, 89]
+                                    3      as Kael-Juna
+                                    3      as Kaels
+                                    3      as Kael-Juna-Beziehung
+  Juna                             13 word    21 in   [24, 69, 85, 95, 98, 112]
+                                    2      as Junas
+  Kael/Juna                         6 word     6 in   [24, 85, 95, 210, 229]
+  Kael-Juna                         3 word     6 in   [69, 98, 123, 198, 210, 228]
+                                    3      as Kael-Juna-Beziehung
+  K-J                               2 word     2 in   [24, 98]
+  Monstergruppe                     3 word     3 in   [24, 26, 148]
+  M-Gruppe                          2 word     2 in   [87, 90]
+  Baby-Monster                      1 word     1 in   [24]
+  Moonshine                        13 word    13 in   [24, 26, 92, 99, 114, 148]
+  Simplicity                        3 word     3 in   [26, 90, 96]
+  Complexity                        1 word     1 in   [26]
+  Kernkonflikt                      3 word     4 in   [25, 113, 210, 241]
+                                    1      as Kernkonflikten
+  Potentialmeer                     5 word     5 in   [88, 93, 181]
+  Kernwelten                        2 word     2 in   [88, 93]
+  Potentialmeer / Kernwelten        1 word     1 in   [93]
+  Kernlogik                         1 word     1 in   [86]
+  Fehlklassifikation                1 word     1 in   [97]
+  Primzahl-Metapher                14 word    14 in   [11, 110, 131, 143, 148, 152]
+  Primzahlzwillinge                 3 word     4 in   [62, 69, 98, 210]
+                                    1      as Primzahlzwillingen
+  Twin Primes                       2 word     2 in   [155, 228]
+  Twin-Prime                        1 word     3 in   [123, 136, 155]  <-- substring
+                                    1      as Twin-Prime-Metapher
+                                    1      as Twin-Prime-Analogie
+  Mersenne-Primzahlen               2 word     2 in   [63, 69]
+  Fermat-Primzahlen                 4 word     4 in   [64, 69, 99]
+  Unteilbarkeit / Atomizität        2 word     2 in   [36, 85]
+  Faktorisierungsschwierigkeit      4 word     4 in   [174, 194, 210, 229]
+  Fundamentalsatz der Arithmetik    3 word     3 in   [41, 53, 170]
+  Primfaktorzerlegung               4 word     4 in   [43, 53, 113, 256]
+  Primzahlsatz                      5 word     6 in   [48, 49, 124, 234, 266]
+                                    1      as Primzahlsatzes
+  Riemannsche Vermutung             8 word     8 in   [49, 124, 134, 262, 263, 266]
+  Primzahllücken                    1 word     1 in   [48]
+  RSA                              11 word    13 in   [73, 74, 124, 280, 281, 282]
