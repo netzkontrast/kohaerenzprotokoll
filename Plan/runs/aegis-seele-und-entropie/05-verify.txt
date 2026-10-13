@@ -1,0 +1,216 @@
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Antwort auf Frage"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Antwort auf Frage` ^[aegis-seele-und-entropie.md:#7]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Verfeinerte Bewertung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Verfeinerte Bewertung` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Tabelle"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Tabelle` ^[aegis-seele-und-entropie.md:#2]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[aegis-seele-und-entropie.md:#0]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[aegis-seele-und-entropie.md:#0]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Aegis"
+whole word, case-sensitive     122
+whole word, case-insensitive   124
+including compounds            122
+
+`Aegis` ^[aegis-seele-und-entropie.md:#122]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Seelenpaar"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            33
+
+`Seelenpaar` ^[aegis-seele-und-entropie.md:#22]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Absolute Entropy Event"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Absolute Entropy Event` ^[aegis-seele-und-entropie.md:#4]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Neustart"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Neustart` ^[aegis-seele-und-entropie.md:#6]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Fragmentierung"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Fragmentierung` ^[aegis-seele-und-entropie.md:#18]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Consensus Enforcer Module"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Consensus Enforcer Module` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "UNIVERSAL REBOOT PROTOCOL"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`UNIVERSAL REBOOT PROTOCOL` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Cognitive Firewall Module"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cognitive Firewall Module` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Autopoiesis"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`Autopoiesis` ^[aegis-seele-und-entropie.md:#8]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Ontologische Sicherheit"
+whole word, case-sensitive     2
+whole word, case-insensitive   4
+including compounds            2
+
+`Ontologische Sicherheit` ^[aegis-seele-und-entropie.md:#2]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Emergenz"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Emergenz` ^[aegis-seele-und-entropie.md:#6]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Dissoziation"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Dissoziation` ^[aegis-seele-und-entropie.md:#6]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Theory of Mind"
+whole word, case-sensitive     5
+whole word, case-insensitive   7
+including compounds            5
+
+`Theory of Mind` ^[aegis-seele-und-entropie.md:#5]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Organisationale Schließung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Organisationale Schließung` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Strukturelle Kopplung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Strukturelle Kopplung` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Selbstproduktion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selbstproduktion` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Entropie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Entropie` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Entropiequelle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropiequelle` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Seelenpaares"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Seelenpaares` ^[aegis-seele-und-entropie.md:#11]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "ALERT-Log"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ALERT-Log` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "ALERT-Sequenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ALERT-Sequenz` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Autopoiesis-Theorie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autopoiesis-Theorie` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Dissoziationsmodelle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziationsmodelle` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[aegis-seele-und-entropie.md:#1]
+
+$ python3 scripts/read.py aegis-seele-und-entropie --count "Zugriff am April"
+whole word, case-sensitive     30
+whole word, case-insensitive   30
+including compounds            30
+
+`Zugriff am April` ^[aegis-seele-und-entropie.md:#30]
+
+$ grep -o "(?)" Sources/drive/aegis-seele-und-entropie.md | wc -l
+3
+$ grep -n "Antwort auf Frage" ... (lines)
+56 86 136 160 189 211 220 
+stance_marker_count 10 = 7 + 1 + 2 (Antwort auf Frage, Verfeinerte Bewertung, Tabelle)
+candidates 40, zeros 0: capture.py --count (04-counts.txt); profile: glued ref numbers 49 (01-profile.txt)

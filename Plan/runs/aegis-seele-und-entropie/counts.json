@@ -1,0 +1,459 @@
+{
+  "document": "aegis-seele-und-entropie",
+  "drive_id": "15Vynp53rf5tt3D6pKMecHHzuOdu1BjyKyF9cjEiqKCQ",
+  "step": "counts",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Aegis": {
+      "n": 122,
+      "n_including_compounds": 122,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        29,
+        30,
+        31,
+        35,
+        41,
+        42,
+        46,
+        52,
+        53,
+        54,
+        58,
+        62,
+        68,
+        69,
+        75,
+        81,
+        84,
+        88,
+        94,
+        95,
+        96,
+        100,
+        104,
+        105,
+        108,
+        114,
+        121,
+        125,
+        133,
+        134,
+        138,
+        140,
+        142,
+        147,
+        148,
+        152,
+        154,
+        158,
+        168,
+        185,
+        187,
+        193,
+        194,
+        198,
+        199,
+        205,
+        209,
+        211,
+        213,
+        215,
+        216,
+        217,
+        218,
+        222,
+        224,
+        225,
+        226,
+        230,
+        235,
+        236,
+        240,
+        246,
+        253,
+        254,
+        255,
+        270
+      ]
+    },
+    "Seelenpaar": {
+      "n": 22,
+      "n_including_compounds": 33,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        23,
+        30,
+        31,
+        41,
+        46,
+        53,
+        58,
+        62,
+        64,
+        66,
+        68,
+        70,
+        82,
+        88,
+        96,
+        108,
+        114,
+        121,
+        125,
+        138,
+        191,
+        222,
+        240
+      ]
+    },
+    "Absolute Entropy Event": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        86,
+        100,
+        108,
+        240
+      ]
+    },
+    "Zero-Trust Execution Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "ZTEM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Consensus Enforcer Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "UNIVERSAL REBOOT PROTOCOL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Cognitive Firewall Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "ALERT": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        53,
+        105,
+        125,
+        127
+      ]
+    },
+    "absolute Kohärenz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        41,
+        68,
+        69,
+        82,
+        88,
+        254
+      ]
+    },
+    "brauchbare Quelle für innere Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        96,
+        108
+      ]
+    },
+    "ontologische Kontamination": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "systemic reality failure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Neustart": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        123,
+        134,
+        138,
+        140,
+        240
+      ]
+    },
+    "Fragmentierung": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        17,
+        19,
+        136,
+        138,
+        142,
+        147,
+        152,
+        154,
+        158,
+        160,
+        169,
+        203,
+        205,
+        240,
+        248,
+        254
+      ]
+    },
+    "Entropiequelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Selbstproduktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Organisationale Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Organizational Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Strukturelle Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Structural Coupling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Constraint Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Autopoiesis": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        17,
+        21,
+        23,
+        27,
+        29,
+        274,
+        275,
+        277
+      ]
+    },
+    "Ontologische Sicherheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        48
+      ]
+    },
+    "Unvollständigkeitssätze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        37
+      ]
+    },
+    "Holismus": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        64,
+        68,
+        82,
+        261
+      ]
+    },
+    "Reduktionismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        77,
+        81
+      ]
+    },
+    "Emergenz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        64,
+        69,
+        82
+      ]
+    },
+    "Abwärtskausalität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        205
+      ]
+    },
+    "Nicht-Dualität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        30,
+        64,
+        70,
+        82
+      ]
+    },
+    "Advaita Vedanta": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        70,
+        289,
+        291,
+        292
+      ]
+    },
+    "Maya": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        75
+      ]
+    },
+    "Brahman/Atman-Identität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "neti neti": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        254
+      ]
+    },
+    "Dissoziation": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        148,
+        164,
+        254,
+        264
+      ]
+    },
+    "Theory of Mind": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        216,
+        240,
+        300
+      ]
+    },
+    "Dialektik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Komplexitätstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        218
+      ]
+    },
+    "Sublation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        230
+      ]
+    },
+    "Value Alignment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        218
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# aegis-seele-und-entropie
+  lines                304  (frontmatter ends at 9)
+  body words           6105
+  headings             23   bold-only lines 3
+  table rows           8   code fences 0
+  question marks       12
+  backslash escapes    32
+  typographic marks    155   ascii quotes 14
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    49
+  repeated labels      none
+  longest line         1375 chars
+

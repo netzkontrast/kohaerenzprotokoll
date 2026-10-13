@@ -1,0 +1,92 @@
+{
+  "document": "aegis-seele-und-entropie",
+  "drive_id": "15Vynp53rf5tt3D6pKMecHHzuOdu1BjyKyF9cjEiqKCQ",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 40,
+    "decisions": 40,
+    "decided_by_lookup": 34,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        132,
+        133
+      ],
+      "attribution": "",
+      "note": "subsystems named in the log it interprets"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        88,
+        108,
+        132,
+        133,
+        138,
+        152,
+        213,
+        217
+      ],
+      "attribution": "",
+      "note": "Aegis in a hypothetical encounter: paradox, reboot, isolation and fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Cognitive Firewall",
+      "line": 132,
+      "decision": "reading",
+      "why": "the Cognitive Firewall Module in the log the report interprets, read on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 104,
+      "decision": "occurrence",
+      "why": "logical entropy inside Aegis's processing, read on aegis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title's transcendent coherence, the report's general sense"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

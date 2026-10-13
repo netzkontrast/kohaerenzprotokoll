@@ -1455,3 +1455,6 @@
 {"document": "dramatica-dual-storyform-mapping-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the title", "at": "2026-10-13"}
 {"document": "dramatica-dual-storyform-mapping-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 36, "decision": "occurrence", "why": "the simulation in the general sense", "at": "2026-10-13"}
 {"document": "dramatica-dual-storyform-mapping-protokoll", "page": "vortex", "surface": "Vortex", "line": 88, "decision": "reading", "why": "the Story-Mind Vortex entangling Kael and AEGIS, read on the page", "at": "2026-10-13"}
+{"document": "aegis-seele-und-entropie", "page": "aegis-teilfunktionen", "surface": "Cognitive Firewall", "line": 132, "decision": "reading", "why": "the Cognitive Firewall Module in the log the report interprets, read on the page", "at": "2026-10-13"}
+{"document": "aegis-seele-und-entropie", "page": "entropie", "surface": "Entropie", "line": 104, "decision": "occurrence", "why": "logical entropy inside Aegis's processing, read on aegis", "at": "2026-10-13"}
+{"document": "aegis-seele-und-entropie", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title's transcendent coherence, the report's general sense", "at": "2026-10-13"}
