@@ -34,6 +34,13 @@ HYPEREXTRACT_REF="395039ea49709b279971631a47569b931818abbb"
 SEMANTICA_VERSION="0.7.0"
 OPENCODE_VERSION="1.18.32"
 OMO_VERSION="4.19.4"
+OPENMONTAGE_REF="9327439db69021ab4b0e2776729bf3b58fdb5a87"
+HYPERFRAMES_REF="072de48e08f7060ed839f4518dd993f7b175283d"
+# HyperFrames' core skill set (its CLI's FALLBACK_CORE_SKILLS) and the three
+# workflows a teaser can use; copied from the pinned fork into .claude/skills
+HYPERFRAMES_SKILLS=(hyperframes hyperframes-animation hyperframes-audio hyperframes-cli hyperframes-core
+  hyperframes-creative hyperframes-keyframes hyperframes-registry hyperframes-studio media-use
+  general-video motion-graphics music-to-video)
 # The author's answers to the oh-my-openagent installer (2026-09-24): which
 # subscriptions exist decides which model each agent is routed to.
 OMO_FLAGS=(--platform=opencode --claude=max20 --openai=yes --gemini=yes --copilot=no)
@@ -55,6 +62,8 @@ COMPONENTS=(
   "hyperextract|he and he-mcp (uv tool, python 3.12) and their /usr/local/bin links — upstream Hyper-Extract, on demand: hx.py parity, templates.py parse, the vendored hyper* skills"
   "omo|OpenCode $OPENCODE_VERSION (npm -g) with the oh-my-openagent $OMO_VERSION plugin; no provider sign-in"
   "qmd|qmd package in .tools-node and the /usr/local/bin/qmd shim"
+  "hyperframes|.hyperframes/ — HyperFrames from netzkontrast/hyperframes, built with bun; \`hyperframes\` in npm's global bin, which OpenMontage's \`npx hyperframes\` then runs; its core skills and three workflows in .claude/skills; its headless Chrome"
+  "openmontage|.openmontage/ — OpenMontage from netzkontrast/OpenMontage, its .venv (python 3.11, piper-tts, the German voice de_DE-thorsten-high), the Remotion composer's node_modules and HyperFrames' headless Chrome; video production, nothing in the pipeline"
   "qmd-models|qmd's ~2.1 GB models, index and embeddings — not in the default set"
 )
 DEFAULT_SKIP="qmd-models"
@@ -66,6 +75,11 @@ need_uv() {
   have uv && return 0
   echo "uv is not on PATH — install it (https://docs.astral.sh/uv/) and rerun" >&2
   return 1
+}
+
+hf_skills_present() {
+  local s
+  for s in "${HYPERFRAMES_SKILLS[@]}"; do [[ -f .claude/skills/$s/SKILL.md ]] || return 1; done
 }
 
 # ---- presence checks: one per component, used by --check and to skip work ----
@@ -87,6 +101,16 @@ present() {
     omo)        have opencode && grep -q oh-my-openagent ~/.config/opencode/opencode.json 2>/dev/null \
                   && [[ -f ~/.omo/omo.jsonc ]] ;;
     qmd)        [[ -x .tools-node/node_modules/.bin/qmd ]] && [[ -x /usr/local/bin/qmd ]] ;;
+    hyperframes) [[ "$(git -C .hyperframes rev-parse HEAD 2>/dev/null)" == "$HYPERFRAMES_REF" ]] \
+                  && [[ -f .hyperframes/packages/cli/dist/cli.js ]] \
+                  && grep -qF "$ROOT/.hyperframes/" "$(npm prefix -g)/bin/hyperframes" 2>/dev/null \
+                  && hf_skills_present \
+                  && ls ~/.cache/hyperframes/chrome/chrome-headless-shell/*/*/chrome-headless-shell >/dev/null 2>&1 ;;
+    openmontage) [[ "$(git -C .openmontage rev-parse HEAD 2>/dev/null)" == "$OPENMONTAGE_REF" ]] \
+                  && .openmontage/.venv/bin/python -c "import yaml, pydantic, jsonschema, piper" 2>/dev/null \
+                  && [[ -d .openmontage/remotion-composer/node_modules/remotion ]] \
+                  && [[ -f .openmontage/de_DE-thorsten-high.onnx ]] \
+                  && ls ~/.cache/hyperframes/chrome/chrome-headless-shell/*/*/chrome-headless-shell >/dev/null 2>&1 ;;
     qmd-models) scripts/setup_qmd.sh --check 2>/dev/null | grep -q "embeddings *complete" ;;
     *)          return 2 ;;
   esac
@@ -183,6 +207,55 @@ install_one() {
       (cd /tmp && bunx "oh-my-openagent@$OMO_VERSION" install --no-tui "${OMO_FLAGS[@]}" --skip-auth >/dev/null) ;;
     qmd)
       scripts/setup_qmd.sh --package ;;
+    hyperframes)
+      have bun || { echo "bun is not on PATH — HyperFrames builds with it" >&2; return 1; }
+      # The fork, not the npm package: it carries fixes after the 0.8.142 release.
+      # LFS objects are test fixtures; the anonymous git lane does not serve them.
+      if [[ ! -d .hyperframes/.git ]]; then
+        git init -q .hyperframes && git -C .hyperframes remote add origin https://github.com/netzkontrast/hyperframes || return 1
+      fi
+      if [[ "$(git -C .hyperframes rev-parse HEAD 2>/dev/null)" != "$HYPERFRAMES_REF" ]]; then
+        GIT_LFS_SKIP_SMUDGE=1 git -C .hyperframes fetch -q --depth 1 origin "$HYPERFRAMES_REF" \
+          && GIT_LFS_SKIP_SMUDGE=1 git -C .hyperframes -c advice.detachedHead=false checkout -q FETCH_HEAD || return 1
+      fi
+      (cd .hyperframes && bun install --silent --frozen-lockfile && bun run build >/dev/null) || return 1
+      # A shim in npm's global bin: `npx hyperframes` runs a global bin of that
+      # name before it fetches the package, so OpenMontage renders with the fork.
+      local gbin; gbin="$(npm prefix -g)/bin/hyperframes"
+      printf '#!/bin/sh\nexec node "%s/.hyperframes/packages/cli/bin/hyperframes.mjs" "$@"\n' "$ROOT" > "$gbin" \
+        && chmod +x "$gbin" || return 1
+      # Its skills, unchanged, from the same commit; git-ignored like the clone
+      for s in "${HYPERFRAMES_SKILLS[@]}"; do
+        rm -rf ".claude/skills/$s" && cp -r ".hyperframes/skills/$s" ".claude/skills/$s" || return 1
+      done
+      DO_NOT_TRACK=1 hyperframes browser ensure >/dev/null 2>&1 \
+        || { echo "hyperframes browser ensure failed" >&2; return 1; } ;;
+    openmontage)
+      need_uv || return 1
+      # A clone, not a package: its agent reads AGENT_GUIDE.md, the pipeline manifests
+      # and the skills from its own root, and its tools run from there. Pinned by
+      # commit; git-ignored, so nothing it renders is committed by accident.
+      if [[ ! -d .openmontage/.git ]]; then
+        git init -q .openmontage && git -C .openmontage remote add origin https://github.com/netzkontrast/OpenMontage || return 1
+      fi
+      if [[ "$(git -C .openmontage rev-parse HEAD 2>/dev/null)" != "$OPENMONTAGE_REF" ]]; then
+        git -C .openmontage fetch -q --depth 1 origin "$OPENMONTAGE_REF" \
+          && git -C .openmontage -c advice.detachedHead=false checkout -q FETCH_HEAD || return 1
+      fi
+      # .venv inside the clone: its Makefile and AGENT_GUIDE.md expect it there.
+      # No .env is written (its `make setup` copies one): keys come from the
+      # environment's settings, and without them every provider stays off.
+      [[ -x .openmontage/.venv/bin/python ]] || uv venv -q --python 3.11 .openmontage/.venv || return 1
+      uv pip install -q --python .openmontage/.venv/bin/python -r .openmontage/requirements.txt piper-tts || return 1
+      (cd .openmontage/remotion-composer && npm ci -s --no-audit --no-fund) || return 1
+      # the German voice: piper_tts resolves a model name in the working directory,
+      # which is the clone's root when its tools run
+      [[ -f .openmontage/de_DE-thorsten-high.onnx ]] \
+        || .openmontage/.venv/bin/python -m piper.download_voices de_DE-thorsten-high --data-dir .openmontage || return 1
+      # HyperFrames' own Chrome Headless Shell (~/.cache/hyperframes); DO_NOT_TRACK
+      # keeps its anonymous telemetry off
+      (cd .openmontage && DO_NOT_TRACK=1 HYPERFRAMES_SKIP_SKILLS=1 npx --yes hyperframes browser ensure >/dev/null 2>&1) \
+        || { echo "hyperframes browser ensure failed" >&2; return 1; } ;;
     qmd-models)
       scripts/setup_qmd.sh ;;
   esac

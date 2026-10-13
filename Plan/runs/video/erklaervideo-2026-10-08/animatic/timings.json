@@ -1,0 +1,442 @@
+{
+ "1": {
+  "duration": 18.252,
+  "captions": [
+   {
+    "text": "Eine Maschine, die einen Roman schreibt?",
+    "start": 0.5,
+    "end": 2.729
+   },
+   {
+    "text": "Hier schreibt sie keinen einzigen Satz.",
+    "start": 3.079,
+    "end": 5.099
+   },
+   {
+    "text": "Sie tut etwas Bescheideneres.",
+    "start": 6.049,
+    "end": 7.535
+   },
+   {
+    "text": "Und Schwierigeres:",
+    "start": 7.885,
+    "end": 8.977
+   },
+   {
+    "text": "Sie findet Widersprüche.",
+    "start": 9.327,
+    "end": 10.836
+   },
+   {
+    "text": "Und dann hält sie an.",
+    "start": 11.186,
+    "end": 12.44
+   },
+   {
+    "text": "Das ist das Kohärenz Protokoll.",
+    "start": 13.39,
+    "end": 15.166
+   },
+   {
+    "text": "Folgen wir einem Dokument.",
+    "start": 15.516,
+    "end": 17.002
+   }
+  ]
+ },
+ "2": {
+  "duration": 28.008,
+  "captions": [
+   {
+    "text": "Hinter dem Roman liegen fünfhundertsechsundachtzig Dokumente.",
+    "start": 0.5,
+    "end": 3.797
+   },
+   {
+    "text": "Konzepte, Weltentwürfe, Figurenbibeln, Kapitelpläne, geschrieben über mehr als ein Jahr.",
+    "start": 4.147,
+    "end": 9.569
+   },
+   {
+    "text": "Viele gab es mehrfach, von manchen bis zu fünf Exporte:",
+    "start": 9.919,
+    "end": 13.216
+   },
+   {
+    "text": "Dreiundneunzig Kopien wurden aussortiert.",
+    "start": 13.566,
+    "end": 16.004
+   },
+   {
+    "text": "Und die Dokumente sind sich nicht einig.",
+    "start": 16.954,
+    "end": 18.87
+   },
+   {
+    "text": "Was in einem steht, widerruft das nächste.",
+    "start": 19.22,
+    "end": 21.403
+   },
+   {
+    "text": "Wer daraus ein Buch machen will, muss zuerst wissen, wer was gesagt hat.",
+    "start": 21.753,
+    "end": 25.781
+   },
+   {
+    "text": "Und wann.",
+    "start": 26.131,
+    "end": 26.758
+   }
+  ]
+ },
+ "3": {
+  "duration": 28.239,
+  "captions": [
+   {
+    "text": "Unser Dokument heißt „Guardians und Kern-Welten“.",
+    "start": 0.5,
+    "end": 3.217
+   },
+   {
+    "text": "Geschrieben im April 2025.",
+    "start": 3.567,
+    "end": 6.249
+   },
+   {
+    "text": "Es kommt aus Google Drive in einen Ordner namens Sources, und von da an wird es nie wieder verändert.",
+    "start": 6.599,
+    "end": 12.125
+   },
+   {
+    "text": "Eine Prüfsumme hält fest, dass jedes Byte noch dasselbe ist.",
+    "start": 12.475,
+    "end": 15.993
+   },
+   {
+    "text": "Das klingt pedantisch.",
+    "start": 16.943,
+    "end": 18.429
+   },
+   {
+    "text": "Es ist die Grundlage für alles Weitere:",
+    "start": 18.779,
+    "end": 20.857
+   },
+   {
+    "text": "Wenn später jemand fragt, „Wo steht das?“, muss die Antwort auf eine Zeile zeigen, die es wirklich gibt.",
+    "start": 21.207,
+    "end": 26.989
+   }
+  ]
+ },
+ "4": {
+  "duration": 35.647,
+  "captions": [
+   {
+    "text": "Dann wird gelesen.",
+    "start": 0.5,
+    "end": 1.661
+   },
+   {
+    "text": "Für jedes Dokument entstehen zwei Dinge: eine Liste der Begriffe, die es selbst benutzt, und eine Notiz, was es über sie sagt.",
+    "start": 2.011,
+    "end": 9.081
+   },
+   {
+    "text": "Immer mit Zeilennummer.",
+    "start": 9.431,
+    "end": 10.685
+   },
+   {
+    "text": "Und die Liste wird geschrieben, bevor jemand nachsieht, was schon bekannt ist.",
+    "start": 11.035,
+    "end": 15.389
+   },
+   {
+    "text": "Sonst würde das Bekannte entscheiden, was ein neues Dokument sagen darf.",
+    "start": 15.739,
+    "end": 19.524
+   },
+   {
+    "text": "Zeile sechsundneunzig:",
+    "start": 20.474,
+    "end": 21.995
+   },
+   {
+    "text": "Kairos und Sophia wachen gemeinsam über eine Welt.",
+    "start": 22.345,
+    "end": 25.062
+   },
+   {
+    "text": "Ein Programm prüft jedes dieser Zitate gegen seine Zeile.",
+    "start": 26.012,
+    "end": 29.204
+   },
+   {
+    "text": "Wer falsch zitiert, fällt auf.",
+    "start": 29.554,
+    "end": 31.54
+   },
+   {
+    "text": "Zweihundertneunzehn Dokumente sind so gelesen.",
+    "start": 31.89,
+    "end": 34.397
+   }
+  ]
+ },
+ "5": {
+  "duration": 34.221,
+  "captions": [
+   {
+    "text": "Erst danach kommt das Gelesene ins Wiki.",
+    "start": 0.5,
+    "end": 2.625
+   },
+   {
+    "text": "Für jeden Begriff gibt es eine Seite, hundertsechs sind es heute.",
+    "start": 2.975,
+    "end": 6.701
+   },
+   {
+    "text": "Auf der Seite „Guardians“ steht nun, was unser Dokument sagt.",
+    "start": 7.051,
+    "end": 10.383
+   },
+   {
+    "text": "Daneben, was jedes andere sagt.",
+    "start": 10.733,
+    "end": 13.148
+   },
+   {
+    "text": "Nichts wird zusammengefasst, nichts geglättet.",
+    "start": 14.098,
+    "end": 16.687
+   },
+   {
+    "text": "Jede Lesart behält ihren Absender.",
+    "start": 17.037,
+    "end": 19.023
+   },
+   {
+    "text": "Wo zwei Wörter vielleicht dasselbe meinen, entscheidet ein Mensch, und seine Entscheidung wird festgehalten, damit ein Programm sie später nachprüfen kann.",
+    "start": 19.373,
+    "end": 26.838
+   },
+   {
+    "text": "Denn eine Zusammenfassung müsste entscheiden, welche Quelle recht hat.",
+    "start": 27.188,
+    "end": 30.566
+   },
+   {
+    "text": "Und genau das darf das System nicht.",
+    "start": 30.916,
+    "end": 32.971
+   }
+  ]
+ },
+ "6": {
+  "duration": 36.385,
+  "captions": [
+   {
+    "text": "Und hier wird es interessant.",
+    "start": 0.5,
+    "end": 1.986
+   },
+   {
+    "text": "Ein Jahr später, im Juni 2026, sagt ein neues Dokument:",
+    "start": 2.336,
+    "end": 7.537
+   },
+   {
+    "text": "Es gibt nicht fünf Guardians.",
+    "start": 7.887,
+    "end": 9.64
+   },
+   {
+    "text": "Es gibt zwei.",
+    "start": 9.99,
+    "end": 11.07
+   },
+   {
+    "text": "Ein drittes zählt vier.",
+    "start": 11.42,
+    "end": 12.709
+   },
+   {
+    "text": "Und das neue fügt hinzu:",
+    "start": 13.659,
+    "end": 15.273
+   },
+   {
+    "text": "Bei Konflikt gewinnt das Neuere.",
+    "start": 15.623,
+    "end": 17.318
+   },
+   {
+    "text": "Ein Dokument, das sich selbst zur Wahrheit erklärt.",
+    "start": 18.268,
+    "end": 21.008
+   },
+   {
+    "text": "Das System glaubt ihm nicht.",
+    "start": 21.958,
+    "end": 23.444
+   },
+   {
+    "text": "Es legt einen Konfliktbericht an, C6, stellt alle Fassungen nebeneinander und hört auf.",
+    "start": 23.794,
+    "end": 29.831
+   },
+   {
+    "text": "Hier endet die Maschine.",
+    "start": 31.581,
+    "end": 32.87
+   },
+   {
+    "text": "Siebzehn solcher Konflikte gibt es.",
+    "start": 33.22,
+    "end": 35.135
+   }
+  ]
+ },
+ "7": {
+  "duration": 35.83,
+  "captions": [
+   {
+    "text": "Aus allen Seiten entsteht ein Netz: dreihundertvierzig Knoten, über elftausend Verbindungen.",
+    "start": 0.5,
+    "end": 5.922
+   },
+   {
+    "text": "Jede Verbindung kann auf die Zeile zeigen, die sie begründet, belegt durch über einundzwanzigtausend geprüfte Zitate.",
+    "start": 6.272,
+    "end": 13.017
+   },
+   {
+    "text": "Wer fragt, „Was wissen wir über die Guardians?“, bekommt keine Antwort in schönen Sätzen.",
+    "start": 13.967,
+    "end": 18.53
+   },
+   {
+    "text": "Er bekommt die Belege, die Konflikte, die offenen Fragen.",
+    "start": 18.88,
+    "end": 21.922
+   },
+   {
+    "text": "Und das Netz stellt selbst Fragen.",
+    "start": 22.872,
+    "end": 24.95
+   },
+   {
+    "text": "Wo die Quellen schweigen oder nicht zusammenpassen, entsteht eine offene Frage an den Autor.",
+    "start": 25.3,
+    "end": 30.211
+   },
+   {
+    "text": "Neun stehen gerade im Wiki.",
+    "start": 30.561,
+    "end": 32.361
+   },
+   {
+    "text": "Das Urteil bleibt beim Menschen.",
+    "start": 32.711,
+    "end": 34.58
+   }
+  ]
+ },
+ "8": {
+  "duration": 36.463,
+  "captions": [
+   {
+    "text": "Und der Mensch hat entschieden.",
+    "start": 0.5,
+    "end": 1.916
+   },
+   {
+    "text": "Am 24.",
+    "start": 2.266,
+    "end": 3.555
+   },
+   {
+    "text": "September 2026 legt der Autor fest:",
+    "start": 3.905,
+    "end": 7.655
+   },
+   {
+    "text": "Es sind fünf.",
+    "start": 8.005,
+    "end": 9.004
+   },
+   {
+    "text": "LogOS, Mnemosyne, Cerberus, Kairos und Sophia.",
+    "start": 9.354,
+    "end": 13.347
+   },
+   {
+    "text": "Diese Zeile steht jetzt im Kanon, der einzigen Datei, die für den Roman gilt.",
+    "start": 14.297,
+    "end": 18.825
+   },
+   {
+    "text": "Nicht, weil eine Quelle es behauptet.",
+    "start": 19.175,
+    "end": 21.242
+   },
+   {
+    "text": "Nicht, weil die Mehrheit es sagt.",
+    "start": 21.592,
+    "end": 23.566
+   },
+   {
+    "text": "Sondern weil der Autor es entschieden hat.",
+    "start": 23.916,
+    "end": 26.005
+   },
+   {
+    "text": "Der Roman selbst entsteht erst jetzt, in einem eigenen Ordner.",
+    "start": 26.955,
+    "end": 30.624
+   },
+   {
+    "text": "Auch dort gilt:",
+    "start": 30.974,
+    "end": 32.193
+   },
+   {
+    "text": "Kein Entwurf wird Kanon, nur weil er geschrieben wurde.",
+    "start": 32.543,
+    "end": 35.213
+   }
+  ]
+ },
+ "9": {
+  "duration": 16.123,
+  "captions": [
+   {
+    "text": "Freigegebene Kapitel: keines.",
+    "start": 0.5,
+    "end": 2.915
+   },
+   {
+    "text": "Noch.",
+    "start": 3.865,
+    "end": 4.283
+   },
+   {
+    "text": "Das Kohärenz Protokoll baut keinen Roman.",
+    "start": 5.233,
+    "end": 7.636
+   },
+   {
+    "text": "Es baut den Boden, auf dem einer stehen kann.",
+    "start": 7.986,
+    "end": 10.401
+   },
+   {
+    "text": "Zeile für Zeile, belegt, und mit jedem Widerspruch an seinem Platz.",
+    "start": 10.751,
+    "end": 14.873
+   }
+  ]
+ }
+}

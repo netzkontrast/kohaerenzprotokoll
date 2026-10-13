@@ -18,8 +18,10 @@ Two rules are this project's own:
 - **Vendored skills are checked, never rewritten.** Four collections are copied
   unchanged from upstream, each pinned in `.agents/skills/tools/references/install.md`: the `jev*` folders from
   `wuyoscar/jev-skill` v0.2.0; the four Notion skills from
-  `netzkontrast/notion-skills`; `knowledge-graph-extract`; `graphify`; and the
-  `hyper-extract` / `hyperextract-*` folders from `netzkontrast/Hyper-Extract`.
+  `netzkontrast/notion-skills`; `knowledge-graph-extract`; `graphify`; the
+  `hyper-extract` / `hyperextract-*` folders from `netzkontrast/Hyper-Extract`; and
+  HyperFrames' core skills and three of its workflows from `netzkontrast/hyperframes`, which
+  `scripts/install.sh hyperframes` copies in on demand and git ignores.
   Their findings are reported under their own heading and do not fail the run:
   fixing them here would make them no longer the vendored thing.
 
@@ -39,7 +41,8 @@ ROOT = Path(__file__).resolve().parents[1]
 PROJECT = ROOT / ".agents" / "skills"
 CLAUDE = ROOT / ".claude" / "skills"
 VENDORED = re.compile(r"^(jev(-|$)|knowledge-capture$|meeting-intelligence$|research-documentation$|"
-                      r"spec-to-implementation$|knowledge-graph-extract$|graphify$|hyper-?extract(-|$))")
+                      r"spec-to-implementation$|knowledge-graph-extract$|graphify$|hyper-?extract(-|$)|"
+                      r"hyperframes(-|$)|media-use$|general-video$|motion-graphics$|music-to-video$)")
 
 SUPPORTED = {"name", "description", "when_to_use", "argument-hint",
              "disable-model-invocation", "user-invocable", "allowed-tools", "model",
