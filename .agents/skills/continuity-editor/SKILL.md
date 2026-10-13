@@ -126,3 +126,12 @@ how lines are cited. Read it first. For this skill:
   at low confidence.
 - **Output:** `Plan/runs/writing/kap-NN/continuity-editor_<date>.md`, with both passages
   cited `file:Lnn`.
+
+## Review simulation evidence
+
+Treat an AEGIS transcript as a scenario run, not an approved chapter. Compare it
+with decided canon/structure, then its explicitly proposed fixture assumptions.
+Separate a canon collision, an assumption mismatch, and a character's false
+belief. Identify premature knowledge with exact before/after observations.
+Missing knowledge-ledger coverage is missing evidence, not a verified absence of
+spoilers. Return findings; never promote run events to Manuscript/kanon.md.

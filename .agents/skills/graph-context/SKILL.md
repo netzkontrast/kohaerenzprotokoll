@@ -38,3 +38,10 @@ python3 scripts/check_skills.py
 ```
 
 Both graph CLIs share `Plan/derived/ask.db` (schema 2). Initialization builds it once. `:Core` is an alias on typed nodes, not a duplicated graph. Core traversals must filter `r.core = true`; raw corpus queries should name their intended relation types. Old databases require rebuilding; no authored data is migrated.
+
+## Character simulation boundary
+
+This is author/research retrieval, not a character permission filter. AEGIS and
+other fictional profiles must not receive raw graph packs or graph tools. Hand
+research to the coding coordinator with provenance; use
+`Plan/briefings/aegis-agent-pilot.md` for the separate runtime perception contract.

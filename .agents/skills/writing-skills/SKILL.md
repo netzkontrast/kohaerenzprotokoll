@@ -180,3 +180,12 @@ Use `scripts/storyform.py` to regenerate the current NCP 3 file, then `--check`.
 The older 1.3 `ncp-author` validator does not certify this document. Name which
 structural, freshness and schema checks actually ran, and keep scene-quality
 judgement separate from their results. Follow `app-refresh` before a PR.
+
+## Simulation transcripts
+
+Follow CLAUDE.md's AEGIS mandate and `Plan/briefings/aegis-agent-pilot.md` for
+software/scenario work. A mock transcript is a test artifact, not a chapter or
+permission for these editorial skills to write prose. Review supplied transcripts
+with the relevant specialist and preserve findings-only output. Dialogue-gym is
+a coach on the writer's attempts, not a runtime dialogue generator. Keep
+mechanical action validity, dramatic effect and voice judgement distinct.
