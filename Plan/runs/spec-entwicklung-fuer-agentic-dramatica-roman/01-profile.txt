@@ -1,0 +1,14 @@
+# spec-entwicklung-fuer-agentic-dramatica-roman
+  lines                593  (frontmatter ends at 9)
+  body words           5589
+  headings             39   bold-only lines 3
+  table rows           33   code fences 0
+  question marks       12
+  backslash escapes    338
+  typographic marks    6   ascii quotes 212
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    83
+  repeated labels      Decision x9, Begründung x8, Context x8, Rejected Alternatives Note x6, Consequences x5, Acceptance Criteria x4, Beschreibung x4, Falsification Test (M01) x4, Finding x4, Immutable Fields x4, In-Phase-Activities x4, Modify-Conclusion x4, Post-Conditions x4, Pre-Conditions x4
+  longest line         1070 chars
+

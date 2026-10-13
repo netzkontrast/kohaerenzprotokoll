@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      83
+  backslash escapes      338
+  typographic marks      6
+  ascii quotes           212
+
+# inflection families -- one term, several surfaces
+  story    Story, Storybeats, Storyencoder, Storyform, Storyformer, Storyforming, Storymind, Storyreceptor, Storytelling, Storyweaver, Storyweaving
+  agent    AGENTS, Agent, Agenten, Agentenarchitektur, Agentensystems, Agentic, Agents
+  valid    Valid, Validation, Validator, Validierung, Validierungs, Validierungsansatz
+  conce    Conceded, Conceiving, Conceptualizing, Concern, Concerns
+  evalu    Evaluation, Evaluator, Evaluatoren, Evaluators, Evaluierung
+  inter    Interaction, Interaktion, Interdiction, Interface, Intersection
+  model    Model, Modell, Modelle, Modells, Models
+  refer    Reference, Referenz, Referenzdatei, Referenzdateien, Referenzen
+  chara    Characters, Charakter, Charaktere, Charakterentwicklung
+  contr    Contracts, Contradiction, Contradictions, Control
+  deter    Determination, Deterministik, Deterministische, Deterministischer
+  eleme    Element, Elemente, Elementen, Elements
+  gener    Generation, Generative, Generierter, Generierung
+  instr    Instruktionen, Instruktions, Instruktionsdateien, Instruktionstreue
+  integ    Integrated, Integration, Integrations, Integrität
+  metho    Method, Methode, Methoden, Methodology
+  progr    Progress, Progression, Progressions, Progressive
+  proje    Projection, Projekt, Projektion, Projektionen
+  proto    Protocol, Protokoll, Protokolle, Protokolls
+  schre    Schreib, Schreiben, Schreibprozess, Schreibzugriffe
+  syste    System, Systeme, Systemen, Systems
+  überg    Übergabe, Übergang, Übergänge, Übergängen
+  analy    Analyse, Analysen, Analysis
+  archi    Architectural, Architecture, Architektur
+  besch    Beschreibung, Beschreibungen, Beschränkung
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Challenge
+  Arch < ARCHON
+  Arch < Search
+  Arch < Hierarchie
+  Arch < Architektur
+  Arch < Architecture
+  Arch < Hierarchical
+  Arch < Archetypische
+  Arch < Architectural
+  Arch < Agentenarchitektur
+  Auto < Autonomie
+  Axis < Praxis
+  Beat < Storybeats
+  Best < Bestätigung
+  Call < Calls
+  Code < Codex
+  Code < Storyencoder
+  Core < Score
+  Dies < Diese
+  Dies < Dieser

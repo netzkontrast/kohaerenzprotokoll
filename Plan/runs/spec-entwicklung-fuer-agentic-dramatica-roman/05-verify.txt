@@ -1,0 +1,122 @@
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "BLOCKER"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`BLOCKER` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#9]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "WARNING"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`WARNING` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#9]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "NOTICE"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`NOTICE` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#1]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Single Source of Truth"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Single Source of Truth` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#3]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#0]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#0]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#0]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#0]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Nexus"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nexus` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#0]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Guardians"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Guardians` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#0]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#1]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Storyforming"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Storyforming` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#5]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Story Encoding"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Story Encoding` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#2]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Storyweaving"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Storyweaving` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#3]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Story Reception"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Story Reception` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#2]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "State Freezing"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`State Freezing` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#11]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Context Rot"
+whole word, case-sensitive     15
+whole word, case-insensitive   16
+including compounds            15
+
+`Context Rot` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#15]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Strukturelle Contradictions"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Strukturelle Contradictions` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#1]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Inhaltliche Contradictions"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Inhaltliche Contradictions` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#1]
+$ python3 scripts/read.py spec-entwicklung-fuer-agentic-dramatica-roman --count "Pragmatische Contradictions"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Pragmatische Contradictions` ^[spec-entwicklung-fuer-agentic-dramatica-roman.md:#1]
+stance_marker_count 19 = BLOCKER 9 + WARNING 9 + NOTICE 1
+$ python3 scripts/capture.py --count: 98 candidates, zeros 0 (04-counts.txt)

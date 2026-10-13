@@ -1,0 +1,117 @@
+# counts for 98 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Spec-Metadata                     1 word     1 in   [13]
+  Choice-Space                      7 word     7 in   [115, 117, 265, 385, 453, 467]
+  Interaction-Constraints           2 word     2 in   [129, 131]
+  Coherence-Invarianten             1 word     1 in   [143]
+  Contradiction-Detection           2 word     4 in   [200, 326, 424, 557]
+                                    1      as Contradiction-Detection-Ansatz
+                                    1      as Contradiction-Detection-Klassen
+  Clarifying-Question Protocol      2 word     2 in   [213, 529]
+  Phase-Definitions                 1 word     1 in   [257]
+  Failure-Modes Catalog             1 word     1 in   [369]
+  Regression-Checks                 1 word     1 in   [389]
+  Self-Verification Test Suite      1 word     1 in   [397]
+  Reflection History                1 word     1 in   [450]
+  Query Expansion Log               1 word     1 in   [483]
+  Cross-Pollination Logs            1 word     1 in   [490]
+  Pre-Mortem-Analyse                1 word     2 in   [371, 510]
+                                    1      as Pre-Mortem-Analysen
+  Red-Team-Review                   1 word     1 in   [525]
+  Contradiction Log                 1 word     1 in   [551]
+  Falsifikations-Audit              1 word     1 in   [555]
+  Open Questions                    2 word     2 in   [549, 559]
+  Architectural Decision Records    1 word     1 in   [410]
+  Narrative Context Protocol        7 word     7 in   [22, 26, 40, 434, 452, 574]
+  NCP                              22 word    28 in   [17, 22, 24, 26, 40, 163]
+  State Freezing                   11 word    11 in   [342, 382, 438, 455, 463, 473]
+  Context Rot                      15 word    15 in   [145, 250, 335, 342, 382, 436]
+  Progressive Disclosure            6 word     6 in   [339, 438, 454, 473, 553]
+  Line Budgets                      1 word     1 in   [340]
+  Branching Rule                    3 word     3 in   [341, 387, 517]
+  Hierarchical Routing              1 word     1 in   [343]
+  Narrative Efficiency              5 word     5 in   [191, 195, 382, 514, 583]
+  Consistency Risk Score            3 word     3 in   [210, 219, 290]
+  CRS                               4 word     4 in   [210, 219, 290, 549]
+  Latent Space Projection           4 word     4 in   [211, 381, 520, 561]
+  Phase-Transition-Contracts        2 word     2 in   [259, 488]
+  Cross-Output Alignment            2 word     2 in   [163, 210]
+  Chain-of-Justification            2 word     2 in   [210, 533]
+  Decoupled Semantic Encoding       1 word     1 in   [211]
+  Strukturelle Contradictions       1 word     1 in   [209]
+  Inhaltliche Contradictions        1 word     1 in   [210]
+  Pragmatische Contradictions       1 word     1 in   [211]
+  Domänen-Singularität              1 word     1 in   [147]
+  Archetypische Motivationsexklusion    1 word     1 in   [169]
+  Vocabulary Drift                  3 word     3 in   [117, 385, 515]
+  Task Drift                        4 word     4 in   [202, 378, 500, 523]
+  Reward Hacking                    2 word     2 in   [380, 516]
+  Alignment Faking                  3 word     3 in   [381, 486, 520]
+  Parameter Hallucination           1 word     1 in   [379]
+  Degeneration Loops                1 word     1 in   [383]
+  Ordering Errors                   2 word     2 in   [384, 518]
+  Asymmetric Architecture           1 word     1 in   [386]
+  Distraction Degradation           5 word     5 in   [341, 387, 465, 517, 553]
+  State Contamination               2 word     2 in   [366, 522]
+  Trigger Overlap                   1 word     1 in   [521]
+  YAML-RPC                          6 word     6 in   [211, 223, 404, 444, 464, 529]
+  Immutable Fields                  4 word     4 in   [277, 295, 313, 331]
+  Acceptance Criteria               6 word     6 in   [259, 266, 284, 302, 320, 494]
+  Storyformer Agent                 1 word     1 in   [261]
+  Storyencoder Agent                1 word     1 in   [279]
+  Storyweaver Agent                 1 word     1 in   [297]
+  Storyreceptor Agent               1 word     1 in   [315]
+  Narrova                           2 word     5 in   [418, 458, 474, 496, 587]  <-- substring
+                                    2      as Narrova-Architektur
+                                    1      as Narrova-Dramatica-Architektur
+  Author's Argument                 4 word     5 in   [52, 139, 263, 466, 520]
+  IC-01                             6 word     6 in   [138, 271, 394, 402, 426, 468]
+  IC-02                             2 word     2 in   [139, 271]
+  IC-03                             3 word     3 in   [140, 244, 271]
+  IC-04                             3 word     3 in   [141, 271, 468]
+  INV-01                            2 word     2 in   [147, 395]
+  INV-02                            2 word     2 in   [158, 325]
+  INV-03                            2 word     2 in   [169, 289]
+  INV-04                            5 word     5 in   [180, 307, 380, 469, 516]
+  INV-05                            3 word     3 in   [191, 325, 395]
+  FM-01                             2 word     2 in   [378, 523]
+  FM-02                             1 word     1 in   [379]
+  FM-03                             2 word     2 in   [380, 516]
+  FM-04                             2 word     2 in   [381, 520]
+  FM-05                             2 word     2 in   [382, 514]
+  FM-06                             2 word     2 in   [383, 519]
+  FM-07                             2 word     2 in   [384, 518]
+  FM-08                             2 word     2 in   [385, 515]
+  FM-09                             1 word     1 in   [386]
+  FM-10                             3 word     3 in   [387, 465, 517]
+  Dramatica                        13 word    32 in   [11, 15, 20, 24, 28, 40]  <-- substring
+                                    4      as Dramatica-Theorie
+                                    3      as Dramatica-Struktur
+                                    1      as Dramatica-basierte
+                                    1      as Dramatica-Konzepte
+  Storyforming                      5 word     5 in   [18, 259, 261, 418, 496]
+  Story Encoding                    2 word     2 in   [259, 279]
+  Storyweaving                      3 word     3 in   [235, 259, 297]
+  Story Reception                   2 word     2 in   [259, 315]
+  Storyform Alignment               5 word     5 in   [20, 28, 428, 430, 461]
+  Narrative Field                   6 word     6 in   [20, 28, 158, 299, 469, 541]
+  Mental Sex                        4 word     4 in   [28, 67, 428, 430]
+  Story Limit                       2 word     2 in   [28, 69]
+  Story Mind                        2 word     5 in   [58, 263, 414, 434, 553]  <-- substring
+  Throughline                       5 word     8 in   [125, 126, 139, 151, 265, 301]
+                                    3      as Throughlines
+                                    2      as throughlines
+  Signposts                         5 word     5 in   [93, 162, 301, 306, 313]
+  Journeys                          4 word     4 in   [162, 301, 308, 313]
+  Domain                            2 word     7 in   [124, 139, 151, 265, 453, 454]  <-- substring
+                                    2      as Domains
+  Concern                           3 word     6 in   [125, 139, 265, 578]
+                                    2      as Concerns
+                                    1      as concerns
+  Positional Bias                   6 word     6 in   [335, 382, 438, 477, 487, 507]
+  Retrieval-Augmented Generation    2 word     2 in   [210, 504]
+  Spec-Driven Development           3 word     3 in   [21, 497, 571]
+  Model Context Protocol            2 word     2 in   [19, 567]
