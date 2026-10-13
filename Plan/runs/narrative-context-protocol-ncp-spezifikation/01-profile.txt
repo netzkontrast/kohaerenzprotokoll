@@ -1,0 +1,14 @@
+# narrative-context-protocol-ncp-spezifikation
+  lines                224  (frontmatter ends at 9)
+  body words           3667
+  headings             16   bold-only lines 3
+  table rows           20   code fences 0
+  question marks       13
+  backslash escapes    72
+  typographic marks    75   ascii quotes 92
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    16
+  repeated labels      none
+  longest line         4676 chars
+

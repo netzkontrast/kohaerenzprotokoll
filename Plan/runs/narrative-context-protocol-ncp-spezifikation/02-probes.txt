@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      16
+  backslash escapes      72
+  typographic marks      75
+  ascii quotes           92
+
+# inflection families -- one term, several surfaces
+  inter    Interactive, Interaktion, Interaktionen, Interaktionsdesign, Interaktionsmodalitäten, Interessen, Interest, Interface, Interferenz, Interferenzregeln, Interferenztypen, Intervention
+  syste    System, Systematik, Systeme, Systemen, Systemik, Systemische, Systems, Systemtheoretiker
+  nutze    Nutzer, Nutzeraktion, Nutzerentscheidung, Nutzererfahrung, Nutzerinteraktion, Nutzers, Nutzerwahl
+  zusta    Zustand, Zustands, Zustandsabstraktion, Zustandsanalyse, Zustandsdatenbank, Zustandsupdates, Zustandsvektor
+  erzäh    Erzähler, Erzählerlebnis, Erzählers, Erzählperspektiven, Erzählung, Erzählwelt
+  narra    Narration, Narrations, Narrative, Narrativen, Narratives, Narrator
+  proto    Protocol, Protokoll, Protokollierung, Protokolls, Prototyping
+  risik    Risiken, Risiko, Risikoanalyse, Risikominimierung, Risikos
+  agent    Agent, Agenten, Agentic, Agents
+  conce    Concepts, Conceptualizing, Concern, Concerns
+  drama    Dramatica, Dramaturgische, Dramaturgischen, Dramaturgischer
+  dynam    Dynamic, Dynamik, Dynamiken, Dynamische
+  eleme    Element, Elemente, Elementen, Elements
+  gesam    Gesamterzählung, Gesamtsystem, Gesamtsystems, Gesamtzustand
+  konte    Kontemplation, Kontext, Kontextfensters, Kontextkompression
+  kontr    Kontradiktionsprüfung, Kontrapunkt, Kontrolle, Kontrollsysteme
+  model    Model, Modell, Modells, Models
+  proze    Prozess, Prozesse, Prozessen, Prozesses
+  story    Story, Storyform, Storyforms, Storymind
+  abstr    Abstraktion, Abstraktionsebenen, Abstraktionsmodell
+  analy    Analyse, Analysiert, Analysis
+  chara    Character, Charakter, Charaktere
+  diese    Diese, Dieser, Dieses
+  gener    Generating, Generation, Generierung
+  handl    Handlung, Handlungsmacht, Handlungsstränge
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Fakten
+  Akte < Akteure
+  Akte < Charakter
+  Akte < Artefakten
+  Akte < Charaktere
+  Akte < Hauptcharakter
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Bausteine
+  Fakt < Fakten
+  Fakt < Artefakten
+  Form < Storyform
+  Form < Storyforms
+  Form < Formulierung
+  Form < Transforming
+  Form < Informationen
+  Form < Transformation
+  Game < Games
