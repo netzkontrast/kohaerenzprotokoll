@@ -1,0 +1,263 @@
+{
+  "document": "roman-analyse-kohaerenz-protokoll-akt-i",
+  "drive_id": "1fE36c8V2_zjr-5gn8q3EjqDVPbKvVD1vaWIfm1IhIaM",
+  "step": "probes",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 53,
+  "backslash_escapes": 112,
+  "typographic_marks": 84,
+  "ascii_quotes": 8,
+  "inflection_families": {
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissonanzen",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativen"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrasten",
+      "Kontrolle",
+      "Kontrollsystem",
+      "Kontrollsystems",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "leser": [
+      "Leser",
+      "Lesererfahrung",
+      "Lesererschöpfung",
+      "Leserpsychologische",
+      "Lesers",
+      "Lesersteuerungs"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählers",
+      "Erzählinstanz",
+      "Erzählung",
+      "Erzählweise"
+    ],
+    "ident": [
+      "Identifikationsfläche",
+      "Identity",
+      "Identitäten",
+      "Identitätsstörung",
+      "Identitätsverlust"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsaustausch",
+      "Informationsfragment",
+      "Informationsökonomie"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativen",
+      "Narratives",
+      "Narrator"
+    ],
+    "syste": [
+      "System",
+      "Systemanforderungen",
+      "Systemeingriff",
+      "Systems",
+      "Systemverstehen"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theoretischer",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "umgeb": [
+      "Umgebung",
+      "Umgebungsbedingung",
+      "Umgebungshitze",
+      "Umgebungsluft",
+      "Umgebungsreaktionen"
+    ],
+    "unter": [
+      "Unterbewusstsein",
+      "Unterbewusstseins",
+      "Unterbrechungen",
+      "Unterdrückung",
+      "Untersuchung"
+    ],
+    "wisse": [
+      "Wissen",
+      "Wissensstand",
+      "Wissenstransfer",
+      "Wissenstransfers",
+      "Wissensvorsprung"
+    ],
+    "besch": [
+      "Beschleunige",
+      "Beschreibe",
+      "Beschreibung",
+      "Beschreibungen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionalität",
+      "Emotionen"
+    ],
+    "erhol": [
+      "Erholung",
+      "Erholungsphase",
+      "Erholungsphasen",
+      "Erholungstal"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "gedan": [
+      "Gedanken",
+      "Gedankengänge",
+      "Gedankenkontrolle",
+      "Gedankenstränge"
+    ],
+    "grenz": [
+      "Grenzen",
+      "Grenzerfahrung",
+      "Grenzsituation",
+      "Grenzsituationen"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstruktionen"
+    ],
+    "körpe": [
+      "Körper",
+      "Körperlicher",
+      "Körperlichkeit",
+      "Körpertemperatur"
+    ],
+    "schwe": [
+      "Schwebe",
+      "Schweiß",
+      "Schwerelosigkeit",
+      "Schwerkraft"
+    ],
+    "spann": [
+      "Spannung",
+      "Spannungserzeugung",
+      "Spannungskurve",
+      "Spannungsreduktion"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategie",
+      "Strategien",
+      "Strategies"
+    ],
+    "sympt": [
+      "Symptom",
+      "Symptome",
+      "Symptomen",
+      "Symptoms"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstandes",
+      "Verstehen",
+      "Verständnis"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Atem",
+      "Atemnot"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Leitbild"
+    ],
+    [
+      "Bild",
+      "Weltbild"
+    ],
+    [
+      "Bild",
+      "Bildgebung"
+    ],
+    [
+      "Bild",
+      "Weltbilder"
+    ],
+    [
+      "Bild",
+      "Traumbilder"
+    ],
+    [
+      "Bild",
+      "Spiegelbildes"
+    ],
+    [
+      "Bind",
+      "Bindung"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Cont",
+      "Contributes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Stolpersteine"
+    ],
+    [
+      "Ende",
+      "Beende"
+    ],
+    [
+      "Ende",
+      "Wachsende"
+    ],
+    [
+      "Ende",
+      "Blendendes"
+    ]
+  ]
+}

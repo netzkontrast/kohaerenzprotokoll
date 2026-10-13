@@ -1,0 +1,92 @@
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Informationsökonomie"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Informationsökonomie` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#14]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Übergang"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Übergang` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#13]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Juna"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Juna` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#5]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Kernwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelt` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#2]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Arbeitstitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Arbeitstitel` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#1]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Landauer-Prinzip"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Landauer-Prinzip` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#5]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Hitze"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Hitze` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#8]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Ozon"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            9
+
+`Ozon` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#6]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Wartungsschächte"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Wartungsschächte` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#2]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Bounded Narrative Empathy"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bounded Narrative Empathy` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#1]
+
+$ python3 scripts/read.py roman-analyse-kohaerenz-protokoll-akt-i --count "Bounded Empathy"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Bounded Empathy` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#3]
+
+stance_marker_count 27 = Informationsökonomie 14 + Übergang 13
+$ python3 scripts/capture.py roman-analyse-kohaerenz-protokoll-akt-i --count  (candidates 75 in census-draft)
+0
+$ grep -c "Zugriff am April 8, 2026" (46 entries)
+whole word, case-sensitive     46
+whole word, case-insensitive   46
+including compounds            46
+
+`Zugriff am April 8, 2026` ^[roman-analyse-kohaerenz-protokoll-akt-i.md:#46]
+$ grep -c "\\*\\*" Sources/drive/roman-analyse-kohaerenz-protokoll-akt-i.md  (escaped bold marks, lines)
+20
+$ census-draft: Kaels x24, Junas x2, profile glued ref numbers 53, ascii quotes 8 (01-profile.txt)
+8:  typographic marks    84   ascii quotes 8
+11:  glued ref numbers    53
+1

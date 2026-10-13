@@ -1,0 +1,439 @@
+{
+  "document": "roman-analyse-kohaerenz-protokoll-akt-i",
+  "step": "reconcile-pre",
+  "at": "2026-10-13",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-13",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 75,
+  "decisions": 75,
+  "same_surface": {},
+  "decided_mechanically": 72,
+  "needs_judgement": 3,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 323
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 287
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 188
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 116
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 189
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 126
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 334
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 161
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 122
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Die Architektur der Dissoziation"
+      },
+      {
+        "candidate": "Alter-Persönlichkeiten"
+      },
+      {
+        "candidate": "Rationalist-Alter"
+      },
+      {
+        "candidate": "Universal Reboot"
+      },
+      {
+        "candidate": "K0-Narbe"
+      },
+      {
+        "candidate": "Landauer-Prinzip"
+      },
+      {
+        "candidate": "Ozon"
+      },
+      {
+        "candidate": "Petrichor"
+      },
+      {
+        "candidate": "Subroutine-Interferenz"
+      },
+      {
+        "candidate": "internen Konferenz"
+      },
+      {
+        "candidate": "axiomatische Lücke"
+      },
+      {
+        "candidate": "blinden Fleck"
+      },
+      {
+        "candidate": "Wartungsschächte"
+      },
+      {
+        "candidate": "Kontrollsystem"
+      },
+      {
+        "candidate": "Erwachen-Zyklus"
+      },
+      {
+        "candidate": "Geometrie der Isolation"
+      },
+      {
+        "candidate": "Das flüchtige Echo"
+      },
+      {
+        "candidate": "Echos im Fundament"
+      },
+      {
+        "candidate": "Der Glanz der Oberfläche"
+      },
+      {
+        "candidate": "Die Sprache der Schatten"
+      },
+      {
+        "candidate": "Das Gewicht der Leere"
+      },
+      {
+        "candidate": "Die Syntax des Schmerzes"
+      },
+      {
+        "candidate": "Resonanz und Widerstand"
+      },
+      {
+        "candidate": "Gravitationsanomalien"
+      },
+      {
+        "candidate": "Grenzsituationen"
+      },
+      {
+        "candidate": "Der blinde Fleck des Selbst"
+      },
+      {
+        "candidate": "Die Zuflucht"
+      },
+      {
+        "candidate": "Die Abgrund-Entscheidung"
+      },
+      {
+        "candidate": "Der erste Zusammenbruch"
+      },
+      {
+        "candidate": "Der sterile Schock"
+      },
+      {
+        "candidate": "Steriler Schock"
+      },
+      {
+        "candidate": "Wachsende Paranoia"
+      },
+      {
+        "candidate": "Der tiefe Fall"
+      },
+      {
+        "candidate": "Tiefer Fall"
+      },
+      {
+        "candidate": "Konsolidierung"
+      },
+      {
+        "candidate": "Die Eskalation"
+      },
+      {
+        "candidate": "Lesersteuerungs-Direktiven"
+      },
+      {
+        "candidate": "Informationsökonomie"
+      },
+      {
+        "candidate": "Dissoziativen Identitätsstörung"
+      },
+      {
+        "candidate": "Fugue-Zuständen"
+      },
+      {
+        "candidate": "ISSTD"
+      },
+      {
+        "candidate": "Transportation Theory"
+      },
+      {
+        "candidate": "Embodied Cognition"
+      },
+      {
+        "candidate": "Uncanny Valley"
+      },
+      {
+        "candidate": "Narrativen Empathie"
+      },
+      {
+        "candidate": "Bounded Empathy"
+      },
+      {
+        "candidate": "Bounded Narrative Empathy"
+      },
+      {
+        "candidate": "Ambassadorial Empathy"
+      },
+      {
+        "candidate": "Excitation Transfer Theory"
+      },
+      {
+        "candidate": "Terror Management Theory"
+      },
+      {
+        "candidate": "Entertained Uncertainty"
+      },
+      {
+        "candidate": "Somatic Transfer"
+      },
+      {
+        "candidate": "Embodied Reading"
+      },
+      {
+        "candidate": "Unreliable Narrator"
+      },
+      {
+        "candidate": "Scene and Sequel"
+      },
+      {
+        "candidate": "lost time"
+      },
+      {
+        "candidate": "passive influence"
+      },
+      {
+        "candidate": "Co-Consciousness"
+      },
+      {
+        "candidate": "Safe Space"
+      },
+      {
+        "candidate": "Parataxe"
+      },
+      {
+        "candidate": "Hypotaxen"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "reader fatigue"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt 1",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Hitze",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "hitzepolaritaetsregel",
+            "page": "hitze-polaritaetsregel"
+          },
+          {
+            "surface": "hitzepolaritatsregel",
+            "page": "hitze-polaritaetsregel"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 35,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 111,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 45,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 27,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
