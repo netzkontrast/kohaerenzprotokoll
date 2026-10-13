@@ -1472,3 +1472,5 @@
 {"document": "narrative-context-protocol-ncp-spezifikation", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-13"}
 {"document": "narrative-context-protocol-ncp-spezifikation", "page": "ueberwelt", "surface": "Simulation", "line": 45, "decision": "occurrence", "why": "simulation in the software sense", "at": "2026-10-13"}
 {"document": "narrative-modelle-und-dramatica-erweiterung", "page": "kohaerenz", "surface": "Kohärenz", "line": 34, "decision": "occurrence", "why": "coherence in the survey's general sense", "at": "2026-10-13"}
+{"document": "dramatica-theorie-narrativem-kontext-storyentwicklung", "page": "emergenz", "surface": "Emergenz", "line": 197, "decision": "occurrence", "why": "emergence in the exposition's general sense", "at": "2026-10-13"}
+{"document": "dramatica-theorie-narrativem-kontext-storyentwicklung", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "coherence as an ordinary noun", "at": "2026-10-13"}

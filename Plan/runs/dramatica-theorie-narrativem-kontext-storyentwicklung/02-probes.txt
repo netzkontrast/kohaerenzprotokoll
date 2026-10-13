@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      49
+  backslash escapes      124
+  typographic marks      23
+  ascii quotes           98
+
+# inflection families -- one term, several surfaces
+  story    Story, Storybeats, Storycaster, Storyform, Storyforms, Storymind, Storypoints, Storytelling, Storytellings
+  chara    Character, Characters, Charakter, Charaktere, Charakteren, Charakterentwicklung, Charaktergestaltung, Charakters
+  handl    Handlung, Handlungen, Handlungsbäume, Handlungschronologie, Handlungslogik, Handlungsstrang, Handlungsstruktur, Handlungsstränge
+  probl    Problem, Probleme, Problemen, Problemlösungsmechanismen, Problemlösungsprozess, Problemlösungsprozesses, Problemlösungsstrategie, Problems
+  autor    Autor, Autoren, Autorenbeiträgen, Autorennachweise, Autors
+  eleme    Element, Elementarebene, Elemente, Elementen, Elements
+  model    Model, Modell, Modelle, Modells, Models
+  narra    Narrative, Narrativelemente, Narrativen, Narratives, Narrativs
+  relat    Relation, Relationen, Relationship, Relativität, Relativitätstheorie
+  unter    Unterbewusstsein, Unterdrückung, Unterhaltungsindustrie, Unterstützt, Untersuchung
+  argum    Argument, Argumentation, Argumentationsfluss, Argumentationsketten
+  dynam    Dynamic, Dynamik, Dynamiken, Dynamische
+  inten    Intent, Intention, Intentionen, Intentionsraums
+  konfl    Konflikt, Konflikte, Konflikten, Konflikts
+  konze    Konzept, Konzepte, Konzepten, Konzeptualisierung
+  parad    Paradigma, Paradigmas, Paradigmen, Paradigmenwechsel
+  spiel    Spiele, Spieler, Spielers, Spielfilmen
+  unive    Universe, University, Universum, Universums
+  diese    Diese, Dieser, Dieses
+  engin    Engine, Engineering, Engines
+  entsc    Entscheidung, Entscheidungen, Entschlossenheit
+  entwi    Entwicklung, Entwicklungsprozess, Entwicklungsprozesses
+  ereig    Ereignis, Ereignisse, Ereignissen
+  erzäh    Erzählstrukturen, Erzählung, Erzählwelt
+  funkt    Funktion, Funktionen, Funktionsweise
+
+# substring pairs -- never one term, often merged by accident
+  Beat < Beats
+  Beat < Storybeats
+  Code < DreamCodeVR
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Bausteine
+  Form < Format
+  Form < Platform
+  Form < Kunstform
+  Form < Plattform
+  Form < Storyform
+  Form < Storyforms
+  Form < Plattformen
+  Form < Formulierung
+  Jede < Jeder
+  Jede < Jedes
+  Know < Knowledge
+  Main < Domain
+  Mass < Masse
