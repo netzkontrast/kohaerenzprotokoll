@@ -1,0 +1,85 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an English-German specification for agent-driven novel development on Dramatica terms. It names no figure, place or chapter of the novel; the only word near the novel's own vocabulary is `Coherence-Invarianten`, which the document uses for its own five rules. Terms below are the document's own defined or tabled terms, written as it writes them; escaped underscores are kept as the export wrote them.
+
+- Story Mind
+- Storyform
+- Storyforming
+- Story Encoding
+- Story Weaving
+- Story Reception
+- Throughlines
+- Domain
+- Concern
+- Signposts
+- Journeys
+- Story Dynamics
+- Story Goal
+- Story Outcome
+- Story Judgment
+- Story Limit
+- Story Growth
+- Timelock
+- Optionlock
+- Author's Argument
+- Main Character
+- Influence Character
+- Objective Story
+- Relationship Story
+- Choice-Space
+- Appreciations
+- Coherence-Invarianten
+- Domänen-Singularität
+- Clarifying-Question-Protokoll
+- CQ
+- Phasen-Transitions-Verträge
+- Strukturelle Contradictions
+- Inhaltliche Contradictions
+- Pragmatische Contradictions
+- Consistency Risk Score
+- CRS
+- Context Rot
+- Task Drift
+- Reward Hacking
+- Alignment Faking
+- Vocabulary Drift
+- Parameter Hallucination
+- Degeneration Loops
+- Ordering Error
+- Asymmetric Architecture
+- State Overwrite
+- Working-State
+- working\_state
+- story\_mind
+- encoding\_context
+- weaving\_timeline
+- execution\_memory
+- last\_stable\_hash
+- Episodic Memory
+- Working Memory
+- Alert Fatigue
+- Lazy Querying
+- Chain-of-Justification
+- Forward-Fix
+- State Rollback
+- Self-Correction-Loop
+- Regression-Verification Suite
+- Architectural Decision Records
+- Falsifikations-Test
+- Hybrid-Container
+- Single-Artifact-Mandat
+- Komponente A
+- Komponente O
+- INV-01
+- INV-05
+- IC-01
+- FM-01
+
+## lens
+
+- Dramatica-Theorie
+- Spec-Driven Design
+- Model Context Protocol
+- Relational Blockworld
+- Janus-Prinzip
+- Pre-Mortem

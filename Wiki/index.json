@@ -85,10 +85,11 @@
         "romananfang-leere-und-systemgenesis",
         "aegis-philosophische-und-systemtheoretische-analyse-docx",
         "the-architecture-of-a-misguided-god-a-biography-of-aegis",
-        "dramatica-storyform-kohaerenz-protokoll"
+        "dramatica-storyform-kohaerenz-protokoll",
+        "aegis-seele-und-entropie"
       ],
-      "sources": 50,
-      "readings": 48,
+      "sources": 51,
+      "readings": 49,
       "conflict": "none"
     },
     "aegis": {
@@ -431,10 +432,14 @@
         "ki-roman-design-mechaniken",
         "konsolidierung-des-hard-canon-protokolls",
         "storyforms-system-mind-bewusstsein",
-        "dramatica-dual-storyform-mapping-protokoll"
+        "dramatica-dual-storyform-mapping-protokoll",
+        "aegis-seele-und-entropie",
+        "primzahlen-als-metapher-in-kohaerenz-protokoll",
+        "multidimensionale-narrative-strukturmodelle-entwickeln",
+        "narrative-context-protocol-ncp-spezifikation"
       ],
-      "sources": 330,
-      "readings": 330,
+      "sources": 334,
+      "readings": 334,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -3001,10 +3006,13 @@
         "konsolidierung-des-hard-canon-protokolls",
         "kohaerenz-protokoll-architecture-synthesis-2",
         "storyforms-system-mind-bewusstsein",
-        "dramatica-dual-storyform-mapping-protokoll"
+        "dramatica-dual-storyform-mapping-protokoll",
+        "primzahlen-als-metapher-in-kohaerenz-protokoll",
+        "multidimensionale-narrative-strukturmodelle-entwickeln",
+        "narrative-context-protocol-ncp-spezifikation"
       ],
-      "sources": 284,
-      "readings": 284,
+      "sources": 287,
+      "readings": 287,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -3393,10 +3401,13 @@
         "ki-roman-design-mechaniken",
         "konsolidierung-des-hard-canon-protokolls",
         "storyforms-system-mind-bewusstsein",
-        "dramatica-dual-storyform-mapping-protokoll"
+        "dramatica-dual-storyform-mapping-protokoll",
+        "primzahlen-als-metapher-in-kohaerenz-protokoll",
+        "multidimensionale-narrative-strukturmodelle-entwickeln",
+        "narrative-context-protocol-ncp-spezifikation"
       ],
-      "sources": 319,
-      "readings": 320,
+      "sources": 322,
+      "readings": 323,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3762,10 +3773,12 @@
         "dramatica-storyform-kohaerenz-protokoll-2",
         "dramatica-storyform-validierung-und-synthese",
         "konsolidierung-des-hard-canon-protokolls",
-        "storyforms-system-mind-bewusstsein"
+        "storyforms-system-mind-bewusstsein",
+        "primzahlen-als-metapher-in-kohaerenz-protokoll",
+        "multidimensionale-narrative-strukturmodelle-entwickeln"
       ],
-      "sources": 220,
-      "readings": 219,
+      "sources": 222,
+      "readings": 221,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -3947,10 +3960,11 @@
         "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
         "untersuche-in-wie-fern-juna-bzw-das-fundament-du",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
-        "dramatica-storyform-kohaerenz-protokoll-2"
+        "dramatica-storyform-kohaerenz-protokoll-2",
+        "multidimensionale-narrative-strukturmodelle-entwickeln"
       ],
-      "sources": 173,
-      "readings": 174,
+      "sources": 174,
+      "readings": 175,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -4679,10 +4693,11 @@
         "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
         "untersuche-in-wie-fern-juna-bzw-das-fundament-du",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
-        "roman-kapitel-entwurf-mit-kohaerenzprotokoll"
+        "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+        "multidimensionale-narrative-strukturmodelle-entwickeln"
       ],
-      "sources": 186,
-      "readings": 187,
+      "sources": 187,
+      "readings": 188,
       "conflict": "none"
     },
     "lia": {
@@ -5332,10 +5347,11 @@
         "dramatica-storyform-validierung-und-synthese",
         "konsolidierung-des-hard-canon-protokolls",
         "kohaerenz-protokoll-architecture-synthesis-2",
-        "storyforms-system-mind-bewusstsein"
+        "storyforms-system-mind-bewusstsein",
+        "primzahlen-als-metapher-in-kohaerenz-protokoll"
       ],
-      "sources": 159,
-      "readings": 159,
+      "sources": 160,
+      "readings": 160,
       "conflict": "none"
     },
     "moros": {
@@ -5927,10 +5943,11 @@
         "dramatica-storyform-kohaerenz-protokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
-        "konsolidierung-des-hard-canon-protokolls"
+        "konsolidierung-des-hard-canon-protokolls",
+        "multidimensionale-narrative-strukturmodelle-entwickeln"
       ],
-      "sources": 136,
-      "readings": 136,
+      "sources": 137,
+      "readings": 137,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -6139,10 +6156,11 @@
         "untersuche-in-wie-fern-juna-bzw-das-fundament-du",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "roman-kapitel-1-generierungsprozess",
-        "dramatica-storyform-kohaerenz-protokoll-2"
+        "dramatica-storyform-kohaerenz-protokoll-2",
+        "multidimensionale-narrative-strukturmodelle-entwickeln"
       ],
-      "sources": 187,
-      "readings": 188,
+      "sources": 188,
+      "readings": 189,
       "conflict": "C10"
     },
     "oblivion": {
@@ -6439,10 +6457,11 @@
         "operationalizing-system-collapse-a-strategic-guide-to-aegis",
         "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
-        "dramatica-storyform-kohaerenz-protokoll"
+        "dramatica-storyform-kohaerenz-protokoll",
+        "primzahlen-als-metapher-in-kohaerenz-protokoll"
       ],
-      "sources": 91,
-      "readings": 92,
+      "sources": 92,
+      "readings": 93,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -6986,10 +7005,11 @@
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "konsolidierung-des-hard-canon-protokolls",
         "storyforms-system-mind-bewusstsein",
-        "dramatica-dual-storyform-mapping-protokoll"
+        "dramatica-dual-storyform-mapping-protokoll",
+        "multidimensionale-narrative-strukturmodelle-entwickeln"
       ],
-      "sources": 236,
-      "readings": 236,
+      "sources": 237,
+      "readings": 237,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -7792,10 +7812,11 @@
         "kohaerenz-protokoll-master-outline",
         "ki-roman-design-mechaniken",
         "konsolidierung-des-hard-canon-protokolls",
-        "storyforms-system-mind-bewusstsein"
+        "storyforms-system-mind-bewusstsein",
+        "multidimensionale-narrative-strukturmodelle-entwickeln"
       ],
-      "sources": 195,
-      "readings": 195,
+      "sources": 196,
+      "readings": 196,
       "conflict": "none yet"
     },
     "ueberraum": {
