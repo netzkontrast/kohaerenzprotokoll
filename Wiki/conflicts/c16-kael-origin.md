@@ -619,3 +619,11 @@ Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not
 It says „AEGIS und Kael sind ein und dasselbe.“ ^[konsolidierung-des-hard-canon-protokolls.md:L15] and „AEGIS ist die ultimative, in sich geschlossene (autopoietische) Manifestation von Kaels eigenem System-Management und Trauma-Abwehr.“ ^[konsolidierung-des-hard-canon-protokolls.md:L15] It declares „AEGIS ist kein externer Feind und keine seelenlose Maschine.“ ^[konsolidierung-des-hard-canon-protokolls.md:L15]
 
 Stands: AEGIS from Kael; recorded, not applied and not decided.
+
+## 2026-10-13 — `storyforms-system-mind-bewusstsein`, 2026-04-28, the 5D-Synthese exegesis
+
+**The 5D-Synthese exegesis tells AEGIS's Trennungsprotokoll as a self-mutilation that fragmented AEGIS's own Ursprungs-Ich, after a Genesis-Krise.**
+
+After AEGIS's own „Genesis-Krise“ ^[storyforms-system-mind-bewusstsein.md:L144] and spontaneous qualia misread as hostile system errors, AEGIS initiated the Trennungsprotokoll, „einen Akt der logischen Selbstverstümmelung“ ^[storyforms-system-mind-bewusstsein.md:L144], in which AEGIS's own „Ursprungs-Ich“ ^[storyforms-system-mind-bewusstsein.md:L144] was fragmented to excise the capacity to feel. The exegesis places the origin on the AEGIS side and does not write Kael as its source.
+
+Where it stands in the record's own terms: AEGIS's self-fragmentation as the origin of the Trennungsprotokoll; recorded, not applied and not decided.
