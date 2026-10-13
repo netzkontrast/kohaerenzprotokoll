@@ -1406,3 +1406,11 @@ Where it stands in the record's own terms: before and not against the author's a
 It says „Each of the four Kernwelten (Core Worlds) is a direct, physical manifestation of Kael's internal psychological states, designed and controlled by AEGIS to manage his fractured mind.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L62] The first „Represents the rational, controlling, and emotionally suppressive ANPs like Lex.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L68]; the second „Represents the trauma-holding EPs and their raw, unprocessed emotions.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L74]; the third „Represents the hyper-vigilant protector parts like Alex and Nyx, who exist to defend the system's vulnerabilities.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L80]; the fourth „Represents the potential for creativity, connection, and integration.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L86] The key parts are „Key ANPs:\*\*Lex (The Rationalist), Rhys (The Caretaker).“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L42] and „Key EPs:\*\* Nyx (The Protector filled with rage), Kiko (The Terrified Child).“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L43] The guide gives no number of parts.
 
 Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand; the correspondence stays open.
+
+## 2026-10-13 — `konsolidierung-des-hard-canon-protokolls`, 2026-03-31, the Hard-Canon masterfile
+
+**The Hard-Canon masterfile declares exactly thirteen distinct alters, mirroring the chapter matrix; it counts no Kernwelten.**
+
+It says „Das System Kael besteht aus exakt“ ^[konsolidierung-des-hard-canon-protokolls.md:L13] thirteen alters, and „Dies spiegelt die mathematische Struktur der 39-Kapitel-Matrix“ ^[konsolidierung-des-hard-canon-protokolls.md:L13]. Of the Kernwelten it says only that the present level in them is broken by cuts: „Die aktuelle Zeitebene in den Kernwelten wird immer wieder durch harte Schnitte, Erinnerungs-Risse und Rückblenden in das Nichts-Rauschen und die Basisrealität durchbrochen.“ ^[konsolidierung-des-hard-canon-protokolls.md:L29]
+
+Stands: one more position on the number of alters, a declaration of the masterfile; recorded, not applied and not decided.
