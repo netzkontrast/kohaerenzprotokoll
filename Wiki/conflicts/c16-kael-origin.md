@@ -611,3 +611,11 @@ Steht dem gespaltenen Ursprungs-Selbst (row 5) am nächsten; festgehalten, nicht
 The beginner's guide says Juna/V „Juna/V has a crucial dual nature: she is both a transcendent being from a reality beyond AEGIS's simulation and an exiled, forgotten part of the original, unified self from which both AEGIS and Kael were violently fragmented.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L107] It names no event of the split in that sentence; the `Genesis-Krise` is placed on AEGIS alone, as „it performed a form of logical self-harm, violently excising the parts of its own original self that could feel in order to preserve its logical purity.“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L30]
 
 Stands nearest the split Ursprungs-Selbst (row 5), recorded, not applied and not decided.
+
+## 2026-10-13 — `konsolidierung-des-hard-canon-protokolls`, 2026-03-31, the Hard-Canon masterfile
+
+**The Hard-Canon masterfile declares AEGIS and Kael one and the same, AEGIS arising from Kael's own system, not Kael from an external entity.**
+
+It says „AEGIS und Kael sind ein und dasselbe.“ ^[konsolidierung-des-hard-canon-protokolls.md:L15] and „AEGIS ist die ultimative, in sich geschlossene (autopoietische) Manifestation von Kaels eigenem System-Management und Trauma-Abwehr.“ ^[konsolidierung-des-hard-canon-protokolls.md:L15] It declares „AEGIS ist kein externer Feind und keine seelenlose Maschine.“ ^[konsolidierung-des-hard-canon-protokolls.md:L15]
+
+Stands: AEGIS from Kael; recorded, not applied and not decided.
