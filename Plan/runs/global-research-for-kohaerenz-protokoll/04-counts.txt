@@ -1,0 +1,53 @@
+# counts for 45 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll Synthesis      6 word     6 in   [11, 13, 19, 53, 151, 179]
+  Kohärenz Protokoll               12 word    12 in   [11, 13, 19, 53, 67, 71]
+  Dual-Kernel Theory                5 word     5 in   [11, 13, 17, 19, 139]
+  DKT                               5 word     5 in   [13, 19, 27, 31, 40]
+  Coherence Kernel                  3 word     3 in   [19, 23, 109]
+  Erasure Kernel                    3 word     3 in   [19, 25, 109]
+  Persistence Equation              1 word     1 in   [33]
+  Semantic Constant                 4 word     4 in   [61, 63, 67, 161]
+  thermodynamic scars               2 word     2 in   [59, 160]
+  spatial rifts                     1 word     1 in   [59]
+  entropy debt                      3 word     3 in   [59, 79]
+  recursive witness                 2 word     2 in   [49, 133]
+  witness function                  5 word     6 in   [87, 89, 101, 133, 145, 168]
+  Prover                            3 word     3 in   [89, 98, 168]
+  Verifier                          3 word     3 in   [91, 98, 168]
+                                    1      as verifiers
+  actual occasions                  8 word     8 in   [15, 109, 113, 119, 121, 145]
+  Landauer erasure                  3 word     3 in   [67, 79, 99]
+  Landauer cost                     2 word     4 in   [89, 138, 157]
+  Story Mind                        2 word     2 in   [125, 129]
+  Non-Accurate                      6 word     6 in   [127, 129, 131, 141]
+  Accurate                          2 word     8 in   [127, 129, 131, 141]  <-- substring
+                                    2      as accurately
+  Global Work Packages              1 word     1 in   [153]
+  GWP 1                             1 word     1 in   [155]
+  GWP 2                             1 word     1 in   [163]
+  GWP 3                             1 word     1 in   [171]
+  Interface                         1 word     2 in   [47, 96]
+  Now                               1 word     1 in   [113]
+  5D orthogonal phase spaces        2 word     2 in   [111, 176]
+  buffering capacity                3 word     3 in   [37, 40, 160]
+  entropic handshake                1 word     1 in   [40]
+  Target Collaborations             3 word     3 in   [159, 167, 175]
+  Experimental Pipeline             3 word     3 in   [160, 168, 176]
+  Objective                         3 word     4 in   [161, 169, 177, 197]
+                                    1      as objectives
+  Referenzen                        1 word     1 in   [181]
+  Integrated Information Theory     3 word     3 in   [15, 71, 95]
+  Global Workspace Theory           3 word     3 in   [15, 71, 95]
+  Free Energy Principle             2 word     2 in   [61, 65]
+  Dramatica Theory                  1 word     1 in   [125]
+  Zero-Knowledge Proofs             5 word     5 in   [15, 81, 83, 145, 168]
+  Dialetheism                       3 word     3 in   [103, 115, 117]
+  Markov blanket                    2 word     2 in   [117, 176]
+  implicate order                   2 word     2 in   [111, 176]
+  explicate order                   2 word     2 in   [111, 176]
+  Born rule                         1 word     1 in   [31]
+  Kishōtenketsu                     1 word     1 in   [147]

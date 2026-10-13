@@ -1,0 +1,413 @@
+{
+  "document": "global-research-for-kohaerenz-protokoll",
+  "drive_id": "1BNxuf-BOD_jndsfaViPuzMOcC_YmAAAjp91lK440eU0",
+  "step": "counts",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll Synthesis": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        13,
+        19,
+        53,
+        151,
+        179
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        11,
+        13,
+        19,
+        53,
+        67,
+        71,
+        83,
+        105,
+        125,
+        147,
+        151,
+        179
+      ]
+    },
+    "Dual-Kernel Theory": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        13,
+        17,
+        19,
+        139
+      ]
+    },
+    "DKT": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        19,
+        27,
+        31,
+        40
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        23,
+        109
+      ]
+    },
+    "Erasure Kernel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        25,
+        109
+      ]
+    },
+    "Persistence Equation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Semantic Constant": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        63,
+        67,
+        161
+      ]
+    },
+    "thermodynamic scars": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        160
+      ]
+    },
+    "spatial rifts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "entropy debt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        79
+      ]
+    },
+    "recursive witness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        133
+      ]
+    },
+    "witness function": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        87,
+        89,
+        101,
+        133,
+        145,
+        168
+      ]
+    },
+    "Prover": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        89,
+        98,
+        168
+      ]
+    },
+    "Verifier": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        98,
+        168
+      ]
+    },
+    "actual occasions": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        109,
+        113,
+        119,
+        121,
+        145,
+        173
+      ]
+    },
+    "Landauer erasure": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        79,
+        99
+      ]
+    },
+    "Landauer cost": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        89,
+        138,
+        157
+      ]
+    },
+    "Story Mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        129
+      ]
+    },
+    "Non-Accurate": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        127,
+        129,
+        131,
+        141
+      ]
+    },
+    "Accurate": {
+      "n": 2,
+      "n_including_compounds": 8,
+      "lines": [
+        127,
+        129,
+        131,
+        141
+      ]
+    },
+    "Global Work Packages": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "GWP 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "GWP 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "GWP 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Interface": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        96
+      ]
+    },
+    "Now": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "5D orthogonal phase spaces": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        176
+      ]
+    },
+    "buffering capacity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        40,
+        160
+      ]
+    },
+    "entropic handshake": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Target Collaborations": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        159,
+        167,
+        175
+      ]
+    },
+    "Experimental Pipeline": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        160,
+        168,
+        176
+      ]
+    },
+    "Objective": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        161,
+        169,
+        177,
+        197
+      ]
+    },
+    "Referenzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Integrated Information Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        71,
+        95
+      ]
+    },
+    "Global Workspace Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        71,
+        95
+      ]
+    },
+    "Free Energy Principle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        65
+      ]
+    },
+    "Dramatica Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Zero-Knowledge Proofs": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        81,
+        83,
+        145,
+        168
+      ]
+    },
+    "Dialetheism": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        115,
+        117
+      ]
+    },
+    "Markov blanket": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        117,
+        176
+      ]
+    },
+    "implicate order": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        176
+      ]
+    },
+    "explicate order": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        176
+      ]
+    },
+    "Born rule": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kishōtenketsu": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    }
+  }
+}

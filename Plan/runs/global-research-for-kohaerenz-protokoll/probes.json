@@ -1,0 +1,205 @@
+{
+  "document": "global-research-for-kohaerenz-protokoll",
+  "drive_id": "1BNxuf-BOD_jndsfaViPuzMOcC_YmAAAjp91lK440eU0",
+  "step": "probes",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 47,
+  "backslash_escapes": 96,
+  "typographic_marks": 37,
+  "ascii_quotes": 70,
+  "inflection_families": {
+    "inter": [
+      "Interface",
+      "Internet",
+      "Interpretation",
+      "Interpretations"
+    ],
+    "proof": [
+      "PROOFS",
+      "Proof",
+      "Proofs",
+      "ProofsArgsAndZK"
+    ],
+    "colla": [
+      "Collaborations",
+      "Collaborative",
+      "Collapse"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanism",
+      "Mechanisms"
+    ],
+    "proto": [
+      "Proto",
+      "Protocol",
+      "Protokoll"
+    ],
+    "relat": [
+      "Relational",
+      "Relativistic",
+      "Relativity"
+    ],
+    "resea": [
+      "Research",
+      "ResearchGate",
+      "Researchers"
+    ],
+    "archi": [
+      "Architecture",
+      "Archive"
+    ],
+    "chara": [
+      "Character",
+      "Characteristics"
+    ],
+    "conce": [
+      "Concepts",
+      "Conceptual"
+    ],
+    "consc": [
+      "Conscious",
+      "Consciousness"
+    ],
+    "coord": [
+      "Coordinates",
+      "Coordination"
+    ],
+    "corre": [
+      "Correlate",
+      "Correlates"
+    ],
+    "crypt": [
+      "Cryptocurrency",
+      "Cryptographic"
+    ],
+    "diale": [
+      "Dialetheic",
+      "Dialetheism"
+    ],
+    "dilem": [
+      "DILEMMAS",
+      "Dilemma"
+    ],
+    "discu": [
+      "Discuss",
+      "Discussion"
+    ],
+    "effic": [
+      "Efficiency",
+      "Efficient"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "exper": [
+      "Experience",
+      "Experimental"
+    ],
+    "funct": [
+      "Function",
+      "Functions"
+    ],
+    "illus": [
+      "Illusion",
+      "Illusionism"
+    ],
+    "integ": [
+      "Integral",
+      "Integrated"
+    ],
+    "intel": [
+      "Intellectual",
+      "Intelligence"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Semantic"
+    ],
+    [
+      "Anti",
+      "Semantics"
+    ],
+    [
+      "Anti",
+      "Quantifying"
+    ],
+    [
+      "Bohm",
+      "Bohmian"
+    ],
+    [
+      "Just",
+      "Justice"
+    ],
+    [
+      "Mind",
+      "Storymind"
+    ],
+    [
+      "Post",
+      "Posterior"
+    ],
+    [
+      "Real",
+      "Reality"
+    ],
+    [
+      "Time",
+      "Mortimer"
+    ],
+    [
+      "Wiki",
+      "Wikipedia"
+    ],
+    [
+      "Work",
+      "Networks"
+    ],
+    [
+      "Work",
+      "Workspace"
+    ],
+    [
+      "ZERO",
+      "Zero"
+    ],
+    [
+      "Learn",
+      "Learning"
+    ],
+    [
+      "Light",
+      "LetThereBeLight"
+    ],
+    [
+      "Multi",
+      "Multiple"
+    ],
+    [
+      "Neuro",
+      "Neuroimaging"
+    ],
+    [
+      "Proof",
+      "PROOFS"
+    ],
+    [
+      "Proof",
+      "Proofs"
+    ],
+    [
+      "Proof",
+      "ProofsArgsAndZK"
+    ]
+  ]
+}
