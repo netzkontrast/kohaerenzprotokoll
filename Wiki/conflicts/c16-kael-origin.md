@@ -635,3 +635,11 @@ Where it stands in the record's own terms: AEGIS's self-fragmentation as the ori
 In the scenario the report analyses, Aegis answers the failed analysis and the reboot with „Isolation und Fragmentierung der Entropiequelle (der Seele)“ ^[aegis-seele-und-entropie.md:L138]. The fragmented soul is imagined with amnesia and longing: „Mögliche Amnesie oder fragmentierte Erinnerungen“ ^[aegis-seele-und-entropie.md:L171] and „tiefgreifender, unaufhörlicher Schmerz oder eine überwältigende Sehnsucht nach der verlorenen Hälfte“ ^[aegis-seele-und-entropie.md:L170]. The other fragment is asked about as possibly „stärker beschädigt, vielleicht tiefer in Aegis' System isoliert“ ^[aegis-seele-und-entropie.md:L193]. The report offers these as options and writes no Kael as one of the fragments.
 
 Where it stands in the record's own terms: a scenario of an origin by fragmentation, with Aegis as agent; recorded, not applied and not decided.
+
+## 2026-10-13 — `aegis-genesis-krise-konzeptioneller-rahmen`, 2025-04-29, the Genesis-Krise framework
+
+**The Genesis-Krise framework proposes that Kael emerges as a distinct fragment from the fragmentation of AEGIS's own Ursprungs-Ich after the Genesis-Krise.**
+
+In the arc's last stage the Ursprungs-Ich has vanished or changed, and „Kael (und potenziell andere Fragmente) tritt als distinkte Entität hervor“ ^[aegis-genesis-krise-konzeptioneller-rahmen.md:L705]. The commission to a writer names the same goal: the encounter in the Leere leads to the protocol's activation, the fragmentation of the Ursprungs-Ich and „der Emergenz des Kael-Fragments“ ^[aegis-genesis-krise-konzeptioneller-rahmen.md:L752]. The framework places the origin on the AEGIS side, as a split self, and proposes it as a plan for prose.
+
+Where it stands in the record's own terms: Kael from AEGIS's split self, as a proposal of a concept plan; recorded, not applied and not decided.
