@@ -1,10 +1,10 @@
 ---
 term: Verschränkungs-Insel
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-synthese-mit-dual-kernel-theorie"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-synthese-mit-dual-kernel-theorie", "dramatica-dual-storyform-mapping-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -19,6 +19,10 @@ The DKT synthesis, an analysis of the plot, writes in Kapitel 33, `Jenseits des 
 ## Reading — `roman-refactoring-kohaerenz-und-charakterentwicklung`, 2026-02-26, the refactoring plan — Selene establishing an entanglement island for Kael and Juna
 
 The refactoring plan is an assistant's proposal to the author; in Kapitel 26 it has Selene recognise the entanglement, and writes that their mutual information gives rise to „die Etablierung einer Verschränkungs-Insel“ ^[roman-refactoring-kohaerenz-und-charakterentwicklung.md:L106]. The physics (Replica Wormholes, Entanglement Islands) is the plan's report of a theory, with footnotes.
+
+## Reading — `dramatica-dual-storyform-mapping-protokoll`, 2026-04-30, the dual-storyform mapping report — the island described for Kapitel 33, isolated by entanglement
+
+The dual-storyform mapping report says a „Verschränkungs-Insel“ ^[dramatica-dual-storyform-mapping-protokoll.md:L79] is described in Kapitel 33, one „die kausal vom restlichen System isoliert ist“ ^[dramatica-dual-storyform-mapping-protokoll.md:L79]. It sets this against earlier descriptions of total surveillance and resolves it: „Die Isolation ist ein Effekt der Quanten-Verschränkung“ ^[dramatica-dual-storyform-mapping-protokoll.md:L82], which undermines AEGIS' access permissions mathematically.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
