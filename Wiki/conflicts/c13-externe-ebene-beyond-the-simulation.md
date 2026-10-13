@@ -394,3 +394,11 @@ One more position in the record, a draft's; recorded, not applied and not decide
 The plan names the level among the borders that flicker: „der realen Welt des Autors/Lesers“ ^[kohaerenz-protokoll-master-outline.md:L73]. Kael's visit: „Er sieht die Welt des Lesers“ ^[kohaerenz-protokoll-master-outline.md:L74], where „dieselbe Entropie und dieselbe Unvollständigkeit herrschen“ ^[kohaerenz-protokoll-master-outline.md:L74]. The annotation: „Der Besuch der externen Ebene muss so subtil“ ^[kohaerenz-protokoll-master-outline.md:L81] glitched, so that the reader doubts „ob seine eigene Welt nicht auch nur eine Ebene des Konstrukts ist“ ^[kohaerenz-protokoll-master-outline.md:L81].
 
 One more position in the record, a plan's; recorded, not applied and not decided.
+
+## 2026-10-13 — `dramatica-dual-storyform-mapping-protokoll`, 2026-04-30, the dual-storyform mapping report
+
+**The dual-storyform mapping report's phase model ends Kapitel 36–39 with a crossing of the border to an external level, and has Kael look into the screen in Kapitel 36; it gives no account of what that level is.**
+
+The phase model names the crossing in one line: „Dekonstruktion der Geschichte; Grenzüberschreitung zum externen Level (Köln 2026)“ ^[dramatica-dual-storyform-mapping-protokoll.md:L185]. In its added section the report places Kael's look into the screen in Kapitel 36: „in den Bildschirm blickt, erkennt er die“ ^[dramatica-dual-storyform-mapping-protokoll.md:L215] algebraic nature of Kael's own existence, per the report.
+
+One more position in the record, a report's; recorded, not applied and not decided.
