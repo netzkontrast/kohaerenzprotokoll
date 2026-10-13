@@ -1,0 +1,51 @@
+# counts for 37 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            25 word    25 in   [25, 29, 38, 47, 62, 90]
+  Kael                             17 word    22 in   [29, 47, 64, 92, 94, 117]
+                                    4      as Kaels
+                                    1      as Kael-System
+  Lex                               2 word     2 in   [174, 175]
+  Nyx                               2 word     2 in   [174, 175]
+  Kiko                              1 word     1 in   [174]
+  Juna/V                           22 word    28 in   [11, 23, 38, 52, 64, 73]
+                                    3      as Juna/Vs
+                                    2      as Juna/V-Verbindung
+                                    1      as Juna/V-Link
+  Das Fundament                    12 word    12 in   [23, 29, 64, 73, 87, 89]
+  Moonshine-Link                    3 word     3 in   [56, 93, 166]
+  Ursprungs-Ich                     4 word     7 in   [11, 47, 114, 120, 146, 148]
+                                    3      as Ursprungs-Ichs
+  Genesis-Krise                     4 word     6 in   [34, 47, 111, 114, 148, 154]
+                                    2      as Genesis-Krise-Paradoxon
+  Genesis-Krise-Paradoxon           2 word     2 in   [34, 111]
+  Kernwelten                        1 word     1 in   [120]
+  Skinner-Boxen                     1 word     1 in   [120]
+  Kohärenz Protokoll                2 word     2 in   [73, 120]
+  Juna Album                        1 word     1 in   [172]
+  TSDP                              3 word     5 in   [47, 117, 120, 174, 180]
+                                    2      as TSDP-Struktur
+  ANPs                              1 word     1 in   [120]
+  Gnosis                            7 word     7 in   [38, 64, 92, 114, 135, 161]
+  Episteme                          3 word     3 in   [64, 92, 135]
+  Exilant                           1 word     1 in   [161]
+  Externe Ebene                     1 word     1 in   [161]
+  Zerstückelung                     2 word     2 in   [47, 120]
+  Bifurkation                       1 word     1 in   [154]
+  Host                              3 word     3 in   [159, 174, 175]
+                                    1      as hostile
+  Manager                           1 word     1 in   [159]
+  Ruf zur Ganzheit                  1 word     1 in   [152]
+  Katalysator                       5 word     5 in   [64, 91, 92, 126, 135]
+  unerkennbare Entität              3 word     3 in   [38, 111, 154]
+  operativ geschlossen              1 word     2 in   [29, 107]
+  Kategorienfehler                  2 word     2 in   [38, 114]
+  externalisierten Täterintrojekts    1 word     1 in   [120]
+  seltsamer Attraktor               2 word     2 in   [29, 90]
+  ER=EPR-Vermutung                  3 word     3 in   [60, 94, 131]
+  Einstein-Rosen-Brücke             2 word     2 in   [60, 94]
+  Frame Problem                     1 word     1 in   [114]
+  Deus ex Machina                   4 word     4 in   [52, 56, 124, 126]
+  IFS                               1 word     2 in   [172, 180]

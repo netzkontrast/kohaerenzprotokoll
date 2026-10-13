@@ -1,0 +1,350 @@
+{
+  "document": "objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g",
+  "drive_id": "1EQNMOU3TxIKiFnBUn24o_IlAw6qD-G9_ZBtasj6vcZI",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 30,
+      "n_including_compounds": 30,
+      "lines": [
+        15,
+        25,
+        27,
+        31,
+        39,
+        41,
+        43,
+        47,
+        57,
+        61,
+        69,
+        71,
+        73,
+        77,
+        79,
+        83,
+        85,
+        89,
+        95
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        53,
+        55
+      ]
+    },
+    "Kael": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        15,
+        27,
+        48,
+        53,
+        55,
+        57,
+        61,
+        73,
+        77,
+        79,
+        85,
+        89,
+        95
+      ]
+    },
+    "Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        61
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        61
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        79,
+        85
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "operational closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "epistemological blindness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        49
+      ]
+    },
+    "entropy": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        48,
+        73
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        73
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Systematic Falsification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Closed Peer Review": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "The Inquisitorial System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Confirmation Bias Engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "false balance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Bestätigungsfehler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "strongly objective": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        79,
+        95
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "view from nowhere": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        95
+      ]
+    },
+    "confirmation bias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "cognitive bias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "adversarial system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "theory-ladenness of observation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Standpoint Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "reproducibility crisis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Isolation Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Gödel's Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Tertiary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    }
+  }
+}

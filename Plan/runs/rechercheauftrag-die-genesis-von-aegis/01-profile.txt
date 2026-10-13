@@ -1,0 +1,14 @@
+# rechercheauftrag-die-genesis-von-aegis
+  lines                115  (frontmatter ends at 9)
+  body words           1047
+  headings             1   bold-only lines 4
+  table rows           0   code fences 0
+  question marks       25
+  backslash escapes    0
+  typographic marks    17   ascii quotes 22
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    3
+  repeated labels      Recherchefragen & Konzepte x3, Ziel x3
+  longest line         587 chars
+

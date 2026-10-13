@@ -1,0 +1,13 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      56
+  typographic marks      11
+  ascii quotes           48
+
+# inflection families -- one term, several surfaces
+  contr    Contradiction, Contradictions
+
+# substring pairs -- never one term, often merged by accident
+  Part < Parts
+  Contradiction < Contradictions

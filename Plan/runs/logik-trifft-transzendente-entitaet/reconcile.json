@@ -1,0 +1,109 @@
+{
+  "document": "logik-trifft-transzendente-entitaet",
+  "drive_id": "1NR78O909l5299U-ywczMHgd6eDbDm9J76njAgp9-iBg",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-301/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 40,
+    "decisions": 41,
+    "decided_by_lookup": 35,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A hypothetical analysis of Aegis meeting a transcendent entity: its new surfaces are the entity, its coinages (Aegis-Morphismus, Kernaxiom, Meta-Protokoll), the six response mechanisms, the five narrative courses and borrowed theory; what it says of Aegis, coherence and entropy went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        21,
+        23,
+        31,
+        41,
+        117,
+        119,
+        312
+      ],
+      "attribution": "",
+      "note": "Aegis as a self-referential logical system meeting a transcendent entity, a hypothesis for a novel draft"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        115,
+        119
+      ],
+      "attribution": "",
+      "note": "`logischer Entropie` as what Aegis's coherence protocol probably minimises"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        29,
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "the Kohärenzprotokoll as the process network of Aegis's operational closure"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Aegis` and `Aegis-Morphismus` on aegis, the coinage not promoted; `Kohärenzprotokoll` on kohaerenz as Aegis's mechanism; `Reinterpretation/Rationalisierung (Scheinkohärenz)` a table row, not promoted; `logischer Entropie` and `entropieminimierende logische Teilsysteme` the request's words, read with the entropy reading",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 115,
+      "decision": "reading",
+      "why": "logical entropy in the assimilation passage, the request's words"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 33,
+      "decision": "reading",
+      "why": "survival depends on internal coherence"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 121,
+      "decision": "occurrence",
+      "why": "a section heading"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 226,
+      "decision": "occurrence",
+      "why": "the borrowed Dust Theory"
+    }
+  ],
+  "not_promoted": [
+    "the transcendent entity",
+    "the Aegis-Morphismus, the Kernaxiom, the Meta-Protokoll",
+    "the six response mechanisms and the five narrative courses",
+    "the borrowed theory (autopoiesis, Gödel, Tarski, Russell, belief revision, Kant, Cantor, Dust Theory)"
+  ],
+  "internal_tension": "it uses reaction letters A–F in section 8 that its table does not write (L177–L182, L262–L312); it leaves the entity Kantian or theological (L55) and its transcendence absolute or relative (L69)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

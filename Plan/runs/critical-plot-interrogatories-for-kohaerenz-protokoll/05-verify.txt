@@ -1,0 +1,125 @@
+# verify
+$ read.py --count "Interrogating"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Interrogating` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#5]
+$ read.py --count "These questions"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`These questions` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#8]
+$ read.py --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#2]
+$ read.py --count "Genesis-Krise"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Genesis-Krise` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "Riss"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`Riss` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Risse` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#2]
+$ read.py --count "Corrective Wavelet"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Corrective Wavelet` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#2]
+$ read.py --count "Wavelets"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wavelets` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Kernwelt` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "ANP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`ANP` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#2]
+$ read.py --count "ANPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ANPs` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#2]
+$ read.py --count "ANP-EP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ANP-EP` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#2]
+$ read.py --count "prehension"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`prehension` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "gnosis"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`gnosis` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Gnosis"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Gnosis` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Ly"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ly` ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:#1]
+$ grep -ow Kael | wc -l
+35
+$ grep -ow AEGIS | wc -l
+24
+$ grep -ow Lex | wc -l
+10
+$ grep -ow Nyx | wc -l
+4
+$ grep -ow Integration | wc -l
+4
+$ grep -ow Coherence | wc -l
+4
+$ grep -ow Ly | wc -l
+1
+$ grep -c "^## " (sections, level-2 headings)
+5
+$ grep -o comprehension
+comprehension
+prehension
+$ grep -c candidates (03)
+87
+stance_marker_count 13 = Interrogating 5 + These questions 8

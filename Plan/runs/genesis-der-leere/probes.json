@@ -1,0 +1,230 @@
+{
+  "document": "genesis-der-leere",
+  "drive_id": "1Y_nOy2WWfTigRrrT_iMJ6V30NbKbcoCFi1ekUzc9H34",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 5,
+  "backslash_escapes": 0,
+  "typographic_marks": 35,
+  "ascii_quotes": 26,
+  "inflection_families": {
+    "infor": [
+      "Information",
+      "Informationelle",
+      "Informationen",
+      "Informationsbarriere",
+      "Informationsdichte",
+      "Informationsmuster",
+      "Informationsnetzwerk",
+      "Informationsverarbeitung"
+    ],
+    "energ": [
+      "Energie",
+      "Energieaustausch",
+      "Energiefluss",
+      "Energiekonzentrationen",
+      "Energiequelle",
+      "Energiequellen",
+      "Energieverteilungsnetzen"
+    ],
+    "selbs": [
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbstoptimierung",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstverbesserung"
+    ],
+    "grenz": [
+      "Grenzbildung",
+      "Grenze",
+      "Grenzen",
+      "Grenzverteidigung",
+      "Grenzziehung"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessen",
+      "Prozesses",
+      "Prozesshaftigkeit"
+    ],
+    "netzw": [
+      "Netzwerk",
+      "Netzwerke",
+      "Netzwerks",
+      "Netzwerkwachstum"
+    ],
+    "reakt": [
+      "Reaktion",
+      "Reaktionsalgorithmen",
+      "Reaktionsgeschwindigkeit",
+      "Reaktionszeit"
+    ],
+    "daten": [
+      "Daten",
+      "Datenkanälen",
+      "Datenstrukturen"
+    ],
+    "defin": [
+      "Definiert",
+      "Definition",
+      "Definitionen"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropieexport",
+      "Entropieexports"
+    ],
+    "opera": [
+      "Operationale",
+      "Operationen",
+      "Operationsraums"
+    ],
+    "poten": [
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers"
+    ],
+    "proto": [
+      "Proto",
+      "Protokoll",
+      "Protokolle"
+    ],
+    "stabi": [
+      "Stabile",
+      "Stabilisierung",
+      "Stabilität"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturanpassung",
+      "Strukturen"
+    ],
+    "syste": [
+      "System",
+      "Systemdynamik",
+      "Systems"
+    ],
+    "absic": [
+      "Absicht",
+      "Absichten"
+    ],
+    "auflö": [
+      "Auflösung",
+      "Auflösungstendenz"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen"
+    ],
+    "beoba": [
+      "Beobachtbare",
+      "Beobachtung"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungen"
+    ],
+    "chaos": [
+      "Chaos",
+      "Chaoskampf"
+    ],
+    "eigen": [
+      "Eigennatur",
+      "Eigenschaft"
+    ],
+    "entit": [
+      "Entität",
+      "Entitäten"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzbedingungen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Augenblick"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Reines"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Form",
+      "Formung"
+    ],
+    [
+      "Form",
+      "Lebensform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationelle"
+    ],
+    [
+      "Form",
+      "Informationsdichte"
+    ],
+    [
+      "Form",
+      "Informationsmuster"
+    ],
+    [
+      "Form",
+      "Informationsbarriere"
+    ],
+    [
+      "Form",
+      "Informationsnetzwerk"
+    ],
+    [
+      "Form",
+      "Informationsverarbeitung"
+    ],
+    [
+      "Meer",
+      "Meeres"
+    ],
+    [
+      "Meer",
+      "Potentialmeer"
+    ],
+    [
+      "Meer",
+      "Potentialmeers"
+    ],
+    [
+      "Neue",
+      "Neues"
+    ],
+    [
+      "Raum",
+      "Raumzeit"
+    ]
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "document": "dramatica-dual-storyform-mapping-protokoll",
+  "drive_id": "12xG589k7JTtQK9TDGkJqC9eeWfU49Ljf0IJkHCODyT4",
+  "step": "probes",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 62,
+  "backslash_escapes": 68,
+  "typographic_marks": 122,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "inter": [
+      "Interaktion",
+      "Interaktionszyklus",
+      "Interface",
+      "Interferenz",
+      "Interferenzmuster",
+      "Internal",
+      "Intervention"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms",
+      "Storymind",
+      "Storyminds",
+      "Storypoints",
+      "Storytelling"
+    ],
+    "syste": [
+      "System",
+      "Systembeschreibungen",
+      "Systemfehler",
+      "Systemisch",
+      "Systems",
+      "Systemstatus"
+    ],
+    "infor": [
+      "Information",
+      "Informationslöschung",
+      "Informationstheoretische",
+      "Informationstiefe",
+      "Informationsverteilung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsprozess",
+      "Integrity",
+      "Integrität",
+      "Integritätsprüfung"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charaktere"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzwerte",
+      "Grenzüberschreitung"
+    ],
+    "opera": [
+      "Operationaler",
+      "Operationalisierung",
+      "Operator",
+      "Operators"
+    ],
+    "spieg": [
+      "Spiegel",
+      "Spiegelmapping",
+      "Spiegelung",
+      "Spiegelungs"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriebruch",
+      "Symmetrien",
+      "Symmetry"
+    ],
+    "algeb": [
+      "Algebra",
+      "Algebras",
+      "Algebren"
+    ],
+    "archi": [
+      "Architecture",
+      "Architektur",
+      "Architekturvalidierung"
+    ],
+    "besch": [
+      "Beschreiben",
+      "Beschreibungen",
+      "Beschränkung"
+    ],
+    "final": [
+      "Final",
+      "Finale",
+      "Finaler"
+    ],
+    "geist": [
+      "Geister",
+      "Geistes",
+      "Geistwesen"
+    ],
+    "grupp": [
+      "Gruppenmodellen",
+      "Gruppenstrukturen",
+      "Gruppentheorie"
+    ],
+    "inver": [
+      "Inversion",
+      "Inversionen",
+      "Inversionstestings"
+    ],
+    "kerne": [
+      "Kernel",
+      "Kerneln",
+      "Kernels"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "mathe": [
+      "Mathematics",
+      "Mathematische",
+      "Mathematischer"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativer"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantor",
+      "Quantum"
+    ],
+    "stabi": [
+      "Stabilisierung",
+      "Stabilität",
+      "Stabilitäts"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Wendepunkte"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Formulation"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationstiefe"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Informationsverteilung"
+    ],
+    [
+      "Form",
+      "Informationstheoretische"
+    ],
+    [
+      "Halt",
+      "Halteproblem"
+    ],
+    [
+      "Hier",
+      "Hierarchie"
+    ],
+    [
+      "Init",
+      "Definition"
+    ],
+    [
+      "Init",
+      "Initialisierung"
+    ]
+  ]
+}

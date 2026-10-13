@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      3
+  backslash escapes      4
+  typographic marks      8
+  ascii quotes           68
+
+# inflection families -- one term, several surfaces
+  agent    Agent, AgentOrchestra, Agentic
+  gener    Generating, Generation, Generative
+  model    Model, Modeling, Models
+  opera    Operates, Operation, Operational
+  struc    Structural, Structure, Structured
+  syste    System, Systemic, Systems
+  analy    Analysis, Analyze
+  archi    Architectural, Architecture
+  autho    Authors, Authorship
+  belie    Belief, Beliefs
+  causa    Causal, Causality
+  class    Class, Classical
+  coher    Coherence, Coherent
+  criti    Critic, Critique
+  evalu    Evaluating, Evaluator
+  event    Event, Events
+  found    Foundation, Foundations
+  graph    Graph, GraphRAG
+  imple    Implementation, Implemented
+  inter    Interfacing, Internal
+  logic    Logic, Logical
+  manag    Management, Managing
+  memor    Memories, Memory
+  multi    Multi, Multiplicity
+  narra    Narrative, Narratives
+
+# substring pairs -- never one term, often merged by accident
+  List < Specialists
+  Plan < Planer
+  Role < Roles
+  Agent < Agentic
+  Agent < AgentOrchestra
+  Class < Classical
+  Event < Events
+  Graph < GraphRAG
+  Graph < Hypergraph
+  Logic < Logical
+  Logic < Ontological
+  Logic < Psychological
+  Model < Models
+  Model < Modeling
+  Multi < Multiplicity
+  Belief < Beliefs
+  Belief < Disbelief
+  Causal < Causality
+  Proven < Unproven
+  Reason < Reasoning

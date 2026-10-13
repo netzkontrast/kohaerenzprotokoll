@@ -1,0 +1,73 @@
+$ read.py genesis-der-leere --count "Phase"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Phase` ^[genesis-der-leere.md:#5]
+$ read.py genesis-der-leere --count "Reste"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            13
+
+`Reste` ^[genesis-der-leere.md:#11]
+$ read.py genesis-der-leere --count "Potentialmeer"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Potentialmeer` ^[genesis-der-leere.md:#8]
+$ read.py genesis-der-leere --count "Meer"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            30
+
+`Meer` ^[genesis-der-leere.md:#20]
+$ read.py genesis-der-leere --count "AEGIS"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            34
+
+`AEGIS` ^[genesis-der-leere.md:#34]
+$ read.py genesis-der-leere --count "Autopoiesis"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Autopoiesis` ^[genesis-der-leere.md:#10]
+$ read.py genesis-der-leere --count "Autokatalyse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Autokatalyse` ^[genesis-der-leere.md:#3]
+$ read.py genesis-der-leere --count "Ozon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ozon` ^[genesis-der-leere.md:#1]
+$ read.py genesis-der-leere --count "Kälte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kälte` ^[genesis-der-leere.md:#1]
+$ read.py genesis-der-leere --count "kalt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            8
+
+`kalt` ^[genesis-der-leere.md:#0]
+$ read.py genesis-der-leere --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[genesis-der-leere.md:#1]
+$ grep -c "?" Sources/drive/genesis-der-leere.md
+0
+$ grep -o -w -i kalt-forms
+      3 kalte
+      2 kalten
+      2 kalter
+      1 kaltes

@@ -1,0 +1,127 @@
+{
+  "document": "protokoll-ontologie-roman-konzeptentwicklung",
+  "drive_id": "1NnHjCF0iZmperRY1-K3fZgctL1EfrsVKqo800w499bM",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 48,
+    "decisions": 54,
+    "decided_by_lookup": 30,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        208,
+        210
+      ],
+      "attribution": "",
+      "note": "AEGIS as the exposé's template for the antagonist"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        78,
+        97
+      ],
+      "attribution": "",
+      "note": "cache-coherence protocols as the analogue of Overhead"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the basis of Kohärenz and Kollaps"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        156
+      ],
+      "attribution": "",
+      "note": "System Kael as the exposé's case study"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        24,
+        42,
+        59,
+        82,
+        122
+      ],
+      "attribution": "",
+      "note": "Kohärenz as the information-preserving principle against Kollaps"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel equated with quantum decoherence"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        122
+      ],
+      "attribution": "",
+      "note": "decoherent zones, Risse and Glitches"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "cache-kohaerenz",
+      "surface": "Cache-Kohärenz",
+      "line": 97,
+      "decision": "reading",
+      "why": "the technical analogue of the Overhead, read on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "entropy in the borrowed physical sense of the kernels"
+    },
+    {
+      "page": "kael",
+      "surface": "Kael",
+      "line": 156,
+      "decision": "reading",
+      "why": "System Kael as a case study, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

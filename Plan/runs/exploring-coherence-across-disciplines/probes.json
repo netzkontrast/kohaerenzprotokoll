@@ -1,0 +1,202 @@
+{
+  "document": "exploring-coherence-across-disciplines",
+  "drive_id": "12qJDw--c4MuBgORkdggUBlDzkQRNqxRoXdFH9pv-3r8",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 45,
+  "backslash_escapes": 163,
+  "typographic_marks": 20,
+  "ascii_quotes": 100,
+  "inflection_families": {
+    "coher": [
+      "COHERENCE",
+      "Coherence",
+      "Coherent",
+      "Coherentism",
+      "Coherentist"
+    ],
+    "inter": [
+      "Interdisciplinary",
+      "Interference",
+      "Interferometer",
+      "Interpreting"
+    ],
+    "optic": [
+      "Optica",
+      "Optical",
+      "Optics"
+    ],
+    "class": [
+      "Class",
+      "Classic"
+    ],
+    "consi": [
+      "Consider",
+      "Consistent"
+    ],
+    "corre": [
+      "Correlation",
+      "Correspondence"
+    ],
+    "defin": [
+      "Defining",
+      "Definition"
+    ],
+    "examp": [
+      "Example",
+      "Examples"
+    ],
+    "holog": [
+      "Holographic",
+      "Holography"
+    ],
+    "incoh": [
+      "Incoherence",
+      "Incoherent"
+    ],
+    "laser": [
+      "Laser",
+      "Lasers"
+    ],
+    "logic": [
+      "Logic",
+      "Logical"
+    ],
+    "mecha": [
+      "Mechanism",
+      "Mechanisms"
+    ],
+    "metri": [
+      "Metric",
+      "Metrics"
+    ],
+    "objec": [
+      "Objection",
+      "Objections"
+    ],
+    "philo": [
+      "Philosophical",
+      "Philosophy"
+    ],
+    "physi": [
+      "Physical",
+      "Physics"
+    ],
+    "radar": [
+      "Radar",
+      "Radartutorial"
+    ],
+    "refer": [
+      "Reference",
+      "Referenzen"
+    ],
+    "sente": [
+      "Sentence",
+      "Sentences"
+    ],
+    "signa": [
+      "Signal",
+      "Signals"
+    ],
+    "sourc": [
+      "Source",
+      "Sources"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "theor": [
+      "Theories",
+      "Theory"
+    ],
+    "there": [
+      "There",
+      "Therefore"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Here",
+      "There"
+    ],
+    [
+      "Here",
+      "Coherent"
+    ],
+    [
+      "Here",
+      "COHERENCE"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Here",
+      "Therefore"
+    ],
+    [
+      "Here",
+      "Incoherent"
+    ],
+    [
+      "Here",
+      "Coherentism"
+    ],
+    [
+      "Here",
+      "Coherentist"
+    ],
+    [
+      "Here",
+      "Decoherence"
+    ],
+    [
+      "Here",
+      "Incoherence"
+    ],
+    [
+      "TEXT",
+      "Textual"
+    ],
+    [
+      "Wave",
+      "Wavefront"
+    ],
+    [
+      "Class",
+      "Classic"
+    ],
+    [
+      "Laser",
+      "Lasers"
+    ],
+    [
+      "Light",
+      "FindLight"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Technological"
+    ],
+    [
+      "Radar",
+      "Radartutorial"
+    ],
+    [
+      "There",
+      "Therefore"
+    ],
+    [
+      "Metric",
+      "Metrics"
+    ]
+  ]
+}

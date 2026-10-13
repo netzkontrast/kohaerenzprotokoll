@@ -1,0 +1,54 @@
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "Strategy"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Strategy` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#5]
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "operational closure"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`operational closure` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#3]
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "Das Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Fundament` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#1]
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "The Fundament"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`The Fundament` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#2]
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kernwelt` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#1]
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "Kohärenz statt Wahrheit"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz statt Wahrheit` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#0]
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "Kohärenz durch Integration"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz durch Integration` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#0]
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "statt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`statt` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#1]
+$ python3 scripts/read.py strategic-narrative-analysis-forging-a-compelling-story-from --count "ANP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`ANP` ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:#1]

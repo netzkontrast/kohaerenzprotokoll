@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      21
+  backslash escapes      446
+  typographic marks      285
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  reali    Realität, Realitäten, Realitäts, Realitätsbereichs, Realitätsebene, Realitätsebenen, Realitätskollaps, Realitätsparadigmen, Realitätsverschiebungen, Realitätsverzerrungen, Realitätswechsel, Realitätszusammenbruchs
+  exist    EXISTENCE, EXISTENTIAL, Existential, Existenz, Existenzberechtigung, Existenzform, Existenzzweck, Existierende
+  syste    SYSTEM, System, Systemfehler, Systemlogik, Systemneustarts, Systems, Systemschichten, Systemzustand
+  daten    Daten, Datenknotenpunkt, Datenkorruption, Datenpaket, Datenraum, Datenstrom, Datenströme
+  inter    Interaktion, Interaktionen, Interaktivität, Interessanterweise, Interface, Interpretation, Interpretationen
+  erinn    Erinnerung, Erinnerungen, Erinnerungsblitz, Erinnerungsfragment, Erinnerungsfragmente, Erinnerungssätze
+  kontr    Kontrast, Kontrolle, Kontrolliert, Kontrollierte, Kontrollmechanismus, Kontrollverlusts
+  integ    INTEGRITY, Integration, Integrity, Integrität, Integritätsverletzung
+  parad    Paradigma, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  reakt    Reaktion, Reaktionen, Reaktionsfähigkeit, Reaktionsgeschwindigkeit, Reaktiv
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsfragmente, Bewusstseinszustände
+  ident    Identität, Identitätsanteile, Identitätsfragmenten, Identitätskrise
+  infor    Information, Informationen, Informationsstruktur, Informationstheorie
+  körpe    Körper, Körpergrenzen, Körperlichkeit, Körpers
+  proto    PROTOCOL, Protocol, Protokoll, Protokolle
+  schwe    Schwelle, Schwellenwerte, Schwere, Schwerkraft
+  sinne    Sinne, Sinnesdetails, Sinneseindrücke, Sinneseindrücken
+  wahrn    Wahrnehmung, Wahrnehmungen, Wahrnehmungs, Wahrnehmungsstörungen
+  analy    Analyse, Analyseanforderungen, Analysis
+  deper    Depersonalisation, Depersonalisiert, Depersonalisierung
+  diese    Diese, Dieser, Dieses
+  emoti    Emotion, Emotionen, Emotionssplitter
+  entsc    Entscheidend, Entscheidung, Entscheidungen
+  frage    Frage, Fragen, Fragestellungen
+  fragm    Fragmente, Fragmentiert, Fragmentierung
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Auftauchen
+  Auch < Eintauchen
+  Bild < Spiegelbild
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Einer
+  Eine < Meine
+  Eine < Seine
+  Ende < Wendepunkt
+  Ende < Existierende
+  Fall < Falls
+  Fall < Vorfall
+  Fall < Zerfall
+  Form < Formen
+  Form < Information
+  Form < Plattformen
+  Form < Existenzform
+  Form < Formulierung
+  Form < Informationen

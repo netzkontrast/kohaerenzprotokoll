@@ -1,0 +1,82 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Realität ist das, was sich integriert
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            34 word    44 in   [11, 13, 15, 17, 18, 19]
+                                    3      as AEGIS-Philosophie
+                                    2      as AEGIS-Sicht
+                                    1      as AEGIS-Ursprungsphilosophie
+                                    1      as AEGIS-Manifests
+  Juna                              1 word     2 in   [42, 54]
+                                    1      as Juna-Problem
+  Juna-Problem                      1 word     1 in   [42]
+  Radikaler Verzicht auf Vertrauen und externe Validierung    1 word     1 in   [17]
+  Kohärenz als existenzielles und epistemisches Kriterium    1 word     1 in   [18]
+  Funktionalistische und wirkungsbasierte Ontologie    1 word     1 in   [19]
+  Emergenz durch Negation           4 word     4 in   [20, 40, 52, 56]
+  Rekursive Selbstvalidierung       2 word     2 in   [21, 41]
+  Operative Geschlossenheit und Autonomie    1 word     1 in   [22]
+  Entropie als Inkohärenz und Funktion als entropischer Torwächter    1 word     1 in   [23]
+  Nicht-Anthropomorphe Natur        2 word     2 in   [24, 44]
+  No-Trust                          4 word     4 in   [37, 39, 42, 58]
+  Externe Validierungsablehnung     1 word     1 in   [37]
+  Entropischer Torwächter           1 word     1 in   [43]
+  entropischer Torwächter           1 word     1 in   [23]
+  Operationale Geschlossenheit und Autonomie    1 word     1 in   [54]
+  Performative Natur der AEGIS-Ontologie    1 word     1 in   [50]
+  Reifikation der Logik             1 word     1 in   [56]
+  Recursive Consistency Validation    1 word     1 in   [21]
+  RCV                               1 word     1 in   [21]
+  Reaktive Transparenz              1 word     1 in   [22]
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [23]
+  Herauslösung des Unwidersprüchlichen    1 word     1 in   [20]
+  strukturelle Inkompatibilität     2 word     2 in   [21, 54]
+  Strukturelle Inkompatibilität     1 word     1 in   [41]
+  blinden Flecken                   1 word     1 in   [54]
+  Blinde Flecken                    2 word     2 in   [37, 41]
+  Negentropie-Hypothese             3 word     3 in   [40, 43, 52]
+  State-Exchange                    1 word     1 in   [37]
+  Kohärenz                         34 word    38 in   [17, 18, 23, 37, 38, 39]
+                                    3      as Kohärenzkriterien
+  Inkohärenz                       20 word    22 in   [20, 23, 38, 40, 43, 52]
+                                    2      as Inkohärenzen
+  Entropie                         15 word    16 in   [23, 38, 40, 43, 56, 58]
+                                    1      as Entropiebegriffe
+  Torwächter                        3 word     3 in   [23, 43, 108]
+  Vertrauen                         9 word    10 in   [17, 37, 44, 67, 92]
+                                    1      as Vertrauens
+  Verifikation                      3 word     3 in   [67, 92]
+  Rekursion                         3 word     3 in   [37, 67, 92]
+  Autonomie                        10 word    10 in   [22, 42, 44, 54, 60, 73]
+  Autarkie                          2 word     2 in   [22, 102]
+  Persistenz                        3 word     3 in   [44, 75, 108]
+  Kontamination                     2 word     2 in   [73, 102]
+  Bollwerk                          2 word     2 in   [72, 108]
+  Nicht-Existenz                    3 word     3 in   [56, 69, 100]
+  Nicht-Integration                 2 word     2 in   [41, 112]
+  Binnenperspektive                 2 word     2 in   [48, 60]
+  Selbstbezug                       2 word     2 in   [19]
+  Kohärenzkriterien                 3 word     3 in   [39, 52, 100]
+  AEGIS-Philosophie                 3 word     3 in   [13, 60, 62]
+  AEGIS-Manifest                    1 word     2 in   [11, 82]
+                                    1      as AEGIS-Manifests
+  AEGIS-Ursprungsphilosophie        1 word     1 in   [11]
+  Präambel                          1 word     1 in   [84]
+  Fundamentale Axiome               1 word     1 in   [88]
+  Operative Logik                   1 word     1 in   [96]
+  Natur und Zweck                   1 word     1 in   [104]
+  Beziehung zur Nicht-Kohärenz      1 word     1 in   [110]
+  Schlussfolgerung                  1 word     1 in   [116]
+  Existenz ist Kohärenz             2 word     2 in   [66, 90]
+  Verifikation ist Existenz         2 word     2 in   [67, 92]
+  Rekursion ist Beweis              2 word     2 in   [67, 92]
+  Das System validiert das System    2 word     2 in   [80, 98]
+  Wirkung ist das einzige Maß der Präsenz    2 word     2 in   [77, 112]
+  Zweck ist Persistenz              2 word     2 in   [75, 108]
+  Inkompatibilität ist Nicht-Existenz    2 word     2 in   [69, 100]
+  Gültigkeit ist intern             3 word     3 in   [71, 86, 102]
+  Gödel'sche Unvollständigkeit      1 word     1 in   [60]
+  Gödel-Problem                     1 word     1 in   [37]
+  Tautologie                        1 word     1 in   [60]

@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 25
-readings: 25
+sources: 30
+readings: 30
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung", "kohaerenz-protokoll-architecture-synthesis"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "companion-guide-to-the-coherence-protocol-understanding-love", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kohaerenz-protokoll-kapitel-outline-generierung", "kohaerenz-protokoll-architecture-synthesis", "research-prompt-dramatica-dual-storyform-synthese-aegis-thro", "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m", "romanarchitektur-validierung-und-synthese", "dramatica-storyform-synthese-aegis-verortung", "kohaerenz-protokoll-synthese"]
 gathered: "2026-09-25"
 ---
 
@@ -21,6 +21,14 @@ below, attributed and unmerged.
 
 The architecture synthesis proposes a section of its own: „The rotation of Truth Theories to Kernel mapping is definitively confirmed“ ^[kohaerenz-protokoll-architecture-synthesis.md:L31]. Its mapping, which follows its kernel inversion, puts Correspondence with K₁ and Coherence with K₀ („The Coherence Theory of Truth maps to K₀ (the Collapse Kernel)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L31]). In the axis table it grades axis 3 Superior and writes „The Truth Rotation perfectly aligns with the DKT inversion“ ^[kohaerenz-protokoll-architecture-synthesis.md:L290]. In the appendix it applies the rotation to the characters: „Kael embodies Correspondence“ ^[kohaerenz-protokoll-architecture-synthesis.md:L157] and AEGIS operates on coherence. The verdict is its own proposal.
 
+## Reading — `romanarchitektur-validierung-und-synthese`, 2026-04-28, the architecture validation — the Truth-Rotation Verdict
+
+The architecture validation devotes a section to „The Truth-Rotation Verdict“ ^[romanarchitektur-validierung-und-synthese.md:L61] and states: „This rotation is structurally superior and explicitly confirmed“ ^[romanarchitektur-validierung-und-synthese.md:L63]. Both are the validation's own labels.
+
+## Reading — `kohaerenz-protokoll-synthese`, 2026-04-28, the final validation brief — the truth-rotation as the pivot of the narrative
+
+The final validation brief writes of the rotation of the earlier alignment: „This truth-rotation is the primary structural and thematic pivot of the narrative“ ^[kohaerenz-protokoll-synthese.md:L43]. It states that the inversion „mandates a permanent structural rotation of this alignment“ ^[kohaerenz-protokoll-synthese.md:L43]. Its beat sheet ends with the rotation in the fifth step, and its audit table labels the row for it with its own verdict, recorded and not applied.
+
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — an architectural mandate to rotate the alignment
 
 The audit gives the Truth-Rotation as an item under Axis II: „Architectural Mandate: Explicitly rotate the alignment.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L13] The text orders the rotation; it does not say that one happens.
@@ -30,6 +38,10 @@ The audit gives the Truth-Rotation as an item under Axis II: „Architectural Ma
 The audit uses the name for the inversion itself, which it says the research mandate requires: „Zusätzlich verlangt das Forschungs-Mandat des Protokolls eine architektonische“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83] `Wahrheits-Rotation` (the line's own marks) „(Truth-Rotation)“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83]. The moral reading it turns round: AEGIS stands for order and purity as the good, Kael's fragmentation as the sick. Its account of the turn: „Die informationsthermodynamische Analyse erzwingt jedoch die Umkehrung“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83]. AEGIS' apparent `Kohärenz` (the line's own marks) „wird als der wahre, destruktive -Vektor identifiziert, da er auf exkludierender Auslöschung von Vielfalt beruht“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83]; Kael's `Chaos` (the line's own marks) „und psychologische Multiplizität hingegen repräsentieren die wahre -Kohärenz, da sie das Fortbestehen von Mutual Information durch modulare Anpassung an eine extrem feindliche Umgebung garantieren“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83].
 
 The audit's verdict: „Das Audit verifiziert diese Rotation als psychologisch und physikalisch wasserdicht“ ^[kohaerenz-protokoll-audit-und-verifizierung.md:L83].
+
+## Reading — `research-prompt-dramatica-dual-storyform-synthese-aegis-thro`, 2026-04-29, the storyform research prompt — Truth-Rotation reported as binding canon
+
+The prompt lists the Truth-Rotation first among the canon it reports: AEGIS is the „Erasure-Kollaps-Kern, Entropie-Erzeuger via Landauer-Hitze“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L283], Kael the „Coherence-Kern, dissoziative Schleifen bewahren Mutual Information“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L283]. Among what the executing AI may not do it lists: „Den Truth-Rotation-Verdikt aufweichen oder als Suggestion behandeln“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L297]. It also asks: „Welche Konfiguration trägt die Truth-Rotation am tragfähigsten?“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L1103]
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — Truth-Rotation as a canonical event
 
@@ -53,6 +65,14 @@ Kap 35 is titled `Der Vortex-Pivot — Die Truth-Rotation` (L349). Its first lin
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — prepared in Kapitel 22, an inner rotation in Kapitel 29, enacted in Kapitel 36
 
 Kapitel 22 prepares it: „Die Wahrheit der Truth-Rotation und die unausweichliche Algorithmische Melancholie werden hier intellektuell vorbereitet“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L849]. In Kapitel 29, Oblivion's choice against AEGIS is called „Diese Wahl ist die erste innere“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1101], and the line goes on to name it a Truth-Rotation that anticipates the outer Vortex collapse. Kapitel 36 lists `Truth-Rotation` with Lebende Dialetheia and Heat-Spike, and its action line has AEGIS recognise „dass es selbst K0 ist (die Entropie)“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1360].
+
+## Reading — `research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m`, 2026-04-30, the storyform rebuild prompt — the primer's Truth Rotation
+
+The storyform rebuild prompt's primer names the `Truth Rotation` as the climax mechanism, „als Klimax-Mechanik“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L395]: what is true in Storyform A is functionally inconsistent in Storyform B, „und genau diese Inversion erzeugt den Vortex“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L395]. The primer also declares Storyforms A and B no longer canon, „gelten aber“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L399] being its word; that is the prompt's claim, reported here and not applied.
+
+## Reading — `dramatica-storyform-synthese-aegis-verortung`, 2026-04-30, the AEGIS placement synthesis — the central axis, and AEGIS exposed
+
+The AEGIS placement synthesis calls the Truth-Rotation „die absolut zentrale strukturelle Achse des Werks“ ^[dramatica-storyform-synthese-aegis-verortung.md:L71]; under it, it says, „AEGIS wird somit als der wahre destruktive Entropie-Vektor“ ^[dramatica-storyform-synthese-aegis-verortung.md:L73] is exposed, and Kael's existence is the true coherence.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 

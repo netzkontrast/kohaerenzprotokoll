@@ -1,0 +1,92 @@
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Versuchsanordnung:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Versuchsanordnung:` ^[gravitation-realitaet-simulation-wahrheit.md:#1]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Simulations-Narrativ:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Simulations-Narrativ:` ^[gravitation-realitaet-simulation-wahrheit.md:#1]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Störvariable:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Störvariable:` ^[gravitation-realitaet-simulation-wahrheit.md:#1]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Subjekt:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Subjekt:` ^[gravitation-realitaet-simulation-wahrheit.md:#1]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Referenzierte Quellen:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzierte Quellen:` ^[gravitation-realitaet-simulation-wahrheit.md:#1]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Tabellarischer Anhang"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tabellarischer Anhang` ^[gravitation-realitaet-simulation-wahrheit.md:#1]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Phase"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Phase` ^[gravitation-realitaet-simulation-wahrheit.md:#5]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[gravitation-realitaet-simulation-wahrheit.md:#0]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "AEGIS"
+whole word, case-sensitive     5
+whole word, case-insensitive   7
+including compounds            5
+
+`AEGIS` ^[gravitation-realitaet-simulation-wahrheit.md:#5]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Oculus-G"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Oculus-G` ^[gravitation-realitaet-simulation-wahrheit.md:#3]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Graviton-Anker"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`Graviton-Anker` ^[gravitation-realitaet-simulation-wahrheit.md:#3]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Basis-Realität"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Basis-Realität` ^[gravitation-realitaet-simulation-wahrheit.md:#5]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Glitch"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Glitch` ^[gravitation-realitaet-simulation-wahrheit.md:#8]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Kohärenztheorie"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenztheorie` ^[gravitation-realitaet-simulation-wahrheit.md:#4]
+$ python3 scripts/read.py gravitation-realitaet-simulation-wahrheit --count "Korrespondenztheorie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Korrespondenztheorie` ^[gravitation-realitaet-simulation-wahrheit.md:#3]
+stance_marker_count 6 = 1+1+1+1+1+1 (the six markers above)
+1G to 10G (L95), 2 G and 3 G (L117), 2.5 G at 00:10 (L269): read from the lines by read.py --from 95 --to 95, 117, 269

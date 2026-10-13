@@ -1,0 +1,274 @@
+{
+  "document": "the-coherence-protocol-a-world-bible",
+  "drive_id": "1R8vxo7sYz8TgDROzbx2hm_NUU7PTrH_Esh9NVXRGRFA",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 115,
+    "decisions": 122,
+    "decided_by_lookup": 100,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "the zero-trust principle of AEGIS"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        60,
+        64,
+        66,
+        68,
+        72,
+        76,
+        80,
+        84,
+        88
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic system, its axiom and its flaw"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        75,
+        104,
+        106,
+        107,
+        109,
+        113,
+        117,
+        131,
+        137
+      ],
+      "attribution": "",
+      "note": "ANPs, EPs and functional multiplicity"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        80,
+        164
+      ],
+      "attribution": "",
+      "note": "Cerberus as Guardian and Cerberus-Labyrinth as world"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        62,
+        64
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis as an information fragment against the Noise"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "four Guardians as AEGIS's autonomous agents"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        42,
+        46,
+        180,
+        187
+      ],
+      "attribution": "",
+      "note": "Juna and the Moonshine-Link"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        52,
+        84,
+        100,
+        104,
+        118,
+        127,
+        137,
+        141
+      ],
+      "attribution": "",
+      "note": "Kael as a society of self"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        80,
+        165
+      ],
+      "attribution": "",
+      "note": "Kairos as Guardian and Kairos-Potentialis as world"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        155,
+        157,
+        161,
+        162,
+        163,
+        164,
+        165
+      ],
+      "attribution": "",
+      "note": "four Core Worlds as epistemological landscapes"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        80,
+        162
+      ],
+      "attribution": "",
+      "note": "LogOS as Guardian and Logos-Prime as world"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        80,
+        163
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as Guardian and Mnemosyne-Archipel as world"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        42,
+        44,
+        46,
+        47,
+        50,
+        51,
+        52
+      ],
+      "attribution": "",
+      "note": "the link as an exploit, a blind spot and a catalyst"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        23,
+        26,
+        27,
+        29
+      ],
+      "attribution": "",
+      "note": "the Nothingness Noise as an active Potential Sea"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        124,
+        127
+      ],
+      "attribution": "",
+      "note": "Oblivion as the shutdown response"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        169,
+        171,
+        172,
+        174
+      ],
+      "attribution": "",
+      "note": "Cracks with a dual nature"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        121,
+        127
+      ],
+      "attribution": "",
+      "note": "Silas as caretaker"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        100,
+        102,
+        104,
+        117
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical framework"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        151,
+        153
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's domain"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q6",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 62,
+      "decision": "reading",
+      "why": "AEGIS's genesis from a minimal information fragment"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

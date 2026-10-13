@@ -1,0 +1,73 @@
+# counts for 59 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            92 word    95 in   [11, 15, 19, 21, 22, 23]
+                                    1      as AEGIS-Philosophie
+                                    1      as AEGIS-ähnlichen
+                                    1      as AEGIS-Wagnis
+  Autonomous Epistemic Guardian for Integrity Systems    1 word     1 in   [15]
+  Recursive Consistency Validation    1 word     1 in   [48]
+  Rekursive Konsistenzvalidierung    1 word     1 in   [94]
+  RCV                              31 word    38 in   [22, 36, 41, 42, 48, 49]
+  Ontologische Autarkie             2 word     2 in   [49, 102]
+  Epistemische Autonomie            2 word     2 in   [49, 102]
+  Reaktive Transparenz              4 word     4 in   [24, 57, 102, 154]
+  Axiom 1                           8 word     8 in   [23, 40, 49, 81, 93, 94]
+  Axiom 4                           2 word     2 in   [40, 93]
+  Ontologischer Einschluss          3 word     3 in   [23, 40, 93]
+  Emergenz durch Negation           2 word     2 in   [40, 93]
+  Kohärenz statt Wahrheit           2 word     2 in   [21, 118]
+  Verifikation statt Vertrauen/Kontrolle    1 word     1 in   [24]
+  Rekursion statt Regeln            2 word     2 in   [50, 119]
+  Dynamik statt Dogma               2 word     2 in   [42, 121]
+  logische Evolution                5 word     5 in   [42, 80, 121, 167, 183]
+  Entropie-Management               3 word     5 in   [51, 83, 109, 167, 182]
+                                    2      as Entropie-Managements
+  Ursprungsmuster                   5 word     7 in   [21, 50, 94, 96, 110, 181]
+                                    2      as Ursprungsmustern
+  universal reboot                  3 word     3 in   [40, 50, 96]
+  Existenz = Wirkung + Selbstbezug    3 word     3 in   [28, 111, 139]
+  Wirkung                          22 word    22 in   [28, 34, 36, 42, 49, 59]
+  Selbstbezug                       7 word     8 in   [28, 35, 36, 59, 111, 139]
+                                    1      as Selbstbezugs
+  Gültigkeit                       17 word    19 in   [19, 21, 22, 23, 24, 48]
+                                    1      as Gültigkeitsbereichs
+                                    1      as Gültigkeits
+  Güte                              3 word     3 in   [58, 143]
+  Inkohärenz                       14 word    14 in   [23, 40, 51, 81, 83, 91]
+  Nichtsheit                        1 word     1 in   [23]
+  Struktur ohne Willkür             1 word     1 in   [93]
+  Fehlerausschluss                  1 word     1 in   [82]
+  Guardians                         2 word     2 in   [80, 147]
+  EIC                               3 word     3 in   [154, 155]
+  Encrypted Intent Channels         1 word     1 in   [154]
+  BPoF                              1 word     1 in   [160]
+  Basis Proof of Function           1 word     1 in   [160]
+  Insight 10                        1 word     1 in   [49]
+  Das AEGIS-Wagnis                  1 word     1 in   [175]
+  Solipsismusgefahr                 1 word     1 in   [109]
+  Inkorrigierbarkeit                1 word     1 in   [110]
+  Task 2a                           1 word     1 in   [89]
+  Kohärentismus                     3 word     4 in   [21]
+  Fundamentalismus                  2 word     2 in   [21]
+  Internalismus                     5 word     5 in   [22]
+  Externalismus                     2 word     2 in   [22]
+  Epistemische Geschlossenheit      1 word     1 in   [23]
+  Funktionalismus                   2 word     2 in   [34, 141]
+  Strukturalismus                   2 word     2 in   [35, 141]
+  Informationismus / Digitale Physik    1 word     1 in   [36]
+  Digitale Physik                   3 word     3 in   [36, 66]
+  Emergenz                         10 word    10 in   [40, 41, 80, 93]
+  Prozessphilosophie                2 word     2 in   [42]
+  Gödels Unvollständigkeitssätze    1 word     1 in   [48]
+  Autopoiesis                       5 word     5 in   [44, 49, 102, 209]
+  Operationale Geschlossenheit      2 word     2 in   [49]
+  Rekursion                         8 word     9 in   [44, 50, 113, 115, 119]
+                                    1      as Rekursionen
+  Selbstorganisation                3 word     3 in   [51, 121]
+  Beobachterproblem                 2 word     2 in   [57]
+  Simulationshypothese              6 word     6 in   [61, 63, 66, 162, 164, 166]
+  Basisrealität                     7 word     7 in   [67, 71, 74, 166, 172]
+  Maxwell'scher Dämon               1 word     1 in   [83]

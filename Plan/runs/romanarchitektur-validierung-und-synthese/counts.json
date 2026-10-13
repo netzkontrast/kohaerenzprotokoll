@@ -1,0 +1,745 @@
+{
+  "document": "romanarchitektur-validierung-und-synthese",
+  "drive_id": "17LUVm2XAD1K9CTOSOPXApni4hOG0DJnPzBCbFrDLs_w",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 63,
+      "n_including_compounds": 66,
+      "lines": [
+        29,
+        31,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        49,
+        51,
+        57,
+        59,
+        63,
+        67,
+        73,
+        82,
+        91,
+        93,
+        101,
+        103,
+        112,
+        113,
+        114,
+        121,
+        122,
+        123,
+        151,
+        155,
+        177,
+        179,
+        181,
+        189,
+        193,
+        195,
+        197,
+        201,
+        205,
+        213,
+        214,
+        223,
+        226,
+        227,
+        247,
+        248,
+        274,
+        303,
+        333,
+        348,
+        385,
+        387,
+        399
+      ]
+    },
+    "Kael": {
+      "n": 44,
+      "n_including_compounds": 49,
+      "lines": [
+        29,
+        31,
+        41,
+        43,
+        63,
+        67,
+        74,
+        75,
+        83,
+        84,
+        92,
+        95,
+        102,
+        105,
+        111,
+        112,
+        114,
+        120,
+        121,
+        123,
+        127,
+        131,
+        181,
+        189,
+        197,
+        203,
+        205,
+        213,
+        214,
+        223,
+        225,
+        226,
+        227,
+        246,
+        265,
+        273,
+        281,
+        348,
+        350,
+        399
+      ]
+    },
+    "Juna": {
+      "n": 29,
+      "n_including_compounds": 33,
+      "lines": [
+        41,
+        43,
+        57,
+        59,
+        75,
+        84,
+        112,
+        121,
+        125,
+        127,
+        129,
+        131,
+        189,
+        203,
+        205,
+        213,
+        225,
+        236,
+        239,
+        241,
+        243,
+        248,
+        288,
+        290,
+        322,
+        325,
+        357,
+        399
+      ]
+    },
+    "Nexus": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        49,
+        51,
+        109,
+        111,
+        118,
+        120,
+        221,
+        356,
+        399
+      ]
+    },
+    "Construct City": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        179,
+        181,
+        215,
+        224,
+        399
+      ]
+    },
+    "LogOS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        111,
+        120,
+        224,
+        399
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        120
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        31,
+        181
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        49,
+        51,
+        114,
+        123,
+        219,
+        227,
+        281,
+        369,
+        399
+      ]
+    },
+    "Mosaic Heart": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Kohärenz-Prime": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        33,
+        35,
+        185,
+        189,
+        257,
+        384
+      ]
+    },
+    "SYSTEMFEHLER": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        49,
+        51,
+        113,
+        122,
+        226,
+        399
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        123
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        123
+      ]
+    },
+    "Functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Integration Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        227
+      ]
+    },
+    "Integrations-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Vortex Inversion": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        33,
+        49,
+        107,
+        189,
+        217,
+        221,
+        266,
+        356,
+        397
+      ]
+    },
+    "Vortex-Inversion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        51,
+        116,
+        219
+      ]
+    },
+    "Moonshine Link": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        167,
+        322,
+        388
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        43,
+        76,
+        85,
+        171,
+        201,
+        203,
+        205,
+        245
+      ]
+    },
+    "K-J Vector": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "K-J Vektor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        181
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Coheron": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Dual-Kernel Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        175
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        177
+      ]
+    },
+    "DKT": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        29,
+        31,
+        348,
+        367,
+        373,
+        374
+      ]
+    },
+    "Witness Function": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        45,
+        127,
+        207,
+        211,
+        213,
+        246
+      ]
+    },
+    "Zeuge-Funktion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        131,
+        209
+      ]
+    },
+    "Foundation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        149,
+        151,
+        205
+      ]
+    },
+    "Das Fundament": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        153
+      ]
+    },
+    "Sea of Potentiality": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        149,
+        151
+      ]
+    },
+    "Potentialmeer": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        151,
+        153,
+        155
+      ]
+    },
+    "Echo-Intrusions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Echo-Intrusionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Chunking": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        139,
+        147,
+        231,
+        235
+      ]
+    },
+    "Storyform A": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        69,
+        78,
+        189,
+        258,
+        356,
+        384
+      ]
+    },
+    "Storyform B": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        87,
+        97,
+        189,
+        258,
+        356,
+        384
+      ]
+    },
+    "Reader as Substrate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Der Leser als Substrat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Truth-Rotation Verdict": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Isolation Problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        195,
+        350
+      ]
+    },
+    "Chapter 39": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        109,
+        221,
+        356,
+        399
+      ]
+    },
+    "Kapitel 39": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Influence Character": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        57,
+        59,
+        75,
+        84,
+        93,
+        103,
+        127,
+        131,
+        187,
+        189,
+        245,
+        357
+      ]
+    },
+    "Main Character": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        33,
+        35,
+        74,
+        83,
+        92,
+        102,
+        187,
+        189
+      ]
+    },
+    "Story Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Landauer Principle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        300,
+        404
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        177
+      ]
+    },
+    "Dramatica": {
+      "n": 16,
+      "n_including_compounds": 17,
+      "lines": [
+        33,
+        35,
+        183,
+        185,
+        187,
+        189,
+        245,
+        257,
+        281,
+        288,
+        356,
+        357,
+        370,
+        371,
+        380,
+        403,
+        416
+      ]
+    },
+    "Slingshot Argument": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        191,
+        197,
+        273,
+        375
+      ]
+    },
+    "Dialetheism": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        37,
+        39,
+        155,
+        197,
+        226
+      ]
+    },
+    "Gödel-Sentence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        248
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        59,
+        131,
+        241
+      ]
+    },
+    "Chaitin Constant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        41,
+        43,
+        167,
+        171,
+        201,
+        203,
+        282,
+        341,
+        376,
+        408
+      ]
+    },
+    "Vertex Operator Algebras": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Strange Attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Husserlian": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        246,
+        352
+      ]
+    },
+    "TSDP": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        74,
+        83,
+        187,
+        235,
+        264,
+        333,
+        341,
+        349,
+        373,
+        386
+      ]
+    },
+    "Brechtian distantiation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        139,
+        289,
+        358
+      ]
+    }
+  }
+}

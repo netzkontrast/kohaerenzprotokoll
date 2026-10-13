@@ -1,0 +1,788 @@
+{
+  "document": "dramatica-storyform-validierung-und-synthese",
+  "drive_id": "1WAP1wL6iqfNMmGyUoRC4vw3-V2Ep3jmPNRZu47o3nCQ",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        11,
+        15,
+        56,
+        78,
+        395,
+        396
+      ]
+    },
+    "Kohärenz-Prime": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        138,
+        299,
+        351,
+        381
+      ]
+    },
+    "Kael": {
+      "n": 33,
+      "n_including_compounds": 36,
+      "lines": [
+        52,
+        56,
+        58,
+        64,
+        65,
+        86,
+        109,
+        128,
+        129,
+        134,
+        136,
+        150,
+        151,
+        152,
+        153,
+        157,
+        201,
+        203,
+        209,
+        233,
+        241,
+        249,
+        265,
+        289,
+        322,
+        324,
+        333,
+        334,
+        349,
+        357,
+        358,
+        359,
+        364,
+        376
+      ]
+    },
+    "AEGIS": {
+      "n": 16,
+      "n_including_compounds": 17,
+      "lines": [
+        17,
+        52,
+        56,
+        58,
+        80,
+        97,
+        108,
+        169,
+        185,
+        193,
+        304,
+        322,
+        324,
+        332,
+        347,
+        349,
+        363
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        56,
+        65,
+        87,
+        243
+      ]
+    },
+    "Juna": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        56,
+        65,
+        87,
+        110,
+        128,
+        243,
+        249,
+        257,
+        265,
+        289,
+        334
+      ]
+    },
+    "Das Fundament": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        56,
+        347,
+        349
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        66,
+        88,
+        267,
+        377
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        273,
+        312
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        217,
+        310
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        309
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "Kernwelten": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        78,
+        152,
+        305
+      ]
+    },
+    "Existenz-Matrizen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        78
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        185
+      ]
+    },
+    "lebender Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        136,
+        201,
+        318,
+        320,
+        322
+      ]
+    },
+    "Dokument A": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        15,
+        17,
+        19,
+        52,
+        54,
+        86,
+        88,
+        97,
+        105,
+        116,
+        122,
+        134,
+        136,
+        140,
+        142,
+        144,
+        161,
+        303,
+        347,
+        381
+      ]
+    },
+    "Dokument B": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        15,
+        17,
+        19,
+        52,
+        76,
+        97,
+        105,
+        116,
+        136,
+        140,
+        161,
+        193,
+        217,
+        249,
+        305,
+        381
+      ]
+    },
+    "Multi-System-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Metaphysisches Subsystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        203
+      ]
+    },
+    "Der Krieg der Logiken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        365
+      ]
+    },
+    "Das fragmentierte Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        369
+      ]
+    },
+    "Der Glitch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        374
+      ]
+    },
+    "Weaving-Tabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        343
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        209
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        360
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Korrespondenztheorie der Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        58
+      ]
+    },
+    "Dramatica": {
+      "n": 19,
+      "n_including_compounds": 27,
+      "lines": [
+        11,
+        15,
+        23,
+        36,
+        56,
+        78,
+        92,
+        97,
+        120,
+        126,
+        320,
+        385,
+        387,
+        388,
+        389,
+        391,
+        392,
+        394,
+        395,
+        396,
+        398,
+        399,
+        400
+      ]
+    },
+    "Story Mind": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        21,
+        23,
+        120,
+        385
+      ]
+    },
+    "Durchgangslinien": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        27,
+        38,
+        120,
+        126,
+        341
+      ]
+    },
+    "Objective Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        163
+      ]
+    },
+    "Main Character": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        203
+      ]
+    },
+    "Impact Character": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        243
+      ]
+    },
+    "Relationship Story": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        32,
+        267
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        48
+      ]
+    },
+    "Gesetz der Diagonalen Opposition": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        303
+      ]
+    },
+    "Universe": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        36,
+        45,
+        46,
+        65,
+        85,
+        95,
+        97,
+        106,
+        110,
+        245,
+        303,
+        311,
+        374
+      ]
+    },
+    "Physics": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        36,
+        45,
+        66,
+        88,
+        95,
+        111,
+        269,
+        303,
+        312,
+        377
+      ]
+    },
+    "Psychology": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        36,
+        45,
+        63,
+        74,
+        87,
+        94,
+        97,
+        106,
+        110,
+        165,
+        249,
+        303,
+        309,
+        330,
+        365
+      ]
+    },
+    "Mind": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        17,
+        21,
+        23,
+        36,
+        45,
+        64,
+        86,
+        94,
+        120,
+        205,
+        303,
+        310,
+        369,
+        385
+      ]
+    },
+    "Signposts": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118,
+        120,
+        326
+      ]
+    },
+    "Catalysts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        126
+      ]
+    },
+    "Inhibitors": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        126
+      ]
+    },
+    "Unique Ability": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        132,
+        134,
+        136
+      ]
+    },
+    "Critical Flaw": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Crucial Element": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        132,
+        388,
+        400
+      ]
+    },
+    "Contagonist": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        349
+      ]
+    },
+    "Companion Pair": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Story Engine Settings": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Optionlock": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        155,
+        362
+      ]
+    },
+    "Becoming": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        122,
+        173,
+        328,
+        330,
+        335,
+        366
+      ]
+    },
+    "Conceptualizing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        332
+      ]
+    },
+    "Conceiving": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        333
+      ]
+    },
+    "Being": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        334
+      ]
+    },
+    "Order": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        19,
+        107,
+        189,
+        193,
+        304,
+        328,
+        367
+      ]
+    },
+    "Chaos": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        107,
+        108,
+        197,
+        201,
+        304,
+        368
+      ]
+    },
+    "Unproven": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        109,
+        229,
+        320,
+        370
+      ]
+    },
+    "Proven": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        237,
+        371
+      ]
+    },
+    "Uncontrolled": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        107,
+        193,
+        304
+      ]
+    },
+    "Self-Interest": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        112,
+        285,
+        378
+      ]
+    },
+    "Morality": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        293,
+        379
+      ]
+    },
+    "Commitment": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        181,
+        185
+      ]
+    },
+    "Responsibility": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        181,
+        185
+      ]
+    },
+    "Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        136,
+        221
+      ]
+    },
+    "Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        213
+      ]
+    },
+    "Future": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        253
+      ]
+    },
+    "Choice": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Doing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        277
+      ]
+    },
+    "Preconception": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        375
+      ]
+    },
+    "Openness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        376
+      ]
+    },
+    "Pursuit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        372
+      ]
+    },
+    "Avoidance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        373
+      ]
+    }
+  }
+}

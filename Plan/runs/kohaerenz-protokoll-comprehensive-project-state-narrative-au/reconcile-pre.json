@@ -1,0 +1,492 @@
+{
+  "document": "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 68,
+  "decisions": 73,
+  "same_surface": {},
+  "decided_mechanically": 52,
+  "needs_judgement": 21,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 201
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 197
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 187
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 62
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 96
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 59
+      },
+      {
+        "candidate": "Gödel Gambit",
+        "page": "goedel-gambit",
+        "readings": 74
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 151
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 157
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 117
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 98
+      },
+      {
+        "candidate": "Vergessener Schrein",
+        "page": "vergessener-schrein",
+        "readings": 8
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 51
+      },
+      {
+        "candidate": "Glitch",
+        "page": "risse",
+        "readings": 157
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Hard Canon"
+      },
+      {
+        "candidate": "Inertial Frame"
+      },
+      {
+        "candidate": "Coherence Island"
+      },
+      {
+        "candidate": "Potential Sea"
+      },
+      {
+        "candidate": "Monster Group"
+      },
+      {
+        "candidate": "Coherence Protocol"
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "Relational Essence"
+      },
+      {
+        "candidate": "Big Bounce"
+      },
+      {
+        "candidate": "Implosion"
+      },
+      {
+        "candidate": "Narrative Decoherence"
+      },
+      {
+        "candidate": "Betrayal"
+      },
+      {
+        "candidate": "Origin Trauma"
+      },
+      {
+        "candidate": "Zero-Bit"
+      },
+      {
+        "candidate": "Transfer Protocol"
+      },
+      {
+        "candidate": "Trigger Objects"
+      },
+      {
+        "candidate": "sensory anchors"
+      },
+      {
+        "candidate": "Resonance-Bridge"
+      },
+      {
+        "candidate": "Realized Bits"
+      },
+      {
+        "candidate": "Information Voids"
+      },
+      {
+        "candidate": "Foreshadowing Allocation"
+      },
+      {
+        "candidate": "Ozon"
+      },
+      {
+        "candidate": "feuchte Erde"
+      },
+      {
+        "candidate": "Lokalitäten-Konzept"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Standardisierter Transitkorridor"
+      },
+      {
+        "candidate": "Datenknotenpunkt Gamma-7"
+      },
+      {
+        "candidate": "Interface/Spiegelnde Wand"
+      },
+      {
+        "candidate": "Ort der Mosaik-Metapher"
+      },
+      {
+        "candidate": "READY"
+      },
+      {
+        "candidate": "NEEDS REVISION"
+      },
+      {
+        "candidate": "autopoietic"
+      },
+      {
+        "candidate": "unprovable truth"
+      },
+      {
+        "candidate": "Gödelian logic"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  Kaels Initiale Wohneinheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Ort spezifischer Juna-Erinnerung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Risse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter  /  Alters",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KW3-Cerberus  /  Cerberus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ankunftszone  /  Ankunftszone (The Fog)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ankunftszone  /  Ankunftszone (Generative Chaos)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ankunftszone (The Fog)  /  The Fog",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ankunftszone (Generative Chaos)  /  Generative Chaos",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Übergangsschleuse  /  Übergangsschleuse (Grenzfeste)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Grenzfeste  /  Übergangsschleuse (Grenzfeste)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kaels Initiale Wohneinheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "KW1-LogOS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "KW2-Mnemosyne",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "KW3-Cerberus",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "KW4-Kairos",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern-Trauma-Lokus",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "traumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      },
+      {
+        "candidate": "Ort spezifischer Juna-Erinnerung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Übergangsschleuse (Grenzfeste)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "grenzfeste",
+            "page": "grenzfeste"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 76,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

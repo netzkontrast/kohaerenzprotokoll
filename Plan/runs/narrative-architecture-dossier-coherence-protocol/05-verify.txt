@@ -1,0 +1,85 @@
+$ read.py narrative-architecture-dossier-coherence-protocol --count "must"
+whole word, case-sensitive     27
+whole word, case-insensitive   27
+including compounds            27
+
+`must` ^[narrative-architecture-dossier-coherence-protocol.md:#27]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Narrative Function"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Narrative Function` ^[narrative-architecture-dossier-coherence-protocol.md:#2]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Genesis-Krise"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Genesis-Krise` ^[narrative-architecture-dossier-coherence-protocol.md:#9]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Hybris"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hybris` ^[narrative-architecture-dossier-coherence-protocol.md:#1]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "autopoietic loop"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`autopoietic loop` ^[narrative-architecture-dossier-coherence-protocol.md:#1]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Overworld"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Overworld` ^[narrative-architecture-dossier-coherence-protocol.md:#3]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Rifts"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Rifts` ^[narrative-architecture-dossier-coherence-protocol.md:#5]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Coherence Theory of Truth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Coherence Theory of Truth` ^[narrative-architecture-dossier-coherence-protocol.md:#1]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Correspondence Theory of Truth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Correspondence Theory of Truth` ^[narrative-architecture-dossier-coherence-protocol.md:#1]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "TSDP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`TSDP` ^[narrative-architecture-dossier-coherence-protocol.md:#3]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Kohärenz Protokoll"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz Protokoll` ^[narrative-architecture-dossier-coherence-protocol.md:#3]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "Coherence Protocol"
+whole word, case-sensitive     5
+whole word, case-insensitive   7
+including compounds            5
+
+`Coherence Protocol` ^[narrative-architecture-dossier-coherence-protocol.md:#5]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "cache coherence"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`cache coherence` ^[narrative-architecture-dossier-coherence-protocol.md:#3]
+$ read.py narrative-architecture-dossier-coherence-protocol --count "cache coherence protocol"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`cache coherence protocol` ^[narrative-architecture-dossier-coherence-protocol.md:#2]
+stance_marker_count 29 = must 27 + Narrative Function 2

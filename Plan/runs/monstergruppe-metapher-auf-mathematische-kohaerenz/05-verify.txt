@@ -1,0 +1,64 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Validierungsurteil"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Validierungsurteil` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#4]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Nutzeranfrage"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nutzeranfrage` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#2]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Antwort"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Antwort` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#1]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Begründung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Begründung` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#2]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Moonshine"
+whole word, case-sensitive     39
+whole word, case-insensitive   41
+including compounds            52
+
+`Moonshine` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#39]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Kaels"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kaels` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#4]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Untergruppen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Untergruppen` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#4]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Zugriff am"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            33
+
+`Zugriff am` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#33]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Simplicity"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Simplicity` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#3]
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --count "Einfachheit"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Einfachheit` ^[monstergruppe-metapher-auf-mathematische-kohaerenz.md:#20]
+stance_marker_count 9 = Validierungsurteil 4 + Nutzeranfrage 2 + Antwort 1 + Begründung 2 (case-sensitive whole words above)
+$ python3 scripts/read.py monstergruppe-metapher-auf-mathematische-kohaerenz --find "Kapitel"  -> NOT IN THIS DOCUMENT
+$ grep -c "Zugriff am" -> 33; profile: glued ref numbers 53, headings I-VI at L13 L20 L82 L117 L123 L153

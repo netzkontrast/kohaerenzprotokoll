@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      135
+  backslash escapes      519
+  typographic marks      329
+  ascii quotes           197
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architecting, Architecture, Architekt, Architektin, Architektur, Archive
+  metho    METHOD, METHODS, Method, Methode, Methoden, Methodik, Methodology
+  story    STORYFORM, Story, Storyform, Storyformen, Storyforming, Storypoint, Storypoints
+  check    CHECK, CHECKLIST, Check, Checkpoint, Checkpoints, Checks
+  forsc    Forschung, Forschungs, Forschungsfrage, Forschungsschleife, Forschungsschritt, Forschungsziels
+  struk    Struktur, Strukturanalystin, Strukturberaterin, Strukturelle, Strukturierte, Strukturierter
+  bayes    Bayesian, Bayesianische, Bayesianischen, Bayesianischer, Bayesianisches
+  chara    Character, Characters, Charakter, Charakterarchitektur, Charaktere
+  erwei    Erweitere, Erweitern, Erweiterung, Erweiterungen, Erweiterungs
+  refle    Reflection, Reflexion, Reflexionen, Reflexionseintrag, Reflexionseinträge
+  stand    Stand, Standard, Standardisierte, Standing, Standpunkt
+  verif    VERIFICATION, Verifier, Verifikation, Verifikations, Verifikationstest
+  aegis    AEGIS, AEGISGenesisKrise, AEGISPhilosophie, Aegis
+  agent    Agent, Agenten, Agentin, Agentische
+  aktiv    Aktiv, Aktive, Aktivierungen, Aktivität
+  arbei    Arbeits, Arbeitshypothese, Arbeitsnotizen, Arbeitsschleife
+  beisp    Beispiel, Beispiele, Beispielen, Beispielkandidaten
+  besch    Beschreib, Beschreibung, Beschreibungen, Beschränkung
+  defin    Definiere, Definition, Definitionen, Definitive
+  gegen    GEGEN, Gegen, Gegenevidenz, Gegenteil
+  ident    Identifikation, Identifiziere, Identifizierte, Identifizierter
+  konfi    Konfidenz, Konfidenzband, Konfiguration, Konfigurationen
+  primä    Primär, Primärquelle, Primärquellen, Primärstruktur
+  quell    Quelle, Quellen, Quellenauswahl, Quellenliste
+  spezi    Spezialisierungen, Spezifikation, Spezifikationen, Spezifiziere
+
+# substring pairs -- never one term, often merged by accident
+  AUCH < Auch
+  Alle < Falle
+  Alle < Allegorie
+  Alle < Challenge
+  Anti < Substantiv
+  Aris < Inventarisierung
+  Beat < Beats
+  Bild < Bilder
+  Blog < Blogposts
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dual < Duale
+  Edit < Edits
+  Eine < Deine
+  Eine < Keine
+  Eine < Allgemeines
+  Ende < Wende
+  Ende < Folgende
+  Ende < Verwende

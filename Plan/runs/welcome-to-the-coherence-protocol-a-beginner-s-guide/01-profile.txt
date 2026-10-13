@@ -1,0 +1,14 @@
+# welcome-to-the-coherence-protocol-a-beginner-s-guide
+  lines                136  (frontmatter ends at 9)
+  body words           1962
+  headings             18   bold-only lines 0
+  table rows           9   code fences 0
+  question marks       1
+  backslash escapes    48
+  typographic marks    14   ascii quotes 44
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      Atmosphere x4, Principle x4, Somatic Truth x4
+  longest line         610 chars
+

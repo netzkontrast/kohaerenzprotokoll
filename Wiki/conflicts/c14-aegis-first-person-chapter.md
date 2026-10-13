@@ -333,3 +333,27 @@ Stands as a document of 2025-07-29 on AEGIS's voice that does not say first or t
 Kapitel 2 is planned as „Aus der kalten, analytischen Perspektive von AEGIS wird der Zustand von“ ^[detaillierte-kapiteluebersicht.md:L18] Kael assessed after the reboot. Kapitel 6 plans „AEGIS' Sensoren registrieren die Auswirkungen der Juna/V-Resonanz“ ^[detaillierte-kapiteluebersicht.md:L22] and Kapitel 10 „AEGIS reagiert auf den Riss mit einer“ ^[detaillierte-kapiteluebersicht.md:L26] perverse instantiation. The outline is in the present tense and says of none of the three whether AEGIS speaks as `ich` or is told in the third person.
 
 Stands as one more row of the record's table, dated 2025-07-30: a planned AEGIS perspective in Kapitel 2, its grammatical person not stated; recorded, not applied.
+
+## 2026-10-11 — `research-prompt-dramatica-dual-storyform-synthese-aegis-thro`, 2026-04-29, the storyform research prompt
+
+**The storyform research prompt reports as canon that AEGIS and the Guardians are written in 3rd person, the [[alters]] in 1st.**
+
+„alle 1st Person POV“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L287], „AEGIS+Guardians = 3rd Person“ ^[research-prompt-dramatica-dual-storyform-synthese-aegis-thro.md:L287]
+
+Stands as one more position in the record; it decides nothing.
+
+## 2026-10-11 — `research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m`, 2026-04-30, the storyform rebuild prompt
+
+**The storyform rebuild prompt's primer sets the alters in first-person POV and AEGIS and the Guardians in third-person POV.**
+
+The primer's alter line ends with the POV rule: all thirteen alters in first person, and „AEGIS und Guardians in“ ^[research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m.md:L379] third person. It names no chapter.
+
+Stands: one more position on the POV of AEGIS, the prompt's summary; nothing decided.
+
+## 2026-10-13 — `konsolidierung-des-hard-canon-protokolls`, 2026-03-31, the Hard-Canon masterfile
+
+**The Hard-Canon masterfile declares AEGIS, the Guardians and [[juna|Juna]] narrated in a distanced personal third person and the alters in the first person; it knows no AEGIS chapter in the first person.**
+
+It declares „Die 13 Kael-Alters erzählen in einer extrem polyphonen, emotional nahen“ ^[konsolidierung-des-hard-canon-protokolls.md:L23] first person, and „AEGIS, die Guardians und Juna werden in einer distanzierteren“ ^[konsolidierung-des-hard-canon-protokolls.md:L24] personal third person.
+
+Stands: one more position on the POV of AEGIS, a declaration of the masterfile; recorded, not applied; the record is decided.

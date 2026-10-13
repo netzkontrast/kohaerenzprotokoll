@@ -1,0 +1,426 @@
+{
+  "document": "ki-roman-design-mechaniken",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 66,
+  "decisions": 66,
+  "same_surface": {},
+  "decided_mechanically": 60,
+  "needs_judgement": 6,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 308
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 318
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 272
+      },
+      {
+        "candidate": "Kohärenz-Kernel",
+        "page": "kohaerenz-kernel",
+        "readings": 50
+      },
+      {
+        "candidate": "Kollaps-Kernel",
+        "page": "kollaps-kernel",
+        "readings": 46
+      },
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 88
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 189
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Dual Kernel Theory"
+      },
+      {
+        "candidate": "Tertiärer Struktureller Dissoziation der Persönlichkeit"
+      },
+      {
+        "candidate": "Gamma-7"
+      },
+      {
+        "candidate": "Void"
+      },
+      {
+        "candidate": "Praetor"
+      },
+      {
+        "candidate": "Echo von Panik"
+      },
+      {
+        "candidate": "Trauma-Holding-Alter"
+      },
+      {
+        "candidate": "Story Mind"
+      },
+      {
+        "candidate": "Exekutivsystem"
+      },
+      {
+        "candidate": "Systemische Stabilität"
+      },
+      {
+        "candidate": "Fokus-Slider"
+      },
+      {
+        "candidate": "Text Overstep"
+      },
+      {
+        "candidate": "Alter-Verhandlung"
+      },
+      {
+        "candidate": "Internal Party Management"
+      },
+      {
+        "candidate": "Memory Decryption"
+      },
+      {
+        "candidate": "Ontologische Ausrichtung"
+      },
+      {
+        "candidate": "Core Gameplay Mechanics"
+      },
+      {
+        "candidate": "Drama Manager"
+      },
+      {
+        "candidate": "Hierarchical Task Network"
+      },
+      {
+        "candidate": "HTN"
+      },
+      {
+        "candidate": "Storylets"
+      },
+      {
+        "candidate": "Salienz"
+      },
+      {
+        "candidate": "Lorebook"
+      },
+      {
+        "candidate": "Player-Created Content"
+      },
+      {
+        "candidate": "PCC"
+      },
+      {
+        "candidate": "RAG"
+      },
+      {
+        "candidate": "Retrieval-Augmented Generation"
+      },
+      {
+        "candidate": "Retrieval-Augmented Story Engine"
+      },
+      {
+        "candidate": "Authorial Anchors"
+      },
+      {
+        "candidate": "Narratives Outpainting"
+      },
+      {
+        "candidate": "Ankerszenen"
+      },
+      {
+        "candidate": "Diegetisches Interface"
+      },
+      {
+        "candidate": "Progressive Disclosure"
+      },
+      {
+        "candidate": "Goldfish Memory"
+      },
+      {
+        "candidate": "Neurosymbolic Guardrails"
+      },
+      {
+        "candidate": "Multi-Agent Validation"
+      },
+      {
+        "candidate": "Debate Protocol"
+      },
+      {
+        "candidate": "SCORE Framework"
+      },
+      {
+        "candidate": "Tool Calling"
+      },
+      {
+        "candidate": "Clocks"
+      },
+      {
+        "candidate": "Success at a cost"
+      },
+      {
+        "candidate": "Search-Based Drama Management"
+      },
+      {
+        "candidate": "SBDM"
+      },
+      {
+        "candidate": "Declarative Optimization-based Drama Management"
+      },
+      {
+        "candidate": "DODM"
+      },
+      {
+        "candidate": "Targeted Trajectory Distribution MDPs"
+      },
+      {
+        "candidate": "Director-Actor-Paradigma"
+      },
+      {
+        "candidate": "Director Agent"
+      },
+      {
+        "candidate": "Actor Agents"
+      },
+      {
+        "candidate": "Branching Narratives"
+      },
+      {
+        "candidate": "Grand Argument Story"
+      },
+      {
+        "candidate": "Fehlattributionen von Erregung"
+      },
+      {
+        "candidate": "Dramatica-Theorie"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Experience Manager  /  Authorial Experience Manager",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Rauschen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Authorial Experience Manager",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alex",
+            "page": "alex"
+          }
+        ]
+      },
+      {
+        "candidate": "RASE",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "gartenderstillenprasenz",
+            "page": "garten-der-stillen-praesenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch-Ästhetik",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 169,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 156,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 89,
+      "already_read": false
+    },
+    {
+      "page": "personas",
+      "surface": "Personas",
+      "line": 23,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 127,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

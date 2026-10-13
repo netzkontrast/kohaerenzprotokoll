@@ -1,0 +1,122 @@
+{
+  "document": "emergenz-autonomer-systeme-aegis-forschung",
+  "drive_id": "1S4t714MZMdc-rzFUAJIvMmCSZhjTzjMfBxLdIQqtMEU",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 62,
+    "decisions": 67,
+    "decided_by_lookup": 48,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        252,
+        301,
+        385,
+        443,
+        445,
+        449,
+        484,
+        517
+      ],
+      "attribution": "",
+      "note": "AEGIS as a speculative construct, asked about rather than described"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "weak against strong emergence put to AEGIS as a question"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        390,
+        445,
+        449
+      ],
+      "attribution": "",
+      "note": "`Kohärenz aus Entropie` as a speculative core concept, its \"aus\" asked about"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        390
+      ],
+      "attribution": "",
+      "note": "negentropy as information, tied to AEGIS in the synthesis"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 33,
+      "decision": "reading",
+      "why": "a cluster heading; the core concept read"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 392,
+      "decision": "occurrence",
+      "why": "an abstract system's boundary"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 59,
+      "decision": "occurrence",
+      "why": "a feature in a borrowed definition"
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 582,
+      "decision": "occurrence",
+      "why": "a journal name in the references"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 165,
+      "decision": "occurrence",
+      "why": "simulation of cosmogenesis, a speculative item"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

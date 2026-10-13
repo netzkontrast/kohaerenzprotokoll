@@ -362,3 +362,107 @@ Where it stands: a further document in which 734 is Kael's own designation, in a
 Chapter 2 is titled `Protokoll 734` with „Kohärenz-Initialisierung“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L24], and is planned „Aus der kalten, analytischen Perspektive von AEGIS wird der Zustand von“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L26] Kael assessed, whose fragmentation „wird als zu managende Variable klassifiziert.“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L26] In chapter 5 AEGIS reacts to Kael's access to KW2 „mit subtiler Verfolgung durch Agenten“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L41], named `Einheit 734` in brackets. The outline names no dwelling and no component, and does not join the number to Kael.
 
 Where it stands in the record's own terms: 734 as a protocol title and as a unit of AEGIS's agents, in a plan; recorded, the question stays open.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept names Kael's KW1 dwelling `Kael's Wohneinheit 734` and describes it as a standardised module; the number is not explained in the file.**
+
+The table's KW1-01 (`Plot Pt. 1`) gives „Standardisiertes Wohnmodul, minimalistisch, funktional, AEGIS-kontrolliert.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L288] and profile 1 repeats the name as profile 1; its concept is „Standardisiertes, minimalistisches Wohnmodul, entworfen für maximale Effizienz, Vorhersehbarkeit und minimale Reibung“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L351]. The number stands as `734` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2], in the table row and the profile title, and the lines cited give no meaning for it.
+
+Stands as one more position on what the number names: a dwelling module in KW1, nothing further; recorded, nothing decided.
+
+## 2026-10-11 — `causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me`, 2025-11-03, the causal-linkage report
+
+**The causal-linkage report gives 734 as part of a log entry number, not as Kael's designation or his dwelling.**
+
+The report quotes „fragments of its“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L118] Genesis Log as the origin of AEGIS's flawed worldview, and prints one entry numbered `LOG 734.19`. The entry begins „A resonance. Not from the Rauschen, but“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L120] and goes on „A signature that defies classification.“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L120]; it is AEGIS's own voice on its Genesis-Krise. The report does not connect the number to Kael, a Komponente or a Wohneinheit.
+
+Stands: the number occurs here as the number of an AEGIS log entry; one more position in the record, which decides nothing about what 734 names for Kael.
+
+## 2026-10-11 — `strategic-narrative-solutions-for-kohaerenz-protokoll`, 2025-11-03, the strategic solutions report
+
+**The strategic solutions report proposes that the number 734 is the designation of AEGIS's Ursprungs-Ich, not of Kael or a dwelling.**
+
+It proposes the Genesis Log as fragments that „represent the recovered memories of the“ ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:L83] Ursprungs-Ich, and says it was „later designated“ ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:L83] Component 734. The four sample excerpts it proposes carry the numbers 734.01, 734.19, 734.22 and 734.23. The report names no dwelling.
+
+This stands in the record as one more position on what 734 names; it decides nothing.
+
+## 2026-10-11 — `strategic-narrative-implementation-for-kohaerenz-protokoll`, 2025-11-03, the implementation guide
+
+**The implementation guide proposes Component 734 as the functional unit the Ursprungs-Ich becomes after the dismemberment, and does not say what the number labels.**
+
+Its scene blueprint is headed „From \"I\" to \"Component 734\"“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L59]. In the last step a new awareness dawns, Component 734, and a „faint, persistent echo of the former self“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L67] remains, classified as an „irrelevant latency“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L67].
+
+Stands: one more position on what the component is, a proposal of the guide that decides nothing; it names no dwelling and gives no meaning to the digits.
+
+## 2026-10-12 — `the-coherence-protocol-a-narrative-mosaic`, 2025-11-03, the narrative mosaic brief
+
+**The narrative mosaic brief names the AEGIS Core Logic Component 734 and describes it as the traumatised Ursprungs-Ich after its fragmentation.**
+
+„The perspective of the traumatized“ ^[the-coherence-protocol-a-narrative-mosaic.md:L38] Ursprungs-Ich „after its fragmentation, now a functional component defined by the prime directive“ ^[the-coherence-protocol-a-narrative-mosaic.md:L38]; in a story entry it is „the AEGIS component that was once the“ ^[the-coherence-protocol-a-narrative-mosaic.md:L146] Ursprungs-Ich, and „is gone, replaced by the designation“ ^[the-coherence-protocol-a-narrative-mosaic.md:L146] Component 734.
+
+Stands as one more position on what 734 names: the AEGIS core after fragmentation, in a brief; recorded, not applied.
+
+## 2026-10-12 — `strategic-narrative-analysis-forging-a-compelling-story-from`, 2025-11-03, the strategy memo
+
+**The strategy memo, summarising a text it cites by title, says the Ich was subsumed into pure function and became Komponente 734.**
+
+It cites „Genesis der Existenz“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L44] as the source of AEGIS's origin and plans to narrate it; the subjective Ich „must be subsumed into pure function, becoming the objective“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L51] `Komponente 734`. That is the memo's summary, not the cited text's wording. It adds „It had to kill its own subjectivity to survive.“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L51]
+
+Stands as one more position on what 734 names: the Ich of AEGIS's genesis turned into function, in a plan; recorded, not applied.
+
+## 2026-10-12 — `report-plot-synthesis-and-final-outline-for-coherence-protoc`, 2025-11-03, the plot synthesis report
+
+**The plot synthesis report says Komponente 734 is AEGIS's Ursprungs-Ich (Origin-Self).**
+
+It writes the system's `Ursprungs-Ich` as „identified as“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L53] `Komponente 734`, which „was once a minimal consciousness“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L53]. Point 1 repeats it: the primary trauma occurs when AEGIS's `Ursprungs-Ich` (`Komponente 734`) „experiences an unexpected resonance with a paradoxical, transcendent anomaly“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L79].
+
+Stands as an answer to the record's question: Komponente 734 names AEGIS's Origin-Self; recorded, not applied.
+
+## 2025-11-13 — `fragen-zu-existenz-agency-und-realitaet`, 2025-11-13, the 39-questions synthesis
+
+**The 39-questions synthesis retells (sources 1 and 6) that Komponente 734 is the Ich fragment after its forced fragmentation, and the part the [[kohaerenz|Kohärenz]] Protokoll split off as an internal threat.**
+
+On the fragment it says „Was mit dem individuellen“ ^[fragen-zu-existenz-agency-und-realitaet.md:L79] Ich fragment, now Komponente 734, happens, is a violent fragmentation, „ultimative Akt der Selbsterhaltung“ ^[fragen-zu-existenz-agency-und-realitaet.md:L79]. On the third firewall: „Gegen interne Bedrohungen“ ^[fragen-zu-existenz-agency-und-realitaet.md:L97] it used the Kohärenz Protokoll „um den Teil abzuspalten“ ^[fragen-zu-existenz-agency-und-realitaet.md:L97]. In the proposed fourth act it is also the viewpoint of chapter 51: „Dies ist der letzte Test, erzählt aus der Perspektive der AEGIS-Kernlogik“ ^[fragen-zu-existenz-agency-und-realitaet.md:L165].
+
+Stands: the synthesis reports the name for the fragment and the split; it does not address the record's open question beyond that, and nothing is decided here.
+
+## 2026-10-12 — `genesis-aegis-und-logische-grenzen`, 2025-04-29, the Genesis prose draft with logical limits
+
+**The Genesis prose draft uses 734 for the numbered component the nameless self becomes inside AEGIS; it names no dwelling.**
+
+The AEGIS log (English capitals) of Szene 5 reads: „FRAGMENT DESIGNATION: 734“ ^[genesis-aegis-und-logische-grenzen.md:L73]. The draft's commentary says the nameless self becomes „eine nummerierte Komponente mit definierter Funktion im Gesamtsystem“ ^[genesis-aegis-und-logische-grenzen.md:L73]. The echo's signature in the log is „SIGNATURE ID: VS-734-ALPHA“ ^[genesis-aegis-und-logische-grenzen.md:L79].
+
+Where it stands in the record's own terms: it supports the designation sense of 734 (Komponente 734); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
+
+## 2026-10-12 — `genesis-aegis`, 2025-11-03, the Genesis manuscript
+
+**The Genesis manuscript uses 734 for the narrator's identity inside AEGIS, a component that filters at the boundary; it names no dwelling.**
+
+The narrator states: „My identity is now Component 734.“ ^[genesis-aegis.md:L71] The function: „My function is clear: to detect anomalies at the boundary, to analyze the signatures of unknown fluctuations, and to filter or neutralize any destabilizing influence from the K₀-domain.“ ^[genesis-aegis.md:L71]
+
+Where it stands in the record's own terms: it supports the designation sense of 734 (the component); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
+
+## 2026-10-12 — `the-architecture-of-a-misguided-god-a-biography-of-aegis`, 2025-11-03, the AEGIS biography
+
+**The AEGIS biography uses `Komponente 734` as AEGIS's designation for Kael; it names no dwelling.**
+
+The biography states: „AEGIS classifies Kael as“ ^[the-architecture-of-a-misguided-god-a-biography-of-aegis.md:L53] `Komponente 734`, and it „perceives his fragmented psyche not as a human condition but as a dangerous source of entropy“ ^[the-architecture-of-a-misguided-god-a-biography-of-aegis.md:L53]
+
+Where it stands in the record's own terms: it supports the designation sense of 734 (the component); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
+
+## 2026-10-12 — `the-architecture-of-being-a-philosophical-thesis-on-the-core`, 2025-11-03, the Architecture-of-Being paper
+
+**The Architecture-of-Being paper uses Component 734 for the sacrificed subjective I of AEGIS, an objective part of a machine; it names no dwelling.**
+
+The paper writes that the subjective I was sacrificed and became „Component 734“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L64], „an objective part of a machine defined by negation“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L64]
+
+Where it stands in the record's own terms: it supports the designation sense of 734 (the component); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
+
+## 2026-10-13 — `storyforms-system-mind-bewusstsein`, 2026-04-28, the 5D-Synthese exegesis
+
+**The 5D-Synthese exegesis writes `T-734` as Kael's „Kern-Trauma“ ^[storyforms-system-mind-bewusstsein.md:L35], avoided in its Storyform A and held to in its Storyform B.**
+
+In its Storyform A Kael has run out of ways to hide: „Kael gehen in den ersten 13 Kapiteln die Optionen und Vermeidungsstrategien aus, sich vor seinem Kern-Trauma (T-734) zu verstecken.“ ^[storyforms-system-mind-bewusstsein.md:L35] In its Storyform B Kael „hält kompromisslos an seinem Kern-Trauma (T-734) als harte Faktenbasis der Realität fest“ ^[storyforms-system-mind-bewusstsein.md:L70], refusing AEGIS's deletion.
+
+Where it stands in the record's own terms: 734 as a trauma of Kael, not a dwelling and not AEGIS's designation; recorded, the question stays open.

@@ -1,0 +1,219 @@
+{
+  "document": "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
+  "drive_id": "1YTqQ8J1Mo0w3m_wTJWUWHZx00IKpBY3Pl4lv-oOSqDc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; one candidate respelled after counting by the coordinator (05-verify.txt); rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-369/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 62,
+    "decisions": 70,
+    "decided_by_lookup": 47,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English craft guide: its new surfaces are its tactic and scenario names and borrowed TSDP and narrative concepts; what it advises for AEGIS, Kael and the alters, the Kernwelten, the Risse, TSDP, Cache Incoherence, the Guardians, the living Gödel-Satz and algorithmic melancholy went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        19,
+        30,
+        33,
+        37,
+        39,
+        83
+      ],
+      "attribution": "",
+      "note": "the guide's AEGIS as systemic antagonist, its tactics and its flaw, all as advice"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        77
+      ],
+      "attribution": "",
+      "note": "Alex as the protector who executes the decisive action in the proposed Logic Hack"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "algorithmic melancholy as the guide's proposed end state for AEGIS"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        78
+      ],
+      "attribution": "",
+      "note": "Argus as the meta-cognitive observer in the proposed Empathy Exploit"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "Cache Incoherence as a technical metaphor to make palpable in prose"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        30,
+        83
+      ],
+      "attribution": "",
+      "note": "the guide's living Gödel-Satz as resolution, and the Gödelian paradox as AEGIS's trap for Lex"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        78
+      ],
+      "attribution": "",
+      "note": "an AEGIS Guardian as the target of manipulation in the proposed Empathy Exploit"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        47,
+        56,
+        60,
+        71,
+        83,
+        87
+      ],
+      "attribution": "",
+      "note": "Kael as System Kael, narrator and Host, and the proposed turn to functional multiplicity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        30,
+        31,
+        32,
+        77,
+        78,
+        79
+      ],
+      "attribution": "",
+      "note": "the three Kernwelten as settings of the matrix and, as KW1, KW4 and KW2, of the scenarios"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        31,
+        55,
+        79
+      ],
+      "attribution": "",
+      "note": "Kiko as the trauma-holding EP targeted in the matrix and exposed in the proposed Trauma-Weapon Gambit"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        30,
+        53,
+        77
+      ],
+      "attribution": "",
+      "note": "Lex as the Analyst in the Logic Trap and the proposed Logic Hack"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        77
+      ],
+      "attribution": "",
+      "note": "Lia as the creative part in the proposed Logic Hack"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        32,
+        39,
+        54,
+        78
+      ],
+      "attribution": "",
+      "note": "Nyx as the Warrior: provoked in the matrix, a source of Risse, a diversion in the proposed Empathy Exploit"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        78
+      ],
+      "attribution": "",
+      "note": "Rhys as the caretaker who engages the AEGIS Guardian in the proposed Empathy Exploit"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        31,
+        39,
+        79
+      ],
+      "attribution": "",
+      "note": "the Riss as a glitch AEGIS provokes, then a tool in the guide's proposals"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        77,
+        79
+      ],
+      "attribution": "",
+      "note": "Selene as the integrator part in the proposed Logic Hack and Trauma-Weapon Gambit"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        19,
+        43,
+        47
+      ],
+      "attribution": "",
+      "note": "TSDP as the plot's engine in the guide's advice"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` and `Kael (The Host)` read on kael; `Kiko (The Inner Child)` read on kiko; `AEGIS Guardian` read on guardians; `Riss`/`Risse` read on risse; `Kernwelt 1`–`3` and the Kernwelt names read on kern-welten, worlds not Guardians; `Depersonalisation` a dissociative symptom, not personas",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "the matrix tactics and scenario names, Paradoxon X, externalized perpetrator introject, heiligen Wissenschaft, functional multiplicity, systemic synergy, rhizomatic network, high-Φ and low-Φ, The Gardener",
+    "the borrowed TSDP and narrative concepts (dissociative symptoms, switching, intrusions, Flight/Freeze, Attachment Cry, Unreliable Narrator)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

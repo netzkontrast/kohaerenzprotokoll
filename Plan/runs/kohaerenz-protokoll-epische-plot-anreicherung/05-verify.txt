@@ -1,0 +1,135 @@
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Empfehlung der Architekturanalyse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Empfehlung der Architekturanalyse` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Empfohlener Rahmen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Empfohlener Rahmen` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Variante A"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Variante A` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Variante B"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Variante B` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Zugriff am April 8, 2026"
+whole word, case-sensitive     58
+whole word, case-insensitive   58
+including compounds            58
+
+`Zugriff am April 8, 2026` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#58]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Alter"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            23
+
+`Alter` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#16]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Silas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Silas` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Mnemosyne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Mnemosyne` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Mnemosyne-Archivs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mnemosyne-Archivs` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Mnemosyne-Bibliothek"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mnemosyne-Bibliothek` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Basis-Realität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Basis-Realität` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Zion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zion` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Kammerspiel-Eskalation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kammerspiel-Eskalation` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Kosmische Odyssee"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kosmische Odyssee` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Hybride Spirale"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hybride Spirale` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Optionlock"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Optionlock` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Murdock"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            8
+
+`Murdock` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Campbell"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`Campbell` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Algorithmischer Melancholie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Algorithmischer Melancholie` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Coherons"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Coherons` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-epische-plot-anreicherung --count "Dual Kernel Theory"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Dual Kernel Theory` ^[kohaerenz-protokoll-epische-plot-anreicherung.md:#5]
+$ stance_marker_count = 1 + 1 + 2 + 1 = 5 (Empfehlung der Architekturanalyse, Empfohlener Rahmen, Variante A, Variante B)
+$ python3 scripts/profile.py kohaerenz-protokoll-epische-plot-anreicherung | grep "glued ref numbers"
+  glued ref numbers    72

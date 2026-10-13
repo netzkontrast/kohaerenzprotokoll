@@ -1,0 +1,106 @@
+{
+  "document": "logik-trifft-transzendente-entitaet",
+  "drive_id": "1NR78O909l5299U-ywczMHgd6eDbDm9J76njAgp9-iBg",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 40,
+    "decisions": 41,
+    "decided_by_lookup": 35,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        21,
+        23,
+        31,
+        41,
+        117,
+        119,
+        312
+      ],
+      "attribution": "",
+      "note": "Aegis as a self-referential logical system meeting a transcendent entity, a hypothesis for a novel draft"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        115,
+        119
+      ],
+      "attribution": "",
+      "note": "`logischer Entropie` as what Aegis's coherence protocol probably minimises"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        29,
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "the Kohärenzprotokoll as the process network of Aegis's operational closure"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 115,
+      "decision": "reading",
+      "why": "logical entropy in the assimilation passage, the request's words"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 33,
+      "decision": "reading",
+      "why": "survival depends on internal coherence"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 121,
+      "decision": "occurrence",
+      "why": "a section heading"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 226,
+      "decision": "occurrence",
+      "why": "the borrowed Dust Theory"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

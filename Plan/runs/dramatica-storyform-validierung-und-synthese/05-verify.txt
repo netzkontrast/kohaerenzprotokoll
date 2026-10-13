@@ -1,0 +1,85 @@
+$ read.py dramatica-storyform-validierung-und-synthese --count "Validitätsprüfung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Validitätsprüfung` ^[dramatica-storyform-validierung-und-synthese.md:#2]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Frage"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Frage` ^[dramatica-storyform-validierung-und-synthese.md:#4]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Hypothese"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hypothese` ^[dramatica-storyform-validierung-und-synthese.md:#2]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Empfehlung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Empfehlung` ^[dramatica-storyform-validierung-und-synthese.md:#1]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Zugriff am"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Zugriff am` ^[dramatica-storyform-validierung-und-synthese.md:#14]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Dokument A"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Dokument A` ^[dramatica-storyform-validierung-und-synthese.md:#20]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Dokument B"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Dokument B` ^[dramatica-storyform-validierung-und-synthese.md:#17]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Durchgangslinien"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Durchgangslinien` ^[dramatica-storyform-validierung-und-synthese.md:#6]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP` ^[dramatica-storyform-validierung-und-synthese.md:#1]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[dramatica-storyform-validierung-und-synthese.md:#0]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[dramatica-storyform-validierung-und-synthese.md:#1]
+
+$ read.py dramatica-storyform-validierung-und-synthese --count "Contagonist"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Contagonist` ^[dramatica-storyform-validierung-und-synthese.md:#0]
+
+stance_marker_count 9 = 2+4+2+1 (Validitätsprüfung, Frage, Hypothese, Empfehlung)

@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern
+  lines                84  (frontmatter ends at 9)
+  body words           925
+  headings             1   bold-only lines 4
+  table rows           0   code fences 0
+  question marks       3
+  backslash escapes    0
+  typographic marks    4   ascii quotes 10
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    16
+  repeated labels      none
+  longest line         605 chars
+

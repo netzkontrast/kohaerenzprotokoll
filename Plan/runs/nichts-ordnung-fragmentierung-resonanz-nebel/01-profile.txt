@@ -1,0 +1,14 @@
+# nichts-ordnung-fragmentierung-resonanz-nebel
+  lines                146  (frontmatter ends at 9)
+  body words           6270
+  headings             1   bold-only lines 9
+  table rows           11   code fences 0
+  question marks       7
+  backslash escapes    446
+  typographic marks    285   ascii quotes 0
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    21
+  repeated labels      none
+  longest line         1576 chars
+

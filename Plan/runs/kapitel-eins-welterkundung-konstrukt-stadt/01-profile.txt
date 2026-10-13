@@ -1,0 +1,14 @@
+# kapitel-eins-welterkundung-konstrukt-stadt
+  lines                232  (frontmatter ends at 9)
+  body words           4688
+  headings             7   bold-only lines 15
+  table rows           18   code fences 0
+  question marks       9
+  backslash escapes    28
+  typographic marks    25   ascii quotes 34
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    80
+  repeated labels      none
+  longest line         983 chars
+

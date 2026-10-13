@@ -1,0 +1,151 @@
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Impliziert"
+whole word, case-sensitive     2
+whole word, case-insensitive   6
+including compounds            2
+
+`Impliziert` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "implizit"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`implizit` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "wahrscheinlich"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`wahrscheinlich` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "potenziell"
+whole word, case-sensitive     12
+whole word, case-insensitive   13
+including compounds            34
+
+`potenziell` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#12]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "könnte"
+whole word, case-sensitive     13
+whole word, case-insensitive   16
+including compounds            16
+
+`könnte` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#13]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Ch"
+whole word, case-sensitive     77
+whole word, case-insensitive   77
+including compounds            88
+
+`Ch` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#77]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Kapitel` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Glossar"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Glossar` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#5]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Mnemosyne"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Mnemosyne` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Mnemosynes"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mnemosynes` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Kaels"
+whole word, case-sensitive     47
+whole word, case-insensitive   47
+including compounds            47
+
+`Kaels` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#47]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Konstrukt-Welten (KWs)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Welten (KWs)` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Juna/V"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`Juna/V` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#12]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Prolog"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Prolog` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#12]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Akt 1"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Akt 1` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Akt 3"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Akt 3` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Lex"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lex` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Fundament"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            29
+
+`Fundament` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#21]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Leere"
+whole word, case-sensitive     13
+whole word, case-insensitive   14
+including compounds            14
+
+`Leere` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#13]
+
+$ python3 scripts/read.py tropen-konzepte-fuer-kohaerenz-protokoll --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fehlausgerichtete Kohärenz` ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:#2]
+
+$ grep -c "end list"
+23
+$ references L207-L356 = 150 entries (numbered 1..150; last number on L356)
+150. Cog

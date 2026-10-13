@@ -1,0 +1,76 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is English prose with German world names in quotation marks. The Juna Echo and Juna-Resonanz are two surfaces in the text, and Juna alone stands without markup. The alter table writes bold names with escapes; Kael (Host) is listed joined and Kael alone. Gärtner (Gardener) has markup between its halves, so each half is listed. The Greek letter Phi stands in Low Φ and High Φ. Borrowed concepts are under the lens heading.
+
+- Kael
+- Kael (Host)
+- Host
+- Logos-Prime
+- Einheit K-1123
+- Kohärenz-Verifikator
+- AEGIS
+- Algorithmic Horror
+- Glitches
+- Juna Echo
+- Juna-Resonanz
+- Juna
+- Kohärenz-Validierung
+- Partitionierung
+- Discursive Logic
+- perturbation
+- Kohärenz wiederhergestellt
+- Apparently Normal Part (ANP)
+- ANP
+- Apparently Normal Parts (ANPs)
+- ANPs
+- Emotional Parts (EPs)
+- EPs
+- EP
+- alters
+- society of selves
+- Lex
+- Analyst
+- Nyx
+- Kiko
+- Selene
+- Integrator/Inner Self Helper (ISH)
+- Inner Self Helper
+- ISH
+- Manager-part
+- McL-Sigma-3
+- Co₁
+- McL
+- false success
+- epistemology-shift
+- Cache-Konflikt
+- death of an attitude
+- Self
+- functional multiplicity
+- dialetheic mind
+- Resonanz-Harmonisierer
+- Harmonizing Omega-Prime
+- Omega-Prime
+- Living Gödel-sentence
+- algorithmic melancholy
+- inefficient beauty
+- Guardians
+- Gärtner
+- Gardener
+- Zombie-System
+- Low Φ
+- High Φ
+- System AEGIS: Coherence through Negation
+- System Kael: Coherence through Integration
+
+## lens
+
+- environmental storytelling
+- Theory of Structural Dissociation of the Personality (TSDP)
+- TSDP
+- autopoietic
+- operationally closed
+- Principle of Explosion
+- paraconsistent logic
+- Gödel-sentence
+- qualia
+- Integrated Information

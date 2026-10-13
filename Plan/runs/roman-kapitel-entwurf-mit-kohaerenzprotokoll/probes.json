@@ -1,0 +1,230 @@
+{
+  "document": "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+  "drive_id": "1ZwglpOQnLfRtBWKQ1vdTN25Say8_UqrPpnx4fWyFO_E",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 24,
+  "backslash_escapes": 26,
+  "typographic_marks": 27,
+  "ascii_quotes": 24,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdiagnostik",
+      "Systeme",
+      "Systeminterferenz",
+      "Systemische",
+      "Systemlogik",
+      "Systems",
+      "Systemupdate",
+      "Systemwarnung"
+    ],
+    "daten": [
+      "Datenabruf",
+      "Datenartefakte",
+      "Datenknotenpunkt",
+      "Datenstrom",
+      "Datenströme"
+    ],
+    "roman": [
+      "Roman",
+      "Romananalyse",
+      "Romanentwicklung",
+      "Romanprojekts",
+      "Romans"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollsystems",
+      "Kontrollverlust"
+    ],
+    "nährs": [
+      "Nährstoffe",
+      "Nährstoffkombination",
+      "Nährstoffpaste",
+      "Nährstoffzufuhr"
+    ],
+    "physi": [
+      "Physical",
+      "Physik",
+      "Physis",
+      "Physische"
+    ],
+    "disso": [
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziativen"
+    ],
+    "erzäh": [
+      "Erzählstile",
+      "Erzählung",
+      "Erzählwelt"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerfreiheit",
+      "Fehlerkorrektur"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungslogik",
+      "Handlungsmechanik"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationseinheit"
+    ],
+    "integ": [
+      "Integrationsprozess",
+      "Integrity",
+      "Integrität"
+    ],
+    "körpe": [
+      "Körper",
+      "Körpergewicht",
+      "Körperliche"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtbahnen",
+      "Lichtpunkte"
+    ],
+    "milli": [
+      "Millimeter",
+      "Millionen",
+      "Millisekunden"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokollierung",
+      "Protokolls"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychotraumatologie"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstanden",
+      "Verstandes"
+    ],
+    "welte": [
+      "Welten",
+      "Weltengestaltung",
+      "Welterkundung"
+    ],
+    "übers": [
+      "Überschreiben",
+      "Überschreibung",
+      "Übersteuerung"
+    ],
+    "arbei": [
+      "Arbeitsbereich",
+      "Arbeitszyklus"
+    ],
+    "archi": [
+      "Architectural",
+      "Architektur"
+    ],
+    "aspek": [
+      "Aspekt",
+      "Aspekten"
+    ],
+    "bestä": [
+      "Bestätigt",
+      "Bestätigung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Bein",
+      "Beine"
+    ],
+    [
+      "Dual",
+      "Individualität"
+    ],
+    [
+      "Eine",
+      "Beine"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eins",
+      "Einstieg"
+    ],
+    [
+      "Eins",
+      "Bewusstseins"
+    ],
+    [
+      "Feld",
+      "Sensorfeld"
+    ],
+    [
+      "Form",
+      "Formulation"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Ausformulierung"
+    ],
+    [
+      "Form",
+      "Informationseinheit"
+    ],
+    [
+      "Grün",
+      "Begründung"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handballen"
+    ],
+    [
+      "Hand",
+      "Handlungslogik"
+    ]
+  ]
+}

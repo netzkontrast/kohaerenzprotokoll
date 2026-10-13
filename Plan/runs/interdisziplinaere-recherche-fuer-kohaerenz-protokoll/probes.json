@@ -1,0 +1,332 @@
+{
+  "document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll",
+  "drive_id": "1-ky_6f0Qm0EB3I6-0RF7DMtCQ0xLEUdoj-5-x24I6vQ",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 237,
+  "backslash_escapes": 119,
+  "typographic_marks": 24,
+  "ascii_quotes": 140,
+  "inflection_families": {
+    "quant": [
+      "Quanten",
+      "Quantenfeldtheorie",
+      "Quantengravitation",
+      "Quantenmechanik",
+      "Quantenphysik",
+      "Quantenphänomene",
+      "Quantensysteme",
+      "Quantenteilchen",
+      "Quantenvakuum",
+      "Quantenvakuumfeld",
+      "Quantenvakuumphysik",
+      "Quantenvakuumzustand",
+      "Quantenverschränkung",
+      "Quantenzustand",
+      "Quantum"
+    ],
+    "syste": [
+      "System",
+      "Systemdenken",
+      "Systeme",
+      "Systemen",
+      "Systemgrenzen",
+      "Systemintegrität",
+      "Systemisch",
+      "Systemkollaps",
+      "Systemorganisation",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemtheorien"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifizierte",
+      "Identifizierung",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätserhaltung",
+      "Identitätsfragmentierung",
+      "Identitätsstörung",
+      "Identitätsstörungen",
+      "Identitätszustände"
+    ],
+    "reali": [
+      "Realisierbarkeit",
+      "Realisierung",
+      "Realism",
+      "Realismus",
+      "Realität",
+      "Realitäten",
+      "Realitätserfahrung",
+      "Realitätsfacetten",
+      "Realitätsinstabilitäten",
+      "Realitätsstruktur",
+      "Realitätstunnel"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbewusstsein",
+      "Selbsterhaltung",
+      "Selbsterhaltungsdynamik",
+      "Selbsterleben",
+      "Selbsterschaffung",
+      "Selbsterzeugung",
+      "Selbstorganisation",
+      "Selbstverursachte",
+      "Selbstähnlichkeit"
+    ],
+    "infor": [
+      "Information",
+      "Informationaler",
+      "Informationelle",
+      "Informationen",
+      "Informationsfluss",
+      "Informationsgewinnung",
+      "Informationsontologie",
+      "Informationsstruktur",
+      "Informationstheorie"
+    ],
+    "relat": [
+      "Relata",
+      "Relation",
+      "Relational",
+      "Relationale",
+      "Relationalen",
+      "Relationaler",
+      "Relationen",
+      "Relationship",
+      "Relativitätstheorie"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturalismus",
+      "Strukturbildung",
+      "Strukturell",
+      "Strukturellem",
+      "Strukturellen",
+      "Struktureller",
+      "Strukturen",
+      "Strukturfehler"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interdisziplinäre",
+      "International",
+      "Internet",
+      "Interpretation",
+      "Interpretationen",
+      "Interventionen"
+    ],
+    "forsc": [
+      "Forschungsauftrag",
+      "Forschungsdirektiven",
+      "Forschungsmandat",
+      "Forschungsprozess",
+      "Forschungsrichtungen",
+      "Forschungsziele",
+      "Forschungszyklus"
+    ],
+    "emerg": [
+      "Emerg",
+      "Emergence",
+      "Emergent",
+      "Emergente",
+      "Emergentes",
+      "Emergenz"
+    ],
+    "kausa": [
+      "Kausalen",
+      "Kausaler",
+      "Kausalität",
+      "Kausalitätsbegriffen",
+      "Kausalitätsebenen",
+      "Kausalkräften"
+    ],
+    "kontr": [
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollstrategien",
+      "Kontrollversuchen",
+      "Kontroverse"
+    ],
+    "metho": [
+      "Method",
+      "Methode",
+      "Methoden",
+      "Methodik",
+      "Methodischer",
+      "Methodologie"
+    ],
+    "phase": [
+      "Phase",
+      "Phasen",
+      "Phasenraum",
+      "Phasenübergang",
+      "Phasenübergänge",
+      "Phasenübergängen"
+    ],
+    "poten": [
+      "Potentialität",
+      "Potentialitätsfeld",
+      "Potenzen",
+      "Potenzial",
+      "Potenzials",
+      "Potenzielle"
+    ],
+    "schlü": [
+      "Schlüssel",
+      "Schlüsselbegriffen",
+      "Schlüsselkonzept",
+      "Schlüsselkonzepte",
+      "Schlüsselmechanismen",
+      "Schlüsselmerkmale"
+    ],
+    "stabi": [
+      "Stabile",
+      "Stabilisierung",
+      "Stabilität",
+      "Stabilitätsbemühungen",
+      "Stabilitätssicherung",
+      "Stabilitätsziel"
+    ],
+    "wisse": [
+      "Wissen",
+      "Wissens",
+      "Wissenschaftsphilosophie",
+      "Wissensdomänen",
+      "Wissensgebiete",
+      "Wissenssysteme"
+    ],
+    "abstr": [
+      "Abstraction",
+      "Abstrahierte",
+      "Abstrahierter",
+      "Abstraktionsebene",
+      "Abstraktionsebenen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktquellen",
+      "Konflikts"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeptbewertung",
+      "Konzeptcluster",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modelliert",
+      "Modellierung"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativen",
+      "Narratives",
+      "Narrativs"
+    ],
+    "organ": [
+      "Organisation",
+      "Organisationsebenen",
+      "Organisatorische",
+      "Organization",
+      "Organizational"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Challenges"
+    ],
+    [
+      "Alle",
+      "Kristallen"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Abbildung"
+    ],
+    [
+      "Bild",
+      "Gesamtbild"
+    ],
+    [
+      "Bild",
+      "Strukturbildung"
+    ],
+    [
+      "Chen",
+      "Sachen"
+    ],
+    [
+      "Chen",
+      "Brüchen"
+    ],
+    [
+      "Chen",
+      "Teilchen"
+    ],
+    [
+      "Chen",
+      "Bereichen"
+    ],
+    [
+      "Chen",
+      "Widersprüchen"
+    ],
+    [
+      "Chen",
+      "Autopoietischen"
+    ],
+    [
+      "Chen",
+      "Heisenbergschen"
+    ],
+    [
+      "Chen",
+      "Quantenteilchen"
+    ],
+    [
+      "Chen",
+      "Kontrollversuchen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "STUDIES"
+    ],
+    [
+      "Dies",
+      "Diesheit"
+    ]
+  ]
+}

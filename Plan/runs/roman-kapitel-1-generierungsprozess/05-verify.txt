@@ -1,0 +1,130 @@
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Stil-Vorgabe"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Stil-Vorgabe` ^[roman-kapitel-1-generierungsprozess.md:#3]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Analyse-Schnittstelle"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Analyse-Schnittstelle` ^[roman-kapitel-1-generierungsprozess.md:#3]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Prognose"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Prognose` ^[roman-kapitel-1-generierungsprozess.md:#2]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Kapitel 1"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kapitel 1` ^[roman-kapitel-1-generierungsprozess.md:#4]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Kohärenz Protokoll"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenz Protokoll` ^[roman-kapitel-1-generierungsprozess.md:#4]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Photonensphäre"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Photonensphäre` ^[roman-kapitel-1-generierungsprozess.md:#3]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Parataktische Geschwindigkeit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Parataktische Geschwindigkeit` ^[roman-kapitel-1-generierungsprozess.md:#2]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Hypotaxe"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hypotaxe` ^[roman-kapitel-1-generierungsprozess.md:#2]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "AEGIS"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`AEGIS` ^[roman-kapitel-1-generierungsprozess.md:#7]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Nyx"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Nyx` ^[roman-kapitel-1-generierungsprozess.md:#6]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Moros"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moros` ^[roman-kapitel-1-generierungsprozess.md:#2]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Silas"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Silas` ^[roman-kapitel-1-generierungsprozess.md:#2]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Mesh Tearing"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mesh Tearing` ^[roman-kapitel-1-generierungsprozess.md:#1]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Z-Fighting"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Z-Fighting` ^[roman-kapitel-1-generierungsprozess.md:#5]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "ANP"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            13
+
+`ANP` ^[roman-kapitel-1-generierungsprozess.md:#11]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Apparently Normal Part"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Apparently Normal Part` ^[roman-kapitel-1-generierungsprozess.md:#1]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Brane-Kosmologie"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Brane-Kosmologie` ^[roman-kapitel-1-generierungsprozess.md:#0]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Brane-Kosmologie-Metapher"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Brane-Kosmologie-Metapher` ^[roman-kapitel-1-generierungsprozess.md:#1]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "Emotionaler Part"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Emotionaler Part` ^[roman-kapitel-1-generierungsprozess.md:#0]
+$ python3 scripts/read.py roman-kapitel-1-generierungsprozess --count "KW1"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW1` ^[roman-kapitel-1-generierungsprozess.md:#6]
+stance_marker_count 8 = 3 + 3 + 2 (Stil-Vorgabe, Analyse-Schnittstelle, Prognose)
+chapters: grep -n 'Kapitel' lines 86,234,440,444,548,576,602
+3:title: "Roman Kapitel 1 Generierungsprozess"
+86:### **Kapitel 1: Die Geometrie der Stille**
+234:### **Kapitel 1 (Fortsetzung): Das Gewicht der Daten**
+440:Die finale Sequenz des Kapitels beschreibt den endgülti
+444:### **Kapitel 1 (Abschluss): Der Ereignishorizont**
+548:Das Finale des Kapitels markiert den Übergang von Phase
+576:Mit dem Eintritt in die Photonensphäre 2 muss der narra
+602:5.  Roman: Ausformulierung Kapitel 1, Teil 1 , <https://

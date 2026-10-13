@@ -1,0 +1,163 @@
+{
+  "document": "bewerte-kishotenketsu-als-zentrales-narrativ",
+  "drive_id": "1FzrHSnAGDJilrmu8eqIZzmk0CZJMKw_o156KfDRsLS0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; census finished and note written by a second document-reader subagent (Sonnet) after a container restart cut off the first, without editing the counted list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-334/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 20,
+    "decisions": 22,
+    "decided_by_lookup": 16,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An evaluation of a borrowed structure: its new surfaces are the four acts and the contrast with the three-act form; what it maps of Kael, AEGIS, Juna, the Kernwelten, the Risse, the inner parts and Kael's multiplicity went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        28,
+        46,
+        62
+      ],
+      "attribution": "",
+      "note": "AEGIS in Ki, Ten and the strengths, in the evaluation's mapping"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        46,
+        73
+      ],
+      "attribution": "",
+      "note": "Juna/V in Ten and among the mysteries, in the evaluation's mapping"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        28,
+        55,
+        62
+      ],
+      "attribution": "",
+      "note": "Kael across Ki and Ketsu in the evaluation's mapping"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the Kernwelten in Shō, in the evaluation's mapping"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "named among Kael's inner parts in Shō, in the evaluation's mapping"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        15,
+        19,
+        83,
+        85
+      ],
+      "attribution": "",
+      "note": "the form recommended as the novel's central frame"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "named among Kael's inner parts in Shō, in the evaluation's mapping"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "funktionale Multiplizität as the Ketsu resolution, in the evaluation's mapping"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "named among Kael's inner parts in Shō, in the evaluation's mapping"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the Risse in Shō, in the evaluation's mapping"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` and `Juna/V-Verbindung` read on juna; `Kohärenz Protokoll` the novel's title",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 46,
+      "decision": "reading",
+      "why": "Ten: the Juna/V connection, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 46,
+      "decision": "occurrence",
+      "why": "generic level of reality in the Ten line, not the novel's levels"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 72,
+      "decision": "occurrence",
+      "why": "generic simulation in a list of tension sources, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "the acts Ki, Shō, Ten, Ketsu as labels",
+    "the three-act contrast",
+    "der lebende Gödel-Satz",
+    "the strengths and demands"
+  ],
+  "internal_tension": "it calls the fit perfect (L28, L37) and the symbiosis demanding (L13); both are its own",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

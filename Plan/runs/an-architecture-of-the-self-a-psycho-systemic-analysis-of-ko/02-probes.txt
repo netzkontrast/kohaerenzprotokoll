@@ -1,0 +1,31 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      6
+  typographic marks      15
+  ascii quotes           64
+
+# inflection families -- one term, several surfaces
+  integ    Integration, Integrative, Integrator
+  psych    Psycho, Psychodrama, Psychological
+  alter    Alter, Alters
+  analy    Analyse, Analysis
+  archi    Archipel, Architecture
+  disso    Dissociation, Dissociative
+  emoti    Emotional, Emotions
+  phobi    Phobia, Phobias
+  proto    Protocol, Protokoll
+  struc    Structural, Structure
+  syste    System, Systemic
+  theor    Theorems, Theory
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Alter < Alters
+  Inter < Fehlinterpretation
+  Logic < Psychological
+  World < Worlds
+  Phobia < Phobias
+  Psycho < Psychodrama
+  Psycho < Psychological
+  System < Systemic

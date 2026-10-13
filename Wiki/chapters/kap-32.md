@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 34
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
+sources: 41
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "storyforms-system-mind-bewusstsein"]
 records: ["Q1"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,10 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 In der äußeren Heldenreise ist das die Stufe Tests, Allies, Enemies, die Prüfungen, im dritten Akt der äußeren Konfrontation, dessen Phase die Plot-Konkretisierung Der Deserteur nennt, und laut der strukturierten Outline beginnt hier das Ten; in Storyform A trägt es das MC-Issue als Wahrheits-Test gegen logische Fallen, in B laut Konzept-Iteration und konsolidiertem Konzept kybernetische Manöver, laut Spec und strukturierter Outline die Guardians als Sub-Antagonisten. Kael, polyphon und mit aktiven Spiegel-Alters, muss in logischen Labyrinthen und Echo-Räumen AEGIS' logische Verteidigungen, Simulationstricks und loyale Subsysteme überwinden; laut der strukturierten Outline treten Mnemosyne und der Erasure-Pol hier noch als Gegner auf, obwohl das Kapitel davor die Auflösung der Guardians erzählt, und Oblivion trägt als Vorschlag seine erste längere POV-Szene in Lösch-Prosa. Laut der Plot-Konkretisierung erscheinen in der Schlange Bestände mit Kaels Signatur, die er nie angelegt hat, Fälschungen in Oblivions makelloser Hand, und Kael erkennt die eigenen an ihren Fehlern. Kernwelten vollständig setzt das Kapitel in KW4, vielleicht im Forum des Dialogs; die AEGIS-Subplots schlugen stattdessen einen systemischen Widerspruch vor, der AEGIS' Logik teilweise einfriert.
 
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — a possible rough structure, step 32
+
+- The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 32, in Teil 3: Die Transzendenz, is titled „Eintritt in die Überwelt“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L376]. A possible structure keyed to its paradox cluster, not the chapter as written.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „Kaels Wahl: Flucht, Transformation oder Harmonie?“ ^[monstergruppe-primzahlen-plot-blueprint.md:L354]
@@ -32,6 +36,14 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 - Flucht: „Er nutzt sein Verständnis von M und das "Tor", um die Simulation zu verlassen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L361] (raising questions about the „äußere“ ^[monstergruppe-primzahlen-plot-blueprint.md:L361] reality).
 - Transformation: „Er nutzt seine Verbindung zu M, um die Kernwelt nach kohärenteren Prinzipien umzugestalten, AEGIS' Kontrolle zu brechen und vielleicht eine neue Art von Realität zu schaffen.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L362]
 - Harmonie/Transzendenz: „Er löst seine individuelle Form auf und geht eine tiefere Verbindung mit dem M-Fundament ein, wird Teil seiner Dynamik“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] — „ein Zustand jenseits menschlichen Verständnisses, potenziell erleuchtend oder erschreckend“ ^[monstergruppe-primzahlen-plot-blueprint.md:L363] (loss of self).
+
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — `AEGIS' Dilemma / KI-Ethik`
+
+- The enriched plot concept's theme draft has for Kapitel 32, under the concept label `AEGIS' Dilemma / KI-Ethik`: „Kaels Integration könnte M unkontrollierbar machen“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L73] The number follows from Teil 3's range (Kapitel 26–39) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
+
+- The concept analysis titles chapter 32 „Sturm im Außen“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L65] in its third part, the outer journey and assigns it the primary concept „Krisenhafte Zuspitzung / Systemüberlastung“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L65]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Das System zerfällt
 
@@ -56,6 +68,10 @@ Focus: `Ambivalenz der Ordnung`, „die Grautöne jenseits einer reinen Monster-
 
 - Story: „Statt eines einfachen Endgegners findet sie“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L271]
 - Concept: „Finale Auseinandersetzung mit der Natur des“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L272] (concept tag: `Ordnung vs. Freiheit`)
+
+## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — the nature of AEGIS and the non-human
+
+- The trope analysis ties chapter 32 to AEGIS as a non-human: it lists it for `What Measure Is a Non-Human` (L146), with the row „Ethische Bewertung von AEGIS“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L197] (L197), names it among philosophical fiction's examples as `32 (Natur von AEGIS)` (L129) and in the AI ethics rows (L110). An analysis of an outline it does not reproduce.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.2, „Der Sturm beginnt: Direkte Konfrontation“ ^[finales-kausales-plot-geruest.md:L175] (Kapitel 30–32)
 
@@ -145,6 +161,14 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Kael (erleuchtet, Gnosis
 
 - The DKT synthesis's chapter 32: „Die Chiffren der Realität“ ^[roman-synthese-mit-dual-kernel-theorie.md:L320]. Its narrative level: „Juna kommuniziert über Träume und Kunst; Transformation“ ^[roman-synthese-mit-dual-kernel-theorie.md:L324]. An analysis of a 39-chapter plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — Teil III
+
+- The master blueprint places chapter 32 in Teil III, „Die Resonanz der Wirklichkeit“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L61]: „Das System kollabiert.“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67], and Kael breaks through to the Externe Ebene. A part's arc in a three-part plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — `Die Chiffren der Realität`
+
+- The Roman-Outline plans for Kap 32, `Die Chiffren der Realität`: „Symbole und Mythen ersetzen die gescheiterte Logik“ ^[roman-outline-kohaerenz-protokoll.md:L102] Numbered 32 in the whole novel; the export restarts the list in each part, so this is item 6 of Part III. A plan, not the chapter.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Die Chiffren der Realität“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L125]
@@ -180,6 +204,10 @@ A model's report that rates its own two storyforms (A 5.0, B 4.75) and cites a c
 - Among the passages that most support K1: „Die explizite Metamorphose zu „Kael/M“ in Kapitel 32, die rein durch die tiefe emotionale Akzeptanz und Einstellungsänderung (Change) erfolgt und keine Zeilen von Code erfordert.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L103]
 - MC Resolve, Storyform A vs. B — this chapter named: „Kapitel 32: Metamorphose zu Kael/M vs. Die gnadenlose Exekution deterministischer Quarantäne-Protokolle.“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L191]
 - MC Solution, Storyform A vs. B — this chapter named: „Kael jagt die Wahrheit (Kap 32) vs. AEGIS scheitert am Chaos (Kap 36).“ ^[ki-prompt-analyse-hard-problem-of-consciousness.md:L210] (see [[kap-36|Kap 36]])
+
+## Reading — `storyforms-system-mind-bewusstsein`, 2026-04-28, the 5D-Synthese exegesis — Kapitel 32 as Kael's Resolve Change in Storyform A
+
+In the exegesis's Storyform A (not the project's storyform A) the Main Character Resolve is Change, and the chapter is named: „In Kapitel 32“ ^[storyforms-system-mind-bewusstsein.md:L30] Kael lays down the protective function of the Alpha-Logik-Fragment and integrates the emotional parts into Kael/M.
 
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01
 

@@ -230,3 +230,11 @@ Stands as a further position for the world scale (one of four Kern-Welten, Kairo
 Its matrix lists the fourth row as the Kernwelt `KW4` Möglichkeits-Garten with the Guardian cell „Kairos/Sophia“ ^[roman-konzept-und-philosophische-fragen.md:L196], logic „Explorative/Dialetheische Logik“ ^[roman-konzept-und-philosophische-fragen.md:L196], and introduces the worlds of its rows as „als interaktive, thematische Rätsel, die auf Prinzipien der Komplexitätstheorie basieren“ ^[roman-konzept-und-philosophische-fragen.md:L188].
 
 Stands as a further position beside the world scale (position 1 of the record), dated 2025-07-29; recorded, not applied, the record stays open.
+
+## 2026-10-12 — `kernwelten-und-fragmentierte-wahrnehmung`, 2025-04-29, the perception report
+
+**The perception report writes the Möglichkeits-Garten as KW4, a world.**
+
+The heading reads „KW4: Möglichkeits-Garten/Ly (Potenzial/Möglichkeit)“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L239], with the core principle „Eine Welt, die Wachstum, Potenzial, Kreativität, aber vielleicht auch ungenutzte Möglichkeiten, Zerbrechlichkeit oder die Ambivalenz von Freiheit repräsentiert.“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L241]. It adds „Diese Welt repräsentiert das, was AEGIS am meisten fürchtet“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L279].
+
+Stands as a world (KW4), dated 2025-04-29; recorded, not applied.

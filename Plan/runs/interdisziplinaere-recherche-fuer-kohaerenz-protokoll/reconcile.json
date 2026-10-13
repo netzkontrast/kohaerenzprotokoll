@@ -1,0 +1,117 @@
+{
+  "document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll",
+  "drive_id": "1-ky_6f0Qm0EB3I6-0RF7DMtCQ0xLEUdoj-5-x24I6vQ",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-304/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 88,
+    "decisions": 88,
+    "decided_by_lookup": 72,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research protocol on an abstracted core concept: its new surfaces are the core's roles, its phases and clusters, and forty-eight borrowed concepts; it names no figure or place, and what it proposes for the cracks, emergence and the protagonist's fragmentation went on existing pages as proposals.",
+  "new_readings": [
+    {
+      "page": "did",
+      "lines": [
+        182,
+        186,
+        252,
+        296,
+        499
+      ],
+      "attribution": "",
+      "note": "DID proposed as a frame for the fragmentation of an abstract protagonist role"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        61,
+        88,
+        178,
+        261,
+        490
+      ],
+      "attribution": "",
+      "note": "emergence as a lens on the instability of an abstract core"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        44,
+        186,
+        288,
+        490
+      ],
+      "attribution": "",
+      "note": "the Risse as instabilities of an abstract core, proposed for several outside lenses"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the abstract core's roles are not the novel's terms: `Entität` is not the DID structure, `Äußere` not ANI, `Grenze` not the Große Mauer or the Archiv der Grenzen, `Raum` not the Überraum or the Vergessene Schrein — occurrences; `Identitätsfragmentierung` and `Dissoziative Identitätsstörung` the clinical frame, read on did; `schwache Emergenz`, `starke Emergenz` and `Emergente Raumzeit` on emergenz; `Autopoiesis`, `Organisatorische Schließung`, `Quantenvakuum`/`Quantenvakuumfeld` and `Simulationstheorie` lens; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 251,
+      "decision": "occurrence",
+      "why": "inside the clinical account of DID, a lens"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 64,
+      "decision": "occurrence",
+      "why": "a list item of a scan"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the story's title"
+    },
+    {
+      "page": "negentropie",
+      "surface": "Negentropie",
+      "line": 64,
+      "decision": "occurrence",
+      "why": "a list item of a scan"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 89,
+      "decision": "occurrence",
+      "why": "the simulation argument as a lens"
+    }
+  ],
+  "not_promoted": [
+    "the abstracted core concept and its roles (Entität, Raum, Protagonist, Verbindung, Kernspannung, Äußere, Grenze)",
+    "the six phases and five clusters",
+    "the NZT-Protokoll",
+    "the forty-eight borrowed concepts"
+  ],
+  "internal_tension": "it lists its own open questions on the space's structure and causality (L327, L332) and the tensions Struktur vs. Individuum and Geschlossenheit vs. Verbindung (L340, L341); it spells one name two ways, Emergent and Emergentes Engineering",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

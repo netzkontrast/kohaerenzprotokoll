@@ -1,0 +1,149 @@
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Dieser Teil"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Dieser Teil` ^[kohaerenz-protokoll-finaler-bauplan.md:#3]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "User Query"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`User Query` ^[kohaerenz-protokoll-finaler-bauplan.md:#3]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Lex"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Lex` ^[kohaerenz-protokoll-finaler-bauplan.md:#5]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Nyx"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Nyx` ^[kohaerenz-protokoll-finaler-bauplan.md:#5]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Selene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selene` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Gödel-Gambit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gödel-Gambit` ^[kohaerenz-protokoll-finaler-bauplan.md:#3]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Pfad B"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Pfad B` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Pfad A"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Pfad A` ^[kohaerenz-protokoll-finaler-bauplan.md:#0]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Szenario A"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Szenario A` ^[kohaerenz-protokoll-finaler-bauplan.md:#0]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Bauplan"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Bauplan` ^[kohaerenz-protokoll-finaler-bauplan.md:#0]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Gnosis"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Gnosis` ^[kohaerenz-protokoll-finaler-bauplan.md:#7]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "PRESERVE SYSTEM EXISTENCE"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PRESERVE SYSTEM EXISTENCE` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`TSDP` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Kaels"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Kaels` ^[kohaerenz-protokoll-finaler-bauplan.md:#20]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Kael-Paradoxons"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Paradoxons` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Juna/Vs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna/Vs` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Emotionalen Anteilen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Emotionalen Anteilen` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Gödel-Satzes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Satzes` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "TSDP-Klassifikation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP-Klassifikation` ^[kohaerenz-protokoll-finaler-bauplan.md:#1]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Potentialmeer"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Potentialmeer` ^[kohaerenz-protokoll-finaler-bauplan.md:#0]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Zugriff am"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Zugriff am` ^[kohaerenz-protokoll-finaler-bauplan.md:#22]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "Fundament"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Fundament` ^[kohaerenz-protokoll-finaler-bauplan.md:#5]
+$ read.py kohaerenz-protokoll-finaler-bauplan --count "fundamentalen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`fundamentalen` ^[kohaerenz-protokoll-finaler-bauplan.md:#4]
+$ grep -cw Lex raw
+5
+5
+stance_marker_count = Dieser Teil 3 + User Query 3 = 6
+candidates: 80 per 04-counts.txt header

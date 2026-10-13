@@ -1,0 +1,230 @@
+{
+  "document": "kohaerenz-protokoll-spannungsfelder-vertiefen",
+  "drive_id": "1NdkL85aq92rGmd2NipU3-9MJzWTNQc6AfDWgI-m4m-8",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 69,
+    "decisions": 72,
+    "decided_by_lookup": 61,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        63,
+        90,
+        143
+      ],
+      "attribution": "",
+      "note": "Zero-Trust set against healing"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        79,
+        80,
+        89,
+        92,
+        141,
+        145,
+        155
+      ],
+      "attribution": "",
+      "note": "AEGIS as the source of the systemic conflict, Paradoxon X"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        109,
+        151,
+        152,
+        153,
+        154,
+        155,
+        157,
+        167
+      ],
+      "attribution": "",
+      "note": "Cache Kohärenz through IFS, TSDP and narrative identity"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        96,
+        99,
+        100,
+        102
+      ],
+      "attribution": "",
+      "note": "Juna/V as relational conflict"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        23,
+        51,
+        59,
+        73
+      ],
+      "attribution": "",
+      "note": "Kael's psyche as the first field of conflict"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        70,
+        73,
+        253
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as diagnostic arenas and stages"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        30,
+        70
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part, an IFS Exile"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        29,
+        30,
+        70
+      ],
+      "attribution": "",
+      "note": "Lex as logical part and IFS Manager"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        29,
+        55,
+        100
+      ],
+      "attribution": "",
+      "note": "Nyx as Shadow"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        23,
+        100,
+        111
+      ],
+      "attribution": "",
+      "note": "Personas modelled on IFS, and their unclear ontology"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        30,
+        98,
+        100
+      ],
+      "attribution": "",
+      "note": "Rhys as relational part"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        190
+      ],
+      "attribution": "",
+      "note": "glitches as shown consequences of Paradoxon X"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        55,
+        275
+      ],
+      "attribution": "",
+      "note": "Selene as possible ego and mediating Self"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        23,
+        46,
+        51
+      ],
+      "attribution": "",
+      "note": "TSDP as one of its borrowed lenses"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 370,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 264,
+      "decision": "occurrence",
+      "why": "writing advice"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 190,
+      "decision": "reading",
+      "why": "glitches as consequences of Paradoxon X"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 108,
+      "decision": "occurrence",
+      "why": "a question whether Kael's reality is simulated"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

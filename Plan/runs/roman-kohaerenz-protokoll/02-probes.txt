@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      6
+  backslash escapes      8
+  typographic marks      62
+  ascii quotes           6
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenartefakte, Datenaustausch, Datenfluss, Datenknotenpunkt, Datenpaket, Datenraums, Datenströme, Datenströmen
+  syste    SYSTEM, System, Systemalarme, Systeme, Systemfehler, Systeminterferenz, Systemlogik, Systems
+  kontr    Kontrast, Kontrolle, Kontrollkern, Kontrollverlust, Kontrollverlusts
+  licht    Licht, Lichter, Lichtpunkt, Lichtquelle, Lichts
+  proto    PROTOCOL, Protocol, Protokoll, Protokolle, Protokolls
+  überg    Übergang, Übergangs, Übergangsraums, Übergangszustand, Übergänge
+  archi    Architekt, Architekten, Architektur, Architekturen
+  bruch    Bruch, Bruchlinien, Bruchs, Bruchteil
+  exist    EXISTENCE, EXISTENTIAL, Existential, Existenz
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentierung
+  integ    INTEGRITY, Integration, Integrity, Integrität
+  leben    Leben, Lebendig, Lebendigem, Lebens
+  negat    Negation, Negationen, Negativ, Negative
+  sicht    Sichtbarkeit, Sichtfeld, Sichtfelds, Sichtweite
+  spieg    Spiegel, Spiegelbildes, Spiegeloberfläche, Spiegels
+  analy    Analyse, Analysieren, Analysis
+  augen    Augen, Augenblick, Augenblicke
+  beoba    Beobachten, Beobachtens, Beobachter
+  eindr    Eindringen, Eindruck, Eindrücke
+  entro    ENTROPY, Entropie, Entropy
+  erinn    Erinnerung, Erinnerungen, Erinnerungssplitter
+  finge    Finger, Fingerabdruck, Fingerspitzen
+  fremd    Fremde, Fremdheit, Fremdkörper
+  funkt    Funktion, Funktionalität, Funktionen
+  gefüh    Gefühl, Gefühle, Gefühlte
+
+# substring pairs -- never one term, often merged by accident
+  Arme < Parmenides
+  Arme < Systemalarme
+  Auge < Augen
+  Auge < Augenblick
+  Auge < Augenblicke
+  Bild < Bilder
+  Bild < Einbildung
+  Bild < Spiegelbildes
+  Blei < Bleiben
+  Blei < Stehenbleiben
+  Chor < Choreographie
+  Dies < Diese
+  Dies < Dieser
+  Dies < Diesmal
+  Doch < Docht
+  Echo < Echos
+  Eine < Beine
+  Eine < Einen
+  Eine < Keine
+  Eine < Meine

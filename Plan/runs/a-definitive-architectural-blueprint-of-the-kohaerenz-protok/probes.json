@@ -1,0 +1,160 @@
+{
+  "document": "a-definitive-architectural-blueprint-of-the-kohaerenz-protok",
+  "drive_id": "1fcN6txGIACSYNQezgFvGqmVM4oeUdCR6rlwE5F4jJmc",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 80,
+  "typographic_marks": 10,
+  "ascii_quotes": 96,
+  "inflection_families": {
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "archi": [
+      "Archipel",
+      "Architectural",
+      "Architecture"
+    ],
+    "logic": [
+      "Logic",
+      "Logical",
+      "Logics"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "defin": [
+      "Definition",
+      "Definitive"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "groun": [
+      "Ground",
+      "Grounded"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxon"
+    ],
+    "perso": [
+      "Personality",
+      "Personifies"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "trans": [
+      "Transcendence",
+      "Transformation"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Uses",
+      "Focuses"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Ground",
+      "Grounded"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Thesis",
+      "Synthesis"
+    ],
+    [
+      "Thesis",
+      "Antithesis"
+    ],
+    [
+      "Logical",
+      "Ontological"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "Paradox",
+      "Paradoxon"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Kohärenz",
+      "Inkohärenz"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ]
+  ]
+}

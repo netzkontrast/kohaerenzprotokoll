@@ -1,0 +1,610 @@
+{
+  "document": "entwicklungsstrategie-fuer-kohaerenz-protokoll",
+  "drive_id": "1Ius-o6MDSHS8IIDr8y8RUpdVO6RhdS3MVomuvfN_m0g",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 32,
+      "n_including_compounds": 32,
+      "lines": [
+        11,
+        13,
+        17,
+        19,
+        45,
+        47,
+        51,
+        53,
+        66,
+        70,
+        72,
+        76,
+        80,
+        86,
+        100,
+        108,
+        114,
+        118,
+        125,
+        127,
+        129,
+        157,
+        161,
+        163,
+        167,
+        203,
+        224,
+        230,
+        236,
+        240,
+        253
+      ]
+    },
+    "AEGIS": {
+      "n": 18,
+      "n_including_compounds": 20,
+      "lines": [
+        51,
+        53,
+        87,
+        90,
+        91,
+        108,
+        123,
+        136,
+        139,
+        143,
+        148,
+        159,
+        208
+      ]
+    },
+    "Kael": {
+      "n": 13,
+      "n_including_compounds": 23,
+      "lines": [
+        51,
+        52,
+        53,
+        88,
+        90,
+        91,
+        94,
+        99,
+        134,
+        136,
+        138,
+        139,
+        143,
+        144,
+        200,
+        208
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        90,
+        139
+      ]
+    },
+    "Verbindung V": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        51,
+        90,
+        138,
+        148
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        139
+      ]
+    },
+    "Paradoxon X": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        51,
+        87,
+        91,
+        123,
+        159
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        51,
+        52,
+        88,
+        144
+      ]
+    },
+    "Kernwelten": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        51,
+        52,
+        89,
+        131,
+        173,
+        209
+      ]
+    },
+    "Kernwelt": {
+      "n": 11,
+      "n_including_compounds": 17,
+      "lines": [
+        51,
+        52,
+        89,
+        108,
+        131,
+        133,
+        134,
+        143,
+        144,
+        173,
+        192,
+        200,
+        209
+      ]
+    },
+    "Kernwelt McL": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        143
+      ]
+    },
+    "Kernwelt B": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        134,
+        200
+      ]
+    },
+    "Kernwelt Ly": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        144
+      ]
+    },
+    "McL": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        51,
+        60,
+        89,
+        94,
+        143
+      ]
+    },
+    "Ly": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        51,
+        60,
+        89,
+        144
+      ]
+    },
+    "Conway-Gruppe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        133
+      ]
+    },
+    "Baby-Monster": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        134
+      ]
+    },
+    "Baby-Monster-Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "sporadische Gruppen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        60
+      ]
+    },
+    "IFS-Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "IFS-Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Logiker-Manager-Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Manager": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        88,
+        94,
+        138
+      ]
+    },
+    "Logiker": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        88,
+        138
+      ]
+    },
+    "Fragmentierung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        88,
+        144
+      ]
+    },
+    "Kernaxiome": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        139
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Systemkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Dreiteilige Narrative Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Heldenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        52
+      ]
+    },
+    "Zyklisch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        92
+      ]
+    },
+    "Holismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Reduktionismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Quantenfluktuation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Codex": {
+      "n": 44,
+      "n_including_compounds": 79,
+      "lines": [
+        19,
+        35,
+        39,
+        43,
+        51,
+        54,
+        60,
+        64,
+        66,
+        68,
+        70,
+        87,
+        88,
+        89,
+        90,
+        91,
+        93,
+        94,
+        98,
+        100,
+        104,
+        106,
+        108,
+        121,
+        133,
+        134,
+        138,
+        139,
+        143,
+        144,
+        148,
+        153,
+        157,
+        173,
+        184,
+        192,
+        199,
+        201,
+        226,
+        228,
+        236,
+        242,
+        243,
+        262
+      ]
+    },
+    "Series Codex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Global Entry": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87
+      ]
+    },
+    "Nested References": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        88,
+        94,
+        98,
+        108
+      ]
+    },
+    "Relationships": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        90,
+        91,
+        94,
+        98
+      ]
+    },
+    "Matrix View": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        25,
+        88,
+        91
+      ]
+    },
+    "Scene Labels": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        92,
+        100
+      ]
+    },
+    "Tags": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        19,
+        43,
+        88,
+        89,
+        93,
+        100,
+        104
+      ]
+    },
+    "Snippets": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        94
+      ]
+    },
+    "Chat AI": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        87,
+        88,
+        89,
+        90,
+        93,
+        94,
+        133,
+        134,
+        138,
+        139,
+        144,
+        148,
+        153,
+        173,
+        184,
+        192,
+        194,
+        200
+      ]
+    },
+    "Tinker Chat Assistants": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Scene Beat Completion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        38,
+        116,
+        143,
+        182
+      ]
+    },
+    "Prompt Chaining": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "Fine-Tuning": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        195,
+        213,
+        217,
+        247
+      ]
+    },
+    "Bring Your Own Key": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        59
+      ]
+    },
+    "Mapping": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        72,
+        74,
+        76,
+        86,
+        102,
+        104,
+        106,
+        108,
+        236
+      ]
+    },
+    "Feedback-Schleife": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        222,
+        224,
+        236
+      ]
+    },
+    "Codex-KI-Symbiose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "dialektischen Exploration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "Single Source of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    }
+  }
+}

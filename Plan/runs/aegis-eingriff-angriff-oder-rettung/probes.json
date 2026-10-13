@@ -1,0 +1,237 @@
+{
+  "document": "aegis-eingriff-angriff-oder-rettung",
+  "drive_id": "1hn8cO0CekoDYODFGGrDURYYDwNLJm0rRpVN_N3-E71k",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 67,
+  "typographic_marks": 19,
+  "ascii_quotes": 82,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systemebene",
+      "Systemfehler",
+      "Systemische",
+      "Systemischer",
+      "Systemprotokoll",
+      "Systemreaktionen",
+      "Systems",
+      "Systemzusammenbruch",
+      "Systemzustandsanalyse"
+    ],
+    "überl": [
+      "Überleben",
+      "Überlebens",
+      "Überlebensmechanismen",
+      "Überlebensstrategie",
+      "Überlebensstrategien",
+      "Überlegenheit"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interne",
+      "Interpretationen",
+      "Interpretationsakt",
+      "Intervention"
+    ],
+    "ereig": [
+      "Ereignis",
+      "Ereignischronologie",
+      "Ereignissen",
+      "Ereignisses"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumatische",
+      "Traumaweitergabe"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltens",
+      "Verhaltensmuster",
+      "Verhaltenstraining"
+    ],
+    "aktua": [
+      "Aktualisiert",
+      "Aktualisierung",
+      "Aktualität"
+    ],
+    "archi": [
+      "Archibald",
+      "Architekten",
+      "Architektur"
+    ],
+    "attra": [
+      "Attraktor",
+      "Attraktoren",
+      "Attraktors"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic",
+      "Autopoietisch"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenkorruption",
+      "Datenstrom"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erzäh": [
+      "Erzählperspektive",
+      "Erzählstimme",
+      "Erzählung"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlerhafte"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikts"
+    ],
+    "metho": [
+      "Methode",
+      "Methoden",
+      "Methodik"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modellen"
+    ],
+    "opera": [
+      "Operation",
+      "Operationen",
+      "Operative"
+    ],
+    "parad": [
+      "Paradoxe",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteilen"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychodrama",
+      "Psychologische"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückung",
+      "Unterwerfung"
+    ],
+    "wiede": [
+      "Wiedererleben",
+      "Wiederholung",
+      "Wiederholungszwang"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Erst",
+      "Ersten"
+    ],
+    [
+      "Erst",
+      "Verstärkt"
+    ],
+    [
+      "Erst",
+      "Zerstörung"
+    ],
+    [
+      "Erst",
+      "Verständnis"
+    ],
+    [
+      "Feld",
+      "Schlachtfeld"
+    ],
+    [
+      "Form",
+      "Informations"
+    ],
+    [
+      "Form",
+      "Gedankenreform"
+    ],
+    [
+      "Form",
+      "Ausdrucksformen"
+    ],
+    [
+      "Form",
+      "Informationsfluss"
+    ],
+    [
+      "Fung",
+      "Unterwerfung"
+    ],
+    [
+      "Gang",
+      "Ausgangsbedingungen"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handlungen"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kerntrauma"
+    ]
+  ]
+}

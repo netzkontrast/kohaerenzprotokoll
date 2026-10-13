@@ -1,0 +1,14 @@
+# aegis-philosophische-und-systemtheoretische-analyse-docx
+  lines                322  (frontmatter ends at 9)
+  body words           7197
+  headings             17   bold-only lines 4
+  table rows           12   code fences 0
+  question marks       17
+  backslash escapes    6
+  typographic marks    16   ascii quotes 164
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    93
+  repeated labels      none
+  longest line         1093 chars
+

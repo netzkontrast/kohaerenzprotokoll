@@ -1,0 +1,134 @@
+{
+  "document": "research-prompt-dramatica-dual-storyform-mapping-md",
+  "drive_id": "1E9mumGPuWIJbo95MW5Yr1pOyVVuNiG07A1KTaBStN_Q",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 119,
+    "decisions": 118,
+    "decided_by_lookup": 96,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        197,
+        209
+      ],
+      "attribution": "",
+      "note": "a constraint capsule on AEGIS as tragic god"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        217
+      ],
+      "attribution": "",
+      "note": "a constraint capsule on the Dual-Kernel-Theorie"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        209
+      ],
+      "attribution": "",
+      "note": "a constraint capsule on four Guardians"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        201
+      ],
+      "attribution": "",
+      "note": "a constraint capsule on Juna as fifth position"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        193,
+        213
+      ],
+      "attribution": "",
+      "note": "a constraint capsule on Kael's alter system"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        205
+      ],
+      "attribution": "",
+      "note": "a constraint capsule on the Kael-Juna link"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 217,
+      "decision": "reading",
+      "why": "AEGIS believes it is K1 but is K0"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 197,
+      "decision": "occurrence",
+      "why": "light pass: the AEGIS capsule, read on aegis"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 209,
+      "decision": "occurrence",
+      "why": "light pass: named in the Guardians capsule, read on guardians"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 209,
+      "decision": "occurrence",
+      "why": "light pass: named in the Guardians capsule, read on guardians"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

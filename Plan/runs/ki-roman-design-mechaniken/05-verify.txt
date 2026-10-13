@@ -1,0 +1,105 @@
+$ read.py ki-roman-design-mechaniken --count "Die Mechanik:"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Die Mechanik:` ^[ki-roman-design-mechaniken.md:#4]
+$ read.py ki-roman-design-mechaniken --count "Spielerinteraktion:"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Spielerinteraktion:` ^[ki-roman-design-mechaniken.md:#4]
+$ read.py ki-roman-design-mechaniken --count "Dual Kernel Theory"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dual Kernel Theory` ^[ki-roman-design-mechaniken.md:#2]
+$ read.py ki-roman-design-mechaniken --count "DKT"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DKT` ^[ki-roman-design-mechaniken.md:#1]
+$ read.py ki-roman-design-mechaniken --count "Story Mind"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Story Mind` ^[ki-roman-design-mechaniken.md:#2]
+$ read.py ki-roman-design-mechaniken --count "Drama Manager"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Drama Manager` ^[ki-roman-design-mechaniken.md:#8]
+$ read.py ki-roman-design-mechaniken --count "K1"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`K1` ^[ki-roman-design-mechaniken.md:#4]
+$ read.py ki-roman-design-mechaniken --count "K0"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`K0` ^[ki-roman-design-mechaniken.md:#5]
+$ read.py ki-roman-design-mechaniken --count "elf"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`elf` ^[ki-roman-design-mechaniken.md:#2]
+$ read.py ki-roman-design-mechaniken --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[ki-roman-design-mechaniken.md:#0]
+$ read.py ki-roman-design-mechaniken --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[ki-roman-design-mechaniken.md:#1]
+$ read.py ki-roman-design-mechaniken --count "Dramatica"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Dramatica` ^[ki-roman-design-mechaniken.md:#0]
+$ read.py ki-roman-design-mechaniken --count "Kohärenz Protokolls"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokolls` ^[ki-roman-design-mechaniken.md:#1]
+$ read.py ki-roman-design-mechaniken --count "Kaels"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kaels` ^[ki-roman-design-mechaniken.md:#4]
+$ read.py ki-roman-design-mechaniken --count "Hierarchical Task Networks"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hierarchical Task Networks` ^[ki-roman-design-mechaniken.md:#3]
+$ read.py ki-roman-design-mechaniken --count "Lorebooks"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lorebooks` ^[ki-roman-design-mechaniken.md:#3]
+$ read.py ki-roman-design-mechaniken --count "Debate Protocol"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Debate Protocol` ^[ki-roman-design-mechaniken.md:#1]
+$ profile (glued ref numbers 69, backslash escapes 70)
+7:  backslash escapes    70
+11:  glued ref numbers    69

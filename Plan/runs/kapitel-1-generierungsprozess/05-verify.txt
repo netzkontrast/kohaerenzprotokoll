@@ -1,0 +1,73 @@
+$ read.py --count "Status:"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Status:` ^[kapitel-1-generierungsprozess.md:#4]
+$ read.py --count "Ort:"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Ort:` ^[kapitel-1-generierungsprozess.md:#3]
+$ read.py --count "Interaktion:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Interaktion:` ^[kapitel-1-generierungsprozess.md:#1]
+$ read.py --count "Phänomenologie:"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Phänomenologie:` ^[kapitel-1-generierungsprozess.md:#5]
+$ read.py --count "Narrative Technik:"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Narrative Technik:` ^[kapitel-1-generierungsprozess.md:#4]
+$ read.py --count "Nyx"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Nyx` ^[kapitel-1-generierungsprozess.md:#8]
+$ read.py --count "Z-Fighting"
+whole word, case-sensitive     10
+whole word, case-insensitive   13
+including compounds            10
+
+`Z-Fighting` ^[kapitel-1-generierungsprozess.md:#10]
+$ read.py --count "Texture Stretching"
+whole word, case-sensitive     7
+whole word, case-insensitive   9
+including compounds            7
+
+`Texture Stretching` ^[kapitel-1-generierungsprozess.md:#7]
+$ read.py --count "Vertex Explosion"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Vertex Explosion` ^[kapitel-1-generierungsprozess.md:#8]
+$ read.py --count "Rost"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            9
+
+`Rost` ^[kapitel-1-generierungsprozess.md:#6]
+$ read.py --count "Moros"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moros` ^[kapitel-1-generierungsprozess.md:#1]
+$ read.py --count "Valerius Thorne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Valerius Thorne` ^[kapitel-1-generierungsprozess.md:#1]
+stance_marker_count 17 = 4+3+1+5+4

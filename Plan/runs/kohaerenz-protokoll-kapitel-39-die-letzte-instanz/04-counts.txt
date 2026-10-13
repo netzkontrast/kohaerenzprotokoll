@@ -1,0 +1,38 @@
+# counts for 30 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Die letzte Instanz                1 word     1 in   [11]
+  Kael                              6 word     6 in   [15, 21, 41, 53, 57, 59]
+  Juna                              1 word     1 in   [21]
+  AEGIS                             1 word     1 in   [19]
+  Nexus                             2 word     2 in   [19, 29]
+  LogOS                             1 word     1 in   [17]
+  Guardians                         1 word     1 in   [17]
+  Konstrukt-Stadt                   1 word     1 in   [17]
+  Rauschen                          3 word     4 in   [13, 49, 55]
+  SYSTEMFEHLER                      1 word     1 in   [19]
+  DIE BEOBACHTER-INSTANZ            1 word     1 in   [19]
+  Instanz                           2 word     2 in   [11, 59]
+  KOHÄRENZ                          1 word     3 in   [19, 37, 65]  <-- substring
+  FINALER SYSTEMBERICHT: PMAS       1 word     1 in   [31]
+  PMAS                              1 word     2 in   [31, 51]
+                                    1      as PMAS-ENDE
+  PMAS-ENDE                         1 word     1 in   [51]
+  INTEGRATIONSPHASE                 1 word     1 in   [35]
+  ZIELKOHÄRENZ ÜBERTRAGEN           1 word     1 in   [37]
+  ZIELKOHÄRENZ ERREICHT             1 word     1 in   [65]
+  Grenzen der Existenz              1 word     1 in   [41]
+  Mosaik-Herz                       1 word     1 in   [45]
+  Kern-Welt                         1 word     1 in   [27]
+  Kohärenz Protokoll                1 word     1 in   [45]
+  Protokoll                         3 word     3 in   [27, 45, 63]
+  DIS                               1 word     1 in   [27]
+  Externalisierung                  1 word     1 in   [27]
+  Architekt                         1 word     2 in   [27, 55]
+                                    1      as Architektur
+  Leser                             2 word     2 in   [41, 57]
+                                    1      as LESERS
+  Simulation                        3 word     3 in   [13, 27, 45]
+  Roman                             1 word     1 in   [45]

@@ -1,0 +1,86 @@
+# counts as produced by read.py --count (stdout pasted)
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Dramatica Term"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Dramatica Term` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#7]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Assignment & Rationale"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Assignment & Rationale` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#5]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Setting & Justification"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Setting & Justification` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#2]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Kael"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+
+`Kael` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#32]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "AEGIS"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`AEGIS` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#26]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#0]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#0]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Symptom"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Symptom` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#3]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Juna/V"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Juna/V` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#9]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Juna"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Juna` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#10]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "System Kael"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`System Kael` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#3]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "The Fundament"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`The Fundament` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#2]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Moonshine-Link"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Link` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#2]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-2 --count "Problem"
+whole word, case-sensitive     7
+whole word, case-insensitive   10
+including compounds            8
+
+`Problem` ^[dramatica-storyform-kohaerenz-protokoll-2.md:#7]
+sum 7+5+2 = 14 (stance_marker_count)

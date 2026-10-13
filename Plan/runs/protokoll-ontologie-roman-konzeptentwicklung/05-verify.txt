@@ -1,0 +1,115 @@
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Zweck:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zweck:` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#1]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Kernthese:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernthese:` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#1]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Methodik:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Methodik:` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#1]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Overhead"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`Overhead` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#8]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Selbst-Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`Selbst-Protokoll` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#2]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "AEGIS"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`AEGIS` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#4]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kap` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#0]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#0]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Teil"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Teil` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#8]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Abschnitt"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Abschnitt` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#10]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "K\_₁"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`K\_₁` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#4]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "K\_₀"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`K\_₀` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#11]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "K₁"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K₁` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#1]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "K₀"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K₀` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#1]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Protokoll-Ontologie"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Protokoll-Ontologie` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#9]
+
+$ python3 scripts/read.py protokoll-ontologie-roman-konzeptentwicklung --count "Dual Kernel Theory"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Dual Kernel Theory` ^[protokoll-ontologie-roman-konzeptentwicklung.md:#3]
+
+$ grep -c "?" lines
+200:Der Haup
+stance_marker_count 3 = 1+1+1 (Zweck:, Kernthese:, Methodik:)

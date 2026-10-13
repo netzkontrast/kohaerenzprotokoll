@@ -1,0 +1,735 @@
+{
+  "document": "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
+  "drive_id": "16cV9VTKg2riN_2_jSfxk-VTOA3NX95F7m868thJFYFo",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        15,
+        19,
+        54,
+        56,
+        120
+      ]
+    },
+    "ARCHON": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        15,
+        17,
+        23,
+        25,
+        36,
+        38,
+        41,
+        50,
+        56
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        40
+      ]
+    },
+    "NCP": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        45,
+        46,
+        51
+      ]
+    },
+    "Knowledge Hypergraph": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        41,
+        52
+      ]
+    },
+    "Narrative Director Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Narrative Director": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        42,
+        52
+      ]
+    },
+    "Core Reasoning Engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Planner Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Self-Reflection Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Overall Story Consequence of Failure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Thematic Resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Kael": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        19,
+        62,
+        65,
+        67,
+        69,
+        77,
+        79,
+        84,
+        100,
+        102,
+        103,
+        104,
+        112,
+        127,
+        142,
+        146,
+        150,
+        151,
+        160,
+        161,
+        171
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        79,
+        112
+      ]
+    },
+    "AEGIS": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        19,
+        63,
+        77,
+        96,
+        98,
+        100,
+        103,
+        104,
+        112,
+        124,
+        126,
+        139,
+        142,
+        146,
+        147,
+        150,
+        151,
+        159,
+        171,
+        173
+      ]
+    },
+    "System AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "alters": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        77,
+        103,
+        160
+      ]
+    },
+    "functional multiplicity": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        77,
+        146,
+        151
+      ]
+    },
+    "tertiary dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "ANPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        132
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        85,
+        133
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Day Shift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Emergency Responders": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        132
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        134
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        133
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        135
+      ]
+    },
+    "Alex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        134
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Das Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Coherence through Negation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        112
+      ]
+    },
+    "Coherence through Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "perverse learning loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "autopoietic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Logics of Formal Inconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Discursive Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "The Foundation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        141,
+        172
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        142,
+        172
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        142,
+        172
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        142
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        146
+      ]
+    },
+    "living Gödel-sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        173
+      ]
+    },
+    "inefficient beauty": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "The Gärtner": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Genesis Crisis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Fragmented State": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Integrated State": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "polyphonic prose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Contradictory Footnotes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Typographical Instability": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Found Footage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "External Level": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        69
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        69,
+        83
+      ]
+    },
+    "Dramatica": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Integrated Information Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "IIT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        160
+      ]
+    },
+    "paraconsistent": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        100,
+        113,
+        147
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "quantum entanglement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "basin of attraction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "ergodic literature": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "RAG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "coherence crisis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        29
+      ]
+    },
+    "short-term amnesia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        31
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "ReAct": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "zombie system": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        173
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    }
+  }
+}

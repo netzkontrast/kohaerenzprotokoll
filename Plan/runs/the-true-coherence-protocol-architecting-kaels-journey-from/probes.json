@@ -1,0 +1,107 @@
+{
+  "document": "the-true-coherence-protocol-architecting-kaels-journey-from",
+  "drive_id": "1Wa1Y0wba_VZOYWXzXsjBxqQS48UAdkATMfJY-x8326o",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 8,
+  "backslash_escapes": 24,
+  "typographic_marks": 29,
+  "ascii_quotes": 62,
+  "inflection_families": {
+    "archi": [
+      "Archipel",
+      "Architecting",
+      "Architecture"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation"
+    ],
+    "funct": [
+      "Function",
+      "Functional",
+      "Functions"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "exter": [
+      "External",
+      "Externalized"
+    ],
+    "found": [
+      "Foundation",
+      "Foundational"
+    ],
+    "ident": [
+      "Identification",
+      "Identity"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis"
+    ],
+    "respo": [
+      "Response",
+      "Responsibility"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "terti": [
+      "Tertiary",
+      "Tertiäre"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Order",
+      "Disorder"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Underworld"
+    ],
+    [
+      "External",
+      "Externalized"
+    ],
+    [
+      "Function",
+      "Functions"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ],
+    [
+      "Foundation",
+      "Foundational"
+    ]
+  ]
+}

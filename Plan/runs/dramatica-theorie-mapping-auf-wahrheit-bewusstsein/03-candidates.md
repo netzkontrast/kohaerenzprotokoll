@@ -1,0 +1,104 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a research report about a narrative theory mapped onto theories of truth, information and consciousness. It names no figure, place or event of the novel. Its own terms are headings of its method steps, its mapping table and its throughline vocabulary; the borrowed concepts are the theories it applies. The lens section holds the concepts the document applies from outside narratology. Real thinkers named in the text are left off the list; a surface that stands only inside a thinker's name is not listed.
+
+- Dramatica-Theorie
+- Dual-Kernel-Theorie
+- Stability Kernel
+- Drift Kernel
+- Erasure Kernel
+- Witness Function
+- Boundary Events
+- Entangled Path
+- Grand Argument
+- Throughlines
+- Main Character Throughline
+- Influence Character Throughline
+- Subjective Story Throughline
+- Objective Story Throughline
+- Main Character
+- Influence Character
+- Subjective Story
+- Objective Story
+- Story Mind
+- Four Throughlines
+- Four Domains
+- Element-Hierarchie
+- 64 Elements
+- Story Dynamics
+- Story Driver
+- Story Limit
+- Story Outcome
+- Story Judgment
+- Grand Argument Story
+- Inequity
+- Justification
+- Universe
+- Physics
+- Mind
+- Psychology
+- Concerns
+- Issues
+- Optionlock
+- Timelock
+- Steadfast
+- Executive Summary
+- Vokabular-Klärung
+- Schritt D — Decomposition
+- Schritt R — Role-Statement
+- Schritt A — Atlas
+- Schritt M — Metaphern
+- Schritt S — Grand Argument der Story
+- Thesis-Statement
+- Argumentationskette
+- Falsifikationsbedingungen
+- Hypothesenbaum
+- Surviving-Branch Triangulation
+- Hypothesis Half-Life Audit
+- Contradiction Log
+- Query Expansion Log
+- Reflection History
+- Open Questions
+- Methodology Note
+- Mini-Schema
+- Synthetischer Mapping-Vorschlag
+- Konfidenz
+- Gegen-Evidenz
+- Kintsugi-Knoten
+- Zero-Knowledge-Orakel
+- Mykorrhiza-Netzwerk
+- Makro-Registrierkasse
+- Bruchstelle der Metapher
+- Gewand Argument
+- K1
+- K0
+- DKT
+- MC
+- IC
+- OS
+- SS
+
+## lens
+
+- Coherence-Theorie der Wahrheit
+- Correspondence-Theorie der Wahrheit
+- Integrated Information Theory
+- IIT
+- Global Workspace Theory
+- GWT
+- Predictive Processing
+- Prediction Errors
+- Qualia
+- Hard Problem
+- Eliminativismus
+- Actual Occasions
+- Concrescence
+- Zero-Knowledge-Verifier
+- Verifier
+- Prover
+- Entanglement Witness
+- Dual-Aspect-Monismus
+- Panpsychismus
+- Broadcasting
+- Ignition
+- T-Schema

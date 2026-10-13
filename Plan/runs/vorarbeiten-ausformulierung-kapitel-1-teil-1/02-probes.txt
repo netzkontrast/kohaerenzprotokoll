@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      51
+  backslash escapes      60
+  typographic marks      16
+  ascii quotes           58
+
+# inflection families -- one term, several surfaces
+  kontr    Kontrapunkt, Kontrast, Kontrastiere, Kontrastierende, Kontrolle, Kontrollverlust
+  wahrn    Wahrnehmung, Wahrnehmungen, Wahrnehmungsfilter, Wahrnehmungsstörung, Wahrnehmungsverschiebungen, Wahrnehmungsverzerrungen
+  fokus    Fokus, Fokussiere, Fokussierte, Fokussierter, Fokuswechsel
+  gefüh    Gefühl, Gefühle, Gefühlen, Gefühls, Gefühlswallungen
+  inter    Interaktion, Interaktionen, Interface, Interfaces, Internal
+  senso    SENSORY, Sensorik, Sensorische, Sensorischer, Sensory
+  besch    Beschreibe, Beschreiben, Beschreibung, Beschreibungen
+  daten    Daten, Datenknotenpunkt, Datenmuster, Datenstrom
+  emoti    Emotion, Emotionale, Emotionalem, Emotionen
+  erzäh    Erzählrhythmus, Erzählstil, Erzählstimme, Erzählung
+  momen    Moment, Momente, Momenten, Moments
+  spieg    Spiegel, Spiegelbild, Spiegels, Spiegelung
+  syste    System, Systeme, Systemen, Systemprozesse
+  techn    Technik, Techniken, Technique, Technologie
+  write    WRITERS, Write, Writer, Writers
+  archi    Architekt, Architekten, Architektur
+  check    Check, Checkliste, Checks
+  diese    Diese, Dieser, Dieses
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfetzen
+  exper    EXPERIMENTAL, Expert, Experten
+  fehle    Fehlende, Fehlens, Fehler
+  fragm    Fragmentierte, Fragmentierter, Fragmentierung
+  handl    Handlung, Handlungen, Handlungsrahmen
+  ident    Identity, Identität, Identitätsstruktur
+  impul    Impuls, Impulse, Impulsen
+
+# substring pairs -- never one term, often merged by accident
+  Beat < Beats
+  Bild < Bilder
+  Bild < Bildern
+  Bild < Einbildung
+  Bild < Schlussbild
+  Bild < Spiegelbild
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < STUDIES
+  Echo < Echos
+  Eine < Seine
+  Eine < Seinen
+  Eine < Verfeinerung
+  Ende < Fehlende
+  Ende < Folgende
+  Ende < Wachsender
+  Ende < Zunehmende
+  Ende < Beginnendes
+  Ende < Abschließende

@@ -1,0 +1,107 @@
+# counts for 85 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           340 word   343 in   [11, 13, 15, 17, 19, 21]
+                                    1      as AEGIS-illogisch
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [15]
+  Entropic Gatekeeper               2 word     2 in   [15, 104]
+  Kael                             36 word   162 in   [15, 21, 23, 25, 27, 35]  <-- substring
+                                   77      as Kaels
+                                   13      as Kael-Juna-Phänomen
+                                    8      as Kael-Juna
+                                    7      as Kael-Juna-System
+  Juna                             41 word   131 in   [15, 23, 25, 27, 37, 43]  <-- substring
+                                   35      as Junas
+                                    4      as Juna-Vektor
+                                    3      as Juna-Konstante
+                                    2      as Juna-Entität
+  Kael-Juna-Phänomen               13 word    13 in   [92, 106, 112, 116, 146, 156]
+  Kael-Juna-System                  7 word     7 in   [72, 94, 114, 215, 289, 321]
+  Kael-Juna-Entität                 2 word     2 in   [72, 334]
+  Kael-Juna-Singularität            1 word     1 in   [158]
+  Kael-Juna-Integral                2 word     2 in   [339, 403]
+  Kael-Matrix                       3 word     3 in   [237, 258, 392]
+  Kael-Theorem                      1 word     1 in   [247]
+  Juna-Vektor                       4 word     5 in   [170, 237, 240, 276, 303]
+                                    1      as Juna-Vektor-Analyse
+  Juna-Konstante                    3 word     3 in   [336, 361, 403]
+  Juna-Feld-Anomalie                2 word     2 in   [255, 394]
+  Juna-Wurm                         1 word     1 in   [264]
+  Kern-Welten                      19 word    19 in   [21, 23, 37, 43, 58, 72]
+  Kern-Welt                         0 word    20 in   [21, 23, 37, 43, 58, 72]  <-- substring
+                                   19      as Kern-Welten
+  Kernwelt                          1 word     1 in   [267]
+  Überwelt                          7 word     8 in   [43, 102, 267, 319, 337, 339]
+                                    1      as Überwelt-Parameter
+  Externe Ebene                     5 word     5 in   [253, 307, 311, 312, 400]
+  Externen Ebene                    2 word     2 in   [172, 309]
+  funktionale Multiplizität         4 word     4 in   [90, 162, 188, 244]
+  funktionaler Multiplizität        4 word     4 in   [112, 122, 164, 412]
+  Funktionale Multiplizität         3 word     3 in   [162, 195, 276]
+  Systematic Agency                11 word    11 in   [72, 80, 122, 162, 164, 168]
+  Lex                               5 word     7 in   [62, 166, 190, 200, 249]
+  Argus                             3 word     3 in   [166, 249]
+  emphatischer Lex                  3 word     3 in   [166]
+  weiser Argus                      2 word     2 in   [166]
+  Primärdirektive                  10 word    10 in   [39, 47, 94, 118, 122, 126]
+  Systemintegrität                  8 word     8 in   [39, 41, 45, 55, 294, 303]
+  Entropieminimierung              23 word    23 in   [33, 35, 39, 41, 47, 54]
+  Negentropie                      28 word    28 in   [47, 59, 74, 76, 78, 82]
+  Negentropisches Feld              2 word     2 in   [198]
+  Informationssingularität          1 word     1 in   [80]
+  Integrierte Dyade                 1 word     1 in   [201]
+  Abschlussalbum                    4 word     5 in   [11, 15, 209, 410, 416]
+                                    1      as Abschlussalbums
+  Protokoll der Singularität        4 word     4 in   [11, 205, 209, 410]
+  Das Protokoll des Scheiterns      4 word     4 in   [209, 225, 231, 414]
+  Die unerschütterliche Direktive    1 word     1 in   [224]
+  Die stille Singularität           1 word     1 in   [226]
+  Der letzte Befehl                 1 word     1 in   [227]
+  Nutzeranfrage                     7 word     7 in   [162, 172, 182, 265, 283, 310]
+  Kernemotion                      13 word    13 in   [236, 245, 254, 263, 272, 281]
+  Kernoperationsparameter           1 word     1 in   [49]
+  Songkonzepte                      4 word     6 in   [62, 205, 229, 231, 410, 414]
+                                    2      as Songkonzepten
+  ewiger Wächter                    1 word     1 in   [152]
+  überforderter Programmierer       1 word     1 in   [152]
+  kalte Sonne der Ordnung           1 word     1 in   [152]
+  Logik-Gott am Rande des Paradoxons    4 word     4 in   [152, 154, 156]
+  Singularität der Kontrolle        2 word     2 in   [152, 154]
+  Das Gleichgewicht des Chaos       2 word     2 in   [318, 401]
+  Das Multiplizitäts-Paradoxon      2 word     2 in   [246, 393]
+  Quarantäne-Theorem                1 word     1 in   [327]
+  Klasse-Omega-Anomalie             1 word     1 in   [384]
+  Datenfragmentierung               1 word     2 in   [164, 195]
+                                    1      as Datenfragmentierungsfehler
+  DIS                               1 word     2 in   [247, 547]
+  Qualia                           22 word    24 in   [21, 29, 31, 33, 35, 37]
+                                    1      as Qualia-Frage
+                                    1      as qualia-control-in-large-language-models
+  China Brain                       1 word     1 in   [31]
+  digitalen Panexperientialismus    1 word     1 in   [31]
+  Ashbys Gesetz                     3 word     3 in   [68, 70]
+  Kybernetik zweiter Ordnung        1 word     1 in   [68]
+  Maxwellschen Dämon                1 word     1 in   [106]
+  Gödels Unvollständigkeitssätze    1 word     1 in   [110]
+  Antifragilität                    6 word     6 in   [86, 88, 90, 94, 126, 319]
+  nützliche Unordnung               1 word     1 in   [126]
+  Nützliche Entropie                1 word     1 in   [88]
+  komplexe adaptive Systeme         1 word     1 in   [88]
+  Simulationshypothese              1 word     1 in   [100]
+  Wertausrichtung                   3 word     4 in   [47, 120, 122, 227]
+  verlustbehafteten Kompression     1 word     1 in   [84]
+  Temporal Mastery Hypothesis       2 word     2 in   [41, 449]
+  HAL 9000                          3 word     4 in   [132, 138, 523, 524]
+  kognitive Dissonanz               3 word     3 in   [182, 184, 225]
+  Kognitive Dissonanz               1 word     1 in   [180]
+  Emergent Intelligence             2 word     2 in   [188, 569]
+  Strukturellen Dissoziation        1 word     1 in   [162]
+  TSDP                              2 word     2 in   [162, 164]
+  lokalen Demiurgen                 1 word     1 in   [102]
+  Wärmetod                          1 word     1 in   [106]
+  Sonifikation                      2 word     2 in   [142, 414]
+  Algorithmische Komposition        3 word     3 in   [142, 532, 533]
+  Black Box                         2 word     2 in   [176, 247]
+  Meta-Logik                        1 word     1 in   [188]

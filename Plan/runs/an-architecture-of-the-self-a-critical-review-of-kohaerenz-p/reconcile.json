@@ -1,0 +1,171 @@
+{
+  "document": "an-architecture-of-the-self-a-critical-review-of-kohaerenz-p",
+  "drive_id": "17QM0GYTlId3U_iosLCEWCDLXCbGi_4WH2E8Sbd46RjE",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-347/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 45,
+    "decisions": 45,
+    "decided_by_lookup": 41,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English critical review of the novel: its new surfaces are its own labels (unified protagonist, triple helix, Environmental Storytelling) and lens concepts; what it reports of Kael, AEGIS, the alters, DID, the Kernwelten, the Risse and TSDP went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        35,
+        59
+      ],
+      "attribution": "",
+      "note": "AEGIS as the review reports and judges it"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review's account of the system of dissociated parts"
+    },
+    {
+      "page": "did",
+      "lines": [
+        77
+      ],
+      "attribution": "",
+      "note": "the review's strengths table names DID"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        5,
+        11,
+        36,
+        38,
+        46
+      ],
+      "attribution": "",
+      "note": "what the critical review reports of the protagonist and judges of the premise"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "the Core Worlds as a technique in the review"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the child-part)"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the logician)"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the protector)"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the empath)"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        13
+      ],
+      "attribution": "",
+      "note": "the cracks in reality as the review reports them"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the integrator)"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        5,
+        44,
+        57
+      ],
+      "attribution": "",
+      "note": "TSDP named as the condition and as the model of the parts"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Rauschen` generic, not the Nichts Rauschen; `Tertiary Structural Dissociation of the Personality`, `Theory of Structural Dissociation of the Personality` and `Emotional Personality parts` read on tsdp and alters, not personas",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 77,
+      "decision": "reading",
+      "why": "the strengths table's depiction of DID, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 9,
+      "decision": "occurrence",
+      "why": "generic simulation, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "the unified protagonist, Environmental Storytelling, the triple helix",
+    "the strengths and risks table, The Gardener as a label",
+    "the lens concepts (IFS, autopoiesis, second-order cybernetics, dialetheism, paraconsistent logic, process philosophy, Gödel)"
+  ],
+  "internal_tension": "the condition is named TSDP (L5) and the table credits a depiction of DID (L77) without saying whether they are one; the review asks whether the architecture holds (L7, L79) and also says the novel largely succeeds (L67)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

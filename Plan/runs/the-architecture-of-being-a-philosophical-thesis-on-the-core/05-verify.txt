@@ -1,0 +1,121 @@
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "central thesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`central thesis` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#1]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "best understood"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`best understood` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#2]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "instead of"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`instead of` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#2]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#0]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Aegis"
+whole word, case-sensitive     2
+whole word, case-insensitive   23
+including compounds            2
+
+`Aegis` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#2]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "AEGIS"
+whole word, case-sensitive     21
+whole word, case-insensitive   23
+including compounds            21
+
+`AEGIS` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#21]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#1]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Core Worlds"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Core Worlds` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#1]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Component 734"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Component 734` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#1]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Ship of Theseus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ship of Theseus` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#1]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "narrative mirroring"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`narrative mirroring` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#1]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "functional multiplicity"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`functional multiplicity` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#2]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "K₁"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`K₁` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#7]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "K₀"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`K₀` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#9]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Coherence Theory of Truth"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Coherence Theory of Truth` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#2]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Correspondence Theory of Truth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Correspondence Theory of Truth` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#1]
+
+$ python3 scripts/read.py the-architecture-of-being-a-philosophical-thesis-on-the-core --count "Systemic Self"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Systemic Self` ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:#1]
+
+stance_marker_count: central thesis 1 + best understood 2 = 3
+profile: 28 backslash escapes, 94 ascii quotes, 0 question marks (01-profile.txt)

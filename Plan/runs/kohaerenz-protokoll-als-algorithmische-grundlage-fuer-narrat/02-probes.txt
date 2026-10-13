@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      0
+  typographic marks      75
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  handl    Handlung, Handlungsablauf, Handlungselementen, Handlungsfaden, Handlungslogik, Handlungsplan, Handlungspläne, Handlungspunkten, Handlungsstrang, Handlungsstränge, Handlungsverlauf
+  chara    Charakter, Charakterbiografien, Charaktere, Charaktereigenschaften, Charakteren, Charakterentwicklung, Charakterwidersprüche, Charakterziele
+  erzäh    Erzählen, Erzähler, Erzählfluss, Erzählperspektive, Erzählstandpunkt, Erzählung, Erzählungen
+  gener    Generating, Generation, Generative, Generieren, Generierung, Generierungsansatz
+  wisse    Wissen, Wissensdatenbank, Wissensgraph, Wissensgraphen, Wissensmodelle, Wissensstruktur
+  gesch    Geschehen, Geschichte, Geschichten, Geschichtenerzählens, Geschichtsform
+  persp    Perspektivbrüche, Perspektivbrüchen, Perspektive, Perspektiven, Perspektivwechsel
+  zusam    Zusammenfassung, Zusammenfassungen, Zusammengefasst, Zusammenhalt, Zusammenhänge
+  autor    Autor, Autoren, Autorinnen, Autors
+  ereig    Ereignis, Ereignisse, Ereignissen, Ereignisses
+  forsc    Forscher, Forschung, Forschungsergebnisse, Forschungsframework
+  grund    Grund, Grunde, Grundlage, Grundprämissen
+  konte    Kontext, Kontextanpassung, Kontexts, Kontextvergessen
+  model    Modell, Modelle, Modellen, Modells
+  narra    Narrativ, Narrative, Narrativen, Narratives
+  roman    Roman, Romanen, Romanerzählung, Romans
+  schre    Schreiben, Schreibprozesses, Schreibweise, Schreibweisen
+  story    Story, Storyform, Storysprünge, Storytelling
+  szene    Szene, Szenen, Szenenpläne, Szenerie
+  überg    Übergang, Übergangspunkte, Übergangssätze, Übergänge
+  absch    Abschnitt, Abschnitte, Abschweifen
+  algor    Algorithmisch, Algorithmische, Algorithmus
+  beisp    Beispiel, Beispiele, Beispielsweise
+  clust    Cluster, Clustering, Clustern
+  diese    Diese, Dieser, Dieses
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Alter
+  Alte < Inhalte
+  Eine < Bausteine
+  Eine < Madeleine
+  Eine < Bausteinen
+  Ende < Enden
+  Ende < Kalender
+  Ende < Wendepunkte
+  Fakt < Fakten
+  Fakt < Faktor
+  Fakt < Faktoren
+  Fakt < Schlüsselfakten
+  Fakt < Faktenkonsistenz
+  Form < Storyform
+  Form < Informationen
+  Form < Formalisierung
+  Form < Formulierungen
+  Form < Geschichtsform
+  Form < Detailinformation
+  Form < Hintergrundinformationen

@@ -1,0 +1,14 @@
+# an-introduction-to-the-concepts-of-coherence-protocol
+  lines                103  (frontmatter ends at 9)
+  body words           1381
+  headings             14   bold-only lines 1
+  table rows           19   code fences 0
+  question marks       2
+  backslash escapes    18
+  typographic marks    11   ascii quotes 24
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         623 chars
+

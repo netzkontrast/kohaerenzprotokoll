@@ -1,0 +1,118 @@
+{
+  "document": "aegis-philosophische-und-systemtheoretische-analyse-docx",
+  "drive_id": "1TLE8xU81kos-Mf3E5F9SRd56ffHP2hoK",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 66,
+    "decisions": 66,
+    "decided_by_lookup": 53,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        113,
+        116,
+        189
+      ],
+      "attribution": "",
+      "note": "Zero Trust as the essay's frame for AEGIS"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        133,
+        145,
+        155,
+        218,
+        230,
+        231,
+        232,
+        259
+      ],
+      "attribution": "",
+      "note": "AEGIS as a hypothetical system read against philosophy and systems theory"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        124,
+        143,
+        195,
+        197
+      ],
+      "attribution": "",
+      "note": "emergence as filtering and as the status of existence"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        131,
+        147,
+        197
+      ],
+      "attribution": "",
+      "note": "entropy as framing for non-existence and incoherence"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        129,
+        147,
+        162,
+        182,
+        197,
+        206
+      ],
+      "attribution": "",
+      "note": "coherence instead of truth as operational closure"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 214,
+      "decision": "occurrence",
+      "why": "a generic system boundary in the mapping table, not the Große Mauer of KW3"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 83,
+      "decision": "occurrence",
+      "why": "the borrowed simulation hypothesis, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

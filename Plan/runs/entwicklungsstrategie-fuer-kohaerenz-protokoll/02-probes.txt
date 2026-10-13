@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      58
+  backslash escapes      118
+  typographic marks      84
+  ascii quotes           64
+
+# inflection families -- one term, several surfaces
+  schre    Schreibaufgaben, Schreibblockaden, Schreibe, Schreiben, Schreibens, Schreibfluss, Schreiboberfläche, Schreibplattform, Schreibprozess, Schreibprozesses, Schreibsoftware, Schreibstil, Schreibumgebung, Schreibwerkzeug
+  chara    Character, Charakter, Charakterdialoge, Charaktere, Charakteren, Charakterentwicklung, Charaktererkennung, Charakterprofil, Charakterprofile, Charakters, Charakterstimme
+  planu    Planung, Planungs, Planungsansicht, Planungsansichten, Planungselemente, Planungsphase, Planungsstrukturen, Planungstools, Planungswerkzeuge
+  roman    Roman, Romanabschnitte, Romane, Romanen, Romanprojekt, Romanregeln, Romans, Romanwelt
+  assis    Assistant, Assistants, Assistent, Assistenten, Assistenz, Assistenzfunktionen
+  konte    Konten, Kontext, Kontextbezug, Kontextfenster, Kontextfenstern, Kontexts
+  struk    Struktur, Strukturelement, Strukturen, Strukturierung, Strukturierungs, Strukturvorlagen
+  syste    System, Systemfehler, Systemkohärenz, Systemmanipulation, Systemtheoretikers, Systemtheorie
+  antei    Anteil, Anteile, Anteilen, Anteils, Anteilsdominanz
+  eintr    Eintrag, Eintrags, Eintragstypen, Einträge, Einträgen
+  gener    General, Generiere, Generieren, Generiert, Generierung
+  konze    Konzept, Konzepte, Konzepten, Konzeptillustration, Konzeptionelle
+  poten    Potential, Potentialität, Potenzial, Potenzials, Potenzielle
+  proje    Projekt, Projektdauer, Projekte, Projekterfolg, Projekts
+  szene    Szene, Szenen, Szenenanweisungen, Szenengenerierung, Szenenverläufe
+  anpas    Anpassbare, Anpassbarkeit, Anpassung, Anpassungen
+  anwen    Anwenden, Anwendung, Anwendungen, Anwendungsfälle
+  autor    Autor, Autoren, Autors, Autorschaft
+  dialo    Dialog, Dialoge, Dialogen, Dialogoptionen
+  diese    Diese, Diesen, Dieser, Dieses
+  entwi    Entwickeln, Entwicklung, Entwicklungen, Entwicklungsstrategie
+  funkt    Funktion, Funktionalitäten, Funktionen, Funktionsumfangs
+  glied    Gliederung, Gliederungen, Gliederungsansicht, Gliederungsvarianten
+  ident    Identifiziere, Identifizieren, Identifiziert, Identität
+  integ    Integration, Integrieren, Integrierter, Integrität
+
+# substring pairs -- never one term, often merged by accident
+  Beat < Beats
+  Chat < Chatverlauf
+  Dies < Diese
+  Dies < Diesen
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Bausteine
+  Eine < Verfeinerung
+  Feld < Feldes
+  Form < Langform
+  Form < Plattform
+  Form < Formuliere
+  Form < Information
+  Form < Ausgabeformat
+  Form < Informationen
+  Form < Formulierungen
+  Form < Kerninformation
+  Form < Schreibplattform
+  Form < Informationstheorie
+  Form < Formatierungsoptionen

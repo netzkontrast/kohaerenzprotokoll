@@ -1,0 +1,317 @@
+{
+  "document": "juna-v-exiliertes-ursprungs-ich",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 49,
+  "decisions": 47,
+  "same_surface": {},
+  "decided_mechanically": 39,
+  "needs_judgement": 8,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 280
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 142
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 155
+      },
+      {
+        "candidate": "Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 155
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Ursprungs-Ich"
+      },
+      {
+        "candidate": "Kern-Selbst"
+      },
+      {
+        "candidate": "Manager"
+      },
+      {
+        "candidate": "Lasten"
+      },
+      {
+        "candidate": "Innere Polarisierung"
+      },
+      {
+        "candidate": "Bifurkationsereignis"
+      },
+      {
+        "candidate": "Ruf zur Ganzheit"
+      },
+      {
+        "candidate": "Ruf zum Abenteuer"
+      },
+      {
+        "candidate": "Reintegration"
+      },
+      {
+        "candidate": "Herold"
+      },
+      {
+        "candidate": "lebendiger MacGuffin"
+      },
+      {
+        "candidate": "unzuverlässiger Erzähler"
+      },
+      {
+        "candidate": "Gedächtnislücken"
+      },
+      {
+        "candidate": "Ko-Bewusstsein"
+      },
+      {
+        "candidate": "Bewusstseinsraum"
+      },
+      {
+        "candidate": "Mannigfaltigkeit"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "ER=EPR"
+      },
+      {
+        "candidate": "Quantenverschränkung"
+      },
+      {
+        "candidate": "Wurmloch"
+      },
+      {
+        "candidate": "Bifurkationstheorie"
+      },
+      {
+        "candidate": "Systemtheorie"
+      },
+      {
+        "candidate": "Phasenübergang"
+      },
+      {
+        "candidate": "Kipppunkt"
+      },
+      {
+        "candidate": "Bifurkationsparameter"
+      },
+      {
+        "candidate": "Homöostase"
+      },
+      {
+        "candidate": "Topologischen Datenanalyse"
+      },
+      {
+        "candidate": "TDA"
+      },
+      {
+        "candidate": "Seelenrückholung"
+      },
+      {
+        "candidate": "Seelenanteil"
+      },
+      {
+        "candidate": "Immanenz"
+      },
+      {
+        "candidate": "Transzendenz"
+      },
+      {
+        "candidate": "Heldenreise"
+      },
+      {
+        "candidate": "Benefizienz"
+      },
+      {
+        "candidate": "Paternalismus"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Exil  /  Exilantin",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Exil  /  Exilanten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Exil  /  Immanentes Exil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Exil  /  Transzendentes Exil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Feuerwehrmann  /  Feuerwehrmänner",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "funktionale Multiplizität  /  Multiplizität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Internal Family Systems (IFS)  /  Internal Family Systems",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 13,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

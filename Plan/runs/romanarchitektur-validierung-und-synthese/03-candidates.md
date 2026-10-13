@@ -1,0 +1,71 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a bilingual brief: each passage stands in English, then in German. I read L1 to L156, L165 to L254 and L294 to L423; L157 to L164 (a section) and L255 to L293 (self-check lines of the Reflection History) I did not read, on the task's instruction. The list therefore holds nothing from those ranges. Compounds are listed in the English and the German form as written. Reference numbers glued to words and lost formula symbols appear in the export; the K and the kernel symbols are missing from many lines.
+
+- AEGIS
+- Kael
+- Juna
+- Nexus
+- Construct City
+- LogOS
+- Mnemosyne
+- Nichts-Rauschen
+- Mosaik-Herz
+- Mosaic Heart
+- Kohärenz-Prime
+- SYSTEMFEHLER
+- Algorithmische Melancholie
+- Funktionale Multiplizität
+- Functional multiplicity
+- Integration Protocol
+- Integrations-Protokoll
+- Vortex Inversion
+- Vortex-Inversion
+- Moonshine Link
+- Moonshine-Link
+- K-J Vector
+- K-J Vektor
+- Collapse Kernel
+- Coherence Kernel
+- Coheron
+- Emotional Parts
+- Dual-Kernel Theory
+- Dual-Kernel-Theorie
+- DKT
+- Witness Function
+- Zeuge-Funktion
+- Foundation
+- Das Fundament
+- Sea of Potentiality
+- Potentialmeer
+- Echo-Intrusions
+- Echo-Intrusionen
+- Chunking
+- Storyform A
+- Storyform B
+- Reader as Substrate
+- Der Leser als Substrat
+- Truth-Rotation Verdict
+- Isolation Problem
+- Chapter 39
+- Kapitel 39
+- Influence Character
+- Main Character
+- Story Mind
+
+## lens
+
+- Landauer Principle
+- Landauer-Prinzip
+- Dramatica
+- Slingshot Argument
+- Dialetheism
+- Gödel-Sentence
+- Gödel-Satz
+- Chaitin Constant
+- Monstrous Moonshine
+- Vertex Operator Algebras
+- Strange Attractor
+- Husserlian
+- TSDP
+- Brechtian distantiation

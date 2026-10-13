@@ -1,0 +1,73 @@
+# counts for 59 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                5 word     5 in   [11, 15, 17, 23, 77]
+  AEGIS                            21 word    22 in   [17, 30, 38, 44, 46, 47]
+                                    1      as AEGIS-Druck
+  Kael                             13 word    14 in   [30, 32, 34, 39, 40, 46]
+                                    1      as Kaels
+  Lex                               3 word     3 in   [32, 46, 57]
+  Rhys                              4 word     4 in   [39, 46, 49, 57]
+  Alex                              4 word     4 in   [39, 46, 49, 57]
+  Selene                            6 word     6 in   [49, 57, 63, 66, 70, 78]
+  Kiko                              5 word     5 in   [31, 40, 45, 61, 66]
+  Nyx                               2 word     2 in   [33, 45]
+  Moros                             2 word     2 in   [36, 68]
+  Juna/V                            3 word     3 in   [38, 50]
+  Juna                              3 word     3 in   [38, 50]
+  ICH                               1 word     1 in   [70]
+  ANP                               2 word     5 in   [30, 32, 34, 46, 48]  <-- substring
+  ANPs                              2 word     2 in   [32, 46]
+  EP                                0 word     3 in   [31, 32, 48]  <-- substring
+  EPs                               2 word     2 in   [31, 32]
+  DIS                              10 word    10 in   [17, 29, 46, 50, 52, 54]
+  Bunker                            6 word     8 in   [28, 32, 33, 36, 40, 48]
+                                    2      as Bunkers
+  Kerntrauma                        5 word     7 in   [37, 59, 60, 61, 62, 64]
+                                    1      as Kerntraumas
+                                    1      as Kerntrauma-Erinnerung
+  Paradoxon X                       2 word     2 in   [47]
+  PP-SYS-01                         1 word     1 in   [38]
+  PP-SYS-03                         1 word     1 in   [47]
+  Gartenpflege                      4 word     4 in   [41, 49]
+  inneren Garten                    1 word     1 in   [39]
+  Fundament                         2 word     4 in   [27, 51, 56, 71]
+                                    3      as fundamentalen
+                                    1      as fundamentale
+                                    1      as Fundamentales
+                                    1      as Fundaments
+  Paraiyas                          2 word     2 in   [56]
+  Gelbe Leere                       1 word     1 in   [37]
+  Scherben                          2 word     2 in   [68]
+  Heldinnenreise nach Schmidt       2 word     2 in   [16, 29]
+  Zyklische Bewährung               1 word     1 in   [16]
+  Heldenreise nach Campbell/Vogler    1 word     1 in   [16]
+  HJn                              13 word    13 in   [30, 31, 32, 33, 34, 35]
+  HJ                               13 word    26 in   [30, 31, 32, 33, 34, 35]
+  Strukturelle Dissoziation         3 word     3 in   [30, 76, 77]
+  Traumainduzierte Fragmentierung    2 word     2 in   [31, 76]
+  Abwehrmechanismen                 3 word     3 in   [29, 32, 76]
+  Dissoziative Kompartmentalisierung    1 word     1 in   [32]
+  Dissoziative Flucht               1 word     1 in   [33]
+  Innere Rebellion                  1 word     1 in   [33]
+  Pseudo-Anpassung                  1 word     1 in   [35]
+  Depersonalisation / Derealisation    1 word     1 in   [37]
+  Funktionale Multiplizität         2 word     2 in   [46, 76]
+  Ko-Bewusstsein                    2 word     2 in   [44, 46]
+  Systemdynamik                     4 word     4 in   [44, 47, 76, 77]
+  Feedback Loops                    2 word     2 in   [47, 77]
+  Homöostase                        2 word     2 in   [47]
+  Kognitive Dissonanz               1 word     1 in   [51]
+  Masking                           2 word     2 in   [52]
+  Resilienz                         9 word     9 in   [43, 44, 49, 55, 76]
+  Posttraumatisches Wachstum        3 word     3 in   [55, 56, 71]
+  Katharsis                         4 word     4 in   [59, 67, 69, 76]
+  Das Verwundete Kind               1 word     1 in   [61]
+  Das Selbst (Archetyp)             1 word     1 in   [63]
+  Trigger-Reaktivität               2 word     2 in   [45, 76]
+  Täterintrojekte                   1 word     1 in   [53]
+  Internalisierte Anteile           1 word     1 in   [53]
+  Akzeptanz der Multiplizität       1 word     1 in   [54]
+  Authentische Präsenz              2 word     2 in   [72, 76]

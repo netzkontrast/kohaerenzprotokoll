@@ -1,0 +1,432 @@
+{
+  "document": "heilung-der-verlust-von-superkraeften",
+  "drive_id": "15lda8LQPHV7omD1VV0spziUd0yMHHYLlbIy4VAb_7Og",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "System Kael": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        33,
+        135,
+        165,
+        183,
+        202,
+        240
+      ]
+    },
+    "Kael": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        31,
+        33,
+        115,
+        135,
+        141,
+        165,
+        183,
+        202,
+        240
+      ]
+    },
+    "AEGIS": {
+      "n": 25,
+      "n_including_compounds": 27,
+      "lines": [
+        31,
+        51,
+        53,
+        60,
+        70,
+        86,
+        103,
+        107,
+        111,
+        121,
+        122,
+        123,
+        135,
+        136,
+        141,
+        163,
+        179,
+        189,
+        190,
+        191,
+        204,
+        206,
+        212
+      ]
+    },
+    "Lex": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        49,
+        53,
+        58,
+        70,
+        72,
+        74,
+        80,
+        99,
+        103,
+        105,
+        107,
+        115,
+        122,
+        133,
+        136,
+        137,
+        221
+      ]
+    },
+    "Nyx": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        49,
+        53,
+        58,
+        70,
+        72,
+        74,
+        80,
+        99,
+        103,
+        109,
+        111,
+        123,
+        139,
+        141,
+        142,
+        143
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        136
+      ]
+    },
+    "Kiko": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        74,
+        111,
+        142
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Anteile": {
+      "n": 15,
+      "n_including_compounds": 19,
+      "lines": [
+        31,
+        49,
+        53,
+        68,
+        70,
+        76,
+        103,
+        111,
+        115,
+        131,
+        161,
+        163,
+        165,
+        183,
+        202,
+        204
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        72
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        72,
+        123
+      ]
+    },
+    "funktionaler Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Milieukontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        31,
+        122,
+        179,
+        208,
+        213
+      ]
+    },
+    "Superkräfte": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        161,
+        183,
+        191
+      ]
+    },
+    "Datenkorruption": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        107,
+        122
+      ]
+    },
+    "Anscheinend Normaler Persönlichkeitsanteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        107,
+        111
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Skinner-Boxen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Monokulturen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Ressourcen-Umverteilung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        204
+      ]
+    },
+    "Verwässerung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        204
+      ]
+    },
+    "Gabe des Traumas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        155,
+        189,
+        206
+      ]
+    },
+    "Blueprint für einen bittersüßen Sieg": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        208
+      ]
+    },
+    "Das Gambit der Beschützer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Beschützer-Anteile": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        204
+      ]
+    },
+    "vergiftete Gold": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        183
+      ]
+    },
+    "falsches Kintsugi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "neuronalen Über-Spezialisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        202
+      ]
+    },
+    "neuronale Plastizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Synaptisches Pruning": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Hyperfokus": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        64,
+        68,
+        70,
+        202,
+        228,
+        229,
+        230,
+        231
+      ]
+    },
+    "Flow": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        64,
+        68,
+        70,
+        215,
+        228,
+        230,
+        231
+      ]
+    },
+    "operante Konditionierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Trauma Bondings": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "posttraumatischen Wachstums": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Kintsugi": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        171,
+        175,
+        177,
+        183,
+        189,
+        206,
+        249,
+        250
+      ]
+    },
+    "Wabi-Sabi": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        175,
+        181,
+        183,
+        189,
+        192,
+        206
+      ]
+    }
+  }
+}

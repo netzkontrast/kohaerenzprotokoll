@@ -1,0 +1,114 @@
+{
+  "document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll",
+  "drive_id": "1-ky_6f0Qm0EB3I6-0RF7DMtCQ0xLEUdoj-5-x24I6vQ",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 88,
+    "decisions": 88,
+    "decided_by_lookup": 72,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "did",
+      "lines": [
+        182,
+        186,
+        252,
+        296,
+        499
+      ],
+      "attribution": "",
+      "note": "DID proposed as a frame for the fragmentation of an abstract protagonist role"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        61,
+        88,
+        178,
+        261,
+        490
+      ],
+      "attribution": "",
+      "note": "emergence as a lens on the instability of an abstract core"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        44,
+        186,
+        288,
+        490
+      ],
+      "attribution": "",
+      "note": "the Risse as instabilities of an abstract core, proposed for several outside lenses"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 251,
+      "decision": "occurrence",
+      "why": "inside the clinical account of DID, a lens"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 64,
+      "decision": "occurrence",
+      "why": "a list item of a scan"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the story's title"
+    },
+    {
+      "page": "negentropie",
+      "surface": "Negentropie",
+      "line": 64,
+      "decision": "occurrence",
+      "why": "a list item of a scan"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 89,
+      "decision": "occurrence",
+      "why": "the simulation argument as a lens"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

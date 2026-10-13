@@ -1,0 +1,253 @@
+{
+  "document": "heilung-der-verlust-von-superkraeften",
+  "drive_id": "15lda8LQPHV7omD1VV0spziUd0yMHHYLlbIy4VAb_7Og",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 51,
+  "backslash_escapes": 104,
+  "typographic_marks": 28,
+  "ascii_quotes": 122,
+  "inflection_families": {
+    "selbs": [
+      "Selbstaufwertung",
+      "Selbsterhaltung",
+      "Selbsterleben",
+      "Selbsthass",
+      "Selbstschutzsignale",
+      "Selbstwahrnehmung",
+      "Selbstwert",
+      "Selbstzweifel"
+    ],
+    "emoti": [
+      "EMOTIONEN",
+      "Emotion",
+      "Emotional",
+      "Emotionalen",
+      "Emotionaler",
+      "Emotionen"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumata",
+      "Traumatherapie",
+      "Traumatic",
+      "Traumatisierung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenknoten",
+      "Datenknotens",
+      "Datenkorruption",
+      "Datenströme"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionsfähigkeit"
+    ],
+    "kampf": [
+      "Kampf",
+      "Kampfkraft",
+      "Kampfprogramm",
+      "Kampfreflex",
+      "Kampfreflexe"
+    ],
+    "psych": [
+      "Psychobiologie",
+      "Psychologie",
+      "Psychologische",
+      "Psychology",
+      "Psychonarrative"
+    ],
+    "syste": [
+      "System",
+      "Systematic",
+      "Systemgesundheit",
+      "Systemisch",
+      "Systems"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "authe": [
+      "Authentisch",
+      "Authentische",
+      "Authentischer",
+      "Authentizität"
+    ],
+    "gehir": [
+      "Gehirn",
+      "Gehirnarchitektur",
+      "Gehirngesundheit",
+      "Gehirns"
+    ],
+    "gesch": [
+      "Geschenk",
+      "Geschichte",
+      "Geschichten",
+      "Geschwindigkeit"
+    ],
+    "kerna": [
+      "Kernangst",
+      "Kernantrieb",
+      "Kernargument",
+      "Kernaussagen"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzept",
+      "Konzepten",
+      "Konzeption"
+    ],
+    "neuro": [
+      "Neurobiologie",
+      "Neuronale",
+      "Neuroplastizität",
+      "Neurowissenschaft"
+    ],
+    "persö": [
+      "Persönlichkeiten",
+      "Persönlichkeitsanteil",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitszustände"
+    ],
+    "roman": [
+      "Roman",
+      "Romans",
+      "Romantisierte",
+      "Romantisierung"
+    ],
+    "verle": [
+      "Verlernens",
+      "Verletzlichen",
+      "Verletzlichkeit",
+      "Verleugnung"
+    ],
+    "überl": [
+      "Überleben",
+      "Überlebenden",
+      "Überlebensmechanismen",
+      "Überlegt"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysis",
+      "Analyst"
+    ],
+    "anpas": [
+      "Anpassung",
+      "Anpassungsfähig",
+      "Anpassungsfähigkeit"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "disso": [
+      "Dissoziation",
+      "Dissoziiert",
+      "Dissoziierte"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzgrund",
+      "Existenzrecht"
+    ],
+    "flexi": [
+      "Flexibel",
+      "Flexibilität",
+      "Flexikon"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "ADHS",
+      "ADHSpedia"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eden",
+      "Friedenweiler"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Reiner"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Leitende"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Überlebenden"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Gabe",
+      "Gaben"
+    ],
+    [
+      "Gabe",
+      "Aufgabe"
+    ],
+    [
+      "Gabe",
+      "Aufgabenwechsel"
+    ],
+    [
+      "Gold",
+      "Goldes"
+    ],
+    [
+      "Gold",
+      "Goldlack"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ]
+  ]
+}

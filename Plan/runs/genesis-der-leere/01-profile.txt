@@ -1,0 +1,14 @@
+# genesis-der-leere
+  lines                136  (frontmatter ends at 9)
+  body words           3311
+  headings             1   bold-only lines 5
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    35   ascii quotes 26
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      none
+  longest line         706 chars
+

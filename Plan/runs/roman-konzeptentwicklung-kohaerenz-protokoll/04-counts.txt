@@ -1,0 +1,144 @@
+# counts for 121 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                6 word     6 in   [11, 15, 25, 65, 114, 170]
+  System Mind                       4 word     4 in   [15, 25, 35, 149]
+  Golden Sources                    2 word     2 in   [15, 120]
+  4-Achsen-Heuristik                1 word     1 in   [17]
+  MAP                               1 word     3 in   [17, 19, 73]  <-- substring
+  MAP-Synthese                      2 word     2 in   [19, 73]
+  39-Kapitel-Raster                 1 word     1 in   [17]
+  Kael                             30 word    36 in   [15, 25, 27, 31, 35, 36]
+                                    6      as Kaels
+  AEGIS                            20 word    20 in   [15, 29, 40, 42, 44, 46]
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [42]
+  Juna                             18 word    19 in   [29, 38, 44, 46, 55, 68]
+                                    1      as Junas
+  Nox                               5 word     5 in   [29, 38, 112, 116]
+  Manager                           3 word     3 in   [27, 37, 95]
+  LogOS                             8 word     8 in   [37, 54, 83, 97, 99, 127]
+  Mnemosyne                         3 word     3 in   [54, 97, 100]
+  Anscheinend Normale Persönlichkeitsanteil    1 word     1 in   [27]
+  ANP                              12 word    14 in   [27, 31, 36, 37, 42, 66]
+  Emotionalen Persönlichkeitsanteile    1 word     1 in   [29]
+  EP                                7 word     8 in   [29, 31, 38, 83, 100, 102]
+  Host-ANP                          1 word     1 in   [27]
+  Kern-Phobie                       1 word     1 in   [27]
+  Cache-Kohärenz                    6 word     6 in   [31, 79, 144, 145, 151]
+  Identitäts-Caches                 1 word     1 in   [83]
+  Cache-Buffer                      1 word     1 in   [100]
+  Universal Reboot                  1 word     1 in   [31]
+  Konstrukt-Stadt                   7 word     7 in   [27, 44, 46, 52, 66, 78]
+  Nichts-Rauschen                   2 word     2 in   [44, 102]
+  Kohärenz-Kernels                  1 word     1 in   [42]
+  K1                                0 word     2 in   [36, 52]
+  K1-Dominanz                       2 word     2 in   [36, 52]
+  K0-Einbruch                       1 word     1 in   [38]
+  Semantische Firewall              1 word     1 in   [37]
+  Fehlerkorrekturprotokoll          1 word     1 in   [36]
+  Landauer-Prinzip                  2 word     2 in   [46, 85]
+  Landauer-Limit                    1 word     4 in   [40, 67, 114, 136]  <-- substring
+                                    3      as Landauer-Limits
+  KW 1                              2 word     2 in   [52, 78]
+  KW 2                              2 word     2 in   [53, 78]
+  KW 3                              4 word     4 in   [54, 68, 92, 107]
+  KW 4                              3 word     3 in   [55, 107]
+  Kernwelten                        2 word     2 in   [48, 50]
+  Grenz-Zonen                       2 word     2 in   [53, 78]
+  Überwelt                          4 word     4 in   [54, 87, 92, 114]
+  Nexus                             3 word     3 in   [54, 92, 95]
+  Resonanz-Kontinuum                2 word     2 in   [55, 107]
+  Externe Ebene                     1 word     1 in   [55]
+  Russellsche Trümmer               1 word     1 in   [87]
+  Bekenstein-Schranke               1 word     1 in   [87]
+  Ricci-Singularität                1 word     1 in   [87]
+  SIS-Zustand                       1 word     1 in   [87]
+  Secure Isolation State            1 word     1 in   [87]
+  Replica Wormholes                 1 word     1 in   [102]
+  Hawking-Strahlung                 2 word     2 in   [54, 102]
+  Sektor 04                         1 word     1 in   [85]
+  Mosaik-Herz                       1 word     2 in   [69, 116]
+                                    1      as Mosaik-Herzens
+  Mosaik-Herzens                    1 word     1 in   [116]
+  Zielkohärenz erreicht             1 word     1 in   [116]
+  Sprung ins Nichts                 1 word     1 in   [110]
+  Spiegel-Effekt                    1 word     1 in   [114]
+  Teil I                            3 word     7 in   [66, 67, 68, 69, 75, 89]  <-- substring
+  Teil II                           2 word     4 in   [68, 69, 89, 104]
+  Teil III                          2 word     2 in   [69, 104]
+  Die Ästhetik der Ohnmacht         1 word     1 in   [75]
+  Die Anatomie der Spaltung         1 word     1 in   [89]
+  Die existenzielle Fusion          2 word     2 in   [69, 104]
+  Ästhetik der Ohnmacht             3 word     3 in   [66, 67, 75]
+  Anatomie des Rauschens            1 word     1 in   [68]
+  Szenen-Logik                      4 word     4 in   [71, 81, 95, 110]
+  Dramaturgische Phase              3 word     3 in   [77, 91, 106]
+  Ontologische Ebene                3 word     3 in   [78, 92, 107]
+  Zentrale Prämisse                 3 word     3 in   [79, 93, 108]
+  Kap 1-6                           1 word     1 in   [66]
+  Kapitel 3                         1 word     3 in   [83, 114, 116]  <-- substring
+  Kapitel 13                        1 word     1 in   [87]
+  Kapitel 26                        1 word     1 in   [102]
+  Kapitel 36                        1 word     1 in   [114]
+  Kapitel 38-39                     1 word     1 in   [116]
+  Dialetheia                        4 word     4 in   [38, 55, 112, 127]
+  Dialetheismus                     6 word     6 in   [55, 69, 108, 122, 126, 127]
+  TSDP                              1 word     4 in   [25, 35, 83, 140]  <-- substring
+                                    1      as TSDP-Klassifikation
+                                    1      as TSDP-Spaltung
+                                    1      as TSDP-Pathologie
+  Autopoiesis                       3 word     3 in   [40, 42, 166]
+  Landauer                          1 word     8 in   [40, 46, 67, 85, 114, 126]  <-- substring
+                                    3      as Landauer-Limits
+                                    2      as Landauer-Prinzip
+                                    1      as Landauer-Limit
+                                    1      as Landauer-Temperaturschock
+  Dramatica                         7 word     8 in   [57, 59, 65, 136, 176, 178]
+                                    1      as Dramatica-Theorie
+  Kishōtenketsu                     9 word    10 in   [57, 59, 61, 65, 131, 135]
+                                    1      as Kishōtenketsu-Struktur
+  Dramatica Storyminds              1 word     1 in   [59]
+  Throughline                       1 word     2 in   [65, 176]
+                                    1      as Throughlines
+  Inequity                          1 word     1 in   [136]
+  Inequities                        1 word     1 in   [59]
+  Overall Story                     1 word     1 in   [66]
+  Main Character                    1 word     1 in   [67]
+  Influence Character               1 word     1 in   [68]
+  Relationship Story                1 word     1 in   [69]
+  Ki                                2 word    15 in   [57, 59, 61, 65, 66, 77]  <-- substring
+  Shō                               2 word     2 in   [67, 77]
+  Ten                               3 word     3 in   [68, 91, 102]
+  Ketsu                             3 word     3 in   [69, 106, 135]
+  Gödels Erster Unvollständigkeitssatz    1 word     1 in   [53]
+  Unvollständigkeitssatz            2 word     2 in   [53, 87]
+  Halteproblem                      2 word     3 in   [53, 99, 127]
+                                    1      as Halteproblems
+  Turing                            2 word     4 in   [53, 99, 126]
+                                    1      as Turing-Mechanik
+                                    1      as Turingmaschine
+  Chaitin-Konstante                 1 word     1 in   [110]
+  Phaenomena                        1 word     1 in   [52]
+  Noumena                           1 word     1 in   [55]
+  Kantschen Phänomene               1 word     1 in   [52]
+  Phänomenalen Selbstmodells        1 word     1 in   [54]
+  PSM                               2 word     2 in   [54, 100]
+  Selbstmodell-Theorie              1 word     1 in   [100]
+  Informationsparadoxon Schwarzer Löcher    2 word     2 in   [54, 102]
+  Quanten-Unitarität                1 word     1 in   [54]
+  Explosionsprinzip                 1 word     1 in   [55]
+  Spektrallücke                     1 word     1 in   [127]
+  Grenzsituation                    1 word     1 in   [110]
+  Umgreifende                       1 word     1 in   [55]
+  operativ geschlossen              1 word     1 in   [44]
+  parakonsistenten Logik            1 word     1 in   [83]
+  Wärmetod                          1 word     1 in   [136]
+  Big Freeze                        1 word     1 in   [99]
+  Big Crunch                        1 word     1 in   [99]
+  Metzinger                         1 word     2 in   [54, 100]
+                                    1      as Metzingers
+  Jaspers                           2 word     2 in   [55, 110]
+  Luhmann                           4 word     5 in   [42, 166, 167, 169]
+  Maturana                          1 word     1 in   [42]

@@ -1,0 +1,14 @@
+# a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll
+  lines                132  (frontmatter ends at 9)
+  body words           2167
+  headings             24   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       6
+  backslash escapes    16
+  typographic marks    13   ascii quotes 80
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         756 chars
+

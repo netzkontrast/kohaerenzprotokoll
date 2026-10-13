@@ -1,0 +1,65 @@
+{
+  "document": "kohaerenz-protokoll-plot-konzept-generierung-2",
+  "drive_id": "1oZlDiHceOCt4l3DnQg59BXmEtxvQPVKzTpQc013lHBc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document a near-duplicate version of document 305 (Plan/runs/ingest-307/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 73,
+    "decisions": 75,
+    "decided_by_lookup": 55,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A second export of the five-variant plot concepts read as document 305: the same concept table and five synopses, its reference numbers dropped; nothing a page does not already hold.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a near-duplicate version of the five-variant plot concepts (document 305), light pass: every near match — the Monstergruppe and the Baby-Monster-Gruppen, the K-J Verbindung and Emergenter Moonshine, the Kernwelten Substrat, Moonshine, the Nexuspunkt, Kern-Kohärenzprotokollen — is decided as for document 305, and no page is read",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "near-duplicate of document 305; light pass"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "near-duplicate of document 305; light pass"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 50,
+      "decision": "occurrence",
+      "why": "near-duplicate of document 305; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything new to the index, as for document 305",
+    "the synopsis titles and template labels"
+  ],
+  "internal_tension": "as in document 305: AEGIS is protagonist in one synopsis and antagonist in others, by design; the Monstrous Moonshine candidate was respelled to the document's form after counting (05-verify.txt)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

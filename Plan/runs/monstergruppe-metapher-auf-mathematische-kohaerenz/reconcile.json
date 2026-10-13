@@ -1,0 +1,127 @@
+{
+  "document": "monstergruppe-metapher-auf-mathematische-kohaerenz",
+  "drive_id": "1VlkHHyFC-wH9jOkaEMM691qXjFXoQfZqsTZE6wq1KM8",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-309/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 33,
+    "decisions": 33,
+    "decided_by_lookup": 18,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A validation of the Monster-group metaphor against group theory: its new surfaces are the mathematics, its verdict and its proposal Strategie B1; its critique of the K-J connection as emergent Moonshine and what it reports of Kael, Juna and AEGIS from the request went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        92,
+        143
+      ],
+      "attribution": "",
+      "note": "AEGIS as the foil of the Monster metaphor, and in its proposal Strategie B1"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "emergence from a substrate as the best-fitting part of the metaphor"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        100,
+        101,
+        143
+      ],
+      "attribution": "",
+      "note": "Juna in the request's Baby-Monster presentation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        100,
+        101,
+        103,
+        132
+      ],
+      "attribution": "",
+      "note": "Kael as Baby-Monster representative, and his fragmentation"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        65,
+        111,
+        112,
+        113,
+        115,
+        133,
+        143
+      ],
+      "attribution": "",
+      "note": "a critique of the K-J Verbindung as Emergenter Moonshine"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the group theory's names are the mathematics, not promoted: `Monstergruppe`, `Monstergruppen-Metapher`, `Baby-Monster-Gruppe`, `Baby-Monster-Gruppen`, `Baby Monster`, `Subquotient`/`Subquotienten`, `Monstrous Moonshine`, `Moonshine-Modul`, `Verallgemeinerter Moonshine`; `Moonshine`, `Emergenter Moonshine` and `Moonshine-Signatur` read on moonshine-link where the line is about the K-J connection; `Idealbild integrierter Kohärenz` the request's words; `Kohärenz Protokoll` the project's name",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 103,
+      "decision": "occurrence",
+      "why": "a heading on Kael's fragmentation, read on kael"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 113,
+      "decision": "reading",
+      "why": "emergence from a substrate the most apt part"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title on mathematical coherence"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 103,
+      "decision": "occurrence",
+      "why": "inside a heading on Kael's fragmentation"
+    }
+  ],
+  "not_promoted": [
+    "the Monstergruppe, the Baby-Monster-Gruppe, the Happy Family and the Pariahs",
+    "subquotients and the group-theory lens",
+    "the Moonshine-Modul and Verallgemeinerter Moonshine",
+    "the verdict NEIN and Strategie B1"
+  ],
+  "internal_tension": "it calls the emergent-Moonshine label the most problematic part (L111) and emergence from a substrate the most apt (L113) of one metaphor, and weighs them only through its verdict",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

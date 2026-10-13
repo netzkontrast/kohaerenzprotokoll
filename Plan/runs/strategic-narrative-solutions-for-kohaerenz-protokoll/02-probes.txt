@@ -1,0 +1,28 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      12
+  typographic marks      12
+  ascii quotes           110
+
+# inflection families -- one term, several surfaces
+  ontol    Ontological, Ontologie, Ontology
+  aegis    AEGIS, Aegis
+  causa    Causal, Causality
+  mecha    Mechanics, Mechanism
+  predi    Predicted, Predictive
+  proto    Protocol, Protokoll
+  psych    Psycho, Psychological
+  struc    Structural, Structure
+  syste    System, Systemic
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Riss < Risse
+  AEGIS < Aegis
+  World < Worlds
+  Action < Reaction
+  Causal < Causality
+  Psycho < Psychological
+  System < Systemic
+  Protokoll < Trennungsprotokoll

@@ -1,0 +1,348 @@
+{
+  "document": "kernwelten-fuer-kohaerenz-protokoll",
+  "drive_id": "11Hb5iQCqeD1q7RWDSSU11JpJjrW456p8FXCff-7M1GI",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 1
+  },
+  "glued_ref_numbers": 231,
+  "backslash_escapes": 96,
+  "typographic_marks": 136,
+  "ascii_quotes": 16,
+  "inflection_families": {
+    "netzw": [
+      "Netzweber",
+      "Netzwerk",
+      "Netzwerkanalysen",
+      "Netzwerkarchitektur",
+      "Netzwerkdynamik",
+      "Netzwerkdynamiken",
+      "Netzwerke",
+      "Netzwerken",
+      "Netzwerkereignisse",
+      "Netzwerkisolation",
+      "Netzwerkkaskaden",
+      "Netzwerknavigation",
+      "Netzwerkposition",
+      "Netzwerkprinzipien",
+      "Netzwerks",
+      "Netzwerkstatus",
+      "Netzwerkstimmungen",
+      "Netzwerkstörungen",
+      "Netzwerktheorie",
+      "Netzwerktopologien",
+      "Netzwerkzustand"
+    ],
+    "syste": [
+      "System",
+      "Systemabstürze",
+      "Systeme",
+      "Systemeigenschaften",
+      "Systemen",
+      "Systemfehler",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systemlogik",
+      "Systemmanipulator",
+      "Systemprinzip",
+      "Systemprinzipien",
+      "Systemregeln",
+      "Systems",
+      "Systemtheorie",
+      "Systemversagen"
+    ],
+    "inter": [
+      "Interacting",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsprotokolle",
+      "Interaktionsregeln",
+      "Interaktionstypen",
+      "Interaktionsweisen",
+      "Interessenverlust",
+      "Internal",
+      "Internet",
+      "Interpretationen",
+      "Interweltlicher"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenanalogien",
+      "Quanteneffekte",
+      "Quantenkonzepte",
+      "Quantenmechanik",
+      "Quantenpotential",
+      "Quantenpotentialität",
+      "Quantenschaum",
+      "Quantenverschränkung",
+      "Quantenzustands",
+      "Quantum"
+    ],
+    "poten": [
+      "Potential",
+      "Potentiality",
+      "Potentialität",
+      "Potentialmeer",
+      "Potenzgesetzverteilungen",
+      "Potenzial",
+      "Potenzials",
+      "Potenzielle",
+      "Potenzielles"
+    ],
+    "überl": [
+      "Überlagerung",
+      "Überlastung",
+      "Überleben",
+      "Überlebens",
+      "Überlebensfokus",
+      "Überlebensinstinkte",
+      "Überlebensstrategien",
+      "Überlegung"
+    ],
+    "chara": [
+      "Characteristics",
+      "Charakter",
+      "Charakterdynamik",
+      "Charakterentwicklung",
+      "Charaktererkundung",
+      "Charakterinteraktionen",
+      "Charakterisierung"
+    ],
+    "emerg": [
+      "Emerge",
+      "Emergence",
+      "Emergent",
+      "Emergente",
+      "Emergenz",
+      "Emergenzprinzipien",
+      "Emerging"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlerberichte",
+      "Fehlererkennungs",
+      "Fehlerkorrektur",
+      "Fehlerkorrekturcode",
+      "Fehlerkorrekturcodes"
+    ],
+    "psych": [
+      "Psych",
+      "Psyche",
+      "Psychoanalysis",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychology"
+    ],
+    "regel": [
+      "Regel",
+      "Regeln",
+      "Regelsystem",
+      "Regelsysteme",
+      "Regeltyp",
+      "Regelvollstrecker",
+      "Regelvollstreckung"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenaspekte",
+      "Schattenaspekten",
+      "Schattenintegration",
+      "Schattenkonfrontationsmechaniken",
+      "Schattenmanifestation",
+      "Schattens"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbezug",
+      "Selbsterhaltung",
+      "Selbstführung",
+      "Selbstorganisation",
+      "Selbstreflexion",
+      "Selbstähnlichkeit"
+    ],
+    "sozia": [
+      "Sozial",
+      "Soziale",
+      "Sozialer",
+      "Sozialgruppen",
+      "Sozialstrategien",
+      "Sozialstruktur",
+      "Sozialwissenschaften"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaerinnerungen",
+      "Traumareaktionen",
+      "Traumas",
+      "Traumata",
+      "Traumfragmente",
+      "Traumlandschaften"
+    ],
+    "archi": [
+      "ARCHITECTURE",
+      "Architects",
+      "Architectural",
+      "Architecture",
+      "Architektur",
+      "Architizer"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionales",
+      "Emotionen",
+      "Emotionsunterdrückung"
+    ],
+    "graph": [
+      "Graph",
+      "Graphdurchmessers",
+      "Graphen",
+      "Graphenparameter",
+      "Graphenstruktur",
+      "Graphic"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenanaloga",
+      "Gruppennormen",
+      "Gruppentheorie",
+      "Gruppenzugehörigkeit"
+    ],
+    "indiv": [
+      "Individual",
+      "Individualism",
+      "Individualität",
+      "Individuen",
+      "Individuum",
+      "Individuums"
+    ],
+    "korre": [
+      "Korrektheit",
+      "Korrektur",
+      "Korrekturen",
+      "Korrekturmechanismen",
+      "Korrektursignale",
+      "Korrekturverfahren"
+    ],
+    "mecha": [
+      "Mechanical",
+      "Mechanics",
+      "Mechanik",
+      "Mechaniken",
+      "Mechanisms",
+      "Mechanismus"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriebrechungen",
+      "Symmetriegruppe",
+      "Symmetrien",
+      "Symmetrieprinzipien",
+      "Symmetries"
+    ],
+    "trans": [
+      "Transactions",
+      "Transfer",
+      "Transfers",
+      "Transparenz",
+      "Transpositionen",
+      "Transpositionsgruppen"
+    ],
+    "vertr": [
+      "Vertrauen",
+      "Vertrauens",
+      "Vertrauensaufbau",
+      "Vertrauensdynamik",
+      "Vertrauensniveau",
+      "Vertrauenssysteme"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alte",
+      "Halten"
+    ],
+    [
+      "Alte",
+      "Aushalten"
+    ],
+    [
+      "Alte",
+      "Gestalten"
+    ],
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Alte",
+      "Verhaltens"
+    ],
+    [
+      "Alte",
+      "Normalteiler"
+    ],
+    [
+      "Alte",
+      "Verhaltensweisen"
+    ],
+    [
+      "Arte",
+      "Arten"
+    ],
+    [
+      "Arte",
+      "Starters"
+    ],
+    [
+      "Arte",
+      "Unerwartete"
+    ],
+    [
+      "Arte",
+      "StudySmarter"
+    ],
+    [
+      "Arte",
+      "Unerwarteten"
+    ],
+    [
+      "Bits",
+      "Orbits"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Code",
+      "Codewort"
+    ],
+    [
+      "Code",
+      "Codeworts"
+    ],
+    [
+      "Code",
+      "Fehlerkorrekturcode"
+    ],
+    [
+      "Code",
+      "Fehlerkorrekturcodes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ]
+  ]
+}

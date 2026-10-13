@@ -1,0 +1,50 @@
+{
+  "document": "ki-agenten-kohaerenz-und-prompt-generierung",
+  "drive_id": "1Ba99zXBtczS3Fd7HBkQSohOOpq9u2ayhnapSTlKoX_0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document a technical specification for AI agents that is not about the novel",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 60,
+    "decisions": 56,
+    "decided_by_lookup": 46,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A technical whitepaper that borrows the name Kohärenz-Protokoll for a protocol by which an AI agent navigates its knowledge graph; it names none of the novel's figures and says nothing of the novel's world, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a technical whitepaper for AI agents: `Kohärenz-Protokoll`, `Kohärenz-Protokolls` and `Kohärenz-Lücke` its protocol for an agent's knowledge base, another sense, decided as occurrences",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 44,
+      "decision": "occurrence",
+      "why": "coherence of an AI agent's knowledge base, another sense"
+    }
+  ],
+  "not_promoted": [
+    "everything — the agent protocol, the meta-prompt, Maps of Content, the tools and agents, and the borrowed concepts (constitutional AI, meta-prompting, Zettelkasten, RAG, RLAIF)"
+  ],
+  "internal_tension": "none: a specification",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -277,3 +277,43 @@ Stands with the Überwelt as AEGIS's domain and the Nexus as an open, hedged pos
 Light pass, closing `Erweiterter Kontext` only. The Überwelt is „die primäre Realitätsebene der Guardians“ ^[recherche-ueberwelt.md:L188], and „die Manifestation des zugrundeliegenden Systems“ ^[recherche-ueberwelt.md:L189]. The commission writes: „Die Überwelt bildet den fundamentalen Gegensatz zur“ ^[recherche-ueberwelt.md:L195] Externe Ebene. The passage does not mention a Nexus or an Überraum.
 
 Stands as the Überwelt placed with the Guardians and the system, against the Externe Ebene; recorded, the question stays open.
+
+## 2026-10-11 — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible
+
+**The world bible knows the Überwelt only, as AEGIS's domain; `Nexus` and `Überraum` do not stand in it.**
+
+It defines the Überwelt as „the abstract, information-based reality where AEGIS's core processes run“ ^[the-coherence-protocol-a-world-bible.md:L153] and „a space beyond conventional physics“ ^[the-coherence-protocol-a-world-bible.md:L153]. The counts: `Nexus` ^[the-coherence-protocol-a-world-bible.md:#0], `Überraum` ^[the-coherence-protocol-a-world-bible.md:#0], `Überwelt` ^[the-coherence-protocol-a-world-bible.md:#2].
+
+Stands as one more position in the record's terms: Überwelt as AEGIS's domain; recorded, not decided.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept has two nexus places on two levels: a Nexus-Interface in KW4 and an AEGIS-Kern-Nexus in the Überwelt.**
+
+KW4-01 is „Nexus-Interface zur Überwelt“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L315], `Plot Pt. 1`: „Schnittstelle, die eine (kontrollierte?) Verbindung zur AEGIS-Überwelt ermöglicht.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L315] UW-01 is the „AEGIS-Kern-Nexus“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L176], `Concept Doc`: „Zentraler Kontroll- und Verarbeitungsknoten von AEGIS; hochsicher, abstrakt.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L324] Profile 13 hedges its reach: „Direkter Zugang ist wahrscheinlich unmöglich oder extrem gefährlich.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L519]
+
+Stands as one more position, two places named nexus on two levels; recorded, nothing decided about the Nexus.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint
+
+**The master blueprint gives Part II the concept of the Überwelt and has Kael enter the Nexus, and says nothing on how they relate.**
+
+Part II's concept: „Die Überwelt und die Konfrontation mit den Guardians“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L38]. The arc: „Kael verlässt die Simulationsebene und betritt den“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L42] Nexus.
+
+Standing in the record: one more position, a plan; it decides nothing about Nexus, Überraum and Überwelt.
+
+## 2026-10-11 — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report
+
+**The paradox report defines the Überwelt as a domain created by AEGIS that serves as the control centre for the simulation.**
+
+The definition, labelled Genesis 1.5, reads „Eine von AEGIS geschaffene Domäne informationaler Ordnung“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L246]; its function line has „AEGIS' Operationsbasis; Schnittstelle zur Simulation“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L247]. The report asks, as a question, „Ziel von Kaels Reise?“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L249]
+
+Stands as one more position on what the Überwelt is; it decides nothing, and the label marks the report's account of another text.
+
+## 2026-10-12 — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis
+
+**The master synthesis makes Überwelt and Nexus one world, KW 3, and writes the pair in both orders.**
+
+KW 3 is „Die Überwelt / Der Nexus (Ebene der Quanten-Information)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54], „Der Maschinenraum hinter dem Rendering“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54]. For Part II it reverses the order: „KW 3 (Der Nexus / Die Überwelt)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L92], and the scene logic puts Kael „Kael befindet sich im Nexus, dem abstrakten Code-Raum von AEGIS“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L95]. The word `Überraum` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#0] does not stand in it (a count).
+
+Stands on the side of one world under two names, in this plan; recorded, not applied, and the record's rows are not changed.

@@ -1,0 +1,438 @@
+{
+  "document": "the-coherence-protocol-a-comparative-analysis-across-the-sca",
+  "drive_id": "1AOCi0B1fQ3oRzFjFg2bPfSsbp_yvUJdVWqZw4XGeHEc",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Coherence Protocol": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        11,
+        15,
+        23,
+        50,
+        77,
+        131,
+        169,
+        175
+      ]
+    },
+    "Protocol Ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        121
+      ]
+    },
+    "K₀": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        131,
+        140
+      ]
+    },
+    "K₁": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        131,
+        140
+      ]
+    },
+    "Correspondence-Check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Isolation Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Correspondence Truth": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        140,
+        171
+      ]
+    },
+    "Coherence Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Riss": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        146
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "AEGIS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        92,
+        93,
+        94,
+        147
+      ]
+    },
+    "Paradoxon X": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93
+      ]
+    },
+    "Overhead": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        93
+      ]
+    },
+    "The Foundation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        140,
+        147
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        140,
+        146
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        140,
+        148
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        140
+      ]
+    },
+    "Emotional Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        140
+      ]
+    },
+    "ANPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        131,
+        140,
+        146,
+        147
+      ]
+    },
+    "EPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        131,
+        140,
+        146,
+        147,
+        171
+      ]
+    },
+    "ANP-EP Phobia": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        140,
+        171
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "dialetheic mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Intrusion → Correction → Reconfiguration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "The Drifting Constant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "The Protocol as Artifact": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "The Anthropic Lever": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "The Coherence Bubble": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Weaponized Decoherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "The Protocol Breach": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "The Central Directory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "The Tipping Point": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "The Strange Attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Evolution through Collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "The Forced Cooperation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "The Integration Event": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "The Trigger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Nested Dolls of Reality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "decoherence": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        50,
+        59,
+        65,
+        66,
+        67
+      ]
+    },
+    "cache coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "MESI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        169
+      ]
+    },
+    "Weak Anthropic Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "downward causation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113
+      ]
+    },
+    "attractor states": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        170
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "self-organization": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Fine-Tuning of Fundamental Constants": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        140
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Theory of Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        171
+      ]
+    }
+  }
+}

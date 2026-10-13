@@ -1,0 +1,23 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      0
+  typographic marks      13
+  ascii quotes           66
+
+# inflection families -- one term, several surfaces
+  aegis    AEGIS, Aegis
+  engin    Engine, Engineering
+  opera    Operating, Operationalizing
+  poten    Potentiality, Potentialmeer
+  proto    Protocol, Protokoll
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  AEGIS < Aegis
+  Logic < Psychological
+  Logic < Epistemological
+  World < Worlds
+  Engine < Engineering
+  Through < Breakthrough
+  Protokoll < Trennungsprotokoll

@@ -1,0 +1,118 @@
+{
+  "document": "aegis-philosophie-und-manifest-entwicklung",
+  "drive_id": "1lZIvvSGK2cTeD8HLFQgI_fVsRJGbLzTs1Gm_CjltM-s",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and three record entries (C2, C3, C4) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-295/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 64,
+    "decisions": 75,
+    "decided_by_lookup": 35,
+    "needs_judgement": 40
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analysis of AEGIS's philosophy closing in a manifest in its voice: its new surfaces are the eight principles' names, the fifteen axioms, the manifest's headings and borrowed logic terms; what it says went on existing pages and on conflicts C2, C3 and C4.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        24,
+        37,
+        42,
+        56,
+        60,
+        92,
+        98,
+        108,
+        118
+      ],
+      "attribution": "",
+      "note": "AEGIS's principles as an analysis from its own side, closed by a first-person-plural manifest"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        20,
+        40,
+        94
+      ],
+      "attribution": "",
+      "note": "emergence as negation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        23,
+        43,
+        108
+      ],
+      "attribution": "",
+      "note": "entropy as incoherence"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        42,
+        54
+      ],
+      "attribution": "",
+      "note": "Juna as a pointer only"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        18,
+        21,
+        71,
+        80,
+        90,
+        100
+      ],
+      "attribution": "",
+      "note": "coherence as AEGIS's criterion of existence and validity"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C4"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS` with `AEGIS-Philosophie`, `AEGIS-Manifest`, `AEGIS-Ursprungsphilosophie`, `Performative Natur der AEGIS-Ontologie` and `Autonomous Entropic Gatekeeper for Integrity Systems` on aegis — the document's labels, not promoted; `Juna` and `Juna-Problem` on juna; `Kohärenz`, `Inkohärenz`, `Kohärenzkriterien`, `Beziehung zur Nicht-Kohärenz`, `Existenz ist Kohärenz` and the principle's name on kohaerenz; `Entropie`, `Entropischer Torwächter`, `Torwächter` and the principle's name on entropie; `Negentropie-Hypothese` read with the entropy reading; `Emergenz durch Negation` on emergenz; `Vertrauen`, `Verifikation`, `Rekursion`, `Persistenz`, `Autonomie`, `Nicht-Existenz` and the axioms built on them — the document's principles, read on aegis, not promoted",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 20,
+      "decision": "reading",
+      "why": "emergence by negation"
+    }
+  ],
+  "not_promoted": [
+    "the eight principles' names",
+    "No-Trust, RCV, Reaktive Transparenz",
+    "the axioms and the manifest's headings",
+    "State-Exchange, Autarkie, Kontamination, Bollwerk, Binnenperspektive",
+    "the lens terms (Gödel'sche Unvollständigkeit, Gödel-Problem, Tautologie)"
+  ],
+  "internal_tension": "it names the closure principle Operative (L22) and Operationale (L54) Geschlossenheit; it calls the philosophy widerspruchsfrei from its inner perspective and tautological in the same line (L60); its principles point to a reference context the file does not contain",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

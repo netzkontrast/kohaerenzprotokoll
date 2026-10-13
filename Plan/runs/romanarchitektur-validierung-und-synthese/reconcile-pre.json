@@ -1,0 +1,442 @@
+{
+  "document": "romanarchitektur-validierung-und-synthese",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 62,
+  "decisions": 62,
+  "same_surface": {
+    "vortexinversion": [
+      "Vortex Inversion",
+      "Vortex-Inversion"
+    ],
+    "moonshinelink": [
+      "Moonshine Link",
+      "Moonshine-Link"
+    ]
+  },
+  "decided_mechanically": 58,
+  "needs_judgement": 4,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 233
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 237
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 219
+      },
+      {
+        "candidate": "Nexus",
+        "page": "nexus",
+        "readings": 33
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 110
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 123
+      },
+      {
+        "candidate": "Nichts-Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 109
+      },
+      {
+        "candidate": "Mosaik-Herz",
+        "page": "mosaik-herz",
+        "readings": 33
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 77
+      },
+      {
+        "candidate": "Funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 134
+      },
+      {
+        "candidate": "Moonshine Link",
+        "page": "moonshine-link",
+        "readings": 127
+      },
+      {
+        "candidate": "Coheron",
+        "page": "coheron",
+        "readings": 35
+      },
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 71
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 75
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 146
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Construct City"
+      },
+      {
+        "candidate": "Mosaic Heart"
+      },
+      {
+        "candidate": "SYSTEMFEHLER"
+      },
+      {
+        "candidate": "Functional multiplicity"
+      },
+      {
+        "candidate": "Integration Protocol"
+      },
+      {
+        "candidate": "Integrations-Protokoll"
+      },
+      {
+        "candidate": "K-J Vector"
+      },
+      {
+        "candidate": "K-J Vektor"
+      },
+      {
+        "candidate": "Collapse Kernel"
+      },
+      {
+        "candidate": "Coherence Kernel"
+      },
+      {
+        "candidate": "Emotional Parts"
+      },
+      {
+        "candidate": "Dual-Kernel Theory"
+      },
+      {
+        "candidate": "Witness Function"
+      },
+      {
+        "candidate": "Zeuge-Funktion"
+      },
+      {
+        "candidate": "Foundation"
+      },
+      {
+        "candidate": "Das Fundament"
+      },
+      {
+        "candidate": "Sea of Potentiality"
+      },
+      {
+        "candidate": "Echo-Intrusions"
+      },
+      {
+        "candidate": "Echo-Intrusionen"
+      },
+      {
+        "candidate": "Chunking"
+      },
+      {
+        "candidate": "Storyform A"
+      },
+      {
+        "candidate": "Storyform B"
+      },
+      {
+        "candidate": "Reader as Substrate"
+      },
+      {
+        "candidate": "Der Leser als Substrat"
+      },
+      {
+        "candidate": "Isolation Problem"
+      },
+      {
+        "candidate": "Chapter 39"
+      },
+      {
+        "candidate": "Kapitel 39"
+      },
+      {
+        "candidate": "Influence Character"
+      },
+      {
+        "candidate": "Main Character"
+      },
+      {
+        "candidate": "Story Mind"
+      },
+      {
+        "candidate": "Landauer Principle"
+      },
+      {
+        "candidate": "Landauer-Prinzip"
+      },
+      {
+        "candidate": "Dramatica"
+      },
+      {
+        "candidate": "Slingshot Argument"
+      },
+      {
+        "candidate": "Dialetheism"
+      },
+      {
+        "candidate": "Gödel-Sentence"
+      },
+      {
+        "candidate": "Gödel-Satz"
+      },
+      {
+        "candidate": "Chaitin Constant"
+      },
+      {
+        "candidate": "Monstrous Moonshine"
+      },
+      {
+        "candidate": "Vertex Operator Algebras"
+      },
+      {
+        "candidate": "Strange Attractor"
+      },
+      {
+        "candidate": "Husserlian"
+      },
+      {
+        "candidate": "Brechtian distantiation"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Vortex Inversion",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "vortex",
+            "page": "vortex"
+          }
+        ]
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          }
+        ]
+      },
+      {
+        "candidate": "Truth-Rotation Verdict",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "truthrotation",
+            "page": "truth-rotation"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 83,
+      "already_read": false
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 31,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 101,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 147,
+      "already_read": false
+    },
+    {
+      "page": "truth-rotation",
+      "surface": "Truth-Rotation",
+      "line": 61,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 35,
+      "already_read": false
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 33,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

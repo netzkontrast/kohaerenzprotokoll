@@ -1,0 +1,29 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      16
+  typographic marks      13
+  ascii quotes           80
+
+# inflection families -- one term, several surfaces
+  poten    Potential, Potentialis, Potentialmeer
+  alter    Alter, Alters
+  archi    Archipel, Architecture
+  conne    Connection, Connections
+  disso    Dissociation, Dissociative
+  emerg    Emergence, Emergent
+  entro    Entropic, Entropy
+  proto    Protocol, Protokoll
+  syste    System, Systems
+  theor    Theorems, Theory
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Each < Reaching
+  Alter < Alters
+  Order < Disorder
+  World < Worlds
+  System < Systems
+  Potential < Potentialis
+  Potential < Potentialmeer
+  Connection < Connections

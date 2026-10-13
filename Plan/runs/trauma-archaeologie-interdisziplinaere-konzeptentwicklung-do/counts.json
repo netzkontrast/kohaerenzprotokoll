@@ -1,0 +1,901 @@
+{
+  "document": "trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do",
+  "drive_id": "1VpbqsVCSgt3TPGAuuuBo3oO6ekicCHPU",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Protagonistensystem": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        33,
+        53,
+        67,
+        102,
+        108,
+        125,
+        141,
+        149,
+        167
+      ]
+    },
+    "Protagonistenidentität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Fundament": {
+      "n": 17,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        35,
+        46,
+        67,
+        83,
+        98,
+        117,
+        125,
+        129,
+        131,
+        138,
+        140,
+        149,
+        156,
+        158,
+        185,
+        216,
+        242
+      ]
+    },
+    "Leere": {
+      "n": 42,
+      "n_including_compounds": 45,
+      "lines": [
+        17,
+        21,
+        35,
+        46,
+        51,
+        61,
+        67,
+        77,
+        79,
+        81,
+        91,
+        114,
+        116,
+        117,
+        119,
+        129,
+        130,
+        131,
+        138,
+        140,
+        149,
+        156,
+        158,
+        159,
+        185,
+        187,
+        216,
+        228,
+        242,
+        245
+      ]
+    },
+    "Fundament/Leere": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        46,
+        131,
+        140,
+        149,
+        158,
+        216
+      ]
+    },
+    "Leere/Nichts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Entität": {
+      "n": 54,
+      "n_including_compounds": 54,
+      "lines": [
+        17,
+        35,
+        43,
+        45,
+        51,
+        53,
+        61,
+        67,
+        73,
+        98,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        117,
+        120,
+        129,
+        130,
+        131,
+        132,
+        138,
+        139,
+        141,
+        147,
+        149,
+        150,
+        159,
+        192,
+        207,
+        217,
+        227,
+        236,
+        241,
+        245
+      ]
+    },
+    "kontrollierenden Entität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        45,
+        53,
+        110,
+        227
+      ]
+    },
+    "Kontrollierenden Entität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Simulierenden Entität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        132,
+        141,
+        150,
+        159
+      ]
+    },
+    "Simulation": {
+      "n": 29,
+      "n_including_compounds": 41,
+      "lines": [
+        17,
+        47,
+        51,
+        53,
+        61,
+        81,
+        108,
+        116,
+        117,
+        118,
+        120,
+        121,
+        129,
+        131,
+        132,
+        138,
+        147,
+        156,
+        157,
+        159,
+        161,
+        226,
+        240,
+        242,
+        245,
+        290,
+        291,
+        480,
+        481,
+        506,
+        507,
+        513
+      ]
+    },
+    "Erzählwelt": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        21,
+        53,
+        110,
+        230,
+        234,
+        238
+      ]
+    },
+    "Genesis": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        27,
+        29,
+        33,
+        53,
+        270
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        130
+      ]
+    },
+    "Glitches": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        47,
+        120,
+        156,
+        236
+      ]
+    },
+    "Kerntrauma": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        140,
+        147
+      ]
+    },
+    "Traumatisierung durch Existenz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        21,
+        57,
+        232,
+        234,
+        245
+      ]
+    },
+    "Archäologie des Traumas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        13
+      ]
+    },
+    "Trauma-Samen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Geburtsfehler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        173
+      ]
+    },
+    "Fragmentierung": {
+      "n": 43,
+      "n_including_compounds": 44,
+      "lines": [
+        17,
+        51,
+        53,
+        61,
+        67,
+        73,
+        79,
+        89,
+        98,
+        99,
+        102,
+        123,
+        125,
+        130,
+        131,
+        133,
+        134,
+        139,
+        142,
+        143,
+        148,
+        151,
+        152,
+        157,
+        161,
+        167,
+        178,
+        215,
+        230,
+        236,
+        238,
+        247
+      ]
+    },
+    "Schöpfungsgewalt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Emergenzparadox": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        132
+      ]
+    },
+    "Simulationsbewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Leere-Konfrontation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        81,
+        114
+      ]
+    },
+    "Trauma der gewaltsamen/fehlerhaften Emergenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        87
+      ]
+    },
+    "Trauma der getrennten Verbindung/des Falls": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        96
+      ]
+    },
+    "Trauma der systemischen Objektifizierung/Instrumentalisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        105
+      ]
+    },
+    "Trauma der ontologischen Unsicherheit/Leere-Konfrontation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        114
+      ]
+    },
+    "Emergenz als ontologischer Bruch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Exil aus der Einheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        136,
+        234
+      ]
+    },
+    "Trauma des Falls und der Trennung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Instrumentalisierung als Seelenmord": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Trauma der Objektifizierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Kollaps der Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Trauma der ontologischen Unsicherheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        114,
+        154
+      ]
+    },
+    "Konzept 1": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        127,
+        173,
+        180,
+        187,
+        194,
+        199,
+        201,
+        205,
+        212,
+        228,
+        236
+      ]
+    },
+    "Konzept 2": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        136,
+        174,
+        181,
+        188,
+        195,
+        199,
+        201,
+        206,
+        212,
+        227,
+        236
+      ]
+    },
+    "Konzept 3": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        145,
+        175,
+        182,
+        189,
+        196,
+        199,
+        201,
+        207,
+        212,
+        227,
+        236
+      ]
+    },
+    "Konzept 4": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        154,
+        176,
+        183,
+        190,
+        197,
+        199,
+        201,
+        208,
+        212,
+        226,
+        236
+      ]
+    },
+    "Hypothese 1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        87
+      ]
+    },
+    "Hypothese 2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        96
+      ]
+    },
+    "Hypothese 3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        105
+      ]
+    },
+    "Hypothese 4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        114
+      ]
+    },
+    "Natur des Traumas": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        129,
+        138,
+        147,
+        156,
+        171,
+        214
+      ]
+    },
+    "Mechanismus der Fragmentierung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        130,
+        139,
+        148,
+        157
+      ]
+    },
+    "Verbindung zum Fundament/Leere": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        46,
+        131,
+        140,
+        149,
+        158
+      ]
+    },
+    "Rolle der Simulierenden Entität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        132,
+        141,
+        150,
+        159
+      ]
+    },
+    "Psychologische Plausibilität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        133,
+        142,
+        151,
+        160
+      ]
+    },
+    "Existenzielle/Mystische Tiefe": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        134,
+        143,
+        152,
+        161
+      ]
+    },
+    "ontologischer Schock": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        63,
+        129,
+        156
+      ]
+    },
+    "Ontologischer Schock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "ontologischen Schock": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        116,
+        120,
+        133,
+        159
+      ]
+    },
+    "ontologischen Bruch": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Bindungstrauma": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        67,
+        69,
+        98,
+        139,
+        142,
+        218
+      ]
+    },
+    "Dissoziation": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        25,
+        89,
+        98,
+        107,
+        130,
+        133,
+        139,
+        148,
+        151
+      ]
+    },
+    "Entwicklungstrauma": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        61,
+        89,
+        130,
+        133,
+        218
+      ]
+    },
+    "C-PTSD": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        75,
+        98,
+        107,
+        133,
+        142,
+        148,
+        151,
+        199,
+        218,
+        321,
+        369
+      ]
+    },
+    "DP/DR": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        116,
+        133,
+        160,
+        183,
+        199,
+        215,
+        218
+      ]
+    },
+    "Gaslighting": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        53,
+        73,
+        107,
+        121,
+        151,
+        160,
+        294,
+        295,
+        323,
+        411
+      ]
+    },
+    "Demiurg": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        45,
+        61,
+        92,
+        119,
+        129,
+        141
+      ]
+    },
+    "Demiurgen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        92,
+        119,
+        129
+      ]
+    },
+    "Panopticon": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        75,
+        108,
+        112,
+        148,
+        298,
+        299,
+        455,
+        456
+      ]
+    },
+    "Gestell": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        75,
+        108,
+        150,
+        418
+      ]
+    },
+    "Gestells": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "instrumentelle Vernunft": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        148
+      ]
+    },
+    "instrumentellen Vernunft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Instrumentelle Vernunft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Selbstobjektifizierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        107,
+        148
+      ]
+    },
+    "Solipsismus-Syndrom": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        81,
+        116,
+        160
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        117,
+        118
+      ]
+    },
+    "Derealisation": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        79,
+        81,
+        116,
+        121,
+        157,
+        240
+      ]
+    },
+    "Depersonalisation": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        79,
+        81,
+        116,
+        157
+      ]
+    },
+    "Autopoiesis": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        93,
+        253,
+        357
+      ]
+    },
+    "Überwachungskapitalismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        111,
+        150
+      ]
+    },
+    "Pleroma": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        67,
+        101,
+        140,
+        188
+      ]
+    },
+    "Sophia": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        46,
+        67,
+        101,
+        280,
+        281,
+        305
+      ]
+    }
+  }
+}

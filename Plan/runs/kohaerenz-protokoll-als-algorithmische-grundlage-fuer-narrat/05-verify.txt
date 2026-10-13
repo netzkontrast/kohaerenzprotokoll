@@ -1,0 +1,117 @@
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Fazit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fazit` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Quellen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quellen` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Ebenda"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Ebenda` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#6]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Kohärenz-Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Kohärenz-Protokoll` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#2]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Kohärenz-Protokolls"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz-Protokolls` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#2]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Storyform"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Storyform` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#3]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Kontrollinstanz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kontrollinstanz` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Hybrid Retrieval"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Hybrid Retrieval` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Wissensgraph-Tracking"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wissensgraph-Tracking` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Knowledge-Graph-Struktur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Knowledge-Graph-Struktur` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Lean Knowledge Base"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lean Knowledge Base` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Bibles"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Bibles` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#3]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Zustandstracking"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zustandstracking` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Zusammenfassung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`Zusammenfassung` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Informationswiedergewinnung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Informationswiedergewinnung` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Weltwissen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Weltwissen` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#2]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Inferenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Inferenz` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Pläne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Pläne` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#1]
+$ read.py kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat --count "Ontologie"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            8
+
+`Ontologie` ^[kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat.md:#4]
+stance_marker_count 8 = Fazit 1 + Quellen 1 + Ebenda 6
+$ profile: 5 glued reference numbers, 0 headings (01-profile.txt)
+census zeros: 8 (census.py draft)

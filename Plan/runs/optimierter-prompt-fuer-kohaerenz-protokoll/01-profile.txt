@@ -1,0 +1,14 @@
+# optimierter-prompt-fuer-kohaerenz-protokoll
+  lines                316  (frontmatter ends at 9)
+  body words           5738
+  headings             14   bold-only lines 2
+  table rows           19   code fences 0
+  question marks       12
+  backslash escapes    12
+  typographic marks    251   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    61
+  repeated labels      none
+  longest line         1170 chars
+

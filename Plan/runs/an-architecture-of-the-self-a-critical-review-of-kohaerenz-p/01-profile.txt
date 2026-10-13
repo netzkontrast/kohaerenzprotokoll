@@ -1,0 +1,14 @@
+# an-architecture-of-the-self-a-critical-review-of-kohaerenz-p
+  lines                80  (frontmatter ends at 0)
+  body words           2141
+  headings             7   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       2
+  backslash escapes    32
+  typographic marks    24   ascii quotes 57
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    4
+  repeated labels      none
+  longest line         1123 chars
+

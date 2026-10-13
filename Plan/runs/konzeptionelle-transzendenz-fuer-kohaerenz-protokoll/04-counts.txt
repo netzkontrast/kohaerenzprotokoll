@@ -1,0 +1,98 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           102 word   115 in   [31, 51, 60, 61, 71, 81]
+                                    3      as AEGIS-Simulation
+                                    1      as AEGIS-Paradoxons
+                                    1      as AEGIS-Emergenz
+                                    1      as AEGIS-Fragmentierung
+  Kael                             58 word    91 in   [32, 51, 61, 81, 100, 108]
+                                   32      as Kaels
+                                    1      as Kael-AEGIS-Konflikt
+  System Kael                       7 word     7 in   [32, 256, 258, 324, 329, 342]
+  Juna/V                           40 word    43 in   [30, 61, 71, 81, 119, 121]
+                                    1      as Juna/Vs
+                                    1      as Juna/V-Signal
+                                    1      as Juna/V-Natur
+  Fundament                        54 word    85 in   [23, 29, 37, 39, 41, 43]
+                                   22      as Fundaments
+                                    9      as fundamental
+                                    3      as Fundament-Interface
+                                    2      as fundamentalen
+  Leere                            24 word    24 in   [29, 37, 39, 83, 85, 91]
+  Nichts Rauschen                   6 word     6 in   [91, 115, 194, 220, 239, 247]
+  Fehlausgerichtete Kohärenz        4 word     4 in   [115, 140, 194, 441]
+  Fehlausgerichteten Kohärenz       1 word     1 in   [252]
+  Kohärenz Protokoll                7 word     7 in   [11, 13, 23, 39, 435, 455]
+  Orakel-Sigma                      7 word     7 in   [11, 15, 19, 23, 35, 435]
+  Conceptual Expansion Unit         1 word     1 in   [15]
+  Projekt Inkubation X              1 word     1 in   [11]
+  Direktive                        10 word    11 in   [19, 23, 27, 39, 121, 190]
+                                    1      as Direktive17
+  Transzendenz-Vektoren             3 word     3 in   [11, 23, 435]
+  Konzept-Singularitäten            2 word     2 in   [11, 23]
+  konzeptionellen Alchemie          1 word     1 in   [25]
+  Genre-Alchemie                    2 word     2 in   [350, 443]
+  Basisrealität                     3 word     3 in   [39, 41, 131]
+  Konstrukt-Welten                  1 word     1 in   [397]
+  KWs                               1 word     1 in   [397]
+  Informations-Substrat             1 word     1 in   [45]
+  Realitätsmannigfaltigkeit         1 word     1 in   [71]
+  Noosphäre                         1 word     1 in   [75]
+  Antikörper des Fundaments         1 word     1 in   [127]
+  Paradoxe AEGIS-Emergenz           1 word     1 in   [136]
+  Glitch                            1 word     2 in   [178, 425]
+                                    1      as Glitches
+  Gödel'scher Schatten              1 word     1 in   [247]
+  Selbstkonsumtion                  4 word     4 in   [205, 250, 252, 441]
+  Kristallwüste                     1 word     1 in   [219]
+  Unendlicher Regress der Kontrolle    1 word     1 in   [205]
+  Perfekte Kohärenz                 1 word     1 in   [215]
+  AEGIS-Fragmentierung              1 word     1 in   [225]
+  Paradoxe Fusion                   1 word     1 in   [235]
+  Konzeptuelle Annihilation         1 word     1 in   [108]
+  Ontologischer Schwindel           1 word     1 in   [109]
+  Parasitäre Verschmelzung          1 word     1 in   [110]
+  Zeugenschaft der Ent-Schaffung    1 word     1 in   [111]
+  Funktionalen Multiplizität        1 word     1 in   [260]
+  funktionale Multiplizität         2 word     2 in   [258, 262]
+  Emergentes Meta-Bewusstsein       1 word     1 in   [264]
+  Meta-Bewusstsein                  5 word     5 in   [264, 268, 336, 344, 442]
+  Verteiltes Bewusstsein            1 word     1 in   [337]
+  Parallele Kognition               1 word     1 in   [338]
+  Ko-Bewusstsein                    3 word     3 in   [286, 338]
+  Fundament-Schnittstelle           2 word     2 in   [293, 344]
+  Fundament-Interface               3 word     3 in   [339, 348, 442]
+  Simulations-Manipulation          4 word     4 in   [340, 344, 348, 442]
+  Luzides Träumen                   2 word     2 in   [302, 340]
+  Symbiotische Koexistenz           2 word     2 in   [311, 341]
+  Verschachteltes Bewusstsein       2 word     2 in   [320, 342]
+  Unzuverlässige Meta-Erzählung     1 word     1 in   [389]
+  Indirekte Enthüllung              1 word     1 in   [397]
+  Interkonnektivität                1 word     1 in   [447]
+  ANP                               7 word     8 in   [81, 258, 268, 269, 287, 324]
+  EP                                4 word    11 in   [81, 258, 268, 269, 287, 324]  <-- substring
+  Emotionalen Teils                 1 word     1 in   [371]
+  TSDP-analog                       2 word     2 in   [81, 258]
+  ANP/EP-Dynamik                    3 word     3 in   [81, 258, 269]
+  Gödel'schen Unvollständigkeitssätze    2 word     2 in   [60, 247]
+  Mathematischen Platonismus        2 word     2 in   [60, 173]
+  Mathematischem Universum          1 word     1 in   [50]
+  Primordial Informational Field    1 word     1 in   [50]
+  Informational Quantum Gravity     2 word     2 in   [50, 461]
+  It from Bit                       2 word     2 in   [50, 80]
+  Panpsychismus                     2 word     2 in   [110, 337]
+  anima mundi                       1 word     1 in   [80]
+  Simulationshypothese              1 word     1 in   [183]
+  Strukturelle Dissoziation         1 word     1 in   [342]
+  Orthogonalitätsthese              1 word     1 in   [240]
+  Azathoth                          3 word     5 in   [94, 379, 473, 482]
+                                    1      as Azathoth-Analogon
+                                    1      as Azathoth-artiger
+  Cosmic Horror                     8 word    11 in   [39, 70, 342, 352, 401, 431]
+  Psychologischer Thriller          2 word     2 in   [352, 367]
+  Hard Science Fiction              1 word     1 in   [352]
+  Kaskadenausfall                   1 word     1 in   [230]
+  Lügner-Paradox                    1 word     1 in   [210]

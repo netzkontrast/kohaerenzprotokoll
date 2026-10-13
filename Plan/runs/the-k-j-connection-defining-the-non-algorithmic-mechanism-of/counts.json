@@ -1,0 +1,375 @@
+{
+  "document": "the-k-j-connection-defining-the-non-algorithmic-mechanism-of",
+  "drive_id": "1WdEsnyIWq4hJtOwArxeg_yngxkZJhM7-PFS0fmPZVNY",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 40,
+      "n_including_compounds": 40,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        26,
+        27,
+        28,
+        29,
+        31,
+        35,
+        39,
+        40,
+        41,
+        47,
+        51,
+        55,
+        57,
+        61,
+        63,
+        65,
+        74,
+        76
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        29,
+        55
+      ]
+    },
+    "Kael": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        15,
+        28,
+        29,
+        39,
+        51,
+        55,
+        61,
+        63,
+        65,
+        68
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        39,
+        74,
+        76
+      ]
+    },
+    "Juna": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        39,
+        51,
+        55,
+        74,
+        76
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        17,
+        33,
+        35,
+        39,
+        40,
+        41,
+        47,
+        51,
+        55,
+        74
+      ]
+    },
+    "K-J connection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "ontological exploit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        35,
+        47
+      ]
+    },
+    "sub-protocol": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        41,
+        74
+      ]
+    },
+    "architectural backdoor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        41
+      ]
+    },
+    "Operational Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "ontological blindness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        74
+      ]
+    },
+    "Classical Logic & Locality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Hybrid Cognitive Architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Misaligned Objective Function": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Adaptive Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Maximize Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Non-Locality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Relational Resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "synesthetic resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "shared qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Gnostic Injection": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        49,
+        74
+      ]
+    },
+    "Coordinated Emergence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        53,
+        74
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        63,
+        74
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        63
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "LFI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        65
+      ]
+    },
+    "Logics of Formal Inconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Discursive Logic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        55
+      ]
+    },
+    "specification gaming": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "perverse instantiation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Quantum Entanglement Analogy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Prehension": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40
+      ]
+    },
+    "Gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Episteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "autopoietic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        65
+      ]
+    },
+    "paraconsistent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        76
+      ]
+    }
+  }
+}

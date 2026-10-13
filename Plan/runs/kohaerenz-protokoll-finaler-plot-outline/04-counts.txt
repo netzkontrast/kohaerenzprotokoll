@@ -1,0 +1,72 @@
+# counts for 55 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             22 word    39 in   [18, 22, 30, 32, 34, 35]
+                                   16      as Kaels
+                                    1      as Kael-Paradoxon
+  AEGIS                            23 word    23 in   [34, 50, 73, 83, 95, 97]
+  Juna/V                            2 word     3 in   [52, 64, 180]
+                                    1      as Juna/Vs
+  Juna                              5 word     5 in   [52, 54, 64, 178, 180]
+  Selene                            1 word     1 in   [190]
+  Fragments 'O'                     4 word     4 in   [18, 22, 26, 30]
+  'O'                              23 word    26 in   [18, 22, 26, 30, 32, 34]
+  Anderen Fragment                  1 word     1 in   [121]
+  Der Integrierte Andere            2 word     2 in   [34, 73]
+  Der anders Fragmentierte Andere    2 word     2 in   [35, 74]
+  Der unbewusste Andere             2 word     2 in   [36, 75]
+  Moonshine-Link                    1 word     1 in   [52]
+  prehensiven Resonanz              1 word     1 in   [52]
+  Kernwelt                          1 word     2 in   [54, 151]
+                                    1      as Kernwelten
+  Kernwelten                        1 word     1 in   [151]
+  Kairos-Potentialis                1 word     1 in   [54]
+  Logos-Prime                       1 word     1 in   [151]
+  Guardians                         1 word     1 in   [153]
+  Guardian                          2 word     3 in   [153, 157, 158]
+                                    1      as Guardians
+  Potentialmeer                     1 word     3 in   [50, 93, 108]  <-- substring
+                                    2      as Potentialmeers
+  Potentialmeers                    2 word     2 in   [50, 93]
+  Gärtner                           6 word     9 in   [50, 66, 75, 79, 83, 87]
+                                    2      as Gärtners
+                                    1      as Gärtner-Axiom
+  Das Gärtner-Axiom                 1 word     1 in   [79]
+  Paraiyas                          1 word     1 in   [109]
+  Naturschutzgebieten des Chaos     1 word     1 in   [108]
+  logischen Samen                   1 word     1 in   [109]
+  Garten der Möglichkeiten          1 word     1 in   [111]
+  Risse                             1 word     1 in   [160]
+  ineffiziente Schönheit            2 word     2 in   [147, 160]
+  algorithmische Melancholie        1 word     1 in   [137]
+  Kael-Paradoxon                    1 word     1 in   [137]
+  liebevollen Vernetztheit          2 word     2 in   [64, 119]
+  fürsorglicher Tyrannei            1 word     1 in   [119]
+  rhizomatisches Selbst             1 word     1 in   [64]
+  Fundament                         2 word     3 in   [64, 93, 180]
+                                    4      as fundamental
+                                    1      as fundamentalen
+                                    1      as Fundaments
+                                    1      as fundamentaler
+  Gnosis                            4 word     4 in   [54, 133, 162]
+  Episteme                          2 word     2 in   [162, 190]
+  Qualia                            1 word     1 in   [141]
+  Randbedingungen                   1 word     1 in   [93]
+  Perverse Instantiation            1 word     1 in   [95]
+  Abschlussprüfung                  1 word     1 in   [38]
+  funktionale Multiplizität         1 word     1 in   [40]
+  Das Protokoll des Lesers          1 word     1 in   [166]
+  offenen Kohärenz                  1 word     1 in   [194]
+  Found Footage                     1 word     1 in   [180]
+  Glossar                           1 word     1 in   [180]
+  Epilogen                          1 word     1 in   [178]
+  Meta-Physiker                     1 word     1 in   [93]
+  Mit-Schöpfer                      1 word     1 in   [66]
+  parakonsistenten Logik            3 word     3 in   [129, 139, 153]
+  schwachen Emergenz                1 word     1 in   [93]
+  Deus ex Machina                   3 word     3 in   [48, 218, 219]
+  Alterität                         1 word     1 in   [18]
+  Apotheose                         2 word     2 in   [18, 44]
+  Proof-of-Concept                  1 word     1 in   [66]

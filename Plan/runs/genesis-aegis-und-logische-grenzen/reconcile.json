@@ -1,0 +1,139 @@
+{
+  "document": "genesis-aegis-und-logische-grenzen",
+  "drive_id": "1Q3tg7WInLcH7V7FKICdGed7O4K5QmvJgAVEXotgYseQ",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and two record entries (C16, Q7) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-325/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 56,
+    "decisions": 61,
+    "decided_by_lookup": 49,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A Genesis prose draft in two voices: its new surfaces are its beat and perspective labels, Direktive 0, the log constants and borrowed concepts; what it narrates of the noise, AEGIS, Komponente 734, the Überwelt and Kael went on existing pages, and the component's story on C16 and Q7.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        67,
+        69,
+        123,
+        153,
+        163
+      ],
+      "attribution": "",
+      "note": "AEGIS as the logical consequence of a failure, bound to Direktive 0"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "emergence as the forming of clusters"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        15,
+        17,
+        31
+      ],
+      "attribution": "",
+      "note": "the state before the world, and the first self against it"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        77,
+        169,
+        185,
+        187
+      ],
+      "attribution": "",
+      "note": "Kael as the echo, the first cut and the mosaic"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        31,
+        163
+      ],
+      "attribution": "",
+      "note": "coherence as the first self's stance and AEGIS's ground"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        73,
+        79,
+        163,
+        169
+      ],
+      "attribution": "",
+      "note": "the nameless self made a numbered component, its echo, its destruction"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        15,
+        19,
+        57
+      ],
+      "attribution": "",
+      "note": "the noise before being"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        111,
+        121,
+        145
+      ],
+      "attribution": "",
+      "note": "the Überwelt as a space of thought and a limit"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Nichts Rauschen`, `Nichts Rauschens` and `Rauschen` on nichts-rauschen; `AEGIS` and `AEGIS-Perspektive`, `Kael` and `Ich/Kael-Perspektive` on aegis and kael, the labels not promoted; `Anomalie` anomaly X-1, not an AEGIS metric; `SIMULATION PROTOCOL OMEGA-12` a log line, not the Überwelt; `Echo` the component's echo, read on komponente-734 and kael, not the Residual-Echos",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title heading only"
+    }
+  ],
+  "not_promoted": [
+    "the beats and their perspective labels",
+    "Direktive 0, the PRECURSOR FRAGMENTS, NULL-STATE, anomaly X-1",
+    "the diagnostic table and the scar",
+    "the borrowed concepts (autopoiesis, structural coupling, complex adaptive system, paraconsistent logic, Gödel)"
+  ],
+  "internal_tension": "its commentary writes the name Kael before Scene 13 names the mosaic (L77, L185); it asks a question about AEGIS and answers it with Wahrscheinlich nicht (L91)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

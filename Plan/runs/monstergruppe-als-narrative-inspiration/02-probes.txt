@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x20
+  glued ref numbers      52
+  backslash escapes      16
+  typographic marks      124
+  ascii quotes           14
+
+# inflection families -- one term, several surfaces
+  chara    Charakter, Charakterbögen, Charaktere, Charakteren, Charakterentwicklung, Charakterentwicklungen, Charaktererfahrungen, Charaktermerkmale, Charaktertafel
+  mathe    Mathematical, Mathematics, Mathematik, Mathematiker, Mathematikern, Mathematikers, Mathematische, Mathematischen, Mathematisches
+  modul    Modul, ModularFormsLecture, Modulformen, Modulfunktion, Modulfunktionen, Modulgruppe, Moduls
+  metap    Metapher, Metaphern, Metaphysical, Metaphysics, Metaphysik, Metaphysisches
+  symme    Symmetrie, Symmetriegruppe, Symmetrien, Symmetrieoperationen, Symmetriestruktur
+  berei    Bereich, Bereiche, Bereichen, Bereichs
+  erzäh    Erzählung, Erzählungen, Erzählwelt, Erzählwelten
+  inter    Interaktion, Interne, Internet, Interpretationen
+  konst    Konstante, Konstrukt, Konstruktion, Konstruktionen
+  konze    Konzept, Konzepte, Konzepten, Konzepts
+  monst    Monster, Monstergruppe, Monstrous, Monströser
+  objek    Objekt, Objekte, Objekten, Objekts
+  ordnu    Ordnung, Ordnungsbestimmung, Ordnungsformel, Ordnungsprinzipien
+  poten    Potenzial, Potenziale, Potenzialität, Potenzielle
+  syste    System, Systeme, Systemen, Systems
+  theor    Theorem, Theorie, Theorien, Theory
+  unive    Universalität, University, Universum, Universums
+  wisse    Wissens, Wissensbereiche, Wissenschaft, Wissensdurst
+  abstr    Abstrakte, Abstraktheit, Abstraktion
+  analy    Analyse, Analysen, Analysis
+  beisp    Beispiel, Beispiele, Beispielen
+  darst    Darstellung, Darstellungen, Darstellungsresistenz
+  diese    Diese, Dieser, Dieses
+  dimen    Dimension, Dimensionalität, Dimensionen
+  eleme    Element, Elemente, Elementen
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Reine
+  Eine < Bausteine
+  Film < Filme
+  Form < Formel
+  Form < Formen
+  Form < Modulformen
+  Form < Formlosigkeit
+  Form < Informationen
+  Form < Ordnungsformel
+  Form < Transformation
+  Form < Transformationen
+  Form < ModularFormsLecture
+  Four < Fourier
+  Hand < Handlung
+  Hand < Abhandlung
+  Hand < Handlungsstränge

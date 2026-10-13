@@ -1,0 +1,139 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
+  "drive_id": "1em4NZKN3UW1lDzizHvXuuNVG6ErGTU3f0Mss0dHDTDc",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 2,
+  "typographic_marks": 24,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "SYSTEMBERICHT",
+      "SYSTEMFEHLER",
+      "System"
+    ],
+    "archi": [
+      "ARCHITEKT",
+      "Architekt",
+      "Architektur"
+    ],
+    "augen": [
+      "Augen",
+      "Augensternen"
+    ],
+    "betre": [
+      "BETREFF",
+      "BETRETEN"
+    ],
+    "ende": [
+      "ENDE",
+      "Ende"
+    ],
+    "insta": [
+      "INSTANZ",
+      "Instanz"
+    ],
+    "leser": [
+      "LESERS",
+      "Leser"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtpixel"
+    ],
+    "nicht": [
+      "NICHT",
+      "Nichts"
+    ],
+    "trümm": [
+      "Trümmer",
+      "Trümmern"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Buch",
+      "Buches"
+    ],
+    [
+      "Buch",
+      "Buchstaben"
+    ],
+    [
+      "ENDE",
+      "Ende"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Herz",
+      "Herzschlag"
+    ],
+    [
+      "Mann",
+      "Mannes"
+    ],
+    [
+      "NAME",
+      "Namen"
+    ],
+    [
+      "Achte",
+      "BEOBACHTER"
+    ],
+    [
+      "Augen",
+      "Augensternen"
+    ],
+    [
+      "Leser",
+      "LESERS"
+    ],
+    [
+      "Licht",
+      "Lichtpixel"
+    ],
+    [
+      "NICHT",
+      "Nichts"
+    ],
+    [
+      "ÄRENZ",
+      "Kohärenz"
+    ],
+    [
+      "Fehler",
+      "SYSTEMFEHLER"
+    ],
+    [
+      "SYSTEM",
+      "System"
+    ],
+    [
+      "SYSTEM",
+      "SYSTEMFEHLER"
+    ],
+    [
+      "SYSTEM",
+      "SYSTEMBERICHT"
+    ],
+    [
+      "System",
+      "SYSTEMFEHLER"
+    ],
+    [
+      "System",
+      "SYSTEMBERICHT"
+    ],
+    [
+      "INSTANZ",
+      "Instanz"
+    ]
+  ]
+}

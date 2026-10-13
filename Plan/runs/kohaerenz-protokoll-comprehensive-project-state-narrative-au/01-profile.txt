@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-comprehensive-project-state-narrative-au
+  lines                77  (frontmatter ends at 9)
+  body words           1273
+  headings             10   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       5
+  backslash escapes    4
+  typographic marks    14   ascii quotes 74
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1172 chars
+

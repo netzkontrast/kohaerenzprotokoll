@@ -1,0 +1,93 @@
+# counts for 75 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                6 word     9 in   [11, 13, 76, 114, 124, 152]
+  Kohärenz Protokolls               3 word     3 in   [13, 76, 152]
+  System Mind                       4 word     9 in   [13, 15, 97, 103, 112, 114]  <-- substring
+  System Minds                      5 word     5 in   [15, 97, 112, 114, 124]
+  Protokoll-Ontologie               1 word     1 in   [13]
+  Existenz-Matrizen                 1 word     1 in   [13]
+  Dual Kernel Theory                2 word     2 in   [15, 126]
+  DKT                               1 word     1 in   [15]
+  Kohärenz-Kernel                   1 word     1 in   [15]
+  Kollaps-Kernel                    1 word     1 in   [15]
+  Kollaps-Kerns                     1 word     1 in   [126]
+  Storyform A                       7 word     7 in   [15, 17, 19, 114, 118, 126]
+  Storyform B                       9 word     9 in   [15, 57, 59, 81, 97, 114]
+  Die Heuristik der Integration     2 word     2 in   [15, 17]
+  Der Phönix-Kollaps                3 word     3 in   [15, 57, 59]
+  Phönix-Kollaps                    4 word     5 in   [15, 57, 59, 63, 110]
+                                    1      as Phönix-Kollapses
+  Vektor K1                         1 word     1 in   [17]
+  Vektor K0                         1 word     1 in   [57]
+  Kael                             30 word    36 in   [19, 30, 31, 33, 34, 35]
+                                    6      as Kaels
+  AEGIS                            27 word    30 in   [19, 36, 43, 45, 51, 53]
+                                    1      as AEGIS-Zentralrechner
+                                    1      as AEGIS-Gefangenschaft
+                                    1      as AEGIS-Ideologie
+  Juna                              2 word     3 in   [51]
+                                    1      as Junas
+  Juna/V-Vektor                     1 word     1 in   [51]
+  Moonshine-Link                    1 word     1 in   [55]
+  Logos-Prime                       2 word     4 in   [32, 83, 105, 150]
+                                    1      as Logos-Prime-Simulation
+                                    1      as Logos-Prime-Welt
+  Kernwelten                        1 word     1 in   [32]
+  T-734                             2 word     2 in   [35, 70]
+  Alpha-Logik-Fragments             1 word     1 in   [30]
+  Kael/M                            2 word     2 in   [30, 118]
+  EPs                               5 word     5 in   [30, 106, 118, 120, 146]
+  ANP                               2 word     4 in   [47, 106, 120, 146]
+  ANPs                              2 word     2 in   [106, 120]
+  TSDP                              4 word     8 in   [23, 47, 83, 95, 97, 103]
+                                    2      as TSDP-Symptomatik
+                                    1      as TSDP-Zustand
+                                    1      as TSDP-Multiplizität
+  Landauer-Wärme                    4 word     4 in   [34, 74, 107, 146]
+  Trennungsprotokoll                2 word     2 in   [43, 144]
+  Gödel-Gambit                      2 word     3 in   [73, 118, 150]
+                                    1      as Gödel-Gambits
+  Ouroboros-Ending                  1 word     1 in   [152]
+  Witness Function                  7 word     7 in   [15, 128, 130, 132, 135, 148]
+  Zeugenfunktion                    2 word     2 in   [15, 130]
+  Hard Problem of Consciousness     3 word     3 in   [15, 122, 124]
+  thermodynamische Narben           1 word     1 in   [142]
+  Genesis-Krise                     1 word     1 in   [144]
+  Ursprungs-Ich                     1 word     1 in   [144]
+  Jetzt-Raum                        1 word     1 in   [37]
+  Hostile System Errors             1 word     1 in   [144]
+  ChatCompanions                    1 word     1 in   [120]
+  InstructionDeputies               1 word     1 in   [120]
+  Narrative Context Protocol (NCP)    2 word     2 in   [120, 164]
+  5D-Synthese                       5 word     5 in   [11, 15, 112, 116, 124]
+  Garbage Collector                 1 word     1 in   [83]
+  Memory Leak                       1 word     1 in   [83]
+  Speicherüberlauf                  2 word     2 in   [83, 110]
+  funktionale Multiplizität         1 word     1 in   [36]
+  Diagnostic Rigidity               1 word     1 in   [87]
+  Chronometrische Agnosie           1 word     1 in   [104]
+  Vektor-Instabilität               1 word     1 in   [105]
+  Phasing / Mikrosprünge            1 word     1 in   [106]
+  Echo-Phänomene                    1 word     1 in   [107]
+  Somatische Desynchronisation      1 word     1 in   [108]
+  Feld-Kollaps                      1 word     1 in   [110]
+  Moderator                         1 word     1 in   [120]
+  Dramatica-Theorie                 3 word     3 in   [15, 161]
+  Throughlines                      1 word     1 in   [41]
+  Dialetheismus                     3 word     3 in   [33, 112, 116]
+  Qualia                            6 word     6 in   [91, 124, 140, 142, 144, 152]
+  Landauer                          2 word     6 in   [34, 74, 85, 107, 146]  <-- substring
+                                    4      as Landauer-Wärme
+  Entanglement Witness              1 word     1 in   [134]
+  Zero-Knowledge-Beweisen           1 word     1 in   [135]
+  Prehension                        1 word     1 in   [136]
+  Actual Occasions                  1 word     1 in   [136]
+  Reversiblen Computings            1 word     1 in   [150]
+  Gödelsche Unvollständigkeitssatz    1 word     1 in   [118]
+  Optionlock                        1 word     1 in   [35]
+  Timelock                          1 word     1 in   [75]
+  Steadfast                         4 word     4 in   [59, 70, 114, 118]
+  Gegenläufigkeits-Achse            2 word     2 in   [19, 59]

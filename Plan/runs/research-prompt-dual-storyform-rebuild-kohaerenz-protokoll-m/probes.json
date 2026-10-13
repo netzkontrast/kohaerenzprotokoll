@@ -1,0 +1,292 @@
+{
+  "document": "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
+  "drive_id": "1cerl5kpzYP4LBhz4jWbwquIUD_LQnw04OpS1aCAtJiU",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 92,
+  "backslash_escapes": 286,
+  "typographic_marks": 320,
+  "ascii_quotes": 180,
+  "inflection_families": {
+    "forsc": [
+      "Forschung",
+      "Forschungsagenten",
+      "Forschungsaufgabe",
+      "Forschungsfehler",
+      "Forschungsfrage",
+      "Forschungskategorie",
+      "Forschungsprompt",
+      "Forschungsprompts",
+      "Forschungsschleife",
+      "Forschungsthema",
+      "Forschungsziel"
+    ],
+    "struk": [
+      "STRUKTURFRAMEWORK",
+      "Struktur",
+      "Strukturanalyst",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturframework",
+      "Strukturhinweis",
+      "Strukturierte",
+      "Strukturierter",
+      "Strukturkonflikt"
+    ],
+    "spieg": [
+      "Spiegel",
+      "Spiegellogik",
+      "Spiegellogiken",
+      "Spiegelmapping",
+      "Spiegeloperation",
+      "Spiegelregel",
+      "Spiegelregeln",
+      "Spiegelung"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture",
+      "Architekt",
+      "Architektur",
+      "Architekturmaterial",
+      "Architekturschicht",
+      "Architekturstand"
+    ],
+    "opera": [
+      "Operationalisiere",
+      "Operationalisierung",
+      "Operationalisierungsbeispiel",
+      "Operatives",
+      "Operator",
+      "Operatoren",
+      "Operators"
+    ],
+    "refle": [
+      "Reflection",
+      "Reflexion",
+      "Reflexionen",
+      "Reflexions",
+      "Reflexionseintrag",
+      "Reflexionseinträge",
+      "Reflexivität"
+    ],
+    "check": [
+      "CHECK",
+      "CHECKLIST",
+      "Check",
+      "Checkpoint",
+      "Checkpoints",
+      "Checks"
+    ],
+    "falsi": [
+      "Falsification",
+      "Falsifikation",
+      "Falsifikations",
+      "Falsifikationsschritte",
+      "Falsifikationsverlauf",
+      "Falsifikationsversuchen"
+    ],
+    "metho": [
+      "Method",
+      "Methode",
+      "Methoden",
+      "Methodik",
+      "Methodologische",
+      "Methodology"
+    ],
+    "primä": [
+      "Primär",
+      "Primärdirektive",
+      "Primärliteratur",
+      "Primärquelle",
+      "Primärquellen",
+      "Primärstruktur"
+    ],
+    "quell": [
+      "Quelle",
+      "Quellen",
+      "Quellenauswahl",
+      "Quellenliste",
+      "Quellenmaterial",
+      "Quellenpriorität"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storypoint",
+      "Storypoints"
+    ],
+    "theor": [
+      "Theoretische",
+      "Theorie",
+      "Theoriefelder",
+      "Theoriestand",
+      "Theorieänderungen",
+      "Theory"
+    ],
+    "alter": [
+      "Alter",
+      "Alternativ",
+      "Alternative",
+      "Alternativen",
+      "Alters"
+    ],
+    "befra": [
+      "Befragen",
+      "Befragung",
+      "Befragungs",
+      "Befragungsprotokoll",
+      "Befragungsprotokolls"
+    ],
+    "erwei": [
+      "Erweitere",
+      "Erweitern",
+      "Erweiterung",
+      "Erweiterungen",
+      "Erweiterungspass"
+    ],
+    "forma": [
+      "Formal",
+      "Formale",
+      "Formalisierung",
+      "Formalismus",
+      "Format"
+    ],
+    "hypot": [
+      "Hypothese",
+      "Hypothesen",
+      "Hypothesenbaum",
+      "Hypothesenzweig",
+      "Hypothesis"
+    ],
+    "verif": [
+      "VERIFICATION",
+      "Verifier",
+      "Verifikation",
+      "Verifikationspass",
+      "Verifiziere"
+    ],
+    "agent": [
+      "AGENTEN",
+      "Agent",
+      "Agenten",
+      "Agentische"
+    ],
+    "arbei": [
+      "Arbeitsantwort",
+      "Arbeitshypothese",
+      "Arbeitsnotizen",
+      "Arbeitsschleife"
+    ],
+    "audit": [
+      "Audit",
+      "Auditierbar",
+      "Auditierbarkeit",
+      "Auditing"
+    ],
+    "besch": [
+      "Beschreibe",
+      "Beschreibung",
+      "Beschränkung",
+      "Beschützer"
+    ],
+    "bestä": [
+      "Bestätige",
+      "Bestätigungen",
+      "Bestätigungstheater",
+      "Bestätigungsverzerrung"
+    ],
+    "block": [
+      "BLOCK",
+      "BLOCKS",
+      "Block",
+      "Blocks"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "AUSF",
+      "Ausführung"
+    ],
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Anti",
+      "Substantiv"
+    ],
+    [
+      "Baum",
+      "Baums"
+    ],
+    [
+      "Baum",
+      "Hypothesenbaum"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Keiner"
+    ],
+    [
+      "Ende",
+      "Wende"
+    ],
+    [
+      "Ende",
+      "Anwender"
+    ],
+    [
+      "Ende",
+      "Bindende"
+    ],
+    [
+      "Ende",
+      "Folgende"
+    ],
+    [
+      "Ende",
+      "Verwende"
+    ],
+    [
+      "Ende",
+      "ÜHRENDEN"
+    ],
+    [
+      "Ende",
+      "Folgendes"
+    ],
+    [
+      "Erst",
+      "Leerstellen"
+    ],
+    [
+      "Erst",
+      "Verständnis"
+    ],
+    [
+      "Erst",
+      "Leerstellenarchitektur"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "document": "angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll",
+  "drive_id": "1WnVMCG7noJJiSj0UntiRQuwqiBB3ulpfUhWeppV4YXs",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document a shorter version of document 308 (Plan/runs/ingest-311/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 59,
+    "decided_by_lookup": 53,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A shorter version of the enriched plot concept read as document 308: the same premise, three parts and 39 concept labels, each entry more abstract; nothing a page or chapter page does not already hold from document 308.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a shorter version of the enriched plot concept (document 308), light pass: every near match — the four worlds and their group letters, Kael/M, Moonshine and the Moonshine-Link, the coherence labels — is decided as for document 308, and no page or chapter page is read",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "a shorter version of document 308; light pass"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 44,
+      "decision": "occurrence",
+      "why": "a shorter version of document 308; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything new to the index, as for document 308"
+  ],
+  "internal_tension": "as in document 308, the export restarts the chapter numbering in each part (ranges at L29, L42, L60); several entries are open questions, e.g. whether the integrated being is Kael, M or both (L74)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,66 @@
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Foreword"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Foreword` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Core Strengths"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Core Strengths` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Critical Weaknesses"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Critical Weaknesses` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Actionable Recommendations"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Actionable Recommendations` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Concluding Assessment"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Concluding Assessment` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Paradoxon X"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paradoxon X` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Potentialmeer"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Potentialmeer` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschen` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Deus ex Machina"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Deus ex Machina` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Deus Ex Machina"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Deus Ex Machina` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py reader-s-report-a-critical-assessment-of-kohaerenz-protokoll --count "Guardian"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian` ^[reader-s-report-a-critical-assessment-of-kohaerenz-protokoll.md:#1]

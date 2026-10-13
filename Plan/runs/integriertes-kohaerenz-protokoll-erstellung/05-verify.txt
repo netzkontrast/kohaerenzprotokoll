@@ -1,0 +1,84 @@
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Status"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Status` ^[integriertes-kohaerenz-protokoll-erstellung.md:#20]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Rang"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Rang` ^[integriertes-kohaerenz-protokoll-erstellung.md:#19]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Erkenntnis"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Erkenntnis` ^[integriertes-kohaerenz-protokoll-erstellung.md:#4]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Risse"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Risse` ^[integriertes-kohaerenz-protokoll-erstellung.md:#8]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Kapitel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kapitel` ^[integriertes-kohaerenz-protokoll-erstellung.md:#2]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Protokoll-Aktion"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Protokoll-Aktion` ^[integriertes-kohaerenz-protokoll-erstellung.md:#3]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Theoretische Basis"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Theoretische Basis` ^[integriertes-kohaerenz-protokoll-erstellung.md:#3]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Lebender Gödel-Satz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lebender Gödel-Satz` ^[integriertes-kohaerenz-protokoll-erstellung.md:#1]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Living Gödel-Satz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Living Gödel-Satz` ^[integriertes-kohaerenz-protokoll-erstellung.md:#1]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Integrierte Kohärenz-Protokoll"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Integrierte Kohärenz-Protokoll` ^[integriertes-kohaerenz-protokoll-erstellung.md:#5]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Integrierten Kohärenz-Protokolls"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Integrierten Kohärenz-Protokolls` ^[integriertes-kohaerenz-protokoll-erstellung.md:#1]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "Anwendung im Protokoll"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Anwendung im Protokoll` ^[integriertes-kohaerenz-protokoll-erstellung.md:#7]
+$ python3 scripts/read.py integriertes-kohaerenz-protokoll-erstellung --count "39"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            9
+
+`39` ^[integriertes-kohaerenz-protokoll-erstellung.md:#5]
+stance_marker_count 37 = Status 20 + Anwendung im Protokoll 7 + Erkenntnis 4 + Protokoll-Aktion 3 + Theoretische Basis 3
+$ grep -c "?" Sources/drive/integriertes-kohaerenz-protokoll-erstellung.md
+19
+$ grep -c "open?id" ...
+16
+profile: question marks 21, glued ref numbers 65 (01-profile.txt); 20 inventory entries L35-L192 (Status 20); 47 references L373-L419

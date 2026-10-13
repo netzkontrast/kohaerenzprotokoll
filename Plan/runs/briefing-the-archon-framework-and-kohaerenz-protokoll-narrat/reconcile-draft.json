@@ -1,0 +1,285 @@
+{
+  "document": "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
+  "drive_id": "16cV9VTKg2riN_2_jSfxk-VTOA3NX95F7m868thJFYFo",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 90,
+    "decisions": 92,
+    "decided_by_lookup": 78,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        98,
+        100,
+        102,
+        103,
+        104,
+        112,
+        115,
+        150,
+        173
+      ],
+      "attribution": "",
+      "note": "a god-like AI of negation, paraconsistent, caught in a learning loop, ending in algorithmic melancholy"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        90,
+        134
+      ],
+      "attribution": "",
+      "note": "the ANP protector"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        150
+      ],
+      "attribution": "",
+      "note": "AEGIS's final state, processing without feeling"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        77,
+        79,
+        83
+      ],
+      "attribution": "",
+      "note": "functional multiplicity instead of elimination, and the roster the briefing calls canonical"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        94
+      ],
+      "attribution": "",
+      "note": "the ANP/EP observer"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        142
+      ],
+      "attribution": "",
+      "note": "Juna/V's origin"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        171
+      ],
+      "attribution": "",
+      "note": "Genesis Crisis named in an open question about Kael's origin"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        146
+      ],
+      "attribution": "",
+      "note": "the final confrontation as a living Gödel-sentence"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "the sexualized control-reaction EP"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        142,
+        172
+      ],
+      "attribution": "",
+      "note": "a transcendent entity from an External Level, her relation to the Foundation left open"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        62,
+        69,
+        77,
+        84,
+        112,
+        151,
+        171
+      ],
+      "attribution": "",
+      "note": "a dissociated identity system modelled on TSDP, aiming at functional multiplicity, and an origin left open"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        127,
+        132,
+        133,
+        134,
+        135
+      ],
+      "attribution": "",
+      "note": "four simulated laboratories, each with a logical principle and a psychological domain"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        87,
+        133
+      ],
+      "attribution": "",
+      "note": "the child/freeze EP holding early trauma"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        85,
+        132
+      ],
+      "attribution": "",
+      "note": "the ANP analyst"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "the child/ambivalent EP with trust trauma"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        142
+      ],
+      "attribution": "",
+      "note": "Juna/V's non-local connection to Kael"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "the collapse-reaction EP"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        77,
+        151
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as co-consciousness and cooperation"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "the primordial high-entropy state AEGIS reacts against"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        86,
+        134
+      ],
+      "attribution": "",
+      "note": "the fight-reaction EP, aggressive protector"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "the ANP carer"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        89,
+        135
+      ],
+      "attribution": "",
+      "note": "the integrator and internal ethical compass"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        69,
+        74,
+        75
+      ],
+      "attribution": "",
+      "note": "Kael's psyche modelled on TSDP, with ANPs and EPs defined"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        126
+      ],
+      "attribution": "",
+      "note": "AEGIS's control plane"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 171,
+      "decision": "reading",
+      "why": "Kael the primary fragment of AEGIS's self-mutilation during its Genesis Crisis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

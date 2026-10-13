@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-finaler-bauplan
+  lines                264  (frontmatter ends at 9)
+  body words           4161
+  headings             19   bold-only lines 0
+  table rows           14   code fences 0
+  question marks       4
+  backslash escapes    7
+  typographic marks    171   ascii quotes 0
+  invisible characters none
+  math symbol lines    2
+  glued ref numbers    26
+  repeated labels      none
+  longest line         1012 chars
+

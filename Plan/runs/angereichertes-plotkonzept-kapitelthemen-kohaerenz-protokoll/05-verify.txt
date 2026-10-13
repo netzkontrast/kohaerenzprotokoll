@@ -1,0 +1,45 @@
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll --count "Kapitel-Themen-Entwurf"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel-Themen-Entwurf` ^[angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll --count "Prämisse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Prämisse` ^[angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll --count "Setting"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Setting` ^[angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll --count "Genre-Mix"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Genre-Mix` ^[angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll --count "Kernthemen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernthemen` ^[angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll --count "Moonshine-Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Link` ^[angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll --count "K-J Verbindung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`K-J Verbindung` ^[angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll.md:#4]
+
+stance_marker_count 5 = Prämisse 1 + Setting 1 + Genre-Mix 1 + Kernthemen 1 + Kapitel-Themen-Entwurf 1
+other numbers in prose: 20 core worlds (L15), four worlds (L21), 39 chapters (L27), part ranges 1-10 / 11-25 / 26-39 (L29, L42, L60), entry counts 10/15/14 from the lists at L31-40, L44-58, L62-75 (read.py listing above).

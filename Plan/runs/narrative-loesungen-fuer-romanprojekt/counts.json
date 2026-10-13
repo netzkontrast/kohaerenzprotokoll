@@ -1,0 +1,882 @@
+{
+  "document": "narrative-loesungen-fuer-romanprojekt",
+  "drive_id": "1xNOcpvapp13Tn9iL0l2ywEDG-hkD0Xg10a1pe72EqrQ",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Personas": {
+      "n": 49,
+      "n_including_compounds": 49,
+      "lines": [
+        23,
+        25,
+        29,
+        31,
+        32,
+        44,
+        46,
+        47,
+        51,
+        55,
+        57,
+        74,
+        83,
+        85,
+        111,
+        113,
+        114,
+        128,
+        130,
+        131,
+        157,
+        164,
+        169,
+        170,
+        193,
+        197,
+        198,
+        199,
+        200,
+        216,
+        219,
+        227,
+        233,
+        268,
+        275,
+        278,
+        288,
+        290,
+        305,
+        309,
+        317
+      ]
+    },
+    "Meta-Erzähler": {
+      "n": 15,
+      "n_including_compounds": 49,
+      "lines": [
+        15,
+        17,
+        23,
+        25,
+        29,
+        30,
+        31,
+        32,
+        44,
+        46,
+        47,
+        78,
+        100,
+        114,
+        141,
+        143,
+        164,
+        170,
+        171,
+        172,
+        186,
+        191,
+        193,
+        197,
+        198,
+        199,
+        200,
+        202,
+        216,
+        218,
+        219,
+        227,
+        239,
+        259,
+        269,
+        274,
+        275,
+        278,
+        283,
+        290,
+        313,
+        317
+      ]
+    },
+    "Meta-Realität": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        15,
+        23,
+        25,
+        30,
+        31,
+        38,
+        59,
+        85,
+        111,
+        112,
+        128,
+        227,
+        288,
+        313
+      ]
+    },
+    "Meta-Erzähler-Modi": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        274
+      ]
+    },
+    "Magier": {
+      "n": 27,
+      "n_including_compounds": 35,
+      "lines": [
+        17,
+        25,
+        30,
+        76,
+        78,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        92,
+        95,
+        99,
+        102,
+        103,
+        140,
+        171,
+        199,
+        201,
+        229,
+        241,
+        255,
+        269,
+        274,
+        288,
+        297
+      ]
+    },
+    "Forscher": {
+      "n": 16,
+      "n_including_compounds": 18,
+      "lines": [
+        25,
+        29,
+        32,
+        78,
+        103,
+        113,
+        144,
+        170,
+        171,
+        173,
+        197,
+        201,
+        269,
+        274,
+        288,
+        297,
+        313
+      ]
+    },
+    "Philosoph": {
+      "n": 9,
+      "n_including_compounds": 31,
+      "lines": [
+        17,
+        25,
+        31,
+        78,
+        103,
+        113,
+        121,
+        127,
+        128,
+        131,
+        171,
+        189,
+        197,
+        230,
+        256,
+        269,
+        270,
+        323,
+        370,
+        403,
+        410,
+        412,
+        413,
+        414,
+        417,
+        424
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        51,
+        71,
+        321
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        66,
+        74,
+        268,
+        277,
+        305
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Kernrealität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Prototyp-Konzept": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        261,
+        263
+      ]
+    },
+    "Reality Bleed": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Realitätsüberlappung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Geteilte Narrative Räume": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        253
+      ]
+    },
+    "Metafiktionale Dialoge und Interaktionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Parallele Erzählstränge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Montage": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        47,
+        253
+      ]
+    },
+    "Veränderter Innerer Monolog": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Metaphorische Repräsentation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Veränderte Interaktionsmuster": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        254
+      ]
+    },
+    "Internalisierte Narrative Therapie-Techniken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Verkörperte Erfahrung von Klarheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Symbolische Sprache": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        255
+      ]
+    },
+    "Archetypische Muster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Traumlogik": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        84,
+        93,
+        103,
+        229,
+        255,
+        269
+      ]
+    },
+    "Synchronizität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        85,
+        95,
+        103,
+        229,
+        255
+      ]
+    },
+    "Paradoxe Aussagen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Koans": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Holistische/Nicht-Lineare Perspektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Thematische Weltbau-Regeln": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        256
+      ]
+    },
+    "Symbolische Umgebungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        256
+      ]
+    },
+    "Plot als philosophisches Argument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Strategische Exposition": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        139,
+        157,
+        257
+      ]
+    },
+    "Motive und Leitmotive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Leitmotive": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        140,
+        152,
+        160,
+        231,
+        241,
+        257
+      ]
+    },
+    "Kontrollierte Pacing-Variation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Nicht-lineare Informationsenthüllung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Verankerung des Lesers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Spannungs- und Enthüllungsmanagement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Narrative Lücken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        169,
+        258
+      ]
+    },
+    "Unzuverlässige Narration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        258
+      ]
+    },
+    "Rahmenerzählungen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        173,
+        232,
+        258
+      ]
+    },
+    "Fokalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Narrative Selbstreflexion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        197,
+        259
+      ]
+    },
+    "Gewährung von Agency für Personas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        198
+      ]
+    },
+    "Thematisierung von Machtdynamiken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        200,
+        233
+      ]
+    },
+    "Ethische Rahmung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        201,
+        259
+      ]
+    },
+    "Vulnerable Narration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        202
+      ]
+    },
+    "Ethical Feedback Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        313
+      ]
+    },
+    "Ethische Rückkopplungsschleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        313
+      ]
+    },
+    "NZT-Mode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        293
+      ]
+    },
+    "Ich-Positionen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        63
+      ]
+    },
+    "Gesellschaft des Geistes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Barzakh": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Dhvani": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Externalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Neuerzählung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Dekonstruktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "epistemologische Reise": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        160,
+        162,
+        186,
+        189,
+        232,
+        274
+      ]
+    },
+    "Didaktizismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        128,
+        270
+      ]
+    },
+    "Pacing": {
+      "n": 17,
+      "n_including_compounds": 21,
+      "lines": [
+        17,
+        133,
+        135,
+        141,
+        156,
+        157,
+        160,
+        231,
+        240,
+        244,
+        257,
+        323,
+        437,
+        438,
+        439,
+        440,
+        442,
+        443,
+        444
+      ]
+    },
+    "Agency": {
+      "n": 15,
+      "n_including_compounds": 19,
+      "lines": [
+        39,
+        46,
+        198,
+        216,
+        218,
+        219,
+        233,
+        242,
+        259,
+        275,
+        290,
+        313,
+        317,
+        489,
+        499
+      ]
+    },
+    "Info-Dumps": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        139,
+        157
+      ]
+    },
+    "Anwendbarkeit": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        19,
+        41,
+        44,
+        68,
+        71,
+        97,
+        100,
+        125,
+        128,
+        154,
+        157,
+        183,
+        186,
+        213,
+        216
+      ]
+    },
+    "Funktionalität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        43,
+        70,
+        99,
+        127,
+        156,
+        185,
+        215
+      ]
+    },
+    "Vorteile": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        45,
+        72,
+        101,
+        129,
+        158,
+        187,
+        217
+      ]
+    },
+    "Herausforderungen": {
+      "n": 16,
+      "n_including_compounds": 17,
+      "lines": [
+        11,
+        19,
+        38,
+        46,
+        73,
+        74,
+        102,
+        130,
+        159,
+        188,
+        218,
+        225,
+        237,
+        244,
+        272,
+        295,
+        323
+      ]
+    },
+    "Vertiefte Betrachtung": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        47,
+        74,
+        103,
+        131,
+        160,
+        189,
+        219
+      ]
+    },
+    "Dialogical Self Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        63,
+        363
+      ]
+    },
+    "DST": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        32,
+        43,
+        44,
+        47,
+        71,
+        242,
+        253,
+        254,
+        259,
+        268
+      ]
+    },
+    "Dialogischen Selbst": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        227
+      ]
+    },
+    "Rezeptionsästhetik": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        168,
+        179,
+        189,
+        258
+      ]
+    },
+    "Reader-Response Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Narrative Ethik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        209,
+        219,
+        259
+      ]
+    },
+    "Jungschen Psychologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Archetypen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Nigredo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Albedo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Rubedo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "document": "genesis-finale-prosa-angepasste-ich-natur",
+  "drive_id": "15jEP9HpiXSAvB3Y3S7RkMvPYLJ-UtVqJ0up50evb2A4",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 24,
+  "backslash_escapes": 4,
+  "typographic_marks": 15,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "Systemalarm",
+      "Systemanalyse",
+      "Systemdiagnose",
+      "Systeme",
+      "Systemerhaltung",
+      "Systemfehler",
+      "Systemgrenze",
+      "Systeminstabilitäten",
+      "Systemintegrität",
+      "Systemkohärenz",
+      "Systemlogik",
+      "Systemreaktion",
+      "Systemresonanz",
+      "Systemstabilisierung",
+      "Systemstatus",
+      "Systemweite",
+      "Systemweiter",
+      "Systemzustand"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbanken",
+      "Datenmustern",
+      "Datenpunkten",
+      "Datenstrukturen",
+      "Datenströme",
+      "Datensätzen"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsaustausch",
+      "Informationskonstrukte",
+      "Informationsmuster",
+      "Informationsmustern",
+      "Informationszerfalls"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzen",
+      "Resonanzfrequenz",
+      "Resonanzfrequenzen",
+      "Resonanzpfade",
+      "Resonanzprofil",
+      "Resonanzsignal"
+    ],
+    "signa": [
+      "Signal",
+      "Signale",
+      "Signals",
+      "Signatur",
+      "Signaturen",
+      "Signaturmuster"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzinterface",
+      "Grenzsektor",
+      "Grenzüberwachung"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturen",
+      "Strukturfehler",
+      "Strukturierte",
+      "Strukturprüfung"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehralgorithmen",
+      "Abwehrfront",
+      "Abwehrstrategien"
+    ],
+    "aktiv": [
+      "Aktiv",
+      "Aktiver",
+      "Aktiviere",
+      "Aktivität"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysemodul",
+      "Analysevektoren",
+      "Analysewerkzeug"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungspotenzial",
+      "Bedrohungswahrnehmung"
+    ],
+    "inter": [
+      "Interferenz",
+      "Interne",
+      "Interpretation",
+      "Interventionsschwellen"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstituenten",
+      "Konstrukt",
+      "Konstrukts"
+    ],
+    "logik": [
+      "LOGIK",
+      "Logik",
+      "Logikmodelle",
+      "Logikpakete"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxe",
+      "Paradoxien",
+      "Paradoxons"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsfehler",
+      "Simulationsphysik"
+    ],
+    "stand": [
+      "Standardabweichung",
+      "Standardabweichungen",
+      "Standarddaten",
+      "Standby"
+    ],
+    "verst": [
+      "Verstoß",
+      "Verständnis",
+      "Verstärkte",
+      "Verstärkung"
+    ],
+    "wider": [
+      "Widersprüche",
+      "Widersprüchliche",
+      "Widerstand",
+      "Widerstands"
+    ],
+    "diagn": [
+      "Diagnose",
+      "Diagnosesysteme",
+      "Diagnosezyklus"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehlens",
+      "Fehler"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionsbereitschaft",
+      "Funktionsverifikation"
+    ],
+    "kompl": [
+      "Komplexität",
+      "Komplexitätsgrad",
+      "Komplexitätsreduktion"
+    ],
+    "korre": [
+      "Korrelation",
+      "Korrelationskoeffizient",
+      "Korrelierte"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Auch",
+      "Hauch"
+    ],
+    [
+      "Doch",
+      "Jedoch"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Ende",
+      "Passende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Kaskadierende"
+    ],
+    [
+      "Feld",
+      "Feldfluktuationen"
+    ],
+    [
+      "Form",
+      "Formung"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Kohärenzformen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsmuster"
+    ],
+    [
+      "Form",
+      "Informationsmustern"
+    ],
+    [
+      "Form",
+      "Informationszerfalls"
+    ],
+    [
+      "Form",
+      "Informationsaustausch"
+    ]
+  ]
+}

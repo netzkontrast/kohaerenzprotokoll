@@ -1,0 +1,97 @@
+{
+  "document": "juna-v-exiliertes-ursprungs-ich",
+  "drive_id": "1Kd1GzGbaFDdN0FHZjBQXfPJ8-_CnxOahDfAKqbfL4fA",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 49,
+    "decisions": 47,
+    "decided_by_lookup": 39,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "juna",
+      "lines": [
+        22,
+        41,
+        71,
+        128,
+        129,
+        184
+      ],
+      "attribution": "",
+      "note": "Juna/V as the exiled part, in two models of where it is"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        38,
+        40,
+        46,
+        84,
+        173
+      ],
+      "attribution": "",
+      "note": "Kael as an inner system of parts, reintegration as the aim"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        161,
+        162,
+        187
+      ],
+      "attribution": "",
+      "note": "a physical basis proposed for the link"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        140,
+        200
+      ],
+      "attribution": "",
+      "note": "multiplicity set against integration"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 13,
+      "decision": "reading",
+      "why": "Juna/V as the exiled part of Kael's Ursprungs-Ich, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

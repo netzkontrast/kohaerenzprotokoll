@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      167
+  backslash escapes      112
+  typographic marks      61
+  ascii quotes           108
+
+# inflection families -- one term, several surfaces
+  kontr    Kontrast, Kontroll, Kontrollalgorithmen, Kontrollbemühungen, Kontrolle, Kontrolleur, Kontrollgrenzen, Kontrollierbarkeit, Kontrolliertem, Kontrollierter, Kontrollintensität, Kontrollmaßnahmen, Kontrollmechanismen, Kontrollobjekte, Kontrollprobleme, Kontrollprotokolle, Kontrollstrategien, Kontrolltheorie, Kontrollverlust, Kontrollverlusts, Kontrollversuch, Kontrollversuche
+  selbs    Selbst, Selbstbestimmung, Selbstbewegendem, Selbstbezogenheit, Selbstbezug, Selbstbezugs, Selbstbezüglichkeit, Selbsterhaltung, Selbstführung, Selbstunterminierende, Selbstwidersprüchen, Selbstzerstörung, Selbstzweifel
+  syste    System, Systemdynamik, Systeme, Systemen, Systemfehler, Systemische, Systems, Systemtheorie, Systemzustände
+  inter    Interaktion, Interaktionen, Interaktionsmuster, Interessant, Interessen, Interkonnektivität, Intervention, Interventionen
+  parad    Paradigma, Paradox, Paradoxe, Paradoxerweise, Paradoxes, Paradoxien, Paradoxon, Paradoxons
+  infor    Information, Informationen, Informationsbasierte, Informationsentropie, Informationsgehalt, Informationsleck, Informationstheorie
+  wisse    Wissen, Wissens, Wissensanspruchs, Wissensansprüchen, Wissenschaftstheorie, Wissensgrenzen, Wissenslücken
+  fehle    Fehlen, Fehlentscheidungen, Fehler, Fehlerhaftigkeit, Fehlern, Fehlers
+  poten    Potential, Potentialität, Potenzial, Potenzialen, Potenzielle, Potenziellen
+  daten    Daten, Datenanalyse, Datenpunkte, Datensammlung, Datensatz
+  integ    Integration, Integrationsprozess, Integrationsschritt, Integrationsversuche, Integrität
+  konfl    Konflikt, Konflikte, Konflikten, Konfliktlinien, Konfliktmotor
+  unvol    Unvollst, Unvollständigkeit, Unvollständigkeitssatz, Unvollständigkeitssätze, Unvollständigkeitssätzen
+  zusam    Zusammenbruch, Zusammenfassung, Zusammenführung, Zusammenhänge, Zusammenspiel
+  erken    Erkenntnis, Erkenntnisfähigkeit, Erkenntnisse, Erkenntnistheorie
+  erleb    Erleben, Erlebens, Erlebnisqualität, Erlebt
+  eskal    Eskalation, Eskalationen, Eskalationsspirale, Eskalierende
+  forsc    Forschungsauftrag, Forschungsbericht, Forschungsdokument, Forschungsprozess
+  ident    Identifying, Identitäten, Identitätsstruktur, Identitätsstörung
+  kernp    Kernparadoxien, Kernparadoxon, Kernparadoxons, Kernprogrammierung
+  konze    Konzept, Konzepte, Konzepten, Konzeption
+  model    Modell, Modelle, Modellen, Modells
+  probl    Problem, Problematik, Probleme, Problems
+  thema    Thema, Thematic, Thematisch, Thematische
+  tragi    Tragik, Tragisch, Tragische, Tragischen
+
+# substring pairs -- never one term, often merged by accident
+  Bild < Abbilder
+  Bild < Abbildung
+  Cons < Consequences
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Fall < Verfall
+  Fall < Zerfall
+  Fall < Fallstricken
+  Feld < Feldern
+  Feld < Bielefeld
+  Form < Information
+  Form < Formulierung
+  Form < Informationen
+  Form < Misinformation
+  Form < Transformation
+  Form < Informationsleck
+  Form < Informationsgehalt
+  Form < Informationstheorie
+  Form < Informationsbasierte

@@ -1,0 +1,14 @@
+# research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m
+  lines                1211  (frontmatter ends at 9)
+  body words           7959
+  headings             47   bold-only lines 30
+  table rows           17   code fences 0
+  question marks       40
+  backslash escapes    286
+  typographic marks    320   ascii quotes 180
+  invisible characters none
+  math symbol lines    17
+  glued ref numbers    92
+  repeated labels      How to apply it — step by step x5, What it is x5, When to stop / escape criterion x5, Why it is in this prompt x5, Example trigger in this research context x4
+  longest line         548 chars
+

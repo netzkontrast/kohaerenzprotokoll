@@ -1,0 +1,6 @@
+$ python3 scripts/read.py kohaerenz-protokoll-plot-synthese --count "Handlung"  -> 39
+$ ... --count "Konzept/Funktion" -> 39
+$ ... --count "M-Resonanz" -> 40
+stance_marker_count 118 = 39 + 39 + 40
+$ ... --count "Kapitel" -> 0 ; --count "Kap" -> 0
+Census counts as in 04-counts.txt (capture.py --count).

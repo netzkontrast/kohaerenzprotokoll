@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 90
-readings: 90
+sources: 106
+readings: 106
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-outline-1-13-fuer-kohaerenz-protokoll", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "projektplanung-fuer-kohaerenz-protokoll", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "detaillierte-kapiteluebersicht", "kuerze-rechercheauftrag-die-architektur-der-seel", "project-status-report-kohaerenz-protokoll-canonical-state-st", "roman-outline-kohaerenz-protokoll-uberarbeitung", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "ki-roman-architektur-kritische-analyse-methoden", "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "briefing-document-the-kohaerenz-protokoll-narrative-framewor", "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m", "charaktermodellierung-mit-aieos-schema", "analyse-des-romanprojekts-kohaerenz-protokoll", "narrative-kernentwicklung-aegis-und-system-kael", "kael-system-tsdp-analyse-und-profile"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "the-sensory-rulebook-the-body-as-a-measuring-device-in-the-p", "charakter-kompilation-fuer-kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-projekt-rekonstruktion", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-konzept-kohaerenz-protokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-listen-der-tropes-subplots-konzepte", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "welt", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "roman-outline-1-13-fuer-kohaerenz-protokoll", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "project-coherence-protocol-a-canon-of-core-identity-and-anta", "projektplanung-fuer-kohaerenz-protokoll", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "detaillierte-kapiteluebersicht", "kuerze-rechercheauftrag-die-architektur-der-seel", "project-status-report-kohaerenz-protokoll-canonical-state-st", "roman-outline-kohaerenz-protokoll-uberarbeitung", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "ki-roman-architektur-kritische-analyse-methoden", "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "briefing-document-the-kohaerenz-protokoll-narrative-framewor", "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m", "charaktermodellierung-mit-aieos-schema", "analyse-des-romanprojekts-kohaerenz-protokoll", "narrative-kernentwicklung-aegis-und-system-kael", "kael-system-tsdp-analyse-und-profile", "kohaerenz-protokoll-the-official-master-story-guide-2", "the-coherence-protocol-a-narrative-mosaic", "kernwelten-und-fragmentierte-wahrnehmung", "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat", "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le", "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua", "strategic-narrative-analysis-forging-a-compelling-story-from", "aegis-und-der-kollaps-kritische-analyse", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "dramatica-storyform-synthese-aegis-verortung", "kohaerenz-protokoll-synthese", "a-guide-to-the-society-of-self-understanding-system-kael", "heilung-der-verlust-von-superkraeften", "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho", "the-true-coherence-protocol-architecting-kaels-journey-from"]
 gathered: "2026-09-24"
 ---
 
@@ -26,6 +26,10 @@ Among the parts the report hedges: „Ihre Beziehung zu Isabelle könnte komplex
 
 On Juna/V: „Die Verbindung zu Juna/V ist für sie wahrscheinlich hochgradig ambivalent“ ^[kael-system-tsdp-analyse-und-profile.md:L261].
 
+## Reading — `tsdp-analyse-kohaerenz-protokoll-charaktere`, 2025-04-28, the TSDP tension analysis — Lia as a child EP of flight and ambivalent attachment
+
+The TSDP tension analysis counts Lia among the EPs, as „Lia (Flucht/Bindungsambivalenz)“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L45]. The profile (section 4.5) opens with a hedge and the brief's marker: „Lia ist ein weiterer kindlicher EP, der möglicherweise ein spezifisches Trauma im Zusammenhang mit Vertrauensbruch trägt“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L246]. Her action systems are named as flight, play in safety and ambivalent attachment behaviour. On relations: „Lias Ambivalenz erschwert stabile Beziehungen“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L247]. For integration: „Lia benötigt konsistente, verlässliche und sichere Beziehungen“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L248].
+
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Lia as an EP: ambivalence in KW2, play and creativity in KW4
 
 The world concept pairs Lia with Kiko as an EP threatened in KW1 and KW3: „Kiko und Lia (deren Bedürfnisse ignoriert werden)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L39]. In KW2 it names her: „Lia (Ambivalenz)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L60]. In KW4 she is addressed by the creative parts: „Lia (Spiel, Kreativität)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L104]. In the Externe Ebene a positive resonance is „wahrscheinlich“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L61] for „Kiko/Lia (Suche nach Sicherheit/Annahme)“ ^[weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert.md:L151].
@@ -37,6 +41,10 @@ The concept heads Lia „EP - Kind, Flucht/Bindungs-Ambivalenz“ ^[erlebniswelt
 ## Reading — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list — Lia as closeness against fear
 
 The hundred concepts list names „Lia (Kind-EP - Ambivalenz)“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L41] and gives as reason: „Verkörpert den Konflikt Nähe vs. Angst; bringt Kreativität/Spiel ins System.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L41] The fourth Kernwelt is called „Domäne von Lia/Rhys/Selene“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L72].
+
+## Reading — `kernwelten-und-fragmentierte-wahrnehmung`, 2025-04-29, the perception report — an EP, invalidated in KW1, play in KW4
+
+The perception report sorts Lia among the EPs, citing its `User Query Context`: „Dies prägt das Erleben von Nyx, Kiko, Lia, Isabelle und Moros.“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L94]. Of KW1 it proposes „während sie EPs (Kiko, Lia) oder emotional orientierte ANPs (Rhys) invalidiert oder unterdrückt“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L105], and lists play in KW4 among possible actions: „Verbinden (Rhys), Spielen (Lia), Reflektieren (Argus, Selene), aber auch Zerstören aus Angst (Nyx?), Erstarren angesichts der Möglichkeiten (Moros), Planen und Strukturieren des Potenzials (Lex, Kael).“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L269].
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Lia named once, as an EP with Kiko
 
@@ -146,6 +154,22 @@ The architecture analysis's table types her plainly as EP and writes her functio
 
 The blueprint's first part lists „Lia (Ambivalent)“ ^[narrative-blueprint-the-coherence-protocol.md:L47], „An EP associated with ambivalent attachment patterns“ ^[narrative-blueprint-the-coherence-protocol.md:L47]. Its thematic foundation's roster table types her „EP (Ambivalent-Attachment)“ ^[narrative-blueprint-the-coherence-protocol.md:L258] (L258).
 
+## Reading — `kohaerenz-protokoll-the-official-master-story-guide-2`, 2025-10-15, the Master Story Guide — classification in the alter table
+
+The Master Story Guide, an unsigned English design guide, tabulates `Lia` in its table of alters with the classification cell „EP (Child/Ambivalent-Reaktion) - Holds trauma related to trust and attachment.“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L133] The table's own claim about itself is „the ground truth for all narrative and character development“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L121] (the guide's claim, not applied here).
+
+## Reading — `briefing-the-archon-framework-and-kohaerenz-protokoll-narrat`, 2025-10-15, the ARCHON briefing — the child/ambivalent EP with trust trauma
+
+In the roster of the ARCHON briefing, Lia is „EP (Child/Ambivalent-Reaktion)“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L91], holding trauma related to trust (L91).
+
+## Reading — `a-guide-to-the-society-of-self-understanding-system-kael`, 2025-10-15, the society guide — Lia as another child alter, emerging through Juna/V
+
+The society guide opens its Lia entry: „Lia is another child alter, but she holds trauma related to trust and intimacy.“ ^[a-guide-to-the-society-of-self-understanding-system-kael.md:L93] It places her emergence at a connection: it „is triggered by the hopeful connection to Juna/V“ ^[a-guide-to-the-society-of-self-understanding-system-kael.md:L97].
+
+## Reading — `heilung-der-verlust-von-superkraeften`, 2025-10-16, the Superkräfte dossier — Lia among the child parts Nyx protects
+
+The Superkräfte dossier names Lia once, as one of the vulnerable child parts that Nyx guards: „Seine Kernfunktion und Identität bestehen darin, die verletzlichen kindlichen Anteile wie Kiko und Lia um jeden Preis zu schützen“ ^[heilung-der-verlust-von-superkraeften.md:L111]. No section is about Lia.
+
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — its row in the Master Profile of Alters
 
 In the Definitive Guide's „Master Profile of Alters“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L119], the row of `Lia` gives: type EP; TSDP action system „Flight, Play, Ambivalent Attachment“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L130]; core motivation and fear „Desire for closeness; Fear of injury and betrayal.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L130]; central conflicts and relationships „Ambivalent behavior complicates stable relationships; Mistrust vs. longing.“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L130]. The table is the guide's own, in English with the German column head „Anteil (Alter)“ ^[the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch.md:L123]; this is what the row says and nothing is added from other documents.
@@ -182,6 +206,30 @@ The project analysis (an unsigned essay; its `Kapitel` are its own sections) typ
 
 The development dossier names Lia once, in its roster of the parts the cited analysis identifies: „fünf EPs (Nyx, Kiko, Lia, Isabelle, Moros)“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L83]. It says nothing further of her.
 
+## Reading — `the-coherence-protocol-a-narrative-mosaic`, 2025-11-03, the narrative mosaic brief — a roster line for the point of view
+
+The narrative mosaic brief characterises Lia in its roster as „embodying ambivalence, play, and a conflicting desire for and fear of closeness“ ^[the-coherence-protocol-a-narrative-mosaic.md:L31]. It is a brief for stories not written; the roster characterises points of view.
+
+## Reading — `thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le`, 2025-11-03, the conceptual lexicon — Lia among the EPs
+
+The core TSDP table of the conceptual lexicon lists `Lia` among the Emotional Parts, glossed „(Flight)“ ^[thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le.md:L78], in the column „Examples (Alters)“ ^[thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le.md:L76].
+
+## Reading — `the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua`, 2025-11-03, the lexicon of core dualities — Lia in the lexicon's alter table
+
+The lexicon's alter table lists Lia as „EP (Child)“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L110] (L110), with the action system including „Ambivalent Attachment“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L110] (L110).
+
+## Reading — `strategic-narrative-analysis-forging-a-compelling-story-from`, 2025-11-03, the strategy memo — a healer in KW4
+
+The strategy memo places Lia in KW4: „The domain of the healer and relational parts“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L28], with Rhys and the core Self, Selene.
+
+## Reading — `systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho`, 2025-11-03, the systemic-warfare guide — Lia as the creative part in the proposed Logic Hack
+
+In Scenario 1, The Logic Hack, the systemic-warfare guide proposes that exploiting the flaw „requires a non-linear, intuitive insight provided by a creative part like“ ^[systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho.md:L77] Lia. Lia is named only here, as a proposal.
+
+## Reading — `the-true-coherence-protocol-architecting-kaels-journey-from`, 2025-11-03, the True-Coherence protocol — Lia as the Flight response
+
+The roster of the True-Coherence protocol lists Lia as an EP: „Embodies the 'Flight' defense response.“ ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:L41] Lia „holds the system's panic and desperate urge to escape overwhelming situations“ ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:L41]; in the Mnemosyne-Archipel the Host experiences the frantic urge to escape held by Lia (L90).
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — Lia as an EP, the fact of loss
 
 In Table 1 of the truth-duality paper, Lia is an EP with the function „Sehnsucht, Bindungstrauma“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L69] and the philosophical correspondence „Rohe Korrespondenz-Wahrheit (Der Fakt des Verlusts)“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L69].
@@ -193,6 +241,10 @@ The planning report writes `Lia` once, in the psychological correspondence of th
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Lia as an exiled child part
 
 The three-part analysis names Lia once among the wounded child parts, „der verletzten Kind-Anteile wie *Kiko* oder *Lia*“ ^[romanstruktur-und-philosophische-einleitung.md:L55] and once in Table 1 with Kiko, as „Exilanten (Kinder)“ ^[romanstruktur-und-philosophische-einleitung.md:L128]
+
+## Reading — `narrative-architecture-dossier-coherence-protocol`, 2026-01-02, the architecture dossier — Lia in the cast table
+
+In the architecture dossier's cast table Lia is an EP who „Holds the pain of abandonment and betrayal“ ^[narrative-architecture-dossier-coherence-protocol.md:L72].
 
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — an EP in the 13-entity roster
 
@@ -230,6 +282,10 @@ The document names `Lia` ^[ki-narrative-kollaps-kohaerenz-paradoxie.md:#1] only 
 
 The critical-methods framework reports, from its reference 1, Lia only in its table of EP sub-entities, „Nyx, Kiko, Lia, Moros, Isabelle“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L129], and as a receiver of the Moonshine-Link, which sends resonances „direkt an die empfänglichen EPs (wie Kiko oder Lia)“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L146]. The prose list of the EPs at L119 does not name her; the handbook gives her no description.
 
+## Reading — `aegis-und-der-kollaps-kritische-analyse`, 2026-03-01, the critical analysis — Lia among the Emotional Parts AEGIS would delete
+
+The critical analysis names `Lia` ^[aegis-und-der-kollaps-kritische-analyse.md:#1] once, beside `Kiko`, as a vulnerable, fear-dominated child part among the Emotional Parts. Of these parts it writes that they „werden von der künstlichen Intelligenz als Vektoren der Instabilität betrachtet, die gelöscht werden müssen“ ^[aegis-und-der-kollaps-kritische-analyse.md:L97].
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — OQ-07 on the peripheral alters Lia and Oblivion
 
 OQ-07 (NICE-TO-HAVE) notes: the names `Lia` and `Oblivion` „tauchen in frühen Konzeptlisten auf“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L247], with no profile of their own unlike Rhys or Moros, and asks whether they should be removed or given minor functional roles. A question, not a claim.
@@ -252,6 +308,10 @@ Row F-04 lists Lia without a role: „Das System Kael besteht aus Lex (Logik), N
 
 The Dual-Kernel analysis names Lia last in its list of Emotional Parts and says she „repräsentiert die Flucht“ ^[dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor.md:L113]. It reports this of the Protokoll (reference 1).
 
+## Reading — `kohaerenz-protokoll-synthese`, 2026-04-28, the final validation brief — Lia among the narrators of the alters
+
+Appendix G lists, among the means of the text, „unreliable and conflicting narrators representing the different psychological alters (Lex, Nyx, Kiko, Lia)“ ^[kohaerenz-protokoll-synthese.md:L169]. The final validation brief gives no further line to Lia.
+
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — one of four modules
 
 The audit names the page's alter only inside the group of four: „The alters— Lex, Nyx, Kiko, and Lia —must be treated as discrete functional modules.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L12] At the climax the group stands again: „When Kael drops the amnesic barriers between Lex, Nyx, Kiko, and Lia, he becomes a mutual-information-dense structure.“ ^[technical-audit-research-mandate-the-kohaerenz-protokoll-fra.md:L38] It gives no role or trait of its own to any of the four.
@@ -273,6 +333,10 @@ In its alter table (L44–L55, columns `Alter Name`, `TSDP-Aktionssystem`, `Funk
 ## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — Lia in the ten-alter table: care, internal regulation of the system
 
 The row for Lia reads „Lia | Fürsorge | Stabilitäts-Erhalt | Interne System-Regulation“ ^[romanprojekt-analyse-synthese.md:L80]. `Flucht` ^[romanprojekt-analyse-synthese.md:#1] stands once in the document, on Kiko's row; Lia's action system is care. The row is one of the table the synthesis calls „Das valide Alter-Profil (Reset 2026-04-30)“ ^[romanprojekt-analyse-synthese.md:L68]; its claim to be valid is its own, recorded and not applied.
+
+## Reading — `dramatica-storyform-synthese-aegis-verortung`, 2026-04-30, the AEGIS placement synthesis — among the emotional parts
+
+The AEGIS placement synthesis names Lia among the emotional parts, „im Text durch die spezifischen Entitäten Lex, Nyx, Kiko und Lia repräsentiert“ ^[dramatica-storyform-synthese-aegis-verortung.md:L53], which store the unintegrated trauma data.
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

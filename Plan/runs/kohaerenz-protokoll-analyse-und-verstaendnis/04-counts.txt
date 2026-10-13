@@ -1,0 +1,78 @@
+# counts for 51 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     3 in   [13, 17, 236]
+  Cache Coherence Protocol          7 word     9 in   [17, 236, 251, 255, 262, 275]
+  Cache-Kohärenz                   21 word    36 in   [13, 17, 21, 25, 29, 47]
+                                   10      as Cache-Kohärenzprotokolle
+                                    4      as Cache-Kohärenzprotokollen
+                                    1      as Cache-Kohärenzprotokolls
+  Cache-Kohärenzprotokolle         10 word    14 in   [17, 21, 29, 51, 59, 61]
+                                    4      as Cache-Kohärenzprotokollen
+  Kohärenzprotokolle                5 word    25 in   [11, 17, 21, 29, 51, 59]  <-- substring
+                                    6      as Kohärenzprotokollen
+  Dateninkonsistenz                 3 word     3 in   [19, 21, 236]
+  Shared Memory                     2 word     2 in   [29, 301]
+  Cache-Zeile                      14 word    17 in   [63, 64, 78, 83, 91, 95]
+                                    3      as Cache-Zeilen
+  Hauptspeicher                    12 word    14 in   [17, 21, 25, 63, 104, 105]
+                                    2      as Hauptspeichers
+  Interconnect                      2 word    11 in   [25, 64, 65, 77, 168, 176]  <-- substring
+                                    3      as Interconnects
+                                    2      as Interconnect-Netzwerk
+                                    2      as Interconnect-Topologie
+                                    1      as Interconnect-Medium
+  Snooping-basierte Protokolle      2 word     2 in   [75, 236]
+  Verzeichnis-basierte Protokolle    3 word     3 in   [73, 81, 236]
+  Directory                        15 word    18 in   [66, 81, 83, 84, 85, 87]
+                                    1      as Directory-based
+                                    1      as Directory-Verantwortung
+  Home Node                         1 word     1 in   [84]
+  Snoop-Filter                      1 word     2 in   [87, 210]
+                                    1      as Snoop-Filtern
+  Zustandsverfolgung                1 word     1 in   [63]
+  Kohärenz-Invarianten              1 word     1 in   [67]
+  Write-Invalidate-Protokoll        1 word     1 in   [78]
+  Write-Update-Protokoll            1 word     1 in   [78]
+  MESI-Protokoll                    5 word     6 in   [63, 97, 99, 100, 111, 120]
+                                    1      as MESI-Protokolls
+  MESI                             10 word    21 in   [63, 78, 95, 97, 99, 100]  <-- substring
+                                    5      as MESI-Protokoll
+                                    2      as MESIF
+                                    1      as MESI-Protokolls
+                                    1      as MESI-Zustandsübergangstabelle
+  MSI                               6 word     7 in   [78, 95, 99, 156, 157, 176]
+  MOSI                              2 word     2 in   [157, 158]
+  MOESI                             4 word     4 in   [78, 95, 158, 240]
+  MESIF                             2 word     2 in   [159, 240]
+  Modified (M)                      2 word     2 in   [104, 138]
+  Exclusive (E)                     2 word     2 in   [105, 140]
+  Shared (S)                        2 word     2 in   [106, 142]
+  Invalid (I)                       2 word     2 in   [107, 144]
+  Bus Read (BusRd)                  1 word     1 in   [115]
+  Bus Read Exclusive (BusRdX)       1 word     1 in   [116]
+  Flush / Writeback                 1 word     1 in   [117]
+  Invalidate Signal                 1 word     1 in   [118]
+  Token Coherence                   3 word     3 in   [165, 240, 263]
+  Delta Coherence                   3 word     3 in   [166, 240, 291]
+  Interconnect-Aware Protokolle     1 word     1 in   [168]
+  WiDir                             4 word     4 in   [169, 227, 240, 285]
+  POPS                              2 word     2 in   [170, 292]
+  Rainbow                           5 word     6 in   [171, 210, 240, 286, 293]
+  RCP                               4 word     4 in   [172, 219, 240, 295]
+  Reversible Coherence Protocol     5 word     5 in   [172, 219, 294, 295, 296]
+  Ghostwriter                       4 word     4 in   [173, 225, 240, 275]
+  SELCC                             3 word     3 in   [174, 226, 240]
+  Speicherkonsistenzmodell          1 word     3 in   [180, 183, 240]  <-- substring
+                                    1      as Speicherkonsistenzmodelle
+                                    1      as Speicherkonsistenzmodellen
+  Synchronisationsprimitive         3 word     7 in   [186, 189, 190, 192, 211, 240]  <-- substring
+                                    4      as Synchronisationsprimitiven
+  Approximative Kohärenz            1 word     1 in   [225]
+  Kohärenz für disaggregierten Speicher    1 word     1 in   [226]
+  Delegation                        4 word     4 in   [167, 170, 209]
+  Dekohärenz                        1 word     1 in   [37]
+  Kohärenzfunktion                  2 word     2 in   [41, 45]
+  Skalierbarkeitsengpässe           1 word     1 in   [198]

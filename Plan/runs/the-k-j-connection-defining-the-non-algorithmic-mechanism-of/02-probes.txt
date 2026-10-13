@@ -1,0 +1,19 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      44
+  typographic marks      16
+  ascii quotes           58
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemic, Systems
+  archi    Architectural, Architecture
+  integ    Integration, Integrity
+  logic    Logic, Logics
+  synth    Synthesis, Synthesizing
+  vulne    Vulnerabilities, Vulnerability
+
+# substring pairs -- never one term, often merged by accident
+  Logic < Logics
+  System < Systems
+  System < Systemic

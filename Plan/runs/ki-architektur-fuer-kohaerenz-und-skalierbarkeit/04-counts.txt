@@ -1,0 +1,66 @@
+# counts for 53 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Contextual Feature Drift (CFD)    3 word     3 in   [15, 21, 23]
+  Contextual Feature Drift          5 word     5 in   [15, 21, 23, 304, 305]
+  Schneeballeffekt                  3 word     3 in   [27, 29, 282]
+  Kooperative Falle                 1 word     1 in   [27]
+  Vakuum der Verantwortung          1 word     1 in   [31]
+  Exogenen Neuro-Symbolischen Architektur    1 word     1 in   [17]
+  Exogene Neuro-Symbolische Architektur    1 word     1 in   [278]
+  Exogenen Ontologie                1 word     1 in   [49]
+  Formstabilisierung                4 word     4 in   [17, 53, 55, 282]
+  Vortex                            2 word     3 in   [17, 55, 287]
+                                    1      as Vortex-Architektur
+  Pulsar Field                      2 word     2 in   [198, 200]
+  Productive Friction               1 word     1 in   [204]
+  Neuro-Symbolische KI (NeSy)       1 word     1 in   [68]
+  Neuro-Symbolische KI              1 word     1 in   [68]
+  NeSy                              1 word     2 in   [68, 72]
+                                    1      as NeSy-Architektur
+  METATRON-Framework                3 word     3 in   [17, 77, 79]
+  Hierarchisches Multi-Agenten-System (HMAS)    1 word     1 in   [184]
+  HMAS                              1 word     1 in   [184]
+  AgentOrchestra                    3 word     3 in   [186, 188, 319]
+  Hierarchische Wissensgraphen      2 word     2 in   [152, 166]
+  Föderierte Wissensgraphen         1 word     1 in   [266]
+  Temporal GraphRAG (TG-RAG)        1 word     1 in   [160]
+  TG-RAG                            1 word     1 in   [160]
+  Survival Functions                3 word     3 in   [176, 178, 281]
+  Schema-Constrained Generation     2 word     2 in   [210, 212]
+  Constraint Satisfaction           1 word     1 in   [208]
+  LLM-as-Extractor                  1 word     1 in   [262]
+  WorldMM-Modell                    1 word     1 in   [244]
+  Insight Layer                     1 word     1 in   [97]
+  Der Direktor (Orchestrator)       1 word     1 in   [193]
+  Der Ontologe (Knowledge Keeper)    1 word     1 in   [194]
+  Die Autoren (Specialists)         1 word     1 in   [195]
+  Der Kritiker (Evaluator)          1 word     1 in   [196]
+  Retrieval Agent                   1 word     1 in   [254]
+  Coherence Filter                  1 word     1 in   [84]
+  Attribute-Value Matrix (AVM)      1 word     1 in   [82]
+  Symbolic Scaffolding              1 word     1 in   [79]
+  Source of Truth                   4 word     4 in   [15, 33, 272, 279]
+  Druck (Pressure)                  2 word     2 in   [59, 296]
+  Sprung (Leap)                     1 word     1 in   [298]
+  Schwerkraft (Gravity)             1 word     1 in   [300]
+  Stabilisierung                    2 word     4 in   [62, 64, 299]
+                                    1      as Stabilisierungsschritt
+                                    1      as Stabilisierungsmaschine
+  Context Engineering               2 word     2 in   [270, 309]
+  Systemic Stewardship              1 word     1 in   [270]
+  Korrespondenztheorie              2 word     2 in   [41, 43]
+  Kohärenztheorie                   3 word     3 in   [39, 41, 45]
+  Constitutional AI                 3 word     3 in   [118, 329, 330]
+  SHACL                            11 word    17 in   [17, 51, 99, 120, 122, 124]
+                                    2      as SHACL-Shape
+                                    1      as SHACL-Constraint
+                                    1      as SHACL-Code
+                                    1      as SHACL-Constraints
+  Drammar                           1 word     1 in   [114]
+  OntoMedia                         3 word     4 in   [115, 326, 327]
+  BBC Storyline Ontology            1 word     1 in   [116]
+  Episodisches Gedächtnis           1 word     1 in   [246]
+  Semantisches Gedächtnis           1 word     1 in   [247]

@@ -1,0 +1,14 @@
+# romanarchitektur-validierung-und-synthese
+  lines                423  (frontmatter ends at 9)
+  body words           8239
+  headings             33   bold-only lines 15
+  table rows           35   code fences 0
+  question marks       30
+  backslash escapes    138
+  typographic marks    43   ascii quotes 138
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    85
+  repeated labels      Zusammenfassung x8
+  longest line         1504 chars
+

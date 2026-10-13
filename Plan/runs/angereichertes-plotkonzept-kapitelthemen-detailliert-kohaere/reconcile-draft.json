@@ -1,0 +1,219 @@
+{
+  "document": "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere",
+  "drive_id": "1wpinE3w2X9-wfqiW6wybvrtIaEm72zPDk0_ZUw7mmB0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 86,
+    "decisions": 83,
+    "decided_by_lookup": 60,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        22,
+        24,
+        54,
+        73,
+        78
+      ],
+      "attribution": "",
+      "note": "AEGIS as the autopoietic AI, a faulty controller, and the system that cracks"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        22,
+        52,
+        60,
+        72
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as faulty caches, and three chapters keyed to the metaphor"
+    },
+    {
+      "page": "did",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "DID as the process of Kael's fragmentation in Kapitel 4"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        24,
+        65,
+        69
+      ],
+      "attribution": "",
+      "note": "Kael seeds simple rules in the Ly-Welt, and Teil 3 is titled for Emergenz"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "the resolution's possibly low-entropy form of existence in Kapitel 39"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        22,
+        24,
+        55,
+        71,
+        79
+      ],
+      "attribution": "",
+      "note": "Juna as support, shared perception and mediator of an intuitive insight"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        22,
+        39,
+        40,
+        58,
+        74,
+        79
+      ],
+      "attribution": "",
+      "note": "Kael as M's avatar, fragmented, confronting his shadow, fused and integrated"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        15,
+        17,
+        18,
+        19,
+        20,
+        70,
+        74
+      ],
+      "attribution": "",
+      "note": "20 Kernwelten, four in focus, the other 16 and the leaks between worlds"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        22,
+        76
+      ],
+      "attribution": "",
+      "note": "the K-J link as Moonshine-Link and its culmination as a stable channel"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        15,
+        36,
+        79
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as unstable meta-space, shown in Kapitel 1 and changed at the end"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        26,
+        47,
+        54
+      ],
+      "attribution": "",
+      "note": "AEGIS' system with visible Risse, the cascading corruption, and Teil 2's title"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 30,
+      "decision": "occurrence",
+      "why": "a theme word in the Kernthemen line"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

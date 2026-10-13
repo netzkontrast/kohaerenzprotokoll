@@ -1,0 +1,187 @@
+{
+  "document": "kohaerenz-protokoll-plot-konzept-generierung",
+  "drive_id": "10okAA7VzLtf4oLE5TqM6EyKOGzUPg9f2QN-i2jLyFnA",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 65,
+    "decisions": 72,
+    "decided_by_lookup": 51,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        29,
+        73,
+        79,
+        92,
+        109,
+        139
+      ],
+      "attribution": "",
+      "note": "AEGIS as a fragile, negation-defined AI, cast differently in each synopsis"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        36,
+        44,
+        50,
+        131
+      ],
+      "attribution": "",
+      "note": "the alters read through IFS vocabulary, tied hypothetically to the Kernwelten"
+    },
+    {
+      "page": "did",
+      "lines": [
+        42,
+        46
+      ],
+      "attribution": "",
+      "note": "DID as AEGIS's analytic tool"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        17,
+        52,
+        73
+      ],
+      "attribution": "",
+      "note": "the K-J link as emergence from AEGIS's own substrate"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        17,
+        28
+      ],
+      "attribution": "",
+      "note": "entropy as a property of the Potentialmeer"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        17,
+        31,
+        51,
+        92,
+        174
+      ],
+      "attribution": "",
+      "note": "Juna as the complementary pole of a Baby-Monster pair"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        42,
+        46,
+        62,
+        174
+      ],
+      "attribution": "",
+      "note": "Kael as a fragmented manifestation of M, with DID as AEGIS's tool"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        17,
+        33,
+        50,
+        129,
+        137
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as simulation labs, and as sites of bleeding"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        32,
+        52,
+        81,
+        102,
+        137
+      ],
+      "attribution": "",
+      "note": "the K-J link as emergent Moonshine"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        17,
+        28,
+        92,
+        148
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as background threat"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "Risse as system errors from AEGIS's self-contradiction"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "decision": "reading",
+      "why": "the Potentialmeer of high entropy"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 52,
+      "decision": "occurrence",
+      "why": "AEGIS's simulation of the worlds, read on kern-welten"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

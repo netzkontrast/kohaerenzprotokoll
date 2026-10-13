@@ -1,0 +1,96 @@
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Entwurf"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Entwurf` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#6]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Plan"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Plan` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#2]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Vignette"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            28
+
+`Vignette` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#22]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Vignetten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Vignetten` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#5]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Kohärenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Kohärenz` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#4]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Kapitel"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            12
+
+`Kapitel` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#6]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Architectural Storytelling"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Architectural Storytelling` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#6]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Setting as Character"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Setting as Character` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#3]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Reboots"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Reboots` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#4]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Transitsystems"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Transitsystems` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#2]
+
+$ python3 scripts/read.py kapitel-eins-welterkundung-konstrukt-stadt --count "Kapseln"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kapseln` ^[kapitel-eins-welterkundung-konstrukt-stadt.md:#3]
+
+stance_marker_count 8 = Entwurf 6 + Plan 2 (whole word, case-sensitive)
+$ grep -c '^## ' Sources/drive/kapitel-eins-welterkundung-konstrukt-stadt.md  (roman sections I-V)
+13:## **I. Einleitung**
+17:## **II. Analyse Narrativer Techniken für die Konstrukt-
+49:## **III. Detaillierter Kapitelplan (Struktur & Vignetten
+107:## **IV. Ausformulierter Kapitelentwurf (Detaillierte Na
+187:## **V. Schlussbemerkungen**
+$ grep -c "^| [0-9]* |" (vignette table rows)
+16
+$ numbered path stations
+9
+table header columns: 7 (L81)
+  lines                232  (frontmatter ends at 9)
+  headings             7   bold-only lines 15
+  math symbol lines    0
+  glued ref numbers    80
+
+# corrections to the two structure greps above: the first table match, L79, is the empty header row, so the vignette rows are L82 to L96 = 15; the numbered path stations (grep -cE '^[0-9]+\. +\*\*') = 15.
+# technique blocks A to G in section II: L21, L25, L29, L33, L37, L41, L45 = 7 (read in the document); roman sections I to V = 5 (grep above)

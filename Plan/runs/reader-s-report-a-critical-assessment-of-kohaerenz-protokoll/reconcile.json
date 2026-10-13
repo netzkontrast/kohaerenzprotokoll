@@ -1,0 +1,210 @@
+{
+  "document": "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll",
+  "drive_id": "1FdJMaWnCQTILJZE8-7Xvm2RXyZALZG85IBxHIk8NumU",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-366/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 48,
+    "decided_by_lookup": 40,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English publisher-focused reader's report: its new surfaces are its own labels and borrowed concepts; what it reports of AEGIS, the alters, Juna/V, Kael, the Kernwelten, the Moonshine-Link, the Potentialmeer, the Nichts Rauschen, TSDP and the living Gödel-Satz went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        15,
+        17
+      ],
+      "attribution": "",
+      "note": "the antagonist as a tragic figure and a logic of exclusion"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        13
+      ],
+      "attribution": "",
+      "note": "Alex in the report's mapping of the Kernwelten"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "the recommendation that Juna/V's guidance make Kael a living Gödel-Satz"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        33,
+        46
+      ],
+      "attribution": "",
+      "note": "Juna/V as catalyst, with the report's warning and its recommendation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        15,
+        29,
+        31
+      ],
+      "attribution": "",
+      "note": "Kael as the protagonist of a unified architecture and the stakes of failure"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        13,
+        43
+      ],
+      "attribution": "",
+      "note": "the report's mapping of the Kernwelten to Kael's alters"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        44,
+        45
+      ],
+      "attribution": "",
+      "note": "Kiko as the child-alter of a terror, among the alters to develop"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        13,
+        45,
+        46
+      ],
+      "attribution": "",
+      "note": "Lex as the rational world's alter, and a suggested secret"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as Juna/V's connection to Kael"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Moros as an example of the narrative risk of many parts"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        29,
+        44
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the report's image of final erasure"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        13,
+        45
+      ],
+      "attribution": "",
+      "note": "Nyx as a protector in the mapping and as the subject of a suggestion"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        29,
+        44
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as the report's concrete stake of failure"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        13,
+        45
+      ],
+      "attribution": "",
+      "note": "Rhys in the mapping and among the alters to develop"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        13
+      ],
+      "attribution": "",
+      "note": "Selene in the report's mapping of the Kernwelten"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        5,
+        27,
+        31
+      ],
+      "attribution": "",
+      "note": "TSDP as the foundation the report praises and as a risk of abstraction"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Genesis-Krise` read on aegis as its trauma; `Juna/V` read on juna; `Moros (Kollaps-EP)` read on moros; `Kernwelten`/`Kernwelt` read on kern-welten; `Guardian` a generic example; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 45,
+      "decision": "occurrence",
+      "why": "the plural in a recommendation, not the page's sense"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 33,
+      "decision": "reading",
+      "why": "Juna/V as the catalyst, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "KW1–KW4, Paradoxon X, Gnostic Injections, Unified Protagonist Architecture, Protocol Ontology, Overhead and Emotional Parts as labels",
+    "the borrowed concepts (theories of truth, operational closure, autopoiesis, Environmental Storytelling, Deus ex Machina)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

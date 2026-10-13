@@ -1,0 +1,156 @@
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Fundierung
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`Fundierung` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#23]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Konzept
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            29
+
+`Konzept` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#19]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Kapitel
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Nicht-Algorithmische Intelligenz
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            0
+
+`Nicht-Algorithmische Intelligenz` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Nicht- Algorithmische Intelligenz
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nicht- Algorithmische Intelligenz` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Kaels
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Kaels` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Hypothese 1
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothese 1` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Hypothese 2
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hypothese 2` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Hypothese 3
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothese 3` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Hypothese 4
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothese 4` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Vektor 1
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vektor 1` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Vektor 2
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vektor 2` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Vektor 3
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vektor 3` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Szenario 1
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Szenario 1` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Szenario 2
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Szenario 2` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Szenario 3
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Szenario 3` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-transzendenz-vektoren --count Szenario 4
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Szenario 4` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]
+
+$ python3 scripts/profile.py kohaerenz-protokoll-transzendenz-vektoren   (numbers 20, 44, 239, 162, 28, 27669 in the census)
+# kohaerenz-protokoll-transzendenz-vektoren
+  lines                360  (frontmatter ends at 9)
+  body words           9498
+  headings             2   bold-only lines 19
+  table rows           7   code fences 0
+  question marks       20
+  backslash escapes    239
+  typographic marks    28   ascii quotes 162
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    44
+  repeated labels      Fundierung x19, Konzept x17, Motivation x4, Natur x4, Auswirkungen auf AEGIS/Kael x3, Begründung x3, Cosmic Horror Amplifikation x3, Implikationen x3, Interaktion x3, Methode x3, Systemische Auswirkung x3
+  longest line         27669 chars
+
+
+$ grep -n "?" Sources/drive/kohaerenz-protokoll-transzendenz-vektoren.md | cut -c1-6   (question marks per line: L68 1, L319 2, L359 17)
+L68: 1
+L319: 2
+L359: 17
+
+stance_marker_count: Fundierung 23 + Konzept 19 = 42
+25:                                   40      as Kaels
+
+$ 04-counts.txt, Kael row
+  Kael                             38 word    80 in   [15, 23, 47, 56, 62, 69]  <-- substr
+                                   40      as Kaels
+                                    2      as Kael-Gestalt
+  Juna/V                           30 word    35 in   [15, 69, 79, 91, 126, 128]
+
+## Coordinator, 2026-10-12: respelled one candidate
+`Nicht-Algorithmische Intelligenz` counted 0 only by case (quotes.py --strict: zero only by case). Respelled in 03-candidates.md to the running-text form of L172, `Nicht-algorithmische Intelligenz`, recounted with capture.py --count and redrafted the census row.
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nicht-algorithmische Intelligenz` ^[kohaerenz-protokoll-transzendenz-vektoren.md:#1]

@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 31
-readings: 31
+sources: 36
+readings: 36
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "kohaerenz-protokoll-detaillierte-recherche", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-finale-pfeiler", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -82,6 +82,12 @@ The concept says how it is arranged: Teil II contains profiles „geordnet nach 
 
 The part-1 plot concept speaks of the levels once, as a criticism of the earlier draft: „Die detailliert ausgearbeiteten Lokalitäten der sechs Realitätsebenen und die über 38 spezifischen Orte“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L35] serve there as „oft eher als passive Kulissen denn als aktive narrative Elemente.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L35] The plan proposes to use the places actively; the word `Realitätsebenen` itself stands once in the document (`Realitätsebenen` ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:#1]).
 
+## Reading — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept — six levels and a nested consistency in the places concept
+
+The places concept sets its task across „sechs distinkte, jedoch miteinander verwobene Realitätsebenen hinweg“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L17], and asks for the rules of each: „die spezifischen Gesetzmäßigkeiten jeder der sechs Realitätsebenen“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L24]. Its consistency is nested: rules must hold within each level and also „sondern auch an den Schnittstellen und bei Interaktionen“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L25] between them.
+
+Its profile template carries a field for the level, „Zuordnung zu einer der sechs Ebenen“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L177], and its profile selection is to „die Vielfalt der sechs Realitätsebenen repräsentativ abbilden“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L343].
+
 ## Reading — `welten`, 2025-04-20, the world-concept reply — the Überwelt as an informational Realitätsebene
 
 The world-concept reply calls the Überwelt „rein informationsbasierte, abstrakte Realitätsebene“ ^[welten.md:L54], structured and regulated by the protocols of AEGIS. It lays out its world as levels, from the Potentialmeer as the lowest, „Die unterste, grundlegendste Ebene der Existenz“ ^[welten.md:L34], to the Kern-Welten, and adds a hypothetical Externe Ebene outside AEGIS's control.
@@ -134,6 +140,18 @@ The question that opens the document asks for „Wie können die sechs Realität
 
 The letter says the Grounding-Artefakte are phenomena AEGIS's simulation cannot explain, which „auf eine tiefere, fundamentalere Realitätsebene hindeuten“ ^[aegis-logik-und-erzaehlstruktur.md:L141]. Its summary repeats the point with a different adjective: „auf eine tiefere, einfachere Realitätsebene verweisen“ ^[aegis-logik-und-erzaehlstruktur.md:L318]. It names a single level and does not list further levels.
 
+## Reading — `kohaerenz-protokoll-detaillierte-recherche`, 2025-07-29, the detailed research report — Das Fundament as the deeper, integrative level of reality
+
+The research report places the Fundament against the Leere as „die tiefere, integrative Realitätsebene“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L56]. It states that „Es wird definitiv nicht als ein Ort, eine Substanz oder eine bewusste Entität konzipiert“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L56], but as a relational process of reality (the line continues).
+
+## Reading — `kohaerenz-protokoll-finale-pfeiler`, 2025-07-29, the final pillars report — the ultimate level of reality as the pivot
+
+The final pillars report opens with the question of „der ultimativen Realitätsebene“ ^[kohaerenz-protokoll-finale-pfeiler.md:L22], the Fundament, as the ontological pivot of the ending. It then defines the Fundament as „keine weitere Simulationsebene“ ^[kohaerenz-protokoll-finale-pfeiler.md:L30].
+
+## Reading — `blueprint`, 2025-07-29, the blueprint — six levels: four Kernwelten, the Überwelt and the Externe Ebene
+
+The blueprint says the novel works on „sechs distinkten Realitätsebenen“ ^[blueprint.md:L42]: the four psychological Kernwelten (L44), the digital Überwelt of AEGIS (L45) and the Externe Ebene (L46). It calls them AEGIS's simulated realities that mirror Kael's psychic state (L42). In its principles it says that mystery and conflict are built through „die vielschichtige Struktur der Realitätsebenen“ ^[blueprint.md:L32].
+
 ## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — the deepest level of reality as a process
 
 The concept summary gives the foundation as the deepest level of reality: „Die tiefste Realitätsebene ist ein“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L30] process, conceived as a strange attractor; it does not intervene but creates a basin of attraction toward which integrated systems such as Kael strive.
@@ -157,6 +175,10 @@ Among its contradictions the paper reports, from a document it cites by digit, a
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a new level of reality in Kap 39
 
 The master blueprint sets Kap 39 in „Eine neue, offene Realitätsebene.“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L372] and plans Kael and Juna to exist in „in einer Realität, die Chaos und Ordnung in Balance hält“ ^[roman-plot-entwicklung-mit-kohaerenzprotokoll.md:L375]
+
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — the AEGIS level as physical-algorithmic
+
+The master synthesis characterises AEGIS's side of the premise as a level of reality: „der physikalisch-algorithmischen Realitätsebene der Künstlichen Intelligenz AEGIS“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L15]. It adds nothing else under that word. A plan.
 
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — A higher reality level in conflict C-006
 

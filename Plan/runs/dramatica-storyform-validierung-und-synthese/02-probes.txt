@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      16
+  backslash escapes      274
+  typographic marks      166
+  ascii quotes           8
+
+# inflection families -- one term, several surfaces
+  inter    Interaktion, Interest, Interferenz, Internal, Interpretation, Intersubjektivität
+  story    STORY, Story, Storyform, Storyforms, Storymind
+  wider    Widerspruchsfreiheit, Widersprüche, Widersprüchen, Widerstand, Widerstands
+  metap    Metapher, Metaphern, Metaphysische, Metaphysisches
+  struk    Struktur, Strukturelle, Strukturelles, Strukturen
+  valid    Valide, Validierung, Validität, Validitätsprüfung
+  archi    Archipel, Architektur, Archive
+  bewei    Beweis, Beweisbare, Beweise
+  chara    Character, Charakter, Charaktere
+  conce    Conceiving, Conceptualizing, Concern
+  diese    Diese, Dieser, Dieses
+  dokum    Dokument, Dokumente, Dokumenten
+  eleme    Element, Elemente, Elements
+  erinn    Erinnerung, Erinnerungen, Erinnerungsinseln
+  gegen    Gegenleistung, Gegenpol, Gegenspieler
+  kontr    Kontrast, Kontrolle, Kontrollzwang
+  logik    Logik, Logiken, Logikfehler
+  probl    Problem, Probleme, Problems
+  proto    Protokoll, Protokolle, Protokollen
+  relat    RELATION, Relationship, Relationships
+  subsy    Subsystem, Subsysteme, Subsystemen
+  syste    System, Systemischer, Systems
+  theor    Theoretischer, Theorie, Theory
+  unbew    Unbeweisbare, Unbeweisbarkeit, Unbewiesen
+  analy    Analyse, Analysis
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charakter
+  Akte < Charaktere
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Einer
+  Idee < Ideenfindung
+  JUNA < Juna
+  KAEL < Kael
+  KAEL < Kaels
+  Kael < Kaels
+  Kern < Kernwelten
+  Meta < Metapher
+  Meta < Metaphern
+  Meta < Metaphysische
+  Meta < Metaphysisches
+  Mind < Storymind
+  Plan < Reiseplan
+  Raum < Trauma
+  Raum < Traumas

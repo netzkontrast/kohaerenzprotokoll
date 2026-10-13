@@ -1,0 +1,11 @@
+python3 scripts/read.py systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho --count "Scenario"  -> case-sensitive 3  (#3)
+python3 scripts/read.py ... --count "must"  -> 10  (#10)
+stance_marker_count 13 = 3 + 10
+python3 scripts/read.py ... --count "Kap" -> 0 ; "Kapitel" -> 0 ; "canon" -> 0 ; "ground truth" -> 0 ; "Guardians" -> 0 ; "Guardian" -> 3
+python3 scripts/read.py ... --count "Kernwelt" -> 3 ; "KW1" -> 1 ; "Gödel-Satz" -> 2 ; "Φ" -> 0 whole, 2 with compounds
+python3 scripts/read.py ... --count "unreliable narrator" -> 0 case-sensitive, 1 case-insensitive ; "Unreliable Narrator" -> 1
+python3 scripts/read.py ... --count "Riss" -> 3 whole, 4 compounds ; "Risse" -> 1
+backslash escapes 52, candidates 63 (01-profile.txt, 04-counts.txt)
+
+## Coordinator, 2026-10-12: respelled one candidate
+`unreliable narrator` counted 0 only by case (quotes.py --strict: zero only by case). Respelled in 03-candidates.md to the heading's form of L45, `Unreliable Narrator`, recounted with capture.py --count and redrafted the census row; the census's zero paragraph was removed.

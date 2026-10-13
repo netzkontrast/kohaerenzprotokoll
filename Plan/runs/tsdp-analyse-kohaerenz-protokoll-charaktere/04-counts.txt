@@ -1,0 +1,103 @@
+# counts for 72 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             79 word    91 in   [17, 21, 25, 29, 31, 41]
+                                   12      as Kaels
+  System Kael                      16 word    16 in   [17, 31, 41, 45, 52, 62]
+  Lex                              66 word    66 in   [41, 51, 62, 107, 109, 110]
+  Alex                             29 word    29 in   [41, 51, 62, 107, 126, 130]
+  Rhys                             49 word    49 in   [41, 51, 62, 107, 127, 130]
+  Nyx                              48 word    48 in   [45, 52, 62, 107, 109, 110]
+  Kiko                             38 word    47 in   [45, 52, 62, 107, 109, 124]
+                                    9      as Kikos
+  Lia                              24 word    31 in   [45, 52, 62, 107, 126, 146]
+  Isabelle                         21 word    25 in   [45, 52, 62, 107, 147, 148]
+                                    4      as Isabelles
+  Moros                            31 word    31 in   [45, 52, 62, 107, 124, 126]
+  Selene                           25 word    29 in   [21, 45, 62, 94, 107, 128]
+                                    4      as Selenes
+  Argus                            13 word    13 in   [45, 62, 107, 140, 282, 286]
+  Juna/V                           20 word    20 in   [21, 25, 195, 197, 199, 200]
+  Juna                             20 word    20 in   [21, 25, 195, 197, 199, 200]
+  AEGIS                            44 word    51 in   [21, 25, 106, 112, 180, 184]
+                                    3      as AEGIS-Einfluss
+                                    2      as Aegis-Kampfsystem
+                                    1      as AEGIS-Kampfsystems
+                                    1      as AEGIS-konform
+  Kernwelten                        8 word     8 in   [21, 25, 176, 178, 182, 373]
+  Co₁                               4 word     4 in   [21, 176, 180, 373]
+  McL                               5 word     5 in   [21, 176, 181, 182, 373]
+  Ly                                4 word     4 in   [21, 176, 182]
+  Paradoxon X                       7 word     7 in   [25, 190, 193, 233, 355, 371]
+  Kohärenz Protokoll                8 word     9 in   [11, 17, 25, 29, 190, 321]
+  Cache Kohärenz                    3 word     3 in   [124, 218, 400]
+  PP-INT-01                         4 word     4 in   [162, 163, 233, 282]
+  PP-INT-02                         4 word     4 in   [162, 164, 240, 282]
+  PP-INT-03                         4 word     4 in   [163, 165, 233, 275]
+  PP-INT-04                         5 word     5 in   [138, 162, 165, 275, 282]
+  PP-SYS-02                         2 word     2 in   [190, 233]
+  PP-SYS-03                         2 word     2 in   [191, 226]
+  PP-CCH-01                         1 word     1 in   [239]
+  Erweitertes TSDP-Profil          11 word    11 in   [218, 225, 232, 239, 246, 253]
+  Integrationsbedürfnisse/-hindernisse   11 word    11 in   [220, 227, 234, 241, 248, 255]
+  Potenzieller Entwicklungsbogen   11 word    11 in   [221, 228, 235, 242, 249, 256]
+  Matrix Interner Konflikte und Phobien    1 word     1 in   [154]
+  Haltung zur Integration           1 word     1 in   [297]
+  TSDP                             11 word    29 in   [11, 17, 21, 25, 31, 49]  <-- substring
+                                   11      as TSDP-Profil
+                                    2      as TSDP-basiert
+                                    2      as TSDP-Dynamiken
+                                    1      as TSDP-Prinzipien
+  Strukturellen Dissoziation        5 word     5 in   [17, 25, 33, 37, 54]
+  ANP                              25 word    79 in   [21, 39, 41, 45, 51, 58]  <-- substring
+  EP                               14 word   108 in   [21, 43, 45, 52, 58, 59]  <-- substring
+  Anscheinend Normale Persönlichkeitsanteile    1 word     1 in   [39]
+  Emotionale Persönlichkeitsanteile    1 word     1 in   [43]
+  Alltags-Aktionssysteme            2 word     2 in   [41, 51]
+  Verteidigungs-Aktionssysteme      1 word     2 in   [45, 52]
+                                    1      as Verteidigungs-Aktionssystemen
+  Aktionssysteme                   13 word    18 in   [41, 45, 47, 49, 51, 52]
+                                    1      as Aktionssystemen
+  Primäre Strukturelle Dissoziation    1 word     1 in   [58]
+  Sekundäre Strukturelle Dissoziation    1 word     1 in   [59]
+  Tertiäre Strukturelle Dissoziation    2 word     2 in   [60, 62]
+  negativen dissoziativen Symptomen    2 word     2 in   [41, 218]
+  positiven dissoziativen Symptomen    1 word     1 in   [45]
+  dissoziative Barrieren            3 word     3 in   [78, 80, 205]
+  Phobien                          17 word    18 in   [21, 66, 68, 70, 71, 72]
+  Amnesie                           9 word    10 in   [21, 41, 78, 82, 90, 207]
+                                    1      as Amnesien
+  Depersonalisation                 5 word     5 in   [41, 83, 210, 365]
+  Derealisation                     4 word     4 in   [84, 210, 365]
+  Switching                         5 word     5 in   [21, 88, 90, 208, 364]
+  Ko-Bewusstsein                    8 word     8 in   [88, 90, 94, 209, 227, 322]
+  Integration                      34 word    56 in   [21, 37, 45, 49, 68, 86]
+                                   11      as Integrationsbedürfnisse
+                                    3      as Integrationsprozess
+                                    1      as Integrationsfigur
+                                    1      as Integrationspotenzial
+  Realisierung                      1 word     1 in   [94]
+  Personifizierung                  2 word     2 in   [94, 220]
+  Präsentifizierung                 1 word     1 in   [94]
+  Trigger                           5 word     5 in   [45, 76, 199, 344, 372]
+                                    6      as triggern
+                                    2      as triggert
+  Täterintrojekt                    1 word     1 in   [72]
+  Homöostase                        3 word     3 in   [106, 189]
+  IFS                               2 word     5 in   [104, 107, 225, 228, 291]  <-- substring
+  Manager                           9 word    11 in   [107, 136, 193, 220, 221, 328]
+                                    1      as Managern
+                                    1      as Managers
+  Feuerbekämpfer                    1 word     2 in   [107]
+                                    1      as Feuerbekämpfern
+  Verbannte                         1 word     2 in   [107]
+                                    1      as Verbannten
+  Selbst-Energie                    3 word     3 in   [228, 291, 332]
+  Zeugenschaft                      1 word     1 in   [262]
+  Koregulation                      2 word     2 in   [240, 241]
+  Bindungsruf                       7 word     7 in   [45, 52, 237, 239]
+  Erstarrung                       18 word    19 in   [45, 52, 146, 149, 152, 181]
+                                    1      as Erstarrungsreflexe
+  Gatekeeperin                      1 word     1 in   [226]

@@ -1,0 +1,135 @@
+# counts for 109 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  System Kael                      15 word    15 in   [23, 28, 30, 48, 49, 75]
+  Kael                             35 word    39 in   [23, 28, 29, 30, 31, 43]
+                                    4      as Kaels
+  Lex                              35 word    35 in   [48, 62, 82, 93, 105, 106]
+  Rhys                             28 word    28 in   [62, 82, 93, 105, 106, 107]
+  Alex                             17 word    17 in   [64, 93, 106, 132, 215, 227]
+                                    1      as alexsreviewcorner
+  Argus                             7 word     7 in   [152, 185, 227, 257, 269, 292]
+  Selene                            5 word     5 in   [185, 257, 269, 326, 329]
+  Kiko                             26 word    33 in   [41, 48, 49, 63, 82, 94]
+                                    7      as Kikos
+  Nyx                              19 word    19 in   [42, 63, 94, 106, 107, 131]
+  Lia                              14 word    15 in   [94, 105, 173, 174, 185, 215]
+  Isabelle                          6 word     7 in   [49, 82, 94, 173, 257, 325]
+                                    1      as Isabelles
+  Moros                            14 word    14 in   [32, 43, 48, 94, 131, 143]
+  AEGIS                            42 word    46 in   [48, 49, 76, 115, 141, 147]
+                                    1      as AEGIS-Schnittstelle
+                                    1      as AEGIS-Schema
+                                    1      as AEGIS-Interaktion
+                                    1      as AEGIS-Logik
+  Kernwelten                       11 word    11 in   [28, 31, 49, 75, 86, 109]
+  Kernwelt                          5 word    16 in   [28, 31, 48, 49, 75, 86]  <-- substring
+                                   11      as Kernwelten
+  KW1                              13 word    13 in   [49, 104, 105, 107, 113, 292]
+  KW2                              12 word    12 in   [49, 74, 104, 106, 107, 155]
+  KW3                              10 word    10 in   [49, 104, 107, 197, 293, 303]
+  KW4                               6 word     6 in   [74, 104, 239, 302, 404, 405]
+  Konstrukt-Stadt/Co₁               1 word     1 in   [113]
+  Konstrukt-Stadt                   1 word     1 in   [113]
+  Co₁                               1 word     1 in   [113]
+  Resonanz-Landschaft/McL           1 word     1 in   [155]
+  Resonanz-Landschaft               1 word     1 in   [155]
+  McL                               1 word     1 in   [155]
+  Grenzfeste/B                      1 word     1 in   [197]
+  Grenzfeste                        2 word     2 in   [197, 384]
+  Möglichkeits-Garten/Ly            1 word     1 in   [239]
+  Möglichkeits-Garten               1 word     1 in   [239]
+  Ly                                1 word     1 in   [239]
+  Cache Kohärenz                    2 word     2 in   [31, 152]
+  Post-Reboot                       9 word     9 in   [142, 147, 152, 189, 194, 231]
+  Baum des Lebens                   1 word     1 in   [267]
+  ANPs                             23 word    23 in   [29, 64, 82, 92, 93, 96]
+  EPs                              19 word    19 in   [82, 92, 94, 95, 96, 105]
+  Anteile                          27 word    37 in   [23, 28, 30, 31, 33, 48]
+                                   10      as Anteilen
+  Alter-Welt Wahrnehmungsmatrix     2 word     2 in   [333, 411]
+  Stilistische Fingerprints         1 word     1 in   [351]
+  Narratives Toolkit für Alter-Perspektiven    1 word     1 in   [318]
+  User Query Context               10 word    10 in   [81, 92, 93, 94, 95, 96]
+  Core Principle Revisited          4 word     4 in   [115, 157, 199, 241]
+  Atmosphärische Dichte (Sensory Details)    4 word     4 in   [116, 158, 200, 242]
+  Atmosphärische Dichte             4 word     4 in   [116, 158, 200, 242]
+  Psychologische Resonanz (TSDP Dynamics)    4 word     4 in   [127, 169, 211, 253]
+  Psychologische Resonanz           4 word     4 in   [127, 169, 211, 253]
+  Interaktionspotenzial (Triggers/Foci)    4 word     4 in   [137, 179, 221, 263]
+  Interaktionspotenzial             4 word     5 in   [137, 179, 221, 263, 405]
+                                    1      as Interaktionspotenziale
+  Mirroring/Triggering              4 word     4 in   [131, 173, 215, 257]
+  Action System Affinity            4 word     4 in   [132, 174, 216, 258]
+  Environmental Psychology Links    4 word     4 in   [133, 175, 217, 259]
+  Control Mechanisms                4 word     4 in   [151, 193, 235, 277]
+  Post-Reboot State                 4 word     4 in   [152, 194, 236, 278]
+  Specific Locations                4 word     4 in   [141, 183, 225, 267]
+  Symbolic Objects/Phenomena        4 word     4 in   [142, 184, 226, 268]
+  Potential for Action              4 word     4 in   [143, 185, 227, 269]
+  Core Identity/TSDP Role & State    3 word     3 in   [357, 366, 375]
+  Vocabulary/Diction                3 word     3 in   [358, 367, 376]
+  Syntax/Sentence Structure         3 word     3 in   [359, 368, 377]
+  Figurative Language               3 word     3 in   [360, 369, 378]
+  Sensory Focus                     3 word     3 in   [361, 370, 379]
+  Tone                              3 word     3 in   [362, 371, 380]
+  Insight 1                         4 word     4 in   [133, 175, 217, 259]
+  Insight 2                         4 word     4 in   [133, 175, 217, 259]
+  Insight 3                         2 word     2 in   [404, 413]
+  Insight 4                         1 word     1 in   [414]
+  Polyphonie (Intrusion)            1 word     1 in   [327]
+  Polyphonie (Impulse)              1 word     1 in   [328]
+  Unzuverlässigkeit (ANP)           1 word     1 in   [329]
+  Unzuverlässigkeit (EP)            1 word     1 in   [330]
+  Sensorische Filterung             2 word     2 in   [316, 331]
+  Intrusive Gedanken                2 word     2 in   [302, 413]
+  Beschreibung widersprüchlicher Impulse    2 word     2 in   [303, 413]
+  Environmental Storytelling        1 word     1 in   [412]
+  TSDP                             10 word    16 in   [84, 86, 88, 104, 107, 111]
+                                    1      as TSDP-Grundlagen
+                                    1      as TSDP-Profilen
+                                    1      as TSDP-Dynamiken
+                                    1      as TSDP-Rolle
+  Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [86]
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [96]
+  Anscheinend Normale Persönlichkeitsanteile    1 word     1 in   [92]
+  Emotionale Persönlichkeitsanteile    1 word     1 in   [92]
+  Aktionssysteme                    2 word    13 in   [94, 107, 132, 174, 215, 216]  <-- substring
+  Verteidigungs-Aktionssysteme      4 word     6 in   [94, 107, 132, 174, 215, 216]
+                                    2      as Verteidigungs-Aktionssystemen
+  Alltags-Aktionssysteme            4 word     5 in   [107, 132, 174, 216, 258]
+                                    1      as Alltags-Aktionssystemen
+  Bindungsruf                       5 word     6 in   [94, 174, 258, 347, 364, 366]
+                                    1      as Bindungsruf-Systemen
+  Phobien                           1 word     3 in   [95, 105, 153]  <-- substring
+  Dissoziation                     14 word    14 in   [17, 23, 24, 41, 48, 86]
+                                    1      as dissoziation-trennung-realitaet-bewusstsein-psychische-erkrankungen
+  Derealisation                     4 word     4 in   [28, 49, 93, 173]
+  Depersonalisation                 3 word     3 in   [29, 93, 173]
+  Fragmentierung                   10 word    11 in   [23, 30, 63, 81, 325, 327]
+                                    1      as Fragmentierungen
+  kognitive Karte                   5 word     6 in   [47, 48, 133, 175, 217, 259]
+  Fokalisierung                     9 word     9 in   [57, 287, 323, 436]
+  Interne Fokalisierung             3 word     3 in   [57, 287, 323]
+  Nullfokalisierung                 1 word     1 in   [57]
+  Externe Fokalisierung             1 word     1 in   [57]
+  Genettes                          1 word     1 in   [57]
+  Schmids                           1 word     1 in   [57]
+  ideologische Perspektive          1 word     1 in   [57]
+  Innerer Monolog                   4 word     4 in   [62, 292, 324, 441]
+  Bewusstseinsstrom (Stream of Consciousness)    2 word     2 in   [63, 293]
+  Bewusstseinsstrom                 6 word     6 in   [63, 293, 312, 325, 414, 415]
+  Erlebte Rede (Free Indirect Discourse)    2 word     2 in   [64, 294]
+  Erlebte Rede                      3 word     3 in   [64, 294, 326]
+  Unzuverlässiges Erzählen          4 word     4 in   [68, 443, 444, 445]
+  Polyphonie                        6 word     6 in   [77, 81, 327, 328, 413]
+  Mikhail Bakhtins                  1 word     1 in   [81]
+  Solaris                           4 word     5 in   [74, 449, 450, 451]
+  Silent Hill                       7 word     7 in   [75, 183, 184, 226, 412, 452]
+  Inception                         2 word     2 in   [76, 455]
+                                    1      as inception_dreams_freud
+  Disco Elysium                     4 word     4 in   [77, 81, 298, 458]
+  Otherworld                        1 word     1 in   [75]
+  Umweltpsychologie                 2 word     2 in   [47, 49]

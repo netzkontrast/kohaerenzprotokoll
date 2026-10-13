@@ -1,0 +1,469 @@
+{
+  "document": "realitaet-symmetrie-und-bewusstsein-monstergruppe",
+  "drive_id": "1Ex9NGNUtavWN2nBNbND3uxiDnwNGTQ8uJiiliq08_48",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Wie oben, so unten"
+  ],
+  "counts": {
+    "Monstergruppe": {
+      "n": 18,
+      "n_including_compounds": 19,
+      "lines": [
+        51,
+        63,
+        65,
+        109,
+        148,
+        150,
+        152,
+        165,
+        173,
+        183,
+        193,
+        195,
+        280,
+        282,
+        284
+      ]
+    },
+    "Monster": {
+      "n": 16,
+      "n_including_compounds": 54,
+      "lines": [
+        51,
+        53,
+        63,
+        65,
+        67,
+        109,
+        148,
+        150,
+        152,
+        156,
+        161,
+        165,
+        173,
+        175,
+        183,
+        185,
+        193,
+        195,
+        211,
+        213,
+        219,
+        220,
+        226,
+        236,
+        272,
+        280,
+        282,
+        284,
+        285,
+        300,
+        303,
+        335,
+        336
+      ]
+    },
+    "Monster-Modul": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        67
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        57,
+        61,
+        69,
+        282,
+        302,
+        309
+      ]
+    },
+    "glückliche Familie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        53,
+        150,
+        175,
+        207,
+        285
+      ]
+    },
+    "Happy Family": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        220
+      ]
+    },
+    "Paria-Gruppe": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        53,
+        203,
+        211,
+        213,
+        236
+      ]
+    },
+    "Paria-Gruppen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        203,
+        213
+      ]
+    },
+    "Parias": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        207,
+        285
+      ]
+    },
+    "sporadischen Gruppen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        53,
+        175,
+        285
+      ]
+    },
+    "Subquotienten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        150
+      ]
+    },
+    "Leech-Gitter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Mathematische Universum-Hypothese": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        113,
+        125
+      ]
+    },
+    "MUH": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        121,
+        125,
+        127,
+        135,
+        148,
+        152,
+        195,
+        272,
+        327
+      ]
+    },
+    "Level IV Multiversums": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        125,
+        152,
+        213
+      ]
+    },
+    "selbstbewusste Substrukturen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        127,
+        150
+      ]
+    },
+    "Selektionsproblem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        131,
+        135,
+        152
+      ]
+    },
+    "Landschaftsproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Hypothese des berechenbaren Universums": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Gödel-vollständige Strukturen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "It from Bit": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        81,
+        85,
+        109,
+        283,
+        314,
+        316,
+        317
+      ]
+    },
+    "partizipatorisches Universum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Holographische Prinzip": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        95,
+        109,
+        283
+      ]
+    },
+    "Ontische Strukturelle Realismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        283
+      ]
+    },
+    "OSR": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        101,
+        105,
+        107,
+        109,
+        195
+      ]
+    },
+    "Theorie von Allem": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        109,
+        127,
+        161,
+        283
+      ]
+    },
+    "ontologisches Primitiv": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        161,
+        173,
+        284
+      ]
+    },
+    "Axiomatische Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Dimensionsreduktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Symmetriebrechung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        185,
+        284
+      ]
+    },
+    "Kompaktifizierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "dimensionslosen Konstanten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        193,
+        284
+      ]
+    },
+    "ontologische Inkompatibilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "ontologischen Inkompatibilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Primfaktor-Korruption": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "Systemversagen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        199,
+        230,
+        285
+      ]
+    },
+    "Systemfehlers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "Invasion einer Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "Quellcode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Subroutinen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Standardmodell": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        37,
+        41,
+        135,
+        185,
+        252,
+        282,
+        294
+      ]
+    },
+    "Teilchenzoo": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Individuationsprozess": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        256,
+        272
+      ]
+    },
+    "Archetypen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        260,
+        268
+      ]
+    },
+    "Anima/Animus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "Schatten": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        193,
+        260,
+        268,
+        284
+      ]
+    },
+    "Persona": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        260,
+        341
+      ]
+    },
+    "Platonismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    }
+  }
+}

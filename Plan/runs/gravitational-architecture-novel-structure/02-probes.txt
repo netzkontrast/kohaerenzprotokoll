@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      80
+  backslash escapes      132
+  typographic marks      43
+  ascii quotes           210
+
+# inflection families -- one term, several surfaces
+  psych    Psychological, Psychologically, Psychology, Psychotherapy
+  descr    Describe, Description, Descriptive
+  dimen    Dimension, Dimensional, Dimensions
+  disso    Dissociation, Dissociative, Dissonance
+  relat    Relates, Relativistic, Relativity
+  trans    Transitional, Transitions, Transparency
+  visua    Visual, Visualizing, Visually
+  accre    Accreting, Accretion
+  algeb    Algebra, Algebraic
+  artif    Artifact, Artificial
+  autom    AUTOMORPHIC, Automaton
+  black    BLACK, Black
+  catia    CATIADOC, Catia
+  chang    Change, Changes
+  compo    Composite, Composition
+  corre    Correlate, Correlates
+  criti    CRITICAL, Critical
+  disco    Discontinuous, Discordant
+  disor    Disorder, Disorders
+  dynam    Dynamic, Dynamics
+  effec    Effect, Effects
+  entro    ENTROPY, Entropy
+  every    Every, Everyday
+  examp    Example, Examples
+  exper    Experience, Experimental
+
+# substring pairs -- never one term, often merged by accident
+  Arts < Parts
+  Arts < LitCharts
+  Flat < Flatland
+  Four < Fourth
+  HOLE < Hole
+  HOLE < Holes
+  HOLE < Wormhole
+  Here < Where
+  Here < Sphere
+  Here < Ergosphere
+  Hole < Holes
+  Hole < Wormhole
+  Loss < Losses
+  MATH < MathOverflow
+  MATH < Mathematical
+  Ring < Rings
+  Ring < Tearing
+  Ring < Entering
+  Rose < Rosen
+  Vita < Gravitational

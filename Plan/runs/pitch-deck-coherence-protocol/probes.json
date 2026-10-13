@@ -1,0 +1,56 @@
+{
+  "document": "pitch-deck-coherence-protocol",
+  "drive_id": "1kQ6ZG64cslTL7NpfujtdOcThMPTAUutzOA6zRbl1BsY",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 36,
+  "typographic_marks": 20,
+  "ascii_quotes": 40,
+  "inflection_families": {
+    "diale": [
+      "Dialectic",
+      "Dialetheic"
+    ],
+    "lands": [
+      "Landscape",
+      "Landschaft"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonanz"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Flaw",
+      "Flawed"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systemic"
+    ]
+  ]
+}

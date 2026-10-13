@@ -1,0 +1,139 @@
+{
+  "document": "aegis-paradoxon-neukonzeption-und-analyse-docx",
+  "drive_id": "1UMXQHC2vrdePXevhdaB2viYBnECrT4sD",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 61,
+    "decisions": 66,
+    "decided_by_lookup": 52,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        16,
+        30,
+        134,
+        135,
+        137,
+        148,
+        149,
+        166,
+        168
+      ],
+      "attribution": "",
+      "note": "a proposed central paradox of misaligned coherence for AEGIS"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "Juna/V named once as a possible opponent of AEGIS"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        16,
+        30,
+        111,
+        113,
+        160
+      ],
+      "attribution": "",
+      "note": "Kael as the entity AEGIS manages and whose state its interventions alter"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        16,
+        30,
+        158
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as simulations AEGIS manages, and the sample rift"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        16,
+        31,
+        87,
+        135
+      ],
+      "attribution": "",
+      "note": "coherence as AEGIS's imperative, and a possibly unreachable goal"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        95,
+        158,
+        160
+      ],
+      "attribution": "",
+      "note": "Risse as instabilities that AEGIS's corrections may widen"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "a borrowed concept in the survey of Teil I"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "borrowed information-theoretic entropy in the survey"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 113,
+      "decision": "reading",
+      "why": "Juna/V named among entities that could oppose AEGIS, read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "generic simulation in the survey, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

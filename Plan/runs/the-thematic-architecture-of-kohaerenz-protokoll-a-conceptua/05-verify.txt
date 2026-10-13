@@ -1,0 +1,74 @@
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "conceptual lexicon"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`conceptual lexicon` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#1]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "mirror axes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`mirror axes` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#1]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "Hypothesis A"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothesis A` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#1]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "Hypothesis B"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothesis B` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#1]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "Axis"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Axis` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#5]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#0]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "Chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#0]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "Beat"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Beat` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#0]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "Lex"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Lex` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#6]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "prehension"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`prehension` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#1]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "Coheron"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Coheron` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#1]
+$ read.py the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua --count "K₀"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`K₀` ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:#8]
+$ stance_marker_count = 1+1+1+1 = 4
+$ alter table rows L104-L114 = 11 (observed); ANP 5, EP 5, mix 1

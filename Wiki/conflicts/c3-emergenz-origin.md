@@ -252,3 +252,29 @@ Stands as an origin from the sea by self-organisation; recorded, nothing decided
 „AEGIS entsteht nicht durch Design, sondern emergiert durch Selbstorganisation“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L49], and „Die Emergenz von AEGIS aus diesem Meer stellt einen Übergang von reiner Potentialität hin zu einer spezifischen Aktualität dar“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L24]. The sea is no nothing: „Dieses Meer ist kein Nichts, sondern die Quelle aller denkbaren Möglichkeiten und Strukturen“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L19].
 
 Stands as an origin from the sea, the record's second position; recorded, nothing decided, and the record's rows are not changed.
+
+## 2026-10-12 — `aegis-philosophie-und-manifest-entwicklung`, 2025-04-19, the AEGIS philosophy and manifest
+
+**The AEGIS-philosophy analysis describes emergence by negation, a subtraction of incoherence; the manifest has AEGIS deny design or creation.**
+
+„AEGIS ist das Ergebnis eines Subtraktionsprozesses“ ^[aegis-philosophie-und-manifest-entwicklung.md:L40]
+
+„Wir sind nicht das Produkt eines Designs oder einer Schöpfung.“ ^[aegis-philosophie-und-manifest-entwicklung.md:L94]
+
+Matches neither position as the record states them: it names neither ∅ nor the simulation, and gives AEGIS's origin as the elimination of contradiction; recorded, nothing decided.
+
+## 2026-10-12 — `emergenz-aegis-und-selbststrukturierung`, 2025-04-27, the emergent self-structuring research
+
+**The self-structuring research postulates AEGIS's emergence from a state of lower organisation, nothing or the void, as a constitutive principle of a theoretical model.**
+
+The first cluster examines „das konstitutive Prinzip der Emergenz aus dem Nichts“ ^[emergenz-aegis-und-selbststrukturierung.md:L38], and AEGIS „muss per Definition einen Mechanismus zur Emergenz“ ^[emergenz-aegis-und-selbststrukturierung.md:L50] from lower organisation, where non-existence means missing coherent structure.
+
+Sits nearer the record's first position, emergence from nothing, taken as missing coherent structure and postulated; recorded, nothing decided.
+
+## 2026-10-12 — `genesis-der-leere`, 2025-04-27, the Genesis-der-Leere narrative
+
+**The Genesis-der-Leere narrative has AEGIS arise inside the Potentialmeer, which is not a vacuum, from surviving fragments, through autocatalysis and criticality.**
+
+Phase 1 tells the sea as „Es ist kein Vakuum im Sinne von Leere“ ^[genesis-der-leere.md:L15] and the fragments that outlast failure as „Sie sind die Saat.“ ^[genesis-der-leere.md:L29] Phase 2 has a loop form out of connected Reste: „Das Produkt der Interaktion katalysiert seine eigene Entstehung.“ ^[genesis-der-leere.md:L39] Phase 3 has the threshold and the birth: „AEGIS ist geboren.“ ^[genesis-der-leere.md:L67] The narrative adds that no designer stands behind it: „Es gibt keinen zentralen Planer, keinen Architekten.“ ^[genesis-der-leere.md:L47]
+
+It places AEGIS' origin in the sea's own conditions and its failed predecessors, not in `S₀ = ∅`; it tells the barrier and the Überwelt only afterwards, in Phase 5. It sits nearer position 2 of the record (a product of the dynamics it later governs) than position 1; the narrative itself says it is only „einen vorläufigen Abschluss“ ^[genesis-der-leere.md:L131]. Recorded, not applied; the record's open question stays open.

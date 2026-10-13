@@ -1,0 +1,50 @@
+{
+  "document": "wahrheitstheorien-kohaerenz-vs-korrespondenz",
+  "drive_id": "1ktilYPo7yrTgnCpNhMbjDyfwbXwomMO3D0QfidJ6g8c",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list — replacing the gold candidate list of 2026-09-30 in this run directory, which stays in git history (as in ingest 162); rlm_ingest not run; no readings — the session judged the document a general survey that names no figure of the novel",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 44,
+    "decisions": 44,
+    "decided_by_lookup": 39,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A general German survey of truth theories with a proposed synthesis applied to language-model hallucinations; it names no figure of the novel and says nothing a page needs, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a general survey: `Kohärenz`, `Kohärenztheorie`, `Kohärenztheorie der Wahrheit` and `Kohärenzmaschinen` in their general senses, decided as occurrences",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "coherence as a theory of truth, the general sense"
+    }
+  ],
+  "not_promoted": [
+    "everything — the theories, the synthesis and the borrowed vocabulary"
+  ],
+  "internal_tension": "none: a survey",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

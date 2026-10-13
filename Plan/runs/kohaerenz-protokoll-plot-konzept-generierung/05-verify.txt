@@ -1,0 +1,81 @@
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Logline"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Logline` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Fokus des Kernkonzepts"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Fokus des Kernkonzepts` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Charakterdynamik"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Charakterdynamik` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "AEGIS' Rolle & Reaktion"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`AEGIS' Rolle & Reaktion` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Plot-Verlauf"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Plot-Verlauf` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Thematische Resonanz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Thematische Resonanz` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Zweck"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zweck` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Methodik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Methodik` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Framework"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Framework` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#16]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "könnte"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            48
+
+`könnte` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#33]
+stance_marker_count = 5*6 + 1+1+1 = 33
+$ python3 scripts/read.py kohaerenz-protokoll-plot-konzept-generierung --count "Fragmentierungsprotokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Fragmentierungsprotokoll` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#0]
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            1
+
+`Monstrous Moonshine` ^[kohaerenz-protokoll-plot-konzept-generierung.md:#0]
+census: sixteen/33 per counts above; 17 and 2 from census-draft
+
+Correction, 2026-10-12 (the session): the candidate `Monstrous Moonshine` was written in a spelling the document does not use alone — it stands only in the compound `Monstrous Moonshine-Phänomens` and, lower-case, in a reference title — so its zero held by the letter and failed by the claim (`quotes.py`: zero only by case). The candidate was corrected to the document's spelling and counted again; no other row changed.

@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 31
-readings: 31
+sources: 41
+readings: 41
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "kohaerenz-protokoll-master-integration-md", "project-status-report-kohaerenz-protokoll-canonical-state-st", "the-coherence-protocol-a-narrative-design-world-architecture", "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "briefing-document-the-kohaerenz-protokoll-narrative-framewor", "the-coherence-protocol-a-worldbuilding-bible"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "kohaerenz-protokoll-master-integration-md", "project-status-report-kohaerenz-protokoll-canonical-state-st", "the-coherence-protocol-a-narrative-design-world-architecture", "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "briefing-document-the-kohaerenz-protokoll-narrative-framewor", "the-coherence-protocol-a-worldbuilding-bible", "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me", "kohaerenz-protokoll-epische-plot-anreicherung", "dramatica-storyform-fuer-romananalyse", "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua", "romanarchitektur-validierung-und-synthese", "a-critical-evaluation-of-the-coherence-protocol-frameworks-s", "exploring-the-coherence-protocol", "the-architecture-of-being-a-philosophical-thesis-on-the-core", "the-coherence-protocol-the-hidden-rules-that-hold-reality-to", "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth"]
 gathered: "2026-09-24"
 ---
 
@@ -33,9 +33,47 @@ The framework briefing introduces `Coherons` in its line on Coherence (K₁): th
 
 The worldbuilding bible has the Coherence Kernel „acting through fundamental building blocks called“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L23] Coherons, the atoms of persistence. The glossary defines a Coheron as „a minimal, self-correcting unit of mutual information that is the building block of“ ^[the-coherence-protocol-a-worldbuilding-bible.md:L197] the Coherence Kernel's structures (the subscript is the document's; the line breaks off at it).
 
+## Reading — `causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me`, 2025-11-03, the causal-linkage report — Coherons as the atoms of persistence
+
+The causal-linkage report names the building blocks the Coherence Kernel arranges: it „actively works to maintain relational structures by arranging fundamental building blocks“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L27], the Coherons.
+
+## Reading — `the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua`, 2025-11-03, the lexicon of core dualities — Coherons in the lexicon's metaphysical axis
+
+The lexicon says the fundamental building blocks of K₁ structures are Coherons, the conceptual `Atoms of Persistence` (L42), and describes them as „minimal, self-correcting units of mutual information“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L42] (L42). When K₀ pressure causes incoherence in a Coheron network, a protocol emits a Corrective Wavelet to repair it (L45).
+
+## Reading — `a-critical-evaluation-of-the-coherence-protocol-frameworks-s`, 2025-11-03, the critical evaluation — Coherons as the Dual Kernel Theory's units of persistence
+
+The critical evaluation reports the framework's own account of Coherons: they are „minimal, pre-spatial, and self-correcting units of mutual information that form the building blocks of all stable structures“ ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:L20] Its own verdict is that the theory's core entities are „explicitly defined within the lore as pre-spatial and pre-temporal, placing them beyond empirical testing“ ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:L40] and that this is a narrative choice, not a scientific flaw.
+
+## Reading — `exploring-the-coherence-protocol`, 2025-11-03, the cross-domain coherence essay — Coherons as the Dual Kernel Theory's units, reported and called a neologism
+
+The cross-domain coherence essay reports `Coherons` as part of the Dual Kernel Theory's own lexicon: they are posited as „minimal, self-correcting units of mutual information“ ^[exploring-the-coherence-protocol.md:L171], the building blocks of persistent structures, which the K₁ kernel keeps against the pressure of K₀. This is a report of the theory (“According to this theory”). The synthesis table repeats the term in a row for the theory, marked `Dual Kernel Theory (Speculative)`, under the K₁ column as `Coheron` networks (L298).
+
+The essay's own judgement, under `Critical Analysis`, is that the concepts are „neologisms specific to this framework“ ^[exploring-the-coherence-protocol.md:L175] without an independent empirical basis in mainstream physics.
+
+## Reading — `the-architecture-of-being-a-philosophical-thesis-on-the-core`, 2025-11-03, the Architecture-of-Being paper — Coherons as the K₁ kernel's building blocks, and the repair cycle
+
+The Architecture-of-Being paper places the Coheron inside its reading of the Dual-Kernel Theory. The K₁ kernel „represents the force of structure, information preservation, and internal consistency“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L27] and works through fundamental building blocks called Coherons, and in the paper's words is there „to create and maintain order against the universal tendency toward dissolution“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L27]
+
+On the cycle of damage and repair, the paper writes that when K₀ intrudes, „K₁ structures respond by emitting self-generated“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L30] Corrective Wavelets, described as „localized bursts of oscillatory activity that repair their internal Coheron networks“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L30]
+
+The paper interprets; it defines the Coheron no further.
+
+## Reading — `the-coherence-protocol-the-hidden-rules-that-hold-reality-to`, 2025-11-03, the hidden-rules essay — Coherons as self-correcting units, repaired by Corrective Wavelets
+
+The hidden-rules essay introduces the Coheron as one of „two novel concepts“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L63] of a framework it calls speculative. It says Coherons are „the minimal, self-correcting units of mutual information“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L63] and that they „form the building blocks of all stable structures“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L63]. When local incoherence arises, the essay says the K₁ system answers with Corrective Wavelets, „self-generated bursts of oscillatory activity that restore order and repair the damaged Coheron networks“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L63]. Its conclusion describes reality as „networks of Coherons mending themselves with Corrective Wavelets“ ^[the-coherence-protocol-the-hidden-rules-that-hold-reality-to.md:L71]. The essay offers this as a reported framework; it is recorded here, not applied.
+
+## Reading — `understanding-kohaerenz-protokoll-the-art-of-sticking-togeth`, 2025-11-03, the sticking-together explainer — Coherons as atoms of persistence
+
+The sticking-together explainer says the K₁ kernel builds reality out of „atoms of persistence“ ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:L71] called Coherons. For self-repair under K₀ it names a different mechanism, the Corrective Wavelet: „emitting a self-generated pulse of organizing energy“ ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:L83].
+
 ## Reading — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief — Coherons as atoms of persistence
 
 The design brief codifies the `Coherons` in its table of the physics of information (the table is flattened onto one line). It defines them: „Minimal units of mutual information that allow a structure to hold its shape against entropy.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L39] Their narrative function is given as „They constitute the physical matter of the simulated“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L39] `Kernwelten`, and it directs: „High-Coheron environments are rigid and stable; low-Coheron environments are fluid and dreamlike.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L39]
+
+## Reading — `dramatica-storyform-fuer-romananalyse`, 2026-01-02, the Dramatica exegesis — Coherons as the energy AEGIS needs
+
+The Dramatica exegesis reads the OS Concern Obtaining as an energy need of AEGIS: „AEGIS muss Energie (Coherons) erlangen, um nicht zu sterben.“ ^[dramatica-storyform-fuer-romananalyse.md:L340]
 
 ## Reading — `ki-narrative-kollaps-kohaerenz-paradoxie`, 2026-03-01, the KI-Narrative synthesis — the plural `Coherons` as what represents the Kohärenz-Kernel
 
@@ -50,6 +88,14 @@ For the figures it applies the term: Kael's fragments are isolated Coheron islan
 ## Reading — `project-status-report-kohaerenz-protokoll-canonical-state-st`, 2026-03-26, the status report — Coherons in its Protocol Ontology
 
 In its Protocol Ontology list the status report defines Coherons (L22) as the atoms of persistence: „minimal, self-correcting units of mutual information that form stable structures.“ ^[project-status-report-kohaerenz-protokoll-canonical-state-st.md:L22] It sets them beside the K₁ Kernel (Coherence) and K₀ Kernel (Collapse), on the next lines.
+
+## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — Coherons outside time
+
+The epic enrichment brief is an unsigned German research brief of proposals and recommendations; so these are proposals. It writes „Da K₁ außerhalb der Zeit operiert“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L125], and ties the plot mechanics to timeless Coherons. The fourth signature sequence names „Atemporale Coherons“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L176].
+
+## Reading — `romanarchitektur-validierung-und-synthese`, 2026-04-28, the architecture validation — Kael's dissociative loops as a Coheron
+
+Appendix A of the architecture validation sets Kael against AEGIS's deletions: „Kael's dissociative loops act as a Coheron“ ^[romanarchitektur-validierung-und-synthese.md:L181], described there as a unit that preserves mutual information across structural rupture without a deletion command. It adds that, because Kael does not erase the trauma, „his computational process remains theoretically reversible“ ^[romanarchitektur-validierung-und-synthese.md:L181].
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — K1 as Coherons
 

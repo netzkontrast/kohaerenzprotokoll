@@ -1,0 +1,66 @@
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "Correction"
+whole word, case-sensitive     7
+whole word, case-insensitive   11
+including compounds            7
+
+`Correction` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#7]
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "Neutralization"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`Neutralization` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#4]
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "Lure Pattern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lure Pattern` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#1]
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "Risse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Risse` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#3]
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Riss` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#1]
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "AEGIS"
+whole word, case-sensitive     30
+whole word, case-insensitive   30
+including compounds            30
+
+`AEGIS` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#30]
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "Juna/V"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#2]
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "Das Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Fundament` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#1]
+$ python3 scripts/read.py dramaturgical-precision-deconstructing-the-irreversible-conf --count "Gödel-Gambit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel-Gambit` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#1]
+stance_marker_count 9 = Correction 7 + Neutralization and Lure 1 + Lure Pattern 1
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Neutralization and Lure` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#1]
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:#1]
+$ grep -c "?" body (question marks 0, from 01-profile.txt)

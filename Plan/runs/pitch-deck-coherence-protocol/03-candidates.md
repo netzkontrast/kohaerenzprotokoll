@@ -1,0 +1,71 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an English pitch deck with a German title line and two German names in parentheses. It marks terms in bold and, in the table, with escaped asterisks. Quotation marks around AEGIS's words (noise, errors) are the document's own scare quotes, not citations of another text.
+
+- Coherence Protocol
+- Kohärenz Protokoll
+- Order is a system. Sanity is an exploit.
+- AEGIS
+- Juna
+- Kael
+- Lex
+- Nyx
+- System AEGIS
+- System Kael
+- Coherence through Negation
+- Coherence through Integration
+- Core Worlds
+- Construct-City (Konstrukt-Stadt)
+- Construct-City
+- Konstrukt-Stadt
+- Resonance-Landscape (Resonanz-Landschaft)
+- Resonance-Landscape
+- Resonanz-Landschaft
+- Nothing Noise (Nichts Rauschen)
+- Nothing Noise
+- Nichts Rauschen
+- Gödel-Gambit
+- Gödel sentence
+- The Ontological Exploit
+- Polyphonic Prose
+- Environmental Storytelling
+- functional multiplicity
+- Paradox of Misaligned Coherence
+- ontological blindness
+- ontological non-recognition
+- autopoietic system
+- operationally closed
+- Apparently Normal Parts (ANPs)
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts (EPs)
+- Emotional Parts
+- EPs
+- Tertiary Structural Dissociation
+- Theory of Structural Dissociation of Personality (TSDP)
+- Theory of Structural Dissociation of Personality
+- TSDP
+- Clinical Grounding
+- Systemic Identity
+- Core Logic
+- The Tragic Flaw
+- The Goal
+- Identity Through Exclusion
+- Identity Through Inclusion
+- Top-Down, Static Order
+- Bottom-Up, Dynamic Order
+- Goal: Purity and Verification
+- Goal: Functional Multiplicity
+- Hard Science Fiction
+- Psychological Thriller
+- Cosmic Horror
+- Philosophical Fiction
+
+## lens
+
+- principle of explosion
+- ex contradictione quodlibet
+- paraconsistent logic
+- Foundation in Classical Logic
+- Foundation in a Dialetheic Mind
+- Classical Logic

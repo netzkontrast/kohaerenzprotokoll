@@ -1,0 +1,14 @@
+# narrative-loesungen-fuer-romanprojekt
+  lines                531  (frontmatter ends at 9)
+  body words           11772
+  headings             16   bold-only lines 27
+  table rows           10   code fences 0
+  question marks       60
+  backslash escapes    118
+  typographic marks    28   ascii quotes 62
+  invisible characters U+200Bx1
+  math symbol lines    0
+  glued ref numbers    224
+  repeated labels      Anwendbarkeit x7, Funktionalität x7, Herausforderungen x7, Vertiefte Betrachtung x7, Vorteile x7
+  longest line         1626 chars
+

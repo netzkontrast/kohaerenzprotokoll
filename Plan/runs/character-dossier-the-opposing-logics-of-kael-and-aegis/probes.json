@@ -1,0 +1,74 @@
+{
+  "document": "character-dossier-the-opposing-logics-of-kael-and-aegis",
+  "drive_id": "1D97MCQDmduffq9tOaVbHMglvm9bS7gHuSdIBcCFHzAA",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 48,
+  "typographic_marks": 6,
+  "ascii_quotes": 52,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coherences",
+      "Coherent"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrity"
+    ],
+    "achie": [
+      "Achieve",
+      "Achieving"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "respo": [
+      "Responders",
+      "Responsibility"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "theor": [
+      "Theorems",
+      "Theory"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Flaw",
+      "Flawed"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Coherent",
+      "Incoherent"
+    ],
+    [
+      "Coherence",
+      "Coherences"
+    ]
+  ]
+}

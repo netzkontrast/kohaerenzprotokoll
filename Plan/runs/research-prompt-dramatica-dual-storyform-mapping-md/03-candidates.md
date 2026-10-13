@@ -1,0 +1,128 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+This document is a research prompt. It asks for and specifies work; it reports nothing. The novel's world appears only in a short "Story-Hintergrund" block (about L187 to L225), where each concept is held to two sentences. The prompt's own vocabulary (MIRROR, the constraint blocks, the methods, the logs) is defined inline. Dramatica terms are borrowed theory applied to the novel, and the prompt-framework labels (RISEN, CRISPE and the like) are borrowed lens terms that the document names only as provenance of its own MIRROR components. The author's real person is not spoken of. Several surfaces carry export damage: digits dropped after words (K0/K1 appear with escaped or lost subscripts), escaped underscores in the front matter, and "Chaitin-Ω" is listed as Chaitin only.
+
+## world
+- Kohärenz Protokoll
+- Kael
+- AEGIS
+- Juna
+- Moonshine-Link
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kernwelten
+- Alter-System
+- ANPs
+- EPs
+- Sonder-Alter
+- Spiegel-Alter
+- Host
+- Rationalist
+- Beschützer
+- Versorger
+- ISH
+- Fight
+- Freeze
+- Ambivalent
+- Sexualisiert
+- Kollaps
+- Meta-Kognitiv
+- Juna-Echo
+- AEGIS-Echo
+- Dual-Kernel-Theorie
+- DKT
+- Kohärenz-Kern
+- Entropie-Kern
+- Vortex-Inversion
+- Leech-Lattice
+- Vertex-Operator-Algebra
+- Landauer-Hitze
+- Erasure-Sweeps
+- Quanten-Witness
+- Gödel-Satz
+- Chaitin
+- Heuristics of Integration
+- Phoenix Collapse
+
+## the prompt's own terms
+- MIRROR
+- Dual-Storyform-Spiegelung
+- Dual-Mapping-Spiegelung
+- Spiegelungs-Definition
+- Mathematische Axiome
+- Inversions-Spiegel-Definition
+- Reibungs-Topologie
+- Rationalisierungs-Audit
+- Anti-Rationalisierungs-Wächter
+- Output-Alternativen
+- Hypothesen-Baum
+- Mapping-Hypothese
+- Validitäts-Kriterium
+- Sekundär-Schicht
+- Throughline-Kreuzungen
+- Juna-Anker
+- Reflexions-Template
+- Restatement Checkpoint
+- Pre-Synthesis Integrity Check
+- CONSTRAINT BLOCK
+- Reflection Baseline
+- Source Priority Rules
+- Temporal Scope
+- Output Exclusions
+- Story-Knappheit-Disziplin
+- Contradiction Log
+- Query Expansion Log
+- Adversarial Query Expansion
+- Falsification
+- Steelmanning
+- First-Principles Decomposition
+- Hypothesis Half-Life Audit
+- Surviving-Mapping-Triangulation
+- Cross-Pollination
+- single-source-supported
+- contested
+- NotebookLM
+- ReAct
+- Exploration
+- Dramatica-Quad-Axiom
+- Pronomen-Achse
+- Driver-Limit-Outcome-Tupel
+
+## lens
+- Dramatica
+- Storyform
+- Throughline
+- Domain
+- Quad
+- Universe
+- Mind
+- Physics
+- Psychology
+- Driver
+- Limit
+- Outcome
+- Judgment
+- Optionlock
+- Timelock
+- Resolve
+- Growth
+- Approach
+- Steadfast
+- Do-er
+- Be-er
+- Holistic
+- Popper
+- RISEN
+- TIDD-EC
+- CO-STAR
+- CARE
+- CRISPE
+- Gruppentheorie
+- Kategorientheorie
+- Topos-Theory
+- Sheaf-Cohomology
+- Type Theory
+- Bayesian-Networks

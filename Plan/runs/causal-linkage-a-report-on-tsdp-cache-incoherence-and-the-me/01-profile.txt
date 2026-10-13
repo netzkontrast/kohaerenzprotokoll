@@ -1,0 +1,14 @@
+# causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me
+  lines                137  (frontmatter ends at 9)
+  body words           2671
+  headings             19   bold-only lines 1
+  table rows           15   code fences 0
+  question marks       0
+  backslash escapes    82
+  typographic marks    13   ascii quotes 112
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    5
+  repeated labels      none
+  longest line         723 chars
+

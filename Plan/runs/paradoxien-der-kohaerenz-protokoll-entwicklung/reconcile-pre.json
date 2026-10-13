@@ -1,0 +1,604 @@
+{
+  "document": "paradoxien-der-kohaerenz-protokoll-entwicklung",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 97,
+  "decisions": 100,
+  "same_surface": {},
+  "decided_mechanically": 71,
+  "needs_judgement": 29,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 213
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 217
+      },
+      {
+        "candidate": "Julia",
+        "page": "juna",
+        "readings": 202
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 122
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 69
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 101
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 161
+      },
+      {
+        "candidate": "Kern-Welt",
+        "page": "kern-welten",
+        "readings": 161
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 134
+      },
+      {
+        "candidate": "Integrity Guardian",
+        "page": "aegis-teilfunktionen",
+        "readings": 41
+      },
+      {
+        "candidate": "Cognitive Firewall",
+        "page": "aegis-teilfunktionen",
+        "readings": 41
+      },
+      {
+        "candidate": "Entropic Gatekeeper",
+        "page": "aegis",
+        "readings": 213
+      },
+      {
+        "candidate": "Entropie-Katastrophe",
+        "page": "entropie-katastrophe",
+        "readings": 1
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 58
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 62
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 170
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "K-J-Einheit"
+      },
+      {
+        "candidate": "K-J-Echos"
+      },
+      {
+        "candidate": "Kern-Direktive"
+      },
+      {
+        "candidate": "OBP"
+      },
+      {
+        "candidate": "Ontological Boundary Protocol"
+      },
+      {
+        "candidate": "RIVE"
+      },
+      {
+        "candidate": "Recursive Integrity & Validation Engine"
+      },
+      {
+        "candidate": "PMAS"
+      },
+      {
+        "candidate": "SARM"
+      },
+      {
+        "candidate": "Gleichzeitigkeit"
+      },
+      {
+        "candidate": "Externen Ebene"
+      },
+      {
+        "candidate": "v1.5"
+      },
+      {
+        "candidate": "Kohärente Protokoll"
+      },
+      {
+        "candidate": "Sein durch Abgrenzung"
+      },
+      {
+        "candidate": "Transzendenz durch Vereinigung"
+      },
+      {
+        "candidate": "Russell/Gödel-Grenze"
+      },
+      {
+        "candidate": "Maxwell/Landauer"
+      },
+      {
+        "candidate": "Kontrollparadox"
+      },
+      {
+        "candidate": "Paradox der verbundenen Einsamkeit"
+      },
+      {
+        "candidate": "Erweiterter Kontext"
+      },
+      {
+        "candidate": "Erweiterten Kontext"
+      },
+      {
+        "candidate": "Gödels Unvollständigkeitssätze"
+      },
+      {
+        "candidate": "Russell's Antinomie"
+      },
+      {
+        "candidate": "Lügner-Paradox"
+      },
+      {
+        "candidate": "Curry's Paradox"
+      },
+      {
+        "candidate": "Berry-Paradox"
+      },
+      {
+        "candidate": "Grelling-Nelson-Paradox"
+      },
+      {
+        "candidate": "Halting Problem"
+      },
+      {
+        "candidate": "Deterministisches Chaos"
+      },
+      {
+        "candidate": "Loschmidts Paradox"
+      },
+      {
+        "candidate": "Gibbs-Paradox"
+      },
+      {
+        "candidate": "Informationsparadoxon Schwarzer Löcher"
+      },
+      {
+        "candidate": "Zenons Paradoxien"
+      },
+      {
+        "candidate": "Sorites-Paradox"
+      },
+      {
+        "candidate": "Parmenides' Diktum"
+      },
+      {
+        "candidate": "McTaggarts Paradox"
+      },
+      {
+        "candidate": "Beobachtereffekt"
+      },
+      {
+        "candidate": "Heisenbergsche Unschärferelation"
+      },
+      {
+        "candidate": "Double Bind"
+      },
+      {
+        "candidate": "Paradoxien der Kontrolle"
+      },
+      {
+        "candidate": "Paradox der Kontrolle"
+      },
+      {
+        "candidate": "Ikarus-Paradox"
+      },
+      {
+        "candidate": "Abilene-Paradox"
+      },
+      {
+        "candidate": "System Justification Theory Paradox"
+      },
+      {
+        "candidate": "Teletransporter-Paradox"
+      },
+      {
+        "candidate": "Split-Brain-Paradox"
+      },
+      {
+        "candidate": "Chinesisches Zimmer"
+      },
+      {
+        "candidate": "Hard Problem of Consciousness"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Kybernetik"
+      },
+      {
+        "candidate": "Komplexe Adaptive Systeme"
+      },
+      {
+        "candidate": "Kolmogorov-Komplexität"
+      },
+      {
+        "candidate": "Informationsthermodynamik"
+      },
+      {
+        "candidate": "Paradox of the Court"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS Core Logic",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Julia-Einheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael/Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael's Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Julia  /  Kael-Julia-Einheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Julia  /  Julia/K-J-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K-J-Verbindung  /  Julia/K-J-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael/Anteile  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael's Anteile  /  Anteile",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelten  /  Kern-Welt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz Protokollen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Plot-Twist  /  Kern-Plot-Twist",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Paradoxon-Cluster  /  Kern-Paradoxon",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sorites/Mereologie  /  Mereologie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Maxwells Dämon  /  Maxwells Dämon / Landauer-Prinzip",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Landauer-Prinzip  /  Maxwells Dämon / Landauer-Prinzip",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mereologie  /  Mereologie / Special Composition Question",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Special Composition Question  /  Mereologie / Special Composition Question",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Theseus' Schiff  /  Theseus' Schiff / Identitätsparadoxien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ashby's Law  /  Ashby's Law of Requisite Variety",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael-Julia-Einheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "julia",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Julia/K-J-Verbindung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "julia",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael/Anteile",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael's Anteile",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Inseln",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS Core Logic",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokollen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Maximierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 361,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "already_read": false
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 222,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-analyse-und-verstaendnis
+  lines                302  (frontmatter ends at 9)
+  body words           5939
+  headings             2   bold-only lines 33
+  table rows           0   code fences 0
+  question marks       10
+  backslash escapes    8
+  typographic marks    28   ascii quotes 32
+  invisible characters U+200Bx10
+  math symbol lines    0
+  glued ref numbers    76
+  repeated labels      none
+  longest line         1259 chars
+

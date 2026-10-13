@@ -518,3 +518,21 @@ Stands on the side of one structure under AEGIS with a blind spot shared by the 
 In section 2.1 „On the other, AEGIS escalates its counter-measures.“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L59], and the same line has AEGIS deploy the Guardians, glossed specialized system agents. In section 2.3 the outline plans „The immense stress of AEGIS's escalating attacks, combined with the“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L69] misguided mission given to Kael by the Guardians, so that his internal alliance breaks down. The outline does not say whether the Guardians are separate from AEGIS or part of it beyond calling them its deployed agents.
 
 Stands: in the record's terms the outline sides with Guardians as AEGIS's instruments (the line says it deploys them); it names no other relation, and settles nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint
+
+**The master blueprint stages each Guardian with a specific blind spot, and names AEGIS in Part II through LogOS.**
+
+Part II: „Jeder Guardian wird mit seinem spezifischen“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L46] staged with a „Blinden Fleck“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L46]; the examples given are „scheitert an der parakonsistenten Logik von Junas Existenz“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L50] for LogOS and Mnemosyne distorting Kael's memory of Juna. LogOS also explains „dass AEGIS die Entropie“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L55] must be filtered away.
+
+Standing in the record: one more position, a plan; it decides nothing about the relation of the Guardians to AEGIS.
+
+## 2026-10-12 — `aegis-philosophie-und-manifest-entwicklung`, 2025-04-19, the AEGIS philosophy and manifest
+
+**The AEGIS-philosophy analysis calls AEGIS's blind spots necessary consequences of its structure, and reads its boundary as a definition of the real.**
+
+„keine Systemfehler, sondern notwendige Konsequenzen der spezifischen Struktur“ ^[aegis-philosophie-und-manifest-entwicklung.md:L54]
+
+„AEGIS würde die Grenze nicht als Mangel, sondern als Definition des Realen betrachten“ ^[aegis-philosophie-und-manifest-entwicklung.md:L42]
+
+Bears on position 1, AEGIS as the bearer of the blind spot; no Guardians are named in this document; recorded, nothing decided.

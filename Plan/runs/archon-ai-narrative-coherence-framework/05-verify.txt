@@ -1,0 +1,70 @@
+# 05-verify: commands and output pasted
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "proposed"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`proposed` ^[archon-ai-narrative-coherence-framework.md:#5]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "case study"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`case study` ^[archon-ai-narrative-coherence-framework.md:#6]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[archon-ai-narrative-coherence-framework.md:#1]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "Zugriff am"
+whole word, case-sensitive     63
+whole word, case-insensitive   63
+including compounds            63
+
+`Zugriff am` ^[archon-ai-narrative-coherence-framework.md:#63]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokoll` ^[archon-ai-narrative-coherence-framework.md:#2]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[archon-ai-narrative-coherence-framework.md:#0]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "ARCHON"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`ARCHON` ^[archon-ai-narrative-coherence-framework.md:#36]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "NCP"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`NCP` ^[archon-ai-narrative-coherence-framework.md:#16]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "Narrative Context Protocol"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Narrative Context Protocol` ^[archon-ai-narrative-coherence-framework.md:#5]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "Dramatica"
+whole word, case-sensitive     27
+whole word, case-insensitive   32
+including compounds            28
+
+`Dramatica` ^[archon-ai-narrative-coherence-framework.md:#27]
+$ python3 scripts/read.py archon-ai-narrative-coherence-framework --count "novel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            9
+
+`novel` ^[archon-ai-narrative-coherence-framework.md:#3]
+stance_marker_count 11 = proposed (5) + case study (6), case-sensitive whole word
+63 reference entries = Zugriff am whole word 63; 336-274+1=63 lines L274..L336
+67 glued ref numbers, 23 backslash escapes, 49 candidates: from 01-profile.txt / 04-counts.txt

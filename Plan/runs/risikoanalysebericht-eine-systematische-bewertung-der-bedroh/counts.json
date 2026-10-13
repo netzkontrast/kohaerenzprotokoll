@@ -1,0 +1,346 @@
+{
+  "document": "risikoanalysebericht-eine-systematische-bewertung-der-bedroh",
+  "drive_id": "1BT0nrQwhghG6GufU-cWFZE--uB07FisaOdc3g5XZ7Tw",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        23,
+        50,
+        71,
+        73,
+        75,
+        77,
+        81,
+        85
+      ]
+    },
+    "AEGIS-Protokoll": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        50,
+        81
+      ]
+    },
+    "AEGIS-System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "AEGIS-Paradigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        85
+      ]
+    },
+    "Genesis Crisis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Separation Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Entropie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        77
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        81
+      ]
+    },
+    "rifts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Bedrohungsvektor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Isolationseinwandes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Isolation Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        81
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Korrespondenztheorie der Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        9,
+        77
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        9,
+        77
+      ]
+    },
+    "Blick von Nirgendwo": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        7,
+        89
+      ]
+    },
+    "Blicks von Nirgendwo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "View from Nowhere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        7
+      ]
+    },
+    "erkenntnistheoretischer Schock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Kognitive Verzerrungen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        41
+      ]
+    },
+    "Cognitive Biases": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Bestätigungsfehler": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        46,
+        50,
+        85
+      ]
+    },
+    "Ankerheuristik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Framing-Effekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Messfehler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Operationalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Reproduzierbarkeitskrise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        95
+      ]
+    },
+    "Peer-Review-Prozess": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Theoriebeladenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "Theory-Ladenness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Paradigmen": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        23,
+        93
+      ]
+    },
+    "Inkommensurabilität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        23
+      ]
+    },
+    "Phänomene": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        27
+      ]
+    },
+    "Noumena": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27
+      ]
+    },
+    "Macht/Wissen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        31
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Standpunkttheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Standpoint Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "starken Objektivität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "strong objectivity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    }
+  }
+}

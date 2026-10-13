@@ -1,0 +1,51 @@
+# counts for 41 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  coherence                       121 word   153 in   [22, 24, 32, 40, 48, 50]
+                                    5      as Coherence_
+                                    1      as coherence-theory-truth-philosophy
+                                    1      as Coherence-length-and-holography
+                                    1      as coherence-length
+  Coherence Theory of Truth         3 word     3 in   [36, 344, 345]
+  correspondence theory of truth    2 word     2 in   [48, 64]
+  Correspondence                    2 word     2 in   [44, 347]
+                                    1      as correspondence-or-coherence
+  Isolation Objection               2 word     2 in   [54, 88]
+  Alternative Systems Objection     1 word     1 in   [90]
+  coherentism                       2 word     2 in   [62, 72]
+  regress argument                  1 word     1 in   [72]
+  Foundationalist theories          1 word     1 in   [78]
+  Cohesion                          3 word     3 in   [112, 118]
+  schemata                          2 word     2 in   [120, 132]
+  Logical Ordering                  1 word     1 in   [147]
+  Thematic Unity                    1 word     1 in   [148]
+  Repetition of Key Nouns           1 word     1 in   [149]
+  Use of Synonyms                   1 word     1 in   [150]
+  Consistent Pronoun Reference      1 word     1 in   [151]
+  Transition Signals                1 word     1 in   [152]
+  Parallel Structure                1 word     1 in   [153]
+  Schema Activation                 1 word     1 in   [154]
+  Optical Coherence                 1 word     1 in   [181]
+  Temporal Coherence                3 word     3 in   [189, 218, 364]
+  Spatial Coherence                 3 word     3 in   [205, 218, 364]
+  Quantum Coherence                 4 word     4 in   [227, 366, 368, 369]
+  Coherence Time                    2 word     2 in   [200, 221]
+  Coherence Length                  4 word     4 in   [201, 221, 374, 376]
+  Coherence Area                    2 word     2 in   [212, 221]
+  monochromaticity                  1 word     1 in   [195]
+  decoherence                       6 word     6 in   [234, 236, 329, 331, 369]
+  stimulated emission               1 word     1 in   [246]
+  population inversion              1 word     1 in   [246]
+  reference beam                    2 word     2 in   [247]
+  object beam                       1 word     2 in   [247, 249]
+  Michelson interferometer          1 word     1 in   [214]
+  magnitude-squared coherence function    1 word     1 in   [275]
+  auto-spectral densities           1 word     1 in   [281]
+  cross-spectral density            2 word     2 in   [282]
+  dynamic functional connectivity    1 word     1 in   [317]
+  fragility of coherence            1 word     1 in   [331]
+  internal coherence and external correspondence    1 word     1 in   [329]
+  correspondence check              2 word     2 in   [90, 236]
+  Holography                        4 word     4 in   [240, 247, 375]

@@ -1,0 +1,132 @@
+{
+  "document": "kapitel-17",
+  "drive_id": "1Nz3mpGbtIiuqN0GV-yMgW4psw52dqZWqOBSKc1rSTPw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one chapter reading (kap-17) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-298/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 40,
+    "decisions": 47,
+    "decided_by_lookup": 32,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plan for one chapter: its new surfaces are its blueprint steps, the place names and constructs of the hunt, the alters it names and its group headings; what it says of Cerberus, Kael, AEGIS, the alters, Juna, Silas and LogOS went on existing pages, and the plan on the chapter page kap-17.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        47
+      ],
+      "attribution": "",
+      "note": "AEGIS as the source of the escalation"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        36,
+        37,
+        38
+      ],
+      "attribution": "",
+      "note": "alters in the proposed moments"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        13,
+        20,
+        21,
+        22,
+        23,
+        46
+      ],
+      "attribution": "",
+      "note": "escalation as proposed"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        13,
+        32
+      ],
+      "attribution": "",
+      "note": "only in compounds"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        36,
+        37,
+        38
+      ],
+      "attribution": "",
+      "note": "the target of the proposed hunt"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "hesitating, pointing to the next step"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "named as a possible protector"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      17
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Cerberus` with `Cerberus 2.0`, `Cerberus' Konstrukte` and `Cerberus' Protokoll: Eskalation der Abwehr` on cerberus, the labels not promoted; `Kael` and `Zielobjekt Kael` on kael; `AEGIS` and `AEGIS v1.5` on aegis; `Juna-Fokussierung` and `Juna-Spur-Ort` on juna; `Echo` a vulnerable part, on alters",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "AEGIS's definition it enforces, read on aegis"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 45,
+      "decision": "occurrence",
+      "why": "a hedged option in a plan, read on the chapter page"
+    }
+  ],
+  "not_promoted": [
+    "the Steps 2.3–2.5 and Blueprint V2",
+    "the Schattenlabyrinth, KW3, System-Alarmstufe Rot",
+    "the Abwehrdrohnen and Schattenkonstrukte, Cerberus 2.0",
+    "the Manager-Alter, Praetor, Index, Limina, Flicker, Nox",
+    "the plan's group headings"
+  ],
+  "internal_tension": "it offers two places for the threat, cross-world influence or a forced return to KW3, joined by Alternativ (L20, L21), and leaves the ending open (L62)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

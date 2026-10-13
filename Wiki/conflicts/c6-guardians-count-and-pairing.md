@@ -698,3 +698,11 @@ Where it stands in the record's own terms: five names at L143 and four entries a
 It writes: „Die spezialisierten Guardians, die jeweils eine Kernwelt überwachen“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], and assigns by world: „LogOS (KW1) soll Kaels Denkmuster normieren und logische Abweichungen korrigieren“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], „Mnemosyne (KW2) soll potenziell destabilisierende Erinnerungen und emotionale Resonanzen löschen oder neutralisieren“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], „Cerberus (KW3) soll Kael isolieren und jegliche externe Verbindung“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65], „Kairos (KW4) soll Kaels Handlungsmöglichkeiten beschneiden“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L65]. The name `Sophia` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#0] does not stand in the blueprint.
 
 Stands on position 2 of the record's table, four bearers one per KW1–KW4, in the record's own terms; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-11 — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible
+
+**The world bible names four Guardians and no Sophia.**
+
+It names the Guardians once: „LogOS, Mnemosyne, Cerberus, and Kairos“ ^[the-coherence-protocol-a-world-bible.md:L80]. The name `Sophia` ^[the-coherence-protocol-a-world-bible.md:#0] stands nowhere in the document. The four Core Worlds are listed separately: „Logos-Prime“ ^[the-coherence-protocol-a-world-bible.md:L162], „Mnemosyne-Archipel“ ^[the-coherence-protocol-a-world-bible.md:L163], „Cerberus-Labyrinth“ ^[the-coherence-protocol-a-world-bible.md:L164] and „Kairos-Potentialis“ ^[the-coherence-protocol-a-world-bible.md:L165].
+
+Stands as one more position in the record's terms: four named Guardians, no Sophia; the count and the pairing are not decided here.

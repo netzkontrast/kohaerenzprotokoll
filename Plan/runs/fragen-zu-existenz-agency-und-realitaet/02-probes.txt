@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      79
+  backslash escapes      21
+  typographic marks      44
+  ascii quotes           350
+
+# inflection families -- one term, several surfaces
+  narra    NARRATIVE, Narration, Narrativ, Narrative, Narrativen, Narrativer
+  syste    System, Systematic, Systematischen, Systeme, Systems, Systemtheoretische
+  fragm    Fragment, Fragmente, Fragmentierung, Fragmentierungs, Fragments
+  selbs    Selbst, Selbstassemblierung, Selbsterhaltung, Selbstregulation, Selbstzerstörung
+  funda    FUNDAMENTE, Fundament, Fundamente, Fundamenten
+  handl    Handlung, Handlungsbogen, Handlungsbogens, Handlungslogik
+  proje    Projekt, Projektdesign, Projektkorpus, Projekts
+  quant    Quanten, Quantenmechanik, Quantenschaum, Quantenverschränkung
+  unive    Universe, Universen, Universum, Universums
+  antag    Antagonismen, Antagonismus, Antagonist
+  antei    Anteil, Anteile, Anteilen
+  besch    Beschreibt, Beschreibung, Beschützer
+  clust    Cluster, Clustern, Clusters
+  diese    Diese, Dieser, Dieses
+  grund    GRUNDLAGEN, Grundlage, Grundlagen
+  infor    Informationen, Informationsbarriere, Informationsmuster
+  inter    Interne, Interpretation, Intervention
+  konfl    Konflikt, Konflikte, Konflikts
+  konta    Kontakt, Kontakte, Kontakts
+  leben    Leben, Lebens, Lebensformen
+  metap    METAPHYSISCHE, Metapher, Metaphysischen
+  nicht    Nicht, Nichtlokalität, Nichts
+  philo    Philosophie, Philosophisch, Philosophische
+  poten    Potentialität, Potentialmeer, Potentialmeers
+  proto    Protocol, Protokoll, Protokolls
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Kontakte
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Proteine
+  Eine < Allgemeine
+  Eins < Seins
+  Eins < Kleinsten
+  Eins < Bewusstseins
+  Form < Formale
+  Form < Formierung
+  Form < Lebensformen
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsmuster
+  Form < Informationsbarriere
+  Gold < Goldene
+  Kael < Kaels
+  Kern < Kernkraft

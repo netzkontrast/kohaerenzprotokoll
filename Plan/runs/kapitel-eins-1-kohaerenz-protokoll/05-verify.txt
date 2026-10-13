@@ -1,0 +1,50 @@
+$ python3 scripts/read.py kapitel-eins-1-kohaerenz-protokoll --count "Logische Korrektur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Logische Korrektur` ^[kapitel-eins-1-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py kapitel-eins-1-kohaerenz-protokoll --count "Systeminterferenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Systeminterferenz` ^[kapitel-eins-1-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py kapitel-eins-1-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[kapitel-eins-1-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py kapitel-eins-1-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[kapitel-eins-1-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py kapitel-eins-1-kohaerenz-protokoll --count "Entropie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropie` ^[kapitel-eins-1-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py kapitel-eins-1-kohaerenz-protokoll --count "LogOS"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`LogOS` ^[kapitel-eins-1-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py kapitel-eins-1-kohaerenz-protokoll --count "AEGIS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`AEGIS` ^[kapitel-eins-1-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py kapitel-eins-1-kohaerenz-protokoll --count "Uncanny Valley"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Uncanny Valley` ^[kapitel-eins-1-kohaerenz-protokoll.md:#1]
+stance_marker_count 2 = Logische Korrektur 1 + Systeminterferenz 1
+census: 26 candidates (25 main + 1 lens) from 04-counts.txt header; zeros: 0

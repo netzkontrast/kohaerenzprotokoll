@@ -1,0 +1,57 @@
+# counts for 39 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            93 word    97 in   [11, 17, 19, 21, 27, 29]
+                                    1      as AEGIS-spezifischer
+                                    1      as AEGIS-Dokumenten
+  Kael-Juna-Phänomen               13 word    17 in   [17, 21, 27, 35, 37, 39]
+                                    4      as Kael-Juna-Phänomens
+  Kael-Juna-Anomalie                3 word     3 in   [33, 100, 113]
+  Kael-Juna                         6 word    26 in   [17, 21, 27, 33, 35, 37]  <-- substring
+                                   13      as Kael-Juna-Phänomen
+                                    4      as Kael-Juna-Phänomens
+                                    3      as Kael-Juna-Anomalie
+  operationale Awareness            3 word     3 in   [19, 33, 57]
+  Primärdirektive                   9 word     9 in   [33, 39, 41, 49, 51, 100]
+  Entropieminimierung               3 word     3 in   [35, 41, 49]
+  Entropiegleichung                 2 word     2 in   [115, 130]
+  Entropiekalkül                    1 word     1 in   [112]
+  Negentropie                       4 word     5 in   [27, 35, 115]
+                                    1      as Negentropie-Flut
+  Entropie                          9 word    16 in   [27, 35, 41, 49, 112, 115]
+                                    3      as Entropieminimierung
+                                    2      as Entropiegleichung
+                                    1      as Entropiekalkül
+                                    1      as Entropie-Neubewertung
+  negentropische Anomalie           1 word     1 in   [35]
+  unmodellierbare Variable          1 word     1 in   [45]
+  ontologische Bedrohung            1 word     1 in   [51]
+  Logik-Gott                        4 word     4 in   [37, 63, 120]
+  Logik-Gott am Rande des Paradoxons    2 word     2 in   [63]
+  kalte Sonne der Ordnung           2 word     2 in   [63]
+  Nichts Rauschen                   3 word     3 in   [37, 85, 118]
+  Dystopian-Clear Twist             3 word     3 in   [51, 75, 102]
+  Synth Goth / Dystopian Future Synth    2 word     2 in   [69, 73]
+  Suno-Tags                         2 word     2 in   [65, 67]
+  Singularitätsprotokoll            1 word     1 in   [89]
+  Singularität                      5 word     8 in   [11, 21, 89, 122, 126, 130]
+                                    1      as Singularitätsprotokoll
+                                    1      as Singularitäten
+  Verarbeitungsüberlastung          3 word     3 in   [79, 81, 102]
+  Zielplastizität                   1 word     1 in   [49]
+  MODEL\_CONVERGENCE\_FAILURE       4 word     4 in   [41, 59, 73, 116]
+  UNIDENTIFIED\_NEGENTROPIC\_FIELD    2 word     2 in   [59]
+  BOOT\_SEQUENCE\_RECALIBRATE       2 word     2 in   [93, 112]
+  FINAL\_DIRECTIVE\_OMEGA           3 word     3 in   [93, 104, 124]
+  PROTOCOL\_TERMINATE\_QUERY        3 word     3 in   [93, 104, 124]
+  LOGIC\_GOD\_FRACTURES             1 word     1 in   [120]
+  VOID\_RESONANCE                   1 word     1 in   [118]
+  Gödels Unvollständigkeitssätzen    2 word     2 in   [27, 37]
+  autopoietisches System            1 word     1 in   [39]
+  Simulationshypothese              1 word     1 in   [39]
+  Ashbys Gesetz der erforderlichen Vielfalt    1 word     1 in   [45]
+  Wertausrichtungsproblematik       1 word     1 in   [49]
+  informationstheoretischer Sicht    1 word     1 in   [47]
+  instrumentelle Konvergenz         2 word     2 in   [49, 100]

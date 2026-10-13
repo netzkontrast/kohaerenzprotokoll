@@ -1,0 +1,77 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                4 word     5 in   [152, 154, 176, 188, 249]
+  Kael                              2 word     6 in   [156, 165, 169, 183]  <-- substring
+                                    4      as Kaels
+  AEGIS                             2 word     4 in   [156, 165, 183]
+                                    1      as AEGIS-Matrix
+                                    1      as AEGIS-System
+  Juna                              2 word     2 in   [156, 184]
+  Kohärenz-Kernel                   1 word     1 in   [156]
+  Kollaps-Kernel                    1 word     1 in   [156]
+  Dual Kernel Theory                2 word     2 in   [154, 179]
+  DKT                               1 word     1 in   [154]
+  Tertiärer Struktureller Dissoziation der Persönlichkeit    1 word     1 in   [156]
+  TSDP                              1 word     1 in   [156]
+  Gamma-7                           1 word     1 in   [165]
+  Void                              1 word     1 in   [178]
+  Praetor                           1 word     1 in   [172]
+  Echo von Panik                    1 word     1 in   [172]
+  Trauma-Holding-Alter              1 word     1 in   [172]
+  Story Mind                        2 word     2 in   [156, 192]
+  Exekutivsystem                    1 word     1 in   [171]
+  Systemische Stabilität            1 word     1 in   [172]
+  Fokus-Slider                      1 word     1 in   [184]
+  Rauschen                          2 word     2 in   [165, 184]
+  Text Overstep                     1 word     1 in   [184]
+  Alter-Verhandlung                 1 word     1 in   [167]
+  Internal Party Management         1 word     1 in   [167]
+  Memory Decryption                 1 word     1 in   [174]
+  Ontologische Ausrichtung          1 word     1 in   [160]
+  Core Gameplay Mechanics           1 word     1 in   [158]
+  Drama Manager                     8 word     8 in   [29, 31, 35, 43, 47, 51]
+  Experience Manager                4 word     4 in   [31, 45, 47]
+  Authorial Experience Manager      1 word     1 in   [47]
+  Hierarchical Task Network         1 word     4 in   [49, 51, 188, 211]  <-- substring
+  HTN                               5 word    11 in   [29, 49, 51, 53, 167, 172]  <-- substring
+  Storylets                         4 word     4 in   [59, 63]
+  Salienz                           3 word     3 in   [59, 63, 172]
+  Lorebook                         10 word    15 in   [83, 85, 87, 89, 91, 114]
+                                    3      as Lorebooks
+                                    1      as Lorebook-Einträge
+                                    1      as Lorebook-99b2b65d
+  Player-Created Content            4 word     4 in   [83, 85, 179, 190]
+  PCC                               3 word     3 in   [83, 100, 174]
+  RAG                               6 word    12 in   [85, 93, 95, 98, 102, 144]
+  Retrieval-Augmented Generation    2 word     2 in   [85, 178]
+  Retrieval-Augmented Story Engine    1 word     1 in   [99]
+  RASE                              3 word     3 in   [99, 233]
+  Authorial Anchors                 1 word     1 in   [100]
+  Narratives Outpainting            1 word     1 in   [100]
+  Ankerszenen                       1 word     1 in   [100]
+  Diegetisches Interface            1 word     1 in   [117]
+  Glitch-Ästhetik                   2 word     2 in   [121, 123]
+  Progressive Disclosure            1 word     1 in   [114]
+  Goldfish Memory                   2 word     2 in   [131, 253]
+  Neurosymbolic Guardrails          1 word     1 in   [190]
+  Multi-Agent Validation            1 word     1 in   [145]
+  Debate Protocol                   1 word     2 in   [145, 179]
+  SCORE Framework                   1 word     1 in   [146]
+  Tool Calling                      1 word     1 in   [147]
+  Clocks                            1 word     1 in   [79]
+  Success at a cost                 1 word     1 in   [80]
+  Search-Based Drama Management     1 word     1 in   [39]
+  SBDM                              1 word     1 in   [39]
+  Declarative Optimization-based Drama Management    1 word     1 in   [40]
+  DODM                              3 word     3 in   [40, 41]
+  Targeted Trajectory Distribution MDPs    1 word     1 in   [41]
+  Director-Actor-Paradigma          1 word     1 in   [23]
+  Director Agent                    1 word     1 in   [23]
+  Actor Agents                      1 word     1 in   [23]
+  Branching Narratives              2 word     2 in   [15, 59]
+  Grand Argument Story              1 word     1 in   [17]
+  Fehlattributionen von Erregung    1 word     1 in   [165]
+  Dramatica-Theorie                 1 word     1 in   [156]

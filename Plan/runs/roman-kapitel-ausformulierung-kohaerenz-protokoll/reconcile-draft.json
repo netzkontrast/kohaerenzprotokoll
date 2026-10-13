@@ -1,0 +1,171 @@
+{
+  "document": "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+  "drive_id": "1ieQYy4d2jgl8idl6SDi8sk21YvRnWCgcXyNUuLbQ008",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 45,
+    "decisions": 44,
+    "decided_by_lookup": 31,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        62,
+        81
+      ],
+      "attribution": "",
+      "note": "AEGIS named with LogOS as a presence the city is to show"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        37,
+        60,
+        64,
+        68,
+        69
+      ],
+      "attribution": "",
+      "note": "figures tied to intrusions, used as known and hedged in the table"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15,
+        31,
+        135
+      ],
+      "attribution": "",
+      "note": "Kael's DID as a state the chapter shows without explaining"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        55,
+        56,
+        68,
+        79,
+        81,
+        90
+      ],
+      "attribution": "",
+      "note": "the Juna-Enigma, a distance to be kept ambivalent"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        37,
+        38,
+        39,
+        43,
+        44,
+        133
+      ],
+      "attribution": "",
+      "note": "the perception filter of the chapter, and what the guide prescribes for his inner life"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        21,
+        23,
+        24,
+        25,
+        129
+      ],
+      "attribution": "",
+      "note": "the city as mirror, subtle antagonist and monitoring mechanism"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        25,
+        62,
+        81
+      ],
+      "attribution": "",
+      "note": "LogOS named with AEGIS in the city's order"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        76
+      ],
+      "attribution": "",
+      "note": "the landscape as the threshold the last scenes overlap with"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        58,
+        63,
+        74,
+        121,
+        123
+      ],
+      "attribution": "",
+      "note": "the glitch, the anomaly and the cryptic command as steps of the first rifts"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        37,
+        56,
+        70
+      ],
+      "attribution": "",
+      "note": "an intrusion tied to Silas only with a question mark"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 31,
+      "decision": "occurrence",
+      "why": "Kael's unawareness of the simulation, read on kael"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

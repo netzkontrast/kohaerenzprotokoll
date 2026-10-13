@@ -1,0 +1,45 @@
+# numbers stated in census and note
+$ python3 scripts/read.py an-introduction-to-the-coherence-protocol-the-war-for-realit --count "Embodied by"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Embodied by` ^[an-introduction-to-the-coherence-protocol-the-war-for-realit.md:#1]
+$ python3 scripts/read.py an-introduction-to-the-coherence-protocol-the-war-for-realit --count "Function"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Function` ^[an-introduction-to-the-coherence-protocol-the-war-for-realit.md:#2]
+$ python3 scripts/read.py an-introduction-to-the-coherence-protocol-the-war-for-realit --count "Consequence"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Consequence` ^[an-introduction-to-the-coherence-protocol-the-war-for-realit.md:#1]
+$ python3 scripts/read.py an-introduction-to-the-coherence-protocol-the-war-for-realit --count "Associated with"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Associated with` ^[an-introduction-to-the-coherence-protocol-the-war-for-realit.md:#1]
+$ python3 scripts/read.py an-introduction-to-the-coherence-protocol-the-war-for-realit --count "Role in the Story"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Role in the Story` ^[an-introduction-to-the-coherence-protocol-the-war-for-realit.md:#1]
+$ python3 scripts/read.py an-introduction-to-the-coherence-protocol-the-war-for-realit --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[an-introduction-to-the-coherence-protocol-the-war-for-realit.md:#0]
+$ python3 scripts/read.py an-introduction-to-the-coherence-protocol-the-war-for-realit --count "Chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[an-introduction-to-the-coherence-protocol-the-war-for-realit.md:#0]
+stance_marker_count 6 = 1 (Embodied by) + 2 (Function) + 1 + 1 + 1 (whole word, case-sensitive)
+70 ASCII quotes and 0 question marks: from 01-profile.txt

@@ -1,0 +1,59 @@
+# counts for 44 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             13 word    13 in   [17, 23, 25, 29, 31, 33]
+  Juna                              5 word     6 in   [21, 27, 29, 43, 53]
+                                    1      as Junas
+  Jansen                            4 word     4 in   [43, 45, 49]
+  LogOS                             3 word     3 in   [27, 31, 39]
+  AEGIS                             1 word     1 in   [31]
+  Konstrukt-Stadt                   4 word     4 in   [35, 61, 71, 73]
+  KW1                               1 word     1 in   [73]
+  Transitkorridor                   1 word     1 in   [31]
+  Datenknotenpunkt Gamma-7          1 word     1 in   [35]
+  Gamma-7                           1 word     1 in   [35]
+  Knotenpunkt                       1 word     1 in   [51]
+  Wohneinheit                       2 word     2 in   [55, 57]
+  Panoramafenster                   1 word     1 in   [61]
+  Pausenraum                        1 word     1 in   [43]
+  Sektor Delta                      1 word     1 in   [45]
+  Architekten                       2 word     2 in   [35, 41]
+  Architekt                         1 word     6 in   [19, 35, 37, 41, 51, 71]  <-- substring
+                                    3      as Architektur
+                                    2      as Architekten
+  Praetor                           4 word     4 in   [35, 39, 51, 61]
+  Cerberus                          2 word     2 in   [39, 51]
+  Nox                               3 word     3 in   [41, 49, 53]
+  Kairos                            2 word     2 in   [41, 69]
+  Echo                              7 word    10 in   [29, 35, 39, 43, 53, 57]
+                                    3      as Echos
+  Silas                             2 word     2 in   [57, 59]
+  Anomalie                          5 word     5 in   [41, 43, 49]
+  Glitch                            1 word     1 in   [41]
+  Intrusion                         4 word     4 in   [29, 57]
+  Riss                              1 word     4 in   [33, 37, 51, 57]  <-- substring
+                                    2      as Risse
+                                    1      as Rissen
+  Risse                             2 word     3 in   [37, 51, 57]
+                                    1      as Rissen
+  Naht                              1 word     1 in   [67]
+                                    1      as nahtlose
+  Finde die Naht                    1 word     1 in   [67]
+  Alters                            2 word     2 in   [63, 90]
+  Systeminterferenz                 1 word     1 in   [29]
+  Reboot-Zyklus                     1 word     1 in   [29]
+  Remote-Check-in                   1 word     1 in   [53]
+  Statusbericht                     1 word     1 in   [23]
+  Ich-Fehler                        1 word     1 in   [33]
+  Matrix                            1 word     1 in   [71]
+  Protokoll                         2 word     4 in   [11, 23, 41, 49]
+                                    1      as Protokolle
+                                    1      as Protokolls
+  Depersonalisation                 2 word     2 in   [17, 55]
+  Tal des Unwirklichen              1 word     1 in   [19]
+  Projektion                        1 word     1 in   [53]
+  Fragmentierung                    2 word     2 in   [55, 75]
+  Zerrissenheit                     3 word     3 in   [53, 63, 75]
+  Als ob                            1 word     1 in   [17]

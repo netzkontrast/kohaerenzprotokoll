@@ -1,0 +1,14 @@
+# the-k-j-connection-defining-the-non-algorithmic-mechanism-of
+  lines                77  (frontmatter ends at 9)
+  body words           1874
+  headings             7   bold-only lines 2
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    44
+  typographic marks    16   ascii quotes 58
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    2
+  repeated labels      none
+  longest line         979 chars
+

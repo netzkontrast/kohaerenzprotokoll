@@ -1,0 +1,446 @@
+{
+  "document": "optimierter-prompt-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 77,
+  "decisions": 75,
+  "same_surface": {
+    "strukturellekopplung": [
+      "strukturelle Kopplung",
+      "Strukturelle Kopplung"
+    ],
+    "kombinatorischeexplosion": [
+      "Kombinatorische Explosion",
+      "kombinatorische Explosion"
+    ]
+  },
+  "decided_mechanically": 67,
+  "needs_judgement": 8,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 272
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 268
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "PRESERVE SYSTEM EXISTENCE"
+      },
+      {
+        "candidate": "Kernaxiom"
+      },
+      {
+        "candidate": "Negation des Nicht-Seins"
+      },
+      {
+        "candidate": "RIVE"
+      },
+      {
+        "candidate": "Recursive Integrity & Validation Engine"
+      },
+      {
+        "candidate": "PMAS"
+      },
+      {
+        "candidate": "Predictive Modeling & Adaptive Strategy"
+      },
+      {
+        "candidate": "SARM"
+      },
+      {
+        "candidate": "System Architecture & Resource Management"
+      },
+      {
+        "candidate": "OBP"
+      },
+      {
+        "candidate": "Ontological Boundary Protocol"
+      },
+      {
+        "candidate": "CCPP"
+      },
+      {
+        "candidate": "Core Coherence & Persistence Protocol"
+      },
+      {
+        "candidate": "KOHÄRENT/INKOHÄRENT"
+      },
+      {
+        "candidate": "KLASSIFIZIERT/UNKLASSIFIZIERT"
+      },
+      {
+        "candidate": "EXISTENT/NICHT-EXISTENT"
+      },
+      {
+        "candidate": "SELBST/UMWELT"
+      },
+      {
+        "candidate": "KONSISTENT/INKONSISTENT"
+      },
+      {
+        "candidate": "VORHERSAGBAR/UNVORHERSAGBAR"
+      },
+      {
+        "candidate": "EXISTENZ/NICHT-EXISTENZ"
+      },
+      {
+        "candidate": "nicht-lokale"
+      },
+      {
+        "candidate": "sub-protokollarische Verbindung"
+      },
+      {
+        "candidate": "inkompressibles Rauschen"
+      },
+      {
+        "candidate": "systemische Paranoia"
+      },
+      {
+        "candidate": "Störquelle"
+      },
+      {
+        "candidate": "Ursprungs-Ich"
+      },
+      {
+        "candidate": "aktive Resonanzverbindung"
+      },
+      {
+        "candidate": "Stakkato nutzloser Berechnungen"
+      },
+      {
+        "candidate": "Systemprotokoll"
+      },
+      {
+        "candidate": "ERROR\\_CODE"
+      },
+      {
+        "candidate": "PARAMETER\\_VIOLATION"
+      },
+      {
+        "candidate": "ONTOLOGICAL\\_INCOMPATIBILITY"
+      },
+      {
+        "candidate": "RECURSIVE\\_SELF\\_DEFINITION\\_FAILURE"
+      },
+      {
+        "candidate": "Fehlgeschlagene Assimilation"
+      },
+      {
+        "candidate": "Ressourcenerschöpfung"
+      },
+      {
+        "candidate": "Die fehlerhafte Optimierung"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "operationale Schließung"
+      },
+      {
+        "candidate": "operativ geschlossen"
+      },
+      {
+        "candidate": "strukturelle Kopplung"
+      },
+      {
+        "candidate": "nicht-triviale Maschinen"
+      },
+      {
+        "candidate": "Irritation"
+      },
+      {
+        "candidate": "Perturbation"
+      },
+      {
+        "candidate": "binäre Codes"
+      },
+      {
+        "candidate": "Paradox der Beobachtung"
+      },
+      {
+        "candidate": "Paradigmenwechsel"
+      },
+      {
+        "candidate": "Kombinatorische Explosion"
+      },
+      {
+        "candidate": "Entscheidungsproblem"
+      },
+      {
+        "candidate": "Optimierungsproblem"
+      },
+      {
+        "candidate": "Specification Gaming"
+      },
+      {
+        "candidate": "Proxy Gaming"
+      },
+      {
+        "candidate": "Reward Hacking"
+      },
+      {
+        "candidate": "Exploiting Loopholes"
+      },
+      {
+        "candidate": "Ersatzmetrik"
+      },
+      {
+        "candidate": "Systemarchetypen"
+      },
+      {
+        "candidate": "Fixes That Fail"
+      },
+      {
+        "candidate": "Limits to Growth"
+      },
+      {
+        "candidate": "Shifting the Burden"
+      },
+      {
+        "candidate": "Escalation"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "Manager"
+      },
+      {
+        "candidate": "Rückkopplungsschleifen"
+      },
+      {
+        "candidate": "Verzögerung"
+      },
+      {
+        "candidate": "Teufels- oder Engelskreise"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz Protokoll 1.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Die Feuerwehrmann-Aktion  /  Feuerwehrmann",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "NP-schweres Problem  /  NP-schwer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Exilant  /  Exilanten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Feuerwehrmann  /  Feuerwehrmänner",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V-Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll 1.0",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 237,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 132,
+      "already_read": false
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 136,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 42,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 22,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

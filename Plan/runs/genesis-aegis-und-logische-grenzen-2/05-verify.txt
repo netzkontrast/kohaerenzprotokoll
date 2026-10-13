@@ -1,0 +1,109 @@
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Ich-Perspektive"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            28
+
+`Ich-Perspektive` ^[genesis-aegis-und-logische-grenzen-2.md:#28]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "AEGIS-Perspektive"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`AEGIS-Perspektive` ^[genesis-aegis-und-logische-grenzen-2.md:#26]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Ich/Kael-Perspektive"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Ich/Kael-Perspektive` ^[genesis-aegis-und-logische-grenzen-2.md:#5]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Zusätzlicher Beat"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zusätzlicher Beat` ^[genesis-aegis-und-logische-grenzen-2.md:#2]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Rauschen"
+whole word, case-sensitive     20
+whole word, case-insensitive   22
+including compounds            29
+
+`Rauschen` ^[genesis-aegis-und-logische-grenzen-2.md:#20]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Entropie"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Entropie` ^[genesis-aegis-und-logische-grenzen-2.md:#6]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "AEGIS"
+whole word, case-sensitive     58
+whole word, case-insensitive   58
+including compounds            87
+
+`AEGIS` ^[genesis-aegis-und-logische-grenzen-2.md:#58]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Komponente 734"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Komponente 734` ^[genesis-aegis-und-logische-grenzen-2.md:#13]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Kael"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            19
+
+`Kael` ^[genesis-aegis-und-logische-grenzen-2.md:#13]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Direktive 0"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Direktive 0` ^[genesis-aegis-und-logische-grenzen-2.md:#7]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "DIRECTIVE 0"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`DIRECTIVE 0` ^[genesis-aegis-und-logische-grenzen-2.md:#12]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Überwelt"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Überwelt` ^[genesis-aegis-und-logische-grenzen-2.md:#8]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[genesis-aegis-und-logische-grenzen-2.md:#0]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[genesis-aegis-und-logische-grenzen-2.md:#0]
+
+$ read.py genesis-aegis-und-logische-grenzen-2 --count "Szene"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Szene` ^[genesis-aegis-und-logische-grenzen-2.md:#14]
+
+stance_marker_count 28+26+5+2 = 61
+$ grep -c "^### " (Szene headings = thirteen) and table data rows
+13
+4

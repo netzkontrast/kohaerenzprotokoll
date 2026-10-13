@@ -1,0 +1,325 @@
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Status"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Status` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#8]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Konfidenz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Konfidenz` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#3]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Flag"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`Flag` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#4]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Evidenz contra"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Evidenz contra` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#8]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Überlebender Zweig"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Überlebender Zweig` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#4]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Bruchstelle der Metapher"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Bruchstelle der Metapher` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#4]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "HIGH"
+whole word, case-sensitive     5
+whole word, case-insensitive   12
+including compounds            5
+
+`HIGH` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#5]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "MEDIUM"
+whole word, case-sensitive     1
+whole word, case-insensitive   20
+including compounds            1
+
+`MEDIUM` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Throughline"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            53
+
+`Throughline` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#9]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Throughlines"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Throughlines` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#6]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Dramatica-Throughlines"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dramatica-Throughlines` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Story Minds"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Story Minds` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#3]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Story Mind"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`Story Mind` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#3]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Entangled Paths"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entangled Paths` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Justifications"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Justifications` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Qualia-Theorie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Qualia-Theorie` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Qualia-Forschung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Qualia-Forschung` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Main Characters"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Main Characters` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#3]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Zero-Knowledge-Verifier"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zero-Knowledge-Verifier` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#3]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "K1-Kern"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`K1-Kern` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#3]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "MC-Throughline"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`MC-Throughline` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#3]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "DKT-Interface"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DKT-Interface` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "I-Throughline"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`I-Throughline` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#10]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Zugriff am April 26, 2026"
+whole word, case-sensitive     65
+whole word, case-insensitive   65
+including compounds            65
+
+`Zugriff am April 26, 2026` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#65]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Gewand Argument"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gewand Argument` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Grand Argument"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Grand Argument` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#15]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Four Throughlines"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Four Throughlines` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Four Domains"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Four Domains` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Stability Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Stability Kernel` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Drift Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Drift Kernel` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Erasure Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Erasure Kernel` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Witness Function"
+whole word, case-sensitive     11
+whole word, case-insensitive   13
+including compounds            11
+
+`Witness Function` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#11]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Story Limit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Story Limit` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#1]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#0]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#0]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#0]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#0]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Nexus"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nexus` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#0]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#0]
+
+$ python3 scripts/read.py dramatica-theorie-mapping-auf-wahrheit-bewusstsein --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md:#0]
+
+$ sed -n 1,16p Plan/runs/dramatica-theorie-mapping-auf-wahrheit-bewusstsein/01-profile.txt (279 backslash escapes, 81 glued ref numbers)
+# dramatica-theorie-mapping-auf-wahrheit-bewusstsein
+  lines                500  (frontmatter ends at 9)
+  body words           8057
+  headings             27   bold-only lines 15
+  table rows           32   code fences 0
+  question marks       15
+  backslash escapes    279
+  typographic marks    44   ascii quotes 154
+  invisible characters none
+  math symbol lines    2
+  glued ref numbers    81
+  repeated labels      none
+  longest line         1442 chars
+
+$ head -3 Plan/runs/dramatica-theorie-mapping-auf-wahrheit-bewusstsein/04-counts.txt (97 candidates)
+# counts for 97 candidates
+# line numbers are FILE lines, as a citation writes them
+
+Zeros: 0 per census draft facts (python3 scripts/census.py check dramatica-theorie-mapping-auf-wahrheit-bewusstsein: holds)
+
+$ grep -n -E '^### \*\*Metapher' Sources/drive/dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md
+82:### **Metapher I (Main Character): Der topologische Reparaturoperator (Kintsugi-Knoten)**
+88:### **Metapher You (Influence Character): Das Zero-Knowledge-Orakel**
+92:### **Metapher We (Subjective Story): Das Mykorrhiza-Netzwerk im Quanten-Superpositionszustand**
+98:### **Metapher They (Objective Story): Die thermodynamische Makro-Registrierkasse**
+$ grep -n -E '^\*\*[A-Za-z-]*-?Reflection\*\*' Sources/drive/dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md
+321:**Kickoff-Reflection**
+329:**Mid-Run-Reflection**
+337:**Post-Query-Expansion-Reflection**
+345:**Post-I-Throughline-Reflection (Atlas Check 1)**
+353:**Post-You-Throughline-Reflection (Atlas Check 2)**
+361:**Post-We-Throughline-Reflection (Atlas Check 3)**
+369:**Post-They-Throughline-Reflection (Atlas Check 4)**
+377:**Pre-Synthesis-Reflection**
+385:**Post-Synthesis-Reflection**
+$ grep -n -E '^[12]\.  \*\*' Sources/drive/dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md (open questions, L397-398)
+1.  **Die physikalische Ontologie der We-Throughline jenseit
+2.  **Der exakte thermodynamische Mechanismus der Dramatica 
+$ grep -n -E '^## .*Schritt' Sources/drive/dramatica-theorie-mapping-auf-wahrheit-bewusstsein.md
+27:## **Schritt D — Decomposition**
+53:## **Schritt R — Role-Statement**
+57:## **Schritt A — Atlas (zentrale Mapping-Matrix)**
+80:## **Schritt M — Metaphern (vier zentrale Metaphern)**
+102:## **Schritt S — Grand Argument der Story**

@@ -1,0 +1,96 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is an English-language list of plot questions (interrogatories) in five sections, with German terms in quotation marks; the quotation marks mark the novel's own terms. Lens concepts (Aristotle's Hamartia, Skinner Box, Lifton and Hassan, Whitehead, IFS, TSDP, Gödel) are listed under the lens heading. K1 and K0 are written with subscript digits in the export; I list them as the document writes them. KW1 to KW4 are written with plain digits.
+
+## world
+
+- Protocol Ontology
+- Dual Kernel Theory
+- K₁
+- K₀
+- Coherence
+- Collapse
+- Risse
+- Riss
+- Isolation Objection
+- Corrective Wavelet
+- Overhead
+- protocol failure
+- Potentialmeer
+- Nichts Rauschen
+- Kernwelten
+- Kernwelt
+- KW1
+- Co₁
+- KW2
+- McL
+- Trauma-Landschaft
+- KW3
+- Bunker-Metapher
+- Zero-Trust
+- KW4
+- Ly
+- Schrein
+- Nexus
+- AEGIS
+- Kael
+- System Kael
+- Lex
+- Nyx
+- Kiko
+- Alex
+- Rhys
+- Juna/V
+- ANP
+- EPs
+- Alters
+- Emotional Parts
+- Genesis-Krise
+- LOG 734
+- Resonanzkaskade
+- Sehnsucht
+- Einsamkeit
+- Trennungsprotokoll
+- Separation Protocol
+- Ursprungs-Ich
+- Prime Directive
+- Milieukontrolle
+- beladene Sprache
+- Paradoxon X
+- EP-Überflutung
+- Switching
+- Stabilisierung
+- Konfrontation
+- Integration
+- midpoint revelation
+- dialetheic mind
+- Moonshine-Link
+- Gnosis
+- Exilant
+- Exiled Self
+- Benefizienz
+- Autonomie
+- Auslöschung
+- functional multiplicity
+- living Gödel-Satz
+- Correspondence Check
+- Überwelt
+- Coherence through Exclusion
+- Coherence through Integration
+
+## lens
+
+- Hamartia
+- autopoietic loop
+- Skinner Box
+- Lifton
+- Hassan
+- thought-terminating clichés
+- Tertiary Structural Dissociation
+- TSDP
+- Whitehead
+- prehension
+- quantum entanglement
+- episteme
+- IFS
+- Deus ex Machina

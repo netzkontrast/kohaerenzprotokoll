@@ -1,0 +1,110 @@
+# counts for 82 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            60 word    61 in   [13, 22, 30, 49, 53, 85]
+                                    1      as AEGIS-Subroutine
+  Kael                              7 word     7 in   [53, 173, 364, 380, 381, 421]
+  System Kael                       3 word     3 in   [53, 173, 438]
+  Kernwelten                       20 word    20 in   [26, 30, 53, 57, 96, 105]
+  Kernwelt                          8 word    29 in   [26, 30, 53, 57, 61, 96]  <-- substring
+                                   20      as Kernwelten
+                                    1      as Kernwelt-Konditionierung
+  KW1                               9 word     9 in   [63, 98, 130, 132, 145, 227]
+  KW3                               9 word     9 in   [72, 99, 130, 132, 145, 227]
+  KW1 (Logos-Prime)                 3 word     3 in   [63, 98, 278]
+  Logos-Prime                       3 word     3 in   [63, 98, 278]
+  KW3 (Cerberus-Labyrinth)          3 word     3 in   [72, 99, 277]
+  Cerberus-Labyrinth                3 word     3 in   [72, 99, 277]
+  Lex                              23 word    24 in   [63, 88, 98, 105, 130, 131]
+  Nyx                              16 word    17 in   [72, 88, 99, 130, 184, 227]
+  Rhys                              4 word     5 in   [77, 100, 263, 382]
+  Kiko                              3 word     6 in   [77, 101, 184, 231, 380]
+                                    2      as Kikos
+  Moros                             1 word     1 in   [231]
+  Alex                              1 word     1 in   [264]
+  Selene                            3 word     4 in   [189, 316, 356]
+                                    1      as Selenes
+  Juna/V                            1 word     1 in   [383]
+  Anteile                          32 word    36 in   [53, 88, 105, 130, 143, 149]
+                                    4      as Anteilen
+  Paradoxon X                       1 word     1 in   [173]
+  Paradoxons der Fehlausgerichteten Kohärenz    2 word     2 in   [149, 187]
+  Kohärenz Protokoll                3 word     3 in   [13, 397, 420]
+  TSDP                              1 word     4 in   [97, 149, 420, 421]  <-- substring
+                                    2      as TSDP-Analyse
+                                    1      as TSDP-Aktionssystem
+  Trainingsprotokolle               1 word     1 in   [381]
+  Leistungsbewertung                1 word     1 in   [381]
+  Konditionierungsprotokoll         1 word     1 in   [381]
+  Behandlungsprotokoll              1 word     1 in   [173]
+  Reinraum                          1 word     1 in   [261]
+  Subplot-Dokument                  4 word     5 in   [324, 372, 380, 381, 382]
+                                    1      as Subplot-Dokuments
+  Rückschlag                        1 word     2 in   [324, 382]
+                                    1      as Rückschlag-Szenarien
+  Lex-Box                           1 word     1 in   [63]
+  Nyx-Box                           1 word     1 in   [72]
+  Skinner-Boxen                     2 word     2 in   [26, 30]
+  Kultivierung                      5 word     5 in   [26, 173, 205, 288, 395]
+  Krise der Authentizität           5 word     5 in   [105, 292, 304, 382, 395]
+  Das vergiftete Gold               1 word     1 in   [328]
+  vergiftete Gold                   2 word     2 in   [328, 356]
+  Die Entwirrung                    1 word     1 in   [360]
+  Der ideologische Trichter         1 word     1 in   [201]
+  Der unwissende Agent              1 word     1 in   [235]
+  Der perverse Heiler               1 word     1 in   [153]
+  De-Programmierung                 1 word     1 in   [316]
+  authentischen Kern                2 word     2 in   [316, 395]
+  Asset                             2 word     4 in   [257, 280, 381, 394]
+                                    2      as Assets
+                                    1      as assets
+  Funktionen                        3 word     3 in   [30, 235, 394]
+  Werkzeuge                         1 word     1 in   [253]
+  Vollstrecker                      3 word     3 in   [262, 277, 394]
+  Analyst                           4 word     4 in   [105, 261, 278, 394]
+  Social Engineer                   1 word     1 in   [263]
+  waffenfähigen Geistes             2 word     2 in   [13, 391]
+  Tabelle 1                         1 word     1 in   [96]
+  Tabelle 2                         1 word     1 in   [141]
+  Tabelle 3                         1 word     1 in   [274]
+  operante Konditionierung          2 word     2 in   [38, 53]
+  Positive Verstärkung              2 word     2 in   [40, 97]
+  Negative Verstärkung              2 word     2 in   [41, 97]
+  Positive Bestrafung               1 word     1 in   [42]
+  Negative Bestrafung               1 word     1 in   [43]
+  kontinuierliche Verstärkung       1 word     1 in   [87]
+  intermittierenden Verstärkung     1 word     1 in   [88]
+  variablen Quotenplan              1 word     1 in   [88]
+  Shaping                           1 word     1 in   [87]
+  Milieukontrolle                   3 word     3 in   [121, 130, 143]
+  Informationskontrolle             4 word     4 in   [130, 143, 228, 393]
+  Heilige Wissenschaft              2 word     2 in   [131, 144]
+  Beladene Sprache                  2 word     2 in   [132, 145]
+  Doktrin über die Person           3 word     3 in   [121, 131, 146]
+  Verteilung der Existenzberechtigung    3 word     3 in   [121, 133, 147]
+  BITE-Modell                       1 word     1 in   [122]
+  Gedankenreform                    2 word     2 in   [113, 121]
+  Zwangskontrolle                   8 word     8 in   [109, 113, 141, 149, 391, 393]
+  Iatrogenese                       6 word     6 in   [153, 157, 165, 189, 391, 393]
+  Radikalisierungstrichter          1 word     3 in   [205, 222, 394]  <-- substring
+                                    2      as Radikalisierungstrichtern
+  Stressimpfung                     3 word     3 in   [251, 279]
+  Kompartmentalisierung             2 word     2 in   [252, 280]
+  Kintsugi                          2 word     4 in   [328, 340, 356, 395]
+                                    2      as Kintsugi-Metapher
+  Lifton                           12 word    14 in   [113, 121, 130, 131, 132, 133]
+                                    2      as Liftons
+                                    1      as lifton_thought_reform
+                                    1      as lifton8criteria
+                                    1      as lifton8
+  Hassan                            9 word    11 in   [113, 122, 130, 131, 133, 141]
+                                    2      as Hassans
+  Skinner                           4 word     7 in   [26, 30, 393, 402, 404, 406]
+                                    2      as Skinner-Boxen
+                                    1      as Skinners
+                                    1      as skinner-box
+  SERE                              0 word     1 in   [276]
+                                    1      as SERE-Training
+  Need-to-know                      2 word     2 in   [252, 280]

@@ -1,0 +1,126 @@
+{
+  "document": "dramatica-storyform-kohaerenz-protokoll-2",
+  "drive_id": "10ibpIv580PQJw3s-igcnVzW8cBSryWxWOf7VxoI7kuc",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 11,
+  "ascii_quotes": 66,
+  "inflection_families": {
+    "inter": [
+      "Interacting",
+      "Interest",
+      "Internal"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenztheorie"
+    ],
+    "logic": [
+      "Logic",
+      "Logical"
+    ],
+    "objec": [
+      "Objection",
+      "Objective"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychology"
+    ],
+    "resol": [
+      "Resolution",
+      "Resolve"
+    ],
+    "setti": [
+      "Setting",
+      "Settings"
+    ],
+    "story": [
+      "Story",
+      "Storyform"
+    ],
+    "subsy": [
+      "Subsystem",
+      "Subsystems"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Main",
+      "Domain"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Story",
+      "Storyform"
+    ],
+    [
+      "Proven",
+      "Unproven"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "System",
+      "Subsystem"
+    ],
+    [
+      "System",
+      "Subsystems"
+    ],
+    [
+      "Logical",
+      "Ontological"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "Setting",
+      "Settings"
+    ],
+    [
+      "Systems",
+      "Subsystems"
+    ],
+    [
+      "Kohärenz",
+      "Kohärenztheorie"
+    ],
+    [
+      "Solution",
+      "Resolution"
+    ],
+    [
+      "Subsystem",
+      "Subsystems"
+    ]
+  ]
+}

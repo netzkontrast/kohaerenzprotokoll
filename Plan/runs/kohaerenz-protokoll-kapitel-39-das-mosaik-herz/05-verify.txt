@@ -1,0 +1,65 @@
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "STATUS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`STATUS` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "ANALYSE"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANALYSE` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "BEMERKUNG"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`BEMERKUNG` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "EVALUIERUNG"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EVALUIERUNG` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "ENDE"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`ENDE` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#0]
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "AEGIS-Modus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Modus` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+$ read.py kohaerenz-protokoll-kapitel-39-das-mosaik-herz --count "Kohärenz Protokolls"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokolls` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+stance_marker_count 7 = 1 (Externe Ebene: Statusbericht PMAS) + STATUS 1 + ANALYSE 1 + BEMERKUNG 1 + EVALUIERUNG 1 + PMAS-ENDE 1 + ENDE 1
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PMAS-ENDE` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Externe Ebene: Statusbericht PMAS` ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:#1]

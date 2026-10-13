@@ -1,0 +1,73 @@
+# counts for 50 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Protokoll-Ontologie               9 word     9 in   [13, 24, 30, 59, 78, 86]
+  Dual Kernel Theory                3 word     3 in   [44, 98, 99]
+  DKT                               1 word     1 in   [44]
+  Kohärenz                         14 word    20 in   [38, 42, 46, 51, 78, 97]
+                                    1      as Kohärenz-
+                                    1      as Kohärenzgrad
+                                    1      as Kohärenztheorie
+  Kollaps                           9 word    14 in   [38, 42, 47, 51, 68, 99]
+                                    3      as Kollapses
+                                    1      as Kollaps-Kernel
+                                    1      as Kollapsereignis
+  K₁                                1 word     1 in   [38]
+  K₀                                1 word     1 in   [38]
+  K\_₁                              4 word     4 in   [42, 46, 49]
+  K\_₀                             11 word    11 in   [42, 47, 49, 51, 78, 80]
+  Kollaps-Kernel                    1 word     1 in   [51]
+  Quantendekohärenz                 2 word     2 in   [51, 99]
+  Protokoll                        18 word    60 in   [13, 24, 30, 55, 59, 61]  <-- substring
+                                   10      as Protokolls
+                                    9      as Protokoll-Ontologie
+                                    3      as Protokolle
+                                    3      as Protokollen
+  Overhead                          8 word    10 in   [72, 78, 82, 100, 135, 138]
+                                    1      as Overheads
+  Corrective Wavelets               1 word     1 in   [80]
+  Corrective Wavelet                5 word     6 in   [80, 101, 134, 223]
+  Korrespondenz-Check               3 word     4 in   [103, 135, 181, 226]
+                                    1      as Korrespondenz-Checks
+  Korrespondenzfehler               2 word     2 in   [122, 221]
+  Validierung                       2 word     4 in   [78, 102, 196]
+                                    1      as Validierungsaufwand
+                                    1      as Validierungskrieg
+  Kohärente Zonen                   1 word     1 in   [121]
+  Dekohärente Zonen                 1 word     1 in   [122]
+  Risse                             1 word     1 in   [122]
+  Glitches                          1 word     1 in   [122]
+  Protokoll-Agenten                 1 word     1 in   [124]
+  Auditoren                         1 word     1 in   [124]
+  Selbst-Protokoll                  2 word     5 in   [124, 154, 156, 166, 168]  <-- substring
+                                    3      as Selbst-Protokolls
+  Heiler                            1 word     1 in   [134]
+  Protokollversagen                 2 word     4 in   [68, 99, 135, 164]
+                                    2      as Protokollversagens
+  Kohärenzgrad                      1 word     1 in   [119]
+  Messdruck                         1 word     1 in   [51]
+  Ökonomie der Existenz             1 word     1 in   [82]
+  Magiesystem                       2 word     3 in   [111, 132, 138]
+                                    1      as Magiesystems
+  World Bible                       2 word     2 in   [22, 90]
+  Identitätskrise                   2 word     2 in   [160, 164]
+  Der Standhafte                    1 word     1 in   [181]
+  Der Anpassungsfähige              1 word     1 in   [182]
+  Der Parasit                       1 word     1 in   [183]
+  Das Orakel                        1 word     1 in   [184]
+  System Kael                       2 word     2 in   [156, 241]
+  AEGIS                             4 word     4 in   [210, 241]
+  Alternative Systems Objection     1 word     1 in   [208]
+  Validierungskrieg                 1 word     1 in   [196]
+  Zyklus der Persistenz             1 word     1 in   [214]
+  Höhepunkt                         1 word     1 in   [226]
+  Resilienz                         2 word     2 in   [230, 236]
+  Schiff-des-Theseus-Paradoxon      1 word     1 in   [61]
+  Systemtheorie                     2 word     2 in   [61, 97]
+  Cache-Kohärenz-Protokolle         1 word     1 in   [78]
+  Kohärenztheorie der Wahrheit      1 word     1 in   [208]
+  Moratoriums                       1 word     1 in   [166]
+  Dekohärenz                        6 word     7 in   [51, 80, 99, 103, 184, 226]
+                                    1      as Dekohärenzereignis

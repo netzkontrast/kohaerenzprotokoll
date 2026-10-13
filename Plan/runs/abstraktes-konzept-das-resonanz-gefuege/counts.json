@@ -1,0 +1,196 @@
+{
+  "document": "abstraktes-konzept-das-resonanz-gefuege",
+  "drive_id": "1SBZ6k--UcuIfC_wjQzwYjGaSz23nSXQK0UkHVvDAcQk",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Das Resonanz-Gefüge": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        30
+      ]
+    },
+    "Resonanz-Gefüge": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        15,
+        21,
+        30
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        30
+      ]
+    },
+    "Kohärenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        30
+      ]
+    },
+    "Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        26,
+        30
+      ]
+    },
+    "Resonanz": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        15,
+        21,
+        25,
+        30
+      ]
+    },
+    "Gefüge": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        21,
+        26,
+        30
+      ]
+    },
+    "AEGIS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        19,
+        25
+      ]
+    },
+    "Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Anteile": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        25
+      ]
+    },
+    "Anteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        25
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        25
+      ]
+    },
+    "Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Heldenreisen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "theoretische Linsen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "TSDP/IFS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    }
+  }
+}

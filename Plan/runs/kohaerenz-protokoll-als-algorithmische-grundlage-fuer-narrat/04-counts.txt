@@ -1,0 +1,55 @@
+# counts for 46 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz-Protokoll                2 word     4 in   [11, 222, 408, 722]
+                                    2      as Kohärenz-Protokolls
+  Kohärenz-Protokolls               2 word     2 in   [222, 408]
+  Story Bibles                      0 word     0 in   []
+  Style Sheets                      1 word     1 in   [830]
+  Ontologie des Romans              0 word     0 in   []
+  Wissensgraphen                    1 word     1 in   [300]
+  Narrative Context Protocol        2 word     2 in   [326, 978]
+  NCP                               5 word     5 in   [326, 336, 354, 378, 860]
+  Storyform                         3 word     3 in   [340, 346, 860]
+  Dramatica                         1 word     3 in   [356, 360, 860]  <-- substring
+                                    2      as Dramatica-Theorie
+  Story-Grammatik                   1 word     1 in   [370]
+  SCORE                             7 word     8 in   [422, 446, 458, 774, 824, 866]
+                                    1      as SCORE-Module
+  dynamisches Zustandstracking      0 word     0 in   []
+  Wissensgraph-Tracking             1 word     1 in   [444]
+  Knowledge-Graph-Struktur          1 word     1 in   [448]
+  kontextbewusste Zusammenfassung    0 word     0 in   []
+  Episoden-Zusammenfassungen        1 word     1 in   [466]
+  hybride Informationswiedergewinnung    0 word     0 in   []
+  Hybrid Retrieval                  1 word     1 in   [546]
+  semantic memory                   1 word     1 in   [540]
+  TALE-SPIN                         1 word     1 in   [580]
+  Kontrollinstanz                   1 word     1 in   [610]
+  Validator                         1 word     1 in   [612]
+  Narrative Incoherence Detection    1 word     1 in   [768]
+  Rekombination und Variantenbildung    1 word     1 in   [652]
+  Constraints                       1 word     1 in   [686]
+  Lean Knowledge Base               1 word     1 in   [694]
+  Clustering                        2 word     2 in   [506, 702]
+  OntoMedia                         2 word     3 in   [306, 312, 848]
+                                    1      as OntoMedia-Ontologie
+  Weltkonsistenz                    1 word     1 in   [402]
+  Handlungslogik                    2 word     2 in   [402, 856]
+  temporale Kohärenz                1 word     1 in   [500]
+  übergeordnete Struktur            2 word     2 in   [53, 468]
+  Makro-Struktur                    1 word     1 in   [480]
+  Einklinkpunkte                    1 word     1 in   [550]
+  autorähnliches Weltwissen         0 word     0 in   []
+  logische Inferenz                 0 word     0 in   []
+  strukturierende Pläne             0 word     0 in   []
+  semantischen Netzwerken           1 word     1 in   [322]
+  Wissensmodelle                    3 word     3 in   [226, 230, 394]
+  kausale Ketten                    1 word     1 in   [580]
+  Video-Recombination-Techniken     1 word     1 in   [672]
+  Kohärenz-Detektor                 1 word     1 in   [650]
+  Story-Maps                        1 word     1 in   [282]
+  Zeitstrahl                        1 word     1 in   [274]
+  Setups und Payoffs                1 word     1 in   [286]

@@ -1,0 +1,417 @@
+{
+  "document": "exploring-coherence-across-disciplines",
+  "drive_id": "12qJDw--c4MuBgORkdggUBlDzkQRNqxRoXdFH9pv-3r8",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "coherence": {
+      "n": 121,
+      "n_including_compounds": 153,
+      "lines": [
+        22,
+        24,
+        32,
+        40,
+        48,
+        50,
+        52,
+        54,
+        62,
+        64,
+        86,
+        88,
+        90,
+        92,
+        100,
+        108,
+        116,
+        120,
+        130,
+        132,
+        140,
+        154,
+        158,
+        162,
+        164,
+        167,
+        169,
+        177,
+        185,
+        193,
+        195,
+        196,
+        201,
+        209,
+        211,
+        212,
+        214,
+        220,
+        231,
+        233,
+        234,
+        236,
+        244,
+        246,
+        249,
+        257,
+        265,
+        267,
+        275,
+        284,
+        292,
+        294,
+        295,
+        300,
+        301,
+        305,
+        313,
+        315,
+        316,
+        317,
+        319,
+        327,
+        329,
+        331,
+        333,
+        335,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        347,
+        349,
+        351,
+        356,
+        358,
+        360,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        374,
+        378,
+        379
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        344,
+        345
+      ]
+    },
+    "correspondence theory of truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        64
+      ]
+    },
+    "Correspondence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        347
+      ]
+    },
+    "Isolation Objection": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        88
+      ]
+    },
+    "Alternative Systems Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "coherentism": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        72
+      ]
+    },
+    "regress argument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Foundationalist theories": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Cohesion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        112,
+        118
+      ]
+    },
+    "schemata": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        120,
+        132
+      ]
+    },
+    "Logical Ordering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Thematic Unity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Repetition of Key Nouns": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Use of Synonyms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Consistent Pronoun Reference": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Transition Signals": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Parallel Structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Schema Activation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Optical Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Temporal Coherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        189,
+        218,
+        364
+      ]
+    },
+    "Spatial Coherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        205,
+        218,
+        364
+      ]
+    },
+    "Quantum Coherence": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        227,
+        366,
+        368,
+        369
+      ]
+    },
+    "Coherence Time": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        200,
+        221
+      ]
+    },
+    "Coherence Length": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        201,
+        221,
+        374,
+        376
+      ]
+    },
+    "Coherence Area": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        212,
+        221
+      ]
+    },
+    "monochromaticity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "decoherence": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        234,
+        236,
+        329,
+        331,
+        369
+      ]
+    },
+    "stimulated emission": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        246
+      ]
+    },
+    "population inversion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        246
+      ]
+    },
+    "reference beam": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        247
+      ]
+    },
+    "object beam": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        247,
+        249
+      ]
+    },
+    "Michelson interferometer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "magnitude-squared coherence function": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        275
+      ]
+    },
+    "auto-spectral densities": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        281
+      ]
+    },
+    "cross-spectral density": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        282
+      ]
+    },
+    "dynamic functional connectivity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        317
+      ]
+    },
+    "fragility of coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        331
+      ]
+    },
+    "internal coherence and external correspondence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        329
+      ]
+    },
+    "correspondence check": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        236
+      ]
+    },
+    "Holography": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        240,
+        247,
+        375
+      ]
+    }
+  }
+}

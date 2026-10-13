@@ -1,0 +1,202 @@
+{
+  "document": "kohaerenz-protokoll-the-official-master-story-guide-2",
+  "drive_id": "15I2rSfUFk39Lnz5s1KYbo8SJC13-0kn5xps8rdfA5yw",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 214,
+  "typographic_marks": 17,
+  "ascii_quotes": 110,
+  "inflection_families": {
+    "contr": [
+      "Contradiction",
+      "Contradictory",
+      "Control"
+    ],
+    "found": [
+      "Found",
+      "Foundation",
+      "Foundational"
+    ],
+    "funct": [
+      "Function",
+      "Functional",
+      "Functions"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrator"
+    ],
+    "logic": [
+      "Logic",
+      "Logical",
+      "Logics"
+    ],
+    "under": [
+      "Under",
+      "Understand",
+      "Understanding"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "avoid": [
+      "Avoidant",
+      "Avoided"
+    ],
+    "class": [
+      "Classical",
+      "Classification"
+    ],
+    "defin": [
+      "Defines",
+      "Definition"
+    ],
+    "diale": [
+      "Dialectic",
+      "Dialetheical"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emerging"
+    ],
+    "incon": [
+      "Inconsistency",
+      "Inconsistent"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "multi": [
+      "Multiplicity",
+      "Multisensory"
+    ],
+    "opera": [
+      "Operates",
+      "Operational"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "respo": [
+      "Response",
+      "Responsible"
+    ],
+    "speci": [
+      "Specialized",
+      "Specification"
+    ],
+    "subje": [
+      "Subjective",
+      "Subjectivity"
+    ],
+    "trans": [
+      "Transcendence",
+      "Transformation"
+    ],
+    "ultim": [
+      "Ultimate",
+      "Ultimately"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Each",
+      "Breach"
+    ],
+    [
+      "Hold",
+      "Holds"
+    ],
+    [
+      "Seek",
+      "Seeks"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Found",
+      "Foundation"
+    ],
+    [
+      "Found",
+      "Foundational"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Order",
+      "Disorder"
+    ],
+    [
+      "Under",
+      "Understand"
+    ],
+    [
+      "Under",
+      "Understanding"
+    ],
+    [
+      "Nature",
+      "Signature"
+    ],
+    [
+      "Diction",
+      "Contradiction"
+    ],
+    [
+      "Logical",
+      "Ontological"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "Sensory",
+      "Multisensory"
+    ],
+    [
+      "Function",
+      "Functions"
+    ]
+  ]
+}

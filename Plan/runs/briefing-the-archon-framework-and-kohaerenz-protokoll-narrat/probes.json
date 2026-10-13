@@ -1,0 +1,200 @@
+{
+  "document": "briefing-the-archon-framework-and-kohaerenz-protokoll-narrat",
+  "drive_id": "16cV9VTKg2riN_2_jSfxk-VTOA3NX95F7m868thJFYFo",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 180,
+  "typographic_marks": 8,
+  "ascii_quotes": 118,
+  "inflection_families": {
+    "diale": [
+      "Dialectic",
+      "Dialetheic",
+      "Dialetheical"
+    ],
+    "funct": [
+      "Function",
+      "Functionally",
+      "Functions"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrator"
+    ],
+    "state": [
+      "State",
+      "Statelessness",
+      "States"
+    ],
+    "agent": [
+      "Agent",
+      "Agentic"
+    ],
+    "analy": [
+      "Analysis",
+      "Analyst"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "class": [
+      "Classical",
+      "Classification"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherent"
+    ],
+    "conce": [
+      "Concepts",
+      "Conceptual"
+    ],
+    "contr": [
+      "Contradictory",
+      "Control"
+    ],
+    "emerg": [
+      "Emergency",
+      "Emergent"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional"
+    ],
+    "explo": [
+      "Explorative",
+      "Explosion"
+    ],
+    "exter": [
+      "External",
+      "Externalized"
+    ],
+    "forma": [
+      "Formal",
+      "Formalism"
+    ],
+    "found": [
+      "Found",
+      "Foundation"
+    ],
+    "gener": [
+      "Generation",
+      "Generative"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "model": [
+      "Model",
+      "Models"
+    ],
+    "narra": [
+      "Narrative",
+      "Narratives"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "reaso": [
+      "Reason",
+      "Reasoning"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Seek",
+      "Seeks"
+    ],
+    [
+      "Text",
+      "Context"
+    ],
+    [
+      "Used",
+      "Focused"
+    ],
+    [
+      "Agent",
+      "Agentic"
+    ],
+    [
+      "Found",
+      "Foundation"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Model",
+      "Models"
+    ],
+    [
+      "State",
+      "States"
+    ],
+    [
+      "State",
+      "Statelessness"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Formal",
+      "Formalism"
+    ],
+    [
+      "Reason",
+      "Reasoning"
+    ],
+    [
+      "Emotion",
+      "Emotional"
+    ],
+    [
+      "External",
+      "Externalized"
+    ],
+    [
+      "Function",
+      "Functions"
+    ],
+    [
+      "Function",
+      "Functionally"
+    ],
+    [
+      "Solution",
+      "Resolution"
+    ]
+  ]
+}

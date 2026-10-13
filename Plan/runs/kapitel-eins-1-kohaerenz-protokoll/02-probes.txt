@@ -1,0 +1,52 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      17
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  daten    Datenartefakte, Datenflusses, Datenpaket, Datenpunkt, Datenstrom, Datenströme, Datenverarbeitungszentrum
+  licht    Licht, Lichtfäden, Lichtlinien, Lichtmuster, Lichtsignale
+  syste    System, Systeme, Systemfehler, Systeminterferenz
+  gesic    Gesicht, Gesichter, Gesichtszüge
+  anoma    Anomalie, Anomalien
+  block    Block, Blocks
+  finge    Finger, Fingerabdrücke
+  funkt    Funktion, Funktionen
+  geist    Geist, Geistes
+  glied    Glieder, Gliedmaßen
+  herzs    Herzschlag, Herzschlags
+  infor    Information, Informationen
+  korri    Korridor, Korridors
+  mater    Materials, Materie
+  physi    Physis, Physische
+  platt    Plattform, Plattformen
+  senso    Sensor, Sensoren
+  sinus    Sinus, Sinuswelle
+  statu    Statusbericht, Statusparameter
+  tiefe    Tiefe, Tiefen
+  wände    Wände, Wänden
+  wärme    Wärme, Wärmeabstrahlung
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augen
+  Eins < Seins
+  Form < Plattform
+  Form < Information
+  Form < Plattformen
+  Form < Informationen
+  Hand < Handballen
+  Jede < Jeder
+  Juna < Junas
+  Kael < Kaels
+  Laut < Laute
+  Norm < Normbereich
+  Puls < Impuls
+  Raum < Raumes
+  Riss < Risse
+  Sein < Seins
+  Sein < Gewahrsein
+  Sein < Bewusstsein
+  Sein < Sinneseindrücken
+  Sinn < Wahnsinn

@@ -1,0 +1,277 @@
+{
+  "document": "kohaerenz-protokoll-the-official-master-story-guide-2",
+  "drive_id": "15I2rSfUFk39Lnz5s1KYbo8SJC13-0kn5xps8rdfA5yw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-262/brief.md; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 80,
+    "decisions": 83,
+    "decided_by_lookup": 72,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English design guide of requirements: its new surfaces are the two orders, the Dialetheical Mind, LFI, Discursive Logic, the Paradox of Misaligned Coherence, the Kernwelt names, the prose rules and the metafictional techniques; what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        75,
+        83,
+        93,
+        95,
+        101,
+        102
+      ],
+      "attribution": "",
+      "note": "the antagonist as a tragic, autopoietic system"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        121,
+        132
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        119,
+        121,
+        140,
+        142
+      ],
+      "attribution": "",
+      "note": "a table of eleven alters and the arc of functional multiplicity"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        121,
+        136
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        101
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as AEGIS's trigger"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        121,
+        134
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        130,
+        133
+      ],
+      "attribution": "",
+      "note": "Juna/V appears only in two relationship cells"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        108,
+        126,
+        140,
+        142,
+        190,
+        195
+      ],
+      "attribution": "",
+      "note": "System Kael as a system, healing as the plot's mechanism"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        156,
+        161,
+        162,
+        163,
+        164
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as simulated laboratories, a table of four"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        121,
+        129
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        121,
+        127
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        121,
+        133
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        64,
+        69
+      ],
+      "attribution": "",
+      "note": "a non-local, sub-protocol phenomenon invisible to AEGIS's sensors"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        121,
+        135
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        41,
+        59
+      ],
+      "attribution": "",
+      "note": "the Nothingness Roar as high-entropy potentiality"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        121,
+        128
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        121,
+        130
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        152
+      ],
+      "attribution": "",
+      "note": "the Risse as digital errors in the Überwelt"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        121,
+        131
+      ],
+      "attribution": "",
+      "note": "classification in the alter table"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        108,
+        114,
+        117,
+        125
+      ],
+      "attribution": "",
+      "note": "the psyche modelled on TSDP, with the table's classification column"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        152
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's control plane"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` on kael; `Kernwelten` and `Kernwelt` one term (J26); `Canonical Society of Alters` on alters; `Juna/V` on juna (J34); `Logos-Prime`, `Mnemosyne-Archipel`, `Cerberus-Labyrinth` and `Kairos-Potentialis` Kernwelt names, read on kern-welten, not the guardian pages; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 77,
+      "decision": "occurrence",
+      "why": "the heading Ontological Genesis"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 130,
+      "decision": "reading",
+      "why": "Juna/V in the alters' relationship cells"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "Coherence via Negation / via Integration",
+    "Dialetheical Mind",
+    "LFI, Discursive Logic",
+    "Paradox of Misaligned Coherence",
+    "the Kernwelt names",
+    "the prose rules and metafictional techniques",
+    "Coherence Protocol"
+  ],
+  "internal_tension": "Kael is both the whole system (L108) and one alter of eleven, the host (L126); Selene is the only alter working towards integration (L131) while the arc is shared by all parts (L140); it calls itself canonical (L15) and its table the ground truth (L121), its claims",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

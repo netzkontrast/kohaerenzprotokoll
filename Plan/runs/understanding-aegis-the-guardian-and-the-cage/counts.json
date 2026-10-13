@@ -1,0 +1,219 @@
+{
+  "document": "understanding-aegis-the-guardian-and-the-cage",
+  "drive_id": "1MJvybQJHzzVcB5GB06_LSahFc3-f1_MLNtDAdnkD6n0",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        11,
+        15,
+        21,
+        23,
+        25,
+        29,
+        31,
+        35,
+        44,
+        46,
+        48,
+        52,
+        56
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kael": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        21,
+        23,
+        44,
+        46,
+        48,
+        50
+      ]
+    },
+    "Original Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        21
+      ]
+    },
+    "Nothing Hiss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "genesis crisis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "coherence": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        31,
+        44,
+        49
+      ]
+    },
+    "Core Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Absolute Order": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Resilience": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Exclusion of Contradiction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Control": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Emergence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "ANPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        48
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "EPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        48
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "ex contradictione quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "autopoietic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "operationally closed": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Specification Gaming": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    }
+  }
+}

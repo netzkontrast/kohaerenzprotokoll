@@ -1,0 +1,120 @@
+$ read.py --count "PASS"
+whole word, case-sensitive     3
+whole word, case-insensitive   5
+including compounds            3
+
+`PASS` ^[kohaerenz-protokoll-synthese.md:#3]
+
+$ read.py --count "Inferior"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Inferior` ^[kohaerenz-protokoll-synthese.md:#7]
+
+$ read.py --count "Superior"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Superior` ^[kohaerenz-protokoll-synthese.md:#1]
+
+$ read.py --count "Optionlock"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Optionlock` ^[kohaerenz-protokoll-synthese.md:#2]
+
+$ read.py --count "Timelock"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Timelock` ^[kohaerenz-protokoll-synthese.md:#2]
+
+$ read.py --count "Mnemosyne-Archipel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mnemosyne-Archipel` ^[kohaerenz-protokoll-synthese.md:#2]
+
+$ read.py --count "Algorithmische Melancholie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Algorithmische Melancholie` ^[kohaerenz-protokoll-synthese.md:#3]
+
+$ read.py --count "chapters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`chapters` ^[kohaerenz-protokoll-synthese.md:#1]
+
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-synthese.md:#0]
+
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kohaerenz-protokoll-synthese.md:#0]
+
+$ read.py --count "Wächter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Wächter` ^[kohaerenz-protokoll-synthese.md:#0]
+
+$ read.py --count "Guardian"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian` ^[kohaerenz-protokoll-synthese.md:#1]
+
+$ read.py --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lex` ^[kohaerenz-protokoll-synthese.md:#1]
+
+$ read.py --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[kohaerenz-protokoll-synthese.md:#1]
+
+$ read.py --count "Kiko"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kiko` ^[kohaerenz-protokoll-synthese.md:#1]
+
+$ read.py --count "Lia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lia` ^[kohaerenz-protokoll-synthese.md:#1]
+
+$ read.py --count "Gödel-sentence"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Gödel-sentence` ^[kohaerenz-protokoll-synthese.md:#5]
+
+stance_marker_count 11 = PASS 3 + Inferior 7 + Superior 1

@@ -1,0 +1,853 @@
+{
+  "document": "roman-kohaerenz-protokoll",
+  "drive_id": "1-qJDwKciE7L-RJzqALCUQDLTbwZdld1nAIsBzeUmGc4",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        128,
+        240,
+        242,
+        244,
+        250,
+        272,
+        280,
+        296,
+        300,
+        314,
+        324,
+        369
+      ]
+    },
+    "Kael": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        355,
+        361,
+        363,
+        367,
+        369,
+        371,
+        373,
+        379,
+        385,
+        389,
+        401,
+        407,
+        409,
+        505,
+        545
+      ]
+    },
+    "Juna": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        359,
+        365,
+        367,
+        381,
+        391
+      ]
+    },
+    "Jansen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        381,
+        383,
+        387
+      ]
+    },
+    "LogOS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        365,
+        369,
+        377
+      ]
+    },
+    "Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        270,
+        300
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        373,
+        399,
+        409,
+        411,
+        513
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        411
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        545
+      ]
+    },
+    "Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        373
+      ]
+    },
+    "Sektor Delta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        383
+      ]
+    },
+    "Datenknotenpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        373
+      ]
+    },
+    "Transitkorridor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        369
+      ]
+    },
+    "Wohneinheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        393,
+        395
+      ]
+    },
+    "Architekten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        373,
+        379
+      ]
+    },
+    "Architekt": {
+      "n": 1,
+      "n_including_compounds": 7,
+      "lines": [
+        270,
+        357,
+        373,
+        375,
+        379,
+        389,
+        409
+      ]
+    },
+    "Wächter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        284,
+        344
+      ]
+    },
+    "Kontrollkern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        344
+      ]
+    },
+    "Kern": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        280,
+        437
+      ]
+    },
+    "Praetor": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        373,
+        377,
+        389,
+        399
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        377,
+        389
+      ]
+    },
+    "Nox": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        379,
+        387,
+        391
+      ]
+    },
+    "Kairos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        379,
+        407
+      ]
+    },
+    "Echo": {
+      "n": 15,
+      "n_including_compounds": 20,
+      "lines": [
+        22,
+        114,
+        344,
+        367,
+        373,
+        377,
+        381,
+        391,
+        395,
+        397,
+        409,
+        411,
+        425,
+        437,
+        447,
+        449,
+        471,
+        473,
+        521
+      ]
+    },
+    "Silas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        395,
+        397
+      ]
+    },
+    "Risse": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        272,
+        375,
+        389,
+        395,
+        437
+      ]
+    },
+    "Riss": {
+      "n": 3,
+      "n_including_compounds": 8,
+      "lines": [
+        272,
+        371,
+        375,
+        389,
+        395,
+        437,
+        501,
+        521
+      ]
+    },
+    "Anomalie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        379,
+        381,
+        387
+      ]
+    },
+    "Naht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        405,
+        449
+      ]
+    },
+    "Schwelle": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        64,
+        357,
+        489,
+        545
+      ]
+    },
+    "Dazwischen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        489
+      ]
+    },
+    "Warten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        489
+      ]
+    },
+    "Resonanz-Nebel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        587
+      ]
+    },
+    "Moos": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        469,
+        513,
+        533,
+        541,
+        551,
+        563,
+        567,
+        587
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        401
+      ]
+    },
+    "Un-Schöpfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        280
+      ]
+    },
+    "Nicht-Existenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        340
+      ]
+    },
+    "Nichts": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        15,
+        17,
+        24,
+        26,
+        30,
+        78,
+        98,
+        272,
+        284,
+        296,
+        357,
+        395,
+        445,
+        453,
+        465,
+        567
+      ]
+    },
+    "Leere": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        22,
+        26,
+        114,
+        276,
+        344,
+        355,
+        363,
+        367,
+        391,
+        395,
+        431,
+        441,
+        449,
+        453,
+        457,
+        465,
+        501,
+        513,
+        537,
+        579
+      ]
+    },
+    "Zerrissenheit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        391,
+        401,
+        413,
+        541
+      ]
+    },
+    "Fragmentierung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        393,
+        413,
+        437,
+        501,
+        541
+      ]
+    },
+    "Intrusion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        367,
+        395
+      ]
+    },
+    "Sog": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        557,
+        559,
+        563,
+        587
+      ]
+    },
+    "Moment": {
+      "n": 59,
+      "n_including_compounds": 63,
+      "lines": [
+        34,
+        60,
+        280,
+        367,
+        371,
+        375,
+        391,
+        393,
+        419,
+        423,
+        427,
+        431,
+        435,
+        439,
+        443,
+        447,
+        451,
+        455,
+        461,
+        467,
+        469,
+        471,
+        475,
+        479,
+        481,
+        483,
+        487,
+        491,
+        493,
+        495,
+        499,
+        501,
+        503,
+        507,
+        509,
+        511,
+        515,
+        519,
+        523,
+        527,
+        531,
+        535,
+        539,
+        541,
+        545,
+        549,
+        553,
+        557,
+        561,
+        565,
+        569,
+        571,
+        573,
+        577,
+        579,
+        581,
+        583,
+        585,
+        587
+      ]
+    },
+    "AEGIS Functional Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Zero-Trust Execution Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "ZTEM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Zero-Trust-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        300
+      ]
+    },
+    "Integrity Guardian Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Cognitive Firewall Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Consensus Enforcer Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Self-Verification Interface": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "SVI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Logical Consistency Analysis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "LCA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Real-time self-verification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "RTSV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Redunancyfree  Information Capsule": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "Information Capsule": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "RIC": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        142,
+        200
+      ]
+    },
+    "Dynamic Role Instancing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "DRI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "Secure Isolation State": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        255,
+        320
+      ]
+    },
+    "SIS": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        192,
+        255,
+        280,
+        320
+      ]
+    },
+    "Recursive Self-Definition Validation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "Absolute Entropy Event": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "UNIVERSAL REBOOT PROTOCOL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "UNIVERSAL REBOOT SEQUENCE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "COHERENCE METRICS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "QUARANTINE PROTOCOL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Σ(t)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        140,
+        194,
+        240,
+        242
+      ]
+    },
+    "ϕ(t)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        194,
+        240
+      ]
+    },
+    "Vorwort": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Genesis im Echo der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Instrumente der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        353
+      ]
+    },
+    "Resonanz": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        417,
+        473,
+        491,
+        507,
+        563,
+        587
+      ]
+    },
+    "Sensorischer Angriff": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        419
+      ]
+    },
+    "Die Umarmung der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        431
+      ]
+    },
+    "Erwachen im Grau": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        461
+      ]
+    },
+    "Die Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        507
+      ]
+    },
+    "Die atmende Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        531
+      ]
+    },
+    "Das Zeichen in der Ferne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        549
+      ]
+    },
+    "Der subtile Sog": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        557,
+        587
+      ]
+    },
+    "Der Scheideweg": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        585
+      ]
+    },
+    "Śūnyatā": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Parmenides": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Tal des Unwirklichen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        357
+      ]
+    },
+    "Depersonalisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        393
+      ]
+    },
+    "Vorläuferuniversum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "document": "entwicklungsstrategie-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 57,
+  "decisions": 59,
+  "same_surface": {},
+  "decided_mechanically": 42,
+  "needs_judgement": 17,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 268
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 264
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 247
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 139
+      },
+      {
+        "candidate": "Cache Kohärenz",
+        "page": "cache-kohaerenz",
+        "readings": 28
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 190
+      },
+      {
+        "candidate": "Kernwelt",
+        "page": "kern-welten",
+        "readings": 190
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Verbindung V"
+      },
+      {
+        "candidate": "Paradoxon X"
+      },
+      {
+        "candidate": "McL"
+      },
+      {
+        "candidate": "Ly"
+      },
+      {
+        "candidate": "Conway-Gruppe"
+      },
+      {
+        "candidate": "sporadische Gruppen"
+      },
+      {
+        "candidate": "IFS-Anteile"
+      },
+      {
+        "candidate": "IFS-Analogie"
+      },
+      {
+        "candidate": "Kernaxiome"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Kernkonflikt"
+      },
+      {
+        "candidate": "Dreiteilige Narrative Struktur"
+      },
+      {
+        "candidate": "Heldinnenreise"
+      },
+      {
+        "candidate": "Heldenreise"
+      },
+      {
+        "candidate": "Zyklisch"
+      },
+      {
+        "candidate": "Holismus"
+      },
+      {
+        "candidate": "Reduktionismus"
+      },
+      {
+        "candidate": "Quantenfluktuation"
+      },
+      {
+        "candidate": "Global Entry"
+      },
+      {
+        "candidate": "Nested References"
+      },
+      {
+        "candidate": "Relationships"
+      },
+      {
+        "candidate": "Matrix View"
+      },
+      {
+        "candidate": "Scene Labels"
+      },
+      {
+        "candidate": "Tags"
+      },
+      {
+        "candidate": "Snippets"
+      },
+      {
+        "candidate": "Chat AI"
+      },
+      {
+        "candidate": "Tinker Chat Assistants"
+      },
+      {
+        "candidate": "Scene Beat Completion"
+      },
+      {
+        "candidate": "Prompt Chaining"
+      },
+      {
+        "candidate": "Fine-Tuning"
+      },
+      {
+        "candidate": "Bring Your Own Key"
+      },
+      {
+        "candidate": "Mapping"
+      },
+      {
+        "candidate": "Feedback-Schleife"
+      },
+      {
+        "candidate": "dialektischen Exploration"
+      },
+      {
+        "candidate": "Single Source of Truth"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Juna  /  Juna/V",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelten  /  Kernwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelt  /  Kernwelt McL",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelt  /  Kernwelt B",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelt  /  Kernwelt Ly",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Baby-Monster  /  Baby-Monster-Gruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Logiker-Manager-Anteil  /  Manager",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Logiker-Manager-Anteil  /  Logiker",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Codex  /  Series Codex",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Codex  /  Codex-KI-Symbiose",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt McL",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt B",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt Ly",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragmentierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Systemkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 144,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 53,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

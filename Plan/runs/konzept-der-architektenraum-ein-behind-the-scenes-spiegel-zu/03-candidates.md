@@ -1,0 +1,59 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an outline for a companion text to the novel; its candidates are the novel's figures, places and symbols it names, the concepts it says the novel uses, and its own section titles. L164 (a personal-notes item of the appendix) is left out of the list.
+
+- Der Architektenraum
+- Architektenraum
+- Kohärenz Protokoll
+- Spiegel
+- Kael
+- AEGIS
+- Lex
+- Kikos
+- Nyx
+- Selene
+- Juna/V
+- Paradoxon X
+- Kernwelten
+- Das Fundament
+- Fundaments
+- Paraiyas
+- Bunker
+- Gelbe Leere
+- Kissen
+- Scherben
+- Anteile
+- TSDP
+- ANP/EP
+- Strukturelle Dissoziation
+- IFS
+- Autopoiesis
+- Nichtlokalität
+- Intersubjektivität
+- Resonanz
+- Feedback Loops
+- Emergenz
+- Gödel
+- Value Alignment Problems
+- Maschinenethik
+- Gaslighting
+- Macht/Wissen
+- Simulationshypothese
+- Heldinnenreise
+- Heldenreise
+- Heilungsreise
+- Ko-Bewusstsein
+- Selbstführung
+- Polyphonie
+- Sprachwechsels
+- Schatten
+- Individuation
+- Systemtheorie
+- Kybernetik
+- Das System Kael
+- Das System AEGIS
+- Die Psyche unter Druck
+- Das Labyrinth der Kontrolle
+- Die Natur der Realität
+- Die Werkzeuge des Architekten
+- Der offene Raum

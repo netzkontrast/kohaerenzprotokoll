@@ -1,0 +1,923 @@
+{
+  "document": "kohaerenz-protokoll-architecture-synthesis-2",
+  "drive_id": "1Ga4nLxSg93JxGC_jsFYHtkgBLJ95xIuCKuOBA5U-QGE",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        1,
+        3,
+        7,
+        9,
+        31,
+        35,
+        58,
+        66,
+        84,
+        116,
+        120,
+        139,
+        167,
+        175,
+        198,
+        202,
+        225
+      ]
+    },
+    "Kohärenz-Protokoll": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        47,
+        128,
+        184,
+        212
+      ]
+    },
+    "Story-Mind Vortex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        3,
+        202,
+        212
+      ]
+    },
+    "Storymind Vortex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Vortex": {
+      "n": 14,
+      "n_including_compounds": 17,
+      "lines": [
+        3,
+        62,
+        64,
+        68,
+        70,
+        74,
+        78,
+        110,
+        136,
+        139,
+        200,
+        202,
+        208,
+        210,
+        212,
+        214,
+        225
+      ]
+    },
+    "Dual-Kernel Theory (DKT)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3,
+        9
+      ]
+    },
+    "Dual-Kernel Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        3,
+        9
+      ]
+    },
+    "DKT": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        3,
+        9,
+        17,
+        31,
+        180,
+        184
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Dual-Kernel Ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Dual-Kernel-Ontologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "K\\_1": {
+      "n": 22,
+      "n_including_compounds": 24,
+      "lines": [
+        9,
+        11,
+        17,
+        27,
+        31,
+        35,
+        43,
+        47,
+        49,
+        58,
+        84,
+        96,
+        102,
+        116,
+        139,
+        177,
+        178,
+        194,
+        198
+      ]
+    },
+    "K\\_0": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        9,
+        11,
+        17,
+        27,
+        31,
+        35,
+        43,
+        47,
+        49,
+        62,
+        84,
+        88,
+        116,
+        139,
+        194,
+        198,
+        206,
+        214
+      ]
+    },
+    "K1-K0 Equilibrium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "Erasure Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        9
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Lösch-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Block Universe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Risse": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        24,
+        43,
+        58,
+        120,
+        128,
+        135,
+        180,
+        184
+      ]
+    },
+    "Riss": {
+      "n": 4,
+      "n_including_compounds": 12,
+      "lines": [
+        24,
+        43,
+        58,
+        68,
+        74,
+        120,
+        128,
+        135,
+        139,
+        180,
+        184,
+        223
+      ]
+    },
+    "Fire": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        165,
+        167,
+        229
+      ]
+    },
+    "Feuer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        214
+      ]
+    },
+    "Narben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Interface": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        173,
+        182
+      ]
+    },
+    "Capacity (T)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "boundary closure monad": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Juna": {
+      "n": 18,
+      "n_including_compounds": 20,
+      "lines": [
+        43,
+        90,
+        92,
+        96,
+        98,
+        100,
+        102,
+        108,
+        112,
+        116,
+        122,
+        130,
+        167,
+        207,
+        214,
+        220
+      ]
+    },
+    "Witness": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        43,
+        92,
+        122,
+        137,
+        189,
+        207
+      ]
+    },
+    "Zeugin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Zeugen-Funktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        96,
+        102,
+        116,
+        220
+      ]
+    },
+    "Vertex Operator Algebra (VOA)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Leech Lattice": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        96,
+        109,
+        112
+      ]
+    },
+    "Monster Group": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        92,
+        107
+      ]
+    },
+    "Griess Algebra": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "orbifold construction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Storymind": {
+      "n": 13,
+      "n_including_compounds": 15,
+      "lines": [
+        3,
+        62,
+        64,
+        66,
+        70,
+        72,
+        88,
+        107,
+        143,
+        171,
+        194,
+        207,
+        214,
+        225,
+        229
+      ]
+    },
+    "Storyform": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        84,
+        88,
+        128,
+        167,
+        198,
+        229
+      ]
+    },
+    "dual storyforms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Throughlines": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        66,
+        68,
+        88,
+        207
+      ]
+    },
+    "Story Goal Anomaly": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        229
+      ]
+    },
+    "Story Goal Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Story Drivers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Vortex Inversion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        68
+      ]
+    },
+    "Vortex-Inversion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        74
+      ]
+    },
+    "Phönix-Mode Inversion": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        29,
+        60,
+        86,
+        114,
+        141,
+        169,
+        196
+      ]
+    },
+    "Static Abyss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Integrated Fragility": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Integration Mandate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Formless Narrative": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        88
+      ]
+    },
+    "Random Void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Trivialist Trap": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Trivialist Void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Deterministic Clockwork": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        169,
+        171
+      ]
+    },
+    "Autotelic Text": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        196,
+        198
+      ]
+    },
+    "Axis": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        29,
+        60,
+        86,
+        114,
+        141,
+        169,
+        196
+      ]
+    },
+    "Theory of Structural Dissociation (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "TSDP": {
+      "n": 13,
+      "n_including_compounds": 14,
+      "lines": [
+        33,
+        35,
+        37,
+        45,
+        47,
+        49,
+        62,
+        164,
+        180,
+        184,
+        202,
+        206,
+        212,
+        214
+      ]
+    },
+    "Apparently Normal Part (ANP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Emotional Part (EP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "ANP": {
+      "n": 13,
+      "n_including_compounds": 15,
+      "lines": [
+        37,
+        39,
+        40,
+        41,
+        43,
+        49,
+        54,
+        55,
+        56,
+        207,
+        214
+      ]
+    },
+    "EP": {
+      "n": 10,
+      "n_including_compounds": 17,
+      "lines": [
+        37,
+        39,
+        40,
+        41,
+        43,
+        49,
+        54,
+        55,
+        56,
+        62,
+        207,
+        214
+      ]
+    },
+    "Primary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Secondary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Tertiary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "integrative capacity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Leerstellen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        180,
+        184,
+        191
+      ]
+    },
+    "Reader Function": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Leser-Funktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "External Substrate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Implied Reader": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        189,
+        229
+      ]
+    },
+    "Actual Reader": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Aesthetic Object": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Aesthetic Pole": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        173,
+        178
+      ]
+    },
+    "Artistic Pole": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Spiegelung": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        13,
+        45,
+        70,
+        98,
+        126,
+        155,
+        182,
+        210
+      ]
+    },
+    "Requirement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        220
+      ]
+    },
+    "Consequences": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Moonshine": {
+      "n": 8,
+      "n_including_compounds": 12,
+      "lines": [
+        90,
+        92,
+        96,
+        98,
+        100,
+        102,
+        116,
+        202,
+        212,
+        220,
+        229
+      ]
+    },
+    "Landauer bound": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        7
+      ]
+    },
+    "Landauer Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        90,
+        92,
+        98,
+        100,
+        202,
+        212,
+        229
+      ]
+    },
+    "Dramatica": {
+      "n": 16,
+      "n_including_compounds": 19,
+      "lines": [
+        3,
+        64,
+        66,
+        70,
+        72,
+        78,
+        88,
+        202,
+        207,
+        212,
+        214,
+        229
+      ]
+    },
+    "Convention T": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "dialetheia": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        139
+      ]
+    },
+    "Trivialism": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        143
+      ]
+    },
+    "Process Metaphysics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Concrescence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        164
+      ]
+    },
+    "Prehension": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        157,
+        163
+      ]
+    },
+    "Actual Occasion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Nexus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        229
+      ]
+    },
+    "Subjective Form": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Creative Advance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Participatory Universe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    }
+  }
+}

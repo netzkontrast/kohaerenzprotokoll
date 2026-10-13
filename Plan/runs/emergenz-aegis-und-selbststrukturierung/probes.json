@@ -1,0 +1,372 @@
+{
+  "document": "emergenz-aegis-und-selbststrukturierung",
+  "drive_id": "1DHWeUMeL5YNA_9-Sw26boUR8oBi_j4kofq1TVA2UokM",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 53,
+  "backslash_escapes": 92,
+  "typographic_marks": 5,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "selbs": [
+      "SELBSTORGANISATION",
+      "Selbst",
+      "Selbstanwendungsproblematik",
+      "Selbstbeobachtung",
+      "Selbstbestimmung",
+      "Selbstbewusstsein",
+      "Selbsterhaltung",
+      "Selbsterschaffung",
+      "Selbstgesetzgebung",
+      "Selbstkontrolle",
+      "Selbstkonzept",
+      "Selbstmodellen",
+      "Selbstmodellierung",
+      "Selbstmodifikation",
+      "Selbstorganisation",
+      "Selbstorganisationsprozessen",
+      "Selbstorganisierende",
+      "Selbstreferentialität",
+      "Selbstreferentiellen",
+      "Selbstreferenz",
+      "Selbstreferenzialit",
+      "Selbstreferenzialität",
+      "Selbstreferenzielle",
+      "Selbstrepräsentation",
+      "Selbststeuerung",
+      "Selbststrukturierung",
+      "Selbststrukturierungsform",
+      "Selbststrukturierungslogik",
+      "Selbststrukturierungsprozesse",
+      "Selbstwahrnehmung",
+      "Selbstzustände",
+      "Selbstähnlichkeit"
+    ],
+    "syste": [
+      "System",
+      "Systemausfälle",
+      "Systemausfällen",
+      "Systembildung",
+      "Systemdynamik",
+      "Systemdynamiken",
+      "Systeme",
+      "Systemebenen",
+      "Systemeigenschaften",
+      "Systemen",
+      "Systemgrenzen",
+      "Systemidentität",
+      "Systemintelligenz",
+      "Systemkollaps",
+      "Systemkollapse",
+      "Systemkomponenten",
+      "Systemoperationen",
+      "Systems",
+      "Systemtheorie",
+      "Systemverhalten"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsausbreitung",
+      "Informationsentstehung",
+      "Informationsfluss",
+      "Informationsflüssen",
+      "Informationsmangel",
+      "Informationsmaß",
+      "Informationsphysik",
+      "Informationsstrukturen",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationsverarbeitungspfaden",
+      "Informationswissenschaft"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmuster",
+      "Interaktionsregeln",
+      "Interdisziplinäre",
+      "Interfaces",
+      "Interne",
+      "Internet",
+      "Interpretation",
+      "Interpretationen",
+      "Interpretationsprozesse",
+      "Interpretationsprozessen",
+      "Intersubjektivität"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichtgleichgewicht",
+      "Nichtgleichgewichts",
+      "Nichtgleichgewichtsthermodynamik",
+      "Nichtlineare",
+      "Nichtlinearen",
+      "Nichtlinearität",
+      "Nichtlinearitäten",
+      "Nichts",
+      "Nichtsein"
+    ],
+    "energ": [
+      "Energie",
+      "Energiebilanzen",
+      "Energiedissipation",
+      "Energieeffiziente",
+      "Energiefluss",
+      "Energieflüssen",
+      "Energiegradienten",
+      "Energiemanagement",
+      "Energienutzung"
+    ],
+    "quant": [
+      "Quantencomputing",
+      "Quantenebene",
+      "Quantenfeldtheorie",
+      "Quantenfluktuationen",
+      "Quantengravitation",
+      "Quanteninformation",
+      "Quantenmechanik",
+      "Quantenprozesse",
+      "Quantifizierung"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsbrüchen",
+      "Realitätserzeugung",
+      "Realitätsgenerierung",
+      "Realitätskonstitution",
+      "Realitätsmodelle",
+      "Realitätsschichten",
+      "Realitätsverständnis"
+    ],
+    "kausa": [
+      "Kausale",
+      "Kausalität",
+      "Kausalitätsbeziehungen",
+      "Kausalitätsmodelle",
+      "Kausalketten",
+      "Kausalmodelle",
+      "Kausalstruktur",
+      "Kausalstrukturen"
+    ],
+    "netzw": [
+      "Netzwerk",
+      "Netzwerkdynamiken",
+      "Netzwerke",
+      "Netzwerken",
+      "Netzwerkprotokolle",
+      "Netzwerkstrukturen",
+      "Netzwerktheorie",
+      "Netzwerktopologien"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationhypothese",
+      "Simulationsmaschine",
+      "Simulationsmethoden",
+      "Simulationsmodelle",
+      "Simulationsstudien",
+      "Simulationstheorie"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachterabhängigkeit",
+      "Beobachtermodelle",
+      "Beobachters",
+      "Beobachtetem",
+      "Beobachtung",
+      "Beobachtungssystemen"
+    ],
+    "grupp": [
+      "Gruppen",
+      "Gruppenbildung",
+      "Gruppendynamik",
+      "Gruppengrenzen",
+      "Gruppenidentität",
+      "Gruppenkommunikation",
+      "Gruppenzwang"
+    ],
+    "mater": [
+      "Materialien",
+      "Materialismus",
+      "Materialstrukturen",
+      "Materialwissenschaft",
+      "Materialwissenschaften",
+      "Materie",
+      "Materiedurchfluss"
+    ],
+    "model": [
+      "Modell",
+      "Modellbildung",
+      "Modelle",
+      "Modellen",
+      "Modelliert",
+      "Modellierung",
+      "Modells"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropiemanagement",
+      "Entropiemaximierung",
+      "Entropieproduktion",
+      "Entropieproduktionsraten",
+      "Entropiestrom"
+    ],
+    "forsc": [
+      "Forschung",
+      "Forschungsarbeit",
+      "Forschungsauftragsbeschreibung",
+      "Forschungsfrage",
+      "Forschungsfragen",
+      "Forschungsziel"
+    ],
+    "grenz": [
+      "Grenzbildung",
+      "Grenzbildungs",
+      "Grenzdefinition",
+      "Grenze",
+      "Grenzen",
+      "Grenzziehung"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitätsentwicklung",
+      "Identitätskern",
+      "Identitätskerne",
+      "Identitätskrisen"
+    ],
+    "kompl": [
+      "KOMPLEXIT",
+      "Komplexe",
+      "Komplexes",
+      "Komplexitat",
+      "Komplexität",
+      "Komplexitätstheorie"
+    ],
+    "opera": [
+      "Operation",
+      "Operational",
+      "Operationalisierte",
+      "Operationalisierung",
+      "Operationen",
+      "Operative"
+    ],
+    "ordnu": [
+      "Ordnung",
+      "Ordnungen",
+      "Ordnungsbildung",
+      "Ordnungsmuster",
+      "Ordnungsparameter",
+      "Ordnungsparametern"
+    ],
+    "organ": [
+      "Organisation",
+      "Organisational",
+      "Organisationen",
+      "Organisationsentwicklung",
+      "Organisationsprinzip",
+      "Organisationstheorie"
+    ],
+    "eigen": [
+      "Eigenantrieb",
+      "Eigenen",
+      "Eigenschaft",
+      "Eigenschaften",
+      "Eigenständigkeit"
+    ],
+    "entwi": [
+      "Entwickelt",
+      "Entwicklung",
+      "Entwicklungsoffenheit",
+      "Entwicklungspfade",
+      "Entwicklungspsychologie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auch",
+      "Auftauchen"
+    ],
+    [
+      "Auch",
+      "Werkzeuggebrauch"
+    ],
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Vorbild"
+    ],
+    [
+      "Bild",
+      "Abbildung"
+    ],
+    [
+      "Bild",
+      "Ausbildung"
+    ],
+    [
+      "Bild",
+      "Zellbildung"
+    ],
+    [
+      "Bild",
+      "Grenzbildung"
+    ],
+    [
+      "Bild",
+      "Grenzbildungs"
+    ],
+    [
+      "Bild",
+      "Modellbildung"
+    ],
+    [
+      "Bild",
+      "Systembildung"
+    ],
+    [
+      "Bild",
+      "Clusterbildung"
+    ],
+    [
+      "Bild",
+      "Gruppenbildung"
+    ],
+    [
+      "Bild",
+      "Konsensbildung"
+    ],
+    [
+      "Bild",
+      "Konzeptbildung"
+    ],
+    [
+      "Bild",
+      "Ordnungsbildung"
+    ],
+    [
+      "Bild",
+      "Strukturbildung"
+    ],
+    [
+      "Bild",
+      "Hierarchiebildung"
+    ],
+    [
+      "Bild",
+      "Subgruppenbildung"
+    ]
+  ]
+}

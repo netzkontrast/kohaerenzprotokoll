@@ -1,0 +1,149 @@
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Beschreibung"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Beschreibung` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#22]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Theoretischer Hintergrund"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Theoretischer Hintergrund` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#14]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Implikationen"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Implikationen` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#20]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Verbindung zur Forschung"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Verbindung zur Forschung` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#6]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Beispielhafte Anwendung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Beispielhafte Anwendung` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Narrative Implikationen"
+whole word, case-sensitive     8
+whole word, case-insensitive   9
+including compounds            8
+
+`Narrative Implikationen` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#8]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Juna/V"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            43
+
+`Juna/V` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#40]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Nichts Rauschen"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Nichts Rauschen` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#6]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Fehlausgerichtete Kohärenz` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fehlausgerichteten Kohärenz` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Konstrukt-Welten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Welten` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Kaels"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+
+`Kaels` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#32]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "fundamental"
+whole word, case-sensitive     9
+whole word, case-insensitive   10
+including compounds            14
+
+`fundamental` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#9]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Glitches"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Glitches` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "ANPs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANPs` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Verteiltes Bewusstsein"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Verteiltes Bewusstsein` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Fundament-Interface"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Fundament-Interface` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Azathoth"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`Azathoth` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py konzeptionelle-transzendenz-fuer-kohaerenz-protokoll --count "Cosmic Horror"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Cosmic Horror` ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:#8]
+
+stance_marker_count 65 = 22 + 14 + 20 + 6 + 3 (Beschreibung, Theoretischer Hintergrund, Implikationen, Verbindung zur Forschung, Beispielhafte Anwendung)
+$ grep -n 'Direktive17' Sources/drive/konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md
+230:Direktive17
+$ grep -n -o -w 'Azathoth' Sources/drive/konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md
+94:Azathoth
+379:Azathoth
+473:Azathoth
+473:Azathoth
+482:Azathoth

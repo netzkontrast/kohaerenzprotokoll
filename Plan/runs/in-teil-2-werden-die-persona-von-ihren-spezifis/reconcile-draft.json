@@ -1,0 +1,125 @@
+{
+  "document": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+  "drive_id": "1BMgpjhmzOckElJ-v4LkOWdmpKUgZEDXTm8jxM_lBcoo",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 73,
+    "decisions": 82,
+    "decided_by_lookup": 45,
+    "needs_judgement": 37
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "guardians",
+      "lines": [
+        14,
+        33,
+        54,
+        118,
+        135,
+        150,
+        176
+      ],
+      "attribution": "",
+      "note": "a Guardian assigned to each persona episode, and the Guardians informing the personas in Teil 2"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        273
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the end state of Teil 3"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        151
+      ],
+      "attribution": "",
+      "note": "Nexus named beside Überraum and Schaltzentrale"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        13,
+        15,
+        17,
+        21,
+        33,
+        50,
+        114,
+        136,
+        176
+      ],
+      "attribution": "",
+      "note": "personas as the protagonists of the Teil 1 episodes and the only hope in Teil 2"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        121,
+        125,
+        221,
+        247
+      ],
+      "attribution": "",
+      "note": "cracks opened by persona intrusion, read as disturbances in the information fabric, worsened by the hunt for the Außen"
+    },
+    {
+      "page": "ueberraum",
+      "lines": [
+        142,
+        175,
+        233
+      ],
+      "attribution": "",
+      "note": "the Überraum as the setting of Teil 2"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 176,
+      "decision": "occurrence",
+      "why": "a general phrase"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

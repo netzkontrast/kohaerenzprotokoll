@@ -1,0 +1,227 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag-3",
+  "drive_id": "1xYZqeISFhyezaVuI4hy8zpmiuD8RWUns_Ozvn6jvck8",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 61,
+  "backslash_escapes": 22,
+  "typographic_marks": 27,
+  "ascii_quotes": 22,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemfehler",
+      "Systemischer",
+      "Systemkollaps",
+      "Systemrauschen",
+      "Systems",
+      "Systemwarnungen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenflüssen",
+      "Datenkorruption",
+      "Datenpakete",
+      "Datenströme",
+      "Datenverarbeitungszentren"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmented",
+      "Fragmenten",
+      "Fragmentierung"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollmaßnahmen",
+      "Kontrollmechanismen",
+      "Kontrollverlust"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterlebens",
+      "Selbstorganisation",
+      "Selbstverteidigung"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsfragments"
+    ],
+    "epist": [
+      "Epistemic",
+      "Epistemological",
+      "Epistemology"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfragmente"
+    ],
+    "exist": [
+      "Existential",
+      "Existenz",
+      "Existenzen"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzwacht"
+    ],
+    "grund": [
+      "Grundlage",
+      "Grundrauschen",
+      "Grundstruktur"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsmuster"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzfeld",
+      "Kohärenzmetriken"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichtexistenz",
+      "Nichts"
+    ],
+    "parad": [
+      "Paradoxe",
+      "Paradoxical",
+      "Paradoxon"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzen",
+      "Resonanzkaskade"
+    ],
+    "schre": [
+      "Schrecken",
+      "Schreckens",
+      "Schrei"
+    ],
+    "signa": [
+      "Signal",
+      "Signatur",
+      "Signaturen"
+    ],
+    "abweh": [
+      "Abwehrreaktion",
+      "Abwehrversuche"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmischer"
+    ],
+    "angri": [
+      "Angriff",
+      "Angriffs"
+    ],
+    "archi": [
+      "Architecture",
+      "Architektur"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungsvektoren"
+    ],
+    "conte": [
+      "Contemporary",
+      "Context"
+    ],
+    "diese": [
+      "Diese",
+      "Dieses"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationsmuster"
+    ],
+    [
+      "INFO",
+      "Information"
+    ],
+    [
+      "INFO",
+      "Informationen"
+    ],
+    [
+      "INFO",
+      "Informationsmuster"
+    ],
+    [
+      "Leib",
+      "Überbleibsel"
+    ],
+    [
+      "Mein",
+      "Meine"
+    ],
+    [
+      "Nach",
+      "Wonach"
+    ],
+    [
+      "Oder",
+      "Modernist"
+    ],
+    [
+      "Oder",
+      "Postmodern"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Rise",
+      "Krise"
+    ],
+    [
+      "Rise",
+      "Crises"
+    ],
+    [
+      "SELF",
+      "Self"
+    ]
+  ]
+}

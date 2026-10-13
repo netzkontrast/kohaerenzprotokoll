@@ -1,0 +1,128 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Candidates as the document writes them. Left out because of a comma: the quoted writing rule „Show, don't tell“ and the list „Kampf, Flucht, Erstarrung“. The dictionary form „parakonsistente Logik“ is not written; the document has „parakonsistenten Logik“ and „parakonsistente Logik“ is not listed. Bibliography lines (L155-L187) are titles of cited works and web pages and are left out. One cell of the TSDP table in L38 shows „Dialetheia“ as a metaphorical equivalent for the EP row.
+
+- Kohärenz Protokoll
+- System Mind
+- Golden Sources
+- 4-Achsen-Heuristik
+- MAP
+- MAP-Synthese
+- 39-Kapitel-Raster
+- Kael
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Juna
+- Nox
+- Manager
+- LogOS
+- Mnemosyne
+- Anscheinend Normale Persönlichkeitsanteil
+- ANP
+- Emotionalen Persönlichkeitsanteile
+- EP
+- Host-ANP
+- Kern-Phobie
+- Cache-Kohärenz
+- Identitäts-Caches
+- Cache-Buffer
+- Universal Reboot
+- Konstrukt-Stadt
+- Nichts-Rauschen
+- Kohärenz-Kernels
+- K1
+- K1-Dominanz
+- K0-Einbruch
+- Semantische Firewall
+- Fehlerkorrekturprotokoll
+- Landauer-Prinzip
+- Landauer-Limit
+- KW 1
+- KW 2
+- KW 3
+- KW 4
+- Kernwelten
+- Grenz-Zonen
+- Überwelt
+- Nexus
+- Resonanz-Kontinuum
+- Externe Ebene
+- Russellsche Trümmer
+- Bekenstein-Schranke
+- Ricci-Singularität
+- SIS-Zustand
+- Secure Isolation State
+- Replica Wormholes
+- Hawking-Strahlung
+- Sektor 04
+- Mosaik-Herz
+- Mosaik-Herzens
+- Zielkohärenz erreicht
+- Sprung ins Nichts
+- Spiegel-Effekt
+- Teil I
+- Teil II
+- Teil III
+- Die Ästhetik der Ohnmacht
+- Die Anatomie der Spaltung
+- Die existenzielle Fusion
+- Ästhetik der Ohnmacht
+- Anatomie des Rauschens
+- Szenen-Logik
+- Dramaturgische Phase
+- Ontologische Ebene
+- Zentrale Prämisse
+- Kap 1-6
+- Kapitel 3
+- Kapitel 13
+- Kapitel 26
+- Kapitel 36
+- Kapitel 38-39
+- Dialetheia
+- Dialetheismus
+
+## lens
+
+- TSDP
+- Autopoiesis
+- Landauer
+- Dramatica
+- Kishōtenketsu
+- Dramatica Storyminds
+- Throughline
+- Inequity
+- Inequities
+- Overall Story
+- Main Character
+- Influence Character
+- Relationship Story
+- Ki
+- Shō
+- Ten
+- Ketsu
+- Gödels Erster Unvollständigkeitssatz
+- Unvollständigkeitssatz
+- Halteproblem
+- Turing
+- Chaitin-Konstante
+- Phaenomena
+- Noumena
+- Kantschen Phänomene
+- Phänomenalen Selbstmodells
+- PSM
+- Selbstmodell-Theorie
+- Informationsparadoxon Schwarzer Löcher
+- Quanten-Unitarität
+- Explosionsprinzip
+- Spektrallücke
+- Grenzsituation
+- Umgreifende
+- operativ geschlossen
+- parakonsistenten Logik
+- Wärmetod
+- Big Freeze
+- Big Crunch
+- Metzinger
+- Jaspers
+- Luhmann
+- Maturana

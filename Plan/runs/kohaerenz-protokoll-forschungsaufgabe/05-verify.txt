@@ -1,0 +1,113 @@
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Dieser Abschnitt"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Dieser Abschnitt` ^[kohaerenz-protokoll-forschungsaufgabe.md:#14]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Dieser Teil"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Dieser Teil` ^[kohaerenz-protokoll-forschungsaufgabe.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Dieser letzte"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dieser letzte` ^[kohaerenz-protokoll-forschungsaufgabe.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Wir werden"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Wir werden` ^[kohaerenz-protokoll-forschungsaufgabe.md:#9]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "könnte"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            28
+
+`könnte` ^[kohaerenz-protokoll-forschungsaufgabe.md:#26]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Zugriff am Juli 29, 2025"
+whole word, case-sensitive     84
+whole word, case-insensitive   84
+including compounds            84
+
+`Zugriff am Juli 29, 2025` ^[kohaerenz-protokoll-forschungsaufgabe.md:#84]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Juna/V-Verbindung"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Juna/V-Verbindung` ^[kohaerenz-protokoll-forschungsaufgabe.md:#11]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Juna/V-Bindung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V-Bindung` ^[kohaerenz-protokoll-forschungsaufgabe.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Starke Emergenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Starke Emergenz` ^[kohaerenz-protokoll-forschungsaufgabe.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Torwächter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Torwächter` ^[kohaerenz-protokoll-forschungsaufgabe.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Moonshine"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Moonshine` ^[kohaerenz-protokoll-forschungsaufgabe.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Moonshine-Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Link` ^[kohaerenz-protokoll-forschungsaufgabe.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            13
+
+`Kernwelt` ^[kohaerenz-protokoll-forschungsaufgabe.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Kernwelten"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Kernwelten` ^[kohaerenz-protokoll-forschungsaufgabe.md:#13]
+
+$ python3 scripts/read.py kohaerenz-protokoll-forschungsaufgabe --count "Kohärenz-Insel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Insel` ^[kohaerenz-protokoll-forschungsaufgabe.md:#1]
+
+$ python3 scripts/profile.py kohaerenz-protokoll-forschungsaufgabe | grep -E "glued|escapes"
+  backslash escapes    59
+  glued ref numbers    98
+
+stance_marker_count 20 = 14 + 4 + 2 (Dieser Abschnitt, Dieser Teil, Dieser letzte)
+$ grep -c ^- Plan/runs/kohaerenz-protokoll-forschungsaufgabe/03-candidates.md
+95
+16 standing-alone-less-than-compound terms: from census draft facts (census.py draft)

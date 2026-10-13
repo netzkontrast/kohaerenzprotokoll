@@ -1,0 +1,167 @@
+{
+  "document": "aegis-philosophische-analyse-und-manifest-docx",
+  "drive_id": "1j4y87g4mGpILwuIehlu86SiinwP0qYIt",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 50,
+    "decisions": 58,
+    "decided_by_lookup": 37,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        37,
+        54,
+        57,
+        63,
+        75,
+        118,
+        120,
+        128,
+        138,
+        143
+      ],
+      "attribution": "",
+      "note": "the origin philosophy reported, criticised and spoken in AEGIS's voice"
+    },
+    {
+      "page": "did",
+      "lines": [
+        51,
+        142
+      ],
+      "attribution": "",
+      "note": "DID named once as the background of the No-Trust principle"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        34,
+        63,
+        118
+      ],
+      "attribution": "",
+      "note": "Emergenz durch Negation as the third principle"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        37,
+        80,
+        130,
+        141
+      ],
+      "attribution": "",
+      "note": "entropy defined as incoherence, the sixth principle and its criticism"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        75
+      ],
+      "attribution": "",
+      "note": "the Guardians' blind spots set against AEGIS's claimed autonomy"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        55,
+        67,
+        75,
+        140
+      ],
+      "attribution": "",
+      "note": "Juna as the anomaly outside AEGIS's coherence criteria"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        51,
+        87,
+        142
+      ],
+      "attribution": "",
+      "note": "Kael's psyche as the context in which the analyst places AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        87
+      ],
+      "attribution": "",
+      "note": "the Kern-Welten of the managed world as externalisations of Kael's psyche"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        33,
+        53,
+        94,
+        102,
+        130,
+        138,
+        141
+      ],
+      "attribution": "",
+      "note": "coherence in place of truth, from principle to axiom to critique"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        57,
+        141
+      ],
+      "attribution": "",
+      "note": "the Negentropie misreading as the analyst's explanation of AEGIS's blindness"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 51,
+      "decision": "reading",
+      "why": "No-Trust as externalisation of Kael's trauma (Kael/DID)"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 34,
+      "decision": "reading",
+      "why": "Emergenz durch Negation"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

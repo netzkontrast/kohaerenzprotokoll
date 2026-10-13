@@ -1,0 +1,242 @@
+{
+  "document": "gravitation-realitaet-simulation-wahrheit",
+  "drive_id": "1E39HhfOsGPt6rDq30kyhQLhjMye2qs5YsfQzOeMTwDI",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 49,
+  "backslash_escapes": 60,
+  "typographic_marks": 161,
+  "ascii_quotes": 10,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systeme",
+      "Systemen",
+      "Systemische",
+      "Systemischer",
+      "Systems",
+      "Systemstatus",
+      "Systemversagens"
+    ],
+    "gravi": [
+      "Gravimeter",
+      "Gravitation",
+      "Gravitational",
+      "Gravitations",
+      "Gravitationsquelle",
+      "Gravitationssenke",
+      "Gravitative",
+      "Graviton"
+    ],
+    "simul": [
+      "Simulation",
+      "SimulationTheory",
+      "Simulationen",
+      "Simulations",
+      "Simulationshypothese",
+      "Simulatorkrankheit",
+      "Simuliert"
+    ],
+    "daten": [
+      "Daten",
+      "Datenkompression",
+      "Datenpunkte",
+      "Datenstruktur"
+    ],
+    "exper": [
+      "Experience",
+      "Experiment",
+      "Experimentelle",
+      "Experiments"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerkorrektur",
+      "Fehlern",
+      "Fehlers"
+    ],
+    "infor": [
+      "Information",
+      "Informationsdichte",
+      "Informationsgehalt",
+      "Informationstheorie"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstantierungen",
+      "Konstatierung",
+      "Konstatierungen"
+    ],
+    "physi": [
+      "Physicists",
+      "Physik",
+      "Physiologische",
+      "Physisch"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätseinbruch"
+    ],
+    "schwe": [
+      "Schwebe",
+      "Schwere",
+      "Schwerelosigkeit",
+      "Schwerkraft"
+    ],
+    "compu": [
+      "Computer",
+      "Computergrafik",
+      "Computing"
+    ],
+    "große": [
+      "Große",
+      "Großen",
+      "Großes"
+    ],
+    "grund": [
+      "Grund",
+      "Grunderfahrung",
+      "Grundlage"
+    ],
+    "insti": [
+      "Institut",
+      "Institute",
+      "Instituts"
+    ],
+    "inter": [
+      "Interactive",
+      "Interessantes",
+      "Interface"
+    ],
+    "koord": [
+      "Koordinate",
+      "Koordinaten",
+      "Koordinatenwerte"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativer"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologische",
+      "Ontologischer"
+    ],
+    "textu": [
+      "Textur",
+      "Texture",
+      "Texturen"
+    ],
+    "theor": [
+      "Theoretischer",
+      "Theorie",
+      "Theory"
+    ],
+    "unive": [
+      "Universe",
+      "Universum",
+      "Universums"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchsfreiheit",
+      "Widerstand"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmizität"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Konstantierungen"
+    ],
+    [
+      "Aris",
+      "Tabellarischer"
+    ],
+    [
+      "Aris",
+      "Popularisierung"
+    ],
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Auge",
+      "Augenblicke"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Bildes"
+    ],
+    [
+      "Body",
+      "RigidBody"
+    ],
+    [
+      "Body",
+      "StaticBody"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Allgemeine"
+    ],
+    [
+      "Feld",
+      "Sichtfeld"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationsdichte"
+    ],
+    [
+      "Form",
+      "Informationsgehalt"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Glas",
+      "Glases"
+    ]
+  ]
+}

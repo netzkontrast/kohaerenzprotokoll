@@ -1,0 +1,177 @@
+# every number the census and the note state, each with its command and output
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "User Prompt"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`User Prompt` ^[kernwelten-fuer-kohaerenz-protokoll.md:#17]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Briefing"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Briefing` ^[kernwelten-fuer-kohaerenz-protokoll.md:#3]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Relevanz"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Relevanz` ^[kernwelten-fuer-kohaerenz-protokoll.md:#18]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Zweck"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Zweck` ^[kernwelten-fuer-kohaerenz-protokoll.md:#10]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Visuelles"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`Visuelles` ^[kernwelten-fuer-kohaerenz-protokoll.md:#4]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Klanglandschaft"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Klanglandschaft` ^[kernwelten-fuer-kohaerenz-protokoll.md:#4]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kernwelten-fuer-kohaerenz-protokoll.md:#0]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Beat"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Beat` ^[kernwelten-fuer-kohaerenz-protokoll.md:#0]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Cache Kohärenz Manifestation"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Cache Kohärenz Manifestation` ^[kernwelten-fuer-kohaerenz-protokoll.md:#4]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Dominanter Cache"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Dominanter Cache` ^[kernwelten-fuer-kohaerenz-protokoll.md:#4]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Cache Kohärenz"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Cache Kohärenz` ^[kernwelten-fuer-kohaerenz-protokoll.md:#15]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Conway-Welt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Conway-Welt` ^[kernwelten-fuer-kohaerenz-protokoll.md:#3]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "McLaughlin-Welt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`McLaughlin-Welt` ^[kernwelten-fuer-kohaerenz-protokoll.md:#3]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Baby-Monster-Welt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Baby-Monster-Welt` ^[kernwelten-fuer-kohaerenz-protokoll.md:#3]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Lyons-Welt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lyons-Welt` ^[kernwelten-fuer-kohaerenz-protokoll.md:#3]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Wächter"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            15
+
+`Wächter` ^[kernwelten-fuer-kohaerenz-protokoll.md:#7]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kernwelten-fuer-kohaerenz-protokoll.md:#1]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "J"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            22
+
+`J` ^[kernwelten-fuer-kohaerenz-protokoll.md:#1]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "K-J Verbindung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`K-J Verbindung` ^[kernwelten-fuer-kohaerenz-protokoll.md:#2]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "K-J-Verbindung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`K-J-Verbindung` ^[kernwelten-fuer-kohaerenz-protokoll.md:#4]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "K-J-Kanal"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K-J-Kanal` ^[kernwelten-fuer-kohaerenz-protokoll.md:#1]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Gödels Unvollständigkeitssätze"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödels Unvollständigkeitssätze` ^[kernwelten-fuer-kohaerenz-protokoll.md:#1]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Jungscher Schatten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Jungscher Schatten` ^[kernwelten-fuer-kohaerenz-protokoll.md:#2]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Internal Family Systems"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Internal Family Systems` ^[kernwelten-fuer-kohaerenz-protokoll.md:#5]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Emergenz"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            20
+
+`Emergenz` ^[kernwelten-fuer-kohaerenz-protokoll.md:#19]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Selbst-Teil"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selbst-Teil` ^[kernwelten-fuer-kohaerenz-protokoll.md:#1]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Kaels"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            41
+
+`Kaels` ^[kernwelten-fuer-kohaerenz-protokoll.md:#41]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "McL-Welt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`McL-Welt` ^[kernwelten-fuer-kohaerenz-protokoll.md:#4]
+$ read.py kernwelten-fuer-kohaerenz-protokoll --count "Co1"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Co1` ^[kernwelten-fuer-kohaerenz-protokoll.md:#2]
+# stance_marker_count 45 = Relevanz 18 + User Prompt 17 + Zweck 10
+# profile numbers (231 glued reference numbers, 136 typographic marks, 16 ascii quotes, Zweck x6 as label): 01-profile.txt

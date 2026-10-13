@@ -1,0 +1,14 @@
+# entwickle-einen-neuen-plot-der-sich-ueber-13-kurz
+  lines                268  (frontmatter ends at 9)
+  body words           2560
+  headings             0   bold-only lines 3
+  table rows           0   code fences 0
+  question marks       15
+  backslash escapes    0
+  typographic marks    5   ascii quotes 90
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    45
+  repeated labels      none
+  longest line         775 chars
+

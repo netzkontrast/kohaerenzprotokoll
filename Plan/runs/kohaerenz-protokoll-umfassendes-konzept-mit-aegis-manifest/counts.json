@@ -1,0 +1,387 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest",
+  "drive_id": "10MvanrGLpaBo6RWJxMq2tw4Cjc-BcVZwXCs022ZOwEY",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        19
+      ]
+    },
+    "AEGIS": {
+      "n": 15,
+      "n_including_compounds": 23,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        48,
+        52,
+        53,
+        59,
+        60,
+        61,
+        62,
+        63,
+        69,
+        70,
+        71,
+        75,
+        76,
+        77,
+        84,
+        92,
+        102
+      ]
+    },
+    "AEGIS-Manifest": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        15,
+        17,
+        63,
+        75,
+        92,
+        102
+      ]
+    },
+    "Manifest": {
+      "n": 5,
+      "n_including_compounds": 23,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        56,
+        59,
+        60,
+        63,
+        67,
+        75,
+        76,
+        77,
+        78,
+        82,
+        83,
+        84,
+        88,
+        92,
+        96,
+        100,
+        102
+      ]
+    },
+    "Säulen": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        17,
+        67,
+        83,
+        88,
+        96
+      ]
+    },
+    "Säule": {
+      "n": 20,
+      "n_including_compounds": 28,
+      "lines": [
+        15,
+        17,
+        58,
+        59,
+        60,
+        61,
+        62,
+        67,
+        69,
+        70,
+        71,
+        83,
+        88,
+        96,
+        100
+      ]
+    },
+    "Potentialmeer": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        58,
+        63,
+        82
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        83
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Kael": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        60,
+        62,
+        63,
+        69,
+        70,
+        71,
+        75
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        77
+      ]
+    },
+    "M": {
+      "n": 7,
+      "n_including_compounds": 43,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        44,
+        54,
+        56,
+        59,
+        60,
+        62,
+        63,
+        67,
+        69,
+        70,
+        71,
+        75,
+        76,
+        77,
+        78,
+        82,
+        83,
+        84,
+        86,
+        88,
+        92,
+        96,
+        100,
+        102
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Subquotienten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        69
+      ]
+    },
+    "Heldenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        71
+      ]
+    },
+    "Sein und Nicht-Sein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Ordnung und Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Kohärenz und Differenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Vereinigende Definition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Selbstkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Selbstvalidierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        69
+      ]
+    },
+    "Selbstrealität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Kernprämisse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Entropie": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        30,
+        34,
+        35,
+        52,
+        58,
+        59,
+        60,
+        61,
+        70,
+        82,
+        100
+      ]
+    },
+    "Differenz": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        39,
+        44,
+        52,
+        59,
+        60,
+        61,
+        71,
+        84,
+        100
+      ]
+    },
+    "Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Leere": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        26,
+        58,
+        82
+      ]
+    },
+    "Cache": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Monster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "ursprünglichen Prinzipien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Trigger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    }
+  }
+}

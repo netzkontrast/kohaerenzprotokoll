@@ -1,0 +1,150 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is a locations concept for the novel in three parts of method, a master table of places in six reality levels and seventeen profiles of the planned thirty. It writes the ten template fields as bold labels and as table column heads, so they are listed as its own terms. Items in the references list are cited works and are left out. Titles of the three comparison works (Inception, Control, Silent Hill) are left out as titles of cited works; their concepts that the document applies to its world are under the lens heading. Names of places are listed as the master table and the profiles write them; where the profile name carries a parenthesis the joined form and each half are listed.
+
+## world
+
+- Kael
+- Kael's
+- Limina
+- Nox
+- Echo
+- Juna
+- AEGIS
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kairos/Sophia
+- Guardians
+- Archivar
+- Orakel
+- Muse
+- Orakel/Muse
+- Regel-Exekutor
+- Alters
+- Alter
+- DID
+- Dissoziativer Identitätsstörung
+- Systemkontrollmechanismus
+- KW1
+- KW2
+- KW3
+- KW4
+- KW1-4
+- Kern-Welten
+- Überwelt
+- Externe Ebene
+- Realitätsebenen
+- universal reboot
+- Reboot
+- Risse
+- Entropie
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- AEGIS-Netzwerk
+- Seelenlandschaft
+- Kael's Wohneinheit 734
+- Datenverarbeitungsknoten Epsilon
+- Transitkorridor Delta-7
+- Therapie-Schnittstelle Gamma
+- LogOS' Beobachtungszentrum
+- Regel-Exekutor Posten 12
+- Sektor für Logische Rekreation
+- Archiv der Kausalitätsketten
+- Der Vergessene Schrein (Trauma-Lokus)
+- Der Vergessene Schrein
+- Trauma-Lokus
+- Insel der Fragmentierten Erinnerungen
+- See der Tränen (Melancholie-Zone)
+- See der Tränen
+- Melancholie-Zone
+- Garten der Falschen Erinnerungen
+- Mnemosynes Quellen
+- Echo's Versteckter Resonanzraum
+- Brücke der Verlorenen Verbindungen
+- Archivars Turm der Chroniken
+- Die Schleusen des Misstrauens
+- Gänge der Paranoia
+- Nox' Schattenversteck
+- Der Innere Bunker (Kernabwehr)
+- Der Innere Bunker
+- Kernabwehr
+- Arena der Konfrontation
+- Cerberus' Zwinger
+- Feld der Abgelehnten Identitäten
+- Panoptikum der Überwachung
+- Nexus-Interface zur Überwelt
+- Hain der Symbole (Kreativ-Zone)
+- Hain der Symbole
+- Kreativ-Zone
+- Werkstatt der Möglichkeiten
+- Kairos/Sophias Observatorium
+- Bibliothek der Ungeschriebenen Geschichten
+- Glitch-Garten (Entropie als Kunst)
+- Glitch-Garten
+- Forum der Synthese
+- Quelle der Inspiration (Muse-Lokus)
+- Quelle der Inspiration
+- Muse-Lokus
+- AEGIS-Kern-Nexus
+- Datenstrom-Autobahn
+- Protokoll-Archiv
+- Quarantäne-Zone für Anomalien
+- Guardian Interface Hubs
+- Datenfriedhof (Veraltete Infos)
+- Datenfriedhof
+- Simulations-Parameter-Kammer
+- Kommunikationsrelais mit Extern
+- Junas Versteckter Zugangspunkt
+- Der Stille Garten
+- Quelle der Anomalien
+- Echo der Realität
+- Der Weberknoten
+
+## template fields
+
+- Lokalitätenname
+- Realitätsebene
+- Konzept
+- Narrative Funktion
+- Ästhetik & Sensorische Details
+- Symbolische Bedeutung
+- Regeln & Logik
+- Atmosphäre & Stimmung
+- Landmarken/Schlüsselmerkmale
+- Risse/Entropie-Manifestationen
+- Charakter- & Plot-Verbindungen
+- Location ID
+- Masterliste der Lokalitäten
+
+## lens
+
+- Environmental Storytelling
+- EST
+- Eingebettetes EST
+- Emergentes EST
+- Räumliches EST
+- Atmosphärisches EST
+- Reaktive Umgebungen
+- liminale Räume
+- Liminale Ästhetik
+- Glitch-Kunst-Ästhetik
+- Datamoshing
+- Pixel-Sorting
+- Pathetischem Trugschluss
+- Top-Down
+- Bottom-Up
+- Suspension of Disbelief
+- Setting als Charakter
+- Juxtaposition
+- verschachtelte Konsistenz
+- Oldest House
+- The Hiss
+- Objects of Power
+- Totems
+- Otherworld
+- Pyramid Head

@@ -1,0 +1,238 @@
+{
+  "document": "kohaerenz-protokoll-finale-pfeiler",
+  "drive_id": "1BHk5pT2XdptoQzmUB1hwTjt7SdtqzLd4ZX4SmrCyd2E",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 23,
+  "backslash_escapes": 92,
+  "typographic_marks": 21,
+  "ascii_quotes": 162,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemanalytiker",
+      "Systeme",
+      "Systemintervention",
+      "Systemkollaps",
+      "Systems",
+      "Systemstabilität",
+      "Systemzustand"
+    ],
+    "daten": [
+      "Daten",
+      "Datenkorruption",
+      "Datenpakete",
+      "Datenpunkt",
+      "Datensignal",
+      "Datenspitzen",
+      "Datenwissen"
+    ],
+    "rhizo": [
+      "RHIZOMATIC",
+      "Rhizom",
+      "Rhizomal",
+      "Rhizomatic",
+      "Rhizomatische"
+    ],
+    "gegen": [
+      "Gegenpol",
+      "Gegensatz",
+      "Gegensätze",
+      "Gegensätzen"
+    ],
+    "ident": [
+      "IDENTITY",
+      "Identity",
+      "Identität",
+      "Identitätsstörung"
+    ],
+    "inter": [
+      "Interner",
+      "Internet",
+      "Interpretation",
+      "Intersectionality"
+    ],
+    "philo": [
+      "Philosophical",
+      "Philosophie",
+      "Philosophisch",
+      "Philosophy"
+    ],
+    "schöp": [
+      "Schöpfer",
+      "Schöpfern",
+      "Schöpfers",
+      "Schöpfung"
+    ],
+    "analy": [
+      "Analyse",
+      "Analytics",
+      "Analytiker"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionsweise"
+    ],
+    "grund": [
+      "Grund",
+      "Grundgesetzen",
+      "Grundhaltung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsprozess",
+      "Heilungsweg"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsverarbeitung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsarbeit",
+      "Integriert"
+    ],
+    "konze": [
+      "Konzepten",
+      "Konzeption",
+      "Konzepts"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modellierungsfähigkeit"
+    ],
+    "poten": [
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial"
+    ],
+    "prinz": [
+      "Prinzip",
+      "Prinzipien",
+      "Prinzips"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebene",
+      "Realitätserzeugung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbstverlust"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen"
+    ],
+    "tugen": [
+      "Tugenden",
+      "Tugendethik",
+      "Tugendethisch"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Weltbild"
+    ],
+    [
+      "Bild",
+      "Abbildung"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eine",
+      "Bewusstseine"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Tugenden"
+    ],
+    [
+      "Ende",
+      "Tugendethik"
+    ],
+    [
+      "Ende",
+      "Eskalierende"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Tugendethisch"
+    ],
+    [
+      "Fall",
+      "Falle"
+    ],
+    [
+      "Fall",
+      "Fallstricke"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Urform"
+    ],
+    [
+      "Form",
+      "Formalismus"
+    ]
+  ]
+}

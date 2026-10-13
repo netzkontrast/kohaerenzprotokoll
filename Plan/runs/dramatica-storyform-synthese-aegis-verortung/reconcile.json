@@ -1,0 +1,268 @@
+{
+  "document": "dramatica-storyform-synthese-aegis-verortung",
+  "drive_id": "1XY4mqxHMGv7rZRYIXgKoGtg9BGkQUWE-_At9bvHUy-o",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list, one line range (L185–L190) not read for privacy; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-278/brief.md, 2026-10-12, the same range excluded; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 109,
+    "decisions": 106,
+    "decided_by_lookup": 98,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analysis placing AEGIS in Storyform B: its new surfaces are its hypotheses, the Phönix-Kollaps, the Löschungs-Kern, Dramatica's own terms and the research mandate; what it says of the novel's world went on existing pages and the record(s) below.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        73,
+        83,
+        95,
+        99,
+        107,
+        109,
+        113,
+        119,
+        121,
+        123,
+        175
+      ],
+      "attribution": "",
+      "note": "places AEGIS as Influence Character in Mind in Storyform B, and reports three hypotheses"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        175
+      ],
+      "attribution": "",
+      "note": "AEGIS's state at the Vortex-Inversion"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        181
+      ],
+      "attribution": "",
+      "note": "the unreliable narrators"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        17,
+        23,
+        27,
+        29
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel Theory as one of three pillars, and the two kernels"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        151,
+        159
+      ],
+      "attribution": "",
+      "note": "the heading that introduces Juna's role"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        83,
+        129,
+        153,
+        157,
+        159
+      ],
+      "attribution": "",
+      "note": "Juna as IC of Storyform A, outside the quad in B"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        43,
+        51,
+        75,
+        79,
+        87,
+        109
+      ],
+      "attribution": "",
+      "note": "MC in both storyforms, with the trauma as buffer"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "among the emotional parts"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the domain of perfect symmetry"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        53,
+        181
+      ],
+      "attribution": "",
+      "note": "among the emotional parts, and an unreliable narrator"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "among the emotional parts"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        157
+      ],
+      "attribution": "",
+      "note": "the resonant link in Juna's formalisation"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        75,
+        107
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the securing of transinformation"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        181
+      ],
+      "attribution": "",
+      "note": "the static as erosion mirrored on the reader"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        53,
+        181
+      ],
+      "attribution": "",
+      "note": "among the emotional parts, and an unreliable narrator"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        71,
+        73
+      ],
+      "attribution": "",
+      "note": "the central axis, and AEGIS exposed"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        51,
+        55
+      ],
+      "attribution": "",
+      "note": "the dissociation model behind Kael's divided personality"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "the Vortex-Inversion as the climax"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Participatory Universe` and `Universe`, `Storymind` and `Mind`, `Uncontrolled` and `Control` — Dramatica terms against the theory's own, not promoted; `Kohärenz-Protokoll` the audit's name; `Kohärenz-Kern` read on kohaerenz-kernel; `Mnemosyne-Archipels` a world's name (J49); `Vortex-Inversion` on vortex; `Funktionalen Multiplizität` on multiplizitaet",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 181,
+      "decision": "reading",
+      "why": "the unreliable narrators, if named as Alters"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 34,
+      "decision": "occurrence",
+      "why": "a table cell"
+    },
+    {
+      "page": "goedel-gambit",
+      "surface": "Gödel-Gambit",
+      "line": 151,
+      "decision": "reading",
+      "why": "the heading on Juna's role"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 71,
+      "decision": "occurrence",
+      "why": "the audit's name"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "funktionale Multiplizität",
+      "line": 75,
+      "decision": "reading",
+      "why": "Kael's multiplicity securing mutual information"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    }
+  ],
+  "not_promoted": [
+    "H1–H3 as labels",
+    "the Phönix-Kollaps",
+    "the Löschungs-Kern",
+    "Storymind",
+    "the Participatory Universe",
+    "the Global Work Packages",
+    "the reader as thermostat"
+  ],
+  "internal_tension": "Juna is IC in Universe for Storyform A (L83, L129) and outside the quad for B (L159), while the table's B row gives AEGIS as IC; the B judgment is „Bad (für AEGIS) / Good (für Kael)“ in the table (L134) and Good in the prose (L87)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

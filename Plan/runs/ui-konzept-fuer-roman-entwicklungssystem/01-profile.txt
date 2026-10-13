@@ -1,0 +1,14 @@
+# ui-konzept-fuer-roman-entwicklungssystem
+  lines                230  (frontmatter ends at 9)
+  body words           4673
+  headings             20   bold-only lines 0
+  table rows           16   code fences 0
+  question marks       1
+  backslash escapes    92
+  typographic marks    73   ascii quotes 40
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    62
+  repeated labels      none
+  longest line         1217 chars
+

@@ -1,0 +1,72 @@
+$ read.py --count "Narrative Implikationen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Implikationen` ^[juna-v-exiliertes-ursprungs-ich.md:#1]
+
+$ read.py --count "Mechanismus"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Mechanismus` ^[juna-v-exiliertes-ursprungs-ich.md:#4]
+
+$ read.py --count "Szenario"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Szenario` ^[juna-v-exiliertes-ursprungs-ich.md:#4]
+
+$ read.py --count "Modell A"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Modell A` ^[juna-v-exiliertes-ursprungs-ich.md:#1]
+
+$ read.py --count "Modell B"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Modell B` ^[juna-v-exiliertes-ursprungs-ich.md:#1]
+
+$ read.py --count "Ruf zur Ganzheit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Ruf zur Ganzheit` ^[juna-v-exiliertes-ursprungs-ich.md:#2]
+
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[juna-v-exiliertes-ursprungs-ich.md:#0]
+
+$ read.py --count "Magie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Magie` ^[juna-v-exiliertes-ursprungs-ich.md:#2]
+
+$ read.py --count "Moonshine-Link"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Moonshine-Link` ^[juna-v-exiliertes-ursprungs-ich.md:#3]
+
+$ read.py --count "Ursprungs-Ich"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Ursprungs-Ich` ^[juna-v-exiliertes-ursprungs-ich.md:#3]
+
+stance_marker_count = Mechanismus 4 + Szenario 4 + Narrative Implikationen 1 = 9 (counts above)
+profile numbers (32 backslash escapes, 64 glued reference numbers, 190 ascii quotes, 14 typographic marks, U+200Bx1): Plan/runs/juna-v-exiliertes-ursprungs-ich/01-profile.txt

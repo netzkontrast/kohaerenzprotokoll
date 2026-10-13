@@ -1,0 +1,14 @@
+# tropenanalyse-fuer-kohaerenz-protokoll
+  lines                306  (frontmatter ends at 9)
+  body words           5821
+  headings             2   bold-only lines 22
+  table rows           12   code fences 0
+  question marks       23
+  backslash escapes    74
+  typographic marks    16   ascii quotes 136
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    24
+  repeated labels      Definition x3, Identifizierte Tropes & Erläuterungen x3
+  longest line         1224 chars
+

@@ -1,0 +1,256 @@
+{
+  "document": "aegis-und-der-kollaps-kritische-analyse",
+  "drive_id": "12MzhGKEHKI5u4NC7fagT1S8cazw3LIsLEFR9MKPYINE",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 2
+  },
+  "glued_ref_numbers": 53,
+  "backslash_escapes": 58,
+  "typographic_marks": 32,
+  "ascii_quotes": 136,
+  "inflection_families": {
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationslöschung",
+      "Informationstheoretische",
+      "Informationsverarbeitung",
+      "Informationszustände",
+      "Informationszuständen",
+      "Informed"
+    ],
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systemen",
+      "Systemic",
+      "Systemkollaps",
+      "Systems",
+      "Systemspezifikationen",
+      "Systemtheorie"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmenwechsel",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmic",
+      "Algorithmisch",
+      "Algorithmische",
+      "Algorithmus"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropieproduktion",
+      "Entropische",
+      "Entropy"
+    ],
+    "narra": [
+      "Narration",
+      "Narrationen",
+      "Narrativ",
+      "Narrative",
+      "Narratologie"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agents",
+      "Agentur"
+    ],
+    "berec": [
+      "Berechnung",
+      "Berechnungen",
+      "Berechnungsart",
+      "Berechnungspfade"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpakete",
+      "Datenpunkte",
+      "Datenstrom"
+    ],
+    "handl": [
+      "Handlungsbögen",
+      "Handlungsfähigkeit",
+      "Handlungspfade",
+      "Handlungsweise"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrolllogik",
+      "Kontrollsystem"
+    ],
+    "korre": [
+      "Korrektheit",
+      "Korrekturversuche",
+      "Korrespondenz",
+      "Korrespondenztheorie"
+    ],
+    "poten": [
+      "Potenzial",
+      "Potenziale",
+      "Potenzialraum",
+      "Potenzials"
+    ],
+    "proto": [
+      "Proto",
+      "Protocol",
+      "Protokoll",
+      "Protokolls"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenmechanik",
+      "Quantensystems",
+      "Quantum"
+    ],
+    "theor": [
+      "Theoretisches",
+      "Theorie",
+      "Theories",
+      "Theory"
+    ],
+    "therm": [
+      "Thermodynamic",
+      "Thermodynamics",
+      "Thermodynamik",
+      "Thermodynamisch"
+    ],
+    "traum": [
+      "Traum",
+      "Trauma",
+      "Traumas",
+      "Traumata"
+    ],
+    "unive": [
+      "Universal",
+      "Universe",
+      "Universum",
+      "Universums"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenfassungen",
+      "Zusammenführen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteils"
+    ],
+    "colla": [
+      "Collaborative",
+      "Collapse",
+      "Collapsed"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionalen",
+      "Emotionen"
+    ],
+    "epist": [
+      "Epistemologien",
+      "Epistemologisch",
+      "Epistemologische"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Antinomie"
+    ],
+    [
+      "Anti",
+      "Semantische"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eins",
+      "Einsichten"
+    ],
+    [
+      "Eins",
+      "Bewusstseins"
+    ],
+    [
+      "Erst",
+      "Erster"
+    ],
+    [
+      "Erst",
+      "Zerstörung"
+    ],
+    [
+      "Fact",
+      "Factitious"
+    ],
+    [
+      "Feld",
+      "Spannungsfeld"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Informed"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformationen"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Informationszustände"
+    ]
+  ]
+}

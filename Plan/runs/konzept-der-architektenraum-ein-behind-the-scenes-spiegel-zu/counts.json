@@ -1,0 +1,429 @@
+{
+  "document": "konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu",
+  "drive_id": "1sx0evnN5XMgCDMHtbSuZe3wghyu9Q_ZCnej0H-pQDU4",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Der Architektenraum": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        180
+      ]
+    },
+    "Architektenraum": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        15,
+        35,
+        180
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        15,
+        27,
+        180
+      ]
+    },
+    "Spiegel": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Kael": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        54,
+        108
+      ]
+    },
+    "AEGIS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        77,
+        86,
+        94,
+        95,
+        108
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Kikos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        64
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Das Fundament": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        20,
+        49,
+        112
+      ]
+    },
+    "Fundaments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Bunker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Gelbe Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Kissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Scherben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "TSDP": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        20,
+        49,
+        53,
+        54,
+        64,
+        72
+      ]
+    },
+    "ANP/EP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        55
+      ]
+    },
+    "Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "IFS": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        20,
+        59,
+        63,
+        72
+      ]
+    },
+    "Autopoiesis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        20,
+        85
+      ]
+    },
+    "Nichtlokalität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        20,
+        116
+      ]
+    },
+    "Intersubjektivität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Feedback Loops": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Gödel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Value Alignment Problems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Maschinenethik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Gaslighting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Macht/Wissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Heldenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        129
+      ]
+    },
+    "Heilungsreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Selbstführung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Polyphonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Sprachwechsels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Schatten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Individuation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Systemtheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        81
+      ]
+    },
+    "Kybernetik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Das System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Das System AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Die Psyche unter Druck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Das Labyrinth der Kontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Die Natur der Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Die Werkzeuge des Architekten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Der offene Raum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    }
+  }
+}

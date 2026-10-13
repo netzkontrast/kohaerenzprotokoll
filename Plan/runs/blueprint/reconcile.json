@@ -1,0 +1,274 @@
+{
+  "document": "blueprint",
+  "drive_id": "13kobkrXirVlspszCwcJxWakWjkFH9U9QAChHF3j4HtU",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-275/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 57,
+    "decisions": 58,
+    "decided_by_lookup": 47,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plan in eight sections: its new surfaces are its tension pairs, technique and tool names (Dramatica throughlines, Novelcrafter, the Single Source of Truth) and its open points (the Meta-Erzähler); what it says of the novel's world went on existing pages and three records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        38,
+        42
+      ],
+      "attribution": "",
+      "note": "the autopoietic, radically closed antagonist and its paradox"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "named among the central metaphors"
+    },
+    {
+      "page": "did",
+      "lines": [
+        29,
+        39
+      ],
+      "attribution": "",
+      "note": "the respectful depiction of DID and trauma as a guiding principle"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "the Fundament as enabling weak emergence"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        46,
+        94
+      ],
+      "attribution": "",
+      "note": "the mysterious Externe Ebene as contrast to AEGIS's domain, its nature still open"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "each Kernwelt watched by a Guardian"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        40,
+        94
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external entity or anomaly outside AEGIS's control"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        39
+      ],
+      "attribution": "",
+      "note": "a system of multiple consciousness aiming at functional multiplicity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        42,
+        44
+      ],
+      "attribution": "",
+      "note": "four psychological Kernwelten, each with a Guardian, among six levels"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "recommended as the central supporting frame"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "KW1 as the sterile, logic-based example"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "named among Kael's parts"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "Juna/V's link and a central metaphor"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        23,
+        39
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's aim and the thesis's acceptance of multiplicity"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "named among Kael's parts"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "AEGIS as having developed out of it"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        32,
+        42
+      ],
+      "attribution": "",
+      "note": "six levels: four Kernwelten, the Überwelt and the Externe Ebene"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        47,
+        77
+      ],
+      "attribution": "",
+      "note": "cracks as visual glitches marking the system's instability"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "named among Kael's parts"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "TSDP in the bracket of Kael's fragmented identity"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "the digital Überwelt as a sterile interface"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenz Protokoll` and `Kohärenz Protokoll 1.0` the title and a version label; `Oberste Architekturdokument` and `Architekturdokument` the document's names for itself; `AEGIS-Manifest` a document named, not promoted; `Juna/V` on juna (J34); `Paradoxon der Fehlausgerichteten Kohärenz` read on aegis; `funktionalen Multiplizität` on multiplizitaet; `schwache Emergenz` as the emergenz reading decides; `Guardian` the Kernwelten's watcher, read on guardians, not the Integrity Guardian",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 29,
+      "decision": "reading",
+      "why": "the respectful depiction of DID"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 41,
+      "decision": "reading",
+      "why": "emergence in the Fundament's integration, if characterised"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 30,
+      "decision": "occurrence",
+      "why": "named as a concept to embody"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 40,
+      "decision": "reading",
+      "why": "Juna/V outside AEGIS's control"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 23,
+      "decision": "reading",
+      "why": "the thesis's integration of multiplicity"
+    }
+  ],
+  "not_promoted": [
+    "the tension pairs",
+    "the Dramatica throughlines",
+    "Novelcrafter and the Single Source of Truth",
+    "the Meta-Erzähler",
+    "the AEGIS-Manifest",
+    "Kohärenz Protokoll 1.0"
+  ],
+  "internal_tension": "it reports a finished 39-chapter plot blueprint it does not contain (L88) and lists Juna/V's nature, the Externe Ebene and the Meta-Erzähler's role as still open (L94)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

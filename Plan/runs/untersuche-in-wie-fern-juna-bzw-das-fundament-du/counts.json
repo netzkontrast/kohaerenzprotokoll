@@ -1,0 +1,384 @@
+{
+  "document": "untersuche-in-wie-fern-juna-bzw-das-fundament-du",
+  "drive_id": "16UO-3LkS1z0V67nY05zUOdlri082l5khJVKO0wmKOIQ",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 25,
+      "n_including_compounds": 25,
+      "lines": [
+        25,
+        29,
+        38,
+        47,
+        62,
+        90,
+        92,
+        94,
+        104,
+        106,
+        107,
+        109,
+        114,
+        120,
+        122,
+        133,
+        154,
+        159,
+        161
+      ]
+    },
+    "Kael": {
+      "n": 17,
+      "n_including_compounds": 22,
+      "lines": [
+        29,
+        47,
+        64,
+        92,
+        94,
+        117,
+        119,
+        120,
+        122,
+        135,
+        148,
+        152,
+        154,
+        159,
+        174,
+        175,
+        180
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        174,
+        175
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        174,
+        175
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Juna/V": {
+      "n": 22,
+      "n_including_compounds": 28,
+      "lines": [
+        11,
+        23,
+        38,
+        52,
+        64,
+        73,
+        87,
+        91,
+        92,
+        94,
+        113,
+        114,
+        124,
+        126,
+        135,
+        146,
+        148,
+        152,
+        161,
+        172,
+        174,
+        175,
+        180
+      ]
+    },
+    "Das Fundament": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        23,
+        29,
+        64,
+        73,
+        87,
+        89,
+        90,
+        107,
+        135,
+        180
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        56,
+        93,
+        166
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        47,
+        114,
+        120,
+        146,
+        148,
+        154
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        34,
+        47,
+        111,
+        114,
+        148,
+        154
+      ]
+    },
+    "Genesis-Krise-Paradoxon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        111
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Skinner-Boxen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        120
+      ]
+    },
+    "Juna Album": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        47,
+        117,
+        120,
+        174,
+        180
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Gnosis": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        38,
+        64,
+        92,
+        114,
+        135,
+        161
+      ]
+    },
+    "Episteme": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        64,
+        92,
+        135
+      ]
+    },
+    "Exilant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Externe Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Zerstückelung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        120
+      ]
+    },
+    "Bifurkation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Host": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        159,
+        174,
+        175
+      ]
+    },
+    "Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Ruf zur Ganzheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Katalysator": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        64,
+        91,
+        92,
+        126,
+        135
+      ]
+    },
+    "unerkennbare Entität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        111,
+        154
+      ]
+    },
+    "operativ geschlossen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        107
+      ]
+    },
+    "Kategorienfehler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        114
+      ]
+    },
+    "externalisierten Täterintrojekts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "seltsamer Attraktor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        90
+      ]
+    },
+    "ER=EPR-Vermutung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        94,
+        131
+      ]
+    },
+    "Einstein-Rosen-Brücke": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        94
+      ]
+    },
+    "Frame Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        52,
+        56,
+        124,
+        126
+      ]
+    },
+    "IFS": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        180
+      ]
+    }
+  }
+}

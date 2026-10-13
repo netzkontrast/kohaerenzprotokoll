@@ -1,0 +1,106 @@
+{
+  "document": "narrative-loesungen-fuer-romanprojekt",
+  "drive_id": "1xNOcpvapp13Tn9iL0l2ywEDG-hkD0Xg10a1pe72EqrQ",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-289/brief.md, 2026-10-12, a few lines excluded; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 80,
+    "decisions": 77,
+    "decided_by_lookup": 69,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A craft report: its new surfaces are its technique labels, the Meta-Erzähler with its three modes, the Meta-Realität and borrowed theories; what it says of the project's layers went on two existing pages.",
+  "new_readings": [
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        15,
+        51,
+        63,
+        277
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as integration, shown as process"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        25,
+        29,
+        32,
+        46,
+        57,
+        275
+      ],
+      "attribution": "",
+      "note": "Personas as one of three interacting layers, and the open question of their agency"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Personas` and `Gewährung von Agency für Personas` — the layer on personas, the technique label not promoted; `Meta-Erzähler` and `Meta-Erzähler-Modi`, `Philosoph` and `Plot als philosophisches Argument`, `Motive und Leitmotive` and `Leitmotive`, `Kontrollierte Pacing-Variation` and `Pacing`, `Agency` — the report's craft labels, not promoted; `funktionalen Multiplizität` on multiplizitaet",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 66,
+      "decision": "occurrence",
+      "why": "reported clinical research"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 66,
+      "decision": "occurrence",
+      "why": "reported clinical research"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 37,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 119,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    }
+  ],
+  "not_promoted": [
+    "the Meta-Erzähler and its three modes",
+    "the Meta-Realität",
+    "the techniques (Reality Bleed, metafictional dialogue …)",
+    "the borrowed theories"
+  ],
+  "internal_tension": "it asks whether all modes of the narrator are equally reliable (L274) and how the integration process is shown (L277), and leaves both open",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

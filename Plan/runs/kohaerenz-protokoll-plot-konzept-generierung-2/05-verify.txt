@@ -1,0 +1,123 @@
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Logline"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Logline` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#5]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Fokus des Kernkonzepts"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Fokus des Kernkonzepts` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#5]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Charakterdynamik"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Charakterdynamik` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#5]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "AEGIS' Rolle & Reaktion"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`AEGIS' Rolle & Reaktion` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#5]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Plot-Verlauf"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Plot-Verlauf` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#5]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Thematische Resonanz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Thematische Resonanz` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#5]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "könnte"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            48
+
+`könnte` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#33]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "könnten"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`könnten` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#15]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Framework"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Framework` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#16]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#0]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#0]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Fragmentierungsprotokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Fragmentierungsprotokoll` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#0]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "KW1"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW1` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#3]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "KW2"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW2` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#2]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "KW3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW3` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#1]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Existenz durch Negation"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Existenz durch Negation` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#2]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Existenz-durch-Negation"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Existenz-durch-Negation` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#4]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Sporadicity"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sporadicity` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#1]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Sporadizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Sporadizität` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#2]
+$ read.py kohaerenz-protokoll-plot-konzept-generierung-2 --count "Weltenbluten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Weltenbluten` ^[kohaerenz-protokoll-plot-konzept-generierung-2.md:#1]
+stance_marker_count 30 = 6 labels x 5 (each count above is 5)
+
+Correction, 2026-10-12 (the session): the candidate `Monstrous Moonshine` was written in a spelling the document does not use alone — it stands only in the compound `Monstrous Moonshine-Phänomens` and, lower-case, in a reference title — so its zero held by the letter and failed by the claim (`quotes.py`: zero only by case). The candidate was corrected to the document's spelling and counted again; no other row changed.

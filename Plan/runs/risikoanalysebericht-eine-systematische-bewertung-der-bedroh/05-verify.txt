@@ -1,0 +1,75 @@
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Dieser Abschnitt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Dieser Abschnitt` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#3]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Fallstudie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Fallstudie` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#3]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Allegorie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Allegorie` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#1]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Kap` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#0]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Kapitel` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#0]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Theoriebeladenheit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Theoriebeladenheit` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#2]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Inkommensurabilität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Inkommensurabilität` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#2]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Paradigmen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+`Paradigmen` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#3]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Bestätigungsfehler"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+`Bestätigungsfehler` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#1]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Bestätigungsfehlers"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Bestätigungsfehlers` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#2]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Blick von Nirgendwo"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Blick von Nirgendwo` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#2]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Blicks von Nirgendwo"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Blicks von Nirgendwo` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#1]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Risse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+`Risse` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#1]
+$ python3 scripts/read.py risikoanalysebericht-eine-systematische-bewertung-der-bedroh --count "Kohärenz Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+`Kohärenz Protokoll` ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:#0]
+stance_marker_count 7 = Dieser Abschnitt 3 + Fallstudie 3 + Allegorie 1
+
+## After the read (coordinator, 2026-10-12)
+
+The census prose and three note lines named the thinkers the document cites; they were reworded to name the borrowed models instead (paradigm theory, transcendental philosophy, power analysis). No quotation, candidate or count changed. Row 8 of claims.md was redrafted for the changed note line and keeps its reader cells.

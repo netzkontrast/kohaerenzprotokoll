@@ -1,0 +1,89 @@
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Analyse:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Analyse:` ^[gravitation-realitaet-simulation-wahrheit-2.md:#1]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Implikation:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Implikation:` ^[gravitation-realitaet-simulation-wahrheit-2.md:#1]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Der Ort:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der Ort:` ^[gravitation-realitaet-simulation-wahrheit-2.md:#1]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Das System:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das System:` ^[gravitation-realitaet-simulation-wahrheit-2.md:#1]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Die Figur:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Figur:` ^[gravitation-realitaet-simulation-wahrheit-2.md:#1]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[gravitation-realitaet-simulation-wahrheit-2.md:#0]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[gravitation-realitaet-simulation-wahrheit-2.md:#0]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Elara"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            13
+
+`Elara` ^[gravitation-realitaet-simulation-wahrheit-2.md:#11]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Elara Vance"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Elara Vance` ^[gravitation-realitaet-simulation-wahrheit-2.md:#2]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Kuratorin"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kuratorin` ^[gravitation-realitaet-simulation-wahrheit-2.md:#1]
+$ read.py gravitation-realitaet-simulation-wahrheit-2 --count "Kurator"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`Kurator` ^[gravitation-realitaet-simulation-wahrheit-2.md:#4]
+$ grep -c "?" lines
+48:  - **Resonanz statt Kontakt:** Das S
+72:  - **Der Moment der Singularität:**
+370:15. Human Spaghettification? - Savin
+375:20. Could gravitational time dilatio
+376:21. What is this glitch where object
+$ numbered references: grep -cE '^[0-9]+\. ' Sources/drive/gravitation-realitaet-simulation-wahrheit-2.md
+36
+$ profile
+# gravitation-realitaet-simulation-wahrheit-2
+  lines                389  (frontmatter ends at 9)
+  body words           3969
+  headings             27   bold-only lines 1
+  table rows           10   code fences 0
+  question marks       5
+  backslash escapes    46
+  typographic marks    180   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    33
+  repeated labels      none
+  longest line         800 chars
+

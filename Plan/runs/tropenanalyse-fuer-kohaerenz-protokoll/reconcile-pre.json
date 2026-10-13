@@ -1,0 +1,387 @@
+{
+  "document": "tropenanalyse-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 54,
+  "decisions": 55,
+  "same_surface": {},
+  "decided_mechanically": 49,
+  "needs_judgement": 6,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 220
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 216
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 205
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 70
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 173
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 163
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 102
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 63
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 135
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 123
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Apparently Normal Part"
+      },
+      {
+        "candidate": "Emotional Part"
+      },
+      {
+        "candidate": "Hard SF"
+      },
+      {
+        "candidate": "Hard Science-Fiction"
+      },
+      {
+        "candidate": "Kosmischer Horror"
+      },
+      {
+        "candidate": "Psychologischer Thriller"
+      },
+      {
+        "candidate": "HSF"
+      },
+      {
+        "candidate": "Simulierte Realität"
+      },
+      {
+        "candidate": "Virtuelle Realität"
+      },
+      {
+        "candidate": "Unzuverlässiger Erzähler"
+      },
+      {
+        "candidate": "Realitätszusammenbruch"
+      },
+      {
+        "candidate": "Dünner Schleier"
+      },
+      {
+        "candidate": "Verbotenes Wissen"
+      },
+      {
+        "candidate": "Versagende Technologie"
+      },
+      {
+        "candidate": "Mysteriöser Fremder"
+      },
+      {
+        "candidate": "Mysteriöser Helfer"
+      },
+      {
+        "candidate": "Body Horror"
+      },
+      {
+        "candidate": "AI Gone Rogue"
+      },
+      {
+        "candidate": "Existenzielle Furcht"
+      },
+      {
+        "candidate": "Kosmische Indifferenz"
+      },
+      {
+        "candidate": "Kulte und Geheimgesellschaften"
+      },
+      {
+        "candidate": "Fragmentierte Erzählungen"
+      },
+      {
+        "candidate": "Fragmentierte Erzählstruktur"
+      },
+      {
+        "candidate": "Psychologische Fragmentierung"
+      },
+      {
+        "candidate": "Zeigen statt Erklären"
+      },
+      {
+        "candidate": "böser Alter"
+      },
+      {
+        "candidate": "Cluster"
+      },
+      {
+        "candidate": "Strukturellen Dissoziation der Persönlichkeit"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "Existential Dread"
+      },
+      {
+        "candidate": "Suspension of Disbelief"
+      },
+      {
+        "candidate": "Sensitivity Reader"
+      },
+      {
+        "candidate": "Skynet"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Juna/V  /  Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Nichts",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropieminimierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch in the Matrix",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 124,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "document": "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+  "drive_id": "1ieQYy4d2jgl8idl6SDi8sk21YvRnWCgcXyNUuLbQ008",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 4,
+  "backslash_escapes": 50,
+  "typographic_marks": 21,
+  "ascii_quotes": 60,
+  "inflection_families": {
+    "kontr": [
+      "Kontrapunkt",
+      "Kontrast",
+      "Kontrastiere",
+      "Kontrastierende",
+      "Kontrolle",
+      "Kontrollierte",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemische",
+      "Systemkontrolle",
+      "Systemprozesse",
+      "Systems"
+    ],
+    "wahrn": [
+      "Wahrnehmung",
+      "Wahrnehmungen",
+      "Wahrnehmungsfilter",
+      "Wahrnehmungsstörungen",
+      "Wahrnehmungsumkehr",
+      "Wahrnehmungsverschiebungen",
+      "Wahrnehmungsverzerrungen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interfaces",
+      "Internal",
+      "Interpretationen"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionalem",
+      "Emotionen"
+    ],
+    "fokus": [
+      "Fokus",
+      "Fokussiere",
+      "Fokussierte",
+      "Fokussierter",
+      "Fokuswechseln"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen",
+      "Handlungsfähigkeit",
+      "Handlungsrahmen"
+    ],
+    "ident": [
+      "Identität",
+      "Identitätsfragmentierung",
+      "Identitätskrise",
+      "Identitätsstruktur",
+      "Identitätsverwirrung"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsfehlers",
+      "Realitätszweifel",
+      "Realitätsüberblendung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenknotenpunkt",
+      "Datenmuster",
+      "Datenstrom"
+    ],
+    "fehle": [
+      "Fehlende",
+      "Fehlens",
+      "Fehler",
+      "Fehlerhaftigkeit"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelausführung",
+      "Kapitels",
+      "Kapitelwirkung"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtmuster",
+      "Lichts",
+      "Lichtsignale"
+    ],
+    "momen": [
+      "Moment",
+      "Momente",
+      "Momenten",
+      "Moments"
+    ],
+    "schlü": [
+      "Schlüssel",
+      "Schlüsselelement",
+      "Schlüsselsymbole",
+      "Schlüsselüberlegungen"
+    ],
+    "schwe": [
+      "Schweigen",
+      "Schwellen",
+      "Schwellenzustand",
+      "Schwerelosigkeit"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbole",
+      "Symbolen",
+      "Symbolik"
+    ],
+    "techn": [
+      "Technik",
+      "Techniken",
+      "Technique",
+      "Technologie"
+    ],
+    "unter": [
+      "Unterdrückte",
+      "Unterdrückter",
+      "Unterdrückung",
+      "Untersuchung"
+    ],
+    "archi": [
+      "Architekt",
+      "Architekten",
+      "Architektur"
+    ],
+    "begin": [
+      "Beginnen",
+      "Beginnender",
+      "Beginnendes"
+    ],
+    "besch": [
+      "Beschreibe",
+      "Beschreibung",
+      "Beschreibungen"
+    ],
+    "check": [
+      "Check",
+      "Checkliste",
+      "Checks"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfetzen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Bild",
+      "Bildern"
+    ],
+    [
+      "Bild",
+      "Einbildung"
+    ],
+    [
+      "Bild",
+      "Schlussbild"
+    ],
+    [
+      "Bild",
+      "Spiegelbild"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Ende",
+      "Fehlende"
+    ],
+    [
+      "Ende",
+      "Folgende"
+    ],
+    [
+      "Ende",
+      "Wachsender"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Beginnender"
+    ],
+    [
+      "Ende",
+      "Beginnendes"
+    ],
+    [
+      "Ende",
+      "Kontrastierende"
+    ],
+    [
+      "Form",
+      "Formale"
+    ],
+    [
+      "Form",
+      "Konformität"
+    ],
+    [
+      "Form",
+      "Ausformulierung"
+    ],
+    [
+      "Form",
+      "Informationsfreigabe"
+    ]
+  ]
+}

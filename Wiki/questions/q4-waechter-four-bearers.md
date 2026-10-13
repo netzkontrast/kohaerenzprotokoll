@@ -300,3 +300,27 @@ The part: the matrix row of KW3 reads „Wächter-Anteil / Abwehr / Paranoia / I
 The figure: Silas is the proposed skeptic and gatekeeper of KW3, and his origin is open: „Könnte ein anderer simulierter Bewohner sein, der in KW3 gefangen ist“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L37], or a projection of Kael's own `Wächter` part, or „eine subtile Sonde von Cerberus“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L37]. The plot holds the two apart: Silas is a figure in the world, the `Wächter` a part of Kael that he may only mirror.
 
 Where it stands: two bearers proposed in one document, a part of Kael and a skeptic figure, neither a Guardian; recorded without choosing among the question's bearers.
+
+## 2026-10-11 — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis
+
+**The concept analysis titles its chapter 30 „Licht der Wächterin“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L63] and has Selene, the Self, step forward there as inner mentor.**
+
+Its table row reads: „Selene (das Selbst) tritt als innere Mentorin hervor“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L63]. The feminine Wächterin is thus borne by Selene in this report's plot draft; the report is a proposal keyed to that draft, not canon.
+
+One more position in the record; it decides nothing.
+
+## 2026-10-11 — `roman-kohaerenz-protokoll`, 2025-04-17, the early prose draft
+
+**The narrator calls AEGIS a Wächter, in the singular; the draft names no bearers.**
+
+The narrator (German prose) writes „Ein Wächter im Auge des Nichts.“ ^[roman-kohaerenz-protokoll.md:L284] about AEGIS's core in the reboot, and later „Der Wächter nimmt seine stille, ewige Patrouille wieder auf“ ^[roman-kohaerenz-protokoll.md:L344].
+
+Stands as one more position; decides nothing.
+
+## 2026-10-11 — `kernwelten-fuer-kohaerenz-protokoll`, 2025-04-27, the Kernwelten design report
+
+**The Kernwelten design report uses `Wächter` for four world guardians, one per world, conceived as distinct entities.**
+
+„Die vier Wächter sind als distinkte Entitäten konzipiert“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L482], and they act as „antagonistische oder katalytische Kräfte“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L482] within AEGIS's framework, as the report proposes.
+
+One more position, from a design proposal; it decides nothing for the record.

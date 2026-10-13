@@ -1,0 +1,337 @@
+{
+  "document": "tsdp-analyse-kohaerenz-protokoll-charaktere",
+  "drive_id": "1I8EM1b40jDvVB2JaVEgZ8RyArlFzpYza3Xekob4IXt4",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 55,
+  "backslash_escapes": 132,
+  "typographic_marks": 97,
+  "ascii_quotes": 8,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systematic",
+      "Systemdynamik",
+      "Systeme",
+      "Systemelementen",
+      "Systemen",
+      "Systemfehlern",
+      "Systeminteraktionen",
+      "Systemperspektiven",
+      "Systems",
+      "Systemsteuerung",
+      "Systemtheoretische",
+      "Systemtheorie",
+      "Systemziel",
+      "Systemzusammenbruch",
+      "Systemzustand"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsbedürfnis",
+      "Integrationsbedürfnisse",
+      "Integrationsfigur",
+      "Integrationsfortschritte",
+      "Integrationshaltung",
+      "Integrationskapazität",
+      "Integrationspotenzial",
+      "Integrationsprozess",
+      "Integrationstendenzen",
+      "Integratorin"
+    ],
+    "verte": [
+      "Verteidigers",
+      "Verteidigung",
+      "Verteidigungs",
+      "Verteidigungshaltung",
+      "Verteidigungskaskade",
+      "Verteidigungsmodus",
+      "Verteidigungsreaktion",
+      "Verteidigungsreaktionen",
+      "Verteidigungsstrategien",
+      "Verteidigungssysteme",
+      "Verteidigungssystemen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionspartner",
+      "Interdependenz",
+      "Internalisierte",
+      "International",
+      "Interne",
+      "Interner",
+      "Interpretation",
+      "Interventionen"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzes",
+      "Schutzfaktor",
+      "Schutzfunktion",
+      "Schutzhaltung",
+      "Schutzinstinkt",
+      "Schutzintention",
+      "Schutzmodus",
+      "Schutzreaktion",
+      "Schutzstil"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbewusstsein",
+      "Selbstbild",
+      "Selbsterleben",
+      "Selbstermächtigung",
+      "Selbstfürsorge",
+      "Selbstmitgefühl",
+      "Selbstregulation",
+      "Selbstwahrnehmung",
+      "Selbstwertgefühl"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabezogene",
+      "Traumaforschung",
+      "Traumas",
+      "Traumata",
+      "Traumatic",
+      "Traumatisch",
+      "Traumatische",
+      "Traumatisierung",
+      "Traumatisierungen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktdynamiken",
+      "Konflikte",
+      "Konflikten",
+      "Konflikthaft",
+      "Konfliktlinien",
+      "Konfliktpotenziale",
+      "Konflikts",
+      "Konfliktvermeidung"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsambivalenz",
+      "Bindungsaufbau",
+      "Bindungsbedürfnisse",
+      "Bindungsfähigkeit",
+      "Bindungsruf",
+      "Bindungstraumata",
+      "Bindungsverhalten"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionieren",
+      "Funktionsbeeinträchtigungen",
+      "Funktionsfähigkeit",
+      "Funktionsweise"
+    ],
+    "kontr": [
+      "Kontrollbedürfnisse",
+      "Kontrolle",
+      "Kontrollparadigma",
+      "Kontrollstrategien",
+      "Kontrollverlust",
+      "Kontrollverlustangst",
+      "Kontrollversuche",
+      "Kontrollzentrum"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltags",
+      "Alltagsbewältigung",
+      "Alltagsfunktion",
+      "Alltagslebens",
+      "Alltagsmanagement",
+      "Alltagsmanager"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungserfahrungen",
+      "Beziehungsfiguren",
+      "Beziehungsobjekt",
+      "Beziehungsorientierter",
+      "Beziehungsprobleme"
+    ],
+    "unter": [
+      "Unterbrechungen",
+      "Unterdrückung",
+      "Unterdrückungsmechanismen",
+      "Untergrabung",
+      "Unterstützung",
+      "Untersuchung",
+      "Unterwerfung"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen",
+      "Emotionskontrolle",
+      "Emotionsregulation"
+    ],
+    "leben": [
+      "Leben",
+      "Lebendigkeit",
+      "Lebens",
+      "Lebensbereiche",
+      "Lebensfreude",
+      "Lebensimpulsen"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeits",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteilen",
+      "Persönlichkeitsentwicklung",
+      "Persönlichkeitsstörung"
+    ],
+    "überl": [
+      "Überlastung",
+      "Überleben",
+      "Überlebenden",
+      "Überlebensmechanismus",
+      "Überlebensstrategie",
+      "Überlebensstrategien"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrhaltung",
+      "Abwehrmechanismen",
+      "Abwehrstrategie",
+      "Abwehrstrategien"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativen"
+    ],
+    "entwi": [
+      "Entwickeln",
+      "Entwickelnd",
+      "Entwicklung",
+      "Entwicklungsbogen",
+      "Entwicklungsbögen"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühle",
+      "Gefühlen",
+      "Gefühls",
+      "Gefühlsausbrüche"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungs",
+      "Handlungsfluss",
+      "Handlungsfähigkeit"
+    ],
+    "harmo": [
+      "Harmonie",
+      "Harmoniebestreben",
+      "Harmonisierer",
+      "Harmonisierers",
+      "Harmonisierung"
+    ],
+    "kampf": [
+      "Kampf",
+      "Kampfbereitschaft",
+      "Kampfes",
+      "Kampfsystem",
+      "Kampfsystems"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auch",
+      "Missbrauch"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Mischformen"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationswert"
+    ],
+    [
+      "Form",
+      "Hintergrundinformation"
+    ],
+    [
+      "Free",
+      "Freeze"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernängste"
+    ],
+    [
+      "Kern",
+      "Kerngefühle"
+    ],
+    [
+      "Kern",
+      "Kernkonflikte"
+    ],
+    [
+      "Kern",
+      "Kernprinzipien"
+    ],
+    [
+      "Kern",
+      "Kernentwicklungsbögen"
+    ]
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "document": "kapitel-1-generierungsprozess",
+  "drive_id": "1LBfSFHj0mmBTjfD-Rh3iEzt9XkfjK73kRcdjBagHpo4",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 31,
+  "backslash_escapes": 85,
+  "typographic_marks": 225,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systemdaten",
+      "Systeme",
+      "Systemkollaps",
+      "Systems",
+      "Systemstart",
+      "Systemstatus",
+      "Systemverwalter",
+      "Systemzustand"
+    ],
+    "körpe": [
+      "Körper",
+      "Körperdissoziation",
+      "Körpers",
+      "Körperschema",
+      "Körperschemas",
+      "Körperteil",
+      "Körperwahrnehmung"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychodynamik",
+      "Psychologie",
+      "Psychologisch",
+      "Psychologische",
+      "Psychologisches",
+      "Psychology"
+    ],
+    "techn": [
+      "Technical",
+      "Technik",
+      "Technisch",
+      "Technischen",
+      "Technischer",
+      "Technologien"
+    ],
+    "tiefe": [
+      "Tiefe",
+      "Tiefen",
+      "Tiefenanalyse",
+      "Tiefenpuffer",
+      "Tiefenwerten",
+      "Tiefer"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datenknotenpunkt",
+      "Datenströme",
+      "Datensäule"
+    ],
+    "archi": [
+      "Architecture",
+      "Architekt",
+      "Architekten",
+      "Architektur"
+    ],
+    "forsc": [
+      "Forschung",
+      "Forschungsbericht",
+      "Forschungsdatenbanken",
+      "Forschungsgegenstand"
+    ],
+    "gravi": [
+      "Gravitation",
+      "Gravitationsarchitektur",
+      "Gravitonen",
+      "Gravity"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informationserhaltung"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologisch",
+      "Ontologische",
+      "Ontologisches"
+    ],
+    "proze": [
+      "Prozent",
+      "Prozess",
+      "Prozessor",
+      "Prozessors"
+    ],
+    "spieg": [
+      "Spiegel",
+      "Spiegelbild",
+      "Spiegels",
+      "Spiegelung"
+    ],
+    "textu": [
+      "Textur",
+      "Texturauflösung",
+      "Texture",
+      "Texturen"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumatherapie",
+      "Traumatisierte"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheits",
+      "Wahrheitsdualität"
+    ],
+    "async": [
+      "Asynchrone",
+      "Asynchroner",
+      "Asynchronizität"
+    ],
+    "energ": [
+      "Energie",
+      "Energieaufwand",
+      "Energierückgewinnung"
+    ],
+    "gesic": [
+      "Gesicht",
+      "Gesichter",
+      "Gesichtsmimik"
+    ],
+    "hypot": [
+      "Hypotaxe",
+      "Hypothese",
+      "Hypothesis"
+    ],
+    "korre": [
+      "Korrektur",
+      "Korrelat",
+      "Korrespondenz"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphor",
+      "Metaphysik"
+    ],
+    "narra": [
+      "Narrative",
+      "Narrativik",
+      "Narrativs"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenologie"
+    ],
+    "proje": [
+      "Projekt",
+      "Projektilwaffe",
+      "Projektion"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Atem",
+      "Atemnot"
+    ],
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Auge",
+      "Auges"
+    ],
+    [
+      "Auge",
+      "Augenlid"
+    ],
+    [
+      "Best",
+      "Beste"
+    ],
+    [
+      "Best",
+      "Bestätigung"
+    ],
+    [
+      "Bild",
+      "Bildschirme"
+    ],
+    [
+      "Bild",
+      "Spiegelbild"
+    ],
+    [
+      "Bild",
+      "Selbstbildes"
+    ],
+    [
+      "Bild",
+      "Bildschirmschoner"
+    ],
+    [
+      "Bild",
+      "Identitätsbildung"
+    ],
+    [
+      "Blut",
+      "Blutkreislaufs"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dual",
+      "Wahrheitsdualität"
+    ],
+    [
+      "Eden",
+      "Frieden"
+    ],
+    [
+      "Eine",
+      "Beine"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ]
+  ]
+}

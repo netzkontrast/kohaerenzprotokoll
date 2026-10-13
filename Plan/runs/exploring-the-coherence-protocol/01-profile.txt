@@ -1,0 +1,14 @@
+# exploring-the-coherence-protocol
+  lines                356  (frontmatter ends at 9)
+  body words           6027
+  headings             26   bold-only lines 1
+  table rows           8   code fences 0
+  question marks       10
+  backslash escapes    62
+  typographic marks    23   ascii quotes 110
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    69
+  repeated labels      none
+  longest line         1081 chars
+

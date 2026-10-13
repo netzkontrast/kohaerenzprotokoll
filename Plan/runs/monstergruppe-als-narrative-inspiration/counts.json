@@ -1,0 +1,344 @@
+{
+  "document": "monstergruppe-als-narrative-inspiration",
+  "drive_id": "1H-Cz_yGTdrc5lgsTi25vGzGl2jrvMP3zKIvFf8eveMI",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Monstergruppe": {
+      "n": 46,
+      "n_including_compounds": 47,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        24,
+        30,
+        32,
+        40,
+        41,
+        45,
+        60,
+        64,
+        68,
+        98,
+        100,
+        104,
+        110,
+        114,
+        124,
+        128,
+        139,
+        141,
+        143,
+        144,
+        145,
+        154,
+        156,
+        158,
+        160,
+        169,
+        178,
+        183,
+        188,
+        236,
+        240,
+        246,
+        256,
+        258,
+        268,
+        278,
+        292,
+        296
+      ]
+    },
+    "Fischer-Griess-Monster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "freundlicher Riese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Baby-Monstergruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Griess-Algebra": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "sporadischen Gruppen": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        23,
+        26,
+        33,
+        40,
+        106
+      ]
+    },
+    "Sporadizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        246
+      ]
+    },
+    "Happy Family": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        40,
+        55,
+        106,
+        164,
+        247
+      ]
+    },
+    "Pariahs": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        55,
+        106,
+        164,
+        247
+      ]
+    },
+    "Subquotienten": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        33,
+        40,
+        104,
+        106
+      ]
+    },
+    "Normalteiler": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        53,
+        110
+      ]
+    },
+    "Darstellungsresistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "monströsen Mondscheins": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        64,
+        92,
+        118,
+        292
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        64,
+        86,
+        308,
+        311,
+        317,
+        318,
+        319
+      ]
+    },
+    "Mondschein-Modul": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        88
+      ]
+    },
+    "Mondschein-Moment": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        288
+      ]
+    },
+    "Mondschein-ähnlichen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        177,
+        259
+      ]
+    },
+    "Psychologischer Mondschein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "j-Invariante": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        70,
+        72
+      ]
+    },
+    "McKay-Thompson-Reihe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Vertex-Operator-Algebren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Leere außerhalb des Seins": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        126,
+        128,
+        165,
+        248
+      ]
+    },
+    "Monster im Inneren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Kristallisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Kernidentität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        108,
+        110
+      ]
+    },
+    "Sub-Persönlichkeiten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Leitfragen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        238,
+        240,
+        296
+      ]
+    },
+    "Monster-Projekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Wuji": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        135,
+        144,
+        151,
+        172
+      ]
+    },
+    "Śūnyatā": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        135,
+        172
+      ]
+    },
+    "horror vacui": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "creatio ex nihilo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Quantenvakuum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Schattens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    }
+  }
+}

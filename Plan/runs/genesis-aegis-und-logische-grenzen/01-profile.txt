@@ -1,0 +1,14 @@
+# genesis-aegis-und-logische-grenzen
+  lines                194  (frontmatter ends at 9)
+  body words           7074
+  headings             19   bold-only lines 2
+  table rows           7   code fences 0
+  question marks       27
+  backslash escapes    134
+  typographic marks    26   ascii quotes 16
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    107
+  repeated labels      none
+  longest line         8883 chars
+

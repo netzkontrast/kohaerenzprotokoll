@@ -1,0 +1,88 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Candidates as the document writes them. The kernel symbols (K0, K1) were lost in the export: the text reads "dem Kohärenz-Kernel ()" with a gap, so only the table header keeps a trace. No passage of this document calls itself autobiographical; nothing was skipped. The reference list (L164 to L211) holds titles of cited works and is not listed.
+
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Kael
+- Moros
+- Lex
+- Nyx
+- Kiko
+- Lia
+- Juna/V
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Erasure-Kernel
+- Dual-Kernel-Theorie
+- DKT
+- Dual-Kernel-Narrativ-Engine
+- Nichts Rauschen
+- Rauschen
+- Existenz via Negation
+- analytischen Angriff
+- Execution Integrity Failure
+- Collapse Susceptibility Index
+- CSI
+- Narrative Context Protocol
+- NCP
+- Topologische Leitplanke
+- Throughlines
+- Storyform
+- Semantische World Engine
+- Experiential Renderer Engine
+- Drama-Engine
+- ChatCompanions
+- InstructionDeputies
+- Deputies
+- funktionalen Multiplizität
+- Anscheinend Normalen Persönlichkeitsanteile
+- ANPs
+- Emotionalen Persönlichkeitsanteile
+- EPs
+- ANP-EP-Phobien
+- Trauma-Zeit
+- Cerberus-Labyrinth
+- Existential Shattering
+- Mosaik-Herz
+- Existenziellen Fusion
+- Algorithmische Melancholie
+- Die Ästhetik des Unerklärlichen
+- Die Anatomie des Rauschens
+- Master-Plot
+- Moonshine-Link
+- Player Dilemma
+- Zero-Trust
+- Big Freeze
+- Coherons
+- Wavelets
+- Kernwelt
+- Kernwelten
+- narrative Energie
+- Gödel-Gambit
+- Diktator-Algorithmus
+- ontologischen Blindheit
+- Krieg der Epistemologien
+- Qualia
+- World State
+- Chaos-Rand
+- Simulationstransparenz
+- falsche Ordnung
+- Grand Argument
+- Thermodynamik der Bedeutung
+
+## lens
+
+- Landauers Prinzip
+- Maxwellscher Dämon
+- Orchestrated Objective Reduction
+- Orch-OR
+- Strukturellen Dissoziation
+- TSDP
+- Ex Contradictione Quodlibet
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie
+- Dialetheie
+- Grenzsituationen
+- Hilbert-Raum
+- Dunklen Energie

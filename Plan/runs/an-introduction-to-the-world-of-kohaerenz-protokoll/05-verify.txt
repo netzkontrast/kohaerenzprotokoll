@@ -1,0 +1,71 @@
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Source of Order"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Source of Order` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "View of Contradiction"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`View of Contradiction` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Path to Coherence"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Path to Coherence` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Guiding Principle"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guiding Principle` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Das Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Fundament` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#1]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "The Foundation"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`The Foundation` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#7]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lex` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#1]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#1]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Gnosis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gnosis` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Episteme"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Episteme` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py an-introduction-to-the-world-of-kohaerenz-protokoll --count "Nichts Rauschen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts Rauschen` ^[an-introduction-to-the-world-of-kohaerenz-protokoll.md:#1]
+$ grep -n ? Sources/drive/an-introduction-to-the-world-of-kohaerenz-protokoll.md
+29:## **2. The Protagonist: Who is Kael?**
+49:## **3. The Antagonist: What is AEGIS?**
+63:## **4. The Mystery: What is "The Foundation"?**
+stance_marker_count 8 = 2+2+2+2 (the four counts above)

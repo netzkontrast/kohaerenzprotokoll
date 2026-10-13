@@ -1,0 +1,14 @@
+# kernwelten-fuer-kohaerenz-protokoll
+  lines                685  (frontmatter ends at 9)
+  body words           11167
+  headings             2   bold-only lines 11
+  table rows           13   code fences 0
+  question marks       26
+  backslash escapes    96
+  typographic marks    136   ascii quotes 16
+  invisible characters U+200Bx1
+  math symbol lines    0
+  glued ref numbers    231
+  repeated labels      Relevanz x18, Zweck x6, Andere Sinne x4, Cache Kohärenz Manifestation x4, Dominanter Cache x4, Herausforderungen x4, Interaktion x4, Klanglandschaft x4, Verkörperung x4, Visuelles x4
+  longest line         1489 chars
+

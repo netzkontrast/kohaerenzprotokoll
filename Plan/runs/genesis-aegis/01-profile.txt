@@ -1,0 +1,14 @@
+# genesis-aegis
+  lines                88  (frontmatter ends at 9)
+  body words           2407
+  headings             8   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    24   ascii quotes 26
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         734 chars
+

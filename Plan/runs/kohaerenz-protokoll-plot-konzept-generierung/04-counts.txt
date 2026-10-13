@@ -1,0 +1,98 @@
+# counts for 69 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Potentialmeer                    11 word    13 in   [17, 28, 73, 92, 148, 158]
+                                    2      as Potentialmeers
+  AEGIS                           106 word   108 in   [17, 28, 29, 30, 31, 32]
+                                    1      as AEGIS-Protokoll
+                                    1      as AEGIS-Ebene
+  Monstergruppe (M)                 4 word     4 in   [17, 30, 42, 73]
+  Monstergruppe                     7 word     7 in   [17, 30, 42, 73, 102, 104]
+  Baby-Monster-Gruppen (Kael/Juna)    1 word     1 in   [31]
+  Baby-Monster-Gruppen              3 word     3 in   [17, 31, 102]
+  Baby-Monster-Gruppe               4 word     7 in   [17, 31, 42, 46, 51, 63]
+                                    3      as Baby-Monster-Gruppen
+  Kael                             52 word    79 in   [17, 30, 31, 36, 38, 42]
+                                   24      as Kaels
+                                    1      as Kael-Juna
+                                    1      as Kael-Simulation
+                                    1      as Kael-Alters
+  Juna                             32 word    37 in   [17, 31, 51, 52, 61, 63]
+                                    3      as Junas
+                                    1      as Juna-Anomalie
+  K-J Verbindung (Emergenter Moonshine)    6 word     6 in   [32, 52, 81, 110, 137, 166]
+  K-J Verbindung                   35 word    35 in   [17, 30, 32, 35, 51, 52]
+  Emergenter Moonshine              6 word     6 in   [32, 52, 81, 110, 137, 166]
+  Kernwelten Substrat               1 word     1 in   [33]
+  Kernwelten                       27 word    29 in   [17, 33, 44, 50, 54, 60]
+                                    1      as Kernwelten-Szenarien
+                                    1      as Kernwelten-Dynamik
+  KW1                               3 word     3 in   [50, 131, 146]
+  KW2                               2 word     2 in   [50, 131]
+  KW3                               1 word     1 in   [146]
+  Moonshine-Echo                    2 word     2 in   [96, 112]
+  Moonshine                        19 word    27 in   [17, 19, 30, 32, 33, 52]
+                                    2      as Moonshine-Echo
+                                    1      as Moonshine-Emergenz
+                                    1      as Moonshine-Phänomens
+                                    1      as Moonshine-Phänomen
+  Weltenbluten                      1 word     2 in   [123, 137]
+                                    1      as Weltenblutens
+  Blutungsereignis                  1 word     1 in   [145]
+  Existenz durch Negation           2 word     2 in   [29, 71]
+  Existenz-durch-Negation           4 word     4 in   [91, 141, 156, 168]
+  sub-protokollarisch               1 word     3 in   [32, 81, 100]  <-- substring
+                                    1      as sub-protokollarisches
+                                    1      as sub-protokollarische
+  Parakonsistente Logik             1 word     1 in   [34]
+  parakonsistente Logik             5 word     5 in   [29, 54, 75, 112, 139]
+  Fragmentierungsprotokoll          0 word     1 in   [54]
+                                    1      as Fragmentierungsprotokolls
+  Kern-Kohärenzprotokollen          1 word     1 in   [91]
+  Alters                           15 word    16 in   [31, 36, 42, 44, 46, 50]
+  Selbstführung                     4 word     4 in   [56, 62, 63, 158]
+  Unburdening                      12 word    13 in   [36, 42, 44, 46, 158, 173]
+                                    1      as Unburdenings
+                                    1      as unburdening-our-parts
+                                    1      as unburdening-exiles
+  Logischer Beschützer              1 word     1 in   [131]
+  Gegenagenten                      1 word     1 in   [90]
+  Hard Resets                       1 word     1 in   [139]
+  Nexuspunkt                        1 word     1 in   [174]
+  Pocket-Realität                   1 word     1 in   [181]
+  Realitätstasche                   1 word     1 in   [148]
+  Simplicity                        3 word     3 in   [30, 46, 158]
+  Complexity                        3 word     4 in   [30, 158, 214]
+                                    1      as ComplexityEmergenceComplexSystems
+  Sporadicity                       1 word     1 in   [30]
+  Sporadizität                      2 word     2 in   [160, 181]
+  Internal Structure                2 word     2 in   [30, 129]
+  Parias                            1 word     1 in   [30]
+  Hauptmoduln                       2 word     2 in   [104, 233]
+  Das Integrationsgambit            1 word     1 in   [38]
+  Das Paradox der Kontrolle         1 word     1 in   [67]
+  Das Moonshine-Echo                1 word     1 in   [96]
+  Das Weltenbluten                  1 word     1 in   [123]
+  Transzendenz des Protokolls       1 word     1 in   [152]
+  Systemfehler                      3 word     3 in   [29, 54, 73]
+  Risse                             1 word     1 in   [29]
+  IFS                               9 word    16 in   [19, 36, 42, 44, 61, 65]
+  DID                               4 word     4 in   [19, 31, 36, 42]
+  Internal Family Systems           6 word     6 in   [42, 200, 201, 215, 216, 217]
+  Dissoziative Identitätsstörung    1 word     1 in   [42]
+  Parts                             6 word     6 in   [36, 44, 50, 201, 219]
+  Manager                           2 word     3 in   [36, 44, 50]
+  Firefighter                       2 word     2 in   [36, 44]
+  Exiles                            3 word     3 in   [36, 44, 221]
+  Self-Leadership                   1 word     1 in   [36]
+  VOA                               8 word    13 in   [19, 32, 33, 81, 100, 102]
+  CFT                               4 word    13 in   [19, 32, 33, 81, 100, 102]  <-- substring
+  Vertex Operator Algebren          1 word     1 in   [102]
+  Conformal Field Theory            2 word     2 in   [102, 197]
+  Monstrous Moonshine-Phänomens     1 word     1 in   [102]
+  Emergenz                         10 word    11 in   [19, 33, 35, 52, 75, 85]
+  Reduktionismus                    2 word     2 in   [19, 54]
+  Holismus                          2 word     2 in   [19, 75]
+  Gruppentheorie                    3 word     3 in   [19, 102, 158]

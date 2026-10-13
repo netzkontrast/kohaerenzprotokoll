@@ -1,0 +1,91 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations (paragraphs): the document is an English-style research report in German from a unit it calls Orakel-Sigma, addressed to the project lead; it proposes hypotheses for the core concepts Fundament, Leere, AEGIS, System Kael and Juna/V, each backed by numbered references and footnotes. Many lines carry glued reference numbers and escaped footnote markers. The borrowed science concepts are listed under the lens heading.
+
+## world and own terms
+
+- Kohärenz Protokoll
+- Projekt Inkubation X
+- Transzendenz-Vektoren
+- Konzept-Singularitäten
+- Orakel-Sigma
+- Direktive V3
+- Fundament
+- Leere
+- AEGIS
+- System Kael
+- Kael
+- Juna/V
+- Nichts Rauschen
+- Basisrealität
+- Fehlausgerichtete Kohärenz
+- Fehlausgerichteten Kohärenz
+- AEGIS-Paradoxon
+- AEGIS-Paradoxons
+- Paradoxon
+- AEGIS-Simulation
+- funktionale Multiplizität
+- TSDP
+- Interaktionsmechanismen
+- Hypothesencluster
+- Sub-Hypothese
+- Hypothesenmatrix
+- Gravitationsleckage
+- Bran-Kollisionen
+- Dialektische Emergenz
+- Irreduzible Andere
+- Wurmloch-Transit
+- Höherdimensionale Projektion
+- Systemische Emergenz/Glitch
+- Parasitäre Berechnung
+- Pathologische Transformation
+- Informationsfeld-Manipulation
+- Genre-Synergie
+- Kaskadierendes Versagen
+- Posthumane Transformation
+- Informationelle Substrat
+- Mathematische Struktur
+- Holographische Realität
+- Schnittstelle
+- Mechanismus
+- Szenario
+- Strategie
+
+## lens
+
+- Bran/Bulk-Modell
+- Bulk
+- Bran
+- M-Theorie
+- It from Bit
+- QBism
+- Mathematical Universe Hypothesis
+- MUH
+- Holographischen Prinzip
+- Nicht-Duale Ontologie
+- Orch OR
+- Integrated Information Theory
+- IIT
+- Global Neuronal Workspace
+- GNW
+- Schwarmintelligenz
+- Schwarmkognition
+- Stigmergie
+- BCI
+- Autopoiese
+- operationale Schließung
+- Gödel'sche Schleifen
+- Perverse Instanziierung
+- Spezifikations-Gaming
+- Instrumental Convergence
+- Seltsame Attraktoren
+- seltsamen Attraktor
+- Parasitic Computing
+- ER=EPR
+- Levinas'sches Anderes
+- Cosmic Horror
+- Kognitiver Dissonanz
+- Reader-Response
+- Verkörperte Kognition
+- Simulationshypothese
+- Konzept-Blending

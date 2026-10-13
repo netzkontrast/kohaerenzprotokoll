@@ -1,0 +1,275 @@
+{
+  "document": "ui-konzept-fuer-roman-entwicklungssystem",
+  "drive_id": "1J3__f0jyd53tId1mAXEt0AgqiWnK5myx4wRdE9T8yAc",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 62,
+  "backslash_escapes": 92,
+  "typographic_marks": 73,
+  "ascii_quotes": 40,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systemdesigns",
+      "Systeme",
+      "Systemen",
+      "Systemische",
+      "Systemkollaps",
+      "Systemmetriken",
+      "Systems"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charaktere",
+      "Charakteren",
+      "Charaktererkennung",
+      "Charakters",
+      "Charakterstimme"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionsraum",
+      "Interface",
+      "Interfaces",
+      "Internal",
+      "Intervention",
+      "Interventionen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsbogens",
+      "Handlungsdichte",
+      "Handlungsführung",
+      "Handlungsstrang",
+      "Handlungssträngen"
+    ],
+    "novel": [
+      "NovelAI",
+      "NovelCrafter",
+      "NovelCrafters",
+      "Novelcrafter",
+      "Novelists",
+      "Novels"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentensystem",
+      "Agentic",
+      "Agents"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysemodul",
+      "Analysen",
+      "Analysten",
+      "Analytics"
+    ],
+    "arbei": [
+      "Arbeitsaufträge",
+      "Arbeitsprozess",
+      "Arbeitsprozesse",
+      "Arbeitsraum",
+      "Arbeitsraums"
+    ],
+    "archi": [
+      "Architecture",
+      "Architectures",
+      "Architekten",
+      "Architektonische",
+      "Architektur"
+    ],
+    "desig": [
+      "Design",
+      "Designing",
+      "Designkonzept",
+      "Designmuster",
+      "Designs"
+    ],
+    "hinte": [
+      "Hintergrund",
+      "Hintergrundagenten",
+      "Hintergrundkontext",
+      "Hintergrunds",
+      "Hintergründe"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsbeschaffung",
+      "Informationsströme",
+      "Informationstheorie"
+    ],
+    "konfl": [
+      "Konfliktauflösung",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktresolution",
+      "Konfliktsituation"
+    ],
+    "konte": [
+      "Kontext",
+      "Kontexte",
+      "Kontextkontrolle",
+      "Kontexts",
+      "Kontextspeicher"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modellauswahl",
+      "Modelle",
+      "Modellierung"
+    ],
+    "multi": [
+      "Multi",
+      "Multimodal",
+      "Multimodale",
+      "Multiplayer",
+      "Multiplizität"
+    ],
+    "schre": [
+      "Schreibens",
+      "Schreibmaschine",
+      "Schreibwerkzeug",
+      "Schreibwerkzeuge",
+      "Schreibzugriff"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturiertes",
+      "Strukturierungswerkzeuge"
+    ],
+    "visua": [
+      "Visualisiert",
+      "Visualisierung",
+      "Visualisierungen",
+      "Visualization",
+      "Visualizations"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datenpunkt",
+      "Datenvisualisierungen"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialoge",
+      "Dialogen",
+      "Dialogwechseln"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropiewerte",
+      "Entropy"
+    ],
+    "erken": [
+      "Erkenntnis",
+      "Erkenntnisgewinne",
+      "Erkenntnisse",
+      "Erkennung"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstanten",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologische",
+      "Ontologischen",
+      "Ontologisches"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alex",
+      "Alexander"
+    ],
+    [
+      "Book",
+      "Playbook"
+    ],
+    [
+      "Chat",
+      "Chats"
+    ],
+    [
+      "Chat",
+      "Chatbot"
+    ],
+    [
+      "Data",
+      "Database"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Fakt",
+      "Fakten"
+    ],
+    [
+      "Fall",
+      "Doppelbetazerfall"
+    ],
+    [
+      "Flow",
+      "Workflow"
+    ],
+    [
+      "Form",
+      "Format"
+    ],
+    [
+      "Form",
+      "Formeln"
+    ],
+    [
+      "Form",
+      "Plattform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Plattformen"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Darstellungsformen"
+    ],
+    [
+      "Form",
+      "Informationsströme"
+    ]
+  ]
+}

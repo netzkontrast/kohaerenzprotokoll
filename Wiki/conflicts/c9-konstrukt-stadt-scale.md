@@ -281,3 +281,27 @@ Stands as a row for the KW1 side of the record's table (the name Konstrukt-Stadt
 Its row gives the world „Rigide klassische Logik“ ^[roman-konzept-und-philosophische-fragen.md:L193], the complexity class „P (versagt bei NP-schwer)“ ^[roman-konzept-und-philosophische-fragen.md:L193] and the puzzle „Boolesche Erfüllbarkeit (SAT)“ ^[roman-konzept-und-philosophische-fragen.md:L193]. It treats Konstrukt-Stadt as a world with its own Guardian, not as a district.
 
 Stands as a further position at the world scale, dated 2025-07-29; recorded, not applied, the record stays open.
+
+## 2026-10-11 — `kapitel-1-generierungsprozess`, 2025-11-25, the chapter-1 report
+
+**The chapter-1 report writes Konstrukt-Stadt as another name of KW1.**
+
+The report defines the starting state of the system, `Kernwelt 1 (KW1)`, „auch bekannt als Konstrukt-Stadt oder Logos-Prime“ ^[kapitel-1-generierungsprozess.md:L37]. This is the report's commentary, set before its four sequences; it is not a chapter text. In the chapter text the report quotes, the narration says „Sie nannten es Logos-Prime.“ ^[kapitel-1-generierungsprozess.md:L184]
+
+Stands with the KW1 side of the record's table; recorded, not applied, the record's decision is not touched.
+
+## 2026-10-11 — `roman-kohaerenz-protokoll`, 2025-04-17, the early prose draft
+
+**The draft shows the Konstrukt-Stadt only as a city that breaks apart in Kael's fall, with no measure of its size.**
+
+The narrator (German prose): „Die Konstrukt-Stadt, eben noch eine feste“ ^[roman-kohaerenz-protokoll.md:L409] reality begins to crumble, and impressions mix „mit den sterbenden Resten von KW1“ ^[roman-kohaerenz-protokoll.md:L411]. The data node is part of the same city: „Der Datenknotenpunkt Gamma-7 empfing ihn“ ^[roman-kohaerenz-protokoll.md:L373].
+
+Stands as one more position; decides nothing.
+
+## 2026-10-12 — `kernwelten-und-fragmentierte-wahrnehmung`, 2025-04-29, the perception report
+
+**The perception report writes the Konstrukt-Stadt as KW1, one of four numbered worlds.**
+
+The heading reads „KW1: Konstrukt-Stadt/Co₁ (Ordnung/Kontrolle)“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L113], and its core principle „Eine Welt, die auf Logik, Struktur, Effizienz und Kontrolle basiert.“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L115], „Sie repräsentiert potenziell die von AEGIS favorisierte Ordnung“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L115].
+
+Stands as a world (KW1), dated 2025-04-29; recorded, not applied.

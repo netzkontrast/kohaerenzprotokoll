@@ -1,0 +1,229 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
+  "drive_id": "1Vh61VHw2K9eys3XCGkb5NIeN-2GkqhbYo9x1OYYN6Zc",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Mosaik-Herz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Kael": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        17,
+        23,
+        27,
+        31,
+        33,
+        37,
+        61,
+        73
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        49
+      ]
+    },
+    "AEGIS": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        19,
+        35,
+        49
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        49
+      ]
+    },
+    "Nexus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Rauschen": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        15,
+        33,
+        63,
+        65
+      ]
+    },
+    "externen Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        37
+      ]
+    },
+    "Externe Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Entropie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        33
+      ]
+    },
+    "Glitch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Dualität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Reboots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "PMAS": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        59
+      ]
+    },
+    "KOHÄRENZ-ARCHITEKT K-1123": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "KDSI-GAMMA-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "KAEL-RESONANZ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "INTEGRATIONS-PROTOKOLL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Zielkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Gelenkten Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Mosaik-Modus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "AEGIS-Modus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+$ read.py --count "The following table"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`The following table` ^[kohaerenz-protokoll-finale-pfeiler.md:#3]
+
+$ read.py --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-finale-pfeiler.md:#1]
+
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-finale-pfeiler.md:#0]
+
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kohaerenz-protokoll-finale-pfeiler.md:#0]
+
+$ read.py --count "funktionale Multiplizität"
+whole word, case-sensitive     0
+whole word, case-insensitive   2
+including compounds            0
+
+`funktionale Multiplizität` ^[kohaerenz-protokoll-finale-pfeiler.md:#0]
+
+$ read.py --count "Funktionale Multiplizität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Funktionale Multiplizität` ^[kohaerenz-protokoll-finale-pfeiler.md:#2]
+
+$ read.py --count "funktionalen Multiplizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`funktionalen Multiplizität` ^[kohaerenz-protokoll-finale-pfeiler.md:#3]
+
+$ read.py --count "Bachtin"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Bachtin` ^[kohaerenz-protokoll-finale-pfeiler.md:#0]
+
+$ read.py --count "Bachtins"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bachtins` ^[kohaerenz-protokoll-finale-pfeiler.md:#1]
+
+$ read.py --count "TSDP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`TSDP` ^[kohaerenz-protokoll-finale-pfeiler.md:#2]
+
+$ read.py --count "Tertiären Strukturellen Dissoziation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tertiären Strukturellen Dissoziation` ^[kohaerenz-protokoll-finale-pfeiler.md:#1]
+
+$ read.py --count "Strukturelle Resonanz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Strukturelle Resonanz` ^[kohaerenz-protokoll-finale-pfeiler.md:#1]
+
+$ read.py --count "Gnosis"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Gnosis` ^[kohaerenz-protokoll-finale-pfeiler.md:#6]
+
+$ read.py --count "Episteme"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Episteme` ^[kohaerenz-protokoll-finale-pfeiler.md:#2]
+
+$ read.py --count "Deleuze"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Deleuze` ^[kohaerenz-protokoll-finale-pfeiler.md:#2]
+
+$ grep -ow Lex Sources/drive/kohaerenz-protokoll-finale-pfeiler.md | wc -l
+4
+$ grep -ow Nyx Sources/drive/kohaerenz-protokoll-finale-pfeiler.md | wc -l
+4
+$ grep -ow Kiko Sources/drive/kohaerenz-protokoll-finale-pfeiler.md | wc -l
+2
+$ grep -n "vs\.\|etc\." Sources/drive/kohaerenz-protokoll-finale-pfeiler.md
+50:### **1.3. Der Zugangsweg: Gnosis als transformative Erfahrung vs. Episteme als Datenwissen**
+$ grep -n "^#" Sources/drive/kohaerenz-protokoll-finale-pfeiler.md | wc -l  (headings; five parts I-V are the level-2 headings)
+18:## **I. Die Ontologie des Seins: Das 
+66:## **II. Die Tragödie der Logik: Tra
+132:## **III. Die Architektur des Selbst
+191:## **IV. Die Natur der Transzendenz:
+237:## **V. Die Ethik der Schöpfung: Ve
+$ grep -c "^The following table" ; table first column rows
+116:The following table:
+176:The following table:
+280:The following table:
+$ rows of table 1 (L122-L128 after header row)
+| Kriterium | Pfad A: Der trag
+| \*\*Logische Basis\*\* | Fes
+| \*\*Psychologische Analogie\
+| \*\*Narrative Manifestation\
+| \*\*Thematische Aussage\*\* 
+| \*\*Endzustand von AEGIS\*\*
+| \*\*Implikationen für Kael\
+profile: glued ref numbers 23, backslash escapes 92 (01-profile.txt)
+7:  backslash escapes    92
+11:  glued ref numbers    23

@@ -1,0 +1,107 @@
+{
+  "document": "kohaerenz-protokoll-konzeptionelle-ausarbeitung",
+  "drive_id": "18A5vZccUSJ-F7T6q3EV7_XYVxHhnvosz34kMRL_gTyk",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 76,
+    "decisions": 80,
+    "decided_by_lookup": 66,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "emergenz",
+      "lines": [
+        157,
+        190,
+        194,
+        244,
+        445
+      ],
+      "attribution": "",
+      "note": "emergence as one of four derivation mechanisms"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        32,
+        84,
+        85
+      ],
+      "attribution": "",
+      "note": "thermodynamic entropy as a borrowed frame"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        21,
+        28,
+        32,
+        40,
+        94,
+        102,
+        106,
+        110,
+        230,
+        383
+      ],
+      "attribution": "",
+      "note": "coherence defined for an abstract system, not for the novel's world"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        225,
+        230,
+        276
+      ],
+      "attribution": "",
+      "note": "negentropy as an operative function and a borrowed analogy"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 32,
+      "decision": "reading",
+      "why": "the protocol against entropy, read with the thermodynamic entry"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 228,
+      "decision": "occurrence",
+      "why": "an abstract system's boundary"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,14 @@
+# integriertes-kohaerenz-protokoll-erstellung
+  lines                420  (frontmatter ends at 9)
+  body words           4479
+  headings             47   bold-only lines 0
+  table rows           9   code fences 0
+  question marks       21
+  backslash escapes    69
+  typographic marks    13   ascii quotes 226
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    65
+  repeated labels      Erkenntnis x4, Output x3, Problem x3, Protokoll-Aktion x3, Theoretische Basis x3
+  longest line         714 chars
+

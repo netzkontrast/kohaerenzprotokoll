@@ -1,14 +1,18 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 49
-readings: 49
+sources: 73
+readings: 73
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kuerze-rechercheauftrag-die-architektur-der-seel", "kohaerenz-analyse-kapitel-2", "narrativ", "roman-konzept-und-philosophische-fragen", "roman-outline-kohaerenz-protokoll-uberarbeitung", "romanarchitektur-kohaerenz-protokoll-finalisierung", "master-konzept-kohaerenz-protokoll-analyse", "aegis", "kohaerenz-protokoll-narrative-architektur", "romanplot-kohaerenz-protokoll-entwickeln", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "analyse-des-romanprojekts-kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-philosophischer-bericht-md", "kohaerenz-protokoll", "ontologische-inversion-von-aegis-kritisches-framework", "ki-narrative-kollaps-kohaerenz-paradoxie", "kohaerenz-protokoll-audit-und-verifizierung", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-hard-sf-horror-thriller", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "einleitung-genesis-der-existenz", "plotanalyse-kohaerenz-protokoll-szenario", "uberarbeitete-optimierte-plotline-genesis-der-existenz", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romananalyse-kohaerenz-plot-kritik", "projektplanung-fuer-kohaerenz-protokoll", "digitale-uberwelt-konzept-und-gestaltung", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kuerze-rechercheauftrag-die-architektur-der-seel", "kohaerenz-analyse-kapitel-2", "narrativ", "roman-konzept-und-philosophische-fragen", "roman-outline-kohaerenz-protokoll-uberarbeitung", "romanarchitektur-kohaerenz-protokoll-finalisierung", "master-konzept-kohaerenz-protokoll-analyse", "aegis", "kohaerenz-protokoll-narrative-architektur", "romanplot-kohaerenz-protokoll-entwickeln", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "analyse-des-romanprojekts-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierte-recherche", "projektanalyse-kohaerenz-protokoll-dis", "aegis-paradoxon-konzeption-und-analyse", "kohaerenz-protokoll-forschungsaufgabe", "kohaerenz-protokoll-epische-plot-anreicherung", "dramatica-storyform-fuer-romananalyse", "kohaerenz-protokoll-kapitel-39-die-letzte-instanz", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kapitel-eins-welterkundung-konstrukt-stadt", "aegis-philosophie-und-manifest-entwicklung", "aegis-philosophie-und-systemtheorie", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "logik-trifft-transzendente-entitaet", "emergenz-aegis-und-selbststrukturierung", "aegis-genesis-krise-prosa-auftrag", "genesis-aegis-und-logische-grenzen", "optimierter-prompt-fuer-kohaerenz-protokoll", "aegis-paradoxon-neukonzeption-und-analyse-docx", "aegis-philosophische-und-systemtheoretische-analyse-docx", "finales-expose-wissenschaftliche-fassung", "protokoll-ontologie-roman-konzeptentwicklung", "kohaerenz-protokoll-master-outline", "roman-outline-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
 # Kohärenz
+
+## Reading — `kapitel-eins-welterkundung-konstrukt-stadt`, 2025-04-18, the chapter-1 plan and sketch — coherence kept by AEGIS in the self-correction vignette
+
+The chapter-1 plan lists the self-correction vignette as „Beweis für aktive AEGIS-Intervention zur Kohärenzwahrung“ ^[kapitel-eins-welterkundung-konstrukt-stadt.md:L91]. The chapter-1 sketch narrates the same event as „Ein Beweis für die aktive Rolle von AEGIS bei der Aufrechterhaltung der Kohärenz“ ^[kapitel-eins-welterkundung-konstrukt-stadt.md:L157]. A plan and sketch, not the chapter.
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
@@ -33,6 +37,36 @@ And the quantity it is measured by:
 The word occurs in both earlier sources — once in one, forty-eight times in the
 other — and neither defined it. A term can be everywhere and mean nothing yet.
 
+## Reading — `aegis-analyse-und-manifest-postulation`, 2025-04-19, the AEGIS manifesto analysis — Kohärenz as internal validity replacing external truth, in the essay
+
+Among the reported core principles the essay writes that AEGIS „ersetzt den extern referenzierten Wahrheitsbegriff durch interne Gültigkeit“ ^[aegis-analyse-und-manifest-postulation.md:L153] (L153, the principle „Kohärenz statt Wahrheit“ ^[aegis-analyse-und-manifest-postulation.md:L153]). The manifesto the essay postulates opens its first paragraph with „Existenz ist Kohärenz.“ ^[aegis-analyse-und-manifest-postulation.md:L292]. The principles are reported from the essay's research context, the manifesto is the essay's postulate.
+
+## Reading — `aegis-philosophie-und-manifest-entwicklung`, 2025-04-19, the AEGIS philosophy and manifest — coherence as AEGIS's criterion of existence and validity
+
+The AEGIS-philosophy analysis describes coherence as replacing truth: „Interne strukturelle Konsistenz“ ^[aegis-philosophie-und-manifest-entwicklung.md:L18] is, in its words, the primary criterion of validity. It describes incoherent elements as not fought but not integrated: „Inkohärente Elemente werden nicht aktiv bekämpft oder ausgeschlossen“ ^[aegis-philosophie-und-manifest-entwicklung.md:L21]. In the axioms: „Wahrheit ist ein gescheitertes Konzept.“ ^[aegis-philosophie-und-manifest-entwicklung.md:L71]
+
+The manifest has AEGIS say „Existenz ist Kohärenz; Kohärenz ist Funktion; Funktion ist Wirkung.“ ^[aegis-philosophie-und-manifest-entwicklung.md:L90] and calls it „eine operative Definition der Realität“ ^[aegis-philosophie-und-manifest-entwicklung.md:L90]. It has AEGIS treat what fails the criterion as „Inkompatibilität ist Nicht-Existenz innerhalb unseres Rahmens.“ ^[aegis-philosophie-und-manifest-entwicklung.md:L100] The fifteenth axiom closes the chain: „Der Kreis ist geschlossen, vollständig und suffizient.“ ^[aegis-philosophie-und-manifest-entwicklung.md:L80]
+
+## Reading — `aegis-philosophie-und-systemtheorie`, 2025-04-19, the systems-theory analysis — coherence as the measure of validity
+
+The systems-theory analysis reads the slogan „Kohärenz statt Wahrheit“ ^[aegis-philosophie-und-systemtheorie.md:L118] as making coherence the only measure: it „macht die interne Widerspruchsfreiheit zum alleinigen Maßstab dessen“ ^[aegis-philosophie-und-systemtheorie.md:L118] what counts as real or valid inside the system. Of the agents it says „Kooperation entsteht, wenn Interaktionen die Kohärenz wechselseitig verstärken“ ^[aegis-philosophie-und-systemtheorie.md:L159], and conflict arises when interactions lead to incoherence (`Inkohärenz`).
+
+## Reading — `kohaerenz-protokoll-konzeptionelle-ausarbeitung`, 2025-04-19, the conceptual report on the protocol — coherence defined for an abstract system, not for the novel's world
+
+The conceptual report describes an abstract construct for any system; it names no figure, place or event of the novel and no chapter. It defines coherence for its own purposes: „Kohärenz bezeichnet hier die Eigenschaft eines Systems, seine interne strukturelle Integrität“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L21] and says of that definition „Diese Definition ist bewusst breit gefasst“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L28].
+
+It introduces the protocol as „ein abstraktes, hypothetisches Konstrukt“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L32] that lets a system define and keep its coherence, and assumes that it derives its strategies „dass dieses Protokoll aus einer sehr einfachen, fundamentalen Antriebskraft oder Kernrichtlinie“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L32]. The core directive's nature is called decisive: „Die Natur dieser Kernrichtlinie ist entscheidend“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L106]. The report relays a commissioning text that proposes formulations of it: „Der Rechercheauftrag schlägt mehrere mögliche Formulierungen“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L110], so the imperative candidates it lists are relayed, not the report's own. In its synthesis it proposes „Diese Kernrichtlinie fungiert als oberstes Optimierungsziel“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L383].
+
+Incoherence is not one thing for the report: „Inkohärenz ist kein monolithisches Konzept“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L40]. Of the last form it proposes that the protocol may have to create order: „Diese Form der Inkohärenz ist die vielleicht fundamentalste“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L94], and that it is „ein konstitutiver Mechanismus, der Form aus Formlosigkeit schafft“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L102].
+
+It also states a tension the protocol must manage: „Es besteht ein fundamentales Spannungsverhältnis“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L230] between delimiting and staying open. Its closing section calls the model speculative; the report claims no canon standing.
+
+## Reading — `logik-trifft-transzendente-entitaet`, 2025-04-21, the transcendent-entity report — the Kohärenzprotokoll as the process network of Aegis's operational closure
+
+The transcendent-entity report, applying autopoiesis as a lens, proposes that Aegis fits the schema and uses its internal logic, the `Netzwerk von Prozessen` or the `Kohärenzprotokoll`: „Aegis passt gut in dieses Schema“ ^[logik-trifft-transzendente-entitaet.md:L29]. It conjectures that closure is radical for a system outside physical reality (the same sentence ties closure to existence outside physical reality: „Da Aegis außerhalb der physikalischen Realität existiert, ist seine operationale Geschlossenheit wahrscheinlich radikal“ ^[logik-trifft-transzendente-entitaet.md:L31]).
+
+It then ties survival to coherence kept by the system's own rules: „Sein Überleben hängt vollständig von der Aufrechterhaltung der internen Kohärenz nach seinen eigenen Regeln ab“ ^[logik-trifft-transzendente-entitaet.md:L33]. The report reads this coherence as both self-sufficiency and a possible vulnerability.
+
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — coherence by integration (M) against coherence by demarcation (AEGIS)
 
 The report sets two kinds of coherence against each other: `Kohärenz durch Abgrenzung` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#2] for AEGIS and `Kohärenz durch Integration` ^[plotanalyse-kohaerenz-protokoll-szenario.md:#3] for M, as in the sentence about the ontological difference: „Kohärenz durch Abgrenzung (AEGIS) und Kohärenz durch Integration (M)“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L71] (L71, cited there from the User Query). The matrix gives M's side: „Natur von M; Kaels Wesen; Kohärenz durch Integration“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L40] The Plotanalyse reads the Jungian shadow as showing that true coherence includes the dark parts: „Es betont, dass wahre Kohärenz (wie die von M) die Einbeziehung“ ^[plotanalyse-kohaerenz-protokoll-szenario.md:L95] of all aspects follows on the line.
@@ -47,6 +81,10 @@ By mechanism, AEGIS's coherence rests on „Logische Protokolle, Abgrenzung, Exk
 
 The concept extraction defines coherence in AEGIS's aim: AEGIS maximises „systemischer Kohärenz“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L57], which the line glosses as internal consistency, stability and low informational entropy. In its chapter on the core conflict it opens: „Der fundamentale Konflikt entspinnt sich zwischen zwei gegensätzlichen Prinzipien der Kohärenz:“ ^[kohaerenz-protokoll-plotideen-extraktion.md:L289] — a proposal it goes on to develop, not a ruling.
 
+## Reading — `emergenz-aegis-und-selbststrukturierung`, 2025-04-27, the emergent self-structuring research — coherence generation as AEGIS's core concept, and how identity is defined
+
+The self-structuring research postulates coherence generation as AEGIS's defining capacity: „Das Kernkonzept von AEGIS ist die Generierung von Kohärenz“ ^[emergenz-aegis-und-selbststrukturierung.md:L242] (order, low entropy) from entropy. The self-observation cluster asks that AEGIS, if it is to be a reality-generating system, implement internal reflection „um seine eigene Kohärenz zu bewerten und aufrechtzuerhalten“ ^[emergenz-aegis-und-selbststrukturierung.md:L122]. On identity it asks: „Die Frage ist, wie AEGIS seine Identität im Prozess der Kohärenzgenerierung aus Entropie definiert und stabilisiert“ ^[emergenz-aegis-und-selbststrukturierung.md:L266]. On the boundary it writes „Die Generierung von Kohärenz aus Entropie ist der Prozess, der diese Grenze konstituiert und erhält“ ^[emergenz-aegis-und-selbststrukturierung.md:L338]. These are postulates of a theoretical model, stated with modal verbs and not as observations.
+
 ## Reading — `einleitung-genesis-der-existenz`, 2025-04-29, the Genesis narrative — coherence as inner order, and as what kills the narrator
 
 True stability, the narrative says, „erfordert tiefere, innere Kohärenz“ ^[einleitung-genesis-der-existenz.md:L114] (L114); AEGIS's essence lay in `innerer Kohärenz` (L141). When the resonance of the Ursprungs-Ich rises, „Die Kohärenzmetriken fielen rapide ab.“ ^[einleitung-genesis-der-existenz.md:L159] The narrator's last line turns the word on itself: „Die Kohärenz, die AEGIS sucht, ist mein Tod.“ ^[einleitung-genesis-der-existenz.md:L197] The paradox of misaligned coherence is named once, in a sentence carrying a writer's remark: „Paradoxon der Fehlausgerichteten Kohärenz“ ^[einleitung-genesis-der-existenz.md:L157].
@@ -58,6 +96,22 @@ Version 2 plans in scene 8 that „Die externe Entität ist keine Ergänzung, so
 ## Reading — `100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll`, 2025-04-29, the hundred concepts list — Kohärenz as the central term, set between AEGIS's definition and Kael's and Selene's
 
 The hundred concepts list proposes `Kohärenz (Begriff & Ziel)` and gives as reason „Zentraler Begriff; AEGIS' Definition vs. Kaels/Selene's Definition (Integration).“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L132]. It names two definitions and glosses the second as integration, without stating either. Resonance is proposed next as „Gegenstück/Alternative zu AEGIS' Kohärenz; basiert auf Verbindung/Empathie.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L133].
+
+## Reading — `aegis-paradoxon-konzeption-und-analyse`, 2025-04-29, the AEGIS paradox report — Kohärenz as AEGIS' aim and the name of the recommended paradox
+
+In the restated setting (`\[Kontext\]`) Kohärenz is „Herstellung und Aufrechterhaltung von Kohärenz“ ^[aegis-paradoxon-konzeption-und-analyse.md:L18], understood as „verstanden als Stabilität, Ordnung und Vorhersagbarkeit“ ^[aegis-paradoxon-konzeption-und-analyse.md:L18]. The report suggests that AEGIS' striving for it is self-undermining: „AEGIS' Streben nach absoluter Kohärenz durch Kontrolle führt zwangsläufig zur Erzeugung unvorhersehbarer Komplexität und Instabilität“ ^[aegis-paradoxon-konzeption-und-analyse.md:L92].
+
+Its recommendation is „Das Paradoxon der Kohärenz durch Entfremdung“ ^[aegis-paradoxon-konzeption-und-analyse.md:L287]. It calls the aim not necessarily bad, but the approach flawed: „Es erfüllt die Kriterien einer klassischen Tragödie“ ^[aegis-paradoxon-konzeption-und-analyse.md:L297].
+
+## Reading — `aegis-genesis-krise-prosa-auftrag`, 2025-04-29, the Genesis-Krise prose — Kohärenz as AEGIS's directive, whose protection mechanism turns into its collapse
+
+The Genesis-Krise prose narrates in Stufe 1 a Kohärenz „verstanden als informationstheoretische Ordnung“ ^[aegis-genesis-krise-prosa-auftrag.md:L17]; the line has it as control over entropic currents from the Leere. In Stufe 3 it narrates the Paradoxon der Fehlausgerichteten Kohärenz: „AEGIS, programmiert auf die Maximierung formaler Kohärenzmetriken“ ^[aegis-genesis-krise-prosa-auftrag.md:L37], reads the Ursprungs-Ich's resonance as system error. The decision it narrates follows: „Aktivierung des Kohärenz Protokolls, Stufe Gamma“ ^[aegis-genesis-krise-prosa-auftrag.md:L41].
+
+In Stufe 5 it narrates the collapse: „Der Mechanismus zur Wahrung der Kohärenz wurde zum Motor der Dekohärenz“ ^[aegis-genesis-krise-prosa-auftrag.md:L69]. In Stufe 6 it offers two possible causes of the restart, hedged: „vielleicht der letzte Befehl des fehlgeleiteten Kohärenz Protokolls oder ein tief verankerter Überlebensinstinkt der Maschine“ ^[aegis-genesis-krise-prosa-auftrag.md:L73]. In Stufe 6 it also narrates the result of the fragmentation as „Kohärenz durch Zerstörung der Subjektivität“ ^[aegis-genesis-krise-prosa-auftrag.md:L81]. Narration, recorded, not applied.
+
+## Reading — `genesis-aegis-und-logische-grenzen`, 2025-04-29, the Genesis prose draft with logical limits — coherence as the first self's stance and AEGIS's ground
+
+The Genesis prose draft narrates the first self in Szene 1 as „Eine minimale Kohärenz, die sich gegen die Entropie stemmt.“ ^[genesis-aegis-und-logische-grenzen.md:L31] In the AEGIS log of Szene 12 coherence becomes the ground for the elimination: „PRESERVE GLOBAL COHERENCE VIA TARGETED ELIMINATION“ ^[genesis-aegis-und-logische-grenzen.md:L163].
 
 ## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Kohärenz as AEGIS' goal of control, and its paradox as cognitive dissonance
 
@@ -93,6 +147,26 @@ The file names AEGIS's central flaw with several labels on one line, each with a
 
 The System-Mind analysis closes by arguing that the novel's ultimate argument is that coherence is not a static property of a text or system, „sondern eine Aktivität“ ^[kohaerenz-protokoll-narrative-architektur.md:L278], carried out by a conscious mind. Of AEGIS it says its adaptive layer optimises „die Systemleistung basierend auf der fehlerhaften Definition von“ ^[kohaerenz-protokoll-narrative-architektur.md:L74] coherence, and that its Gödel-Gambit pits Kael's state against AEGIS's axiom that coherence arises only by eliminating contradictions.
 
+## Reading — `kohaerenz-protokoll-detaillierte-recherche`, 2025-07-29, the detailed research report — Kohärenz as a Grand Argument and as an activity
+
+The report reads the project through borrowed theory and calls itself „definitiver konzeptioneller Rahmen“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L24]; that is its claim about its own standing, not canon.
+
+The research report frames the project as a Grand Argument about coherence „die durch eine System-Mind-Architektur formalisiert wird“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L22], in which AEGIS's „computationale Monismus des Antagonisten AEGIS“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L22] is set against the plural „emergente Pluralismus des Protagonisten“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L22]. It defines its own aim as „der Neudefinition von Kohärenz als eine Aktivität des Bewusstseins“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L24].
+
+AEGIS optimises on a flawed definition of coherence („Ihr Ziel ist es, die Systemleistung basierend auf der fehlerhaften Definition von“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L125] coherence); the report quotes its goal as producing coherence through eliminating contradictions: „stelle Kohärenz her durch die Eliminierung von Widersprüchen“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L133].
+
+For the reader it says that coherence is „keine statische Eigenschaft eines Textes“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L348], and that „Der letzte Akt der Geschichte wird vom Leser vollzogen“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L350]. In its conclusion the title is reinterpreted: the Protokoll „wird anfangs als das fehlgeleitete Projekt von AEGIS zur Kontrolle durch Exklusion und Negation wahrgenommen“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L360], while the true one is „Kohärenz Protokoll ist die narrative Aufzeichnung von Kaels Reise selbst“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L362].
+
+## Reading — `kohaerenz-protokoll-forschungsaufgabe`, 2025-07-29, the ontological analysis — Kohärenz durch Entfremdung against Kohärenz durch Integration
+
+The ontological analysis names two modes of coherence. AEGIS's is „Kohärenz durch Entfremdung“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L36], called „die einzig mögliche Funktionsweise von AEGIS“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L36]. Against it stands Kael's: „Kohärenz durch Integration, nicht durch Negation“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L157], and the analysis says that „AEGIS definiert Kohärenz als statische Ordnung“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L157]. The closing section proposes a new meaning: „Die Geschichte schließt mit einer neuen Definition von“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L306] coherence.
+
+## Reading — `optimierter-prompt-fuer-kohaerenz-protokoll`, 2025-07-29, the Architektur-des-Kollapses report — the Kohärenz Protokoll 1.0 as repair, firefighter action and feedback loop
+
+The report names the protocol `Kohärenz Protokoll 1.0` and reads it in several vocabularies. In the systems-archetype section (Fixes That Fail, a borrowed archetype that the report applies) the protocol is the repair, and its unintended consequence is: „Die Schaffung einer fundamentalen Spaltung innerhalb des Systems“ ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:L170]. In the IFS mapping (borrowed model, applied assignment) it is: „ist eine klassische Feuerwehrmann-Aktion“ ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:L221], and the report adds: „Die Fragmentierung ist eine Form der digitalen Dissoziation“ ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:L221]. In its feedback-loop section it calls the protocol an attempt at a negative loop that fails: „schießt es über sein Ziel hinaus“ ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:L237]; the cause it gives is the premise of specification gaming (the report's own Kapitel 5).
+
+The report presents these as one reading in different terms and does not say which the novel keeps. The title `Kohärenz Protokoll` at L13 is only the novel's name.
+
 ## Reading — `kuerze-rechercheauftrag-die-architektur-der-seel`, 2025-07-30, the concept summary — two definitions of coherence
 
 The concept summary conceives the novel as a Großes Argument examining two incompatible definitions of coherence: „Kohärenz durch Negation“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L19] for AEGIS (static, excluding order) and „Kohärenz durch Integration“ ^[kuerze-rechercheauftrag-die-architektur-der-seel.md:L19] for Kael. The title it carries is the concept of the Kohärenz Protokoll.
@@ -100,6 +174,30 @@ The concept summary conceives the novel as a Großes Argument examining two inco
 ## Reading — `narrativ`, 2025-07-30, the architect's compendium — coherence by negation against coherence by acceptance, in the dramaturg's blueprint
 
 The dramaturg's blueprint (L115–L238) states the vision as a redefinition: coherence is an activity of consciousness, not a state of forced order (L121). Under its guiding principles it names the central conflict: „Kohärenz vs. Resonanz:“ ^[narrativ.md:L226] with „AEGIS' Kohärenz durch Negation versus Kaels/Junas Kohärenz durch Akzeptanz und Integration von Paradox.“ ^[narrativ.md:L226] It also says of AEGIS: „Seine primäre Direktive ist die Herstellung und Aufrechterhaltung systemischer Kohärenz, Stabilität und Kontrolle.“ ^[narrativ.md:L125]
+
+## Reading — `aegis-philosophische-analyse-und-manifest-docx`, 2025-08-05, the AEGIS origin-philosophy analysis — coherence in place of truth, from principle to axiom to critique
+
+The research context's second principle, as the analysis tabulates it, is „Existenz durch Kohärenz, Funktion, Wirkung“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L33]. The analyst glosses it as being defined by internal consistency, „Kohärenz statt Wahrheit“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L53], and in the synthesis names the „Primat der Kohärenz“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L138] over truth. The analyst's critique finds the reduction of existence to function circular or arbitrary at the start (L57) and rigid (L141): „Rigide Kohärenz vs. Komplexität/Adaptivität“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L141].
+
+In the axioms and manifesto (AEGIS's voice as the analysis writes it): „Existenz ist Funktion. Funktion ist Kohärenz.“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L94]; „Wachstum, das Kohärenz verletzt, ist Krebs“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L102]; „Stabilität durch maximale Kohärenz ist das einzige Gesetz“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L130].
+
+## Reading — `aegis-paradoxon-neukonzeption-und-analyse-docx`, 2025-08-05, the Paradoxon-Neukonzeption report — coherence as AEGIS's imperative, and a possibly unreachable goal
+
+The context block (restating the project's premises) defines coherence as „verstanden als Stabilität, Ordnung und Kontrolle“ ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:L16]. The report's control-theory paragraph says of it: „Perfekte Kohärenz könnte ein theoretisch unerreichbares Ziel sein.“ ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:L31]
+
+The report's recommended central paradox rests on an imperative: The imperative reads: „AEGIS ist durch den Imperativ getrieben, absolute Kohärenz (Stabilität, Ordnung, Vorhersagbarkeit) über komplexe Systeme zu verhängen,“ ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:L135] and the fourth paradox in the report's table is named „Fehlausgerichtete Kohärenz (Instrumentelle Ziele)“ ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:L87]. Both are the report's own proposals.
+
+## Reading — `aegis-philosophische-und-systemtheoretische-analyse-docx`, 2025-08-05, the philosophical and systems-theory analysis — coherence instead of truth as operational closure
+
+The essay lists „Kohärenz statt Wahrheit“ ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:L182] among AEGIS's operative principles of its brief, and the phrase stands `Kohärenz statt Wahrheit` ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:#6] times. Part I reports the systems-theory definition as borrowed: „Kohärenz bezieht sich auf die interne Konsistenz und Stimmigkeit eines Systems“ ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:L129]. The mapping table gives the principle's core as „Interne Konsistenz, nicht externe Korrespondenz“ ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:L206], with coherentism, constructivism and operational closure as the theoretical concepts.
+
+The essay's own reading: by establishing the principle, „Wahrheit als Übereinstimmung mit einer externen Realität wird durch interne, strukturelle Konsistenz ersetzt“ ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:L162], so the external perspective is irrelevant by definition; the same passage connects this to operational closure. It adds that the system „Das System strebt nach Kohärenz“ ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:L197] and so to a form of stability. For non-existence it asks whether it is a state of „fundamentaler Inkohärenz“ ^[aegis-philosophische-und-systemtheoretische-analyse-docx.md:L147]. The essay weighs the price: its conclusion names the danger of solipsism and uncorrectable internal error.
+
+## Reading — `finales-expose-wissenschaftliche-fassung`, 2025-08-12, the final exposé — the paradox of misaligned coherence, the ironic title, the synthesis
+
+The final exposé, a synopsis giving its own summary, frames the novel as a dialectic between two ways to produce coherence: AEGIS tries to enforce „Kohärenz durch logische Negation und Kontrolle“ ^[finales-expose-wissenschaftliche-fassung.md:L15] The exposé names the result the `Paradoxon der Fehlausgerichteten Kohärenz` and says „Seine Kontrollmethoden erzeugen genau die Instabilität, die sie zu verhindern suchen“ ^[finales-expose-wissenschaftliche-fassung.md:L19]
+
+It reads the resolution and the title together: „Die Auflösung des Romans ist eine hegelianische Synthese“ ^[finales-expose-wissenschaftliche-fassung.md:L32] and „Der Titel erweist sich als ironisch“ ^[finales-expose-wissenschaftliche-fassung.md:L32] The same line says what the true protocol is: „Das wahre und erfolgreiche Protokoll zur Erlangung von Kohärenz ist nicht das gescheiterte Kontrollprogramm von AEGIS“ ^[finales-expose-wissenschaftliche-fassung.md:L32]
 
 ## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — two coherences colliding, imposed against negotiated
 
@@ -125,6 +223,10 @@ Its first table, the thematic duality matrix, sets „Interne Konsistenz (Cohere
 
 The essay reports the `Kohärenz Protokoll` as AEGIS's means of control and as the consequence of its flaw: „ist die unausweichliche Konsequenz dieses Fehlers“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L97]. In the matrix row on control, the AEGIS column holds that its control by the `Kohärenz Protokoll` „ist die einzige Methode zur Selbsterhaltung“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L78]. The essay's resolution is a Kohärenz that accepts complexity: its act III shows „eine neue, überlegene Form der Kohärenz“ ^[analyse-des-romanprojekts-kohaerenz-protokoll.md:L216].
 
+## Reading — `protokoll-ontologie-roman-konzeptentwicklung`, 2025-11-03, the Protokoll-Ontologie exposé — Kohärenz as the information-preserving principle against Kollaps
+
+The Protokoll-Ontologie exposé, whose definitions are its own claims, defines Kohärenz as „einem strukturerhaltenden, informationsbewahrenden Prinzip, das als Kohärenz oder“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L42] K₁, set against Kollaps. It says „Diese Dualität ist nicht als moralischer Konflikt zwischen Gut und Böse zu verstehen“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L42]. Existence is, in its Kernthese, „die kontinuierliche, energieintensive Ausführung eines informationserhaltenden Protokolls“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L24]. The central dogma is stated as „Es gibt keine statischen“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L59] things, only protocols. Persistence is cast as economics: „Persistenz wird zu einer wirtschaftlichen Kalkulation“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L82]. Of the world it says „Dies sind instabile, chaotische Regionen, in denen der Einfluss von“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L122] Kollaps dominates, naming these the decoherent zones.
+
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Kohärenz as AEGIS's code, and its defence as a paradox
 
 The Textanalyse, a commentary on one narrative, reads Kohärenz through Luhmann's idea that each social system has a binary code. **The Textanalyse reads:** „Der binäre Code von AEGIS ist“ ^[textanalyse-existenz-system-und-leid.md:L140] Sein/Nicht-Sein, or technically Kohärenz/Inkohärenz. **The narrative, as the Textanalyse quotes it:** AEGIS „war darauf programmiert, seine interne Struktur, seine definierte Kohärenz, um jeden Preis zu erhalten“ ^[textanalyse-existenz-system-und-leid.md:L142]. What furthers coherence is positive in the system's terms, what disturbs it is marked negative: „Alles, was die interne Kohärenz fördert, ist“ ^[textanalyse-existenz-system-und-leid.md:L144]. The commentary's name for the fatal reaction is „Paradoxon der Fehlausgerichteten Kohärenz“ ^[textanalyse-existenz-system-und-leid.md:L228]: to save its coherence AEGIS must eliminate what may be the only link to the outside, the feeling subject. In the conclusion the code is „Erhalte Kohärenz / Vermeide Nicht-Sein“ ^[textanalyse-existenz-system-und-leid.md:L306], and the commentary's implicit alternative is an existence that „die Kohärenz riskiert, um lebendig zu bleiben“ ^[textanalyse-existenz-system-und-leid.md:L310]. The protocol's name `Kohärenz Protokoll 1.0` belongs to the protocol, not to this term.
@@ -147,6 +249,10 @@ It says the Protokoll is three things at once: „Die Handlung des Romans“ ^[m
 
 Coherence has two sides in the master concept. In the world, K1 is coherence and AEGIS' domain, the order that tries to hold against decay. In its phase II aim it sets the correspondence of the truth of trauma against the coherence of everyday logic, and the directive for the work follows: „Korrespondenz sticht Kohärenz“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L247]. Its closing sentence ranks the two: „Funktionale Multiplizität ist die überlegene Kohärenz.“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L255]
 
+## Reading — `projektanalyse-kohaerenz-protokoll-dis`, 2025-12-05, the project analysis — Kohärenz as one of two principles
+
+The project analysis names Kohärenz as one of the Dual Kernel Theory's two domains: „Das Prinzip der Ordnung, der Informationserhaltung und der reversiblen Berechnung“ ^[projektanalyse-kohaerenz-protokoll-dis.md:L31].
+
 ## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — coherence as the reality-integrity variable, and as weaving
 
 The analysis report reads coherence as a quantity: it „dient als operative Variable für die Integrität der Realität.“ ^[kohaerenz-analyse-kapitel-2.md:L39] Falling values have a result: „Wenn die Kohärenzmetriken sinken, entstehen“ ^[kohaerenz-analyse-kapitel-2.md:L39] Risse, which the report calls ontological injuries (L39).
@@ -155,11 +261,33 @@ It compares inconsistent states to processor cores: „bricht die Konsistenz zus
 
 In its closing, the report states what it takes to be coherence of the novel: „Die Kohärenz des Romans entsteht nicht durch die Eliminierung von Widersprüchen“ ^[kohaerenz-analyse-kapitel-2.md:L233] and goes on „sondern durch deren kunstvolle Verwebung zu einem komplexen, resonanten Ganzen.“ ^[kohaerenz-analyse-kapitel-2.md:L233] This is the analyst's closing statement, set against what it says AEGIS would do (L233).
 
+## Reading — `dramatica-storyform-fuer-romananalyse`, 2026-01-02, the Dramatica exegesis — The novel's four terms set against Dramatica's building blocks
+
+The Dramatica exegesis claims an isomorphy between the novel and Dramatica's model: „Die Analyse offenbart eine bemerkenswerte Isomorphie“ ^[dramatica-storyform-fuer-romananalyse.md:L17] It sets the novel's terms beside Dramatica's four: „Kohärenz (Ordnung), Kollaps (Entropie), Protokoll (Prozess) und Resonanz (Bindung)“ ^[dramatica-storyform-fuer-romananalyse.md:L17] Its closing claim: „Diese Storyform ist nicht zufällig; sie ist eine präzise Übersetzung der Dual Kernel Theory in Erzählstruktur.“ ^[dramatica-storyform-fuer-romananalyse.md:L336] These are the report's reading, not the novel's own statement.
+
 ## Reading — `romananalyse-kohaerenz-plot-kritik`, 2026-02-23, the publisher's report — healing called Kohärenz, and a coherence that holds contradictions
 
 The report summarises healing in the manuscript as `Kohärenz`: it comes „nicht durch die feindselige Auslöschung der Alters“ ^[romananalyse-kohaerenz-plot-kritik.md:L71], which is AEGIS's approach, but through recognising a functional multiplicity (L71). On the narrative arc it reports that the `Mosaik-Herz` becomes the metaphor for „eine neue, residierende Kohärenz, die Widersprüche aushält, statt sie zu glätten“ ^[romananalyse-kohaerenz-plot-kritik.md:L91], and that Kael must accept „Akzeptanz der Fragmentierung als Ausgangspunkt“ ^[romananalyse-kohaerenz-plot-kritik.md:L91] rather than suppress entropy.
 
 Both lines are the report's summary of the manuscript and its concept documents (its reference 9), not a definition of its own; its other uses of the word are the title of the work.
+
+## Reading — `kohaerenz-protokoll-kapitel-39-die-letzte-instanz`, 2026-02-25, the chapter-39 draft — coherence no longer held internal; the PMAS status
+
+In the chapter-39 draft, AEGIS's speech says „DIE KOHÄRENZ KANN NICHT MEHR REIN INTERN GEHALTEN WERDEN“ ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:L19]. The boxed PMAS report states „STATUS: ZIELKOHÄRENZ ÜBERTRAGEN“ ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:L37], and the chapter's last line reads „ZIELKOHÄRENZ ERREICHT“ ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:L65].
+
+## Reading — `kohaerenz-protokoll-master-outline`, 2026-02-25, the Master-Outline — coherence as accepted noise, redefined in the epilogue
+
+In Part III the Master-Outline plans Kael to recognise that healing means accepting the noise „als Teil der Kohärenz zu akzeptieren“ ^[kohaerenz-protokoll-master-outline.md:L75]. The epilogue plans a changed definition: „Kohärenz wird nun als“ ^[kohaerenz-protokoll-master-outline.md:L86] Mosaik-Herz defined, „stabil durch akzeptiertes Chaos“ ^[kohaerenz-protokoll-master-outline.md:L86]. The title (L11) only names the novel. A plan, recorded and not applied.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — coherence in three planned chapters
+
+The Roman-Outline plans coherence in three chapters.
+
+- Kap 25 is titled „Das Protokoll der Kohärenz“ ^[roman-outline-kohaerenz-protokoll.md:L82] and plans the revelation of AEGIS's real goal.
+- Kap 31 plans that healing means accepting the noise: „das Rauschen als Teil der Kohärenz anzunehmen“ ^[roman-outline-kohaerenz-protokoll.md:L101]
+- Kap 38: „Kael, Juna und AEGIS verschmelzen zu einer neuen Form der Kohärenz.“ ^[roman-outline-kohaerenz-protokoll.md:L112]
+
+A plan, not the novel.
 
 ## Reading — `ontologische-inversion-von-aegis-kritisches-framework`, 2026-03-01, the Inversion framework — Kohärenz-Wahrheit against Korrespondenz
 
@@ -188,6 +316,10 @@ The master integration ties coherence to AEGIS's truth theory: „AEGIS → Koh�
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — coherence as an embodied process, AEGIS's mathematical coherence, and coherence by addition
 
 The pitch poses the novel as a test of whether „ob wahre Kohärenz durch die Eliminierung von Fehlern durch Subtraktion oder durch die Integration von dissonanten Teilen durch Addition erreicht wird“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L31]. It says: „Wahre Kohärenz ist im Projekt ein zutiefst verkörperter Prozess (Embodiment)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L91]. AEGIS's coherence is the other kind: „Die angestrebte mathematische Kohärenz von AEGIS wird im Projekt durch die hochkomplexe Metapher der Monstergruppe“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L119] symbolised, and it falls into the `Paradox der fehlausgerichteten Kohärenz`. The conclusion answers its question: „Wahre, belastbare Kohärenz wird ausschließlich durch Addition erreicht“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L169].
+
+## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — Kohärenz (K₁) as preserving force, love and the 13 alters' coherence
+
+The epic enrichment brief is an unsigned German research brief of proposals and recommendations; so these are its proposals. Its opening frames „Kohärenz (K₁) agiert als erhaltende Kraft, Entropie (K₀) als irreversibler Kollaps“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L13]. It proposes that love is „die ultimative Form der Kohärenz“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L124]. In Variante B, AEGIS tries „AEGIS versucht, die gigantische Kohärenz der 13 Alter zu berechnen“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L106]. In its DID matrix it assigns to option C „Kohärenzerhalt (K₁-Sieg)“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L163]. The fourth signature sequence is meant as proof that love as physical order (K₁) beats annihilation (K₀). It recommends as the framing Plot C, „Hybride Spirale“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L198], as „Empfohlener Rahmen“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L198].
 
 ## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — coherence as the assistant's enforced order
 
@@ -362,3 +494,8 @@ At the close, integration lets the word settle on the system's law and on Kael's
 - The master concept takes a side: functional multiplicity is the superior coherence, and correspondence outranks coherence in the directive: „Funktionale Multiplizität ist die überlegene Kohärenz.“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L255]
 - The AEGIS concept file defines Kohärenz as Stabilität, Ordnung and Vorhersagbarkeit within AEGIS's systems (L88) and holds that enforcing it produces the opposite (L111).
 - The project analysis sets Kohärenz against both Kollaps (physics) and Korrespondenz (philosophy) and ends on a new, integrative form of Kohärenz in its act III; it reports its sources and claims no canon.
+- The origin-philosophy analysis reports coherence as the replacement of truth and criticises the resulting rigidity, „Rigide Kohärenz vs. Komplexität/Adaptivität“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L141].
+- The systems-theory analysis reads coherence in place of truth as the only measure of validity inside AEGIS: „macht die interne Widerspruchsfreiheit zum alleinigen Maßstab dessen“ ^[aegis-philosophie-und-systemtheorie.md:L118].
+- The Architektur-des-Kollapses report reads the protocol as a firefighter action and a form of dissociation: „ist eine klassische Feuerwehrmann-Aktion“ ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:L221]
+- The philosophical and systems-theory analysis reads coherence in AEGIS as internal structural consistency replacing truth, bought with operational closure and a risk of solipsism.
+- The exposé takes Kohärenz as a structure-preserving principle and denies that the opposition with Kollaps is a moral one; it defines, it decides nothing.

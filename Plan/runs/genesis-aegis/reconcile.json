@@ -1,0 +1,114 @@
+{
+  "document": "genesis-aegis",
+  "drive_id": "15MxSrt1P9QTju_SCkSnJ_BJ7zD8qkN7eG2Gocxdg_j0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and two record entries (C16, Q7) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-362/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 27,
+    "decisions": 26,
+    "decided_by_lookup": 23,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English first-person narrative of AEGIS's genesis: its new surfaces are Verlöschen, Selbstverstärkung, the Great Realignment and borrowed concepts; what it narrates went on the pages of AEGIS, Genesis, the Überwelt, Komponente 734, the Nichts Rauschen and the Dual Kernel Theory, and the fragment's story on C16 and Q7.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        55,
+        59,
+        65,
+        79
+      ],
+      "attribution": "",
+      "note": "AEGIS's birth narrated from inside"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        15,
+        17
+      ],
+      "attribution": "",
+      "note": "the two kernels as lived experience"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        11,
+        45,
+        51
+      ],
+      "attribution": "",
+      "note": "the title and the Genesis-Krise as a logical war"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        71,
+        75
+      ],
+      "attribution": "",
+      "note": "Component 734 as the narrator's identity and function"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "the Rauschen as the void's pressure"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        79,
+        81,
+        83
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's internal laboratory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Genesis-Krise` read on genesis; `Rauschen` read on nichts-rauschen; `Component 734` read on komponente-734",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "reading",
+      "why": "the manuscript's title and its Genesis-Krise, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "Verlöschen, Selbstverstärkung",
+    "the Great Realignment and the K₁-field",
+    "the borrowed concepts (autopoiesis, Hamartia, coherence and correspondence theories of truth)"
+  ],
+  "internal_tension": "none: an essay",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

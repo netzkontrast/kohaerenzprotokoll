@@ -1,0 +1,50 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag-3",
+  "drive_id": "1xYZqeISFhyezaVuI4hy8zpmiuD8RWUns_Ozvn6jvck8",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document a version of document 322 (Plan/runs/ingest-324/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 38,
+    "decisions": 46,
+    "decided_by_lookup": 27,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Another telling of the Genesis-Krise read as document 322, the same events in seven parts with two first-person passages of the Ursprungs-Ich; nothing a page does not already hold from document 322.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "another version of the Genesis-Krise prose (document 322), light pass: every near match — the Ursprungs-Ich and its echoes, the Entität, the protocol's inflected name, the fragments, the minimal self — is decided as for document 322, and no page is read",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "another version of document 322; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything new to the index, as for document 322"
+  ],
+  "internal_tension": "its bracketed Query Context and Cluster tags are generation leftovers it does not explain",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

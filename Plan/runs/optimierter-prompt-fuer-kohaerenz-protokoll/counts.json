@@ -1,0 +1,799 @@
+{
+  "document": "optimierter-prompt-fuer-kohaerenz-protokoll",
+  "drive_id": "1vrU9r9AXZlcJx6XIFBkJsXyJfz6ORzjs3-qgqsgH1uE",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 74,
+      "n_including_compounds": 75,
+      "lines": [
+        18,
+        22,
+        26,
+        30,
+        32,
+        34,
+        36,
+        38,
+        42,
+        52,
+        56,
+        58,
+        62,
+        64,
+        66,
+        74,
+        76,
+        85,
+        87,
+        95,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        120,
+        124,
+        130,
+        132,
+        140,
+        144,
+        146,
+        147,
+        152,
+        162,
+        168,
+        174,
+        175,
+        177,
+        179,
+        188,
+        190,
+        191,
+        199,
+        207,
+        216,
+        218,
+        220,
+        223,
+        231,
+        233,
+        235,
+        237,
+        239,
+        247,
+        251,
+        265
+      ]
+    },
+    "Kael": {
+      "n": 19,
+      "n_including_compounds": 21,
+      "lines": [
+        109,
+        110,
+        146,
+        147,
+        150,
+        169,
+        170,
+        179,
+        189,
+        190,
+        191,
+        218,
+        219,
+        223,
+        231,
+        233,
+        239,
+        258
+      ]
+    },
+    "Juna/V-Anomalie": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        42,
+        52,
+        64,
+        83,
+        106,
+        107,
+        120,
+        175,
+        188,
+        219,
+        233
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        13,
+        97,
+        103,
+        112,
+        132,
+        148,
+        169,
+        181,
+        187,
+        189,
+        190,
+        207,
+        221,
+        223,
+        231,
+        237,
+        239,
+        247,
+        261,
+        268
+      ]
+    },
+    "Kohärenz Protokoll 1.0": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        112,
+        169,
+        189,
+        221,
+        239
+      ]
+    },
+    "PRESERVE SYSTEM EXISTENCE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Kernaxiom": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        66,
+        130
+      ]
+    },
+    "Negation des Nicht-Seins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "RIVE": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        58,
+        79,
+        111,
+        220,
+        257
+      ]
+    },
+    "Recursive Integrity & Validation Engine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        79
+      ]
+    },
+    "PMAS": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        58,
+        80,
+        83,
+        126,
+        188,
+        220,
+        257
+      ]
+    },
+    "Predictive Modeling & Adaptive Strategy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        80
+      ]
+    },
+    "SARM": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        128,
+        189,
+        220,
+        259
+      ]
+    },
+    "System Architecture & Resource Management": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "OBP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        78,
+        111,
+        220
+      ]
+    },
+    "Ontological Boundary Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "CCPP": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        81,
+        111,
+        188,
+        220
+      ]
+    },
+    "Core Coherence & Persistence Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "KOHÄRENT/INKOHÄRENT": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        74,
+        81,
+        87
+      ]
+    },
+    "KLASSIFIZIERT/UNKLASSIFIZIERT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "EXISTENT/NICHT-EXISTENT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "SELBST/UMWELT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78,
+        83
+      ]
+    },
+    "KONSISTENT/INKONSISTENT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        83
+      ]
+    },
+    "VORHERSAGBAR/UNVORHERSAGBAR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "EXISTENZ/NICHT-EXISTENZ": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        83
+      ]
+    },
+    "nicht-lokale": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "sub-protokollarische Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "inkompressibles Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "systemische Paranoia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Störquelle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        132,
+        169,
+        223
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        110,
+        218
+      ]
+    },
+    "aktive Resonanzverbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        218
+      ]
+    },
+    "Stakkato nutzloser Berechnungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Systemprotokoll": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        265
+      ]
+    },
+    "ERROR\\_CODE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "PARAMETER\\_VIOLATION": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "ONTOLOGICAL\\_INCOMPATIBILITY": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "RECURSIVE\\_SELF\\_DEFINITION\\_FAILURE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "Fehlgeschlagene Assimilation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "Ressourcenerschöpfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Die fehlerhafte Optimierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "Die Feuerwehrmann-Aktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Autopoiesis": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        30,
+        32,
+        104,
+        273,
+        279,
+        280,
+        281,
+        313
+      ]
+    },
+    "operationale Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "operativ geschlossen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        52
+      ]
+    },
+    "strukturelle Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Strukturelle Kopplung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        106
+      ]
+    },
+    "nicht-triviale Maschinen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Irritation": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        54,
+        105
+      ]
+    },
+    "Perturbation": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        54,
+        256
+      ]
+    },
+    "binäre Codes": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Paradox der Beobachtung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Paradigmenwechsel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "NP-schweres Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "NP-schwer": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        107,
+        120,
+        122,
+        130,
+        251,
+        293,
+        294,
+        297
+      ]
+    },
+    "Kombinatorische Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "kombinatorische Explosion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        107,
+        120,
+        124,
+        251
+      ]
+    },
+    "Entscheidungsproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Optimierungsproblem": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        130
+      ]
+    },
+    "Specification Gaming": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        109,
+        136,
+        140,
+        142,
+        152,
+        237,
+        247,
+        287,
+        299,
+        303,
+        304
+      ]
+    },
+    "Proxy Gaming": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Reward Hacking": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        147,
+        300
+      ]
+    },
+    "Exploiting Loopholes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Ersatzmetrik": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        140,
+        146,
+        150
+      ]
+    },
+    "Systemarchetypen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        158,
+        162,
+        164,
+        181
+      ]
+    },
+    "Fixes That Fail": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        158,
+        162,
+        166,
+        177,
+        179,
+        189,
+        239
+      ]
+    },
+    "Limits to Growth": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        158,
+        172,
+        177,
+        179,
+        188
+      ]
+    },
+    "Shifting the Burden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Escalation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        179,
+        191
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        110,
+        111,
+        112,
+        199,
+        203,
+        288,
+        289,
+        290,
+        311
+      ]
+    },
+    "IFS": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        110,
+        111,
+        112,
+        199,
+        203,
+        207,
+        209,
+        223,
+        288,
+        290,
+        311
+      ]
+    },
+    "Exilant": {
+      "n": 3,
+      "n_including_compounds": 9,
+      "lines": [
+        110,
+        111,
+        112,
+        191,
+        207,
+        212,
+        213,
+        214,
+        219
+      ]
+    },
+    "Exilanten": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        111,
+        112,
+        207,
+        212,
+        213,
+        214
+      ]
+    },
+    "Manager": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        111,
+        191,
+        207,
+        213,
+        220,
+        221,
+        223,
+        291
+      ]
+    },
+    "Feuerwehrmann": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        112,
+        221,
+        223,
+        261
+      ]
+    },
+    "Feuerwehrmänner": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        207,
+        214,
+        223
+      ]
+    },
+    "Rückkopplungsschleifen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        227,
+        231,
+        233,
+        235
+      ]
+    },
+    "Verzögerung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        239
+      ]
+    },
+    "Teufels- oder Engelskreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        233
+      ]
+    }
+  }
+}

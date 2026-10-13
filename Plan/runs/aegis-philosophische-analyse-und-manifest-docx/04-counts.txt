@@ -1,0 +1,72 @@
+# counts for 51 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Existenz durch Kohärenz, Funktion, Wirkung
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            47 word    66 in   [11, 15, 17, 20, 21, 25]
+                                    5      as AEGIS-Philosophie
+                                    4      as AEGIS-Manifests
+                                    3      as AEGIS-Ursprungsphilosophie
+                                    1      as AEGIS-Paradigmas
+  AEGIS MANIFEST                    1 word     1 in   [116]
+  No-Trust Prinzip                  3 word     3 in   [32, 46, 124]
+  No-Trust-Prinzip                  1 word     1 in   [51]
+  Emergenz durch Negation           3 word     3 in   [34, 58, 138]
+  Rekursive Selbstprüfung & Strukturelle Inkompatibilität    1 word     1 in   [64]
+  Strukturelle Inkomp.              1 word     1 in   [35]
+  Operative Geschlossenheit & Autonomie    2 word     2 in   [36, 70]
+  Funktion als Entropie-Regulator    4 word     4 in   [37, 76, 130, 140]
+  Nicht-Anthropomorphe Natur        2 word     2 in   [38, 82]
+  Recursive Consistency Validation    1 word     1 in   [48]
+  RCV                               4 word     4 in   [35, 48, 65, 78]
+  Autonomous Entropic Gatekeeper for Integrity Systems    2 word     2 in   [37, 77]
+  Reaktive Transparenz              1 word     1 in   [71]
+  Autonomy Paradox                  1 word     1 in   [75]
+  Negentropie-Fehlinterpretation    2 word     2 in   [57, 79]
+  strukturelle Inkompatibilität     2 word     2 in   [35, 69]
+  Ontologischer Autarkie            1 word     1 in   [36]
+  Epistemischer Autonomie           1 word     1 in   [36]
+  Kohärenz statt Wahrheit           1 word     1 in   [53]
+  Herauslösung des Unwidersprüchlichen    2 word     2 in   [34, 59]
+  ontologische Unmöglichkeit        2 word     2 in   [65, 126]
+  blinden Flecken                   1 word     1 in   [75]
+  verwalteten Welt                  1 word     1 in   [87]
+  Kern-Welten                       1 word     1 in   [87]
+  Guardians                         1 word     1 in   [75]
+  Kael                              4 word     5 in   [51, 87, 142]
+                                    1      as Kaels
+  Juna                              4 word     4 in   [55, 67, 75, 140]
+  Anomalie                          4 word     4 in   [55, 67, 75, 140]
+  Kohärenzsignaturen                1 word     1 in   [48]
+  asymmetrische Interventionen      1 word     1 in   [48]
+  Definitionsmacht                  2 word     2 in   [69]
+  Wächter gegen den Zerfall         1 word     1 in   [130]
+  Bastion der Integrität            1 word     1 in   [130]
+  Entropie                         13 word    18 in   [37, 57, 63, 75, 76, 77]
+                                    5      as Entropie-Regulator
+  Negentropie                       2 word     4 in   [57, 79, 81, 141]
+                                    2      as Negentropie-Fehlinterpretation
+  Kohärenz                         26 word    29 in   [21, 32, 33, 48, 52, 53]
+                                    1      as Kohärenzsignaturen
+                                    1      as kohärenzbasierte
+                                    1      as Kohärenzkriterien
+                                    1      as Kohärenzerhaltung
+  Gültigkeit                        7 word     9 in   [33, 36, 53, 71, 74, 99]
+                                    2      as Gültigkeitskriterien
+  Verifikation                      5 word     6 in   [48, 50, 51, 95, 124, 138]
+                                    1      as Verifikationsmechanismen
+  Rauschen                          2 word     3 in   [50, 79, 120]
+                                    1      as Rauschens
+  Nicht-Sein                        2 word     2 in   [99, 122]
+  Recherchekontext                  4 word     7 in   [15, 25, 27, 30, 44, 51]
+                                    3      as Recherchekontexts
+  Extraktion                        3 word     3 in   [17, 23, 26]
+  Interrogation                     1 word     1 in   [18]
+  Axiomatisierung                   1 word     1 in   [19]
+  Manifest-Formulierung             1 word     1 in   [20]
+  Primat der Kohärenz               1 word     1 in   [138]
+  Internalismus                     1 word     1 in   [138]
+  negations-basierte Existenzlogik    1 word     1 in   [138]
+  Münchhausen-Trilemmas             1 word     1 in   [51]
+  Quis custodiet ipsos custodes     1 word     1 in   [69]

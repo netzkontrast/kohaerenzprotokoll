@@ -1,0 +1,28 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      40
+  typographic marks      14
+  ascii quotes           58
+
+# inflection families -- one term, several surfaces
+  contr    Contradictory, Control
+  exper    Experience, Experiential
+  fragm    Fragmentation, Fragmented
+  guard    Guardian, Guardians
+  integ    Integrated, Integration
+  inter    Interaction, Internal
+  narra    Narrative, Narrator
+  perfo    Perform, Performing
+  persp    Perspective, Perspectives
+  shift    Shift, Shifting
+  techn    Technical, Techniques
+
+# substring pairs -- never one term, often merged by accident
+  Meta < Metafictional
+  Logic < Epistemological
+  Shift < Shifting
+  Person < Impersonal
+  Perform < Performing
+  Guardian < Guardians
+  Perspective < Perspectives

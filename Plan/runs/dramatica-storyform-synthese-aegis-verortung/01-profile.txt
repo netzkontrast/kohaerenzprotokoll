@@ -1,0 +1,14 @@
+# dramatica-storyform-synthese-aegis-verortung
+  lines                227  (frontmatter ends at 9)
+  body words           5608
+  headings             24   bold-only lines 0
+  table rows           18   code fences 0
+  question marks       1
+  backslash escapes    76
+  typographic marks    77   ascii quotes 56
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    20
+  repeated labels      none
+  longest line         1335 chars
+

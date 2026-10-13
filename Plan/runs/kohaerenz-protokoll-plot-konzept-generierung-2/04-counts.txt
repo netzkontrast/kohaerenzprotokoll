@@ -1,0 +1,110 @@
+# counts for 75 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Potentialmeer                    11 word    13 in   [17, 26, 71, 90, 146, 156]
+                                    2      as Potentialmeers
+  AEGIS                           106 word   108 in   [17, 26, 27, 28, 29, 30]
+                                    1      as AEGIS-Protokoll
+                                    1      as AEGIS-Ebene
+  Monstergruppe (M)                 4 word     4 in   [17, 28, 40, 71]
+  Monstergruppe                     7 word     7 in   [17, 28, 40, 71, 100, 102]
+  Baby-Monster-Gruppen              3 word     3 in   [17, 29, 100]
+  Baby-Monster-Gruppe               4 word     7 in   [17, 29, 40, 44, 49, 61]
+                                    3      as Baby-Monster-Gruppen
+  Kael                             52 word    79 in   [17, 28, 29, 34, 36, 40]
+                                   24      as Kaels
+                                    1      as Kael-Juna
+                                    1      as Kael-Simulation
+                                    1      as Kael-Alters
+  Juna                             32 word    37 in   [17, 29, 49, 50, 59, 61]
+                                    3      as Junas
+                                    1      as Juna-Anomalie
+  Kael-Juna (K-J) Verbindung        1 word     1 in   [17]
+  K-J Verbindung                   35 word    35 in   [17, 28, 30, 33, 49, 50]
+  Emergenter Moonshine              6 word     6 in   [30, 50, 79, 108, 135, 164]
+  Moonshine                        19 word    27 in   [17, 19, 28, 30, 31, 50]
+                                    2      as Moonshine-Echo
+                                    1      as Moonshine-Emergenz
+                                    1      as Moonshine-Phänomens
+                                    1      as Moonshine-Phänomen
+  Kernwelten                       27 word    29 in   [17, 31, 42, 48, 52, 58]
+                                    1      as Kernwelten-Szenarien
+                                    1      as Kernwelten-Dynamik
+  Kernwelt                          3 word    32 in   [17, 31, 42, 48, 52, 58]  <-- substring
+                                   27      as Kernwelten
+                                    1      as Kernwelten-Szenarien
+                                    1      as Kernwelten-Dynamik
+  KW1                               3 word     3 in   [48, 129, 144]
+  KW2                               2 word     2 in   [48, 129]
+  KW3                               1 word     1 in   [144]
+  Kernwelten Substrat               1 word     1 in   [31]
+  Parakonsistente Logik             1 word     1 in   [32]
+  parakonsistenter Logik            3 word     3 in   [71, 81, 156]
+  Emergenz                         10 word    11 in   [19, 31, 33, 50, 73, 83]
+  IFS/DID Analogie                  1 word     1 in   [34]
+  Alters                           15 word    16 in   [29, 34, 40, 42, 44, 48]
+  Parts                             6 word     6 in   [34, 42, 48, 190]
+  Manager                           2 word     3 in   [34, 42, 48]
+  Firefighter                       2 word     2 in   [34, 42]
+  Exiles                            3 word     3 in   [34, 42, 190]
+  Selbst                            4 word    16 in   [27, 33, 42, 48, 49, 54]  <-- substring
+                                    4      as Selbstführung
+                                    3      as Selbsterhaltung
+                                    1      as Selbsterhalt
+                                    1      as Selbstwiderspruch
+  Selbstführung                     4 word     4 in   [54, 60, 61, 156]
+  Unburdening                      12 word    13 in   [34, 40, 42, 44, 156, 171]
+                                    1      as Unburdenings
+                                    1      as unburdening-our-parts
+                                    1      as unburdening-exiles
+  Simplicity                        3 word     3 in   [28, 44, 156]
+  Complexity                        3 word     4 in   [28, 156, 190]
+                                    1      as ComplexityEmergenceComplexSystems
+  Sporadicity                       1 word     1 in   [28]
+  Sporadizität                      2 word     2 in   [158, 179]
+  Internal Structure                2 word     2 in   [28, 127]
+  Existenz durch Negation           2 word     2 in   [27, 69]
+  Existenz-durch-Negation           4 word     4 in   [89, 139, 154, 166]
+  Logischer Beschützer              1 word     1 in   [129]
+  Emotionalen Exile                 1 word     1 in   [129]
+  Logik-Manager                     1 word     1 in   [48]
+  Emotions-Exile                    1 word     1 in   [48]
+  Weltenbluten                      1 word     2 in   [121, 135]
+                                    1      as Weltenblutens
+  Blutungsereignis                  1 word     1 in   [143]
+  Weltenblutungen                   1 word     1 in   [144]
+  Glitches                          2 word     2 in   [59, 127]
+  Hard Resets                       1 word     1 in   [137]
+  Pocket-Realität                   1 word     1 in   [179]
+  Nexuspunkt                        1 word     1 in   [172]
+  Fragmentierungsprotokoll          0 word     1 in   [52]
+                                    1      as Fragmentierungsprotokolls
+  Hauptmoduln                       2 word     2 in   [102, 190]
+  Das Integrationsgambit            1 word     1 in   [36]
+  Das Paradox der Kontrolle         1 word     1 in   [65]
+  Das Moonshine-Echo                1 word     1 in   [94]
+  Das Weltenbluten                  1 word     1 in   [121]
+  Transzendenz des Protokolls       1 word     1 in   [150]
+  Transzendenz                      7 word     7 in   [150, 158, 166, 177, 182, 186]
+  Transformation                    8 word     8 in   [61, 81, 90, 150, 156, 162]
+  Neue Realität                     1 word     1 in   [179]
+  Gegenseitige Vernichtung          1 word     1 in   [180]
+  Gegenagenten                      1 word     1 in   [88]
+  NZT-Ideal                         1 word     2 in   [15, 186]
+                                    1      as NZT-Ideal-Stil
+  Dissoziative Identitätsstörung    1 word     1 in   [40]
+  DID                               4 word     4 in   [19, 29, 34, 40]
+  Internal Family Systems           6 word     6 in   [40, 190]
+  IFS                               9 word    16 in   [19, 34, 40, 42, 59, 63]
+  Self-Leadership                   1 word     1 in   [34]
+  Monstrous Moonshine-Phänomens     1 word     1 in   [100]
+  Vertex Operator Algebren          1 word     1 in   [100]
+  VOA                               8 word    13 in   [19, 30, 31, 79, 98, 100]
+  Conformal Field Theory            2 word     2 in   [100, 190]
+  CFT                               5 word    13 in   [19, 30, 31, 79, 98, 100]  <-- substring
+  Gruppentheorie                    3 word     3 in   [19, 100, 156]
+  Reduktionismus                    2 word     2 in   [19, 52]
+  Holismus                          2 word     2 in   [19, 73]
+  Skaleninvarianz                   1 word     1 in   [127]

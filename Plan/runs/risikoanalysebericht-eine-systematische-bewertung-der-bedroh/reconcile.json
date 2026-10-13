@@ -1,0 +1,97 @@
+{
+  "document": "risikoanalysebericht-eine-systematische-bewertung-der-bedroh",
+  "drive_id": "1BT0nrQwhghG6GufU-cWFZE--uB07FisaOdc3g5XZ7Tw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; thinkers' names in the census and note prose reworded by the coordinator (05-verify.txt); rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-367/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 44,
+    "decisions": 47,
+    "decided_by_lookup": 37,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German philosophical risk report on scientific objectivity: its new surfaces are borrowed epistemological and methodological concepts; what it says of AEGIS as its case study, of Entropie, the Risse and the Trennungsprotokoll went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        50,
+        73,
+        77,
+        81,
+        85
+      ],
+      "attribution": "",
+      "note": "AEGIS as the case study of a philosophical risk report"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        23,
+        77
+      ],
+      "attribution": "",
+      "note": "Entropie as the paradigm's destroyed contradiction"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "the Risse as correspondence breaking in on coherence"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "the Trennungsprotokoll as logical self-mutilation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS-Protokoll`, `AEGIS-System` and `AEGIS-Paradigma` read on aegis; `Genesis-Krise`/`Genesis Crisis` read on aegis as its trauma; `Kohärenz Protokolls` the novel's title; `Kohärenztheorie der Wahrheit` a borrowed concept",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 85,
+      "decision": "occurrence",
+      "why": "inside Genesis-Krise, read on aegis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 50,
+      "decision": "occurrence",
+      "why": "coherence in the general sense against correspondence"
+    }
+  ],
+  "not_promoted": [
+    "Bedrohungsvektor, Isolationseinwand, Blick von Nirgendwo and erkenntnistheoretischer Schock as labels",
+    "the borrowed concepts (theories of truth, cognitive biases, measurement and reproducibility, theory-ladenness, paradigms, incommensurability, phenomena and noumena, power/knowledge, the incompleteness theorems, standpoint theory, strong objectivity)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

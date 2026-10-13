@@ -1,0 +1,42 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      10
+  backslash escapes      28
+  typographic marks      26
+  ascii quotes           172
+
+# inflection families -- one term, several surfaces
+  confr    Confrontation, Confronting
+  crack    Crack, Cracks
+  creat    Create, Creature
+  descr    Describe, Description
+  detai    Detail, Details
+  final    Final, Finally
+  gödel    Gödel, Gödelian
+  logic    Logic, Logical
+  manif    Manifest, Manifestations
+  narra    Narrate, Narrative
+  parad    Paradox, Paradoxon
+  parai    Paraiya, Paraiyas
+  proto    Protocol, Protokoll
+  reson    Resonance, Resonanzkaskade
+  strat    Strategic, Strategy
+  subje    Subjectivity, Subjektivität
+  syste    System, Systemic
+
+# substring pairs -- never one term, often merged by accident
+  Crack < Cracks
+  Final < Finally
+  Gödel < Gödelian
+  Logic < Logical
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Epistemological
+  Detail < Details
+  System < Systemic
+  Logical < Ontological
+  Logical < Psychological
+  Logical < Epistemological
+  Paradox < Paradoxon
+  Paraiya < Paraiyas
+  Manifest < Manifestations

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      42
+  backslash escapes      87
+  typographic marks      8
+  ascii quotes           110
+
+# inflection families -- one term, several surfaces
+  wisse    Wissen, Wissens, Wissensagenten, Wissensaneignung, Wissensanker, Wissensaustausch, Wissensbasen, Wissensbasis, Wissensbestände, Wissenseinheit, Wissenseinheiten, Wissenserwerbsmethodik, Wissensfeld, Wissensgraphen, Wissensnetzwerk, Wissensschaffung, Wissensspeicher, Wissenssystemen, Wissensverarbeitungsaufgabe
+  analy    Analyse, Analyseaufgabe, Analyseleistung, Analysemethode, Analysemethoden, Analyseprozesses, Analysiere, Analysiert, Analytic, Analyzer
+  konte    Kontext, Kontextamnesie, Kontexte, Kontextfenster, Kontextfenstern, Kontextfensterproblem, Kontextfensters, Kontextproblem, Kontexts
+  forsc    Forschern, Forschung, Forschungs, Forschungsansätzen, Forschungsfeld, Forschungsfrage, Forschungsrichtungen
+  infor    Information, Informationen, Informations, Informationsaufnahme, Informationskontext, Informationsschnipsel, Informationsverarbeitung
+  gener    Generated, Generation, Generator, Generiere, Generierung, Generierungs
+  archi    Architekten, Architektur, Architekturebenen, Architekturplan, Archivar
+  inter    Interaktion, Interaktionen, Interne, Interpretation, Intervention
+  model    Model, Modell, Modellen, Modells, Models
+  syste    System, Systemanweisung, Systeme, Systemen, Systems
+  agent    Agent, Agenten, Agentic, Agents
+  einze    Einzelfall, Einzelinformationen, Einzelnotizen, Einzelteile
+  entwi    Entwicklung, Entwicklungen, Entwicklungsmöglichkeiten, Entwicklungspfaden
+  inhal    Inhalt, Inhalte, Inhaltsverzeichnis, Inhaltsverzeichnisse
+  navig    Navigation, Navigations, Navigationspfade, Navigationsregeln
+  promp    Prompt, Prompting, Promptings, Prompts
+  proto    Protocol, Protokoll, Protokolldateien, Protokolls
+  selbs    Selbst, Selbstoptimierung, Selbstreflexion, Selbstverbesserung
+  zusam    Zusammen, Zusammenfassend, Zusammenfassung, Zusammenhänge
+  abstr    Abstract, Abstraktion, Abstraktionsebenen
+  besch    Beschleunigung, Beschreibung, Beschränkung
+  daten    Daten, Datenbank, Datenmodalitäten
+  denkp    Denkprozess, Denkprozesse, Denkprozesses
+  diese    Diese, Dieser, Dieses
+  ergeb    Ergebnis, Ergebnisse, Ergebnissen
+
+# substring pairs -- never one term, often merged by accident
+  Denk < Denken
+  Denk < Denkens
+  Denk < Denkfehler
+  Denk < Denkprozess
+  Denk < Denkprozesse
+  Denk < Denkprozesses
+  Denk < Denkstrategien
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Meilensteinen
+  Eine < Verfeinerungen
+  Erst < Erstens
+  Erst < Erstellung
+  Erst < Verständnis
+  Erst < Verständnisses
+  Erst < Sprachverständnis
+  Form < Formale
+  Form < Transform
+  Form < Formuliere

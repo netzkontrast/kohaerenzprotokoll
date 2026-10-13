@@ -1,0 +1,426 @@
+{
+  "document": "arbeitshilfe-kohaerenz-protokoll-kapitel-2",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 63,
+  "decisions": 64,
+  "same_surface": {},
+  "decided_mechanically": 53,
+  "needs_judgement": 11,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 223
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 164
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 219
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 137
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 65
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 125
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 64
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "Übergangsraum"
+      },
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Praetor"
+      },
+      {
+        "candidate": "Alter-Dynamik"
+      },
+      {
+        "candidate": "Alter-Einfluss"
+      },
+      {
+        "candidate": "Host-Anteil"
+      },
+      {
+        "candidate": "Beat 1.X"
+      },
+      {
+        "candidate": "Beat 1.Y"
+      },
+      {
+        "candidate": "Beat 1.Z"
+      },
+      {
+        "candidate": "Datensturm"
+      },
+      {
+        "candidate": "Arbeitshilfe"
+      },
+      {
+        "candidate": "Plot-Blueprint Step"
+      },
+      {
+        "candidate": "Sensorische Palette"
+      },
+      {
+        "candidate": "Kerninformation"
+      },
+      {
+        "candidate": "Psychologischer Zustand"
+      },
+      {
+        "candidate": "EST Fokus"
+      },
+      {
+        "candidate": "Narrative Technik Fokus"
+      },
+      {
+        "candidate": "Psychologischer Spiegel"
+      },
+      {
+        "candidate": "Narrative Brücke"
+      },
+      {
+        "candidate": "Set Dressing"
+      },
+      {
+        "candidate": "Räumliches Design"
+      },
+      {
+        "candidate": "Landmarken"
+      },
+      {
+        "candidate": "Implizierte Narrative"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "EST"
+      },
+      {
+        "candidate": "Resist the Urge to Explain"
+      },
+      {
+        "candidate": "Security Blankets"
+      },
+      {
+        "candidate": "Dissoziativer Identitätsstörung"
+      },
+      {
+        "candidate": "Derealisation"
+      },
+      {
+        "candidate": "Dissoziative Amnesie"
+      },
+      {
+        "candidate": "Numbness"
+      },
+      {
+        "candidate": "Intrusionen"
+      },
+      {
+        "candidate": "passiven Einfluss"
+      },
+      {
+        "candidate": "Passiver Einfluss"
+      },
+      {
+        "candidate": "Switching"
+      },
+      {
+        "candidate": "Ko-Bewusstheit"
+      },
+      {
+        "candidate": "Co-Consciousness"
+      },
+      {
+        "candidate": "phobische Vermeidung"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "Betwixt and Between"
+      },
+      {
+        "candidate": "Victor Turner"
+      },
+      {
+        "candidate": "Neophyten"
+      },
+      {
+        "candidate": "Zeitwahrnehmungsstörungen"
+      },
+      {
+        "candidate": "unzuverlässigen Erzähler"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Limina  /  Liminale Charakteristika",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Limina  /  Liminalität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Echo/Silas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Silas  /  Echo/Silas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt 1 (KW1)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo/Silas",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "silas",
+            "page": "silas"
+          }
+        ]
+      },
+      {
+        "candidate": "Kollaps",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kollapskernel",
+            "page": "kollaps-kernel"
+          },
+          {
+            "surface": "kollapskernelk0",
+            "page": "kollaps-kernel"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragmentierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 107,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 47,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

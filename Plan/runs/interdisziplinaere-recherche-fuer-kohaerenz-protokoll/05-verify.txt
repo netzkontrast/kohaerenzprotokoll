@@ -1,0 +1,145 @@
+$ read.py --count "Phase"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            24
+
+`Phase` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#18]
+$ read.py --count "Zyklus"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Zyklus` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#4]
+$ read.py --count "Kerndefinition & Prinzipien"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kerndefinition & Prinzipien` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#7]
+$ read.py --count "Schlüsselmechanismen & Dynamik"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Schlüsselmechanismen & Dynamik` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#7]
+$ read.py --count "Implikationen & Verbindungen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Implikationen & Verbindungen` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#7]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#0]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#0]
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#1]
+$ read.py --count "abstrahierte Kernkonzept"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`abstrahierte Kernkonzept` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#6]
+$ read.py --count "Entität"
+whole word, case-sensitive     95
+whole word, case-insensitive   95
+including compounds            100
+
+`Entität` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#95]
+$ read.py --count "Risse"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            34
+
+`Risse` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#29]
+$ read.py --count "Äußere"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            20
+
+`Äußere` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#9]
+$ read.py --count "Äußeren"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Äußeren` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#6]
+$ read.py --count "Äußeres"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Äußeres` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#5]
+$ read.py --count "Protagonist"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            46
+
+`Protagonist` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#14]
+$ read.py --count "Protagonisten"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            32
+
+`Protagonisten` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#31]
+$ read.py --count "Kernspannung"
+whole word, case-sensitive     27
+whole word, case-insensitive   27
+including compounds            27
+
+`Kernspannung` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#27]
+$ read.py --count "Autopoiesis"
+whole word, case-sensitive     35
+whole word, case-insensitive   37
+including compounds            36
+
+`Autopoiesis` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#35]
+$ read.py --count "OSR"
+whole word, case-sensitive     35
+whole word, case-insensitive   35
+including compounds            49
+
+`OSR` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#35]
+$ read.py --count "CAS"
+whole word, case-sensitive     30
+whole word, case-insensitive   30
+including compounds            32
+
+`CAS` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#30]
+$ read.py --count "DID"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            24
+
+`DID` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#19]
+$ read.py --count "LoA"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            27
+
+`LoA` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#17]
+$ read.py --count "Emergent Engineering"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Emergent Engineering` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#2]
+$ read.py --count "Emergentes Engineering"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Emergentes Engineering` ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:#2]
+stance_marker_count 21 = 7+7+7

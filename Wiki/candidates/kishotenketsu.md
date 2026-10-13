@@ -2,10 +2,10 @@
 term: Kishōtenketsu
 status: reviewed
 reviewed: 2026-10-08
-sources: 24
-readings: 24
+sources: 28
+readings: 28
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "kohaerenz-protokoll-duale-dramatica-storyform-synthese"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-analyse-und-synthese", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "bewerte-kishotenketsu-als-zentrales-narrativ"]
 gathered: "2026-09-25"
 ---
 
@@ -190,3 +190,25 @@ and the glossary. The plot overview has the mapping per source.
   it, and whether that difference matters once the text decides neither.
 
 Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents. *Re-measured 2026-10-08:* every one of the 24 documents above now has a census, a note and a reconciliation in `Wiki/compare/`; the note this replaced said the scanned ones had none yet, which was true on 2026-09-25. Seven landed documents that name the term are unread, three of them often: `roman-konzeptentwicklung-kohaerenz-protokoll` (15 times), `romanstruktur-3-teile-39-kapitel-1-anfang` (11) and `bewerte-kishotenketsu-als-zentrales-narrativ` (8, the term its subject); once each `blueprint`, `global-research-for-kohaerenz-protokoll`, `kohaerenz-protokoll-analyse-und-synthese` and `the-juna-vector-an-ontological-and-narrative-analysis-for-ko` (counted as `promote.py sheet` counts: whole words, the macron folded, so `Kishotenketsu` counts too).
+
+## Since review — read after the author's review of 2026-10-08, not yet reviewed
+
+## Reading — `kohaerenz-protokoll-analyse-und-synthese`, 2025-07-29, the unsigned analysis and synthesis — the essay's application table for Kishōtenketsu
+
+The essay sets the three-act structure against the Kishōtenketsu structure in a table and applies each part to the novel. For Ten it writes: „Die Juna/V-Verbindung wird zu einem aktiven, spürbaren Einfluss, der die Regeln des Systems bricht.“ ^[kohaerenz-protokoll-analyse-und-synthese.md:L337]
+
+## Reading — `blueprint`, 2025-07-29, the blueprint — recommended as the central supporting frame
+
+The blueprint recommends Kishōtenketsu in its section on techniques: „Diese nicht-lineare Erzählstruktur wird als zentrales, tragendes Gerüst des Romans empfohlen“ ^[blueprint.md:L83]. It lists the Dramatica throughlines in the next point (L84) and gives no account of how the two frames relate.
+
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — Kishōtenketsu beside Dramatica and the three parts
+
+The master synthesis combines the two: the outline „wird durch eine hybride Strukturierungsmethode getragen“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L59]. It states „Kishōtenketsu dekonstruiert die Notwendigkeit von eskalierendem Konflikt“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L61] and tabulates Ki, Shō, Ten and Ketsu against the Dramatica throughlines and the three parts; Ketsu ends with „Die Dissonanz wird nicht besiegt, sondern als“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L69] integrated. Its self-check names a friction: „Die Kishōtenketsu-Struktur verzichtet auf einen zentralen, antagonistischen Konflikt, der in einer finalen Schlacht gipfelt“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L135]. A plan.
+
+## Reading — `bewerte-kishotenketsu-als-zentrales-narrativ`, 2025-07-29, the Kishōtenketsu evaluation — the form recommended as the novel's central frame
+
+The Kishōtenketsu evaluation calls the form „thematisch und philosophisch ideale Erzählstruktur“ ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:L15] for the novel. It describes it as „eine aus der klassischen chinesischen und japanischen Dichtung stammende Vier-Akt-Struktur“ ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:L19] and says: „Sie erzeugt Spannung nicht durch Konfrontation“ ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:L19]. Its closing section names the application of the form to the novel „eine strukturelle Notwendigkeit“ ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:L83] (the evaluation's own claim of standing, recorded here, not applied), and recommends: „Meine definitive Empfehlung lautet, Kishōtenketsu als das zentrale, tragende Gerüst des Romans zu adoptieren“ ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:L85]. The mapping of the four acts onto the plot is the evaluation's own reading, not a record of the novel.
+
+*Where it differs:*
+
+- The Kishōtenketsu evaluation recommends the form as the central frame: „Meine definitive Empfehlung lautet, Kishōtenketsu als das zentrale, tragende Gerüst des Romans zu adoptieren“ ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:L85]

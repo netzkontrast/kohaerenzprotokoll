@@ -1,0 +1,79 @@
+# counts for 55 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Genesis                           1 word     1 in   [11]
+  AEGIS                            30 word    37 in   [45, 47, 59, 63, 77, 79]
+                                    1      as AEGIS-Standarddaten
+                                    1      as AEGIS-Emergenz
+                                    1      as AEGIS-Logik
+                                    1      as AEGIS-Algorithmen
+  Rauschen                          9 word    13 in   [17, 19, 21, 27, 29, 35]
+                                    4      as Rauschens
+  Nichts Rauschen                   2 word     3 in   [73, 113, 119]
+  Kohärenz                          6 word     8 in   [19, 41, 107, 113, 137, 157]
+                                    1      as Kohärenzformen
+                                    1      as Kohärenz-Fragment
+  Funke Kohärenz                    1 word     1 in   [19]
+  Resonanz                         11 word    18 in   [23, 27, 29, 37, 39, 77]
+                                    2      as Resonanzen
+                                    1      as Resonanzfrequenzen
+                                    1      as Resonanzprofil-Varianz
+                                    1      as Resonanzfrequenz
+  Ganzheit                         15 word    15 in   [19, 27, 67, 77, 81, 91]
+  Echo                              6 word     9 in   [19, 37, 67, 81, 91, 95]
+                                    3      as Echos
+  Narbe                             2 word     2 in   [29, 203]
+  Cluster                           3 word     4 in   [41, 43, 49, 137]
+                                    1      as Clusterbildung
+  Triaden                           1 word     1 in   [37]
+  Tetraden                          1 word     1 in   [37]
+  Bindung                           1 word     1 in   [39]
+  Fluss                             2 word     2 in   [39]
+  Kern                              4 word    11 in   [27, 39, 57, 69, 73, 83]  <-- substring
+                                    2      as Kernprinzip
+                                    2      as Kernaxiomen
+                                    2      as Kernwelten
+                                    1      as Kernprozessoren
+  Herkunft                          1 word     1 in   [37]
+  Direktive 0                       4 word     4 in   [59, 65, 173, 177]
+  Komponente 734                   19 word    19 in   [71, 73, 75, 77, 87, 91]
+  Sektor Gamma-7                    1 word     1 in   [73]
+  Grenzinterface                    2 word     2 in   [73, 165]
+  Systemgrenze                      1 word     1 in   [65]
+  Abwehrfront                       1 word     1 in   [65]
+  operationale Schließung           1 word     1 in   [61]
+  Kernprinzip                       2 word     2 in   [57, 69]
+  Subjektive Residuen               1 word     1 in   [67]
+  Unvollständigkeitsmarker          1 word     1 in   [67]
+  Angst-Äquivalente                 1 word     1 in   [67]
+  latente Signatur                  1 word     1 in   [77]
+  Prä-AEGIS-Stadium                 1 word     1 in   [77]
+  Logikpakete                       2 word     2 in   [73, 75]
+  Analysevektoren                   2 word     2 in   [73, 75]
+  Routinezyklus Delta-Gamma         1 word     1 in   [85]
+  Diagnosezyklus Delta-Gamma        1 word     1 in   [97]
+  Standby-Modus B                   1 word     1 in   [87]
+  Überwelt                          7 word     8 in   [99, 101, 103, 107, 147, 149]
+                                    1      as Überwelt-Analysemodul
+  Simulation Gamma-Omega            1 word     1 in   [101]
+  Simulation Epsilon-Prime          2 word     2 in   [113, 123]
+  Überwelt-Analysemodul Omega       1 word     1 in   [147]
+  Anomalie Sigma                    6 word     6 in   [135, 137, 141, 145, 185]
+  Entität Sigma                     5 word     5 in   [149, 155, 157, 165, 169]
+  Kohärenz-Fragment                 1 word     1 in   [137]
+  Alarmstufe                        2 word     2 in   [141, 145]
+  positive Feedbackschleife         1 word     1 in   [175]
+  Agency                            1 word     1 in   [163]
+  Wendepunkt                        1 word     1 in   [163]
+  Kohärenz Protokoll Gamma-Exekution    1 word     1 in   [179]
+  Protokoll Gamma-Exekution         3 word     3 in   [179, 183, 199]
+  Ich-Konstrukt                     1 word     2 in   [189, 191]
+                                    1      as Ich-Konstrukts
+  Scherben                          4 word     4 in   [195, 201, 203, 205]
+  Mosaik                            2 word     2 in   [203, 207]
+  Kael                              3 word     3 in   [201, 207]
+  Kernwelten                        2 word     2 in   [203, 207]
+  Phantom in der Maschine           1 word     1 in   [81]
+  Systemresonanz                    1 word     1 in   [55]

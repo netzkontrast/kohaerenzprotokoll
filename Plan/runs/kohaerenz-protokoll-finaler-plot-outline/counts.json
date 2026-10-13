@@ -1,0 +1,496 @@
+{
+  "document": "kohaerenz-protokoll-finaler-plot-outline",
+  "drive_id": "1g9StvzkprSHuN7YC4MqQdg5wk1xRzooJogWLkddkkfk",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 22,
+      "n_including_compounds": 39,
+      "lines": [
+        18,
+        22,
+        30,
+        32,
+        34,
+        35,
+        36,
+        38,
+        50,
+        52,
+        64,
+        66,
+        72,
+        83,
+        91,
+        93,
+        95,
+        97,
+        105,
+        107,
+        119,
+        121,
+        137,
+        141,
+        162,
+        178,
+        180,
+        190,
+        198
+      ]
+    },
+    "AEGIS": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        34,
+        50,
+        73,
+        83,
+        95,
+        97,
+        108,
+        119,
+        125,
+        129,
+        137,
+        139,
+        151,
+        160,
+        162,
+        178,
+        180,
+        190
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        64,
+        180
+      ]
+    },
+    "Juna": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        52,
+        54,
+        64,
+        178,
+        180
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Fragments 'O'": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        18,
+        22,
+        26,
+        30
+      ]
+    },
+    "'O'": {
+      "n": 23,
+      "n_including_compounds": 26,
+      "lines": [
+        18,
+        22,
+        26,
+        30,
+        32,
+        34,
+        35,
+        36,
+        38,
+        50,
+        52,
+        62,
+        64,
+        66,
+        72,
+        75,
+        121
+      ]
+    },
+    "Anderen Fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Der Integrierte Andere": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        73
+      ]
+    },
+    "Der anders Fragmentierte Andere": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        74
+      ]
+    },
+    "Der unbewusste Andere": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        75
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "prehensiven Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        151
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Guardian": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        153,
+        157,
+        158
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        50,
+        93,
+        108
+      ]
+    },
+    "Potentialmeers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        93
+      ]
+    },
+    "Gärtner": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        50,
+        66,
+        75,
+        79,
+        83,
+        87,
+        101,
+        105
+      ]
+    },
+    "Das Gärtner-Axiom": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Naturschutzgebieten des Chaos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "logischen Samen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Garten der Möglichkeiten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "ineffiziente Schönheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        147,
+        160
+      ]
+    },
+    "algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Kael-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "liebevollen Vernetztheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        119
+      ]
+    },
+    "fürsorglicher Tyrannei": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "rhizomatisches Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Fundament": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        64,
+        93,
+        180
+      ]
+    },
+    "Gnosis": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        54,
+        133,
+        162
+      ]
+    },
+    "Episteme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        190
+      ]
+    },
+    "Qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Randbedingungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Perverse Instantiation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Abschlussprüfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Das Protokoll des Lesers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "offenen Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Found Footage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Glossar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Epilogen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Meta-Physiker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Mit-Schöpfer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "parakonsistenten Logik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        129,
+        139,
+        153
+      ]
+    },
+    "schwachen Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        218,
+        219
+      ]
+    },
+    "Alterität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Apotheose": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        18,
+        44
+      ]
+    },
+    "Proof-of-Concept": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    }
+  }
+}

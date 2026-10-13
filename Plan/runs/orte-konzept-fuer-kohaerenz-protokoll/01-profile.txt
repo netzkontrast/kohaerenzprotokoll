@@ -1,0 +1,14 @@
+# orte-konzept-fuer-kohaerenz-protokoll
+  lines                691  (frontmatter ends at 9)
+  body words           15664
+  headings             2   bold-only lines 4
+  table rows           54   code fences 0
+  question marks       69
+  backslash escapes    80
+  typographic marks    40   ascii quotes 62
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    110
+  repeated labels      Atmosphäre & Stimmung x18, Charakter- & Plot-Verbindungen x18, Konzept x18, Landmarken/Schlüsselmerkmale x18, Narrative Funktion x18, Realitätsebene x18, Regeln & Logik x18, Risse/Entropie-Manifestationen x18, Symbolische Bedeutung x18, Ästhetik & Sensorische Details x18
+  longest line         1257 chars
+

@@ -1,0 +1,100 @@
+{
+  "document": "juna-v-exiliertes-ursprungs-ich",
+  "drive_id": "1Kd1GzGbaFDdN0FHZjBQXfPJ8-_CnxOahDfAKqbfL4fA",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one record entry (C16) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-355/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 49,
+    "decisions": 47,
+    "decided_by_lookup": 39,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research dossier proposing Juna/V as the exiled part of Kael's Ursprungs-Ich: its new surfaces are the Ursprungs-Ich, the IFS roles, its models and scenarios and borrowed physics and philosophy; what it proposes went on the pages of Juna, Kael, the Moonshine-Link and multiplicity, and its account of the split on C16.",
+  "new_readings": [
+    {
+      "page": "juna",
+      "lines": [
+        22,
+        41,
+        71,
+        128,
+        129,
+        184
+      ],
+      "attribution": "",
+      "note": "Juna/V as the exiled part, in two models of where it is"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        38,
+        40,
+        46,
+        84,
+        173
+      ],
+      "attribution": "",
+      "note": "Kael as an inner system of parts, reintegration as the aim"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        161,
+        162,
+        187
+      ],
+      "attribution": "",
+      "note": "a physical basis proposed for the link"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        140,
+        200
+      ],
+      "attribution": "",
+      "note": "multiplicity set against integration"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` read on juna",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 13,
+      "decision": "reading",
+      "why": "Juna/V as the exiled part of Kael's Ursprungs-Ich, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "Ursprungs-Ich as a term",
+    "the IFS roles (Manager, Feuerwehrmann, Exilant)",
+    "Modell A and B and the four scenarios, Ideen-Repository",
+    "the borrowed concepts (IFS, ER=EPR, wormhole, bifurcation, topology, immanent and transcendent exile, lebendiger MacGuffin)"
+  ],
+  "internal_tension": "it gives reintegration as the ultimate aim (L84) and then questions it, ending on a possible negotiated coexistence (L140, L200)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

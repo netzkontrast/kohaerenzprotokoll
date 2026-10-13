@@ -1,0 +1,116 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Read L1 to L184 and L191 to L227. L185 to L190 (the section under the heading at L185) was not read, by instruction, and nothing from it is listed. The document is German with many English terms in prose; the lens block below holds the borrowed frameworks the document applies to the world. The export has lost the symbols of the kernels and formulas (gaps such as "Kohärenz-Kern ()"), so the kernel names are listed as the prose writes them.
+
+- Kohärenz-Protokoll
+- AEGIS
+- Kael
+- Juna
+- Lex
+- Nyx
+- Kiko
+- Lia
+- Mnemosyne-Archipels
+- Co1-Matrix
+- Storyform A
+- Storyform B
+- Der Phönix-Kollaps
+- Heuristik der Integration
+- Kohärenz-Kern
+- Löschungs-Kern
+- Transinformation
+- Persistence Equation
+- Semantischen Konstante
+- informationeller Wärmetod
+- Informational Heat Death
+- Landauer-Prinzip
+- Landauer-Hitze
+- Landauer Heat Spike
+- Truth-Rotation
+- Wahrheits-Rotation
+- Phönix-Modus-Inversion
+- Vortex-Inversion
+- Algorithmische Melancholie
+- Nichts-Rauschen
+- Nothingness static
+- Witness Function
+- Moonshine-Link
+- twisted modules
+- lebender Gödel-Satz
+- Unified Protagonist
+- Funktionalen Multiplizität
+- Leerstellen
+- Gaps of Indeterminacy
+- Cognitive Effort
+- Participatory Universe
+- Apparently Normal Parts
+- Emotional Parts
+- ANP
+- EP
+- Memory Leak
+- Influence Character
+- Main Character
+- Overall Story
+- Relationship Story
+- IC
+- MC
+- OS
+- RS
+- Storymind
+- Story Goal Anomaly
+- Hypothese 1 (H1)
+- Hypothese 2 (H2)
+- Hypothese 3 (H3)
+- H1
+- H2
+- H3
+- Story-first-Phase
+- Domäne
+- Mind
+- Universe
+- Physics
+- Psychology
+- Fixed Attitude
+- Steadfast
+- Optionlock
+- Timelock
+- Story Driver
+- Certainty
+- Potentiality
+- Preconscious
+- Uncontrolled
+- Control
+- Global Work Packages
+- GWP 1
+- GWP 2
+- GWP 3
+- Analyse 1
+
+## lens
+
+- Dual-Kernel Theory
+- DKT
+- TSDP
+- Strukturellen Dissoziation der Persönlichkeit
+- Janetian Action Systems
+- Integrated Information Theory
+- Global Workspace Theory
+- IIT
+- GWT
+- Zero-Knowledge Proofs
+- Dialetheismus
+- Dialetheia
+- Ex contradictione quodlibet
+- Tarskischen Wahrheitsdefinition
+- Monstrous Moonshine
+- Monstergruppe
+- Leech-Gitter
+- Landauer-Limit
+- Bornsche Regel
+- Quantum Entanglement Witness
+- Husserlscher Disinterested Spectator
+- Kryptographischer Zero-Knowledge Verifier
+- Steelmanning
+- Dramatica
+- Markov-Blankets
+- Mutual Information

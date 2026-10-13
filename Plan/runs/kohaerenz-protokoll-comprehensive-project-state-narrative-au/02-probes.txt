@@ -1,0 +1,48 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      4
+  typographic marks      14
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  alter    Alter, Alternative, Alters
+  trans    Transfer, Transition, Transitkorridor
+  canon    CANON, Canon
+  coher    COHERENCE, Coherence
+  contr    CONTRADICTIONS, Contradictions
+  curre    Current, Currently
+  defin    Define, Defines
+  estab    Established, Establishes
+  exist    Existenzforschung, Existing
+  frame    Frame, Framework
+  gaps     GAPS, Gaps
+  gödel    Gödel, Gödelian
+  hard     HARD, Hard
+  ident    Identifying, Identitätsstörung
+  inter    Interface, Internal
+  narra    NARRATIVE, Narrative
+  ontol    Ontological, Ontology
+  proto    Protocol, Protokoll
+  reali    Reality, Realized
+  stand    Standardisierter, Standardize
+
+# substring pairs -- never one term, often merged by accident
+  GAPS < Gaps
+  HARD < Hard
+  Kael < Kaels
+  Kern < Kernwelten
+  List < Minimalist
+  Riss < Risse
+  Alter < Alters
+  Alter < Alternative
+  CANON < Canon
+  Frame < Framework
+  Gödel < Gödelian
+  Define < Defines
+  Current < Currently
+  COHERENCE < Coherence
+  COHERENCE < Decoherence
+  Coherence < Decoherence
+  NARRATIVE < Narrative
+  CONTRADICTIONS < Contradictions

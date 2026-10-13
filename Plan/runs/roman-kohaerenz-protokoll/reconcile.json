@@ -1,0 +1,215 @@
+{
+  "document": "roman-kohaerenz-protokoll",
+  "drive_id": "1-qJDwKciE7L-RJzqALCUQDLTbwZdld1nAIsBzeUmGc4",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-245/brief.md; chapter readings Kap 1 and Kap 2 by the session (Plan/runs/ingest-245-kap/); the stale counts in the leads of kairos and cerberus re-measured from their ingested lists in the same commits",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 91,
+    "decided_by_lookup": 62,
+    "needs_judgement": 29
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An early prose draft: its new surfaces are the report's modules and protocols (ZTEM, Consensus Enforcer Module, SVI, LCA, RTSV, RIC, DRI), places of the city (Gamma-7, Sektor Delta, Transitkorridor), Kapitel 2's Moments and their words (Schwelle, Dazwischen, Moos, Sog), the narrator's guesses Praetor and Nox, and Naht; what it says of the novel's world went on existing pages, two chapter pages and three records.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        146,
+        156,
+        168,
+        255,
+        280,
+        300,
+        320
+      ],
+      "attribution": "",
+      "note": "modules and the Secure Isolation State named in the report"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        232,
+        236,
+        250,
+        284,
+        296,
+        314,
+        344
+      ],
+      "attribution": "",
+      "note": "AEGIS in its own report and in the narrator's voice"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        401
+      ],
+      "attribution": "",
+      "note": "Alters hinted, not assigned"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        389
+      ],
+      "attribution": "",
+      "note": "`(Cerberus?)` as the narrator's guess at a voice in Kael"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        272
+      ],
+      "attribution": "",
+      "note": "the Risse as manifestations of digital entropy"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        359,
+        361,
+        365,
+        367
+      ],
+      "attribution": "",
+      "note": "Juna as a formal voice that flickers"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        355,
+        363,
+        371,
+        375,
+        379,
+        401,
+        405,
+        413,
+        537
+      ],
+      "attribution": "",
+      "note": "Kael waking, doubting, hearing several voices"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        393,
+        395
+      ],
+      "attribution": "",
+      "note": "the Wohneinheit as the place of intrusions"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        407
+      ],
+      "attribution": "",
+      "note": "`(Kairos?)` as the narrator's guess at a voice in Kael"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        373,
+        399,
+        409,
+        411
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as cold order, cage and ruin"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        365,
+        377
+      ],
+      "attribution": "",
+      "note": "LogOS as surveillance and as Juna's sync target"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        272,
+        389,
+        395
+      ],
+      "attribution": "",
+      "note": "Risse as entropy, as perception, as search"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        395
+      ],
+      "attribution": "",
+      "note": "`(Echo ? Silas ?)` as the narrator's guess"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        270,
+        300
+      ],
+      "attribution": "",
+      "note": "the Überwelt dissolving and re-forming at the reboot"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C9"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q4"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Risse`, `Riss` and `Zerrissenheit`: the Risse on risse, Zerrissenheit Kael's last feeling, kept in the census; `Wohneinheit` read on kaels-wohneinheit; `Kern` is AEGIS's core, not a kernel or the Kernwelten; `Architekt` Kael's role, not the Mnemosyne server; `Echo` and `Leere` in the heading and the narration, not the Residual-Echos; `Nichts` the Vorwort's nothing; `Resonanz` chapter 2's title, not a protocol or the landscape; `Anomalie` the anomaly Kael finds; `Fragmentierung` in the narration; `Depersonalisation` a symptom; `Wächter` AEGIS (Q4); `Zero-Trust Execution Model`, `Zero-Trust-Modell`, `Integrity Guardian Module`, `Cognitive Firewall Module` and `SIS` read on aegis-teilfunktionen; `AEGIS Functional Protocol` on aegis; `Redunancyfree  Information Capsule` and `Information Capsule` one term, as written",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 272,
+      "decision": "reading",
+      "why": "the Risse as manifestations of digital entropy"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 114,
+      "decision": "occurrence",
+      "why": "the passage's heading"
+    }
+  ],
+  "not_promoted": [
+    "the report's modules and protocols (ZTEM, Consensus Enforcer Module, SVI, LCA, RTSV, RIC, DRI)",
+    "Gamma-7, Sektor Delta, Transitkorridor",
+    "Praetor and Nox (guesses only)",
+    "Naht",
+    "Zerrissenheit",
+    "the 40 Moments, Schwelle, Dazwischen, Sog",
+    "the Vorwort's nothing"
+  ],
+  "internal_tension": "KW1 stands once in the narration (L411) and KW2 once in a remark in another voice (L545), neither explained; the voices in Kael are only guessed, each with a question mark",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

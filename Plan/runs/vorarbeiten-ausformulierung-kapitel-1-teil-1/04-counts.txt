@@ -1,0 +1,66 @@
+# counts for 44 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             18 word    57 in   [15, 21, 24, 27, 29, 31]  <-- substring
+                                   39      as Kaels
+  Juna                              9 word    17 in   [57, 58, 70, 72, 81, 83]
+                                    7      as Junas
+                                    1      as Juna-Enigma
+  Jansen                            1 word     2 in   [67]
+                                    1      as Jansens
+  Normalem Nachbarn                 1 word     1 in   [67]
+  Konstrukt-Stadt                   8 word     8 in   [15, 19, 21, 78, 83, 99]
+  KW1                              13 word    13 in   [15, 19, 21, 23, 27, 43]
+  KW4                               1 word     1 in   [60]
+  UNIVERSAL REBOOT                  1 word     1 in   [21]
+  AEGIS                             4 word     4 in   [25, 64, 85, 128]
+  LogOS                             3 word     3 in   [25, 64, 85]
+  Praetor                           4 word     4 in   [37, 62, 66, 74]
+  Nox                               4 word     4 in   [37, 70, 74]
+  Echo                              6 word     8 in   [37, 58, 62, 70, 73, 78]
+                                    2      as Echos
+  Silas                             3 word     3 in   [37, 58, 72]
+  Limina                            2 word     2 in   [62, 68]
+  Flicker                           1 word     1 in   [73]
+  Funke                             1 word     1 in   [60]
+  Host                              4 word     5 in   [39, 58, 66, 72, 74]
+                                    1      as Hosts
+  Index                             1 word     1 in   [66]
+  Architekt                         1 word     5 in   [23, 39, 63, 74, 141]  <-- substring
+                                    2      as Architektur
+                                    1      as Architekten
+                                    1      as Architekten-Aspekt
+  Host/Architekt                    1 word     1 in   [39]
+  DID                               4 word     5 in   [15, 31, 129, 140, 157]
+  Datenknotenpunkt Gamma-7          1 word     1 in   [61]
+  Transitsystem                     1 word     2 in   [59, 111]
+                                    1      as Transitsystems
+  Wohneinheit                       4 word     4 in   [55, 72, 75, 77]
+  Pausenbereich                     1 word     1 in   [67]
+  Abendprotokoll                    1 word     1 in   [72]
+  Resonanz-Landschaft               1 word     1 in   [78]
+  Intrusionen                       6 word     6 in   [15, 33, 99, 110, 123, 131]
+  Glitch                            4 word     7 in   [38, 60, 65, 106, 111, 131]
+                                    3      as Glitches
+  Anomalie                         11 word    11 in   [65, 66, 68, 69, 70, 122]
+  Riss                              6 word    13 in   [44, 56, 60, 65, 66, 73]  <-- substring
+                                    6      as Risse
+                                    1      as Risses
+  Finde die Naht                    2 word     2 in   [76, 124]
+  Spiegel                           6 word    11 in   [19, 21, 67, 71, 79, 110]
+                                    3      as spiegeln
+                                    2      as Spiegelbild
+                                    2      as Spiegels
+                                    1      as Spiegelung
+  Juna-Enigma                       1 word     1 in   [81]
+  24-Beat-Struktur                  1 word     1 in   [115]
+  Gewohnten Welt                    1 word     1 in   [128]
+  Perfect World                     1 word     1 in   [128]
+  Uncanny Valley                    6 word     7 in   [23, 56, 57, 91, 148, 174]
+  Depersonalisation                 5 word     5 in   [38, 55, 71, 106, 123]
+  Derealisation                     1 word     1 in   [38]
+  Synästhesie                       1 word     1 in   [78]
+  Stream of Consciousness           2 word     2 in   [75, 164]
+  Sensorische Deprivation           2 word     2 in   [24, 55]

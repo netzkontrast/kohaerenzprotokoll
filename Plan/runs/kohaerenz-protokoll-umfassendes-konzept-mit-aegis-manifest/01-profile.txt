@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest
+  lines                103  (frontmatter ends at 9)
+  body words           1001
+  headings             1   bold-only lines 3
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    16   ascii quotes 12
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    6
+  repeated labels      none
+  longest line         645 chars
+

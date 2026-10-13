@@ -1,0 +1,58 @@
+$ read.py --count "Narrative Manifestation & Impact"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py --count "Conceptual Synthesis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py --count "Systemic Interconnections"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+$ read.py --count "Lexicon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py --count "Kael"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            35
+$ read.py --count "Kael-Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+$ read.py --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py --count "Gärtner"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ read.py --count "functional multiplicity"
+whole word, case-sensitive     3
+whole word, case-insensitive   5
+including compounds            3
+$ read.py --count "Juna/V"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ grep -o backslash escapes
+    162 \*
+$ grep -n "^## " (six numbered sections)
+13:## **1. Core Philosophical Frameworks**
+64:## **2. Psychological Underpinnings**
+110:## **3. Computer Science & Artificial Intellig
+145:## **4. Narrative & Genre Architecture**
+182:## **5. Physics & Mathematics as Narrative Eng
+203:## **6. Systemic Interconnections: The Cohesiv
+stance_marker_count 3 = 1+1+1 (the three counts above)

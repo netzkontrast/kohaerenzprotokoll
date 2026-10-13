@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-architecture-synthesis-2
+  lines                230  (frontmatter ends at 0)
+  body words           4786
+  headings             25   bold-only lines 0
+  table rows           55   code fences 0
+  question marks       3
+  backslash escapes    229
+  typographic marks    135   ascii quotes 232
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    12
+  repeated labels      none
+  longest line         7409 chars
+

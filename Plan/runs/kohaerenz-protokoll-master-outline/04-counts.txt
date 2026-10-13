@@ -1,0 +1,45 @@
+# counts for 37 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Master-Outline                    1 word     1 in   [11]
+  Kohärenz Protokoll                2 word     2 in   [11, 76]
+  Kael                             10 word    10 in   [25, 27, 36, 47, 52, 53]
+  Juna                              1 word     1 in   [26]
+  AEGIS                             5 word     5 in   [31, 57, 73, 75, 86]
+  Konstrukt-Stadt                   2 word     2 in   [25, 73]
+  Konstrukt                         3 word     6 in   [21, 25, 43, 69, 73, 81]
+                                    2      as Konstrukt-Stadt
+                                    1      as Konstrukts
+  Überwelt                          3 word     3 in   [39, 47, 73]
+  Nexus                             1 word     1 in   [47]
+  Guardians                         2 word     2 in   [48, 62]
+  LogOS                             1 word     1 in   [52]
+  Mnemosyne                         1 word     1 in   [53]
+  Nichts-Rauschen                   2 word     2 in   [37, 57]
+  Rauschen                          3 word     6 in   [37, 39, 57, 75]
+                                    1      as Rauschens
+  absolute Entropie                 1 word     1 in   [57]
+  Entropie                          3 word     3 in   [57, 74, 75]
+  Der Erwachen-Zyklus               1 word     1 in   [25]
+  Die Anomalie                      1 word     1 in   [26]
+  unentscheidbare Zonen             1 word     1 in   [27]
+  externen Ebene                    3 word     3 in   [73, 74, 81]
+  Der Spiegel-Effekt                1 word     1 in   [76]
+  Mosaik-Herz                       2 word     2 in   [65, 86]
+  Zielkohärenz                      1 word     1 in   [86]
+  Statusbericht PMAS                1 word     1 in   [84]
+  PMAS                              1 word     1 in   [84]
+  TSDP-Aspekt                       1 word     1 in   [53]
+  Zeitdilatationen                  1 word     1 in   [31]
+  Gravitationsanomalien             1 word     1 in   [31]
+  Pacing                            4 word     4 in   [35, 61, 80, 88]
+  Kohärenz-Check                    3 word     3 in   [36, 62, 81]
+  Limit-Integration                 3 word     3 in   [37, 63, 82]
+  Annotationen                      3 word     3 in   [33, 59, 78]
+  Genre-Fokus                       3 word     3 in   [19, 41, 67]
+  Inhaltliche Schwerpunkte          3 word     3 in   [23, 45, 71]
+  Dozenten des Grauens              1 word     1 in   [62]
+  Architectural Storytelling        1 word     1 in   [35]
+  Unvollständigkeit                 2 word     2 in   [27, 74]

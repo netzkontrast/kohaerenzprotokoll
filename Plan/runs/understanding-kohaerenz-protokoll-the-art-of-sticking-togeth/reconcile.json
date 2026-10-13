@@ -1,0 +1,139 @@
+{
+  "document": "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
+  "drive_id": "1Aw6urmdyd7tiKTXzv4N0eVui3Fd7ySWSH0nLNRoq3wM",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-379/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 40,
+    "decisions": 39,
+    "decided_by_lookup": 31,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English explainer of coherence across three realms: its new surfaces are its own labels and borrowed concepts; what it presents of AEGIS, Kael and the parts, TSDP, the Dual Kernel Theory and the Coherons went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        87
+      ],
+      "attribution": "",
+      "note": "AEGIS as the embodiment of a Coherence Theory of Truth"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        27,
+        46
+      ],
+      "attribution": "",
+      "note": "alters as dissociated parts of System Kael"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        71,
+        83
+      ],
+      "attribution": "",
+      "note": "Coherons as atoms of persistence"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        69,
+        71
+      ],
+      "attribution": "",
+      "note": "the Protocol Ontology and the two kernels"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        58,
+        59,
+        88
+      ],
+      "attribution": "",
+      "note": "Kael between correspondence, cohesion and coherence"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "Kiko among the Emotional Parts"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "Lex among the Apparently Normal Parts"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "Nyx among the Emotional Parts"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "Rhys among the Apparently Normal Parts"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "TSDP as the governing theory of System Kael"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `Genesis-Krise` read on aegis; `Coherons` read on coheron; `Coherence Kernel`/`Collapse Kernel` with and without their symbol read on dkt; `Kohärenz Protokoll` the title; `Theory of Structural Dissociation of the Personality` read on tsdp",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "cohesion and coherence as labels, Protocol Ontology, Corrective Wavelet, erosive pressure, correspondence check, internal consistency and external validation",
+    "the borrowed concepts (theories of truth, decoherence, TSDP terms)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

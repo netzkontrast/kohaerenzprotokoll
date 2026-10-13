@@ -1,0 +1,233 @@
+{
+  "document": "dramaturgical-precision-deconstructing-the-irreversible-conf",
+  "drive_id": "1ST5T0jx_MbSP6DZND7zKKK75WLlqQLeOj3rUx5y5mOM",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-233/brief.md; chapter readings on Kap 1–13, 29, 35 and 36 by the session, Plan/runs/ingest-233-kap/brief.md",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 56,
+    "decisions": 55,
+    "decided_by_lookup": 47,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English analysis of AEGIS's strategy in three phases: its new surfaces are its phase names, the Lure Pattern, Recursive Consistency Validation and its borrowed logic; what it says of the novel's world went on existing pages, sixteen chapter pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        25,
+        38,
+        50,
+        51,
+        74,
+        76
+      ],
+      "attribution": "",
+      "note": "AEGIS across Correction, Neutralization and the Gödel-Gambit"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Cerberus as defense and control in KW3"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        65,
+        67,
+        68,
+        70
+      ],
+      "attribution": "",
+      "note": "The Gödel-Gambit as Kap 35–36's epistemological attack"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Grenzfeste as KW3, the paranoid world"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        27,
+        32
+      ],
+      "attribution": "",
+      "note": "Guardians as specialised runners of the four analytical Core Worlds"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        70,
+        82
+      ],
+      "attribution": "",
+      "note": "Juna/V in the Gödel-Gambit and the final chapter"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        25,
+        55,
+        57,
+        61,
+        68
+      ],
+      "attribution": "",
+      "note": "Kael as the integration of paradox, from error to proactive agent"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Kairos in KW4 beside Sophia"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "LogOS as enforcer of rigid logic in KW1"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as keeper of KW2's memory data"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Möglichkeits-Garten as KW4, the generative world"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        70
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link as the Gödel-Gambit's channel"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        25,
+        40,
+        55
+      ],
+      "attribution": "",
+      "note": "Risse as fissures AEGIS reads in Kael, growing until a breach in KW1"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Sophia in KW4 beside Kairos"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        25,
+        50
+      ],
+      "attribution": "",
+      "note": "TSDP as Kael's condition, misread and then exploited"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      29,
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q5",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J34 (Juna/V on juna); `Guardian` read on guardians; `Riss` the singular of the Risse",
+  "sweep": [
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 32,
+      "decision": "reading",
+      "why": "Kairos and Sophia as Guardians of KW4"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 70,
+      "decision": "reading",
+      "why": "the Juna/V Moonshine-Link"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "Correction Protocol",
+    "Neutralization and Lure",
+    "Lure Pattern / Lockmuster",
+    "Recursive Consistency Validation",
+    "the mental health interface",
+    "Epistemological Victory",
+    "Entzug/Verschmelzung"
+  ],
+  "internal_tension": "none found by the reader; it reads the novel as if written",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

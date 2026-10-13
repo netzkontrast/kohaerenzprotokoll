@@ -1,0 +1,128 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Arbeitstitel` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#1]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vorschlag` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#1]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bleibt offen` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#1]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Herausforderung` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#2]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`HJ-Stufe` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#13]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Metaphorik` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#16]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Narrative Aufgabe` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#16]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#1]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#0]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#0]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Zugeordneter Guardian` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#6]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Hüter` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#6]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`Guardians` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#23]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`M/R/P` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#3]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Außen` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#7]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Gleiche Person` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#1]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kohärenz-Protokoll` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#0]
+$ python3 scripts/read.py in-teil-2-werden-die-persona-von-ihren-spezifis --count "$p"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Seelen-Kohärenz-Protokoll` ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:#1]
+stance_marker_count 5 = Arbeitstitel 1 + Vorschlag 1 + Bleibt offen 1 + Herausforderung 2 (counts above)
+$ grep -n '?' Sources/drive/in-teil-2-werden-die-persona-von-ihren-spezifis.md | cut -c1-5 (question lines: 23 24 54 70 100 102 103 176)
+45:  - **Plotpunkt 1.1 (Gewohnte Welt 1)**
+61:  - **Plotpunkt 1.2 (Ruf 1)**
+77:  - **Plotpunkt 1.3 (Weigerung 1)**
+93:  - **Plotpunkt 1.4 (Mentor 1)**
+109:  - **Plotpunkt 1.5 (Schwelle 1)**
+125:  - **Plotpunkte 1.6 - 1.12:** *Weitere Episoden, die den Zyklus (
+126:  - **Plotpunkt 1.13 (Bruch der Realitäten):**
+146:  - **Plotpunkt 2.1: Auftakt: Alarm in der Schaltzentrale**
+158:  - **Plotpunkte 2.2 - 2.X (Zyklische Reflexion/Analyse durch die 
+170:  - **Plotpunkt 2.Y (Entscheidung & Ausrüstung):**
+188:  - **Plotpunkt 3.1 (Prüfung 1: Erster Reparaturversuch):**
+201:  - **Plotpunkte 3.2 - 3.7 (Prüfungen & Annäherung):**
+214:  - **Plotpunkt 3.8 (Feuerprobe: Erkenntnis Seele=Info):**
+227:  - **Plotpunkt 3.9 (Belohnung/Neue Mission: Suche nach Außen):**
+240:  - **Plotpunkte 3.10 - 3.11 (Rückweg/Jagd & Eskalation):**
+253:  - **Plotpunkt 3.12 (Auferstehung: Der Twist):**
+266:  - **Plotpunkt 3.13 (Elixier: Innere Kohärenz):**

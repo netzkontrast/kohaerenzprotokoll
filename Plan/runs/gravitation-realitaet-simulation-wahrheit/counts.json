@@ -1,0 +1,336 @@
+{
+  "document": "gravitation-realitaet-simulation-wahrheit",
+  "drive_id": "1E39HhfOsGPt6rDq30kyhQLhjMye2qs5YsfQzOeMTwDI",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Gravitations-Theorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Ontologische Spaghettifizierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Graviton-Anker": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        26,
+        40,
+        95,
+        119,
+        189
+      ]
+    },
+    "Graviton-Ankers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        95
+      ]
+    },
+    "Oculus-G": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        74,
+        103
+      ]
+    },
+    "Schwarzschild-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        117,
+        211
+      ]
+    },
+    "Schwarzschild-Protokolls": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        211
+      ]
+    },
+    "Aletheia-Institut": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        89
+      ]
+    },
+    "Aletheia-Instituts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Aletheia-Experiment": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        251
+      ]
+    },
+    "The Void Room": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Void Rooms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Orbitaler Drift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Zero-G": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "AEGIS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        107,
+        129,
+        167,
+        219,
+        267
+      ]
+    },
+    "Basis-Realität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        55,
+        58,
+        199,
+        254,
+        272
+      ]
+    },
+    "operative Geschlossenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        109
+      ]
+    },
+    "operativen Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        269
+      ]
+    },
+    "vestibuläre Mismatch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Ontologische Trägheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "ontologische Trägheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "ontologische Aggression": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Großes Faktum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Große Faktum": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        36
+      ]
+    },
+    "Big Fact": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        223
+      ]
+    },
+    "Z-Fighting": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        70,
+        145,
+        147,
+        270
+      ]
+    },
+    "Floating Point Errors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Far Lands": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        79,
+        153,
+        155,
+        308
+      ]
+    },
+    "Glitch": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        64,
+        70,
+        78,
+        137,
+        199,
+        255,
+        297
+      ]
+    },
+    "G-LOC": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        165,
+        271,
+        272
+      ]
+    },
+    "Kernel Panic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "Cold Russian Soldier": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "ontologischer Schwindel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "masselose Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Konstatierung": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        40,
+        272
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        22,
+        38,
+        75,
+        109
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        75
+      ]
+    },
+    "Slingshot-Argument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Geworfenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        235
+      ]
+    },
+    "Ocularcentrism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        243
+      ]
+    }
+  }
+}

@@ -1,16 +1,20 @@
 ---
 term: Silas
 status: candidate
-sources: 61
-readings: 61
+sources: 70
+readings: 70
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "romanprojekt-analyse-kohaerenz-protokoll", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "kohaerenz-protokoll-the-official-master-story-guide", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-kapitel-outline-generierung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "aegis-manifest-genesis-krise-reboot", "charakterkonzepte-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-architecture-synthesis", "project-status-report-kohaerenz-protokoll-canonical-state-st", "project-status-report-kohaerenz-protokoll-canon-systemic-sta", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "kael-s-dissociative-architecture-analysis"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "roman-konzept-dualitaet-kohaerenz-spannung", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-assistent-romanwelt-kohaerenz-und-aegis-spec", "aegis-persona-and-manifest-generation", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "scifi-roman-mit-ki-schreiben", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "romanprojekt-analyse-kohaerenz-protokoll", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "kohaerenz-protokoll-the-official-master-story-guide", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-kapitel-outline-generierung", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "aegis-manifest-genesis-krise-reboot", "charakterkonzepte-fuer-kohaerenz-protokoll", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-architecture-synthesis", "project-status-report-kohaerenz-protokoll-canonical-state-st", "project-status-report-kohaerenz-protokoll-canon-systemic-sta", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "kael-s-dissociative-architecture-analysis", "the-coherence-protocol-a-world-bible", "kohaerenz-protokoll-comprehensive-project-state-narrative-au", "roman-kohaerenz-protokoll", "kohaerenz-protokoll-epische-plot-anreicherung", "arbeitshilfe-kohaerenz-protokoll-kapitel-2", "roman-kapitel-ausformulierung-kohaerenz-protokoll", "kapitel-17", "roman-kapitel-1-generierungsprozess", "konsolidierung-des-hard-canon-protokolls"]
 gathered: "2026-09-24"
 ---
 
 # Silas
 
 One of the thirteen [[alters|Alters]] — Spiegel-Alter, „Juna-Echo" in its heading ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L724].
+
+## Reading — `roman-kohaerenz-protokoll`, 2025-04-17, the early prose draft — `(Echo ? Silas ?)` as the narrator's guess
+
+The narrator (German prose) brackets `(Echo ? Silas ?)` after the intrusion in the Wohneinheit — „Fragmente einer anderen Zeit, eines anderen Lebens, gehalten von Stimmen in seinem Inneren“ ^[roman-kohaerenz-protokoll.md:L395] — and again after the melody fragment. Both are guesses at the source of an impulse in Kael, with question marks, and nothing more.
 
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the proposed Skeptiker/Torwächter of KW3, a possible projection of Kael's defences
 
@@ -44,9 +48,21 @@ In its revised plot Kael reaches the market in Sektor Beta: „Hier trifft er au
 
 The plan ties place to figure: „Die chaotische Umgebung spiegelt die Unsicherheit und den Zweifel wider, die Silas verkörpert.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L330] It sketches him as „Kael, Silas (zynisch, scharfsinnig, undurchschaubar)“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L341] and later asks whether he returns: „vielleicht sogar ein widerwilliger Silas?“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L508]
 
+## Reading — `roman-kapitel-ausformulierung-kohaerenz-protokoll`, 2025-04-18, the chapter-1 guide — an intrusion tied to Silas only with a question mark
+
+In the beat table of the chapter-1 guide Silas appears only inside parentheses with a question mark, as a possible source of an intrusion: „Vage Erinnerung/Erwartung an Wärme/Lachen (Echo von Silas? Host?)“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L56] (row 1.2b), and again for loneliness: „Starke, unerklärliche Erinnerung/Sehnsucht nach Wärme, Lachen, Berührung (Silas? Host?)“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L70] (row 1.11). In the pillar on Kael the name stands without a question mark among the figures of grief: „Trauer (Echo, Silas)“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L37]. Silas is not defined; `Silas` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#3]. A guide, not the chapter.
+
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — Silas as the caring alter
 
 The plot blueprint's alters table gives Silas this function: „Fürsorge für andere Alters, Empathie, Verbindungssuche“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L204], with the role Manager/Self? and ANP? and the Möglichkeits-Garten as primary world. Step 1.5 plans that Kael's search for Juna could resonate with „Silas oder Flicker“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L216]; step 2.3 plans: „Index könnte als interner Erklärer fungieren, Silas als Vermittler.“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L352]
+
+## Reading — `arbeitshilfe-kohaerenz-protokoll-kapitel-2`, 2025-04-20, the chapter-2 expert analysis — Echo/Silas as a pain-carrying alter and a beat focus
+
+Voice one, the working aid as reported: `Echo/Silas` is one of four alters whose influence it wants shown, „Darstellung des Einflusses spezifischer Alters (Limina, Nox, Praetor, Echo/Silas)“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L51]. Voice three, the analysis proposes, conditionally: „Echo/Silas könnten den emotionalen Schmerz des Verlusts im Zusammenhang mit dem Kollaps von“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L59] KW1 carry. In the beat table for 1.Z the entry reads, with its question mark as a suggestion, „Echo/Silas spüren Resonanz?“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L225], and the beat description repeats it: „Limina analysiert neue Daten? Echo/Silas spüren eine Resonanz? Praetor sucht nach Bedrohungen?“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L267], which the analysis calls „(Vorschläge der Arbeitshilfe)“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L267].
+
+## Reading — `kapitel-17`, 2025-04-20, the Kapitel-17 plan — named as a possible protector
+
+The Kapitel-17 plan names `Silas` with Limina as a question, a possible manager alter: „Kael oder ein Manager-Alter (Limina? Silas?) versucht aktiv“ ^[kapitel-17.md:L38] to shield the vulnerable parts. A plan, not the chapter.
 
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Silas as an Alter
 
@@ -63,6 +79,14 @@ In its advice the report says the plot draft „integriert bereits Lex, Echo, Si
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — a figure of the plot outline through whom parts are externalised
 
 Silas stands once, in the synthesis's reading of the plot of Part 1 (glued `1`): Kael meets his aggressive and protecting parts in the Grenzfeste, „externalisiert durch Figuren wie Silas“ ^[system-kael-konzeptentwicklung-und-analyse.md:L208]
+
+## Reading — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible — Silas as caretaker
+
+The alter table lists Silas as „ANP, Caretaker“ ^[the-coherence-protocol-a-world-bible.md:L121], „A compassionate caretaker and social mediator“ ^[the-coherence-protocol-a-world-bible.md:L121]. The second dyad „pits active caretaking against absolute shutdown“ ^[the-coherence-protocol-a-world-bible.md:L127], Silas against Oblivion. In the world table Silas is named in the domain of the fourth Core World.
+
+## Reading — `roman-kapitel-1-generierungsprozess`, 2025-11-25, der Exekutionsbericht — Silas as a name in the draft, read by the report as the memory that breaks through
+
+In the Exekutionsbericht's draft of Kapitel 1 the name stands alone on its line, and the next line says „Der Name riss ein Loch in seinen Brustkorb.“ ^[roman-kapitel-1-generierungsprozess.md:L468] The report's analysis opens its reading with „Die Intrusion der Erinnerung an“ ^[roman-kapitel-1-generierungsprozess.md:L552] Silas, taken as the breakthrough of the part Moros. The prose is a draft; the reading is the report's.
 
 ## Reading — `kohaerenz-protokoll-the-official-master-story-guide`, 2026-01-02, the Master Story Guide — Silas as an EP, the Archivist
 
@@ -99,11 +123,25 @@ The status report (2026-03-26) writes: „Names such as“ ^[project-status-repo
 ## Reading — `project-status-report-kohaerenz-protokoll-canon-systemic-sta`, 2026-03-26, the canon status report — Silas merged away
 The canon status report resolves to merge `Silas` into `Rhys` (L44, the bold names break the line into pieces; see the Rhys reading). Its roadmap then lists the overlaps to purge: „Purge naming overlaps (Silas/Moros/Oblivion) and finalize the 13-part registry.“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L83]. Recorded, not applied.
 
+## Reading — `kohaerenz-protokoll-comprehensive-project-state-narrative-au`, 2026-03-26, the project-state audit — Silas retained as a primary name
+
+In the naming row of its contradictions table the project-state audit sets Version A, „Silas vs. Rhys overlap“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L30], against Version B, Silas and Oblivion „as primary“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L30]. Its roadmap asks to confirm „the retention of Silas and Oblivion“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L73].
+
 ## Reading — `romanprojekt-analyse-kohaerenz-protokoll`, 2026-03-31, the contradiction report and idea registry — Silas in conflict C-003 and among the decanonised alters (F-06)
 
 The document is a generated report about other texts that it names only by number (`Doc NN`). Where a source cell is quoted below, the words are the report's quotation of an unnamed `Doc`, not the report's own claim; `Kern-Konflikt` and `Kernaussage` are the report's own summary.
 
 In C-003 the report quotes Doc 30 as „Silas is likely a prototype/alias for Rhys“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L24]; its own `Kern-Konflikt` cell reads „Es herrscht Unklarheit darüber, in welchem kanonischen Alter der dekanonisierte Silas tatsächlich aufgegangen ist (Rhys vs. Argus).“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L24] Registry row F-06 lists him with the removed alters: „Charaktere wie Silas, Oblivion, Eos, Nox und Praetor sind narrative Redundanzen und erzählerisch toxisch für den aktuellen 11er-Kanon.“ ^[romanprojekt-analyse-kohaerenz-protokoll.md:L71]
+
+## Reading — `konsolidierung-des-hard-canon-protokolls`, 2026-03-31, the Hard-Canon masterfile — named among the thirteen alters as a separate entity
+
+The Hard-Canon masterfile declares thirteen distinct alters, „inklusive Silas, Rhys, Oblivion und Moros als separate Entitäten“ ^[konsolidierung-des-hard-canon-protokolls.md:L13]; Silas is one of the four it names.
+
+The Hard-Canon masterfile declares itself final: „Alle abweichenden Notizen, Skizzen oder älteren Dokumente sind hiermit offiziell dekanonisiert.“ ^[konsolidierung-des-hard-canon-protokolls.md:L9] That is the document's claim about itself, recorded here and not applied.
+
+## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — Silas touched by Juna in the Moonshine-Paradoxon
+
+The epic enrichment brief is an unsigned German research brief of proposals and recommendations; so this is a proposal. Its fourth signature sequence has Juna's touch with „Silas (dem Alter)“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L176] produce the Nichts-Rauschen; nothing else about Silas stands in it.
 
 ## Reading — `ki-assistent-romanwelt-kohaerenz-und-aegis-spec`, 2026-04-27, the AEGIS assistant spec — Silas as a repair subsystem of the writing assistant
 

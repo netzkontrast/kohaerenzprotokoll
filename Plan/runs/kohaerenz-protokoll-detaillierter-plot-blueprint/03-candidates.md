@@ -1,0 +1,71 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+- Master-Blueprint
+- Kohärenz Protokoll
+- Die Ästhetik der Ohnmacht
+- Die Anatomie der Spaltung
+- Die Resonanz der Wirklichkeit
+- Kael
+- Juna
+- AEGIS
+- Konstrukt-Stadt
+- Universal Reboot
+- Architectural Storytelling
+- Sektor 04
+- Nexus
+- Überwelt
+- Guardians
+- Guardian
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kairos
+- Sophia
+- Blinden Fleck
+- Purge
+- Externen Ebene
+- Externe Ebene
+- Köln
+- Mosaik-Herz
+- Beobachter-Instanz
+- Beobachters
+- Zerstückelung
+- Messer im Bewusstsein
+- charakterlosen Erkundung
+- kausale Horizonte
+- Gödelsche Sackgassen
+- subjektive Entropie
+- parakonsistenten Logik
+- Entropie
+- Identität
+- Orientierungswissenschaft
+- Pfleger-Rolle
+- KPTBS
+- DIS
+- ADHS
+- TSDP-Systemik
+- Śūnyatā
+- Nichts
+- Stasis-Momenten
+- Meta-Foreshadowing
+- Meta-Twist
+- Meta-Kollaps
+- Rendering-Grenzen
+- Karneval
+- Mediterana
+- Schokoladenmuseum
+- Hard Sci-Fi Horror
+- Handlungsbogen
+- Dokument-Integration
+- Annotation \[Pacing\]
+- Annotation \[Meta-Twist\]
+- Konzept
+- Systemtod
+
+## lens
+
+- Hauptsatz der Thermodynamik
+- Systemischer Check
+
+Observations. The document is a three-part outline (Teil I to III) that assigns other research documents, named in quotation marks under each Dokument-Integration, to chapter ranges; those document titles are not listed as candidates. Annotation labels carry an escaped bracket in the export, `\[Pacing\]`. "2. Hauptsatz" and "Sektor 04" carry digits that the export or the counter may drop. Sophia and Kairos stand joined as Kairos/Sophia once (L42) and Kairos alone later. The dates and place "Köln, Februar 2026" contain a comma and are left out as a joined term; Köln is listed alone.

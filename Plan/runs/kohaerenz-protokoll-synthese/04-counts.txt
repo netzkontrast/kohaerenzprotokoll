@@ -1,0 +1,83 @@
+# counts for 67 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                1 word     1 in   [13]
+  Story-Mind Vortex                 1 word     1 in   [23]
+  Phönix-Mode                       4 word     4 in   [23, 43, 201, 263]
+  Kael                             39 word    40 in   [43, 47, 87, 91, 99, 109]
+                                    1      as Kael-Juna
+  Juna                             20 word    22 in   [31, 89, 91, 109, 145, 151]
+                                    1      as Junas
+  AEGIS                            41 word    41 in   [43, 67, 87, 99, 107, 111]
+  Lex                               1 word     1 in   [169]
+  Nyx                               1 word     1 in   [169]
+  Kiko                              1 word     1 in   [169]
+  Lia                               1 word     1 in   [169]
+  Moonshine-Link                   11 word    11 in   [19, 31, 91, 109, 129, 145]
+  Kollaps-Kern                      3 word     3 in   [25, 43, 65]
+  Kohärenz-Kern                     3 word     3 in   [37, 43, 45]
+  Wahrheits-Vortex                  3 word     3 in   [39, 87, 129]
+  Zeuge-Funktion                    2 word     2 in   [91, 149]
+  Witness Function                  6 word     6 in   [91, 147, 151, 153, 175, 282]
+  Funktionale Multiplizität         1 word     1 in   [47]
+  Algorithmische Melancholie        3 word     3 in   [87, 107, 341]
+  Nichts-Rauschen                   3 word     3 in   [95, 99, 339]
+  Leerstellen                       5 word     5 in   [37, 165, 169, 203, 276]
+  Risse                             4 word     4 in   [33, 137, 169, 245]
+  Wächter-Zwiespalt                 2 word     2 in   [111]
+  Mnemosyne-Archipel                2 word     2 in   [159, 337]
+  Genesis-Krise                     1 word     1 in   [317]
+  Foundation                        6 word     6 in   [97, 99, 109, 145, 177]
+                                    2      as foundational
+  Sea of Potentiality               2 word     2 in   [97, 99]
+  Creative Advance                  2 word     2 in   [35, 275]
+  Truth-Rotation                    4 word     4 in   [41, 205, 209, 210]
+  Vortex Inversion                  5 word     5 in   [85, 155, 159, 281, 335]
+  Storyform A                       7 word     7 in   [45, 129, 177, 281, 282, 309]
+  Storyform B                       8 word     8 in   [65, 129, 177, 218, 281, 282]
+  Heuristics of Integration         2 word     2 in   [47, 309]
+  Phoenix Collapse                  2 word     2 in   [67, 322]
+  Apparently Normal Parts           2 word     2 in   [27, 87]
+  Emotional Parts                   2 word     2 in   [27, 87]
+  ANP                               9 word     9 in   [27, 87, 159, 194, 233, 271]
+  EP                                8 word     8 in   [27, 87, 159, 194, 233, 271]
+  Dual-Kernel Theory                3 word     3 in   [25, 115, 119]
+  DKT                               6 word     6 in   [25, 117, 119, 121, 193, 270]
+  TSDP                              6 word     6 in   [27, 39, 193, 194, 271, 299]
+  Coherence Kernel                  3 word     3 in   [119, 161, 341]
+  Erasure Kernel                    1 word     1 in   [119]
+  Landauer heat                     5 word     5 in   [43, 121, 161, 202, 277]
+  Storymind                         4 word     4 in   [29, 127, 245, 272]
+  Story Goal Anomaly                1 word     1 in   [127]
+  Disinterested Spectator           1 word     1 in   [153]
+  Artistic Pole                     1 word     1 in   [167]
+  Aesthetic Pole                    1 word     1 in   [167]
+  Mosaik-Herz                       1 word     1 in   [141]
+  Optionlock                        2 word     2 in   [57, 320]
+  Timelock                          2 word     2 in   [77, 333]
+  Landauer’s Principle              3 word     3 in   [25, 119, 340]
+  Monstrous Moonshine               6 word     6 in   [31, 143, 253, 300, 349]
+  Vertex Operator Algebras          1 word     1 in   [31]
+  Monster group                     3 word     3 in   [31, 143, 145]
+  Leech lattice                     1 word     1 in   [145]
+  Principle of Explosion            3 word     3 in   [87, 137, 245]
+  dialetheia                        5 word     7 in   [19, 33, 87, 137, 330, 339]
+                                    2      as dialetheias
+  Gödel-Satz                        2 word     2 in   [87, 173]
+  Chaitin                           4 word     5 in   [35, 173, 177, 254, 275]
+                                    1      as Chaitin-Konstante
+  Whitehead                         3 word     3 in   [35, 253, 255]
+  Iser                              3 word     4 in   [37, 165, 167, 203]
+                                    1      as Isers
+  Husserl                           1 word     3 in   [149, 153, 282]  <-- substring
+                                    1      as Husserlsche
+                                    1      as Husserlian
+  Graham Priest                     3 word     3 in   [33, 137, 243]
+  Tarski                            3 word     5 in   [33, 137, 242, 274, 301]
+                                    2      as Tarskian
+  Dramatica                        15 word    17 in   [29, 39, 51, 71, 91, 123]
+                                    1      as Dramatica-Storyforms
+                                    1      as Dramatica-Compatible
+  Wheeler                           1 word     1 in   [95]

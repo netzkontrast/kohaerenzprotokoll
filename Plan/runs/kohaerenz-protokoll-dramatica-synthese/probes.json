@@ -1,0 +1,233 @@
+{
+  "document": "kohaerenz-protokoll-dramatica-synthese",
+  "drive_id": "1dJk-ZFNzYuOvd9EXsUtPNvR6I33TOIzkexB8BfY-pvY",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 17,
+  "backslash_escapes": 157,
+  "typographic_marks": 112,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "integ": [
+      "Integration",
+      "Integrative",
+      "Integrierte",
+      "Integrierten",
+      "Integriertes",
+      "Integrität"
+    ],
+    "forsc": [
+      "Forschungsauftrag",
+      "Forschungsdaten",
+      "Forschungsergebnissen",
+      "Forschungsmaterialien",
+      "Forschungsprojekt"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsdichte",
+      "Informationserhaltung",
+      "Informationsverlust"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturellen",
+      "Strukturgeber",
+      "Strukturgleichheit",
+      "Strukturierung"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologische",
+      "Psychology",
+      "Psychotraumatologie"
+    ],
+    "schre": [
+      "Schreibe",
+      "Schreiben",
+      "Schreibens",
+      "Schreibprozess"
+    ],
+    "unter": [
+      "Unterdrückung",
+      "Unterschiede",
+      "Untersuchung",
+      "Untersuchungsgegenstands"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitsprozess",
+      "Arbeitsprozesses"
+    ],
+    "autor": [
+      "Autor",
+      "Autorensystem",
+      "Autors"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungstrauma",
+      "Bindungsverlangen"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumente",
+      "Dokumenten"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionieren"
+    ],
+    "gedan": [
+      "Gedanke",
+      "Gedanken",
+      "Gedankenpalast"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsanweisung",
+      "Handlungsanweisungen"
+    ],
+    "physi": [
+      "Physics",
+      "Physik",
+      "Physikalische"
+    ],
+    "probl": [
+      "Problem",
+      "Probleme",
+      "Problems"
+    ],
+    "proje": [
+      "Projekt",
+      "Projektanalyse",
+      "Projekts"
+    ],
+    "roman": [
+      "Roman",
+      "Romanprojekt",
+      "Romans"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstkonstitution",
+      "Selbstzweck"
+    ],
+    "syste": [
+      "System",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "theor": [
+      "Theoretische",
+      "Theorie",
+      "Theory"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumadynamik",
+      "Traumas"
+    ],
+    "vergl": [
+      "Vergleich",
+      "Vergleichende",
+      "Vergleichsanalyse"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widerstand"
+    ],
+    "wisse": [
+      "Wissen",
+      "Wissens",
+      "Wissensanspruchs"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eins",
+      "Einsicht"
+    ],
+    [
+      "Ende",
+      "Wende"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Vergleichende"
+    ],
+    [
+      "Feld",
+      "Konfliktfeld"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsdichte"
+    ],
+    [
+      "Form",
+      "Informationsverlust"
+    ],
+    [
+      "Form",
+      "Informationserhaltung"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      43
+  backslash escapes      4
+  typographic marks      3
+  ascii quotes           62
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systematik, Systematischere, Systembewusstsein, Systembruch, Systemfehler, Systemintegrität, Systemproblems, Systems
+  inter    Interaktion, Interface, Interne, Internen, Intervention, Interventionen
+  archi    Archipel, Architekt, Architekten, Architektur
+  chara    Charakter, Charaktere, Charakterentwicklung, Charakterisierung
+  fragm    Fragment, Fragmente, Fragmentierung, Fragments
+  gesam    Gesamtbild, Gesamtes, Gesamtkonzept, Gesamtsituation
+  perso    Person, Persona, Personas, Personen
+  reali    Realität, Realitäten, Realitäts, Realitätsrisse
+  repar    Reparatur, Reparaturversuch, Reparaturversuche, Reparaturversuchen
+  abweh    Abwehr, Abwehrmaßnahmen, Abwehrreaktion
+  beoba    Beobachtend, Beobachtende, Beobachter
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsstrom
+  haupt    Hauptfacetten, Hauptfigur, Hauptursache
+  infor    Information, Informationseinheiten, Informationsgewebe
+  integ    Integration, Integrations, Integratoren
+  persp    Perspektive, Perspektiven, Perspektivwechsel
+  risse    Risse, Rissen, Risses
+  seele    Seele, Seelen, Seelenfragmenten
+  selbs    Selbst, Selbsterkenntnis, Selbstorganisation
+  wisse    Wissen, Wissende, Wissens
+  übers    Überschreiten, Überschreitung, Übersetzer
+  absch    Abschluss, Abschnitte
+  analy    Analyse, Analysen
+  bedro    Bedrohung, Bedrohungen
+  bibli    Bibliothek, Bibliothekar
+
+# substring pairs -- never one term, often merged by accident
+  Code < Quellcodes
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Verfeinerung
+  Ende < Wissende
+  Ende < Zunehmende
+  Ende < Beobachtende
+  Ende < Kooperierendes
+  Ende < Wiederkehrende
+  Ende < Übergreifender
+  Ende < Wiederkehrenden
+  Fall < Tonfall
+  Info < Information
+  Info < Informationsgewebe
+  Info < Informationseinheiten
+  Jede < Jeder
+  Kern < Kerns
+  Kern < Kernaussage
+  Kern < Kernschmelze

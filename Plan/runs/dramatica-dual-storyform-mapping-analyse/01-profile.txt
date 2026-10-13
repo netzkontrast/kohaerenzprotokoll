@@ -1,0 +1,14 @@
+# dramatica-dual-storyform-mapping-analyse
+  lines                281  (frontmatter ends at 9)
+  body words           4636
+  headings             21   bold-only lines 6
+  table rows           35   code fences 0
+  question marks       7
+  backslash escapes    228
+  typographic marks    97   ascii quotes 31
+  invisible characters U+200Bx14
+  math symbol lines    3
+  glued ref numbers    52
+  repeated labels      none
+  longest line         1044 chars
+

@@ -1,0 +1,215 @@
+{
+  "document": "a-guide-to-the-society-of-self-understanding-system-kael",
+  "drive_id": "1IJguVJnr7N06nJickV4I3cHZdLxYZZ-a-K5vBUxIjPw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 42,
+    "decisions": 41,
+    "decided_by_lookup": 34,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        39,
+        105,
+        113,
+        123
+      ],
+      "attribution": "",
+      "note": "AEGIS as the system Kael serves and the attacker"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        55,
+        59
+      ],
+      "attribution": "",
+      "note": "Alex as pragmatic crisis manager"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        15,
+        17,
+        35,
+        73,
+        119,
+        139
+      ],
+      "attribution": "",
+      "note": "eleven alters as an internal society"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        123,
+        127
+      ],
+      "attribution": "",
+      "note": "Argus as detached meta-cognitive critic"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "a Guardian who questions Lex"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        101,
+        105
+      ],
+      "attribution": "",
+      "note": "Isabelle as the Controller"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "Juna/V as the trigger of Lia's emergence"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        39,
+        42,
+        139,
+        141
+      ],
+      "attribution": "",
+      "note": "the Host and the face of the system"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        67,
+        85
+      ],
+      "attribution": "",
+      "note": "Kiko as a young child alter"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        47,
+        51
+      ],
+      "attribution": "",
+      "note": "Lex as rational analyst"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        93,
+        97
+      ],
+      "attribution": "",
+      "note": "Lia as another child alter, emerging through Juna/V"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        109,
+        113
+      ],
+      "attribution": "",
+      "note": "Moros as total collapse and shutdown"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as harmonious collaboration"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        77,
+        81
+      ],
+      "attribution": "",
+      "note": "Nyx as aggressive protector"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        63,
+        67
+      ],
+      "attribution": "",
+      "note": "Rhys as internal caregiver"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        131,
+        135
+      ],
+      "attribution": "",
+      "note": "Selene as Internal Self Helper"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        23,
+        28,
+        29
+      ],
+      "attribution": "",
+      "note": "the story as modelled on TSDP, with an ANP/EP table"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      24
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 97,
+      "decision": "reading",
+      "why": "Lia's emergence through Juna/V"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

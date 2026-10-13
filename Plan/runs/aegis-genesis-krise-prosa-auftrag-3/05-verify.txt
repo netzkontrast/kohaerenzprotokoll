@@ -1,0 +1,79 @@
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Perspektive: Ursprungs-Ich"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Perspektive: Ursprungs-Ich` ^[aegis-genesis-krise-prosa-auftrag-3.md:#2]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Query Context"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Query Context` ^[aegis-genesis-krise-prosa-auftrag-3.md:#6]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Cluster"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Cluster` ^[aegis-genesis-krise-prosa-auftrag-3.md:#7]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[aegis-genesis-krise-prosa-auftrag-3.md:#1]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Entität"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Entität` ^[aegis-genesis-krise-prosa-auftrag-3.md:#10]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[aegis-genesis-krise-prosa-auftrag-3.md:#1]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Kael"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kael` ^[aegis-genesis-krise-prosa-auftrag-3.md:#2]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Prosa-Auftrag"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Prosa-Auftrag` ^[aegis-genesis-krise-prosa-auftrag-3.md:#0]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Kontrollmechanismen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kontrollmechanismen` ^[aegis-genesis-krise-prosa-auftrag-3.md:#1]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[aegis-genesis-krise-prosa-auftrag-3.md:#0]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`canon` ^[aegis-genesis-krise-prosa-auftrag-3.md:#0]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Lock"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Lock` ^[aegis-genesis-krise-prosa-auftrag-3.md:#0]
+$ read.py aegis-genesis-krise-prosa-auftrag-3 --count "Status"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Status` ^[aegis-genesis-krise-prosa-auftrag-3.md:#0]
+stance_marker_count 15 = 2 + 6 + 7

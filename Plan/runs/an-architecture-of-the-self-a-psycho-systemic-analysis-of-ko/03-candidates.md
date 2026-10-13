@@ -1,0 +1,73 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is English prose with German terms set in italics or quotation marks. Names are listed as it writes them. Terms with a comma (the light of Logos-Prime, the light of a Riss) are left out of the list by the counting rule. The headings "Lex vs. Nyx" and "Kael vs. Selene" hold an abbreviation, so only their parts are listed. The sources 'World Bible', 'System Kael Analyse' and 'Romanideen' are titles of cited works and stay off. Lens terms stand under the heading below.
+
+- Kohärenz Protokoll
+- Coherence Protocol
+- System Kael
+- Kael
+- Host
+- Lex
+- Nyx
+- Kiko
+- Rhys
+- Praetor
+- Oblivion
+- Selene
+- Juna
+- AEGIS
+- System AEGIS
+- Moonshine-Link
+- Apparently Normal Parts (ANPs)
+- ANPs
+- Emotional Parts (EPs)
+- EPs
+- Inner Self Helper (ISH)
+- ISH
+- vereinigter Protagonist
+- Risse
+- Inter-Alter Phobias
+- Phobia of the EPs' Emotions
+- Phobia of Specific Affects
+- Phobia of Integration
+- Key Conflict Dyads
+- Das Nichts Rauschen
+- Coherence through Negation
+- Negentropie-Fehlinterpretation
+- perverse learning loop
+- Core Worlds
+- Kernwelten
+- KW1
+- Logos-Prime
+- The Construct City
+- Algorithmic Horror
+- Korrektur
+- KW2
+- KW3
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Sehnsucht
+- Angst
+- Gödel-Gambit
+- living Gödel-sentence
+- functional multiplicity
+- epistemological checkmate
+- Coherence through Integration
+- Algorithmic Melancholy
+- algorithmic melancholy
+- zombie system
+- paraconsistent logic
+- Gaslighting
+- Manipulation
+- Isolation
+
+## lens
+
+- Theory of Structural Dissociation of the Personality (TSDP)
+- TSDP
+- trauma bond
+- autopoietic
+- operationally closed
+- qualia
+- Principle of Explosion
+- Gödel's Incompleteness Theorems

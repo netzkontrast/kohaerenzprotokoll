@@ -1,0 +1,252 @@
+{
+  "document": "a-definitive-architectural-blueprint-of-the-kohaerenz-protok",
+  "drive_id": "1fcN6txGIACSYNQezgFvGqmVM4oeUdCR6rlwE5F4jJmc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-345/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 69,
+    "decisions": 72,
+    "decided_by_lookup": 57,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English exposition of the novel: its new surfaces are its section labels, the D2 module, Paraiyas, polyphonic prose and borrowed concepts; what it describes of AEGIS, Kael, the alters, the Gödel-Gambit, Juna, the Kernwelten, the Moonshine-Link, the Nichts Rauschen, TSDP and Algorithmic Melancholy went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        33,
+        35,
+        41,
+        43,
+        50,
+        135,
+        138
+      ],
+      "attribution": "",
+      "note": "AEGIS as the novel's thesis, defined by negation"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "the table's calculated crisis manager"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        133,
+        138
+      ],
+      "attribution": "",
+      "note": "the English name for AEGIS's final state"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        65,
+        81
+      ],
+      "attribution": "",
+      "note": "the roster of alters and the aim of co-consciousness"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis forged in opposition"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        127,
+        131,
+        135
+      ],
+      "attribution": "",
+      "note": "the climax framed as the Gödel-Gambit"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "Juna/V as the external anomaly"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        61,
+        70,
+        81,
+        131,
+        142
+      ],
+      "attribution": "",
+      "note": "Kael as antithesis, modelled on TSDP, ending as a living Gödel sentence"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        50,
+        105,
+        110,
+        111,
+        112,
+        113
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as psychological architectures"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        75,
+        117
+      ],
+      "attribution": "",
+      "note": "the table's EP child and fragmented syntax"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        41,
+        71,
+        117
+      ],
+      "attribution": "",
+      "note": "cold logic, P in the D2 module, hypotactic prose"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "the primary catalyst, non-local and invisible to AEGIS"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        76
+      ],
+      "attribution": "",
+      "note": "the frozen EP of collapse"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "the void AEGIS emerged from"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        41,
+        74
+      ],
+      "attribution": "",
+      "note": "the table's fighter EP"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        73
+      ],
+      "attribution": "",
+      "note": "the caregiver ANP"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        77
+      ],
+      "attribution": "",
+      "note": "the Internal Self Helper"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        61,
+        69
+      ],
+      "attribution": "",
+      "note": "Kael modelled on TSDP"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Cerberus-Labyrinth`, `Kairos-Potentialis`, `Logos-Prime` and `Mnemosyne-Archipel` names of Kernwelten, not the Guardians of the same stems; `Inkohärenz` generic; `Theory of Structural Dissociation of the Personality` read on tsdp, not personas; `Juna/V` read on juna",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 63,
+      "decision": "reading",
+      "why": "the section on the society of alters, read on the page"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 31,
+      "decision": "reading",
+      "why": "AEGIS's genesis as a section heading, read on the page"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 89,
+      "decision": "reading",
+      "why": "Juna/V as the external anomaly, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 45,
+      "decision": "occurrence",
+      "why": "a heading on AEGIS's methods of simulation, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Paradoxon X as named here and the D2 module",
+    "Paraiyas, polyphonic prose, the Protocol of the Reader, ineffiziente Schönheit",
+    "the borrowed concepts (Principle of Explosion, prehension, qualia, paraconsistent logic, IIT)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,111 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            32 word    55 in   [11, 15, 26, 30, 34, 50]
+                                   14      as AEGIS-Bezug
+                                    4      as AEGIS-Protokoll
+                                    2      as AEGIS-Protokollarchitektur
+                                    1      as AEGIS-Konzept
+  AEGIS-Protokoll                   4 word     6 in   [15, 26, 395, 409, 413, 417]
+                                    2      as AEGIS-Protokollarchitektur
+  AEGIS-Bezug                      14 word    14 in   [34, 50, 74, 98, 122, 146]
+  Spannungsfelder                   7 word     8 in   [15, 30, 32, 360, 373, 397]
+                                    1      as Spannungsfeldern
+  Cluster                          56 word    60 in   [32, 34, 36, 38, 50, 60]
+                                    3      as Clustern
+                                    1      as Clusterbildung
+  Emergente Selbststrukturierung    1 word     1 in   [21]
+  Autonome Systeme                  2 word     2 in   [22, 96]
+  Selbstorganisation               27 word    31 in   [21, 23, 49, 66, 73, 97]
+                                    1      as Selbstorganisationsprozessen
+  Selbstreferenz                   16 word    21 in   [24, 114, 120, 169, 170, 242]
+                                    3      as Selbstreferenzielle
+                                    2      as selbstreferenzielle
+                                    1      as Selbstreferenzialität
+                                    1      as Selbstreferenzialit
+  Realitätsgenerierung              2 word     2 in   [25, 419]
+  Selbststrukturierungslogik        1 word     1 in   [15]
+  Kohärenz                         22 word    25 in   [15, 26, 50, 74, 98, 122]
+                                    1      as kohärenzgenerierendes
+                                    1      as Kohärenzgenerierung
+                                    1      as kohärenzgenerierenden
+                                    1      as Kohärenzsystem
+  Entropie                         25 word    36 in   [15, 26, 50, 66, 74, 158]
+                                    4      as Entropieproduktion
+                                    2      as Entropiemanagement
+                                    1      as Entropieproduktionsraten
+                                    1      as Entropiestrom
+  Grundlagentheorie                14 word    14 in   [34, 38, 62, 86, 110, 134]
+  Systemdynamik                    14 word    15 in   [34, 48, 72, 96, 120, 144]
+                                    1      as Systemdynamiken
+  Meta-Struktur                    14 word    14 in   [34, 49, 73, 97, 121, 145]
+  Anwendungsszenarien              14 word    14 in   [34, 51, 75, 99, 123, 147]
+  Existenz und Nicht-Existenz       2 word     2 in   [36, 48]
+  Ordnung und Chaos                 4 word     4 in   [60, 73, 403, 415]
+  Autonomie und Abhängigkeit        2 word     2 in   [84, 405]
+  Bewusstsein und Reflexion         1 word     1 in   [108]
+  Veränderung und Stillstand        2 word     2 in   [132, 145]
+  Information und Bedeutung         2 word     2 in   [156, 390]
+  Kommunikation und Isolation       1 word     1 in   [180]
+  Zeit und Kausalität               4 word     4 in   [204, 217, 415]
+  Energie und Entropie              1 word     1 in   [228]
+  Identität und Differenzierung     1 word     1 in   [252]
+  Realitätsschichten und Wahrnehmung    1 word     1 in   [276]
+  Wille und Handlung                2 word     2 in   [300, 415]
+  Systemgrenzen und Selbstorganisation    1 word     1 in   [324]
+  Prinzipienkatalog                 1 word     1 in   [380]
+  Protokollarchitektur              3 word     5 in   [26, 30, 395, 399, 409]
+  Fundamentale Operative Einheit    1 word     1 in   [401]
+  Selbstreferenzielle Schleife      1 word     2 in   [120, 402]
+  Identitätskerne                   2 word     2 in   [145, 254]
+  Simulationsmaschine               1 word     1 in   [290]
+  Void                              1 word     1 in   [38]
+  operative Schließung              6 word     6 in   [24, 168, 259, 354, 375, 389]
+  operativen Schließung             3 word     3 in   [170, 337, 415]
+  strukturelle Kopplung             3 word     3 in   [187, 192, 415]
+  Strukturellen Kopplung            1 word     1 in   [389]
+  Autopoiesis                       8 word     9 in   [24, 192, 259, 264, 266, 330]
+                                    1      as Autopoiesis-Theorie
+  dissipative Strukturen            5 word     5 in   [66, 72, 234, 240, 362]
+  Versklavungsprinzip               4 word     4 in   [23, 66, 353, 367]
+  Ordnungsparameter                 6 word     7 in   [23, 66, 162, 362, 367, 386]
+                                    1      as Ordnungsparametern
+  Radikaler Konstruktivismus        5 word     5 in   [115, 163, 283, 423]
+  Radikalen Konstruktivismus        3 word     3 in   [25, 355, 423]
+  Kybernetik zweiter Ordnung        3 word     3 in   [114, 355, 376]
+  Laws of Form                      3 word     3 in   [24, 210, 365]
+  Synergetik                        9 word     9 in   [21, 23, 66, 138, 162, 234]
+                                    1      as synergetik-physikalische-prinzipien
+  Negentropie                       2 word     2 in   [162, 235]
+  Nichtgleichgewichtsthermodynamik    3 word     3 in   [234, 242, 409]
+  Agentenbasierte Simulation        1 word     1 in   [366]
+  Selbstanwendungsproblematik       1 word     1 in   [376]
+  Beobachterabhängigkeit            4 word     4 in   [25, 289, 355]
+  Parmenides                        2 word     2 in   [43, 139]
+  Luhmann                           5 word     6 in   [24, 192, 259, 331, 354, 423]
+                                    1      as Luhmanns
+  Maturana                          2 word     3 in   [24, 192, 354]
+                                    1      as Maturanas
+  Spencer-Brown                     1 word     4 in   [24, 114, 210, 365]  <-- substring
+                                    3      as Spencer-Browns
+  Prigogine                         2 word     2 in   [234, 356]
+  Hakens                            3 word     3 in   [353, 362, 367]
+  Heinz von Foerster                1 word     1 in   [114]
+  Gödel                             2 word     2 in   [114, 365]
+  Husserl                           2 word     3 in   [115, 283, 423]
+                                    1      as Husserls
+  Merleau-Ponty                     1 word     1 in   [115]
+  Kant                              1 word     4 in   [91, 139, 211, 307]  <-- substring
+                                    3      as Kants
+  Laughlin                          1 word     1 in   [42]
+  Varela                            1 word     1 in   [330]
+  Landauer-Prinzip                  1 word     1 in   [162]
+  Schmetterlingseffekt              1 word     1 in   [48]
+  seltsame Schleifen                1 word     1 in   [120]
+  selbstorganisierte Kritikalität    1 word     1 in   [72]
+  Subsidiaritätsprinzip             1 word     1 in   [97]
+  Aktive Materie                    1 word     1 in   [321]
+  Phänomenologie                    7 word     7 in   [25, 115, 187, 211, 283, 331]
+  Simulationstheorie               14 word    14 in   [58, 82, 106, 130, 154, 178]

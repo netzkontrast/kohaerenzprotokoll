@@ -1,0 +1,1296 @@
+{
+  "document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll",
+  "drive_id": "1-ky_6f0Qm0EB3I6-0RF7DMtCQ0xLEUdoj-5-x24I6vQ",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "abstrahierte Kernkonzept": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        30,
+        135,
+        151,
+        259,
+        539
+      ]
+    },
+    "Entität": {
+      "n": 95,
+      "n_including_compounds": 100,
+      "lines": [
+        42,
+        43,
+        44,
+        46,
+        135,
+        139,
+        140,
+        141,
+        142,
+        153,
+        156,
+        162,
+        163,
+        165,
+        170,
+        176,
+        177,
+        181,
+        186,
+        196,
+        205,
+        261,
+        262,
+        265,
+        271,
+        275,
+        285,
+        286,
+        287,
+        306,
+        307,
+        315,
+        316,
+        317,
+        331,
+        332,
+        360,
+        387,
+        388,
+        416,
+        417,
+        418,
+        422,
+        428,
+        430,
+        443,
+        452,
+        461,
+        470,
+        479,
+        485,
+        489,
+        490,
+        491,
+        508,
+        509,
+        510,
+        518,
+        519,
+        520,
+        529,
+        530,
+        531,
+        532,
+        533,
+        541,
+        550
+      ]
+    },
+    "Protagonist": {
+      "n": 14,
+      "n_including_compounds": 46,
+      "lines": [
+        44,
+        45,
+        135,
+        142,
+        153,
+        156,
+        164,
+        167,
+        169,
+        180,
+        182,
+        186,
+        253,
+        263,
+        265,
+        292,
+        296,
+        316,
+        330,
+        340,
+        348,
+        358,
+        387,
+        417,
+        428,
+        461,
+        490,
+        495,
+        499,
+        500,
+        508,
+        518,
+        531,
+        533,
+        541,
+        550
+      ]
+    },
+    "Risse": {
+      "n": 29,
+      "n_including_compounds": 34,
+      "lines": [
+        44,
+        143,
+        166,
+        168,
+        169,
+        178,
+        186,
+        261,
+        263,
+        288,
+        296,
+        297,
+        316,
+        347,
+        350,
+        358,
+        386,
+        387,
+        389,
+        417,
+        428,
+        452,
+        490,
+        491,
+        499,
+        500,
+        529,
+        530,
+        531,
+        549
+      ]
+    },
+    "Äußere": {
+      "n": 9,
+      "n_including_compounds": 20,
+      "lines": [
+        135,
+        139,
+        156,
+        168,
+        261,
+        275,
+        281,
+        286,
+        288,
+        347,
+        358,
+        386,
+        443,
+        489,
+        490,
+        491,
+        529,
+        541
+      ]
+    },
+    "Kernspannung": {
+      "n": 27,
+      "n_including_compounds": 27,
+      "lines": [
+        46,
+        135,
+        143,
+        153,
+        156,
+        163,
+        166,
+        178,
+        186,
+        261,
+        265,
+        311,
+        351,
+        417,
+        452,
+        514,
+        518,
+        530,
+        531,
+        532,
+        533,
+        541
+      ]
+    },
+    "Verbindung": {
+      "n": 54,
+      "n_including_compounds": 74,
+      "lines": [
+        45,
+        135,
+        153,
+        155,
+        156,
+        164,
+        166,
+        167,
+        170,
+        179,
+        188,
+        192,
+        206,
+        212,
+        218,
+        222,
+        224,
+        230,
+        247,
+        253,
+        262,
+        265,
+        301,
+        316,
+        329,
+        341,
+        349,
+        352,
+        358,
+        375,
+        377,
+        388,
+        406,
+        416,
+        417,
+        418,
+        426,
+        430,
+        465,
+        470,
+        490,
+        504,
+        508,
+        509,
+        510,
+        518,
+        520,
+        532,
+        533,
+        541,
+        549
+      ]
+    },
+    "Grenze": {
+      "n": 16,
+      "n_including_compounds": 29,
+      "lines": [
+        42,
+        137,
+        141,
+        163,
+        165,
+        261,
+        262,
+        275,
+        276,
+        287,
+        358,
+        378,
+        386,
+        389,
+        443,
+        461,
+        479,
+        489,
+        490,
+        491,
+        519,
+        529,
+        531,
+        533,
+        547
+      ]
+    },
+    "Raum": {
+      "n": 24,
+      "n_including_compounds": 64,
+      "lines": [
+        44,
+        61,
+        153,
+        156,
+        162,
+        166,
+        168,
+        176,
+        186,
+        196,
+        261,
+        262,
+        263,
+        265,
+        276,
+        281,
+        285,
+        286,
+        296,
+        297,
+        305,
+        306,
+        327,
+        330,
+        348,
+        349,
+        350,
+        358,
+        375,
+        378,
+        386,
+        387,
+        389,
+        417,
+        418,
+        428,
+        430,
+        442,
+        443,
+        485,
+        489,
+        490,
+        499,
+        508,
+        509,
+        529,
+        530,
+        532,
+        541
+      ]
+    },
+    "NZT-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Forschungsmandat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Resonanzstärke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Neuheitspotenzial": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        154,
+        170,
+        176
+      ]
+    },
+    "Generative Kraft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Erhellungskapazität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Konzept-Mapping": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        522
+      ]
+    },
+    "Schlüsselkonzept/Cluster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        528
+      ]
+    },
+    "Organisatorische Schließung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        87,
+        163,
+        177,
+        208,
+        210,
+        451
+      ]
+    },
+    "Autopoiesis & Organisatorische Schließung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        177,
+        208,
+        451
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        216,
+        265
+      ]
+    },
+    "Pfadabhängigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Rand des Chaos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "schwache Emergenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        216,
+        417
+      ]
+    },
+    "starke Emergenz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        328,
+        360,
+        417,
+        422,
+        518
+      ]
+    },
+    "Downward Causation": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        217,
+        351,
+        393,
+        401,
+        407,
+        417,
+        478,
+        533
+      ]
+    },
+    "kaskadierende Fehler": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        217,
+        277,
+        490
+      ]
+    },
+    "strukturelle Kopplung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        211,
+        490
+      ]
+    },
+    "Identitätsfragmentierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        164,
+        251
+      ]
+    },
+    "Emergent Engineering": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        518,
+        620
+      ]
+    },
+    "Emergentes Engineering": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        478,
+        533
+      ]
+    },
+    "Intentionalität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        102,
+        228,
+        297,
+        499
+      ]
+    },
+    "Epoché": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        228
+      ]
+    },
+    "Lebenswelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Verkörperung": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        102,
+        169,
+        228,
+        229,
+        230,
+        460,
+        500
+      ]
+    },
+    "Noesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Noema": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Abstraktionsebenen": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        85,
+        297,
+        348,
+        428,
+        442,
+        460,
+        499,
+        541
+      ]
+    },
+    "Haecceitas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "kontextuelle Individualität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Radikaler OSR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "Moderater OSR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Forschungszyklus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        366,
+        397
+      ]
+    },
+    "Ontischer Struktureller Realismus": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        101,
+        135,
+        162,
+        176,
+        194,
+        442
+      ]
+    },
+    "OSR": {
+      "n": 35,
+      "n_including_compounds": 49,
+      "lines": [
+        101,
+        139,
+        162,
+        176,
+        186,
+        188,
+        194,
+        196,
+        200,
+        201,
+        205,
+        206,
+        224,
+        261,
+        262,
+        275,
+        285,
+        288,
+        306,
+        315,
+        327,
+        330,
+        332,
+        340,
+        358,
+        360,
+        386,
+        387,
+        393,
+        408,
+        416,
+        418,
+        428,
+        430,
+        442,
+        489,
+        508,
+        529,
+        539,
+        548
+      ]
+    },
+    "ESR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Autopoiesis": {
+      "n": 35,
+      "n_including_compounds": 36,
+      "lines": [
+        87,
+        135,
+        142,
+        143,
+        163,
+        177,
+        208,
+        210,
+        211,
+        212,
+        230,
+        261,
+        263,
+        277,
+        317,
+        341,
+        358,
+        451,
+        490,
+        530,
+        539,
+        541,
+        548,
+        598,
+        599,
+        600,
+        601,
+        602,
+        604
+      ]
+    },
+    "Emergenz": {
+      "n": 39,
+      "n_including_compounds": 39,
+      "lines": [
+        61,
+        88,
+        166,
+        178,
+        186,
+        188,
+        214,
+        216,
+        217,
+        218,
+        261,
+        277,
+        316,
+        317,
+        328,
+        351,
+        360,
+        393,
+        401,
+        407,
+        417,
+        422,
+        451,
+        518,
+        530,
+        541,
+        547
+      ]
+    },
+    "Komplexe Adaptive Systeme": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        88,
+        135,
+        166,
+        178,
+        214,
+        451
+      ]
+    },
+    "CAS": {
+      "n": 30,
+      "n_including_compounds": 32,
+      "lines": [
+        88,
+        143,
+        166,
+        178,
+        186,
+        214,
+        216,
+        217,
+        218,
+        261,
+        263,
+        276,
+        285,
+        288,
+        307,
+        315,
+        317,
+        330,
+        358,
+        451,
+        490,
+        518,
+        530,
+        539,
+        549,
+        590
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        60,
+        135,
+        167,
+        179,
+        205,
+        206,
+        220,
+        222,
+        262,
+        305,
+        469,
+        508,
+        541
+      ]
+    },
+    "Nichtlokalität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        60,
+        167,
+        179,
+        220,
+        222
+      ]
+    },
+    "Phänomenologie": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        102,
+        142,
+        169,
+        180,
+        188,
+        226,
+        228,
+        229,
+        230,
+        253,
+        263,
+        330,
+        340,
+        358,
+        460,
+        499,
+        531,
+        539,
+        541
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        73,
+        135,
+        141,
+        165,
+        181,
+        232,
+        234,
+        247,
+        262,
+        469
+      ]
+    },
+    "Dialetheismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        234
+      ]
+    },
+    "Dissoziative Identitätsstörung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        112,
+        135,
+        164,
+        182,
+        249
+      ]
+    },
+    "DID": {
+      "n": 19,
+      "n_including_compounds": 24,
+      "lines": [
+        112,
+        142,
+        164,
+        182,
+        186,
+        188,
+        230,
+        249,
+        251,
+        252,
+        253,
+        263,
+        296,
+        330,
+        340,
+        460,
+        499,
+        531,
+        539,
+        541
+      ]
+    },
+    "Quantenvakuumfeld": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        168,
+        347,
+        442
+      ]
+    },
+    "QVF": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        168,
+        347,
+        358,
+        370,
+        375,
+        386,
+        393,
+        442,
+        491,
+        529,
+        548
+      ]
+    },
+    "Quantenvakuum": {
+      "n": 5,
+      "n_including_compounds": 10,
+      "lines": [
+        58,
+        135,
+        139,
+        168,
+        286,
+        347,
+        375,
+        442,
+        491,
+        541
+      ]
+    },
+    "Nullpunktenergie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        59,
+        168,
+        347,
+        375,
+        442
+      ]
+    },
+    "ZPE": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        59,
+        168,
+        347,
+        370,
+        375,
+        386,
+        442,
+        491,
+        529
+      ]
+    },
+    "Casimir-Effekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        375
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        131,
+        135,
+        170,
+        349,
+        370,
+        377,
+        430,
+        469,
+        661
+      ]
+    },
+    "Monstergruppe": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        74,
+        170,
+        349,
+        377
+      ]
+    },
+    "Gruppentheorie": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        74,
+        139,
+        170,
+        349,
+        370,
+        377,
+        388,
+        430,
+        469,
+        509,
+        532,
+        539
+      ]
+    },
+    "Topologische Defekte": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        62,
+        350,
+        370,
+        378,
+        389,
+        442,
+        529
+      ]
+    },
+    "Kategorientheorie": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        76,
+        352,
+        393,
+        401,
+        406,
+        416,
+        469,
+        510,
+        532
+      ]
+    },
+    "Relationale Biologie": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        122,
+        352,
+        401,
+        406,
+        416,
+        469,
+        510
+      ]
+    },
+    "Relationaler Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        406
+      ]
+    },
+    "Kausaler Strukturalismus": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        206,
+        401,
+        408,
+        418,
+        478,
+        520,
+        533
+      ]
+    },
+    "Informationsontologie": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        206,
+        348,
+        370,
+        376,
+        387,
+        393,
+        428,
+        442,
+        489,
+        539,
+        548
+      ]
+    },
+    "LoA": {
+      "n": 17,
+      "n_including_compounds": 27,
+      "lines": [
+        85,
+        348,
+        370,
+        376,
+        387,
+        393,
+        442,
+        460,
+        489,
+        499,
+        529,
+        531,
+        549
+      ]
+    },
+    "Integrierte Informationstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        460
+      ]
+    },
+    "IIT": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        86,
+        140,
+        460,
+        531,
+        539,
+        580,
+        596
+      ]
+    },
+    "Apophatische Theologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        141
+      ]
+    },
+    "Kybernetik": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        90,
+        140,
+        212,
+        478,
+        490,
+        533
+      ]
+    },
+    "Chaostheorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        63,
+        139,
+        218,
+        451
+      ]
+    },
+    "Seltsame Attraktoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Dunkle Energie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Emergente Raumzeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        442,
+        529
+      ]
+    },
+    "Systemdenken": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        451,
+        530
+      ]
+    },
+    "Kaskadierende Fehler": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        92,
+        143,
+        451,
+        530
+      ]
+    },
+    "Phasenübergang": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        287
+      ]
+    },
+    "Homöostase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        490
+      ]
+    },
+    "Vertexoperatoralgebra": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        377
+      ]
+    },
+    "Ex contradictione quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        234
+      ]
+    },
+    "Simulationstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Panpsychismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    }
+  }
+}

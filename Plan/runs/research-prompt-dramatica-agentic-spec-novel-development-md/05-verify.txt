@@ -1,0 +1,122 @@
+# every number the census and note state, with the command that produced it
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "What it is"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`What it is` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#5]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Why it is in this prompt"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Why it is in this prompt` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#5]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "How to apply it — step by step"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`How to apply it — step by step` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#5]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "When to stop / escape criterion"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`When to stop / escape criterion` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#5]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Example trigger in this research context"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Example trigger in this research context` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#4]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#0]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#0]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#0]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#0]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Story Goal"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Story Goal` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#7]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Story Mind"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Story Mind` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#2]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Grand Argument"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Grand Argument` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#2]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Throughlines"
+whole word, case-sensitive     5
+whole word, case-insensitive   7
+including compounds            5
+
+`Throughlines` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#5]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Single-Artifact-Mandat"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Single-Artifact-Mandat` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#5]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Clarifying-Question-Protokoll"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Clarifying-Question-Protokoll` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#6]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Working-State-Schema"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Working-State-Schema` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#2]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Working-State Schema"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Working-State Schema` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#1]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Strukturelle Contradictions"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Strukturelle Contradictions` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#3]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Inhaltliche Contradictions"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Inhaltliche Contradictions` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#2]
+$ read.py research-prompt-dramatica-agentic-spec-novel-development-md --count "Pragmatische Contradictions"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`Pragmatische Contradictions` ^[research-prompt-dramatica-agentic-spec-novel-development-md.md:#3]
+# stance_marker_count 24 = 5+5+5+5+4 (the five counts above); profile figures (443, 40, 1738 lines) are from 01-profile.txt

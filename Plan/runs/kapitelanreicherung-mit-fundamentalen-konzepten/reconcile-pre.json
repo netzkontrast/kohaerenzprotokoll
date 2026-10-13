@@ -1,0 +1,391 @@
+{
+  "document": "kapitelanreicherung-mit-fundamentalen-konzepten",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 59,
+  "decisions": 60,
+  "same_surface": {},
+  "decided_mechanically": 55,
+  "needs_judgement": 5,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 207
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 211
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 138
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 100
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 97
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 114
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 133
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 136
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 97
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 196
+      },
+      {
+        "candidate": "Funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 125
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "ICH"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "Bunker"
+      },
+      {
+        "candidate": "Kerntrauma"
+      },
+      {
+        "candidate": "Paradoxon X"
+      },
+      {
+        "candidate": "PP-SYS-01"
+      },
+      {
+        "candidate": "PP-SYS-03"
+      },
+      {
+        "candidate": "Gartenpflege"
+      },
+      {
+        "candidate": "inneren Garten"
+      },
+      {
+        "candidate": "Fundament"
+      },
+      {
+        "candidate": "Paraiyas"
+      },
+      {
+        "candidate": "Gelbe Leere"
+      },
+      {
+        "candidate": "Scherben"
+      },
+      {
+        "candidate": "Heldinnenreise nach Schmidt"
+      },
+      {
+        "candidate": "Zyklische Bewährung"
+      },
+      {
+        "candidate": "Heldenreise nach Campbell/Vogler"
+      },
+      {
+        "candidate": "HJn"
+      },
+      {
+        "candidate": "HJ"
+      },
+      {
+        "candidate": "Strukturelle Dissoziation"
+      },
+      {
+        "candidate": "Traumainduzierte Fragmentierung"
+      },
+      {
+        "candidate": "Abwehrmechanismen"
+      },
+      {
+        "candidate": "Dissoziative Kompartmentalisierung"
+      },
+      {
+        "candidate": "Dissoziative Flucht"
+      },
+      {
+        "candidate": "Innere Rebellion"
+      },
+      {
+        "candidate": "Pseudo-Anpassung"
+      },
+      {
+        "candidate": "Ko-Bewusstsein"
+      },
+      {
+        "candidate": "Systemdynamik"
+      },
+      {
+        "candidate": "Feedback Loops"
+      },
+      {
+        "candidate": "Homöostase"
+      },
+      {
+        "candidate": "Kognitive Dissonanz"
+      },
+      {
+        "candidate": "Masking"
+      },
+      {
+        "candidate": "Resilienz"
+      },
+      {
+        "candidate": "Posttraumatisches Wachstum"
+      },
+      {
+        "candidate": "Katharsis"
+      },
+      {
+        "candidate": "Das Verwundete Kind"
+      },
+      {
+        "candidate": "Das Selbst (Archetyp)"
+      },
+      {
+        "candidate": "Trigger-Reaktivität"
+      },
+      {
+        "candidate": "Täterintrojekte"
+      },
+      {
+        "candidate": "Internalisierte Anteile"
+      },
+      {
+        "candidate": "Authentische Präsenz"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Juna/V  /  Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Depersonalisation / Derealisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Akzeptanz der Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 56,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 51,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

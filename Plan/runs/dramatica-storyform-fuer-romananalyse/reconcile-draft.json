@@ -1,0 +1,212 @@
+{
+  "document": "dramatica-storyform-fuer-romananalyse",
+  "drive_id": "1pU0Vra8DzvdcJxLcKRKLY4vZ0LjCGG-4fANRIKOk740",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 111,
+    "decisions": 108,
+    "decided_by_lookup": 84,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        97,
+        130,
+        199,
+        237,
+        340,
+        342
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Influence Character in Universe, proposed by the report"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        340
+      ],
+      "attribution": "",
+      "note": "Coherons as the energy AEGIS needs"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        191
+      ],
+      "attribution": "",
+      "note": "Emergence as Dramatica's Uncontrolled"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        17,
+        130
+      ],
+      "attribution": "",
+      "note": "Entropie in the report's four terms and AEGIS's fear"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        291,
+        348
+      ],
+      "attribution": "",
+      "note": "The Gödel-Gambit as the doubt that drives the IC Solution"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        93,
+        97,
+        106,
+        130
+      ],
+      "attribution": "",
+      "note": "Juna/V in the report's four throughlines"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        79,
+        97,
+        121,
+        225,
+        257,
+        348
+      ],
+      "attribution": "",
+      "note": "Kael as the Main Character in Mind, proposed by the report"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        121
+      ],
+      "attribution": "",
+      "note": "Kiko among the Emotional Parts"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        17,
+        336
+      ],
+      "attribution": "",
+      "note": "The novel's four terms set against Dramatica's building blocks"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        38,
+        106
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link as the Relationship Story throughline"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        148
+      ],
+      "attribution": "",
+      "note": "Functional multiplicity as the relationship's goal"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        130,
+        249,
+        288
+      ],
+      "attribution": "",
+      "note": "Nichts Rauschen as the future AEGIS aims to prevent"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        121
+      ],
+      "attribution": "",
+      "note": "Nyx among the Emotional Parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        272
+      ],
+      "attribution": "",
+      "note": "Risse as the Story Driver Action"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 191,
+      "decision": "reading",
+      "why": "Control against Emergence at the core of the DKT"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "decision": "reading",
+      "why": "Kollaps (Entropie) among the novel's four terms"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 358,
+      "decision": "occurrence",
+      "why": "Genesis Crisis, the origin pain binding Kael and AEGIS"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 272,
+      "decision": "reading",
+      "why": "Risse as the external events of the Story Driver"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "the simulation in the OS line"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-architektur-implementierung
+  lines                196  (frontmatter ends at 9)
+  body words           3362
+  headings             18   bold-only lines 0
+  table rows           13   code fences 0
+  question marks       3
+  backslash escapes    71
+  typographic marks    4   ascii quotes 86
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    56
+  repeated labels      none
+  longest line         1029 chars
+

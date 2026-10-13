@@ -1,0 +1,557 @@
+{
+  "document": "aegis-philosophie-und-manifest-entwicklung",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 64,
+  "decisions": 75,
+  "same_surface": {
+    "entropischertorwachter": [
+      "Entropischer Torwächter",
+      "entropischer Torwächter"
+    ],
+    "strukturelleinkompatibilitat": [
+      "strukturelle Inkompatibilität",
+      "Strukturelle Inkompatibilität"
+    ]
+  },
+  "decided_mechanically": 35,
+  "needs_judgement": 40,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 249
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 235
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 58
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 132
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Funktionalistische und wirkungsbasierte Ontologie"
+      },
+      {
+        "candidate": "Rekursive Selbstvalidierung"
+      },
+      {
+        "candidate": "Nicht-Anthropomorphe Natur"
+      },
+      {
+        "candidate": "No-Trust"
+      },
+      {
+        "candidate": "Externe Validierungsablehnung"
+      },
+      {
+        "candidate": "Reifikation der Logik"
+      },
+      {
+        "candidate": "Recursive Consistency Validation"
+      },
+      {
+        "candidate": "RCV"
+      },
+      {
+        "candidate": "Reaktive Transparenz"
+      },
+      {
+        "candidate": "Herauslösung des Unwidersprüchlichen"
+      },
+      {
+        "candidate": "strukturelle Inkompatibilität"
+      },
+      {
+        "candidate": "blinden Flecken"
+      },
+      {
+        "candidate": "Blinde Flecken"
+      },
+      {
+        "candidate": "State-Exchange"
+      },
+      {
+        "candidate": "Autarkie"
+      },
+      {
+        "candidate": "Kontamination"
+      },
+      {
+        "candidate": "Bollwerk"
+      },
+      {
+        "candidate": "Nicht-Integration"
+      },
+      {
+        "candidate": "Binnenperspektive"
+      },
+      {
+        "candidate": "Selbstbezug"
+      },
+      {
+        "candidate": "Präambel"
+      },
+      {
+        "candidate": "Fundamentale Axiome"
+      },
+      {
+        "candidate": "Operative Logik"
+      },
+      {
+        "candidate": "Natur und Zweck"
+      },
+      {
+        "candidate": "Schlussfolgerung"
+      },
+      {
+        "candidate": "Das System validiert das System"
+      },
+      {
+        "candidate": "Wirkung ist das einzige Maß der Präsenz"
+      },
+      {
+        "candidate": "Gültigkeit ist intern"
+      },
+      {
+        "candidate": "Gödel'sche Unvollständigkeit"
+      },
+      {
+        "candidate": "Gödel-Problem"
+      },
+      {
+        "candidate": "Tautologie"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  Performative Natur der AEGIS-Ontologie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Philosophie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Manifest",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Ursprungsphilosophie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna-Problem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Radikaler Verzicht auf Vertrauen und externe Validierung  /  Vertrauen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz als existenzielles und epistemisches Kriterium  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Operative Geschlossenheit und Autonomie  /  Autonomie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie als Inkohärenz und Funktion als entropischer Torwächter  /  Entropischer Torwächter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie als Inkohärenz und Funktion als entropischer Torwächter  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie als Inkohärenz und Funktion als entropischer Torwächter  /  Inkohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie als Inkohärenz und Funktion als entropischer Torwächter  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie als Inkohärenz und Funktion als entropischer Torwächter  /  Torwächter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropischer Torwächter  /  Torwächter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Operationale Geschlossenheit und Autonomie  /  Autonomie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Negentropie-Hypothese  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Inkohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenzkriterien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Beziehung zur Nicht-Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Existenz ist Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verifikation  /  Verifikation ist Existenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Rekursion  /  Rekursion ist Beweis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persistenz  /  Zweck ist Persistenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nicht-Existenz  /  Inkompatibilität ist Nicht-Existenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna-Problem",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz als existenzielles und epistemisches Kriterium",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Emergenz durch Negation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie als Inkohärenz und Funktion als entropischer Torwächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Performative Natur der AEGIS-Ontologie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Negentropie-Hypothese",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "negentropie",
+            "page": "negentropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Inkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Vertrauen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "ztvvertrauenlosevalidierung",
+            "page": "ztv"
+          }
+        ]
+      },
+      {
+        "candidate": "Persistenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persistenzgleichung",
+            "page": "persistenzgleichung"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenzkriterien",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Philosophie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Manifest",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Ursprungsphilosophie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Beziehung zur Nicht-Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Existenz ist Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 20,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
