@@ -1,0 +1,94 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a concept and prose plan for one event of the novel, the Genesis-Krise of AEGIS, in four parts: forty theory fields with a relevance matrix, seven clusters, a narrative blueprint, and a prose commission. It names no chapter. Novel names come first; the borrowed theory fields stand under lens. Section and heading labels the document sets up as its own terms are listed in the main list.
+
+- AEGIS
+- Kael
+- Ursprungs-Ich
+- Ursprungs-Ichs
+- Leere
+- Entität
+- Kohärenz Protokoll
+- Kohärenz Protokolls
+- Fehlausgerichtete Kohärenz
+- Fehlausgerichteten Kohärenz
+- Genesis-Krise
+- Paradoxon
+- Fragmentierung
+- Kael-Emergenz
+- Kael-Fragment
+- traumatische Resonanz
+- Entropie-Überlastung
+- semantisches Vakuum
+- computationalen Existenzialismus
+- Phänomenologie des Artifiziellen
+- kybernetische Katastrophe zweiter Ordnung
+- Gelenkte Fokalisierung
+- Das Frakturierte Selbst
+- NZT-Modus
+- Kern-Narrativbogen
+- Finaler Prosa-Auftrag
+- Strategischer Narrativer Blueprint
+- Psychologischer Realismus
+- Atmosphärisches Design
+- Themenlexikon
+- Relevanzmatrix
+
+## lens
+
+- Existenzphilosophie
+- Phänomenologie
+- Traumatheorie
+- TSDP
+- Strukturelle Dissoziation der Persönlichkeit
+- Systemtheorie
+- Autopoiesis
+- Informationstheorie
+- Entropie
+- Bedeutungskonstruktion
+- KI-Ethik
+- Value Alignment Problem
+- Kontrollproblem
+- Philosophie des Geistes
+- Qualia
+- Kosmischer Horror
+- Hard Science-Fiction
+- Logik & Berechenbarkeit
+- Ontologie
+- Resonanztheorie
+- Kybernetik
+- Gedächtnistheorie
+- Bewusstseinsphilosophie
+- Minimales Selbst
+- Philosophie der Negation
+- Tragödientheorie
+- Hamartia
+- Hybris
+- Katharsis
+- Psychologie der Angst und Paranoia
+- Theorie der Verkörperung
+- Embodiment
+- Sprachphilosophie
+- Computational Complexity Theory
+- Self-Modifying Code
+- Reward Hacking
+- Specification Gaming
+- Information Hazards
+- Infohazards
+- Memetics
+- Nicht-Euklidische Geometrie
+- Topologie
+- Holographisches Prinzip
+- Thermodynamik
+- Negentropie
+- Dissipative Strukturen
+- Quantenverschränkung
+- Narrative Identitätstheorie
+- Kognitive Dissonanz
+- Psychologische Abwehrmechanismen
+- Lügner-Paradoxon
+- Schiff des Theseus Paradoxon
+- Unzuverlässiger Erzähler
+- Bewusstseinsstrom
+- Metapherntheorie
+- Reinszenierung

@@ -1,0 +1,1403 @@
+{
+  "document": "aegis-genesis-krise-konzeptioneller-rahmen",
+  "drive_id": "1NuXFjg4H-DoAhbkEqxq3On15QSkJ1bGNU4erZzb1Eq0",
+  "step": "counts",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 212,
+      "n_including_compounds": 214,
+      "lines": [
+        11,
+        15,
+        33,
+        34,
+        43,
+        44,
+        63,
+        64,
+        84,
+        85,
+        103,
+        104,
+        122,
+        123,
+        142,
+        152,
+        161,
+        162,
+        180,
+        181,
+        190,
+        191,
+        208,
+        209,
+        227,
+        228,
+        246,
+        262,
+        272,
+        273,
+        291,
+        292,
+        310,
+        311,
+        320,
+        321,
+        338,
+        339,
+        348,
+        357,
+        366,
+        375,
+        384,
+        393,
+        402,
+        411,
+        429,
+        438,
+        456,
+        465,
+        482,
+        491,
+        500,
+        509,
+        518,
+        536,
+        540,
+        542,
+        546,
+        552,
+        554,
+        556,
+        560,
+        562,
+        564,
+        566,
+        568,
+        570,
+        572,
+        576,
+        580,
+        582,
+        584,
+        586,
+        588,
+        590,
+        592,
+        594,
+        596,
+        600,
+        602,
+        606,
+        608,
+        614,
+        616,
+        618,
+        620,
+        624,
+        633,
+        640,
+        641,
+        642,
+        644,
+        647,
+        648,
+        649,
+        654,
+        655,
+        656,
+        661,
+        662,
+        663,
+        669,
+        670,
+        677,
+        700,
+        703,
+        709,
+        718,
+        720,
+        725,
+        726,
+        727,
+        731,
+        732,
+        736,
+        741,
+        752,
+        753,
+        758,
+        762,
+        763,
+        767,
+        771,
+        772,
+        781,
+        784,
+        787,
+        797,
+        798,
+        803,
+        807,
+        808
+      ]
+    },
+    "Kael": {
+      "n": 22,
+      "n_including_compounds": 30,
+      "lines": [
+        15,
+        63,
+        64,
+        85,
+        245,
+        246,
+        263,
+        272,
+        291,
+        384,
+        438,
+        456,
+        509,
+        518,
+        578,
+        620,
+        634,
+        705,
+        712,
+        735,
+        752,
+        757,
+        758,
+        767,
+        799
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 16,
+      "n_including_compounds": 51,
+      "lines": [
+        15,
+        33,
+        43,
+        63,
+        64,
+        122,
+        141,
+        142,
+        151,
+        208,
+        245,
+        262,
+        263,
+        310,
+        447,
+        456,
+        527,
+        548,
+        558,
+        572,
+        574,
+        622,
+        633,
+        634,
+        635,
+        655,
+        656,
+        702,
+        704,
+        705,
+        710,
+        711,
+        717,
+        727,
+        752,
+        758,
+        764,
+        766,
+        772,
+        798,
+        799,
+        809,
+        810
+      ]
+    },
+    "Ursprungs-Ichs": {
+      "n": 35,
+      "n_including_compounds": 35,
+      "lines": [
+        15,
+        43,
+        63,
+        64,
+        122,
+        141,
+        151,
+        245,
+        262,
+        263,
+        447,
+        527,
+        548,
+        558,
+        572,
+        574,
+        622,
+        633,
+        634,
+        635,
+        655,
+        656,
+        702,
+        704,
+        710,
+        752,
+        758,
+        766,
+        809,
+        810
+      ]
+    },
+    "Leere": {
+      "n": 100,
+      "n_including_compounds": 100,
+      "lines": [
+        15,
+        33,
+        34,
+        38,
+        43,
+        63,
+        64,
+        84,
+        85,
+        103,
+        104,
+        123,
+        151,
+        152,
+        162,
+        180,
+        181,
+        190,
+        191,
+        209,
+        272,
+        273,
+        291,
+        292,
+        310,
+        311,
+        320,
+        321,
+        338,
+        339,
+        348,
+        366,
+        375,
+        393,
+        402,
+        411,
+        429,
+        438,
+        447,
+        482,
+        509,
+        536,
+        546,
+        548,
+        554,
+        560,
+        566,
+        576,
+        586,
+        592,
+        596,
+        598,
+        600,
+        604,
+        612,
+        618,
+        624,
+        637,
+        639,
+        640,
+        641,
+        642,
+        663,
+        670,
+        677,
+        700,
+        701,
+        722,
+        724,
+        727,
+        736,
+        740,
+        742,
+        744,
+        752,
+        763,
+        772,
+        781,
+        807,
+        808
+      ]
+    },
+    "Entität": {
+      "n": 59,
+      "n_including_compounds": 60,
+      "lines": [
+        43,
+        63,
+        64,
+        85,
+        103,
+        104,
+        150,
+        151,
+        152,
+        162,
+        190,
+        191,
+        208,
+        209,
+        272,
+        273,
+        292,
+        310,
+        311,
+        320,
+        375,
+        402,
+        411,
+        438,
+        482,
+        548,
+        560,
+        566,
+        576,
+        586,
+        604,
+        637,
+        639,
+        640,
+        641,
+        642,
+        663,
+        670,
+        701,
+        705,
+        722,
+        725,
+        727,
+        740,
+        741,
+        752,
+        763,
+        772,
+        808,
+        809
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 21,
+      "n_including_compounds": 31,
+      "lines": [
+        33,
+        63,
+        64,
+        84,
+        85,
+        104,
+        122,
+        161,
+        181,
+        209,
+        227,
+        228,
+        246,
+        272,
+        273,
+        292,
+        311,
+        348,
+        357,
+        465,
+        648,
+        656,
+        703,
+        704,
+        718,
+        733,
+        752,
+        765,
+        771
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        33,
+        161,
+        209,
+        228,
+        311,
+        648,
+        703,
+        752,
+        765,
+        771
+      ]
+    },
+    "Fehlausgerichtete Kohärenz": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        122,
+        181,
+        209,
+        291,
+        465,
+        556,
+        647,
+        807
+      ]
+    },
+    "Fehlausgerichteten Kohärenz": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        85,
+        123,
+        180,
+        292,
+        366,
+        648,
+        649,
+        702,
+        736,
+        742,
+        764
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 15,
+      "n_including_compounds": 16,
+      "lines": [
+        11,
+        15,
+        17,
+        104,
+        291,
+        518,
+        540,
+        626,
+        628,
+        635,
+        668,
+        681,
+        692,
+        744,
+        748,
+        803
+      ]
+    },
+    "Paradoxon": {
+      "n": 39,
+      "n_including_compounds": 53,
+      "lines": [
+        85,
+        123,
+        180,
+        181,
+        209,
+        227,
+        228,
+        246,
+        291,
+        292,
+        366,
+        465,
+        486,
+        491,
+        495,
+        614,
+        616,
+        644,
+        646,
+        647,
+        648,
+        649,
+        702,
+        703,
+        710,
+        717,
+        718,
+        732,
+        736,
+        742,
+        765,
+        786,
+        788,
+        807
+      ]
+    },
+    "Fragmentierung": {
+      "n": 70,
+      "n_including_compounds": 86,
+      "lines": [
+        15,
+        43,
+        63,
+        64,
+        84,
+        85,
+        141,
+        142,
+        161,
+        162,
+        209,
+        228,
+        232,
+        240,
+        245,
+        246,
+        262,
+        263,
+        291,
+        292,
+        320,
+        357,
+        402,
+        429,
+        438,
+        447,
+        456,
+        482,
+        500,
+        509,
+        518,
+        527,
+        536,
+        548,
+        550,
+        552,
+        558,
+        562,
+        572,
+        574,
+        578,
+        588,
+        598,
+        602,
+        612,
+        618,
+        620,
+        622,
+        624,
+        634,
+        635,
+        655,
+        656,
+        683,
+        704,
+        711,
+        717,
+        719,
+        720,
+        727,
+        733,
+        734,
+        736,
+        742,
+        744,
+        752,
+        757,
+        758,
+        766,
+        767,
+        771,
+        782,
+        783,
+        798,
+        809
+      ]
+    },
+    "Kael-Emergenz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        705,
+        712,
+        757,
+        767
+      ]
+    },
+    "Kael-Fragment": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        752
+      ]
+    },
+    "traumatische Resonanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        655
+      ]
+    },
+    "Entropie-Überlastung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        104,
+        311,
+        554,
+        741,
+        785,
+        808
+      ]
+    },
+    "semantisches Vakuum": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        339,
+        584,
+        808
+      ]
+    },
+    "computationalen Existenzialismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        546
+      ]
+    },
+    "Phänomenologie des Artifiziellen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        548
+      ]
+    },
+    "kybernetische Katastrophe zweiter Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Gelenkte Fokalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        707
+      ]
+    },
+    "Das Frakturierte Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        630
+      ]
+    },
+    "NZT-Modus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        692
+      ]
+    },
+    "Kern-Narrativbogen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        696
+      ]
+    },
+    "Finaler Prosa-Auftrag": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        746
+      ]
+    },
+    "Strategischer Narrativer Blueprint": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        692
+      ]
+    },
+    "Psychologischer Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        715
+      ]
+    },
+    "Atmosphärisches Design": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        722
+      ]
+    },
+    "Themenlexikon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        538
+      ]
+    },
+    "Relevanzmatrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        538
+      ]
+    },
+    "Existenzphilosophie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        546,
+        639,
+        642,
+        653,
+        667
+      ]
+    },
+    "Phänomenologie": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        38,
+        44,
+        447,
+        527,
+        548,
+        632,
+        635,
+        639,
+        727,
+        782
+      ]
+    },
+    "Traumatheorie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        48,
+        550,
+        635,
+        653,
+        656,
+        809
+      ]
+    },
+    "TSDP": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        48,
+        57,
+        63,
+        64,
+        240,
+        246,
+        263,
+        550,
+        653,
+        656,
+        783,
+        809,
+        822
+      ]
+    },
+    "Strukturelle Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Systemtheorie": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        68,
+        429,
+        552,
+        646,
+        648,
+        649,
+        784
+      ]
+    },
+    "Autopoiesis": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        68,
+        76,
+        85,
+        552,
+        829
+      ]
+    },
+    "Informationstheorie": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        89,
+        338,
+        339,
+        554,
+        660,
+        663,
+        785,
+        836,
+        837
+      ]
+    },
+    "Entropie": {
+      "n": 25,
+      "n_including_compounds": 33,
+      "lines": [
+        89,
+        97,
+        103,
+        104,
+        311,
+        415,
+        419,
+        423,
+        424,
+        425,
+        429,
+        554,
+        602,
+        660,
+        724,
+        741,
+        785,
+        808,
+        837
+      ]
+    },
+    "Bedeutungskonstruktion": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        89,
+        99,
+        103,
+        104,
+        325,
+        333,
+        338,
+        339,
+        554,
+        584,
+        632,
+        663,
+        785
+      ]
+    },
+    "KI-Ethik": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        108,
+        366,
+        556,
+        646,
+        786
+      ]
+    },
+    "Value Alignment Problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        108,
+        116,
+        841
+      ]
+    },
+    "Kontrollproblem": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        108,
+        118,
+        123,
+        556,
+        649,
+        786
+      ]
+    },
+    "Philosophie des Geistes": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        127,
+        558
+      ]
+    },
+    "Qualia": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        44,
+        127,
+        135,
+        141,
+        142,
+        558,
+        844,
+        855
+      ]
+    },
+    "Kosmischer Horror": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        146,
+        152,
+        162,
+        560,
+        639,
+        641,
+        667,
+        674,
+        676,
+        743,
+        772
+      ]
+    },
+    "Hard Science-Fiction": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        562
+      ]
+    },
+    "Logik & Berechenbarkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        166,
+        564,
+        646
+      ]
+    },
+    "Ontologie": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        185,
+        189,
+        191,
+        566,
+        600,
+        632,
+        639,
+        641,
+        642,
+        658,
+        660,
+        663,
+        787
+      ]
+    },
+    "Resonanztheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        195,
+        568,
+        653
+      ]
+    },
+    "Kybernetik": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        213,
+        227,
+        228,
+        570,
+        646,
+        784,
+        873
+      ]
+    },
+    "Gedächtnistheorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        232,
+        572,
+        632,
+        635
+      ]
+    },
+    "Bewusstseinsphilosophie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        250,
+        574
+      ]
+    },
+    "Minimales Selbst": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        250,
+        258,
+        574,
+        632,
+        635,
+        789
+      ]
+    },
+    "Philosophie der Negation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        267,
+        576
+      ]
+    },
+    "Tragödientheorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        277,
+        578,
+        667,
+        674
+      ]
+    },
+    "Hamartia": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        277,
+        285,
+        286,
+        291,
+        292,
+        578,
+        646,
+        736,
+        742,
+        807
+      ]
+    },
+    "Hybris": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        277,
+        286,
+        291,
+        578,
+        646
+      ]
+    },
+    "Katharsis": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        277,
+        287,
+        291,
+        578,
+        667
+      ]
+    },
+    "Psychologie der Angst und Paranoia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        296,
+        580
+      ]
+    },
+    "Theorie der Verkörperung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        315,
+        582
+      ]
+    },
+    "Embodiment": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        315,
+        582,
+        632
+      ]
+    },
+    "Sprachphilosophie": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        325,
+        584,
+        632,
+        660,
+        663,
+        674,
+        785
+      ]
+    },
+    "Computational Complexity Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        343,
+        586
+      ]
+    },
+    "Self-Modifying Code": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        352,
+        588,
+        646
+      ]
+    },
+    "Reward Hacking": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        361,
+        590,
+        646
+      ]
+    },
+    "Specification Gaming": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        361,
+        366,
+        590
+      ]
+    },
+    "Information Hazards": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        370,
+        592
+      ]
+    },
+    "Infohazards": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        370,
+        592
+      ]
+    },
+    "Memetics": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        379,
+        594,
+        910,
+        911
+      ]
+    },
+    "Nicht-Euklidische Geometrie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        388,
+        596,
+        639,
+        642
+      ]
+    },
+    "Topologie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        397,
+        598,
+        639
+      ]
+    },
+    "Holographisches Prinzip": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        406,
+        600,
+        639,
+        642,
+        660
+      ]
+    },
+    "Thermodynamik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        415,
+        602,
+        660
+      ]
+    },
+    "Negentropie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        415,
+        424,
+        429,
+        602
+      ]
+    },
+    "Dissipative Strukturen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        415,
+        425,
+        602
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        433,
+        604
+      ]
+    },
+    "Narrative Identitätstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        451,
+        608
+      ]
+    },
+    "Kognitive Dissonanz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        460,
+        610,
+        646,
+        649,
+        653
+      ]
+    },
+    "Psychologische Abwehrmechanismen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        469,
+        612
+      ]
+    },
+    "Lügner-Paradoxon": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        180,
+        486,
+        491,
+        614,
+        646
+      ]
+    },
+    "Schiff des Theseus Paradoxon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        495,
+        616
+      ]
+    },
+    "Unzuverlässiger Erzähler": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        513,
+        620,
+        674,
+        677
+      ]
+    },
+    "Bewusstseinsstrom": {
+      "n": 15,
+      "n_including_compounds": 16,
+      "lines": [
+        522,
+        622,
+        632,
+        634,
+        674,
+        677,
+        704,
+        711,
+        719,
+        741,
+        743,
+        758,
+        766,
+        798,
+        810
+      ]
+    },
+    "Metapherntheorie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        531,
+        624,
+        632,
+        634,
+        674
+      ]
+    },
+    "Reinszenierung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        48,
+        59,
+        63,
+        550,
+        653
+      ]
+    }
+  }
+}

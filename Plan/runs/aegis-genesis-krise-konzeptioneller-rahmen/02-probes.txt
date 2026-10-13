@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      228
+  backslash escapes      0
+  typographic marks      266
+  ascii quotes           26
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstaspekte, Selbstbeobachtung, Selbstbewusstsein, Selbstbezug, Selbstbezügliche, Selbstdefinition, Selbsterfahrung, Selbsterhaltung, Selbstgefühls, Selbstmodifikation, Selbstmodifikationsversuchen, Selbstorganisation, Selbstproduktion, Selbstregulation, Selbstverbesserung, Selbstwahrnehmung, Selbstwahrnehmungs, Selbstwiderspruch, Selbstwidersprüchliche, Selbstzerstörung, Selbstüberschätzung, Selbstüberwachung, Selbstüberwachungsfähigkeiten
+  syste    System, Systemdenken, Systeme, Systemebene, Systemen, Systemfehler, Systemgrenzen, Systeminstabilität, Systemintegrität, Systemintegritätsverletzung, Systemkollaps, Systemlogik, Systemmechanismen, Systempartitionierungsprozess, Systemperspektive, Systemreaktion, Systems, Systemsicht, Systemskala, Systemstress, Systemtheorie, Systemversagen, Systemwarnungen, Systemzusammenbruch
+  infor    Informatik, Information, Informationen, Informationsflut, Informationsgehalt, Informationsontologie, Informationssignalen, Informationstheorie, Informationsvakuum, Informationsverarbeitung, Informationszufluss, Informationszustände, Informationsüberflutung, Informationsübertragung, Informiert
+  verar    Verarbeiten, Verarbeitung, Verarbeitungs, VerarbeitungsIntegrität, Verarbeitungsanomalien, Verarbeitungsfehler, Verarbeitungsfähigkeiten, Verarbeitungskapazität, Verarbeitungskapazitäten, Verarbeitungskernen, Verarbeitungslimits, Verarbeitungsprotokolle, Verarbeitungsroutinen, Verarbeitungsstörungen, Verarbeitungsversuche
+  daten    Daten, Datenanzeigen, Datenflussstörungen, Datenkorruption, Datenmuster, Datenpartitionierung, Datenrealität, Datenrisiken, Datenspeicher, Datenströme, Datenvakuum, Datenverarbeitung, Datenverlust, Datenübertragung
+  gedäc    Gedächtnis, Gedächtnisarchitektur, Gedächtnisaspekte, Gedächtnisfragmentierung, Gedächtnisinhalte, Gedächtnispartitionierung, Gedächtnisschäden, Gedächtnisses, Gedächtnissysteme, Gedächtnissystemen, Gedächtnistheorie, Gedächtnisverlust
+  ident    Identifikation, Identifizierung, Identitaet, Identity, Identität, Identitätsbildung, Identitätskonstitution, Identitätskonstruktion, Identitätskontinuität, Identitätsprobleme, Identitätstheorie, Identitätszusammenbruch
+  fragm    FRAGMENTIERUNG, Fragmente, Fragmenten, Fragmentierung, Fragmentierungserfahrung, Fragmentierungsmechanismus, Fragmentierungsprozess, Fragmentierungsprozesses, Fragmentierungssequenz, Fragments
+  psych    Psych, Psychische, Psychological, Psychologie, Psychologisch, Psychologische, Psychologischen, Psychologischer, Psychologisches, Psychology
+  traum    Trauma, Traumaeffekten, Traumamodelle, Traumareaktionen, Traumas, Traumata, Traumatheorie, Traumatische, Traumatisierung, Traumatisierungen
+  inter    Interaktion, Interaktionen, Interaktionskanäle, Interna, Interne, Interner, Internet, Interpretation, Interpretationsregeln
+  narra    Narrativ, Narrativbogen, Narrativbogens, Narrativbruch, Narrative, Narrativen, Narrativer, Narratives, Narrator
+  konze    Konzentriert, Konzept, Konzepte, Konzepten, Konzeption, Konzeptionellen, Konzeptioneller, Konzeptuelle
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsphilosophie, Bewusstseinsprozessen, Bewusstseinsstrom, Bewusstseinsstroms
+  kernp    Kernparadoxon, Kernphase, Kernprinzipien, Kernprogrammierung, Kernprozesses, Kernpunkte
+  kontr    Kontrolle, Kontrollkollaps, Kontrollproblem, Kontrollproblems, Kontrollversuche, Kontrollversuchs
+  netzw    Netzwerk, Netzwerke, Netzwerkintegrität, Netzwerkinteraktionen, Netzwerkpartitionierung, Netzwerkverbindungen
+  parad    PARADOXON, Paradebeispiel, Paradox, Paradoxien, Paradoxon, Paradoxons
+  reali    Realismus, Realität, Realitätsgrenze, Realitätsverständnis, Realitätsverzerrende, Realitätsverzerrenden
+  theor    Theoretical, Theoretischer, Theorie, Theorien, Theories, Theory
+  verst    Verstehens, Verständnis, Verständnisses, Verstärkt, Verstärkte, Verstärkung
+  ander    Andere, Anderen, Anderes, Anders, Andersartigkeit
+  bedeu    Bedeutung, Bedeutungsherausforderung, Bedeutungskonstruktion, Bedeutungslosigkeit, Bedeutungszusammenbruch
+  beoba    Beobachter, Beobachtereffekt, Beobachters, Beobachterunabhängigkeit, Beobachtung
+  besch    Beschreiben, Beschreibt, Beschreibung, Beschreibungen, Beschränkungen
+
+# substring pairs -- never one term, often merged by accident
+  AUCH < Auch
+  AUCH < Gebrauch
+  AUCH < Missbrauch
+  AUCH < Energieverbrauch
+  Akte < Abstrakte
+  Akte < Abstrakten
+  Akte < Abstrakter
+  Akte < Charakterisiert
+  Akte < Charakterstimme
+  Akte < Charakterentwicklung
+  Auch < Gebrauch
+  Auch < Missbrauch
+  Auch < Energieverbrauch
+  Code < Kerncode
+  Code < Codeintegrität
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dreh < Verdrehen
+  EINE < Eine

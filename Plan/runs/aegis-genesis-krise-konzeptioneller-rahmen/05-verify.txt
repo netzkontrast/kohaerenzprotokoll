@@ -1,0 +1,136 @@
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Relevanz"
+whole word, case-sensitive     52
+whole word, case-insensitive   52
+including compounds            53
+
+`Relevanz` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#52]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Begründung"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Begründung` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#8]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Enthaltene Themen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Enthaltene Themen` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#7]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "könnte"
+whole word, case-sensitive     43
+whole word, case-insensitive   59
+including compounds            55
+
+`könnte` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#43]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Kohärenz Protokoll"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            31
+
+`Kohärenz Protokoll` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#21]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Kohärenz Protokolls"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kohärenz Protokolls` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#10]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#0]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Fehlausgerichtete Kohärenz` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#8]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Fehlausgerichteten Kohärenz` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#11]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Ursprungs-Ich"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            51
+
+`Ursprungs-Ich` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#16]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Ursprungs-Ichs"
+whole word, case-sensitive     35
+whole word, case-insensitive   35
+including compounds            35
+
+`Ursprungs-Ichs` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#35]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Kael-Emergenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kael-Emergenz` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#4]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Kael-Fragments"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Fragments` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#1]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Kael-Fragment"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kael-Fragment` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#0]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "semantisches Vakuum"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`semantisches Vakuum` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#3]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Gelenkte Fokalisierung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gelenkte Fokalisierung` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#1]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Hamartia"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Hamartia` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#13]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#0]
+
+$ python3 scripts/read.py aegis-genesis-krise-konzeptioneller-rahmen --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[aegis-genesis-krise-konzeptioneller-rahmen.md:#0]
+
+sum 52+8+7 = 67 (stance_marker_count)
+$ grep -n -o "Kap[a-zäöü]*" Sources/drive/aegis-genesis-krise-konzeptioneller-rahmen.md
+64:Kapazität
