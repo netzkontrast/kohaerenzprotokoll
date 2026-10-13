@@ -1,0 +1,14 @@
+# narrative-modelle-und-dramatica-erweiterung
+  lines                510  (frontmatter ends at 9)
+  body words           8701
+  headings             27   bold-only lines 2
+  table rows           22   code fences 0
+  question marks       11
+  backslash escapes    24
+  typographic marks    228   ascii quotes 4
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    61
+  repeated labels      none
+  longest line         1119 chars
+

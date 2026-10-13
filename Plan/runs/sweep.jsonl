@@ -1471,3 +1471,4 @@
 {"document": "narrative-context-protocol-ncp-spezifikation", "page": "juna", "surface": "Juna", "line": 30, "decision": "reading", "why": "the subsystem Juna/V, read on the page", "at": "2026-10-13"}
 {"document": "narrative-context-protocol-ncp-spezifikation", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-13"}
 {"document": "narrative-context-protocol-ncp-spezifikation", "page": "ueberwelt", "surface": "Simulation", "line": 45, "decision": "occurrence", "why": "simulation in the software sense", "at": "2026-10-13"}
+{"document": "narrative-modelle-und-dramatica-erweiterung", "page": "kohaerenz", "surface": "Kohärenz", "line": 34, "decision": "occurrence", "why": "coherence in the survey's general sense", "at": "2026-10-13"}

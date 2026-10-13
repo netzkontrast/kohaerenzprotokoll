@@ -1,0 +1,197 @@
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Sektion"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Sektion` ^[narrative-modelle-und-dramatica-erweiterung.md:#9]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Dimension"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Dimension` ^[narrative-modelle-und-dramatica-erweiterung.md:#8]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[narrative-modelle-und-dramatica-erweiterung.md:#1]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Schlussfolgerung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schlussfolgerung` ^[narrative-modelle-und-dramatica-erweiterung.md:#1]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Zugriff am Juli 3, 2025"
+whole word, case-sensitive     47
+whole word, case-insensitive   47
+including compounds            47
+
+`Zugriff am Juli 3, 2025` ^[narrative-modelle-und-dramatica-erweiterung.md:#47]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Throughlines"
+whole word, case-sensitive     13
+whole word, case-insensitive   14
+including compounds            13
+
+`Throughlines` ^[narrative-modelle-und-dramatica-erweiterung.md:#13]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Mind"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Mind` ^[narrative-modelle-und-dramatica-erweiterung.md:#20]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Story Mind"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Story Mind` ^[narrative-modelle-und-dramatica-erweiterung.md:#11]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "System Mind"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`System Mind` ^[narrative-modelle-und-dramatica-erweiterung.md:#6]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[narrative-modelle-und-dramatica-erweiterung.md:#0]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[narrative-modelle-und-dramatica-erweiterung.md:#0]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[narrative-modelle-und-dramatica-erweiterung.md:#0]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[narrative-modelle-und-dramatica-erweiterung.md:#0]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Guardians"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Guardians` ^[narrative-modelle-und-dramatica-erweiterung.md:#0]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[narrative-modelle-und-dramatica-erweiterung.md:#0]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Kohärenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenz` ^[narrative-modelle-und-dramatica-erweiterung.md:#4]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Story Driver"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Story Driver` ^[narrative-modelle-und-dramatica-erweiterung.md:#1]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Classes"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Classes` ^[narrative-modelle-und-dramatica-erweiterung.md:#2]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Types"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Types` ^[narrative-modelle-und-dramatica-erweiterung.md:#2]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Variations"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Variations` ^[narrative-modelle-und-dramatica-erweiterung.md:#2]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Elements"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Elements` ^[narrative-modelle-und-dramatica-erweiterung.md:#5]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Universe"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Universe` ^[narrative-modelle-und-dramatica-erweiterung.md:#3]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Physics"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Physics` ^[narrative-modelle-und-dramatica-erweiterung.md:#4]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Psychology"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Psychology` ^[narrative-modelle-und-dramatica-erweiterung.md:#3]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Dopamin"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Dopamin` ^[narrative-modelle-und-dramatica-erweiterung.md:#4]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Serotonin"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Serotonin` ^[narrative-modelle-und-dramatica-erweiterung.md:#4]
+
+$ python3 scripts/read.py narrative-modelle-und-dramatica-erweiterung --count "Rosetta-Stein"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Rosetta-Stein` ^[narrative-modelle-und-dramatica-erweiterung.md:#4]
+
+stance_marker_count 19 = Sektion 9 + Dimension 8 + Referenzen 1 + Schlussfolgerung 1
+$ python3 scripts/profile.py narrative-modelle-und-dramatica-erweiterung  (glued ref numbers 61)
+  lines                510  (frontmatter ends at 9)
+  headings             27   bold-only lines 2
+  math symbol lines    1
+  glued ref numbers    61
+candidates 79: $ grep -c '^- ' Plan/runs/narrative-modelle-und-dramatica-erweiterung/03-candidates.md
+79
