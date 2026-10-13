@@ -1,0 +1,249 @@
+{
+  "document": "dramatica-dual-storyform-mapping-protokoll",
+  "drive_id": "12xG589k7JTtQK9TDGkJqC9eeWfU49Ljf0IJkHCODyT4",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 90,
+    "decided_by_lookup": 83,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        32,
+        49,
+        69,
+        73,
+        75,
+        82,
+        154,
+        253
+      ],
+      "attribution": "",
+      "note": "AEGIS as the kernel's guard, MC of its Storyform B, and the paradox it keeps open"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        155,
+        176
+      ],
+      "attribution": "",
+      "note": "Juna as the Chaitin constant in its Alternative 2"
+    },
+    {
+      "page": "did",
+      "lines": [
+        157,
+        251
+      ],
+      "attribution": "",
+      "note": "the structural dissociation as survival architecture"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        13,
+        195
+      ],
+      "attribution": "",
+      "note": "the validation of its dual storyform under the Dual-Kernel-Theorie"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        185,
+        215
+      ],
+      "attribution": "",
+      "note": "Kapitel 36–39 crossing to the external level"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        31,
+        36,
+        50,
+        67,
+        155,
+        176,
+        177,
+        191,
+        195
+      ],
+      "attribution": "",
+      "note": "Juna as a mathematical-structural anchor, the Bruch resolved, the Chaitin constant"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        32,
+        51,
+        89,
+        154,
+        184,
+        191
+      ],
+      "attribution": "",
+      "note": "Kael as the Protagonist of its Storyform A, the Influence Character of its Storyform B, the Interface"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "the reversible, information-preserving kernel"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        24
+      ],
+      "attribution": "",
+      "note": "the irreversible kernel entering as noise"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        23,
+        49,
+        207
+      ],
+      "attribution": "",
+      "note": "the foundation of the coherence kernel, AEGIS's table row, the lattice blueprint"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        23,
+        81
+      ],
+      "attribution": "",
+      "note": "LogOS in the report's account of the city"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        177,
+        233
+      ],
+      "attribution": "",
+      "note": "Juna unmasked, and the signpost row"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        24,
+        40,
+        226
+      ],
+      "attribution": "",
+      "note": "the Risse as thermodynamic relief points, the noise, the table row"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        63,
+        65,
+        67
+      ],
+      "attribution": "",
+      "note": "the Bruch in Sektor 04 resolved as stabil integriert"
+    },
+    {
+      "page": "verschraenkungs-insel",
+      "lines": [
+        79,
+        82
+      ],
+      "attribution": "",
+      "note": "the island described for Kapitel 33, isolated by entanglement"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "the Story-Mind Vortex in which Kael and AEGIS are entangled"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      24,
+      33,
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 13,
+      "decision": "reading",
+      "why": "the DKT applied to validate the storyforms, read on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "what the collapse kernel manifests, read on kollaps-kernel"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 36,
+      "decision": "occurrence",
+      "why": "the simulation in the general sense"
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 88,
+      "decision": "reading",
+      "why": "the Story-Mind Vortex entangling Kael and AEGIS, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

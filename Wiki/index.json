@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-12",
+  "built": "2026-10-13",
   "by": "scripts/wiki_index.py",
   "pages": 106,
   "conflicts": 17,
@@ -427,10 +427,14 @@
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
-        "roman-outline-kohaerenz-protokoll"
+        "roman-outline-kohaerenz-protokoll",
+        "ki-roman-design-mechaniken",
+        "konsolidierung-des-hard-canon-protokolls",
+        "storyforms-system-mind-bewusstsein",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 326,
-      "readings": 326,
+      "sources": 330,
+      "readings": 330,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -833,10 +837,12 @@
         "an-introduction-to-the-coherence-protocol-the-war-for-realit",
         "dramatica-storyform-kohaerenz-protokoll",
         "dramatica-storyform-validierung-und-synthese",
-        "roman-kapitel-entwurf-mit-kohaerenzprotokoll"
+        "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+        "ki-roman-design-mechaniken",
+        "konsolidierung-des-hard-canon-protokolls"
       ],
-      "sources": 159,
-      "readings": 159,
+      "sources": 161,
+      "readings": 161,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1248,10 +1254,11 @@
         "roman-synthese-mit-dual-kernel-theorie",
         "ui-konzept-fuer-roman-entwicklungssystem",
         "kohaerenz-protokoll-synthese",
-        "roman-konzeptentwicklung-kohaerenz-protokoll"
+        "roman-konzeptentwicklung-kohaerenz-protokoll",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 23,
-      "readings": 22,
+      "sources": 24,
+      "readings": 23,
       "conflict": "none yet"
     },
     "coheron": {
@@ -1419,10 +1426,11 @@
         "how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw",
         "an-introduction-to-the-concepts-of-coherence-protocol",
         "the-true-coherence-protocol-architecting-kaels-journey-from",
-        "roman-kapitel-entwurf-mit-kohaerenzprotokoll"
+        "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 85,
-      "readings": 85,
+      "sources": 86,
+      "readings": 86,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1520,10 +1528,13 @@
         "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "an-introduction-to-the-coherence-protocol-the-war-for-realit",
-        "roman-kapitel-entwurf-mit-kohaerenzprotokoll"
+        "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+        "ki-roman-design-mechaniken",
+        "storyforms-system-mind-bewusstsein",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 92,
+      "readings": 92,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -1984,10 +1995,11 @@
         "the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found",
         "untersuche-in-wie-fern-juna-bzw-das-fundament-du",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
-        "kohaerenz-protokoll-master-outline"
+        "kohaerenz-protokoll-master-outline",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 69,
-      "readings": 69,
+      "sources": 70,
+      "readings": 70,
       "conflict": "C13"
     },
     "formel-inversion": {
@@ -2297,10 +2309,11 @@
         "the-ontology-of-antagonism-the-function-of-paradox-in-kohaer",
         "an-introduction-to-the-coherence-protocol-the-war-for-realit",
         "dramatica-storyform-validierung-und-synthese",
-        "the-coherence-protocol-an-architectural-blueprint-for-agenti"
+        "the-coherence-protocol-an-architectural-blueprint-for-agenti",
+        "storyforms-system-mind-bewusstsein"
       ],
-      "sources": 104,
-      "readings": 102,
+      "sources": 105,
+      "readings": 103,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -2551,10 +2564,11 @@
         "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
         "the-architecture-of-a-misguided-god-a-biography-of-aegis",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
-        "kohaerenz-protokoll-master-outline"
+        "kohaerenz-protokoll-master-outline",
+        "konsolidierung-des-hard-canon-protokolls"
       ],
-      "sources": 157,
-      "readings": 157,
+      "sources": 158,
+      "readings": 158,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2982,10 +2996,15 @@
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
-        "roman-outline-kohaerenz-protokoll"
+        "roman-outline-kohaerenz-protokoll",
+        "ki-roman-design-mechaniken",
+        "konsolidierung-des-hard-canon-protokolls",
+        "kohaerenz-protokoll-architecture-synthesis-2",
+        "storyforms-system-mind-bewusstsein",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 279,
-      "readings": 279,
+      "sources": 284,
+      "readings": 284,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -3370,10 +3389,14 @@
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
-        "roman-outline-kohaerenz-protokoll"
+        "roman-outline-kohaerenz-protokoll",
+        "ki-roman-design-mechaniken",
+        "konsolidierung-des-hard-canon-protokolls",
+        "storyforms-system-mind-bewusstsein",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 315,
-      "readings": 316,
+      "sources": 319,
+      "readings": 320,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3737,10 +3760,12 @@
         "roman-kapitel-1-generierungsprozess",
         "dramatica-storyform-kohaerenz-protokoll",
         "dramatica-storyform-kohaerenz-protokoll-2",
-        "dramatica-storyform-validierung-und-synthese"
+        "dramatica-storyform-validierung-und-synthese",
+        "konsolidierung-des-hard-canon-protokolls",
+        "storyforms-system-mind-bewusstsein"
       ],
-      "sources": 218,
-      "readings": 217,
+      "sources": 220,
+      "readings": 219,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -4026,10 +4051,13 @@
         "dramatica-storyform-synthese-aegis-verortung",
         "kohaerenz-protokoll-synthese-integration",
         "kohaerenz-protokoll-synthese",
-        "roman-kapitel-entwurf-mit-kohaerenzprotokoll"
+        "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+        "ki-roman-design-mechaniken",
+        "storyforms-system-mind-bewusstsein",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 51,
-      "readings": 51,
+      "sources": 54,
+      "readings": 54,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -4184,10 +4212,13 @@
         "kohaerenz-protokoll-synthese-integration",
         "kohaerenz-protokoll-synthese",
         "protokoll-ontologie-roman-konzeptentwicklung",
-        "roman-kapitel-entwurf-mit-kohaerenzprotokoll"
+        "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+        "ki-roman-design-mechaniken",
+        "storyforms-system-mind-bewusstsein",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 47,
-      "readings": 47,
+      "sources": 50,
+      "readings": 50,
       "conflict": "none"
     },
     "komponente-734": {
@@ -4399,10 +4430,11 @@
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
-        "roman-outline-kohaerenz-protokoll"
+        "roman-outline-kohaerenz-protokoll",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 121,
-      "readings": 121,
+      "sources": 122,
+      "readings": 122,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -4898,10 +4930,11 @@
         "kapitel-eins-1-kohaerenz-protokoll",
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
-        "kohaerenz-protokoll-master-outline"
+        "kohaerenz-protokoll-master-outline",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 121,
-      "readings": 121,
+      "sources": 122,
+      "readings": 122,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -5296,10 +5329,13 @@
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "dramatica-storyform-kohaerenz-protokoll",
         "dramatica-storyform-kohaerenz-protokoll-2",
-        "dramatica-storyform-validierung-und-synthese"
+        "dramatica-storyform-validierung-und-synthese",
+        "konsolidierung-des-hard-canon-protokolls",
+        "kohaerenz-protokoll-architecture-synthesis-2",
+        "storyforms-system-mind-bewusstsein"
       ],
-      "sources": 156,
-      "readings": 156,
+      "sources": 159,
+      "readings": 159,
       "conflict": "none"
     },
     "moros": {
@@ -5424,10 +5460,12 @@
         "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll",
         "strategy-of-fragmentation-a-narrative-implementation-plan-fo",
         "the-coherence-protocol-a-comparative-analysis-across-the-sca",
-        "roman-kapitel-1-generierungsprozess"
+        "roman-kapitel-1-generierungsprozess",
+        "konsolidierung-des-hard-canon-protokolls",
+        "storyforms-system-mind-bewusstsein"
       ],
-      "sources": 116,
-      "readings": 116,
+      "sources": 118,
+      "readings": 118,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -5476,10 +5514,11 @@
         "roman-konzeptentwicklung-kohaerenz-protokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
-        "roman-outline-kohaerenz-protokoll"
+        "roman-outline-kohaerenz-protokoll",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 41,
+      "readings": 41,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -5647,10 +5686,12 @@
         "finales-expose-wissenschaftliche-fassung",
         "heilung-der-verlust-von-superkraeften",
         "juna-v-exiliertes-ursprungs-ich",
-        "dramatica-storyform-validierung-und-synthese"
+        "dramatica-storyform-validierung-und-synthese",
+        "konsolidierung-des-hard-canon-protokolls",
+        "storyforms-system-mind-bewusstsein"
       ],
-      "sources": 158,
-      "readings": 158,
+      "sources": 160,
+      "readings": 160,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -5685,10 +5726,11 @@
         "emergenz-aegis-und-selbststrukturierung",
         "emergenz-autonomer-systeme-aegis-forschung",
         "logiksystem-aegis-entwicklungsszenarien-docx",
-        "roman-kapitel-1-generierungsprozess"
+        "roman-kapitel-1-generierungsprozess",
+        "storyforms-system-mind-bewusstsein"
       ],
-      "sources": 26,
-      "readings": 25,
+      "sources": 27,
+      "readings": 26,
       "conflict": "none yet"
     },
     "nexus": {
@@ -5884,10 +5926,11 @@
         "an-introduction-to-the-coherence-protocol-the-war-for-realit",
         "dramatica-storyform-kohaerenz-protokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
-        "kohaerenz-protokoll-master-outline"
+        "kohaerenz-protokoll-master-outline",
+        "konsolidierung-des-hard-canon-protokolls"
       ],
-      "sources": 135,
-      "readings": 135,
+      "sources": 136,
+      "readings": 136,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -6168,10 +6211,11 @@
         "project-status-report-kohaerenz-protokoll-canon-systemic-sta",
         "the-coherence-protocol-a-world-bible",
         "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko",
-        "kohaerenz-protokoll-comprehensive-project-state-narrative-au"
+        "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
+        "konsolidierung-des-hard-canon-protokolls"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 61,
+      "readings": 61,
       "conflict": "C11"
     },
     "ouroboros-struktur": {
@@ -6691,10 +6735,11 @@
         "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
         "the-ontology-of-antagonism-the-function-of-paradox-in-kohaer",
         "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
-        "welcome-to-the-coherence-protocol-a-beginner-s-guide"
+        "welcome-to-the-coherence-protocol-a-beginner-s-guide",
+        "konsolidierung-des-hard-canon-protokolls"
       ],
-      "sources": 125,
-      "readings": 125,
+      "sources": 126,
+      "readings": 126,
       "conflict": "none"
     },
     "risse": {
@@ -6938,10 +6983,13 @@
         "dramatica-storyform-kohaerenz-protokoll-2",
         "kapitel-eins-1-kohaerenz-protokoll",
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
-        "kohaerenz-protokoll-kapitel-39-das-mosaik-herz"
+        "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
+        "konsolidierung-des-hard-canon-protokolls",
+        "storyforms-system-mind-bewusstsein",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 233,
-      "readings": 233,
+      "sources": 236,
+      "readings": 236,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -6990,10 +7038,11 @@
         "kohaerenz-protokoll-kapitel-outline-generierung",
         "roman-synthese-mit-dual-kernel-theorie",
         "kohaerenz-protokoll-detaillierter-plot-blueprint",
-        "roman-konzeptentwicklung-kohaerenz-protokoll"
+        "roman-konzeptentwicklung-kohaerenz-protokoll",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "selene": {
@@ -7221,10 +7270,11 @@
         "arbeitshilfe-kohaerenz-protokoll-kapitel-2",
         "roman-kapitel-ausformulierung-kohaerenz-protokoll",
         "kapitel-17",
-        "roman-kapitel-1-generierungsprozess"
+        "roman-kapitel-1-generierungsprozess",
+        "konsolidierung-des-hard-canon-protokolls"
       ],
-      "sources": 69,
-      "readings": 69,
+      "sources": 70,
+      "readings": 70,
       "conflict": "C11"
     },
     "snk": {
@@ -7492,10 +7542,11 @@
         "operationalizing-system-collapse-a-strategic-guide-to-aegis",
         "risikoanalysebericht-eine-systematische-bewertung-der-bedroh",
         "the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found",
-        "welcome-to-the-coherence-protocol-a-beginner-s-guide"
+        "welcome-to-the-coherence-protocol-a-beginner-s-guide",
+        "storyforms-system-mind-bewusstsein"
       ],
-      "sources": 65,
-      "readings": 65,
+      "sources": 66,
+      "readings": 66,
       "conflict": "C12, C16"
     },
     "truth-rotation": {
@@ -7738,10 +7789,13 @@
         "dramatica-storyform-kohaerenz-protokoll",
         "dramatica-storyform-kohaerenz-protokoll-2",
         "dramatica-storyform-validierung-und-synthese",
-        "kohaerenz-protokoll-master-outline"
+        "kohaerenz-protokoll-master-outline",
+        "ki-roman-design-mechaniken",
+        "konsolidierung-des-hard-canon-protokolls",
+        "storyforms-system-mind-bewusstsein"
       ],
-      "sources": 192,
-      "readings": 192,
+      "sources": 195,
+      "readings": 195,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -7956,10 +8010,11 @@
         "worldbuilding-konzept-kohaerenzprotokoll-md",
         "dramatica-storyform-synthese-aegis-analyse-2",
         "roman-refactoring-kohaerenz-und-charakterentwicklung",
-        "roman-synthese-mit-dual-kernel-theorie"
+        "roman-synthese-mit-dual-kernel-theorie",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "vortex": {
@@ -8009,10 +8064,12 @@
         "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
         "romanarchitektur-validierung-und-synthese",
         "dramatica-storyform-synthese-aegis-verortung",
-        "kohaerenz-protokoll-synthese"
+        "kohaerenz-protokoll-synthese",
+        "kohaerenz-protokoll-architecture-synthesis-2",
+        "dramatica-dual-storyform-mapping-protokoll"
       ],
-      "sources": 41,
-      "readings": 41,
+      "sources": 43,
+      "readings": 43,
       "conflict": "C7, C11, C14"
     },
     "ztv": {
