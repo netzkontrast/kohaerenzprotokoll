@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      12
+  backslash escapes      229
+  typographic marks      135
+  ascii quotes           232
+
+# inflection families -- one term, several surfaces
+  infor    Information, Informational, Informationslöschung, Informationspuffer, Informationstheoretische, Informationsverarbeitung
+  story    Story, Storybeat, Storyform, Storyformen, Storyforms, Storymind
+  theor    Theorem, Theoretic, Theoretical, Theorie, Theories, Theory
+  lösch    Lösch, Löschen, Löschfelder, Löschung, Löschungsrückständen
+  erzäh    Erzählstränge, Erzählsträngen, Erzählung, Erzählungen
+  inter    Interface, Internet, Interpretation, Inters
+  ontol    Ontological, Ontologie, Ontologischer, Ontology
+  psych    Psychological, Psychologie, Psychologische, Psychology
+  valid    Valid, Validated, Validation, Validierung
+  conce    Concept, Conception, Concern
+  criti    Critic, Critical, Criticism
+  diese    Diese, Dieser, Dieses
+  disso    Dissociation, Dissociative, Dissoziation
+  funkt    Funktion, Funktionen, Funktionieren
+  hiera    Hierarchie, Hierarchien, Hierarchy
+  ident    Identity, Identität, Identitätsstörung
+  integ    Integrated, Integration, Integrität
+  liter    Literacy, Literary, Literature
+  mecha    Mechanics, Mechanik, Mechanismus
+  monst    Monster, Monstergruppe, Monstrous
+  parad    Paradox, Paradoxien, Paradoxon
+  physi    Physical, Physics, Physik
+  proto    Protocol, Protokoll, Protokolls
+  reali    Realisierung, Reality, Realität
+  subst    Substanzen, Substrat, Substrate
+
+# substring pairs -- never one term, often merged by accident
+  Anna < Giannakopoulos
+  Book < Bookshelves
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Feld < Löschfelder
+  Form < Formless
+  Form < Platform
+  Form < Storyform
+  Form < Storyforms
+  Form < Information
+  Form < Storyformen
+  Form < Informational
+  Form < Informationspuffer
+  Form < Informationslöschung
+  Form < Informationstheoretische
+  Form < Informationsverarbeitung
+  ISER < Iser
+  ISER < Isers
+  Iser < Isers
