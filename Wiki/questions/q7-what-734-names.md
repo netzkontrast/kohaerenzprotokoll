@@ -458,3 +458,11 @@ Where it stands in the record's own terms: it supports the designation sense of 
 The paper writes that the subjective I was sacrificed and became „Component 734“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L64], „an objective part of a machine defined by negation“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L64]
 
 Where it stands in the record's own terms: it supports the designation sense of 734 (the component); on the dwelling sense it says nothing; recorded, not applied, the question stays open.
+
+## 2026-10-13 — `storyforms-system-mind-bewusstsein`, 2026-04-28, the 5D-Synthese exegesis
+
+**The 5D-Synthese exegesis writes `T-734` as Kael's „Kern-Trauma“ ^[storyforms-system-mind-bewusstsein.md:L35], avoided in its Storyform A and held to in its Storyform B.**
+
+In its Storyform A Kael has run out of ways to hide: „Kael gehen in den ersten 13 Kapiteln die Optionen und Vermeidungsstrategien aus, sich vor seinem Kern-Trauma (T-734) zu verstecken.“ ^[storyforms-system-mind-bewusstsein.md:L35] In its Storyform B Kael „hält kompromisslos an seinem Kern-Trauma (T-734) als harte Faktenbasis der Realität fest“ ^[storyforms-system-mind-bewusstsein.md:L70], refusing AEGIS's deletion.
+
+Where it stands in the record's own terms: 734 as a trauma of Kael, not a dwelling and not AEGIS's designation; recorded, the question stays open.
