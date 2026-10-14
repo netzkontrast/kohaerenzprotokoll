@@ -1,0 +1,91 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is German prose, an outline of the plot in eight numbered parts (I to VIII) with two flattened tables and a reference list of 65 web sources. Terms are listed as the document writes them; the singular Kernwelt and the plural Kernwelten are both listed. `Alter` and `Alters` both stand in the text. The English terms Simplicity, Immense Order, Internal Structure, Sporadicity and Uniqueness are the document's own labels for properties of M and are set in italics or bold, so the count may read the marked line. The names inside the reference list belong to the cited web pages and are not listed. Quoted system messages (AEGIS' log lines) are listed as the document writes them.
+
+- AEGIS
+- M
+- Kael
+- Juna
+- Kael/M
+- M/Kael
+- Potentialmeer
+- Monstergruppe
+- Kohärenz Protokoll
+- Kernwelten
+- Kernwelt
+- KW1
+- KW2
+- KW3
+- KW4
+- Konstrukt-Stadt
+- Resonanz-Nebel
+- Schattenlabyrinth
+- Möglichkeitsstrom
+- Alters
+- Alter
+- Persecutor-Alters
+- Persecutor
+- Parias
+- Paria
+- Simplicity
+- Irreduzibilität
+- Immense Order
+- Interne Symmetrie
+- Internal Structure
+- Sporadicity
+- Uniqueness
+- Basisintegrität
+- Kael-Juna-Verbindung
+- K-J-Verbindung
+- K-J-Bindung
+- Moonshine
+- Moonshine-Akkord
+- Moonshine-Verbindung
+- Moonshine-Ereignis
+- Narratives Moonshine
+- Sub-protokollarische Resonanz
+- Geteilte Zustände
+- Nicht-lokale Synchronizität
+- Zugriff auf verborgene Ressourcen
+- kausaler Geist
+- blinden Fleck
+- Kernselbst
+- Guardians
+- Systemfehler und Weltenmutationen
+- Interne Erosion
+- Kaels Weg zur Integration
+- Systembruchpunkt
+- Systemische Singularität
+- Kollaps/Auflösung
+- Transformation/Adaptation
+- Neustart/Protokollwechsel
+- finale Fusion
+- funktionale Multiplizität
+- Der Unzerbrechliche Kern
+- Kreuzweltliche Resonanz
+- Umarmung des Schattens
+- Die Einzigartige Signatur
+- Ressourcennutzungs-Index
+- Fragmentierungsprotokoll fehlgeschlagen
+- Nicht-Lokales Kohärenz-Ereignis
+- Klasse U
+- Ontologische Singularität
+- Kaels Integrationstransformation
+- Thematische Synthese
+- Klimax
+- Denouement
+- Selbsterhalt
+- Plot-Blueprint
+
+## lens
+- parakonsistente Logik
+- Prinzip der Explosion
+- Dissoziative Identitätsstörung
+- Monstrous Moonshine
+- Modulfunktionen
+- j-Funktion
+- Gruppentheorie
+- Zahlentheorie
+- Core Self-Evaluations
+- Core Self-Concept
+- Persecutor-Identitäten

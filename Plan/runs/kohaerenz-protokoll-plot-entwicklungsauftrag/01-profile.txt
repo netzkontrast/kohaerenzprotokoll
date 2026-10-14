@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-plot-entwicklungsauftrag
+  lines                331  (frontmatter ends at 9)
+  body words           8041
+  headings             10   bold-only lines 10
+  table rows           14   code fences 0
+  question marks       28
+  backslash escapes    60
+  typographic marks    157   ascii quotes 6
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    85
+  repeated labels      none
+  longest line         1414 chars
+
