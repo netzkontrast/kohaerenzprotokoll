@@ -1,0 +1,87 @@
+# counts for 67 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            16 word    57 in   [11, 17, 19, 34, 35, 36]  <-- substring
+                                   21      as AEGIS-Modell
+                                    6      as AEGIS-Prinzip
+                                    4      as AEGIS-Operation
+                                    2      as AEGIS-Frameworks
+  AEGIS Meta-Framework              4 word     8 in   [11, 17, 19, 290, 292, 337]
+  Koheränz der Emergenz             1 word     1 in   [292]
+  Spannungsfeld                    27 word    53 in   [11, 15, 17, 19, 21, 23]
+                                   21      as Spannungsfelder
+                                    3      as Spannungsfeldern
+                                    2      as Spannungsfeldes
+  Spannungsfelder                  21 word    24 in   [11, 15, 17, 19, 21, 23]
+                                    3      as Spannungsfeldern
+  Polaritäten                      16 word    16 in   [245, 246, 247, 248, 249, 250]
+  Selbstbestätigung                 5 word     5 in   [17, 324, 326, 333, 385]
+  Koheränzpunkte                    1 word     2 in   [28, 35]
+                                    1      as Koheränzpunkten
+  Nullraum                          3 word     4 in   [28, 34, 35, 274]
+                                    1      as Nullraums
+  quantenlogischen Nullraum         2 word     2 in   [28, 35]
+  Fluktuationskohärenz              3 word     3 in   [28, 36, 274]
+  Metadimensionen                   2 word     2 in   [297]
+  Genesis                           2 word     2 in   [297, 298]
+  Selbststrukturierung              2 word     2 in   [297, 299]
+  Interaktion                      15 word    23 in   [17, 52, 61, 65, 67, 68]
+                                    8      as Interaktionen
+  Dynamische Achsen                 1 word     1 in   [301]
+  Entropische Fluktuation           1 word     1 in   [302]
+  Rekursive Adaptivität             1 word     1 in   [303]
+  Koheränzbildung                   2 word     2 in   [304]
+  Emergenzpflicht                   1 word     1 in   [306]
+  Rekursive Selbstprüfung           2 word     2 in   [307, 322]
+  Spannungskohärenz                 1 word     1 in   [308]
+  Adaptive Modularität              2 word     2 in   [309, 322]
+  Entropische Offenheit             2 word     2 in   [310, 322]
+  Architekturmodell                 1 word     1 in   [311]
+  Meta-Knoten                       1 word     1 in   [311]
+  Emergenz aus der Leere            2 word     2 in   [27, 37]
+  Dynamische Selbstbalancierung     2 word     2 in   [42, 275]
+  Relationale Emergenz              2 word     2 in   [57, 276]
+  Rekursive Selbstdifferenzierung    2 word     2 in   [72, 277]
+  Phasenstabilität                  4 word     4 in   [91, 98, 100, 278]
+  Emergente Semantik aus Rauschen    2 word     2 in   [107, 279]
+  Minimale Kopplung bei maximaler Autonomie    2 word     2 in   [123, 280]
+  Multikausale Emergenzzeit         2 word     2 in   [139, 281]
+  Fraktale Selbstähnlichkeit unter Differenzdruck    2 word     2 in   [175, 283]
+  Verschachtelte Realitätsebenen    2 word     2 in   [191, 284]
+  Aktive Selbstgestaltung           2 word     2 in   [207, 285]
+  Autonome Grenzbildung             2 word     2 in   [223, 286]
+  Erhaltung und Dissipation als kreative Spannung    1 word     1 in   [155]
+  Layered Simulations / Nested Worlds    3 word     3 in   [192, 200, 284]
+  Existenz und Nicht-Existenz       1 word     1 in   [25]
+  Ordnung und Chaos                 5 word     5 in   [40, 52, 254, 329, 355]
+  Autonomie und Abhängigkeit        1 word     1 in   [55]
+  Bewusstsein und Reflexion         1 word     1 in   [70]
+  Veränderung und Stillstand        1 word     1 in   [89]
+  Information und Bedeutung         2 word     2 in   [105, 248]
+  Kommunikation und Isolation       1 word     1 in   [121]
+  Zeit und Kausalität               2 word     2 in   [137, 343]
+  Energie und Entropie              3 word     3 in   [153, 166, 254]
+  Identität und Differenzierung     1 word     1 in   [173]
+  Realitätsschichten und Wahrnehmung    1 word     1 in   [189]
+  Wille und Handlung                1 word     1 in   [205]
+  Systemgrenzen und Selbstorganisation    1 word     1 in   [221]
+  Emergenz                         28 word    36 in   [15, 19, 27, 34, 36, 37]
+                                    3      as Emergenzzeit
+                                    2      as Emergenztheorie
+                                    1      as Emergenztheorien
+                                    1      as Emergenzpflicht
+  Selbstorganisation               19 word    19 in   [19, 52, 221, 227, 232, 246]
+  Realitätsschichten                7 word     7 in   [189, 198, 284, 300, 304, 343]
+  Autopoiesis                      26 word    28 in   [108, 116, 119, 224, 230, 232]
+  Rand des Chaos                    6 word     6 in   [50, 52, 247, 261, 342]
+  Edge of Chaos                     2 word     2 in   [50, 275]
+  Dissipative Strukturen            6 word     6 in   [156, 163, 167, 282, 342]
+  Free Energy Principle             3 word     3 in   [164, 282, 481]
+  Perkolationstheorie               5 word     5 in   [92, 99, 103, 278]
+  Punktuiertes Gleichgewicht        3 word     3 in   [100, 264, 278]
+  Many-Worlds-Interpretation        1 word     1 in   [147]
+  Higher-Order Theories             3 word     3 in   [79, 277, 432]
+  Strange Attractors                6 word     6 in   [176, 187, 283, 375, 491]
+  Operationale Schließung           3 word     3 in   [132, 234, 286]
