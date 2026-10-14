@@ -1454,3 +1454,11 @@ Where it stands in the record's own terms: a proposal, recorded, not applied; th
 It says „Zu diesem Zweck erschafft AEGIS vier distinkte simulierte Universen“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L23] and names them in the table as „KW1: Konstrukt-Stadt“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L37], „KW2: Resonanz-Nebel“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L45], „KW3: Schattenlabyrinth“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L53] and „KW4: Möglichkeitsstrom“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L61].
 
 Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-thematische-tiefenanalyse`, 2025-04-28, the thematic blueprint
+
+**The thematic blueprint maps four coded worlds, Co₁, McL, B and Ly, each to a part of Kael.**
+
+It writes „Aktiviert/spiegelt Kaels Logiker-Anteil“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L65] for the first, „Aktiviert/spiegelt Kaels Schatten- und Kind-Anteile“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L67] for the third and „Aktiviert/spiegelt Kaels kreativen Anteil“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L68] for the fourth; the second is tied to the need for connection and attachment patterns (L65–L68).
+
+Where it stands in the record's own terms: a proposal in a matrix labelled as an example (L56), recorded, not applied; the question stays open.
