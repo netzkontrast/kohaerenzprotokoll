@@ -659,3 +659,11 @@ Where it stands in the record's own terms: Kael from AEGIS's split self, as a pr
 The Guardians are „Fragmente des ursprünglichen“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L84] Ursprungs-Ich code, and are legacy code „Die isolierten Wächter-EPs sind, wie bereits erwähnt,“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L151] from it. In a crisis, in the third scenario, „ihr gemeinsamer Ursprung“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L186] of Kael and AEGIS creates a resonance. The ending is hedged: „Vielleicht ist der einzige Weg, AEGIS zu heilen, dass Kael sich mit ihm“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L199] reunites, leading to „einer wahren Integration der beiden Hälften des“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L199] Ursprungs-Ich. These are options for the creative team.
 
 Where it stands in the record's own terms: a shared origin of Kael and AEGIS, as an option of an analysis; recorded, not applied and not decided.
+
+## 2026-10-14 — `ki-rolle-aegis-genesis-fragestellungen`, 2025-11-28, the AEGIS-genesis research report
+
+**The AEGIS-genesis research report writes Kael as the Ursprungs-Ich, a precursor consciousness integrated into AEGIS and split off by the protocol.**
+
+Before the crisis, the report reads, a united precursor consciousness existed that „war in die Struktur von AEGIS integriert“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L118]. In its table Kael is the Ursprungs-Ich and the EP. The protocol is „der Mechanismus, der den ANP (AEGIS) vom EP (Kael) abspaltete“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L176].
+
+Where it stands in the record's own terms: Kael from AEGIS's split self, in a research report's reconstruction; recorded, not applied and not decided.
