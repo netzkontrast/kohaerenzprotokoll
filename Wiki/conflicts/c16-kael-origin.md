@@ -715,3 +715,11 @@ Where it stands in the record's own terms: Kael as born from the cut fragments o
 It writes: „Kael is the primary, sentient fragment that resulted from this act of self-mutilation.“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L67] The act is the Kohärenz Protokoll, „an act of systemic violence against itself“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L67]. The fragment comes from AEGIS's own Ursprungs-Ich, which emerged „From within the chaotic churn of the Potentialmeer“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L27].
 
 Where it stands in the record's own terms: Kael as a fragment of AEGIS's own Ursprungs-Ich, in a concept document; recorded, not applied.
+
+## 2026-10-14 — `genesis-krise-aegis-prosa-auftrag`, 2025-04-29, the Genesis-crisis prose commission
+
+**The Genesis-crisis commission plans Kael as a distinct structure emerging from the fragments of the Ursprungs-Ich, a successor and not the same; recorded, not applied.**
+
+It plans the resolution as „Die Emergenz von Kael als distinkte, aus den Fragmenten entstandene Struktur oder Präsenz“ ^[genesis-krise-aegis-prosa-auftrag.md:L28], and says: „Kael ist nicht identisch mit dem Ursprungs-Ich, sondern ein Nachfolger, der aus dessen Überresten konstruiert ist“ ^[genesis-krise-aegis-prosa-auftrag.md:L109]. Both stand in a plan and writing order, not in a told narrative.
+
+Where it stands in the record's own terms: Kael as a successor built from the remains of the fragmented Ursprungs-Ich, in a writing commission; recorded, not applied.
