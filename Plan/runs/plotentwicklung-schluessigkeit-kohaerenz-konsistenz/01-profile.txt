@@ -1,0 +1,14 @@
+# plotentwicklung-schluessigkeit-kohaerenz-konsistenz
+  lines                274  (frontmatter ends at 9)
+  body words           9263
+  headings             22   bold-only lines 3
+  table rows           10   code fences 0
+  question marks       47
+  backslash escapes    126
+  typographic marks    190   ascii quotes 2
+  invisible characters U+FE0Fx1
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      none
+  longest line         18596 chars
+

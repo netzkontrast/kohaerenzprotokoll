@@ -1,0 +1,98 @@
+# every number the census and note state
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Quellenangaben"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quellenangaben` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#1]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Checkliste"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Checkliste` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#2]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Rahmenwerk"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Rahmenwerk` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#3]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Kernprinzipien"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernprinzipien` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#3]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Schlüssigkeit"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`Schlüssigkeit` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#23]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Weltenbibel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Weltenbibel` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#2]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Charakterbibel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Charakterbibel` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#1]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#0]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#0]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#0]
+stance_marker_count 9 = 1 + 2 + 3 + 3 (Quellenangaben, Checkliste, Rahmenwerk, Kernprinzipien, whole word)
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Weltenbibeln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Weltenbibeln` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#1]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Charakterbibeln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Charakterbibeln` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#1]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Plotloch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Plotloch` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#2]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Kernthemas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernthemas` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#1]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Protagonisten-Agency"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Protagonisten-Agency` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#1]
+$ read.py plotentwicklung-schluessigkeit-kohaerenz-konsistenz --count "Charakterinkonsistenzen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Charakterinkonsistenzen` ^[plotentwicklung-schluessigkeit-kohaerenz-konsistenz.md:#2]

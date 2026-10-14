@@ -1,0 +1,436 @@
+{
+  "document": "plotentwicklung-schluessigkeit-kohaerenz-konsistenz",
+  "drive_id": "1HkTt7ArcbFHh63AdoA70JPclgF8ivLWIa7sK_ChifKU",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Showing, not Telling"
+  ],
+  "counts": {
+    "Schlüssigkeit": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        19,
+        23,
+        25,
+        29,
+        43,
+        73,
+        79,
+        91,
+        101,
+        105,
+        141,
+        186,
+        204,
+        216,
+        246,
+        261,
+        267
+      ]
+    },
+    "Narrative Kohärenz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        45,
+        47
+      ]
+    },
+    "Konzeptuelle Konsistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        57
+      ]
+    },
+    "Kredibilität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        19,
+        23,
+        35,
+        168,
+        261
+      ]
+    },
+    "Kausalitätsbeziehungen (Ursache und Wirkung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "temporale Konsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "inferentielle Arbeit des Lesers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "internen Logik": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        22,
+        61,
+        149,
+        210
+      ]
+    },
+    "Prämissenkonsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "externer und interner Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Charakterglaubwürdigkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        71,
+        91
+      ]
+    },
+    "Inkonsistentes Charakterverhalten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        188
+      ]
+    },
+    "strukturellen Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Wendepunkte (Turning Points)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Plot Points": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "thematische Resonanz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        115,
+        121
+      ]
+    },
+    "Thematic Square": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        256
+      ]
+    },
+    "Deus Ex Machina (DEM)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        254
+      ]
+    },
+    "Weltenbibel": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        198,
+        253
+      ]
+    },
+    "Charakterbibel": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        252
+      ]
+    },
+    "totale Kausalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Überkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "editorial fatigue": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        194
+      ]
+    },
+    "Freytags Pyramide": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Sieben-Punkte-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Drei-Akt-Struktur": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        95,
+        97,
+        105
+      ]
+    },
+    "Inciting Incident": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        99
+      ]
+    },
+    "Plotlöcher": {
+      "n": 8,
+      "n_including_compounds": 13,
+      "lines": [
+        37,
+        143,
+        145,
+        147,
+        158,
+        160,
+        162,
+        214,
+        239,
+        242,
+        263
+      ]
+    },
+    "Kontinuitätsfehler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        192
+      ]
+    },
+    "Leerstellen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Retconning": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        160,
+        273
+      ]
+    },
+    "purple prose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "gemischte Metaphern": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        131,
+        233,
+        257
+      ]
+    },
+    "Sekundärwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Secondary Belief": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        37,
+        39,
+        261
+      ]
+    },
+    "Suspension of Disbelief": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        27,
+        37,
+        39,
+        69,
+        168,
+        200
+      ]
+    },
+    "willing suspension of disbelief": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        39,
+        261
+      ]
+    },
+    "Charakterbogen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        87,
+        117,
+        227,
+        256
+      ]
+    },
+    "Kernthema": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        111,
+        256
+      ]
+    },
+    "Foreshadowing": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        180,
+        251,
+        254
+      ]
+    },
+    "Agency": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        168,
+        180,
+        254
+      ]
+    },
+    "Pacing": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        93,
+        101,
+        105,
+        237,
+        261
+      ]
+    },
+    "Midpoint": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        99
+      ]
+    },
+    "Rising Action": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        105
+      ]
+    },
+    "Leser-Vertrags": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Thematische Dissonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    },
+    "Verletzung von Weltregeln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        253
+      ]
+    },
+    "Charakterinkonsistenz": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        150,
+        242,
+        252
+      ]
+    }
+  }
+}
