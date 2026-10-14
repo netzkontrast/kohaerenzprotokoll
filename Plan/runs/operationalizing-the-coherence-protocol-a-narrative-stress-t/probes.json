@@ -1,0 +1,52 @@
+{
+  "document": "operationalizing-the-coherence-protocol-a-narrative-stress-t",
+  "drive_id": "16pxxhzJqLFjFZug8zB2l8UI0cDdUmckFp2C01O2ZUOw",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 4,
+  "ascii_quotes": 46,
+  "inflection_families": {
+    "causa": [
+      "Causal",
+      "Causality"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanism"
+    ],
+    "perso": [
+      "Personality",
+      "Personifying"
+    ],
+    "physi": [
+      "Physical",
+      "Physics"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Causal",
+      "Causality"
+    ],
+    [
+      "Solution",
+      "Resolution"
+    ]
+  ]
+}
