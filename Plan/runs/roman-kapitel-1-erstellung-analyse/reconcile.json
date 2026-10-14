@@ -1,0 +1,286 @@
+{
+  "document": "roman-kapitel-1-erstellung-analyse",
+  "drive_id": "1SvEmUeVtDQ01WBsPExS_wNxODwpzjuhsx-o6fOBHDPU",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and the kap-01 chapter reading by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-500/brief.md, 2026-10-14",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 75,
+    "decided_by_lookup": 60,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A draft of Chapter 1 with analysis: its new surfaces are the draft's own Alter names, sequence titles and symptom vocabulary; what it drafts and explains for AEGIS, Kael, Juna, LogOS, the Guardians, the Konstrukt-Stadt, the Nichts Rauschen, the Cache-Kohärenz and the Risse went on existing pages, and its chapter on kap-01.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        23,
+        65,
+        75
+      ],
+      "attribution": "",
+      "note": "AEGIS from the Nichts Rauschen, defined by negation"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        29,
+        203
+      ],
+      "attribution": "",
+      "note": "Alters as passive influence and as a break in the amnesia barriers"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        189,
+        203
+      ],
+      "attribution": "",
+      "note": "the mirror scene as failed Cache-Kohärenz"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        246,
+        261
+      ],
+      "attribution": "",
+      "note": "Cerberus as the surveillance in the workplace"
+    },
+    {
+      "page": "did",
+      "lines": [
+        27,
+        203,
+        255
+      ],
+      "attribution": "",
+      "note": "DID named as the psychological side of the chapter"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "low entropy as the city's state, high entropy as Kael's"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        19,
+        21
+      ],
+      "attribution": "",
+      "note": "Genesis as an information-theoretic act of resistance"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        243,
+        247
+      ],
+      "attribution": "",
+      "note": "the Guardians seeded behind LogOS"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        75,
+        77,
+        83,
+        95,
+        99,
+        107,
+        261
+      ],
+      "attribution": "",
+      "note": "Juna on the interface, distorted by perfection, and the glitch"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        29,
+        39,
+        179,
+        213
+      ],
+      "attribution": "",
+      "note": "Kael as a „System“ waking in the Konstrukt-Stadt"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        153,
+        205
+      ],
+      "attribution": "",
+      "note": "Kairos behind the Ranke and the voice"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        23,
+        121,
+        151,
+        215
+      ],
+      "attribution": "",
+      "note": "the city as architecture and as a character"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        85,
+        151,
+        251
+      ],
+      "attribution": "",
+      "note": "LogOS as the guardian of logic and the city's character"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        109,
+        245
+      ],
+      "attribution": "",
+      "note": "Mnemosyne as the guardian of memory and grief"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        260
+      ],
+      "attribution": "",
+      "note": "Multiplizität as the reality a first contact should establish"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        19,
+        21
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as an active force"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        75
+      ],
+      "attribution": "",
+      "note": "`die Partnerin` in the drafted interface scene"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        245
+      ],
+      "attribution": "",
+      "note": "the Resonanz-Landschaft as the next chapter's place"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        107,
+        219,
+        263
+      ],
+      "attribution": "",
+      "note": "the Risse in the fall and at the close"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        89,
+        107
+      ],
+      "attribution": "",
+      "note": "the glitch as failure of the Simulation"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Zero-Trust-Architektur` read on aegis; `Post-Genesis` and `Genesis der Existenz` read on genesis; `Kernwelt 1` read on konstrukt-stadt; `Echo` an Alter of the draft, not a residual echo; `Depersonalisation` a symptom; borrowed concepts named after people never written",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 255,
+      "decision": "reading",
+      "why": "the analysis names DID; read on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 65,
+      "decision": "reading",
+      "why": "the low-entropy environment; read on the page"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 21,
+      "decision": "reading",
+      "why": "the Genesis der Existenz against the Nichts Rauschen; read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the project name in the report's opening"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 260,
+      "decision": "reading",
+      "why": "read on the page"
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 75,
+      "decision": "reading",
+      "why": "Juna as die Partnerin; read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 89,
+      "decision": "reading",
+      "why": "the glitch as an ontological failure of the Simulation; read on the page"
+    }
+  ],
+  "not_promoted": [
+    "the Alter names Nox, Echo, Index and Limina, Instrumente der Ordnung, Grau, Ranke, the dissociative symptom terms, and the borrowed physics concepts (several named after people)"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
