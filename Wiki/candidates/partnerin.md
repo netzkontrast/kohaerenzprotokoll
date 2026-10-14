@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten"]
 gathered: "2026-09-17"
 ---
 
@@ -56,6 +56,10 @@ The Monster-group analogy report introduces the pairing with Juna as a relations
 ## Reading — `monstergruppe-babymonstergruppe-fragmentierung-erzaehlung`, 2025-04-23, the coset-space report — Juna named as Kael's Partnerin
 
 The coset-space report introduces Juna as Kael's partner, whose loss triggers the fragmentation: „Partnerin Juna, die durch B symbolisiert wird“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L15]. An analogy report; recorded, not applied.
+
+## Reading — `monstergruppe-aegis-und-narrative-moeglichkeiten`, 2025-04-24, the Monster-group source report — Juna named as Kael's Partnerin
+
+The Monster-group source report uses the word once, in its opening, to place Juna in relation to Kael: „dessen entfernte Partnerin Juna“ ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:L15].
 
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Julia as a Partnerin or another Kohärenz-Insel
 
