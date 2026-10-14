@@ -1,0 +1,920 @@
+{
+  "document": "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+  "drive_id": "1YScIdFCupg1tHyQ04gucYKrairO62doSsqbZ3foaYOQ",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 5,
+      "n_including_compounds": 89,
+      "lines": [
+        21,
+        24,
+        28,
+        30,
+        32,
+        34,
+        43,
+        45,
+        46,
+        47,
+        51,
+        60,
+        67,
+        70,
+        79,
+        85,
+        87,
+        96,
+        101,
+        106,
+        116,
+        117,
+        123,
+        132,
+        134,
+        139,
+        142,
+        151,
+        152,
+        153,
+        154,
+        156,
+        157,
+        159,
+        168,
+        170,
+        171,
+        172,
+        174,
+        177,
+        186,
+        188,
+        189,
+        190,
+        192,
+        195,
+        204,
+        205,
+        206,
+        208,
+        212,
+        221,
+        226,
+        228,
+        229,
+        231,
+        240,
+        241,
+        243,
+        244,
+        245,
+        248,
+        261,
+        263,
+        265,
+        267,
+        270,
+        271,
+        279,
+        281,
+        282,
+        285,
+        287,
+        288,
+        290,
+        294,
+        302,
+        303,
+        305,
+        306,
+        307,
+        310,
+        311,
+        313
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        27,
+        34,
+        52,
+        143,
+        160,
+        178,
+        311
+      ]
+    },
+    "AEGIS": {
+      "n": 67,
+      "n_including_compounds": 69,
+      "lines": [
+        19,
+        20,
+        30,
+        40,
+        41,
+        45,
+        49,
+        52,
+        58,
+        59,
+        68,
+        71,
+        77,
+        78,
+        85,
+        94,
+        95,
+        104,
+        107,
+        113,
+        114,
+        121,
+        130,
+        131,
+        136,
+        137,
+        140,
+        149,
+        150,
+        155,
+        156,
+        157,
+        166,
+        167,
+        173,
+        175,
+        184,
+        185,
+        193,
+        202,
+        203,
+        208,
+        210,
+        219,
+        220,
+        229,
+        238,
+        239,
+        246,
+        253,
+        259,
+        260,
+        268,
+        277,
+        278,
+        285,
+        290,
+        294,
+        300,
+        301,
+        302,
+        304,
+        307,
+        308,
+        311,
+        313
+      ]
+    },
+    "Juna-Interface": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kael-Unit": {
+      "n": 53,
+      "n_including_compounds": 53,
+      "lines": [
+        24,
+        28,
+        30,
+        43,
+        45,
+        46,
+        47,
+        85,
+        101,
+        117,
+        132,
+        134,
+        151,
+        152,
+        154,
+        156,
+        157,
+        168,
+        170,
+        171,
+        172,
+        174,
+        186,
+        188,
+        189,
+        190,
+        192,
+        204,
+        205,
+        206,
+        208,
+        221,
+        226,
+        228,
+        229,
+        240,
+        241,
+        243,
+        245,
+        261,
+        263,
+        265,
+        267,
+        279,
+        281,
+        282,
+        285,
+        302,
+        303,
+        305,
+        306,
+        307
+      ]
+    },
+    "Kael-Fragment\\_Alpha": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        79,
+        96,
+        116
+      ]
+    },
+    "Fragment Alpha": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        65,
+        66,
+        81,
+        83,
+        84,
+        99,
+        100,
+        101,
+        102,
+        119,
+        120,
+        153,
+        171
+      ]
+    },
+    "Kael-Fragments": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        139
+      ]
+    },
+    "Kael-Self\\_Integrator": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        153,
+        244,
+        281
+      ]
+    },
+    "Kael-M": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        313
+      ]
+    },
+    "M-Entity": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        26,
+        28,
+        44,
+        65,
+        81,
+        101,
+        104,
+        118,
+        120,
+        135,
+        137,
+        155,
+        173,
+        191,
+        208,
+        210,
+        227,
+        244
+      ]
+    },
+    "Co1": {
+      "n": 13,
+      "n_including_compounds": 17,
+      "lines": [
+        22,
+        24,
+        26,
+        29,
+        44,
+        61,
+        64,
+        65,
+        79,
+        84,
+        85,
+        99,
+        115,
+        116,
+        117,
+        120,
+        169
+      ]
+    },
+    "Co₁": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        52,
+        71,
+        88,
+        124,
+        178
+      ]
+    },
+    "McL": {
+      "n": 12,
+      "n_including_compounds": 15,
+      "lines": [
+        67,
+        97,
+        102,
+        103,
+        107,
+        115,
+        116,
+        117,
+        120,
+        124,
+        169,
+        178,
+        187,
+        189,
+        196
+      ]
+    },
+    "CoreWorld": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        22,
+        44,
+        47,
+        49,
+        61,
+        67,
+        97,
+        115,
+        169,
+        187
+      ]
+    },
+    "CoreWorlds": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        67
+      ]
+    },
+    "B-Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        288
+      ]
+    },
+    "B-World": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        281
+      ]
+    },
+    "Controlled Fragmentation Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "CFP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        46,
+        62
+      ]
+    },
+    "Subquotient Mapping Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "ZTEM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "AEGIS Directive Alpha": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Logic Trial Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Gödel-Construct Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "K-J": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        82,
+        120,
+        129,
+        133,
+        136,
+        137,
+        138,
+        139,
+        140,
+        154,
+        171,
+        303
+      ]
+    },
+    "K-J vector": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        120,
+        136,
+        137,
+        138,
+        139,
+        140,
+        154,
+        171,
+        303
+      ]
+    },
+    "K-J Vector": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Moonshine": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        129,
+        135
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Transitkorridor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Riss": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        34,
+        36,
+        52,
+        213,
+        258
+      ]
+    },
+    "Bunker": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        71,
+        143,
+        232,
+        276,
+        281
+      ]
+    },
+    "Wächterin": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        148,
+        153,
+        160
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        201,
+        206
+      ]
+    },
+    "Jetzt-Raum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        218,
+        224
+      ]
+    },
+    "Inner Garden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        241
+      ]
+    },
+    "Garden Tending": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        243
+      ]
+    },
+    "Logik-Anteil": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        70,
+        87,
+        106,
+        123,
+        142
+      ]
+    },
+    "Kind-Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Stimulus Delta-7": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        263,
+        280
+      ]
+    },
+    "AEGIS Defense Grid Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        304
+      ]
+    },
+    "AEGIS DEFCON 2 ALERT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Kael Trauma Archive T-734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        305
+      ]
+    },
+    "Paradoxical Logic Fields": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        305
+      ]
+    },
+    "Personalized Fear Matrix Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        305
+      ]
+    },
+    "Social Cohesion Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Cache-Konflikt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Auge des Sturms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Pforten der Verurteilung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Wächter der Schwelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        299
+      ]
+    },
+    "functional multiplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        208,
+        209,
+        244
+      ]
+    },
+    "Erzählung des Erzählers": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        17,
+        38,
+        56,
+        75,
+        92,
+        111,
+        128,
+        147,
+        164,
+        182,
+        200,
+        217,
+        236,
+        257,
+        275,
+        298
+      ]
+    },
+    "Einblick in AEGIS": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        19,
+        40,
+        58,
+        77,
+        94,
+        113,
+        130,
+        149,
+        166,
+        184,
+        202,
+        219,
+        238,
+        259,
+        277,
+        300
+      ]
+    },
+    "Erzählung Kaels": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        32,
+        51,
+        70,
+        87,
+        106,
+        123,
+        142,
+        159,
+        177,
+        195,
+        212,
+        231,
+        248,
+        270,
+        287,
+        310
+      ]
+    },
+    "Instrumente der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Der Riss im Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Die Festung der Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Echos im Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Der Glanz der Oberfläche": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Der Kollaps der Formeln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Die Resonanz der Tiefe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Der Frieden im Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Die Synthese der Welten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Die angewandte Harmonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Das Mosaik des Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        198
+      ]
+    },
+    "Die Stille der Mitte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Der Tanz im Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        234
+      ]
+    },
+    "Der Spiegel der Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        255
+      ]
+    },
+    "Schatten im Sonnenlicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "Die Logik des Krieges": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        296
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        148,
+        201
+      ]
+    },
+    "Heldenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        292
+      ]
+    },
+    "Weiblichen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        76,
+        93,
+        129
+      ]
+    },
+    "Männlichen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        148
+      ]
+    }
+  }
+}

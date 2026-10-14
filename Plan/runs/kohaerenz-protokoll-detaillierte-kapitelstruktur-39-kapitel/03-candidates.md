@@ -1,0 +1,82 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Read in three ranges (L1-L110, L109-L215, L215-L314). The document is a chapter outline in three parts; each chapter it writes out carries three labelled passages: a narrator's passage, an AEGIS log in English and a first-person passage in Kael's voice. From Kapitel 14 on the first-person passages are one-line stage directions in brackets, and Teil 2 and Teil 3 are announced in italic bracket notes; the chapters between 16 and 26 and after 27 are not written out. Terms that stand only inside the English AEGIS logs are listed as written there, including the clipped and escaped forms (Co1, Kael-Fragment\_Alpha). The prose passages write Co₁ with a subscript digit; the logs write Co1 with a plain digit. Chapter headings are listed by title only, because a chapter number is compared on its own.
+
+- Kael
+- Juna
+- AEGIS
+- Juna-Interface
+- Kael-Unit
+- Kael-Fragment\_Alpha
+- Fragment Alpha
+- Kael-Fragments
+- Kael-Self\_Integrator
+- Kael-M
+- M-Entity
+- Co1
+- Co₁
+- McL
+- CoreWorld
+- CoreWorlds
+- B-Welt
+- B-World
+- Controlled Fragmentation Protocol
+- CFP
+- Subquotient Mapping Protocol
+- ZTEM
+- AEGIS Directive Alpha
+- Logic Trial Gamma
+- Gödel-Construct Simulation
+- K-J
+- K-J vector
+- K-J Vector
+- K-J Verbindung
+- Moonshine
+- Moonshine-Link
+- Transitkorridor
+- Riss
+- Bunker
+- Wächterin
+- Mosaik-Herz
+- Jetzt-Raum
+- Inner Garden
+- Garden Tending
+- Logik-Anteil
+- Kind-Anteil
+- Stimulus Delta-7
+- AEGIS Defense Grid Gamma
+- AEGIS DEFCON 2 ALERT
+- Kael Trauma Archive T-734
+- Paradoxical Logic Fields
+- Personalized Fear Matrix Simulation
+- Social Cohesion Index
+- Cache-Konflikt
+- Auge des Sturms
+- Pforten der Verurteilung
+- Wächter der Schwelle
+- functional multiplicity
+- Erzählung des Erzählers
+- Einblick in AEGIS
+- Erzählung Kaels
+- Instrumente der Ordnung
+- Der Riss im Spiegel
+- Die Festung der Logik
+- Echos im Fundament
+- Der Glanz der Oberfläche
+- Der Kollaps der Formeln
+- Die Resonanz der Tiefe
+- Der Frieden im Spiegel
+- Die Synthese der Welten
+- Die angewandte Harmonie
+- Das Mosaik des Selbst
+- Die Stille der Mitte
+- Der Tanz im Garten
+- Der Spiegel der Welt
+- Schatten im Sonnenlicht
+- Die Logik des Krieges
+
+## lens
+- Heldinnenreise
+- Heldenreise
+- Weiblichen
+- Männlichen
