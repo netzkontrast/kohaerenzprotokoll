@@ -1,0 +1,132 @@
+{
+  "document": "holographisches-prinzip-fuer-kohaerenz-protokoll",
+  "drive_id": "18HXJnW2uT-0PphCcIenvRyY0XckBzH5rZB1Nyx50VJA",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-428/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be a physics research report with no personal material; candidates that consist of a person's name were left off the list",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 43,
+    "decided_by_lookup": 32,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report weighing a holographic principle for the novel: its new surfaces are the principle and its abbreviation, boundary and bulk, M as a boundary theory, the borrowed physics concepts and the report's labels; what it proposes for AEGIS, the Potentialmeer, the simulation, the Kernwelten, the Risse and the Moonshine link went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        16,
+        93,
+        103,
+        122,
+        134,
+        213
+      ],
+      "attribution": "",
+      "note": "AEGIS as boundary reader, and the limit on AEGIS's power"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        114,
+        150
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as different projections of one substrate"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        95,
+        123,
+        171
+      ],
+      "attribution": "",
+      "note": "a holographic mechanism for the K-J connection"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        16,
+        93,
+        132,
+        146,
+        169
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as unencoded outside of a holographic boundary"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        104,
+        109,
+        110,
+        147,
+        223,
+        229
+      ],
+      "attribution": "",
+      "note": "three proposed holographic explanations of the Risse"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        16,
+        132,
+        145
+      ],
+      "attribution": "",
+      "note": "the simulation as hologram, projected from boundary information"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Grenze` the holographic boundary, not the Archiv der Grenzen nor the Große Mauer; entanglement entropy a borrowed physics concept; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 145,
+      "decision": "occurrence",
+      "why": "emergence in the summary table's physics sense"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 26,
+      "decision": "occurrence",
+      "why": "entropy in a cited source's physics sense"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "Holographisches Prinzip, HP, Boundary and Bulk, Boundary-Beschreiber, M als Boundary-Theorie, AdS/CFT, Raumzeit-Granularität/Pixelierung, Holometer-Experiment, Wächter-KI, Schutzbarriere, NZT-Ideal, VOA, and the borrowed physics concepts"
+  ],
+  "internal_tension": "it recommends the principle strongly (L297) while calling its explanations speculative (L223, L229) and asking whether the holographic account is redundant (L180); it leaves the dimensional fit open (L207) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

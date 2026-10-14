@@ -1,0 +1,312 @@
+{
+  "document": "holographisches-prinzip-fuer-kohaerenz-protokoll",
+  "drive_id": "18HXJnW2uT-0PphCcIenvRyY0XckBzH5rZB1Nyx50VJA",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 16
+  },
+  "glued_ref_numbers": 100,
+  "backslash_escapes": 116,
+  "typographic_marks": 41,
+  "ascii_quotes": 144,
+  "inflection_families": {
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsdichte",
+      "Informationsdruck",
+      "Informationseinheit",
+      "Informationserhaltung",
+      "Informationsfluss",
+      "Informationsflüsse",
+      "Informationsgehalt",
+      "Informationsgrenzen",
+      "Informationskodierung",
+      "Informationslimit",
+      "Informationslimits",
+      "Informationsmenge",
+      "Informationsparadoxon",
+      "Informationsparadoxons",
+      "Informationsschicht",
+      "Informationsspeicherung",
+      "Informationsstruktur",
+      "Informationsverarbeitungsprozess",
+      "Informationsverarbeitungssystem",
+      "Informationsverlust",
+      "Informationsüberlauf"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantencomputer",
+      "Quanteneffekten",
+      "Quantenfeldtheorie",
+      "Quantenfeldtheorien",
+      "Quantenfluktuationen",
+      "Quantenfreiheitsgraden",
+      "Quantengravitation",
+      "Quantengravitationstheorie",
+      "Quanteninformation",
+      "Quanteninformationstheorie",
+      "Quantenkorrelationen",
+      "Quantenmechanik",
+      "Quantenschaum",
+      "Quantenverschränkung",
+      "Quantenzustände",
+      "Quantum"
+    ],
+    "holog": [
+      "Holografisches",
+      "Hologram",
+      "Hologramm",
+      "Hologrammen",
+      "Hologramms",
+      "Holographic",
+      "Holographie",
+      "Holographische",
+      "Holographischen",
+      "Holographischer",
+      "Holographisches"
+    ],
+    "grenz": [
+      "Grenz",
+      "Grenzbeschreibung",
+      "Grenze",
+      "Grenzen",
+      "Grenzfläche",
+      "Grenzflächen",
+      "Grenzflächendynamik",
+      "Grenzinformation",
+      "Grenzinstabilitäten",
+      "Grenzkodierung"
+    ],
+    "proje": [
+      "Projection",
+      "Projektion",
+      "Projektionen",
+      "Projektionsfehler",
+      "Projektionsmechanismus",
+      "Projektionsprozess",
+      "Projektor",
+      "Projekts"
+    ],
+    "inter": [
+      "Interagiert",
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interne",
+      "Interpretation",
+      "Interpreten"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionell",
+      "Konzeptioneller",
+      "Konzeptionelles"
+    ],
+    "unter": [
+      "Untermauerung",
+      "Unterscheidung",
+      "Unterschied",
+      "Unterschiede",
+      "Unterschiedliche",
+      "Untersuchung"
+    ],
+    "emerg": [
+      "Emerge",
+      "Emergence",
+      "Emergent",
+      "Emergente",
+      "Emergenz"
+    ],
+    "erklä": [
+      "Erklärung",
+      "Erklärungen",
+      "Erklärungsansätze",
+      "Erklärungsaufwand",
+      "Erklärungsbedarf"
+    ],
+    "gravi": [
+      "Gravitation",
+      "Gravitationskollapses",
+      "Gravitationskonstante",
+      "Gravitationstheorie",
+      "Gravity"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorik",
+      "Metaphorisch",
+      "Metaphorische"
+    ],
+    "schwa": [
+      "Schwach",
+      "Schwarze",
+      "Schwarzen",
+      "Schwarzer",
+      "Schwarzes"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulations",
+      "Simulationsebene",
+      "Simulationsgrenze",
+      "Simulationsstruktur"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "versc": [
+      "Verschiedene",
+      "Verschränkung",
+      "Verschränkungen",
+      "Verschränkungs",
+      "Verschränkungsentropie"
+    ],
+    "dimen": [
+      "Dimension",
+      "Dimensionalität",
+      "Dimensionen",
+      "Dimensionsreduktion"
+    ],
+    "mecha": [
+      "Mechanismen",
+      "Mechanismus",
+      "Mechanistisch",
+      "Mechanistische"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modelluniversen"
+    ],
+    "poten": [
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzielle"
+    ],
+    "raumz": [
+      "Raumzeit",
+      "Raumzeitgeometrie",
+      "Raumzeitpositionen",
+      "Raumzeitstruktur"
+    ],
+    "rausc": [
+      "Rausch",
+      "Rauschen",
+      "Rauschens",
+      "Rauschphänomene"
+    ],
+    "reali": [
+      "Realisierung",
+      "Reality",
+      "Realität",
+      "Realitätsmanipulation"
+    ],
+    "thema": [
+      "Thema",
+      "Thematisch",
+      "Thematische",
+      "Thematisierung"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenfassend",
+      "Zusammenfassung",
+      "Zusammenhang"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Gauge"
+    ],
+    [
+      "Bild",
+      "Bildfehler"
+    ],
+    [
+      "Bild",
+      "Bildschirm"
+    ],
+    [
+      "Bulk",
+      "Bulks"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Einer"
+    ],
+    [
+      "Eine",
+      "Allgemeinen"
+    ],
+    [
+      "Eine",
+      "Allgemeiner"
+    ],
+    [
+      "Eine",
+      "Verallgemeinerungen"
+    ],
+    [
+      "Even",
+      "Steven"
+    ],
+    [
+      "Form",
+      "Formel"
+    ],
+    [
+      "Form",
+      "Konforme"
+    ],
+    [
+      "Form",
+      "Konformen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Konformität"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Grenzinformation"
+    ],
+    [
+      "Form",
+      "Informationsdruck"
+    ]
+  ]
+}

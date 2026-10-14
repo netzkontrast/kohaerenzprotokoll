@@ -1,0 +1,100 @@
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Zielsetzung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zielsetzung` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Fazit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fazit` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Empfehlung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Empfehlung` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Gesamturteil"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gesamturteil` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "AEGIS"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`AEGIS` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#36]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            14
+
+`Risse` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#13]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "K-J Verbindung"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            18
+
+`K-J Verbindung` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#17]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Monstergruppe"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Monstergruppe` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "M als Boundary-Theorie"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`M als Boundary-Theorie` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Bekenstein-Grenze"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            24
+
+`Bekenstein-Grenze` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#24]
+
+$ python3 scripts/read.py holographisches-prinzip-fuer-kohaerenz-protokoll --count "Holometer-Experiment"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Holometer-Experiment` ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:#1]
+
+stance_marker_count = Fazit 2 + Empfehlung 4 + Gesamturteil 1 + Zielsetzung 1 = 8
+also in census: invisible U+200B 16, glued 100, escapes 116, ascii quotes 144, typographic 41 (from 01-profile.txt via capture.py)
