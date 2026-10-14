@@ -630,3 +630,11 @@ Where it stands in the record's own terms: a proposal, recorded, not applied; th
 „Szenen könnten zeigen, wie AEGIS spezialisierte Analyse-Guardians“ ^[monstergruppe-kohaerenz-protokoll-fundament.md:L250] are set on it; their reports go to higher AEGIS instances: „könnten Verwirrung und die Grenzen der AEGIS-Logik widerspiegeln“ ^[monstergruppe-kohaerenz-protokoll-fundament.md:L250].
 
 Stands as a conditional proposal of Guardians as AEGIS's analysis instances; recorded, the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-thematische-tiefenanalyse`, 2025-04-28, the thematic blueprint
+
+**The thematic blueprint proposes that Guardians meet Kael in Phase 1 as agents of control.**
+
+The Phase 1 cell of the plot-event row has the meeting with the Guardians, the word standing in the blueprint's own quotation marks, as agents of control (L287), beside AEGIS's attempt in Phase 2 to close the Risse: „Konflikte entstehen aus AEGIS' Versuch“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L287].
+
+Where it stands in the record's own terms: a hedged table proposal, recorded, not applied; the question stays open.
