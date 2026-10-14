@@ -1478,3 +1478,11 @@ Where it stands in the record's own terms: a set of conditional suggestions, rec
 Its table lists four Kernwelten, each with a principle and a function, from `Logos-Prime` with „Formal Logic, Order, Control“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L54] to `Kairos-Potentialis` with „Emergence, Potential, Transcendence“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L57]. Each is „an externalized psychological landscape“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L49].
 
 Where it stands in the record's own terms: four Kernwelten in a concept document; recorded, not decided.
+
+## 2026-10-14 — `from-monolith-to-mosaic-a-strategic-proposal-for-restructuri`, 2025-11-03, the mosaic proposal
+
+**The mosaic proposal lists four Kernwelten, KW1 to KW4, in a table of story ideas; it states no count of alters.**
+
+The table (L66–L70) names KW1 Logos-Prime, KW2 Mnemosyne-Archipel, KW3 Cerberus-Labyrinth and KW4 Kairos-Potentialis. It glosses the Kernwelten as „the simulated realities that are direct externalizations“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L61] of Kael's inner landscape (L61). It names three alters for stories (Nyx, Kiko, Lex, L37–L39) and gives no number of parts.
+
+Where it stands in the record's own terms: four Kernwelten in a proposal; recorded, not decided.
