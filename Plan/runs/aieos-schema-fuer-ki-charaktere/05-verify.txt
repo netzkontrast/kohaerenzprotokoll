@@ -1,0 +1,45 @@
+$ python3 scripts/read.py aieos-schema-fuer-ki-charaktere --count "Stärken"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Stärken` ^[aieos-schema-fuer-ki-charaktere.md:#4]
+$ python3 scripts/read.py aieos-schema-fuer-ki-charaktere --count "Schwächen"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Schwächen` ^[aieos-schema-fuer-ki-charaktere.md:#8]
+$ python3 scripts/read.py aieos-schema-fuer-ki-charaktere --count "Empfehlung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Empfehlung` ^[aieos-schema-fuer-ki-charaktere.md:#2]
+$ python3 scripts/read.py aieos-schema-fuer-ki-charaktere --count "empfohlen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`empfohlen` ^[aieos-schema-fuer-ki-charaktere.md:#2]
+$ python3 scripts/read.py aieos-schema-fuer-ki-charaktere --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[aieos-schema-fuer-ki-charaktere.md:#0]
+$ python3 scripts/read.py aieos-schema-fuer-ki-charaktere --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[aieos-schema-fuer-ki-charaktere.md:#0]
+$ python3 scripts/read.py aieos-schema-fuer-ki-charaktere --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[aieos-schema-fuer-ki-charaktere.md:#0]
+stance_marker_count 4+8+2+2 = 16
+profile numbers (174 backslash escapes, 39 glued refs, 1298 ascii quotes, 4210 words) from Plan/runs/aieos-schema-fuer-ki-charaktere/01-profile.txt
+Census/note count marks: produced by python3 scripts/read.py aieos-schema-fuer-ki-charaktere --count / checked by quotes.py --strict

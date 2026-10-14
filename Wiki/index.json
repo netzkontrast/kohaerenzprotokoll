@@ -496,10 +496,13 @@
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
         "kohaerenz-protokoll-szene-der-stillstand-der-welt",
         "dkt-fundament-kohaerenz-protokoll-md",
-        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md"
+        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 392,
-      "readings": 392,
+      "sources": 395,
+      "readings": 395,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -930,10 +933,13 @@
         "report-the-transcendent-architecture-of-the-kohaerenz-protok",
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
         "dkt-fundament-kohaerenz-protokoll-md",
-        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md"
+        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 182,
-      "readings": 182,
+      "sources": 185,
+      "readings": 185,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1205,10 +1211,11 @@
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
         "kohaerenz-protokoll-analyse-und-loglines",
         "tsdp-analyse-kaels-innere-welt",
-        "kohaerenz-protokoll-thematische-tiefenanalyse"
+        "kohaerenz-protokoll-thematische-tiefenanalyse",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 40,
-      "readings": 40,
+      "sources": 41,
+      "readings": 41,
       "conflict": "none"
     },
     "cerberus": {
@@ -1321,10 +1328,11 @@
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "kapitel-17",
         "kapitel-18",
-        "ki-antagonist-fragmentierte-gottheit-analyse"
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 104,
-      "readings": 104,
+      "sources": 105,
+      "readings": 105,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -1546,10 +1554,14 @@
         "kohaerenz-protokoll-themenanalyse-und-anreicheru",
         "genesis-ein-implementierungsleitfaden-prosa-version",
         "a-critical-analysis-of-coherence-protocol-an-assessment-of-p",
-        "dkt-fundament-kohaerenz-protokoll-md"
+        "dkt-fundament-kohaerenz-protokoll-md",
+        "monstergruppe-babygruppe-und-kael",
+        "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 101,
-      "readings": 101,
+      "sources": 105,
+      "readings": 105,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1794,10 +1806,11 @@
         "analyse-der-leere-und-existenz",
         "juna",
         "narrative-physik-attraktoren-leserbewusstsein",
-        "dkt-fundament-kohaerenz-protokoll-md"
+        "dkt-fundament-kohaerenz-protokoll-md",
+        "plot-exploration-kohaerenz-protokollkonzepte"
       ],
-      "sources": 102,
-      "readings": 102,
+      "sources": 103,
+      "readings": 103,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -2022,10 +2035,12 @@
         "juna",
         "narrative-entropie-existenzielle-bedrohung-des-romans",
         "narrative-physik-attraktoren-leserbewusstsein",
-        "dkt-fundament-kohaerenz-protokoll-md"
+        "dkt-fundament-kohaerenz-protokoll-md",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 173,
-      "readings": 173,
+      "sources": 175,
+      "readings": 175,
       "conflict": "C2"
     },
     "erason": {
@@ -2357,10 +2372,11 @@
         "genesis-logik-krise-zerstueckelung",
         "analyse-der-leere-und-existenz",
         "operationalizing-the-coherence-protocol-a-narrative-stress-t",
-        "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent"
+        "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 118,
-      "readings": 118,
+      "sources": 119,
+      "readings": 119,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -2750,10 +2766,13 @@
         "monstergruppe-kohaerenz-protokoll-fundament",
         "kohaerenz-protokoll-thematische-tiefenanalyse",
         "kohaerenz-protokoll-themenanalyse-und-anreicheru",
-        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md"
+        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 174,
-      "readings": 174,
+      "sources": 177,
+      "readings": 177,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -3233,10 +3252,15 @@
         "report-the-transcendent-architecture-of-the-kohaerenz-protok",
         "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
         "dkt-fundament-kohaerenz-protokoll-md",
-        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md"
+        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+        "monstergruppe-babygruppe-und-kael",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 331,
-      "readings": 331,
+      "sources": 336,
+      "readings": 336,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -3686,10 +3710,15 @@
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
         "kohaerenz-protokoll-szene-der-stillstand-der-welt",
         "dkt-fundament-kohaerenz-protokoll-md",
-        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md"
+        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+        "monstergruppe-babygruppe-und-kael",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 379,
-      "readings": 380,
+      "sources": 384,
+      "readings": 385,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3822,10 +3851,11 @@
         "orte-konzept-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-detaillierter-plot-blueprint",
         "dramaturgical-precision-deconstructing-the-irreversible-conf",
-        "roman-kohaerenz-protokoll"
+        "roman-kohaerenz-protokoll",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 88,
-      "readings": 88,
+      "sources": 89,
+      "readings": 89,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -4096,10 +4126,12 @@
         "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
         "operationalizing-the-coherence-protocol-a-narrative-stress-t",
         "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
-        "report-the-transcendent-architecture-of-the-kohaerenz-protok"
+        "report-the-transcendent-architecture-of-the-kohaerenz-protok",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "plot-exploration-kohaerenz-protokollkonzepte"
       ],
-      "sources": 261,
-      "readings": 260,
+      "sources": 263,
+      "readings": 262,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -4510,10 +4542,12 @@
         "narrative-kernvalidierung-kohaerenz-protokoll",
         "genesis-und-krise-ausfuehrliche-darstellung",
         "roman-outline-kohaerenz-protokoll-strategie",
-        "analyse-der-leere-und-existenz"
+        "analyse-der-leere-und-existenz",
+        "monstergruppe-babygruppe-und-kael",
+        "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung"
       ],
-      "sources": 79,
-      "readings": 79,
+      "sources": 81,
+      "readings": 81,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -4805,10 +4839,11 @@
         "kohaerenz-direktive-narratives-protokoll",
         "kohaerenz-protokoll-plot-entwicklungsauftrag",
         "blueprint-for-narrative-coherence",
-        "kohaerenz-protokoll-szene-der-stillstand-der-welt"
+        "kohaerenz-protokoll-szene-der-stillstand-der-welt",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 130,
-      "readings": 130,
+      "sources": 131,
+      "readings": 131,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -5324,10 +5359,12 @@
         "kohaerenz-direktive-narratives-protokoll",
         "monstergruppe-kohaerenz-protokoll-fundament",
         "narrative-physik-attraktoren-leserbewusstsein",
-        "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri"
+        "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 128,
-      "readings": 128,
+      "sources": 130,
+      "readings": 130,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -5483,10 +5520,12 @@
         "tropen-konzepte-fuer-kohaerenz-protokoll",
         "kapitel-18",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
-        "kohaerenz-protokoll-master-outline"
+        "kohaerenz-protokoll-master-outline",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 129,
-      "readings": 129,
+      "sources": 131,
+      "readings": 131,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -6126,10 +6165,12 @@
         "kohaerenz-protokoll-plot-entwicklungsauftrag",
         "narrative-entropie-existenzielle-bedrohung-des-romans",
         "narrative-physik-attraktoren-leserbewusstsein",
-        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md"
+        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 168,
-      "readings": 168,
+      "sources": 170,
+      "readings": 170,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -6170,10 +6211,11 @@
         "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
         "konzept-expose-schwarzschild-protokoll-optimierung",
         "narrative-entropie-existenzielle-bedrohung-des-romans",
-        "narrative-physik-attraktoren-leserbewusstsein"
+        "narrative-physik-attraktoren-leserbewusstsein",
+        "plot-blueprint-methodik-kohaerenz-protokoll"
       ],
-      "sources": 32,
-      "readings": 31,
+      "sources": 33,
+      "readings": 32,
       "conflict": "none yet"
     },
     "nexus": {
@@ -6383,10 +6425,11 @@
         "concept-document-the-nature-of-the-foundation-juna-v-and-the",
         "narrative-entropie-existenzielle-bedrohung-des-romans",
         "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
-        "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent"
+        "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 148,
-      "readings": 148,
+      "sources": 149,
+      "readings": 149,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -6747,10 +6790,13 @@
         "romananalyse-kohaerenz-plot-kritik",
         "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve",
         "kohaerenz-protokoll-plotideen-generierung",
-        "welten"
+        "welten",
+        "monstergruppe-babygruppe-und-kael",
+        "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none"
     },
     "persistenzgleichung": {
@@ -6939,10 +6985,11 @@
         "analyse-der-leere-und-existenz",
         "concept-document-the-nature-of-the-foundation-juna-v-and-the",
         "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
-        "report-the-transcendent-architecture-of-the-kohaerenz-protok"
+        "report-the-transcendent-architecture-of-the-kohaerenz-protok",
+        "plot-exploration-kohaerenz-protokollkonzepte"
       ],
-      "sources": 118,
-      "readings": 119,
+      "sources": 119,
+      "readings": 120,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -7099,10 +7146,11 @@
         "roman-kapitel-ausformulierung-kohaerenz-protokoll",
         "pitch-deck-coherence-protocol",
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 58,
-      "readings": 58,
+      "sources": 59,
+      "readings": 59,
       "conflict": "C11"
     },
     "rhys": {
@@ -7527,10 +7575,13 @@
         "managing-ontological-risk-defining-the-narrative-integration",
         "operationalizing-the-coherence-protocol-a-narrative-stress-t",
         "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
-        "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent"
+        "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 269,
-      "readings": 269,
+      "sources": 272,
+      "readings": 272,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -8530,10 +8581,12 @@
         "genesis-und-krise-ausfuehrliche-darstellung",
         "roman-outline-kohaerenz-protokoll-strategie",
         "analyse-der-leere-und-existenz",
-        "concept-document-the-nature-of-the-foundation-juna-v-and-the"
+        "concept-document-the-nature-of-the-foundation-juna-v-and-the",
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "roman-kapitel-1-erstellung-analyse"
       ],
-      "sources": 145,
-      "readings": 145,
+      "sources": 147,
+      "readings": 147,
       "conflict": "none yet"
     },
     "vergessener-schrein": {

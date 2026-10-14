@@ -1,0 +1,704 @@
+{
+  "document": "aieos-schema-fuer-ki-charaktere",
+  "drive_id": "1Np6Ar4c63ZJbkPdX7qaDZ6u2DVyhwUMiyr8pJeIdODU",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 18,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        19,
+        31,
+        35,
+        41,
+        43,
+        45,
+        49,
+        51,
+        53,
+        83,
+        309,
+        506,
+        521,
+        581,
+        593,
+        608,
+        612,
+        616
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        105
+      ]
+    },
+    "Juna": {
+      "n": 17,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        19,
+        31,
+        35,
+        41,
+        43,
+        45,
+        49,
+        267,
+        307,
+        309,
+        339,
+        361,
+        574,
+        581,
+        600,
+        608,
+        614,
+        616
+      ]
+    },
+    "JANUS": {
+      "n": 4,
+      "n_including_compounds": 18,
+      "lines": [
+        15,
+        25,
+        31,
+        33,
+        35,
+        43,
+        45,
+        254,
+        561,
+        568,
+        575,
+        581,
+        583,
+        593,
+        608,
+        616,
+        620
+      ]
+    },
+    "JANUS-Projekt": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        25,
+        581
+      ]
+    },
+    "JANUS-System": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        33,
+        43,
+        575,
+        583,
+        593,
+        616
+      ]
+    },
+    "JANUS-Kernel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        561,
+        608
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        39,
+        49,
+        623
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        108
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        307,
+        364,
+        600
+      ]
+    },
+    "Kernel": {
+      "n": 8,
+      "n_including_compounds": 26,
+      "lines": [
+        15,
+        17,
+        19,
+        25,
+        31,
+        39,
+        41,
+        47,
+        51,
+        107,
+        108,
+        307,
+        363,
+        364,
+        561,
+        574,
+        581,
+        587,
+        591,
+        599,
+        600,
+        606,
+        608
+      ]
+    },
+    "Kernel-AIs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        47
+      ]
+    },
+    "Dual-Kognitions-Architektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Dual-Kognitions-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Dual-Kognitions-Systeme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Dual-Kognitions-Philosophie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        581
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        581
+      ]
+    },
+    "System 1": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        31,
+        43,
+        307,
+        514,
+        575,
+        614
+      ]
+    },
+    "System 2": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        51,
+        258,
+        612
+      ]
+    },
+    "Apparently Normal Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        45
+      ]
+    },
+    "Emotional Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        45
+      ]
+    },
+    "Manager": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        45
+      ]
+    },
+    "Emotionalen Teile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Ground Truth Algorithm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Cognitive Simultaneity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        575
+      ]
+    },
+    "AEGIS-Doktrin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "epistemischen Isolation": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        45,
+        582
+      ]
+    },
+    "Amnesie-Barrieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Context Rot": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        45,
+        568
+      ]
+    },
+    "Context Engineerings": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kohärenz Digests": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        583,
+        612
+      ]
+    },
+    "Kohärenz-Digests": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        583
+      ]
+    },
+    "Orchestrator of Orchestrators": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        593
+      ]
+    },
+    "Emergence by Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        440
+      ]
+    },
+    "parakonsistenter Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        309
+      ]
+    },
+    "kausale Geschlossenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        568,
+        600
+      ]
+    },
+    "Chronozeption": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Chronoperzeption": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        597
+      ]
+    },
+    "Vercel Storage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Google Jules": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        593
+      ]
+    },
+    "AIEOS": {
+      "n": 9,
+      "n_including_compounds": 15,
+      "lines": [
+        11,
+        19,
+        21,
+        23,
+        29,
+        39,
+        45,
+        47,
+        70,
+        326,
+        561,
+        606,
+        608
+      ]
+    },
+    "AI Entity Object Specification": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        626
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        577,
+        579,
+        610,
+        612
+      ]
+    },
+    "NCP": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        577,
+        579,
+        581,
+        582,
+        610,
+        612,
+        616
+      ]
+    },
+    "Storyform": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        579,
+        581,
+        612
+      ]
+    },
+    "Storytelling": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        579,
+        581,
+        612
+      ]
+    },
+    "Narrative Entropy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        582
+      ]
+    },
+    "God Mode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        582
+      ]
+    },
+    "Character Card": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        563,
+        565,
+        633
+      ]
+    },
+    "Lorebooks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        565
+      ]
+    },
+    "Inworld AI": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        41,
+        570,
+        572,
+        575,
+        627,
+        628,
+        634,
+        635,
+        636,
+        637,
+        638
+      ]
+    },
+    "ZeroClaw": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        595,
+        600,
+        614,
+        616
+      ]
+    },
+    "NullClaw": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        595,
+        599
+      ]
+    },
+    "OpenClaw": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        591
+      ]
+    },
+    "Nanobot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        591
+      ]
+    },
+    "TinyClaw": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        593
+      ]
+    },
+    "repomix": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        583,
+        612
+      ]
+    },
+    "CodeAct": {
+      "n": 0,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        575,
+        591
+      ]
+    },
+    "SKILL.md": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "STATE.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        286
+      ]
+    },
+    "AGENTS.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        612
+      ]
+    },
+    "Constitutional AI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        612
+      ]
+    },
+    "anthropomorphem Overhead": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "thermodynamischen Ineffizienz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Needle-in-a-Haystack": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Zero-Trust": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Lawful Neutral": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Chaotic Neutral": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        438
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        597
+      ]
+    },
+    "Dual-Prozess-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "strukturellen Dissoziation der Persönlichkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        45
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        45
+      ]
+    }
+  }
+}
