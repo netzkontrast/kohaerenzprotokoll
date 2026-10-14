@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x12
+  glued ref numbers      78
+  backslash escapes      70
+  typographic marks      40
+  ascii quotes           76
+
+# inflection families -- one term, several surfaces
+  unter    Unterfangen, Untergruppe, Untergruppen, Untergruppenanalyse, Untergruppenbeziehungen, Untergruppenstruktur, Unterraum, Unterschied, Untersuchen, Untersuchung
+  monst    Monster, MonsterGroup, Monstergruppe, Monsters, Monstrosität, Monstrous, MonstrousMoonshine, Monströse
+  symme    Symmetrie, Symmetriebruch, Symmetrieeigenschaften, Symmetriegruppe, Symmetrien, Symmetrieoperationen, Symmetriestruktur, Symmetrische
+  ident    Identität, Identitäten, Identitätselement, Identitätselements, Identitätsstruktur, Identitätsstörung
+  poten    Potentiale, Potentialität, Potentialitätsraum, Potentialitätsraumes, Potenzial, Potenzials
+  exist    Existence, Existentielle, Existenz, Existenzen, Existieren
+  grupp    Gruppe, Gruppen, Gruppenaxiome, Gruppenoperation, Gruppentheorie
+  mathe    Mathematical, Mathematicians, Mathematics, Mathematik, Mathematische
+  modul    Modul, Modulformen, Modulfunktion, Modulfunktionen, Modulgruppe
+  norma    Normalisator, Normalisatoren, Normalisierung, Normalteiler, Normalteilern
+  analo    Analog, Analoga, Analogie, Analogien
+  chara    Charakterbögen, Charakterdynamiken, Charakterentwicklung, Charakteristika
+  eleme    Element, Elementarteilchen, Elemente, Elementen
+  emoti    Emotion, Emotional, Emotionale, Emotionen
+  gesam    Gesamtbild, Gesamtgruppe, Gesamtheit, Gesamtstruktur
+  group    Group, GroupTheory, Groupprops, Groups
+  handl    Handlung, Handlungen, Handlungsansätze, Handlungsbogen
+  inter    Interaktion, Interessanterweise, Interne, Interpretation
+  offen    Offenbarung, Offenbarungen, Offensichtlich, Offensichtliche
+  schlü    Schlüssel, Schlüsseleigenschaften, Schlüsselmerkmal, Schlüsselsymmetrieelemente
+  spora    Sporadic, SporadicGroup, SporadicGroupsClass, Sporadische
+  theor    Theorem, Theoremen, Theorie, Theory
+  verst    Verstehen, Verstehens, Verständnis, Verständnisses
+  zentr    Zentraler, Zentralisator, Zentralisatoren, Zentralisierung
+  algeb    Algebra, Algebras, Algebren
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Eine < Reine
+  Eine < Seine
+  Eine < Reinen
+  Eine < Bausteine
+  Ende < Wendepunkt
+  Ende < Verzweigende
+  Ende < Zugrundeliegende
+  Fall < Zufall
+  Find < Finden
+  Form < Information
+  Form < Modulformen
+  Form < Informationen
+  Form < Transformation
+  Form < Transformationen
+  Idee < Ideen
+  Jede < Jedem
+  John < Johnson
+  Kael < Kaels
