@@ -920,3 +920,11 @@ Where it stands in the record's own terms: a declaration, recorded, not applied;
 It writes: „This triggers its pathological transformation into a state of“ ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:L109] algorithmic melancholy. For the time after the end it sets Kael's role against AEGIS's: „In his new role as the“ ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:L115] Gardener, Kael contrasts with AEGIS's former role as Torwächter.
 
 Where it stands in the record's own terms: an argument, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-monster-plot-entwicklung`, 2025-04-23, the Monster plot blueprint
+
+**The Monster plot blueprint leaves AEGIS's end open between three outcomes.**
+
+After the climax: „AEGIS ist entweder unwiderruflich verändert“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L223] (fragmented, restricted in function), neutralised, or contained so that its threat ends.
+
+Where it stands in the record's own terms: a proposal among beats marked as examples, recorded, not applied; the question stays open.
