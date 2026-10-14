@@ -1,0 +1,14 @@
+# monstergruppe-primzahlen-plot-neukonstruktion
+  lines                243  (frontmatter ends at 9)
+  body words           5900
+  headings             8   bold-only lines 15
+  table rows           8   code fences 0
+  question marks       21
+  backslash escapes    73
+  typographic marks    22   ascii quotes 82
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    64
+  repeated labels      AEGIS & Primzahl-Metapher x14, Genre-Integration x14, K-J Verbindung (Moonshine-Signatur) x14, Kael's Resonanz & Integration x14, Konzeptfokus & Progression x14, M-als-Fundament Manifestation x14, Plot-Zusammenfassung x14, Kontextualisierung x5, Gesamtziel x3
+  longest line         1207 chars
+

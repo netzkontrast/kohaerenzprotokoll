@@ -1532,3 +1532,6 @@
 {"document": "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "page": "ueberwelt", "surface": "Simulation", "line": 81, "decision": "occurrence", "why": "a named test simulation in an AEGIS log", "at": "2026-10-14"}
 {"document": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "page": "ueberwelt", "surface": "Simulation", "line": 351, "decision": "occurrence", "why": "a concept line's general sense", "at": "2026-10-14"}
+{"document": "monstergruppe-primzahlen-plot-neukonstruktion", "page": "emergenz", "surface": "Emergenz", "line": 19, "decision": "occurrence", "why": "Act 2's label Paradoxon/Emergenz", "at": "2026-10-14"}
+{"document": "monstergruppe-primzahlen-plot-neukonstruktion", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
+{"document": "monstergruppe-primzahlen-plot-neukonstruktion", "page": "ueberwelt", "surface": "Simulation", "line": 15, "decision": "reading", "why": "M as the framework of the simulation", "at": "2026-10-14"}

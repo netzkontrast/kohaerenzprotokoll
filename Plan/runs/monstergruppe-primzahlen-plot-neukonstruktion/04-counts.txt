@@ -1,0 +1,83 @@
+# counts for 58 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     3 in   [11, 15, 197]
+  Monstergruppe                     5 word     6 in   [15, 17, 33, 88, 197, 201]
+                                    1      as Monstergruppen-Metapher
+  Monstergruppe (M) als Fundament    1 word     1 in   [33]
+  M-als-Fundament Manifestation    14 word    14 in   [46, 56, 67, 77, 88, 98]
+  M-Substrat                        9 word    20 in   [67, 80, 100, 101, 108, 111]  <-- substring
+                                    7      as M-Substrats
+                                    1      as M-Substrat-Turbulenz
+                                    1      as M-Substrat-Instabilität
+                                    1      as M-Substrat-Dynamik
+  M-als-OS                          1 word     1 in   [156]
+  Potentialmeer                     9 word    10 in   [19, 32, 164, 166, 167, 168]
+                                    1      as Potentialmeers
+  AEGIS                           138 word   139 in   [15, 17, 19, 32, 33, 34]
+                                    1      as AEGIS-Logs
+  Wächter-KI                        4 word     4 in   [15, 32, 54, 197]
+  Kael                             69 word   123 in   [33, 34, 35, 36, 40, 45]
+                                   46      as Kaels
+                                    5      as Kael-Entität
+                                    1      as Kael-Kernstruktur
+                                    1      as Kael-Grenze
+  Juna                              4 word     4 in   [35, 107, 146, 187]
+  Kael-Entität                      5 word     5 in   [126, 137, 147, 161]
+  Nebenfigur                        4 word     4 in   [76, 97, 107, 109]
+  Alters                            2 word     2 in   [99, 122]
+  Kernwelt                          1 word     1 in   [45]
+  Sandbox                           5 word     6 in   [32, 73, 76, 82, 107, 109]
+  K-J Verbindung (Moonshine-Signatur)   15 word    15 in   [35, 48, 58, 69, 79, 90]
+  K-J Verbindung                   17 word    17 in   [33, 35, 40, 48, 58, 69]
+  Moonshine-Signatur               24 word    24 in   [35, 48, 58, 69, 79, 90]
+  Moonshine-Modul                   0 word     1 in   [100]
+                                    1      as Moonshine-Moduls
+  Baby-Monster                      0 word     2 in   [35, 134]
+                                    1      as Baby-Monster-Mathematik
+                                    1      as Baby-Monsters
+  Twin Prime Analogie               1 word     1 in   [35]
+  Primzahl-Metapher                23 word    23 in   [15, 17, 36, 49, 54, 59]
+  AEGIS & Primzahl-Metapher        14 word    14 in   [49, 59, 70, 80, 91, 101]
+  Primzahl-Generator                1 word     1 in   [126]
+  Primzahl-Gitter                   2 word     2 in   [147]
+  Primzahl-Anomalie-Irreduzibel     1 word     1 in   [111]
+  Faktorisierungsrisse              1 word     1 in   [80]
+  Protokoll Omega                   1 word     1 in   [111]
+  Eindämmungsprotokoll K-Alpha      1 word     1 in   [80]
+  Kael's Resonanz & Integration    14 word    14 in   [47, 57, 68, 78, 89, 99]
+  Selbstführung                     2 word     2 in   [156, 157]
+  Symmetriebruch                    3 word     5 in   [113, 142, 143, 147, 156]
+                                    1      as Symmetriebruchereignis
+  Irreduzibilität                   4 word     6 in   [33, 34, 36, 86, 117, 178]
+                                    1      as Irreduzibilitäts-Konflikt
+  algebraische Einfachheit          2 word     2 in   [33, 86]
+  Nicht-Isolierbarkeit              1 word     1 in   [106]
+  Der Glitch                        2 word     2 in   [42, 46]
+  Der Beobachter                    1 word     1 in   [52]
+  Resonanzmuster                    3 word     3 in   [63, 66, 67]
+  Die Sandbox                       1 word     1 in   [73]
+  Algebraische Einfachheit          1 word     1 in   [84]
+  Ödland                            1 word     1 in   [119]
+  Moonshine-Brücke                  1 word     1 in   [130]
+  Coda: Kohärenz                    1 word     1 in   [184]
+  Drei-Akt-Struktur                 1 word     1 in   [19]
+  VOA                               4 word    13 in   [15, 33, 35, 100, 123, 128]  <-- substring
+  CFT                               1 word     3 in   [15, 33, 197]  <-- substring
+  Vertex-Operator-Algebren          1 word     1 in   [15]
+  konformen Feldtheorien            1 word     1 in   [15]
+  Faktorisierung                    5 word    16 in   [17, 36, 40, 59, 61, 70]  <-- substring
+                                    2      as Faktorisierungs-
+                                    1      as Faktorisierungs-Metapher
+                                    1      as Faktorisierungsmetapher
+                                    1      as Faktorisierungsrisse
+  Parakonsistente Logik             1 word     1 in   [75]
+  parakonsistente Logik             1 word     1 in   [80]
+  Mathematical Universe Hypothesis    1 word     1 in   [158]
+  Quantenverschränkung              1 word     1 in   [108]
+  IFS                               1 word     5 in   [82, 124, 128, 143, 226]  <-- substring
+  DID                               0 word     3 in   [34, 78, 227]  <-- substring
+  Cosmic Horror                    10 word    13 in   [19, 50, 60, 71, 92, 112]
+  Hard Science Fiction              2 word     3 in   [19, 40, 199]
