@@ -1,0 +1,328 @@
+{
+  "document": "narrative-techniken-fuer-kohaerenz-protokoll",
+  "drive_id": "1GY8gHHSD50-5byKhrLCWX3Bd6If0151unkE3mCmsKeo",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 152,
+  "backslash_escapes": 139,
+  "typographic_marks": 207,
+  "ascii_quotes": 18,
+  "inflection_families": {
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charakterbogen",
+      "Charakterbögen",
+      "Charakterdynamiken",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charakterentwicklungen",
+      "Charakterinteraktion",
+      "Charakterinteraktionen",
+      "Charakterisiert",
+      "Charakteristika",
+      "Charakterparallelen",
+      "Charakters",
+      "Charakterzustand"
+    ],
+    "daten": [
+      "Daten",
+      "Datenaustauschs",
+      "Datenfragmente",
+      "Datenintegration",
+      "Datenkonsistenz",
+      "Datenkopien",
+      "Datenmanipulation",
+      "Datenschutz",
+      "Datenströme",
+      "Datenströmen"
+    ],
+    "syste": [
+      "SYSTEMS",
+      "System",
+      "Systematische",
+      "Systemdarstellung",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemmeldungen",
+      "Systemmodelle",
+      "Systems"
+    ],
+    "inter": [
+      "Interaction",
+      "Interaktion",
+      "Interaktionen",
+      "Interdisciplinary",
+      "Interesting",
+      "Intern",
+      "Internal",
+      "Interne",
+      "Interpretation"
+    ],
+    "psych": [
+      "PSYCHIC",
+      "Psyche",
+      "Psychic",
+      "Psychische",
+      "Psycho",
+      "Psychologie",
+      "Psychologisch",
+      "Psychology",
+      "Psychopathologie"
+    ],
+    "traum": [
+      "Traum",
+      "Trauma",
+      "Traumabearbeitung",
+      "Traumafolgestörungen",
+      "Traumamodell",
+      "Traumas",
+      "Traumata",
+      "Traumatisierung",
+      "Traumaverarbeitung"
+    ],
+    "erzäh": [
+      "Erzählen",
+      "Erzähler",
+      "Erzählers",
+      "Erzählformen",
+      "Erzählperspektive",
+      "Erzählstruktur",
+      "Erzählung",
+      "Erzählungen"
+    ],
+    "gesta": [
+      "Gestalt",
+      "Gestalten",
+      "Gestaltprinzip",
+      "Gestaltprinzipien",
+      "Gestaltpräferenz",
+      "Gestaltpsychologie",
+      "Gestaltung",
+      "Gestaltwandler"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsalteration",
+      "Identitätsfragmentierung",
+      "Identitätsstörung",
+      "Identitätsverwirrung",
+      "Identitätszustände"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbögen",
+      "Handlungselemente",
+      "Handlungsfähigkeit",
+      "Handlungspunkte",
+      "Handlungsstränge"
+    ],
+    "kontr": [
+      "Kontrapunkt",
+      "Kontrast",
+      "Kontrolle",
+      "Kontrolleur",
+      "Kontrollfunktion",
+      "Kontrolliertes",
+      "Kontrollverlust"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbehauptung",
+      "Selbstschutzmechanismen",
+      "Selbstverletzung",
+      "Selbstverständnis",
+      "Selbstvertrauen",
+      "Selbstähnlichkeit"
+    ],
+    "apoll": [
+      "Apollinisch",
+      "Apollinische",
+      "Apollinischem",
+      "Apollinischen",
+      "Apollo",
+      "Apollonian"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsform",
+      "Bewusstseinsfrage",
+      "Bewusstseinstheorien"
+    ],
+    "emerg": [
+      "EMERGENT",
+      "Emerge",
+      "Emergence",
+      "Emergencies",
+      "Emergent",
+      "Emergenz"
+    ],
+    "gedäc": [
+      "Gedächtnis",
+      "Gedächtnisfragmentierung",
+      "Gedächtnislücken",
+      "Gedächtnispool",
+      "Gedächtnisprobleme",
+      "Gedächtnissystem"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsbogen",
+      "Integrationsprozess",
+      "Integrationsreise",
+      "Integrator",
+      "Integrität"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriearten",
+      "Symmetriekonzepte",
+      "Symmetrien",
+      "Symmetrische",
+      "Symmetry"
+    ],
+    "unter": [
+      "Unterbrechung",
+      "Unterdrückung",
+      "Untermauerung",
+      "Unterscheidung",
+      "Unterschiedliche",
+      "Untertönen"
+    ],
+    "zusam": [
+      "Zusammenfassen",
+      "Zusammenfassung",
+      "Zusammenhang",
+      "Zusammenhänge",
+      "Zusammenhängende",
+      "Zusammenspiel"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysemethoden",
+      "Analysen",
+      "Analysis",
+      "Analytiker"
+    ],
+    "creat": [
+      "Create",
+      "Creating",
+      "Creation",
+      "Creative",
+      "Creativity"
+    ],
+    "diony": [
+      "Dionysian",
+      "Dionysische",
+      "Dionysischem",
+      "Dionysischen",
+      "Dionysos"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziativen"
+    ],
+    "gesam": [
+      "Gesamtbild",
+      "Gesamtebene",
+      "Gesamtroman",
+      "Gesamtstruktur",
+      "Gesamtwirkung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alte",
+      "Saltelli"
+    ],
+    [
+      "Alte",
+      "Gestalten"
+    ],
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Alte",
+      "Zurückhalten"
+    ],
+    [
+      "Alte",
+      "Suchtverhalten"
+    ],
+    [
+      "Alte",
+      "Verhaltenscodes"
+    ],
+    [
+      "Alte",
+      "Verhaltensmuster"
+    ],
+    [
+      "Alte",
+      "Verhaltensweisen"
+    ],
+    [
+      "Alte",
+      "Täuschungsverhalten"
+    ],
+    [
+      "Alte",
+      "Identitätsalteration"
+    ],
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Bildern"
+    ],
+    [
+      "Bild",
+      "Gesamtbild"
+    ],
+    [
+      "Bild",
+      "Bildsprache"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Book",
+      "Pressbooks"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ]
+  ]
+}

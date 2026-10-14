@@ -1,0 +1,122 @@
+# counts for 80 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             64 word   174 in   [29, 41, 43, 44, 45, 46]  <-- substring
+                                  102      as Kaels
+                                    5      as Kael-M
+                                    1      as Kael-Juna-Einheit
+  Juna                              7 word    10 in   [99, 103, 105, 146, 363, 365]
+                                    2      as Junas
+  AEGIS                            73 word    82 in   [29, 41, 45, 46, 47, 51]
+                                    3      as AEGIS-System
+                                    2      as AEGIS-Systems
+                                    2      as AEGIS-Umgebung
+                                    1      as AEGIS-Kael
+  M                                34 word   275 in   [19, 27, 41, 43, 45, 46]  <-- substring
+  Moonshine                        11 word    11 in   [69, 71, 99, 106, 176, 345]
+  Monstergruppe/M                   1 word     1 in   [89]
+  Monstergruppe                     1 word     1 in   [89]
+  K-J Verbindung                   16 word    16 in   [99, 145, 176, 251, 345, 362]
+  Kael-M                            5 word     5 in   [206, 270, 305, 315, 321]
+  Kael-Juna-Einheit                 1 word     1 in   [455]
+  ICH                               6 word     6 in   [175, 206, 270, 305, 315, 321]
+  Anteile                          24 word    33 in   [43, 143, 159, 176, 203, 205]
+                                    8      as Anteilen
+  Logik-Anteil                      7 word     7 in   [43, 176, 298, 302, 313, 318]
+  Kind-Anteil                       4 word     5 in   [43, 298, 303, 312, 318]
+                                    1      as Kind-Anteils
+  Schatten                         11 word    15 in   [176, 208, 267, 298, 303, 304]
+                                    2      as Schattens
+                                    1      as Schatten-Anteile
+                                    1      as Schattenfiguren
+  Wächterin                         6 word     6 in   [206, 298, 305, 313, 315, 319]
+  Risse                             5 word     5 in   [45, 64, 249, 338, 339]
+  Cache Kohärenz                   16 word    16 in   [44, 71, 75, 79, 85, 159]
+  Kernwelt                         11 word    27 in   [59, 61, 62, 63, 67, 95]  <-- substring
+                                    9      as Kernwelten
+                                    5      as Kernwelt-Guardians
+                                    2      as Kernwelt-Guardian
+  Kernwelten                        9 word     9 in   [59, 67, 239, 253, 337, 407]
+  Kernwelt Co₁                      3 word     3 in   [61, 175, 255]
+  Kernwelt B                        2 word     2 in   [62, 175]
+  Kernwelt Ly                       4 word     4 in   [63, 95, 175, 222]
+  Co₁                              16 word    17 in   [51, 61, 62, 67, 137, 138]
+  B                                42 word   249 in   [17, 21, 25, 41, 45, 47]  <-- substring
+  Ly                               10 word    11 in   [51, 63, 67, 95, 175, 222]
+  McL                               1 word     2 in   [381, 577]
+  AEGIS-System                      3 word     5 in   [59, 64, 407, 413]
+                                    2      as AEGIS-Systems
+  Innerer Raum Kaels                1 word     1 in   [65]
+  Innerer Raum                      2 word     2 in   [59, 65]
+  Log-Format                        3 word     3 in   [45, 46]
+  Kernwelt-Guardians                5 word     5 in   [144, 177, 373, 386, 489]
+  Kernwelt-Guardian                 2 word     7 in   [144, 177, 373, 381, 386, 388]  <-- substring
+                                    5      as Kernwelt-Guardians
+  Guardians                         8 word    13 in   [144, 177, 373, 377, 384, 386]
+  Architekt                         3 word    10 in   [55, 61, 62, 63, 114, 233]  <-- substring
+                                    5      as Architektur
+                                    2      as Architekturen
+                                    1      as architektonischen
+  Netzweber                         3 word     3 in   [381, 383, 384]
+  Chaos-Regulator                   3 word     3 in   [381, 383, 384]
+  Möglichkeits-Weber                3 word     3 in   [381, 383, 384]
+  Blaupause                        25 word    30 in   [17, 21, 41, 45, 48, 69]
+                                    1      as Blaupause78
+  Kapitel-Blaupause                 4 word     4 in   [17, 482, 499, 514]
+  Kohärenzprotokolle                2 word     3 in   [261, 270, 278]
+  Cache-Kohärenz-Metapher           1 word     1 in   [276]
+  Sprachwechsel                     1 word     1 in   [49]
+  Environmental Storytelling       10 word    10 in   [51, 55, 59, 67, 69, 177]
+  Alignment Faking                  3 word     3 in   [46, 333, 342]
+  Apollinisch/Dionysische           1 word     1 in   [163]
+  Apollinische                      3 word     6 in   [167, 169, 176, 179, 181]
+                                    2      as Apollinischen
+                                    2      as apollinischen
+                                    1      as Apollinischem
+  Dionysische                       4 word     8 in   [163, 167, 169, 179, 181, 485]
+                                    2      as Dionysischen
+                                    1      as dionysischer
+                                    1      as dionysisches
+                                    1      as Dionysischem
+  Dissoziation                     14 word    14 in   [85, 183, 187, 197, 199, 203]
+  Dissoziativen Identitätsstörung    1 word     1 in   [189]
+  Amnesie                           6 word     6 in   [83, 85, 191, 203, 204, 484]
+  Depersonalisation                 7 word     7 in   [84, 85, 192, 203, 204, 269]
+  Derealisation                     4 word     4 in   [84, 85, 193, 204]
+  Holismus                         10 word    10 in   [75, 89, 210, 214, 221, 225]
+  Reduktionismus                    8 word     8 in   [210, 214, 220, 225, 369, 487]
+  Emergenz                         13 word    13 in   [210, 216, 221, 222, 223, 225]
+  Symmetrie                        35 word    41 in   [61, 71, 110, 115, 116, 229]
+                                    3      as Symmetrien
+                                    1      as Symmetrie-Konzept
+                                    1      as Symmetriekonzepte
+                                    1      as Symmetriearten
+  Asymmetrie                        7 word     7 in   [115, 235, 244, 250, 253]
+  Internal Family Systems           8 word     8 in   [286, 488, 526, 616, 617, 618]
+  IFS                              16 word    25 in   [205, 208, 282, 286, 292, 298]
+  Exiles                           10 word    10 in   [205, 208, 288, 289, 290, 294]
+  Managers                          2 word     2 in   [205, 289]
+  Firefighters                      2 word     2 in   [205, 290]
+  Self-Leadership                   4 word     4 in   [292, 315, 319, 321]
+  Polarisation                      5 word     5 in   [294, 318, 488]
+  MESI                              1 word     2 in   [274, 278]
+                                    1      as MESI-Protokoll
+  Heldenreise                      14 word    14 in   [377, 396, 398, 399, 400, 408]
+  Heldinnenreise                   12 word    12 in   [388, 396, 399, 406, 411, 413]
+  Zyklische Narrative               2 word     2 in   [400, 421]
+  Schwellenhüter                    4 word     4 in   [377, 382, 388, 398]
+  Archetypen                        3 word     3 in   [377, 386, 398]
+  Gestaltprinzipien                 9 word     9 in   [255, 429, 433, 457, 461, 463]
+  Figur-Grund                       2 word     3 in   [435, 450, 469]
+                                    1      as Figur-Grund-Trennung
+  Prägnanz                          5 word     5 in   [235, 255, 440, 454, 474]
+  Geschlossenheit                   8 word    11 in   [439, 453, 457, 459, 473, 491]
+  Pacing                           12 word    15 in   [118, 122, 137, 138, 510, 609]
+                                    2      as Pacings
+                                    1      as Pacing-Techniken
+  Dramatische Ironie                1 word     1 in   [129]
+  Cliffhanger                       2 word     2 in   [131, 154]
+  Psychische Distanz                1 word     1 in   [366]
+  Telepathie                        3 word     3 in   [106, 371]

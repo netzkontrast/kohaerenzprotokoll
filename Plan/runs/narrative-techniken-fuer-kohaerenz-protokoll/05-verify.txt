@@ -1,0 +1,89 @@
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "sollte"
+whole word, case-sensitive     46
+whole word, case-insensitive   46
+including compounds            63
+
+`sollte` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#46]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "könnte"
+whole word, case-sensitive     38
+whole word, case-insensitive   39
+including compounds            51
+
+`könnte` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#38]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Blaupause"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            30
+
+`Blaupause` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#25]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Kapitel-Blaupause"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kapitel-Blaupause` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Cache Kohärenz"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Cache Kohärenz` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#16]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Moonshine"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Moonshine` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#11]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            10
+
+`Juna` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#7]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Risse` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#5]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Kernwelt-Guardians"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kernwelt-Guardians` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#5]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            13
+
+`Guardians` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#8]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Netzweber"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Netzweber` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py narrative-techniken-fuer-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            38
+
+`Kap` ^[narrative-techniken-fuer-kohaerenz-protokoll.md:#0]
+
+stance_marker_count: sollte 46 + könnte 38 (whole word, case-sensitive) = 84
+$ python3 -c 'print(46+38)'
+84
+$ grep -n -i 'kap\.\|kapitel [0-9]\|kap [0-9]' Sources/drive/narrative-techniken-fuer-kohaerenz-protokoll.md   (chapter-by-number check)
+(no output: no chapter named by number)
