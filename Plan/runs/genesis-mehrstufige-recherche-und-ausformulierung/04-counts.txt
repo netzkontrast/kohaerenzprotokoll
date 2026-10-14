@@ -1,0 +1,122 @@
+# counts for 89 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Genesis                           8 word     8 in   [11, 17, 45, 55, 87, 299]
+  Ich                              73 word   101 in   [15, 17, 19, 21, 23, 25]
+  AEGIS                           118 word   131 in   [21, 27, 29, 31, 33, 35]
+                                    7      as AEGIS-Perspektive
+                                    1      as AEGIS-Perspektiven
+                                    1      as AEGIS-Stimme
+                                    1      as AEGIS-Szenen
+  Kael                             18 word    19 in   [23, 41, 45, 49, 51, 59]
+                                    1      as Kaels
+  Komponente 734                   36 word    36 in   [21, 23, 31, 33, 37, 45]
+  Nichts Rauschen                   9 word    10 in   [23, 41, 66, 103, 119, 175]
+  Nichts Rauschens                  1 word     1 in   [23]
+  Echo                             25 word    33 in   [33, 35, 45, 92, 179, 251]
+                                    8      as Echos
+  Resonanz                         39 word    49 in   [17, 21, 23, 35, 51, 66]
+                                    1      as Resonanzen
+                                    1      as Resonanzspitze
+                                    1      as Resonanzverbindung
+                                    1      as Resonanzpfade
+  Dissonanz                        23 word    23 in   [17, 25, 37, 92, 104, 117]
+  Überwelt                          8 word    11 in   [98, 263, 295, 494, 503, 513]
+                                    2      as Überwelt-Subsystem
+                                    1      as Überwelt-Simulation
+  Direktive 0                       8 word     8 in   [31, 33, 98, 438, 465, 606]
+  Kernwelten                        2 word     2 in   [659, 672]
+  Mosaik                            6 word     7 in   [45, 49, 297, 649, 650, 660]
+                                    1      as Mosaik-Identität
+  Narbe                             4 word     5 in   [39, 369, 381, 404]
+                                    1      as Narben
+  Klick                             5 word     9 in   [189, 251, 262, 272, 366, 379]
+                                    3      as Klicken
+                                    1      as Klickt
+  Sog                               2 word     4 in   [385, 395, 407]
+  Logikpakete                       2 word     2 in   [261, 451]
+  Subjektive Residuen               1 word     1 in   [440]
+  Systemgrenze                      2 word     3 in   [118, 211, 439]
+                                    1      as Systemgrenzen
+  Systemkohärenz                    3 word     3 in   [103, 590, 617]
+  Diagnosezyklus Delta-Gamma        3 word     3 in   [222, 233, 487]
+  Protokoll Gamma-Exekution         4 word     4 in   [224, 619, 641, 645]
+  Kohärenz Protokoll Gamma-Exekution    1 word     1 in   [619]
+  Simulation Epsilon-7              1 word     1 in   [513]
+  Simulation Epsilon-Prime          2 word     2 in   [538, 540]
+  Simulation Omega-Prime            1 word     1 in   [591]
+  Überwelt-Subsystem Omega          1 word     1 in   [590]
+  Algorithmus Sigma-7               1 word     1 in   [463]
+  Knotenpunkt Sektor Gamma-3        1 word     1 in   [461]
+  Strukturelle Anomalien            1 word     1 in   [490]
+  Alarmstufe Rot                    1 word     1 in   [590]
+  Der Funke im Nichts               1 word     1 in   [325]
+  Flüchtige Resonanzen              1 word     1 in   [356]
+  Der Keim der Ordnung              1 word     1 in   [383]
+  Die Geburt von AEGIS              1 word     1 in   [413]
+  Systemdiagnose: Stille im Kern    1 word     1 in   [468]
+  Die Überwelt: Simulation der Ordnung    1 word     1 in   [494]
+  Grenzen der Simulation: Das Unmodellierbare    1 word     1 in   [519]
+  Die Ankunft und die Resonanz      1 word     1 in   [546]
+  Simulation des Paradoxons: Systemfehler    1 word     1 in   [570]
+  Das Erwachen und die Dissonanz    1 word     1 in   [596]
+  Die Zerstückelung                 1 word     1 in   [621]
+  Kael - Dämmerung in Scherben      1 word     1 in   [647]
+  DAS ERWACHEN IM RAUSCHEN          1 word     1 in   [323]
+  AEGIS - DIE FESTUNG DER LOGIK     1 word     1 in   [411]
+  DIE KRISE UND DIE SCHERBEN        1 word     1 in   [544]
+  Regiebuch                         2 word     2 in   [299, 677]
+  Sensorisches Lexikon              1 word     1 in   [156]
+  Technisches Glossar & Stil-Leitfaden    1 word     1 in   [157]
+  Stylistic Contrast Summary        1 word     1 in   [307]
+  Tiefenrecherche                   8 word    10 in   [83, 87, 115, 117, 122, 124]
+                                    1      as Tiefenrecherche-Strategie
+                                    1      as Tiefenrecherche-Fragen
+  Breitenrecherche                  1 word     1 in   [87]
+  Ressource 3.3                     3 word     3 in   [335, 366, 556]
+  Dominante Stimmung/Atmosphäre    13 word    13 in   [329, 360, 387, 417, 446, 472]
+  Spezifische Techniken/Beispiele   13 word    13 in   [342, 373, 400, 430, 457, 483]
+  Stylistische Direktiven          13 word    13 in   [330, 361, 388, 418, 447, 473]
+  Nutzen für Outline                4 word     4 in   [92, 98, 104, 110]
+  Potenzielle Fallstricke           4 word     4 in   [93, 99, 105, 111]
+  Übergangs-Hinweise                1 word     1 in   [354]
+  Ich-Perspektive                  21 word    21 in   [17, 59, 65, 68, 81, 117]
+  AEGIS-Perspektive                 7 word     8 in   [60, 81, 115, 118, 273, 303]
+                                    1      as AEGIS-Perspektiven
+  Perspektivwechsel                 7 word     8 in   [61, 109, 110, 120, 150, 268]
+                                    1      as Perspektivwechseln
+                                    1      as perspektivwechsel-geschichten-chancen-und-risiken
+  Qualia                           13 word    13 in   [15, 17, 19, 21, 25, 37]
+  Schwierige Problem des Bewusstseins    2 word     2 in   [19, 81]
+  Hard Problem of Consciousness     2 word     2 in   [19, 685]
+  Erklärungslücke                   1 word     1 in   [19]
+  philosophischen Zombies           1 word     1 in   [19]
+  Existenzialismus                  2 word     2 in   [23, 91]
+  Autopoiesis                       5 word     5 in   [31, 97, 118, 211]
+  Homöostase                        4 word     4 in   [33, 97, 118, 211]
+  Feedbackschleifen                 1 word     1 in   [33]
+  Emergenz                          6 word     6 in   [49, 118, 211, 396, 424, 437]
+  Systemtheorie                     7 word     7 in   [27, 29, 67, 97, 103, 118]
+  Kybernetik                        8 word     8 in   [27, 29, 33, 67, 97, 118]
+  Dissoziation                     10 word    10 in   [39, 43, 49, 91, 93, 117]
+  Fragmentierung                   16 word    16 in   [39, 43, 45, 47, 49, 74]
+  komplexes Trauma                  1 word     1 in   [41]
+  Post-Traumatic Growth             1 word     1 in   [51]
+  Deep POV                         10 word    10 in   [59, 81, 91, 117, 165, 312]
+  Bewusstseinsstrom                 7 word     7 in   [59, 91, 117, 130, 165, 312]
+  Stream-of-Consciousness           1 word     1 in   [59]
+  Erlebte Rede                      2 word     2 in   [171, 319]
+  Third-Person Objective            1 word     1 in   [60]
+  Pacing                           12 word    16 in   [53, 55, 70, 107, 109, 111]
+                                    2      as Pacing-Kontrolle
+                                    1      as Pacing-Effekte
+                                    1      as Pacing-Ziel
+                                    1      as pacing-in-your-story-practical-tips-and-techniques
+  Nominalstil                       3 word     3 in   [67, 222, 424]
+  systemischer Blindheit            1 word     1 in   [37]
+  Hybris                            2 word     2 in   [37, 521]
+  Bias                              8 word     9 in   [37, 97, 142, 212, 685]
+                                    1      as bias-in-ai
+                                    1      as Biases
