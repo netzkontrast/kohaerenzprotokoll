@@ -1,0 +1,715 @@
+{
+  "document": "monstergruppen-und-paradoxien-im-narrativ",
+  "drive_id": "1yXqy8Xmrpy5y4mi5EFmuIQvmPfuSYvbid5r87olwjYQ",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Monstergruppen": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        17,
+        21,
+        25,
+        123,
+        125,
+        129,
+        213,
+        263,
+        282
+      ]
+    },
+    "Monstergruppe": {
+      "n": 2,
+      "n_including_compounds": 12,
+      "lines": [
+        11,
+        17,
+        21,
+        25,
+        123,
+        125,
+        129,
+        140,
+        206,
+        213,
+        263,
+        282
+      ]
+    },
+    "Monster": {
+      "n": 100,
+      "n_including_compounds": 151,
+      "lines": [
+        11,
+        15,
+        17,
+        21,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        41,
+        43,
+        45,
+        50,
+        51,
+        53,
+        55,
+        56,
+        57,
+        58,
+        61,
+        63,
+        65,
+        67,
+        69,
+        71,
+        110,
+        112,
+        116,
+        117,
+        118,
+        119,
+        123,
+        125,
+        129,
+        136,
+        138,
+        140,
+        142,
+        144,
+        146,
+        163,
+        176,
+        178,
+        179,
+        180,
+        181,
+        192,
+        194,
+        196,
+        198,
+        202,
+        206,
+        209,
+        213,
+        219,
+        221,
+        229,
+        231,
+        239,
+        241,
+        243,
+        245,
+        247,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        259,
+        263,
+        267,
+        269,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        282,
+        286
+      ]
+    },
+    "Monsterkonzepts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Paradoxien": {
+      "n": 76,
+      "n_including_compounds": 80,
+      "lines": [
+        11,
+        15,
+        17,
+        21,
+        75,
+        77,
+        81,
+        83,
+        84,
+        85,
+        86,
+        88,
+        90,
+        92,
+        93,
+        94,
+        95,
+        97,
+        99,
+        101,
+        102,
+        103,
+        106,
+        108,
+        110,
+        112,
+        116,
+        117,
+        118,
+        119,
+        123,
+        125,
+        129,
+        136,
+        140,
+        142,
+        144,
+        146,
+        158,
+        172,
+        185,
+        192,
+        194,
+        196,
+        198,
+        213,
+        220,
+        231,
+        240,
+        241,
+        243,
+        245,
+        247,
+        259,
+        263,
+        267,
+        269,
+        275,
+        277,
+        282,
+        286
+      ]
+    },
+    "Paradoxon": {
+      "n": 67,
+      "n_including_compounds": 91,
+      "lines": [
+        79,
+        84,
+        85,
+        92,
+        93,
+        94,
+        95,
+        106,
+        108,
+        118,
+        136,
+        138,
+        140,
+        165,
+        169,
+        170,
+        171,
+        174,
+        176,
+        178,
+        179,
+        181,
+        185,
+        187,
+        188,
+        189,
+        190,
+        202,
+        204,
+        206,
+        208,
+        209,
+        220,
+        221,
+        230,
+        231,
+        240,
+        241,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        259,
+        269,
+        276,
+        277,
+        278,
+        279,
+        280,
+        286
+      ]
+    },
+    "Monstrosität": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        154,
+        164,
+        176,
+        178,
+        179,
+        180,
+        185,
+        192
+      ]
+    },
+    "Transgression": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        131,
+        267
+      ]
+    },
+    "Grenzgänger": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        267
+      ]
+    },
+    "Grenzüberschreitung": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        31,
+        63,
+        71,
+        116
+      ]
+    },
+    "Mischwesen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        65,
+        165
+      ]
+    },
+    "taxonomische Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Kernunterschiede": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        114,
+        123
+      ]
+    },
+    "Zusammenspiel": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        21,
+        213,
+        221,
+        231,
+        241,
+        243,
+        247,
+        251,
+        282
+      ]
+    },
+    "Monster-Element": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        219,
+        229,
+        239,
+        251
+      ]
+    },
+    "Paradoxon-Element": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        220,
+        230,
+        240,
+        251
+      ]
+    },
+    "Das Unheimliche (Uncanny)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Body Horror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56
+      ]
+    },
+    "Psychologischer Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Atmosphäre und Suspense": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Antagonismus und Konflikt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Reflexion von Normen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Ambivalenz und Faszination": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Widerspruch (Contradiction)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Selbstbezug (Self-Reference)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Unendlicher Regress / Zirkularität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Logische Paradoxien (Antinomien)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Philosophische / Metaphysische Paradoxien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Situative / Veridische Paradoxien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Rhetorische Paradoxien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Lügner-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Russellsche Antinomie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Barbier-Paradoxon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        92
+      ]
+    },
+    "Schiff des Theseus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Zenons Paradoxien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Großvaterparadoxon": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        93,
+        105,
+        240,
+        256
+      ]
+    },
+    "Fermi-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Allmachtsparadoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Geburtstagsparadoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Jevons-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Giffen-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Catch-22": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        136
+      ]
+    },
+    "Zeitparadoxien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "kausale Schleifen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Bootstrap-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "unzuverlässige Erzähler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Paradoxon der Fiktion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        106,
+        118
+      ]
+    },
+    "Paradoxon des Horrors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "lebenden Todes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Dualität innerhalb eines einzigen Individuums": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "kosmischer Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Paradoxon als Weltenbau": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        277
+      ]
+    },
+    "Monster vertiefen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        276
+      ]
+    },
+    "Kontraste nutzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        275
+      ]
+    },
+    "Erwartungen unterlaufen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        279
+      ]
+    },
+    "Splicers": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        208,
+        229,
+        231,
+        254,
+        259,
+        277,
+        286
+      ]
+    },
+    "Big Daddies": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        229,
+        254
+      ]
+    },
+    "Rapture": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        208,
+        229,
+        230,
+        231,
+        254,
+        259,
+        277
+      ]
+    },
+    "Heptapoden": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        219,
+        220,
+        221,
+        253
+      ]
+    },
+    "kognitive Dissonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Sapir-Whorf-Hypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        220
+      ]
+    },
+    "Oxymoron": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        95
+      ]
+    }
+  }
+}

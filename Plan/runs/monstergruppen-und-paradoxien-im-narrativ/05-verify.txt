@@ -1,0 +1,194 @@
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Monster-Element'
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Monster-Element` ^[monstergruppen-und-paradoxien-im-narrativ.md:#4]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Paradoxon-Element'
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Paradoxon-Element` ^[monstergruppen-und-paradoxien-im-narrativ.md:#4]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Zusammenspiel'
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            9
+
+`Zusammenspiel` ^[monstergruppen-und-paradoxien-im-narrativ.md:#6]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Kael'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Juna'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'AEGIS'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Kernwelt'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Kernwunde'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Nexus'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nexus` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Kohärenz'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Gruppentheorie'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Gruppentheorie` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'sporadisch'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`sporadisch` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Moonshine'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Moonshine` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Symmetrie'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Symmetrie` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Canon'
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Canon` ^[monstergruppen-und-paradoxien-im-narrativ.md:#0]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Monstergruppen'
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Monstergruppen` ^[monstergruppen-und-paradoxien-im-narrativ.md:#10]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Monstergruppe'
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            12
+
+`Monstergruppe` ^[monstergruppen-und-paradoxien-im-narrativ.md:#2]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Quellenangaben'
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quellenangaben` ^[monstergruppen-und-paradoxien-im-narrativ.md:#1]
+
+$ python3 scripts/read.py monstergruppen-und-paradoxien-im-narrativ --count 'Monsters'
+whole word, case-sensitive     13
+whole word, case-insensitive   16
+including compounds            14
+
+`Monsters` ^[monstergruppen-und-paradoxien-im-narrativ.md:#13]
+
+stance_marker_count 14 = 4 + 4 + 6 (Monster-Element, Paradoxon-Element, Zusammenspiel, whole word)
+$ grep -n -o '?' Sources/drive/monstergruppen-und-paradoxien-im-narrativ.md | cut -d: -f1 | sort -n | uniq -c
+      1 84
+      5 93
+      2 202
+      2 230
+      1 254
+      1 276
+      1 278
+     19 286
+
+$ grep -n 'end list' Sources/drive/monstergruppen-und-paradoxien-im-narrativ.md | cut -d: -f1 | tr '\n' ' '
+148 156 160 167 217 223 227 233 237 
+$ grep -n -E '^#{2,4} ' Sources/drive/monstergruppen-und-paradoxien-im-narrativ.md | cut -c1-70
+13:## **1. Einleitung**
+15:### **1.1 Die Bühne bereiten: Monster und Paradoxien als narrative
+19:### **1.2 Zielsetzung und Struktur des Berichts**
+23:## **2. Die Natur des Monströsen in der Erzählung**
+25:### **2.1 Definition von Monstergruppen: Merkmale über Kontexte hi
+39:### **2.2 Funktionen des Monströsen: Antagonismus, Symbolik und Ho
+61:### **2.3 Monster als transgressive Figuren**
+73:## **3. Die Natur des Paradoxen in der Erzählung**
+75:### **3.1 Paradoxien verstehen: Definitionen und Kernelemente**
+88:### **3.2 Typologie von Paradoxien**
+97:### **3.3 Funktionen von Paradoxien in der Erzählung**
+110:## **4. Komparative Analyse: Monster und Paradoxien**
+114:### **4.1 Kernunterschiede**
+121:### **4.2 Vergleichende Zusammenfassung**
+138:## **5. Konzeptionelle Schnittmengen: Das Monster als Paradoxon / 
+142:### **5.1 Monster, deren Existenz Paradoxien verkörpert**
+174:### **5.2 Paradoxon als definierendes Element des monströsen Sein
+183:### **5.3 Vertiefende Fallstudie: Frankensteins Kreatur**
+196:## **6. Narrative Synergien: Die Verwebung von Monstern und Parado
+200:### **6.1 Die Spannung nutzen: Konkreter Horror trifft auf abstrak
+204:### **6.2 Paradoxon als Erklärung oder Verstärkung des Monströs
+211:### **6.3 Analyse der Koexistenz in fiktionalen Werken**
+243:### **6.4 Beispiele für das Zusammenspiel von Monstern und Parado
+261:## **7. Schlussfolgerung: Implikationen für die narrative Gestalt
+265:### **7.1 Synthese der Kernergebnisse**
+271:### **7.2 Handlungsleitende Einsichten für narrative Projekte**
+284:#### **Quellenangaben**
+
+$ grep -n -o -w 'Monsters' Sources/drive/monstergruppen-und-paradoxien-im-narrativ.md | cut -d: -f1 | sort -n | uniq -c
+      1 29
+      1 33
+      1 57
+      1 71
+      1 180
+      1 194
+      1 241
+      1 259
+      1 269
+      4 286
+
+$ grep -o -E '[A-Za-zäöüß-]*Paradoxien[A-Za-zäöüß-]*' Sources/drive/monstergruppen-und-paradoxien-im-narrativ.md | sort | uniq -c | sort -rn | head -4
+     78 Paradoxien
+      2 Zeitreise-Paradoxien
+      1 Gründungs-Paradoxien
+
+$ grep -n -o '\\\*\\\*' Sources/drive/monstergruppen-und-paradoxien-im-narrativ.md | cut -d: -f1 | sort -u | tr '\n' ' '
+130 131 132 133 134 
