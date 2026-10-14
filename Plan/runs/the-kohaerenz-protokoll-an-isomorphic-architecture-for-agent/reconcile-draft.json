@@ -1,0 +1,159 @@
+{
+  "document": "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+  "drive_id": "1KTOzz0YotlBS78uZotiCjF41B9i_uuyyXURhBvIIY0E",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 60,
+    "decisions": 62,
+    "decided_by_lookup": 53,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        34,
+        74
+      ],
+      "attribution": "",
+      "note": "AEGIS as the embodiment of the Coherence Kernel in a software model"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        24,
+        116,
+        118
+      ],
+      "attribution": "",
+      "note": "Genesis Trauma and the Genesis Crisis event schema"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        166
+      ],
+      "attribution": "",
+      "note": "Juna only in the Kael-Juna/V relation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        40,
+        54,
+        185
+      ],
+      "attribution": "",
+      "note": "System Kael as a character schema modelled on TSDP"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the Coherence Kernel as the force of order"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        22
+      ],
+      "attribution": "",
+      "note": "the Collapse Kernel as entropy and the source of objective truth"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "one sample intention of the System Kael schema"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        22
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the Collapse Kernel's sea of potentiality"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        66
+      ],
+      "attribution": "",
+      "note": "the Risse in two schema lines"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        22,
+        185
+      ],
+      "attribution": "",
+      "note": "TSDP as the psychological side of the isomorphism"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 24,
+      "decision": "reading",
+      "why": "AEGIS's Genesis Trauma in the mapping table; read on genesis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 22,
+      "decision": "reading",
+      "why": "the psychological side modelled on TSDP; read on tsdp"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 195,
+      "decision": "occurrence",
+      "why": "complex-systems simulation in general, an application of the framework"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

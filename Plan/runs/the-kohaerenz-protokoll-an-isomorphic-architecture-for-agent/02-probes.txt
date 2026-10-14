@@ -1,0 +1,53 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      7
+  backslash escapes      77
+  typographic marks      19
+  ascii quotes           164
+
+# inflection families -- one term, several surfaces
+  archi    Architect, Architectural, Architecture
+  proto    Protocol, Protocols, Protokoll
+  syste    SYSTEM, System, Systems
+  appli    Application, Applications
+  befor    Before, BeforeTool
+  check    Check, Checking
+  consc    Conscious, Consciousness
+  contr    Contradiction, Control
+  direc    Direct, Director
+  disso    Dissociation, Dissociative
+  embod    Embodies, Embodiment
+  envir    Environment, Environments
+  ethic    Ethical, Ethics
+  gemin    GEMINI, Gemini
+  imple    Implementation, Implemented
+  inter    Inter, Internal
+  model    Modeling, Models
+  opera    Operating, Operational
+  princ    Principle, Principles
+  shado    Shadow, Shadowless
+  simul    Simulating, Simulation
+  traum    Trauma, Traumatic
+  truth    Truth, Truths
+
+# substring pairs -- never one term, often merged by accident
+  Check < Checking
+  Inter < Internal
+  Logic < Ontological
+  Logic < Psychological
+  Truth < Truths
+  Before < BeforeTool
+  Belief < Disbelief
+  Direct < Director
+  GEMINI < Gemini
+  SYSTEM < System
+  SYSTEM < Systems
+  Shadow < Shadowless
+  System < Systems
+  Trauma < Traumatic
+  Protocol < Protocols
+  Architect < Architecture
+  Architect < Architectural
+  Conscious < Consciousness
+  Principle < Principles
+  Application < Applications
