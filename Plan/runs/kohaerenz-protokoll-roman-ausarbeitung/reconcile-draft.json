@@ -1,0 +1,174 @@
+{
+  "document": "kohaerenz-protokoll-roman-ausarbeitung",
+  "drive_id": "1hkWLLasA1gmB59SEFtYoQFTyUMA4g8Pk4rbfTfwJ7IY",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 63,
+    "decisions": 65,
+    "decided_by_lookup": 54,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        49,
+        147,
+        149,
+        153,
+        169,
+        270
+      ],
+      "attribution": "",
+      "note": "a design for AEGIS as autopoietic, reductionist and limited"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        258,
+        262,
+        268,
+        269,
+        270,
+        271
+      ],
+      "attribution": "",
+      "note": "the cache-coherence metaphor mapped onto Kael, M and AEGIS"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        169,
+        414
+      ],
+      "attribution": "",
+      "note": "emergent phenomena AEGIS cannot control; a hypothetical chapter concept"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        249
+      ],
+      "attribution": "",
+      "note": "Entropie in AEGIS's logs as plan text"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        85,
+        93,
+        167,
+        311
+      ],
+      "attribution": "",
+      "note": "Juna as catalyst, intuitive side and disruptor of AEGIS"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        33,
+        41,
+        45,
+        49,
+        85,
+        93,
+        271
+      ],
+      "attribution": "",
+      "note": "Kael's identity, the Kernwelten as Kael's subjective caches"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        41,
+        187,
+        247,
+        252,
+        254,
+        268
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as caches of Kael's identity, twenty of them, four in focus"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        41,
+        161
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as non-logical and possibly unprovable for AEGIS"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        121,
+        157,
+        163
+      ],
+      "attribution": "",
+      "note": "section 2.3 on limits and instability, the Risse"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 73,
+      "decision": "occurrence",
+      "why": "dissociation's symptoms in a borrowed psychology section"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 73,
+      "decision": "occurrence",
+      "why": "a clinical definition in a borrowed psychology section"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 249,
+      "decision": "reading",
+      "why": "AEGIS's sample log: a cache showing raised entropy"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
