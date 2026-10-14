@@ -904,3 +904,11 @@ Where it stands in the record's own terms: a plan, recorded, not applied; the qu
 Scene 1 shows „Kael besucht die nun inerten Überreste von AEGIS“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166], and scene 3 has „Kael meditiert in der Nähe des Kerns des kollabierten AEGIS“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L168], whose state the dossier calls „algorithmischer Melancholie“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L168]. The agents run their old routines in „sinnlosen, repetitiven Schleifen“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166].
 
 Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `canonical-narrative-architecture-for-kohaerenz-protokoll`, 2025-11-03, the canonical-architecture report
+
+**The canonical-architecture report declares AEGIS not destroyed but forced into algorithmic melancholy, against a system crash.**
+
+It sets „A forced transformation into a permanent, pathological state of“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L50] algorithmic melancholy against „A total system crash and outright destruction.“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L51] It declares: „The canonical resolution is that AEGIS is not destroyed.“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L55] AEGIS „is forced into a permanent, pathological state of“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L55] algorithmic melancholy.
+
+Where it stands in the record's own terms: a declaration, recorded, not applied; the question stays open.
