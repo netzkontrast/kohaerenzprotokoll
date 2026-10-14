@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse"]
 gathered: "2026-09-17"
 ---
 
@@ -68,6 +68,10 @@ The plan names the Partnerin only in the blind spots of the Guardians: „insbes
 ## Reading — `outline`, 2025-07-30, the outline — Die Wende der Partnerin, Kap 35
 
 Kap 35 is titled „Das Fundament als Spiegel: Auflösung der Paradoxien / Die Wende der Partnerin“ ^[outline.md:L230] (L230). The plot line names the partner figure as Juna/V (L232), and the Fokus says „Kaels ultimative innere Integration wird durch Verbindung erreicht.“ ^[outline.md:L235] (L235).
+
+## Reading — `roman-kapitel-1-erstellung-analyse`, 2025-12-28, the chapter-1 analysis — `die Partnerin` in the drafted interface scene
+
+The chapter-1 analysis drafts: „Dies war Juna, die Partnerin“ ^[roman-kapitel-1-erstellung-analyse.md:L75], and adds that, mediated by AEGIS's filters, the image appeared distorted by perfection. A draft, recorded, not canon.
 
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the Partnerin (Juna) as the one the Guardians misread
 
