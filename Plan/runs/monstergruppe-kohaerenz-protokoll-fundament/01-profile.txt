@@ -1,0 +1,14 @@
+# monstergruppe-kohaerenz-protokoll-fundament
+  lines                303  (frontmatter ends at 9)
+  body words           6523
+  headings             2   bold-only lines 30
+  table rows           19   code fences 0
+  question marks       14
+  backslash escapes    30
+  typographic marks    170   ascii quotes 8
+  invisible characters U+200Bx25
+  math symbol lines    1
+  glued ref numbers    41
+  repeated labels      none
+  longest line         1253 chars
+
