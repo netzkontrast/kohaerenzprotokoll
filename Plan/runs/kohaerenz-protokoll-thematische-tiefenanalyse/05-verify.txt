@@ -1,0 +1,184 @@
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Query Context"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Query Context` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Theoretische Fundamente"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Theoretische Fundamente` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Narrative Implikationen & Synthese"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Narrative Implikationen & Synthese` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Cache Kohärenz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Cache Kohärenz` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Kernparadoxon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernparadoxon` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Moonshine-Link"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Link` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Zero-Trust"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Zero-Trust` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Risse"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            25
+
+`Risse` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#24]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Überwelt` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Kaels"
+whole word, case-sensitive     51
+whole word, case-insensitive   51
+including compounds            51
+
+`Kaels` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#51]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Rissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Anteilen"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Anteilen` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Systeminstabilitäten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Systeminstabilitäten` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Apollinischen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Apollinischen` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Dionysische"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Dionysische` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#4]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Schattenarbeit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Schattenarbeit` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Logiker-Anteil"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Logiker-Anteil` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Beobachtereffekts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beobachtereffekts` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Macht/Wissens-Dynamik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Macht/Wissens-Dynamik` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Śūnyatā-Perspektive"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Śūnyatā-Perspektive` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "User Query"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`User Query` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "Quellenangaben"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quellenangaben` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-thematische-tiefenanalyse --count "?"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            33
+
+`?` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#1]
+
+stance_marker_count 16 = 8 (Query Context) + 4 + 4
+candidates 68 (04-counts.txt header); zeros 0
