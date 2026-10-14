@@ -1,0 +1,141 @@
+{
+  "document": "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+  "drive_id": "1PAlyn1xAerpwJGJhT1K9pf0udLg1jz4TMp4NSaRy2Lk",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 47,
+    "decisions": 53,
+    "decided_by_lookup": 38,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        52,
+        53
+      ],
+      "attribution": "",
+      "note": "protocols named, and found inadequate against the link"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        50,
+        52,
+        55,
+        57,
+        102,
+        109
+      ],
+      "attribution": "",
+      "note": "Juna as the anomaly AEGIS cannot parse, and a pathological transformation"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        55,
+        109
+      ],
+      "attribution": "",
+      "note": "the climax forces AEGIS into a fatal checkmate"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        15,
+        30,
+        31,
+        39,
+        52,
+        86,
+        100,
+        115
+      ],
+      "attribution": "",
+      "note": "Juna/V as the central engine, four weighed natures, and an evolving role"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        39,
+        43,
+        54,
+        107,
+        115
+      ],
+      "attribution": "",
+      "note": "Juna as catalyst for Kael's integration"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "the Ten as a turning point of Juna/V"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        43,
+        52,
+        61
+      ],
+      "attribution": "",
+      "note": "a sub-protocol connection beneath AEGIS's controls"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Juna/V as a manifestation of the Potentialmeer"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      4,
+      31
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
