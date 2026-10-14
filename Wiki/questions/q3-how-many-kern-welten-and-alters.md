@@ -1414,3 +1414,11 @@ Where it stands in the record's own terms: before and not against the author's a
 It says „Das System Kael besteht aus exakt“ ^[konsolidierung-des-hard-canon-protokolls.md:L13] thirteen alters, and „Dies spiegelt die mathematische Struktur der 39-Kapitel-Matrix“ ^[konsolidierung-des-hard-canon-protokolls.md:L13]. Of the Kernwelten it says only that the present level in them is broken by cuts: „Die aktuelle Zeitebene in den Kernwelten wird immer wieder durch harte Schnitte, Erinnerungs-Risse und Rückblenden in das Nichts-Rauschen und die Basisrealität durchbrochen.“ ^[konsolidierung-des-hard-canon-protokolls.md:L29]
 
 Stands: one more position on the number of alters, a declaration of the masterfile; recorded, not applied and not decided.
+
+## 2026-10-14 — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft
+
+**The detailed plot draft names four Kernwelten with a theme each, sets three in chapters and none in KW4, and gives no count of alters.**
+
+The four: „KW1: Logik, KW2: Emotion/Paralogik, KW3: Angst/Sicherheit, KW4: Potential“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L27] (L27). The chapters plan KW1 („transferiert Kael in die Kernwelt 1 (KW1)“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91], L91), KW2 („Kael betritt KW2“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L98], L98) and KW3 („vielleicht in KW3: Angst/Sicherheit“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L113], L113).
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand.
