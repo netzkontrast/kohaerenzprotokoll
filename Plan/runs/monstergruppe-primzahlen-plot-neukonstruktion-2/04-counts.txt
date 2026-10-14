@@ -1,0 +1,97 @@
+# counts for 78 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     3 in   [11, 15, 195]
+  Monstergruppe                     5 word     6 in   [15, 17, 31, 86, 195, 199]
+                                    1      as Monstergruppen-Metapher
+  Monstergruppe (M) als Fundament    1 word     1 in   [31]
+  Primzahl-Metapher                23 word    23 in   [15, 17, 34, 47, 52, 57]
+  Primzahlmetapher                  2 word     2 in   [99, 135]
+  Faktorisierungsmetapher           1 word     1 in   [57]
+  AEGIS                           138 word   139 in   [15, 17, 19, 30, 31, 32]
+                                    1      as AEGIS-Logs
+  Wächter-KI                        4 word     4 in   [15, 30, 52, 195]
+  Kael                             69 word   123 in   [31, 32, 33, 34, 38, 43]
+                                   46      as Kaels
+                                    5      as Kael-Entität
+                                    1      as Kael-Kernstruktur
+                                    1      as Kael-Grenze
+  Juna                              4 word     4 in   [33, 105, 144, 185]
+  Potentialmeer                     9 word    10 in   [19, 30, 162, 164, 165, 166]
+                                    1      as Potentialmeers
+  Kernwelt                          1 word     1 in   [43]
+  Sandbox                           5 word     6 in   [30, 71, 74, 80, 105, 107]
+  Glitch                            3 word     5 in   [32, 40, 43, 44, 48]
+                                    2      as Glitches
+  Nebenfigur                        4 word     4 in   [74, 95, 105, 107]
+  Alters                            2 word     2 in   [97, 120]
+  M-Substrat                        9 word    20 in   [65, 78, 98, 99, 106, 109]  <-- substring
+                                    7      as M-Substrats
+                                    1      as M-Substrat-Turbulenz
+                                    1      as M-Substrat-Instabilität
+                                    1      as M-Substrat-Dynamik
+  M-Gewebe                          3 word     3 in   [54, 75, 95]
+  Simulationsgewebe                 2 word     2 in   [65, 106]
+  Realitätsfilter                   1 word     1 in   [95]
+  Faktorisierungsrisse              1 word     1 in   [78]
+  Primzahl-Generator                1 word     1 in   [124]
+  Primzahl-Gitter                   2 word     2 in   [145]
+  Protokoll Omega                   1 word     1 in   [109]
+  Eindämmungsprotokoll K-Alpha      1 word     1 in   [78]
+  Entitätsquarantäne                1 word     1 in   [109]
+  Eindämmungsfeldintegrität         1 word     1 in   [99]
+  Primzahl-Anomalie-Irreduzibel     1 word     1 in   [109]
+  Irreduzible Anomalie              1 word     1 in   [189]
+  Ereignis K-001                    1 word     1 in   [47]
+  Kategorienfehler                  1 word     1 in   [89]
+  Moonshine-Signatur               24 word    24 in   [33, 46, 56, 67, 77, 88]
+  K-J Verbindung                   17 word    17 in   [31, 33, 38, 46, 56, 67]
+  K-J-Verbindung                   13 word    13 in   [104, 105, 106, 111, 115, 130]
+  Moonshine-Modul                   0 word     1 in   [98]
+                                    1      as Moonshine-Moduls
+  Baby-Monster-Mathematik           1 word     1 in   [33]
+  Twin Prime Analogie               1 word     1 in   [33]
+  M-als-OS                          1 word     1 in   [154]
+  Selbstführung                     2 word     2 in   [154, 155]
+  NZT-Protokolls                    1 word     1 in   [195]
+  Konzeptfokus & Progression       14 word    14 in   [42, 52, 63, 73, 84, 94]
+  Plot-Zusammenfassung             14 word    14 in   [43, 53, 64, 74, 85, 95]
+  M-als-Fundament Manifestation    14 word    14 in   [44, 54, 65, 75, 86, 96]
+  Kael's Resonanz & Integration    14 word    14 in   [45, 55, 66, 76, 87, 97]
+  AEGIS & Primzahl-Metapher        14 word    14 in   [47, 57, 68, 78, 89, 99]
+  Genre-Integration                15 word    15 in   [48, 58, 69, 79, 90, 100]
+  Kontextualisierung                5 word     5 in   [59, 80, 111, 126, 191]
+  Gesamtziel                        3 word     3 in   [38, 115, 150]
+  Der Glitch                        2 word     2 in   [40, 44]
+  Der Beobachter                    1 word     1 in   [50]
+  Resonanzmuster                    3 word     3 in   [61, 64, 65]
+  Die Sandbox                       1 word     1 in   [71]
+  Algebraische Einfachheit          1 word     1 in   [82]
+  Eindämmungsprotokolle & Eskalierende Anomalien    1 word     1 in   [92]
+  Erster Kontakt & Akt 1 Klimax     1 word     1 in   [102]
+  Das Ödland & Wandelnde Realitäten    1 word     1 in   [117]
+  Die Moonshine-Brücke & AEGIS' Paradoxon    1 word     1 in   [128]
+  Emergenz & Akt 2 Klimax           1 word     1 in   [138]
+  Die neue Realität & Kaels Integration    1 word     1 in   [152]
+  Die Natur von AEGIS & Das Potentialmeer    1 word     1 in   [162]
+  Konfrontation & Auflösung         1 word     1 in   [172]
+  Coda: Kohärenz                    1 word     1 in   [182]
+  Anomalie & Eindämmung             1 word     1 in   [36]
+  Paradoxon & Emergenz              1 word     1 in   [113]
+  Integration & Konfrontation       1 word     1 in   [148]
+  Kapitel 1                         1 word     6 in   [36, 40, 102, 113, 117, 128]  <-- substring
+  Kapitel 39                        1 word     1 in   [182]
+  Vertex-Operator-Algebren          1 word     1 in   [15]
+  konformen Feldtheorien            1 word     1 in   [15]
+  VOA                               4 word    13 in   [15, 31, 33, 98, 121, 126]  <-- substring
+  CFT                               1 word     3 in   [15, 31, 195]  <-- substring
+  Integer-Faktorisierung            1 word     1 in   [59]
+  parakonsistente Logik             1 word     1 in   [78]
+  Quantenverschränkung              1 word     1 in   [106]
+  Symmetriebruch                    3 word     5 in   [111, 140, 141, 145, 154]
+                                    1      as Symmetriebruchereignis
+  Mathematical Universe Hypothesis    1 word     1 in   [156]
+  IFS                               1 word     5 in   [80, 122, 126, 141, 203]  <-- substring
+  DID                               0 word     3 in   [32, 76, 203]  <-- substring
