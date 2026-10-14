@@ -1,0 +1,211 @@
+{
+  "document": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+  "drive_id": "1CseyKovWOdJsQty5c7dShsNZc7Qnw-BMDifUdx0PSwk",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings, two record entries and 39 chapter readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-431/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be a chapter plan whose Wächterin is a part of Kael",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 104,
+    "decisions": 107,
+    "decided_by_lookup": 87,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A 39-chapter plan with a narrator line, an AEGIS line and a concept line per chapter: its new surfaces are its labels for Kael and AEGIS's protocols, the world codes, Jetzt-Raum, Inner Garden, the Wächterin, the chapter titles and borrowed concepts; what it plans for AEGIS, Kael, Juna, the Potentialmeer, the Mosaik-Herz, multiplicity, emergence, entropy, negentropy and cache coherence went on existing pages, the T-734 fragment on Q7, AEGIS's collapse on Q8, and each chapter's plan on Kap 1 to Kap 39.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        20,
+        30,
+        70,
+        80,
+        290,
+        300,
+        340,
+        350,
+        360
+      ],
+      "attribution": "",
+      "note": "AEGIS as the planned log-keeper, from Kap 1 to Kap 34"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        199,
+        201
+      ],
+      "attribution": "",
+      "note": "Cache Kohärenz in the plan's everyday multiplicity chapter"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        90,
+        221,
+        331
+      ],
+      "attribution": "",
+      "note": "Emergenz as the concept line of Kap 21 and Kap 32, and as a named result in Kap 8"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        130,
+        381
+      ],
+      "attribution": "",
+      "note": "Entropie in the plan's Kap 12 scan and Kap 37 concept"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        359,
+        399
+      ],
+      "attribution": "",
+      "note": "Juna in the plan's closing chapters"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        30,
+        90,
+        100,
+        120,
+        130,
+        199,
+        300,
+        329,
+        349
+      ],
+      "attribution": "",
+      "note": "Kael as the subject of the planned AEGIS logs and of the transformation into Kael/M"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        119,
+        120
+      ],
+      "attribution": "",
+      "note": "Mosaik-Herz as Kael's self-concept in Kap 11"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        120,
+        121,
+        199,
+        201
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität in Kap 11 and Kap 19"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        379,
+        381
+      ],
+      "attribution": "",
+      "note": "Negentropie as the plan's Kap 37 concept"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        229,
+        349,
+        359,
+        379,
+        399
+      ],
+      "attribution": "",
+      "note": "Potentialmeer from the Kap 22 warning to the Kap 39 closing image"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kael/M` and `Kael-Self\\_Integrator` read on kael; `Mosaik-Herzens` the genitive; `Wächter` in two chapter titles the outline's guardian figures, not the Wächter der systemischen Stabilität; `Alpha` in `Fragment Alpha`, not the therapy interface; `B-Welt-Simulation`, `Simulationsgrenze`, `Simulationstheorie` a world, a border and a borrowed theory; `alternatives Kohärenzprotokoll` read on aegis; `Negentropie` on its own page; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 351,
+      "decision": "occurrence",
+      "why": "a concept line's general sense"
+    }
+  ],
+  "not_promoted": [
+    "Kael/M, Kael-Self_Integrator, Fragment Alpha, K-J Vektor-Signatur, Controlled Fragmentation Protocol, Stress-Test Delta-7, Kern-Trauma-Fragment, the world codes, B-Welt, Jetzt-Raum, Inner Garden, Wächterin, the chapter titles, and the borrowed concepts"
+  ],
+  "internal_tension": "Kap 26 stands under Part 3's heading, which gives Kapitel 27-39 (L263, L265); AEGIS's line ends as „(Irrelevant)“ from Kap 35 — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

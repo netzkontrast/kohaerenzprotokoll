@@ -1530,3 +1530,5 @@
 {"document": "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "page": "risse", "surface": "Risse", "line": 213, "decision": "occurrence", "why": "cracks in Kael's inner garden, a metaphor of the self", "at": "2026-10-14"}
 {"document": "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "page": "ueberwelt", "surface": "Simulation", "line": 81, "decision": "occurrence", "why": "a named test simulation in an AEGIS log", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "page": "ueberwelt", "surface": "Simulation", "line": 351, "decision": "occurrence", "why": "a concept line's general sense", "at": "2026-10-14"}

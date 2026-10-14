@@ -1,0 +1,211 @@
+{
+  "document": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+  "drive_id": "1CseyKovWOdJsQty5c7dShsNZc7Qnw-BMDifUdx0PSwk",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 104,
+    "decisions": 107,
+    "decided_by_lookup": 87,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        20,
+        30,
+        70,
+        80,
+        290,
+        300,
+        340,
+        350,
+        360
+      ],
+      "attribution": "",
+      "note": "AEGIS as the planned log-keeper, from Kap 1 to Kap 34"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        199,
+        201
+      ],
+      "attribution": "",
+      "note": "Cache Kohärenz in the plan's everyday multiplicity chapter"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        90,
+        221,
+        331
+      ],
+      "attribution": "",
+      "note": "Emergenz as the concept line of Kap 21 and Kap 32, and as a named result in Kap 8"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        130,
+        381
+      ],
+      "attribution": "",
+      "note": "Entropie in the plan's Kap 12 scan and Kap 37 concept"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        359,
+        399
+      ],
+      "attribution": "",
+      "note": "Juna in the plan's closing chapters"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        30,
+        90,
+        100,
+        120,
+        130,
+        199,
+        300,
+        329,
+        349
+      ],
+      "attribution": "",
+      "note": "Kael as the subject of the planned AEGIS logs and of the transformation into Kael/M"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        119,
+        120
+      ],
+      "attribution": "",
+      "note": "Mosaik-Herz as Kael's self-concept in Kap 11"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        120,
+        121,
+        199,
+        201
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität in Kap 11 and Kap 19"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        379,
+        381
+      ],
+      "attribution": "",
+      "note": "Negentropie as the plan's Kap 37 concept"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        229,
+        349,
+        359,
+        379,
+        399
+      ],
+      "attribution": "",
+      "note": "Potentialmeer from the Kap 22 warning to the Kap 39 closing image"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 351,
+      "decision": "occurrence",
+      "why": "a concept line's general sense"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

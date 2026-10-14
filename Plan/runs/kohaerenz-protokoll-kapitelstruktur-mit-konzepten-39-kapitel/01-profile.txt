@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel
+  lines                402  (frontmatter ends at 9)
+  body words           2886
+  headings             1   bold-only lines 3
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    2
+  typographic marks    1   ascii quotes 30
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    49
+  repeated labels      AEGIS x39, Erzähler x39, Fundamentales Konzept x39
+  longest line         243 chars
+
