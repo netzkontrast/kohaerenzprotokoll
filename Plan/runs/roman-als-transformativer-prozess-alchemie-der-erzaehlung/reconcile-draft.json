@@ -1,0 +1,157 @@
+{
+  "document": "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
+  "drive_id": "113uo8FO5YjbYWMd5qgi9WfTSGlCKK15R5LbqndAcgHo",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 80,
+    "decisions": 79,
+    "decided_by_lookup": 68,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        34,
+        36,
+        40
+      ],
+      "attribution": "",
+      "note": "AEGIS as externalised shadow and unwilling therapist"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        64,
+        104
+      ],
+      "attribution": "",
+      "note": "the world kept by the reader's attention against Narrative Entropie"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        36,
+        47
+      ],
+      "attribution": "",
+      "note": "Juna/V as the integrated Anima and the source of Eros"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        32,
+        38,
+        40,
+        48,
+        72,
+        168
+      ],
+      "attribution": "",
+      "note": "Kael's arc as alchemical transmutation, and a post-narrative existence"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Kiko among the fragmented parts"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Lex among the fragmented parts"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the end state of Kael's integration"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        86,
+        93
+      ],
+      "attribution": "",
+      "note": "Negentropie as the awakened Kael's purpose"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        86,
+        104
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the drift of the unobserved"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Nyx among the fragmented parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "the Glitches as something Kael reads"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 58,
+      "decision": "reading",
+      "why": "narrative entropy against the reader's attention; read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
