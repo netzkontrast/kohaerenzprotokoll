@@ -1430,3 +1430,11 @@ Where it stands in the record's own terms: before and not against the author's a
 The count: „Jeder der 20 (fokussiert auf 4) Kernwelten“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L268] (L268). The other worlds are to be hinted at: „sollte subtil angedeutet werden“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L247] (L247), including „einer von zwanzig Realitäts-Caches“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L252] (L252).
 
 Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand.
+
+## 2026-10-14 — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept
+
+**The comprehensive concept plans twenty simulated Kernwelten, four in focus, and gives no count of alters.**
+
+The count: AEGIS fragments M/Kael „und in 20 simulierte“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L24] Kernwelten, and „Vier Welten stehen im Fokus“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L25].
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand.
