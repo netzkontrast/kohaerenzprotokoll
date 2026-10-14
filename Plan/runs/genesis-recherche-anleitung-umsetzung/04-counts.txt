@@ -1,0 +1,128 @@
+# counts for 100 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            88 word   130 in   [26, 66, 86, 103, 104, 105]
+                                   16      as AEGIS-Stimme
+                                   13      as AEGIS-Protokoll
+                                    5      as AEGIS-Persona
+                                    4      as AEGIS-Perspektive
+  Genesis                          24 word    27 in   [11, 19, 147, 184, 424, 450]
+                                    1      as Genesis-Protokolls
+                                    1      as Genesis-Protokoll
+                                    1      as Genesis-Prime
+  Protokoll Genesis                 1 word     1 in   [184]
+  Genesis-Protokoll                 1 word     2 in   [755, 901]
+                                    1      as Genesis-Protokolls
+  Subjekt 734                       8 word     8 in   [1221, 1289, 1309, 1337, 1339, 1357]
+  Kammer                            4 word     5 in   [40, 115, 1063, 1165, 1187]
+                                    1      as Kammerstatus
+  Outline V4                       17 word    17 in   [19, 21, 23, 42, 141, 205]
+  Diagnoseprotokoll Beta            8 word     8 in   [295, 322, 328, 356, 366, 448]
+  Notfallprotokoll Gamma            4 word     4 in   [606, 634, 1283, 1309]
+  Protokoll Gamma                   7 word     7 in   [607, 640, 641, 1098, 1281, 1285]
+  Anomalie Alpha                    9 word     9 in   [293, 322, 328, 329, 341, 1221]
+  Sub-Protokoll Omega               3 word     3 in   [930, 1363, 1365]
+  Korrekturprotokoll Epsilon        2 word     2 in   [478, 1253]
+  Muster Sigma-Prime                1 word     1 in   [1311]
+  Sigma-7                           3 word     3 in   [322, 1217, 1219]
+  Muster Zeta                       3 word     3 in   [930, 1357, 1359]
+  Neue Baseline                     4 word     4 in   [746, 753, 782, 1307]
+  Neue Baseline Sigma               1 word     1 in   [753]
+  Angepasster Zustand Epsilon       3 word     3 in   [753, 782, 1311]
+  Zustand Epsilon                   3 word     3 in   [753, 782, 1311]
+  Resonanz-Signatur Gamma           2 word     2 in   [448, 478]
+  Dissonanz-Muster Delta            2 word     2 in   [448, 478]
+  Kaskadierende Dissonanz           3 word     3 in   [605, 634, 1281]
+  Integrationsfehler                2 word     2 in   [605, 634]
+  Integrationsstress                5 word     6 in   [449, 478, 484, 1249, 1251]
+  Engmaschige Überwachung           3 word     3 in   [607, 634, 1289]
+  Datenstrom-Integration            2 word     2 in   [1253, 1255]
+  Kognitive Harmonisierung          2 word     2 in   [1315, 1357]
+  Kognitive Integration             1 word     1 in   [930]
+  Neuronale Harmonisierung          1 word     1 in   [930]
+  Neuronale Plastizität             1 word     1 in   [782]
+  Erweiterte Funktionalität         1 word     1 in   [930]
+  Protokoll-Manager                 9 word     9 in   [1189, 1225, 1251, 1253, 1289, 1313]
+  Protokoll-Matrix                  2 word     2 in   [1225, 1253]
+  Systemkern                        5 word     5 in   [1181, 1193, 1255, 1283, 1365]
+  NeuroMonitor                      3 word     3 in   [1217, 1247, 1279]
+  BioMonitor                        3 word     3 in   [1183, 1185, 1285]
+  Subjekt-Register                  1 word     1 in   [1191]
+  Subjekt-Historie                  2 word     2 in   [294, 1221]
+  Subjekt-ID                        2 word     2 in   [146, 185]
+                                    1      as Subjekt-Identifikatoren
+                                    1      as Subjekt-Identifikation
+  Baseline-Profil                   3 word     3 in   [294, 322, 1221]
+  AEGIS-Persona                     5 word     5 in   [820, 974, 975, 1016, 1319]
+  AEGIS-Stimme                     16 word    16 in   [26, 86, 175, 249, 322, 406]
+  Systemische Blindheit             1 word     1 in   [351]
+  Stufe 2                           5 word     5 in   [607, 634, 642, 1225, 1289]
+  Szenen-Blueprint                  2 word     2 in   [34, 36]
+  Beat                             55 word    56 in   [23, 46, 47, 48, 49, 145]
+                                    1      as Beats
+  Schlüsselmomente                 14 word    14 in   [23, 42, 141, 205, 288, 362]
+  Primäre POV                      13 word    13 in   [57, 156, 220, 303, 377, 459]
+  Ich-Perspektive                  22 word    23 in   [25, 57, 86, 105, 178, 199]
+                                    1      as Ich-Perspektive-Szenen
+  Übergangsnotizen                 13 word    13 in   [130, 199, 282, 356, 438, 512]
+  Qualia-Metaphern                 14 word    15 in   [25, 76, 174, 239, 321, 396]
+                                    1      as Qualia-Metaphern-Bank
+  Metaphern-Bank                    2 word     3 in   [34, 1043, 1151]
+  Technik-Toolkit                   3 word     3 in   [34, 1110, 1151]
+  Hard Cut                          5 word     5 in   [103, 135, 178, 199, 1128]
+  Schwindendes Bewusstsein          2 word     2 in   [104, 135]
+  Externe Unterbrechung             2 word     2 in   [105, 135]
+  Harter Schnitt (Hard Cut)         1 word     1 in   [1128]
+  Harter Schnitt                    1 word     1 in   [1128]
+  Glocke (Bell Jar)                 1 word     1 in   [1050]
+  Glocke                            1 word     1 in   [1050]
+  Bell Jar                          2 word     2 in   [1050, 1434]
+  Zerbrochener Spiegel              2 word     2 in   [1066, 1171]
+  Weißes Rauschen                   2 word     2 in   [1077, 1261]
+  Warmer Strom                      1 word     1 in   [1057]
+  Unaufgeräumter Schrank            1 word     1 in   [1065]
+  Fraying Tapestry                  1 word     1 in   [1070]
+  Phantomglied                      1 word     4 in   [80, 125, 712, 1053]  <-- substring
+                                    1      as Phantomglied-Metaphern
+                                    1      as Phantomglied-Idee
+                                    1      as Phantomglied-Empfindungen
+  Atmosphäre der Furcht             2 word     2 in   [113, 1134]
+  Kosmische Gleichgültigkeit        3 word     3 in   [498, 950, 1135]
+  Elemente des Kosmischen Horrors   13 word    13 in   [109, 179, 262, 336, 418, 492]
+  Kosmischer Horror                 1 word     1 in   [1133]
+  Ästhetik des Verfalls             1 word     1 in   [1139]
+  Technologischer Horror            1 word     1 in   [590]
+  Das Absurde                       1 word     1 in   [126]
+  Algorithmische Opazität           1 word     1 in   [1127]
+  Black Box                         1 word     1 in   [1127]
+  Showing                           3 word     3 in   [66, 1084, 1410]
+                                    1      as showing-and-telling-the-basics
+  Telling                           3 word     3 in   [66, 1084, 1410]
+  Qualia                           13 word    31 in   [25, 76, 82, 124, 156, 174]  <-- substring
+                                   14      as Qualia-Metaphern
+                                    1      as Qualia-Fokus
+                                    1      as Qualia-Beschreibungen
+                                    1      as Qualia-Metaphern-Bank
+  Harte Problem des Bewusstseins    1 word     1 in   [82]
+  Strukturelle Dissoziation         1 word     1 in   [567]
+  Dissoziation                     21 word    21 in   [27, 87, 92, 94, 176, 250]
+  Depersonalisierung                3 word     3 in   [566, 718, 1122]
+  Derealisation                     3 word     3 in   [566, 718, 1122]
+  Deep POV                          9 word     9 in   [57, 220, 377, 533, 688, 837]
+  Stream of Consciousness           3 word     3 in   [1117, 1412, 1413]
+  Confirmation Bias                 5 word     5 in   [329, 486, 789, 936, 1125]
+  Motivated Reasoning               3 word     3 in   [485, 789, 1125]
+  Unzuverlässige Erzählung          4 word     4 in   [330, 790, 938, 1123]
+  Dramatische Ironie                3 word     3 in   [812, 938, 1126]
+  Defamiliarization                 2 word     2 in   [116, 1138]
+  Dread                             5 word     5 in   [67, 113, 1079, 1134, 1417]
+  Autopoiesis                       6 word     7 in   [175, 1096, 1474, 1476]
+                                    1      as Autopoiesis_and_Cognition
+  Homöostase                        3 word     3 in   [175, 1096]
+  Rückkopplungsschleife             2 word     2 in   [175, 1096]
+  Emergenz                          1 word     1 in   [1096]
+  Selbstorganisation                2 word     2 in   [713, 1096]
+  Operationale Geschlossenheit      1 word     1 in   [1096]
+  Strukturelle Kopplung             1 word     1 in   [1096]

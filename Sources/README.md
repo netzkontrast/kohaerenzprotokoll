@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 495 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 495 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 497 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 497 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -314,7 +314,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Genesis: Finale Prosa (Angepasste Ich-Natur)](drive/genesis-finale-prosa-angepasste-ich-natur.md) | 2025-04-29 | 2,714 | **read** | Komponente 734 19, Nichts-Rauschen 2, Überwelt 20, Kern-Welten 2, Emergenz 2, Kohärenz 6, AEGIS 32, Kael 3 | Sigma 14, Gamma 8, Epsilon-Prime 2, OMEGA 2, Funke 2 |
 | [Genesis: Mehrstufige Recherche und Ausformulierung](drive/genesis-mehrstufige-recherche-und-ausformulierung.md) | 2025-04-29 | 10,763 | **read** | Komponente 734 36, Die Große Mauer 2, Genesis 8, Nichts-Rauschen 9, Emergenz 6, Überwelt 36, Entropie† 4, Kern-Welten 2 | Epsilon-Prime 3, PTG 4, Gamma 9, Existentialism 5, Michel 2 |
 | [Genesis - Prosa Ausformulierung (Gesamt)](drive/genesis-prosa-ausformulierung-gesamt.md) | 2025-04-29 | 2,531 | **read** | Komponente 734 34, Überwelt 19, AEGIS 41, Kael 4 | Anomaly-Alpha 7, Epsilon-Prime 3, Gamma 11, Sigma 5, Gamma-Phi 2 |
-| [Genesis: Recherche, Anleitung, Umsetzung](drive/genesis-recherche-anleitung-umsetzung.md) | 2025-04-29 | 15,871 |  | Genesis 27, Personas 5, Kohärenz 10, AEGIS 115, Entropie† 2 | Ligotti 18, Sub-Protokoll Omega 4, Sigma 13, Gamma 24, Epsilon 8 |
+| [Genesis: Recherche, Anleitung, Umsetzung](drive/genesis-recherche-anleitung-umsetzung.md) | 2025-04-29 | 15,871 | **read** | Genesis 27, Personas 5, Kohärenz 10, AEGIS 115, Entropie† 2 | Ligotti 18, Sub-Protokoll Omega 4, Sigma 13, Gamma 24, Epsilon 8 |
 | [Genesis und Krise: Ausführliche Darstellung](drive/genesis-und-krise-ausfuehrliche-darstellung.md) | 2025-04-29 | 2,510 | **read** | Komponente 734 18, Nichts-Rauschen 3, Überwelt 23, Kern-Welten 2, Kohärenz 6, AEGIS 31, Kael 3 | Funke 2, Echo 5, Schmerz 4, Rauschen 4, Analyse 7 |
 | [Prosaversion von Genesis erstellen](drive/prosaversion-von-genesis-erstellen.md) | 2025-04-29 | 7,461 | **read** | Genesis 23, Komponente 734 3, Nichts-Rauschen 6, Emergenz 10, Entropie† 7, AEGIS 89, Überwelt 4, Kohärenz 4 | Ligotti 5, PTG 4, Functionalism 2, SmythOS 2, Bestätigungsfehler 2 |
 | [Juna-Kael-System: Krisenanalyse und Rettungsplan](drive/juna-kael-system-krisenanalyse-und-rettungsplan.md) | 2025-05-11 | 8,614 |  | Partnerin 2, Juna 62, Argus 2, TSDP 5, Kael 44, Kohärenz 7 | Kael-System 48, Juna-Kael-System 5, Compassion Fatigue 2, Transparenz 3, Junas 34 |
@@ -853,7 +853,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Gutachten Grad der Behinderung bei DIS](drive/gutachten-grad-der-behinderung-bei-dis.md) | 2025-11-18 | 4,358 |  | Überwelt 4 | VersMedV 6, ICD-10 5, Versorgungsmedizin-Verordnung 5, Versorgungsmedizinische Grundsätze 3, ICD-11 4 |
 | [Projektanalyse Kohärenz Protokoll & DIS](drive/projektanalyse-kohaerenz-protokoll-dis.md) | 2025-12-05 | 3,548 | **read** | Dual-Kernel-Theorie† 6, Algorithmische Melancholie 3, Mnemosyne 2, Lex 4, Multiplizität 2, TSDP 4, Kiko 2, Nyx 2 | Maximal-Plotter 8, Safety Behavior 3, Safety Behaviors 4, Meta-Prompting 5, Bakhtins 2 |
 | [Kael's Dissociative Architecture Analysis](drive/kael-s-dissociative-architecture-analysis.md) | 2026-01-02 | 3,812 | **read** | Silas 3, Nyx 27, AEGIS' four sub-functions 2, Kiko 17, Lex 17, Dual-Kernel-Theorie† 3, Moonshine-Link 5, Gödel-Gambit 2 | Unburdening 8, DUT 2, Dead Universe Theory 2, Tertiary Dissociation 2, Singularity 3 |
-| [Roman-Entwicklung: Ontologie, Trauma, Horror](drive/roman-entwicklung-ontologie-trauma-horror.md) | 2026-04-16 | 5,038 |  | DID 13, Juna 6, Alters 3, Kohärenz 3, AEGIS 20, Überwelt 2 | Ego Tunnel 10, DMN 6, Scott 6, Metzinger 9, Ligotti 6 |
+| [Roman-Entwicklung: Ontologie, Trauma, Horror](drive/roman-entwicklung-ontologie-trauma-horror.md) | 2026-04-16 | 5,038 | **read** | DID 13, Juna 6, Alters 3, Kohärenz 3, AEGIS 20, Überwelt 2 | Ego Tunnel 10, DMN 6, Scott 6, Metzinger 9, Ligotti 6 |
 | [DIS: Komorbiditäten und Alltagsbewältigung](drive/dis-komorbiditaeten-und-alltagsbewaeltigung.md) | 2026-04-20 | 6,870 |  | Kohärenz 2 | K-PTBS 17, Versorgungsmedizinische Grundsätze 7, VersMedV 7, BGH 3, Bundesteilhabegesetz 3 |
 | [Angst und Vermeidung in DIS-Systemen](drive/angst-und-vermeidung-in-dis-systemen.md) | 2026-04-23 | 7,537 |  | DID 8, TSDP 7, Alters 2 | Perpetrator Introjects 4, Täterintrojekte 7, Introjekt 4, Therapeut 8, ST 3 |
 | [Flow-Zustände und dissoziative Identität](drive/flow-zustaende-und-dissoziative-identitaet.md) | 2026-04-23 | 6,477 | **read** | DID 8, Alters 8, Entropie 8 | PITT 7, Flow 100, Transiente Hypofrontalität 4, LC-NE 3, Psychodynamisch Imaginative Traumatherapie 3 |

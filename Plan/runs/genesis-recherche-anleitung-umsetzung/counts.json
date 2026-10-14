@@ -1,0 +1,1222 @@
+{
+  "document": "genesis-recherche-anleitung-umsetzung",
+  "drive_id": "1jyV8RqWn7Lz2BFM7jD0juVghOeVauO1cz3lyOt2RHTo",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 88,
+      "n_including_compounds": 130,
+      "lines": [
+        26,
+        66,
+        86,
+        103,
+        104,
+        105,
+        124,
+        135,
+        139,
+        156,
+        174,
+        175,
+        176,
+        183,
+        184,
+        194,
+        249,
+        261,
+        282,
+        286,
+        292,
+        303,
+        321,
+        322,
+        323,
+        328,
+        329,
+        330,
+        340,
+        350,
+        406,
+        417,
+        424,
+        438,
+        442,
+        448,
+        450,
+        459,
+        477,
+        478,
+        479,
+        484,
+        485,
+        491,
+        496,
+        497,
+        508,
+        561,
+        572,
+        594,
+        598,
+        604,
+        606,
+        615,
+        634,
+        635,
+        640,
+        641,
+        651,
+        717,
+        720,
+        742,
+        746,
+        752,
+        754,
+        763,
+        782,
+        783,
+        788,
+        790,
+        800,
+        801,
+        812,
+        820,
+        866,
+        868,
+        869,
+        890,
+        894,
+        900,
+        902,
+        911,
+        930,
+        931,
+        936,
+        937,
+        938,
+        948,
+        974,
+        975,
+        977,
+        994,
+        1014,
+        1016,
+        1023,
+        1085,
+        1093,
+        1109,
+        1123,
+        1125,
+        1126,
+        1127,
+        1128,
+        1130,
+        1132,
+        1150,
+        1153,
+        1179,
+        1181,
+        1193,
+        1215,
+        1245,
+        1277,
+        1307,
+        1311,
+        1319,
+        1355,
+        1357,
+        1377,
+        1383,
+        1393
+      ]
+    },
+    "Genesis": {
+      "n": 24,
+      "n_including_compounds": 27,
+      "lines": [
+        11,
+        19,
+        147,
+        184,
+        424,
+        450,
+        485,
+        754,
+        755,
+        901,
+        968,
+        975,
+        1023,
+        1093,
+        1145,
+        1159,
+        1181,
+        1189,
+        1251,
+        1313,
+        1359,
+        1361,
+        1363,
+        1369,
+        1377,
+        1389
+      ]
+    },
+    "Protokoll Genesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Genesis-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        755,
+        901
+      ]
+    },
+    "Subjekt 734": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        1221,
+        1289,
+        1309,
+        1337,
+        1339,
+        1357,
+        1361,
+        1379
+      ]
+    },
+    "Kammer": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        115,
+        1063,
+        1165,
+        1187
+      ]
+    },
+    "Outline V4": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        19,
+        21,
+        23,
+        42,
+        141,
+        205,
+        288,
+        362,
+        444,
+        518,
+        600,
+        673,
+        748,
+        822,
+        896,
+        970,
+        1161
+      ]
+    },
+    "Diagnoseprotokoll Beta": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        295,
+        322,
+        328,
+        356,
+        366,
+        448,
+        1225,
+        1247
+      ]
+    },
+    "Notfallprotokoll Gamma": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        606,
+        634,
+        1283,
+        1309
+      ]
+    },
+    "Protokoll Gamma": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        607,
+        640,
+        641,
+        1098,
+        1281,
+        1285,
+        1289
+      ]
+    },
+    "Anomalie Alpha": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        293,
+        322,
+        328,
+        329,
+        341,
+        1221,
+        1223,
+        1311
+      ]
+    },
+    "Sub-Protokoll Omega": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        930,
+        1363,
+        1365
+      ]
+    },
+    "Korrekturprotokoll Epsilon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        478,
+        1253
+      ]
+    },
+    "Muster Sigma-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1311
+      ]
+    },
+    "Sigma-7": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        322,
+        1217,
+        1219
+      ]
+    },
+    "Muster Zeta": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        930,
+        1357,
+        1359
+      ]
+    },
+    "Neue Baseline": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        746,
+        753,
+        782,
+        1307
+      ]
+    },
+    "Neue Baseline Sigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        753
+      ]
+    },
+    "Angepasster Zustand Epsilon": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        753,
+        782,
+        1311
+      ]
+    },
+    "Zustand Epsilon": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        753,
+        782,
+        1311
+      ]
+    },
+    "Resonanz-Signatur Gamma": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        448,
+        478
+      ]
+    },
+    "Dissonanz-Muster Delta": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        448,
+        478
+      ]
+    },
+    "Kaskadierende Dissonanz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        605,
+        634,
+        1281
+      ]
+    },
+    "Integrationsfehler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        605,
+        634
+      ]
+    },
+    "Integrationsstress": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        449,
+        478,
+        484,
+        1249,
+        1251
+      ]
+    },
+    "Engmaschige Überwachung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        607,
+        634,
+        1289
+      ]
+    },
+    "Datenstrom-Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1253,
+        1255
+      ]
+    },
+    "Kognitive Harmonisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1315,
+        1357
+      ]
+    },
+    "Kognitive Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        930
+      ]
+    },
+    "Neuronale Harmonisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        930
+      ]
+    },
+    "Neuronale Plastizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        782
+      ]
+    },
+    "Erweiterte Funktionalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        930
+      ]
+    },
+    "Protokoll-Manager": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        1189,
+        1225,
+        1251,
+        1253,
+        1289,
+        1313,
+        1315,
+        1361,
+        1363
+      ]
+    },
+    "Protokoll-Matrix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1225,
+        1253
+      ]
+    },
+    "Systemkern": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        1181,
+        1193,
+        1255,
+        1283,
+        1365
+      ]
+    },
+    "NeuroMonitor": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1217,
+        1247,
+        1279
+      ]
+    },
+    "BioMonitor": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1183,
+        1185,
+        1285
+      ]
+    },
+    "Subjekt-Register": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1191
+      ]
+    },
+    "Subjekt-Historie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        294,
+        1221
+      ]
+    },
+    "Subjekt-ID": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        146,
+        185
+      ]
+    },
+    "Baseline-Profil": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        294,
+        322,
+        1221
+      ]
+    },
+    "AEGIS-Persona": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        820,
+        974,
+        975,
+        1016,
+        1319
+      ]
+    },
+    "AEGIS-Stimme": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        26,
+        86,
+        175,
+        249,
+        322,
+        406,
+        478,
+        561,
+        634,
+        717,
+        782,
+        866,
+        930,
+        1014,
+        1109
+      ]
+    },
+    "Systemische Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        351
+      ]
+    },
+    "Stufe 2": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        607,
+        634,
+        642,
+        1225,
+        1289
+      ]
+    },
+    "Szenen-Blueprint": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        36
+      ]
+    },
+    "Beat": {
+      "n": 55,
+      "n_including_compounds": 56,
+      "lines": [
+        23,
+        46,
+        47,
+        48,
+        49,
+        145,
+        146,
+        147,
+        148,
+        209,
+        210,
+        211,
+        212,
+        292,
+        293,
+        294,
+        295,
+        366,
+        367,
+        368,
+        369,
+        407,
+        448,
+        449,
+        450,
+        451,
+        485,
+        487,
+        522,
+        523,
+        524,
+        525,
+        604,
+        605,
+        606,
+        607,
+        677,
+        678,
+        679,
+        680,
+        752,
+        753,
+        754,
+        755,
+        826,
+        827,
+        828,
+        829,
+        900,
+        901,
+        902,
+        903,
+        974,
+        975,
+        976,
+        977
+      ]
+    },
+    "Schlüsselmomente": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        23,
+        42,
+        141,
+        205,
+        288,
+        362,
+        444,
+        518,
+        600,
+        673,
+        748,
+        822,
+        896,
+        970
+      ]
+    },
+    "Primäre POV": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        57,
+        156,
+        220,
+        303,
+        377,
+        459,
+        533,
+        615,
+        688,
+        763,
+        837,
+        911,
+        985
+      ]
+    },
+    "Ich-Perspektive": {
+      "n": 22,
+      "n_including_compounds": 23,
+      "lines": [
+        25,
+        57,
+        86,
+        105,
+        178,
+        199,
+        260,
+        335,
+        356,
+        491,
+        646,
+        795,
+        866,
+        943,
+        964,
+        986,
+        994,
+        1014,
+        1109,
+        1117,
+        1123,
+        1150,
+        1155
+      ]
+    },
+    "Übergangsnotizen": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        130,
+        199,
+        282,
+        356,
+        438,
+        512,
+        594,
+        667,
+        742,
+        816,
+        890,
+        964,
+        1039
+      ]
+    },
+    "Qualia-Metaphern": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        25,
+        76,
+        174,
+        239,
+        321,
+        396,
+        477,
+        552,
+        633,
+        707,
+        781,
+        856,
+        929,
+        1004,
+        1043
+      ]
+    },
+    "Metaphern-Bank": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        1043,
+        1151
+      ]
+    },
+    "Technik-Toolkit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        1110,
+        1151
+      ]
+    },
+    "Hard Cut": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        103,
+        135,
+        178,
+        199,
+        1128
+      ]
+    },
+    "Schwindendes Bewusstsein": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104,
+        135
+      ]
+    },
+    "Externe Unterbrechung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        135
+      ]
+    },
+    "Harter Schnitt (Hard Cut)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1128
+      ]
+    },
+    "Harter Schnitt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1128
+      ]
+    },
+    "Glocke (Bell Jar)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1050
+      ]
+    },
+    "Glocke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1050
+      ]
+    },
+    "Bell Jar": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1050,
+        1434
+      ]
+    },
+    "Zerbrochener Spiegel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1066,
+        1171
+      ]
+    },
+    "Weißes Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        1077,
+        1261
+      ]
+    },
+    "Warmer Strom": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1057
+      ]
+    },
+    "Unaufgeräumter Schrank": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1065
+      ]
+    },
+    "Fraying Tapestry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1070
+      ]
+    },
+    "Phantomglied": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        80,
+        125,
+        712,
+        1053
+      ]
+    },
+    "Atmosphäre der Furcht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        1134
+      ]
+    },
+    "Kosmische Gleichgültigkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        498,
+        950,
+        1135
+      ]
+    },
+    "Elemente des Kosmischen Horrors": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        109,
+        179,
+        262,
+        336,
+        418,
+        492,
+        573,
+        647,
+        721,
+        796,
+        870,
+        944,
+        1018
+      ]
+    },
+    "Kosmischer Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1133
+      ]
+    },
+    "Ästhetik des Verfalls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1139
+      ]
+    },
+    "Technologischer Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        590
+      ]
+    },
+    "Das Absurde": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Algorithmische Opazität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1127
+      ]
+    },
+    "Black Box": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1127
+      ]
+    },
+    "Showing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        66,
+        1084,
+        1410
+      ]
+    },
+    "Telling": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        66,
+        1084,
+        1410
+      ]
+    },
+    "Qualia": {
+      "n": 13,
+      "n_including_compounds": 31,
+      "lines": [
+        25,
+        76,
+        82,
+        124,
+        156,
+        174,
+        239,
+        278,
+        321,
+        330,
+        396,
+        477,
+        552,
+        633,
+        707,
+        781,
+        856,
+        929,
+        1004,
+        1043,
+        1049,
+        1145,
+        1435,
+        1436,
+        1437
+      ]
+    },
+    "Harte Problem des Bewusstseins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        567
+      ]
+    },
+    "Dissoziation": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        27,
+        87,
+        92,
+        94,
+        176,
+        250,
+        323,
+        407,
+        479,
+        562,
+        567,
+        635,
+        697,
+        718,
+        736,
+        783,
+        867,
+        931,
+        1015,
+        1117
+      ]
+    },
+    "Depersonalisierung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        566,
+        718,
+        1122
+      ]
+    },
+    "Derealisation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        566,
+        718,
+        1122
+      ]
+    },
+    "Deep POV": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        57,
+        220,
+        377,
+        533,
+        688,
+        837,
+        985,
+        1408,
+        1409
+      ]
+    },
+    "Stream of Consciousness": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1117,
+        1412,
+        1413
+      ]
+    },
+    "Confirmation Bias": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        329,
+        486,
+        789,
+        936,
+        1125
+      ]
+    },
+    "Motivated Reasoning": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        485,
+        789,
+        1125
+      ]
+    },
+    "Unzuverlässige Erzählung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        330,
+        790,
+        938,
+        1123
+      ]
+    },
+    "Dramatische Ironie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        812,
+        938,
+        1126
+      ]
+    },
+    "Defamiliarization": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        116,
+        1138
+      ]
+    },
+    "Dread": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        67,
+        113,
+        1079,
+        1134,
+        1417
+      ]
+    },
+    "Autopoiesis": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        175,
+        1096,
+        1474,
+        1476
+      ]
+    },
+    "Homöostase": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        175,
+        1096
+      ]
+    },
+    "Rückkopplungsschleife": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        175,
+        1096
+      ]
+    },
+    "Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1096
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        713,
+        1096
+      ]
+    },
+    "Operationale Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1096
+      ]
+    },
+    "Strukturelle Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        1096
+      ]
+    }
+  }
+}
