@@ -530,3 +530,11 @@ Where it stands in the record's own terms: 734 as the former searching fragment,
 It reports: „Komponente 734: Funktion an der Grenze“ ^[analyse-der-leere-und-existenz.md:L57] and, as the rule that comes with it, „Effizienz im Dienst der Negation ist das oberste Gebot.“ ^[analyse-der-leere-und-existenz.md:L57] Both are the analysis's report of a narrative, not its own claim.
 
 Where it stands in the record's own terms: 734 as the narrator's former self now a function at the border, in an analysed narrative; recorded, not applied and not decided.
+
+## 2026-10-14 — `genesis-recherche-anleitung-umsetzung`, 2025-04-29, the Genesis implementation guide with prose
+
+**The guide's sample prose has 734 as the ID of a human test subject in AEGIS's log lines, and the subject's inner voice asks about it; recorded.**
+
+In the sample prose of the second half, a log line of the source `BioMonitor` has the event „Subjekt-Identifikation. ID: 734.“ ^[genesis-recherche-anleitung-umsetzung.md:L1183] A later line of the source `Subjekt-Register` gives the species and leaves the identity open: „Spezies: Homo Sapiens.“ ^[genesis-recherche-anleitung-umsetzung.md:L1191] and „Identität: Nicht zugewiesen/Irrelevant für Phase 1.“ ^[genesis-recherche-anleitung-umsetzung.md:L1191] The state line in italics reads „Subjekt 734. Aktueller Zustand: Epsilon.“ ^[genesis-recherche-anleitung-umsetzung.md:L1337] The log lines carry timestamps whose digits are not quoted here. The sample prose is an example in a guide, not canon prose.
+
+Where it stands in the record's own terms: 734 as the ID of a human subject in AEGIS's log lines, in sample prose of an implementation guide; recorded, not applied and not decided.
