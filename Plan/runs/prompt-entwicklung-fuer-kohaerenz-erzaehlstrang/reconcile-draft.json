@@ -1,0 +1,176 @@
+{
+  "document": "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+  "drive_id": "1MdSRXMeCc_cqm2ZJnFcDOizuPYqa2LBXozoneLix7PQ",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 50,
+    "decisions": 52,
+    "decided_by_lookup": 46,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        158,
+        226,
+        259,
+        311
+      ],
+      "attribution": "",
+      "note": "AEGIS as external administrator (Model A) and as internalised oppressor (mapping 3)"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        89,
+        97,
+        108,
+        137,
+        158,
+        191,
+        200,
+        208
+      ],
+      "attribution": "",
+      "note": "Kael as the inner strand, and Model C as its recommendation"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        360,
+        361
+      ],
+      "attribution": "",
+      "note": "one Kernwelt in a worked example"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        108,
+        124,
+        349,
+        361
+      ],
+      "attribution": "",
+      "note": "Kiko as holder of fear, grief and abandonment"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        108,
+        114,
+        137,
+        179,
+        257,
+        346,
+        360
+      ],
+      "attribution": "",
+      "note": "Lex as the controlling logician, and as Aris Thorne in the proposed mapping"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        108,
+        125,
+        347,
+        360
+      ],
+      "attribution": "",
+      "note": "Nyx as holder of anger and defence"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        108,
+        115,
+        313,
+        348
+      ],
+      "attribution": "",
+      "note": "Rhys as the social mediator, and as Elara Vance in the proposed mapping"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        22,
+        63,
+        179,
+        227,
+        260
+      ],
+      "attribution": "",
+      "note": "the external plot's Glitch, and its link to the inner intrusion"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        89,
+        97,
+        200,
+        210
+      ],
+      "attribution": "",
+      "note": "the TSDP as frame of the inner strand"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        81,
+        137,
+        158,
+        179,
+        208,
+        229
+      ],
+      "attribution": "",
+      "note": "the simulation of the external plot, and three ways to place the inner strand"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 18,
+      "decision": "occurrence",
+      "why": "the introduction's heading"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 276,
+      "decision": "occurrence",
+      "why": "the prompt's style field"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

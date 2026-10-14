@@ -1,0 +1,546 @@
+{
+  "document": "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+  "drive_id": "1MdSRXMeCc_cqm2ZJnFcDOizuPYqa2LBXozoneLix7PQ",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        24,
+        63,
+        135,
+        229,
+        247,
+        301,
+        381,
+        387
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        135
+      ]
+    },
+    "Kohärenz-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        22,
+        385
+      ]
+    },
+    "Glitch": {
+      "n": 8,
+      "n_including_compounds": 14,
+      "lines": [
+        22,
+        63,
+        158,
+        179,
+        227,
+        260,
+        309,
+        312,
+        385
+      ]
+    },
+    "Glitches": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        63,
+        158,
+        179,
+        309
+      ]
+    },
+    "Kael": {
+      "n": 15,
+      "n_including_compounds": 23,
+      "lines": [
+        22,
+        89,
+        97,
+        108,
+        158,
+        166,
+        179,
+        200,
+        225,
+        226,
+        247,
+        261,
+        262,
+        303,
+        320,
+        344,
+        386
+      ]
+    },
+    "Aris Thorne": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        55,
+        158,
+        179,
+        200,
+        210,
+        225,
+        247,
+        257,
+        303,
+        309
+      ]
+    },
+    "Elara Vance": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        261,
+        313
+      ]
+    },
+    "Silus": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        71,
+        73,
+        81,
+        137,
+        158,
+        179,
+        226,
+        259,
+        311
+      ]
+    },
+    "Aethelred": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        259,
+        311
+      ]
+    },
+    "AEGIS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        158,
+        226,
+        259,
+        311
+      ]
+    },
+    "Lex": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        114,
+        137,
+        179,
+        257,
+        260,
+        261,
+        309,
+        346,
+        360,
+        375
+      ]
+    },
+    "Rhys": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        115,
+        261,
+        313,
+        348,
+        361,
+        378
+      ]
+    },
+    "Kai": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        116,
+        350,
+        379
+      ]
+    },
+    "Kiko": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        124,
+        137,
+        260,
+        312,
+        349,
+        361,
+        376
+      ]
+    },
+    "Nyx": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        115,
+        125,
+        137,
+        260,
+        312,
+        347,
+        360,
+        377
+      ]
+    },
+    "Co₁": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        360
+      ]
+    },
+    "McL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        361
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        360
+      ]
+    },
+    "Simulation": {
+      "n": 16,
+      "n_including_compounds": 17,
+      "lines": [
+        81,
+        137,
+        158,
+        179,
+        200,
+        208,
+        225,
+        226,
+        227,
+        229,
+        247,
+        262,
+        301,
+        303
+      ]
+    },
+    "Basisrealität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        137,
+        158
+      ]
+    },
+    "Quellcode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Mandela-Effekt": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        137,
+        158
+      ]
+    },
+    "heilsame Lüge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "partizipatorisches Universum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        314
+      ]
+    },
+    "Bindungsproblem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        261,
+        313
+      ]
+    },
+    "Datenanomalie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        258,
+        310
+      ]
+    },
+    "Laborunfall": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        55,
+        200,
+        258,
+        310
+      ]
+    },
+    "Verfolger-Anteil": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        179,
+        226
+      ]
+    },
+    "Modell des vereinheitlichten Protagonisten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        247,
+        293,
+        303
+      ]
+    },
+    "Der vereinheitlichte Protagonist": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        191,
+        224
+      ]
+    },
+    "Verschachtelte Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Nested Reality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Metaphorische Manifestation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Narrative Synthese-Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Primärdirektive": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        241,
+        273,
+        303
+      ]
+    },
+    "Schlüssel-Mappings": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        251,
+        273,
+        305,
+        326
+      ]
+    },
+    "Spannungspunkte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        358
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 9,
+      "lines": [
+        22,
+        89,
+        93,
+        97,
+        210,
+        257,
+        301,
+        309,
+        386
+      ]
+    },
+    "Tertiären Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Anscheinend Normalen Teilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Anscheinend Normale Teil": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        247,
+        303
+      ]
+    },
+    "ANP": {
+      "n": 14,
+      "n_including_compounds": 22,
+      "lines": [
+        99,
+        110,
+        124,
+        133,
+        137,
+        179,
+        200,
+        212,
+        225,
+        247,
+        257,
+        260,
+        261,
+        303,
+        309,
+        311,
+        313,
+        361
+      ]
+    },
+    "ANPs": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        110,
+        124,
+        133,
+        212,
+        311,
+        361
+      ]
+    },
+    "Emotionalen Teilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "EP": {
+      "n": 3,
+      "n_including_compounds": 15,
+      "lines": [
+        100,
+        114,
+        120,
+        133,
+        179,
+        212,
+        227,
+        260,
+        311,
+        312
+      ]
+    },
+    "EPs": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        100,
+        114,
+        120,
+        133,
+        179,
+        212,
+        227,
+        311
+      ]
+    },
+    "Phobien": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        133,
+        212,
+        259,
+        262,
+        311
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        73
+      ]
+    },
+    "Quanten-Dekohärenz": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        55,
+        210,
+        260
+      ]
+    }
+  }
+}

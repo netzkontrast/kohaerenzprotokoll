@@ -1563,3 +1563,5 @@
 {"document": "tsdp-analyse-kaels-innere-welt", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "tsdp-analyse-kaels-innere-welt", "page": "personas", "surface": "Personas", "line": 19, "decision": "reading", "why": "Kael's Personas read as dissociated parts", "at": "2026-10-14"}
 {"document": "tsdp-analyse-kaels-innere-welt", "page": "selene", "surface": "Selene", "line": 94, "decision": "reading", "why": "Wächterin/Selene within the whole system", "at": "2026-10-14"}
+{"document": "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang", "page": "kohaerenz", "surface": "Kohärenz", "line": 18, "decision": "occurrence", "why": "the introduction's heading", "at": "2026-10-14"}
+{"document": "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang", "page": "personas", "surface": "Persona", "line": 276, "decision": "occurrence", "why": "the prompt's style field", "at": "2026-10-14"}
