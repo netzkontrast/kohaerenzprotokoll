@@ -1,0 +1,267 @@
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Plot:"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Plot:` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#40]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Setting:"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Setting:` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#40]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Thema/Konzept:"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Thema/Konzept:` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#39]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Spannung:"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Spannung:` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#39]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Interaktion:"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Interaktion:` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#39]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Schritt"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            46
+
+`Schritt` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#40]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "vielleicht"
+whole word, case-sensitive     22
+whole word, case-insensitive   23
+including compounds            22
+
+`vielleicht` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#22]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "möglicherweise"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`möglicherweise` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#19]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#1]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#1]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Wächter"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            14
+
+`Wächter` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#11]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Alters"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Alters` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#4]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Beschützer"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            25
+
+`Beschützer` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#12]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Manager"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`Manager` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#8]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Feuerlöscher"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`Feuerlöscher` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#8]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Verbannten"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Verbannten` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#13]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "K-J-Verbindung"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`K-J-Verbindung` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#16]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "K-J Verbindung"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`K-J Verbindung` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#25]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Kael-Juna-Verbindung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Juna-Verbindung` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#1]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Kael-Juna-Resonanz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Juna-Resonanz` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#1]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "KW1"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`KW1` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#10]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "KW2"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`KW2` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#10]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "KW3"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`KW3` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#9]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "KW4"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`KW4` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#6]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Autopoiesis"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Autopoiesis` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#19]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Parakonsistenz"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Parakonsistenz` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#10]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Entropie"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Entropie` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#12]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "IFS"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            42
+
+`IFS` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#32]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Nicht-Lokalität"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Nicht-Lokalität` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#15]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#0]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kap` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#0]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Akt III"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Akt III` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#10]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Tabelle"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Tabelle` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#6]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Verbannte"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            13
+
+`Verbannte` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#0]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Wächter-Subsystemen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wächter-Subsystemen` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#1]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "AEGIS-Subsystem"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`AEGIS-Subsystem` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#2]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Riss"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            25
+
+`Riss` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#6]
+
+$ python3 scripts/read.py romanplot-kohaerenz-protokoll-entwicklung --count "Risse"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            19
+
+`Risse` ^[romanplot-kohaerenz-protokoll-entwicklung.md:#17]
+
+sum of stance labels: 40+39+40+39+39 = 197

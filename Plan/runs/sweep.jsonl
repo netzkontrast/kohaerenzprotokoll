@@ -1513,3 +1513,8 @@
 {"document": "plot-konzepte-kohaerenz-protokoll-generierung", "page": "genesis", "surface": "Genesis", "line": 39, "decision": "occurrence", "why": "the table's row label Genesis/Ursprung", "at": "2026-10-14"}
 {"document": "plot-konzepte-kohaerenz-protokoll-generierung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "plot-konzepte-kohaerenz-protokoll-generierung", "page": "ueberwelt", "surface": "Simulation", "line": 42, "decision": "reading", "why": "simulation among AEGIS's methods", "at": "2026-10-14"}
+{"document": "romanplot-kohaerenz-protokoll-entwicklung", "page": "did", "surface": "DID", "line": 21, "decision": "reading", "why": "Kael's DID not an inherent pathology", "at": "2026-10-14"}
+{"document": "romanplot-kohaerenz-protokoll-entwicklung", "page": "emergenz", "surface": "Emergenz", "line": 128, "decision": "occurrence", "why": "emergence among Akt II's borrowed emphases", "at": "2026-10-14"}
+{"document": "romanplot-kohaerenz-protokoll-entwicklung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
+{"document": "romanplot-kohaerenz-protokoll-entwicklung", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 95, "decision": "occurrence", "why": "a deeper level of reality in the general sense", "at": "2026-10-14"}
+{"document": "romanplot-kohaerenz-protokoll-entwicklung", "page": "ueberwelt", "surface": "Simulation", "line": 96, "decision": "reading", "why": "AEGIS's artificial, fragmented simulation", "at": "2026-10-14"}

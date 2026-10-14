@@ -1,0 +1,71 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The whole document L10 to L631 was read in four ranges; this list was started after the second range and completed after the last. It is a plot blueprint in three acts with 39 numbered steps, and it names figures, four numbered core worlds, the sea of potential, and a frame of borrowed concepts from systems theory, logic, mathematics and a psychotherapy model. It names no chapter as Kap or Kapitel; its numbering runs in Schritt and Akt. The reference list at L590 to L631 is left out. Spellings were checked with read.py --find; the clipped forms KW1 to KW4 stand as the document writes them.
+
+- AEGIS
+- Kael
+- Juna
+- Monster (M)
+- Kernwelten
+- Kernwelt
+- Potentialmeer
+- Potentialmeers
+- Monstergruppe
+- Moonshine
+- Sporadizität
+- Parias
+- Happy Family
+- Friendly Giant
+- K-J-Verbindung
+- K-J Verbindung
+- Kael-Juna-Verbindung
+- Kael-Juna-Resonanz
+- Risse
+- Riss
+- Wächter
+- Guardians
+- Alters
+- Beschützer
+- Verbannten
+- Verbannte
+- Feuerlöscher
+- Manager
+- Analytiker
+- Kern-Exile
+- KW1
+- KW2
+- KW3
+- KW4
+- Akt I
+- Akt II
+- Akt III
+- Ruf zum Erwachen
+- Datenpanne
+- Plot-Blueprint
+- Integrationskarte
+- Systemstimme
+- Selbst-Energie
+- Selbst-Qualitäten
+- Kernwelt-Manifestationen
+- Wächter-Subsysteme
+- Autopoietische Paradoxon
+- Gödelsche Grenzen
+- Operationale Geschlossenheit
+- Ontologische Intrusion
+- sub-protokollarisch
+- Datenbereinigungsprotokolle
+
+## lens
+
+- Autopoiesis
+- Gödel'sche Theoreme
+- Parakonsistenz
+- Parakonsistente Logik
+- Internal Family Systems
+- IFS
+- Quantenverschränkung
+- Nicht-Lokalität
+- Entropie
+- Monstrous Moonshine
+- Unblendings
+- Befriendings

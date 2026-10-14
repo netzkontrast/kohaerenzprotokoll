@@ -1,0 +1,14 @@
+# romanplot-kohaerenz-protokoll-entwicklung
+  lines                632  (frontmatter ends at 9)
+  body words           10297
+  headings             17   bold-only lines 39
+  table rows           27   code fences 0
+  question marks       26
+  backslash escapes    54
+  typographic marks    77   ascii quotes 154
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    144
+  repeated labels      Interaktion x39, Kael x39, Plot x39, Setting x39, Spannung x39, Thema/Konzept x39, AEGIS x31
+  longest line         1255 chars
+
