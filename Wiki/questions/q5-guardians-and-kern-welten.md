@@ -845,3 +845,11 @@ Stands as a statement of one Guardian to each Kernwelt, without a count of Guard
 The character entry reads: „Verkörpern die überbetonten oder verzerrten Prinzipien ihrer jeweiligen Kernwelt“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L52]. Of the worlds it says: „Jede Welt überbetont bestimmte Prinzipien“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L36]. The concept gives no number of Guardians and no Guardian by name.
 
 Stands: the concept pairs Guardians with worlds by a principle each, without count or names; nothing decided.
+
+## 2026-10-14 — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft
+
+**The detailed plot draft places one guardian in a world, the logical guardian of KW1.**
+
+Kap 5 plans „Guardian von KW1“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91), „Eine logische Entität, die die Grundregeln von KW1 verkörpert“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91). No other world gets one; the Kap 29 figure labelled „AEGIS Kern-Guardian“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L131] (L131) stands where „Dies ist keine der Kernwelten, sondern die fundamentale Struktur von AEGIS selbst“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L131] (L131).
+
+Stands as a plan placing one guardian in one world; recorded, not applied.
