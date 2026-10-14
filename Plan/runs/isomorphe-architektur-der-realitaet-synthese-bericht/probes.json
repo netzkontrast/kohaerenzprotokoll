@@ -1,0 +1,252 @@
+{
+  "document": "isomorphe-architektur-der-realitaet-synthese-bericht",
+  "drive_id": "1DYgU5k_RCmoIWJ3nGnDaQkPOtzMsitJ0dmqePVpxAmY",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 53,
+  "backslash_escapes": 41,
+  "typographic_marks": 93,
+  "ascii_quotes": 10,
+  "inflection_families": {
+    "körpe": [
+      "Körper",
+      "Körpergedächtnis",
+      "Körpergrenzen",
+      "Körperlichkeit",
+      "Körperregionen",
+      "Körperteile"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierung",
+      "Modells"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriebrechung",
+      "Symmetriebruch",
+      "Symmetriegruppe",
+      "Symmetrien",
+      "Symmetries"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfehler",
+      "Datenströme",
+      "Datentabelle",
+      "Datenzuordnung"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativer"
+    ],
+    "gravi": [
+      "Gravitation",
+      "Gravitational",
+      "Gravitative",
+      "Graviton",
+      "Gravity"
+    ],
+    "ontol": [
+      "ONTOLOGICAL",
+      "ONTOLOGY",
+      "Ontological",
+      "Ontologie",
+      "Ontologischer"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturell",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen"
+    ],
+    "unter": [
+      "Unter",
+      "Unterbewusstsein",
+      "Unterdrückung",
+      "Untergruppen",
+      "Untersuchungen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "archi": [
+      "Architektur",
+      "Archivar",
+      "Archive",
+      "Archivierung"
+    ],
+    "isomo": [
+      "Isomorphe",
+      "Isomorphie",
+      "Isomorphien",
+      "Isomorphismus"
+    ],
+    "korre": [
+      "Korrelation",
+      "Korrelationen",
+      "Korrespondenz",
+      "Korrespondenztheorie"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychotraumatologie",
+      "Psychotraumatology"
+    ],
+    "quant": [
+      "Quanta",
+      "Quantengravitationseffekte",
+      "Quantenverschränkung",
+      "Quantenzustands"
+    ],
+    "schwa": [
+      "Schwartz",
+      "Schwarze",
+      "Schwarzen",
+      "Schwarzer"
+    ],
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemen",
+      "Systems"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsmacher",
+      "Wahrheitstheorien"
+    ],
+    "allta": [
+      "Alltags",
+      "Alltagspersönlichkeit",
+      "Alltagswelt"
+    ],
+    "dimen": [
+      "Dimension",
+      "Dimensionale",
+      "Dimensionen"
+    ],
+    "energ": [
+      "Energie",
+      "Energielevels",
+      "Energien"
+    ],
+    "glitc": [
+      "GLITCH",
+      "Glitch",
+      "Glitches"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenstruktur"
+    ],
+    "hiera": [
+      "Hierarchie",
+      "Hierarchien",
+      "Hierarchy"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Valletta"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Renderer"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Laufender"
+    ],
+    [
+      "Ende",
+      "Leitender"
+    ],
+    [
+      "Ende",
+      "Rendering"
+    ],
+    [
+      "Exam",
+      "AExam"
+    ],
+    [
+      "Exam",
+      "Examples"
+    ],
+    [
+      "Exil",
+      "Exile"
+    ],
+    [
+      "Exil",
+      "Exiles"
+    ],
+    [
+      "Fakt",
+      "Faktor"
+    ],
+    [
+      "Feld",
+      "Feldes"
+    ],
+    [
+      "Feld",
+      "Feldern"
+    ],
+    [
+      "Feld",
+      "Felddichte"
+    ],
+    [
+      "Feld",
+      "Tensorfeld"
+    ],
+    [
+      "Feld",
+      "Feldtheorie"
+    ]
+  ]
+}

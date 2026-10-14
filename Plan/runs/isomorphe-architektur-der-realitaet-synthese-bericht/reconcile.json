@@ -1,0 +1,57 @@
+{
+  "document": "isomorphe-architektur-der-realitaet-synthese-bericht",
+  "drive_id": "1DYgU5k_RCmoIWJ3nGnDaQkPOtzMsitJ0dmqePVpxAmY",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — a synthesis report that names nothing of the novel; the note was reworded before commit to drop a quoted span carrying physicists' names; first held by the privacy screen on the word shadow and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 66,
+    "decisions": 63,
+    "decided_by_lookup": 48,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A synthesis report claiming a structural identity between a gravity model, a trauma-psychology parts model and 3D-rendering failures: it names no figure, place or object of the novel (Kael, AEGIS, Juna, Kernwelt each 0), so its vocabulary stays in the census and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Glitch` and its compounds a rendering and simulation failure in general, not the novel's Risse; `Kohärenz` and `Kohärenztheorie der Wahrheit` a theory of truth, not the novel's Kohärenz; `Simulation` the general sense; names of people never written",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 195,
+      "decision": "occurrence",
+      "why": "coherence in the sense of a theory of truth, not the novel's Kohärenz"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 207,
+      "decision": "occurrence",
+      "why": "simulation in the general sense of a theory of the hyperreal, not the novel's simulation"
+    }
+  ],
+  "not_promoted": [
+    "the report's vocabulary — Brane, Bulk, Sequestrierung, Z-Fighting, Vertex Explosion, Glitch-Phänomenologie, Exile, Protektoren, Monster-Gruppe and the rest, several named after people"
+  ],
+  "internal_tension": "the identity is stated as settled in the introduction (L36) and the symmetry-group origin as a hypothesis (L221) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
