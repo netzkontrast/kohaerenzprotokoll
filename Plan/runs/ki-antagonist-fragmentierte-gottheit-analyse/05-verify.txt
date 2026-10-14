@@ -1,0 +1,85 @@
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Sektion"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Sektion` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#5]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Tabelle"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Tabelle` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#2]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Szenarien"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Szenarien` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#2]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#1]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#0]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#0]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#1]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Selene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selene` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#1]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Kernbetriebssystem"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Kernbetriebssystem` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#5]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Core OS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Core OS` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#2]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Wächter"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            14
+
+`Wächter` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#9]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#1]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Erzwungene Integration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Erzwungene Integration` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#1]
+$ read.py ki-antagonist-fragmentierte-gottheit-analyse --count "Opfer oder Synthese"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Opfer oder Synthese` ^[ki-antagonist-fragmentierte-gottheit-analyse.md:#1]
+stance_marker_count = Sektion 5 + Tabelle 2 + Szenarien 2 + Referenzen 1 = 10
