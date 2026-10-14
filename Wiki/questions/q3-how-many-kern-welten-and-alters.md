@@ -1446,3 +1446,11 @@ Where it stands in the record's own terms: before and not against the author's a
 It opens the list with „Die Kernwelten sind nicht nur Schauplätze, sondern aktive Elemente der thematischen und narrativen Struktur“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L166] and names Chaos-Welt, Quanten-Verschränkungs-Welt, Logik-Paradox-Welt, Autopoiesis-Welt, Liminalitäts-Welt and Gedächtnis-Welt (L168–L173). It gives no count of Alters; it speaks of Kaels Alters only as parts to integrate (L47, L122).
 
 Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-plot-entwicklungsauftrag`, 2025-04-23, the M/Kael plot blueprint
+
+**The M/Kael plot blueprint names four Kernwelten, KW1 to KW4.**
+
+It says „Zu diesem Zweck erschafft AEGIS vier distinkte simulierte Universen“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L23] and names them in the table as „KW1: Konstrukt-Stadt“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L37], „KW2: Resonanz-Nebel“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L45], „KW3: Schattenlabyrinth“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L53] and „KW4: Möglichkeitsstrom“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L61].
+
+Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
