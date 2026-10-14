@@ -667,3 +667,11 @@ Where it stands in the record's own terms: a shared origin of Kael and AEGIS, as
 Before the crisis, the report reads, a united precursor consciousness existed that „war in die Struktur von AEGIS integriert“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L118]. In its table Kael is the Ursprungs-Ich and the EP. The protocol is „der Mechanismus, der den ANP (AEGIS) vom EP (Kael) abspaltete“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L176].
 
 Where it stands in the record's own terms: Kael from AEGIS's split self, in a research report's reconstruction; recorded, not applied and not decided.
+
+## 2026-10-14 — `kohaerenz-protokoll-plot-entwicklungsauftrag`, 2025-04-23, the M/Kael plot blueprint
+
+**The M/Kael plot blueprint tells Kael's origin as the manifestation of the entity M projected by AEGIS into the Kernwelten.**
+
+It says the attempt to project M „führt zur Manifestation von Kael, einem menschlichen Bewusstsein innerhalb der Kernwelten“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L27], and that the worlds force aspects of M's unity „in fragmentierte Identitäten (Alters) innerhalb von Kaels Psyche“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L27]. The decomposition is named as the cause of the DID (L27).
+
+Where it stands in the record's own terms: it belongs with the reading of Kael as the human manifestation of an external entity M; recorded, not applied.
