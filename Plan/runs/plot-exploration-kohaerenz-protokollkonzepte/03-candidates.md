@@ -1,0 +1,78 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a plot-exploration report in five parts; it names five plot concepts (titles below), each with the same four labelled fields, and restates the project's core premises as "[Query-II]". Concept titles are listed as written; the field labels (A. to D.) are template labels and are not listed. Research fields are listed under the lens heading as borrowed concepts the document applies.
+
+- AEGIS
+- Kael
+- Juna
+- Kael-Juna-Verbindung
+- K-J
+- K-J-Verbindung
+- DIS
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Potentialmeer
+- Kohärenz-Insel
+- Guardians
+- Guardian
+- Autopoiesis
+- Risse
+- Kernkonflikt
+- blinden Flecken
+- Kohärenz Protokoll
+- Resonanz/Transzendenz
+- ontologischen Exploit
+- Gödel-Satz
+- unbeweisbare Satz
+- Der Innere Architekt
+- Das Gödel-Gambit
+- Die Resonanz-Brücke
+- Der Wächter-Zwiespalt
+- Das Echo der Insel
+- Konzeptvergleichsmatrix
+
+## lens
+
+- Dissoziativen Identitätsstörung
+- DID
+- Internal Family Systems
+- IFS
+- EMDR
+- Somatic Experiencing
+- Narrative Expositionstherapie
+- Teilearbeit
+- Anima/Animus
+- Schatten
+- Persona
+- Archetypen
+- Individuationsprozess
+- Alignment Problem
+- Normal Accident Theory
+- Kaskadeneffekte
+- Gödel'schen Unvollständigkeitssätze
+- Russellsche Antinomie
+- Lügner-Paradox
+- Verschränkung
+- Nichtlokalität
+- Beobachtereffekt
+- Unio Mystica
+- Synchronizität
+- Groupthink
+- Confirmation Bias
+- Authority Bias
+- Sunk Cost Fallacy
+- Need-to-know-Prinzip
+- Emergenz
+- Komplexe Adaptive Systeme
+- CAS
+- Monstergruppe
+- Kategorientheorie
+- Panpsychismus
+- Panprotopsychismus
+- Branenwelten
+- Quantenschaum
+- Attraktor
+- Deus ex Machina

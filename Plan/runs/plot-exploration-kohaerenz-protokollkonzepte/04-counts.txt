@@ -1,0 +1,92 @@
+# counts for 71 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            69 word    76 in   [23, 24, 27, 31, 39, 44]
+                                    3      as AEGIS-Systems
+                                    1      as AEGIS-nahen
+                                    1      as AEGIS-System
+                                    1      as AEGIS-Narrativ
+  Kael                             33 word    56 in   [23, 24, 26, 27, 31, 39]
+                                   15      as Kaels
+                                    6      as Kael-Juna-Verbindung
+                                    1      as Kael-Fokus
+  Juna                             17 word    23 in   [24, 44, 69, 70, 87, 91]
+  Kael-Juna-Verbindung              6 word     6 in   [24, 69, 70, 91, 95, 96]
+  K-J                               6 word    19 in   [24, 39, 70, 77, 91, 95]  <-- substring
+  K-J-Verbindung                   12 word    12 in   [39, 70, 77, 91, 101, 102]
+  DIS                               7 word     7 in   [23, 43, 49, 61, 205, 207]
+  Kernwelten                       14 word    14 in   [26, 43, 44, 49, 51, 52]
+  KW1                               0 word     3 in   [26, 44, 65]  <-- substring
+  KW2                               1 word     3 in   [26, 44, 65]  <-- substring
+  KW3                               0 word     2 in   [26, 44]
+  KW4                               0 word     2 in   [26, 44]
+  Potentialmeer                     7 word     8 in   [25, 104, 147, 153, 156, 169]
+                                    1      as Potentialmeeres
+  Kohärenz-Insel                   14 word    14 in   [25, 96, 104, 117, 147, 148]
+  Guardians                        11 word    11 in   [70, 121, 127, 128, 129, 130]
+  Guardian                         13 word    26 in   [31, 70, 121, 122, 127, 128]
+                                   11      as Guardians
+                                    1      as Guardian-Charakter
+  Autopoiesis                       4 word     4 in   [23, 70, 75, 169]
+  Risse                             5 word     5 in   [27, 39, 70, 91, 226]
+  Kernkonflikt                      2 word     3 in   [27, 143, 224]
+                                    1      as Kernkonflikts
+  blinden Flecken                   4 word     4 in   [121, 122, 129, 143]
+  Kohärenz Protokoll                6 word     6 in   [11, 17, 21, 175, 224, 232]
+  Resonanz/Transzendenz             2 word     2 in   [96, 117]
+  ontologischen Exploit             2 word     2 in   [91, 224]
+  Gödel-Satz                        2 word     2 in   [91, 224]
+  unbeweisbare Satz                 1 word     1 in   [70]
+  Der Innere Architekt              2 word     2 in   [41, 43]
+  Das Gödel-Gambit                  4 word     4 in   [67, 69, 218, 232]
+  Die Resonanz-Brücke               2 word     2 in   [93, 95]
+  Der Wächter-Zwiespalt             2 word     2 in   [119, 121]
+  Das Echo der Insel                2 word     2 in   [145, 147]
+  Konzeptvergleichsmatrix           1 word     1 in   [197]
+  Dissoziativen Identitätsstörung    1 word     1 in   [49]
+  DID                               2 word     2 in   [49]
+  Internal Family Systems           1 word     1 in   [49]
+  IFS                               1 word     1 in   [49]
+  EMDR                              1 word     1 in   [50]
+  Somatic Experiencing              1 word     1 in   [50]
+  Narrative Expositionstherapie     1 word     1 in   [50]
+  Teilearbeit                       1 word     1 in   [50]
+  Anima/Animus                      1 word     1 in   [51]
+  Schatten                          1 word     1 in   [51]
+  Persona                           1 word     1 in   [51]
+  Archetypen                        2 word     3 in   [51, 205]
+                                    1      as Archetypenlehre
+  Individuationsprozess             1 word     1 in   [51]
+  Alignment Problem                 1 word     1 in   [76]
+  Normal Accident Theory            1 word     1 in   [78]
+  Kaskadeneffekte                   1 word     1 in   [78]
+  Gödel'schen Unvollständigkeitssätze    1 word     1 in   [77]
+  Russellsche Antinomie             1 word     1 in   [77]
+  Lügner-Paradox                    1 word     1 in   [77]
+  Verschränkung                     1 word     1 in   [102]
+  Nichtlokalität                    2 word     2 in   [102, 117]
+  Beobachtereffekt                  1 word     1 in   [102]
+  Unio Mystica                      1 word     1 in   [104]
+  Synchronizität                    1 word     1 in   [104]
+  Groupthink                        1 word     1 in   [127]
+  Confirmation Bias                 1 word     1 in   [129]
+  Authority Bias                    1 word     1 in   [129]
+  Sunk Cost Fallacy                 1 word     1 in   [129]
+  Need-to-know-Prinzip              1 word     1 in   [128]
+  Emergenz                          3 word     5 in   [153, 169, 193, 205]
+                                    2      as Emergenztheorie
+  Komplexe Adaptive Systeme         1 word     1 in   [153]
+  CAS                               1 word     1 in   [153]
+  Monstergruppe                     2 word     2 in   [154]
+  Kategorientheorie                 1 word     1 in   [154]
+  Panpsychismus                     1 word     1 in   [155]
+  Panprotopsychismus                1 word     1 in   [155]
+  Branenwelten                      1 word     1 in   [156]
+  Quantenschaum                     0 word     1 in   [156]
+                                    1      as Quantenschaums
+  Attraktor                         3 word     5 in   [169]
+                                    1      as Attraktoren
+                                    1      as Attraktors
+  Deus ex Machina                   1 word     1 in   [165]

@@ -1708,3 +1708,5 @@
 {"document": "plot-blueprint-methodik-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
 {"document": "plot-blueprint-methodik-kohaerenz-protokoll", "page": "multiplizitaet", "surface": "funktionale Multiplizität", "line": 106, "decision": "reading", "why": "integration or functional multiplicity as Kael's arc; read on multiplizitaet", "at": "2026-10-14"}
 {"document": "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "page": "partnerin", "surface": "Partnerin", "line": 15, "decision": "reading", "why": "Juna named as Kael's Partnerin; read on partnerin", "at": "2026-10-14"}
+{"document": "plot-exploration-kohaerenz-protokollkonzepte", "page": "alters", "surface": "Alters", "line": 49, "decision": "reading", "why": "research on alter identities; read on alters", "at": "2026-10-14"}
+{"document": "plot-exploration-kohaerenz-protokollkonzepte", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
