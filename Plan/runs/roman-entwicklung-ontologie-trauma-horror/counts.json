@@ -1,0 +1,511 @@
+{
+  "document": "roman-entwicklung-ontologie-trauma-horror",
+  "drive_id": "15O1AQf7gvLkhtnz3h6o8xVGeiLyIm3gj9SCHx1enkhM",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 14,
+      "n_including_compounds": 22,
+      "lines": [
+        39,
+        61,
+        63,
+        76,
+        90,
+        100,
+        114,
+        118,
+        132,
+        136,
+        138,
+        140,
+        142,
+        146
+      ]
+    },
+    "Juna": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        64,
+        132,
+        142
+      ]
+    },
+    "Weltmaschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Welt ohne Außen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Alltags-Anker-Zustand": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        96
+      ]
+    },
+    "Anker-Zustand": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        90,
+        96,
+        138
+      ]
+    },
+    "Alters": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        86,
+        88,
+        146
+      ]
+    },
+    "Haupt-Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "innere Pluralität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Kohärent-Werden": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        84,
+        90,
+        104
+      ]
+    },
+    "namenlosen Verlust": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        140,
+        146
+      ]
+    },
+    "Schmerz des Wiedererkennens": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        92,
+        104
+      ]
+    },
+    "Bewusstseinsmembranen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Interface-Identität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Diskontinuität": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        53,
+        64,
+        142
+      ]
+    },
+    "Fraktale Symmetrie der Grenzziehung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Singularität der Erlösung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Rhythmisierung der Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "wundloses Bluten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "lichtlose Reibung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Kernbefund": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        66,
+        94,
+        122
+      ]
+    },
+    "Das Unerwartete": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        70,
+        98,
+        126
+      ]
+    },
+    "Konkret nutzbar": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        74,
+        102,
+        130
+      ]
+    },
+    "Teilfrage": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        41,
+        78,
+        106,
+        136
+      ]
+    },
+    "adversariale Hypothese": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        31,
+        43,
+        68,
+        80,
+        96,
+        108,
+        124
+      ]
+    },
+    "Tathandlung": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        23,
+        31,
+        118,
+        138,
+        142
+      ]
+    },
+    "Absolute Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Neutralen Monismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "phänomenales Selbstmodell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Markov-Decke": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        25,
+        31,
+        39,
+        84,
+        96,
+        138,
+        140,
+        142
+      ]
+    },
+    "Markov-Decken": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        96,
+        138,
+        140
+      ]
+    },
+    "Nemozentrismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        31,
+        138
+      ]
+    },
+    "Dolphin Model of Cognition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Dissoziativen Identitätsstruktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "DID": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        63,
+        80,
+        82,
+        84,
+        88,
+        90,
+        96,
+        170
+      ]
+    },
+    "OSDD": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Default Mode Network": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        96,
+        138
+      ]
+    },
+    "DMN": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        82,
+        84,
+        92,
+        96,
+        138
+      ]
+    },
+    "Cortisol Awakening Response": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        104,
+        138
+      ]
+    },
+    "CAR": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        104,
+        138
+      ]
+    },
+    "Phillips-Robinson-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Papez-Kreis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Wille zur Identität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "rebellische Temporalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Kondensation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Rhapsodie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Hypnopompie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Lokalen Schlaf": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        100
+      ]
+    },
+    "Falschem Erwachen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Malignant Uselessness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Blind Brain Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        112,
+        124,
+        140
+      ]
+    },
+    "Semantic Apocalypse": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        112,
+        179,
+        181
+      ]
+    },
+    "semantische Apokalypse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        124
+      ]
+    },
+    "kognitiven Affordanzen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        118,
+        128
+      ]
+    },
+    "Melancholy Antisemanticism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Neonihilism": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        120
+      ]
+    },
+    "Cosmic Horror der Qualia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        106,
+        118
+      ]
+    },
+    "Ego Tunnel": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        152,
+        153,
+        154,
+        156,
+        157
+      ]
+    }
+  }
+}
