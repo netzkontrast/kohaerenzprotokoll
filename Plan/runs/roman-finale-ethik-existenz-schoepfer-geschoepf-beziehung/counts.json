@@ -1,0 +1,518 @@
+{
+  "document": "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+  "drive_id": "1XqZf3idjE2pVd3QRDruqaQYthhtAO4QwJe4rFhf-2GA",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 35,
+      "n_including_compounds": 52,
+      "lines": [
+        22,
+        28,
+        36,
+        40,
+        44,
+        46,
+        48,
+        56,
+        60,
+        64,
+        72,
+        74,
+        76,
+        82,
+        96,
+        104,
+        106,
+        108,
+        112,
+        116,
+        118,
+        120,
+        128,
+        130,
+        132,
+        134,
+        142,
+        146,
+        150,
+        152,
+        164,
+        166,
+        167,
+        168,
+        176,
+        178,
+        179,
+        180,
+        188
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        44
+      ]
+    },
+    "AEGIS": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        24,
+        74,
+        76,
+        84,
+        85,
+        108,
+        118,
+        132,
+        152,
+        156,
+        166,
+        168,
+        213
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        167
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        167
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Unit 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Gärtner": {
+      "n": 7,
+      "n_including_compounds": 13,
+      "lines": [
+        13,
+        46,
+        48,
+        60,
+        61,
+        82,
+        85,
+        100,
+        108,
+        120,
+        138,
+        150,
+        156
+      ]
+    },
+    "Gärtnerns": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        138
+      ]
+    },
+    "Schöpfer-Beobachter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        96
+      ]
+    },
+    "Schöpfer-Geschöpf-Beziehung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        100,
+        104
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Kuratierten Immanenz": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        26,
+        62,
+        87,
+        130,
+        146,
+        150,
+        179,
+        188
+      ]
+    },
+    "Philosophie der Kuratierten Immanenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        146,
+        150,
+        179
+      ]
+    },
+    "permeablen vierten Wand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "permeable vierte Wand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "vergifteten Goldes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Gabe des Traumas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "unerträgliche Wahl": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "dissonante Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "algorithmischer Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "inneren Ratsversammlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Die Gärten der gefallenen Götter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Der Rat der Vielen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Das Echo der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Welt-Kuration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "ineffiziente Schönheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Der stille Dialog": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        134
+      ]
+    },
+    "Der Pakt des Bewusstseins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Wächter-Panzer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "narrativen Entropie": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Der offene Kreis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Die Frage an den Schöpfer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Der Akt der Schöpfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Die letzte Geste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Absurdismus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        26,
+        36,
+        56,
+        188
+      ]
+    },
+    "Das Absurde": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        83
+      ]
+    },
+    "Revolte": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        46,
+        48,
+        84
+      ]
+    },
+    "Logotherapie": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        26,
+        36,
+        52,
+        56,
+        188,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        211
+      ]
+    },
+    "Einstellungswerte": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        85
+      ]
+    },
+    "Schöpferische Werte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        86
+      ]
+    },
+    "Erlebniswerte": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        62,
+        87
+      ]
+    },
+    "Selbst-Transzendenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        88
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Negentropie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        26,
+        118,
+        120,
+        223
+      ]
+    },
+    "Imago Fictoris": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "esse est percipi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Wabi-Sabi": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        62,
+        76,
+        84,
+        152,
+        156,
+        166
+      ]
+    },
+    "Komorebi": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        87,
+        154,
+        179
+      ]
+    },
+    "Mono no aware": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        153,
+        156
+      ]
+    },
+    "Kintsugi": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        156
+      ]
+    },
+    "Zen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        203
+      ]
+    },
+    "Stoizismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    }
+  }
+}
