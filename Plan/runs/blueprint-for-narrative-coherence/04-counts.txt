@@ -1,0 +1,28 @@
+# counts for 23 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              7 word     7 in   [17, 19, 23, 25, 31, 53]
+  Juna                              1 word     1 in   [51]
+  Kiko                              2 word     2 in   [39, 51]
+  AEGIS                             2 word     2 in   [39, 51]
+  Logos-Prime                       1 word     1 in   [21]
+  Construct City                    2 word     2 in   [13, 21]
+  Kernwelt 1                        1 word     1 in   [19]
+  The Foundation                    1 word     1 in   [39]
+  Moonshine-Link                    1 word     1 in   [51]
+  Apparently Normal Part            1 word     1 in   [35]
+  child alter                       1 word     1 in   [51]
+  Coherence through Negation        1 word     1 in   [21]
+  Algorithmic Horror                1 word     1 in   [23]
+  Nichts Rauschen                   1 word     1 in   [23]
+  Nothingness Noise                 1 word     1 in   [23]
+  flackerndes Licht                 1 word     1 in   [31]
+  central nexus                     1 word     1 in   [41]
+  maintenance drone                 1 word     1 in   [59]
+  cognitive dissonance              1 word     1 in   [17]
+  freeze response                   1 word     1 in   [39]
+  phobic avoidance response         1 word     1 in   [35]
+  gaslighting                       1 word     1 in   [59]
+  quale                             1 word     1 in   [51]
