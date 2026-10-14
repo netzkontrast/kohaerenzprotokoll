@@ -1585,3 +1585,5 @@
 {"document": "ki-rolle-aegis-genesis-fragestellungen", "page": "genesis", "surface": "Genesis", "line": 377, "decision": "occurrence", "why": "a title in the reference list", "at": "2026-10-14"}
 {"document": "ki-rolle-aegis-genesis-fragestellungen", "page": "kohaerenz", "surface": "Kohärenz", "line": 22, "decision": "occurrence", "why": "the protocol's name and the novel project", "at": "2026-10-14"}
 {"document": "ki-rolle-aegis-genesis-fragestellungen", "page": "ueberwelt", "surface": "Simulation", "line": 24, "decision": "occurrence", "why": "the prompt's simulation of a state of consciousness, not the Überwelt", "at": "2026-10-14"}
+{"document": "kohaerenz-direktive-narratives-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the directive's title", "at": "2026-10-14"}
+{"document": "kohaerenz-direktive-narratives-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 17, "decision": "occurrence", "why": "the simulation the story is set in, not the Überwelt", "at": "2026-10-14"}

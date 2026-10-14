@@ -1,0 +1,86 @@
+$ read.py --count "Theorie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Theorie` ^[kohaerenz-direktive-narratives-protokoll.md:#3]
+$ read.py --count "Plot-Anwendung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Plot-Anwendung` ^[kohaerenz-direktive-narratives-protokoll.md:#3]
+$ read.py --count "Fixe Regel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Fixe Regel` ^[kohaerenz-direktive-narratives-protokoll.md:#3]
+$ read.py --count "Atmosphäre"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Atmosphäre` ^[kohaerenz-direktive-narratives-protokoll.md:#3]
+$ read.py --count "Sprachliche Regeln"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Sprachliche Regeln` ^[kohaerenz-direktive-narratives-protokoll.md:#3]
+$ read.py --count "Horror-Element"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Horror-Element` ^[kohaerenz-direktive-narratives-protokoll.md:#3]
+$ read.py --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-direktive-narratives-protokoll.md:#1]
+$ read.py --count "Kael"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`Kael` ^[kohaerenz-direktive-narratives-protokoll.md:#3]
+$ read.py --count "Kaels"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kaels` ^[kohaerenz-direktive-narratives-protokoll.md:#2]
+$ read.py --count "Juna"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna` ^[kohaerenz-direktive-narratives-protokoll.md:#4]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`AEGIS` ^[kohaerenz-direktive-narratives-protokoll.md:#3]
+$ read.py --count "LogOS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`LogOS` ^[kohaerenz-direktive-narratives-protokoll.md:#2]
+$ read.py --count "kalt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`kalt` ^[kohaerenz-direktive-narratives-protokoll.md:#1]
+$ read.py --count "Heiß"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Heiß` ^[kohaerenz-direktive-narratives-protokoll.md:#1]
+stance_marker_count 18 = 6 labels x 3 (counts above)
+grep -cw Alter: 1
