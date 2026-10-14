@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 27
-readings: 26
+sources: 28
+readings: 27
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel"]
 gathered: "2026-09-16"
 ---
 
@@ -62,6 +62,10 @@ The essay names it „Hypothese der Negentropie-Fehlinterpretation“ ^[aegis-an
 ## Reading — `kohaerenz-protokoll-konzeptionelle-ausarbeitung`, 2025-04-19, the conceptual report on the protocol — negentropy as an operative function and a borrowed analogy
 
 The conceptual report describes an abstract construct for any system and names no figure, place or event of the novel. It lists extraction of order as an operative function: „Das Identifizieren und Aufnehmen von Mustern, Strukturen oder Ressourcen“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L225] from the environment. In its tension between boundary and openness it says „Ein vollständig geschlossenes System kann keine Negentropie“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L230] extract. Among its discipline comparisons it borrows the frame as an analogy: „Dissipative Strukturen und das Konzept der Negentropie“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L276].
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — Negentropie as the plan's Kap 37 concept
+
+The concept chapter map names the term once, in the concept line of Kap 37, „Entropie & Negentropie“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L381], which glosses it as geordnete Systeme that „entgegenwirken und lokale Ordnung schaffen können“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L381]. The narrator line of that chapter plans that Kael/M „Kael/M beginnt, durch seine kohärente Präsenz das Potentialmeer subtil zu beeinflussen“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L379]. A plan, not a definition.
 
 ## Reading — `emergenz-aegis-und-selbststrukturierung`, 2025-04-27, the emergent self-structuring research — negentropy only as a lens term
 
