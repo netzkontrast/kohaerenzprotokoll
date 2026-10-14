@@ -1,0 +1,50 @@
+$ read.py --count "must"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`must` ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:#23]
+$ read.py --count "non-negotiable"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`non-negotiable` ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:#2]
+$ read.py --count "mandated"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`mandated` ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:#2]
+$ read.py --count "mandate"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            6
+
+`mandate` ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:#4]
+$ read.py --count "Φ"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Φ` ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:#0]
+$ read.py --count "Juna"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna` ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:#2]
+$ read.py --count "Kernwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`Kernwelt` ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:#2]
+$ read.py --count "Foundational"
+whole word, case-sensitive     1
+whole word, case-insensitive   4
+including compounds            1
+
+`Foundational` ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:#1]
+stance_marker_count = must 23 + non-negotiable 2 + mandated 2 + mandate 4 (case-sensitive) = 31
+$ profile (01-profile.txt): backslash escapes 28, ascii quotes 74, question marks 0, table rows 6
