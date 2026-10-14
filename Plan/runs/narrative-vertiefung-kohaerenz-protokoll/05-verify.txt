@@ -1,0 +1,133 @@
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Narrative Relevanz"
+whole word, case-sensitive     55
+whole word, case-insensitive   55
+including compounds            55
+
+`Narrative Relevanz` ^[narrative-vertiefung-kohaerenz-protokoll.md:#55]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Narrative Eignung"
+whole word, case-sensitive     7
+whole word, case-insensitive   8
+including compounds            7
+
+`Narrative Eignung` ^[narrative-vertiefung-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kernkonzept"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Kernkonzept` ^[narrative-vertiefung-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kernkonzepte"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernkonzepte` ^[narrative-vertiefung-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "User Query"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+
+`User Query` ^[narrative-vertiefung-kohaerenz-protokoll.md:#32]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Zweck"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zweck` ^[narrative-vertiefung-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Methodik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Methodik` ^[narrative-vertiefung-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kapitelentwurf"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitelentwurf` ^[narrative-vertiefung-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kohärenz-Controller"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz-Controller` ^[narrative-vertiefung-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Gaslighting"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Gaslighting` ^[narrative-vertiefung-kohaerenz-protokoll.md:#8]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Risse` ^[narrative-vertiefung-kohaerenz-protokoll.md:#8]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Potentialmeer"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            27
+
+`Potentialmeer` ^[narrative-vertiefung-kohaerenz-protokoll.md:#21]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Monstergruppe"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Monstergruppe` ^[narrative-vertiefung-kohaerenz-protokoll.md:#10]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "M"
+whole word, case-sensitive     89
+whole word, case-insensitive   89
+including compounds            447
+
+`M` ^[narrative-vertiefung-kohaerenz-protokoll.md:#89]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Moonshine-Link"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Moonshine-Link` ^[narrative-vertiefung-kohaerenz-protokoll.md:#6]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "K-J-Link"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`K-J-Link` ^[narrative-vertiefung-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kael-Juna-Verbindung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kael-Juna-Verbindung` ^[narrative-vertiefung-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kapitel` ^[narrative-vertiefung-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[narrative-vertiefung-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[narrative-vertiefung-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[narrative-vertiefung-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-vertiefung-kohaerenz-protokoll --count "end list"
+whole word, case-sensitive     127
+whole word, case-insensitive   127
+including compounds            127
+
+`end list` ^[narrative-vertiefung-kohaerenz-protokoll.md:#127]
+stance_marker_count: 55 + 7 + 4 + 2 + 32 = 100 (Narrative Relevanz, Narrative Eignung, Kernkonzept, Kernkonzepte, User Query; word counts above)
