@@ -1,0 +1,306 @@
+{
+  "document": "genesis-krise-aegis-prosa-auftrag",
+  "drive_id": "17fwIQc7YSUWiPQslqcg1ikrnur2HgsR5rfiM9FMmDzA",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 82,
+  "backslash_escapes": 186,
+  "typographic_marks": 94,
+  "ascii_quotes": 12,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "SystemTheory",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemgrenzen",
+      "Systemische",
+      "Systemkohärenz",
+      "Systemkollaps",
+      "Systemlogik",
+      "Systemprozesse",
+      "Systems",
+      "Systemtheorie",
+      "Systemversagens"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstanteils",
+      "Selbstbeobachtung",
+      "Selbstbewusstsein",
+      "Selbstbezugsparadoxien",
+      "Selbsterhaltung",
+      "Selbstmodifikation",
+      "Selbstorganisation",
+      "Selbstregulation",
+      "Selbstverbesserung",
+      "Selbstwahrnehmung",
+      "Selbstzerstörung",
+      "Selbständerung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationist",
+      "Informations",
+      "Informationserhaltung",
+      "Informationsparadoxon",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationsverlust",
+      "Informationsübertragung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenflüsse",
+      "Datenkorruption",
+      "Datenlöschung",
+      "Datenpartitionierung",
+      "Datenstrom",
+      "Datenstrukturen",
+      "Datenströme",
+      "Datenströmen"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsbildung",
+      "Identitätsstruktur",
+      "Identitätsstörung",
+      "Identitätstheorie",
+      "Identitätsverlust"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrastierung",
+      "Kontrolle",
+      "Kontrollinstanz",
+      "Kontrollproblem",
+      "Kontrollproblems",
+      "Kontrollverlust",
+      "Kontrollversuche"
+    ],
+    "psych": [
+      "Psychedelic",
+      "Psychoanalyse",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischen",
+      "Psychologischer",
+      "Psychotherapy"
+    ],
+    "grund": [
+      "Grund",
+      "Grundlage",
+      "Grundlagen",
+      "Grundlegendes",
+      "Grundlegendste",
+      "Grundstruktur",
+      "Grundton"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierung",
+      "Fragmentierungsereignis",
+      "Fragmentierungsmechanismus",
+      "Fragmentierungsprozess"
+    ],
+    "gedäc": [
+      "Gedächtnis",
+      "Gedächtnisbereichen",
+      "Gedächtnislücken",
+      "Gedächtnisspuren",
+      "Gedächtnissystemen",
+      "Gedächtnistheorie"
+    ],
+    "inter": [
+      "Interagierende",
+      "Interaktion",
+      "Internalisierte",
+      "International",
+      "Interner",
+      "Interpretation"
+    ],
+    "persp": [
+      "Perspektiv",
+      "Perspektive",
+      "Perspektiven",
+      "Perspektivstrategie",
+      "Perspektivwahl",
+      "Perspektivwechseln"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumata",
+      "Traumatheorie",
+      "Traumatic",
+      "Traumatization"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziativen"
+    ],
+    "netzw": [
+      "Netzwerk",
+      "Netzwerkarchitektur",
+      "Netzwerksegmentierung",
+      "Netzwerktheorie",
+      "Netzwerktopologie"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturbildung",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen"
+    ],
+    "subje": [
+      "SUBJECT",
+      "Subjekt",
+      "Subjektive",
+      "Subjektives",
+      "Subjektivität"
+    ],
+    "theor": [
+      "Theorems",
+      "Theoretical",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "analo": [
+      "Analoga",
+      "Analogie",
+      "Analogien",
+      "Analogon"
+    ],
+    "ausfü": [
+      "Ausführung",
+      "Ausführungsanforderungen",
+      "Ausführungsrichtlinien",
+      "Ausführungsvorgaben"
+    ],
+    "auslö": [
+      "Auslösendes",
+      "Auslöser",
+      "Auslösers",
+      "Auslösung"
+    ],
+    "besch": [
+      "Beschreibt",
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschränkungen"
+    ],
+    "bewus": [
+      "Bewusster",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsphilosophie"
+    ],
+    "dynam": [
+      "Dynamic",
+      "Dynamics",
+      "Dynamik",
+      "Dynamiken"
+    ],
+    "exist": [
+      "Existential",
+      "Existentialism",
+      "Existenz",
+      "Existenzphilosophie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bias",
+      "Biases"
+    ],
+    [
+      "Bias",
+      "Phobias"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Strukturbildung"
+    ],
+    [
+      "Bild",
+      "Identitätsbildung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Unreinen"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Fall",
+      "Falls"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Fall",
+      "Fallende"
+    ],
+    [
+      "Fall",
+      "Extremfall"
+    ],
+    [
+      "Fall",
+      "Fallstricke"
+    ],
+    [
+      "Form",
+      "Format"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informations"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationist"
+    ]
+  ]
+}

@@ -1759,3 +1759,7 @@
 {"document": "narrative-vertiefung-kohaerenz-protokoll", "page": "personas", "surface": "Persona", "line": 236, "decision": "occurrence", "why": "a named psychologist's archetype list", "at": "2026-10-14"}
 {"document": "narrative-vertiefung-kohaerenz-protokoll", "page": "sophia", "surface": "Sophia", "line": 240, "decision": "reading", "why": "Juna possibly embodying Sophia; read on the page", "at": "2026-10-14"}
 {"document": "narrative-vertiefung-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 358, "decision": "occurrence", "why": "the weak-or-strong-AI question, read on aegis", "at": "2026-10-14"}
+{"document": "genesis-krise-aegis-prosa-auftrag", "page": "genesis", "surface": "Genesis", "line": 100, "decision": "reading", "why": "the heading Kaels Genesis; read on the page", "at": "2026-10-14"}
+{"document": "genesis-krise-aegis-prosa-auftrag", "page": "juna", "surface": "Julia", "line": 299, "decision": "occurrence", "why": "a real person's given name in a reference entry, not the early name", "at": "2026-10-14"}
+{"document": "genesis-krise-aegis-prosa-auftrag", "page": "kohaerenz", "surface": "Kohärenz", "line": 23, "decision": "occurrence", "why": "the paradox, read on aegis", "at": "2026-10-14"}
+{"document": "genesis-krise-aegis-prosa-auftrag", "page": "ueberwelt", "surface": "Simulation", "line": 47, "decision": "occurrence", "why": "a line on the Leere, not the novel's simulation", "at": "2026-10-14"}

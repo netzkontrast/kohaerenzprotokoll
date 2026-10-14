@@ -1,0 +1,92 @@
+# verify: commands run 2026-10-12; outputs from read.py --count
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[genesis-krise-aegis-prosa-auftrag.md:#0]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[genesis-krise-aegis-prosa-auftrag.md:#0]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[genesis-krise-aegis-prosa-auftrag.md:#0]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Narrativer Fokus"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Narrativer Fokus` ^[genesis-krise-aegis-prosa-auftrag.md:#5]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Cluster-Integration"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Cluster-Integration` ^[genesis-krise-aegis-prosa-auftrag.md:#5]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Cluster 7"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Cluster 7` ^[genesis-krise-aegis-prosa-auftrag.md:#25]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "möglicherweise"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`möglicherweise` ^[genesis-krise-aegis-prosa-auftrag.md:#10]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Kernparadoxon"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kernparadoxon` ^[genesis-krise-aegis-prosa-auftrag.md:#2]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Kohärenz Protokoll"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            13
+
+`Kohärenz Protokoll` ^[genesis-krise-aegis-prosa-auftrag.md:#7]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Kael"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            20
+
+`Kael` ^[genesis-krise-aegis-prosa-auftrag.md:#17]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Ursprungs-Ich"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            37
+
+`Ursprungs-Ich` ^[genesis-krise-aegis-prosa-auftrag.md:#18]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Stufe"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Stufe` ^[genesis-krise-aegis-prosa-auftrag.md:#8]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "Kosmischen Horrors"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Kosmischen Horrors` ^[genesis-krise-aegis-prosa-auftrag.md:#1]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "EP"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`EP` ^[genesis-krise-aegis-prosa-auftrag.md:#7]
+$ read.py genesis-krise-aegis-prosa-auftrag --count "ANP"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`ANP` ^[genesis-krise-aegis-prosa-auftrag.md:#7]
+stance_marker_count 10 = Narrativer Fokus 5 + Cluster-Integration 5

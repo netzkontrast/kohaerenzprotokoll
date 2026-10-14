@@ -1,0 +1,14 @@
+# genesis-krise-aegis-prosa-auftrag
+  lines                300  (frontmatter ends at 9)
+  body words           5771
+  headings             2   bold-only lines 13
+  table rows           42   code fences 0
+  question marks       13
+  backslash escapes    186
+  typographic marks    94   ascii quotes 12
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    82
+  repeated labels      Cluster-Integration x5, Narrativer Fokus x5, Cluster 1 (Ich/Bewusstsein) x3, Cluster 3 (AEGIS Logik) x3, Cluster 4 (Trauma) x3, Cluster 5 (Systemdynamik) x3
+  longest line         10170 chars
+
