@@ -317,3 +317,11 @@ Stands as one more position on what the Überwelt is; it decides nothing, and th
 KW 3 is „Die Überwelt / Der Nexus (Ebene der Quanten-Information)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54], „Der Maschinenraum hinter dem Rendering“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L54]. For Part II it reverses the order: „KW 3 (Der Nexus / Die Überwelt)“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L92], and the scene logic puts Kael „Kael befindet sich im Nexus, dem abstrakten Code-Raum von AEGIS“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L95]. The word `Überraum` ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:#0] does not stand in it (a count).
 
 Stands on the side of one world under two names, in this plan; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-14 — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint
+
+**The Moonshine-Brücke blueprint names the Nexus in Kap 26's title, with no account, and calls the simulation Unsere Realität / Kernwelten; no Überraum, no Überwelt.**
+
+The Nexus stands in the title „Konfrontation im Nexus“ ^[kohaerenz-protokoll-plot-synthese-2.md:L88] (`Nexus` ^[kohaerenz-protokoll-plot-synthese-2.md:#2]), the climax of Part 2. The simulation is the frame analysis's entry „Die Simulation (Unsere Realität / Kernwelten)“ ^[kohaerenz-protokoll-plot-synthese-2.md:L23] Neither `Überraum` ^[kohaerenz-protokoll-plot-synthese-2.md:#0] nor `Überwelt` ^[kohaerenz-protokoll-plot-synthese-2.md:#0] stands in the document.
+
+Stands as the Nexus in one title and the simulation as Unsere Realität / Kernwelten; recorded, the question stays open.
