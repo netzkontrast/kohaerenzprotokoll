@@ -1,0 +1,14 @@
+# romanstruktur-3-teile-39-kapitel-1-anfang
+  lines                215  (frontmatter ends at 9)
+  body words           4745
+  headings             20   bold-only lines 1
+  table rows           15   code fences 0
+  question marks       9
+  backslash escapes    106
+  typographic marks    66   ascii quotes 76
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    105
+  repeated labels      none
+  longest line         959 chars
+
