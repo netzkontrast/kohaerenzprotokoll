@@ -606,3 +606,11 @@ Where it stands: a plan, recorded, not applied; the question stays open.
 The line reads „AEGIS Subsysteme/Guardians“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L103] and „Diese können Aspekte von AEGIS' internem Konflikt personifizieren“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L103] Step 4: „Der Wächter repräsentiert AEGIS' Kontrollmechanismen und seine autopoietische Tendenz, Abweichungen zu korrigieren“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L193]
 
 Where it stands: a plan, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `canonical-narrative-architecture-for-kohaerenz-protokoll`, 2025-11-03, the canonical-architecture report
+
+**The canonical-architecture report declares the Guardian's Dilemma canonical: the Guardians are not a monolith and rebel Guardians are possible.**
+
+It states the contradiction: „A contradiction exists as to whether AEGIS's Guardians are unswerving, monolithic enforcers or if they are subject to a“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L99] `Wächter-Zwiespalt`. It declares: „The canonical resolution is that the Guardians are not a monolith.“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L103]
+
+Where it stands in the record's own terms: a declaration, recorded, not applied; the question stays open.
