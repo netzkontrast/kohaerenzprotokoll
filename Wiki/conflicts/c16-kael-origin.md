@@ -707,3 +707,11 @@ Where it stands in the record's own terms: Kael as the result of the Zerstückel
 It tells the cut from the awakened Ich's side: „Aus der Perspektive des erwachten Ichs ist es unvorstellbarer Horror.“ ^[genesis-und-krise-ausfuehrliche-darstellung.md:L101] Then the fragments: „Die Fragmente von Komponente 734 treiben in Isolation, in den Trümmern der alten Struktur, den Kernwelten.“ ^[genesis-und-krise-ausfuehrliche-darstellung.md:L105] And the birth: „Kael ist geboren.“ ^[genesis-und-krise-ausfuehrliche-darstellung.md:L107]
 
 Where it stands in the record's own terms: Kael as born from the cut fragments of 734, in a draft narrative; recorded, not applied.
+
+## 2026-10-14 — `concept-document-the-nature-of-the-foundation-juna-v-and-the`, 2025-10-15, the Foundation concept document
+
+**The Foundation concept document has Kael as the primary sentient fragment of AEGIS's self-mutilation, the Kohärenz Protokoll dismembering AEGIS's own Ursprungs-Ich; recorded, not applied.**
+
+It writes: „Kael is the primary, sentient fragment that resulted from this act of self-mutilation.“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L67] The act is the Kohärenz Protokoll, „an act of systemic violence against itself“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L67]. The fragment comes from AEGIS's own Ursprungs-Ich, which emerged „From within the chaotic churn of the Potentialmeer“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L27].
+
+Where it stands in the record's own terms: Kael as a fragment of AEGIS's own Ursprungs-Ich, in a concept document; recorded, not applied.
