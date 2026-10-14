@@ -1,0 +1,14 @@
+# monstergruppe-als-denkmodell-der-komplexitaet
+  lines                450  (frontmatter ends at 9)
+  body words           10701
+  headings             24   bold-only lines 1
+  table rows           36   code fences 0
+  question marks       39
+  backslash escapes    78
+  typographic marks    202   ascii quotes 14
+  invisible characters U+200Bx39
+  math symbol lines    2
+  glued ref numbers    175
+  repeated labels      none
+  longest line         1094 chars
+

@@ -1,0 +1,129 @@
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Zugriff am April 23, 2025"
+whole word, case-sensitive     132
+whole word, case-insensitive   132
+including compounds            132
+
+`Zugriff am April 23, 2025` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#132]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Stark:"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Stark:` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#7]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Mittel:"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Mittel:` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#8]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Schwach:"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schwach:` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#1]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Schwach/Mittel:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Schwach/Mittel:` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#2]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Moonshine"
+whole word, case-sensitive     59
+whole word, case-insensitive   66
+including compounds            89
+
+`Moonshine` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#59]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Hyperintegration"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hyperintegration` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#3]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Sporadizität"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Sporadizität` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#9]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Interne Architektur"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Interne Architektur` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#5]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "einfache Gruppe"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            9
+
+`einfache Gruppe` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#6]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Happy Family"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            24
+
+`Happy Family` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#24]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Parias"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Parias` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#4]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Pariah"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Pariah` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#6]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Friendly Giant"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Friendly Giant` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#1]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Charaktere"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Charaktere` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#3]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#0]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#0]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Kohärenz"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#0]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Roman"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Roman` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#0]
+$ python3 scripts/read.py monstergruppe-als-denkmodell-der-komplexitaet --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[monstergruppe-als-denkmodell-der-komplexitaet.md:#0]
+$ grep -n "^#" headings (I to VI sections)
+13:## **I. Einleitung: Die Monstergruppe – Ein Enigma mathematischer Struktur**
+25:## **II. Enthüllung des Monsters: Mathematische Grundlagen**
+154:## **III. Konzeptionelle Prinzipien aus dem Monster**
+198:## **IV. Das Monster als Muse: Inspirationen über Disziplinen hinweg**
+243:## **V. Synthese und Bewertung: Der heuristische Wert des Monsters**
+304:## **VI. Schlussfolgerung: Die anhaltende Faszination des Monsters**
+stance_marker_count 16 = Stark: 7 + Mittel: 8 + Schwach: 1 (Mittel: includes the 2 of Schwach/Mittel:; cells = 4 rows x 4 columns, L262-L268)
+L98 read by eye: twenty groups in Happy Family, six Parias
