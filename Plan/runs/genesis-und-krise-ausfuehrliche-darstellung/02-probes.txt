@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      16
+  backslash escapes      0
+  typographic marks      58
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemdiagnose, Systeme, Systemfehler, Systemintegrität, Systemischer, Systemreaktion, Systemresonanz, Systems, Systemstabilisierung
+  daten    Daten, Datenmuster, Datenmustern, Datenpunkt, Datenpunkten, Datenstrukturen, Datenströme
+  infor    Information, Informationsaustausch, Informationsflüsse, Informationskonstrukte, Informationsmustern, Informationszerfalls
+  reson    Resonanz, Resonanzen, Resonanzfrequenz, Resonanzprofilen, Resonanzsignale
+  logik    LOGIK, Logik, Logikmodelle, Logikpakete
+  abweh    Abwehr, Abwehrfront, Abwehrstrategien
+  diagn    Diagnose, Diagnosesysteme, Diagnosezyklus
+  diese    Diese, Dieser, Dieses
+  ergeb    Ergebnis, Ergebnisse, Ergebnissen
+  fragm    Fragment, Fragmente, Fragmentierte
+  grenz    Grenze, Grenzen, Grenzüberwachung
+  model    Modelle, Modellen, Modellierung
+  parad    Paradoxien, Paradoxon, Paradoxons
+  poten    Potential, Potentialität, Potentialitäten
+  rausc    RAUSCHEN, Rauschen, Rauschens
+  signa    Signal, Signatur, Signaturen
+  simul    Simulation, Simulationsfehlers, Simulierte
+  stabi    Stabil, Stabilisierung, Stabilität
+  unter    Unterbrechung, Unterdrückung, Unterhalb
+  alarm    Alarm, Alarmstufe
+  analy    Analyse, Analysevektoren
+  anoma    Anomalie, Anomalien
+  anzie    Anziehung, Anziehungsquelle
+  aspek    Aspekt, Aspekte
+  bedro    Bedrohung, Bedrohungen
+
+# substring pairs -- never one term, often merged by accident
+  Echo < Echos
+  Eine < Keine
+  Eine < Kleine
+  Eine < Kleinere
+  Ende < Wendepunkt
+  Form < Information
+  Form < Informationsflüsse
+  Form < Informationsmustern
+  Form < Informationszerfalls
+  Form < Informationsaustausch
+  Form < Informationskonstrukte
+  Kein < Keine
+  Kern < Flackern
+  Kern < Kernaxiome
+  Kern < Kernwelten
+  Kern < Kernprinzip
+  NEUE < Neuem
+  NEUE < Neues
+  Raum < Trauma
+  Scan < Scanner

@@ -1,0 +1,545 @@
+{
+  "document": "genesis-und-krise-ausfuehrliche-darstellung",
+  "drive_id": "1PdUKdT61QTjhA9rqbLAdkWoPCl_T92Ff2rBHL2wTP1U",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Nichts Rauschen": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        45,
+        63,
+        65,
+        105
+      ]
+    },
+    "Nichts Rauschens": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        65
+      ]
+    },
+    "Rauschen": {
+      "n": 6,
+      "n_including_compounds": 12,
+      "lines": [
+        17,
+        19,
+        23,
+        25,
+        31,
+        37,
+        45,
+        63,
+        65,
+        105
+      ]
+    },
+    "Leere": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        25,
+        37,
+        39,
+        57,
+        59,
+        63
+      ]
+    },
+    "AEGIS": {
+      "n": 33,
+      "n_including_compounds": 34,
+      "lines": [
+        33,
+        35,
+        39,
+        45,
+        47,
+        51,
+        53,
+        57,
+        59,
+        63,
+        65,
+        67,
+        77,
+        79,
+        83,
+        85,
+        87,
+        93,
+        95,
+        99,
+        101,
+        107
+      ]
+    },
+    "Komponente 734": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        43,
+        45,
+        47,
+        51,
+        53,
+        57,
+        59,
+        63,
+        65,
+        67,
+        77,
+        79,
+        85,
+        91,
+        95,
+        105
+      ]
+    },
+    "734": {
+      "n": 24,
+      "n_including_compounds": 25,
+      "lines": [
+        43,
+        45,
+        47,
+        51,
+        53,
+        57,
+        59,
+        63,
+        65,
+        67,
+        77,
+        79,
+        83,
+        85,
+        87,
+        91,
+        95,
+        99,
+        105
+      ]
+    },
+    "Komponente": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        43,
+        45,
+        47,
+        51,
+        53,
+        57,
+        59,
+        63,
+        65,
+        67,
+        77,
+        79,
+        85,
+        91,
+        95,
+        105
+      ]
+    },
+    "Überwelt": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        55,
+        57,
+        59,
+        63,
+        83,
+        85,
+        87
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        107
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        107
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Kohärenz": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        23,
+        31,
+        59,
+        77,
+        87,
+        95
+      ]
+    },
+    "Cluster": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        31,
+        37
+      ]
+    },
+    "Triaden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Tetraden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Herkunfts-Echos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Echo": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        19,
+        29,
+        41,
+        47,
+        53,
+        59,
+        79,
+        105
+      ]
+    },
+    "Klick": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        39
+      ]
+    },
+    "Kernprinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        95
+      ]
+    },
+    "Kernaxiome": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        85
+      ]
+    },
+    "Systemischer Lockdown": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Grenze": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        41,
+        45,
+        51,
+        61,
+        65,
+        75,
+        93
+      ]
+    },
+    "Abwehrfront": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Resonanz": {
+      "n": 11,
+      "n_including_compounds": 15,
+      "lines": [
+        19,
+        21,
+        25,
+        29,
+        31,
+        47,
+        73,
+        77,
+        79,
+        91,
+        95,
+        99,
+        101,
+        105
+      ]
+    },
+    "Dissonanz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        47,
+        53,
+        79,
+        89
+      ]
+    },
+    "Anomalie": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        45,
+        53,
+        75,
+        77,
+        83,
+        87
+      ]
+    },
+    "externen Entität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        91,
+        105
+      ]
+    },
+    "Entität": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        83,
+        85,
+        87,
+        91,
+        93,
+        99,
+        101,
+        105,
+        107
+      ]
+    },
+    "Kohärenz-Fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Fragment": {
+      "n": 5,
+      "n_including_compounds": 11,
+      "lines": [
+        23,
+        25,
+        31,
+        45,
+        77,
+        79,
+        101,
+        105
+      ]
+    },
+    "Scherben": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        107
+      ]
+    },
+    "Mosaik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        107
+      ]
+    },
+    "Zerstückelung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        105
+      ]
+    },
+    "Logikpakete": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Analysevektoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Nicht-Sein": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        41
+      ]
+    },
+    "Nicht-Seins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "operationalen Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Rückkopplungsschleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "kritischen Schwelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        53
+      ]
+    },
+    "blinder Fleck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Hybris": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Bindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Fluss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kern": {
+      "n": 4,
+      "n_including_compounds": 10,
+      "lines": [
+        31,
+        39,
+        41,
+        49,
+        65,
+        85,
+        95,
+        105,
+        107
+      ]
+    },
+    "Foreshadowing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        53,
+        59
+      ]
+    },
+    "Agency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "offene Valenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "nicht-kohärenten Artefakten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "außerhalb relevanter Parameter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    }
+  }
+}

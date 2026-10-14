@@ -1,0 +1,232 @@
+{
+  "document": "genesis-und-krise-ausfuehrliche-darstellung",
+  "drive_id": "1PdUKdT61QTjhA9rqbLAdkWoPCl_T92Ff2rBHL2wTP1U",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 16,
+  "backslash_escapes": 0,
+  "typographic_marks": 58,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdiagnose",
+      "Systeme",
+      "Systemfehler",
+      "Systemintegrität",
+      "Systemischer",
+      "Systemreaktion",
+      "Systemresonanz",
+      "Systems",
+      "Systemstabilisierung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenmuster",
+      "Datenmustern",
+      "Datenpunkt",
+      "Datenpunkten",
+      "Datenstrukturen",
+      "Datenströme"
+    ],
+    "infor": [
+      "Information",
+      "Informationsaustausch",
+      "Informationsflüsse",
+      "Informationskonstrukte",
+      "Informationsmustern",
+      "Informationszerfalls"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzen",
+      "Resonanzfrequenz",
+      "Resonanzprofilen",
+      "Resonanzsignale"
+    ],
+    "logik": [
+      "LOGIK",
+      "Logik",
+      "Logikmodelle",
+      "Logikpakete"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrfront",
+      "Abwehrstrategien"
+    ],
+    "diagn": [
+      "Diagnose",
+      "Diagnosesysteme",
+      "Diagnosezyklus"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "ergeb": [
+      "Ergebnis",
+      "Ergebnisse",
+      "Ergebnissen"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentierte"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzüberwachung"
+    ],
+    "model": [
+      "Modelle",
+      "Modellen",
+      "Modellierung"
+    ],
+    "parad": [
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialitäten"
+    ],
+    "rausc": [
+      "RAUSCHEN",
+      "Rauschen",
+      "Rauschens"
+    ],
+    "signa": [
+      "Signal",
+      "Signatur",
+      "Signaturen"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationsfehlers",
+      "Simulierte"
+    ],
+    "stabi": [
+      "Stabil",
+      "Stabilisierung",
+      "Stabilität"
+    ],
+    "unter": [
+      "Unterbrechung",
+      "Unterdrückung",
+      "Unterhalb"
+    ],
+    "alarm": [
+      "Alarm",
+      "Alarmstufe"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysevektoren"
+    ],
+    "anoma": [
+      "Anomalie",
+      "Anomalien"
+    ],
+    "anzie": [
+      "Anziehung",
+      "Anziehungsquelle"
+    ],
+    "aspek": [
+      "Aspekt",
+      "Aspekte"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Eine",
+      "Kleinere"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationsflüsse"
+    ],
+    [
+      "Form",
+      "Informationsmustern"
+    ],
+    [
+      "Form",
+      "Informationszerfalls"
+    ],
+    [
+      "Form",
+      "Informationsaustausch"
+    ],
+    [
+      "Form",
+      "Informationskonstrukte"
+    ],
+    [
+      "Kein",
+      "Keine"
+    ],
+    [
+      "Kern",
+      "Flackern"
+    ],
+    [
+      "Kern",
+      "Kernaxiome"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernprinzip"
+    ],
+    [
+      "NEUE",
+      "Neuem"
+    ],
+    [
+      "NEUE",
+      "Neues"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Scan",
+      "Scanner"
+    ]
+  ]
+}
