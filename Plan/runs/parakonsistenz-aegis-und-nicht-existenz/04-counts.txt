@@ -1,0 +1,61 @@
+# counts for 46 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Aegis                            70 word    84 in   [11, 37, 38, 39, 45, 49]
+                                    8      as Aegis-Definition
+                                    5      as Aegis-Systems
+                                    1      as Aegis-Paradoxon
+  Aegis-System                      0 word     5 in   [45, 53, 55, 299, 354]  <-- substring
+                                    5      as Aegis-Systems
+  Aegis-Definition                  8 word     8 in   [49, 50, 212, 238, 240, 242]
+  Aegis-Paradoxon                   1 word     1 in   [349]
+  Wächter                           7 word    10 in   [11, 39, 41, 51, 306, 308]
+                                    3      as Wächterfunktion
+  Wächterfunktion                   3 word     3 in   [41, 51, 319]
+  Grenzwächter                      1 word     1 in   [51]
+  Existenz                         15 word    24 in   [11, 27, 39, 51, 74, 115]
+  Nicht-Existenz                    9 word     9 in   [11, 39, 51, 306, 308, 314]
+  Nichtsein                        13 word    13 in   [52, 319, 324, 328, 329, 330]
+  Grenze                           21 word    44 in   [39, 52, 97, 238, 242, 306]  <-- substring
+                                   23      as Grenzen
+  konstitutiven Widerspruch         1 word     2 in   [234, 304]
+  Parakonsistente Kohärenz          1 word     1 in   [301]
+  Strukturelle Stabilität           1 word     1 in   [302]
+  parakonsistente Logik            10 word    15 in   [27, 87, 114, 115, 121, 125]
+  Parakonsistenz                   11 word    11 in   [76, 105, 107, 109, 121, 141]
+  Ex contradictione quodlibet       4 word     4 in   [17, 27, 61, 337]
+  ECQ                              21 word    22 in   [17, 19, 22, 48, 59, 61]
+  Prinzip der Explosion             2 word     2 in   [17, 61]
+  Inkonsistenz                     11 word    14 in   [47, 67, 69, 74, 81, 88]
+                                    2      as Inkonsistenzen
+                                    1      as Inkonsistenzoperator
+  Trivialität                      10 word    15 in   [41, 47, 50, 63, 67, 69]
+                                    1      as Trivialitäten
+  Nicht-Trivialität                 4 word     4 in   [41, 50, 301, 339]
+  Dialetheismus                     8 word     8 in   [96, 105, 107, 110, 117, 204]
+  Dialetheia                        1 word     1 in   [268]
+  Trivialismus                      1 word     1 in   [114]
+  Logiken der Formalen Inkonsistenz    2 word     2 in   [123, 337]
+  LFIs                             11 word    11 in   [48, 123, 127, 128, 129, 149]
+  Relevanzlogiken                   8 word     8 in   [151, 153, 155, 161, 162, 191]
+  Variablen-Sharing-Prinzip         2 word     2 in   [160]
+  disjunktiven Syllogismus          3 word     3 in   [65, 161, 295]
+  Logic of Paradox                  2 word     2 in   [173, 203]
+  LP                               18 word    18 in   [50, 168, 173, 177, 179, 180]
+  First Degree Entailment           5 word     5 in   [184, 203, 412, 413, 414]
+  FDE                              18 word    18 in   [50, 168, 184, 188, 190, 191]
+  Connexive Logiken                 1 word     1 in   [166]
+  Konsistenzoperator                2 word     2 in   [134, 205]
+  C-Systeme                         2 word     2 in   [129]
+  parakomplett                      1 word     1 in   [190]
+  Inclosure Schema                  2 word     2 in   [242, 328]
+  Sorites-Paradox                   1 word     1 in   [97]
+  Lügner-Paradox                    1 word     2 in   [229, 240]
+                                    1      as Lügner-Paradoxons
+  Stresstest                        1 word     1 in   [354]
+  Rache-Paradoxien                  1 word     1 in   [356]
+  Shunyata                          1 word     1 in   [329]
+  Logischer Pluralismus             1 word     1 in   [350]
+  Mereotopologie                    2 word     2 in   [328]

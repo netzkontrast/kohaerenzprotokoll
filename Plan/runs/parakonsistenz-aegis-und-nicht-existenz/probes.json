@@ -1,0 +1,283 @@
+{
+  "document": "parakonsistenz-aegis-und-nicht-existenz",
+  "drive_id": "1fSnaZcWqHPoQ8a0IvyIwSF8L3WOik205SVaLKcgv0Qo",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 9
+  },
+  "glued_ref_numbers": 72,
+  "backslash_escapes": 53,
+  "typographic_marks": 28,
+  "ascii_quotes": 92,
+  "inflection_families": {
+    "diale": [
+      "Dialektik",
+      "Dialetheia",
+      "Dialetheien",
+      "Dialetheische",
+      "Dialetheischer",
+      "Dialetheism",
+      "Dialetheismus",
+      "Dialetheist",
+      "Dialetheisten"
+    ],
+    "relev": [
+      "Relevance",
+      "Relevanz",
+      "Relevanzbed",
+      "Relevanzbedingungen",
+      "Relevanzkriterium",
+      "Relevanzlogik",
+      "Relevanzlogiken",
+      "Relevanzlogischer"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widerspruchsfreiheit",
+      "Widerspruchsprinzips",
+      "Widerspruchsvermeidung",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchlichkeit"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfall",
+      "Grenzfälle",
+      "Grenzfällen",
+      "Grenzstruktur",
+      "Grenzwächter"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradox",
+      "Paradoxes",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informationsmengen",
+      "Informationssysteme",
+      "Informationsverarbeitung"
+    ],
+    "theor": [
+      "THEORY",
+      "Theorem",
+      "Theoreme",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "contr": [
+      "CONTRADICTIONE",
+      "Contradiction",
+      "Contradictione",
+      "Contradictions",
+      "Contrary"
+    ],
+    "forma": [
+      "FORMAL",
+      "Formal",
+      "Formalen",
+      "Formalisierung",
+      "Formalisierungsversuche"
+    ],
+    "inter": [
+      "Interdependenz",
+      "Internalisierung",
+      "Internet",
+      "Interpretation",
+      "Interpretationen"
+    ],
+    "model": [
+      "Modell",
+      "Modellbildung",
+      "Modellierung",
+      "Modellierungen",
+      "Modellierungsansätze"
+    ],
+    "objek": [
+      "Objekt",
+      "Objekten",
+      "Objektmerkmal",
+      "Objekts",
+      "Objektsprache"
+    ],
+    "philo": [
+      "Philosophie",
+      "Philosophien",
+      "Philosophische",
+      "Philosophy",
+      "PhilosophyofScience"
+    ],
+    "schlu": [
+      "Schluss",
+      "Schlussfolgerung",
+      "Schlussfolgerungen",
+      "Schlussregel",
+      "Schlussregeln"
+    ],
+    "seman": [
+      "Semantic",
+      "Semantik",
+      "Semantiken",
+      "Semantische",
+      "Semantischer"
+    ],
+    "syste": [
+      "SYSTEMS",
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systems"
+    ],
+    "trivi": [
+      "Trivialisierung",
+      "Trivialisierungen",
+      "Trivialismus",
+      "Trivialität",
+      "Trivialitäten"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheitsprädikate",
+      "Wahrheitsstatus",
+      "Wahrheitswert",
+      "Wahrheitswerte"
+    ],
+    "wisse": [
+      "Wissensbasen",
+      "Wissenschaft",
+      "Wissenschaftliche",
+      "Wissenschaftsgeschichte",
+      "Wissenssysteme"
+    ],
+    "anwen": [
+      "Anwendung",
+      "Anwendungen",
+      "Anwendungsbereich",
+      "Anwendungsfällen"
+    ],
+    "grund": [
+      "Grundidee",
+      "Grundlage",
+      "Grundlagen",
+      "Grundprinzipien"
+    ],
+    "haupt": [
+      "Hauptansatz",
+      "Hauptmotivation",
+      "Hauptvertreter",
+      "Hauptziel"
+    ],
+    "impli": [
+      "Implikation",
+      "Implikationen",
+      "Implikationsparadoxien",
+      "Implikationspfeil"
+    ],
+    "incon": [
+      "INCONSISTENT",
+      "Inconsistency",
+      "Inconsistent",
+      "InconsistentBoundaries"
+    ],
+    "inkon": [
+      "Inkonsistente",
+      "Inkonsistenz",
+      "Inkonsistenzen",
+      "Inkonsistenzoperator"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Disj",
+      "Disjunktion"
+    ],
+    [
+      "Disj",
+      "Disjunktiver"
+    ],
+    [
+      "Disj",
+      "Disjunktionseinführung"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "FORMAL"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Formel"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formeln"
+    ],
+    [
+      "Form",
+      "Formalen"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Formalisierung"
+    ],
+    [
+      "Form",
+      "Informationsmengen"
+    ],
+    [
+      "Form",
+      "Informationssysteme"
+    ],
+    [
+      "Form",
+      "Formalisierungsversuche"
+    ]
+  ]
+}

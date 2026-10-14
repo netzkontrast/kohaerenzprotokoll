@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x9
+  glued ref numbers      72
+  backslash escapes      53
+  typographic marks      28
+  ascii quotes           92
+
+# inflection families -- one term, several surfaces
+  diale    Dialektik, Dialetheia, Dialetheien, Dialetheische, Dialetheischer, Dialetheism, Dialetheismus, Dialetheist, Dialetheisten
+  relev    Relevance, Relevanz, Relevanzbed, Relevanzbedingungen, Relevanzkriterium, Relevanzlogik, Relevanzlogiken, Relevanzlogischer
+  wider    Widerspruch, Widerspruchs, Widerspruchsfreiheit, Widerspruchsprinzips, Widerspruchsvermeidung, Widersprüche, Widersprüchen, Widersprüchlichkeit
+  grenz    Grenze, Grenzen, Grenzfall, Grenzfälle, Grenzfällen, Grenzstruktur, Grenzwächter
+  parad    Paradebeispiel, Paradox, Paradoxes, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  infor    Informatik, Information, Informationen, Informationsmengen, Informationssysteme, Informationsverarbeitung
+  theor    THEORY, Theorem, Theoreme, Theorie, Theorien, Theory
+  contr    CONTRADICTIONE, Contradiction, Contradictione, Contradictions, Contrary
+  forma    FORMAL, Formal, Formalen, Formalisierung, Formalisierungsversuche
+  inter    Interdependenz, Internalisierung, Internet, Interpretation, Interpretationen
+  model    Modell, Modellbildung, Modellierung, Modellierungen, Modellierungsansätze
+  objek    Objekt, Objekten, Objektmerkmal, Objekts, Objektsprache
+  philo    Philosophie, Philosophien, Philosophische, Philosophy, PhilosophyofScience
+  schlu    Schluss, Schlussfolgerung, Schlussfolgerungen, Schlussregel, Schlussregeln
+  seman    Semantic, Semantik, Semantiken, Semantische, Semantischer
+  syste    SYSTEMS, System, Systeme, Systemen, Systems
+  trivi    Trivialisierung, Trivialisierungen, Trivialismus, Trivialität, Trivialitäten
+  wahrh    Wahrheit, Wahrheitsprädikate, Wahrheitsstatus, Wahrheitswert, Wahrheitswerte
+  wisse    Wissensbasen, Wissenschaft, Wissenschaftliche, Wissenschaftsgeschichte, Wissenssysteme
+  anwen    Anwendung, Anwendungen, Anwendungsbereich, Anwendungsfällen
+  grund    Grundidee, Grundlage, Grundlagen, Grundprinzipien
+  haupt    Hauptansatz, Hauptmotivation, Hauptvertreter, Hauptziel
+  impli    Implikation, Implikationen, Implikationsparadoxien, Implikationspfeil
+  incon    INCONSISTENT, Inconsistency, Inconsistent, InconsistentBoundaries
+  inkon    Inkonsistente, Inkonsistenz, Inkonsistenzen, Inkonsistenzoperator
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Disj < Disjunktion
+  Disj < Disjunktiver
+  Disj < Disjunktionseinführung
+  Eine < Seine
+  Form < FORMAL
+  Form < Formal
+  Form < Formel
+  Form < Formen
+  Form < Formeln
+  Form < Formalen
+  Form < Informatik
+  Form < Information
+  Form < Informationen
+  Form < Formalisierung
+  Form < Informationsmengen
+  Form < Informationssysteme
+  Form < Formalisierungsversuche
