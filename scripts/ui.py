@@ -939,7 +939,8 @@ def export(checks: bool = True) -> dict:
         "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript, "novel": novel,
         "invariants": table_after("## 0 · Invariants"), "commands": table_after("## The commands, as combinations"),
         "phases": phases, "missing": missing,
-        "checks": run_invariants(measured) if checks else [], "selftests": run_selftests() if checks else [],
+        "checks": run_invariants(measured) if checks else [],
+        "selftests": run_selftests() if checks else [["not run", name, "Not run in this static build — python3 scripts/selftests.py"] for name, _, _ in selftests.SUITES],
         "graph": {"nodes": gnodes, "edges": gedges, "types": types, "w": GRAPH_W, "h": GRAPH_H,
                   "unread": {"docs": sorted(n.split(":", 1)[1] for n in unread),
                              "edges": sum(1 for e in g["edges"]

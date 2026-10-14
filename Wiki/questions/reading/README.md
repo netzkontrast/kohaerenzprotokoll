@@ -1,6 +1,6 @@
 # Lesefragen aus den Begriffsseiten
 
-Diese Fragenentwürfe ergänzen die bestehenden offenen Fragen Q1–Q9. Sie stellen
+Diese Fragenentwürfe ergänzen die bestehenden Fragen Q1–Q9. Sie stellen
 keine neuen Konfliktbefunde fest und behaupten nicht, dass ihre Antworten fehlen.
 Der Antwortstand ist **ungeprüft**. Bestehende Autorentscheidungen gewinnen.
 
@@ -27,8 +27,8 @@ Der Ursprungsterm hat genau seinen eigenen Vorrat; die Checkbox in der UI zeigt
 zusätzlich Fragen anderer Vorräte, die ihn als Vergleichspartner nennen.
 
 Die UI kann Fragen durchsuchen, eingrenzen und exportieren. Notizen und der
-Arbeitsstand **„Lokal beantwortet“** bleiben im Browser; sie ändern weder diese
-Dateien noch den Kanon. „Alle Notizen sichern“ exportiert auch Notizen, die der
+Arbeitsstand **Lokal beantwortet** bleiben im Browser; sie ändern weder diese
+Dateien noch den Kanon. **Alle Notizen sichern** exportiert auch Notizen, die der
 aktuelle Filter ausblendet. Ein Prüfauftrag verweist auf ID und Repo-Datei und
 kopiert keine Quellenpassagen. Agents erhalten denselben Vorrat in
 `agents/reading-questions.json` und die einzelnen Adressen im Agent-Index.

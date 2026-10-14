@@ -24,5 +24,8 @@
   c.state = { screen: 'questions', qt: 'reading', rt: 'aegis', rqi: 'RQ-aegis-100' };
   const back = c.unroute(c.route()); expect(back.rqi === 'RQ-aegis-100' && back.rqpage === 3, 'a deep link opens its question and page');
   const base = c.unroute('#/wiki/aegis'); expect(base.wview === null, 'browser history does not leak the previous wiki layer');
+  const original = d.selftests; d.selftests = [['not run', 'fixture', 'no run']];
+  expect(c.renderVals().railChecks.find((x) => x.label === 'Self-tests').dot === '#9A9384', 'a skipped test is unknown, never a green pass');
+  d.selftests = original;
   console.log(JSON.stringify(failures));
 })();

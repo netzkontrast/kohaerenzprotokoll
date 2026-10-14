@@ -195,7 +195,10 @@ skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 
 ## Additional reading questions
 
-`reading_questions.py check|show <term>|selftest` checks and reads the proposed
+`reading_questions.py` (`check`, `show <term>`, `selftest`) checks and reads the proposed
 per-term question banks in `Wiki/questions/reading/`. The app shows these separately
 from unresolved Q records. Topic selection and comparison partners are editorial;
 counts, references and identity are checked offline.
+
+`ui_reading_fixture.js` exercises the question filters, pagination, local notes,
+exports, deep links and the wiki promotion views against the real UI component.

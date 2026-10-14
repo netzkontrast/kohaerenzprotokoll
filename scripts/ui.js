@@ -651,6 +651,7 @@ class Component extends DCLogic {
 
     const held = D.selftests.filter((x) => x[0] === 'held').length;
     const failed = D.selftests.filter((x) => x[0] === 'FAILED').length;
+    const unrun = D.selftests.filter((x) => x[0] === 'not run').length;
     const chk = (label, val, ok) => ({ label: label, val: val, dot: ok === true ? '#2B4C8C' : ok === false ? '#B0341E' : '#9A9384', fg: ok === false ? '#B0341E' : '#4A463E' });
     const prose = D.checkBy['scripts/state.py --prose'];
     const proseN = prose ? parseInt(prose[2], 10) : NaN;
@@ -659,7 +660,7 @@ class Component extends DCLogic {
       chk('Prose numbers', isNaN(proseN) ? '—' : proseN + ' stale', isNaN(proseN) ? null : proseN === 0),
       chk('Judgements', V('judgements.disagree') + ' disagree', V('judgements.disagree') === 0),
       chk('Quotations', V('quotes.unresolved') + ' unresolved', V('quotes.unresolved') === 0),
-      chk('Self-tests', held + '/' + D.selftests.length + ' held', failed === 0),
+      chk('Self-tests', held + '/' + D.selftests.length + ' held' + (unrun ? ' · ' + unrun + ' not run' : ''), failed ? false : unrun ? null : true),
     ];
     const goChecks = () => this.go('process', { ptab: 'checks' });
 
