@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 32
-readings: 31
+sources: 33
+readings: 32
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung", "konzept-expose-schwarzschild-protokoll-optimierung", "narrative-entropie-existenzielle-bedrohung-des-romans", "narrative-physik-attraktoren-leserbewusstsein"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung", "konzept-expose-schwarzschild-protokoll-optimierung", "narrative-entropie-existenzielle-bedrohung-des-romans", "narrative-physik-attraktoren-leserbewusstsein", "plot-blueprint-methodik-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -62,6 +62,10 @@ The essay names it „Hypothese der Negentropie-Fehlinterpretation“ ^[aegis-an
 ## Reading — `kohaerenz-protokoll-konzeptionelle-ausarbeitung`, 2025-04-19, the conceptual report on the protocol — negentropy as an operative function and a borrowed analogy
 
 The conceptual report describes an abstract construct for any system and names no figure, place or event of the novel. It lists extraction of order as an operative function: „Das Identifizieren und Aufnehmen von Mustern, Strukturen oder Ressourcen“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L225] from the environment. In its tension between boundary and openness it says „Ein vollständig geschlossenes System kann keine Negentropie“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L230] extract. Among its discipline comparisons it borrows the frame as an analogy: „Dissipative Strukturen und das Konzept der Negentropie“ ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:L276].
+
+## Reading — `plot-blueprint-methodik-kohaerenz-protokoll`, 2025-04-20, the plot-blueprint method handbook — Negentropie as inner order
+
+The plot-blueprint method handbook proposes linking Kael's fragmentation to „Kaels innerer Fragmentierung und Trauma-Loops“ ^[plot-blueprint-methodik-kohaerenz-protokoll.md:L196] and a state of high psychological entropy that integration reduces, through the „Schaffung innerer Ordnung/Negentropie“ ^[plot-blueprint-methodik-kohaerenz-protokoll.md:L196]. Recorded, not applied.
 
 ## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — Negentropie as the plan's Kap 37 concept
 
