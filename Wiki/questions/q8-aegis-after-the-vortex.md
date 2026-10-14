@@ -928,3 +928,11 @@ Where it stands in the record's own terms: an argument, recorded, not applied; t
 After the climax: „AEGIS ist entweder unwiderruflich verändert“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L223] (fragmented, restricted in function), neutralised, or contained so that its threat ends.
 
 Where it stands in the record's own terms: a proposal among beats marked as examples, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-plot-entwicklungsauftrag`, 2025-04-23, the M/Kael plot blueprint
+
+**The M/Kael plot blueprint leaves AEGIS's end open between three outcomes: collapse, transformation, restart.**
+
+It introduces them with „Mehrere Ausgänge sind denkbar“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L226]. Collapse: „Das System fragmentiert und löst sich möglicherweise im Chaos des Potentialmeers auf“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L228]. Transformation: „Es könnte gezwungen sein, seine negative Selbstdefinition aufzugeben“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L229]. Restart: „Es könnte das Experiment abbrechen, die Kernwelten auflösen und eine völlig neue Strategie im Umgang mit M entwickeln“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L230]. Part VIII asks only that the result be made concrete: „Das Ergebnis der Klimax für AEGIS wird konkretisiert“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L248].
+
+Where it stands in the record's own terms: a proposal among conditionals, recorded, not decided; the question stays open.
