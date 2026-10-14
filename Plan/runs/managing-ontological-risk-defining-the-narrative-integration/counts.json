@@ -1,0 +1,376 @@
+{
+  "document": "managing-ontological-risk-defining-the-narrative-integration",
+  "drive_id": "1WWV58uKB7W-C8HTuhLa2B6zI3vsbeRjAG-x-2kytMss",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kohärenz durch Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kohärenz durch Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        70
+      ]
+    },
+    "Kael": {
+      "n": 33,
+      "n_including_compounds": 33,
+      "lines": [
+        11,
+        15,
+        19,
+        24,
+        25,
+        26,
+        28,
+        30,
+        32,
+        35,
+        37,
+        39,
+        40,
+        41,
+        43,
+        47,
+        54,
+        56,
+        58,
+        60,
+        62,
+        63,
+        64,
+        66,
+        70
+      ]
+    },
+    "AEGIS": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        15,
+        24,
+        25,
+        26,
+        34,
+        40,
+        41,
+        47,
+        52,
+        53,
+        54,
+        56,
+        62,
+        64
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Das Fundament": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        15,
+        19,
+        32,
+        37,
+        40,
+        47,
+        60,
+        70
+      ]
+    },
+    "Fundament Artefacts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        62
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "ontologischer Exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "sub-protokollarische Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Inner Council": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Dance of the Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Gnosis Protocol": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        28,
+        30,
+        32,
+        70
+      ]
+    },
+    "Gnosis": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        24,
+        28,
+        30,
+        32,
+        35,
+        37,
+        43,
+        60,
+        64,
+        70
+      ]
+    },
+    "Episteme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        34
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Earned Revelation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        26,
+        28
+      ]
+    },
+    "Unearned Intervention": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        28
+      ]
+    },
+    "Threat Vector": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        23
+      ]
+    },
+    "Strategic Mitigation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Artefact Type": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "acousmatic harmony": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        63
+      ]
+    },
+    "pre-gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "living Gödel-sentence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        64
+      ]
+    },
+    "dialetheischer Geist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "dialetheic": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        62,
+        64
+      ]
+    },
+    "anti-dialetheic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        64
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        15,
+        17,
+        70
+      ]
+    },
+    "DEM": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        19
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "co-consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "classical logic": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        34,
+        40,
+        56,
+        64
+      ]
+    }
+  }
+}

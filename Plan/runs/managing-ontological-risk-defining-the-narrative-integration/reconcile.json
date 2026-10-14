@@ -1,0 +1,119 @@
+{
+  "document": "managing-ontological-risk-defining-the-narrative-integration",
+  "drive_id": "1WWV58uKB7W-C8HTuhLa2B6zI3vsbeRjAG-x-2kytMss",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-479/brief.md, 2026-10-14; the document was first held by the privacy screen on the word foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 41,
+    "decisions": 39,
+    "decided_by_lookup": 29,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English strategy report on how ‘Das Fundament’ enters the story without a Deus ex Machina: its new surfaces are the Gnosis Protocol, its artefact types and the borrowed concepts; what it proposes for Kael, AEGIS, the alters, Juna, the Moonshine-Link, the Risse and TSDP went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        34,
+        41,
+        56,
+        64
+      ],
+      "attribution": "",
+      "note": "AEGIS as the classical-logic system, its Episteme, its blindness and the climax it must face"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "co-consciousness among Kael's internal alters"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "Juna/V in the formation of the Moonshine-Link"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        19,
+        35,
+        39,
+        40,
+        43,
+        62,
+        64
+      ],
+      "attribution": "",
+      "note": "Kael's earned Gnosis as the resolution, and the prerequisites and stages the report prescribes"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "a non-local connection with Juna/V, invisible to AEGIS"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        56,
+        62
+      ],
+      "attribution": "",
+      "note": "the Risse as the analogy for the Fundament artefacts"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "functional multiplicity grounded in TSDP"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` read on juna; `Kohärenz durch Negation` and `Kohärenz durch Integration` read on aegis and kael, `Kohärenz` an occurrence; the logician's name never written",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title „Kohärenz Protokoll“ and the two worldview formulas, read on kael and aegis"
+    }
+  ],
+  "not_promoted": [
+    "Das Fundament, Fundament Artefacts, Gnosis Protocol, Gnosis, Episteme, pre-gnosis, Earned Revelation, Unearned Intervention, Inner Council, Dance of the Parts, acousmatic harmony, dialetheischer Geist, and the borrowed concepts"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
