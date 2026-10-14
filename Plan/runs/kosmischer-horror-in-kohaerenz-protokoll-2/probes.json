@@ -1,0 +1,245 @@
+{
+  "document": "kosmischer-horror-in-kohaerenz-protokoll-2",
+  "drive_id": "1bXoBmSvaQQRiEsxYRK-9n04PYT12YtZQVwgVXHbopSs",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 60,
+  "backslash_escapes": 48,
+  "typographic_marks": 35,
+  "ascii_quotes": 30,
+  "inflection_families": {
+    "verst": [
+      "Verstand",
+      "Verstandes",
+      "Verständnis",
+      "Verständnismöglichkeiten",
+      "Verständnisses",
+      "Verstärkung",
+      "Verstörende"
+    ],
+    "fremd": [
+      "Fremdartige",
+      "Fremdartigkeit",
+      "Fremde",
+      "Fremden",
+      "Fremder",
+      "Fremdkörper"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzielle"
+    ],
+    "exist": [
+      "Existential",
+      "Existenz",
+      "Existenzebene",
+      "Existenzielle",
+      "Existenzieller"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradigmas",
+      "Paradoxe",
+      "Paradoxie",
+      "Paradoxien"
+    ],
+    "rahme": [
+      "Rahme",
+      "Rahmen",
+      "Rahmens",
+      "Rahmenwerk",
+      "Rahmenwerke"
+    ],
+    "reali": [
+      "Realisierung",
+      "Realität",
+      "Realitäten",
+      "Realitätsfehler",
+      "Realitätsverständnis"
+    ],
+    "ander": [
+      "Andere",
+      "Anderen",
+      "Anderes",
+      "Anders"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfragmente",
+      "Datenprotokolle",
+      "Datenpunkt"
+    ],
+    "horro": [
+      "Horror",
+      "Horrorbilder",
+      "Horrorfilm",
+      "Horrors"
+    ],
+    "inter": [
+      "Interessen",
+      "Intern",
+      "Internalisierte",
+      "International"
+    ],
+    "mensc": [
+      "Menschen",
+      "Menschheit",
+      "Menschliche",
+      "Menschlichkeit"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzanalyse",
+      "Resonanzpunkt",
+      "Resonanzpunkte"
+    ],
+    "besch": [
+      "Beschreibe",
+      "Beschreibung",
+      "Beschreibungen"
+    ],
+    "defin": [
+      "Definiert",
+      "Defining",
+      "Definition"
+    ],
+    "detai": [
+      "Detailanalyse",
+      "Detaillierte",
+      "Details"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "dimen": [
+      "Dimension",
+      "Dimensionen",
+      "Dimensions"
+    ],
+    "eleme": [
+      "Elemente",
+      "Elementen",
+      "Elements"
+    ],
+    "enthü": [
+      "Enthülle",
+      "Enthüllung",
+      "Enthüllungen"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentiertes",
+      "Fragmentierung"
+    ],
+    "gleic": [
+      "Gleichgültigen",
+      "Gleichgültiges",
+      "Gleichgültigkeit"
+    ],
+    "infor": [
+      "Informationen",
+      "Informationsvermittlung",
+      "Informationsüberflutung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsauftrag",
+      "Integrationsprozess"
+    ],
+    "kernw": [
+      "Kernwahrheiten",
+      "Kernwelt",
+      "Kernwelten"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Codex"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Film",
+      "Horrorfilm"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsvermittlung"
+    ],
+    [
+      "Form",
+      "Informationsüberflutung"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernideen"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernstärken"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ]
+  ]
+}

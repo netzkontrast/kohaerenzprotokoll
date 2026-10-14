@@ -1,0 +1,14 @@
+# kosmischer-horror-in-kohaerenz-protokoll-2
+  lines                235  (frontmatter ends at 9)
+  body words           4303
+  headings             2   bold-only lines 24
+  table rows           11   code fences 0
+  question marks       19
+  backslash escapes    48
+  typographic marks    35   ascii quotes 30
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    60
+  repeated labels      none
+  longest line         1044 chars
+

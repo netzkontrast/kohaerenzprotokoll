@@ -1,0 +1,57 @@
+{
+  "document": "kosmischer-horror-in-kohaerenz-protokoll-2",
+  "drive_id": "1bXoBmSvaQQRiEsxYRK-9n04PYT12YtZQVwgVXHbopSs",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — a second version of kosmischer-horror-in-kohaerenz-protokoll (read as ingest 456); first held by the privacy screen on the word Shadows (a reference title) and released with the first version",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 35,
+    "decisions": 37,
+    "decided_by_lookup": 29,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A second version of the cosmic-horror analysis: the same principles, table, strategies and guidelines, so the first version's readings stand and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a light pass: the read version's decisions stand — `Kaels` the genitive, not the dwelling; `Tonale Kohärenz` the document's own term; `Simulation` the simulated reality; genres named after people never written",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title, as in the first version"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 187,
+      "decision": "occurrence",
+      "why": "the simulated reality, as in the first version"
+    }
+  ],
+  "not_promoted": [
+    "as for the first version — Kernkonflikt, Wissensgrenzen, Verstärkung, NZT-Direktive, Nutzeranfrage, Tonale Kohärenz, the genre principles and the borrowed concepts"
+  ],
+  "internal_tension": "as in the first version: the K-J connection a source of disturbance and of resilience — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
