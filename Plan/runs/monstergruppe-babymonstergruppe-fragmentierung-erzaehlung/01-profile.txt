@@ -1,0 +1,14 @@
+# monstergruppe-babymonstergruppe-fragmentierung-erzaehlung
+  lines                254  (frontmatter ends at 9)
+  body words           4924
+  headings             2   bold-only lines 10
+  table rows           45   code fences 0
+  question marks       19
+  backslash escapes    53
+  typographic marks    103   ascii quotes 6
+  invisible characters U+200Bx23
+  math symbol lines    2
+  glued ref numbers    76
+  repeated labels      none
+  longest line         1519 chars
+

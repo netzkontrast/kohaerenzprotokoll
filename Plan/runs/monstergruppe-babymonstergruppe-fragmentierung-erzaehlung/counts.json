@@ -1,0 +1,595 @@
+{
+  "document": "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
+  "drive_id": "1xtqVR0xPw1kRwRCHmq0lstgDxkrtsYq20Wp0jbIJgkM",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 12,
+      "n_including_compounds": 33,
+      "lines": [
+        15,
+        26,
+        50,
+        73,
+        105,
+        123,
+        125,
+        127,
+        131,
+        132,
+        137,
+        149,
+        153,
+        154,
+        155,
+        156,
+        174,
+        179,
+        180,
+        181,
+        183,
+        192,
+        193,
+        194,
+        195,
+        200,
+        201,
+        206,
+        207
+      ]
+    },
+    "Juna": {
+      "n": 16,
+      "n_including_compounds": 21,
+      "lines": [
+        15,
+        50,
+        73,
+        105,
+        123,
+        125,
+        127,
+        132,
+        137,
+        174,
+        180,
+        181,
+        182,
+        194,
+        206,
+        207
+      ]
+    },
+    "Monstergruppe (M)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        19,
+        29,
+        82
+      ]
+    },
+    "Babymonstergruppe (B)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        45,
+        53,
+        82
+      ]
+    },
+    "Monstergruppe": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        15,
+        19,
+        22,
+        29,
+        71,
+        82,
+        95,
+        147,
+        205
+      ]
+    },
+    "Babymonstergruppe": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        15,
+        28,
+        45,
+        48,
+        52,
+        53,
+        71,
+        82,
+        92,
+        205
+      ]
+    },
+    "Kernmetapher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Entfernung": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        11,
+        15,
+        92,
+        95,
+        96,
+        97,
+        103,
+        105,
+        110,
+        122,
+        123,
+        136,
+        137,
+        145,
+        174,
+        205,
+        206
+      ]
+    },
+    "Fragmentierung": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        11,
+        15,
+        16,
+        26,
+        107,
+        111,
+        125,
+        131,
+        137,
+        138,
+        154,
+        164,
+        174,
+        181,
+        206,
+        207
+      ]
+    },
+    "Kohärenz": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        15,
+        16,
+        105,
+        107,
+        122,
+        143,
+        165
+      ]
+    },
+    "Verlust von Juna": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        105,
+        123,
+        137,
+        181,
+        206
+      ]
+    },
+    "Alter": {
+      "n": 8,
+      "n_including_compounds": 15,
+      "lines": [
+        117,
+        123,
+        142,
+        144,
+        156,
+        181,
+        182,
+        183,
+        196,
+        198,
+        199
+      ]
+    },
+    "Alter-Zustände": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        117,
+        142,
+        144,
+        198
+      ]
+    },
+    "Nebenklassenraum": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        102,
+        105,
+        115,
+        183,
+        196,
+        205,
+        206
+      ]
+    },
+    "Nebenklassenraum M/H": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        196
+      ]
+    },
+    "M-Aktion": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        102,
+        117,
+        144,
+        183,
+        198
+      ]
+    },
+    "M-Set": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        137
+      ]
+    },
+    "doppelte Überlagerung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        50,
+        73,
+        86,
+        90,
+        205
+      ]
+    },
+    "Happy Family": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        27,
+        28,
+        41,
+        75,
+        131,
+        154
+      ]
+    },
+    "Pariahs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Fischer-Griess Monster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Friendly Giant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Kaels Innenwelt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        179,
+        181,
+        201
+      ]
+    },
+    "Kaels Psyche": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        149,
+        153,
+        155,
+        156,
+        200
+      ]
+    },
+    "Proto-Identitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Wechsel-Trigger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Verlust der Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Verlust der globalen Operation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "wahrgenommene Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Zentralisatoren als interne Perspektiven": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Konkurrierende interne Strukturen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Multiple Identitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Amnesie/Gedächtnislücken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Trauma-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Verkörperung von Altern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Narrativer Bogen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Zonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        52,
+        155
+      ]
+    },
+    "Schur-Multiplikator": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        24,
+        42,
+        50,
+        65,
+        86
+      ]
+    },
+    "Subquotient": {
+      "n": 3,
+      "n_including_compounds": 8,
+      "lines": [
+        28,
+        41,
+        70,
+        71,
+        89,
+        101,
+        131
+      ]
+    },
+    "Zentralisator": {
+      "n": 10,
+      "n_including_compounds": 15,
+      "lines": [
+        72,
+        73,
+        75,
+        90,
+        95,
+        122,
+        123,
+        132,
+        156,
+        205
+      ]
+    },
+    "Normalteiler": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        22,
+        28,
+        71,
+        95
+      ]
+    },
+    "Quotientengruppe": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        95,
+        97,
+        116
+      ]
+    },
+    "einfache Gruppe": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        22,
+        48,
+        50,
+        84,
+        95,
+        122,
+        131
+      ]
+    },
+    "maximale Untergruppe": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        73,
+        90,
+        123,
+        131,
+        182,
+        199
+      ]
+    },
+    "Untergruppenverband": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        154,
+        168
+      ]
+    },
+    "Involution": {
+      "n": 2,
+      "n_including_compounds": 17,
+      "lines": [
+        73,
+        75,
+        90,
+        95,
+        110,
+        123,
+        156,
+        205
+      ]
+    },
+    "Linksnebenklassen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Permutationsdarstellung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        102
+      ]
+    },
+    "Vertexoperatoralgebra": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Kompartmentalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "DID": {
+      "n": 12,
+      "n_including_compounds": 16,
+      "lines": [
+        15,
+        105,
+        116,
+        117,
+        123,
+        125,
+        138,
+        143,
+        144,
+        145,
+        156,
+        160,
+        174,
+        183,
+        206,
+        251
+      ]
+    }
+  }
+}
