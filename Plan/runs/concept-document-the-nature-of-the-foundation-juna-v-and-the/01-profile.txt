@@ -1,0 +1,14 @@
+# concept-document-the-nature-of-the-foundation-juna-v-and-the
+  lines                137  (frontmatter ends at 9)
+  body words           2290
+  headings             20   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    16
+  typographic marks    19   ascii quotes 98
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         672 chars
+
