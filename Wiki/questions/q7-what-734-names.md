@@ -490,3 +490,11 @@ Where it stands in the record's own terms: it names a trauma fragment; it says n
 Scene 1 reads: „Kael besucht die nun inerten Überreste von AEGIS“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166], and the dossier names „Unit 734“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166] among the agents. The agents run their old routines in „sinnlosen, repetitiven Schleifen“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166]. Kael does not destroy them: „Anstatt sie als Mahnmal seiner Unterdrückung zu zerstören, integriert Kael sie in seine Landschaft“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166].
 
 Where it stands in the record's own terms: it names an agent of AEGIS; a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `ki-rolle-aegis-genesis-fragestellungen`, 2025-11-28, the AEGIS-genesis research report
+
+**The AEGIS-genesis research report writes 734 as Kael in its English system prompt, as component and entity of AEGIS and as its former self.**
+
+In the prompt that addresses AEGIS, „Component 734 (Kael) is vital“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L302], and „The Subject: You hold Entity 734 (Kael) in containment.“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L319] Of the history it says: „734 was your Origin-Self. It touched the Void Entity (M/Juna) and resonated.“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L320] The prompt is the report's own construction for a language model.
+
+Where it stands in the record's own terms: 734 as a designation of Kael inside AEGIS, in a prompt of a research report; recorded, not applied and not decided.
