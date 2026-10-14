@@ -1,0 +1,226 @@
+{
+  "document": "projekt-kohaerenz-protokoll-narrative-dekonstruktion",
+  "drive_id": "19-ax4FA2YTkEVj1k99otyL8F1TFUlX4UwHOYwtrppJc",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 44,
+  "backslash_escapes": 22,
+  "typographic_marks": 128,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "erzäh": [
+      "Erzählens",
+      "Erzählstruktur",
+      "Erzähltheorie",
+      "Erzählung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungspunkte",
+      "Handlungszentralität",
+      "Handlungszusammenfassung"
+    ],
+    "leser": [
+      "Leser",
+      "Leserfrustration",
+      "Lesern",
+      "Lesers"
+    ],
+    "liter": [
+      "Literalisierung",
+      "Literary",
+      "Literaturkritik",
+      "Literaturtheorie"
+    ],
+    "metaf": [
+      "Metafiction",
+      "Metafictional",
+      "Metafiktion",
+      "Metafiktionale"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturalismus",
+      "Strukturelle",
+      "Strukturen"
+    ],
+    "theor": [
+      "Theoretische",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "verst": [
+      "Verstehen",
+      "Verständnis",
+      "Verständnisses",
+      "Verstärkt"
+    ],
+    "vertr": [
+      "Vertrag",
+      "Vertrags",
+      "Vertrauens",
+      "Vertrautheit"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analysis"
+    ],
+    "angel": [
+      "Angelpunkt",
+      "Angelpunkte",
+      "Angelpunkts"
+    ],
+    "bruch": [
+      "Bruch",
+      "Bruchlinien",
+      "Bruchpunkt"
+    ],
+    "erwar": [
+      "Erwartung",
+      "Erwartungen",
+      "Erwartungshaltung"
+    ],
+    "gesch": [
+      "Geschichte",
+      "Geschichten",
+      "Geschichtenerzählens"
+    ],
+    "inter": [
+      "Interaktionsmodus",
+      "Interpretation",
+      "Interpretationen"
+    ],
+    "proje": [
+      "Project",
+      "Projekt",
+      "Projekts"
+    ],
+    "schlü": [
+      "Schlüssel",
+      "Schlüsselprinzip",
+      "Schlüsseltropen"
+    ],
+    "subve": [
+      "Subversion",
+      "Subversionen",
+      "Subverting"
+    ],
+    "trope": [
+      "Trope",
+      "Tropen",
+      "Tropes"
+    ],
+    "unter": [
+      "Untergrabe",
+      "Untergraben",
+      "Unterschied"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenfassend"
+    ],
+    "autor": [
+      "Autor",
+      "Autoren"
+    ],
+    "bedeu": [
+      "Bedeutung",
+      "Bedeutungslosigkeit"
+    ],
+    "begri": [
+      "Begriff",
+      "Begriffen"
+    ],
+    "beisp": [
+      "Beispiel",
+      "Beispiele"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Aren",
+      "Paaren"
+    ],
+    [
+      "Böse",
+      "Bösewicht"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Wende"
+    ],
+    [
+      "Ende",
+      "Zugrundeliegende"
+    ],
+    [
+      "Fehl",
+      "Empfehlung"
+    ],
+    [
+      "Fehl",
+      "Empfehlungen"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formalismus"
+    ],
+    [
+      "Form",
+      "Trostformen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Gorn",
+      "Gorns"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Meta",
+      "Metaphysik"
+    ],
+    [
+      "Meta",
+      "Metafiction"
+    ],
+    [
+      "Meta",
+      "Metafiktion"
+    ],
+    [
+      "Meta",
+      "Metatextual"
+    ],
+    [
+      "Meta",
+      "Metafictional"
+    ]
+  ]
+}

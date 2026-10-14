@@ -1654,3 +1654,5 @@
 {"document": "juna", "page": "multiplizitaet", "surface": "Multiplizität", "line": 76, "decision": "occurrence", "why": "named in passing", "at": "2026-10-14"}
 {"document": "juna", "page": "risse", "surface": "Glitch", "line": 91, "decision": "reading", "why": "qualia as a Glitch for the protocol; read on risse", "at": "2026-10-14"}
 {"document": "juna", "page": "ueberwelt", "surface": "Simulation", "line": 87, "decision": "occurrence", "why": "the simulated reality, not the Überwelt", "at": "2026-10-14"}
+{"document": "projekt-kohaerenz-protokoll-narrative-dekonstruktion", "page": "kohaerenz", "surface": "Kohärenz", "line": 27, "decision": "occurrence", "why": "the project's title", "at": "2026-10-14"}
+{"document": "projekt-kohaerenz-protokoll-narrative-dekonstruktion", "page": "risse", "surface": "Risse", "line": 47, "decision": "occurrence", "why": "the differently built project's own heading, not the novel's Risse", "at": "2026-10-14"}
