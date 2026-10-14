@@ -514,3 +514,11 @@ Where it stands in the record's own terms: 734 as a designation of the Ich insid
 It retells: „Das ursprüngliche, suchende Fragment existiert nun als“ ^[genesis-logik-krise-zerstueckelung.md:L47] Komponente 734. It reads the figure: „Diese Entität symbolisiert das Fortbestehen des individuellen Bewusstseins und der Subjektivität innerhalb eines entpersönlichenden Systems.“ ^[genesis-logik-krise-zerstueckelung.md:L99] The first is a retelling of the analysed text, the second the analysis's own interpretation.
 
 Where it stands in the record's own terms: 734 as the original searching fragment, read as a symbol of persisting subjectivity, in an analysis of another text; recorded, not applied and not decided.
+
+## 2026-10-14 — `genesis-und-krise-ausfuehrliche-darstellung`, 2025-04-29, the Genesis narrative
+
+**The Genesis narrative tells the awakened fragment as existing now as Komponente 734, an identity defined by function and position in AEGIS's network; recorded.**
+
+It tells: „Das, was einst das suchende, fühlende Fragment war, existiert nun als Komponente 734.“ ^[genesis-und-krise-ausfuehrliche-darstellung.md:L45] and goes on: „Eine neue Identität, definiert durch Funktion und Position im Netzwerk von AEGIS.“ ^[genesis-und-krise-ausfuehrliche-darstellung.md:L45] Both are narration in a draft first-person text, not an analysis.
+
+Where it stands in the record's own terms: 734 as the former searching fragment, now a function in AEGIS's network, in a draft narrative; recorded, not applied and not decided.
