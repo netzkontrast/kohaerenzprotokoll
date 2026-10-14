@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -66,6 +66,10 @@ The tension-points analysis takes Kael's Personas as „modelliert nach psycholo
 ## Reading — `kael-uberarbeitung-des-konzepts-unter-tsdp`, 2025-04-28, the TSDP revision of Kael — the Personas re-mapped onto ANP and EP roles
 
 The TSDP revision proposes in section 3, headed Re-Mapping der `Personas` „auf ANP/EP-Rollen“ ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:L35], that the earlier Personas „werden nun primär als Manifestationen von ANPs und EPs“ ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:L37] interpreted (or complexes of them). In the profile the complexity of the Personas is explained by the dissociation „gekennzeichnet durch multiple ANPs und multiple EPs, was die Komplexität seiner“ ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:L22] Personas.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — the Personas distributed over the Kernwelten
+
+The logline analysis states Kael as „fragmentiert in Personas/Anteile über Kernwelten verteilt“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L80]. It proposes viewing them as parts with good intentions: „Seine Personas als 'Teile' mit potenziell positiven Absichten zu betrachten“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L82].
 
 ## Reading — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan — the Personas as AEGIS's isolated data caches
 
