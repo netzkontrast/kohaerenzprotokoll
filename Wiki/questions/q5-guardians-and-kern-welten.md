@@ -853,3 +853,11 @@ Stands: the concept pairs Guardians with worlds by a principle each, without cou
 Kap 5 plans „Guardian von KW1“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91), „Eine logische Entität, die die Grundregeln von KW1 verkörpert“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91). No other world gets one; the Kap 29 figure labelled „AEGIS Kern-Guardian“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L131] (L131) stands where „Dies ist keine der Kernwelten, sondern die fundamentale Struktur von AEGIS selbst“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L131] (L131).
 
 Stands as a plan placing one guardian in one world; recorded, not applied.
+
+## 2026-10-14 — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept
+
+**The comprehensive concept plans four Kernwelt-Guardians, one per focus world, not five.**
+
+The character list names „Kernwelt-Guardians: KI-Instanzen oder Manifestationen“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L73] as „Architekt, Netzweber, Chaos-Regulator, Möglichkeits-Weber“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L73], and the world lines pair them to `Co₁`, `McL`, `B` and `Ly` in that order.
+
+Stands as a plan placing four Guardians in four focus worlds; recorded, not applied.
