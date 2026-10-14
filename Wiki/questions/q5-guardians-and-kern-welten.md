@@ -869,3 +869,11 @@ Stands as a plan placing four Guardians in four focus worlds; recorded, not appl
 The table names `Logos-Prime` with „Formal Logic, Order, Control“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L54], `Mnemosyne-Archipel` with „Trauma-Time, Memory & Subjectivity“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L55], `Cerberus-Labyrinth` with „Defense, Paranoia & Dissociative Barriers“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L56] and `Kairos-Potentialis` with „Emergence, Potential, Transcendence“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L57]. Here the names stand for worlds.
 
 Where it stands in the record's own terms: the four names as Kernwelten in a concept document; recorded, not resolved.
+
+## 2026-10-14 — `from-monolith-to-mosaic-a-strategic-proposal-for-restructuri`, 2025-11-03, the mosaic proposal
+
+**The mosaic proposal names the four worlds Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis, with LogOS as the Guardian of KW1 and a Guardian of the bunker-fortress in KW3; recorded, not resolved.**
+
+The KW1 cell has „as LogOS, the Guardian,“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L67] act against an inhabitant's perception (L67), and the KW3 cell begins „From the paranoid POV of a Guardian of the bunker-fortress“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L69] (L69). The KW2 and KW4 cells name no Guardian (L68, L70).
+
+Where it stands in the record's own terms: Guardians in two of four worlds in a proposal; recorded, not resolved.
