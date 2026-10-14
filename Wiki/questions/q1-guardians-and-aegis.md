@@ -590,3 +590,11 @@ Stands: the document records the Guardians as AEGIS's agents in the Kernwelten a
 As premise: „Die Interventionen verschlimmern die Instabilität“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L80], and „Einige Agenten beginnen möglicherweise, die Systemlogik in Frage zu stellen“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L81]. In Synopsis A it proposes: „Kael, unterstützt von abtrünnigen Guardians, dringt zum logischen Kern von AEGIS vor“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L248].
 
 Stands as one more position on how the Guardians stand to AEGIS; recorded, not applied.
+
+## 2026-10-14 — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft
+
+**The detailed plot draft makes the Guardians AEGIS's, as the analogue of protector parts, and gives KW1 a logical guardian.**
+
+The text reads „AEGIS' Guardians oder Herausforderungen in den Kernwelten“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L27] (L27), and Kap 5 plans „Guardian von KW1“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91), „Eine logische Entität, die die Grundregeln von KW1 verkörpert“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91).
+
+Where it stands: a plan, recorded, not applied; the question stays open.
