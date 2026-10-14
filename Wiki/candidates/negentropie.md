@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 28
-readings: 27
+sources: 29
+readings: 28
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung"]
 gathered: "2026-09-16"
 ---
 
@@ -118,6 +118,10 @@ At L56 the locked blueprint makes AEGIS's reading of healing the loop's trigger:
 ## Reading — `an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko`, 2025-10-15, the psycho-systemic analysis — The Negentropie-Fehlinterpretation
 
 The psycho-systemic analysis names AEGIS's error the Negentropie-Fehlinterpretation (negentropy misinterpretation): its sensors „misinterpret this emergent complexity“ ^[an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko.md:L74] as a dangerous increase in chaos (entropy).
+
+## Reading — `roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung`, 2025-10-16, the epilogue dossier — gardening as negentropy against narrative entropy
+
+The epilogue dossier proposes that Kael's gardening is negentropic: it defines „Negentropie, in der Informationstheorie, bezeichnet die Zunahme von Komplexität, Ordnung und Information“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L118], and says „Indem Kael bewusst Schönheit, Komplexität und subtile Bedeutung schafft, wirkt er der natürlichen Tendenz zum narrativen Zerfall entgegen“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L118]. The pact with the creator-observer is stated as an exchange: „Der Pakt lautet also“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L120] that Kael delivers negentropy as meaningful complexity and beauty, and the creator-observer delivers attention. The term occurs on four lines in all (L26, L118, L120, L223), the list of frameworks among them.
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
 
