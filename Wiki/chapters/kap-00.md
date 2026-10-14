@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 24
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "roman-outline-fuer-kohaerenz-protokoll", "roman-plot-entwicklung-und-kohaerenz-analyse", "roman-outline-kohaerenz-protokoll-uberarbeitung", "tropen-konzepte-fuer-kohaerenz-protokoll", "roman-outline-kohaerenz-protokoll-strategie", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+sources: 25
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "roman-outline-fuer-kohaerenz-protokoll", "roman-plot-entwicklung-und-kohaerenz-analyse", "roman-outline-kohaerenz-protokoll-uberarbeitung", "tropen-konzepte-fuer-kohaerenz-protokoll", "roman-outline-kohaerenz-protokoll-strategie", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 records: ["C3", "C10", "C12", "C7", "C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -126,6 +126,10 @@ Title: „Kapitel 0 — Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-20
 - Seam to Kap 1: „der sich gleich in eine Konstrukt-Stadt erwachen wird, wo die Temperatur immer einundzwanzig Grad ist und manchmal die Luft nach Ozon riecht" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501] · „Sein Name wird Kael sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505]
 - Ending: „Ich falle." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L509] „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513]
 
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13, the speech-DNA manual of 2026-05-13 — Kap 0 as the home of the narrator voice (Genesis prologue)
+
+the speech-DNA manual of 2026-05-13, a consolidated reference of voice profiles, style levels and act modes, heads the narrator entry „Erzähler-Stimme (Kap 0, Kap 40, vereinzelte Übergänge)“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L27]. It places that voice in Kap 0: „Erscheint im Genesis-Prolog und in der Coda, vereinzelt an Akt-Übergängen.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L29] and allows „Direkte Leser-Adressierung erlaubt.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L29] For the coda it sets the return of the same voice: „Erzähler-Stimme von Kap 0 kehrt wieder, jetzt bezeugend.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L205] Recorded, not canon.
+
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft
 
 Title: „Einleitung: Genesis der Existenz" ^[kap0-v1-annotiert-md.md:L29]
@@ -248,6 +252,7 @@ The terms-and-concepts companion, an explanatory glossary that calls itself „e
 - The sensory drafting manual sets Kap 0 as a Genesis chapter whose five first events are only echoed structurally later, and gives the reader „Genesis vollständig“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L581] there.
 - The parts-profiles and speech-DNA manual flags a possible conflict between Alex's origin and presence in Kap 0 and leaves it open.
 - The terms-and-concepts companion places the full Genesis in Kap 0, with the ankle thread living „in Kap 0 allein“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638], and the reader knowing AEGIS from there.
+- the speech-DNA manual of 2026-05-13 sets Kap 0 as the Genesis prologue carried by the narrator voice, which „kehrt wieder, jetzt bezeugend.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L205] in the coda.
 
 ## Questions for this chapter
 

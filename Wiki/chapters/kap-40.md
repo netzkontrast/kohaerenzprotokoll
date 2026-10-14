@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 20
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "fragen-zu-existenz-agency-und-realitaet", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+sources: 21
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "fragen-zu-existenz-agency-und-realitaet", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -109,6 +109,10 @@ Title: „Kapitel 40 — Geheilte Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-
 - Juna: „Juna war nicht in der Welt. Sie war die Bewegung, die Welt erst möglich machte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L87]
 - Formula: „*Wir-AEGIS sind, was Wir-AEGIS bewahren, dass es ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
 - Last image: „Wir tragen die Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123] · „Liebe bleibt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L135] „Wie der Schmerz." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L139] · „Das Universum hält. Wir sind die, die es halten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L147]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13, the speech-DNA manual of 2026-05-13 — Kap 40 as the witnessing coda of the narrator voice
+
+the speech-DNA manual of 2026-05-13 sets for the narrator voice: „Im Kap 40 bezeugend, nicht auflösend.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L29] Its coda entry places the return: „Erzähler-Stimme von Kap 0 kehrt wieder, jetzt bezeugend.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L205] and sets the mood „Bittersüß, ruhig, geheilt — aber ohne Erklärung.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L205] The narrator entry's heading also lists the chapter: „Erzähler-Stimme (Kap 0, Kap 40, vereinzelte Übergänge)“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L27]. Recorded, not canon.
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the concept's Kap 40, questioned
 
