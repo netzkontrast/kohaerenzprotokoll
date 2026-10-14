@@ -651,3 +651,11 @@ Where it stands in the record's own terms: Kael from AEGIS's split self, as a pr
 In a theory field the work order proposes that the Ursprungs-Ich „Das Ursprungs-Ich könnte in mehrere distinkte“ ^[aegis-genesis-krise-prosa-auftrag-2.md:L266] alters fall apart, and names Kael „(Kael ist einer davon)“ ^[aegis-genesis-krise-prosa-auftrag-2.md:L266]. The commission ends with the seventh step, which asks for „Enger Fokus auf das entstehende Kael-Fragment“ ^[aegis-genesis-krise-prosa-auftrag-2.md:L555], after a sixth step that describes the partitioning as „eine erzwungene Amnesie/Dissoziation“ ^[aegis-genesis-krise-prosa-auftrag-2.md:L554]. The origin lies on the AEGIS side, as a split self, and is a plan for prose.
 
 Where it stands in the record's own terms: Kael from AEGIS's split self, as a proposal of a work order; recorded, not applied and not decided.
+
+## 2026-10-14 — `ki-antagonist-fragmentierte-gottheit-analyse`, 2025-10-16, the fragmented-deity psychogram
+
+**The fragmented-deity psychogram proposes that the [[guardians|Guardians]] are fragments of AEGIS's own Ursprungs-Ich, and offers Kael's reunion with AEGIS as one ending.**
+
+The Guardians are „Fragmente des ursprünglichen“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L84] Ursprungs-Ich code, and are legacy code „Die isolierten Wächter-EPs sind, wie bereits erwähnt,“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L151] from it. In a crisis, in the third scenario, „ihr gemeinsamer Ursprung“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L186] of Kael and AEGIS creates a resonance. The ending is hedged: „Vielleicht ist der einzige Weg, AEGIS zu heilen, dass Kael sich mit ihm“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L199] reunites, leading to „einer wahren Integration der beiden Hälften des“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L199] Ursprungs-Ich. These are options for the creative team.
+
+Where it stands in the record's own terms: a shared origin of Kael and AEGIS, as an option of an analysis; recorded, not applied and not decided.
