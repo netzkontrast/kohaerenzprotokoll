@@ -1590,3 +1590,6 @@
 {"document": "kohaerenz-protokoll-monster-plot-entwicklung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
 {"document": "kohaerenz-protokoll-monster-plot-entwicklung", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 69, "decision": "occurrence", "why": "a level of reality in a general sense, not the named Realitätsebenen", "at": "2026-10-14"}
 {"document": "kohaerenz-protokoll-monster-plot-entwicklung", "page": "ueberwelt", "surface": "Simulation", "line": 29, "decision": "occurrence", "why": "one of AEGIS's methods, not the Überwelt", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-monster-plot-entwicklung-2", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title, as in the first export", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-monster-plot-entwicklung-2", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 69, "decision": "occurrence", "why": "a level of reality in a general sense, as in the first export", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-monster-plot-entwicklung-2", "page": "ueberwelt", "surface": "Simulation", "line": 29, "decision": "occurrence", "why": "one of AEGIS's methods, as in the first export", "at": "2026-10-14"}

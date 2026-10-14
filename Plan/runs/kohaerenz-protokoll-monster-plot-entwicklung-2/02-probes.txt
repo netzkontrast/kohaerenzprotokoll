@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      112
+  backslash escapes      84
+  typographic marks      78
+  ascii quotes           86
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabstürzen, Systemausfall, Systeme, Systemen, Systemfehler, Systemfehleranalysen, Systemfunktionen, Systeminstabilität, Systemintegrität, Systemische, Systemkohärenz, Systemressourcen, Systems, Systemtheorie, Systemwissenschaften
+  inter    Interaktion, Interaktionen, Interaktionsform, Interaktionsmuster, Interdependenz, Internal, Interne, Internet, Interozeption, Interventionen
+  parad    Paradigm, Paradigma, Paradigmas, Paradigmenwechsel, Paradox, Paradoxes, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  konze    Konzept, Konzepte, Konzepten, Konzeptintegration, Konzeption, Konzepts, Konzeptualisierung, Konzeptuell
+  quant    Quanta, Quanten, Quantenmechanik, Quantenphysik, Quantensystem, Quantenverschränkung, Quantenverschränkungs, Quantum
+  selbs    Selbst, Selbstbezug, Selbstführung, Selbstorganisation, Selbstreflexion, Selbstregulation, Selbstverifikation, Selbstverletzung
+  beoba    Beobachter, Beobachterabhängigkeit, Beobachtereffekt, Beobachtetem, Beobachteten, Beobachtung, Beobachtungen
+  daten    Daten, Datenanalyse, Datenbank, Datenerfassung, Datenkorruption, Datenmengen, Datenströme
+  integ    Integration, Integrationen, Integrations, Integrationsprozess, Integrationsprozesse, Integrationsreise, Integrierte
+  verst    Verstandenen, Verstehen, Verstehens, Verständnis, Verständnisses, Verstärkung, Verstöße
+  analy    Analyse, Analysemethoden, Analyseprozesse, Analysis, Analytische, Analytischen
+  erzäh    Erzählelemente, Erzählstimme, Erzählstruktur, Erzählung, Erzählungen, Erzählweise
+  fehle    Fehlen, Fehlentscheidungen, Fehler, Fehlermodi, Fehlern, Fehlerquellen
+  kontr    Kontrast, Kontrolle, Kontrollierten, Kontrollmaßnahmen, Kontrollmechanismen, Kontrollversuche
+  phäno    Phänomen, Phänomene, Phänomenen, Phänomenologie, Phänomenologische, Phänomens
+  wider    Widerlegung, Widersprüche, Widersprüchen, Widersprüchliche, Widerstand, Widerstandsfähigkeit
+  monst    Monster, Monstergruppe, Monsters, Monstrous, Monströse
+  proto    Protokoll, Protokollanwendung, Protokolle, Protokollen, Protokolls
+  reali    Realität, Realitätsebene, Realitätsebenen, Realitätsmodell, Realization
+  schat    Schatten, Schattenanteile, Schattenaspekte, Schattenaspekten, Schattenintegration
+  thema    Thema, Themas, Thematik, Thematische, Thematischer
+  arche    Archetypen, Archetypes, Archetypische, Archetyps
+  bewus    Bewusstheit, Bewusstsein, Bewusstseins, Bewusstwerden
+  chara    Charakteren, Charakterentwicklung, Charakterisierung, Charakterzug
+  gegen    Gegenargument, Gegensatz, Gegensätzen, Gegenwart
+
+# substring pairs -- never one term, often merged by accident
+  Arch < Research
+  Arch < Archetyps
+  Arch < Archetypen
+  Arch < Archetypes
+  Arch < Hierarchien
+  Arch < ResearchGate
+  Arch < Archetypische
+  Arch < Architekturen
+  BIOL < Biologie
+  BIOL < Neurobiologie
+  Beat < Beats
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Kleine
+  Eine < Grenzsteine
+  Form < Formaler
+  Form < Informatik
+  Form < Transformation

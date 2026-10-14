@@ -1,0 +1,78 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a plot blueprint in German with a bracketed marker [User Query II] and numbered footnote references glued to words. It names AEGIS, Kael, Juna, the K-J link and the Kernwelten, and applies many borrowed concepts as a mapping onto the plot. The six world names are headings of a bold-italic list; the borrowed concepts sit in the mapping matrix of section VII.
+
+- AEGIS
+- Kael
+- Juna
+- K-J
+- K-J-Verbindung
+- Kael-Juna-Verbindung
+- K-J-Anomalie
+- Kohärenz Protokoll
+- Kernwelten
+- Guardians
+- Alters
+- Risse
+- Abgrenzung
+- Kohärenz durch Abgrenzung
+- Kohärenz durch Integration
+- sub-protokollarische Resonanz
+- Monstergruppe
+- Monstrous Moonshine
+- Happy Family
+- Pariahs
+- Chaos-Welt
+- Quanten-Verschränkungs-Welt
+- Logik-Paradox-Welt
+- Autopoiesis-Welt
+- Liminalitäts-Welt
+- Gedächtnis-Welt
+- Verschränkungs-Welt
+- Paradox-Welt
+- Exilanten
+- Manager
+- Feuerlöscher
+- Selbst
+- Teufelskreise
+- Ontologischer Mismatch
+- Mysterium tremendum et fascinans
+- Tremendum
+- Fascinans
+- Testgelände für AEGIS
+- Akt I
+- Akt II
+- Akt III
+- Plot Point 1
+- Plot Point 2
+- Mittelpunkt
+- Konzept-zu-Narrativ-Mapping-Matrix
+- Konzept-Integrations-Matrix
+- Sicherer Hafen
+
+## lens
+
+- Internal Family Systems
+- IFS
+- Halting Problem
+- Gödelsche Mauer
+- Emergenz
+- Quantenverschränkung
+- Nichtlokalität
+- Autopoiesis
+- Symbiose
+- Irreduzible Komplexität
+- Heldenreise
+- Monomythos
+- Jungianische Archetypen
+- Schatten
+- Individuation
+- Polyvagal-Theorie
+- Somatic Experiencing
+- Bindungstheorie
+- Kybernetik zweiter Ordnung
+- Liminalität
+- Communitas
+- Chaostheorie
+- Intuition
+- Dauer
