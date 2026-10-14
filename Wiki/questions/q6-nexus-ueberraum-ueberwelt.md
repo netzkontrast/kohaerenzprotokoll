@@ -325,3 +325,11 @@ Stands on the side of one world under two names, in this plan; recorded, not app
 The Nexus stands in the title „Konfrontation im Nexus“ ^[kohaerenz-protokoll-plot-synthese-2.md:L88] (`Nexus` ^[kohaerenz-protokoll-plot-synthese-2.md:#2]), the climax of Part 2. The simulation is the frame analysis's entry „Die Simulation (Unsere Realität / Kernwelten)“ ^[kohaerenz-protokoll-plot-synthese-2.md:L23] Neither `Überraum` ^[kohaerenz-protokoll-plot-synthese-2.md:#0] nor `Überwelt` ^[kohaerenz-protokoll-plot-synthese-2.md:#0] stands in the document.
 
 Stands as the Nexus in one title and the simulation as Unsere Realität / Kernwelten; recorded, the question stays open.
+
+## 2026-10-14 — `physik-fuer-simulierte-realitaet`, 2025-04-26, the simulated-physics report
+
+**The simulated-physics report writes [[potentialmeer|Potentialmeer]]/Überwelt as one outer world or meta-reality that AEGIS shields the simulation from, and names neither the Nexus nor the Überraum.**
+
+The glossary reads „Die chaotische Außenwelt oder Meta-Realität, vor der AEGIS die Simulation schützt“ ^[physik-fuer-simulierte-realitaet.md:L28], and the title names the subject „Physikalische Indizien für eine Meta-Realität (AEGIS/Überwelt)“ ^[physik-fuer-simulierte-realitaet.md:L11]. `Nexus` ^[physik-fuer-simulierte-realitaet.md:#0] and `Überraum` ^[physik-fuer-simulierte-realitaet.md:#0] are not counted in the document.
+
+Stands as the Potentialmeer/Überwelt written as one outer world; its wording, recorded, the question stays open.
