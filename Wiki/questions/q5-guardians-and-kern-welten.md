@@ -877,3 +877,11 @@ Where it stands in the record's own terms: the four names as Kernwelten in a con
 The KW1 cell has „as LogOS, the Guardian,“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L67] act against an inhabitant's perception (L67), and the KW3 cell begins „From the paranoid POV of a Guardian of the bunker-fortress“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L69] (L69). The KW2 and KW4 cells name no Guardian (L68, L70).
 
 Where it stands in the record's own terms: Guardians in two of four worlds in a proposal; recorded, not resolved.
+
+## 2026-10-14 — `kohaerenz-protokoll-narrative-architekturanalyse`, 2025-07-29, the narrative architecture analysis
+
+**The narrative architecture analysis names four Kernwelten — Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis — and gives Guardians once, as an example of deadlocking subsystems; recorded, not resolved.**
+
+It lists „Logos-Prime (Rationalität/Host)“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L114], „Mnemosyne-Archipel (Erinnerung/ANPs)“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L115], „Cerberus-Labyrinth (Trauma/EPs)“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L116] and „Kairos-Potentialis (Integration/Zukunft)“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L117]. Guardians stand in its table of algorithm failures: „Zwei Subsysteme (z.B. Guardians) fordern gegenseitig Ressourcen an, um Kael zu kontrollieren“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L62]. It places no Guardian in a single world.
+
+Where it stands in the record's own terms: four named worlds and Guardians as an example in a strategy text; recorded, not resolved.
