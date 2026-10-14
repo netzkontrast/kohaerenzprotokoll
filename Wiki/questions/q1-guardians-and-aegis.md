@@ -614,3 +614,11 @@ Where it stands: a plan, recorded, not applied; the question stays open.
 It states the contradiction: „A contradiction exists as to whether AEGIS's Guardians are unswerving, monolithic enforcers or if they are subject to a“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L99] `Wächter-Zwiespalt`. It declares: „The canonical resolution is that the Guardians are not a monolith.“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L103]
 
 Where it stands in the record's own terms: a declaration, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-monster-plot-entwicklung`, 2025-04-23, the Monster plot blueprint
+
+**The Monster plot blueprint has the Guardians stationed in the Kernwelten, their loyalty crumbling in Akt II.**
+
+It writes: „Guardians, die in den Kernwelten stationiert sind, um die Experimente zu überwachen oder durchzuführen“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L181], and for Akt II: „Die Loyalität einiger Guardians beginnt zu bröckeln“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L210].
+
+Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
