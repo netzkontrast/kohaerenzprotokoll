@@ -1,0 +1,111 @@
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[reality-s-isomorphic-architecture-explained.md:#0]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[reality-s-isomorphic-architecture-explained.md:#0]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[reality-s-isomorphic-architecture-explained.md:#0]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Kohärenzprotokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenzprotokoll` ^[reality-s-isomorphic-architecture-explained.md:#1]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Isomorphism:"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Isomorphism:` ^[reality-s-isomorphic-architecture-explained.md:#4]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Mechanism:"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Mechanism:` ^[reality-s-isomorphic-architecture-explained.md:#3]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Section"
+whole word, case-sensitive     5
+whole word, case-insensitive   7
+including compounds            5
+
+`Section` ^[reality-s-isomorphic-architecture-explained.md:#5]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Phase"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`Phase` ^[reality-s-isomorphic-architecture-explained.md:#4]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Isomorphisms"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Isomorphisms` ^[reality-s-isomorphic-architecture-explained.md:#1]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Burdens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Burdens` ^[reality-s-isomorphic-architecture-explained.md:#1]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "MOCs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`MOCs` ^[reality-s-isomorphic-architecture-explained.md:#2]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Hyperreality"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hyperreality` ^[reality-s-isomorphic-architecture-explained.md:#2]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Self-Reflecting"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Self-Reflecting` ^[reality-s-isomorphic-architecture-explained.md:#3]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "self-harm"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`self-harm` ^[reality-s-isomorphic-architecture-explained.md:#1]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "EPR"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`EPR` ^[reality-s-isomorphic-architecture-explained.md:#4]
+$ python3 scripts/read.py reality-s-isomorphic-architecture-explained --count "Z-fighting"
+whole word, case-sensitive     4
+whole word, case-insensitive   9
+including compounds            4
+
+`Z-fighting` ^[reality-s-isomorphic-architecture-explained.md:#4]
+$ grep -c '?' Sources/drive/reality-s-isomorphic-architecture-explained.md
+6
+$ grep -n '?' Sources/drive/reality-s-isomorphic-architecture-explained.md | cut -c1-12
+141:How do t
+503:1.  Koh�
+504:2.  Zett
+505:3.  Self
+506:4.  Rech
+507:5.  Rech
+$ grep -o '\\' Sources/drive/reality-s-isomorphic-architecture-explained.md | wc -l
+123
+$ sed -n 447,454p Sources/drive/reality-s-isomorphic-architecture-explained.md | grep -o '\\' | wc -l
+120
+stance_marker_count 7 = Isomorphism: 4 + Mechanism: 3
+candidates: 62 (04-counts.txt header); zeros: 0

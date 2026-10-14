@@ -1,0 +1,14 @@
+# reality-s-isomorphic-architecture-explained
+  lines                508  (frontmatter ends at 9)
+  body words           4090
+  headings             48   bold-only lines 0
+  table rows           8   code fences 0
+  question marks       6
+  backslash escapes    121
+  typographic marks    24   ascii quotes 194
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    10
+  repeated labels      Mechanism x3
+  longest line         820 chars
+

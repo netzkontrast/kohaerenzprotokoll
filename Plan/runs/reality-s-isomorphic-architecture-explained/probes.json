@@ -1,0 +1,203 @@
+{
+  "document": "reality-s-isomorphic-architecture-explained",
+  "drive_id": "14vZGIMAl-fY_453ERPV209TL7eDH3B1YG1E-uMO-2Bc",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 10,
+  "backslash_escapes": 121,
+  "typographic_marks": 24,
+  "ascii_quotes": 194,
+  "inflection_families": {
+    "disso": [
+      "Dissociated",
+      "Dissociation",
+      "Dissolution",
+      "Dissonance"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychologically",
+      "Psychology"
+    ],
+    "inter": [
+      "Interface",
+      "Internal",
+      "Intervention"
+    ],
+    "isomo": [
+      "Isomorphic",
+      "Isomorphism",
+      "Isomorphisms"
+    ],
+    "prote": [
+      "Protection",
+      "Protector",
+      "Protectors"
+    ],
+    "artif": [
+      "Artifact",
+      "Artificial"
+    ],
+    "burde": [
+      "Burden",
+      "Burdens"
+    ],
+    "compa": [
+      "Compassion",
+      "Compassionate"
+    ],
+    "compl": [
+      "Complex",
+      "Complexity"
+    ],
+    "conne": [
+      "Connectedness",
+      "Connection"
+    ],
+    "corru": [
+      "Corrupted",
+      "Corruption"
+    ],
+    "criti": [
+      "Critic",
+      "Critics"
+    ],
+    "explo": [
+      "Explosion",
+      "Explosions"
+    ],
+    "failu": [
+      "Failure",
+      "Failures"
+    ],
+    "firef": [
+      "Firefighter",
+      "Firefighters"
+    ],
+    "flash": [
+      "Flashback",
+      "Flashbacks"
+    ],
+    "force": [
+      "Forceful",
+      "Forces"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragments"
+    ],
+    "funct": [
+      "Function",
+      "Functionality"
+    ],
+    "glitc": [
+      "Glitch",
+      "Glitches"
+    ],
+    "gravi": [
+      "Gravitational",
+      "Gravity"
+    ],
+    "group": [
+      "Group",
+      "Groups"
+    ],
+    "hyper": [
+      "Hyperreal",
+      "Hyperreality"
+    ],
+    "maint": [
+      "Maintaining",
+      "Maintenance"
+    ],
+    "manag": [
+      "Manager",
+      "Managers"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Even",
+      "Event"
+    ],
+    [
+      "Hole",
+      "Whole"
+    ],
+    [
+      "Hole",
+      "Wormhole"
+    ],
+    [
+      "Mind",
+      "Minds"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Plan",
+      "Planck"
+    ],
+    [
+      "Real",
+      "Reality"
+    ],
+    [
+      "Real",
+      "Hyperreal"
+    ],
+    [
+      "Real",
+      "Realities"
+    ],
+    [
+      "Real",
+      "Hyperreality"
+    ],
+    [
+      "Agent",
+      "Wissensagenten"
+    ],
+    [
+      "Brane",
+      "Membrane"
+    ],
+    [
+      "Group",
+      "Groups"
+    ],
+    [
+      "Group",
+      "Subgroups"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Burden",
+      "Burdens"
+    ],
+    [
+      "Burden",
+      "Unburdening"
+    ],
+    [
+      "Critic",
+      "Critics"
+    ],
+    [
+      "Glitch",
+      "Glitches"
+    ],
+    [
+      "Groups",
+      "Subgroups"
+    ]
+  ]
+}
