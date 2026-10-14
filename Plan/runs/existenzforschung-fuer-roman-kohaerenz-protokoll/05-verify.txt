@@ -1,0 +1,103 @@
+# 05-verify: numbers stated in census and note
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Kohärenz Protokolls"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokolls` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#2]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Kohärenz Protokoll"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            13
+
+`Kohärenz Protokoll` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#11]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Protokoll"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            18
+
+`Protokoll` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#15]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Protokolls"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Protokolls` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#3]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Kohärenz"
+whole word, case-sensitive     51
+whole word, case-insensitive   51
+including compounds            68
+
+`Kohärenz` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#51]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Glitch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Glitch` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#2]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Simulation"
+whole word, case-sensitive     18
+whole word, case-insensitive   19
+including compounds            30
+
+`Simulation` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#18]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#0]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#1]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Quellenangaben"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quellenangaben` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#1]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Tabelle 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tabelle 1` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#1]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#0]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#0]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#0]
+$ read.py existenzforschung-fuer-roman-kohaerenz-protokoll --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[existenzforschung-fuer-roman-kohaerenz-protokoll.md:#0]
+$ grep -c "^[0-9]*\\\\. " not applicable; reference count: last number in L385
+$ grep -o "[0-9]*\\. [A-Z(\\\\[]" L385 | tail -1
+ 78. 
+$ profile (01-profile.txt): longest line 11100; glued ref numbers 10; table rows 7; headings 39
+  glued ref numbers    10
+  longest line         11100 chars
+$ candidates: 83 (04-counts.txt header)
+# counts for 83 candidates
+Teil I..V headings: grep -c "^## \*\*Teil" ->
+5
+six open questions L374-379:
+6

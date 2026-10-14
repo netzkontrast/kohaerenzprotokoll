@@ -1,0 +1,587 @@
+{
+  "document": "existenzforschung-fuer-roman-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 82,
+  "decisions": 95,
+  "same_surface": {
+    "simulationshypothese": [
+      "Simulationshypothese",
+      "Simulations-Hypothese"
+    ]
+  },
+  "decided_mechanically": 65,
+  "needs_judgement": 30,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 83
+      },
+      {
+        "candidate": "Glitch",
+        "page": "risse",
+        "readings": 275
+      },
+      {
+        "candidate": "Glitches",
+        "page": "risse",
+        "readings": 275
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 148
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Basisrealität"
+      },
+      {
+        "candidate": "Trilemma"
+      },
+      {
+        "candidate": "Auslöschungs-Hypothese"
+      },
+      {
+        "candidate": "Desinteresse-Hypothese"
+      },
+      {
+        "candidate": "Kontinuum oder Diskretum"
+      },
+      {
+        "candidate": "Quantenverschränkung"
+      },
+      {
+        "candidate": "Korrespondenztheorie"
+      },
+      {
+        "candidate": "Konsistenzprinzip"
+      },
+      {
+        "candidate": "Master Objection"
+      },
+      {
+        "candidate": "Einwand der Isolation"
+      },
+      {
+        "candidate": "Metaphysik"
+      },
+      {
+        "candidate": "Ontologie"
+      },
+      {
+        "candidate": "Metaphysischer Realismus"
+      },
+      {
+        "candidate": "Anti-Realismus"
+      },
+      {
+        "candidate": "Idealismus"
+      },
+      {
+        "candidate": "Nominalismus"
+      },
+      {
+        "candidate": "Konstruktivismus"
+      },
+      {
+        "candidate": "phänomenalen Welt"
+      },
+      {
+        "candidate": "noumenalen Welt"
+      },
+      {
+        "candidate": "Raumzeit"
+      },
+      {
+        "candidate": "Spezielle Relativitätstheorie"
+      },
+      {
+        "candidate": "Allgemeine Relativitätstheorie"
+      },
+      {
+        "candidate": "Inflation"
+      },
+      {
+        "candidate": "Dunklen Energie"
+      },
+      {
+        "candidate": "Dunkle Energie"
+      },
+      {
+        "candidate": "Big Freeze"
+      },
+      {
+        "candidate": "Big Rip"
+      },
+      {
+        "candidate": "Big Crunch"
+      },
+      {
+        "candidate": "Big Bounce"
+      },
+      {
+        "candidate": "Superposition"
+      },
+      {
+        "candidate": "Kollaps der Wellenfunktion"
+      },
+      {
+        "candidate": "Schrödinger-Gleichung"
+      },
+      {
+        "candidate": "Heisenbergsche Unschärferelation"
+      },
+      {
+        "candidate": "Welle-Teilchen-Dualismus"
+      },
+      {
+        "candidate": "Quantisierung"
+      },
+      {
+        "candidate": "Beobachtereffekt"
+      },
+      {
+        "candidate": "Abiogenese"
+      },
+      {
+        "candidate": "RNA-Welt"
+      },
+      {
+        "candidate": "Ribozyme"
+      },
+      {
+        "candidate": "Panspermie-Hypothese"
+      },
+      {
+        "candidate": "Henne-Ei-Problem"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "schwierige Problem"
+      },
+      {
+        "candidate": "schwierigen Problem"
+      },
+      {
+        "candidate": "neuronalen Korrelaten"
+      },
+      {
+        "candidate": "NCC"
+      },
+      {
+        "candidate": "Bindungsproblem"
+      },
+      {
+        "candidate": "Default Mode Network"
+      },
+      {
+        "candidate": "It from Bit"
+      },
+      {
+        "candidate": "Qubits"
+      },
+      {
+        "candidate": "partizipatorisch"
+      },
+      {
+        "candidate": "Holographische Prinzip"
+      },
+      {
+        "candidate": "Ereignishorizont"
+      },
+      {
+        "candidate": "Panpsychismus"
+      },
+      {
+        "candidate": "Klassischer Realismus"
+      },
+      {
+        "candidate": "Quanten-Indeterminismus"
+      },
+      {
+        "candidate": "Informationaler Realismus"
+      },
+      {
+        "candidate": "Komputationalismus"
+      },
+      {
+        "candidate": "Wärmetod"
+      },
+      {
+        "candidate": "Zeitdilatation"
+      },
+      {
+        "candidate": "Längenkontraktion"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll  /  Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenz-vernichtenden",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  neuronale Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Quantenkohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Dekohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Dekohärenzzeit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenztheorie der Wahrheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenztheorie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenzprinzip",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Protokoll  /  genetischen Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Glitch  /  Glitches",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Simulation  /  Simulationshypothese",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Simulation  /  Simulationsargument",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dekohärenz  /  Dekohärenzzeit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenztheorie der Wahrheit  /  Kohärenztheorie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Urknalltheorie  /  Urknall",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Multiversums  /  Multiversum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "nullpunktprotokoll",
+            "page": "nullpunkt-protokoll"
+          },
+          {
+            "surface": "protokollv14",
+            "page": "protokoll-v14"
+          },
+          {
+            "surface": "trennungsprotokoll",
+            "page": "trennungsprotokoll"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-vernichtenden",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulationshypothese",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulationsargument",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "neuronale Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Quantenkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Dekohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Dekohärenzzeit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenztheorie der Wahrheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenztheorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenzprinzip",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 190,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 152,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

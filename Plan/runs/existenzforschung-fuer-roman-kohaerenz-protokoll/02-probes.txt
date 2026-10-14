@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      10
+  backslash escapes      87
+  typographic marks      247
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  quant    Quanten, Quantenberechnung, Quantenbits, Quantencomputer, Quantencomputern, Quantendekohärenz, Quanteneffekte, Quantenfelder, Quantenfeldtheorie, Quantenfluktuation, Quantengravitation, Quantenkohärenz, Quantenmechanik, Quantenobjekte, Quantenphysik, Quantenphysikalische, Quantenphänomen, Quantenpotentialität, Quantenrealität, Quantenreich, Quantenrevolution, Quantensprung, Quantensystem, Quantenverschränkung, Quantenwelle, Quantenwelt, Quantenzustand, Quantenzustände, Quantisierung, Quantum
+  simul    Simulation, Simulationen, Simulationismus, Simulations, Simulationsargument, Simulationshypothese, Simulationstheorie, Simulator, Simulatoren, Simulators
+  grund    Grund, Grundbausteine, Grundbegriff, Grundfesten, Grundkräfte, Grundlage, Grundlagen
+  infor    Information, Informationaler, Informationen, Informationsspeicherung, Informationsströme, Informationstheorie, Informationsverarbeitung
+  unive    Universalienproblem, Universe, Universen, University, Universität, Universum, Universums
+  wisse    Wissen, Wissens, Wissenschaft, Wissenschaften, Wissenschaftler, Wissenschaftliche, Wissenssystems
+  beoba    Beobachter, Beobachtereffekt, Beobachters, Beobachtung, Beobachtungen, Beobachtungsakte
+  bewus    Bewusstsein, Bewusstseinen, Bewusstseins, Bewusstseinszentrum, Bewusstseinszustand, Bewusstseinszustandes
+  neuro    Neuronale, Neuronales, Neuronen, Neuronenpopulationen, Neurowissenschaft, Neurowissenschaften
+  philo    Philosoph, Philosophen, Philosophie, Philosophische, Philosophischer, Philosophy
+  reali    Realismus, Realist, Realit, Reality, Realität, Realitäten
+  elekt    Elektrodynamik, Elektroenzephalographie, Elektromagnetismus, Elektron, Elektronen
+  energ    Energie, Energiedichte, Energieniveaus, Energiequelle, Energiequellen
+  exist    Existence, Existentialism, Existenz, Existieren, Existiert
+  kohär    Kohärenz, Kohärenzanalyse, Kohärenzprinzip, Kohärenzrahmens, Kohärenztheorie
+  korre    Korrelat, Korrelate, Korrelaten, Korrespondenzbeziehung, Korrespondenztheorie
+  mikro    Mikro, Mikrometern, Mikrowellenhintergrund, Mikrowellenhintergrundstrahlung, Mikrowelt
+  unter    Unterhaltung, Unterscheidung, Unterschied, Untersuchung, Untersuchungsgegenstände
+  compu    Computational, Computer, Computergestützte, Computersimulation
+  ereig    Ereignis, Ereignishorizont, Ereignisse, Ereignissen
+  forsc    Forscher, Forschung, Forschungsbereiche, Forschungsgebiete
+  frage    Frage, Fragen, Fragens, Fragestellungen
+  gegen    Gegensatz, Gegenstand, Gegenstände, Gegenständen
+  inter    Interaktion, Interaktionen, Interesse, Interferenz
+  konze    Konzentration, Konzept, Konzepte, Konzepten
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Parallele
+  Anti < Antike
+  Anti < Quantisierung
+  Anti < Antimaterieteilchen
+  Atom < Atome
+  Atom < Atomkernen
+  Auch < Raucher
+  Bild < Bildung
+  Bild < Weltbild
+  Bits < Qubits
+  Bits < Quantenbits
+  Blau < Blaupause
+  Book < Books
+  Code < Programmcodes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Ding < Dinge
+  Ding < Dingen
+  Ding < Bedingungen

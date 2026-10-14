@@ -1,0 +1,107 @@
+# counts for 83 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               11 word    13 in   [11, 15, 73, 102, 107, 174]
+  Kohärenz                         51 word    68 in   [11, 15, 71, 73, 75, 79]
+                                   13      as Kohärenztheorie
+                                    1      as Kohärenzprinzip
+                                    1      as Kohärenzrahmens
+                                    1      as Kohärenz-vernichtenden
+  Protokoll                        15 word    18 in   [11, 15, 73, 102, 107, 174]
+                                    3      as Protokolls
+  genetischen Protokoll             1 word     1 in   [227]
+  Kohärenz-vernichtenden            1 word     1 in   [188]
+  Basisrealität                     3 word     3 in   [338, 341, 368]
+  Glitch                            2 word     3 in   [109, 336, 356]
+                                    1      as Glitches
+  Glitches                          1 word     1 in   [336]
+  Simulation                       18 word    30 in   [69, 107, 318, 320, 322, 324]
+                                    2      as Simulationsargument
+                                    2      as Simulationshypothese
+                                    2      as Simulationen
+                                    1      as Simulationstheorie
+  Simulationshypothese              2 word     2 in   [320, 330]
+  Simulationsargument               2 word     2 in   [318, 320]
+  Trilemma                          1 word     1 in   [322]
+  Auslöschungs-Hypothese            1 word     1 in   [324]
+  Desinteresse-Hypothese            1 word     1 in   [325]
+  Simulations-Hypothese             1 word     1 in   [326]
+  Kontinuum oder Diskretum          1 word     1 in   [374]
+  neuronale Kohärenz                3 word     3 in   [268, 353]
+  Quantenkohärenz                   7 word     7 in   [172, 174, 352, 385]
+  Dekohärenz                        9 word    11 in   [178, 180, 182, 186, 188, 268]
+                                    1      as Dekohärenzzeit
+  Dekohärenzzeit                    1 word     1 in   [186]
+  Quantenverschränkung              1 word     1 in   [176]
+  Kohärenztheorie der Wahrheit      4 word     4 in   [75, 79, 341, 351]
+  Kohärenztheorie                  13 word    13 in   [75, 79, 86, 90, 96, 102]
+  Korrespondenztheorie              1 word     1 in   [77]
+  Konsistenzprinzip                 1 word     1 in   [83]
+  Kohärenzprinzip                   1 word     1 in   [84]
+  Master Objection                  1 word     1 in   [96]
+  Einwand der Isolation             1 word     1 in   [96]
+  Metaphysik                       20 word    20 in   [17, 19, 23, 25, 31, 33]
+                                    1      as metaphysik-und-ontologie-boreas-de-m-l-saage
+  Ontologie                         6 word     6 in   [17, 31, 385]
+  Metaphysischer Realismus          1 word     1 in   [53]
+  Anti-Realismus                    5 word     5 in   [49, 51, 61, 63, 298]
+  Idealismus                        1 word     1 in   [63]
+  Nominalismus                      1 word     1 in   [64]
+  Konstruktivismus                  1 word     1 in   [65]
+  phänomenalen Welt                 1 word     1 in   [67]
+  noumenalen Welt                   1 word     1 in   [67]
+  Raumzeit                         11 word    11 in   [115, 117, 119, 129, 131, 135]
+  Spezielle Relativitätstheorie     2 word     2 in   [121, 385]
+  Allgemeine Relativitätstheorie    3 word     3 in   [131, 296, 385]
+  Urknalltheorie                    1 word     1 in   [135]
+  Urknall                          13 word    16 in   [133, 135, 139, 141, 143, 146]
+                                    1      as Urknalltheorie
+                                    1      as Urknalls
+  Inflation                         3 word     3 in   [141, 142]
+                                    1      as inflationäre
+  Dunklen Energie                   4 word     4 in   [150, 153, 156]
+  Dunkle Energie                    3 word     3 in   [152, 154, 156]
+  Big Freeze                        1 word     1 in   [152]
+  Big Rip                           1 word     1 in   [153]
+  Big Crunch                        3 word     3 in   [154, 385]
+  Big Bounce                        1 word     1 in   [154]
+  Multiversums                      1 word     1 in   [146]
+  Multiversum                       2 word     3 in   [146, 328, 375]
+                                    1      as Multiversums
+  Superposition                    10 word    10 in   [168, 169, 174, 180, 184, 186]
+  Kollaps der Wellenfunktion        3 word     3 in   [169, 316, 366]
+  Schrödinger-Gleichung             3 word     3 in   [174, 312, 366]
+  Heisenbergsche Unschärferelation    1 word     1 in   [170]
+  Welle-Teilchen-Dualismus          1 word     1 in   [167]
+  Quantisierung                     2 word     2 in   [166, 336]
+  Beobachtereffekt                  1 word     1 in   [169]
+  Abiogenese                        7 word     8 in   [194, 198, 200, 202, 385]
+                                    1      as Abiogenese-Forschung
+  RNA-Welt                          5 word     7 in   [194, 206, 208, 215, 385]
+                                    2      as RNA-Welt-Hypothese
+  Ribozyme                          2 word     2 in   [213, 215]
+  Panspermie-Hypothese              1 word     1 in   [225]
+  Henne-Ei-Problem                  2 word     2 in   [204, 215]
+  Qualia                            1 word     1 in   [246]
+  schwierige Problem                3 word     3 in   [233, 246, 377]
+  schwierigen Problem               1 word     1 in   [235]
+  neuronalen Korrelaten             2 word     2 in   [248, 250]
+  NCC                               3 word     4 in   [248, 250, 260]
+  Bindungsproblem                   1 word     1 in   [264]
+  Default Mode Network              1 word     1 in   [257]
+  It from Bit                       5 word     5 in   [278, 280, 306, 367, 385]
+  Qubits                            4 word     4 in   [174, 310, 312, 314]
+  partizipatorisch                  1 word     1 in   [284]
+                                    1      as Partizipatorischer
+  Holographische Prinzip            4 word     4 in   [286, 288, 292, 296]
+  Ereignishorizont                  1 word     1 in   [290]
+  Panpsychismus                     1 word     1 in   [377]
+  Klassischer Realismus             1 word     1 in   [365]
+  Quanten-Indeterminismus           1 word     1 in   [366]
+  Informationaler Realismus         1 word     1 in   [367]
+  Komputationalismus                1 word     1 in   [368]
+  Wärmetod                          2 word     2 in   [152]
+  Zeitdilatation                    1 word     1 in   [125]
+  Längenkontraktion                 1 word     1 in   [126]
