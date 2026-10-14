@@ -502,10 +502,18 @@
         "roman-kapitel-1-erstellung-analyse",
         "roman-entwicklung-ontologie-trauma-horror",
         "genesis-recherche-anleitung-umsetzung",
-        "ontologie-des-gelesenen-traumas"
+        "ontologie-des-gelesenen-traumas",
+        "aegis-protokolle-kritische-evaluation-neukonzeption",
+        "monstergruppe-aegis-und-narrative-moeglichkeiten",
+        "narrative-vertiefung-kohaerenz-protokoll",
+        "genesis-krise-aegis-prosa-auftrag",
+        "aegis-genesis-krise-prosa-auftrag-formulieren",
+        "kohaerenz-protokoll-agentive-narrative",
+        "kohaerenz-protokoll-narrative-architekturanalyse",
+        "aegis-logik-und-narrative-implikationen"
       ],
-      "sources": 398,
-      "readings": 398,
+      "sources": 406,
+      "readings": 406,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -940,10 +948,12 @@
         "plot-blueprint-methodik-kohaerenz-protokoll",
         "plot-exploration-kohaerenz-protokollkonzepte",
         "roman-kapitel-1-erstellung-analyse",
-        "roman-entwicklung-ontologie-trauma-horror"
+        "roman-entwicklung-ontologie-trauma-horror",
+        "narrative-vertiefung-kohaerenz-protokoll",
+        "aegis-logik-und-narrative-implikationen"
       ],
-      "sources": 186,
-      "readings": 186,
+      "sources": 188,
+      "readings": 188,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1563,10 +1573,13 @@
         "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
         "plot-exploration-kohaerenz-protokollkonzepte",
         "roman-kapitel-1-erstellung-analyse",
-        "roman-entwicklung-ontologie-trauma-horror"
+        "roman-entwicklung-ontologie-trauma-horror",
+        "narrative-vertiefung-kohaerenz-protokoll",
+        "genesis-krise-aegis-prosa-auftrag",
+        "aegis-genesis-krise-prosa-auftrag-formulieren"
       ],
-      "sources": 106,
-      "readings": 106,
+      "sources": 109,
+      "readings": 109,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1812,10 +1825,12 @@
         "juna",
         "narrative-physik-attraktoren-leserbewusstsein",
         "dkt-fundament-kohaerenz-protokoll-md",
-        "plot-exploration-kohaerenz-protokollkonzepte"
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "genesis-krise-aegis-prosa-auftrag",
+        "aegis-genesis-krise-prosa-auftrag-formulieren"
       ],
-      "sources": 103,
-      "readings": 103,
+      "sources": 105,
+      "readings": 105,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -2042,10 +2057,12 @@
         "narrative-physik-attraktoren-leserbewusstsein",
         "dkt-fundament-kohaerenz-protokoll-md",
         "plot-blueprint-methodik-kohaerenz-protokoll",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "aegis-protokolle-kritische-evaluation-neukonzeption",
+        "kohaerenz-protokoll-narrative-architekturanalyse"
       ],
-      "sources": 175,
-      "readings": 175,
+      "sources": 177,
+      "readings": 177,
       "conflict": "C2"
     },
     "erason": {
@@ -2380,10 +2397,11 @@
         "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
         "roman-kapitel-1-erstellung-analyse",
         "genesis-recherche-anleitung-umsetzung",
-        "ontologie-des-gelesenen-traumas"
+        "ontologie-des-gelesenen-traumas",
+        "genesis-krise-aegis-prosa-auftrag"
       ],
-      "sources": 121,
-      "readings": 121,
+      "sources": 122,
+      "readings": 122,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -2776,10 +2794,11 @@
         "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
         "plot-blueprint-methodik-kohaerenz-protokoll",
         "plot-exploration-kohaerenz-protokollkonzepte",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "kohaerenz-protokoll-narrative-architekturanalyse"
       ],
-      "sources": 177,
-      "readings": 177,
+      "sources": 178,
+      "readings": 178,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -3265,10 +3284,15 @@
         "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
         "plot-exploration-kohaerenz-protokollkonzepte",
         "roman-kapitel-1-erstellung-analyse",
-        "roman-entwicklung-ontologie-trauma-horror"
+        "roman-entwicklung-ontologie-trauma-horror",
+        "monstergruppe-aegis-und-narrative-moeglichkeiten",
+        "narrative-vertiefung-kohaerenz-protokoll",
+        "kohaerenz-protokoll-agentive-narrative",
+        "kohaerenz-protokoll-narrative-architekturanalyse",
+        "aegis-logik-und-narrative-implikationen"
       ],
-      "sources": 337,
-      "readings": 337,
+      "sources": 342,
+      "readings": 342,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -3723,10 +3747,17 @@
         "plot-blueprint-methodik-kohaerenz-protokoll",
         "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
         "plot-exploration-kohaerenz-protokollkonzepte",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "monstergruppe-aegis-und-narrative-moeglichkeiten",
+        "narrative-vertiefung-kohaerenz-protokoll",
+        "genesis-krise-aegis-prosa-auftrag",
+        "aegis-genesis-krise-prosa-auftrag-formulieren",
+        "kohaerenz-protokoll-agentive-narrative",
+        "kohaerenz-protokoll-narrative-architekturanalyse",
+        "aegis-logik-und-narrative-implikationen"
       ],
-      "sources": 384,
-      "readings": 385,
+      "sources": 391,
+      "readings": 392,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -4136,10 +4167,15 @@
         "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
         "report-the-transcendent-architecture-of-the-kohaerenz-protok",
         "plot-blueprint-methodik-kohaerenz-protokoll",
-        "plot-exploration-kohaerenz-protokollkonzepte"
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "monstergruppe-aegis-und-narrative-moeglichkeiten",
+        "narrative-vertiefung-kohaerenz-protokoll",
+        "aegis-genesis-krise-prosa-auftrag-formulieren",
+        "kohaerenz-protokoll-narrative-architekturanalyse",
+        "aegis-logik-und-narrative-implikationen"
       ],
-      "sources": 263,
-      "readings": 262,
+      "sources": 268,
+      "readings": 267,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -4332,10 +4368,11 @@
         "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
         "operationalizing-the-coherence-protocol-a-narrative-stress-t",
         "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
-        "the-minds-behind-the-machine-a-psychological-guide-to-system"
+        "the-minds-behind-the-machine-a-psychological-guide-to-system",
+        "kohaerenz-protokoll-narrative-architekturanalyse"
       ],
-      "sources": 184,
-      "readings": 185,
+      "sources": 185,
+      "readings": 186,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -4552,10 +4589,12 @@
         "roman-outline-kohaerenz-protokoll-strategie",
         "analyse-der-leere-und-existenz",
         "monstergruppe-babygruppe-und-kael",
-        "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung"
+        "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
+        "aegis-protokolle-kritische-evaluation-neukonzeption",
+        "kohaerenz-protokoll-narrative-architekturanalyse"
       ],
-      "sources": 81,
-      "readings": 81,
+      "sources": 83,
+      "readings": 83,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -5109,10 +5148,11 @@
         "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
         "operationalizing-the-coherence-protocol-a-narrative-stress-t",
         "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
-        "the-minds-behind-the-machine-a-psychological-guide-to-system"
+        "the-minds-behind-the-machine-a-psychological-guide-to-system",
+        "kohaerenz-protokoll-narrative-architekturanalyse"
       ],
-      "sources": 199,
-      "readings": 200,
+      "sources": 200,
+      "readings": 201,
       "conflict": "none"
     },
     "lia": {
@@ -5803,10 +5843,11 @@
         "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
         "report-reorienting-the-central-conflict-as-a-call-to-wholene",
         "report-the-transcendent-architecture-of-the-kohaerenz-protok",
-        "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent"
+        "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+        "narrative-vertiefung-kohaerenz-protokoll"
       ],
-      "sources": 189,
-      "readings": 189,
+      "sources": 190,
+      "readings": 190,
       "conflict": "none"
     },
     "moros": {
@@ -6175,10 +6216,12 @@
         "narrative-physik-attraktoren-leserbewusstsein",
         "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
         "plot-blueprint-methodik-kohaerenz-protokoll",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "kohaerenz-protokoll-narrative-architekturanalyse",
+        "aegis-logik-und-narrative-implikationen"
       ],
-      "sources": 170,
-      "readings": 170,
+      "sources": 172,
+      "readings": 172,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -6220,10 +6263,11 @@
         "konzept-expose-schwarzschild-protokoll-optimierung",
         "narrative-entropie-existenzielle-bedrohung-des-romans",
         "narrative-physik-attraktoren-leserbewusstsein",
-        "plot-blueprint-methodik-kohaerenz-protokoll"
+        "plot-blueprint-methodik-kohaerenz-protokoll",
+        "aegis-protokolle-kritische-evaluation-neukonzeption"
       ],
-      "sources": 33,
-      "readings": 32,
+      "sources": 34,
+      "readings": 33,
       "conflict": "none yet"
     },
     "nexus": {
@@ -6435,10 +6479,12 @@
         "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
         "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
         "roman-kapitel-1-erstellung-analyse",
-        "ontologie-des-gelesenen-traumas"
+        "ontologie-des-gelesenen-traumas",
+        "genesis-krise-aegis-prosa-auftrag",
+        "aegis-genesis-krise-prosa-auftrag-formulieren"
       ],
-      "sources": 150,
-      "readings": 150,
+      "sources": 152,
+      "readings": 152,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -6802,10 +6848,11 @@
         "welten",
         "monstergruppe-babygruppe-und-kael",
         "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "monstergruppe-aegis-und-narrative-moeglichkeiten"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "none"
     },
     "persistenzgleichung": {
@@ -6995,10 +7042,12 @@
         "concept-document-the-nature-of-the-foundation-juna-v-and-the",
         "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
         "report-the-transcendent-architecture-of-the-kohaerenz-protok",
-        "plot-exploration-kohaerenz-protokollkonzepte"
+        "plot-exploration-kohaerenz-protokollkonzepte",
+        "narrative-vertiefung-kohaerenz-protokoll",
+        "aegis-genesis-krise-prosa-auftrag-formulieren"
       ],
-      "sources": 119,
-      "readings": 120,
+      "sources": 121,
+      "readings": 122,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -7060,10 +7109,12 @@
         "orte-konzept-fuer-kohaerenz-protokoll",
         "kohaerenz-protokoll-finale-pfeiler",
         "blueprint",
-        "roman-konzeptentwicklung-kohaerenz-protokoll"
+        "roman-konzeptentwicklung-kohaerenz-protokoll",
+        "monstergruppe-aegis-und-narrative-moeglichkeiten",
+        "kohaerenz-protokoll-agentive-narrative"
       ],
-      "sources": 36,
-      "readings": 36,
+      "sources": 38,
+      "readings": 38,
       "conflict": "none"
     },
     "residual-echos": {
@@ -7301,10 +7352,11 @@
         "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
         "canonical-narrative-architecture-for-kohaerenz-protokoll",
         "an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe",
-        "operationalizing-the-coherence-protocol-a-narrative-stress-t"
+        "operationalizing-the-coherence-protocol-a-narrative-stress-t",
+        "kohaerenz-protokoll-narrative-architekturanalyse"
       ],
-      "sources": 133,
-      "readings": 133,
+      "sources": 134,
+      "readings": 134,
       "conflict": "none"
     },
     "risse": {
@@ -7587,10 +7639,13 @@
         "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
         "plot-blueprint-methodik-kohaerenz-protokoll",
         "plot-exploration-kohaerenz-protokollkonzepte",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "narrative-vertiefung-kohaerenz-protokoll",
+        "kohaerenz-protokoll-narrative-architekturanalyse",
+        "aegis-logik-und-narrative-implikationen"
       ],
-      "sources": 272,
-      "readings": 272,
+      "sources": 275,
+      "readings": 275,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -7977,10 +8032,11 @@
         "romanentwurf-kohaerenz-protokoll-teil-1",
         "roman-synthese-mit-dual-kernel-theorie",
         "orte-konzept-fuer-kohaerenz-protokoll",
-        "dramaturgical-precision-deconstructing-the-irreversible-conf"
+        "dramaturgical-precision-deconstructing-the-irreversible-conf",
+        "narrative-vertiefung-kohaerenz-protokoll"
       ],
-      "sources": 76,
-      "readings": 76,
+      "sources": 77,
+      "readings": 77,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -8416,10 +8472,12 @@
         "managing-ontological-risk-defining-the-narrative-integration",
         "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
-        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md"
+        "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+        "genesis-krise-aegis-prosa-auftrag",
+        "aegis-genesis-krise-prosa-auftrag-formulieren"
       ],
-      "sources": 212,
-      "readings": 212,
+      "sources": 214,
+      "readings": 214,
       "conflict": "none yet"
     },
     "ueberraum": {

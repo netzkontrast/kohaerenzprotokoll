@@ -1,0 +1,147 @@
+{
+  "document": "aegis-logik-und-narrative-implikationen",
+  "drive_id": "1UY7UiLgZscJLyFvfcPJj4vZVz_yulcWmICeYJCkv7LI",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and the Q8 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-515/brief.md, 2026-10-14; first held by the privacy screen on the word foreshadow in reference titles and a URL, released on re-screening",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 55,
+    "decisions": 57,
+    "decided_by_lookup": 46,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analysis of AEGIS as a closed formal system against Kael's integrated multiplicity: its new surfaces are borrowed concepts (several named after people); what it reads and proposes for AEGIS, Kael, Juna, multiplicity, the alters, the Kernwelten and the Risse went on existing pages, and the ending's two forks on Q8.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        40,
+        44,
+        52,
+        70,
+        174,
+        192,
+        200,
+        202,
+        203
+      ],
+      "attribution": "",
+      "note": "AEGIS as a closed, self-observing system whose directive cannot be met, with two proposed endings"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        100
+      ],
+      "attribution": "",
+      "note": "Alters as the parts of the system"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        70,
+        144,
+        146
+      ],
+      "attribution": "",
+      "note": "the Juna/V connection as a transcendent entity outside AEGIS's frame"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        58,
+        100,
+        102,
+        104,
+        176,
+        192
+      ],
+      "attribution": "",
+      "note": "Kael's arc as integration against AEGIS's fragmentation"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        124
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as manifestations of the conflict"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        100,
+        176
+      ],
+      "attribution": "",
+      "note": "funktionale Multiplizität as co-consciousness of the parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        58,
+        124
+      ],
+      "attribution": "",
+      "note": "the Risse as evidence of failing logic"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` and `Juna/V-Verbindung` read on juna; the paradox and `globale Kohärenz` read on aegis; a real author's given name in a reference entry an occurrence, not the novel's Alex; the page whose term carries a person's name gets no reading; names of people never written",
+  "sweep": [
+    {
+      "page": "alex",
+      "surface": "Alex",
+      "line": 286,
+      "decision": "occurrence",
+      "why": "a real author's given name in a reference entry"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 88,
+      "decision": "occurrence",
+      "why": "a general use"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 70,
+      "decision": "reading",
+      "why": "the Juna/V connection; read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "Paradoxon X, Specification Gaming, the frame problem, Systemverantwortung, Algorithmic Horror, Environmental Storytelling, the verification protocols RTSV and BPoF, Pfad A/B, and the concepts named after people"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

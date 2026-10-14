@@ -1,0 +1,135 @@
+$ read.py aegis-logik-und-narrative-implikationen --count "Dieser Bericht"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dieser Bericht` ^[aegis-logik-und-narrative-implikationen.md:#1]
+$ read.py aegis-logik-und-narrative-implikationen --count "Dieser Teil"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Dieser Teil` ^[aegis-logik-und-narrative-implikationen.md:#4]
+$ read.py aegis-logik-und-narrative-implikationen --count "Pfad A"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Pfad A` ^[aegis-logik-und-narrative-implikationen.md:#1]
+$ read.py aegis-logik-und-narrative-implikationen --count "Pfad B"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Pfad B` ^[aegis-logik-und-narrative-implikationen.md:#1]
+$ read.py aegis-logik-und-narrative-implikationen --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[aegis-logik-und-narrative-implikationen.md:#0]
+$ read.py aegis-logik-und-narrative-implikationen --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[aegis-logik-und-narrative-implikationen.md:#0]
+$ read.py aegis-logik-und-narrative-implikationen --count "AEGIS"
+whole word, case-sensitive     53
+whole word, case-insensitive   53
+including compounds            53
+
+`AEGIS` ^[aegis-logik-und-narrative-implikationen.md:#53]
+$ read.py aegis-logik-und-narrative-implikationen --count "Kael"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            39
+
+`Kael` ^[aegis-logik-und-narrative-implikationen.md:#18]
+$ read.py aegis-logik-und-narrative-implikationen --count "Kaels"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Kaels` ^[aegis-logik-und-narrative-implikationen.md:#21]
+$ read.py aegis-logik-und-narrative-implikationen --count "Juna/V"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`Juna/V` ^[aegis-logik-und-narrative-implikationen.md:#3]
+$ read.py aegis-logik-und-narrative-implikationen --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[aegis-logik-und-narrative-implikationen.md:#2]
+$ read.py aegis-logik-und-narrative-implikationen --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Risse` ^[aegis-logik-und-narrative-implikationen.md:#2]
+$ read.py aegis-logik-und-narrative-implikationen --count "Das Fundament"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Das Fundament` ^[aegis-logik-und-narrative-implikationen.md:#4]
+$ read.py aegis-logik-und-narrative-implikationen --count "DIS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`DIS` ^[aegis-logik-und-narrative-implikationen.md:#2]
+$ read.py aegis-logik-und-narrative-implikationen --count "Anteilen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Anteilen` ^[aegis-logik-und-narrative-implikationen.md:#3]
+$ read.py aegis-logik-und-narrative-implikationen --count "RTSV"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`RTSV` ^[aegis-logik-und-narrative-implikationen.md:#1]
+$ read.py aegis-logik-und-narrative-implikationen --count "BPoF"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`BPoF` ^[aegis-logik-und-narrative-implikationen.md:#1]
+$ read.py aegis-logik-und-narrative-implikationen --count "Zugriff"
+whole word, case-sensitive     72
+whole word, case-insensitive   72
+including compounds            72
+
+`Zugriff` ^[aegis-logik-und-narrative-implikationen.md:#72]
+$ read.py aegis-logik-und-narrative-implikationen --count "Paradoxon X"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paradoxon X` ^[aegis-logik-und-narrative-implikationen.md:#1]
+$ read.py aegis-logik-und-narrative-implikationen --count "funktionale Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`funktionale Multiplizität` ^[aegis-logik-und-narrative-implikationen.md:#1]
+$ grep -c "^[0-9]*\.  " reference lines
+72
+$ profile (52 escapes, 78 glued refs)
+# aegis-logik-und-narrative-implikationen
+  lines                315  (frontmatter ends at 9)
+  body words           4909
+  headings             22   bold-only lines 0
+  table rows           9   code fences 0
+  question marks       13
+  backslash escapes    52
+  typographic marks    146   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    78
+  repeated labels      none
