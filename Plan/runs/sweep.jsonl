@@ -1587,3 +1587,6 @@
 {"document": "ki-rolle-aegis-genesis-fragestellungen", "page": "ueberwelt", "surface": "Simulation", "line": 24, "decision": "occurrence", "why": "the prompt's simulation of a state of consciousness, not the Überwelt", "at": "2026-10-14"}
 {"document": "kohaerenz-direktive-narratives-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the directive's title", "at": "2026-10-14"}
 {"document": "kohaerenz-direktive-narratives-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 17, "decision": "occurrence", "why": "the simulation the story is set in, not the Überwelt", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-monster-plot-entwicklung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-monster-plot-entwicklung", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 69, "decision": "occurrence", "why": "a level of reality in a general sense, not the named Realitätsebenen", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-monster-plot-entwicklung", "page": "ueberwelt", "surface": "Simulation", "line": 29, "decision": "occurrence", "why": "one of AEGIS's methods, not the Überwelt", "at": "2026-10-14"}

@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-monster-plot-entwicklung
+  lines                300  (frontmatter ends at 9)
+  body words           9390
+  headings             32   bold-only lines 0
+  table rows           25   code fences 0
+  question marks       5
+  backslash escapes    115
+  typographic marks    78   ascii quotes 86
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    17
+  repeated labels      none
+  longest line         8523 chars
+
