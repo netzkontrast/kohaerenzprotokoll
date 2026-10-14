@@ -861,3 +861,11 @@ Stands as a plan placing one guardian in one world; recorded, not applied.
 The character list names „Kernwelt-Guardians: KI-Instanzen oder Manifestationen“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L73] as „Architekt, Netzweber, Chaos-Regulator, Möglichkeits-Weber“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L73], and the world lines pair them to `Co₁`, `McL`, `B` and `Ly` in that order.
 
 Stands as a plan placing four Guardians in four focus worlds; recorded, not applied.
+
+## 2026-10-14 — `concept-document-the-nature-of-the-foundation-juna-v-and-the`, 2025-10-15, the Foundation concept document
+
+**The Foundation concept document names the four Kernwelten Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis; recorded, not resolved.**
+
+The table names `Logos-Prime` with „Formal Logic, Order, Control“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L54], `Mnemosyne-Archipel` with „Trauma-Time, Memory & Subjectivity“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L55], `Cerberus-Labyrinth` with „Defense, Paranoia & Dissociative Barriers“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L56] and `Kairos-Potentialis` with „Emergence, Potential, Transcendence“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L57]. Here the names stand for worlds.
+
+Where it stands in the record's own terms: the four names as Kernwelten in a concept document; recorded, not resolved.
