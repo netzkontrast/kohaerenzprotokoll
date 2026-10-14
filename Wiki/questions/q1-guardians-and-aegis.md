@@ -638,3 +638,11 @@ Stands as a conditional proposal of Guardians as AEGIS's analysis instances; rec
 The Phase 1 cell of the plot-event row has the meeting with the Guardians, the word standing in the blueprint's own quotation marks, as agents of control (L287), beside AEGIS's attempt in Phase 2 to close the Risse: „Konflikte entstehen aus AEGIS' Versuch“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L287].
 
 Where it stands in the record's own terms: a hedged table proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-themenanalyse-und-anreicheru`, 2025-04-28, the theme enrichment report
+
+**The theme enrichment report suggests the Guardians could represent facets of the system or ethical stances within it.**
+
+It writes that they „Könnten verschiedene Facetten des Systems repräsentieren – rigide Kontrolleure, Agenten, die die Logik hinterfragen, oder solche, die emergentes Verhalten zeigen.“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L132] (L132) and, in the ethics block, „Könnten verschiedene ethische Haltungen im System repräsentieren“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L234] (L234).
+
+Where it stands in the record's own terms: conditional suggestions, recorded, not applied; the question stays open.
