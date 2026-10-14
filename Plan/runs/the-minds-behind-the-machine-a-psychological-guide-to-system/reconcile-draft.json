@@ -1,0 +1,152 @@
+{
+  "document": "the-minds-behind-the-machine-a-psychological-guide-to-system",
+  "drive_id": "1LArbWnlvfJ9hgoVB5gCW4ujXYQ1l80Opnw2OhY5wiwQ",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 56,
+    "decisions": 56,
+    "decided_by_lookup": 44,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        23,
+        52
+      ],
+      "attribution": "",
+      "note": "AEGIS as the hyper-logical antagonist, set against the internal journey"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Alex as the proactive protector among the apparently normal parts"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "Algorithmische Melancholie as the cognitive shutdown of AEGIS"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        19,
+        48
+      ],
+      "attribution": "",
+      "note": "alters as the parts of one fragmented individual, and the aim of functional multiplicity"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        31,
+        43,
+        44,
+        48,
+        52
+      ],
+      "attribution": "",
+      "note": "Kael as the host part, and the arc toward functional multiplicity"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        31,
+        37
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part holding the earliest terror, and its transformation"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "Coherence mapped onto the parts of daily life"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "Collapse mapped onto the trauma-holding parts"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Lex as the rationalist who mirrors AEGIS on a small scale"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Moros as the persecutor part, whose integration is the hardest task"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        31,
+        37,
+        43
+      ],
+      "attribution": "",
+      "note": "Nyx as the fighter part and a protector forced into an extreme role"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        23,
+        27,
+        56
+      ],
+      "attribution": "",
+      "note": "TSDP as the diagnostic framework of fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
