@@ -1,0 +1,84 @@
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Narrative Anchor"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Narrative Anchor` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#2]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Das Fundament"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Das Fundament` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#14]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Gnosis"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Gnosis` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#10]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Episteme"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`Episteme` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#4]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "episteme"
+whole word, case-sensitive     2
+whole word, case-insensitive   6
+including compounds            2
+
+`episteme` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#2]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#1]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Paraiyas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paraiyas` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#1]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Deus ex Machina"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Deus ex Machina` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#3]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Potentialmeer"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Potentialmeer` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#2]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Juna/V"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Juna/V` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#8]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "Juna/V-Verbindung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna/V-Verbindung` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#1]
+$ read.py report-the-transcendent-architecture-of-the-kohaerenz-protok --count "The source documents"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The source documents` ^[report-the-transcendent-architecture-of-the-kohaerenz-protok.md:#1]
+$ grep -n backslash lines
+27:| \*\
+28:| \*\
+29:| \*\
+66:| \*\
+67:| \*\
+68:| \*\
+$ profile
+  lines                85  (frontmatter ends at 0)
+  headings             13   bold-only lines 0
+  backslash escapes    64
+  math symbol lines    0
