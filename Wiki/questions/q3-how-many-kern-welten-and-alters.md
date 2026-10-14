@@ -1422,3 +1422,11 @@ Stands: one more position on the number of alters, a declaration of the masterfi
 The four: „KW1: Logik, KW2: Emotion/Paralogik, KW3: Angst/Sicherheit, KW4: Potential“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L27] (L27). The chapters plan KW1 („transferiert Kael in die Kernwelt 1 (KW1)“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91], L91), KW2 („Kael betritt KW2“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L98], L98) and KW3 („vielleicht in KW3: Angst/Sicherheit“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L113], L113).
 
 Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand.
+
+## 2026-10-14 — `kohaerenz-protokoll-roman-ausarbeitung`, 2025-04-27, the elaboration report
+
+**The elaboration report counts twenty Kernwelten, four in focus, and gives no count of alters.**
+
+The count: „Jeder der 20 (fokussiert auf 4) Kernwelten“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L268] (L268). The other worlds are to be hinted at: „sollte subtil angedeutet werden“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L247] (L247), including „einer von zwanzig Realitäts-Caches“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L252] (L252).
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand.
